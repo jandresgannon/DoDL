@@ -1,0 +1,157 @@
+FILE: cm325710v11.0.txt
+DYAD: ITALY - CHINA
+RIVALRY: RIV871
+DISPUTE(S): MID220 
+RIVALRY: RIV872
+DISPUTE(S): MID511 MID31 
+RIVALRY: RIV873
+DISPUTE(S): MID2208 MID145 
+
+PSNOTES: 
+PS-LAST-CHANGED: 20180909 
+PS-LAST-CHECKED: 20180909
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID220 MID511 
+
+WWII MIDs: MID258
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm002710 narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2208 
+
+TERRMID: MID2208 3 -- not territory 
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 3 -- not third party link to territory 
+TERRLINK-CER: MID2208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain 
+MARITMID-NOTES: MID2208 from cm002710 narrative, the Great Powers (Germany, Japan, France, UK, US, Italy, Russia) demanded that China remove mines it had placed in the Dagu Harbor, as that harbor provided access to a major Chinese river. Those countries jointly threatened China, triggering this MID. China exchanged naval fire with Japan as part of this incident. Coded not maritime because the maritime boundary was not disputed between China and Italy. 
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2208 3 -- not civil war link 
+CIVWARLINK-CER: MID2208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+MID145 
+
+TERRMID: MID145 3 -- not territory 
+TERRMID-CER: MID145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID145 3 -- not third party link to territory 
+TERRLINK-CER: MID145 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID145 3 -- not maritime 
+MARITMID-CER: MID145 1 -- certain 
+MARITMID-NOTES: MID145 involved naval shelling, but was not connected to any maritime claims. See CIVWARMID. 
+
+ISLMID: MID145 3 -- not islands 
+ISLMID-CER: MID145 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID145 1 -- civil war MID
+CIVWARMID-CER: MID145 1 -- certain 
+CIVWARMID-NOTES: MID145 from cm002710 narrative, this is a naval incident involving US, UK, France, Spain, Portugal, Italy, and Japan vs. China that occurred February and March 1927. China had been divided along Communist and KMT (led by Chiang Kai-Shek, an anti-communist) fighting for years, which would continue until 1949 as the Chinese Civil War. This MID occurred when fighting broke out in Shanghai and Nanking, causing western naval and ground forces to be increased at those locations, and some shelling of Chinese territory occurred to protect western interests. Coded civil war MID because militarized factions in China broke out into fighting, threatening western interests and causing those countries to threaten and use force against China, triggering this MID. 
+
+CIVWARLINK: MID145 3 -- not civil war link 
+CIVWARLINK-CER: MID145 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID145 3 -- not coup 
+COUPMID-CER: MID145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID145 3 -- not coup link
+COUPLINK-CER: MID145 1 -- certain 
+COUPLINK-NOTES:
+
+RIVNOTES: 
+RIV873: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+On March 9, 1926, Chinese Nationalist forces fired on foreign shipping in Taku (Dagu) harbor. On March 13, 1926, two Japanese destroyers were fired upon and mines were disbursed in the harbor. The United States, France, Italy, Japan, and The United Kingdom reacted by sending additional naval forces to the region. A joint note was sent by this group of states demanding the restoration of free movement through the harbor on March 16, 1926. The Chinese Nationalist forces agreed to comply with the note's demands on March 18, 1926. In response to anti-foreign rioting which began on Jan 4, 1927, and led to the seizure of a British merchant vessel by Chinese nationals, the United States, France, Italy, Japan, and the United Kingdom deployed military forces to the region. The situation was diffused in late March by a coalition of Chinese business and political leaders and by Chiang Kai-Shek. 
+
+China declared war against Italy on December 9, 1941.
+
+SOURCES-CM:
+none given
+
+NARRATIVE-CR:
+The rivalry between Italy and China is similar to the rivalry between Germany and China. Italy too was interested in various financial interests in China and competed with other Great Powers for influence and territory in China in the later half of the 19th Century. Italy was also involved in the Boxer Rebellion. Finally, Italy was a part of the Axis powers and as such China declared war on Italy in December of 1941. 
+
+MID220 Tientsin Massacre took place from August through October of 1870. Many Chinese scholars and followers of China's many religions resented the white Christian missionaries who had flocked to China in the mid-19th century, and to stir up the common people they frequently circulated rumors that the foreigners were sorcerers. The French Sisters of Charity at their orphanage in the city of Tientsin (Tianjin) used to give small cash rewards to people who brought in homeless or unwanted children, which gave rise to the rumor that children were being abused, kidnapped, and used for witchcraft. On June 21, 1870, and angry Chinese crowd led by a local magistrate stood outside the orphanage; the French consul ordered his guards to fire on the mob to disperse it. Enraged by this, the Chinese stormed and sacked the orphanage, killing in the process 18 foreigners, including the consul and 10 nuns. A storm of protest issued from both Paris and Rome, and Western naval ships including Italian, sailed to Tientsin. France demanded severe punishment for those responsible; 16 Chinese were executed, and China officially apologized to France.
+
+MID511 is titled `Chinese concessions IV.' This is a bilateral dispute that occurred from February 24 through April of 1899. This dispute was over the Italian demand for territory in China. The Italians wanted a parcel of land on San Mun Bay to use a naval base and a coaling station. The Chinese refused and the Italians took great umbrage over this refusal. Ultimately the Chinese acquiesced after the Itaialians sent war ships to the area to increase the chances of the Chinese changing their minds. 
+
+MID31 is the Boxer Rebellion that occurred from May through August of 1900. Conservatives gave clandestine backing to the anti-foreign and anti-Christian movement of secret societies known as Yihetuan (Society of Righteousness and Harmony). The movement has been better known in the West as the Boxers (from an earlier name-Yihequan, Righteousness and Harmony Boxers). In 1900, Boxer bands spread over the north China countryside, burning missionary facilities and killing Chinese Christians. Finally, in June 1900, the Boxers besieged the foreign concessions in Beijing and Tianjin, an action that provoked an allied relief expedition by the offended nations. The Qing declared war against the invaders, who easily crushed their opposition and occupied north China. Under the Protocol of 1901, the court was made to consent to the execution of ten high officials and the punishment of hundreds of others, expansion of the Legation Quarter, payment of war reparations, stationing of foreign troops in China, and razing of some Chinese fortifications. 
+
+In the decade that followed, the court belatedly put into effect some reform measures. These included the abolition of the moribund Confucian-based examination, educational and military modernization patterned after the model of Japan, and an experiment, if half-hearted, in constitutional and parliamentary government. The suddenness and ambitiousness of the reform effort actually hindered its success. One effect, to be felt for decades to come, was the establishment of new armies, which, in turn, gave rise to warlordism.
+
+MID2208 On March 9, 1926, Chinese Nationalist forces fired on foreign shipping in Taku (Dagu) harbor. On March 13, 1926, two Japanese destroyers were fired upon and mines were disbursed in the harbor. The United States, France, Italy, Japan, and The United Kingdom reacted by sending additional naval forces to the region. A joint note was sent by this group of states demanding the restoration of free movement through the harbor on March 16, 1926. The Chinese Nationalist forces agreed to comply with the note's demands on March 18, 1926. In response to anti-foreign rioting which began on Jan 4, 1927, and led to the seizure of a British merchant vessel by Chinese nationals, the United States, France, Italy, Japan, and the United Kingdom deployed military forces to the region. The situation was diffused in late March by a coalition of Chinese business and political leaders and by Chiang Kai-Shek.
+
+MID145 was another dispute involving China and a number of Great Powers (Italy, the UK, and the US.) In this dispute, Italy again wanted concessions regarding territory in China and access to trade in the Italian sphere of influence. This dispute had a similar character to previous disputes involving China at this time. China resisted Great Power interference; the Italians brought military power to bear and the Chinese conceded. 
+
+MID258 is World War II. China declared war against Italy on December 9, 1941. China declared war against Germany, Japan, and Italy on December 9, 1941. China remained in the war until August of 1945. The activities of the Chinese in World War II were limited to the Asian theater and there was limited if any direct combat between Italian and Chinese forces. 
+
+Between 1945 and 1948, a new Italian nation emerged from the disaster of Fascism and war. In June 1946, a popular election abolished the monarchy in favor of a republic; a new constitution was adopted the next year. The Christian Democrats, the Communists, and the Socialists became the leading political parties in the country. The largest of these parties, the Christian Democrats, first under the leadership of Alcide De Gasperi, dominated the Italian government after 1948. De Gasperi stressed industrial growth, agricultural reform, and close cooperation with the United States and the Vatican. With massive U.S. aid, Italy underwent a remarkable economic recovery that saw rapid industrial expansion and a sharp increase in the standard of living. Italy joined the North Atlantic Treaty Organization in 1949, the European Coal and Steel Community in 1951, and the European Common Market (European Community) in 1958.
+
+As for China, in the years immediately following World War II China experienced a resumption of the civil war that had begun in 1926. The Chinese Civil War was a conflict in China between the Kuomintang (the Nationalist Party; KMT) and the Communist Party of China (CPC). It began with the takeover of the KMT by the right-wing General Chiang Kai-shek and purges of leftist and Communist members in 1926 and ended in 1949 with an unofficial cessation of major hostilities, with the Communists controlling mainland China and the Nationalists controlling Taiwan and several outlying Fujianese islands. Thus, China as well was occupied with an internal problem that precluded opportunities for aggression especially with a country as distant as Germany. 
+
+SOURCES-CR:
+New York Time 2/24-4/1/1899; Onwar.com; Worden, Savada and Dolan 1987
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,702 @@
+FILE: cm645690v11.0.txt
+DYAD: IRAQ-KUWAIT
+RIVALRY: RIV1230
+DISPUTE(S): MID122 MID3172 MID1612 MID1613 MID3029 MID3957 MID3982 MID3552 MID3568 MID4269 MID4271 MID4272 MID4273 MID4215 MID4274 MID4275 
+
+RIVNOTES: 
+
+PS: 19610619-20030319 0.00 20030320-20040628 -9 20040629-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID122
+
+TERRMID: MID122 1 -- territorial MID
+TERRMID-CER: MID122 1 -- certain 
+TERRMID-NOTES: MID122 from Gibler 2018, Iraq in 1961 claimed all of Kuwait as Iraq territory and threatened to annex it. In response, the Arab League admitted Kuwait as a member and formed a coalition to defend it from Iraqi invasion. Coded territorial MID because this was connected to Iraq's claim on all of Kuwait's territory. 
+
+TERRLINK: MID122 3 -- not third party link to territory
+TERRLINK-CER: MID122 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID122 1 -- maritime MID
+MARITMID-CER: MID122 1 -- certain
+MARITMID-NOTES: MID122 Because Iraq claimed all of Kuwait, this included a claim on Kuwait's maritime waters. Coded maritime MID because Iraq also claimed all of Kuwait's maritime possessions. 
+
+ISLMID: MID122 1 -- islands MID
+ISLMID-CER: MID122 1 -- certain
+ISLMID-NOTES: MID122 Iraq claimed all of Kuwait's territory and, by extension, Kuwait's islands possessions. 
+
+CIVWARMID: MID122 3 -- not civil war 
+CIVWARMID-CER: MID122 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID122 3 -- not civil war link
+CIVWARLINK-CER: MID122 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID122 3 -- not coup 
+COUPMID-CER: MID122 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID122 3 -- not coup link
+COUPLINK-CER: MID122 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3172 
+
+TERRMID: MID3172 1 -- territorial MID
+TERRMID-CER: MID3172 1 -- certain 
+TERRMID-NOTES: MID3172 from Gibler 2018, in 1967 Iraqi border guards entered Kuwait, tore down an oil well worker's camp, and occupied the area. Iraq and Kuwait had an active border dispute connected to oil in the area. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3172 3 -- not third party link to territory 
+TERRLINK-CER: MID3172 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3172 3 -- not maritime 
+MARITMID-CER: MID3172 1 -- certain 
+MARITMID-NOTES: MID3172 Iraq and Kuwait also had an active maritime border dispute, but this incident was not connected to the maritime dispute. 
+
+ISLMID: MID3172 3 -- not islands 
+ISLMID-CER: MID3172 1 -- certain 
+ISLMID-NOTES: MID3172 Kuwait and Iraq also had an islands dispute (Iraq demanded sovereignty over an island near the disputed border), but this was not connected to the disputed island. 
+
+CIVWARMID: MID3172 3 -- not civil war 
+CIVWARMID-CER: MID3172 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3172 3 -- not civil war link 
+CIVWARLINK-CER: MID3172 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3172 3 -- not coup 
+COUPMID-CER: MID3172 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3172 3 -- not coup link
+COUPLINK-CER: MID3172 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1612 
+
+TERRMID: MID1612 1 -- territorial MID
+TERRMID-CER: MID1612 1 -- certain 
+TERRMID-NOTES: MID1612 from Gibler 2018, during the Shatt al-Arab dispute between Iraq and Iran (a border dispute), Kuwait allowed Iraq to use its territory to station troops. However, it was soon apparent that Iraq was not planning on leaving Kuwait and was preparing for an invasion. Kuwait fortified its border. Coded territorial MID because Iraq and Kuwait had a territorial dispute, and Iraq used the permission it received to occupy Kuwait's territory to prepare an invasion.
+
+TERRLINK: MID1612 1 -- third party link to territorial MID
+TERRLINK-CER: MID1612 1 -- certain 
+TERRLINK-NOTES: MID1612 this is also connected to the Iran-Iraq territorial dispute over the Shatt al-Arab waterway, an inland river/territorial boundary. 
+
+MARITMID: MID1612 3 -- not maritime 
+MARITMID-CER: MID1612 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1612 3 -- not islands 
+ISLMID-CER: MID1612 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1612 3 -- not civil war 
+CIVWARMID-CER: MID1612 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1612 3 -- not civil war link 
+CIVWARLINK-CER: MID1612 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1612 3 -- not coup 
+COUPMID-CER: MID1612 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1612 3 -- not coup link
+COUPLINK-CER: MID1612 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1613 
+
+TERRMID: MID1613 3 -- not territory 
+TERRMID-CER: MID1613 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1613 3 -- not third party link to territory 
+TERRLINK-CER: MID1613 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1613 1 -- maritime MID
+MARITMID-CER: MID1613 1 -- certain 
+MARITMID-NOTES: MDI1613 the disputed islands had maritime implications, notably because of oil and fresh water reserves. The islands dispute was therefore also connected to the disputed maritime boundary surrounding the islands. 
+
+ISLMID: MID1613 1 -- islands MID
+ISLMID-CER: MID1613 1 -- certain 
+ISLMID-NOTES: MID1613 from Gibler 2018, Iraq and Kuwait disputed sovereignty over islands due to their maritime boundary implications. In 1975, Iraq occupied the islands and built huts on them. Negotiations followed. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID1613 3 -- not civil war 
+CIVWARMID-CER: MID1613 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1613 3 -- not civil war link 
+CIVWARLINK-CER: MID1613 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1613 3 -- not coup 
+COUPMID-CER: MID1613 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1613 3 -- not coup link
+COUPLINK-CER: MID1613 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3029
+
+TERRMID: MID3029 3 -- not territory
+TERRMID-CER: MID3029 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3029 1 -- third party link to territorial MID
+TERRLINK-CER: MID3029 1 -- certain
+TERRLINK-NOTES: MID3029 from Gibler 2018, in 1985 Iraq bombed a Kuwaiti oil tanker. Iraq routinely bombed tankers from other countries trading with Iran as a means of harming Iran's economy in the Iran-Iraq War. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID3029 3 -- not maritime 
+MARITMID-CER: MID3029 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3029 3 -- not islands 
+ISLMID-CER: MID3029 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3029 3 -- not civil war 
+CIVWARMID-CER: MID3029 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3029 3 -- not civil war link
+CIVWARLINK-CER: MID3029 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3029 3 -- not coup 
+COUPMID-CER: MID3029 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3029 3 -- not coup link
+COUPLINK-CER: MID3029 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 1 -- territorial MID
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Iraq under Saddam renewed its claim to all of Kuwait and, in 1991, invaded Kuwait, leading to a coalition of states intervening to expel Iraq. Coded territorial MID because the Gulf War was a territorial dispute between Iraq and Kuwait.
+
+TERRLINK: MID3957 3 -- not third party link to territory
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3957 1 -- maritime MID
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: MID3957 Iraq claimed all of Kuwait's territory and, by extension, Kuwait's maritime possessions. 
+
+ISLMID: MID3957 1 -- islands MID
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: MID3957 Iraq claimed all of Kuwait's territory and, by extension, Kuwait's islands possessions. 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3982
+
+TERRMID: MID3982 3 -- not territory
+TERRMID-CER: MID3982 1 -- certain 
+TERRMID-NOTES: MID3982 from Gibler 2018, in 1991 Iraq crossed into Kuwait to recover weapons stockpiles left when they were expelled from Kuwait. A clash ensued, and Kuwait arrested several Iraqi soldiers. Coded not territory because although there was an active territorial dispute, Iraq was not advancing its claim during this MID; it was seeking to recover weapons for its military. 
+
+TERRLINK: MID3982 3 -- not third party link to territory 
+TERRLINK-CER: MID3982 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3982 3 -- not maritime 
+MARITMID-CER: MID3982 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3982 3 -- not islands 
+ISLMID-CER: MID3982 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3982 3 -- not civil war 
+CIVWARMID-CER: MID3982 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3982 3 -- not civil war link
+CIVWARLINK-CER: MID3982 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3982 3 -- not coup 
+COUPMID-CER: MID3982 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3982 3 -- not coup link
+COUPLINK-CER: MID3982 1 -- certain 
+COUPLINK-NOTES:
+
+MID3552
+
+TERRMID: MID3552 3 -- not territory
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain
+CIVWARMID-NOTES: MID3552 from Gibler 2018, in 1992-1993 Iraq violated the UN-sanctioned ceasefire agreement put in place to stop Saddam Hussein from attacking Shi'ites and Kurds. A no-fly zone was put into place and enforced by the US, UK, and France. Kuwait and Saudi Arabia allowed the planes of US, UK, and France to use their territory for bases. Coded civil war link because this is connected to Saddam Hussein attacking militarized rebels within Iraq (inside this dyad). 
+
+CIVWARLINK: MID3552 3 -- not civil war link
+CIVWARLINK-CER: MID3552 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3568
+
+TERRMID: MID3568 1 -- territorial MID
+TERRMID-CER: MID3568 1 -- certain 
+TERRMID-NOTES: MID3568 from Gibler 2018, in 1992 after the UN determined the boundary between Iraq and Kuwait, Iraq rejected the boundary and attacked a Kuwaiti border post. Coded territorial MID because this was connected to the dispute over Iraq and Kuwait's common border. 
+
+TERRLINK: MID3568 3 -- not third party link to territory 
+TERRLINK-CER: MID3568 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3568 1 -- maritime MID
+MARITMID-CER: MID3568 1 -- certain
+MARITMID-NOTES: MID3568 the Iraqi claim to all of Kuwait is active at this time, and includes a claim on Kuwait's maritime boundaries. 
+
+ISLMID: MID3568 1 -- islands MID
+ISLMID-CER: MID3568 1 -- certain
+ISLMID-NOTES: MID3568 the Iraqi claim to all of Kuwait is active at this time, and includes a claim on Kuwait's offshore islands, particularly the islands of Warbah and Bubiyan. 
+
+CIVWARMID: MID3568 1 -- civil war MID
+CIVWARMID-CER: MID3568 1 -- certain
+CIVWARMID-NOTES: MID3568 this is also connected to Iraq violating the US, UK, and France-enforced no-fly zone imposed to stop Saddam from attacking rebels in the north and south of Iraq. Iraq violated the no-fly zone on several occasions and was met with force by the US, UK and France. Coded civil war MID because the no-fly zone was put in place to prevent attacks on militarized rebels in Iraq. 
+
+CIVWARLINK: MID3568 3 -- not civil war link
+CIVWARLINK-CER: MID3568 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3568 3 -- not coup 
+COUPMID-CER: MID3568 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3568 3 -- not coup link
+COUPLINK-CER: MID3568 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4269
+
+TERRMID: MID4269 1 -- territorial MID
+TERRMID-CER: MID4269 1 -- certain 
+TERRMID-NOTES: MID4269 from Gibler 2018, in 1994-1995 Iraq threatened Kuwait over its disputed border with Iraq, prompting coalition forces including the US, Kuwait, Bahrain, Oman, and UAE to deter further actions with a show of force. Coded territorial MID because this was connected to the disputed border between Iraq and Kuwait. 
+
+TERRLINK: MID4269 3 -- not third party link to territory 
+TERRLINK-CER: MID4269 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4269 1 -- maritime MID
+MARITMID-CER: MID4269 1 -- certain
+MARITMID-NOTES: MID4269 the Iraqi claim to all of Kuwait is active at this time, and includes a claim on Kuwait's maritime boundaries. 
+
+ISLMID: MID4269 1 -- islands MID
+ISLMID-CER: MID4269 1 -- certain
+ISLMID-NOTES: MID4269 the Iraqi claim to all of Kuwait is active at this time, and includes a claim on Kuwait's offshore islands, particularly the islands of Warbah and Bubiyan. 
+
+CIVWARMID: MID4269 3 -- not civil war 
+CIVWARMID-CER: MID4269 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4269 3 -- not civil war link
+CIVWARLINK-CER: MID4269 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4269 3 -- not coup 
+COUPMID-CER: MID4269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4269 3 -- not coup link
+COUPLINK-CER: MID4269 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4271
+
+TERRMID: MID4271 3 -- not territory
+TERRMID-CER: MID4271 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4271 3 -- not third party link to territory 
+TERRLINK-CER: MID4271 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4271 3 -- not maritime 
+MARITMID-CER: MID4271 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4271 3 -- not islands 
+ISLMID-CER: MID4271 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4271 1 -- civil war MID
+CIVWARMID-CER: MID4271 1 -- certain
+CIVWARMID-NOTES: MID4271 from Gibler 2018, in 1996 Iraq violated the cease-fire by attacking militarized rebels in Kurdistan. Several states, including Kuwait, responded with shows of force and attacks on Iraqi military targets. Coded civil war MID because this was connected to the enforcement of a cease-fire that was in place to prevent Saddam from atttacking militarized rebels in Iraq. 
+
+CIVWARLINK: MID4271 3 -- not civil war link
+CIVWARLINK-CER: MID4271 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4271 3 -- not coup 
+COUPMID-CER: MID4271 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4271 3 -- not coup link
+COUPLINK-CER: MID4271 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4272
+
+TERRMID: MID4272 1 -- territorial MID
+TERRMID-CER: MID4272 1 -- certain 
+TERRMID-NOTES: MID4272 from Gibler 2018, in 1996-1997 Kuwait caught two Iraqi ships violating the UN sanctions on Iraq, seized the ships, and sold them. Iraq protested and a maritime clash followed. Coded territorial MID because this was connected to sanctions following the Iraqi invasion of Kuwait, a territorial dispute. 
+
+TERRLINK: MID4272 3 -- not third party link to territory
+TERRLINK-CER: MID4272 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4272 1 -- maritime MID
+MARITMID-CER: MID4272 1 -- certain
+MARITMID-NOTES: MID4272 this was connected to sanctions following the Iraqi invasion of Kuwait, a territorial dispute. Coded maritime MID because the Iraqi claim on all of Kuwait includes a claim on Kuwait's maritime boundaries. 
+
+ISLMID: MID4272 1 -- islands MID
+ISLMID-CER: MID4272 1 -- certain
+ISLMID-NOTES: MID4272 this was connected to sanctions following the Iraqi invasion of Kuwait, a territorial dispute. Coded maritime MID because the Iraqi claim on all of Kuwait includes a claim on Kuwait's offshore islands. 
+
+CIVWARMID: MID4272 3 -- not civil war 
+CIVWARMID-CER: MID4272 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4272 3 -- not civil war link
+CIVWARLINK-CER: MID4272 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4272 3 -- not coup 
+COUPMID-CER: MID4272 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4272 3 -- not coup link
+COUPLINK-CER: MID4272 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273
+
+TERRMID: MID4273 3 -- not territory
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain
+CIVWARMID-NOTES: MID4273 from cm narrative, this MID involves Iraq's refusal to comply with UN weapons inspectors and enforcement of the no-fly zone. Iraq expelled weapons inspectors and repeatedly violated the no-fly zone. The US and UK repeatedly threatened Iraq and eventually bombed them over a four day period. Kuwait was part of a coalition of states that participated in a show of force to deter Iraq from further violations. Coded civil war MID because this MID involved violation and enforcement of the no-fly zone over Iraq. The no-fly zone was put in place to prevent Saddam Hussein from attacking militarized rebels in Kurdistan. 
+
+CIVWARLINK: MID4273 3 -- not civil war link
+CIVWARLINK-CER: MID4273 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4215
+
+TERRMID: MID4215 3 -- not territory
+TERRMID-CER: MID4215 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4215 3 -- not third party link to territory 
+TERRLINK-CER: MID4215 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4215 3 -- not maritime 
+MARITMID-CER: MID4215 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4215 3 -- not islands 
+ISLMID-CER: MID4215 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4215 1 -- civil war MID
+CIVWARMID-CER: MID4215 1 -- certain
+CIVWARMID-NOTES: MID4215 from Gibler 2018 and cm narrative, US and UK planes were enforcing the no-fly zone in 1999 and bombed Iraq. Iraq protested and claimed Kuwait was part of the attack, prompting Kuwait to put its troops on alert. Coded civil war MID because the enforcement of the no-fly zone is connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4215 3 -- not civil war link
+CIVWARLINK-CER: MID4215 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4215 3 -- not coup 
+COUPMID-CER: MID4215 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4215 3 -- not coup link
+COUPLINK-CER: MID4215 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4274
+
+TERRMID: MID4274 3 -- not territory
+TERRMID-CER: MID4274 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4274 3 -- not third party link to territory 
+TERRLINK-CER: MID4274 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4274 3 -- not maritime 
+MARITMID-CER: MID4274 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4274 3 -- not islands 
+ISLMID-CER: MID4274 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4274 1 -- civil war MID
+CIVWARMID-CER: MID4274 3 -- uncertain
+CIVWARMID-NOTES: MID4274 from Gibler, Miller, and Little 2016, this MID occurred within ten days of MID4215 and should be dropped due to temporal overlap. US and UK bombed Iraq to enforce the no-fly zone, and Iraq accused Kuwait of being part of the attack, prompting Kuwait to put its forces on alert. Coded civil war MID because this was connected to the no-fly zone in Iraq which was in place to prevent Saddam from attacking militarized rebels, and coded uncertain because GML recommend this case be dropped. 
+
+CIVWARLINK: MID4274 3 -- not civil war link
+CIVWARLINK-CER: MID4274 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4274 3 -- not coup 
+COUPMID-CER: MID4274 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4274 3 -- not coup link
+COUPLINK-CER: MID4274 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4275
+
+TERRMID: MID4275 3 -- not territory
+TERRMID-CER: MID4275 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4275 3 -- not third party link to territory 
+TERRLINK-CER: MID4275 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4275 3 -- not maritime 
+MARITMID-CER: MID4275 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4275 3 -- not islands 
+ISLMID-CER: MID4275 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4275 1 -- civil war MID
+CIVWARMID-CER: MID4275 1 -- certain
+CIVWARMID-NOTES: MID4275 from Gibler 2018, in 2000 Saddam claimed that Kuwait and Saudi Arabia were cowards for letting the countries enforcing the no-fly zone over Iraq to use their territory for bases. Kuwait took this as a threat and put its forces on alert. Coded civil war MID because this was connected to the no-fly zone, which was put in place to prevent Saddam from attacking militarized rebels in Iraq. 
+
+CIVWARLINK: MID4275 3 -- not civil war link
+CIVWARLINK-CER: MID4275 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4275 3 -- not coup 
+COUPMID-CER: MID4275 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4275 3 -- not coup link
+COUPLINK-CER: MID4275 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4273
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4273 20020926-20030318 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=. lhostb=WAR
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First day of dispute was on 11/4/1997 and last day of dispute was on 3/00/2001.Over the course of 2002, US and UK planes bombed various Iraqi defense systems placed either in or near the US-imposed no-fly zones. During this time Iraq deployed ground forces to its border towns in a preemptive move against future US aggression. Beginning in March 2003, the US began deploying additional land, naval, and air forces to the the Middle East in a clear show of force and build-up to a future invasion of Iraq. In March 2003, just prior to the US-led invasion, several Middle Eastern countries deployed small numbers of troops to Kuwait in a symbolic show of defense for the neighbor of Iraq, which had been the historical target of Iraqi aggression. Later in March 2003, a US-led coalition, seeking to oust the regime of Saddam Hussein and dismantle alleged Iraqi weapons of mass destruction, invaded Iraq and engaged in major combat operations, ultimately resulting in war, against the country that lasted until May 1, 2003. First day of dispute was on 2/22/2003 and last day of dispute was on 3/18/2003.
+
+NOTE THAT KUWAIT IS INVOLVED FOR LESS THAN A YEAR
+
+MID3 1993-2001:
+
+MID3552
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID3552 19920802-19930117 
+ revtype1a=NOT APPLICABLE revtype2a=. fatala=26-100 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 8/2/1992 and last day of dispute was on 1/17/1993.
+
+MID3568
+rivalry=645690 nationa=IRAQ nationb=KUWAIT MID3568 19921007-19940102 
+ revtype1a=TERRITORY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=1-25 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+MID3568 has three new participants: the United States, United Kingdom, and France. Deleted Dispute. First day of dispute was on 10/7/1992 and last day of dispute was on 1/2/1994.
+
+MID4269
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4269 19940802-19951009 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated. Coder: Ric Stoll. Date: 8/2/02. First day of dispute was on 8/2/1994 and last day of dispute was on 10/9/1995.
+
+MID4271
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4271 19960904-19960906 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+USE OF FORCE 
+
+The dispute began when Iraq amassed 30,000 to 40,000 troops a few miles south of Erbil, a village outside the Kurdish zone in northern Iraq. The Iraqi troops appeared to be supported by artillery, surface-to-air missiles, and other armored vehicles. Iraq moved into the northern flight exclusion zone in order to aid their Kurdish allies in attacking a rival Kurdish faction. The United States responded by putting its forces in the region on a heightened state of readiness. A few days later, Kuwait put its forces on alert, fearing an Iraqi attack. The United States launched several attacks on Iraqi military sites in the southern no-flight zone and increased its presence in the region. Over the following weeks, the United States and Iraq engaged in frequent clashes in the flight exclusion zones, while American planes patrolled these areas. On one occasion, British planes, which routinely participated in patrolling the flight exclusion zones, were involved with American planes in an attack on an Iraqi anti-aircraft battery. Iraq slowly withdrew its forces from the northern flight exclusion zone, largely in response to American pressure. Consequently, the dispute outcome was coded as a yield by Iraq. And, there were no formal or informal efforts to end the dispute. First day of dispute was on 9/4/1996 and last day of dispute was on 9/6/1996.
+
+MID4272
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4272 19961000-19970925 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+USE OF FORCE 
+
+On a number of occasions since the end of the Gulf War, Iraq and Kuwait were involved in MIDs relating to the border (either land or territorial waters - a maritime DMZ was created after the Gulf War) between the countries (MIDS 268, 269, 272, 274, 275). Border problems arise because the UN adjusted the border after the Gulf War and the border areas may contain oil. This MIDis primarily concerned with the DMZ that exists between the territorial waters of Iraq and Kuwait. Most of the incidents involve firing between Iraq and Kuwait vessels in waters that are disputed. At least one source characterizes the boundaries of the maritime DMZ as "ambiguous." Coder: Ric Stoll. Date: 7/24/02. First day of dispute was on 10/00/1996 and last day of dispute was on 9/25/1997.
+
+MID4215
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4215 19990111-19990114 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+When USA and British planes bombed Iraq, Iraq claimed that Kuwait was part of the attack. In response, Kuwait placed its forces on alert. First day of dispute was on 1/11/1999 and last day of dispute was on 1/14/1999.
+
+MID4274
+rivalry=645690 nationa=IRAQ nationb=KUWAIT MID4274 19990121-19990121 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On a number of occasions since the end of the Gulf War, Iraq and Kuwait were involved in MIDs relating to the border (either land or territorial waters - a maritime DMZ was created after the Gulf War) between the countries (MIDS 268, 269, 272, 274, 275). Border problems arise because the UN adjusted the border after the Gulf War and the border areas may contain oil. In this dispute, Iraq moved a large number of troops to the Kuwaiti border, but there were no other incidents. Coder: Ric Stoll. Date: 7/24/02. First and last day of dispute was on 1/21/1999.
+
+MID4275
+rivalry=645690 nationa=KUWAIT nationb=IRAQ MID4275 20000810-20000810 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Saddam Hussein made a speech that Kuwait viewed as a threat. Over several days, Iraqi newspapers (controlled by the government) published articles that were viewed as threatening Saudi Arabia and Kuwait (calling them "traitors" for allowing USA and UK to launch no-fly zone patrols from their territory, saying "If the treacherous leaders in Kuwait need another lesson, we are more than ready to hand one out to them"). In response, Kuwait met with a number of foreign ambassadors, and increased the readiness of its military. In later newspaper articles, Iraq said that it had not issued threats to anyone. First and last day of dispute wa son 8/10/2000.
+
+NARRATIVE-CM:
+Kuwait formally achieved its independence from Britain on June 19, 1961, and Prime Minister Karim Kassem of Iraq claimed sovereignty over Kuwait on June 25, 1961. King Saud of Saudi Arabia expressed support for Kuwait on June 27, 1961. Iraq ordered troops to the border with Kuwait on June 29, 1961. Kuwait requested British and Saudi Arabian military assistance on June 30, 1961, and 100 Saudi Arabian troops were deployed in Kuwait on July 1, 1960. Some 6,000 British troops were deployed in Kuwait beginning on July 1, 1961. Britain deployed the aircraft carrier *Victorious* and three other naval ships to the region. Kuwait referred the matter to *United Nations *(UN) Security Council on July 1, 1961. The Soviet Union vetoed a UN Security Council resolution on July 7, 1961, which would have appealed to "all states to respect the independence and territorial integrity of Kuwait." *League of Arab *States (LAS) Secretary-General Abdul Khaliq Hassunah attempted to mediate negotiations between the countries on July 1-19, 1961. Kuwait was admitted as a member of the LAS on July 20, 1961. The LAS established the *Arab League Security Force* (ALSF) in Kuwait on July 20, 1961. The *Arab League Security Force* (ALSF), which was commanded by General Abdullah al-Isa of Saudi Arabia, consisted of 1,000 United Arab Republic troops, 920 Jordanian troops, 1700 Saudi Arabian troops, 400 Sudanese troops, and 200 Tunisian troops. The ALSF was deployed in Kuwait on September 10, 1961, and British troops completed their withdrawal from Kuwait on October 10, 1961. The ALSF completed its withdrawal from Kuwait on February 19, 1963. Iraq and Kuwait established diplomatic relations on October 4, 1963, when Iraq agreed to recognized the "independence and complete sovereignty" of Kuwait. Iraq maintained its claims to some parts of Kuwaiti territory, including the islands of Warba and Bubiyan. Iraqi troops attacked Kuwaiti border posts in the disputed region on March 20, 1973, resulting in the deaths of two Iraqi soldiers. Syria and Lebanon offered to mediate negotiations between the parties. Iran offered military assistance to Kuwait, but Kuwait rejected the offer of military assistance on March 24, 1973. Saudi Arabia deployed some 15,000 troops in Kuwait beginning in March 1973. Iraq and Kuwait agreed to mediation by Yassar Arafat of the *Palestinian Liberation Organization *(PLO) on April 5, 1973, and the countries agreed to end the crisis on June 8, 1973. Iraqi and Kuwaiti representatives held bilateral negotiations between April 1973 and July 1975. The Kuwaiti National Assembly passed a resolution reaffirming sovereignty over all the disputed territory on July 12, 1975. 
+
+Iraqi troops mobilized near the border, and Kuwait placed its troops on a state-of-alert on July 18, 1990. Saudi Arabia and Yemen attempted to mediate an end to the crisis. Some 100,000 Iraqi troops invaded and occupied Kuwait on August 2, 1990. The UN Security Council condemned the invasion and demanded that Iraq immediately withdraw its troops from Kuwait on August 2, 1990. LAS foreign ministers appealed for the immediate withdrawal of Iraqi troops from Kuwait on August 3, 1990. The *Gulf Cooperation Council *(GCC) foreign ministers condemned Iraq, and appealed for the withdrawal of Iraqi troops from Kuwait on August 3, 1990. The *European Community *(EC) condemned Iraq, and imposed economic sanctions against Iraq on August 4, 1990. Iraq announced the annexation of Kuwait on August 8, 1990. The UN Security Council imposed economic sanctions against Iraq on August 6, 1990, and condemned the annexation of Kuwait on August 9, 1990. LAS heads of state appealed for the withdrawal of Iraqi troops from Kuwait on August 10, 1990. The US and 28 other countries deployed some 875,000 troops and 2,600 military aircraft in Saudi Arabia (*Operation Desert Shield*) in Saudi Arabia and other Persian Gulf countries beginning on August 10, 1990. EC foreign ministers condemned Iraq on August 21, 1990 (Iraq had previously announced that it would move foreign nationals held as hostages near military targets). The UN Security Council authorized member-states to enforce sanctions against Iraq on August 25, 1990. The *Western European Union* (WEU) agreed to deploy naval forces in the Persian Gulf to enforce UN sanctions against Iraq on August 27, 1990. The UN Security Council imposed economic sanctions (commercial air traffic ban) against Iraq on September 25, 1990. On November 29, 1990, the UN Security Council authorized the use of military force against Iraq unless it complied with all UN resolutions by January 15, 1991. GCC heads-of-state appealed for the withdrawal of Iraqi troops from Kuwait on December 24, 1990. *The International Organization for Migration* (IOM) provided repatriation assistance to some 165,000 refugees from Iraq beginning in 1990. Allied countries began an air and missile attack (*Operation Desert Storm*) against Iraqi targets on January 17, 1991. Allied troops attacked Iraqi troops in Kuwait on February 24, 1991, and Iraqi troops withdrew from Kuwait on February 27, 1991. The Allied countries agreed to a unilateral cessation of military hostilities against Iraq on February 27, 1991. Ninety-two Senegalese soldiers and six Saudi Arabian crewmen were killed in a transport plane crash in Saudi Arabia on March 21, 1991. Iraq formally agreed to a cessation of military hostilities on April 11, 1991. Some 40,000 Iraqi soldiers and civilians, 5,000 Kuwaitis, 383 US soldiers, 44 Saudi Arabian soldiers, 24 British soldiers, and 14 Egyptian soldiers were killed during the conflict. The UN Security Council established the *United Nations Iraq-Kuwait Observation Mission* (UNIKOM) on April 9, 1991. UNIKOM consisted of some 1,190 military personnel from 34 countries headed by Major-General Gunther Greindl of Austria. On April 9, 1991, the UN Security Council established the *United Nations Special Commission (UNSCOM) to monitor the "destruction, removal or rendering harmless of all Iraq's chemical and biological weapons and related capabilities and facilities, and its ballistic missiles with a range greater than 150 kilometers." UNSCOM consisted of twenty-one members and some 150 staff personnel from twenty-one countries headed by Rolf Ekeus of Sweden. On April 9, 1991, the UN Security Council established the five-member* Iraq-Kuwait Boundary Demarcation Commission* (IKBDC) to "demarcate the international boundary" between Iraq and Kuwait in accordance with an agreement signed by the parties on October 4, 1963. Iraqi troops and Kuwaiti troops clashed on Bubiyan Island on August 28-31, 1991. IKBDC, which consisted of members from Indoesnia, Iraq, Kuwait, New Zealand, and Sweden, completed the demarcation of the border on May 20, 1993. Iraq deployed some 50,000 troops near the border with Kuwait on October 7, 1994. The US deployed naval ships near Kuwait, placed some 150,000 troops on alert, and deployed some 40,000 troops in Kuwait on October 7-9, 1994. On October 10, 1994, Iraq announced that it would withdraw its troops from the border with Kuwait. Britain deployed 900 troops in Kuwait, and France deployed a naval ship near Kuwait on October 10, 1994. King Hussein of Jordan condemned Iraq on October 11, 1994. The GCC agreed to deploy troops in Kuwait on October 12, 1994. The UN Security Council condemned Iraqi troops movements near the Kuwaiti border, and demanded the withdrawal of Iraqi troops from the border region on October 15, 1994. Iraq's National Assembly formally recognized the state of Kuwait on November 10, 1994. Richard Butler of Australia was appointed as chairman of UNSCOM on July 1, 1997. The UN Security Council established the *United Nations Monitoring, Verification, and Inspection Commission* (UNMOVIC) to replace UNSCOM on December 17, 1999.
+
+SOURCES-CM: 
+Allock et al., 1992, 384-392; Brecher and Wilkenfeld, 1997, 312-324; Butterworth, 1976, 466-468; Clodfelter, 1992, 1078-1086; Donelan and Grieve, 1973, 220-222; Hassouna, 1975, 91-140; *Survey of International Affairs *(SIA), 1961, 519-545; Tillema, 1991, 151-152; *UN Chronicle*, December 1990, June 1991, September 1991, March 1995; *United Nations Security Council* press release, December 17, 1999; Wainhouse, 1973, 414-428; Weisburd, 1997, 55-58.
+
+NARRATIVE-CR:
+The rivalry between Iraq and Kuwait revolves around the Iraqi claim to all of Kuwait. This claim to the entire sheikdom, once rebuffed is modified to a claim for the islands of Warbah and Bubiyan. Iraq, though a large state is hemmed in at its coast by a very narrow access to the Persian/Arabian Gulf. It shares the Shatt al-Arab with its traditional rival Iran and has a short coast line that is blocked by these two islands that are part of Kuwait. This lack of access to the Persian Gulf is one of the motivations for Iraq's claim to Kuwait. Additionally, Kuwait is an oil rich state. Iraqi claims of sovereignty over Kuwait are also motivated out of the desire to acquire Kuwaiti oil reserves. 
+
+MID122 occurred from June of 1961 until February of 1962. Iraq has had a long standing claim to Kuwait based on Ottoman boundaries. Ottoman Turkey exercised a tenuous sovereignty over Kuwait in the late nineteenth century, but the area passed under British protection in 1899. In 1932 Iraq informally confirmed its border with Kuwait, which had previously been demarcated by the British. In 1961, after Kuwait's independence and the withdrawal of British troops, Iraq reasserted its claim to the territory based on the Ottomans' having attached it to Basra Province. British troops and aircraft were rushed back to Kuwait. A Saudi-led force of 3,000 from the League of Arab States (Arab League) that supported Kuwait against Iraqi pressure soon replaced them. 
+
+The boundary issue again arose when the Baath Party came to power in Iraq after a 1963 revolution. The new government officially recognized the independence of Kuwait and the boundaries Iraq had accepted in 1932. Iraq nevertheless reinstated its claims to Bubiyan and Warbah on December 21, 1972 (MID1612) massing troops at the border. Iraqi troops attacked Kuwaiti border posts in the disputed region on March 20, 1973, resulting in the deaths of two Iraqi soldiers (MID3172.)
+
+MID1613 occurred from March through June of 1975. Iran and Iraq improved their relations by concluding an agreement that called for the sharing of the Shatt al-Arab opening to the Persian Gulf. After the conclusion of this agreement, the Vice President of Iraq, Saddam Hussein, pressed for a resolution of the dispute over sovereignty Bubiayn and Warbah islands. Iraqi troops were stationed on Kuwaiti territory to defend the Iraqi border port at Umm Qasr. With the agreement between Iran and Iraq the protection and troops were no longer necessary. The Baathists claimed that the islands were indispensable to enhance Iraqi security. Iraqi Information Minister Tariq Aziz announced that Warbah and Bubiyan were Iraqi islands. The Kuwaiti Information Minister denied this claim. There were frequent border incursions by the Iraqis onto the islands and into Kuwaiti territory near Umm Qasr. 
+
+MID3029 occurred on February 19, 1985. It was a one day event which seems to have involved Iranian jets bombing a Kuwaiti ship in the Gulf. The Washington Post of February 19, 1985, reports it as an incident which did not involve Iraq in any way, except that there was a doubt about who bombed the ship.
+
+MID3957 was the Persian Gulf War. Iraq incurred heavy debts during the long war with Iran. Some of these debts were owed to Kuwait. In 1990, Iraq demanded $10 billion in emergency aid. Kuwait responded with $500 million over three years. Kuwait also refused to write off Iraq's substantial debt ($15 bil.). Kuwait also rejected Iraq's claim to the Rumayla oil field that straddles their mutual border. Kuwait did agree to Iraqi demands that it reduce oil production but it was unclear how much reduction was agreed to. The Kuwaitis believed that Saddam's aggressive threats were intended to enforce compliance with agreements to reduce oil production. Iraqi troops mobilized near the border, and Kuwait placed its troops on a state-of-alert on July 18, 1990. Saudi Arabia and Yemen attempted to mediate an end to the crisis. Some 100,000 Iraqi troops invaded and occupied Kuwait on August 2, 1990. Many states and international organizations condemned the invasion and called for Iraqi withdrawal. The US and 28 other countries deployed some 875,000 troops and 2,600 military aircraft in Saudi Arabia (*Operation Desert Shield*) in Saudi Arabia and other Persian Gulf countries beginning on August 10, 1990. On November 29, 1990, the UN Security Council authorized the use of military force against Iraq unless it complied with all UN resolutions by January 15, 1991. Allied countries began an air and missile attack (*Operation Desert Storm*) against Iraqi targets on January 17, 1991. Allied troops attacked Iraqi troops in Kuwait on February 24, 1991, and Iraqi troops withdrew from Kuwait on February 27, 1991. The Allied countries agreed to a unilateral cessation of military hostilities against Iraq on February 27, 1991. 
+
+In August 1991 (MID3982), Kuwait charged that a force of Iraqis, backed by gunboats, had attacked Bubiyan but had been repulsed and many of the invaders captured. UN investigators found that the Iraqis had come from fishing boats and had probably been scavenging for military supplies abandoned after the Persian Gulf War. Kuwait was suspected of having exaggerated the incident to underscore its need for international support against ongoing Iraqi hostility.
+
+MID3552 and MID 3568 occurred from July of 1992 until December of 1993. During this period Iraq made various border incursions into Kuwait. Iraq did not agree to the border demarcation of 1992 which ceded some territory in the Umm Qasr and Rumayla Oil Field areas to Kuwait. Iraqi soldiers crossed into Kuwaiti territory to retrieve weapons and wequipment. Sometimes they would fire on Kuwaitis. Iraq also dispatched terrorist squads on subersion missions inside Kuwait. Kuwait did feel it possessed the military capability to protect itself in light of the ongoing threat posed by Iraq. It therefore requested assistance from the US an the UK. 
+
+MID4269 occurred from August of 1994 until October of 1995. In an attempt to force the international community to press for a lifting of the sanctions against it, Iraq attempted to use force to gain leverage. Iraq deployed 50,000 troops near the border with Kuwait on October 7, 1994. The US deployed naval ships near Kuwait, placed some 150,000 troops on alert, and deployed some 40,000 troops in Kuwait on October 7-9, 1994. On October 10, 1994, Iraq announced that it would withdraw its troops from the border with Kuwait. Britain deployed 900 troops in Kuwait, and France deployed a naval ship near Kuwait on October 10, 1994. King Hussein of Jordan condemned Iraq on October 11, 1994. The GCC agreed to deploy troops in Kuwait on October 12, 1994. The UN Security Council condemned Iraqi troop movements near the Kuwaiti border, and demanded the withdrawal of Iraqi troops from the border region on October 15, 1994. Iraq's National Assembly formally recognized the state of Kuwait on November 10, 1994. 
+
+MID4271, MID4272, MID4215, MID4274 and MID4275 are all MIDs with the similar character. These are various attempts by the Iraqis to push for the lifting of UN sanctions or US/UK/Kuwaiti attempts to thwart efforts by Iraq to reconstitute its military. There are many incidents from the mid 1990s on in which the US/UK target and fire on Iraqi antiaircraft locations and activities that appear hostile towards US/UK forces. The Kuwaitis provide basing and support to the US/UK efforts and are thus frequently a minor actor in many of these incidents. 
+
+MID4273 started on October 7, 1997 and lasted until the end period for the COW MDID dataset coding (December 2001). In October of 1998, Iraq ended all forms of cooperation with the UN Special Commission to Oversee the Destruction of Iraq's Weapons of Mass Destruction (UNSCOM). In December of 1999, UNSC Resolution 1284 created the UN Monitoring, Verification and Inspection Commission (UNMOVIC) to replace Unscom. Iraq rejected the resolution. In February of 2001, Britain and the US carry out bombing raids to try to disable Iraq's air defense network. The bombings had very little international support. In the Spring of 2003, American and British forces invade Iraq seeking to topple the regime of Saddam Hussein. In the following days US and British ground troops enter Iraq from Kuwait. Thus the rivalry between Iraq and Kuwait may be headed towards a conclusion though much remains to be worked out in Iraq. 
+
+SOURCES-CR: 
+BBC Country Reports http://news.bbc.co.uk/1/hi/country_profiles/default.stm; Butterworth, 1976, 466-468; Clodfelter, 1992, 1078-1086; Donelan and Grieve, 1973, 220-222; Hassouna, 1975, 91-140; Middle East Contemporary Survey, 1985-1998; Tillema, 1991, 151-152; UN Chronicle, December 1990, June 1991, September 1991, March 1995; Wainhouse, 1973, 414-428; Weisburd, 1997, 55-58; Washington Post February 19, 1985
+
+PS-NARRATIVE: 
+
+20030320-20040628 Transition
+
+On March 20, 2003, US invaded Iraq and toppled Saddam Hussein's regime. The relations between Iraq and Kuweit improved in the aftermath of that invasion. The United Nations Security Council on July 3, 2003, approved a final three-month extension of the United Nations peacekeeping operation along the Iraq-Kuwait border. In an unanimous vote, the 15-nation council adopted a resolution to phase out the United Nations Iraq-Kuwait Observation Mission (UNIKOM) in the next three months. UNIKOM, which has patrolled the Iraq-Kuwait border for more than 12 years, will end its mandate by October 6 of this year. The move was taken on the recommendations of United Nations Secretary-General Kofi Annan, who cited the end of the Iraq war and the UN involvement in the rebuilding of Iraq. UNIKOM was created in April 1991 to deter violations and report on hostile action along the border between Iraq and Kuwait following the Gulf war, which ended Iraq's brief occupation of Kuwait. Ahead of the US-led war on Iraq in March, most of UNIKOM personnel were withdrawn from the border area. Currently, it only maintains a small logistics headquarters in Kuwait City.
+
+Kuwait's cabinet has approved the building of a new security barrier on its 217-kilometre land border with Iraq to prevent infiltrators from entering the country al-Siyassa newspaper reported on January 12, 2004. The cabinet approved the urgent installation of the security fence that will extend in the east from the port of Umm Qasr down to the Saudi-Iraq-Kuwait border triangle in the southwest, the paper said, citing government sources. Cost of the barrier was estimated at nine million dinars (30.5 million dollars). The barrier is also intended to protect oil facilities near the border belonging to state-owned Kuwait Oil Company. Following the 1991 Gulf War that liberated Kuwait from Iraqi occupation, Kuwait installed an electrified fence, constructed a sand berm and a deep trench to hinder infiltrators from crossing the border into the emirate. Meanwhile Kuwait security forces have arrested two Iraqis living in Kuwait, one of whom was caught entering the country from Iraq with printed materials inviting Moslems to fight a holy war against U.S. soldiers in Iraq and Kuwait, al-Rai al-Aam newspaper reported. The suspect carrying the printed material was caught entering the border near the Abdali crossing point. He identified the second suspect as the owner of the printed matter. 
+
+Kuwait, invaded and occupied by Saddam Hussein's army, expressed amazement and concern over new territorial claims from Iraq and demanded clarification from the interim Governing Council over statements attributed to its current president. "The State of Kuwait followed up the statement with concern and amazement. We are awaiting clarification from the interim Governing Council of brotherly Iraq about the truth of the statement and its aim," the state-run KUNA news agency quoted an official source as saying. It was Kuwait's first official reaction to the council's president, who said on February 22, 2004, that Baghdad could consider territorial claims over neighboring Jordan and Kuwait in the future. "We need our Arab brothers around us. Now, we cannot discuss this matter with them at all, but in the future, we'll see," said Mohsen Abdul Hamid, in response to a question from a Baghdad consultative council member.
+
+20040629-20159999 0.5 
+
+On June 29, 2004, Kuwait has officially renewed diplomatic relations with Iraq after they had been severed since Baghdad's 1990 invasion of the emirate, the Kuwait News Agency (KUNA) reported. Kuwait announced the resumption of ties with Iraq late Monday following the handover of power the same day by the U.S.-led coalition authority to a newly appointed interim Iraqi government. Kuwait will appoint an ambassador to Iraq soon, a source at the Ministry of Foreign Affairs told the agency. Ties with Baghdad were frozen after Saddam Hussein's troops invaded Kuwait in 1990 and occupied the emirate for seven months, leading to the first Gulf War. 
+
+The Kuwaiti Foreign Minister Shaykh Muhammad al-Sabah stated on 19 June, 2005, the renewed Kuwait's support to the reconstruction of Iraq. "This a commitment we made at the Madrid Conference," said Shaykh Muhammad in statements to reporters after he saw off the Iraqi prime minister, who concluded a two-day visit to Kuwait, at the onset of a regional tour. Shaykh Muhammad said the talks with Al-Ja'fari covered future bilateral cooperation and issues to be discussed at the Brussels Iraq conference. He said the Iraqi government was drumming up support for its plans and wanted donor states to honour commitments they made at the Madrid Conference. The Kuwaiti chief diplomat said his country would mention at the Brussels Conference all sectors it will support as part of the Iraqi reconstruction plans.
+
+Kuwaiti Foreign Minister Sheikh Mohammad Al-Salem Al-Sabah said on August 6, 2005, that the Iraqi-Kuwaiti border was well defined more than any other border in the world, the Kuwait News Agency reported. Sheikh Mohammad stressed that the common borders were well defined "according to international resolutions and there is no dispute over this issue". He recalled the significant role that Kuwait played in liberating Iraq from its previous dictatorial regime. He denied the existence of any wall separating Kuwait from Iraq and added that what Kuwait was doing within its territories concerned no others but the Kuwaitis themselves. He added that such matters were not open for international discussion or bargaining. He pointed out that Kuwait thought a great deal about the ongoing political process in Iraq, adding that he had briefed members of the Kuwaiti National Assembly's Foreign Affairs panel about the developments on the border with Iraq specifically about the latest contacts Kuwait had made on the issue. He added that the Iraqi charges against Kuwait were groundless because most Iraqi leaders were convinced that Kuwait was exercising its sovereignty on its own soil. He indicated that a UN fund had been launched in 1994 to compensate Iraqi farmers for any damage from the way border with Iraq was drawn. Earlier, Acting Speaker of Kuwaiti National Assembly Mohammad Jassem Al-Saqer praised the Kuwaiti diplomacy when addressing the demarcation issue of Iraq-Kuwait border. Iraqi Minister of Foreign Affairs Hoshyar Zebari sent a letter to the Kuwaiti Ministry of Foreign Affairs, in which the official expressed appreciation of Kuwait's reaction to the issue of Kuwait-Iraq border overlap and stressed that Iraq would abide by all international resolutions concerning the tow countries. Hundreds of Iraqis last week gathered at the border area of Umm Qasr to protest a metal border barrier that Kuwait was building between the two countries. According to the local reports, some Iraqis fired several shots into Kuwait, but no one was injured.
+
+Kuwait said on September 6, 2006, it has received assurances from Iraq that Baghdad has taken "tough measures" to stop incursions and shootings from the Iraqi side of the desert border the two countries share. This small oil-rich state had formally complained to the Iraqi government twice in the last two weeks of border incidents and asked it for a "quick response." There were no reports of casualties in these incidents, but Kuwait said they threatened its security and sovereignty and harmed the ties with Iraq.
+
+PS-SOURCES: AFX European Focus December 14, 2004; BBC April 25, 2003; June 20, 2005; Deutsche Presse-Agentur January 12, 2004; June 29, 2004; June 19, 2005; Associated Press Worldstream September 4, 2005; September 6, 2006; Xinhua July 3, 2003; August 6, 2005: Agence France Presse February 22, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

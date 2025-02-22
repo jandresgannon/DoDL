@@ -1,0 +1,227 @@
+FILE: cm211255v11.0.txt 
+DYAD: BELGIUM-GERMANY/PRUSSIA 
+RIVALRY: RIV506 
+DISPUTE(S): MID368 
+RIVALRY: RIV507 
+DISPUTE(S): MID257 MID211 MID127 MID177 MID174 MID12 MID258 MID3702 
+
+PS: 19009999-19140801 .5 19140802-19450508 0.0 19450509-19570323 .5 19570324-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20220221
+PS-LAST-CHECKED: 20220221
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID368 
+
+WWI MIDs: MID257 
+
+WWII MIDs: MID258 MID3702
+
+MID211 
+
+TERRMID: MID211 3 -- not territory
+TERRMID-CER: MID211 1 -- certain 
+TERRMID-NOTES: MID211 from Gibler (2018), France and Belgium threatened to invade and deny German access to the Ruhr, a resource-rich part of Germany, due to Germany's default on reparation payments. France and Belgium responded to German troop deployments in the Ruhr with their own troop deployments. Coded not territory because neither France nor Belgium claimed Ruhn as their own. France and Belgium occupied the Ruhr in an attempt to exert economic pressure on Germany. 
+
+TERRLINK: MID211 3 -- not third party link to territory
+TERRLINK-CER: MID211 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID211 3 -- not maritime 
+MARITMID-CER: MID211 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID211 3 -- not islands 
+ISLMID-CER: MID211 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID211 3 -- not civil war 
+CIVWARMID-CER: MID211 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID211 3 -- not civil war link 
+CIVWARLINK-CER: MID211 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID211 3 -- not coup 
+COUPMID-CER: MID211 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID211 3 -- not coup link
+COUPLINK-CER: MID211 1 -- certain 
+COUPLINK-NOTES: 
+
+MID127 
+
+TERRMID: MID127 3 -- not territory 
+TERRMID-CER: MID127 1 -- certain 
+TERRMID-NOTES: MID127 from Gibler (2018), the Allied Powers were demanding reparations from Germany after WWI, and Germany was trying to negotiate better terms. In 1921, France and Belgium invaded the Ruhr to prevent Germany from extracting resources there. Belgium joined the French in using troop deployments to provide economic pressure on Germany into making reparation payments. Coded not territory because neither France nor Belgium claimed the Ruhr as their own, and they occupied the Ruhr to exert economic pressure on Germany.
+
+TERRLINK: MID127 3 -- not third party link to territory
+TERRLINK-CER: MID127 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID127 3 -- not maritime 
+MARITMID-CER: MID127 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID127 3 -- not islands 
+ISLMID-CER: MID127 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID127 3 -- not civil war 
+CIVWARMID-CER: MID127 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID127 3 -- not civil war link 
+CIVWARLINK-CER: MID127 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID127 3 -- not coup 
+COUPMID-CER: MID127 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID127 3 -- not coup link
+COUPLINK-CER: MID127 1 -- certain 
+COUPLINK-NOTES: 
+
+MID177 
+
+TERRMID: MID177 3 -- not territory 
+TERRMID-CER: MID177 1 -- certain 
+TERRMID-NOTES: MID127 from Gibler (2018), this is another incidence of France and Belgium issuing threats to Germany after Germany defaulted on reparations payments. Here, in 1922, France and Belgium warned Germany they would occupy the Ruhr if Germany did not start making payments, and they eventually occupied Ruhr (to some extent). Coded not territory because neither France nor Belgium were claiming Ruhr as their own, and the occupation was to coerce reparations payments.
+
+TERRLINK: MID177 3 -- not third party link to territory 
+TERRLINK-CER: MID177 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID177 3 -- not maritime 
+MARITMID-CER: MID177 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID177 3 -- not islands 
+ISLMID-CER: MID177 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID177 3 -- not civil war 
+CIVWARMID-CER: MID177 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID177 3 -- not civil war link 
+CIVWARLINK-CER: MID177 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID177 3 -- not coup 
+COUPMID-CER: MID177 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID177 3 -- not coup link
+COUPLINK-CER: MID177 1 -- certain 
+COUPLINK-NOTES: 
+
+MID174 
+
+TERRMID: MID174 3 -- not territory 
+TERRMID-CER: MID174 1 -- certain 
+TERRMID-NOTES: MID174 from Gibler (2018), Germany moved forces into the Rhineland, violating the Treaty of Versailles and drawing France and Belgium into this MID by fortifying the common border with both countries. Coded not territory because the border was not being disputed. 
+
+TERRLINK: MID174 3 -- not third party link to territory 
+TERRLINK-CER: MID174 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID174 3 -- not maritime 
+MARITMID-CER: MID174 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID174 3 -- not islands 
+ISLMID-CER: MID174 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID174 3 -- not civil war 
+CIVWARMID-CER: MID174 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID174 3 -- not civil war link 
+CIVWARLINK-CER: MID174 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID174 3 -- not coup 
+COUPMID-CER: MID174 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID174 3 -- not coup link
+COUPLINK-CER: MID174 1 -- certain 
+COUPLINK-NOTES: 
+
+MID12 
+
+TERRMID: MID12 3 -- not territory
+TERRMID-CER: MID12 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID12 1 -- third party link to territorial MID 
+TERRLINK-CER: MID12 1 -- certain 
+TERRLINK-NOTES: MID12 from Gibler (2018), Germany pressed a claim on Sudetenland, an area of former German control that had been under Czech control since the end of WWI. Germany issued a series of demands to Czechoslovakia, and other Allied Powers, most importantly UK and France, did not offer much support against Germany. The Czech military mobilized in preparation for a German invasion. Eventually UK and France forced Czechoslovakia to surrender part of its territory to Germany. Coded third party link to territorial MID because Belgium, as part of the Allies, became involved in this territorial dispute between Germany and Czechoslovakia. 
+
+MARITMID: MID12 3 -- not maritime 
+MARITMID-CER: MID12 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID12 3 -- not islands 
+ISLMID-CER: MID12 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID12 3 -- not civil war 
+CIVWARMID-CER: MID12 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID12 3 -- not civil war link 
+CIVWARLINK-CER: MID12 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID12 3 -- not coup 
+COUPMID-CER: MID12 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID12 3 -- not coup link
+COUPLINK-CER: MID12 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM: 
+Germany issued an ultimatum to Belgium on August 2, 1914, demanding free passage for the German military through the country, but Belgium rejected the ultimatum. Some 30,000 German troops commanded by General Otto von Emmich invaded Belgium on August 4, 1914. German troops captured Liege on August 16, 1914, and occupied Brussels on August 20, 1914. Some 15,000 Belgians were killed or wounded in the battle for Liege. Some 52,000 Belgians were killed or wounded in the battle for Yser from October 18-November 30, 1914. 
+
+SOURCES-CM: 
+Clodfelter, 1992, 708-709; Langer, 1972, 674. 
+
+NARRATIVE-CR: 
+The main issue between Germany and Belgium throughout the 20th century was German occupation of the Ruhr. The only conflict in the 19th century came over the emergence of Belgium as an independent nation ( MID368 ). The emergence of Belgium fanned the flames or rivalry between France and Germany regarding the natural resources in the region. Although the disputed region is not a border shared by Belgium and Germany, the close relationship between France and Belgium made the dispute relevant. Beginning in 1914 with the First World War ( MID257) a rivalry between France, Britain and Belgium versus Germany over the steel producing Ruhr region was initiated. Germany marched troops through neutral Belgium during WWI in an attempt to engage French forces. Belgium had denied the Germany ultimatum to give the troops passage and Germany proceeded despite the violation of international law. Germany insisted that it would make reparations to Belgium following the war (Thomas p498). 
+
+Following the defeat of Germany, France insisted that Germany's recovery from the war should not be an easy one and therefore Germany should not have access to the resources of the Ruhr which would allow rapid reconstruction (Thomas p498). The loss of the steel was a crippling blow to the staggering German economy. In April of 1920 the Weimar government moved troops into the Ruhr to secure access. France in return also deployed troops ( MID211 The First Occupation of the Ruhr). Britain, France and Belgium issued sanctions against Germany and troops were removed. 
+
+The second occupation of the Ruhr ( MID127 ) began in March of 1921 as France returned troops to the region and left an occupying force to ensure continued German reparations. In 1923 France again sent in troops ( MID177 ), however it was unilateral this time, in an attempt to force Germany repayment of war debts (Schmidt p47). France claimed that Germany had not met the terms of the London schedule of payments and therefore was subject to sanctions (Schmidt p50). France and Belgium took over the operation of Germany railways, forcing Germany to abandon its resistance to the French occupation of Ruhr. Because of a failing economy Germany met France's demands and stopped disputing the Ruhr for over a decade.
+
+In 1936 with a recovered economy and an expanding and aggressive posture, Germany once again had designs on the Ruhr. In order to establish itself as a military and economic power Germany could not be dependent on a French controlled source of steel. In September of 1938 Hitler made efforts to absorb the Sudetenland, a highly industrialized Czech region where the inhabitants were primarily German speaking (Clodfelter 1992). After absorbing Austria into the German Empire, Czechoslovakia was surrounded on three sides, giving Germany a distinctive tactical position. Seeing that Germany was in a powerful position regarding the Sudentenland the Allied Powers negotiated the Munich Agreement with Germany which granted predominantly ethnic German areas of Czechoslovakia to Hitler's Germany ( MID12 ). At the time the Allied Powers preferred non-conflict to a possible world war in which they would be fighting to deny a minority group's rights of self-determination (Clodfelter 1992). 
+
+The final dispute between Belgium and Germany was part of the German military campaign to concur Western Europe. MID3702 was resolved in May of 1940 when Germany invaded and seized Belgium on the 10th. The occupation of Belgium was a step in the German invasion and occupation of France and did not specifically involve any particular issues between Belgium and Germany. After the Germans successfully invaded the Belgium government was overthrown, effectively ending the rivalry. Full resolution came about with the defeat and surrender of Germany to the Allied Powers 
+
+SOURCES-CR: 
+Clodfelter 1992; Schmidt 1968; Thomas 1983
+
+SB-CR: 
+Belgium / Germany Years: 1912-1954 Issues at stake: Territory of Belgium. Belgian policy toward France/Germany. Possibly colonial friction. End Date: 1954 treaty resolving territorial issues. Number of militarized disputes: 9. Number of 30 day reciprocated militarized disputes: 5. Last militarized dispute: 1940 (WWII). Wars: 1914-1918, 1940. Summary: Some tension between Belgium and Germany existed as early as the 1830s, when debate took place between the newly independent Belgium and Germany (Prussia) concerning Belgium's supposed neutrality and its foreign policy. In the late 1800s, there was some friction over colonies in Africa, although there do not seem to have been any open militarized disputes. Borders between the Belgian Congo and German East Africa were agreed to in 1910 and 1911, prior to the beginning of the rivalry. In fact, it is actually somewhat unclear exactly what was involved in the 1912 dispute marking the beginning of the Belgian-German rivalry. This dispute involves Belgium against Germany, France, and Britain, but the three Great Powers do not respond. 1914 could be a plausible alternate beginning date. 1914 demonstrated the beginning of the biggest problem between Belgium and Germany, namely that Belgium was in the way of German ambitions toward (and fears of) France. There was not a directly disputed border between Germany and Belgium. As a result, the existence of a continuous / connected issue in dispute here is somewhat more marginal than in most rivalries. After WWI, however, Belgium took more active steps than before to ensure its security against Germany. In 1920, for instance, Belgium signed a military treaty with France which was seen by the Germans as a threat. In early 1923, as part of an attempt to force German compliance with the terms of the WWI settlement, French and Belgian troops invaded and occupy the Ruhr district. In WWII, Belgium was again in Germany's way, and in 1940 German forces again invaded and occupied Belgium not because of a dyadic territorial claim, but as a part of the broader German expansion westward. 
+Sources: Helmreich (1976), Langer (1972) 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

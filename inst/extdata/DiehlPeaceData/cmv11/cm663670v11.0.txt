@@ -1,0 +1,108 @@
+FILE: cm663670v11.0.txt
+DYAD: JORDAN-SAUDI ARABIA
+RIVALRY: RIV1257
+DISPUTE(S): MID3153 
+RIVALRY: RIV1258
+DISPUTE(S): MID3957 
+
+PS: 19460322-19580213 .25 19580214-20209999 .50
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry 19460000 ,19580000; thompson does not give year and month we start it on the date of the Jordan and Iraq formed the Arab Federation, under which Saudi Arabia was invited to play a role
+jordan enters system 19460322, saudi arabia 19270520
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3153
+
+TERRMID: MID3153 3 -- not territory
+TERRMID-CER: MID3153 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3153 3 -- not third party link to territory 
+TERRLINK-CER: MID3153 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3153 3 -- not maritime 
+MARITMID-CER: MID3153 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3153 3 -- not islands 
+ISLMID-CER: MID3153 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3153 3 -- not civil war 
+CIVWARMID-CER: MID3153 3 -- uncertain
+CIVWARMID-NOTES: MID3153 from Gibler, Miller, and Little 2016, in 1956 Jordan experienced domestic protests in response to the Baghdad Pact. Jordan accused Egypt and Saudi Arabia of inciting the protests with radio broadcasts into Jordan. Coded uncertain because GML recommend this case be dropped since there is no threat and no show of force. Coded not civil war because there is no indication that the riots featured militarized rebels. The New York Times (1/11/1956) desribes the event as mobs made mostly of young men who were rioting, but did not say they were armed or organized into any type of group. 
+
+CIVWARLINK: MID3153 3 -- not civil war link
+CIVWARLINK-CER: MID3153 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3153 3 -- not coup 
+COUPMID-CER: MID3153 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3153 3 -- not coup link
+COUPLINK-CER: MID3153 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 3 -- uncertain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Saudi Arabia, as part of a coalition, expelled Iraq from Kuwait. (Saudi was also allowing the US to use bases in its territory to launch air raids.) Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Saudi became involved to expel Iraq from Kuwait. Coded uncertain because Gibler 2018 does not list Jordan as a participant in this dispute, and Jordan did not participate in the military action or support either side.
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: RIV1258 is not present in current version of MID dataset.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1956). Egypt, Saudi Arabia Accused by Jordan. New York Times January 11. By Osgood Caruthers and Harry Gilroy, Special to The New York Times: 1.

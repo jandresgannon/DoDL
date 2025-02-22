@@ -1,0 +1,248 @@
+FILE: cm710712v11.0.txt
+DYAD: CHINA-MONGOLIA
+RIVALRY: RIV11289
+DISPUTE(S): MID1197 MID3265 MID2713 
+RIVALRY: RIV1291
+DISPUTE(S): MID4178 
+
+PS: 19210313-19430831 .5 19430901-19920924 0.25 19920925-20209999 0.5
+
+PS-UPDATE2020: On June 23, 2016, China, Mongolia, and Russia signed a tripartite agreement to transport connectivity through road, rail, and port construction, as part of the Belt and Road Initiative: https://www.un.org/sustainabledevelopment/blog/2016/12/china-mongolia-and-russian-federation-to-open-up-new-era-of-trade-cooperation/ See also: https://www.china-briefing.com/news/china-mongolia-relations/
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220324
+PS-LAST-CHECKED: 20220324
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID1197 MID3265 
+
+MID3265 
+
+TERRMID: MID3265 1 -- territorial MID
+TERRMID-CER: MID3265 1 -- certain 
+TERRMID-NOTES: MID3265 from Benson 1990, China had an active territorial dispute with Mongolia and claimed part of its territory after WWII. The Mongolian forces were supporting Chinese rebels as part of their own fight against the Chinese, so this MID is also a territorial MID between China and Mongolia. 
+
+TERRLINK: MID3265 3 -- not third party link to territory 
+TERRLINK-CER: MID3265 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3265 3 -- not maritime 
+MARITMID-CER: MID3265 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3265 3 -- not islands 
+ISLMID-CER: MID3265 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3265 1 -- civil war MID
+CIVWARMID-CER: MID3265 1 -- certain 
+CIVWARMID-NOTES: MID3265 from Gibler 2018, in 1947 Mongolian forces, with support from Russia, attacked Chinese forces in support of an ongoing rebellion in the Xinjiang province (Ili Rebellion). Rebels in Xinjiang were fighting against China and eventually established a government in Xinjiang for several years. Coded civil war MID because this was connected to militarized rebel activity within this dyad. 
+
+CIVWARLINK: MID3265 3 -- not civil war link 
+CIVWARLINK-CER: MID3265 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3265 3 -- not coup 
+COUPMID-CER: MID3265 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3265 3 -- not coup link
+COUPLINK-CER: MID3265 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2713 
+
+TERRMID: MID2713 3 -- not territory 
+TERRMID-CER: MID2713 3 -- uncertain 
+TERRMID-NOTES: MID2713 from Gibler 2018, in 1974 China and Russia clashed on Mongolian territory. Both states denied that the clash occurred. Coded not territory because China and Mongolia are not disputing a boundary here, and coded uncertain because Gibler 2018 does not consider Mongolia a party to this MID between China and Russia. 
+
+TERRLINK: MID2713 1 -- third party link to territorial MID
+TERRLINK-CER: MID2713 3 -- uncertain 
+TERRLINK-NOTES: MID2713 coded third party link to territorial MID because this MID is a territorial MID (per Gibler 2018 and cm narrative) in the Russia-China 365710 dyad. Russia and China clashed at their disputed border. Coded uncertain because Gibler 2018 does not consider Mongolia a party to this dispute. 
+
+MARITMID: MID2713 3 -- not maritime 
+MARITMID-CER: MID2713 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2713 3 -- not islands 
+ISLMID-CER: MID2713 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2713 3 -- not civil war 
+CIVWARMID-CER: MID2713 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2713 3 -- not civil war link 
+CIVWARLINK-CER: MID2713 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2713 3 -- not coup 
+COUPMID-CER: MID2713 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2713 3 -- not coup link
+COUPLINK-CER: MID2713 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4178 
+
+TERRMID: MID4178 3 -- not territory 
+TERRMID-CER: MID4178 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4178 3 -- not third party link to territory 
+TERRLINK-CER: MID4178 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4178 3 -- not maritime 
+MARITMID-CER: MID4178 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4178 3 -- not islands 
+ISLMID-CER: MID4178 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4178 3 -- not civil war 
+CIVWARMID-CER: MID4178 3 -- uncertain 
+CIVWARMID-NOTES: MID4178 from Gibler, Miller, and Little 2016, Mongolian alcohol smugglers crossed into China and were shot at by Chinese forces. Coded not civil war because this was connected to smuggling, not militarized rebels, and coded uncertain because GML recommend this case be dropped, since Mongolia took no action.
+
+CIVWARLINK: MID4178 3 -- not civil war link 
+CIVWARLINK-CER: MID4178 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4178 3 -- not coup 
+COUPMID-CER: MID4178 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4178 3 -- not coup link
+COUPLINK-CER: MID4178 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4178
+rivalry=710712 nationa=CHINA nationb=MONGOLIA MID4178 19991013-19991013 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+This dispute consists of one incident in which Chinese border forces shot a Mongolian national that crossed the border into China. Mongolia protested the incident This dispute consists of one incident in which Chinese border forces shot a Mongolian national that crossed the border into China. Mongolia protested the incident. First and last day of dispute was on 10/13/1999.
+
+RIVNOTES: 
+rivalries RIV1289 and RIV1290 are combined to because they are basically over the same issues, creating riv11289 
+
+NARRATIVE-CM:
+On November 18, 1911, Mongolia declared its independence from China following the overthrow of the Manchu dynasty. Russia established a protectorate over Mongolia on November 3, 1912. Chinese troops invaded Mongolia in October 1919, and the troops gained complete control over the country in February 1920. Russian (anti-Bolshevik) troops commanded by Baron Roman von Ungern-Sternberg invaded Mongolia in October 1920, and the Russian troops forced the Chinese troops out of the capital of Urga on February 3, 1921. The *Revolutionary Provisional Government of Mongolia* was established on March 12, 1921. Russian (Bolshevik) troops captured Urga on July 6, 1921. Russian (Bolshevik) troops captured and executed Baron Ungern-Sternberg. The *Mongolian People's Republic* was proclaimed on November 26, 1924, and the capital city was renamed Ulan Bator. *Mongolians voted overwhelmingly for independence in a plebiscite held on October 20, 1945. The Chinese government officially recognized the independence of Mongolia on January 5, 1946. On June 5, 1947, Mongolian troops entered Sinkiang province, China to repatriate Mongolian soldiers captured by Chinese troops. Mongolian troops withdrew from Chinese territory on June 8, 1947. On May 27, 1967, China demanded an apology from Mongolia for a police attack against Chinese nationals in Ulan Bator on May 21, 1967.
+
+SOURCES-CM: 
+Butterworth, 1976, 39-40; Clodfelter, 1992, 652-653; *Facts on File*, July 27-August 2, 1967; *Keesing,* June 28-July 5, 1947. 
+
+NARRATIVE-CR:
+For most of the post WWII era, China has seen Mongolia as an extension of first Soviet and later Russian power in the far east. The relationship between China and Mongolia largely parallels that of China and the Soviet Union. In 1950 China and the USSR issued a joint communique that affirmed the independence of Mongolia. In the 1960's and 1970's this led to tense relations between China and Mongolia, most notably after the placement of large numbers of Soviet troops in Mongolia in 1967. As tensions with the USSR declined in the late 1970's and into the 1980's, the relationship between Mongolia and China improved apace. Tensions have gradually declined since the late 1970's, notably with the Soviet decision to withdraw significant numbers of troops in 1986. In 1984 Tsedenbal, leader of the Mongolian Communist government was ousted with the tacit support of the Soviet government. In 1986, the Gorbachev government of the USSR removed traditional Soviet objections to Mongolia's opening to the rest of the world. This led to a widespread increase in Mongolian diplomatic activity which improved relations with China and the rest of the world. In early 1992 Chinese President Yang Shangkun visited Ulan Bator to negotiate terms of an agreement regarding Mongolian access to Chinese markets and access to Chinese port and transportation facilities. In April 1994, Chinese premier LiPeng visited Ulan Bator and signed a bilateral treaty guaranteeing Mongolian access to Chinese port facilities via Chinese territory. In 1998 Mongolian President N. Bagabandi visited China as a symbol of improved relations between the two countries.
+
+DISPUTE: MID1197 CHINA SIDE A
+ NAME: China/Mongolia clash
+ DATES: 19430901 19430908
+ ORIGINATOR: YES
+ REVISION1: POLICY REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: . RECIPROCATED: YES
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+DISPUTE: MID1197 MONGOLIA SIDE B
+ NAME: China/Mongolia clash
+ DATES: 19430901 19430908
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: . RECIPROCATED: YES
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+MID3265 occurred from May 12, 1947 to February 1948 and it seems to be over border clashes and intrusions from Soviet Union to China's Xinjiang province. The city of Peitashan, 50 km inside China's border was reportedly captured by Mongols with the help of Soviet troops. It is coded as the `Second Ili Rebellion'. 
+
+MID2713 occurred in December 1974 and it involved border clashes at the Mongolian border between Russian and Chinese troops. 
+
+DISPUTE: MID2713 MONGOLIA SIDE B
+ NAME: Mongolian border clashes
+ DATES: 19741200 19741200
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: . RECIPROCATED: YES
+ OUTCOME: STALEMATE
+ VERSION: 3.02
+
+DISPUTE: MID2713 RUSSIA/USSR SIDE B
+ NAME: Mongolian border clashes
+ DATES: 19741200 19741200
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: . RECIPROCATED: YES
+ OUTCOME: STALEMATE
+ VERSION: 3.02
+
+DISPUTE: MID2713 CHINA SIDE A
+ NAME: Mongolian border clashes
+ DATES: 19741200 19741200
+ ORIGINATOR: YES
+ REVISION1: POLICY REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: . RECIPROCATED: YES
+ OUTCOME: STALEMATE
+ VERSION: 3.02
+
+MID4178 This dispute consists of one incident in which Chinese border forces shot a Mongolian national that crossed the border into China. Mongolia protested the incident.
+
+DISPUTE: MID4178 MONGOLIA SIDE B
+ NAME: 
+ DATES: 19991013 19991013
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: NOT APPLICABLE
+ HOSTILITY: NO MILITARIZED ACTION FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+DISPUTE: MID4178 CHINA SIDE A
+ NAME: 
+ DATES: 19991013 19991013
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: NOT APPLICABLE
+ HOSTILITY: USE OF FORCE FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+SOURCES-CR:
+Batbayar208-211; Harding, 26,27, 65,66; COW narrative.
+
+PS-NARRATIVE:
+19430901-19920924 RIV1289/RIV1290-0.25 
+
+Mongolians voted overwhelmingly for independence in a plebiscite held on October 20, 1945. The Chinese government officially recognized the independence of Mongolia on January 5, 1946. On June 5, 1947, Mongolian troops entered Sinkiang province, China to repatriate Mongolian soldiers captured by Chinese troops. Mongolian troops withdrew from Chinese territory on June 8, 1947.
+
+The People's Republic of China established diplomatic relations with Mongolia on October 16, 1949 and both nations signed a border treaty in 1962. On January 8, 1963, the Mongolian Prime Minister aligned his country with Soviet Union and against China. With the Sino-Soviet split, Mongolia aligned itself with the Soviet Union and asked for the deployment of Soviet forces, leading to security concerns in China. On May 19, 1969, there were hostility flare-ups reported at the border between China and Mongolia. As a result, bilateral ties remained tense until July 1984, when a high-level Chinese delegation visited Mongolia and both nations began to survey and demarcate their borders. Starting in April 1986, a series of agreements to bolster trade and establishing transport and air links were signed. In 1988, both nations signed a treaty on border control. Mongolia also began asserting a more independent policy and pursued more friendly ties with China. Mongolia has always been suspicious that China wants to claim Mongolian territory, and concerned by fears of China's overpopulation pouring into Mongolian territory.
+
+19920925-20159999 0.5 
+
+On September 25, 1992, Soviet Union's troops were fully withdrawn from Mongolia, a major of discontent in the Sino-Mongolian relations. 
+
+In early 1992 Chinese President Yang Shangkun visited Ulan Bator to negotiate terms of an agreement regarding Mongolian access to Chinese markets and access to Chinese port and transportation facilities. In April 1994, Chinese premier LiPeng visited Ulan Bator and signed a bilateral treaty guaranteeing Mongolian access to Chinese port facilities via Chinese territory. China and Mongolia signed a treaty on friendly relations of cooperation between the two countries in Ulaan-Baator on April 29, 1994. The treaty was signed by visiting Chinese Premier Li Peng and Mongolian Prime Minister P. Jasray. The treaty states that the Sino-Mongolian treaty on friendship and mutual help signed in 1960 played an important role in developing bilateral relations. The two sides are willing to consolidate the traditional friendship between the Chinese and Mongolian peoples, believe that further strengthening of Sino-Mongolian friendly relations of cooperation not only conforms with the fundamental interests of the two peoples, but will also benefit peace, stability and development in the Asia-Pacific region. Also, they pledged to abide by the goal and principles of the Charter of the United Nations. For all these reasons, China and Mongolia have decided to revise the previous treaty on friendship and mutual help and reached the new treaty. The two sides should develop good-neighbourly and friendly relations of cooperation on the basis of the principles of mutual respect for each other's independence, sovereignty and territorial integrity, non-aggression, non-interference in each other's internal affairs, equality and mutual benefit, and peaceful coexistence, the treaty says. The two sides will have regular consultations on the growth of bilateral relations so as to promote the expansion of ties between the parliaments, government organs, social groups and localities of the two countries, the document says. Also, the two sides will develop long-term and stable cooperation of equality and mutual benefit in the fields of politics, economy, trade, culture, education, science and technology, environmental protection, communications and telecommunications. The two sides will also conduct consultations on issues of the Asia-Pacific region and the world as a whole, the treaty says. Besides, the two sides will cooperate in the scope of the United Nations and other international organizations so as to promote cooperation among all nations and to push for the resolution of regional and international issues that ask for an urgent settlement. The two sides will not participate in any military or political alliance directed against the other side; nor will they sign any treaty that will hurt the sovereignty or security of the other side, according to the treaty. Neither side will allow any third country to use its territory to harm the sovereignty and security of the other, the document says. However, this treaty will not affect the obligations either side is required to undertake according to bilateral or multilateral treaties signed with other countries. While the treaty will remain effective, as from 1994, on a long-term basis, it can be amended or revised with agreement of the two sides, the document says.
+
+In 1998 Mongolian President N. Bagabandi visited China as a symbol of improved relations between the two countries.
+
+On July 15, 1999, China's president, Jiang Zemin, gave reporters an optimistic assessment of Sino-Mongolian relations prior to his visit there. Jiang highlighted Mongolian President Bagabandi's successful state visit to China in 1998. That visit had defined long-term, stable, healthy and good-neighbourly friendship and cooperation marked by mutual trust and oriented towards the 21st century. Jiang hoped that his current visit would build on the achievements of Bagabandi's visit and the legal basis for stable and healthy relations set out in the China-Mongolia Treaty on Friendly Cooperative Relations signed between the two countries five years ago.
+
+Through the first decade of the 21st century a large number of treaties and agreement were signed between China and Mongolia allowing for Chinese companies to invest in Mongolia's oil, gas, infrastructure and other natural resources. 
+
+PS-SOURCES:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Benson, Linda. 1990. The Ili Rebellion: The Moslem Challenge to Chinese Authority in Xinjiang, 1944-1949. Armonk, NY: M.E. Sharpe. 

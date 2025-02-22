@@ -1,0 +1,89 @@
+FILE: cm002091v11.0.txt
+DYAD: USA - HONDURAS
+RIVALRY: RIV19
+DISPUTE(S): MID1734 
+RIVALRY: RIV20
+DISPUTE(S): MID1170 
+
+PS-LAST-CHANGED: 20170731 
+PS-LAST-CHECKED: 20170731
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1734 
+
+TERRMID: MID1734 3 -- not territory
+TERRMID-CER: MID1734 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1734 3 -- not third party link to territory 
+TERRLINK-CER: MID1734 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1734 3 -- not maritime 
+MARITMID-CER: MID1734 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1734 3 -- not islands 
+ISLMID-CER: MID1734 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1734 1 -- civil war MID
+CIVWARMID-CER: MID1734 3 -- uncertain
+CIVWARMID-NOTES: MID1734 from NYT 1/16/1911, the US urged Guatemala to respect the policy of neutrality in the ongoing revolution in Honduras. The US believed that Guatemala was providing support to Honduran rebels, and the US was opposed to that rebel movement in Honduras. The warning/urging by the US is what triggers the MID here. Coded civil war MID because this incident is centered on the revolution in Honduras, within this dyad. Coded uncertain because Gibler, Little, and Miller (2016: IIB-15) recommend this case be dropped. GLM argue that the US did not issue a warning or officially protest with respect to Guatemala or any other country involved in this MID (including Honduran rebels here), but rather issued a vague, undirected warning that does not meet the criteria of a militarized threat. 
+
+CIVWARLINK: MID1734 3 -- not civil war link
+CIVWARLINK-CER: MID1734 1 -- certain
+CIVWARLINK-NOTES: MID1734 is a multilateral MID involving Guatemala, but this MID is centered on civil conflict in Honduras and not in any country outside of this dyad. 
+
+COUPMID: MID1734 3 -- not coup 
+COUPMID-CER: MID1734 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1734 3 -- not coup link
+COUPLINK-CER: MID1734 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1170 
+
+TERRMID: MID1170 3 -- not territory
+TERRMID-CER: MID1170 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1170 3 -- not third party link to territory 
+TERRLINK-CER: MID1170 1 -- certain
+TERRLINK-NOTES: MID1170 from NYT 4/10/1929, the US bombed the disputed territory between Nicaragua and Honduras after one of their planes was fired on by "outlaws" in a small Honduran town. The town was located in a piece of disputed territory between Honduras and Nicaragua, but this was not connected to that border dispute. Honduran and Nicaraguan troops were actually cooperating in the region at this time in order to stamp out roving gangs of bandits. Coded not third party link to territory because although Honduras and Nicaragua, both involved in this MID, had an ongoing territorial dispute, this MID is not connected to that dispute. 
+
+MARITMID: MID1170 3 -- not maritime 
+MARITMID-CER: MID1170 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1170 3 -- not islands 
+ISLMID-CER: MID1170 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1170 3 -- not civil war
+CIVWARMID-CER: MID1170 1 -- certain
+CIVWARMID-NOTES: MID1170 from NYT 4/11/1929, Honduran troops patrolling the disputed border were there to prevent raids by bandits and Nicaraguan rebels. Nicaragua also had troops near the border to prevent raiding by bandits. This MID was triggered when the US bombed that disputed territory in retaliation for bandits firing on a US plane, and Honduras protested partially because its troops were in the area. Coded not civil war because although the troops were in the area looking for rebels, Nicaragua and Honduras never protested the other's actions here, and they were cooperating in the area. The US's actions triggered this MID, and the US was not attacking rebels.
+
+CIVWARLINK: MID1170 3 -- not civil war link
+CIVWARLINK-CER: MID1170 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1170 3 -- not coup 
+COUPMID-CER: MID1170 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1170 3 -- not coup link
+COUPLINK-CER: MID1170 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+SOURCES-CR:
+
+NYT 1/16/1911, 4/10/1929, 4/11/1929

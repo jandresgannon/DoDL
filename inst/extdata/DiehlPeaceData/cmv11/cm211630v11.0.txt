@@ -1,0 +1,92 @@
+FILE: cm211630v11.0.txt
+DYAD: BELGIUM - IRAN
+RIVALRY: RIV516
+DISPUTE(S): MID2544 MID2814 
+
+PS-LAST-CHECKED: 20180217
+PS-LAST-CHANGED: 20180217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2544 
+
+TERRMID: MID2544 3 -- not territory 
+TERRMID-CER: MID2544 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2544 1 -- third party link to territorial MID
+TERRLINK-CER: MID2544 1 -- certain 
+TERRLINK-NOTES: MID2544 from Gibler (2018), Iran aircraft buzzed a Belgian oil tanker and dropped a bomb on it. Iran was trying to disrupt Iraq's oil trade by bombing oil tankers in the Persian Gulf who were transporting oil from Iraq. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2544 3 -- not maritime 
+MARITMID-CER: MID2544 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2544 3 -- not islands 
+ISLMID-CER: MID2544 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2544 3 -- not civil war 
+CIVWARMID-CER: MID2544 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2544 3 -- not civil war link 
+CIVWARLINK-CER: MID2544 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2544 3 -- not coup 
+COUPMID-CER: MID2544 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2544 3 -- not coup link
+COUPLINK-CER: MID2544 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2814 
+
+TERRMID: MID2814 3 -- not territory 
+TERRMID-CER: MID2814 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2814 1 -- third party link to territorial MID
+TERRLINK-CER: MID2814 3 -- uncertain 
+TERRLINK-NOTES: MID2814 from Gibler, Miller, and Little (2016), this MID occurred in 1987, while the IRan-Iraq War was still ongoing. During that war, Iran laid mines in the Persian Gulf as part of its strategy of controlling the gulf and damaging ships exporting oil from Iraq. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute, and coded uncertain because GLM recommend this case be dropped since it was not a show of force and Iran did not protest. 
+
+MARITMID: MID2814 3 -- not maritime 
+MARITMID-CER: MID2814 3 -- uncertain 
+MARITMID-NOTES: MID2814 from Gibler, Miller, and Little (2016), Belgium, as part of a coalition of countries sweeping the Persian Gulf for mines, entered the Persian Gulf with naval vessels. Coded not maritime because no boundary was disputed, but coded uncertain because GLM recommend this case be dropped as it was not a show of force and Iran did not protest.
+
+ISLMID: MID2814 3 -- not islands 
+ISLMID-CER: MID2814 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2814 3 -- not civil war 
+CIVWARMID-CER: MID2814 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2814 3 -- not civil war link 
+CIVWARLINK-CER: MID2814 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2814 3 -- not coup 
+COUPMID-CER: MID2814 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2814 3 -- not coup link
+COUPLINK-CER: MID2814 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

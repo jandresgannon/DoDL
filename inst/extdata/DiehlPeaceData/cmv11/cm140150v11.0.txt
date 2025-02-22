@@ -1,0 +1,120 @@
+FILE: cm140150v11.0.txt
+DYAD: BRAZIL-PARAGUAY
+RIVALRY: RIV311
+DISPUTE(S): MID1587 MID1588 MID2236 MID1589 MID1590 
+RIVALRY: RIV312
+DISPUTE(S): MID2146 MID2316 
+
+PS: 19009999-19281030 .5 19281031-19300510 .25 19300511-19910325 .5 19910326-20209999 0.75 
+
+PS-UPDATE2020:
+
+PSNOTES: MERCOSUR dyad 
+
+PS-LAST-CHANGED: 20220218
+PS-LAST-CHECKED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1587 MID1588 MID2236 MID1589 MID1590 
+
+MID2146 
+
+TERRMID: MID2146 3 -- not territory
+TERRMID-CER: MID2146 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2146 1 -- third party link to territorial MID
+TERRLINK-CER: MID2146 3 -- uncertain
+TERRLINK-NOTES: MID2146 from MID-B data, this MID has date 10/13/1928. From Gibler, Little, and Miller (2016), this MID was actually a territorial clash between Paraguay and Bolivia that spilled over onto Brazilian territory, pulling Brazil into this MID. GLM argue this case should be dropped because Brazil did not protest and was neither the target nor the issuer of a threat or use of force. Coded uncertain because of this. 
+
+MARITMID: MID2146 3 -- not maritime 
+MARITMID-CER: MID2146 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2146 3 -- not islands 
+ISLMID-CER: MID2146 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2146 3 -- not civil war 
+CIVWARMID-CER: MID2146 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2146 3 -- not civil war link
+CIVWARLINK-CER: MID2146 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2146 3 -- not coup 
+COUPMID-CER: MID2146 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2146 3 -- not coup link
+COUPLINK-CER: MID2146 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2316 
+
+TERRMID: MID2316 1 -- territorial MID
+TERRMID-CER: MID2316 1 -- certain 
+TERRMID-NOTES: MID2316 from Schultz data, Brazil and Paraguay had a territorial dispute over the area of Ilha Margarida. An agreement to end the dispute had been signed in 1927, but the issue did not actually get resolved until several years after this MID in a separate treaty. Here, police forces of the two countries clashed in the disputed area. Coded territorial MID because this was connected to tensions from the the territorial dispute that later required another agreement to settle. 
+
+TERRLINK: MID2316 3 -- not third party link to territory 
+TERRLINK-CER: MID2316 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2316 3 -- not maritime 
+MARITMID-CER: MID2316 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2316 3 -- not islands 
+ISLMID-CER: MID2316 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2316 3 -- not civil war 
+CIVWARMID-CER: MID2316 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2316 3 -- not civil war link
+CIVWARLINK-CER: MID2316 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2316 3 -- not coup 
+COUPMID-CER: MID2316 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2316 3 -- not coup link
+COUPLINK-CER: MID2316 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Brazil and Paraguay disputed their border following Paraguay's independence from Spain on May 14, 1811. Brazil severed diplomatic relations with Paraguay on November 12, 1864 after an incident on the Paraguay river on November 11, 1864. Brazil and Paraguay engaged in military hostilities from March 18, 1865 to March 1, 1870. Brazil and Paraguay signed a formal ceasefire agreement in Asuncion on June 20, 1870, and the countries signed a peace treaty in Asuncion on January 9, 1872. Brazil and Paraguay also signed a boundary agreement in Asuncion on January 9, 1872, which provided for the delimitation of the border between the countries. Brazilian and Paraguayan commissioners completed demarcation of the border on November 14, 1874. Brazil and Paraguay signed another boundary agreement in Rio de Janeiro on May 21, 1927, providing for the delimitation of outstanding border disputes. On May 9, 1930, the countries signed a protocol for demarcation of the border by a mixed commission in Rio de Janeiro. Brazil and Paraguay disputed the sovereignty of the Guaira Falls (Salto de Guaira) region beginning in 1962. The countries agreed to established a joint technical commission to develop the disputed region on June 22, 1966.
+
+SOURCES-CM:
+Sources: Ireland, 1938, 117-123; Langer, 1972, 848-849, 854-855.
+
+NARRATIVE-CR:
+The Brazil-Parguay rivalry is probably best characterized by conflict resulting from Brazilian threats to Paraguayan security. This is due to two principal reasons. First, with the independence of both the Spanish and Portuguese colonies came ambiguous and contested borders. Thus countries would often claim territory in possession by another country. Second, Brazil and its empire sought to dominate the region because of its size and wealth and thus found itself competing constantly with its Spanish neighbors either bilaterally as with Argentina or in various alliances against it. The militarized disputes that occur throughout the 19th century all stem from these reasons, with Paraguay as early as 1850, attempting to force Brazil out of territory it claimed while Brazil was forcefully determined to stay (MID1587 on 9/15/1850, MID1588 on 1/15/1855). 
+
+These militarized conflicts led to a treaty in April 1856 that provided for arbitration of the Brazilian-Paraguayan boundary within six years along with talks about opening the Paraguay and Parana rivers to free navigation. While Paraguay ratified the treaty, Carlos Antonio Lopez, dictator of Paraguay, initiated a policy that called for the hampering of Brazilian navigation on the Paraguay river from 1856 to 1858 (MID2236 on 8/10/1856). The dispute was again settled temporarily when Brazil forced Paraguay to grant free navigation of the Paraguay river in 1858. In 1859, the two countries severed relations. From 1859 to 1862, both sides increasingly militarized their common border (it appears that MID1589 on 4/14/1862 was one incident when the increased militarization led to a border skirmish). On October 16, 1862, Francisco Lopez took office after his father's death.
+
+In 1864, Lopez allied with Uruguayan president Aguirre and Justo Urquiza, governor of the Argentine Province of Entre Rios, in an effort to defend Uruguay from an attack by Brazil. The motivation for a possible Brazilian attack resulted from Brazilian claims for reparations due to injury and property damage brought about by the lack of Uruguayan government protection within its borders. President Aguirre, a member of the Blanco Party, ignored these claims. After diplomatic efforts to gain concessions from Aguirre failed, Brazil decided to intervene in Uruguay to support a pro-Brazilian member of the Colorado party, General Flores. Lopez of Paraguay immediately attacked Brazil on November 11, 1864 (MID1590). On January 14, 1865 Paraguay requested permission to send its army through Argentine territory to attack Brazil. Argentine refused but the Paraguayan dictator would not accept the refusal, forcing Argentina to declare war on Paraguay. General Flores in Uruguay defeated Aguirre's forces and joined into an alliance with Brazil and Argentina in May 1865 with signature of the Treaty of the Triple Alliance. In 1866, the US offered to mediate the conflict but the alliance refused to accept anything but Paraguay's defeat. On March 1, 1870, Paraguay was defeated and its dictator Lopez was killed. The two countries signed a treaty in December 1871 establishing both peace and boundary limits. An additional treaty was signed in 1872 defining boundaries with the exception of the area between the Apa river and Bahia Negra which both countries claimed. 
+
+The war proved disastrous for Paraguay. Its population was reduced by 2/3 from 1,000,000 to approximately 330,000. Economically the state was also ruined as well. War indemnities alone were more than the country could pay. In addition, both Brazil and Argentina militarily occupied the country until 1876. 
+
+Domestically, the country remained in constant instability after foreign troops departed. After 1876, the country was run by war hero General Bernardino Caballero and his conservative Republican party until 1904. In 1904, Paraguay suffered a liberal revolution from August through December. After reaching an agreement that terminated the revolution, both parties tried unsuccessfully to normalize domestic politics. Another revolution occurred in 1911, further increasing internal conflict and instability. Through the period from 1876 until 1932, Paraguay had twenty-nine presidents in office. 
+
+Clearly with such a decisive defeat and complete domestic chaos, Paraguay had no means by which to continue the rivalry with Brazil. Even for Brazil, the economic price of the war was overwhelming, costing over 500 million dollars. In the end, however, Brazil was able to settle its disputes with Paraguay and realize its territorial claims. 
+
+There were two additional disputes between the two countries in 1928 (MID2146 on 10/31/1928) and 1930 (MID2316 on 2/15/1930) that also seemed to revolve around an unresolved boundary and ownership of the territory of Ilha Margarida. In May 1927, Brazil and Paraguay signed a treaty dealing with the dispute but the treaty left unresolved issues that were not settled until May 10, 1930 when the countries signed a protocol that official settled the boundary question. While these two disputes did involve territorial issues, they seem to be much less contentious and out of the context of security issues and sovereign intervention as the previous disputes during the 19th century. Thus, it seems that these would be better classified as isolated instead of part of the earlier rivalry. 
+
+SOURCES-CR: 
+Wilgus (1934); Warren (1949); *New York Times* 5/11/1930; Bethell (1989); Burns (1970) 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+

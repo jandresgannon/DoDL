@@ -1,0 +1,121 @@
+FILE: cm002700v11.0.txt
+DYAD: USA-AFGHANISTAN
+RIVALRY: RIV97
+DISPUTE(S): MID4227 MID4283 
+
+PS: 19190808-19980819 0.5 19980820-20011115 0.00 20011116-20209999 0.50
+
+PSNOTES: 20011116-20159999 is coded as 0.50 in line with coding of USA-Iraq.
+
+PS-LAST-CHANGED: 20220702
+PS-LAST-CHECKED: 20220702
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4227 
+
+TERRMID: MID4227 3 -- not territory 
+TERRMID-CER: MID4227 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4227 3 -- not third party link to territory 
+TERRLINK-CER: MID4227 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4227 3 -- not maritime 
+MARITMID-CER: MID4227 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4227 3 -- not islands 
+ISLMID-CER: MID4227 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4227 3 -- not civil war 
+CIVWARMID-CER: MID4227 1 -- certain 
+CIVWARMID-NOTES: MID4227 al Qaeda was based in Afghanistan but was not an opponent of the Afghan government, thus no civil war in Afghanistan connected to al Qaeda. See CIVWARLINK. 
+
+CIVWARLINK: MID4227 1 -- civil war link 
+CIVWARLINK-CER: MID4227 1 -- certain 
+CIVWARLINK-NOTES: MID4227 from cm narrative, this MID was triggered on 8/20/1998 when the US fired missiles at suspected terrorist training camps in Afghanistan against groups suspected to be responsible for attacks on US embassies in Tanzania and Kenya. Coded civil war link because the terrorist, or rebel, groups were militarized and mounting a sustained, consistent campaign against the US. The attacks were not isolated attacks against the US, but were rather part of a long campaign of rebel violence against the US that eventually led the US to invade Afghanistan in response to another attack, 9/11. This is a civil war link rather than a civil war MID because while the rebel group al Qaeda was based in Afghanistan, they were allies of the Afghan government and therefore not taking part in a civil war in Afghanistan. 
+
+COUPMID: MID4227 3 -- not coup 
+COUPMID-CER: MID4227 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4227 3 -- not coup link
+COUPLINK-CER: MID4227 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4283 
+
+TERRMID: MID4283 3 -- not territory 
+TERRMID-CER: MID4283 1 -- certain 
+TERRMID-NOTES: MID4283 involved a violation of Afghanistan's territorial sovereignty, but the invasion was a political leadership/regime change issue, not connected to a territorial dispute. See CIVWARLINK. 
+
+TERRLINK: MID4283 3 -- not third party link to territory 
+TERRLINK-CER: MID4283 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4283 3 -- not maritime 
+MARITMID-CER: MID4283 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4283 3 -- not islands 
+ISLMID-CER: MID4283 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4283 1 -- civil war MID
+CIVWARMID-CER: MID4283 1 -- certain 
+CIVWARMID-NOTES: MID4283 from cm narrative and Gibler 2018, this is the US invasion of Afghanistan in response to the 9/11 attacks by a rebel group, al Qaeda, in Afghanistan. The US, UK, and France responded with force to Afghanistan's failure to comply with US demands to turn over bin Laden following 9/11. Later, NATO forces also used force against Afghanistan, including ships from Greece, Germany, Netherlands, Portugal, Spain, and Turkey. Coded civil war MID because this was connected to the 9/11 attacks, an instance of rebel-associated violence within this dyad (New York) that is connected to this MID. 
+
+CIVWARLINK: MID4283 3 -- not civil war link 
+CIVWARLINK-CER: MID4283 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4283 3 -- not coup 
+COUPMID-CER: MID4283 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4283 3 -- not coup link
+COUPLINK-CER: MID4283 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4227
+rivalry=2700 nationa=USA nationb=AFGHANISTAN MID4227 19980820 -19980820 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=26-100 DEATHS fatalpb=.
+lhostb=NO MILITARIZED ACTION 
+
+This dispute consists of one incident in which the United States fired cruise missiles at suspected terrorist training sites in response to the bombing of American embassies in Kenya and Tanzania. Reports indicate that 26 people were killed in the strikes, but no information was given regarding whether the fatalities were civilian, military, or some combination thereof. This dispute consists of one incident in which the United States fired cruise missiles at suspected terrorist training sites in response to the bombing of American embassies in Kenya and Tanzania. Reports indicate that 26 people were killed in the strikes, but no information was given regarding whether the fatalities were civilian, military, or some combination thereof. First and last day of dispute is listed on 8/20/1998.
+
+MID4283
+rivalry=2700 nationa=USA nationb=AFGHANISTAN MID4283 20010915 -20011115 revtype1a=REGIME/GOVERNMENT revtype2a=POLICY fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+This dispute consists of a series of 35 militarized incidents that are centered around the response to the September 11, 2001 terrorist strikes against the United States. In response to the terrorist attacks, the United States demanded that Afghanistan turn over Osama bin Laden and expel Al Qaeda members that were operating and training in Afghanistan. 9/15/01 - the United States, Great Britain, and France deployed naval forces to waters near Afghanistan. The United States deployed 2 aircraft carriers, Great Britain deployed 6 warships, and France deployed 2 warships. In response to the American deployment, Afghanistan placed its forces on alert and deployed anti-aircraft weapons around Kandahar. Russia, which had experienced previous disputes with Afghanistan along the Tajik border, placed its forces along the Tajik border on alert and mass weapons and troops along the border in response to the rising tensions in the region. 9/17/01 - American president Bush issued an ultimatum to the Afghan leadership to turn over Osama bin Laden or face American military strikes. The Taliban refused to turn over bin Laden unless a series of unreasonable conditions were met (trial by Muslim judge, recognition for the Taliban, foreign aid for Afghanistan, etc.) 9/22/01 - An American reconnaissance drone is shot down over Afghanistan. During this time, Great Britain began deploying special forces to Afghanistan 9/25/01 - British prime minister Tony Blair issued an ultimatum to the Afghan leaders to face military action if they do not turnover Osama bin Laden and shutdown the terrorist training camps in Afghanistan. 9/30/01 - The United States continued to increase the pressure on the Taliban by continuing to deploy forces to the region. In addition to the naval forces already deployed, the United States also sent ground forces to Uzbekistan and Tajikistan and sent the USS Kitty Hawk carrier group to the region. The Taliban responded to the increasing American pressure by conducting exercises along its border with Pakistan. During this period of time Taliban forces also fired on a Russian border post along the Tajik-Afghan border. Russian forces suffered no casualties in the clash and returned fire at the Taliban forces. No information was given regarding Afghan casualties. Early October, 2001 - The British government issued a series of statements threatening military action against Afghanistan if the Taliban did not turn over Osama bin Laden. 10/6/01 - Afghanistan threatened war against Uzbekistan if the United States launched attacks from Uzbekistan. Afghanistan also began redeploying forces to its border with Uzbekistan. In response, Uzbekistan began deploying its forces along the border with Afghanistan. Reports also indicate that Afghanistan fired at an unmanned American drone conducting reconnaissance. As conditions deteriorated, Tajikistan placed its forces along the border on alert. 10/7/01 - American and British strikes on Afghanistan began. The first strikes involved attacks from cruise missiles, bombers, and missiles and initial targets were confined to airfields, command and control centers, military installations. 10/9/01 - NATO redeploys its naval forces to the eastern Mediterranean in response to the conflict in Afghanistan. Ships from Greece, Germany, the Netherlands, Portugal, Spain, Turkey, Great Britain, and the United States participate in the redeployment. 10/10/01 - Following three days of sustained attacks, bombing targets began to include strikes against troops. Near this time, American and British forces began bombing Taliban forces positioned north of Kabul. These strikes involved the use of heavy cluster bombs and were likely to inflict heavy casualties on Taliban forces. These bombing strikes continued on a daily basis into November 10/16/01 - A Taliban gunman fired at a border picket occupied by Russian troops along the Tajik border. There were no Russian casualties in the attack. 10/17/01 - Reports indicate that Australian troops are now on the ground in Afghanistan conducted ground operations against Taliban and AlQaeda forces. 10/19/01-11/13/01 - US commando units began conducting ground operations within Afghan territory. These ground raids were used to attack Taliban and Al-Qaeda forces, flush them out for airstrikes, and for intelligence purposes. Two American soldiers were killed when their search and rescue helicopter crashed in Pakistan after a mission. These deaths are not counted in the dispute coding because they were accidental and did not result from military action. Allied airstrikes continue throughout this period. 11/13/01 - Russia "took additional security measures" along its border with Afghanistan. Taliban forces withdraw from Kabul and Northern Alliance troops take the capital. Because the Taliban has lost control of the capital, the dispute ends. First day of dispute was on 9/15/2001 and last day of dispute was on 11/15/2001.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The United States bombed terrorist sites in Afghanistan. Iran condemned the US attack against Afghanistan on August 21, 1998. Foreign Minister Abdul Sattar of Pakistan appealed for peaceful negotiations between the US and Afghanistan on December 16, 1999.
+
+MID4227 This dispute consists of one incident in which the United States fired cruise missiles at suspected terrorist training sites in response to the bombing of American embassies in Kenya and Tanzania. Reports indicate that 26 people were killed in the strikes, but no information was given regarding whether the fatalities were civilian, military, or some combination thereof. This dispute consists of one incident in which the United States fired cruise missiles at suspected terrorist training sites in response to the bombing of American embassies in Kenya and Tanzania. Reports indicate that 26 people were killed in the strikes, but no information was given regarding whether the fatalities were civilian, military, or some combination thereof.
+
+MID4283 This dispute consists of a series of 35 militarized incidents that are centered around the response to the September 11, 2001 terrorist strikes against the United States. In response to the terrorist attacks, the United States demanded that Afghanistan turn over Osama bin Laden and expel Al Qaeda members that were operating and training in Afghanistan. 9/15/01-the United States, Great Britain, and France deployed naval forces to waters near Afghanistan. The United States deployed 2 aircraft carriers, Great Britain deployed 6 warships, and France deployed 2 warships. In response to the American deployment, Afghanistan placed its forces on alert and deployed anti-aircraft weapons around Kandahar. Russia, which had experienced previous disputes with Afghanistan along the Tajik border, placed its forces along the Tajik border on alert and mass weapons and troops along the border in response to the rising tensions in the region. 9/17/01-American president Bush issued an ultimatum to the Afghan leadership to turn over Osama bin Laden or face American military strikes. The Taliban refused to turn over bin Laden unless a series of unreasonable conditions were met (trial by Muslim judge, recognition for the Taliban, foreign aid for Afghanistan, etc.) 9/22/01-An American reconnaissance drone is shot down over Afghanistan. During this time, Great Britain began deploying special forces to Afghanistan 9/25/01-British prime minister Tony Blair issued an ultimatum to the Afghan leaders to face military action if they do not turnover Osama bin Laden and shutdown the terrorist training camps in Afghanistan. 9/30/01-The United States continued to increase the pressure on the Taliban by continuing to deploy forces to the region. In addition to the naval forces already deployed, the United States also sent ground forces to Uzbekistan and Tajikistan and sent the USS Kitty Hawk carrier group to the region. The Taliban responded to the increasing American pressure by conducting exercises along its border with Pakistan. During this period of time Taliban forces also fired on a Russian border post along the Tajik-Afghan border. Russian forces suffered no casualties in the clash and returned fire at the Taliban forces. No information was given regarding Afghan casualties. Early October, 2001-The British government issued a series of statements threatening military action against Afghanistan if the Taliban did not turn over Osama bin Laden. 10/6/01-Afghanistan threatened war against Uzbekistan if the United States launched attacks from Uzbekistan. Afghanistan also began redeploying forces to its border with Uzbekistan. In response, Uzbekistan began deploying its forces along the border with Afghanistan. Reports also indicate that Afghanistan fired at an unmanned American drone conducting reconnaissance. As conditions deteriorated, Tajikistan placed its forces along the border on alert. 10/7/01-American and British strikes on Afghanistan began. The first strikes involved attacks from cruise missiles, bombers, and missiles and initial targets were confined to airfields, command and control centers, military installations. 10/9/01-NATO redeploys its naval forces to the eastern Mediterranean in response to the conflict in Afghanistan. Ships from Greece, Germany, the Netherlands, Portugal, Spain, Turkey, Great Britain, and the United States participate in the redeployment. 10/10/01-Following three days of sustained attacks, bombing targets began to include strikes against troops. Near this time, American and British forces began bombing Taliban forces positioned north of Kabul. These strikes involved the use of heavy cluster bombs and were likely to inflict heavy casualties on Taliban forces. These bombing strikes continued on a daily basis into November 10/16/01-A Taliban gunman fired at a border picket occupied by Russian troops along the Tajik border. There were no Russian casualties in the attack. 10/17/01-Reports indicate that Australian troops are now on the ground in Afghanistan conducted ground operations against Taliban and AlQaeda forces. 10/19/01-11/13/01-US commando units began conducting ground operations within Afghan territory. These ground raids were used to attack Taliban and Al-Qaeda forces, flush them out for airstrikes, and for intelligence purposes. Two American soldiers were killed when their search and rescue helicopter crashed in Pakistan after a mission. These deaths are not counted in the dispute coding because they were accidental and did not result from military action. Allied airstrikes continue throughout this period. 11/13/01-Russia "took additional security measures" along its border with Afghanistan. Taliban forces withdraw from Kabul and Northern Alliance troops take the capital. Because the Taliban has lost control of the capital, the dispute ends. 
+
+SOURCES-CM: 
+*Reuters*, December 16, 1999.
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+

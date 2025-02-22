@@ -1,0 +1,233 @@
+FILE: cm713817v11.0.txt
+DYAD: TAIWAN-S. VIETNAM
+RIVALRY: RIV1319
+DISPUTE(S): MID2912 MID2945 MID3217 
+
+RIVNOTES: 
+RIV1319: MID1452 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19560608-19750430 0.25
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190519
+PS-LAST-CHECKED: 20190519
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2912 
+
+TERRMID: MID2912 3 -- not territory 
+TERRMID-CER: MID2912 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2912 3 -- not third party link to territory 
+TERRLINK-CER: MID2912 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2912 3 -- not maritime 
+MARITMID-CER: MID2912 3 -- uncertain 
+MARITMID-NOTES: MID2912 from cm narrative and Gibler, Miller, and Little 2016, in 1965 South Vietnam seized Taiwanese fishing boats for violating their territorial waters. Taiwan did not protest. Coded not maritme because, although South Vietnam and Taiwan had a maritime dispute around the Spratly Islands, this did not occur in the disputed waters. Coded uncertain because Taiwan did not protest and GML recommend this case therefore be dropped.
+
+ISLMID: MID2912 3 -- not islands 
+ISLMID-CER: MID2912 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2912 3 -- not civil war 
+CIVWARMID-CER: MID2912 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2912 3 -- not civil war link 
+CIVWARLINK-CER: MID2912 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2912 3 -- not coup 
+COUPMID-CER: MID2912 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2912 3 -- not coup link
+COUPLINK-CER: MID2912 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2945 
+
+TERRMID: MID2945 3 -- not territory 
+TERRMID-CER: MID2945 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2945 3 -- not third party link to territory 
+TERRLINK-CER: MID2945 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2945 1 -- maritime MID
+MARITMID-CER: MID2945 3 -- uncertain 
+MARITMID-NOTES: MID2945 coded maritime MID because the Paracel Islands are disputed due to maritime boundary implications. Coded uncertain because GML argue this does not constitute a MID. See ISLMID-NOTES. 
+
+ISLMID: MID2945 1 -- islands MID
+ISLMID-CER: MID2945 3 -- uncertain 
+ISLMID-NOTES: MID2945 from Gibler, Miller, and Little 2016, South Vietnam detained Taiwanese fishermen when they landed on one of the disputed Pracel Islands. Coded islands MID because this was connected to an islands dispute. Coded uncertain because the seizure and detention lasted less than 24 hours. GML therefore recommend the case be dropped, since it does not constitute a MID. 
+
+CIVWARMID: MID2945 3 -- not civil war 
+CIVWARMID-CER: MID2945 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2945 3 -- not civil war link 
+CIVWARLINK-CER: MID2945 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2945 3 -- not coup 
+COUPMID-CER: MID2945 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2945 3 -- not coup link
+COUPLINK-CER: MID2945 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3217 
+
+TERRMID: MID3217 3 -- not territory 
+TERRMID-CER: MID3217 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3217 3 -- not third party link to territory 
+TERRLINK-CER: MID3217 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3217 1 -- maritime MID
+MARITMID-CER: MID3217 1 -- certain 
+MARITMID-NOTES: MID3217 coded maritime MID because the Spratly Islands were disputed due to maritime boundary implications. 
+
+ISLMID: MID3217 1 -- islands MID
+ISLMID-CER: MID3217 1 -- certain 
+ISLMID-NOTES: MID3217 from Gibler 2018, in 1974 South Vietnam sent warships to the disputed Spratly Islands in response to clashes with China at the disputed Paracel islands. Other claimants to the Spratlys also sent warships. Coded islands MID because this was connected to an islands dispute between this dyad's members (and others). 
+
+CIVWARMID: MID3217 3 -- not civil war 
+CIVWARMID-CER: MID3217 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3217 3 -- not civil war link 
+CIVWARLINK-CER: MID3217 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3217 3 -- not coup 
+COUPMID-CER: MID3217 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3217 3 -- not coup link
+COUPLINK-CER: MID3217 1 -- certain 
+COUPLINK-NOTES: 
+
+MID355
+
+TERRMID: MID355 3 -- not territory
+TERRMID-CER: MID355 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID355 3 -- not third party link to territory 
+TERRLINK-CER: MID355 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID355 3 -- not maritime 
+MARITMID-CER: MID355 3 -- uncertain
+MARITMID-NOTES: MID355 Coded not maritime because, although this was connected to a dispute over maritime boundaries in the South China Sea and Taiwan had a claim on these maritime boundaries, Taiwan was not involved in this MID and was therefore not involved in pressing or defending its claim to the waters against Philippines here. At best, it therefore seems like a link to the China-Philippines maritime dispute. Coded uncertain because Gibler 2018 does not consider Taiwan a party to this dispute. MID4 data also may not include 355 as a MID within this dyad. 
+
+ISLMID: MID355 3 -- not islands 
+ISLMID-CER: MID355 3 -- uncertain
+ISLMID-NOTES: MID355 from Gibler 2018, in 1974 South Vietnam deployed warships to the Spratly and Parcel Islands, leading to a clash between South Vietnamese and Chinese ships. Both countries occupied some of the disputed islands. Coded not islands because, although this was connected to a dispute over islands and Taiwan had a claim on these islands, Taiwan was not involved in this MID and was therefore not involved in pressing or defending its claim to the islands against Philippines here. At best, it therefore seems like a link to the China-Philippines maritime dispute. Coded uncertain because Gibler 2018 does not consider Taiwan a party to this dispute. MID4 data also may not include 355 as a MID within this dyad. 
+
+CIVWARMID: MID355 3 -- not civil war 
+CIVWARMID-CER: MID355 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID355 3 -- not civil war link
+CIVWARLINK-CER: MID355 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID355 3 -- not coup 
+COUPMID-CER: MID355 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID355 3 -- not coup link
+COUPLINK-CER: MID355 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1452 
+
+TERRMID: MID1452 3 -- not territory 
+TERRMID-CER: MID1452 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1452 3 -- not third party link to territory 
+TERRLINK-CER: MID1452 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1452 1 -- maritime MID
+MARITMID-CER: MID1452 1 -- certain 
+MARITMID-NOTES: MID1452 Coded maritime MID because the islands are disputed due to their ,maritime boundary implications. Sovereignty over the islands grants access to maritime waters that contain natural gas reserves. 
+
+ISLMID: MID1452 1 -- islands MID
+ISLMID-CER: MID1452 1 -- certain 
+ISLMID-NOTES: MID1452 from Gibler 2018, in 1956 a Filipino man landed a boat and an armed crew on one of the disputed Spratly Islands to claim it for Philippines. A multilateral show of force between claimants of the islands followed. Coded islands MID because this was connected to an islands dispute. 
+
+CIVWARMID: MID1452 3 -- not civil war 
+CIVWARMID-CER: MID1452 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1452 3 -- not civil war link 
+CIVWARLINK-CER: MID1452 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1452 3 -- not coup 
+COUPMID-CER: MID1452 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1452 3 -- not coup link
+COUPLINK-CER: MID1452 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+South Vietnamese gunboats fired on several Chinese fishermen on one of the islands in the Paracels on January 16, 1974, and South Vietnamese troops expelled the fishermen from the island on January 18, 1974. Chinese and South Vietnamese troops clashed on Duncan (Chenhang) island on January 19, 1974, resulting in the deaths of two South Vietnamese soldiers. Chinese and South Vietnamese naval units also clashed on January 19, 1974, resulting in the deaths of 59 South Vietnamese naval personnel. Chinese troops expelled South Vietnamese troops from Pattle, Robert, and Money islands on January 20, 1974. South Vietnam referred the matter to the United Nations (UN) Security Council on January 20, 1974. South Vietnamese troops occupied six islands in the Spratly group on January 31, 1974, and China protested against the occupation of the islands on February 4, 1974. Taiwan has consistently maintained a claim to the Spratly and Paracel Islands on the same grounds as China's since 1956.
+
+SOURCES-CM:
+Allcock, 1992, 542; Bercovitch and Jackson, 1997, 83; New York Times, 4/26/1965, 8/15/1971. 
+
+NARRATIVE-CR:
+The MIDs between Taiwan and South Vietnam revolve around the sovereignty of the Spratly and Paracel Island chains. Several countries claim both island chains and thus two of the MIDs are multilateral involving these other claimants. Two of the MIDs are bilateral involving only Taiwan and South Vietnam. 
+
+MID1452 was a multilateral dispute between South Vietnam (RVN), China, Taiwan, and the Philippines. In May of 1956, the Philippine government laid claim to the Spratly Islands for the first time. This claim was disputed by the PRC, Taiwan, and RVN. In August of 1956, an RVN garrison occupied one of the Spratly islands. 
+
+On April 25, 1965 MID2912 occurred. Here the South Vietnamese used military force to hold two Taiwanese fishing vessels with a total of 40 fisherman. They held the Taiwanese for violating for violating Vietnam's 25 mile offshore fishing zone. 
+
+On August 14, 1971 MID2945 occurred. The South Vietnamese Navy detained 14 Taiwanese anglers after they landed on one of the Paracel Islands. Both South Vietnam and Taiwan claimed the Paracel Islands. 
+
+In January of 1974, MID3217 occurred. This is another multilateral dispute involving the PRC, Taiwan, the Philippines, and South Vietnam. This dispute is over the Spratly Islands. Here there was a series of incidents in the island chains. PRC naval forces expelled South Vietnamese garrisons from the islands in a series of land and sea battles throughout January of 1974. The fighting ended with the seizure of Duncan Island on January 24, 1974.
+
+The rivalry between Taiwan and South Vietnam ended with the defeat of South Vietnam by North Vietnam on April 30, 1975 and the cessasion of existence of South Vietnam. The disputed claims to the island chains were not resolved however as the dispute brought a unified Vietnam into direct conflict with China. 
+
+SOURCES-CR: 
+Allcock, 1992, 542; Bercovitch and Jackson, 1997, 83; New York Times, 4/26/1965, 8/15/1971. 
+
+PS-NARRATIVE: 
+
+19540614-19560607 0.5 
+
+Taiwan and South Vietnam established diplomatic relations on December 16, 1955 with a view to strengthening the ties of friendship between the two countries. The Taiwanese Foreign Minister said that Taiwan will establish a legation in Saigon. No other information could be found for this period. The dispute lasted after the dissolution of South Vietnam in 1975. North Vietnam picked up this dispute with Taiwan. 
+
+PS-SOURCES: New York Times December 17, 1955
+
+MARITIME-MIDS: MID2912
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2912
+ DYAD: TAIWAN S. VIETNAM 713817
+ DATES: 19650425 19650425
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+On April 25, 1965 MID2912 occurred. Here the South Vietnamese used military force to hold two Taiwanese fishing vessels with a total of 40 fisherman. They held the Taiwanese for violating for violating Vietnam's 25 mile offshore fishing zone. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

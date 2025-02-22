@@ -1,0 +1,52 @@
+FILE: cm091200v11.0.txt
+DYAD: HONDURAS - UNITED KINGDOM
+RIVALRY: RIV222
+DISPUTE(S): MID1734 
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1734 
+
+TERRMID: MID1734 3 -- not territory
+TERRMID-CER: MID1734 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1734 3 -- not third party link to territory 
+TERRLINK-CER: MID1734 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1734 3 -- not maritime 
+MARITMID-CER: MID1734 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1734 3 -- not islands 
+ISLMID-CER: MID1734 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1734 1 -- civil war MID
+CIVWARMID-CER: MID1734 1 -- certain
+CIVWARMID-NOTES: MID1734 on 2/6/1911, the New York Times reported that Honduras was experiencing civil conflict as a group of revolutionaries was fighting against the government. From Gibler, Miller, and Little (2016), the US and UK intervened by trying to help prevent rebels from taking the capital of Honduras. Coded civil war MID because a revolution in Honduras led to the US and UK intervening in order to end the conflict, triggering this MID. 
+
+CIVWARLINK: MID1734 3 -- not civil war link
+CIVWARLINK-CER: MID1734 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1734 1 -- coup MID
+COUPMID-CER: MID1734 1 -- certain 
+COUPMID-NOTES: MID1734 the revolutionaries in Honduras were being led by General Bonilla. Coded coup MID because a Honduran military elite was attempting to overthrow the government of Honduras. 
+
+COUPLINK: MID1734 3 -- not coup link
+COUPLINK-CER: MID1734 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+New York Times 2/6/1911
+D. M. Gibler, S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730. 

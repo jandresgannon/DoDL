@@ -1,0 +1,231 @@
+FILE: cm235433v11.0.txt
+DYAD: PORTUGAL-SENEGAL
+RIVALRY: RIV637
+DISPUTE(S): MID1387 MID1388 MID1385 MID1389 MID3270 
+RIVNOTES: 
+
+PS: 19600820-19740901 0.00 19740902-19790901 0.5
+
+PSNOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20200303
+PS-LAST-CHECKED: 20200303
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1387 
+
+TERRMID: MID1387 3 -- not territory 
+TERRMID-CER: MID1387 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1387 3 -- not third party link to territory 
+TERRLINK-CER: MID1387 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1387 3 -- not maritime 
+MARITMID-CER: MID1387 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1387 3 -- not islands 
+ISLMID-CER: MID1387 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1387 1 -- civil war MID
+CIVWARMID-CER: MID1387 1 -- certain 
+CIVWARMID-NOTES: MID1387 from cm narrative, Portugal accused Senegal of supporting rebel groups to attack Portuguese targets, after which they crossed the border into Senegal for safe haven. Portugal crossed the border into Senegal in pursuit of rebels, triggering this MID. Coded civil war MID because militarized rebels in Senegal attacked the Portuguese and the Portuguese response led to a MID here. 
+
+CIVWARLINK: MID1387 3 -- not civil war link 
+CIVWARLINK-CER: MID1387 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1387 3 -- not coup 
+COUPMID-CER: MID1387 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1387 3 -- not coup link
+COUPLINK-CER: MID1387 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1388 
+
+TERRMID: MID1388 3 -- not territory 
+TERRMID-CER: MID1388 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1388 3 -- not third party link to territory 
+TERRLINK-CER: MID1388 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1388 3 -- not maritime 
+MARITMID-CER: MID1388 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1388 3 -- not islands 
+ISLMID-CER: MID1388 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1388 1 -- civil war MID
+CIVWARMID-CER: MID1388 1 -- certain 
+CIVWARMID-NOTES: MID1388 from cm narrative, Portugal attacked rebel bases inside Senegal, triggering this MID. Coded civil war MID because a rebel group hiding in Senegal led to Portugal attacking them across the border and triggering this MID. 
+
+CIVWARLINK: MID1388 3 -- not civil war link 
+CIVWARLINK-CER: MID1388 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1388 3 -- not coup 
+COUPMID-CER: MID1388 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1388 3 -- not coup link
+COUPLINK-CER: MID1388 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1385 
+
+TERRMID: MID1385 3 -- not territory 
+TERRMID-CER: MID1385 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1385 3 -- not third party link to territory 
+TERRLINK-CER: MID1385 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1385 3 -- not maritime 
+MARITMID-CER: MID1385 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1385 3 -- not islands 
+ISLMID-CER: MID1385 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1385 1 -- civil war MID
+CIVWARMID-CER: MID1385 1 -- certain 
+CIVWARMID-NOTES: MID1385 from cm narrative, Portugal again attacked rebels hiding across the border in Senegal. Both countries mobilized their border troops, and small clashes occurred. Coded civil war MID because Portugal attacking a rebel group in Senegal triggered this MID. 
+
+CIVWARLINK: MID1385 3 -- not civil war link 
+CIVWARLINK-CER: MID1385 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1385 3 -- not coup 
+COUPMID-CER: MID1385 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1385 3 -- not coup link
+COUPLINK-CER: MID1385 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1389 
+
+TERRMID: MID1389 3 -- not territory 
+TERRMID-CER: MID1389 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1389 3 -- not third party link to territory 
+TERRLINK-CER: MID1389 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1389 3 -- not maritime 
+MARITMID-CER: MID1389 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1389 3 -- not islands 
+ISLMID-CER: MID1389 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1389 1 -- civil war MID
+CIVWARMID-CER: MID1389 1 -- certain 
+CIVWARMID-NOTES: MID1389 from Gibler 2018, Portuguese forces attacked a Senegalese village, engaging some Senegalese troops, in pursuit of rebels. Coded civil war MID because this MID was connected to Portugal attacking rebels in Senegal.
+
+CIVWARLINK: MID1389 3 -- not civil war link 
+CIVWARLINK-CER: MID1389 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1389 3 -- not coup 
+COUPMID-CER: MID1389 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1389 3 -- not coup link
+COUPLINK-CER: MID1389 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3270 
+
+TERRMID: MID3270 3 -- not territory 
+TERRMID-CER: MID3270 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3270 3 -- not third party link to territory 
+TERRLINK-CER: MID3270 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3270 3 -- not maritime 
+MARITMID-CER: MID3270 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3270 3 -- not islands 
+ISLMID-CER: MID3270 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3270 1 -- civil war MID
+CIVWARMID-CER: MID3270 1 -- certain 
+CIVWARMID-NOTES: MID3270 from Gibler, Little, and Miller 2016, this is another incident of Portugal attacking rebels in Senegal, triggering a civil war MID. Coded uncertain because GLM argue this is not a MID, as Senegal did not protest and the target was a guerilla base, not Senegalese troops or representatives. 
+
+CIVWARLINK: MID3270 3 -- not civil war link 
+CIVWARLINK-CER: MID3270 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3270 3 -- not coup 
+COUPMID-CER: MID3270 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3270 3 -- not coup link
+COUPLINK-CER: MID3270 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Senegal became independent on August 20, 1960. From the very beginning there was a dispute with Portuguese Guinea (currently Guinea-Bissau) over the sea border between the two countries. This border was negotiated by France and Portugal in May 1960, however, later on will become an issue of contention between their former colonies, Senegal and Guinea-Bissau. Senegal broke diplomatic relations with Portugal on July 25, 1961 after clashes with Portugal on the border of the Portuguese Guinea (currently Guinea-Bissau). Portugal accused Senegal of harboring pro-independence Guinean rebels. Portuguese military aircraft attacked *Partido Africano da Independencia da Guinea do Cabo Verde (*PAIGC) rebel bases in the village of Bouniak, Senegal on April 8, 1963. Senegal referred the matter to the *United Nations* (UN) Security Council on April 10, 1963. The UN Security Council condemned Portugal on April 24, 1963. Portuguese troops attacked PAIGC rebel bases in several villages in Senegal on January 7, 1965. Senegal referred the matter to the UN Security Council on February 8, 1965. The UN Security Council condemned Portugal on May 12, 1965. Portuguese troops and military aircraft bombed rebel targets near the Portuguese Guinea-Senegal border on December 6-8, 1969. Senegal mobilized some 1,200 troops along the border with Portuguese Guinea beginning on December 10, 1969. The UN Security Council condemned Portugal on December 12, 1969. Portuguese military aircraft violated Senegalese airspace on July 4, 1970. Portuguese troops attacked and seized ten Portuguese Guinean refugees from the village of Sore-Sory, Senegal on July 6, 1970. Portuguese troops bombed the village of Kaladinto-Maounde, Senegal on July 12, 1970, resulting in the deaths of two individuals. Senegal mobilized troops on the border with Portuguese Guinea on July 17, 1970. Senegal accused Portugal of laying mines on Senegalese territory, and referred the matter to the UN Security Council on July 6, 1971. The UN Security Council condemned Portuguese aggression against Senegal, and established a six-member commission of inquiry headed by Guillermo Sevilla Sacasa of Nicaragua on July 15, 1971. The UN commission of inquiry visited Senegal from July 25 to August 1, 1971. The UN commission of inquiry issued a report on September 23, 1971, which confirmed Portuguese aggression against Senegal. Portuguese troops and Senegalese troops clashed near the Guinea-Bissau-Senegal border on May 26, 1972, resulting in the deaths of six Senegalese soldiers. Portuguese troops clashed with Senegalese troops near the Guinea Bissau-Senegal border on October 12, 1972, resulting in the death of one Senegalese soldier and one Portuguese civilian. Senegal referred the matter to the UN Security Council on October 16, 1972. The UN Security Council condemned Portuguese aggression against Senegal on October 23, 1972. President Sekou Toure of Guinea expressed support for Senegal on October 24, 1972. Portuguese troops attacked PAIGC rebel bases in Senegal on May 20-25, 1973, resulting in the deaths of 167 rebels and eleven Portuguese soldiers. Senegal and Portugal resumed diplomatic relations on September 2, 1974.
+
+SOURCES-CM: 
+*Africa Diary*, March 13-19, 1970, August 6-12, 1970; *Africa Research Bulletin* (ARB), December 1-31, 1969, July 1-31, 1970, October 1-31, 1972, May 1-31, 1973; *Facts on File*, April 25-May 1, 1963; *Keesing*, October 26-November 2, 1963, March 25-April 1, 1967, November 13-20, 1971, September 10-16, 1973, September 30-October 6, 1974, U.S. Department of State (1976)
+
+NARRATIVE-CR:
+Senegal severed diplomatic relations with Portugal in July 1961. The rivalry between these two countries began during this year over Portugal's contention that Senegal was hosting separatist rebel groups from Portuguese Guinea which would stage attacks and then retreat to Senegal for the purpose of gaining liberation of Portuguese colonial control. Portugal proceeded to attack Senegal on multiple occasions over the next few years, and was repeatedly condemned by the United Nations Security Council for doing so.
+
+On December 22, 1961, Senegal complained to the UN Security Council that Portuguese forces from Portuguese Guinea had made several incursions into Senegal's territory and had made several low altitude flights over Senegalese air space throughout the month of December. This is MID1387.
+
+Portuguese military aircraft attacked *Partido Africano da Independencia da Guinea do Cabo Verde (*PAIGC) rebel bases in the village of Bouniak, Senegal on April 8, 1963. This is classified as MID1388.
+
+Portuguese troops attacked PAIGC rebel bases in several villages in Senegal on January 7, 1965. 
+
+Portuguese troops and military aircraft bombed rebel targets near the Portuguese Guinea-Senegal border on December 6-8, 1969. Senegal mobilized some 1,200 troops along the border with Portuguese Guinea beginning on December 10, 1969. Portuguese military aircraft violated Senegalese airspace on July 4, 1970. Portuguese troops attacked and seized ten Portuguese Guinean refugees from the village of Sore-Sory, Senegal on July 6, 1970. Portuguese troops bombed the village of Kaladinto-Maounde, Senegal on July 12, 1970, resulting in the deaths of two individuals. Senegal mobilized troops on the border with Portuguese Guinea on July 17, 1970. Senegal accused Portugal of laying mines on Senegalese territory. This is MID1385.
+
+Portuguese troops and Senegalese troops clashed near the Guinea-Bissau-Senegal border on May 26, 1972, resulting in the deaths of six Senegalese soldiers. This is MID1389. Portuguese troops clashed with Senegalese troops near the Guinea Bissau-Senegal border on October 12, 1972, resulting in the death of one Senegalese soldier and one Portuguese civilian. 
+
+Portuguese troops attacked PAIGC rebel bases in Senegal on May 20-25, 1973, resulting in the deaths of 167 rebels and eleven Portuguese soldiers. This is classified as MID3270.
+
+In July of 1974, Portugal began to talk seriously about granting Portuguese Guinea independence in the near future. On August 25, 1974, Portuguese officials signed an agreement granting the country independence from Portuguese colonial control. Senegal and Portugal resumed diplomatic relations on September 2, 1974. The end of Portuguese control of Portuguese Guinea and the staged rebel attacks from Senegal against occupying Portuguese forces ended any reason for a rivalry between Portugal and Senegal. The exit of Portugal is the reason for the termination of the rivalry.
+
+SOURCES-CR: 
+New York Times, July 26 1961, December 28 1961, July 2 1974, July 13 1974, August 5 1974, August 25 1974.
+
+PS-NARRATIVE:
+
+19740902-20159999 0.5
+
+Senegal and Portugal resumed diplomatic relations on September 2, 1974. On October 13, 1978 Portugal and Senegal signed a maritime transport agreement with a view to ensuring the coordination of transport between the two countries and promoting trade transactions. The two countries have signed six agreements including an economic and scientific and technical cooperation agreement and a trade agreement. Under the trade agreement, a Portugal-Senegal mixed committee has been established to adopt measures in the interests of trade development between the two countries. In July 1980, Senegal closed its embassy to Lisbon, part of a cut down in diplomatic representation in half of the countries it previously had missions, in order to save money. In July 1984, the Portuguese Minister of Foreign Affairs Jaime Gama made a three-day official visit to Senegal. The two diplomats had common positions on such issues as the establishment of a new international economic order, Namibia's independence and called for permanent solutions to the issues of Western Sahara and Chad. In 1989, Portuguese President Mario Soares has accepted a mediating role in the maritime dispute between Guinea-Bissau and Senegal. The Portuguese President's intervention was requested by President Joao Bernardo Vieira of Guinea-Bissau. Mario Soares promised Joao Bernardo Vieira that he will act as a mediator and to this end will establish contacts with Senegal with a view to the resolution of the maritime border dispute. As noticed, the contacts between Senegal and Portugal were extremely limited over the third decades following the granting of independence by Portugal to Senegal's southern neighbor, Guinea-Bissau. Thus, the rivalry ended in 1974 and any changes of having disputes or other types of conflicts between the two countries, ended in 1974, too. 
+
+PS-SOURCES: New York Times 07/26/1961, Xinhua 10/13/1978, 07/30/1984, Associated Press 07/09/1980, BBC 09/18/1989
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+Senegal became independent on August 20, 1960. From the very beginning there was a dispute with Portuguese Guinea (currently Guinea-Bissau) over the sea border between the two countries. This border was negotiated by France and Portugal in May 1960, however, later on will become an issue of contention between their former colonies, Senegal and Guinea-Bissau.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

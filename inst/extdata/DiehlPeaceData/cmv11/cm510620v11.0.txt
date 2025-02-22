@@ -1,0 +1,91 @@
+FILE: cm510620v11.0.txt
+DYAD: TANZANIA - LIBYA
+RIVALRY: RIV1129
+DISPUTE(S): MID1381 MID2141 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190216
+PS-LAST-CHECKED: 20190216
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1381 
+
+TERRMID: MID1381 3 -- not territory 
+TERRMID-CER: MID1381 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1381 3 -- not third party link to territory 
+TERRLINK-CER: MID1381 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1381 3 -- not maritime 
+MARITMID-CER: MID1381 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1381 3 -- not islands 
+ISLMID-CER: MID1381 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1381 3 -- not civil war 
+CIVWARMID-CER: MID1381 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1381 1 -- civil war link 
+CIVWARLINK-CER: MID1381 1 -- certain 
+CIVWARLINK-NOTES: MID1381 from Gibler 2018, in 1972 rebels supporting the former Ugandan president invaded Uganda with the intention of eventually bringing the former president back to power. Tanzania provided refuge for the rebels and military assistance to them when they invaded Uganda. Libya sent planes to assist the Ugandan regime, pulling them into this MID against Tanzania. Coded civil war link because this was connected to militarized rebels in Uganda, outside this dyad. 
+
+COUPMID: MID1381 3 -- not coup 
+COUPMID-CER: MID1381 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1381 1 -- coup link
+COUPLINK-CER: MID1381 1 -- certain 
+COUPLINK-NOTES: MID1381 from the Gibler 2018 MID1380 narrative, Uganda's president had been overthrown in a coup in 1971 (by military elites) in the previous year. The deposed president, Obote, was seeking to re-take power in this MID. Coded coup link because this was connected to Uganda's coup in 1971. 
+
+MID2141 
+
+TERRMID: MID2141 3 -- not territory 
+TERRMID-CER: MID2141 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2141 3 -- not third party link to territory 
+TERRLINK-CER: MID2141 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2141 3 -- not maritime 
+MARITMID-CER: MID2141 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2141 3 -- not islands 
+ISLMID-CER: MID2141 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2141 3 -- not civil war
+CIVWARMID-CER: MID2141 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2141 1 -- civil war link 
+CIVWARLINK-CER: MID2141 1 -- certain 
+CIVWARLINK-NOTES: MID2141 from Gibler 2018, Uganda, expecting an invasion from Tanzania, preemptively invaded Tanzania in 1978 and started a war between the countries. Tanzania sought to topple the Amin regime and re-install the former Ugandan president to power. It armed and fought alongside rebels in Uganda to pursue this goal. Libya intervened on behalf of Amin in Uganda, but ultimately the rebels seized the capital and Amin fled to Libya. Coded civil war link because this involved militarized rebel activity in Uganda, outside this dyad. 
+
+COUPMID: MID2141 3 -- not coup 
+COUPMID-CER: MID2141 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2141 3 -- not coup link
+COUPLINK-CER: MID2141 1 -- certain 
+COUPLINK-NOTES: MID2141 Idi Amin had been ousted from power in 1978 after taking power in a coup in 1971 (per Gibler 2018). Amin and Tanzania were antagonistic while he was in power, and the Ugandan-Tanzanian War in 1978-1979 led to Amin being forced to leave power in fear of capture by Tanzanian forces. Although Amin took power via coup in 1971, this war was connected to the antagonism between their regimes, and not particularly to the fact that Amin took power via coup seven years earlier. 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

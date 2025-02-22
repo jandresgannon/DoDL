@@ -1,0 +1,90 @@
+FILE: cm040101v11.0.txt
+DYAD: CUBA - VENEZUELA
+RIVALRY: RIV144
+DISPUTE(S): MID1115 MID2940 
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1115 
+
+TERRMID: MID1115 3 -- not territory
+TERRMID-CER: MID1115 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1115 3 -- not third party link to territory 
+TERRLINK-CER: MID1115 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1115 3 -- not maritime 
+MARITMID-CER: MID1115 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1115 3 -- not islands 
+ISLMID-CER: MID1115 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1115 3 -- not civil war 
+CIVWARMID-CER: MID1115 1 -- certain
+CIVWARMID-NOTES: MID1115 from NYT 5/14/1967, Venezuela protested when Cuba sent guerillas into Venezuela to try and topple the regime. Venezuela referred the matter to the Organization of American States and asked for economic sanctions to be placed on Cuba. Coded not civil war because the guerillas sent by Cuba were Cuban and this was a foreign attempt at regime change, not civil conflict. Venezuela was not fighting against militarized rebel groups here. 
+
+CIVWARLINK: MID1115 3 -- not civil war link
+CIVWARLINK-CER: MID1115 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1115 3 -- not coup 
+COUPMID-CER: MID1115 1 -- certain 
+COUPMID-NOTES: MID1115 Cuba attempted to toople the Venezuelan regime by sending a small group of guerillas to attack the government at the capital, but this was an external attempt at regime change, not an attempt by Venezuelan military elite to toople the regime. 
+
+COUPLINK: MID1115 3 -- not coup link
+COUPLINK-CER: MID1115 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2940 
+
+TERRMID: MID2940 3 -- not territory
+TERRMID-CER: MID2940 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2940 3 -- not third party link to territory 
+TERRLINK-CER: MID2940 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2940 3 -- not maritime 
+MARITMID-CER: MID2940 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2940 3 -- not islands 
+ISLMID-CER: MID2940 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2940 3 -- not civil war 
+CIVWARMID-CER: MID2940 1 -- certain
+CIVWARMID-NOTES: MID2940 from NYT 11/23/1968, Venezuela announced that it had captured a Cuban fishing boat and claimed that the passengers aboard were guerillas sent by Cuba to land in Venezuela. Venezuela accused Cuba of intending to use the guerillas to engage in "subversive activities." Coded not civil war because this was an attempt at foreign regime change, or foreign subversion, not civil conflict by Venezuelan guerillas. No connection to a militarized Venezuelan rebel group here. 
+
+CIVWARLINK: MID2940 3 -- not civil war link
+CIVWARLINK-CER: MID2940 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2940 3 -- not coup 
+COUPMID-CER: MID2940 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2940 3 -- not coup link
+COUPLINK-CER: MID2940 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 5/14/1967, 11/23/1968 
+

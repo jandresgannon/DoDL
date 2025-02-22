@@ -1,0 +1,55 @@
+FILE: cm640666v11.0.txt
+DYAD: TURKEY/OTTOMAN EMPIRE - ISRAEL
+RIVALRY: RIV1214
+DISPUTE(S): MID2327 
+
+PS-LAST-CHANGED: 20190308
+PS-LAST-CHECKED: 20190308
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2327
+
+TERRMID: MID2327 3 -- not territory
+TERRMID-CER: MID2327 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2327 3 -- not third party link to territory 
+TERRLINK-CER: MID2327 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2327 3 -- not maritime 
+MARITMID-CER: MID2327 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2327 3 -- not islands 
+ISLMID-CER: MID2327 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2327 3 -- not civil war 
+CIVWARMID-CER: MID2327 3 -- uncertain
+CIVWARMID-NOTES: MID2327 from Gibler, Miller, and Little 2016, this MID was originally coded as the seizure of a Turkish vessel by Israel in 1976. However, it is unclear why this occurred. It may be the case that Israel suspected the ship of carrying arms to Palestinians in Lebanon. However, this is not certain. GML recommend this case be dropped since the seizure lasted less than 24 hours (a seizure must be for at least 24 hours to constitute a MID) and Turkey did not protest. 
+
+CIVWARLINK: MID2327 3 -- not civil war link
+CIVWARLINK-CER: MID2327 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2327 3 -- not coup 
+COUPMID-CER: MID2327 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2327 3 -- not coup link
+COUPLINK-CER: MID2327 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

@@ -1,0 +1,536 @@
+FILE: cm551560v11.0.txt
+DYAD: ZAMBIA-SOUTH AFRICA
+RIVALRY: RIV1159
+DISPUTE(S): MID1400 MID1611 MID1398 MID1397 MID3215 MID3227 MID1396 MID3127 MID3005 MID2571 MID2810 
+
+RIVNOTES:
+
+PS: 19641024-19680406 0.25 19680407-19900201 0.00 19900202-19940427 -9 19940428-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220320
+PS-LAST-CHECKED: 20220320
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1400 
+
+TERRMID: MID1400 3 -- not territory 
+TERRMID-CER: MID1400 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1400 3 -- not third party link to territory 
+TERRLINK-CER: MID1400 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1400 3 -- not maritime 
+MARITMID-CER: MID1400 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1400 3 -- not islands 
+ISLMID-CER: MID1400 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1400 1 -- civil war MID
+CIVWARMID-CER: MID1400 1 -- certain 
+CIVWARMID-NOTES: MID1400 from Gibler 2018, in 1968 South Africa threatened Zambia over Zambia's support for militarized rebels that were targeting the South African government. Coded civil war MID because this was connected to militarized rebel activity in Zambia/South Africa. 
+
+CIVWARLINK: MID1400 3 -- not civil war link 
+CIVWARLINK-CER: MID1400 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1400 3 -- not coup 
+COUPMID-CER: MID1400 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1400 3 -- not coup link
+COUPLINK-CER: MID1400 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1397
+
+TERRMID: MID1397 3 -- not territory
+TERRMID-CER: MID1397 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1397 3 -- not third party link to territory 
+TERRLINK-CER: MID1397 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1397 3 -- not maritime 
+MARITMID-CER: MID1397 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1397 3 -- not islands 
+ISLMID-CER: MID1397 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1397 3 -- not civil war 
+CIVWARMID-CER: MID1397 1 -- certain
+CIVWARMID-NOTES: MID1397 There is no militarized rebel activity (i.e., fighting) in Zambia. The fighting all occurs in Rhodesia (see civwarlink-notes). It is therefore not a civwarmid. 
+
+CIVWARLINK: MID1397 1 -- civil war link
+CIVWARLINK-CER: MID1397 1 -- certain
+CIVWARLINK-NOTES: MID1397 from Gibler 2018, Zambia was supporting black nationalist militarized rebels who were targeting Rhodesia and South Africa. In 1973, Rhodesia closed its border with Zambia to prevent these rebels from coming into Rhodesia. The rebels nonetheless carried out attacks against the Rhodesian government, who received military assistance from South Africa to combat the rebels. Coded civil war link because this was connected to militarized rebels in Rhodesia. 
+
+COUPMID: MID1397 3 -- not coup 
+COUPMID-CER: MID1397 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1397 3 -- not coup link
+COUPLINK-CER: MID1397 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1611 
+
+TERRMID: MID1611 3 -- not territory 
+TERRMID-CER: MID1611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1611 3 -- not third party link to territory 
+TERRLINK-CER: MID1611 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1611 3 -- not maritime 
+MARITMID-CER: MID1611 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1611 3 -- not islands 
+ISLMID-CER: MID1611 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1611 3 -- not civil war 
+CIVWARMID-CER: MID1611 1 -- certain 
+CIVWARMID-NOTES: MID1611 It is unclear how South Africa is involved in this MID, so a connection to rebels operating in South Africa cannot be established. Therefore, not coded civil war MID.
+
+CIVWARLINK: MID1611 1 -- civil war link 
+CIVWARLINK-CER: MID1611 3 -- uncertain 
+CIVWARLINK-NOTES: MID1611 from Gibler, Miller, and Little 2016, Rhodesia warned Zambia against assisting rebels who were targeting the Rhodesian and South African governments. Coded civil war link because this was connected to Zambia's support of militarized rebels against Rhodesia, outside this dyad, and coded uncertain because GML argue this case shold be dropped since the threat was not militarized. It is unclear how South Africa is involved in this MID. 
+
+COUPMID: MID1611 3 -- not coup 
+COUPMID-CER: MID1611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1611 3 -- not coup link
+COUPLINK-CER: MID1611 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1398 
+
+TERRMID: MID1398 3 -- not territory 
+TERRMID-CER: MID1398 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1398 3 -- not third party link to territory 
+TERRLINK-CER: MID1398 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1398 3 -- not maritime 
+MARITMID-CER: MID1398 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1398 3 -- not islands 
+ISLMID-CER: MID1398 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1398 1 -- civil war MID
+CIVWARMID-CER: MID1398 3 -- uncertain 
+CIVWARMID-NOTES: MID1398 from Gibler, Miller, and Little 2016, South Africa publicly stated that they would address any threat from outside countries supporting rebel groups against them. Newspapers reported this as a threat against Zambia, but South Africa never explicitly mentioned or threatened Zambia. Coded civil war MID because this was connected to militarized rebel activity in South Africa, but coded uncertain because GML recommend the case be dropped as it is not a directed military threat. 
+
+CIVWARLINK: MID1398 3 -- not civil war link 
+CIVWARLINK-CER: MID1398 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1398 3 -- not coup 
+COUPMID-CER: MID1398 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1398 3 -- not coup link
+COUPLINK-CER: MID1398 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3215 
+
+TERRMID: MID3215 3 -- not territory 
+TERRMID-CER: MID3215 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3215 3 -- not third party link to territory 
+TERRLINK-CER: MID3215 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3215 3 -- not maritime 
+MARITMID-CER: MID3215 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3215 3 -- not islands 
+ISLMID-CER: MID3215 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3215 3 -- not civil war 
+CIVWARMID-CER: MID3215 1 -- certain 
+CIVWARMID-NOTES: MID3215 from NYT 5/20/1973, Rhodesia protested when Zambian soldiers fired across the border, killing several tourists in 1973. A few days later, Zambia fired on a bridge connecting Zambia and Rhodesia. Coded not civil war because this was not connected to any militarized rebel activity, although previous MIDs did involve Zambia's support for rebels targeting Rhodesia. 
+
+CIVWARLINK: MID3215 3 -- not civil war link 
+CIVWARLINK-CER: MID3215 1 -- certain 
+CIVWARLINK-NOTES: MID3215 from New York Times 1/12/1973, Zambia retaliated against South Africa's support for the Rhodesian government by ordering its banks to stop making foreign exchange deals with South Africa, as well as delaying payment for goods in transit from South Africa to Zambia. Coded not civil war link because no rebel activity occurred outside this dyad in this MID. 
+
+COUPMID: MID3215 3 -- not coup 
+COUPMID-CER: MID3215 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3215 3 -- not coup link
+COUPLINK-CER: MID3215 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3227 
+
+TERRMID: MID3227 3 -- not territory 
+TERRMID-CER: MID3227 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3227 3 -- not third party link to territory 
+TERRLINK-CER: MID3227 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3227 3 -- not maritime 
+MARITMID-CER: MID3227 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3227 3 -- not islands 
+ISLMID-CER: MID3227 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3227 1 -- civil war MID
+CIVWARMID-CER: MID3227 1 -- certain 
+CIVWARMID-NOTES: MID3227 from Gibler 2018, Zambia and South Africa had repeated disputes over Zambia's support for militarized rebels targeting the South African and Rhodesian regimes. In 1974, Zambia fired on South African vessels in the Zambezi river on two occasions. Coded civil war MID because this was connected to militarized rebel activity in South Africa. 
+
+CIVWARLINK: MID3227 1 -- civil war link 
+CIVWARLINK-CER: MID3227 1 -- certain 
+CIVWARLINK-NOTES: MID3227 coded civil war link because this was connected to militarized rebels targeting the Rhodesian regime, outside this dyad. The rebel activity in Rhodesia and Zambia's support for those rebels contributed to the hostility between Zambia and South Africa, as well as Zambia and Rhodesia. 
+
+COUPMID: MID3227 3 -- not coup 
+COUPMID-CER: MID3227 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3227 3 -- not coup link
+COUPLINK-CER: MID3227 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1396 
+
+TERRMID: MID1396 3 -- not territory 
+TERRMID-CER: MID1396 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1396 3 -- not third party link to territory 
+TERRLINK-CER: MID1396 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1396 3 -- not maritime 
+MARITMID-CER: MID1396 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1396 3 -- not islands 
+ISLMID-CER: MID1396 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1396 3 -- not civil war 
+CIVWARMID-CER: MID1396 3 -- uncertain 
+CIVWARMID-NOTES: MID1396 Coded not civil war because, although Zambia was supporting militarized rebels targeting the South African regime, there is no indication that this incident involved those rebels. This MID involved Rhodesia being targeted by rebels supported by Zambia, and Rhodesia claiming that Zambia was allowing the rebels to use their territory for bases. Coded uncertain because, per Gibler 2018, South Africa is not a party to this dispute. 
+
+CIVWARLINK: MID1396 1 -- civil war link 
+CIVWARLINK-CER: MID1396 3 -- uncertain 
+CIVWARLINK-NOTES: MID1396 from Gibler 2018, in 1974 Zambian rebels crossed into Rhodesia and attacked policemen. Rhodesia protested. Coded civil war link because this was connected to militarized rebel activity in Rhodesia, outside this dyad. Coded uncertain because Gibler 2018 does not consider South Africa a party to this dispute. 
+
+COUPMID: MID1396 3 -- not coup 
+COUPMID-CER: MID1396 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1396 3 -- not coup link
+COUPLINK-CER: MID1396 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3127 
+
+TERRMID: MID3127 3 -- not territory 
+TERRMID-CER: MID3127 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3127 3 -- not third party link to territory 
+TERRLINK-CER: MID3127 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3127 3 -- not maritime 
+MARITMID-CER: MID3127 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3127 3 -- not islands 
+ISLMID-CER: MID3127 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3127 1 -- civil war MID
+CIVWARMID-CER: MID3127 1 -- certain 
+CIVWARMID-NOTES: MID3127 from Gibler 2018, the Zambian president expressed public support for militarized rebel action in South Africa to oppose the regime there, and threatened to attack South Africa if they experienced an invasion from South African troops. Later, Zambians were killed in clashes with South African troops in South Africa-controlled Namibia. Tanzania is also pulled into this MID against South Africa by threatening to assist Zambia if South Africa invaded. Coded civil war MID because this was connected to militarized rebel activity in South Africa (in this dyad). 
+
+CIVWARLINK: MID3127 3 -- not civil war link 
+CIVWARLINK-CER: MID3127 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3127 3 -- not coup 
+COUPMID-CER: MID3127 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3127 3 -- not coup link
+COUPLINK-CER: MID3127 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3005 
+
+TERRMID: MID3005 3 -- not territory 
+TERRMID-CER: MID3005 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3005 3 -- not third party link to territory 
+TERRLINK-CER: MID3005 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3005 3 -- not maritime 
+MARITMID-CER: MID3005 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3005 3 -- not islands 
+ISLMID-CER: MID3005 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3005 1 -- civil war MID
+CIVWARMID-CER: MID3005 1 -- certain 
+CIVWARMID-NOTES: MID3005 from Gibler 2018, in 1978 South Africa attacked militarized rebels in Zambia who had fired on South Africa previously. Coded civil war MID because this was connected to militarized rebels in Zambia/South Africa (in this dyad). 
+
+CIVWARLINK: MID3005 3 -- not civil war link 
+CIVWARLINK-CER: MID3005 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3005 3 -- not coup 
+COUPMID-CER: MID3005 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3005 3 -- not coup link
+COUPLINK-CER: MID3005 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2571 
+
+TERRMID: MID2571 3 -- not territory 
+TERRMID-CER: MID2571 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2571 3 -- not third party link to territory 
+TERRLINK-CER: MID2571 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2571 3 -- not maritime 
+MARITMID-CER: MID2571 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2571 3 -- not islands 
+ISLMID-CER: MID2571 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2571 1 -- civil war MID
+CIVWARMID-CER: MID2571 1 -- certain 
+CIVWARMID-NOTES: MID2571 from Gibler 2018, in 1986 South Africa conducted a large campaign to defeat the ANC, a rebel group targeting the South African regime. South Africa raided the capital of Zambia and launched air strikes. Coded civil war MID because this was connected to militarized rebels in Zambia. 
+
+CIVWARLINK: MID2571 3 -- not civil war link 
+CIVWARLINK-CER: MID2571 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2571 3 -- not coup 
+COUPMID-CER: MID2571 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2571 3 -- not coup link
+COUPLINK-CER: MID2571 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2810 
+
+TERRMID: MID2810 3 -- not territory 
+TERRMID-CER: MID2810 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2810 3 -- not third party link to territory 
+TERRLINK-CER: MID2810 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2810 3 -- not maritime 
+MARITMID-CER: MID2810 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2810 3 -- not islands 
+ISLMID-CER: MID2810 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2810 1 -- civil war MID
+CIVWARMID-CER: MID2810 1 -- certain 
+CIVWARMID-NOTES: MID2810 from Gibler 2018, South Africa warned Zambia and Botswana that it would not allow their territories to be used by rebels to travel and attack South Africa. South Africa conducted several attacks on rebels in Botswana and Zambia in 1987. Coded civil war MID because this was connected to militarized rebel activity in Zambia (within this dyad). 
+
+CIVWARLINK: MID2810 1 -- civil war link 
+CIVWARLINK-CER: MID2810 1 -- certain 
+CIVWARLINK-NOTES: MID2810 this MID also involved militarized rebels in Botswana, outside this dyad. 
+
+COUPMID: MID2810 3 -- not coup 
+COUPMID-CER: MID2810 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2810 3 -- not coup link
+COUPLINK-CER: MID2810 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+South African troops attacked Southwest Africa People's Organization (SWAPO) targets in Sialola, Zambia on July 11, 1976, resulting in the deaths of 24 individuals. Zambia referred the matter to the United Nations (UN) Security Council on July 12, 1976. The UN Security Council condemned the South African attack against Zambia on July 30, 1976. South African troops and Zambian troops clashed near the border on May 25, 1977. SWAPO artillery attacked South African military targets near Katima Mulilo from Zambian territory on August 23, 1978, resulting in the deaths of nine South African soldiers. South African troops retaliated by attacking SWAPO bases in Zambia on August 23-24, 1978, resulting in the deaths of 12 individuals. Zambian troops sank a South African boat on the Zambezi River near Sesheke on December 19, 1978. South African troops attacked SWAPO targets in Zambia on March 12, 1979, resulting in the deaths of nine individuals. South African troops attacked African National Congress (ANC) targets in Zambia between February 6 and March 28, 1980. The UN Security Council condemned South Africa, and demanded the withdrawal of South African troops from Zambia on April 11, 1980. South African troops attacked rebel targets near Sesheke, Zambia on September 11, 1981. President Kenneth Kaunda of Zambia and Prime Minister P. W. Botha of South Africa held discussions in Botswana on April 30, 1982. South African military aircraft attacked ANC targets in Lusaka, Zambia on May 19, 1986, resulting in the deaths of two individuals. The European Community (EC), Britain, Soviet Union, and the US condemned South Africa on May 19, 1986. President Abdou Diouf of Senegal, chairman of the Organization of African Unity (OAU), condemned South Africa on May 19, 1986. The Organization of the Front Line States (OFLS), UN Secretary-General Javier Perez de Cuellar, and Commonwealth of Nations (CON) Secretary-General Shridath Ramphal condemned South Africa on May 20, 1986. China condemned South Africa on May 20, 1986. The US and Britain vetoed a UN Security Council resolution on May 23, 1986, which would have condemned the attacks and imposed mandatory economic sanctions against South Africa. South African military aircraft attacked ANC targets in Livingstone, Zambia on April 25, 1987, resulting in the deaths of four individuals.
+
+On October 14, 1988, South Africa has massed more than 50,000 troops along the Zambia-Namibia border near Livingstone, Zambia. It quoted Zambia Secretary of State for Defense and Security Alex Shapi as saying that the South African force started grouping at Chobe in Caprivi of Namibia earlier this month. The troops were spotted when Zambia was preparing a pass-over parade of Zambia air force officers for October 5, 1988. "Our first impression was that they thought Zambia was preparing to attack them but it was clear later that they had other intentions', Mr. Shapi was quoted as saying. The paper alleged that South Africa was preparing to attack Zambia during its general elections in late October 1988.
+
+On December 26, 1988, Zambian Foreign Affairs minister Luke Mwananshiku refuted allegations that Zambia was defeating the call for mandatory economic sanctions against South Africa by trading with that country. The minister was quoted by the Zambian news agency as saying that Zambia has reduced trade with South Africa and all Zambia's copper is being exported through the ports of Dar Es Salaam of Tanzania and Beira of Mozambique. He said Zambia traded with South Africa on a low note due to the colonial economic set-up which made Zambia and her southern neighbors outlets for goods produced in South Africa. Zambia wanted to rout out apartheid in Southern Africa, the cause of all problems in the region, he stressed. Mr. Mwananshiku noted that Zambia's relations with the international community are sound though there are disagreements on certain issues, especially on the solution to the problem of apartheid. He welcomed the efforts made by the United States and the Soviet Union to increasing dialogue between the west and the east. On relations with the international monetary fund (IMF) and the World Bank, the minister said Zambia encouraged these organizations to come and assess Zambia's new austerity programs. He said a delegation from the World Bank has been in the country for consultative talks with Zambian financial officials recently. Meanwhile, Mwananshiku announced that Zambia has paid all her membership fees to the Organization of African Unity (OAU) and the United Nations. 
+
+SOURCES-CM: 
+Africa Research Bulletin (ARB), July 1-31, 1976, May 1-31, 1977, December 1-31, 1978, April 1-30, 1980, June 15, 1986; Brecher and Wilkenfeld, 1997, 477-478; Foreign Broadcast Information Service (FBIS), August 24, 1978, August 25, 1978, August 28, 1978; Keesing, September 10, 1976, February 23, 1979, August 17, 1979, October 29, 1982, October 1986, May 1987, June 1988; Tillema, 1991, 128-129; Weisburd, 1997, 92-94.
+
+NARRATIVE-CR:
+The rivalry between Zambia and South Africa began in 1968 and continued beyond the last recorded dispute (1987) to the end of South Africa's apartheid regime. Tensions existed between the two countries from the time of Zambia's independence, April 24, 1964. While the President of Zambia proposed a normal exchange of diplomats in 1964, South Africa was unwilling to deal with black diplomats as equals. From the early years, Zambia had an ambiguous stance toward South Africa. On one hand, it maintained economic links, but on the other it supported black guerillas like the Southwest Africa People's Organization (SWAPO) and the African National Congress (ANC). President Kaunda was dedicated to helping bring about an end to apartheid in South Africa. South Africa maintained a conflicted approach to Zambia. It did not apply economic sanctions or cut off ties because continued relations were strategically important, but constantly threatening to attack for Zambia's continuance of harboring enemies. Each of the MIDs that made up this rivalry were cross-border incursions that were mainly small in scale.
+
+South Africa accused Zambia of being the source of terrorist actions taken against its interests in Rhodesia during 1968. This is classified as MID1400.
+
+In 1969, Zambia met with other East and Central African states to issue the Lusaka Manifesto, which endorsed equal rights and human dignity and criticized white governments for their violation of these concepts. It encouraged diplomatic resolution of these issues, but endorsed military use if diplomacy did not work. The Organization of African Unity (OAU) and the United Nations endorsed the Lusaka Manifesto.
+
+In 1970, the South African Minister of Justice said that there were between 38,000 and 42,000 trained black guerillas in Zambia and Tanzania. On January 3 and 18 of that year, the guerilla forces crossed from Zambia into Rhodesia, killing 8 South African and 5 Rhodesian soldiers. This is MID1611.
+
+Zambian forces attacked South African forces along the border in the Caprivi Strip area several times during October 1971. This is MID1398.
+
+In 1973, P. W. Botha argued that black nationalists were a threat not because of their race, but because they were attempting to conquer the region and make it communist under the leadership of Russia and China. Gaining control of Zambia was a first step before taking control of the industrial base of South Africa.
+
+On January 11, 1973, Zambia announced it would cut off its exports of copper and other raw materials to Rhodesia and South Africa in retaliation for the growing tensions between the countries. Later that month, Zambia accused South Africa of sending 4,000 troops to bolster the Rhodesian attempts to destabilize the country. This was classified as MID1397. I could not find information on MID3215.
+
+In 1974, South Africa was nearly expelled from the United Nations (a move which Zambia supported). Following this, South Africa made an attempt to gain diplomatic ground in Southern Africa by relinquishing its claims to Rhodesia through a policy of detente. President Kaunda saw this as a real opportunity, and tried to capitalize on it immediately. Zambian President Kuanda's senior foreign affairs advisor met with South Africa's Secretary of Foreign Affairs in Pretoria to design a policy of detente between the two countries. In exchange for the removal of South African police from Rhodesia, Zambia agreed not to allow "South African terrorists" to move through Zambia to Rhodesia. While initial attempts were made to carry out the terms of the agreement, the task was too difficult to accomplish, particularly on the part of Zambia, which had to try to convince other South African states to cooperate. When the presidents of South Africa and Zambia met with other leaders from the region in August, 1975 at Victoria Falls, no agreements were able to be reached. This ended the brief period of detente.
+
+In November of 1974, there were several more clashes along the border between Zambia and Rhodesia, classified as MID1396. I was unable to find information on MID3227, although it probably involved the same conflict that surrounded the rest of the disputes between South Africa and Zambia (often involving Rhodesia as well).
+
+South African troops attacked Southwest Africa People's Organization (SWAPO) targets in Sialola, Zambia on July 11, 1976, resulting in the deaths of 24 individuals. 
+
+South African troops and Zambian troops clashed near the border on May 25, 1977. This does not fit within the dates of MID3127 though, and I could not find record of a dispute between those actual dates during 1977. 
+
+SWAPO artillery attacked South African military targets near Katima Mulilo from Zambian territory on August 23, 1978, resulting in the deaths of nine South African soldiers. South African troops retaliated by attacking SWAPO bases in Zambia on August 23-24, 1978, resulting in the deaths of 12 individuals. This was classified as MID3005. 
+
+Zambian troops sank a South African boat on the Zambezi River near Sesheke on December 19, 1978. 
+
+South African troops attacked SWAPO targets in Zambia on March 12, 1979, resulting in the deaths of nine individuals. 
+
+South African troops attacked African National Congress (ANC) targets in Zambia between February 6 and March 28, 1980. 
+
+South African troops attacked rebel targets near Sesheke, Zambia on September 11, 1981. 
+
+South African military aircraft attacked ANC targets in Lusaka, Zambia on May 19, 1986, resulting in the deaths of two individuals. This was MID2571. 
+
+The final MID2810 occurred when a military aircraft from South Africa attacked ANC targets in Livingstone, Zambia on April 25, 1987. Four people were killed in this attack. No formal agreements were reached between the two countries that ceased tensions. However, the nature of the conflict was changed when South Africa underwent significant domestic changes in the early 1990s. The ANC as well as 59 other previously illegal organizations were legalized on February 2, 1990. Over the next several months, the South African government saw the institution of a new constitution and an end to apartheid. Without the racial issues that formed the basis for the ongoing conflict, the foundation of the rivalry ended. 
+
+SOURCES-CR: 
+Anglin and Shaw, 1979; Barber and Barrett, 1990; Brecher and Wilkenfeld, 1997; Broderick, Burford, and Freer, 2001; Dzimba, 1998; Facts on File, January 29-February 4, 1970; Keesing's, November 1974; New York Times, July 23 1968, January 12 1973, January 30 1973; Tillema, 1991; Weisburd, 1997; Wills, 1987.
+
+PS-NARRATIVE:
+
+19640424-19680406 0.25 
+
+Tensions existed between the two countries from the time of Zambia's independence, April 24, 1964. While the President of Zambia proposed a normal exchange of diplomats in 1964, South Africa was unwilling to deal with black diplomats as equals. From the early years, Zambia had an ambiguous stance toward South Africa. On one hand, it maintained economic links, but on the other it supported black guerillas like the Southwest Africa People's Organization (SWAPO) and the African National Congress (ANC). President Kaunda was dedicated to helping bring about an end to apartheid in South Africa. South Africa maintained a conflicted approach to Zambia. It did not apply economic sanctions or cut off ties because continued relations were strategically important, but constantly threatening to attack for Zambia's continuance of harboring enemies. Each of the MIDs that made up this rivalry were cross-border incursions that were mainly small in scale.
+
+South Africa accused Zambia of being the source of terrorist actions taken against its interests in Rhodesia during 1968. This is classified as MID1400 and it started on April 6, 1968. The rivalry between Zambia and South Africa began in 1968 and continued beyond the last recorded dispute (1987) to the end of South Africa's apartheid regime. 
+
+19900202-19940427 Transition 
+
+The last MID of RIV1159, MID2810, ended in April 1987. However the rivalry continued until the first changes regarding the apartheid regime in South Africa. The nature of the conflict was changed when South Africa underwent significant domestic changes in the early 1990s. The ANC as well as 59 other previously illegal organizations were legalized on February 2, 1990. Over the next several months, the South African government saw the institution of a new constitution and an end to apartheid. Without the racial issues that formed the basis for the ongoing conflict, the foundation of the rivalry ended. 
+
+On August 20, 1990, as the political situation in South Africa presents opportunities for dismantling apartheid, landlocked Zambia has decided to revert to its old trade routes in the southern tip of the continent. But this move has left authorities in Zambia's northern neighbor, Tanzania, uneasy about the future of the port of Dar es Salaam. Top officials in Tanzania's transport industry, including the Tanzania Harbors Authority (THA), began meeting in Dar Es Salaam to work out plans which would keep the port active. The meeting, expected to take a few days, will work out new programs to increase efficiency at the port, a THA official told IPS. Until a few months ago, Zambia routed 68 percent of its exports through Dar es Salaam.
+
+On September 22, 1990, the Zambian government is considering the establishment of a South African trade mission in Lusaka. This comes after nearly 30 years during which Zambia was at the forefront of international moves to isolate South Africa economically. Senior officials in the Zambian government and businessmen believe the mission will be open before December. The Minister of Trade and Commerce, Mr Rabson Chongo, said that Zambia was aware that South Africa had been considering opening a trade mission in Lusaka. But, Mr Chongo said, that would depend on how the situation in South Africa unfolded. A spokesman in the ministry said that the South African and Zambian governments had been in contact and internal meetings had been held on the subject within the Zambian civil service.
+
+On March 28, 1991, South Africa welcomed the decision by the Zambian authorities to liberalize the granting of visas to South Africans visiting the country, according to a report from Pretoria. A statement issued by the department of foreign affairs said that Zambia's gesture would facilitate trade and tourism between South Africa and Zambia and contribute to a better understanding between the two countries. Zambia's chief immigration officer announced that South Africans visiting Zambia could obtain their visas at ports of entry instead of applying to the immigration office in advance. Zambian tourism minister Pickson Chitambala announced recently that his government was planning to ease the entry of visitors from South Africa and the United States in an effort to boost the country's tourism industry.
+
+Zambian President Kenneth Kaunda said on July 12, 1991, that Zambia supports the lifting of sanctions against South Africa by the United States because the sanctions have been weakened by division. In a telephone interview the previous night with BBC, the president said that "there is no use holding on to an empty shell." He said that the change of Zambia's position on the international economic sanctions against Pretoria was intended to help the South African government along the road to democratic reform. U.S. president George Bush announced on July 10, 1991, the partial lifting of sanctions the United States imposed on South Africa in 1986. Meanwhile, the Organization of African Unity (OAU) ad-hoc committee on South Africa and heads of state of the African frontline countries will meet to discuss the issue. Kaunda said that how to help the democratic reforms in South Africa will be discussed at the meeting. Kaunda said he would like to see an non-racial coalition government of major parties in South Africa.
+
+President Frederick Chiluba said on February 7, 1992, in Lusaka, that Zambia was in the process of establishing diplomatic relations with South Africa. In a telephone interview Chiluba said that he was looking forward to visiting South Africa soon. The president also said that Zambia was opening up a trade mission in South Africa because it wanted to do business with that country. Zambia's decision to establish diplomatic ties was based on the "fast-moving changes in South Africa," he said. He added that the move was important because this could place Zambia in a better position to influence matters in the Southern African region and help achieve peace in the area. The Zambian president also called on member states of the preferential trade area (PTA) to encompass South Africa.
+
+On April 14, 1992, the government has taken steps to facilitate the development of the tourist industry between Zambia and South Africa. Zambian Minister of Tourism Lt-Gen Christon Tembo, who is in South Africa at the head of a delegation of tourism promoters, says there is great potential for the tourism business to flourish between the two countries. According to a statement released in Lusaka, Gen Tembo said that it was important for people in both countries to change their attitudes, and take all necessary measures to ensure the growth of business. Gen Tembo said Zambia plans to start from South Africa, and that Zambia Airways will resume its air links to South Africa. He called on South Africans to visit Zambia, assuring them that there was a new atmosphere in the country, and that they will not be unduly inconvenienced.
+
+Zambia and South Africa will enhance bilateral trade, economic and technical cooperation. A joint communique, issued in Lusaka on April 29, 1992, at the end of a two day visit to Zambia by a South African trade delegation led by deputy minister of trade and industry David Graaff, proposed the establishment of a Zambia-South Africa chamber of commerce to facilitate communication at the private sector level between the nations. The communique called for promotion of direct private South African investment in Zambia and creation of opportunities for South African companies to be involved in projects in Zambia financed by international donors. The two sides took notice of the need for expansion of Zambian exports to South Africa to address the imbalance of trade between the two countries. More value should be added to all raw products Zambia exports to South Africa, the communique said. The two sides recognized the need for setting up official representation in each other's countries to facilitate trade relations. In the communique, the two sides also said they would make concerted efforts to boost tourism in their countries. This was the first visit by a South African trade delegation to Zambia, which had been a staunch advocate for economic sanctions against Pretoria.
+
+South African government representative to Zambia, John Sterban, presented his letter of introduction to Zambian foreign minister Vernon Mwaanga in Lusaka on October 19, 1992, marking the establishment of official relations between the two countries. Speaking at a ceremony held in Lusaka, Mwaanga said the event marked the beginning of bilateral cooperation between the two Southern African countries, and hoped the two countries would make more efforts to expand the existing bilateral trade relations. He praised South Africa for its cooperation in transporting Zambia's drought relief by providing its port and transportation facilities. Zambia and South Africa signed an agreement on the establishment of representative offices in each other's capital in May 1992. So far South Africa has restored official representations in all southern African countries.
+
+On March 11, 1993, South African deputy foreign minister Renier Schoeman called for cooperation in the transport sector between his country and Zambia on a mutually beneficial basis. Speaking at a press briefing in Lusaka at the end of his three-day visit to Zambia, Schoeman invited Zambian minister of communications and transport Andrew Kashita to visit South Africa to discuss the restructuring of road transport network between the two countries. A conducive atmosphere should be established to ensure free movement of people and goods through properly coordinated transport network, he said. During his visit, the deputy minister held discussions with Zambian foreign minister Vernon Mwaanga on bilateral relations, regional cooperation and political development in South Africa. Schoeman also presented a television camera and accessories to Zambia national broadcasting corporation and 28 tons of chlorine to the ministry of local government and housing to help contain cholera outbreaks in the country. 
+
+Once a leading advocate of South Africa's alienation because of its apartheid policies, Zambia has flung its doors wide open to Pretoria's trade and investment. "The role of excluding South Africa has passed. The role which has started is to get an industrially-developed South Africa into the region," President Frederick Chiluba said on August 3, 1993. South African President F.W. de Klerk, on his first ever visit to Zambia over the weekend, stressed Chiluba's point. "The circumstances are right. The barrier of apartheid, which separated us for so many years, no longer exists," de Klerk said when he opened Zambia's national agricultural and commercial exhibition on July 31, 1993. South Africa enjoys a peculiar relationship with Zambia. While most countries in Southern Africa continue to keep Pretoria at arms' length, Chiluba's two-year-old market-oriented government from the start moved rapidly to establish semi-diplomatic relations. Trade is already picking up. Zambia Consolidated Copper Mines' imports from South Africa, for example, have more than doubled since the change of government. "We are now importing between 3,500 and 4,000 tons of conventional cargo from South Africa, worth $5 million, every month," ZCCM spokesman Francis Musonda said. "Previously, we were importing well below that, because of the government's stand on South Africa. But because our trade no longer has to be secret, we are importing a lot more from there," he added. The private sector, which under Kaunda would never have dared to deal with South Africa, is now doing so openly. Sido Tanning and Leather Company, for example, this month started exporting semi-finished hides to South Africa. The National Airports Corporation has signed an advertising contract with Inter Africa of South Africa, while South African Airways cargo planes are to start transporting cargo to Zambia. Scores of other companies are now dealing, with government approval, with South Africa. However, South Africa appears to be reaping more than Zambia from their new relationship. Trade between the two countries was grossly imbalanced in 1991. Zambia earned 600 million rands (about $20 million) while South Africa netted 14.3 Billion rands (about $5 billion) in export earnings. The level of trade between the two countries remained more or less the same in 1992, according to Henning Visser, South Africa's assistant representative for trade and industry in Zambia. South African businessmen have complained about the poor quality of Zambian products, which cannot compete with South Africa's more refined and highly-demanded products. Until Zambian manufacturers improve their products, indications are the trade imbalance will persist, businessmen say.
+
+19940427-20159999 0.5 
+
+On April 27, 1994, the first post-apartheid elections were held. On 12th May, 1994, Zambia was to upgrade its representative office in South Africa to a full diplomatic mission, Foreign Affairs Minister Remmy Mushota said on arrival from South Africa. Zambia is currently represented in South Africa by a country representative office. He said his ministry was ready to open the mission as soon as the South African government was ready to receive the Zambian envoy's credentials.
+
+Zambia and South Africa have agreed to conclude a trade agreement in the next few months to reduce unfavorable trade balances between them, a Zambian minister revealed on September 6, 1995. Minister of commerce, trade and industry Dipak Patel told reporters here that government officials and businessmen from Zambia and South Africa, who met on August 30, 1995, agreed to finalize the agreement by November. A group of experts from the two countries has been mandated to undertake joint sector studies to determine what kind of trading arrangement will be beneficial to both nations, Patel said. The minister also disclosed that the South African government has agreed to provide favorable exchange control permission to specific cases of South African investors wishing to invest in Zambia. South Africa currently has exchange control regulations which impede the flow of investment resources from that country to Zambia. Zambia's imports from South Africa stand at 316 million US dollars annually while its exports to that country are as low as only 15 million dollars.
+
+Zambia manufacturers stand to earn 150 million annually from South Africa thanks to the intervention of the Southern African Development Community (SADC) in helping to resolve a trade dispute between Lusaka and Pretoria, a top official said on February 7, 1996. Zambia's Association of Manufacturers (ZAM) chairman Mark O'Donnel said "the nagging trade conflict between Lusaka and Pretoria has now been resolved following SADC secretariat intervention". Zambia's private sector tabled their trade grievances at the recent SADC Conference forum, saying that while South Africa was exporting more goods to Zambia, Pretoria's protectionism was blocking imports from Zambia. O'Donnel said the SADC secretariat direct Pretoria to open its trade to Zambia and other neighbors with capacity and potential to export to South Africa. He hoped that South Africa would comply with the SADC directive.
+
+On February 13, 1996, Pretoria has sent a draft agreement proposal to Zambia spelling out ideas to protect Zambian investments in South Africa, sources said in Lusaka. In the draft agreement, Pretoria proposed, among others, a harmonizing of South Africa's foreign exchange policy, reciprocal to Zambia's liberalized exchange control. "We know that South Africa has foreign exchange restrictions," a highly-placed source at the Ministry of Finance said. "But in the proposed agreement Pretoria will relax this in respect of Zambia investors." One of the excerpts in the draft agreement proposes special treatment for Zambian investors in South Africa. Zambia wants to establish special bilateral trade ties with South Africa while waiting for Pretoria to liberalize its economic policies. A source at the Ministry of Commerce said: "Zambia's hope lies in finalizing its trade arrangement with South Africa rather than just waiting for the formal signing of the trade protocol." Meanwhile, the tripartite trade agreement between Zambia, Zimbabwe and Malawi was still pending until a resolution is reached with the South African Customs Union (SACU), officials said. The three countries feel they have been squeezed out of the South African market by the rigid restrictions imposed by SACU, in turn hurting their trade with Pretoria. The private business sector of the three countries allege South Africa uses its neighbors as a dumping ground for its goods while denying access to its market.
+
+South Africa is reviewing trading relationships with neighboring countries which are economically weaker, Foreign Minister Alfred Nzo said on March 11, 1996. He spoke in Lusaka, the Zambian capital, on aspects of a joint communique he signed with his Zambian counterpart Lt. Gen. Christon Tembo. The occasion marked the end of Nzo's four-day visit. He said that South African trade officials were preparing new trade guidelines to regulate business with neighboring countries. "South Africa is currently examining these (trade) issues to balance relations not only with Zambia but other countries in the southern African region," he said. Both men signed a general agreement on economic, social, scientific, technical and cultural cooperation on Monday. It makes easier cooperation in agriculture, livestock, fisheries, trade, industry, mining and tourism. Other areas of cooperation provided for in the agreement include monetary and financial arrangements, development of transportation and communications facilities, sport and culture, energy, health and education. Pretoria and Lusaka will also cooperate in the training, development and utilization of personnel; cooperate also in migration, combating of crime, conserving nature and in the exchange of scientific and technical information. The two countries also agreed to undertake joint research projects in various fields of mutual interest.
+Both states have already initiated cooperation on promotion and reciprocal protection of investment, trade, health and science and technology. Tembo and Nzo said that the agreement laid the basis for furthering cooperation between the two countries since the collapse of apartheid and establishment of Nelson Mandela's democratic government of national unity in 1994. Both states are members of the 12-nation Southern African Development Community. This body is supposed to integrate and develop economies in the sub-region. South Africa has been blamed by the other economically weaker community states of dominating trade in the region. Pretoria, therefore, is renegotiating new trade terms with Botswana, Lesotho, Namibia and Swaziland, her cooperating partners in the Southern African Customs Union. Other union members have also accused Pretoria of monopolizing trade within their grouping.
+
+Presidents Nelson Mandela and Frederick Chiluba of Zambia will meet in Pretoria on August 23, 1996 for crucial discussions centering on economic, trade and political cooperation, Chiluba's press aide Richard Sakala said. Chiluba joined 11 other Southern African Development (SADC) leaders for SADC's annual summit on August 24, 1996, in Lesotho's capital of Maseru to review the region's trading protocols. This will be the first official meeting and encounter between the two African leaders against a backdrop of internal political tensions and suspicions in both countries. Zambia has suspected Pretoria of trying to destabilize Zambia through slander masterminded by former president Kenneth Kaunda in the South African media. The Pretoria meeting between the two leaders would provide an adequate platform and latitude for each side to put its case in the right perspective to resolve the tacit diplomatic impasse, analysts said. 
+
+Zambian President Frederick Chiluba left for Johannesburg, South Africa for consultations with President Nelson Mandela on November 12, 1996. In an interview at Lusaka International Airport the President said he was going to South Africa for consultations with President Mandela and to brief him on the unfolding political situation in Zambia. He denied there were over 50,000 names missing from the voters roll saying there were no such numbers as purported by the independent media. Mr Chiluba said Zambia enjoyed a certain measure of support from the donor community and that elections would go ahead as scheduled on November 18, 1996. He said Zambia was an independent sovereign state which had gone to the people to find out exactly what they wanted included in the constitution and government did just that. "There is no way we are going to change the election dates to suit the aspirations of opposition parties," said Mr Chiluba. He is accompanied by Foreign Affairs Minister, Lt-General Christon Tembo, the Attorney General, George Chilupe and Secretary to the Cabinet Aldridge Adamson. In his own comments Minister Tembo said most members of the international donor community felt the political situation pertaining in Zambia was an internal matter. He said that he held random meetings with the donors at which most of them indicated that they would support Zambia in its efforts to maintain democratic governance. Gen Tembo said the campaign by opposition UNIP to derail the November 18 presidential and general elections was a waste of time as the country had reached a point of no return. He said something could have been done if nominations were not filed but it was too late to change things now.
+
+On November 19, 1996, Zambian President Frederick Chiluba is to apologize to President Nelson Mandela over claims by one of his top officials that the South African leader was interfering in Zambian domestic issues, according to media reports. The incident resulted from a meeting between the two leaders in Pretoria the previous week, after which Mandela suggested that Chiluba delay Monday's general elections in order to sort out the question of participation by former President Kenneth Kaunda.
+
+On November 14, 1997, Zambia and South Africa have taken the first step towards building an economic partnership, following the discussion held with the visiting South African minister of trade and industry, Alec Erwin. At the Zambia Association of Chambers of Commerce and Industry (ZACCI) business luncheon held at the Pamodzi Hotel Lusaka Mr Erwin said South Africa did acknowledge that it owed Zambia a great deal in order to be what it was now. He further said despite its sizeable economy, South Africa by itself could not provide its people with the future they needed but should see itself as part of the sub-economy and open its markets to the SADC region. Mr Erwin saw the prospect of a firm future between the two countries if they grew together to make their industries more competitive with the outside world. He proposed that South Africa and Zambia should discuss not only trade and investment but also the strengthening of their economies and many other problems they were facing. However, Mr Erwin made it clear that Zambia would have guarded access to the South African economy as the African giant had its own interests to protect. "You can't mess us around, for we shall take protective measures," the minister lamented. During the meeting, Zambia National Tourist Board chairman raised the issue of South Africa assisting Zambia in terms of aid, but Mr Erwin said his country also had a number of internal problems to deal with and that trade and investment were much more important than aid. Some participants also drew attention to the issue of Zambian industry being swallowed up by the African economic giant owing to the cheap imports flooding the nation. In answer to this, the minister said with trade agreements the two nations could assist each other become more competitive, seeing that they both had adequate raw materials and land. And ZACCI held its annual general meeting after the business luncheon, to usher in a new executive committee into office.
+
+Zambia's entry into the Southern African Customs Union (SACU) will provide exporters and traders with access to one of the region's largest and most lucrative markets, bringing major economic gains to the country's ailing economy. Enock Kavindele, Minister of Commerce, Trade and Industry said in the capital city of Lusaka on April 17, 1998, that Zambia's joining the five-member SACU may bring more than $ 48 million annually to the Zambian economy through trade. SACU, founded in 1969, provides a common pool of customs, excise and sales duties according to the relative volume of trade and production in each country. Goods are traded within the Union free of duty and quotas, subject to certain protective measures for less developed members. The Customs Union includes Botswana, Lesotho, Namibia, South Africa and Swaziland.
+
+South African Foreign Minister Nkosazana Dlamini-Zuma met her Zambian counterpart Sipakeli Walubita in Pretoria on December 9, 2000, to discuss ways of strengthening relations between the two countries. Dlamini-Zuma told reporters after the meeting that she and Walubita discussed various issues concerned not only by South Africa and Zambia, but also by the Southern African Development Community and the rest of the continent. She said they agreed to meet at least once a year to ensure that cooperation between South Africa and Zambia are not neglected. She said they also discussed a permanent joint bilateral commission between the two countries and a possible visit to South Africa by Zambian President Frederick Chiluba next year. On his side, Walubita said he is in South Africa to kick start the cooperation agreements signed by President Thabo Mbeki when he visited Zambia in October last year. "We are here to see how possible and easy it might be for South Africa and Zambia to formally form a joint permanent commission of cooperation so that all our bilateral agreements can perhaps be channeled under this very important commission," he said. "There is really nothing of importance that happens in South Africa that does not have a direct bearing on the ongoing life in Zambia," he said. "So Zambia considers South Africa a very important neighbor."
+
+Zambia stands to increase its export market share to South Africa to over US$100 million annually with preferential access under the SADC trade protocol launched on June 1, 2001. Launching the trade protocol, Zambia's commerce, trade and industry minister Dr. Yusuf Badat said the country stood to increase its export potential to South Africa as locally produced goods would not attract the previously imposed high duty rates. In some cases, Zambian goods attracted 52 per cent duty applied under the South African Customs Union which made Zambian products uncompetitive. "Therefore, Zambia stands to gain more than any other market as the South African government has already gazetted the new reduced tariffs that will be applicable on imports from Zambia," he said. Dr. Badat named the products in which Zambia had great potential to increase export earnings as copper rods and cables, cotton, blended polyester and textiles, value added wood products, including poultry. He said the SADC trade protocol had been a subject of extensive negotiations to ensure its smooth implementation and optimal application. The trade protocol ratified by all member states in the region, except Zambia, came into effect on January 25, 2000. Dr. Badat said he felt confident that the implementation of the SADC protocol would enable local consumers have access to cheaper products from within the region. He said this would also benefit the producers by offering them access to cheaper inputs imported from SADC sources. Dr. Badat said Zambian exporters will also benefit from lower import tariffs into SADC markets, provided they complied with the agreed rules of origin. He said countries that had ratified the trade protocol would enjoy preferential treatment in terms of duty rates for exports to other member states. Dr. Badat said Zambia had ratified the protocol in January this year and had gazetted it through Statutory Instrument No. 53 of April 30, 2001. He said the SADC trade protocol was not reciprocal on goods originating from South Africa. This means that Zambia will not need to offer duty free or lower tariffs rates on goods imported from South Africa. And commenting on the local manufacturers' complaints on trade, Dr. Badat said the Zambian government will meet officials from Zimbabwe's Ministry of Commerce and Trade in a bid to resolve continued complaints of unleveled trade between the two countries. Dr. Badat said the government had recognized the issues being raised as genuine and would immediately work towards resolving the problems cited. "These are genuine complaints and they need to be urgently addressed by us as a government," he said. Dr. Badat said the meeting scheduled to take place next month was in line with complaints raised that Zimbabwe was benefiting more from trade with Zambia. However, Dr. Badat admitted that there were several other factors that had impacted negatively on the cost of production of Zambian goods. "We are talking about issues like the high electricity tariffs which has made the cost of production high," he said. Dr. Badat said he would also be conferring with the Ministry of Energy to ensure that the local manufacturing industries remained competitive in the region. However, Dr. Badat warned that while the government was committed to the ideals of regional trade in the spirit of co-operation, it would not condone unfair trade practices. "We can't always be on the receiving end. We may revoke some of the Statutory Instruments if contentious issues are not addressed," he said. Dr. Badat said the problem was that traders were sourcing US dollars from the Zambian market and sold it onto the Zimbabwean "black market". And Zambia National Farmers' Union president Ajay Vashee, speaking at the launch, said the private sector had waited for a long time for the protocol. He said they were now awaiting the full announcement of the modalities of the implementation of trade protocol.
+
+On November 27, 2003, the Zambia National Tourist Board and the Mpumalanga Tourism Authority of South Africa have entered a memorandum of understanding aimed at improving tourism between the two Southern Africa countries. Charity Lumpa, Zambia National Tourist Board chief executive, and Irvin Phenyane, business development manager of Kruger Mpumalanga International Airport, signed the memorandum in the Southern Zambian resort city of Livingstone. The governments of South Africa and Zambia are slated to formalize the document in February 2004. Speaking at the signing ceremony, Lumpa observed that the memorandum would "go a long" in developing the 'Golden Triangle' concept that encompasses Cape Town, Kruger National Park in South Africa and Victoria Falls on the Zambezi river near Livingstone. Lumpa said the Golden Triangle was crucial to Zambia diversifying its economy from copper mining to tourism. Kruger business manager Phenyane noted that when the tourism package between the two countries was finally put together, it would become less expensive for tourists to visit South Africa and Zambia. Under the proposed Golden Triangle tour package, tourists will visit the golden beaches of Cape Town, a popular tourist destination, and continue to Kruger National Park, one of the biggest wildlife sanctuaries in the world, before ending up in Zambia to view the Victoria Falls, one of the seven natural wonders of the world. It is projected that when the 'Golden Triangle' tourism package is finally launched in March 2004, more than 600 tourists would pass through Livingstone every week, while 22,000 are expected to visit the resort city by the end of the year. 
+
+The trade imbalance between Zambia and South Africa is a matter of concern, Export Board of Zambia (EBZ) executive director Glyne Michelo has said on August 26, 2004. Mr Michelo said the ratio of Zambia's exports to its imports in respect of South Africa, varied between one and 18. This means that for every dollar that a Zambian earns from exports, he or she pays $18. He said this was an area of concern in what could, however, be described as a warm relationship between the two countries. "This trend however, can be addressed by Zambia increasing her exports to South Africa," he said. He cited the other area of concern as the limited running time allocated for the application of trade facilitation documents. Certificates of origin issued for the export of sugar to South Africa by the Zambia Revenue Authority (ZRA) were given a time frame after which they became ineffective. "This means that Zambian sugar is surcharged duty if it is not exported within a given time," said Mr Michelo. Export quotas given for textiles and clothing tended to be a barrier as Zambian companies could export limited quantity. "Current and potential exporters to the Republic of South Africa are often faced with unclear import guidelines and criteria which tantamount to non-tariff barriers," he said.
+
+Zambia's trade imbalance with South Africa currently stands at 1 to 8 in favor of that country the South African High Commission Trade mission has said on October 5, 2004. And the Central Statistical Office reports that Zambian trade earnings with South Africa saw a sharp decline during the month of August shrinking by K127 866 billion. CSO director Modestso Banda said the total value of exports declined from K237,369 billion in July to K109,503 billion in August. South Africa however remained Zambia's biggest import market. This was largely due to petroleum oils, motor vehicles, rice, fertilizer, machinery and spare parts. Zambia in turn exported cotton refined copper, cotton seed and Cobalt articles. And investment from South Africa into Zambia last year amounted to US $ 44.7 million, a marked increment from the previous year's US $ 14.1 million in 2002. South African High Commission trade and information assistant, Winza Sichali, said his country would continue being a partner in Zambia's economic development through investment and strong trade ties. Mr Sichali said Zambia had in fact not fully exploited market opportunities available in South Africa. "The SADC Trade Protocol, to which South Africa is a signatory offers great opportunities available for Zambia to increase its exports on preferential terms. "Taking full advantage of such opportunities will help Zambia to sustainably reduce the trade deficit between the two countries," he said. The current trade imbalance between the two countries was however understandable as upon comparison of the two economies, South Africa was US $ 160 billion economy in terms of GDP with annual exports of around US $ 40 billion. South Africa's industrial base was also well developed and globally competitive. Mr Sichali also urged the Zambia Investment Centre (ZIC) to continue marketing Zambia as an investment destination, particularly for sectors such as tourism and agriculture. He added that it was also commendable that the Zambian Government was now focusing on key sectors such as agriculture and tourism for development. He believed that South African capital and expertise could make an even greater contribution to the development of these sectors. The embassy was also of the opinion that the successful conclusion off a cooperation agreement through a joint permanent commission would enhance trade and economic relations between the two countries. 
+
+President Thabo Mbeki will arrive in Lusaka, Zambia on October 23, 2004, as that country gears up to celebrate 40-years of freedom, foreign affairs said. Known as Northern Rhodesia under British rule, Zambia won independence from Britain on 24 October 1964 following successful negotiations with freedom fighters led by founding president Kenneth Kaunda. Spokesman Ronnie Mamoepa said Mbeki and his wife, Zanele, would be the guests of honor at a state banquet hosted by Zambian President Levy Mwanawasa. On 25 October, 2004, Mbeki will join Mwanawasa at a wreath laying ceremony in Lusaka's Freedom Square to remember those who fought for independence. He will also confer honors on some prominent Zambians before observing a cultural, sporting and military display at Independence Stadium. Mbeki spent some time in Zambia during his years in exile fighting apartheid. The ANC's headquarters were based in Lusaka during the struggle years. Safety and Security Minister Charles Nqakula is accompanying Mbeki.
+
+Strong economic ties among African nations are key to the continent's progress, South Africa's deputy foreign affairs minister Aziz Pahad has said on June 7, 2005. In an interview shortly before his departure following a visit in the delegation of Vice-President Jacob Zuma, Pahad said African nations should remember that development entailed economic diplomacy. Pahad said there was a need for Zambia and South Africa to share experiences to ensure there was exploitation of various areas that would benefit the people in the two economies. "There is a need for economic ministers to interact on several occasions to identify areas of need and to learn from each country's experience. It is only after understanding prevailing conditions in both countries that one can be able to go back home and convince the private sector to invest in either South Africa or Zambia in a way that will be mutually beneficial," he said. Pahad said South Africa had an historic responsibility to contribute to Zambia's economic development. He said the good relations that existed should be further strengthened to ensure that they worked to the advantage of both countries and the Southern African Development Community (SADC) region at large. "South Africa is very committed to its foreign policy and we understand that South Africa could not have been free without Zambia. The relations between Zambia and South Africa are exceptional, and being the biggest economy on the continent, we need to help African nations. It would not help if we just come to visit and talk about the economy here then go back without partnering in development with the Zambian society," he said. Pahad further highlighted tourism as one of the areas in which Zambia and South Africa could partner for the benefit of the SADC region. He urged Zambia to continue playing its special role as liberator as it was strategically placed. "We need to work closely with Zambia over our common values on many things like conflict resolution, human rights, democracy and the transformation of the United Nations, including all issues that we believe we can work with Zambia within the SADC context to achieve what would be beneficial to Africa. With all the initial achievements, Zambia should continue to help other nations at war," Pahad said. Pahad said South Africa would always remain committed to contributing to Africa's progress. 
+
+Zambia has asked South Africa for logistical support to speed up the import of much-needed fuel, a minister said in Lusaka on October 9, 2005. "The transportation of fuel by road is proving to be slow. We need to get (rail) wagons, which can transport large quantities of fuel," Commerce Minister Dipak Patel told reporters. Zambia has been hit by severe fuel shortages in the past week after maintenance work at the country's sole oil refinery company took longer than expected. Patel said Zambia's information minister, Vernon Mwaanga, was in South Africa to ask for the use of South African rail tankers to speed up the importation of fuel. Patel, who is also heading a crisis fuel committee, said oil marketing companies were using road transport to import fuel, which slowed the process down. Zambians have been stranded across the country as public transporters have run out of fuel while prices of the national staple cornmeal have skyrocketed. President Levy Mwanawasa last week sacked his energy minister, George Mpombo, saying he had failed to deal with the fuel crisis which had forced copper mining companies to scale down their operations, which are the backbone of the economy.
+
+PS-SOURCES: Africa News March 11, 1996; November 12, 1996; November 19, 1996; November 14, 1997; June 1, 2001; August 26, 2004; October 25, 2004; June 7, 2005; Deutsche Presse-Agentur February 7, 1996; February 13, 1996; August 23, 1996; Xinhua December 26, 1988; October 14, 1988; March 28, 1991; May 14, 1991; July 12, 1991; December 21, 1991; February 7, 1992; April 14, 1992; April 29, 1992; October 19, 1992; March 11, 1993; September 6, 1995; February 13, 1996; November 15, 1996; December 9, 2000; Times of Zambia April 2, 1998; March 23, 2004; October 5, 2004; IPS August 20, 1990; August 3, 1993; April 17, 1998; Panafrican November 27, 2003; BBC September 22, 1990; May 16, 1994; October 23, 2004; Agence France Presse October 9, 2005
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+New York Times (1973). No Headline. January 12 1973. 
+— (1973b). “Rhodesia Says More Shots Are Fired From Zambia”. New York Times May 20: 18.

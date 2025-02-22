@@ -1,0 +1,189 @@
+FILE: cm365367v11.0.txt
+DYAD: RUSSIA/USSR - LATVIA
+RIVALRY: RIV976
+DISPUTE(S): MID2604 MID1234 
+RIVALRY: RIV977
+DISPUTE(S): MID503 MID22 
+RIVALRY: RIV978
+DISPUTE(S): MID4103 MID4111 
+
+PS: 19181118-19211125 .25 19211126-19390922 .5 19390923-19400616 .25 19910906-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303 
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID503 MID22 
+
+MID2604
+
+TERRMID: MID2604 1 -- territorial MID
+TERRMID-CER: MID2604 1 -- certain 
+TERRMID-NOTES: MID2604 from Gibler 2018, Latvia had been occupied by Russia during WWI and began pushing for independence in 1918. In 1919, the Soviets invaded and occupied (now) independent Latvia, wanting it to be part of the Soviet Union, but Latvia fought back. Germany and Poland intervened militarily to push the Soviets back. Coded territorial MID because this was connected to a territorial dispute between Russia and Latvia. 
+
+TERRLINK: MID2604 3 -- not third party link to territory
+TERRLINK-CER: MID2604 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2604 3 -- not maritime 
+MARITMID-CER: MID2604 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2604 3 -- not islands 
+ISLMID-CER: MID2604 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2604 3 -- not civil war 
+CIVWARMID-CER: MID2604 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2604 3 -- not civil war link
+CIVWARLINK-CER: MID2604 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2604 3 -- not coup 
+COUPMID-CER: MID2604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2604 3 -- not coup link
+COUPLINK-CER: MID2604 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1234 
+
+TERRMID: MID1234 3 -- not territory 
+TERRMID-CER: MID1234 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1234 3 -- not third party link to territory 
+TERRLINK-CER: MID1234 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1234 3 -- not maritime 
+MARITMID-CER: MID1234 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1234 3 -- not islands 
+ISLMID-CER: MID1234 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1234 3 -- not civil war 
+CIVWARMID-CER: MID1234 1 -- certain 
+CIVWARMID-NOTES: MID1234 from Gibler 2018, Russia planned to march troops into Estonia and Latvia in 1922 to stop them from prosecuting communist activists. Threats and an exchange of fire occurred. Coded not civil war because Estonia and Latvia had domestic protests/turmoil from communist groups, but there is no indication in Gibler 2018, cm narrative, or news coverage of this MID that they were militarized rebels. 
+
+CIVWARLINK: MID1234 3 -- not civil war link 
+CIVWARLINK-CER: MID1234 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1234 3 -- not coup 
+COUPMID-CER: MID1234 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1234 3 -- not coup link
+COUPLINK-CER: MID1234 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4103 
+
+TERRMID: MID4103 3 -- not territory 
+TERRMID-CER: MID4103 1 -- certain 
+TERRMID-NOTES: MID4103 from cm narrative, the Russian defense minister ordered Russian troops in Latvia (a) to go on alert in response to the detention of 2 Russian generals by Latvian paramilitaries and (b) to take all measures to prevent provocations against Russian citizens in Latvia. First day of dispute was on 1/10/1994 and last day of dispute was on 1/13/1994. Coded not territory because although the countries were contesting their boundary, this was a dispute over the detention of Russian generals, not the boundary. 
+
+TERRLINK: MID4103 3 -- not third party link to territory 
+TERRLINK-CER: MID4103 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4103 3 -- not maritime 
+MARITMID-CER: MID4103 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4103 3 -- not islands 
+ISLMID-CER: MID4103 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4103 3 -- not civil war 
+CIVWARMID-CER: MID4103 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4103 3 -- not civil war link 
+CIVWARLINK-CER: MID4103 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4103 3 -- not coup 
+COUPMID-CER: MID4103 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4103 3 -- not coup link
+COUPLINK-CER: MID4103 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4111 
+
+TERRMID: MID4111 1 -- territorial MID
+TERRMID-CER: MID4111 1 -- certain 
+TERRMID-NOTES: MID4111 from cm narrative,Russia reinforced the Latvian-Russian border after Latvian Prime Minister stated that Latvia was going to begin to unilaterally demarcating the contested border. First day of dispute was on 8/5/1998 and last day of dispute was on 2/5/1999. Coded territorial MID because this was connected to the contested boundary. 
+
+TERRLINK: MID4111 3 -- not third party link to territory 
+TERRLINK-CER: MID4111 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4111 3 -- not maritime 
+MARITMID-CER: MID4111 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4111 3 -- not islands 
+ISLMID-CER: MID4111 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4111 3 -- not civil war 
+CIVWARMID-CER: MID4111 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4111 3 -- not civil war link 
+CIVWARLINK-CER: MID4111 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4111 3 -- not coup 
+COUPMID-CER: MID4111 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4111 3 -- not coup link
+COUPLINK-CER: MID4111 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4103
+rivalry=365367 nationa=RUSSIA/USSR nationb=LATVIA MID4103 19940110-19940113 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russian defense minister ordered Russian troops in Latvia to go on alert in response to detention of 2 Russian generals by Latvian paramilitaries, and that Russian troops should take all measures to prevent provocations against Russian citizens in Latvia. First day of dispute was on 1/10/1994 and last day of dispute was on 1/13/1994.
+
+MID4111
+rivalry=365367 nationa=RUSSIA/USSR nationb=LATVIA MID4111 19980805-19990205 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russia reinforced the Latvian-Russian border after Latvian Prime Minister stated Latvia was going to begin to unilaterally demarcate the contested border. First day of dispute was on 8/5/1998 and last day of dispute was on 2/5/1999.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Latvia and the Soviet Union signed a non-aggression pact on February 5, 1932.
+
+SOURCES-CM:
+*Survey of International Affairs *(SIA), 1932, 604.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

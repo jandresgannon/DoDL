@@ -1,0 +1,624 @@
+FILE: cm663666v11.0.txt
+DYAD: JORDAN-ISRAEL
+RIVALRY: RIV1255
+DISPUTE(S): MID1793 MID3229 MID1006 MID1008 MID3230 MID3231 MID1018 MID1019 MID1020 MID3412 MID1035 MID1067 MID1046 
+RIVALRY: RIV1256
+DISPUTE(S): MID3958 
+
+RIVNOTES: 
+
+PS: 19480514-19880730 0.00 19880801-19941025 0.25 19941026-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm663666 ,19480000 ,19940000 
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1793
+
+TERRMID: MID1793 1 -- territorial MID
+TERRMID-CER: MID1793 1 -- certain 
+TERRMID-NOTES: MID1793 from Gibler 2018, in 1947-1948, Israelis and Palestinians disputed who would control the area that is modern-day Israel. The Israelis declared independence and sovereignty over the land in 1948, and a coalition of Arab nations (Syria, Iraq, Egypt, Lebanon, and Jordan) attacked Israel that same day because they denied Israel's claim to sovereignty and wanted a Palestine state. A war broke out and Israel emerged victorious in 1949. Coded territorial MID because Jordan disputed Israel's claim to the territory. 
+
+TERRLINK: MID1793 1 -- third party link to territory 
+TERRLINK-CER: MID1793 1 -- certain
+TERRLINK-NOTES: MID1793 in this dyad, the TERRMID is between Jordan and Israel, but this MID also involves a territorial MID between Israel and other Arab states outside this dyad. 
+
+MARITMID: MID1793 1 -- maritime MID
+MARITMID-CER: MID1793 1 -- certain
+MARITMID-NOTES: MID1793 the dispute between Israel and the Arab nations involved in this dispute (Egypt, Iraq, Jordan, Syria, and Lebanon) also included a dispute over sovereignty over the waters off the coast of what is current-day Israel. 
+
+ISLMID: MID1793 3 -- not islands 
+ISLMID-CER: MID1793 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1793 1 -- civil war MID
+CIVWARMID-CER: MID1793 1 -- certain
+CIVWARMID-NOTES: MID1793 this MID involves fighting between Israelis and Palestinians before a state was created. Thus, the militarized groups were non-state armed groups fighting for control of the state, making them militarized rebels per our coding scheme. 
+
+CIVWARLINK: MID1793 3 -- not civil war link
+CIVWARLINK-CER: MID1793 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1793 3 -- not coup 
+COUPMID-CER: MID1793 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1793 3 -- not coup link
+COUPLINK-CER: MID1793 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3229 
+
+TERRMID: MID3229 1 -- territorial MID
+TERRMID-CER: MID3229 1 -- certain 
+TERRMID-NOTES: MID3229 from Gibler 2018, Jordan and Israel disputed sovereignty over the Aqaba Port in the Red Sea. In 1949, Israeli and Jordanian troops clashed. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3229 1 -- third party link to territorial MID
+TERRLINK-CER: MID3229 1 -- certain 
+TERRLINK-NOTES: MID3229 UK also disputed Israel's claim on the port and flew planes over it. Israel shot these planes down, claiming they were on recon missions. Coded third party link to territorial MID because this was connected to a terriorial dispute between UK and Israel. 
+
+MARITMID: MID3229 1 -- maritime MID
+MARITMID-CER: MID3229 1 -- certain 
+MARITMID-NOTES: MID3229 the Port of Aqaba and the surrounding waters (maritime boundary) in the Red Sea were disputed by Israel and Jordan. 
+
+ISLMID: MID3229 3 -- not islands 
+ISLMID-CER: MID3229 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3229 3 -- not civil war 
+CIVWARMID-CER: MID3229 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3229 3 -- not civil war link 
+CIVWARLINK-CER: MID3229 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3229 3 -- not coup 
+COUPMID-CER: MID3229 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3229 3 -- not coup link
+COUPLINK-CER: MID3229 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1006 
+
+TERRMID: MID1006 1 -- territorial MID
+TERRMID-CER: MID1006 1 -- certain 
+TERRMID-NOTES: MID1006 from Gibler 2018, in 1950-1955 Jordan and Israel disputed the West Bank and East Jerusalem, clashing several times over Jordan's annexation of the territory. After a fragile peace deal was reached, border conflicts flared up again. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID1006 3 -- not third party link to territory 
+TERRLINK-CER: MID1006 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1006 3 -- not maritime 
+MARITMID-CER: MID1006 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1006 3 -- not islands 
+ISLMID-CER: MID1006 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1006 3 -- not civil war 
+CIVWARMID-CER: MID1006 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1006 3 -- not civil war link 
+CIVWARLINK-CER: MID1006 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1006 3 -- not coup 
+COUPMID-CER: MID1006 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1006 3 -- not coup link
+COUPLINK-CER: MID1006 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3405
+
+TERRMID: MID3405 3 -- not territory
+TERRMID-CER: MID3405 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3405 1 -- third party link to territorial MID 
+TERRLINK-CER: MID3405 1 -- certain
+TERRLINK-NOTES: MID3405 from Gibler 2018, this MID occurs from 1955-1960. Israel and Syria clashed across the disputed border at the Jordan River basin. Jordan was not a claimant on the disputed territory but was pulled into this MID when conflict spilled over their borders. Coded third party link to territorial MID because this was connected to a territorial dispute between Syria and Israel. 
+
+MARITMID: MID3405 3 -- not maritime 
+MARITMID-CER: MID3405 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3405 3 -- not islands 
+ISLMID-CER: MID3405 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3405 3 -- not civil war 
+CIVWARMID-CER: MID3405 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3405 3 -- not civil war link
+CIVWARLINK-CER: MID3405 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3405 3 -- not coup 
+COUPMID-CER: MID3405 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3405 3 -- not coup link
+COUPLINK-CER: MID3405 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1008 
+
+TERRMID: MID1008 1 -- territorial MID
+TERRMID-CER: MID1008 3 -- uncertain 
+TERRMID-NOTES: MID1008 from Gibler, Miller, and Little 2016, this MID shold be combined with MID1006 due to temporal overlap. A string of border incidents occurred when Jordan annexed the West Bank and East Jerusalem. Coded territorial MID because this was connected to a territorial dispute. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID1008 3 -- not third party link to territory 
+TERRLINK-CER: MID1008 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1008 3 -- not maritime 
+MARITMID-CER: MID1008 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1008 3 -- not islands 
+ISLMID-CER: MID1008 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1008 3 -- not civil war 
+CIVWARMID-CER: MID1008 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1008 3 -- not civil war link 
+CIVWARLINK-CER: MID1008 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1008 3 -- not coup 
+COUPMID-CER: MID1008 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1008 3 -- not coup link
+COUPLINK-CER: MID1008 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3230 
+
+TERRMID: MID3230 1 -- territorial MID
+TERRMID-CER: MID3230 1 -- certain 
+TERRMID-NOTES: MID3230 from Gibler 2018, in 1956-1959, Israel and Jordan were disputing the Gaza Strip. Jordan accused Israel of ammassing troops on their border and threatened to use force if the UN did not ensure Israel's withdrawal from Gaza. Egypt is also pulled into this MID because they used Jordanian territory to launch raids into Israel. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3230 1 -- third party link to territorial MID
+TERRLINK-CER: MID3230 1 -- certain 
+TERRLINK-NOTES: MID3230 from Gibler 2018, this MID also involved Israel occupying the Sinai Peninsula and Egypt disputing their claim on Sinai. Egypt launched raids into Israel from Jordan. Coded third party link to territorial MID because this was connected to a territorial dispute between Israel and Egypt in the Sinai. 
+
+MARITMID: MID3230 3 -- not maritime 
+MARITMID-CER: MID3230 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3230 3 -- not islands 
+ISLMID-CER: MID3230 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3230 3 -- not civil war 
+CIVWARMID-CER: MID3230 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3230 3 -- not civil war link 
+CIVWARLINK-CER: MID3230 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3230 3 -- not coup 
+COUPMID-CER: MID3230 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3230 3 -- not coup link
+COUPLINK-CER: MID3230 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3231 
+
+TERRMID: MID3231 3 -- not territory 
+TERRMID-CER: MID3231 1 -- certain 
+TERRMID-NOTES: MID3231 from Gibler 2018 and cm narrative, this MID is connected to Jordan and Israel's tensions over the general Arab-Israeli conflict, during which period many Arab states had high tensions with Israel. Here, in 1959-1961 Israel and Jordan had a series of clashes at their border. Coded not territory because this was connected to the ideological tensions between Jordan (as an Arab state) and Israel, not to a territorial dispute. 
+
+TERRLINK: MID3231 3 -- not third party link to territory 
+TERRLINK-CER: MID3231 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3231 3 -- not maritime 
+MARITMID-CER: MID3231 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3231 3 -- not islands 
+ISLMID-CER: MID3231 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3231 3 -- not civil war 
+CIVWARMID-CER: MID3231 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3231 3 -- not civil war link 
+CIVWARLINK-CER: MID3231 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3231 3 -- not coup 
+COUPMID-CER: MID3231 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3231 3 -- not coup link
+COUPLINK-CER: MID3231 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1018 
+
+TERRMID: MID1018 3 -- not territory 
+TERRMID-CER: MID1018 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1018 3 -- not third party link to territory 
+TERRLINK-CER: MID1018 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1018 3 -- not maritime 
+MARITMID-CER: MID1018 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1018 3 -- not islands 
+ISLMID-CER: MID1018 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1018 1 -- civil war MID
+CIVWARMID-CER: MID1018 1 -- certain 
+CIVWARMID-NOTES: MID1018 from cm narrative and Gibler 2018, in 1962 Jordan was hosting Palestinian refugees. Among these refugees were militarized rebels who were targeting Israel. Israeli and Jordanian troops clashed in Jerusalem. Coded civil war MID because civil conflict occurred in Israel, within this dyad.
+
+CIVWARLINK: MID1018 3 -- not civil war link 
+CIVWARLINK-CER: MID1018 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1018 3 -- not coup 
+COUPMID-CER: MID1018 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1018 3 -- not coup link
+COUPLINK-CER: MID1018 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1019 
+
+TERRMID: MID1019 3 -- not territory 
+TERRMID-CER: MID1019 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1019 3 -- not third party link to territory 
+TERRLINK-CER: MID1019 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1019 3 -- not maritime 
+MARITMID-CER: MID1019 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1019 3 -- not islands 
+ISLMID-CER: MID1019 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1019 1 -- civil war MID
+CIVWARMID-CER: MID1019 1 -- certain 
+CIVWARMID-NOTES: MID1019 from Gibler 2018 and cm narrative, Palestinian rebels in Jordan were targeting Israel. In 1963-1965, Israel raided Jordan, and Israeli and Jordanian forces clashed at the border. Coded civil war MID because this was connected to militarized rebels in Jordan, within this dyad. 
+
+CIVWARLINK: MID1019 3 -- not civil war link 
+CIVWARLINK-CER: MID1019 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1019 3 -- not coup 
+COUPMID-CER: MID1019 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1019 3 -- not coup link
+COUPLINK-CER: MID1019 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1020 
+
+TERRMID: MID1020 3 -- not territory 
+TERRMID-CER: MID1020 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1020 3 -- not third party link to territory 
+TERRLINK-CER: MID1020 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1020 3 -- not maritime 
+MARITMID-CER: MID1020 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1020 3 -- not islands 
+ISLMID-CER: MID1020 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1020 1 -- civil war MID
+CIVWARMID-CER: MID1020 3 -- uncertain 
+CIVWARMID-NOTES: MID1020 from Gibler, Miller, and Little 2016, this MID should be combined with MID1019. Jordan and Israel clashed over Israel's raids into Jordan. Coded civil war MID because this was connected to militarized rebels in Jordan, and coded uncertain because GML recommend this case be dropped since it describes the same events as MID1019.
+
+CIVWARLINK: MID1020 3 -- not civil war link 
+CIVWARLINK-CER: MID1020 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1020 3 -- not coup 
+COUPMID-CER: MID1020 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1020 3 -- not coup link
+COUPLINK-CER: MID1020 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3412
+
+TERRMID: MID3412 3 -- not territory
+TERRMID-CER: MID3412 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3412 1 -- third party link to territorial MID
+TERRLINK-CER: MID3412 1 -- certain
+TERRLINK-NOTES: MID3412 from Gibler 2018, this is a territorial dispute between Syria and Israel. In 1966, Syria and Israel disputed a part of their border near the Sea of Galilee, and clashed repeatedly. Israel also raided Jordan during tihs MID, who was condemning Israel. Coded third party link to territorial MID because tihs was connected to a territorial dispute between Israel and Syria. 
+
+MARITMID: MID3412 3 -- not maritime 
+MARITMID-CER: MID3412 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3412 3 -- not islands 
+ISLMID-CER: MID3412 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3412 3 -- not civil war 
+CIVWARMID-CER: MID3412 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3412 3 -- not civil war link
+CIVWARLINK-CER: MID3412 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3412 3 -- not coup 
+COUPMID-CER: MID3412 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3412 3 -- not coup link
+COUPLINK-CER: MID3412 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1035
+
+TERRMID: MID1035 1 -- territorial MID
+TERRMID-CER: MID1035 1 -- certain 
+TERRMID-NOTES: MID1035 from Gibler 2018, this is the 6-day War between Israel and Iraq, Egypt, Syria, Jordan, Saudi Arabia, and Kuwait. In 1967, Israel attacked Egypt, having already attacked Jordan the year before and expecting that other Arab countries would soon attack Israel. Israel handily defeated the Arab states and took control of territory in Sinai, Golan Heights, and elsewhere. Coded territorial MID because this is connected to a dispute over Israel's boundaries, which Jordan disputed. 
+
+TERRLINK: MID1035 1 -- third party link to territorial MID
+TERRLINK-CER: MID1035 1 -- certain
+TERRLINK-NOTES: MID1035 in this dyad, the TERRMID is between Jordan and Israel, but this MID also involves a territorial MID between Egypt and Israel in the Sinai Peninsula, and Israel and Syria in the Golan, outside this dyad. 
+
+MARITMID: MID1035 3 -- not maritime 
+MARITMID-CER: MID1035 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1035 3 -- not islands 
+ISLMID-CER: MID1035 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1035 3 -- not civil war 
+CIVWARMID-CER: MID1035 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1035 3 -- not civil war link
+CIVWARLINK-CER: MID1035 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1035 3 -- not coup 
+COUPMID-CER: MID1035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1035 3 -- not coup link
+COUPLINK-CER: MID1035 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1067 
+
+TERRMID: MID1067 1 -- territorial MID
+TERRMID-CER: MID1067 1 -- certain 
+TERRMID-NOTES: MID1067 from Gibler 2018, in 1967-1970, in the aftermath of the Six Day War Israel occupied the West Bank, and Jordan still claimed it. A series of border clashes followed over several years. Coded territorial MID because this was connected to disputed territory in the West Bank. 
+
+TERRLINK: MID1067 3 -- not third party link to territory 
+TERRLINK-CER: MID1067 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1067 3 -- not maritime 
+MARITMID-CER: MID1067 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1067 3 -- not islands 
+ISLMID-CER: MID1067 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1067 1 -- civil war MID
+CIVWARMID-CER: MID1067 1 -- certain 
+CIVWARMID-NOTES: MID1067 from Gibler 2018, this MID also involved Israel raiding rebel camps in Jordan, targeting Palestinian guerillas. Coded civil war MID because this was connected to militarized rebels in Jordan, within this dyad. 
+
+CIVWARLINK: MID1067 3 -- not civil war link 
+CIVWARLINK-CER: MID1067 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1067 3 -- not coup 
+COUPMID-CER: MID1067 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1067 3 -- not coup link
+COUPLINK-CER: MID1067 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1046
+
+TERRMID: MID1046 1 -- territorial MID
+TERRMID-CER: MID1046 1 -- certain 
+TERRMID-NOTES: MID1046 from Gibler 2018, this dispute between Israel and Egypt, Iraq, Syria, Jordan, and Saudi Arabia occurred in 1971-1973. Israel was occupying the Sinai peninsula of Egypt. The Arab countries attacked Israel on Yom Kippur, but Israel was militarily superior. Israel occupied the Golan Heights of Lebanon and claimed it as a strategically valuable piece of territory. The fighting ceased by May 1974. Coded territorial MID because this is connected to a territorial dispute within this dyad, as Jordan disputed Israel's expansion of its borders. 
+
+TERRLINK: MID1046 1 -- third party link to territorial MID
+TERRLINK-CER: MID1046 1 -- certain
+TERRLINK-NOTES: MID1046 this MID also involved a dispute between Israel and Egypt over the Sinai, outside this dyad. 
+
+MARITMID: MID1046 3 -- not maritime 
+MARITMID-CER: MID1046 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1046 3 -- not islands 
+ISLMID-CER: MID1046 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1046 3 -- not civil war 
+CIVWARMID-CER: MID1046 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1046 3 -- not civil war link
+CIVWARLINK-CER: MID1046 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1046 3 -- not coup 
+COUPMID-CER: MID1046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1046 3 -- not coup link
+COUPLINK-CER: MID1046 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3958 
+
+TERRMID: MID3958 3 -- not territory 
+TERRMID-CER: MID3958 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3958 1 -- third party link to territorial MID
+TERRLINK-CER: MID3958 1 -- certain 
+TERRLINK-NOTES: MID3958 from Gibler 2018 and cm narrative, Jordan was supporting Iraq in the Gulf War, and Israel warned Jordan not to interfere with Israel attacking Iraq. Jordan put its forces on alert and warned Israel not to violate its airspace. Coded third party link to territorial MID because this was connected to the Gulf War, a territorial dispute between Iraq and Kuwait. 
+
+MARITMID: MID3958 3 -- not maritime 
+MARITMID-CER: MID3958 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3958 3 -- not islands 
+ISLMID-CER: MID3958 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3958 3 -- not civil war 
+CIVWARMID-CER: MID3958 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3958 3 -- not civil war link 
+CIVWARLINK-CER: MID3958 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3958 3 -- not coup 
+COUPMID-CER: MID3958 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3958 3 -- not coup link
+COUPLINK-CER: MID3958 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Jordan opposed the *United Nations *(UN) General Assembly resolution, which was approved on November 29, 1947, recommending that Palestine be partitioned into a Jewish state and an Arab state. The *United Nations Special Committee on Palestine* (UNSCOP), which was established by the UN General Assembly in May 1947, had recommended the partition of Palestine. The UN Security Council authorized the establishment of a UN truce commission (Belgium, France, US) on April 23, 1948 to prevent military hostilities following Britain's planned withdrawal from Palestine on May 14, 1948. Jordanian troops invaded Israel on May 15, 1948 following the declaration of the establishment of the state of Israel on the previous day. The UN Security Council appealed for a ceasefire on May 22 and May 29, 1948, and a ceasefire went into effect on June 11, 1948. Following the resumption of hostilities on July 8, 1948, the UN Security Council demanded a ceasefire on July 15, 1948. Israel and Jordan agreed to a second ceasefire on July 18, 1948. The UN General Assembly established a UN conciliation commission (France, Turkey, US) on December 11, 1948. Israeli and Jordanian representatives signed a ceasefire agreement on April 3, 1949. The UN truce commission was dissolved on August 11, 1949. 
+
+The Jordanian parliament approved the annexation of the West Bank on April 24, 1950 after the Israeli parliament (*Knesset)* adopted a resolution designating Jerusalem as the capital of the Jewish state. The UN conciliation commission hosted talks with Israeli and Arab delegates in Paris from September 13 to November 21, 1951, but the talks ended without an agreement. Israeli troops attacked and destroyed the Jordanian village of Qibya on October 14, 1953, resulting in the deaths of 66 civilians. Israeli troops attacked the Jordanian village of Nahhalin on March 28-29, 1954, resulting in the deaths of nine Jordanian civilians. Lebanon referred the matter to the UN Security Council on behalf on Jordan on April 1, 1954. 
+
+Three Israeli soldiers were killed near the Jordanian border on November 12, 1966. Israeli troops retaliated by attacking the village of Samu in Jordan on November 13, 1966, resulting in the deaths of 15 Jordanian soldiers, three Jordanian civilians, and one Israeli soldier. Jordan referred the matter to the UN Security Council on November 14, 1966. Kuwait and Lebanon expressed support for Jordan on November 14, 1966. Iraq offered military assistance to Jordan on November 14, 1966. Saudi Arabia deployed troops near the Jordanian border in support of the Jordanian government on November 23, 1966. The UN Security Council condemned Israel for the attack against Samu on November 25, 1966. The US agreed to provide military assistance (military aircraft and weapons) to Jordan on December 22, 1966. Jordan announced that it was mobilizing its troops on May 17, 1967 in response to increased tensions in the region. Israeli military aircraft attacked military targets in Jordan beginning on June 5, 1967. Israeli troops captured Jerusalem and the West Bank on June 7, 1967. The UN Security Council appealed for a ceasefire on June 6, 1967, and demanded a ceasefire on June 7, 1967. Israel and Jordan agreed to a cessation of military hostilities on June 8, 1967. Some 6,100 Jordanians and 766 Israelis were killed during the conflict. Some 150,000 Arabs fled as refugees from the West Bank to Jordan during the conflict. The *International Committee of the Red Cross* (ICRC) assisted with the repatriation of 424 Jordanian prisoners-of-war and two Israeli prisoners-of-war on June 27, 1967. The ICRC mediated an agreement between Israeli and Jordanian representatives on August 6, 1967, which provided for procedures for the return of Arab refugees to the West Bank from Jordan. The ICRC assisted in the repatriation of Arab refugees from Jordan to the West Bank beginning on August 18, 1967. Severla countries, including Australia, Belgium, Britain, Canada, France, India, Italy, Netherlands, New Zealand, Norway, Pakistan, Soviet Union, Spain, Sweden, Switzerland, Turkey, US, and West Germany provided humanitarian assistance to Arab refugees in Jordan. Israeli military aircraft attacked artillery positions in Jordan on January 8, 1968, and Israeli troops attacked Karameh in the Jordan Valley on March 21, 1968. The UN Security Council condemned Israeli aggression against Jordan on March 24 and August 16, 1968. Israeli military aircraft attacked Palestinian targets in Jordan on March 2-21, 1969, resulting in the deaths of nine Jordanians and one Israeli soldier. Jordan referred the matter to the UN Security Council. Israeli military aircraft attacked Palestinian targets near Salt on March 26, 1969, resulting in the deaths of 18 civilians. The UN Security Council condemned Israeli aggression against Jordan on April 1, 1969. Israeli military aircraft attacked East Ghor Canal in Jordan on January 1, 1970. Israeli troops attacked Palestinian targets in Jordan on January 20, 1970. Israel and Jordan signed a peace treaty on October 26, 1994.
+
+SOURCES-CM: 
+*Facts on File*, March 20-26, 1969, March 26-April 2, 1969; *Keesing*, January 14-21, 1967; *United Nations Yearbook*, 1954, 66-69.
+
+NARRATIVE-CR:
+MID1793 and MID3229 were the Palestine War and Jordanian conflict with Israel associated with the Palestine War. Transjordan was one of the Arab states which moved to assist Palestinian nationalists opposed to the creation of Israel in May 1948, and took part in the warfare between the Arab states and the newly founded State of Israel. Moving across the Jordan River, the Jordanian military occupied most of the West Bank and assumed control of the strategic Jerusalem-Tel Aviv highway. Commanded by Glubb and about forty British officers, the legion fought better than any other Arab force and held its positions longer when Israel took the offensive in January 1949. The fighting left the legion in occupation of the Old City of Jerusalem and much of the Arab areas of Palestine that made up the West Bank. The armistice agreements of April 3, 1949 left Jordan in control of the West Bank and provided that the armistice demarcation lines were without prejudice to future territorial settlements or boundary lines. 
+
+MID1006 occurred from April of 1950 through August of 1955. The Jordanian parliament approved the annexation of the West Bank on April 24, 1950 after the Israeli parliament (*Knesset)* adopted a resolution designating Jerusalem as the capital of the Jewish state. The UN conciliation commission hosted talks with Israeli and Arab delegates in Paris from September 13 to November 21, 1951, but the talks ended without an agreement. Israeli troops attacked and destroyed the Jordanian village of Qibya on October 14, 1953, resulting in the deaths of 66 civilians. Israeli troops attacked the Jordanian village of Nahhalin on March 28-29, 1954, resulting in the deaths of nine Jordanian civilians. Lebanon referred the matter to the UN Security Council on behalf on Jordan on April 1, 1954. 
+
+MID1008 occurred from October of 1955 until October of 1956. Border incidents with Israel were a continuing source of anxiety in 1956. In October an Israeli task force, supported by aircraft and artillery, attacked the West Bank village of Qalqilyah, killing forty-eight persons in reprisal for a guerrilla attack in Israel. Palestinians clamored for war, and in this crisis atmosphere Jordanian politics ventured into anti-Western nationalism.
+
+A series of border conflicts occurred in the late 1950s between Israel and Jordan that were a part of the wider Arab Israeli conflict. One part of the conflict had to do with Mt. Scopus which is near Jerusalem. Another related part of the conflict had to do with Jordanian toleration of Arab infiltrators into Israel in this area. The Jordanian Army occupied this location and fired mortar rounds into Israeli occupied territory. Other incidents in the area had to do with Israeli farmers moving into the Jordanian areas and being fired on and Israeli army units crossing into the Jordanian areas and firing on Jordanian units (MID3230, MID3231)
+
+MID1018, MID1019, MID1020, and MID3412 are related to a number of related incidents. These conflicts related to the fact that large numbers of Palestinians refugees encamped in Jordan which was associated with Palestinian guerrillas who launched attacks into Israel from Jordanian territory. Beginning in 1962 and lasting into 1967 a number of incidents occurred with this theme. There were artillery salvos and guerilla raids by both sides. 
+
+MID1035 is the Six Day War. Jordan signed a mutual defense pact in May 1967 with Egypt, and it participated in the June 1967 war between Israel and the Arab states of Syria, Egypt, and Iraq. During the war, Israel gained control of the West Bank and all of Jerusalem.
+
+MID1067 occurred from July of 1967 until August of 1970. This was the Jordanian involvement in the War of Attrition on the Jordanian front. During this period there were significant low level military exchanges between Jordan and Israel. The conflict began at a low level and grew in steps to set the stage for the Yom Kippur War. 
+
+MID1046 is the Yom Kippur War of October of 1973. No fighting occurred along the 1967 Jordan River cease-fire line during the October 1973 Arab-Israeli war, but Jordan sent a brigade to Syria to fight Israeli units on Syrian territory.
+
+Secret contacts between the leaders of Jordan and Israel have taken place since World War I. These covert contacts were initiated with King Abdullah, the grandfather of King Hussein. King Hussein renewed Jordan's ties with Israel in 1963. Following Jordan's participation in the June 1967 War, secret meetings took place between Hussein and Israeli leaders in 1968, and they lasted until Begin's accession to power in 1977. This "secret" relationship was revived in 1984, following Labor's participation in the National Unity Government, and intensified in 1986-87. The participants reached agreements on Israeli-Jordanian cooperation on such issues as the role of pro-Jordanian Palestinian moderates in the peace process, setting up branches of Jordan's Cairo-Amman Bank in the West Bank, and generally increasing Amman's influence and involvement in the West Bank's financial, agricultural, education, and health affairs, thus blocking the PLO. Minister of Foreign Affairs Peres and King Hussein met in 1987, when the two leaders signed a "memorandum of understanding" on a peace plan. 
+
+It was after the 1967 War the Hussein sought a different course in relations with Israel. An example of the increasing amount of cooperation was the Israeli assistance to Jordan during the Jordanian Civil War of 1970. Israel sent food and medical aid to Jordan during the crisis. Part of the motivation here was to deter Syrian influence in Jordan. Relations between Jordan and Israel were also improved when Jordan formally disengaged its claim to the West Bank and Gaza Strip in 1988. Jordan then was no longer the party Israel dealt with on Palestinian issues. Instead Israel would have to deal directly with the PLO. Jordan then pursued separate issues with Israel such as water sharing, refugees, and final border arrangements outside the West Bank. These relations culminated in the 1994 treaty between Jordan and Israel. The treaty between Jordan and Israel established a formal peace between the two countries ending a state of war that had existed since 1948. 
+
+MID3958 occurred from May, 1990 through March 1991. This incident is related to Jordanian support for Iraq in the Gulf War. Although the Government of Jordan stated its opposition to the Iraqi occupation of Kuwait, popular support for Iraq was driven by Jordan's Palestinian community, which favored Saddam as a champion against Western supporters of Israel. Tensions between Jordan and Israel increased as a result of this issue. At one point a Jordanian soldier crossed the Jordan River and was shot and killed by the Israeli military. 
+
+In 1997, a Jordanian soldier gunned down Israeli school children killing seven while they were on an outing in Jordan. Another serious incident of violence occurred on December 5, 2001 an Israeli border guard was shot and killed by Jordanian civilians. The Jordanians were later shot by Israeli helicopter gun ships. This incident was the most serious issues between the two countries since they signed a peace treaty in 1994. The Jordanian military coordinated efforts with the Israeli military in pursuing the civilians but the issues may have raised the possibility of heightened tension. The Jordanian government sought to distance itself with this incident arguing that there was no evidence that the infiltrators had come from Jordan. 
+
+While these recent incident point to antagonism between the population within Jordan and Israel, there is no indication that the regime in Jordan is formally hostile to Israel or vice versa. 
+
+SOURCES-CR:
+Facts on File, March 20-26, 1969, March 26-April 2, 1969; Lukacs; 1997; Keesing, January 14-21, 1967; United Nations Yearbook, 1954, 66-69.; The Guardian (London) 8/20/1990; Metz, 1988, 1989
+
+SB-CR:
+Israel / Jordan Years: 1948-Present. Issues at stake: Border (West Bank); existence of Israel. End coding: Continuing as of 1988 with no settlement. Number of reciprocated 30 day militarized disputes: 7. Last militarized dispute: 1970 (according to COW dispute data set; disputes have occurred since then). Wars: 1948-1949, 1967. Summary: The roots of the Israeli-Jordanian rivalry lie in the circumstances of Israel's creation (see summary under Israeli-Egyptian rivalry above). Jordan refused to recognize Israel as a legitimate state, and refused to ratify its borders with Israel. In the 1967 Arab-Israeli war, Israel captured the West Bank of the Jordan river, which Jordan had occupied since the 1948 Arab-Israeli war. Border confrontations have occurred both before and after the capture of the West Bank, although they have decreased in frequency since 1970. No settlement has been reached, although King Hussein of Jordan formally renounced Jordanian claims to the West Bank in 1988. Notes: Wayman and Jones (1991) code the end of the rivalry in 1974. I disagree, as there has been no settlement of the issues in dispute despite the occurrence of only infrequent disputes. Sources: Goldstein (1992), Information Please Almanac (1991).
+
+PS-NARRATIVE: 
+
+19880801-19941025 RIV1256-0.25
+
+On July 31, 1988, Jordan renounced the claims to the West Bank territory, transferring the claims to the PLO. Thus Jordan ended its rivalry over territory with Israel. There was no peace agreement between the two countries. Nevertheless this renunciation marked an important step towards reconciliation.
+
+MID3958 occurred from May, 1990 through March 1991. This incident is related to Jordanian support for Iraq in the Gulf War. Although the Government of Jordan stated its opposition to the Iraqi occupation of Kuwait, popular support for Iraq was driven by Jordan's Palestinian community, which favored Saddam as a champion against Western supporters of Israel. Tensions between Jordan and Israel increased as a result of this issue. At one point a Jordanian soldier crossed the Jordan River and was shot and killed by the Israeli military.
+
+While these recent incident point to antagonism between the population within Jordan and Israel, there is no indication that the regime in Jordan is formally hostile to Israel or vice versa.
+
+On August 28, 1992, the get-well wishes to King Hussein, delivered this week in Washington by the head of Israel's delegation to the talks with Jordan, were timely. A direct message from Prime Minister Rabin to the king might have been preferable, but direct wishes are not public and, in this case, it was important to make public Israel's genuine concern for the health of the king and the economic well-being of his kingdom. Israel has always taken a serious interest in Jordan's stability. In March 1977, as he concluded his first term as prime minister, Yitzhak Rabin proffered a gift to the king: a "Galil" rifle. When the two met, near Tel Aviv, it was not stated that the Israeli-made gun symbolized Israel's commitment to go the king's defense in case of an external threat to his kingdom. But everyone grasped its significance. In August 1992, Hussein is more troubled by his personal state of health than by any external threat to his kingdom. The best gift he could get from Rabin is a recommendation to the US to grant him emergency economic assistance. Hussein flew to the US for medical treatment at a time when Washington-Amman relations are cool. The Iraqi crisis drove Hussein into the arms of Saddam Hussein and caused an open split between him and the Bush administration, to the extent that American economic aid to Jordan was held up. In 1991, Israel, worried at the potential threat to stability in Jordan, surprised American officials by recommending aid for the king. This was not the first time Hussein needed an Israeli recommendation to get American economic assistance. In fact, Jordan-Israeli dialog was initiated by the king 30 years ago in the hopes that Israel would help him obtain US economic support (seven years ago, Jordan enlisted the support of Israel's friends in Capitol Hill to gain US assistance for its five-year recovery plan. In the past 30 years, Hussein met with four Israeli prime ministers (Golda Meir, Yitzhak Rabin, Shimon Peres and Yitzhak Shamir), four defense ministers, and other senior personalities inIsrael's establishment. In hundreds of hours of conversations, many differences emerged over how to resolve the Israel-Arab conflict. But Hussein did not break off the dialog because he perceived it as a sort of insurance policy in time of trouble. This policy stood the test in September 1970 when Syrian tanks invaded north Jordan, and Israeli troop concentrations along the Syrian border contributed to Damascus's deciding to withdraw. During the Iraqi crisis, too, the king heard clear language from Israel's prime minister on its readiness to help preserve Jordan's independence. Contrary to the image of estrangement between the king and former premier Yitzhak Shamir, the two held three face-to-face meetings in recent years. Clearly, there is no uniformity of views between Israel and Jordan on the nature of an Israeli-Arab settlement, nor is Hussein capable of reaching a separate agreement with Israel on the Sadat model. He has told Israel explicitly that, in any negotiation, he will not concede even an inch of territory. Nonetheless, there is a wide arc of partial understandings-not public-in addition to the basic understanding that a Palestinian state between Israel and Jordan could turn into a base for Palestinian irredentism among the Arabs in Jordan and in Israel, an irredentism directed at both countries. Both Jordan and Israel are interested in preserving tranquillity along their long common border. Israel appreciates the king's contribution to that tranquillity and it is no wonder that news of his ailment caused grave concern in Jerusalem. Hussein tried to reassure his subjects by demonstrating that he himself was piloting his plane to the US. He had to do this to prevent a shock in Jordan, which is undergoing severe economic setbacks. But the news of the removal of his kidney may well loosen the safety valves in the Hashemite kingdom. Urgent economic assistance is needed to avoid tremors that may shake up the whole region. This time, Israel should do more than urge America to extend emergency assistance (in food, not armor) to Jordan; it should make a gesture of its own. While it has no resources to grant Jordan, it can allocate a limited portion of its loan guarantees-with the US approval-to Jordan. Israel needs all the money it can get, but it also needs stability in Jordan. Therefore it should offer Jordan $100 million of the loan guarantees granted by the US; not as a grant, but as a guarantee that the US and Israel believe in Jordan's survival and hope that fair neighborly relations will prevail throughout the 30 years of the loan.
+
+On September 14, 1993-Jordan and Israel sign an agenda in Washington for their own negotiations. On July 18, 1994, Jordanian and Israeli delegates convene at a table straddling their border and vow to make a permanent and public peace. On July 22, 1994, the Israeli Foreign Minister Shimon Peres, Jordanian Prime Minister Abdul Salam Majali and U.S. Secretary of State Warren Christopher meet on the Jordanian side of the Dead Sea. On July 25, 1994, Hussein and Israel's Prime Minister Yitzhak Rabin sign a declaration in Washington officially ending their 46-year state of belligerency. On August 4, 1994, Hussein pilots his royal jetliner through Israeli airspace in a symbolic gesture. On August 6, 1994-Israel starts pumping water from the Jordan River into Jordanian territory, the first tangible result of the peace process. On August 8, 1994, Jordan and Israel establish direct telephone links and inaugurate the first road directly linking their nations. On September 29, 1994-Rabin and Hussein meet in the Jordanian resort of Aqaba to resolve water rights and boundary disputes. On October 11, 1994-Hussein says Jordan will sign a full peace treaty as soon as the border and water questions are settled, rather than wait until Syria and Lebanon reach an accord with Israel. On October 16, 1994, Rabin makes an unannounced trip to Amman. The meeting stretches into the night, with Rabin and Hussein reportedly going over the draft of a peace treaty paragraph by paragraph. On October 17, 1994, Israel and Jordan initial a draft peace accord. On October 25, 1994, Israeli Prime Minister Yitzhak Rabin presents peace treaty with Jordan to Israel's Knesset (Parliament) where it is endorsed. The 105-3 vote, with 6 abstentions, is the last hurdle to be cleared before the treaty's signing on October 26, 1994.
+
+19941026-20159999 0.5
+
+On October 26, 1994 Israel and Jordan signed a peace treaty. On June 26, 1995, Jordan's King Hussein officially inaugurated a pipeline pumping water from Lake Tiberias in Israel to the Jordan Valley in implementation of the Jordanian-Israeli peace accord signed in October 1994. The pipeline, built in the past two months, started last week carrying water to King Abdullah Canal in the Jordan Valley. The pipeline is to carry almost 20 million cubic meters of water into the Jordan valley within four months as part of the 215 million cubic meters Israel agreed to restore to the kingdom annually. Minister of Water and Irrigation Saleh Irsheidat described the pipeline as "one of the fruits of peace to be built by Jordanian hands..." Jordan built the pipeline at a cost of 5 million dollars granted to the kingdom by Canada. Jordan's peace accord with Israel ended a 46-year state of war between the two countries and restored to the kingdom about 380 square kilometers of land which Israel occupied following the 1948 and 1967 Arab-Israeli wars as well as Jordan's water share from the Jordan and Yarmouk rivers. Under the peace accord, the two countries are to cooperate in conserving water resources and establishing joint water projects. Jordan and Israel are seeking European financing for proposed dams on the Jordan and Yarmouk rivers as well as a desalination plant to be built on Israeli territory. The European Union is financing the feasibility studies for the joint projects.
+
+Jordan and Israel said on January 2, 1996, that they will sign long-delayed key agreements by the end of January to pave the way for the cooperation called for in their October 1994 peace treaty. "Before Ramadan, we're going to sign the agreements on transportation, cultural and scientific cooperation," Israeli Foreign Minister Ehud Barak told reporters after talks with King Hussein. Hussein said: "We had the chance to talk about a variety of subjects regarding where we are right now, what we achieved so far. Peace between Israel and Jordan will be an example and an inspiration to others." Jordan and Israel have signed nine agreements of cooperation in various areas, including a trade accord, leaving five more-including the transportation agreement necessary for establishing trade ties-to be signed before Ramadan begins in the second week of January. Hussein said he would visit Israel on January 10 to attend a ceremony to recognize the efforts of the two sides' chief negotiators, Jordan's Fayez Tarawneh and Israel's Elyakim Rubenstein. The Jordanian monarch also said that he would be visiting two Jordanian soldiers being treated in an Israeli hospital, but did not elaborate. Barak, on his first visit to Jordan as foreign minister, earlier said Israel expected Syria "to use (its) influence with the Lebanese government and Hezbollah" to stop them attacking the Jewish state. "We think Syria could suppress the Hezbollah activity if they would like to," Barak told reporters in Amman at the end of talks with Prime Minister Zeid Ben Shaker, Foreign Minister Abdul Karim Kabariti and several senior Jordanian officials during a one-day trip.
+
+On November 25, 1996, a Jordanian weekly has said that Israel has failed to supply Jordan with water supplies as agreed in the peace treaty between the two countries, and has been reluctant to participate in joint ventures to exploit water resources. The newspaper further said that Jordan had protested to Israel about the dumping of chemical waste into the River Jordan. Despite the elapse of two years since the signing of the peace treaty between Jordan and Israel, Israel has yet to deliver on the section addressing Jordan's water rights. Israel has been less than forthcoming in regard to 50m cubic metres of additional water Jordan was supposed to have received one year after the signing, as stipulated in Article 6 of the clause addressing the amounts of additional water. That clause stated that Jordan and Israel would cooperate to find sources to supply Jordan with an additional 50m cubic meters per year of appropriate standards to be used as drinking water. That was to have been achieved within one year from the effective date of the treaty. The joint water committee was to draw up a plan to supply Jordan with additional amounts of water, which would be studied by the two governments, and about which they would make relevant and appropriate decisions. Israel, according to water experts, besides being less than cooperative in regard to the additional water due to Jordan, recently refused to supply Jordan with a portion of the waters it had stored in the Lake Tiberias basin during the winter season on account of its weak storage capacity. When Jordan asked to have this water, Israel claimed that certain circumstances precluded meeting Jordan's demand. By way of justifying its failure to cooperate, Israel said that it would be hard to solve that problem without Syria's intervention, on the grounds that that was an issue of regional dimensions which involved Syria, Jordan and Israel. This is seen by observers as a form of pressure applied by Israel against Syria. Syria's refusal to join the multilateral talks addressing such issues as water, armaments, security and the environment has been used by Israel to its advantage, and so Jordan is left waiting for a solution. On another front, and according to reliable information, Israel is holding out against entering into joint ventures with Jordan to exploit water sources and explore others. Israel is also objecting to Jordanian plans to set up a number of dams costing 200m dollars across the Yarmuk and Jordan rivers, while on its side it is exploiting the waters of the two rivers by using pumps and dams and diversionary rivers, which make for increased salinity in the two waterways. Jordan, disadvantaged by not having efficient water desalination facilities, is thus left with highly saline water fit neither for agriculture nor for drinking. In the context of water-related differences between Jordan and Israel, information leaked to 'Shihan' suggests that Jordan has secretly protested to Israel regarding its polluting of the River Jordan by dumping liquid chemical waste in the waterway. Israel responded by attributing this to technical errors in the draining process of the industrial liquid waste material, and maintaining that the action was not deliberate.
+
+Jordan's Prince Hassan has cancelled a meeting with Israeli Prime Minister Benjamin Netanyhau in a new crisis between the countries over water allocation, officials in Jerusalem said on May 6, 1997. The row between the sides has also caused the cancellation of a memorial event dedicated to the seven Israeli schoolgirls killed by a Jordanian soldier in March. Both events were scheduled to take place Tuesday afternoon at the border site where the attack occurred, and which is slated to house a peace centre. The cancellations were a further sign of the souring relations between the two countries which signed a peace agreement in 1994. Jordan has been angered at Israel's hardline policies on peace with the Palestinians, but the latest row centers on the bilateral agreement for Israel to provide the Hashemite kingdom with water. Israel provides Jordan with 50 million cubic meters of the 150 million it is obliged to divert to Jordan under the peace agreement, and says the outstanding amount can be given only once desalination plants and dams have been constructed. Jordan wants some of the water immediately and also demands that Israel fund on its own the desalination and dam project. "Israel wants to fulfill the peace agreement with Jordan but we cannot negotiate under pressure," said Israel's hardline Infrastructure Minister Ariel Sharon on Israeli radio. "Israel cannot give up important national interests in order to save a meeting." Sharon held a secret meeting last week with Jordan's Minister of Water Muntar Hadadin, and it was his rejection of Jordan's demands that sparked the new crisis in relations.
+
+Jordan has suspended security cooperation with Israel and will not restore it until Israeli officials responsible for a botched assassination attempt against a Palestinian militant leader are dismissed, two senior Jordanian officials said on October 11, 1997. The development-not confirmed by Jordan's government-would mark a new low in relations between Israel and Jordan since two Israeli secret agents were caught trying to kill Khalid Mashaal, the political strategist of the Palestinian militant movement Hamas, in Amman on Sept. 25. A third source, a Jordanian Cabinet official who spoke on condition of anonymity, said only that Jordan is "reviewing the fate of security cooperation." And an Israeli official, also speaking on condition of anonymity, insisted that security cooperation between the two countries continues. Meanwhile, a Jordanian man was shot and killed by Israeli troops while trying to enter Israel illegally, the Israeli army announced. The shooting occurred along the border in the Jordan valley. It was announced by Israel on Saturday at sundown, the end of the Jewish holy day of Yom Kippur. Security cooperation, as defined by the Israeli-Jordan peace treaty of 1994, entails the exchange of intelligence information on extremist groups and other persons. "Jordan will not reinstate such cooperation so long as those responsible for plotting to kill Mashaal and destabilize our security are still in office," said one of the two officials who reported the freezing of security cooperation, speaking to The Associated Press on condition of anonymity. Asked if that ultimatum included Israeli Prime Minister Benjamin Netanyahu-who bears the ultimate responsibility for ordering the operation-the official said: "No comment." He again said "no comment" when asked if Jordan wants Mossad secret service agency chief Danny Yatom to resign. The official said Jordan froze security cooperation a few days after the bungled attempt on Mashaal's life, which infuriated Jordan's King Hussein, who saw it as a betrayal of his efforts to build peace with Israel. The Jordanian Cabinet official said Jordan remains committed to the provisions of the 1994 peace treaty under which Jordan and Israel have exchanged intelligence information and cooperated closely against militants groups. Also Saturday, Jordan's state minister for information, Samir Mutawe, dismissed an Israeli Army radio report that the Mossad mission chief in Jordan and his agents had returned home "on the express orders of King Hussein." "There is no specific office named Mossad in Jordan" and "what happens in the Israeli Embassy in Jordan is the embassy's business," Mutawe said. Other officials, however, confirmed that Jordan dismissed a "handful" of Israeli intelligence officers at the embassy shortly after the assassination attempt. On Friday, Israel's Army Radio said Jordan broke off contacts with Mossad and won't resume them while Yatom remains in power. Without Jordan's cooperation, Israel's campaign against Islamic militants would be increasingly difficult: Many of the key figures of the Islamic militant group Hamas live in Jordan. Hamas claimed responsibility for two suicide bombings in Jerusalem in July and September. The group has carried out more than a dozen suicide bombings in Israel since 1994. Israeli news media reported Friday that there were new warnings that Islamic militants would try to carry out suicide bombings. Israel and Jordan had worked together on security matters even before the two countries signed a peace treaty in 1994. Jordan has helped prevent Palestinian militants from infiltrating Israel to carry out attacks. And Hussein has been Israel's staunchest Arab ally despite intense criticism at home from Islamic groups opposed to peace with the Jewish state. Jordan handed over the two would-be assassins to Israel on Monday after winning the freedom of Hamas founder Sheik Ahmed Yassin and 23 Palestinian and Jordanian militants from Israeli prisons. Some of the militants were convicted of plotting attacks against Israel. In the West Bank on Saturday, followers of Palestinian leader Yasser Arafat protested his omission from the negotiations to free Yassin. Many Palestinians saw the move as an attempt to undermine Arafat because Israel and Jordan made the deal without informing him. Nearly 1,000 supporters of Arafat's Fatah movement turned out in downtown Ramallah chanting, "Abu Ammar, we are behind you 100 percent," referring to Arafat's nickname.
+
+The Jordan-Israel steering committee, a top-level government coordinating body, is to meet in Amman, Jordan on this week, Israel announced on August 29, 2000. The meeting follows the previous week's visit to Tel Aviv by Jordan's King Abdullah II. A statement from Israeli Prime Minister Ehud Barak's office said the committee will discuss bilateral issues and Middle East peace negotiations. Israel has pledged to increase economic cooperation with Jordan, after officials who accompanied the king to Israel complained that the average Jordanian has felt no benefits from peace with Israel. The two nations signed a peace treaty in 1994. Jordan also has a direct interest in Israel-Palestinian peace talks. About half of the residents of Jordan are Palestinian refugees and their descendants, and Jordan has been designated by the Islamic world as the guardian of Muslim holy sites in Jerusalem. Israel's team will include two of Barak's top advisers, Danny Yatom and Yossi Kucic, and Yoav Biran, a senior Foreign Ministry official, the statement said. They are to meet Jordanian Foreign Minister Abdul-Illah Khatib and the head of the General Intelligence Department, Sameeh Batikhi. Both accompanied Abdullah to Tel Aviv.
+
+Families of Israeli diplomats might be called home from Jordan after two Israeli envoys were injured in separate shooting attacks in less than a month, officials said on December 6, 2000. However, Israel will not evacuate its embassy in Amman and risk damaging relations with Jordan, said David Dadon, Israel's ambassador to Jordan. ''We are far from giving up,'' Dadon told Israel's army radio. Israel is determined not to let ties with Jordan deteriorate, said Israeli Foreign Minister Shlomo Ben-Ami. ''The Jordanians are very concerned by this situation and are doing what needs to be done,'' Ben-Ami told Israel radio. ''There is complete cooperation.'' Anti-Israeli sentiment has risen in Jordan and Egypt since clashes broke out between Israel and the Palestinians Sept. 28, killing almost 300 people, most of them Palestinians. In reaction to the violence, Egypt has recalled its ambassador and Jordan has refused to send a recently appointed ambassador. The Israeli shot on Tuesday, Shlomo Razabi, told Israel army radio from an Amman hospital that Israelis serving in Jordan are afraid for their lives. Razabi returned to Israel with his wife and three children. Razabi was shot in a roadside ambush as he was returning from an Amman supermarket with his wife and a bodyguard. Between four and six bullets were shot from a passing car, Razabi said. Jordan's Royal Court Chief Fayez Tarawaneh visited Razabi at the hospital. In another attack on November 19, 2000, Israeli diplomat Yoram Havivian was slightly wounded in the arm and the leg when a gunman shot at him outside his home. The shooting Tuesday suggested a new, professional nature of shootings since Razabi's drive and route to the supermarket were not routine. Families of Israeli diplomats in Amman may be brought back to Israel in light of the danger, Foreign Ministry spokesman Yaffa Ben-Ari said. The relatives were slated to begin leaving Jordan, Israel radio reported. Israel was concerned about a meeting Wednesday between Jordanian Prime Minister Ali Abu-Ragheb and anti-peace groups. But both Jordan and Egypt are resisting calls to totally break off relations, Ben-Ami said. ''It's good that Egypt and Jordan are standing up to the pressure,'' Ben-Ami said.
+
+Jordan and Israel are to start talks soon on coordinating the sharing of water during the winter and to review the water agreement between the two sides, an official said on September 3, 2001. According to Thafir Alam, secretary-general of the Jordan Valley Authority, the two sides will review the summer program, according to which Jordan receives an additional 25m cu.m. of drinking water from Lake Tiberias. "We have only consumed 18m cu.m. of summer water so far," said Alam.
+
+Jordan wants to maintain ties with Israel to influence its policy and help the Palestinians achieve their political rights, a senior Jordanian government official said on April 1, 2002. The remarks came one day after Jordan threatened to take unspecified measures in its relations ties to protest Israel's military incursion into the West Bank and storming of Palestinian leader Yasser Arafat's headquarters. Jordan's options include further downgrading its representation in Israel, asking the Israeli ambassador to leave, or cutting or suspending ties under a peace treaty signed in 1994. Jordan has delayed the departure of its new ambassador to Israel since October 2000 to protest Israeli clashes with the Palestinians. The senior official said no decision has been taken, and none would be without careful consideration. "Neither Jordan nor the Palestinians would gain from emotional reactions," said the official, speaking to a group of reporters on condition he not be identified further. "What purpose would it serve to break ties with Israel or stop dealing with it?" he said. He said maintaining open channels would help influence Israel to make peace with the Palestinians. On Sunday, Foreign Minister Marwan Muasher summoned the Israeli ambassador to warn him that Jordan may consider unspecified measures in its ties with the Jewish state if Israel did not end Arafat's quarantine and halt military incursions. The Jordanian government has been under increasing pressure from its own population to cut ties with Israel. Scores of anti-Israeli street protests have swept Jordan since Friday, all calling for an end to relations with Israel. At least 10 protests broke out in Palestinian camps and different Jordanian cities. At the University of Jordan, riot police used batons and tear gas to disperse an angry crowd of 500 students who burned an Israeli flag and hurled stones at policemen. At least six policemen were injured. Roughly 60 percent of Jordan's 5 million people are Palestinians or their descendants who fled or were driven out of their homes in the 1948 and 1967 Mideast wars.
+
+Jordan may soon be able to export goods produced in joint ventures with Israel duty free to Europe thanks to a customs-slashing agreement with Israel signed on December 23, 2004. "The customs on the trade from Israel to Jordan will be reduced by one-third and the customs on the Jordanian exports to Israel will be reduced by one half," Israeli Deputy Prime Minister Ehud Olmert told reporters after he and Jordanian Minister of Trade Industry Ahmad Thoqan al-Hendawi signed the amendment to the neighbors' trade agreement. Olmert, who later had a 30-minute meeting with Jordan's King Abdullah II, said that both sides will continue to reduce their customs gradually until they are brought to zero by 2010. About 50 Jordanians protested Olmert's visit and Jordan's signing the agreement with Israel later Thursday. The exports to Israel are produced in so-called Qualified Industrial Zones in Jordan. "QIZ is for the exploitation of Jordanian workers," said a banner held by the protesters, who belonged to the Professional Associations, which groups unions for doctors, engineers, etc. The protesters sat on the steps on the Associations' office in Amman and finished their demonstration by burning Israeli flags. Europe had required the cuts, which were to come into effect at the beginning of next year, as a step toward entering into a trade agreement with Israel and Jordan similar to one the two Mideast nations now have with the United States. Under the U.S. agreement, Jordan has set up five zones that house joint ventures with Israel that are allowed to export duty free to the United States. Enterprises in the zones employ a total of about 40,000 people, most of them Jordanian, and have seen their annual exports soar from US$13 million (euro 9.7 million) in 1999 to a projected US$800 million (euro598 million) this year. Last week, Egypt and Israel signed a similar U.S.-backed agreement to enable Egypt to export goods to America duty-free as long as at least 11.7 percent of their value was made in Israel. The agreements are meant to cement ties between Israel and the only two neighbors with which it has peace treaties. Israel signed a treaty with Egypt in 1979 and one with Jordan in 1994.
+
+Jordan will send its foreign minister to Israel on March 5, 2005, for the first time since the Palestinian uprising started more than four years ago, Palestinian officials said. Hani al-Mulqi's trip follows the recent return of his country's ambassador to Israel and an apparent improvement in Jordanian-Israeli relations since a Feb. 8 summit in Egypt where the Palestinian and Israeli leaders pledged to end violence against both sides. Al-Mulqi is expected to meet Palestinian President Mahmoud Abbas in the West Bank city of Ramallah before holding talks with Israeli counterpart Silvan Shalom in Tel Aviv, the Palestinian officials said on condition of anonymity. The Jordanian Foreign Ministry earlier this week confirmed the trip, but no officials were available for comment. Al-Mulqi is expected to raise with Shalom Jordan's position on final status issues in the Arab-Israeli peace process such as borders, the holy city of Jerusalem and water resources. On the sensitive issue of Palestinian refugees, Jordan has consistently rejected calls by some hard-line Israeli politicians to make the Hashemite kingdom a homeland for West Bank Palestinians. Roughly half of Jordan's 5.1 million population comprises Palestinians and their descendants who fled or were driven from their homes in the 1948 and 1967 Arab-Israeli wars. Jordan fears the expulsion of Palestinians from the West Bank will aggravate Jordan's demographic balance. Jordan also has concerns about the future status of Jerusalem, which is sacred to Muslims, Jews and Christians, and water-a scarce resource in this desert kingdom. Al-Mulqi is expected to explore how Jordan and Israel can revive their own 1994 peace treaty, which has been strained since the Palestinian uprising started Sept. 28, 2000. Discussions are also expected to deal with security cooperation. Jordan has proposed a 1,000-strong security force comprising Palestinians it has trained be dispatched to secure West Bank areas once Israel withdraws from four settlements there later in the year. The Palestinians have welcomed the offer, but Israel has expressed reservations, saying such a deployment could be viewed as a return of Palestinian refugees. Al-Mulqi will also press for the release of some 25 Jordanian political prisoners from Israeli jails.
+
+On May 22, 2006, the Israeli Embassy press attache Jacob Raber confirmed that Jordan has consulted with his government on al-Ayed's nomination and that "Israel endorsed it." Al-Ayed, 42, is a career diplomat. He served as charge d'affaires at the Jordanian Embassy in Washington from 1997 to 2001, and was then the foreign ministry spokesman in Amman. Most recently, he handled political affairs at the prime minister's office. Al-Ayed's predecessor, retired army major general al-Bakhit, served as Jordan's envoy to Israel for seven months last year before holding the post of security adviser to Jordan's King Abdullah II. He moved up the ladder quickly to become Jordan's prime minister following the Nov. 9 triple Amman hotel blasts, which killed 63 people, including three Iraqi suicide bombers. Al-Ayed's designation underlines Jordan's warming ties with Israel under Prime Minister Ehud Olmert, whom Abdullah has pressed to resume stalled peace negotiations with the Palestinians. Jordan and Egypt returned their ambassadors to Israel following a summit in Egypt in February 2005, where Israel and the Palestinians pledged to end their four years of fighting. Both countries, the only two Arab states to have signed peace treaties with Israel, had reduced their diplomatic representation there in late 2000 in protest over the Jewish state's military response to the Palestinian uprising.
+
+PS-SOURCES: Associated Press October 25, 1994; October 11, 1997; August 29, 2000; December 6, 2000; April 1, 2002; December 23, 2004; March 5, 2005; May 22, 2006; BBC November 25, 1996; September 4, 2001; Deutsche Presse Agentur June 26, 1995; January 2, 1996; May 6, 1997; Jerusalem Post August 28, 1992
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

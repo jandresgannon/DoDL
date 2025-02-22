@@ -1,0 +1,748 @@
+FILE: cm640645v11.0.txt
+DYAD: TURKEY/OTTOMAN EMPIRE-IRAQ
+RIVALRY: RIV11208
+DISPUTE(S): MID2332 MID1123 MID3164 MID3169 MID3045 MID2545 MID2788 MID3957 MID3980 MID4158 MID4206 MID4273 MID4208 MID4324 MID4325 
+
+RIVNOTES: 
+RIV11208 was originally coded as two separate rivalries (RIV1208 and RIV1209). These were combined because many of the primary issues (Mosul and the Kurds) were unresolved in the first rivalry and reappeared frequently in the second. 
+
+PS: 19321003-19580714 0.5 19580715-202099999 0.00
+
+PS-UPDATE2020:Turkey has continued its intervention in northern Iraq, conducting military attacks against the Kurds. Some reports have Turkish forces stationed there on an ongoing basis. This is a violations against Iraq sovereignty.
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220601
+PS-LAST-CHECKED: 20220601
+
+MID2332
+
+TERRMID: MID2332 3 -- not territory
+TERRMID-CER: MID2332 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2332 3 -- not third party link to territory 
+TERRLINK-CER: MID2332 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2332 3 -- not maritime 
+MARITMID-CER: MID2332 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2332 3 -- not islands 
+ISLMID-CER: MID2332 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2332 3 -- not civil war 
+CIVWARMID-CER: MID2332 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2332 3 -- not civil war link
+CIVWARLINK-CER: MID2332 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2332 1 -- coup MID
+COUPMID-CER: MID2332 1 -- certain 
+COUPMID-NOTES: MID2332 from Gibler 2018, in 1958 Turkey put its forces on alert after a coup in Iraq. Coded coup MID because this was connected to a coup in Iraq. 
+
+COUPLINK: MID2332 3 -- not coup link
+COUPLINK-CER: MID2332 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1123
+
+TERRMID: MID1123 3 -- not territory
+TERRMID-CER: MID1123 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1123 3 -- not third party link to territory 
+TERRLINK-CER: MID1123 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1123 3 -- not maritime 
+MARITMID-CER: MID1123 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1123 3 -- not islands 
+ISLMID-CER: MID1123 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1123 1 -- civil war MID
+CIVWARMID-CER: MID1123 1 -- certain
+CIVWARMID-NOTES: MID1123 from Gibler 2018, Iraq bombed a Turkish village and attacked another border area when pursuing Kurdish militarized rebels. Turkish planes shot down an Iraqi jet. Coded civil war MID because this was connected to militarized rebels in Turkey and Iraq. 
+
+CIVWARLINK: MID1123 3 -- not civil war link
+CIVWARLINK-CER: MID1123 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1123 3 -- not coup 
+COUPMID-CER: MID1123 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1123 3 -- not coup link
+COUPLINK-CER: MID1123 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3169
+
+TERRMID: MID3169 3 -- not territory
+TERRMID-CER: MID3169 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3169 3 -- not third party link to territory 
+TERRLINK-CER: MID3169 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3169 3 -- not maritime 
+MARITMID-CER: MID3169 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3169 3 -- not islands 
+ISLMID-CER: MID3169 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3169 1 -- civil war MID
+CIVWARMID-CER: MID3169 1 -- certain
+CIVWARMID-NOTES: MID3169 from Gibler 2018, in 1965 Iraq bombed a Turkish border town while attacking Kurdish rebels. Coded civil war MID because this was connected to militarized rebels in Turkey. 
+
+CIVWARLINK: MID3169 3 -- not civil war link
+CIVWARLINK-CER: MID3169 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3169 3 -- not coup 
+COUPMID-CER: MID3169 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3169 3 -- not coup link
+COUPLINK-CER: MID3169 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3045
+
+TERRMID: MID3045 3 -- not territory
+TERRMID-CER: MID3045 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3045 1 -- third party link to territorial MID
+TERRLINK-CER: MID3045 1 -- certain
+TERRLINK-NOTES: MID3045 from Gibler 2018, in 1984 Iraq bombed a Turkish oil tanker during the Iran-Iraq War. Iraq routinely attacked ships trading with Iran as a means of harming Iran's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID3045 3 -- not maritime 
+MARITMID-CER: MID3045 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3045 3 -- not islands 
+ISLMID-CER: MID3045 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3045 3 -- not civil war 
+CIVWARMID-CER: MID3045 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3045 3 -- not civil war link
+CIVWARLINK-CER: MID3045 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3045 3 -- not coup 
+COUPMID-CER: MID3045 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3045 3 -- not coup link
+COUPLINK-CER: MID3045 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2545
+
+TERRMID: MID2545 3 -- not territory
+TERRMID-CER: MID2545 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2545 1 -- third party link to territorial MID
+TERRLINK-CER: MID2545 1 -- certain
+TERRLINK-NOTES: MID2545 from Gibler 2018, in 1985 Iraq attacked a Turkish oil tanker during the Iran-Iraq War. Iraq routinely attacked tankers from other countries trading with Iran as a means of harming Iran's economy during the war. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2545 3 -- not maritime 
+MARITMID-CER: MID2545 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2545 3 -- not islands 
+ISLMID-CER: MID2545 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2545 3 -- not civil war 
+CIVWARMID-CER: MID2545 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2545 3 -- not civil war link
+CIVWARLINK-CER: MID2545 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2545 3 -- not coup 
+COUPMID-CER: MID2545 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2545 3 -- not coup link
+COUPLINK-CER: MID2545 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2788
+
+TERRMID: MID2788 3 -- not territory
+TERRMID-CER: MID2788 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2788 3 -- not third party link to territory 
+TERRLINK-CER: MID2788 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2788 3 -- not maritime 
+MARITMID-CER: MID2788 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2788 3 -- not islands 
+ISLMID-CER: MID2788 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2788 1 -- civil war MID
+CIVWARMID-CER: MID2788 1 -- certain
+CIVWARMID-NOTES: MID2788 from Gibler 2018, in 1987 Iraq bombed a Turkish village to atatck Kurdish rebels. Coded civil war MID because this was connected to militarized rebels in Turkey/Iraq, inside this dyad. 
+
+CIVWARLINK: MID2788 3 -- not civil war link
+CIVWARLINK-CER: MID2788 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2788 3 -- not coup 
+COUPMID-CER: MID2788 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2788 3 -- not coup link
+COUPLINK-CER: MID2788 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Turkey, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Turkey became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3980
+
+TERRMID: MID3980 3 -- not territory
+TERRMID-CER: MID3980 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3980 3 -- not third party link to territory 
+TERRLINK-CER: MID3980 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3980 3 -- not maritime 
+MARITMID-CER: MID3980 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3980 3 -- not islands 
+ISLMID-CER: MID3980 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3980 1 -- civil war MID
+CIVWARMID-CER: MID3980 1 -- certain
+CIVWARMID-NOTES: MID3980 from Gibler 2018, Turkey launched a cross-border attack on Kurdish rebels in Iraq in 1991. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID3980 3 -- not civil war link
+CIVWARLINK-CER: MID3980 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3980 3 -- not coup 
+COUPMID-CER: MID3980 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3980 3 -- not coup link
+COUPLINK-CER: MID3980 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4158
+
+TERRMID: MID4158 3 -- not territory
+TERRMID-CER: MID4158 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4158 3 -- not third party link to territory 
+TERRLINK-CER: MID4158 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4158 3 -- not maritime 
+MARITMID-CER: MID4158 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4158 3 -- not islands 
+ISLMID-CER: MID4158 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4158 1 -- civil war MID
+CIVWARMID-CER: MID4158 1 -- certain
+CIVWARMID-NOTES: MID4158 from cm narrative, Turkey enters into Iraq to attack PKK (Kurdish) forces based in Northern Iraq. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4158 3 -- not civil war link
+CIVWARLINK-CER: MID4158 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4158 3 -- not coup 
+COUPMID-CER: MID4158 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4158 3 -- not coup link
+COUPLINK-CER: MID4158 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4325
+
+TERRMID: MID4325 3 -- not territory
+TERRMID-CER: MID4325 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4325 3 -- not third party link to territory 
+TERRLINK-CER: MID4325 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4325 3 -- not maritime 
+MARITMID-CER: MID4325 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4325 3 -- not islands 
+ISLMID-CER: MID4325 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4325 3 -- civil war MID
+CIVWARMID-CER: MID4325 1 -- certain
+CIVWARMID-NOTES: MID4325 from cm narrative, Beginning in 2002, Turkey took advantage of the U.S. imposed no-fly zone in northern Iraq to engage in increasingly violent actions against Kurdish separatists operating in the area. Over the course of 2002 and part of 2003, Turkish military forces occupied much of northern Iraq and clashed periodically with Kurdish rebels. In addition, it periodically deployed additional troops to its border with Iraq to stymie the inflow of Kurdish rebels from Iraq. First day of dispute was on 8/25/2001 and last day of dispute was on 7/5/2003. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4325 3 -- not civil war link
+CIVWARLINK-CER: MID4325 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4325 3 -- not coup 
+COUPMID-CER: MID4325 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4325 3 -- not coup link
+COUPLINK-CER: MID4325 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4528
+
+TERRMID: MID4528 3 -- not territory
+TERRMID-CER: MID4528 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4528 3 -- not third party link to territory 
+TERRLINK-CER: MID4528 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4528 3 -- not maritime 
+MARITMID-CER: MID4528 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4528 3 -- not islands 
+ISLMID-CER: MID4528 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4528 1 -- civil war MID
+CIVWARMID-CER: MID4528 1 -- certain
+CIVWARMID-NOTES: MID4528 from cm narrative, Turkey amassed roughly 10,000 troops along its border with the Kurdistan region of northern Iraq. The troops were placed in the region in preparation for a future operation into northern Iraq to engage Kurdish militants. First day of dispute was on 4/26/2005 and last day of dispute was on 4/26/2005. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4528 3 -- not civil war link
+CIVWARLINK-CER: MID4528 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4528 3 -- not coup 
+COUPMID-CER: MID4528 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4528 3 -- not coup link
+COUPLINK-CER: MID4528 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4537
+
+TERRMID: MID4537 3 -- not territory
+TERRMID-CER: MID4537 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4537 3 -- not third party link to territory 
+TERRLINK-CER: MID4537 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4537 3 -- not maritime 
+MARITMID-CER: MID4537 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4537 3 -- not islands 
+ISLMID-CER: MID4537 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4537 1 -- civil war MID
+CIVWARMID-CER: MID4537 1 -- certain
+CIVWARMID-NOTES: MID4537 from cm narrative, Between 2007 and 2009, Turkey undertook a major bombing and artillery shelling campaign against various towns in Iraq's Kurdistan region, in the hopes of rooting out or destroying elements of the PKK in Iraq. There were no codeable incidents of Iraqi responses to the bombing campaign. First day of dispute was on 5/30/2007 and last day of dispute was on 5/28/2009. Coded civil war MID because this was connected to militarized rebel activity in Iraq. 
+
+CIVWARLINK: MID4537 3 -- not civil war link
+CIVWARLINK-CER: MID4537 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4537 3 -- not coup 
+COUPMID-CER: MID4537 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4537 3 -- not coup link
+COUPLINK-CER: MID4537 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4206
+
+TERRMID: MID4206 3 -- not territory
+TERRMID-CER: MID4206 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4206 3 -- not third party link to territory 
+TERRLINK-CER: MID4206 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4206 3 -- not maritime 
+MARITMID-CER: MID4206 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4206 3 -- not islands 
+ISLMID-CER: MID4206 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4206 1 -- civil war MID
+CIVWARMID-CER: MID4206 1 -- certain
+CIVWARMID-NOTES: MID4206 from cm narrative, Turkey enters into northern Iraq to fight the Kurds. They eventually withdraw on their own timetable. First day of dispute was on 9/5/1996 and last day of dispute was on 2/17/1999. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4206 3 -- not civil war link
+CIVWARLINK-CER: MID4206 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4206 3 -- not coup 
+COUPMID-CER: MID4206 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4206 3 -- not coup link
+COUPLINK-CER: MID4206 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273
+
+TERRMID: MID4273 3 -- not territory
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain
+CIVWARMID-NOTES: MID4273 from cm narrative, this MID involves Iraq's refusal to comply with UN weapons inspectors and enforcement of the no-fly zone. Iraq expelled weapons inspectors nd repeatedly violated the no-fly zone. The US and UK repeatedly threatened Iraq and eventually bombed them over a four day period. Iraq threatened Turkey because Turkey was allowing the US to use bases in Turkey from which to launch air strikes, pulling Turkey into this MID. Coded civil war MID because this MID involved violation and enforcement of the no-fly zone over Iraq. The no-fly zone was put in place to prevent Saddam Hussein from attacking militarized rebels in Kurdistan. 
+
+CIVWARLINK: MID4273 3 -- not civil war link
+CIVWARLINK-CER: MID4273 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4208
+
+TERRMID: MID4208 3 -- not territory
+TERRMID-CER: MID4208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4208 3 -- not third party link to territory 
+TERRLINK-CER: MID4208 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4208 3 -- not maritime 
+MARITMID-CER: MID4208 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4208 3 -- not islands 
+ISLMID-CER: MID4208 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4208 1 -- civil war MID
+CIVWARMID-CER: MID4208 1 -- certain
+CIVWARMID-NOTES: MID4208 from cm narrative, Turkey again invades Iraq to attack the Kurds. First day of dispute was on 9/29/1999 and last day of dispute was on 10/00/1999. Coded civil war MID because this was connected to militarized rebel activity in Iraq. 
+
+CIVWARLINK: MID4208 3 -- not civil war link
+CIVWARLINK-CER: MID4208 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4208 3 -- not coup 
+COUPMID-CER: MID4208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4208 3 -- not coup link
+COUPLINK-CER: MID4208 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4324
+
+TERRMID: MID4324 3 -- not territory
+TERRMID-CER: MID4324 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4324 3 -- not third party link to territory 
+TERRLINK-CER: MID4324 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4324 3 -- not maritime 
+MARITMID-CER: MID4324 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4324 3 -- not islands 
+ISLMID-CER: MID4324 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4324 1 -- civil war MID
+CIVWARMID-CER: MID4324 1 -- certain
+CIVWARMID-NOTES: MID4324 from cm narrative, Turkey enters into Iraq to battle the Kurds based in Northern Iraq. First day of dispute was on 7/25/2000 and last day of dispute was on 1/00/2001. Coded civil war MID because this was connected to militarized rebels in Iraq. 
+
+CIVWARLINK: MID4324 3 -- not civil war link
+CIVWARLINK-CER: MID4324 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4324 3 -- not coup 
+COUPMID-CER: MID4324 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4324 3 -- not coup link
+COUPLINK-CER: MID4324 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3164 
+
+TERRMID: MID3164 3 -- not territory 
+TERRMID-CER: MID3164 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3164 3 -- not third party link to territory 
+TERRLINK-CER: MID3164 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3164 3 -- not maritime 
+MARITMID-CER: MID3164 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3164 3 -- not islands 
+ISLMID-CER: MID3164 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3164 1 -- civil war MID
+CIVWARMID-CER: MID3164 3 -- uncertain 
+CIVWARMID-NOTES: MID3164 from Gibler, Miller, and Little 2016, this MID is a duplicate of MID1123 and should be deleted. Iraq bombed a Turkish village and attacked another border area when pursuing Kurdish militarized rebels. Turkish planes shot down an Iraqi jet. Coded civil war MID because this was connected to militarized rebels in Turkey and Iraq. Coded uncertain because GML recommend this case be dropped. 
+
+CIVWARLINK: MID3164 3 -- not civil war link 
+CIVWARLINK-CER: MID3164 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3164 3 -- not coup 
+COUPMID-CER: MID3164 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3164 3 -- not coup link
+COUPLINK-CER: MID3164 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4325
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4325 20010825-20030705 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=19 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Beginning in 2002, Turkey took advantage of the U.S. imposed no-fly zone in northern Iraq and took increasingly violent action against Kurdish separatists operating in the area. Over the course of 2002 and part of 2003, Turkish military forces occupied much of northern Iraq and clashed periodically with Kurdish rebels. In addition, it periodically deployed additional troops to its border with Iraq to stymie the inflow of Kurdish rebels into Turkey from Iraq. First day of dispute was on 8/25/2001 and last day of dispute was on 7/5/2003.
+
+MID4528
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4528 20050426-20050426 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkey amassed roughly 10,000 troops along its border with the Kurdistan region of northern Iraq. The troops were placed in the region in preparation of a future operation into northern Iraq to engage Kurdish militants. First day of dispute was on 4/26/2005 and last day of dispute was on 4/26/2005. 
+
+MID4537
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4537 20070530-20090528 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=26-100 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Between 2007 and 2009, Turkey undertook a major bombing and artillery shelling campaign against various towns in IraqÕs Kurdistan region in hopes of rooting out or destroying elements of the PKK in Iraq. There were no codeable incidents of Iraqi responses to the bombing campaign. First day of dispute was on 5/30/2007 and last day of dispute was on 5/28/2009.
+
+MID3 1993-2001:
+
+MID4158
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4158 19950320-19950710 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Turkey enters into Iraq to attack PKK (Kurdish) forces based in Northern Iraq. 4159 This dispute consists of one incident in which Iran increased its border forces along the Afghan border and closed the border. The border closure was due to concern about the influx of Afghan refugees. Iran is coded as the revisionist state because its actions are aimed at checking the flow of refugees from Afghanistan by tightening control over the border. First day of dispute was on 3/20/1995 and last day of dispute was on 7/10/1995.
+
+MID4206
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4206 19960905-19990217 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Turkey enters into northern Iraq to fight the Kurds. They eventually withdraw ontheir own timetable. First day of dispute was on 9/5/1996 and last day of dispute wa son 2/17/1999.
+
+MID4273
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4273 19990215-19990216 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=NO MILITARIZED ACTION 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=
+> 999 DEATHS fatalpb=. lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First day of dispute was on 2/15/1999 and last day of dispute was on 2/16/1999.
+
+NOTE THAT TURKEY IS ONLY INVOLVED FOR A VERY SHORT PERIOD IN THE WAR
+
+MID4208
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4208 19990929-19991000 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Turkey again invades Iraq to attack the Kurds. First day of dispute was on 9/29/1999 and last day of dispute was on 10/00/1999.
+
+MID4324
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4324 20000725-20010100 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Turkey enters into Iraq to battle the Kurds based in Northern Iraq. First day of dispute was on 7/25/2000 and last day of dispute was on 1/00/2001.
+
+MID4325
+rivalry=640645 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAQ MID4325 20010825-20030705 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=19 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkey again invades northern Iraq to attack the Kurds. First day of dispute was on 8/25/2001 and last day of dispute was on 7/5/2003.
+
+NARRATIVE-CM:
+Iraqi military aircraft attacked Turkish border posts during military operations against KDP rebels on July 9-16, 1962, resulting in the deaths of two Turkish soldiers. Turkish military aircraft attacked and shot down an Iraqi military aircraft on August 16, 1962, resulting in the death of one Iraqi military personnel. Iraqi military aircraft attacked a village in Turkey on July 28, 1965, resulting in the death of one individual. Turkish military aircraft bombed three Kurdish bases in northern Iraq on August 15, 1986, resulting in the deaths of some 150 Kurds. Turkish military aircraft bombed Kurdish targets in northern Iraq on March 4, 1987, resulting in the deaths of some 100 Kurds. Turkish troops attacked Kurdish rebels in northern Iraq on August 5-19, 1991. Germany and the Soviet Union condemned Turkey's incursions in Iraqi territory on August 9, 1991. Turkish troops and military aircraft attacked PKK bases in northern Iraq on October 11-27, 1991, resulting in the deaths of 17 Turkish soldiers and 15 Iraqis. Germany condemned the Turkish incursions in Iraq on October 14, 1991. Turkish military aircraft attacked PKK bases in northern Iraq on March 1-25, 1992, resulting in the deaths of some 28 rebels and 21 civilians. Turkish military aircraft attacked PKK bases in northern Iraq on several occasions from May 14-June 22, 1992. Some 20,000 Turkish troops and military aircraft attacked PKK bases in northern Iraq on October 16-November 1, 1992. Turkish military aircraft attacked PKK bases in northern Iraq on July 31, 1994, resulting in the deaths of 120 rebels. Some 35,000 Turkish troops launched a military offensive against PKK rebels in northern Iraq beginning on March 20, 1995. The foreign ministers of France, Germany, and Spain jointly appealed for the withdrawal of Turkish troops from northern Iraq on March 23, 1995. Secretary-of-State Warren Christopher of the United States appealed for the withdrawal of Turkish troops from northern Iraq on March 27, 1995. *European Union* (EU) foreign ministers appealed for the withdrawal of Turkish troops from northern Iraq on April 10, 1995. Turkey completed its withdrawal of troops from northern Iraq on May 4, 1995. The EU appealed for the withdrawal of Turkish troops from northern Iraq on May 16, 1997. Some 20,000 Turkish troops launched a military offensive against PKK rebels in northern Iraq on December 5, 1997. Some 10,000 Turkish troops conducted a military offensive against PKK rebels in northern Iraq on July 2-10, 1999, resulting in the deaths of some 40 rebels. Russia and Iran condemned Turkey for the military offensive in northern Iraq on July 8, 1999. Turkish military aircraft and troops attacked PKK bases in northern Iraq on March 30-April 1, 2000. Turkish military aircraft and troops attacked PKK bases in northern Iraq on May 7-10, 2000, resulting in the deaths of 53 rebels. Turkish troops attacked PKK bases in northern Iraq on May 23-26, 2000, resulting in the deaths of 10 rebels. Turkish military aircraft bombed PKK targets in northern Iraq on August 17, 2000, resulting in the deaths of 38 civilians.
+
+The rivalry is not ended as of December 2006. Following the U.S. invasion in Iraq in 2003 and the sub-sequent autonomy for the Kurdish North of Iraq, tensions increased with Turkey amassing 140,000 troops on the border with Iraq and conducting several incursions inside Iraqi territory since 2003. The Kurdish issue is not resolved and it only increased in intensity since the truce with the PKK was broken down in 2004. 
+
+SOURCES-CM: 
+Allock et al., 1992, 406-407; *Associated Press* (AP), April 1, 2000, April 3, 2000; *European Union *(EU) press release, May 16, 1997; *Facts on File*, August 16-22, 1962; *Keesing*, March 30-April 6, 1963, August 1991, October 1991, March 1992, May 1992, October 1992, August 1994, March 1995, April 1995, May 1995; *Middle East Journal *(MEJ), Autumn 1991, Winter 1991, Summer 1992; *Reuters*, July 8, 1999, July 10, 1999, April 3, 2000, May 10, 2000, May 26, 2000, August 17, 2000.
+
+NARRATIVE-CR:
+Two issues have motivated the rivalry between Iraq and Turkey: the issue of Mosul and the presence of a significant Kurdish population on both sides of their mutual border. The two issues are closely connected. Mosul was part of the Ottoman Empire under the direction of Baghdad. In the late 19th century, it became equal in status to Baghdad. It contained Kurds and Arabs with a minority of Turks. After WWI, the Turks claimed the Mosul area while the UK pushed to have Mosul incorporated into Iraq-oil was discovered in the region that motivated the British claims. Eventually, the Turks agreed to the current border demarcation however, Turkish nationalists have never accepted the inclusion of Mosul into Iraq. 
+
+There are two distinct periods of rivalry between Iraq and Turkey (1958-1965 and 1984 to the present) but the issues that motivate the conflict do not get resolved and are not separate or distinct. Therefore it does not make sense to treat them as separate issues. Those issues are a lack of complete territorial recognition of the border between the two and the Kurdish problem. The later issue is the big issue between the two countries. There have been numerous disputes between the two countries over this problem. The general theme in these disputes is that Kurds on one side of the border support Kurds on the other. When this happens both countries will then pursue the Kurds in the opponents state provoking reaction. 
+
+The first portion of the rivalry:
+The first portion of the rivalry takes place from 1958 until 1965 and contains four mids. These are all bilateral mids and they begin with reported hostility from the Turks motivated by the coup against the Iraqi monarchy. MID2332 occurred in July of 1958. Here, the Iraqi monarchy was overthrown in a coup and the Turkish government was accused of considering a military operation against the new regime in Baghdad. Iraqi military aircraft attacked Turkish border posts during military operations against KDP rebels on July 9-16, 1962, resulting in the deaths of two Turkish soldiers (MID1123). Turkish military aircraft attacked and shot down an Iraqi military aircraft in a reprisal raid on August 16, 1962, resulting in the death of one Iraqi military personnel (MID3164). Iraqi military aircraft attacked a village in Turkey on July 28, 1965, resulting in the death of one individual (MID3169). 
+
+The interim period: 
+During the interim period between the two portions of the rivalry between Iraq and Turkey, both countries experienced considerable domestic instability. Further, there were also regional destabilizing events all of which culminated in a temporary cessation of hostilities between the countries. However, the underlying tensions were not resolved and the two countries continued their rivalry over the same essential core issues in 1984. 
+
+There was considerable regional instability during this interim period. The June 1967 War and the Yom Kippur War of 1973 both took place in the interim. Iraq was a party to both conflicts. However, the distraction associated with a lull in hostility between Iraq and Turkey is more closely connected to the domestic instability in both countries occurring during this break in the rivalry between the two countries. 
+
+Domestic instability in Turkey during the interim period began with a military coup in 1960. On May 27, 1960, Turkish army units, under the direction of the chief of General Staff, Cemal Gursel, seized the principal government buildings and communications centers and arrested President Bayar, Prime Minister Menderes, and most of the DP representatives in the Grand National Assembly, as well as a large number of other public officials. Those arrested were charged with abrogating the constitution and instituting a dictatorship.
+
+In 1970, three small rightist parties that had usually cooperated with the Turkish government merged as the National Salvation Party, an explicitly Islamic-oriented party that imposed politically compromising demands on Prime Minister Demirel as the price of their continued support. Some former AP members deserted the AP in 1971 to form the more right-wing Democratic Party. Other, more liberal AP members, dissatisfied with Demirel's concessions to the right, defected from the party and sat as independents. Because of these shifts, the Demirel government lost its parliamentary majority and, in the eyes of critics, forfeited its right to govern the country. Acts of politically motivated violence and terrorism escalated in frequency and intensity. Unrest was fueled in part by economic distress, perceptions of social inequities, and the slowness of reform, but protest was increasingly directed at Turkey's military and economic ties to the West. 
+
+On March 12, 1971, the armed forces chiefs, headed by army commander General Faruk G¸rler, presented a memorandum to President Sunay demanding the installation of a strong and credible government. The military leaders warned civilian officials that the armed forces would be compelled to take over the administration of the state once again unless a government was found that could curb the violence and implement the economic and social reforms, including land reform, stipulated in the 1961 constitution. Demirel resigned the same day. The incident was referred to as the "coup by memorandum."
+
+The summer of 1980 was a chaotic time in Turkey. Political violence and sectarian unrest mounted in the cities and spread through the countryside. The parliament was inactive and the country had no elected president. In September, the NSP sponsored a massive rally at Konya, where Islamists (also seen as fundamentalists) demonstrated to demand the reinstatement of Islamic law in Turkey, reportedly showing disrespect for the flag and the national anthem. These acts were regarded as an open renunciation of Realism and a direct challenge to the military. In the early morning hours of September 12, 1980, the armed forces seized control of the country. Two years later, after considerable international pressure, the country returned to civilian rule. 
+
+The domestic instability in Iraq began in 1963. For a number of reasons, the regime of the Baath party lacked popular and military support in the early 1960s. In 1963, Arif and a group of military officers took over the country in a coup and installed a military regime. Arif was a supporter of Nasser and immediately took steps to integrate the country economically and militarily with Egypt. Arif expected to unite Iraq with Egypt by 1966. By 1965, Arif had lost his enthusiasm for the proposed union, which had received only lukewarm support from Nasser. Arif began ousting Nasserite officers from the government. As a result, the newly appointed prime minister, Brigadier Arif Abd ar Razzaq, who was also a leading Nasserite, made an unsuccessful coup attempt on September 12, 1965. 
+
+In April 1966, Arif was killed in a helicopter crash and his brother, Major General Abd ar Rahman Arif, was installed in office. Abd ar Rahman Arif lacked the forcefulness and the political skill of his brother. The ambitious military officers who were responsible for his appointment dominated him. The government's weak hold on the country thus became more apparent as a renewed Kurdish rebellion in the north began. The Shah of Iran assisted the Kurds and they were able to gain important territory in the north. The military did not support the rapprochement with the Kurds and the Prime Minister, Bazzaz, lost their support and his position. The Arif regime lost support from many interests in Iraq. It was seen as balancing the special interests of a select few within the country and its ultimate demise came in the June 1967 war. Iraq did not take significant action in the conflict to support Egyptian, Syrian and Jordanian armies and thus lost support. In 1968, Colonel Abd ar Razzaq an Nayif and Ibrahim ad Daud, took over the country in another coup. 
+
+Ahmad Hasan al Bakr took power in 1968 with a clique of Tikritis that included Sadaam Hussein. Less than two months after the formation of the Bakr government, a coalition of pro-Nasser elements, Arif supporters, and conservatives from the military attempted another coup. This event provided the rationale for numerous purges directed by Bakr and Saddam Hussein. Between 1968 and 1973, through a series of sham trials, executions, assassinations, and intimidations, the party ruthlessly eliminated any group or person suspected of challenging Baath rule.
+
+Throughout the 1970s, Sadaam Hussein gained power from Bakr. Further, Iraq faced a series of foreign policy issues that directed their attention away from issues with Turkey. They engaged in conflict with Iran over support for Iranian dissidents. They engaged in conflict with Kuwait and other Gulf States over various issues including territorial claims with Kuwait and ideological disputes over support for the leftist People's Democratic Republic of Yemen (South Yemen) and the Popular Front for the Liberation of the Occupied Arabian Gulf. In March 1973, Iraqi troops occupied As Samitah, a border post in the northeast corner of Kuwait. Saudi Arabia immediately came to Kuwait's aid and, together with the Arab League, obtained Iraq's withdrawal. Iraq faced a serious Kurdish rebellion in the north from the early 1970s until 1976. Iraq successfully quelled the rebellion by 1976 and Hussein instituted significant economic reforms aided by the boost in oil revenues. Hussein saw the isolation of Egypt with the signing of the Camp David Accords as an opportunity to gain regional power. At this point, his regime took serious steps to improve relations with Iran, Saudi Arabia, and the smaller Gulf States. In February 1979, Saddam Hussein's ambitious plans and the course of Iraqi history were drastically altered by the overthrow of the shah of Iran. It was in the context of this war that the mids between Turkey and Iraq began anew. 
+
+The second portion of the rivalry:
+The rivalry begins anew in 1984. This section of the rivalry lasts until 2001. There are eleven mids between the two countries and all but two of them are bilateral. The second section of the rivalry is sparked by the Iran Iraq War but the core issues that motivate the rivalry remain the same. 
+
+Turkey was involved in the tanker war between Iran and Iraq along with many other countries. MID3045 occurred on June 3, 1984. Here an Iraqi jet attacked a Turkish tanker in the Persian Gulf and set it ablaze. Again in July of 1985, a Turkish tanker was attacked in the Persian Gulf (MID2545). 
+
+MID2788 occurred in late August to early September of 1987. Here Iraqi warplanes were operating against Kurdish rebels. The Iraqi jets dropped bombs on a Turkish border post. The Iraqis claimed the incident was a mistake and the Turks agreed with the Iraqi assessment. The Turks did not file a protest. 
+
+MID3957 is the Persian Gulf War. Here the Turks fought on the side of the US against Iraq. 
+
+MID3980 occurred from August through November of 1991. Turkish troops attacked Kurdish rebels in northern Iraq on August 5-19, 1991. Turkish troops and military aircraft attacked PKK bases in northern Iraq on October 11-27, 1991, resulting in the deaths of 17 Turkish soldiers and 15 Iraqis. The Turks were conducting operations against Kurdish posts in Iraq that were supporting Kurdish separatists in Turkey. 
+
+MID4158 occurred from March through July of 1995. Some 35,000 Turkish troops launched a military offensive against PKK rebels in northern Iraq beginning on March 20, 1995. Turkey's goal here was to suppress supply line, support bases and rebel camps that directed operations against the Turkish regime. 
+
+A series of MIDs occurred in the late 1990s all of which had similar character. MID4206 occurred from September of 1996 until February of 1999. This dispute was also a Turkish operation conducted against Kurds within Iraq. Some 20,000 Turkish troops launched a military offensive against PKK rebels in northern Iraq on December 5, 1997. Some 10,000 Turkish troops conducted a military offensive against PKK rebels in northern Iraq on July 2-10, 1999, resulting in the deaths of some 40 rebels. The other mids (MID4208, MID4324, and MID4325) all were operations similar to MID4206. 
+
+MID4273 was a multilateral operation conducted by members of the coalition that fought against Iraq in the Persian Gulf War. This operation was conducted to enforce sanctions imposed on Iraq as a result of the Gulf War. 
+
+The rivalry is not ended as of December 2006. Following the U.S. invasion in Iraq in 2003 and the sub-sequent autonomy for the Kurdish North of Iraq, tensions increased with Turkey amassing 140,000 troops on the border with Iraq and conducting several incursions inside Iraqi territory since 2003. The Kurdish issue is not resolved and it only increased in intensity since the truce with the PKK was broken down in 2004. 
+
+SOURCES-CR: 
+Allock et al., 1992, 406-407; Associated Press(AP), April 1, 2000, April 3, 2000; European Union (EU) press release, May 16, 1997; Facts on File, August 16-22, 1962; Keesing, March 30-April 6, 1963, August 1991, October 1991, March 1992, May 1992, October 1992, August 1994, March 1995, April 1995, May 1995; Metz, 1995; Middle East Journal (MEJ), Autumn 1991, Winter 1991, Summer 1992; *Reuters*, July 8, 1999, July 10, 1999, April 3, 2000, May 10, 2000, May 26, 2000, August 17, 2000.
+
+PS-NARRATIVE: 
+
+19321003-19580714 0.5 
+Iraq became a member of the international system on October 3, 1932. On February 15, 1936, Turkey and Iraq, together with Afghanistan and Iran concluded a treaty of friendship and non-aggression. This was considered of great significance because it was for the first time that these four countries united on their own initiative and agreed to patch up their minor differences. On April 13, 1940, Turkey started work on the railway that will link Istanbul to Baghdad. On March 1, 1946, a Turkish-Iraqi conference aimed at solidifying relations between the two countries was opened in Ankara. A communique on the conference said that besides discussing commercial, financial and cultural questions, the delegations would also study use of the Euphrates and Tigris Rivers and `mutual protection against dangerous individuals'. The reference to `dangerous individuals' was not explained, but it was noted that often troublesome Kurdish tribes live along the Turkey-Iraqi border. On February 24, 1955, Turkey and Iran signed a military agreement which led to the formation of the Baghdad Pact, later renamed the Central Treaty Organization. In March 1959, the new republic regime of Iraq withdrew the country from the alliance. The headquarters of CENTO were moved from Baghdad (1955-1958) to Ankara (1958-1979). The first MID of RIV11208, MID2332 occurred in July of 1958. Here, the Iraqi monarchy was overthrown in a coup and the Turkish government was accused of considering a military operation against the new regime in Baghdad. 
+
+PS-SOURCES: New York Times February 16, 1936; April 14, 1940; March 3, 1946. 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

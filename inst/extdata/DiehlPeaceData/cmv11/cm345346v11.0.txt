@@ -1,0 +1,116 @@
+FILE: cm345346v11.0.txt
+DYAD: YUGOSLAVIA - BOSNIA & HERZEGOVINA
+RIVALRY: RIV893
+DISPUTE(S): MID3557 MID4333
+
+PS: 19920407-20001216 0.00 20001217-20209999 .5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHECKED: 20220301
+PS-LAST-CHANGED: 20220301 
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3557 
+
+TERRMID: MID3557 1 -- territorial MID
+TERRMID-CER: MID3557 1 -- certain 
+TERRMID-NOTES: MID3557 from cm narrative, this MID occurred in Bosnia as Yugoslav and Bosnian forces fought for control of Bosnian territory. Eventually, Yugoslavia bowed to international pressure and withdrew most of its troops from Bosnia. As that happened, the bulk of the fighting turned to the militarized rebel groups. Coded territorial MID because this was connected to Yugoslavia's claim on Bosnia and Herzegovina. 
+
+TERRLINK: MID3557 3 -- not third party link to territory 
+TERRLINK-CER: MID3557 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3557 1 -- maritime MID
+MARITMID-CER: MID3557 1 -- certain 
+MARITMID-NOTES: MID3557 Bosnia and Herzegovina have a small portion of territorial waters, and because Yugoslavia fought for the entirety of that country, it was also fighting for control of the maritime boundary. 
+
+ISLMID: MID3557 3 -- not islands 
+ISLMID-CER: MID3557 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3557 1 -- civil war MID
+CIVWARMID-CER: MID3557 1 -- certain 
+CIVWARMID-NOTES: MID3557 from cm narrative, this MID involved ethnic militarized rebel groups fighting against each other and against the forces of the other state in the dyad. 
+
+CIVWARLINK: MID3557 3 -- not civil war link 
+CIVWARLINK-CER: MID3557 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3557 3 -- not coup 
+COUPMID-CER: MID3557 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3557 3 -- not coup link
+COUPLINK-CER: MID3557 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4333 
+
+TERRMID: MID4333 1 -- territorial MID
+TERRMID-CER: MID4333 1 -- certain 
+TERRMID-NOTES: MID4333 from cm narrative, during the month of 1/1994, Yugoslavia sent regular troops into Bosnian territory to help the Bosnian Serbs. These troops included both equipment and "special units." Coded territorial MID because this was connected to Yugoslavia's claim on Bosnia and Herzegovina's territory. 
+
+TERRLINK: MID4333 3 -- not third party link to territory 
+TERRLINK-CER: MID4333 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4333 1 -- maritime MID
+MARITMID-CER: MID4333 1 -- certain 
+MARITMID-NOTES: MID4333 coded maritime MID because Yugoslavia claimed all of Bosnia's territory, including its maritime waters. 
+
+ISLMID: MID4333 3 -- not islands 
+ISLMID-CER: MID4333 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4333 1 -- civil war MID
+CIVWARMID-CER: MID4333 1 -- certain 
+CIVWARMID-NOTES: MID4333 from cm narrative, this MID involved Yugoslavian forces assisting militarized rebel groups in Bosnia. The rebel groups operated in Bosnia, a state in this dyad.
+
+CIVWARLINK: MID4333 3 -- not civil war link 
+CIVWARLINK-CER: MID4333 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4333 3 -- not coup 
+COUPMID-CER: MID4333 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4333 3 -- not coup link
+COUPLINK-CER: MID4333 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3 1993-2001:
+
+MID3557
+rivalry=345346 nationa=YUGOSLAVIA-SERBIA nationb=BOSNIA-HERZEGOVINA MID3557 19920406-19930125 
+ revtype1a=TERRITORY revtype2a=. fatala=251-500 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=101-250 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+This MID occurred in Bosnia as Yugoslav and Bosnian forces fought for control of Bosnian territory. Eventually, Yugoslavia bowed to international pressure and withdrew most of its troops from Bosnia. As that happened the bulk of the fighting turned to the militias, i.e. the Bosnian Serbs versus Bosnia. Since the Bosnian Serbs are not state actors their fights with Bosnia do not enter into this MID. First day of dispute was on 4/6/1992 and last day of dispute was on 1/25/1993.
+
+MID4333
+rivalry=345346 nationa=YUGOSLAVIA-SERBIA nationb=BOSNIA-HERZEGOVINA MID4333 19940100-19940100 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE
+fatalb=NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+During the month of 1-94,Yugoslavia sent regular troops into Bosnian territory to help the Bosnian Serbs. These troops included both equipment and "special units." First and last day of dispute was on 1/00/1994.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Bosnia-Herzegovina and Yugoslavia (Serbia and Montenegro) established diplomatic relations on December 15, 2000.
+
+SOURCES-CM: 
+*Associated Press *(AP), December 15, 2000; *Reuters*, December 15, 2000.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

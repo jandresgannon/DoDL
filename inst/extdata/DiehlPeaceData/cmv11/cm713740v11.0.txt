@@ -1,0 +1,319 @@
+FILE: cm713740v11.0.txt
+DYAD: TAIWAN - JAPAN
+RIVALRY: RIV1315
+DISPUTE(S): MID3212 
+RIVALRY: RIV1316
+DISPUTE(S): MID4025 MID4026 
+
+PS: 19720515-19950107 .5 19950108-20209999 .25
+
+PSNOTES: relationship begins in 1972 when contiguity is established across the East China Sea with return of JPN sovereignty over Ryukyu Islands
+
+PS-LAST-CHANGED: 20190519
+PS-LAST-CHECKED: 20190519
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3212
+
+TERRMID: MID3212 3 -- not territory
+TERRMID-CER: MID3212 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3212 1 -- third party link to territorial MID
+TERRLINK-CER: MID3212 3 -- uncertain
+TERRLINK-NOTES: MID3212 from Gibler, Miller, and Little 2016, in 1955 China seized a Japanese ship in the waters near Taiwan. China and Taiwan were disputing the entirety of each other's territory, including each other's territorial waters. Coded maritime MID because this was connected to the China-Taiwan dispute. Coded uncertain because GML recommend this case be dropped since Japan did not protest the seizure. 
+
+MARITMID: MID3212 3 -- not maritime 
+MARITMID-CER: MID3212 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3212 3 -- not islands 
+ISLMID-CER: MID3212 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3212 1 -- civil war MID
+CIVWARMID-CER: MID3212 3 -- uncertain
+CIVWARMID-NOTES: MID3212 The China-Taiwan dispute also has a civil war element. Coded civil war because Taiwan is in this dyad. Coded uncertain because GLM recommend that this case be dropped.
+
+CIVWARLINK: MID3212 1 -- civil war link MID
+CIVWARLINK-CER: MID3212 3 -- uncertain
+CIVWARLINK-NOTES: MID3212 The China-Taiwan dispute also has a civil war element. Coded civil war link because China is outside this dyad. Coded uncertain because GLM recommend that this case be dropped.
+
+COUPMID: MID3212 3 -- not coup 
+COUPMID-CER: MID3212 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3212 3 -- not coup link
+COUPLINK-CER: MID3212 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4025
+
+TERRMID: MID4025 3 -- not territory
+TERRMID-CER: MID4025 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4025 3 -- not third party link to territory 
+TERRLINK-CER: MID4025 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4025 3 -- not maritime 
+MARITMID-CER: MID4025 3 -- uncertain
+MARITMID-NOTES: MID4025 from Gibler, Miller, and Little 2016, a Taiwanese ship entered Japanese waters to pursue a smuggling ship. Japan accused Taiwan of violating their waters, and Taiwan admitted they did and said that they were tracking smugglers. Coded not maritime because Taiwan was not contesting Japan's maritime boundary, and coded uncertain because GML recommend this case be dropped since Japan did not protest. 
+
+ISLMID: MID4025 3 -- not islands 
+ISLMID-CER: MID4025 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4025 3 -- not civil war 
+CIVWARMID-CER: MID4025 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4025 3 -- not civil war link
+CIVWARLINK-CER: MID4025 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4025 3 -- not coup 
+COUPMID-CER: MID4025 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4025 3 -- not coup link
+COUPLINK-CER: MID4025 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4026
+
+TERRMID: MID4026 3 -- not territory
+TERRMID-CER: MID4026 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4026 3 -- not third party link to territory 
+TERRLINK-CER: MID4026 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4026 1 -- maritime MID
+MARITMID-CER: MID4026 3 -- uncertain
+MARITMID-NOTES: MID4026 coded maritime MID because the island was disputed due to maritime boundary implications, and coded uncertain because Gibler, Miller, and Little 2016 recommend this case be dropped. 
+
+ISLMID: MID4026 1 -- islands MID
+ISLMID-CER: MID4026 3 -- uncertain
+ISLMID-NOTES: MID4026 from Gibler, Miller, and Little 2016, a Taiwanese citizen was sailing toward a disputed island when a Japanese ship turned it away. Taiwanese civilians repeatedly try to sail to the disputed island and destroy a lighthouse that Japan had built. Coded islands MID because this was connected to a diputed island, and coded uncertain because GML recommend this case be dropped, since it was civilians and not anyone acting on behalf of the Taiwanese government. 
+
+CIVWARMID: MID4026 3 -- not civil war 
+CIVWARMID-CER: MID4026 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4026 3 -- not civil war link
+CIVWARLINK-CER: MID4026 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4026 3 -- not coup 
+COUPMID-CER: MID4026 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4026 3 -- not coup link
+COUPLINK-CER: MID4026 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4454
+
+TERRMID: MID4454 3 -- not territory
+TERRMID-CER: MID4454 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4454 3 -- not third party link to territory 
+TERRLINK-CER: MID4454 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4454 1 -- maritime MID
+MARITMID-CER: MID4454 1 -- certain
+MARITMID-NOTES: MID4454 from Gibler 2018, in 2003 Japan naval vessels ordered a group of Taiwanese fishermen in disputed waters to vacate the area. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4454 3 -- not islands
+ISLMID-CER: MID4454 1 -- certain
+ISLMID-NOTES: MID4454 although there were disputed islands present in the disputed waters, the disputed islands are not involved in this MID. The islands are disputed due to their maritime boundary implications. 
+
+CIVWARMID: MID4454 3 -- not civil war 
+CIVWARMID-CER: MID4454 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4454 3 -- not civil war link
+CIVWARLINK-CER: MID4454 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4454 3 -- not coup 
+COUPMID-CER: MID4454 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4454 3 -- not coup link
+COUPLINK-CER: MID4454 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4470
+
+TERRMID: MID4470 3 -- not territory
+TERRMID-CER: MID4470 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4470 3 -- not third party link to territory 
+TERRLINK-CER: MID4470 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4470 1 -- maritime MID
+MARITMID-CER: MID4470 1 -- certain
+MARITMID-NOTES: MID4470 from Gibler 2018, in 2005 Taiwan sent naval warships to the disputed waters around the dyad's disputed islands to protect Taiwanese fishermen there. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4470 3 -- not islands
+ISLMID-CER: MID4470 1 -- certain
+ISLMID-NOTES: MID4470 although there were disputed islands present in the disputed waters, the disputed islands are not involved in this MID. The islands are disputed due to their maritime boundary implications. 
+
+CIVWARMID: MID4470 3 -- not civil war 
+CIVWARMID-CER: MID4470 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4470 3 -- not civil war link
+CIVWARLINK-CER: MID4470 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4470 3 -- not coup 
+COUPMID-CER: MID4470 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4470 3 -- not coup link
+COUPLINK-CER: MID4470 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4482
+
+TERRMID: MID4482 3 -- not territory
+TERRMID-CER: MID4482 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4482 3 -- not third party link to territory 
+TERRLINK-CER: MID4482 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4482 1 -- maritime MID
+MARITMID-CER: MID4482 1 -- certain
+MARITMID-NOTES: MID4482 from Gibler 2018, in 2008 Taiwan sent a survey ship and naval vessels into the dyad's disputed waters. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4482 3 -- not islands
+ISLMID-CER: MID4482 1 -- certain
+ISLMID-NOTES: MID4482 although there were disputed islands present in the disputed waters, the disputed islands are not involved in this MID. The islands are disputed due to their maritime boundary implications. 
+
+CIVWARMID: MID4482 3 -- not civil war 
+CIVWARMID-CER: MID4482 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4482 3 -- not civil war link
+CIVWARLINK-CER: MID4482 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4482 3 -- not coup 
+COUPMID-CER: MID4482 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4482 3 -- not coup link
+COUPLINK-CER: MID4482 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4492
+
+TERRMID: MID4492 3 -- not territory
+TERRMID-CER: MID4492 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4492 3 -- not third party link to territory 
+TERRLINK-CER: MID4492 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4492 1 -- maritime MID
+MARITMID-CER: MID4492 1 -- certain
+MARITMID-NOTES: MID4492 coded maritime MID because the Senkaku Islands were disputed due to their maritime boundary implications. 
+
+ISLMID: MID4492 1 -- islands MID
+ISLMID-CER: MID4492 1 -- certain
+ISLMID-NOTES: MID4492 from cm narrative and Gibler 2018, in 2010 a Taiwanese fishing ship was carrying activists to the disputed Senkaku Islands, and Japan sent a naval vessel to stop them. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID4492 3 -- not civil war 
+CIVWARMID-CER: MID4492 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4492 3 -- not civil war link
+CIVWARLINK-CER: MID4492 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4492 3 -- not coup 
+COUPMID-CER: MID4492 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4492 3 -- not coup link
+COUPLINK-CER: MID4492 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4454
+rivalry=713740 nationa=JAPAN nationb=TAIWAN MID4454 20030213-20030213 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Japan dispersed dozens of Taiwanese fishermen in a disputed area of the East China Sea. Both Japan and Taiwan claim the area as exclusive fishing sectors for their respective countries. First day of dispute was on 2/12/2003 and last day of dispute was on 2/12/2003.
+
+MID4470
+rivalry=713740 nationa=TAIWAN nationb=JAPAN MID4470 20050615-20050710 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Taiwan repeatedly deployed naval vessels to the waters around the Senkaku Islands, an area of water disputed with Japan (see MID4457), to protect its fishermen from harassment by Japanese naval vessels. First day of dispute was on 6/15/2005 and last day of dispute was on 7/10/2005.
+
+MID4482
+rivalry=713740 nationa=TAIWAN nationb=JAPAN MID4482 20080616-20080616 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+A Tawianese survey boat, accompanied by several Taiwanese naval warships, entered Japanese waters near the disputed Senkaku Islands, where they remained undisturbed before leaving several hours later. First day of dispute was on 6/16/2008 and last day of dispute was on 6/16/2008.
+
+MID4492
+rivalry=713740 nationa=JAPAN nationb=TAIWAN MID4492 20100914-20100914 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+When a Taiwanese fishing boat occupied by activists approached the Senkaku islands, Japan deployed 11 naval warships to turn the boat around. First day of dispute was on 9/14/2010 and last day of dispute was on 9/14/2010.
+
+MID3 1993-2001:
+
+MID4025
+rivalry=713740 nationa=TAIWAN nationb=JAPAN MID4025 19950108-19950108 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The dispute is about a Taiwanese patrol boat which entered Japanese waters while chasing a smuggling vessel. Japan protested Taiwan's border violation, but Taiwanstated that it did not recognize Japanese sovereignty over the Ryukyu Archipelago (Okinawa Islands). First and last day of dispute was on 1/8/1995.
+
+MID4026
+rivalry=713740 nationa=JAPAN nationb=TAIWAN MID4026 19960904-19960906 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute is based on a show of force by Japan to Taiwan. Japanese patrol boats blocked attempts by Taiwanese civilian boats to enter the waters surrounding the Senkaku Islands twice. On 9/4/96, Japanese boats prevented Hong Kong journalists aboard on a Taiwanese charter boat from entry. On 9/6/96, Japanese patrol boats turned back a ship sailing with a Taiwanese lawmaker. First day of dispute was on 9/4/1996 and last day of dispute was on 9/6/1996.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

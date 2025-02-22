@@ -1,0 +1,76 @@
+FILE: cm310365v11.0.txt
+DYAD: HUNGARY-RUSSIA/USSR
+RIVALRY: RIV818
+DISPUTE(S): MID258 
+RIVALRY: RIV819
+DISPUTE(S): MID606 
+
+PS: 19181116-19410626 .5 19410627-19450212 .25 19450213-19561019 0.75 19561020-19561114 0.25 19561115-19910629 0.75 19910630-19960629 0.5 
+
+PSNOTES: The first 1991 date is the dissolution of Comecon 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a state exits a REI, the REI is the only basis for a relationship with a given other state, and the peace scale coding is not .5, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS-LAST-CHANGED: 20220306
+PS-LAST-CHECKED: 202200306	
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258 
+
+MID606 
+
+TERRMID: MID606 3 -- not territory 
+TERRMID-CER: MID606 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID606 3 -- not third party link to territory 
+TERRLINK-CER: MID606 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID606 3 -- not maritime 
+MARITMID-CER: MID606 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID606 3 -- not islands 
+ISLMID-CER: MID606 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID606 3 -- not civil war 
+CIVWARMID-CER: MID606 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID606 3 -- not civil war link 
+CIVWARLINK-CER: MID606 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID606 3 -- not coup 
+COUPMID-CER: MID606 1 -- certain 
+COUPMID-NOTES: MID606 from Gibler 2018, the premier of Hungary was removed by Russia in 1956, but Hungary went against this and re-installed him, which involved clashes with Soviet troops in Hungary. The Soviets invaded and jailed many supporters of the premier. Coded not coup because although this did involve the removal of a political elite, it was not done by military or political elites within Hungary, but rather by Russia.
+
+COUPLINK: MID606 3 -- not coup link
+COUPLINK-CER: MID606 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Hungary and the Soviet Union established diplomatic relations on February 6, 1934. Prime Minister Imre Nagy of Hungary announced that his country would terminate its membership in the *Warsaw Treaty Organization *(WTO) on November 1, 1956. Soviet troops attacked Budapest on November 3, 1956, and Soviet troops overthrew the government of Prime Minister Nagy on November 4, 1956. The *United Nations *(UN) Security Council approved a resolution condemning the Soviet Union on November 4, 1956, but the resolution was vetoed by the Soviet Union. The UN General Assembly appealed for the withdrawal of Soviet troops from Hungary on November 4, November 9, and November 21, 1956. Soviet troops suppressed resistance on November 14, 1956, and some 190,000 Hungarians fled as refugees to Austria and Yugoslavia. The *Intergovernmental Committee for European Migration* (ICEM) and the *United Nations High Commissioner for Refugees* (UNHCR) provided repatriation assistance to some 195,000 Hungarian refugees between 1956 and November 2, 1957. Some 3,000 Hungarians and 1,500 Soviet troops were killed during the crisis. The UN General Assembly condemned the Soviet Union on December 12, 1956. The Vatican condemned Soviet aggression against Hungary on December 23, 1956. The UN General Assembly established a five-member fact-finding mission (Australia, Ceylon, Denmark, Tunisia, Uruguay) headed by Alsing Andersen of Denmark on January 10, 1957. The UN fact-finding mission issued a report on June 20, 1957. 
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 337-338, 604-605; Clodfelter, 1992, 980; Donelan and Grieve, 1973, 130-134; *Keesing,* January 19-26, 1957; Langer, 1972, 1205-1207; *Survey of International Affairs *(SIA), 1934, 700.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

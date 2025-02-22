@@ -1,0 +1,63 @@
+FILE: cm100731v11.0.txt
+DYAD: COLOMBIA - N. KOREA
+RIVALRY: RIV272
+DISPUTE(S): MID51 
+
+
+PS-LAST-CHANGED: 20170720
+PS-LAST-CHECKED: 20170803
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID51 
+
+TERRMID: MID51 3 -- not territory
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID 
+TERRLINK-CER: MID51 1 -- certain
+TERRLINK-NOTES: MID51 from cm002710v11.0 narrative, this is the Korean War. The primary disputants were North and South Korea, and this was a territorial MID. UN forces fought with South Korea against North Korea and China. Colombia was a part of the UN forces, pulling it into this MID against North Korea. Coded third party link to territory because Colombia and North Korea experienced a MID here due to the Korean War, a territorial MID between North and South Korea.
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID51 1 -- civil war MID
+CIVWARMID-CER: MID51 1 -- certain
+CIVWARMID-NOTES: MID51 the Korean War also has a civil war element. Korea was divided along communist (North) vs nationalist (South) lines, and both proclaimed themselves to be the legitimate government of all of Korea. Coded civil war MID because the civil war involves North Korea, within this dyad. 
+
+CIVWARLINK: MID51 1 -- civil war link
+CIVWARLINK-CER: MID51 1 -- certain
+CIVWARLINK-NOTES: MID51 coded civil war link because the civil war element also involves South Korea, which is outside of this dyad. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+
+
+SOURCES-CM:
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+

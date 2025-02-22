@@ -1,0 +1,372 @@
+FILE: cm666670v11.0.txt
+DYAD: ISRAEL-SAUDI ARABIA
+RIVALRY: RIV1268
+DISPUTE(S): MID1013 MID1035 MID3170 MID1046 MID2961 MID3092 
+
+RIVNOTES: 
+
+PS: 19480514-19811109 0.00 19811110-20209999 0.25
+
+PS-UPDATE2020: This remains a lesser rivalry as differences over the Israeli-Palestinian issue, Saudi support of Hamas, and the failure to establish diplomatic relations. The two do share common interests in opposing Iran in several proxy conflicts in the ME, including Syria and Yemen. This might be a dyad with a relationship shift after 2020 pending further events.
+
+PSNOTES: For the period 19480514-19811109, the end date is based off of when MID3092 ended; therefore, for period 19811110-20069999, the begin date is changed from 19810807 to 19811110. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20220608
+PS-LAST-CHECKED: 20220608
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID1013
+
+TERRMID: MID1013 1 -- territorial MID
+TERRMID-CER: MID1013 1 -- certain 
+TERRMID-NOTES: MID1013 coded territorial MID because this was connected to Saudi Arabia denying Israel's right to exist, amounting to a territorial dispute on all of Israel's territory. 
+
+TERRLINK: MID1013 3 -- not third party link to territory 
+TERRLINK-CER: MID1013 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1013 1 -- maritime MID
+MARITMID-CER: MID1013 1 -- certain
+MARITMID-NOTES: MID1013 from Gibler 2018, in 1957 Saudi Arabia fired at Israeli ships in the Strait of Tiran. Israel denied violating Saudi's territory. From cm narrative, Saudi and Israel were in a rivalry at the time, centered on Saudi Arabia's denial of Israel's right to exist, and tensions from this issue contributed to this MID. Coded maritmie MID because by denying Israel's right to exist, Saudi disputed Israel's borders, including their maritime borders (Israel was occupying Sinai at the time). 
+
+ISLMID: MID1013 3 -- not islands 
+ISLMID-CER: MID1013 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1013 3 -- not civil war 
+CIVWARMID-CER: MID1013 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1013 3 -- not civil war link
+CIVWARLINK-CER: MID1013 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1013 3 -- not coup 
+COUPMID-CER: MID1013 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1013 3 -- not coup link
+COUPLINK-CER: MID1013 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1035
+
+TERRMID: MID1035 1 -- territorial MID
+TERRMID-CER: MID1035 1 -- certain 
+TERRMID-NOTES: MID1035 from Gibler 2018, this is the 6-day War between Israel and Iraq, Egypt, Syria, Jordan, Saudi Arabia, and Kuwait. In 1967, Israel attacked Egypt, having already attacked Jordan the year before and expecting that other Arab countries would soon attack Israel. Israel handily defeated the Arab states and took control of territory in Sinai, the Golan Heights, and elsewhere. Coded territorial MID because this is connected to a dispute over Israel's boundaries. 
+
+TERRLINK: MID1035 1 -- third party link to territorial MID
+TERRLINK-CER: MID1035 1 -- certain
+TERRLINK-NOTES: MID1035 in this dyad, the TERRMID is between Saudi Arabia and Israel, but this MID also involves a territorial MID between Egypt and Israel in the Sinai Peninsula and Syria and Israel in the Golan Heights, both outside this dyad. 
+
+MARITMID: MID1035 1 -- maritime MID
+MARITMID-CER: MID1035 1 -- certain
+MARITMID-NOTES: MID1035 coded maritime MID because Saudi Arabia disputed Israel's right to exist, and this war was therefore also connected to Israel's maritime borders. 
+
+ISLMID: MID1035 3 -- not islands 
+ISLMID-CER: MID1035 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1035 3 -- not civil war 
+CIVWARMID-CER: MID1035 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1035 3 -- not civil war link
+CIVWARLINK-CER: MID1035 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1035 3 -- not coup 
+COUPMID-CER: MID1035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1035 3 -- not coup link
+COUPLINK-CER: MID1035 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3170
+
+TERRMID: MID3170 1 -- territorial MID
+TERRMID-CER: MID3170 1 -- certain 
+TERRMID-NOTES: MID3170 coded territorial MID because this was connected to Saudi Arabia denying Israel's right to exist, amounting to a territorial dispute over all of Israel's territory. 
+
+TERRLINK: MID3170 3 -- not third party link to territory 
+TERRLINK-CER: MID3170 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3170 1 -- maritime MID
+MARITMID-CER: MID3170 1 -- certain
+MARITMID-NOTES: MID3170 from Gibler 2018 and cm narrative, Israel and Saudi were involved in a rivalry centered on Saudi disputing Israel's right to exist. In 1967, Israel was occupying the Sinai peninsula, and a Saudi patrol boat fired on an Israeli boat in the Gulf of Aqaba, off the coast of the Sinai. Israel dispatched a warship in response. Coded maritime MID because by denying Israel's right to exist, Saudi Arabia was disputing all of Israel's borders, including their maritime border in the Gulf of Aqaba. 
+
+ISLMID: MID3170 3 -- not islands 
+ISLMID-CER: MID3170 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3170 3 -- not civil war 
+CIVWARMID-CER: MID3170 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3170 3 -- not civil war link
+CIVWARLINK-CER: MID3170 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3170 3 -- not coup 
+COUPMID-CER: MID3170 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3170 3 -- not coup link
+COUPLINK-CER: MID3170 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1046
+
+TERRMID: MID1046 1 -- territorial MID
+TERRMID-CER: MID1046 1 -- certain 
+TERRMID-NOTES: MID1046 from Gibler 2018, this dispute between Israel and Egypt, Iraq, Syria, Jordan, and Saudi Arabia occurred in 1971-1973. Israel was occupying the Sinai peninsula. The Arab countries attacked Israel on Yom Kippur, but Israel was militarily superior. Israel occupied the Golan Heights and claimed it as a strategically valuable piece of territory. The fighting ceased by May 1974. Coded territorial MID because this was connected to Saudi Arabia disputing Israel's borders, including Israel's expansion of its borders. 
+
+TERRLINK: MID1046 1 -- third party link to territorial MID
+TERRLINK-CER: MID1046 1 -- certain
+TERRLINK-NOTES: MID1046 In addition to the territorial dispute in this dyad, the MID also involved a dispute over the Sinai and Golan Heights, outside this dyad. 
+
+MARITMID: MID1046 1 -- maritime MID
+MARITMID-CER: MID1046 1 -- certain
+MARITMID-NOTES: MID1046 Saudi Arabia disputed Israel's right to exist and therefore disputed Israel's claim on all its boundaries, including Israel's maritime borders. 
+
+ISLMID: MID1046 3 -- not islands 
+ISLMID-CER: MID1046 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1046 3 -- not civil war 
+CIVWARMID-CER: MID1046 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1046 3 -- not civil war link
+CIVWARLINK-CER: MID1046 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1046 3 -- not coup 
+COUPMID-CER: MID1046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1046 3 -- not coup link
+COUPLINK-CER: MID1046 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2961
+
+TERRMID: MID2961 3 -- not territory
+TERRMID-CER: MID2961 1 -- certain 
+TERRMID-NOTES: MID2961 from Gibler 2018, in 1976 a Saudi Arabian flight from Syria crossed into Israeli airspace and was seized by Israel. Israel released the crew days later. Coded not territory because per cm narrative, the Saudi plane was transporting mail and had nothing to do with advancing a territorial claim (or any aggression) against Israel. Israel did not dispute that the plane was transporting mail and did not claim it was an attack or act of aggression. 
+
+TERRLINK: MID2961 3 -- not third party link to territory 
+TERRLINK-CER: MID2961 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2961 3 -- not maritime 
+MARITMID-CER: MID2961 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2961 3 -- not islands 
+ISLMID-CER: MID2961 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2961 3 -- not civil war 
+CIVWARMID-CER: MID2961 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2961 3 -- not civil war link
+CIVWARLINK-CER: MID2961 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2961 3 -- not coup 
+COUPMID-CER: MID2961 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2961 3 -- not coup link
+COUPLINK-CER: MID2961 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3092
+
+TERRMID: MID3092 1 -- territorial MID
+TERRMID-CER: MID3092 1 -- certain 
+TERRMID-NOTES: MID3092 from Gibler 2018, in 1981 Israeli planes entered Saudi airspace and were chased off by Saudi planes. Per cm narrative and New York Times 11/10/1981, Israel had routinely been flying recon missions into Saudi Arabia to gather intelligence. The two states were rivals, and the only issue between them was Saudi Arabia's denial of Israel's right to exist, amounting to a dispute over all of Israel's territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3092 3 -- not third party link to territory 
+TERRLINK-CER: MID3092 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3092 1 -- maritime MID
+MARITMID-CER: MID3092 1 -- certain
+MARITMID-NOTES: MID3092 Saudi Arabia disputed Israel's right to exist and therefore disputed Israel's claim on all its boundaries, including Israel's maritime borders. 
+
+ISLMID: MID3092 3 -- not islands 
+ISLMID-CER: MID3092 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3092 3 -- not civil war 
+CIVWARMID-CER: MID3092 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3092 3 -- not civil war link
+CIVWARLINK-CER: MID3092 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3092 3 -- not coup 
+COUPMID-CER: MID3092 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3092 3 -- not coup link
+COUPLINK-CER: MID3092 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4509
+
+TERRMID: MID4509 3 -- not territory
+TERRMID-CER: MID4509 2 -- somewhat uncertain 
+TERRMID-NOTES: MID4509 from Gibler 2018, in 2002 Saudi Arabia fortified its border when Israel conducted air force exercises. Coded not territory because there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that Israel was perpetrating a show of force against Saudi Arabia (i.e., advancing its claim), but was rather conducting exercises. And Saudi Arabia's response of a border fortification was in response to Israeli exercises, not in advancement of a territorial claim. Coded somewhat uncertain because it is not entirely clear what motivates the exercises or response.
+
+TERRLINK: MID4509 3 -- not third party link to territory 
+TERRLINK-CER: MID4509 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4509 3 -- not maritime 
+MARITMID-CER: MID4509 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4509 3 -- not islands 
+ISLMID-CER: MID4509 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4509 3 -- not civil war 
+CIVWARMID-CER: MID4509 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4509 3 -- not civil war link
+CIVWARLINK-CER: MID4509 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4509 3 -- not coup 
+COUPMID-CER: MID4509 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4509 3 -- not coup link
+COUPLINK-CER: MID4509 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+MID4 2002-2010:
+
+MID4509
+rivalry=666670 nationa=SAUDI ARABIA nationb=ISRAEL MID4509 20020423-20020423 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Following Israeli air force training activities, Saudi Arabia moved additional troops to its shared border with Israel. First day of dispute was on 4/23/2002 and last day of dispute was on 4/23/2002.
+
+PART OF NARRATIVE IS LIKELY INCORRECT AS ISRAEL DOES NOT SHARE A LAND BORDER WITH SAUDI ARABIA
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The rivalry between Saudi Arabia and Israel is part of the larger Arab Israeli conflicts that have been ongoing since at least the Palestine War or the declaration of the state of Israel in 1948. Saudi Arabia has been a stalwart opponent of Israel since 1948 though in the last few decades of the 20th century it has modified its position. All of the MIDs between the two countries are motivated by this underlying tension. The Saudis participated in the 1948 war against Israel, the Six Day war and in the Yom Kippur War. It also had several mids as a result of the Suez crisis of 1956. This crisis left Israel in control of two islands at the mouth of the Red Sea in the Gulf of Aqaba. These islands were previously held by Saudi Arabia. Thus there is a territorial element to the rivalry as well. However, the territorial element in this case seems more symbolic of the reciprocal hatred between the Israelis and its surrounding Arab states.
+
+On January 10, 1954, King Saud said that the Arab states should sacrifice 10 million of their 50 million combined population to wipe out Israel. The Saudi approach to Israel has been one of enmity and conflict since Israel's independence.
+
+MID1013 occurred throughout most of 1957. In the Suez crisis of 1956, Israel took control of the islands Tiran and Sanafir at the mouth of the Gulf of Aqaba which opens up to the Red Sea and ultimately to the southern most point of Israeli territory at the port city of Elath. The Saudis claimed sovereignty over these islands. In January of 1957, the Israelis reported that the Saudis fired on an Israeli naval vessel passing through the straight. In March and April, the Saudis announced that they would not allow Israeli shipping to pass through the Gulf of Aqaba. Saudi Arabia controlled mainland territory around the islands and the Gulf. In the summer, the Saudis reported that Israeli war planes and ships performed reconnaissance missions near Saudi positions in the Gulf.
+
+MID1035 is the Six Day War. Low level conflict occurred between Israel and Syria and Jordan beginning in 1963. Egypt and Syria declared a state of emergency in mid May after Israel had massed troops on the Syrian border. Israeli military aircraft attacked air force bases in Iraq on June 5-6, 1967, resulting in the destruction of 17 Iraqi military aircraft.
+
+MID3170 occurred on January 15th, 1967. A Saudi Arabian patrol boat tried to intercept an Israeli fishing vessel passing through the Gulf of Aqaba. The fishing vessel was able to evade the Saudis. An Israeli war ship responded to distress calls but did not engage with the Saudi vessel.
+
+The events leading up to the Yom Kippur War of 1973 (MID1046) were motivated by Arab efforts to recover territory lost to the Israelis in the 1967 War. As a result of the 1967 War, Israel occupied the Sinai, the Golan Heights, and the West Bank Territories of Palestine. Saudi Arabia participated in the fighting against Israel.
+
+After the 1973 Yom Kippur War that ended on October 26, 1973, the relations between Israel and Saudi Arabia improved significantly. There are several factors associated with the normalization of relations between Saudi Arabia and Israel. One was Saudi ties to the US. The Saudis and the US strengthened their relationship during the 1970s. The Saudis needed US military equipment and training to ensure their security from revolutionary states in the region including Libya, Syria, Iraq, and Southern Yemen. The Saudis sought close military cooperation with the US. Faisal was assassinated by his nephew in 1975 and his half brother Khalid took power from 1975 until 1982. During his reign the Iranian Revolution took place in 1979. This influenced internal Islamic activism in Saudi Arabia. Also, the Soviet invasion of Afghanistan took place at the same time. This exaggerated Saudi fears of communism and provided a rationale for a close partnership with the United States. Another factor was that the Iran-Iraq war brought a bloody regional war to the Saudi border. This conflict was extremely threatening to Saudi Arabia especially as Iran criticized the Saudi-US relationship. Crown Prince Fahd became King following the death of Khalid in 1982.
+
+Two minor MIDs occurred in the second half of the 1970s and early 1980s. MID2961 occurred in April of 1976. This is a one day incident. The Israelis forced a Saudi C130 aircraft to land in Israel after it had flown into Israeli airspace. The Saudi plane had three US crewmen aboard the plane. The Saudis claimed that the plane was on a routine mail mission from Damascus to Riyadh. The Israelis did not deny that this was the case or contend that this was instead a reconnaissance mission.
+
+In his August 7, 1981 peace plan, King Fahd called for the right of every state in the Middle East to live in peace. This was widely interpreted to mean that Saudi Arabia was ready to recognize Israel when all the points of the Fahd Plan pertaining to the Palestinians had been implemented. Saudi Arabia, like all other Arab states except Egypt, has never recognized Israel. For Riyadh, such a step was unthinkable as long as the Palestinians continued to be denied their rights of national sovereignty. Nevertheless, Saudi Arabia accepted the reality of Israel's existence. When the United States organized a conference to initiate Arab-Israeli peace talks in the fall of 1991, Saudi Arabia declined to participate, but it did encourage Syria to take part.
+
+Israel also had distractions from what was seen as a relatively peripheral rivalry given the hostility of more proximate neighboring countries. In March of 1978, a major Palestinian guerrilla raid provoked an Israeli invasion of southern Lebanon. The Israelis created a `security zone' consisting of a several kilometer wide buffer between the Israeli-Lebanese border. Low level tension persisted in this area until Operation Peace for Galilee was launched in 1982. Here the Israelis launched a much larger offensive in which they pursued PLO forces to the outskirts of Beirut.
+
+MID3092 occurred on November 9th, 1981. During this period, Israel had been flying reconnaissance missions over several of its Arab neighbors. The Saudis reported that on 11/9/81, Israeli jets flew into Northern Saudi Arabia on one such reconnaissance mission. The Saudis protested this violation of their air space.
+
+The conflict between Israel and the Arab states is intimately connected with the Palestinians, although it has acquired distinct characteristics. 
+
+SOURCES-CR: Allcock et al, 1991, 325-362; Bercovitch and Jackson, 1997; Butterworth, 1976; New York Times, 1/12/1957, 4/11/1957, 5/29/1957, 1/15/1967, 11/10/1981; August 28, 1949; January 10, 1954; January 12, 1982; Associated Press March 25, 1988; August 1, 2000; February 25, 2002; April 23, 2002; September 25, 2006; Washington Post October 1, 1990; PR Newswire January 28, 1992; Deutsche Presse Agentur April 13, 1996; Xinhua October 6, 2000; Jerusalem Post March 7, 2006
+
+PS-NARRATIVE: 
+
+19811110-20159999 0.25
+
+The last MID of RIV1268, MID3092 occurred on November 9th, 1981. During this period, Israel had been flying reconnaissance missions over several of its Arab neighbors. The Saudis reported that on 11/9/81, Israeli jets flew into Northern Saudi Arabia on one such reconnaissance mission. The Saudis protested this violation of their air space.
+
+On January 11, 1982, Saudi Arabia ruled out recognition of Israel except with the agreement of all Arab nations and the Palestinians. A palace spokesman was quoted by the official Saudi press agency as saying that recognition of Israel and peace negotiations should be decided upon by all Arabs. He said Saudi Arabia ''does not accept any reference suggesting that Palestinians have to negotiate with or recognize Israel because no individual or group can speak for the Palestinians and because these issues of destiny must be decided by the Arab nation.'' The spokesman said his statement was in reply to wrong interpretations in the Arab and international press about Saudi Arabia's position on the Palestinians and on recognizing Israel. The previous week, Foreign Minister Prince Saud al-Faisal said in an interview that if Israel returned occupied Arab lands and recognized Palestinian rights, the kingdom would be prepared to ''accept it.''
+
+A high-ranking official indicated on March 28, 1988, that Israel might take action if the United States fails to deal with long-range Chinese missiles sold to Saudi Arabia. Other officials, however, denied that Israel was considering an attack on the Arab kingdom. "Israel has a tradition of not standing by quietly when there is a real threat against it," said Yossi Ben-Aharon, a senior aide to Prime Minister Yitzhak Shamir. "The question is if this is a threat or not. There are people to deal with it, the Cabinet, the government." Saudi Arabia recently acquired the CSS-2 missiles, which have a range of 2,200 miles, enough to strike anywhere in the Middle East. They also are capable of carrying nuclear warheads. Both the Chinese and the Saudis said the missiles won't be armed with such warheads, and Saudi Arabia has said it purchased the weapons to deter attacks on its territory during the Iran-Iraq war. But Israel radio reported that Saudi Arabia issued a warning through the United States that it would use any remaining missiles to strike at the Jewish state if Israel attempted a pre-emptive strike. Ben-Aharon said the issue should be left for U.S. officials, "who told us they are going to deal with the matter the best they can, both in China and in Saudi Arabia." The Washington Post quoted U.S. intelligence sources as saying the Israeli air force has been conducting unusually intensive low-lewel bombing practice. It said such runs could be preparation for a strike on Saudi Arabia, though there was no hard evidence to support that interpretation. The paper also noted that such exercises could help Israel prepare for raids on Palestinian targets in Lebanon. Shamir's spokesman, Avi Pazner, denied that Israel had made any threats. "We did take up our concern with the United States. But we never made any threat against Saudi Arabia," he said. Earlier reports of a similar Ben-Aharon statement sparked strong warnings from Egypt and Syria, and the U.S. State Department expressed concern. The Syrian government said Monday that "any aggression against the sister Saudi Arabian kingdom would obviously be an attack against Syria." Egypt's President Hosni Mubarak said he sent an urgent message to President Reagan asking him to "use his influence with Israel and urge it to stop threatening Arab states in such irresponsible way." Egypt is the only Arab country to have peace treaty with Israel. An Israeli official who demanded anonymity said Syria and Egypt were "overreacting to a report that has been denied." The official said Israel was going to mount a diplomatic campaign to "take the missiles out," but stressed that "we never made any threat to take them out militarily."
+
+Saudi Defense Minister Prince Sultan warned Israel on October 1, 1990, to stay out of the Persian Gulf crisis and said that if Israel and Saudi Arabia found themselves at war with Iraq, Saudi Arabia would fight in isolation and not allow Israel to come to its defense. "Israel must stay far away totally from the gulf problem," said Sultan. He was speaking to reporters during a tour of Saudi forces at this remote southern outpost on the edge of the barren Empty Quarter near the border with Yemen. "We will not allow Israel," the prince continued, "regardless how severe inter-Arab conflicts become, to defend us against Iraq or against anybody else-let it be very well known, and let it be very well understood." Sultan's remarks were viewed here as significant in part because they represent the first public comment by a senior Saudi official on the prospect that Saudi Arabia and Israel might find themselves at war against Iraq at the same time. Sultan also indicated that the Arab world and Iraqi President Saddam Hussein may never be reconciled after what the prince described as the pillaging of Kuwait and the terrorizing of its citizens. "The Iraqi people cannot be blamed, and the majority of the Iraqi army cannot be blamed," he said, "We know that when dictatorships disappear, so also do their deeds." Sultan said that if Saddam could withdraw his troops from territory seized from Iran, he could now do the same thing with Kuwait. "He put 1 million soldiers in Iran and then withdrew," Sultan said. "It would be an easy matter for him to withdraw from Kuwait-the distance is short. If he withdraws, he will stop the bloodshed, and it will be some sort of atonement to the Arabs and the Moslems." Sultan is the brother of King Fahd and second in line of succession after Crown Prince Abdullah. The minister's comments about Israel followed a number of recent reports speculating on how Israel might join in the fighting-or be forced to defend itself-if a general war breaks out in the Middle East over Iraq's occupation of Kuwait. Some U.S. officials have expressed concern in recent weeks that Saddam might try to divide the coalition now arrayed against Iraq by attacking Israel so as to transform the conflict into an Arab-Israeli war, in which Arab states aligned with Saudi Arabia would be forced to switch sides or remain neutral. Sultan called on the Bush administration to continue its supply of high-technology weapons to Saudi Arabia as a means of containing aggression by Iraq. "Withdrawal [from Kuwait] will not be achieved unless superior forces are available," Sultan said, adding that this means new U.S. arms sales to the kingdom and the indefinite stationing there of multinational forces. "There is no time limit," he said.
+
+On April 13, 1996, Saudi Arabia said it was "deeply concerned" about Israel's air raids on Lebanon which could lead to more instability and unrest in the region. Israel's raids on Lebanon was regarded as a violation of the sovereignty of Lebanon, a foreign ministry official was quoted as saying by the Saudi Press Agency (SPA). The Israeli actions were challenging international legitimacy. The U.N. Security Council resolution 425 had called on Israel unconditionally to withdrawal from Lebanese territories. The official said continuation of the raids could lead to more violence and unrest in the region during a time in which Saudi Arabia was looking forward to the establishment of a comprehensive and lasting peace in the whole Middle East. Saudi Arabia was standing beside Lebanon in its efforts to defend its territory and to restore the security of its citizens, the official said.
+
+King Fahd of Saudi Arabia told a U.S. envoy on August 1, 2000, that it is impossible to have peace in the Middle East if Israel does not leave all Arab lands it captured in 1967, particularly Jerusalem. U.S. Assistant Secretary of State Edward Walker is in Saudi Arabia, Washington's closest Arab ally, as part of a two-week tour that is expected to include 14 Middle East nations. It follows the collapse last week of the Israeli-Palestinian summit mediated by U.S. President Bill Clinton at Camp David. His dispatch to the region is designed to enlist support for the U.S. argument that the Palestinians need to make concessions in their talks with Israel. An official Saudi source speaking on condition of anonymity said Fahd, the Saudi monarch, asked Walker to inform the U.S. government that Jerusalem was at the heart of the Arab-Israeli conflict and that the east part of the city must become the capital of an independent Palestinian state. Saudi Arabia enjoys considerable weight in the Arab and Muslim worlds on account of its financial weight it is the world's largest oil exporter and producer and as the birthplace of Islam in the 7th century and home of the faith's holiest shrines in Mecca and Medina. Jerusalem is the home of Al-Aqsa mosque, Islam's third holiest shrine, which holds a special place to the Saudis and their rulers. The official Saudi Press Agency, meanwhile, said Walker handed King Fahd a message from U.S. President Bill Clinton during their meeting at the Red Sea port city of Jeddah, Saudi Arabia's commercial capital. The agency did not divulge the contents of the message, but an American source in the Saudi capital of Riyadh said that it dealt with U.S. efforts to reach a Middle East settlement. He did not elaborate. Hints from Clinton in an Israeli television interview over the weekend that he would reward Israel for its performance at the Camp David summit by moving the U.S. Embassy in Israel from Tel Aviv to west Jerusalem have angered the Arabs, including the Saudis. A statement by Saudi Information Minister Fouad al-Farsi said: ''Saudi Arabia renewed its stance for the return of Jerusalem to Arab sovereignty and its place as the capital of an independent Palestine.''
+
+Saudi Arabia reiterated on October 6, 2000, its condemnation to the severe Israeli "inhuman practices" against the Palestinian people. A statement issued by the Saudi Foreign Ministry said the Kingdom was very concerned about the developments of the situation and held the Israeli government responsible for the "inhuman practices" against the Palestinians. "These inhuman practices have provided a clear evidence that Israel does not respect the international law and the principles of the peace process in the Middle East region, a matter which undermines peace and security in this region", added the statement. The statement noted that the provocative visit paid by Israeli right-wing opposition Likud party leader Ariel Sharon to the Muslim holy site of the Al-Aqsa Mosque triggered the bloody clashes between the Israeli forces and Palestinians, which has continued for eight days, killing about 70 Palestinians and injuring nearly 2,000. The statement said the Saudi government called on the international community and the U.N. Security Council, particularly the United States to take all necessary measures in line with the U.N. convention and the concerning international treaties to stop the violent clashes. The statement concluded the Kingdom will continue its support to the Palestinian people for their efforts to obtain legitimate rights to return to their homeland and establish the independent state with Jerusalem as its capital.
+
+On February 25, 2002, the Israeli President Moshe Katsav made an informal offer for Saudi Arabia's Crown Prince Abdullah to come to Jerusalem and detail a peace proposal he recently raised. While such a development would be a major breakthrough in Mideast peacemaking, such a visit was seen as highly unlikely amid the ongoing turmoil in the region. Saudi Arabia has steadfastly refused to have any contact with Israel while its dispute with the Palestinians remains unresolved. Abdullah, who has effectively ruled the kingdom for the past several years, said last week in an interview that Saudi Arabia would be prepared to establish full diplomatic relations with Israel if it agreed to withdraw from the territory it captured during the 1967 Mideast war and has occupied for the past 35 years. Several other Arab states have welcomed Abdullah's comments, which he made to The New York Times during an interview in Saudi Arabia. Katsav said Abdullah's proposal has positive elements and is worth studying, but it would be better if the Crown Prince put it to the Israeli government in person. "I think it would be better if there were a meeting between the Saudi ruler and the prime minister of Israel, and then the initiative would acquire a major impetus," Katsav told reporters after visiting the family of an Israeli policeman who was killed last week. Katsav also added that he would be willing to visit Saudi Arabia if Abdullah did not visit Israel. However, Katsav has a mainly ceremonial role and the real power is in the hands of Prime Minister Ariel Sharon. When Katsav wanted to address the Palestinian parliament recently, Sharon blocked the plan. Sharon has not said what he thinks about Abdullah's comments. However, Cabinet Secretary Gideon Saar, who is close to Sharon, described the proposal as "a positive trend," but added "that doesn't mean we agree to withdraw to the borders of 1967. We wouldn't agree to that." Sharon was strongly opposed to a proposal made by his predecessor Ehud Barak, who offered the Palestinians a state more than 90 percent of the West Bank, plus the Gaza Strip and parts of east Jerusalem. The Palestinians rejected that offer during negotiations in the summer of 2000. Sharon is a leading supporter of the nearly 150 Jewish settlements in the West Bank the Gaza Strip and does not want to remove them. He also insists that peace negotiations will not be resumed until the current violence ends.
+
+Saudi Arabia has sent eight brigades to its border with Jordan after receiving intelligence reports that Israel was massing troops along the Jordanian border, Saudi officials said on April 23, 2002. In Israel, an army spokesman said Israel had not increased its troops along the border with Jordan. Some countries neighboring Israel have stepped up their military readiness in response to Israel's call-up of its reserves, a U.S. official in Washington has said recently. However, there was no sign of any offensive activities, according to the official. The eight brigades, compromising 8,000 soldiers equipped with armored personnel carriers and missile launchers, moved into the Tabuk region in northern Saudi Arabia, the officials said. They said Saudi intelligence reports showed that Israeli forces had amassed on Israel's southern border with Jordan. A 25-kilometer (15.5-mile) strip of Jordanian territory separates Israel from Saudi Arabia. Orders for the brigades to advance to the border were given last week, said the officials. The officials said the Saudi air force was instructed to intercept Israeli fighters that enter Saudi airspace and engage them only if the Israeli fighters didn't leave. Tabuk is about 1,500 kilometers (930 miles) northeast of the Saudi capital, Riyadh. Saudi Arabia, which does not recognize the state of Israel, proposed a peace plan in March that offers Arab recognition of Israel in exchange for a full retreat from war-won lands and the establishment of a Palestinian state. The massing of troops on the border coincides with a visit by Saudi Crown Prince Abdullah to the United States. He is due to meet U.S. President George Bush in Texas.
+
+Despite a promise made to Washington in November 2005 to drop its economic boycott of Israel, Saudi Arabia plans to host a major international conference in mid-March 2006 aimed at promoting a continued trade embargo on the Jewish state The Jerusalem Post has learned. The Post also found that the kingdom continues to prohibit entry to products made in Israel or to foreign-made goods containing Israeli components in violation of pledges made by senior Saudi officials to the Bush administration last year.
+
+Israeli Prime Minister Ehud Olmert held a groundbreaking, secret meeting 10 days ago with a senior Saudi Arabian official, the Israeli daily Yediot Ahronot reported on September 25, 2006. None of the anonymous Israel officials would say where the meeting was held, or report the exact content of the talks, the newspaper said. Generally speaking, the meeting focused on Iran's nuclear program and the need to achieve peace between Israel and the Palestinians, it said. Since Israel's war against Iranian-backed guerrillas in Lebanon ended last month, the leaders of Saudi Arabia, Egypt and Jordan have been saying now is the time for a new push in peacemaking to prevent future conflicts. "The prime minister was impressed by the moderate, positive stands that the Saudis expressed during the summer when Israel was fighting Hezbollah," the Israeli official told The AP. Saudi Arabia, which has no official diplomatic ties with Israel, has been trying to revive a sweeping regional peace initiative it presented in 2002. Israel rejected the plan at the time, but Olmert has indicated he might be more open to the Saudi program than was his predecessor, Ariel Sharon. A meeting between Olmert and a leading Saudi official would appear to represent the highest-level contacts ever between an Israeli leader and the Saudi royal house, the newspaper said. Yediot quoted some unidentified Israeli officials as saying that Olmert met with King Abdullah, and others who hinted the talks were with a senior official close to the king. Yediot first reported last week that the two countries had been holding secret talks since Israel's war against Hezbollah guerrillas in Lebanon erupted in July. Saudi Arabia agreed to high-level talks because, like Israel, it is troubled by Iran's nuclear ambitions, the newspaper said, without citing sources. The peace initiative Saudi Arabia is trying to resuscitate calls for a full Israeli withdrawal from lands captured in the 1967 Mideast war in exchange for normalization and relations with all Arab countries. Sharon rejected the Saudi program outright. But in an interview with Yediot last week, Olmert responded differently. "I am very impressed with different processes and statements that are connected to Saudi Arabia, some that have been stated publicly and others as well. I am very impressed with King Abdullah's wisdom and sense of responsibility," Olmert said. Asked if Israel was holding secret contacts with Saudi Arabia, Olmert replied: "I do not have to answer every question."
+
+The major issues of dispute between Israel and Saudi Arabia have not been settled. There is no peace treaty signed between the two countries and no diplomatic recognition of the other. In 2002 Saudi Arabia mobilized several battalions to its northern border to fend off a possible Israeli aggression. An Arab economic boycott of Israel continues to this day under the leadership of Saudi Arabia.
+
+PS-NARRATIVE: New York Times October 11, 1981; January 12, 1982; Associated Press March 25, 1988; August 1, 2000; February 25, 2002; April 23, 2002; September 25, 2006; Washington Post October 1, 1990; PR Newswire January 28, 1992; Deutsche Presse Agentur April 13, 1996; Xinhua October 6, 2000; Jerusalem Post March 7, 2006
+
+MARITIME-MIDS: 
+
+MID1013 MID3170 not considered maritime MIDs because they are about islands
+
+MARITIME-DISPUTE: MID1013
+ DYAD: ISRAEL SAUDI ARABIA 666670
+ DATES: 19570112 19571107
+ HOSTILITYA: 1 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Discussion:
+MID1013 occurred throughout most of 1957. In the Suez crisis of 1956, Israel took control of the islands Tiran and Sanafir at the mouth of the Gulf of Aqaba which opens up to the Red Sea and ultimately to the southern most point of Israeli territory at the port city of Elath. The Saudis claimed sovereignty over these islands. In January of 1957, the Israelis reported that the Saudis fired on an Israeli naval vessel passing through the straight. In March and April, the Saudis announced that they would not allow Israeli shipping to pass through the Gulf of Aqaba. Saudi Arabia controlled mainland territory around the islands and the Gulf. In the summer, the Saudis reported that Israeli war planes and ships performed reconnaissance missions near Saudi positions in the Gulf.
+
+MARITIME-DISPUTE: MID3170
+ DYAD: ISRAEL SAUDI ARABIA 666670
+ DATES: 19670115 19670115
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID3170 occurred on January 15th, 1967. A Saudi Arabian patrol boat tried to intercept an Israeli fishing vessel passing through the Gulf of Aqaba. The fishing vessel was able to evade the Saudis. An Israeli war ship responded to distress calls but did not engage with the Saudi vessel.
+
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times (1981). Israel Jets Chased, Saudis Say. New York Times November 10: A13.

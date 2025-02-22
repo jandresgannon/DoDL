@@ -1,0 +1,131 @@
+FILE: cm220230v11.0.txt
+DYAD: FRANCE-SPAIN
+RIVALRY: RIV525
+DISPUTE(S): MID366 MID89 
+RIVALRY: RIV526
+DISPUTE(S): MID2309 
+RIVALRY: RIV527
+DISPUTE(S): MID3810 MID3718 
+RIVALRY: RIV528
+DISPUTE(S): MID2541 
+
+PS: 19009999-19851231 0.5 19860101-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad 
+
+PS-LAST-CHANGED: 20220222
+PS-LAST-CHECKED: 20220222
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID366 MID89 
+
+WWII MIDs: MID258 MID3810 MID3718
+
+MID2309 
+
+TERRMID: MID2309 3 -- not territory 
+TERRMID-CER: MID2309 3 -- uncertain 
+TERRMID-NOTES: MID2309 from Gibler, Miller, and Little (2016), Spanish and French soldiers got into what the French and Spanish governments called a "drunken brawl," in which a few troops exchanged fire. Coded uncertain because GML recommend this case be dropped, as the governments did not protest and agreed that this was not recognized as an incident by either. 
+
+TERRLINK: MID2309 3 -- not third party link to territory 
+TERRLINK-CER: MID2309 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2309 3 -- not maritime 
+MARITMID-CER: MID2309 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2309 3 -- not islands 
+ISLMID-CER: MID2309 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2309 3 -- not civil war 
+CIVWARMID-CER: MID2309 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2309 3 -- not civil war link 
+CIVWARLINK-CER: MID2309 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2309 3 -- not coup 
+COUPMID-CER: MID2309 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2309 3 -- not coup link
+COUPLINK-CER: MID2309 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2541 
+
+TERRMID: MID2541 3 -- not territory 
+TERRMID-CER: MID2541 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2541 3 -- not third party link to territory 
+TERRLINK-CER: MID2541 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2541 3 -- not maritime 
+MARITMID-CER: MID2541 1 -- certain 
+MARITMID-NOTES: MID2541 from Gibler (2018), a French patrol boat attacked a Spanish trawler, and Spain protested. Coded not maritime because no boundary was disputed. 
+
+ISLMID: MID2541 3 -- not islands 
+ISLMID-CER: MID2541 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2541 3 -- not civil war 
+CIVWARMID-CER: MID2541 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2541 3 -- not civil war link 
+CIVWARLINK-CER: MID2541 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2541 3 -- not coup 
+COUPMID-CER: MID2541 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2541 3 -- not coup link
+COUPLINK-CER: MID2541 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+DISPUTE: MID2541 SPAIN SIDE B
+ NAME: 
+ DATES: 19840307 19840307
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: NO MILITARIZED ACTION FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.02
+
+DISPUTE: MID2541 FRANCE SIDE A
+ NAME: 
+ DATES: 19840307 19840307
+ ORIGINATOR: YES
+ REVISION1: POLICY REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.02
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

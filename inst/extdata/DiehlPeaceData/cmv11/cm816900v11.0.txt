@@ -1,0 +1,88 @@
+FILE: cm816900v11.0.txt
+DYAD: N. VIETNAM - AUSTRALIA
+RIVALRY: RIV1364
+DISPUTE(S): MID1353 MID611 
+
+PS-LAST-CHANGED: 20190521
+PS-LAST-CHECKED: 20190521
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1353
+
+TERRMID: MID1353 3 -- not territory
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: MID1353 is the extended Laotian civil war, which featured outside support for both communist and anti-communist factions in Laos. North Vietnam supported the Pathet Lao insurgency, and Australia, as part of its support of the US and South Vietnam during the Vietnam War, engaged in warfare against North Vietnamese troops and communist guerrillas in Laos supporting the North. Australia was engaged in direct warfare against N Vietnam in MID611 and this MID, MID1353, and this warfare was centered on territorial control (Doyle, Grey, and Pierce 2002). Coded not territorial because no territorial claim was occurring within this dyad, although Australia was linked to this dispute via its participation in the Vietnam War on the side of the US and S Vietnam, which also included fighting by Australians within this MID. 
+
+TERRLINK: MID1353 1 -- third party linked to territorial MID
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: MID1353 coded third party link because Australia was a war participant in the territorial MIDs of the Vietnam War and the Laotian Civil War. Australia engaged in warfare against N Vietnam in this MID inside of Laos. 
+
+MARITMID: MID1353 3 -- not maritime
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES: MID1353 is a multilateral MID centered on the Laotian civil war. Coded not civil war because there was not a civil war in this dyad. See CIVWARLINK in MID1353 for discussion of link to civil war. 
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 was the Laotian Civil War. Australia became involved in this MID when they fought alongside the US/S Vietnam, against N Vietnamese troops and communist guerrillas in Laos. Coded civil war link because the Laotian Civil War was not in this dyad but directly drove the warfare that this MID comprises. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+MID611
+
+TERRMID: MID611 3 -- not territorial MID
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: MID611 is the Vietnam War. Australia was in Vietnam as a South Vietnam/US ally from 1962 to 1970, participating in direct combat against North Vietnam and communist guerrillas supporting the North. Coded not territorial MID because Australia was not making a claim on territory. (Doyle, Grey, and Pierce 2002)
+
+TERRLINK: MID611 1 -- third party linked to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 coded third party because Australia was a direct participant in Vietnam war, and this war was a territorial dispute between N Vietnam and S Vietnam. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 1 -- civil war MID
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: MID611 coded civil war MID because the Vietnam War has a civil war element and North Vietnam is within this dyad. 
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 coded civil war link because the Vietnam War had a civil war element and South Vietnam is outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+"Australia's Vietnam War." 2002. Doyle, Jeff, Jeffrey Grey, and Peter Pierce. College Station: Texas A&M University Press.

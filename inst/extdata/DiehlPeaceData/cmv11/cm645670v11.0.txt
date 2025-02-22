@@ -1,0 +1,277 @@
+FILE: cm645670v11.0.txt
+DYAD: IRAQ-SAUDI ARABIA
+RIVALRY: RIV11229
+DISPUTE(S): MID122 MID1612 MID3957 MID3552 MID4273 
+
+PS: 19321003-19610630 0.25 19610701-20030319 0.00 20030320-20040727 -9 20040728-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID122
+
+TERRMID: MID122 3 -- not territory
+TERRMID-CER: MID122 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID122 1 -- third party link to territorial MID
+TERRLINK-CER: MID122 1 -- certain
+TERRLINK-NOTES: MID122 from Gibler 2018, Iraq claimed all of Kuwait as Iraq territory and threatened to annex it in 1961. In response, the Arab League admitted Kuwait as a member and formed a coalition to defend it from Iraqi invasion. As part of the Arab League, Saudi Arabia issued a threat to Iraq, warning them not to use force against Kuwait. Coded third party link to territorial MID because this was connected to Iraq's claim on all of Kuwait's territory. 
+
+MARITMID: MID122 3 -- not maritime 
+MARITMID-CER: MID122 1 -- certain
+MARITMID-NOTES: MID122 Because Iraq claimed all of Kuwait, this included a claim on Kuwait's maritime waters. Coded not maritime because the maritime dispute is not between Saudi Arabia and Iraq, but Saudi Arabia is linked to the maritime dispute between Iraq and Kuwait here. 
+
+ISLMID: MID122 3 -- not islands 
+ISLMID-CER: MID122 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID122 3 -- not civil war 
+CIVWARMID-CER: MID122 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID122 3 -- not civil war link
+CIVWARLINK-CER: MID122 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID122 3 -- not coup 
+COUPMID-CER: MID122 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID122 3 -- not coup link
+COUPLINK-CER: MID122 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1612 
+
+TERRMID: MID1612 3 -- not territory 
+TERRMID-CER: MID1612 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1612 1 -- third party link to territorial MID
+TERRLINK-CER: MID1612 1 -- certain 
+TERRLINK-NOTES: MID1612 from Gibler 2018, during the Shatt al-Arab waterway (an inland river boundary) dispute between Iraq and Iran, Kuwait allowed Iraqi troops to use Kuwaiti soil as a base. However, it soon became apparent that Iraq was using this as a pretense to invade and press its claim on the disputed territorial boundary with Kuwait. Kuwait built up troops on the border, and a border clash occurred. Saudi Arabia deployed troops to assist Kuwait in the fighting. Coded third party link to territorial MID because this was connected to the terriorial disputes between Iraq and Kuwait and Iraq and Iran. 
+
+MARITMID: MID1612 3 -- not maritime 
+MARITMID-CER: MID1612 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1612 3 -- not islands 
+ISLMID-CER: MID1612 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1612 3 -- not civil war 
+CIVWARMID-CER: MID1612 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1612 3 -- not civil war link 
+CIVWARLINK-CER: MID1612 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1612 3 -- not coup 
+COUPMID-CER: MID1612 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1612 3 -- not coup link
+COUPLINK-CER: MID1612 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Saudi Arabia, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Saudi Arabia became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3552
+
+TERRMID: MID3552 3 -- not territory
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain
+CIVWARMID-NOTES: MID3552 from Gibler 2018, in 1992-1993 Iraq violated the UN-sanctioned ceasefire agreement put in place to stop Saddam Hussein from attacking Shi'ites and Kurds. A no-fly zone was put into place and enforced by the US, UK, and France. Kuwait and Saudi Arabia allowed the planes of US, UK, and France to use their territory for bases. Coded civil war link because this is connected to Saddam Hussein attacking militarized rebels in Iraq. 
+
+CIVWARLINK: MID3552 3 -- not civil war link
+CIVWARLINK-CER: MID3552 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273
+
+TERRMID: MID4273 3 -- not territory
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain
+CIVWARMID-NOTES: MID4273 from cm narrative, this MID involves Iraq's refusal to comply with UN weapons inspectors and enforcement of the no-fly zone. Iraq expelled weapons inspectors and repeatedly violated the no-fly zone. The US and UK repeatedly threatened Iraq and eventually bombed them over a four day period. Saudi Arabia was part of a coalition of states that participated in a show of force to deter Iraq from further violations. Coded civil war MID because this MID involved violation and enforcement of the no-fly zone over Iraq. The no-fly zone was put in place to prevent Saddam Hussein from attacking militarized rebels in Kurdistan. 
+
+CIVWARLINK: MID4273 3 -- not civil war link
+CIVWARLINK-CER: MID4273 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4273
+rivalry=645670 nationa=SAUDI ARABIA nationb=IRAQ MID4273 20030222-20030318 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+Over the course of 2002, US and UK planes bombed various Iraqi defense systems placed either in or near the US-imposed no-fly zones. During this time Iraq deployed ground forces to its border towns in a preemptive move against future US aggression. Beginning in March 2003, the US began deploying additional land, naval, and air forces to the the Middle East in a clear show of force and build-up to a future invasion of Iraq. In March 2003, just prior to the US-led invasion, several Middle Eastern countries deployed small numbers of troops to Kuwait in a symbolic show of defense for the neighbor of Iraq, which had been the historical target of Iraqi aggression. Later in March 2003, a US-led coalition, seeking to oust the regime of Saddam Hussein and dismantle alleged Iraqi weapons of mass destruction, invaded Iraq and engaged in major combat operations, ultimately resulting in war, against the country that lasted until May 1, 2003. First day of dispute was on 2/22/2003 and last day of dispute was on 3/18/2003.
+
+MID3 1993-2001:
+
+NOTE THAT SAUDI ARABIA IS INVOLVED BRIEFLY AT TWO DIFFERENT TIMES IN THE SAME DISPUTE - MID4273. ONCE IS IN 2003 ABOVE AND ONCE IN 2000 BELOW
+
+MID3552
+rivalry=645670 nationa=SAUDI ARABIA nationb=IRAQ MID3552 19930701-19930704 
+ revtype1a=NOT APPLICABLE revtype2a=. fatala=NONE fatalpa=0 lhosta=NO MILITARIZED ACTION 
+ revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 7/1/1993 and last day of dispute was on 7/4/1993.
+
+MID4273
+rivalry=645670 nationa=SAUDI ARABIA nationb=IRAQ MID4273 20000904-20010824 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS
+fatalpb=. lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First day of dispute was on 9/4/2000 and last day of dispute was on 8/24/2001.
+
+RIVNOTES: 
+RIV11229 was formerly two separate rivalries (RIV1128 and RIV1229), but these were combined because all MIDs deal with Saudi Arabia's support of Kuwait in its territorial rivalry with Iraq.
+
+RIVALRY, RIV1228
+DATES: 19610701-19730408
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The rivalry between Iraq and Saudi Arabia is intimately connected to the Iraq-Kuwait rivalry. In the ongoing rivalry between Iraq and Kuwait, Saudi Arabia consistently supported the Kuwaiti position. Saudi Arabia supported Kuwait's claim to independence and full territorial sovereignty. The Saudis supported Kuwaiti claims of territorial sovereignty over two islands, Warba and Bubiyan that Iraq also claimed. The Saudis also supported Kuwait in the Gulf War. Thus the Iraq-Saudi Arabia rivalry is motivated by Saudi support for Kuwait in it long rivalry with Iraq. 
+
+On June 25, 1961 (MID122), six days after Kuwait had gained independence, the Iraqi Prime Minister, General Kassem, laid claim to all of Kuwait, arguing that the latter had been an integral part of Basra province under Ottoman rule and that Iraq had succeeded to Turkish territorial sovereignty over Basra with the dissolution of the Ottoman empire after World War I. Kuwait rejected the Iraqi arguments and requested military assistance in response to rumors that Iraq was moving troops southwards in the Basra area. Britain and Saudi Arabia arrived in Kuwait by early July 1961 and Kuwait mobilized its own forces. Efforts by the U.N. Security Council to defuse the crisis were unsuccessful and mediation was taken over by the Arab league. On August 12 the Arab league countries, Iraq alone dissenting, signed an agreement with Kuwait under which British forces were to be replaced by a force from the Arab League who pledged to preserve the territorial integrity of Kuwait against any aggression, to render the Sheikhdom immediate assistance if attacked. Iraq continued to iterate its claim to Kuwait and withdrew its representatives from all countries which had recognized that country.
+
+After this settlement, Iraq continued to raise the issue from time to time claiming certain parts of Kuwait's border territory. Iraq's interest in these territories lay particularly in improving its access to the Gulf through the acquisition of the islands of Warba and Bubiyan and the expansion of the port of Umm Qsar. In March 1973 (MID1612), Iraq, wanting to force the issue, occupied a border post in the disputed area, but were forced to withdraw when confronted by strong Arab opposition (including Saudi Arabia).
+
+There is a seventeen year period without a MID from 1973 until 1990. Despite this "lull" it seems that the underlying motivation for the rivalry remains the same. The issue in both periods is Saudi support for Kuwaiti resistance to Iraqi claims on Warba and Bubiyan or Iraqi claims that Kuwait was doing financial harm to Iraq in the period after the Iran-Iraq War. 
+
+The fact that Saudi Arabia is a secondary actor in the primary rivalry between Iraq and Kuwait however does muddy the waters somewhat in terms of whether this should be combined into one rivalry or remain as two. 
+
+Subsequent to MID1612 which ended on April 8, 1973, talks between Iraq and Kuwait on the border issues were stepped up. Other Arab countries offered their assistance in mediating the dispute. In May of 1975, Iraqi officials announced that they had made concrete proposals to settle the dispute. These involved essentially the leasing by Kuwait to Iraq of half of Bubiyan for 99 years and the ceding of Kuwaiti sovereignty over Warba in return for Iraqi recognition of Kuwait's land borders. The following month Saudi Arabian sources, quoting Kuwaiti new reports, said that the two countries had finally established the basis for an agreement on the territorial issues in dispute. However, in July of 1975, negotiation reached an impasse when the Kuwaiti National Assembly stressed Kuwait's sovereignty over all its territory. According to Kuwait Warba and Bubiyan belonged to Kuwait as defined in the 1932 exchange of letters and the 1963 agreement between Iraq and Kuwait. In 1978, a joint Iraqi Kuwaiti committee was formed to resolve outstanding issues. This committee did not achieve resolution to the dispute. Saudi Arabia and Kuwait along with other Gulf/Arab states supported Iraq's efforts in the Iran-Iraq War and thus Saudi relations with Iraq improved substantially during the 1980s. 
+
+The second set of disputes between Iraq and Saudi Arabia MID3957, MID3552, and MID4273 also is motivated by Saudi Arabia's support for Kuwait in the Iraq-Kuwait rivalry. Iraq was almost bankrupt after the Iran-Iraq War. This motivated financial disputes between Iraq and Kuwait. Iraq's first financial disagreement with Kuwait related to oil policy. Iraq objected to Kuwait's production beyond OPEC quotas and the consequent contribution that overproduction made to lowering oil prices internationally. Iraq also claimed Kuwait was siphoning oil from the shared Ar Rumaylah oil field straddling the Iraq-Kuwait border. During the Iran-Iraq War, Iraq ceased production from its side of the field while Kuwait continued operations. Kuwait asserted it had taken oil only from its own side of the field; Iraq claimed it had poached. Another financial disagreement with Kuwait concerned the estimated US$13 billion that Kuwait had lent Iraq during the Iran-Iraq War, a debt that Iraq wished Kuwait to forgive. Iraq claimed that it fought the war with Iran on behalf of all Arab states and as such the financial assistance it received from Kuwait and other Arab states should be seen as their contribution to the cause. 
+
+MID3957, the Persian Gulf War, started on August 2, 1990 with Iraq's invasion of Kuwait. The United Nations Security Council immediately passed Resolution 660 condemning the invasion. The Arab League, on August 3rd, also called for Iraq's immediate withdrawal. Iraq's refusal to comply resulted in a coalition of forces, including Saudi Arabia and use of its territory to launch an air and ground war starting in January of 1991, and ultimately led to Iraq being pushed out of Kuwait and accepting the terms of the UN resolution. 
+
+MID3552 and MID4273 revolve round Iraq's non-compliance with the terms of the post-war settlement, either refusing to allow weapons inspectors in to suspected weapons sights or with violations of the imposed `no-fly zone' and clashes with U.S. and British planes. For Saudi Arabia, MID4273, more specifically involves border incursions on May 23rd 2001 and August 24th 2001, in which one Saudi soldier was killed. 
+
+On August 26, 2002, voices in Saudi Arabia opposed to a possible U.S. led attack on Iraq are growing louder. The kingdom, which has been a key U.S. ally in the region, does not see justification for a war that some Saudi officials fear could spread throughout the Middle East. The head of Saudi Arabia's Middle East Center for Strategic and Legal Studies says Saudi Arabia adamantly opposes a possible U.S.-led invasion of Iraq. Anwar Eshki says this could have far reaching dangerous consequences in the future, and would only breed more conflicts in the region. He says, for this and other reasons, Riyadh does not, and will not support military action. Mr. Eshki says the kingdom is in agreement with Washington that Iraqi President Saddam Hussein must comply with U.N. resolutions, calling for the resumption of weapons inspections in Iraq, but wants this achieved through diplomacy. Saudi Arabia, Washington's chief ally in the Gulf, was the main staging area for U.S. forces during the 1991 Gulf war to oust Iraqi troops from Kuwait. There are currently about 5,000 American troops stationed in Saudi Arabia. The kingdom has rejected all requests from Washington to take part in any military action to topple Saddam Hussein. Most of the hijackers who carried out the September 11 attacks on the United States were Saudis. According to Egyptian-based political analyst Mohammad Kamal, that connection is causing Saudi Arabia to fear what President Bush calls a regime change in Iraq could lead Washington to seek the same in Saudi Arabia. "Some Saudi officials and some Saudi intellectuals are taking this idea of a regime change seriously," he said. "They think that there are some elements in the U.S. administration who believe that the September 11 attacks originated in the politics of some Arab countries, and on top of these countries is Saudi Arabia. So they feel that the U.S., by invading Iraq and changing the regime in Iraq, this will put pressure on Saudi Arabia to adopt a more pro-U.S. policy, or probably put more pressure on the regime to democratize, and they're not willing to do that at the moment." Saudi Arabia's stance against a possible U.S.-led invasion of Iraq, which has the backing of the Saudi public, has drawn praise from Baghdad. Last week, Iraq's vice president announced Iraq was ready to restore full diplomatic ties with Saudi Arabia when the kingdom decides the time is right. Saudi Arabia cut off diplomatic ties with Iraq following Iraq's invasion of Kuwait. Monday, Syrian President Bashar al-Assad arrived in Saudi Arabia for talks with Crown Prince Abdullah bin Abdul Aziz over the Iraqi situation. Syria has expressed support for Saudi Arabia's stance. No Arab country has expressed public support for an attack against Baghdad.
+
+On October 31, 2002, Saudi Arabia and Iraq reopened the border crossing of Arar, closed 12 years ago after the Iraqi invasion of Kuwait in 1990. Saudi sources said a 101-member Saudi business delegation were the first to cross the border to Iraq. The Saudi delegation, representing 43 companies, including government officials, will attend a major trade fair in Baghdad which opens on November 1, 2002. The reopening is expected to boost trade between Saudi Arabia and Iraq and is a sign that Baghdad is trying to improve relations with its Arab neighbors as it faces the threat of military attack by United States and Britain. Saudi newspapers said the Saudi delegation to Iraq includes the chairman of the Saudi Exports Centre, a member of the Consultative Council and the secretary-general of the Council of Saudi Chambers of Commerce. Iraqi Trade Minister Mohammed Mehdi Saleh said recently the move to open the border "will be a step toward upgrading trade ties between Iraq and Saudi Arabia". "Saudi Arabia's exports, now sent indirectly through neighboring countries will now go directly into Iraq when the crossing at Arar is reopened", said Saleh. The crossing, 340 km southwest of Baghdad, was a major conduit for goods in and out of Iraq before the 1991 Gulf War which ended with the seven-months occupation of Kuwait. Saudi newspapers have said that firms in the medical equipment, food processing, electrical and textiles sectors will send representatives to Baghdad's fair. Under United Nations sanctions, Iraq's trade is limited to goods sold under the oil-for-food program which allows Baghdad to import only basic commodities for the Iraqi people. Five years ago there was no trade between Saudi Arabia and Iraq, but trade is expected to reach one billion dollars this year. Saudi Arabia is opposed to a military attack on Iraq to change the regime in Baghdad. Riyadh has told Washington that it will only allow the use of its military bases to attack Iraq if the strike is approved by the U.N. In the 1991 Gulf War, Saudi Arabia was Washington's most important ally allowing U.S. military troops the use of military bases in the kingdom. 
+
+SOURCES-CR: 
+Allcock et al, 1992, 384-392, Facts on File; New York Times; Metz, 1993. 
+
+PS-NARRATIVE: 
+
+19321003-19610630 0.25
+
+Iraq became independent on October 3, 1932. The roots of the hostility between Iraq and Saudi Arabia go back to 1917, when the Al-Saud clan took control of the Arabian Peninsula, expelling the Hashemite family, descendants of the Prophet Mohammad, which had ruled the region for centuries. The British Government then installed a member of the Hashemite family as the first king of Iraq (King Faisal I). On October 1, 1949, Saudi Arabia showed strong displeasure with the proposed Iraqi-Syrian federation, on the basis of their dislike of the Hashemite Kingdom of Iraq. The Hashemite Dynasty was expelled from Saudi Arabia in the early 1920s, when the House of Saud took power. The resulting tension between the two countries has never fully subsided, despite the 1958 military coup which put a violent end to the Hashemite monarchy in Iraq. The two countries were also part of different defense axis during the 1950s and 1960s, with Iraq part of the Baghdad Pact and Saudi Arabia aligned mainly with Egypt. On May 11, 1957, the two kings of Saudi Arabia and Iraq held a meeting in Baghdad, about how to help Jordan, and to denounce Communism and Israel. On December 5, 1957 Iraq and Saudi Arabia have exchanged instruments of ratification for cultural, economic and trade agreements drawn up between the two countries. These agreements were exchanged at the end of a six-days state visit of King Faisal of Iraq to Saudi Arabia. On July 28, 1958, Saudi Arabia recognized the overthrow of the Iraqi Hashemite Dynasty and the new republican government. On June 25, 1961 (MID122), six days after Kuwait had gained independence, the Iraqi Prime Minister, General Kassem, laid claim to all of Kuwait, arguing that the latter had been an integral part of Basra province under Ottoman rule and that Iraq had succeeded to Turkish territorial sovereignty over Basra with the dissolution of the Ottoman empire after World War I. Kuwait rejected the Iraqi arguments and requested military assistance in response to rumors that Iraq was moving troops southwards in the Basra area. Britain and Saudi Arabia arrived in Kuwait by early July 1961 and Kuwait mobilized its own forces.
+
+20030320-20040727 Transition
+
+On March 20, 2003, US invaded Iraq and toppled Saddam Hussein's regime. The relations between Iraq and Saudi Arabia improved in the aftermath of that invasion. A junior Cabinet minister met members of Iraq's U.S. backed interim council when they arrived in Saudi Arabia on August 21, 2003 for a two-day-visit, the official Saudi news agency said. The delegation has been met by emirs, crown princes and prime ministers elsewhere in a tour of the Gulf in search of support and recognition from fellow Arabs. Thursday's welcome by Musaid Al-Eiban, a junior member without portfolio of the Saudi Council of Ministers, was low-key in comparison. It was not immediately clear what other meetings the Iraqis had scheduled in Saudi Arabia. Ibrahim al-Jaafari, who holds the Iraqi council's rotating presidency and leads the delegation told Saudi newspapers earlier that "the purpose of this visit to the kingdom is to reveal what is taking place on Iraq ground, clarify the role of the council, and underline the Iraqi Arab identity." Arabs were divided over the U.S.-led war that toppled Iraq's Saddam Hussein, and now are divided over how to treat the council working with U.S. occupiers to run post-Saddam Iraq. While most Arab governments publicly opposed the U.S.-led war on Iraq, Gulf countries in particular gave the invaders logistical help. Saudi Arabia had been quiet in the support it gave the U.S.-led invasion of Iraq, fearing a backlash by Islamic extremists among its citizens, Saudi Arabia had called the council "a constructive step" toward establishing a legitimate government for Iraq. Its envoy was part of an Arab League foreign ministers' committee that recently announced the league would not recognize the U.S.-appointed Iraqi council, saying Iraqis should elect their own leaders. Leading Arab states such as Egypt and Jordan, though, have said they would deal with the Iraqi council without recognizing it. On its Gulf tour, the council delegation has been granted audiences with emirs, crown princes, prime ministers and other high-ranking officials in the United Arab Emirates, Oman, Bahrain and Kuwait. Egyptian officials said earlier that a council delegation was due in Cairo for talks with senior Egyptian officials, including foreign minister Ahmed Maher.
+
+20040728-20159999 0.5
+
+Visiting Iraqi Prime Minister Iyad Allawi said on July 28, 2004, that his country and Saudi Arabia have agreed to reopen their embassies. The two neighbors have closed their embassies since the 1991 Gulf War against Iraq launched by US troops from Saudi soil. "We have agreed to open up embassies between Saudi Arabia and Iraq" from July 28, 2004, Allawi, on a visit to Saudi Arabia, told reporters. Saudi Foreign Minister Prince Saud Al Faisal confirmed the news, saying Saudi Arabia agreed with Iraq's interim government to resume bilateral diplomatic relations. Faisal made the confirmation following his meeting with Allawi in Jeddah earlier in the day, Dubai-based al-Arabiya satellite channel reported, adding the two sides discussed ways to promote bilateral relations and the latest developments in Iraq and Palestine. Former Iraqi leader Saddam Hussein invaded Kuwait in 1990, triggering the US-led Gulf War in 1991 to expel the Iraqi forces from Kuwait. Saudi Arabia was used as a launching pad for US forces, which stayed in the kingdom until last year.
+
+On December 2, 2006, Saudi Arabia denied it is ready to launch a "massive" intervention to help Iraq's minority Sunni Muslims against Iran-backed Shiite attacks if the US pulls out its troops. "What the Washington Post attributed to columnist Nawaf Obaid is groundless ... The writer does not represent any official side in Saudi Arabia," an official source told SPA news agency. "What he (Obaid) published represents only his personal view and does not reflect in any way the kingdom's policy and positions, which invariably uphold the security, unity and stability of Iraq with all its sects," he said. Writing in the Washington Post, Obaid, a security and energy adviser to the Saudi ambassador to the United States, said the withdrawal of US forces from Iraq could result in Sunni-dominated Saudi Arabia opening the gates to provide Iraq's Sunnis funds, arms and logistical support to counter Tehran's support for Iraqi Shiite fighters. Iraq's Shiite leaders expressed anger at the remarks. Prime Minister Nuri al-Maliki said he would "not countenance any language interfering in Iraq on the pretext of defending sects." Iraq's charge d'affaires in Riyadh, Mohammed Redha Obaid Jassem, hailed Saudi Arabia on Saturday for dissociating itself from Obaid's article. The oil-rich kingdom's "rejection of the ideas published by Obaid confirms Saudi Arabia's well-known stand, which is keen on preserving the security, stability, and unity of Iraq with all its political, sectarian and ethnic groups", Jassem told AFP. Obaid's Washington Post piece, which he said reflected his own views and not the Saudi government's, came just days after US Vice President Dick Cheney flew to Riyadh to consult with King Abdullah on Iraq. It also followed an official cabinet statement in which Riyadh implicitly expressed concern about the growing influence of Shiite Iran in Iraq. The cabinet warned against upsetting the "social balance" in the country-an apparent allusion to the perceived marginalization of the Sunni Arab former elite by the ruling Shiite majority amid a wave of tit-for-tat sectarian killings. A Riyadh-based Western diplomat said Saturday that Saudi Arabia was concerned about the impact that the sectarian fighting might have on Iraq's unity and made its concerns clear to Cheney when he visited the kingdom on November 25, 2006. But "although Saudi Arabia supports the Sunnis in Iraq, it is keen on maintaining good ties with Iraqi Shiite factions", the diplomat told AFP, requesting anonymity. He noted that Saudi Arabia hosted an October 20 meeting in the holy city of Mecca of Iraqi Sunni and Shiite religious leaders who outlawed the shedding of Muslim blood in Iraq.
+
+PS-SOURCES: State Department August 26, 2002; Deutsche Presse-Agentur October 31, 2002; Xinhua April 15, 2002; July 28, 2004; Associated Press August 31, 2001; August 21, 2003; BBC November 1, 2002; New York Times May 11, 1957; December 6, 1957; July 29, 1958; October 2, 1949; Agence France Presse December 2, 2006
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

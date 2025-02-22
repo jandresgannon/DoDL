@@ -1,0 +1,463 @@
+FILE: cm620651v11.0.txt
+DYAD: LIBYA-EGYPT
+RIVALRY: RIV1178
+DISPUTE(S): MID3175 MID3126 MID2743 MID3001 MID3118 MID3099 MID3098 MID3072 MID3051 MID3620 
+
+PS: 19511224-19740724 0.5 19740725-19851202 0.00 19851203-19890528 0.25 19890529-20150215 0.50 20150216-20209999 0.25
+
+PS-UPDATE2020: Egypt has become increasingly involved in Libya's civil war, supporting General Haftar, who controlled the eastern province of Libya, first against Islamic rebels there and then more explicitly against the UN-backed government in Tripoli. Egypt's involvement deepended along with its support of Haftar when Turkey provided material support for the Tripoli government, under threat and attack from Haftar in 2019-2020. We date the shift to a lesser rivalry to the timing of the first Egyptian airstrikes on 20150216.
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220320
+PS-LAST-CHECKED: 20220320
+
+RIVNOTES: We could find no evidence that Egypt directly or indirectly intervened in the Libyan civil war. After the fall of Quadaffi, there has been tension between the two sides over each's inability to control the flow of militants and arms across the border, but there is no indication that either government supports the extremist groups in the the other country.
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3175
+
+TERRMID: MID3175 3 -- not territory
+TERRMID-CER: MID3175 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3175 3 -- not third party link to territory 
+TERRLINK-CER: MID3175 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3175 3 -- not maritime 
+MARITMID-CER: MID3175 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3175 3 -- not islands 
+ISLMID-CER: MID3175 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3175 1 -- civil war MID
+CIVWARMID-CER: MID3175 1 -- certain
+CIVWARMID-NOTES: MID3175 from Gibler 2018, in 1975 Egypt arrested members of a militarized rebel group supported by Libya who were intent on destabilizing Egypt. Libya closed its border with Egypt in response. Coded civil war MID because this was connected to militarized rebels in Egypt. 
+
+CIVWARLINK: MID3175 3 -- not civil war link
+CIVWARLINK-CER: MID3175 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3175 3 -- not coup 
+COUPMID-CER: MID3175 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3175 3 -- not coup link
+COUPLINK-CER: MID3175 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3126
+
+TERRMID: MID3126 3 -- not territory
+TERRMID-CER: MID3126 1 -- certain 
+TERRMID-NOTES: MID3126 from Gibler 2018, in 1977 Egypt and Libya considered uniting into one country. However, each was concerned about certain policies of the other. Egypt was concerned about Libya's arms acquisition from the Soviets, and Libya was concerned about Egypt's pro-Western stance and its peace talks with Israel. Libya attacked Egyptian border outposts, and Egypt retaliated. The dispute was eventually mediated. The dispute itself seems triggered over Soviet installations in Libya that Egypt believes Libya used to gather intelligence about the Egyptians. Nonetheless, Egypt quickly linked it to other issues (NYT 7/26/77 and WaPo 7/28/1977). Coded not territory because these states were not actively disputing a border; the MID focused more on Cold War tensions.
+
+TERRLINK: MID3126 3 -- not third party link to territory 
+TERRLINK-CER: MID3126 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3126 3 -- not maritime 
+MARITMID-CER: MID3126 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3126 3 -- not islands 
+ISLMID-CER: MID3126 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3126 2 -- somewhat civil war 
+CIVWARMID-CER: MID3126 1 -- certain
+CIVWARMID-NOTES: MID3126 From NYT 7/26/77 and WaPo 7/28/1977, during negotiations, Egypt reportedly demanded that Libya cease its support of (a) training camps used for subversive purposes against the Egyptian regime, (b) political parties and "religious fanatics," some of which have attacked the Egyptian regime, and (c) general "agitation' in Egypt, Sudan, and Chad." Although this issue did not trigger the MID, the disputants did link events of the MID to this issue. Coded somewhat civil war because civil conflict issues played a peripheral role in this MID.
+
+CIVWARLINK: MID3126 3 -- not civil war link
+CIVWARLINK-CER: MID3126 1 -- certain
+CIVWARLINK-NOTES: MID3126 Although Egypt tries to link its demands to Libya's subversive actions in other states (e.g., Chad and Sudan), the language is imprecise (see CIVWARMID). In contrast, Egypt made much more specific demands about Libyan support for those engaging in terrorism against the Egyptian regime and the training camps that assisted these groups. This imprecision leads us to code this as not civil war link here. 
+
+COUPMID: MID3126 3 -- not coup 
+COUPMID-CER: MID3126 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3126 3 -- not coup link
+COUPLINK-CER: MID3126 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2743
+
+TERRMID: MID2743 3 -- not territory
+TERRMID-CER: MID2743 1 -- certain 
+TERRMID-NOTES: MID2743 from Gibler 2018, Egypt used military maneuvers as a show of force against Libya after feeling threatened by a possible Libyan invasion. Tensions were high due to Egypt's peace talks with Israel. Coded not territory because these states are not disputing their border/territory. 
+
+TERRLINK: MID2743 1 -- third party link to territorial MID
+TERRLINK-CER: MID2743 1 -- certain
+TERRLINK-NOTES: MID2743 From NYT 8/9/1978 The tension with Israel seems to be a primary factor motivating this MID. The NYT goes so far as to say that the US government believed the military maneuvers were a foil to prepare for military action in the Sinai against Israel. Whether that is true, the Egyptian-Israeli peace talks were dividing the Arab world, increasing frictions with a handful of other Arab states, including Liba here. Coded third party link to territorial MID because the Egypt-Israeli dispute over the Sinai plays a large role in the events of this MID.
+
+MARITMID: MID2743 3 -- not maritime 
+MARITMID-CER: MID2743 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2743 3 -- not islands 
+ISLMID-CER: MID2743 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2743 3 -- not civil war 
+CIVWARMID-CER: MID2743 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2743 3 -- not civil war link
+CIVWARLINK-CER: MID2743 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2743 3 -- not coup 
+COUPMID-CER: MID2743 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2743 3 -- not coup link
+COUPLINK-CER: MID2743 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3001
+
+TERRMID: MID3001 3 -- not territory
+TERRMID-CER: MID3001 1 -- certain 
+TERRMID-NOTES: MID3001 from Gibler 2018, after Egypt reached a peace agreement with Israel, many Arab states were angered and Libya and Egypt both moved troops to their border. Coded not territory because these states are not disputing their border/territory. 
+
+TERRLINK: MID3001 1 -- third party link to territorial MID
+TERRLINK-CER: MID3001 1 -- certain
+TERRLINK-NOTES: MID3001 From Gibler 2018 and AC 3/30/1979 This MID results from the tension produced among Arab states after Egypt signs the peace accord with Israel. Coded third party link to territorial MID because the Egypt-Israeli dispute over the Sinai plays a large role in the events of this MID.
+
+MARITMID: MID3001 3 -- not maritime 
+MARITMID-CER: MID3001 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3001 3 -- not islands 
+ISLMID-CER: MID3001 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3001 3 -- not civil war 
+CIVWARMID-CER: MID3001 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3001 3 -- not civil war link
+CIVWARLINK-CER: MID3001 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3001 3 -- not coup 
+COUPMID-CER: MID3001 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3001 3 -- not coup link
+COUPLINK-CER: MID3001 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3118
+
+TERRMID: MID3118 3 -- not territory
+TERRMID-CER: MID3118 1 -- certain 
+TERRMID-NOTES: MID3118 from Gibler 2018, in 1980, Egypt and Libya were still feuding in the aftermath of Egypt's peace agreement with Israel. Libya began building a wall along its border with Egypt, and Egypt deployed troops to the border in response. Coded not territory because these states are not disputing their border/territory. 
+
+TERRLINK: MID3118 1 -- third party link to territorial MID 
+TERRLINK-CER: MID3118 1 -- certain
+TERRLINK-NOTES: MID3118 This MID results from the tension produced among Arab states after Egypt signs the peace accord with Israel. Coded third party link to territorial MID because the Egypt-Israeli dispute over the Sinai plays a large role in the events of this MID.
+
+MARITMID: MID3118 3 -- not maritime 
+MARITMID-CER: MID3118 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3118 3 -- not islands 
+ISLMID-CER: MID3118 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3118 3 -- not civil war 
+CIVWARMID-CER: MID3118 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3118 3 -- not civil war link
+CIVWARLINK-CER: MID3118 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3118 3 -- not coup 
+COUPMID-CER: MID3118 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3118 3 -- not coup link
+COUPLINK-CER: MID3118 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3099
+
+TERRMID: MID3099 3 -- not territory
+TERRMID-CER: MID3099 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3099 3 -- not third party link to territory 
+TERRLINK-CER: MID3099 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3099 3 -- not maritime 
+MARITMID-CER: MID3099 1 -- certain
+MARITMID-NOTES: MID3099 from Gibler 2018, in 1981 the US held military exercises in the Gulf of Sidra--in waters that it recognized as international, but Libya claimed as its territorial waters. A minor clash between the US and Libya occurred. Egypt held military exercises on land the next day, pulling them into this MID. Coded not maritime because Libya and Egypt did not dispute a maritime boundary (Egypt did not claim the waters); nonetheless, this dispute would be linked to a maritime dispute between US and Libya. This MID is linked to US-Libyan tensions generally, as well as the US desire to reassert itself in the region.
+
+ISLMID: MID3099 3 -- not islands 
+ISLMID-CER: MID3099 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3099 3 -- not civil war 
+CIVWARMID-CER: MID3099 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3099 3 -- not civil war link
+CIVWARLINK-CER: MID3099 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3099 3 -- not coup 
+COUPMID-CER: MID3099 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3099 3 -- not coup link
+COUPLINK-CER: MID3099 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3098
+
+TERRMID: MID3098 3 -- not territory
+TERRMID-CER: MID3098 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3098 3 -- not third party link to territory 
+TERRLINK-CER: MID3098 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3098 3 -- not maritime 
+MARITMID-CER: MID3098 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3098 3 -- not islands 
+ISLMID-CER: MID3098 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3098 3 -- not civil war 
+CIVWARMID-CER: MID3098 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3098 1 -- civil war link
+CIVWARLINK-CER: MID3098 3 -- uncertain
+CIVWARLINK-NOTES: MID3098 from Gibler 2018, in 1981 Libya conducted a series of raids into Sudan, in which Libya attacked Chadian rebels on Sudanese territory. Coded civil war link because this was connected to militarized rebels in Sudan, outside this dyad. Coded uncertain because Gibler 2018 does not recognize Egypt as a party to this dispute. 
+
+COUPMID: MID3098 3 -- not coup 
+COUPMID-CER: MID3098 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3098 3 -- not coup link
+COUPLINK-CER: MID3098 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3072
+
+TERRMID: MID3072 3 -- not territory
+TERRMID-CER: MID3072 1 -- certain 
+TERRMID-NOTES: MID3072 from Gibler 2018, Libya moved Soviet-made planes to its border with Sudan, and Egypt (as Sudan's ally) objected. Egypt requested US-made planes for support, and the US obliged. The dispute did not escalate. Coded not territory because the states in this dyad were not disputing a boundary. Gibler (2018) posits that the MID may stem from Libya's desire to remove the Sudanese president, which would make the issue about the Sudanese regime (outside this dyad).
+
+TERRLINK: MID3072 3 -- not third party link to territory 
+TERRLINK-CER: MID3072 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3072 3 -- not maritime 
+MARITMID-CER: MID3072 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3072 3 -- not islands 
+ISLMID-CER: MID3072 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3072 3 -- not civil war 
+CIVWARMID-CER: MID3072 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3072 3 -- not civil war link
+CIVWARLINK-CER: MID3072 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3072 3 -- not coup 
+COUPMID-CER: MID3072 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3072 3 -- not coup link
+COUPLINK-CER: MID3072 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3051
+
+TERRMID: MID3051 3 -- not territory
+TERRMID-CER: MID3051 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3051 3 -- not third party link to territory 
+TERRLINK-CER: MID3051 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3051 3 -- not maritime 
+MARITMID-CER: MID3051 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3051 3 -- not islands 
+ISLMID-CER: MID3051 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3051 3 -- not civil war 
+CIVWARMID-CER: MID3051 1 -- certain
+CIVWARMID-NOTES: MID3051 there is no indication that the militarized rebels were fighting inside Libya. A New York Times and LexisNexis search of all news stories mention "Libya" and "rebels"/"guerillas" returned no stories mentioning that rebels were fighting inside Libya. 
+
+CIVWARLINK: MID3051 1 -- civil war link
+CIVWARLINK-CER: MID3051 1 -- certain
+CIVWARLINK-NOTES: MID3051 from Gibler 2018, Libya threatened war against Sudan and Ethiopia to coerce them into policing rebels within their borders who were targeting Libya. Libya attacked a Sudanese city and Egypt deployed troops to the border to protect against conflict spreading into its borders. Coded civil war link because this was connected to militarized rebel activity in Sudan and Ethiopia, outside this dyad. 
+
+COUPMID: MID3051 3 -- not coup 
+COUPMID-CER: MID3051 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3051 3 -- not coup link
+COUPLINK-CER: MID3051 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3620
+
+TERRMID: MID3620 3 -- not territory
+TERRMID-CER: MID3620 1 -- certain 
+TERRMID-NOTES: MID3620 from Gibler 2018, in 1985 Libya threatened Egypt and any other states that allied with the US in the Cold War. Tensions escalated, and Egypt and Libya built up troops on their border. Egypt conducted military maneuvers. Coded not territory because they were not disputing territory. 
+
+TERRLINK: MID3620 3 -- not third party link to territory 
+TERRLINK-CER: MID3620 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3620 3 -- not maritime 
+MARITMID-CER: MID3620 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3620 3 -- not islands 
+ISLMID-CER: MID3620 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3620 3 -- not civil war 
+CIVWARMID-CER: MID3620 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3620 3 -- not civil war link
+CIVWARLINK-CER: MID3620 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3620 3 -- not coup 
+COUPMID-CER: MID3620 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3620 3 -- not coup link
+COUPLINK-CER: MID3620 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Libya on July 25, 1974, assailed Egypt for 'serving American and Zionist interests' and tightens customs checks on Egyptians arriving in Libya. Egypt retaliates by suspending all shipments to Libya. Libyans also warn that both Egyptian and Jordanian Governments can be overthrown quickly by militant Arabs. Cairo press reported that Egyptian ships in Libyan ports have been allowed to dock for limited periods and that strict customs checks have gone into effect on all arriving Egyptian passengers. Egyptian Deputy Premier and Interior Minister Mamdouh Salem protested to Libyan officials and later halted all shipments to Libya. On April 18, 1975, an Egyptian communique says Libya has threatened to break diplomatic relations with Egypt in protest over recent remarks by Egyptian Pres Sadat about Libyan leader Qaddafi. The communique says that Egypt rejected Libyan protest because of its unacceptably offensive language. Egyptian newspapers reported that Libya threatened to take actions against Egyptians working in Libya. Confrontation between Sadat and Qaddafi began in March when Tripoli radio and Libyan press agency attacked Sadat and his wife as '20th century Caesar and Cleopatra' exploiting Egypt for personal gain and challenged Sadat to 'tell his people where he has hidden the money we gave him'. Sadat retorted that Qaddafi is '100% sick and possessed by the devil'. 
+
+Egypt banned tourist travel to Libya on June 18, 1975. Egyptian police arrested 30 individuals trained in Libya for subversive activities in Cairo on July 8, 1975. Libya banned the entry of Egyptians into Libya on August 10, 1975. Egypt and Libya agreed to a cessation of the crisis on October 12, 1975. Egyptian police arrested 20 Libyans for subversive activities in Egypt on March 7, 1976. Libya retaliated by expelling some 21,600 Egyptian from the country on March 9-18, 1976. Prime Minister Mamduh Salim of Egypt accused Libya of involvement in an Egytian airliner hijacking on August 23, 1976. Libyans demonstrated against the Egyptian government in Tripoli and Sirte on April 13-18, 1977. Egypt referred the matter to the *League of Arab States* (LAS) secretariat on April 16, 1977, and Libya sent a protest note to the LAS secretariat on April 17, 1977. Egypt executed two Libyans for committing acts of sabotage on April 20, 1977. Togo facilitated negotiations between the Egyptian and Libyan foreign ministers on July 7-8, 1977. Libyan troops attacked Egyptian positions on the border on July 19, 1977, resulting in the deaths of nine Egyptian soldiers. Egyptian troops attacked several Libyan military bases beginning on July 21, 1977. Egypt announced a unilateral ceasefire on July 24, 1977. Yasser Arafat of the *Palestinian Liberation Organization* (PLO), Foreign Minister Sabah Ahmed of Kuwait, President Houari Boumedienne of Algeria, and LAS Secretary-General Mahmoud Riad attempted to mediate negotiations between the countries on July 21-24, 1977. Yasser Arafat of the PLO mediated negotiations between the countries in Sollum, Egypt on August 28, 1977. Egyptian troops and Libyan troops withdrew from the border region on September 10, 1977. Some 27 Libyan soldiers, three Soviet military advisors, and 50 Egyptian soldiers were killed during the conflict. Egypt and Libya resumed air flights on October 9, 1977. On November 19, 1977, Libya severed diplomatic relations with Egypt after President Anwar Sadat of Egypt visited Israel. Libya condemned Egypt for its policies regarding Israel on December 5, 1977, and Egypt responded by severing diplomatic relations with Libya. On June 16, 1980, Egypt declared a state-of-emergency after Libya urged a *Jihad* (holy war) against the Egyptian government. President Hosni Mubarek of Egypt accused Libya of involvement in the mining of the Bab el Mandab strait in the southern Red Sea on August 13, 1984. Egypt closed its border with Libya on November 24, 1985.
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1977-1978; *Africa Research Bulletin *(ARB), March 1-31, 1976, July 1-31, 1977, August 1-31, 1977, June 1-30, 1980; Brecher and Wilkenfeld, 1997, 452-453, 457-458; Brogan, 1992, 45-52; Clodfelter, 1992, 1007-1008; *Facts on File*, July 30, 1977; Jessup, 1998, 426-430; *Keesing*, April 9, 1976, January 1985; *Middle East Journal *(MEJ), Winter 1976, Winter 1977; Tillema, 1991, 140-141; Weisburd, 1997, 278-280.
+
+NARRATIVE-CR:
+The rivalry between Egypt and Libya seems to be one of several rivalries that revolved around Col. Qaddafi's interest in undermining any regime that he saw as pro-Western. Egypt in particular was a target because of its negotiations and peace agreement with Israel in 1979. In his effort to undermine the regime in Egypt as well as to expand his territory eastward, several disputes occurred over an 8-year period.
+
+Egypt banned tourist travel to Libya on June 18, 1975. Egyptian police arrested 30 individuals trained in Libya for subversive activities in Cairo on July 8, 1975. Libya banned the entry of Egyptians into Libya on August 10, 1975. Egypt and Libya agreed to a cessation of the crisis on October 12, 1975. This was MID3175.
+
+Egyptian police arrested 20 Libyans for subversive activities in Egypt on March 7, 1976. Libya retaliated by expelling some 21,600 Egyptian from the country on March 9-18, 1976. Prime Minister Mamduh Salim of Egypt accused Libya of involvement in an Egytian airliner hijacking on August 23, 1976. 
+
+Libyans demonstrated against the Egyptian government in Tripoli and Sirte on April 13-18, 1977. Egypt executed two Libyans for committing acts of sabotage on April 20, 1977. Libyan troops attacked Egyptian positions on the border on July 19, 1977, resulting in the deaths of nine Egyptian soldiers. Egyptian troops attacked several Libyan military bases beginning on July 21, 1977. Egypt claimed to have repelled a major air and ground attack by Libyan forces. Libya lost 40 tanks and two planes in the fight. This was MID3126, and the goal was for Libya to claim territory along Egypt's western border. On July 22, Egypt bombed Libyan air bases in Libya. Egypt announced a unilateral ceasefire on July 24, 1977. Egyptian troops and Libyan troops withdrew from the border region on September 10, 1977. Some 27 Libyan soldiers, three Soviet military advisors, and 50 Egyptian soldiers were killed during the conflict, designated MID3126. Egypt and Libya resumed air flights on October 9, 1977. 
+
+On November 19, 1977, Libya severed diplomatic relations with Egypt after President Anwar Sadat of Egypt visited Israel. Libya condemned Egypt for its policies regarding Israel on December 5, 1977, and Egypt responded by severing diplomatic relations with Libya. 
+
+In August 1978, Egypt placed its military on high alert and stepped up war games in preparation for a Libyan offensive. Tensions were escalating as Libya was angered by Egypt's willingness to negotiate with Israel. This was MID2743.
+
+The Sudanese government survived another coup attempt sponsored by Libya in 1979. Egypt requested assistance from the United States. In response, the United States sent 12 F-5 planes to Sudan for protection. This is MID3001.
+
+On June 16, 1980, Egypt declared a state-of-emergency after Libya urged a *Jihad* (holy war) against the Egyptian government. On September 11, 1980, Syria and Libya signed an agreement declaring that the two countries had become one state. The goal was to strengthen the Arab unity against those like Egypt who would deal with Israel. The tensions in 1980 make up MID3118.
+
+On August 20, 1981 F-14 fighters from the US sixth fleet shot down two Libyan MiG jets over the Gulf of Sidra. The maneuvers were meant to send a message to Libyan leader, Col. Qaddafi that his claim on the area was not legitimate and that his continued hindrance of free movement in the area, which also affected Egypt, would not be tolerated. This was MID3099.
+
+Sudan proposed expelling Libya from the *League of Arab States* (LAS) on March 24, 1981 after Libya's military intervention in Chad. President Numaryi called for neighboring countries to "overthrow or kill" Colonel Qaddafi on March 31, 1981. Sudan order the Libyan ambassador and diplomatic staff to leave the country on June 25, 1981. On October 2, President Sadat of Egypt sent an envoy to the United States to request military assistance for Sudan. Major-General Umar Mohammed al Tayib, vice-president of Sudan, accused Libya of subversion on October 4, 1981. Sudan claimed that in the latter part of 1981, Libyan forces and planes were raiding Sudanese border towns along the Chad-Sudan border as part of Libya's incursion into Chad. These air raids are designated MID3098.
+
+The United States deployed four AWACS (airborne warning and control system) surveillance aircraft in Egypt in support of Sudan on February 17-23, 1983. This was MID3072.
+
+The US and Egypt accused Libya of planning to overthrow the Sudanese government. Libyan military aircraft bombed a radio station in Omdurman, Sudan on March 14, 1984, resulting in the deaths of five individuals. The US deployed two AWACS surveillance aircraft in Egypt in support of Sudan on March 18, 1984. This was MID3051. 
+
+President Hosni Mubarek of Egypt accused Libya of involvement in the mining of the Bab el Mandab strait in the southern Red Sea on August 13, 1984. Egypt closed its border with Libya on November 24, 1985. There are no MIDs listed after 1983. While Col. Qaddafi has remained in power, perhaps the assassination of President Sadat of Egypt in 1981 eliminated some of the tensions as he was the individual to have signed the agreement with Israel. This may be the reason for the termination of the rivalry.
+
+SOURCES-CR: 
+Brecher and Wilkenfeld, 1997; Brogan, 1992; Clodfelter, 1992; Jessup, 1998; New York Times, July 21 1977, July 22 1977, August 8 1978, September 11 1980, November 30 1980, August 20 1981, August 21 1981, October 1 1981, October 2 1981, February 21 1983; Tillema, 1991; Weisburd, 1997.
+
+PS-NARRATIVE:
+
+19511224-19740724 0.5 
+
+Egypt became independent on February 28, 1922. Libya became independent on December 24, 1951. On September 23, 1962, Egypt and Libya signed a one year trade and payments agreement. It provides also for a Libyan-Egyptian Navigation Company, financed by joint capital. On December 28, 1969, Egypt, Libya and Sudan announced agreement for regular meetings every 4 months to coordinate action against Israel in the military, political and economic fields. This follows the 3-day talks in Tripoli between Nasser, al-Nimeiry and Al-Qaddafi. On April 17, 1971, Egyptian President Anwar al-Sadat announced a union against Israel, formed by Libya, Syria, Sudan and Egypt. The Union, according to Sadat, will have one president, one flag, one army and one federal capital. Libyan leader Col M el-Qaddafi on July 23, 1973, said that he is withdrawing his resignation and that he will stay on as Libya's head of state until union with Egypt is carried out. He said that if the union is established on principles he advocates, he will remain in leadership of the united country, and if not, he will resign again. He says he will go to work for immediate fulfillment of planned merger with Egypt, scheduled for Sept 1, 1973. He said that Libyan-Egyptian union is as good as established. Hours earlier, Egyptian President Anwar Sadat declared that union with Libya would be carried out in stages. He said that Egypt has learned from experience that emotion is not solid foundation for Arab unity, referring to Egypt's merger with Syria in '58, which broke up in '61. Qaddafi offered a sharp criticism of conditions in Egypt and says country is in great need of 'cultural revolution'. He said that such revolution would make Egyptians fighting people, who could fight Israelis. Sadat said that all differences between Arabs should be set aside and contradictions among Arab Governments eliminated so that all might face common enemy, Israel. Libya is apparently seeking closer ties with USSR in their joint opposition to Egyptian Pres Sadat. Libyan leader Col Qaddafi has announced that Premier Abdul Salam Jalloud will go to USSR for official visit on May 14, 1974. Trip appears to signal important change in attitude by Libya which has been highly critical of Soviet influence in Arab world. Libya seems ready to join USSR in common cause against Egyptian policy of relying heavily on US for economic and even military support while seeking political settlement with Israel. 
+
+Libya on July 25, 1974, assailed Egypt for 'serving American and Zionist interests' and tightens customs checks on Egyptians arriving in Libya. Egypt retaliates by suspending all shipments to Libya. Libyans also warn that both Egyptian and Jordanian Governments can be overthrown quickly by militant Arabs. The first MID of RIV1178, MID3178 started on August 4, 1975. 
+
+19851203-19890528 0.25
+
+The last MID of RIV1178, MID3620 ended on December 2, 1985. Following the 1977 Libyan-Egyptian War, relations were suspended for twelve years. Egypt said on January 5, 1986, that it has no intention of launching any military action against Libya because it opposes all kinds of terrorism. Asked if Egypt was prepared to cooperate with the United States in a retaliatory strike against Libya, Defense Minister Field Marshal Abdel-Halim Abu-Ghazala said: ''I cannot answer any question based on 'if.' If you can assure me (the United States will attack Libya), I can answer.'' In the meantime, he said, ''We have no intention to do anything military against any of our neighbors. We are against any kind of terrorism.'' Egypt massed troops along its border with Libya after the November 23, 1985, hijacking of an Egyptian jetliner to the Mediterranean island nation of Malta, in which 60 people died when Egyptian commandoes stormed the plane. Egypt blamed the hijacking at the time on Libya and a Palestinian faction led by Abu Nidal. Both also are suspected of organizing the December 27, 1986, terrorist attacks at Rome and Vienna airports, in which 19 people, including five Americans, were killed. Israel and the United States have protested Libya's alleged involvement in the attack and U.S. warships have moved within striking distance of Libya. Despite the Egyptian troop buildup after the EgyptAir hijacking, President Hosni Mubarak said at the time that Egypt was not prepared to wage war against Libya ''because you cannot punish an entire people for the actions of one man,'' apparently referring to Libyan leader Col. Moammar Khadafy.
+
+On April 28, 1986, Lt-Col Abd al-Fattah Yunis, an officer of the Libyan revolution, requested that Egypt supply Libya with large quantities of Eastern or Western-made weapons, including submarines, various types of missiles, armored cars and other hardware. The amounts have not been specified. The second demand called for Egypt to provide some of these weapons as a gift, with the rest being paid for at a date which was not set. The third demand was for President Mubarak to telephone Qadhafi to inform him that Egypt approved Libya's conditions. Egypt's answer was negative in any case, as it has reasons and demands of its own. As late as November 1988, Libya stated that it would not resume diplomatic relations with Egypt as long as Egypt had relations with Israel. 
+
+19890529-20159999 0.5 
+
+However, since 1989 relations have steadily improved. With the progressive lifting of UN and US sanctions on Libya from 2003-2008, the two countries have been working together to jointly develop their oil and natural gas industries.
+
+The Egyptian-Libyan border reopened on May 29, 1989, for the first time in a dozen years, and the invective that marked past relations between the two has stopped. Egypt cancelled its military exercise scheduled in early June 1989 in its western desert bordering on Libya and greatly reduced its troops deployed there since 1977. However, in October 1989 Gaddafi visited Egypt for the first time in sixteen years. Libya will resume diplomatic relations with Egypt in 1989 and an Egyptian delegation has gone to Tripoli to pave the way for the restoration of the relations. A delegation of Egypt's foreign and labor ministries went to Tripoli the previous week to make preparations for the reopening of the Egyptian embassy there, a member of the delegation said before leaving for Libya. Libya and Egypt had been at loggerheads for a dozen years. But the hard ice dividing them began to thaw following the "historic hug" between Libyan leader Muammer Gaddafi and Egyptian president Hosni Mubarak at the Casablanca extraordinary Arab summit in May 1989. In March 1990, Hosni Mubarak and President Hafez al-Assad of Syria met with Gaddafi in Libya. By the end of 1990, relations between Libya and Egypt were excellent. 
+
+On March 29, 1991, Libyan Leader Moammar Gadhafi, a staunch advocate of Arab unity, declared an open border with Egypt and said Egyptians and Libyans are free to move from one country to the other. Gadhafi made the remarks at Musaad, near Libya's Mediterranean city of Tobruk and Egyptian border area, to mark the 21th anniversary of the evacuation of British troops from Tobruk. His remarks were broadcast by Tripoli radio. But an Egyptian offical said Libyans will still need visas to enter Egypt. Using a bulldozer, Gadhafi destroyed a gate built 20 years ago by the British near the Egyptian border and a visa check point, declaring the border with Egypt, his strong neighbor to the east, ''no longer existed, '' the radio station reported. Gadhafi said the British built the gate to keep the two North African Arab neighbors apart. ''Gadhafi destroyed with a bulldozer the symbolic gate built by colonialism between the sons of the Arab people in Egypt and Libya and trampled with his feet the gate that had been a symbol of separation,'' Tripoli radio reported. ''Today, we brethren mark the 21st anniversary of the expulsion of the British troops that used to occupy this site,'' Gadhafi said. ''As we celebrate this anniversary today, we want to address ourselves to the real meaning of evacuation, the evacuation of foreign troops and end of foreign control,'' Gadhafi said. ''It means that our will shall be free, that and our will is free and the decision lies in our hands,'' he said. ''In order that evacuation may have its real meaning and that we may feel free and that our will is independent, we declare today the removal of the artificial border between Egypt and Libya-between the one people and the one land: no border after today between Egypt and Libya, no customs, no duties and no permission for anyone, no customs between Tripoli and Cairo ...,'' Gadhafi said. ''This is your land and you are free over this land. So move on this land freely and defend it until death,'' he said. Gadhaf's remarks are another sign of improvement in bilateral relations after years of estrangement but an Egyptian official said Libyans will not be permitted to enter Egypt without a visa issued at the land check point at the Mediterranean town of Salloum, near the Libyan border. In statements distributed by Egypt's Middle East News Agency, Col. Tiyfour Bastami, head of Salloum's Visa Section partly said: ''The fact that removing the visa check point at Musaad in Libya would not affect the visa section activity at Salloum as a visa is issued in about three minutes only for Libyans or Egyptians.'' The news agency said Gadhafi ordered removal of the gate and visa site at Musaad because the Libyan authorities had two months ago introduced measures obstructing the flow of trade business between the two countries. At one point, Egypt lost millions of dollars worth of vegetables and fruits that went bad on account of the Libyan restrictions. Egypt and Libya resumed full diplomatic ties earlier in the year when they officially exchanged ambassadors. Libya and Egypt broke off relations in December 1977 following several border skirmishes that summer. Relations between President Hosni Mubarak and Gadhafi began to improve in 1990 and both Arab leaders now exchange visits regularly. When relations were tense between the two countries, Gadhafi proposed a peaceful march of Libyans to proceed him to Egypt in what was described then as his ''green march.'' Mubarak immediately warned he would not tolerate it.
+
+In March 1991, Egyptian officials urged the U.S. government to review its hard-line policy towards Libya. In November 1991, while on a visit to Egypt for talks with President Hosni Mubarak, Qaddafi denied charges that his country was involved in the 1988 bombing of Pan Am Flight 103. On April 18, 1992 Egypt announced that it regretfully accepted United Nations sanctions against Libya. 
+
+On May 5 1992, Muhammad al-Hijazi, secretary of the Libyan General People's Committee for integration with Egypt, has stated that Libya has already fulfilled its share of the barter deal recently signed with Egypt. Hijazi added that the Egyptian side had confirmed that it had shipped the operational machinery needed for Libyan industrial firms in accordance with the terms of the relevant contracts and letters of credit. The two sides had also agreed to export products of the Misratah iron and steel mill to the Egyptian market. Concerning industrial integration between Egypt and Libya, Hijazi added that a joint technical committee from the two countries would meet before the end of April in Cairo to coordinate industrial development plans. He noted that Libya had invited the Egyptian side to take part in setting up a car project in Libya. Egypt and Libya had agreed to form a joint committee for developing and integrating light industries in the two countries and to exchange specialized expertise in all fields of industry, he added. Hijazi pointed out that Egypt had agreed to extend technical advice for an aluminum casting project to be implemented in Libya. On trade between Egypt and Libya, Hijazi pointed out that there is increasing progress in trade and commodity exchange between the two countries. He noted that licenses granted for imports from Egypt during the fiscal year 1991-92 amounted to 18.7m dollars. He noted in this respect the emphasis placed on the need to tighten control on commodities and for goods to conform to technical and health specifications to maintain product standards and protect consumers' rights in both countries. The Libyan official added that agricultural development projects amounting to 220m dollars had been concluded between the two countries. The joint committee for settlement of Egyptians in Libya had held several meetings and had paid field visits to the work sites, he added.
+
+Fresh political differences between Libya and Egypt appeared in 1995. Qaddafi criticized Egyptian efforts to promote economic relations between Israel and its Arab neighbors, and said that Egypt was not doing enough to support removal of sanctions against Libya. In the second half of 1995 Libya again expelled Egyptian workers, and also began expelling 30,000 Palestinian workers in retaliation for the P.L.O. making peace with Israel. 
+
+Egypt refused permission on April 18, 1995 for Libyan aircraft with Moslem pilgrims on board to fly over its territory, aviation officials said in Cairo. Libyan aviation authorities earlier in the month registered a flight from Tripoli and another from Bengasi to Saudi Arabia. Egypt then informed the Libyans that their aircraft could only enter Egyptian airspace with special permission from the United Nations, the officials said. A United Nations air embargo has been in effect against Libya for the past three years. Especially Britain and the United States are trying to force Libya to extradite two Libyans suspected of planting a bomb on board the PanAm aircraft that exploded over the Scottish town of Lockerbie in 1988 claiming the lives of 270 people. Libyan leader Moamer Gaddafi announced this year that thousands of pilgrims would fly directly to Mecca from Libya and threatened revenge should the aircraft be intercepted. Libyan radio reported Tuesday that "thousands of Libyans and other Arab pilgrims" were determined to fly to Mecca for the pilgrimage starting in May. "This is a Holy Land and nobody can block our path," the radio quoted a pilgrim as saying. Egypt and Saudi Arabia are currently trying to obtain special permits from the United Nations in New York for Libyan aircraft with pilgrims on board. 
+
+Libya and Egypt were reported on October 9, 1995, to have moved their border lines forward to allow Libyan leader Moamer Gaddafi a graceful retreat from a shaping confrontation over Palestinians deported from Libya. The 300-metre readjustment on each side of the border allowed hundreds of Palestinians stranded in no-man's-land to be technically reincorporated into Libyan territory, according to officials at the U.N. High Commission for Refugees in Cairo. UNHCR representative Panos Moumtziz, who has just returned from a visit to the border area, said that U.N. relief was no longer required because Libyan authorities were "providing very generously" for the needs of the stranded Palestinians. Gaddafi announced last month that the 30,000 Palestinians working in his country had voluntarily decided to go to the autonomous Palestinian territories-many of them via Egypt-to demonstrate that current Arab-Israeli peace agreements neglect the rights of Palestinian refugees in the Arab countries. Egypt turned back Palestinians who have no valid papers to enter the autonomous territories. This prompted Gaddafi to deliver a firebrand speech last Wednesday near the border amid reports that he was preparing to deport the one million Egyptians working in Libya. Egypt's Foreign Minister Amr Mussa said after meeting Gaddafi at a border tent that "positive developments" were expected. He denied reports that Egypt was massing troops in the border area. 
+
+Egyptian and Libyan officials issued a statement on October 31, 1995, in Cairo that could ease the labor crisis between the two North African nations. The joint statement issued after three days of talks said both sides have agreed to ease the movement of travelers and goods between the countries, mainly via the border crossing at Salloum. But it did not specifically address Libya's announced intention to expel up to 1 million foreign workers, particularly Palestinians, Egyptians and Sudanese. The Libyans pledged to consider Egypt's request to provide Egyptian workers in Libya who lack employment papers a chance to gain proper contracts and permits in the oil nation. The statement stressed the importance of exempting Libyan nationals from the need to obtain residence permits in Egypt and easing their dealings with Egypt's government institutions. It also emphasized the need to secure the rights and benefits of Egyptian workers in Libya. Thousands of Egyptians are trying to claim unpaid salaries and other benefits from Libyan public and private employers. But the statement did not mention more than 300 Egyptians that Libya has expelled since the middle of October, in addition to thousands of Palestinians and other workers sent out of the country since Libya's leader, Col. Moammar Gadhafi, announced his expulsion policy this summer. Libya, with an estimated 4.9 million residents, is said to have 1.2 million guest workers, of whom 900,000 are Egyptians. Egyptians and other Arab nationals had been able to enter Libya simply by showing identity documents, with no need for passports bearing entry visas, so many jobless Egyptians ventured into the oil nation seeking jobs. Libya began expelling Palestinians and other workers just before Israel and the Palestine Liberation Organization signed their second accord to expand the Palestinian Authority's self-rule beyond the Gaza Strip and Jericho to most of the West Bank. Gadhafi has said the expulsions were meant to highlight the inadequacies of the accords, which do not address the issue of dispersed Palestinians returning from around the world. The expulsions are also thought to be linked with the Libyan government's growing problems with Muslim extremists seeking theocratic rule, mainstream foes of Gadhafi and an economy hurt by a U.S.-led embargo that is based on accusations of Libyan ties with international terrorism.
+
+On April 6, 1996, Egypt confirmed that its consulate in Benghazi, Libya, had been attacked by unidentified gunmen but declined to say whether the incident was linked to a controversy over Libya's alleged construction of a chemical weapons complex. "What happened was published in today's papers," Egypt's Foreign Minister Amr Mussa told journalists, referring to reports that two Libyan guards and one of the assailants had been killed in the attack. He declined to elaborate. Most Egyptian newspapers said that the assault was the work of Moslem extremists who have begun to challenge Libyan Colonel Moamer Gaddafi's government. But the opposition Cairo daily al Ahrar quoted observers as linking this "blatant terrorist attack" with accusations against Libya made in Egypt earlier in the week by U.S. Defence Secretary William Perry. Perry said that he had briefed Egypt's President Hosny Mubarak on evidence that Libya was building a huge underground chemical weapons plant at Tarhuna which could be a threat to Egypt's national security. Perry also said that he could not confirm or rule out the possibility of military action to knock out the facility before its scheduled completion in about a year's time. But he said the United States would exhaust peaceful means before resorting to any use of force. Mussa, who was reported to have undertaken an unannounced trip to Libya after Perry's visit, said that Egypt advocated "quiet diplomacy to reach a settlement and solve these problems". He added that Egypt "does not have any proof of the seriousness of the American accusation against Libya" nor "evidence to indicate the existence" of a chemical weapons plant. Libya says the underground works at Tarhuna are part of its "Great Manmade River" subterranean water exploitation scheme. But Gaddafi has stated that the Arabs have a right to acquire chemical weapons because of Israel's reputed possession of nuclear weapons. Mussa dismissed reported Israeli protests over recent Egyptian statements critical of Israel's nuclear weapons policies. "Our position on this is unchanging," he said. Several Arab countries including Egypt, Libya and Syria refused to accede to a 1994 international ban on chemical weapons. They say they will not do so until Israel joins the Nuclear Non-Proliferation Treaty. 
+
+Libyan leader Col. Moammar Kadhafi leaves Tripoli on June 1, 1998, for Cairo on a three-day visit to Egypt. While in the Egyptian capital, Kadhafi is to co-chair a session of the Egypt-Libya Joint Cooperation Commission with President Hosni Mubarak. There has been an upward trend in cooperation between Egypt and Libya since the two neighboring countries resumed diplomatic relations in 1989. Relations were broken off after Cairo signed a peace agreement with Tel Aviv.
+
+According to Libyan industry minister Muftah Azzouz, the volume of Libyan investment in Egypt exceeds 400 million U.S. dollars. In 1997, the two countries signed eleven cooperation agreements in various areas, he added, noting that in the past six years, Libya had invested in Egypt's lands, tourism and industry sectors. During Kadhafi's visit, seven new agreements are to be signed to further bolster the volume of bilateral trade, which currently stands at 130 million dollars. Meanwhile, the Union of Egyptian Industry announced last week that Egypt, Libya and Tunisia had signed an agreement for the establishment of a plant to manufacture cars and electric appliances. The complex's capital is set at 600 million dollars.
+
+The Libyan leader, Col. Moammar Kadhafi, is expected in Egypt on September 20, 1999, for a summit meeting with President Hosni Mubarak, an official said. The official, who asked for anonymity, told PANA that the two leaders are to review bilateral relations, especially the resumption of flights between their countries by Libyan Arab Airlines and Egyptair. They will also discuss the outcome of the 4th OAU extraordinary summit held 7-9 September in Syrte, 450 km east of Tripoli, as well as mediation efforts by Libya and Egypt for reconciliation in Sudan. Both leaders are currently mediating between the government in Khartoum and opposition groups in northern and southern Sudan. Kadhafi visited the north-western Egyptian town of Marsa Matrouh August and held talks with Mubarak on efforts by Tripoli and Cairo toward reconciliation in Sudan. Mubarak cancelled plans to attend the OAU summit following an attempt on his life in Port-Said, north of the Suez Canal. He was slightly wounded in the hand in the incident.
+
+Despite these tensions and U.S. pressure to further isolate Libya, Egypt maintained contact. In July 1998 Mubarak flew to Libya to meet with Muammar Gaddafi, who was recovering from a hip operation. In July 2000, both Libya and Egypt agreed to work with the Atlanta-based Carter Center to help mediate between Sudan and Uganda over accusations about support for rebel movements in these countries. 
+
+Egypt and Libya have formed a dollars 100 million company to pipe oil to Egypt and gas to Libya, the Egyptian General Petroleum Corporation said on August 4, 2001. Egypt's General Authority for Investment has given the go-ahead to the company, the Arab Company for Oil and Gas Pipelines or Al-Tayoub, corporation spokesman Hamdi Abdel-Aziz told Dow Jones Newswires. Abdel-Aziz said 50 percent of Al-Tayoub is owned by Libya's National Oil Corporation. The remainder belongs to the state-owned EGPC and its affiliates Egyptian Natural Gas Company and Petrojet. The deal took Egypt and Libya five years to negotiate. The company is working out the route for a 620-kilometer (384 miles) pipeline between the Libyan port of Tobruk and the Egyptian port of Alexandria, Abdel-Aziz said. It is not yet known when the pipeline will be completed. About dollars 20 million will be spent on the first stage of the pipeline, which is expected to transport 150,000 barrels a day of Libyan crude to Egyptian oil refineries. Libya currently exports about 1.3 million barrels of oil per day, while Egypt daily produces about 800,000 barrels of oil and consumes about 570,000 barrels, according to the latest U.S. Department of Energy report on Egypt and Libya. Egypt has proven oil reserves of about 2.9 billion barrels, but declining oil production could make it a net oil importer by 2010, the report said. Abdel-Aziz said the Egyptian and Libyan partners were discussing ways to market Egyptian gas in Libya and other countries. 
+
+On 16 August, 2003, Egypt and Libya stressed their wish to up joint investments and remove all obstacles impeding cooperation. This came in a meeting held by Muhammad al-Ghamrawi, chief of the General Authority for Investment and Free Zones (GAFI), and members of the Libyan trade delegation currently on a visit to Egypt to participate in the third session of the committee on facilitating trade exchange between Egypt and Libya, within preparations for the joint higher committee meetings. Al-Ghamrawi said Libya is taking part in 96 projects operating in Egypt with issued capital of LE Egyptian pounds 4bn with investment costs up to LE 6bn. The Libyan investors also take part in six projects operating by the free zone system with combined capital of 13m dollars, in which Libyan contributions reach 8m dollars.
+
+A dispute flared up in January 2004 over Egyptian press criticism of Libya's refusal to stop efforts to develop weapons of mass destruction, leading to travel restrictions between the countries. The row was short-lived, and after high-level diplomatic meetings relations quickly returned to normal and the restrictions were lifted. Both Egypt and Libya benefit from 350,000 Egyptians who work in Libya. Libyans wanting to visit Egypt must now obtain entry visas, according to Egyptian officials who said on January 10, 2004, that Libya had imposed the same condition on Egyptian travelers. However, there was confusion on the application of the demand for visas. While border crossing officials said visas were now mandatory, Cairo airport officials said they had received no such instructions. Egyptian newspapers on Saturday gave heavy coverage to what they called a change of policy by Libya. Al-Gomhuriya said 1,500 Egyptians had been turned back at the border town of Salum, adding that Egypt had denied entry to about 2,000 Libyans. Police officials at Salum, speaking on condition of anonymity, confirmed that Egypt began demanding entrance visas on Saturday from the Libyans. But Libya denied that it was imposing restrictions on Egyptian visitors. Libyan Foreign Ministry spokesman Hassouna al-Shawish told The Associated Press early Saturday that "all has been reported were mere lies." Al-Shawish said Libya had not changed its policies, but that every Egyptian must carry the equivalent of US$350 when visiting. A nephew and adviser to Libyan leader Moammar Gadhafi, Ahmed Qazaf el-Dam, told reporters at Cairo airport Saturday that there was no truth to reports that Libya had begun demanding visas from Egyptians. El-Dam spoke before boarding a plane for Libya. Officials at the Cairo airport said that 173 Libyans who arrived at the airport Saturday without entry visas were allowed to enter Egypt. The officials said they had not received any orders to demand visas from visiting Libyans. Many illegal immigrants use Libya as a transit point for sneaking into Italy, and Libya recently deported hundreds of Egyptians hoping to get into Europe to find work.
+
+At an August 2005 meeting in Sirte, Libya, Hosni Mubarak and Abdelaziz Bouteflika of Algeria proclaimed the excellent relations between their countries and with Libya. In December 2005, Egypt acted as a mediator in a dispute between Libya and Saudi Arabia caused by Saudi newspaper articles that called Moammar Gadhafi "rash" and "mad". Egyptian President Hosny Mubarak arrived in Libya on February 28, 2006, for a surprise visit and talks with Libyan leader Moamer Gaddafi on regional issues. Egyptian ambassador to Libya Mohammed al-Tahtawi said Mubarak was due to meet with Ghaddafi in Mesrata, 200 kilometres east of Tripoli, to hold talks on topics slated for discussion during the Arab summit in Khartoum next month. The North African leaders will address the wider regional situation in Palestine, Iraq and conflict-ridden Darfur alongside discussions on means of bolstering bilateral ties, al-Tahtawi said. Mubarak's visit comes at a "critical time for the Arab world," he added. Mubarak has in the past few days mounted a regional tour that took him to the United Arab Emirates, Qatar, Bahrain, Kuwait and Saudi Arabia. In May 2006, during a visit to Tripoli by Sudanese President Omar al-Beshir, Libya proposed a tripartite union of Libya, Sudan and Egypt. The Sudanese promised to give their viewpoints after studying the draft constitution presented by Libya. In October 2006 the Egyptian and Libyan foreign ministers meeting in Cairo gave their support to the Sudanese government over their dispute with the United Nations over peacekeeping forces in Darfur. 
+
+PS-SOURCES: New York Times September 24, 1956; December 28, 1969; July 29, 1971; July 31, 1971; July 24, 1973; March 8, 1974; April 7, 1974; May 5, 1974; July 26, 1974; April 18, 1975; October 17, 1989; United Press International March 29, 1991; January 5, 1986; April 20, 1992; October 31, 1995; BBC April 28, 1986; May 5, 1992; August 16, 2003; Associated Press April 25, 1986; August 4, 2001; January 10, 2004; Deutsche Presse Agentur April 18, 1995; October 9, 1995; April 6, 1996; July 24, 2002; February 28, 2006; Xinhua July 21, 1987; June 13, 1989; Africa News June 1, 1998; September 20, 1999; Agence France Presse January 22, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Atlanta Constitution 3/30/1979
+
+NYT 7/24/1977, 7/26/77, 8/9/1978
+
+WaPo 7/28/1977

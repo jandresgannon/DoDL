@@ -1,0 +1,63 @@
+FILE: cm235850v11.0.txt
+DYAD: PORTUGAL - INDONESIA
+RIVALRY: RIV650
+DISPUTE(S): MID1450 
+
+
+PS-LAST-CHANGED: 20171223
+PS-LAST-CHECKED: 20171224
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID1450 
+
+TERRMID: MID1450 1 -- territorial MID
+TERRMID-CER: MID1450 1 -- certain 
+TERRMID-NOTES: MID1450 from (Gibler 2018), there was an ongoing civil war in Portuguese East Timor, a Portuguese colony in Indonesia that was claimed by Indonesia. Indonesia tried to play a large role in international peacekeeping, and Portugal disliked this. Indonesia then invaded East Timor and said they were restoring order, and Portugal broke diplomatic relations. Portugal sent a naval force. The dispute ended via an agreement that awarded Indonesia control over East Timor. Coded territorial MID because this dispute involved Indonesia pressing their claim on East Timor.
+
+TERRLINK: MID1450 3 -- not third party link to territory 
+TERRLINK-CER: MID1450 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1450 3 -- not maritime 
+MARITMID-CER: MID1450 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1450 3 -- not islands 
+ISLMID-CER: MID1450 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1450 1 -- civil war MID
+CIVWARMID-CER: MID1450 1 -- certain 
+CIVWARMID-NOTES: MID1450 coded civil war MID because there was an ongoing civil war in East Timor that contributed to the events of this MID, and Indonesian forces also attacked rebels in East Timor. 
+
+CIVWARLINK: MID1450 3 -- not civil war link 
+CIVWARLINK-CER: MID1450 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1450 3 -- not coup 
+COUPMID-CER: MID1450 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1450 3 -- not coup link
+COUPLINK-CER: MID1450 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+
+
+SOURCES-CM:
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

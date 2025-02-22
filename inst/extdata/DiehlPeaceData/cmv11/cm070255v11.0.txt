@@ -1,0 +1,69 @@
+FILE: cm070255v11.0.txt
+DYAD: MEXICO - GERMANY/PRUSSIA
+RIVALRY: RIV198
+DISPUTE(S): MID2312 
+RIVALRY: RIV199 ISOLATED
+DISPUTE(S): MID3831 MID3877 MID3524 
+
+PS: 19391219-19450507 .25 19450508-19500507 .5
+
+PSNOTES: for v2, deleted 1900-1939 period because no relationship, 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3831 MID3877 MID3524 
+
+MID2312 
+
+TERRMID: MID2312 3 -- not territory
+TERRMID-CER: MID2312 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2312 3 -- not third party link to territory 
+TERRLINK-CER: MID2312 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2312 3 -- not maritime 
+MARITMID-CER: MID2312 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2312 3 -- not islands 
+ISLMID-CER: MID2312 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2312 1 -- civil war MID
+CIVWARMID-CER: MID2312 1 -- certain
+CIVWARMID-NOTES: MID from NYT 12/7/1913 and 10/14/1913, Mexico experienced a coup in 1913 that occurred during a revolution. Huerta and a small group of military officials deposed the President, sparking condemnation from America and several European nations. Germany sent naval vessels to Mexico to coerce Huerta into negotiating a step-down from power. Coded civil war MID because a revolution in Mexico led to the events of this MID. 
+
+CIVWARLINK: MID2312 3 -- not civil war link
+CIVWARLINK-CER: MID2312 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2312 1 -- coup MID
+COUPMID-CER: MID2312 1 -- certain 
+COUPMID-NOTES: MID2312 from NYT 12/7/1913 and 10/14/1913, a coup in Mexico occurred during a revolt, sparking more widespread civil war and international condemnation and demands for the new leader, Huerta, to leave power. Germany deployed naval vessels to Mexico to coerce the government into negotiating and eventually surrendering power. Coded coup MID because a coup in Mexico contributed to the events of this MID.
+
+COUPLINK: MID2312 3 -- not coup link
+COUPLINK-CER: MID2312 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+All three disputes in rivalry 199 are related to World War II and occur in a narrow time frame. Accordingly, we do not code rivalry 1999 as a proto-rivalry, but place it in the isolated category.
+
+NARRATIVE-CM:
+Mexico declared war against Germany on May 22, 1942.
+
+SOURCES-CM: 
+Langer, 1972, 1241-1242.
+
+NARRATIVE-CR:
+The rivalry between Mexico and Germany takes place in the context of World War II. During this period there are three mids that occur, MID3831 on 12/19/1939, MID3877 on 4/24/1942 and MID3524 on 5/22/1942. These disputes involve the presence of German naval vessels in Mexican waters. Mexico's decision to ally with the US and the Allies in May 1942, brings this war rivalry to its height. Mexico's decision to enter into the war on the side of the Allies it claimed was because of the Axis declaration of war on the United States. According to Mexico, the country's signature of the Havana agreement for hemsipheric defense made it necessary for Mexico to enter into conflict. Germany's defeat in 1945 by the Allies marks the end of the militarized disputes between the two countries.
+
+SOURCES-CR:
+*New York Times* 12/21/1939, 12/11/1941, 6/3/1942, 6/7/1942, 12/7/1913, 10/14/1913 
+

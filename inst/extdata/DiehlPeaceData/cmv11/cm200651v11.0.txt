@@ -1,0 +1,282 @@
+FILE: cm200651v11.0.txt
+DYAD: UNITED KINGDOM-EGYPT
+RIVALRY: RIV464
+DISPUTE(S): MID3725
+RIVALRY: RIV465
+DISPUTE(S): MID617 MID7 MID200 MID125 MID2331
+
+RIVNOTES: 
+
+PS: 19370526-19420203 0.5 19420204-19581024 0.00 19581025-19610113 -9 19610114-19671127 .25 19671128-19721127 .5
+
+PSNOTES:
+
+PS-UPDATE2020: 
+Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20220228
+PS-LAST-CHECKED: 20220228
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID3725
+
+WWII MIDs: MID617 
+
+MID7 
+
+TERRMID: MID7 3 -- not territory 
+TERRMID-CER: MID7 1 -- certain 
+TERRMID-NOTES: MID7 Coded not territorial because UK/France did not claim Egyptian territory and did not dispute the fact that the Suez was Egypt’s. They had a treaty with Egypt that allowed UK/FRN to keep ships there to protect their economic interests, and Egypt scrapped that treaty. Similar cases arise in the Americas; when powers deploy ships to protect their economic interests in Latin American states, this is not territorial either. 
+
+TERRLINK: MID7 3 -- not third party link to territory 
+TERRLINK-CER: MID7 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID7 3 -- not maritime 
+MARITMID-CER: MID7 1 -- certain 
+MARITMID-NOTES: MID7 from Gibler (2018), Egypt announced that UK ships would be expelled from the Suez Canal. UK refused to leave the Suez Canal, and Egypt and UK began exchanging fire. Coded not maritime because the UK was not claiming the Suez Canal as its territory, but wanted to maintain a presence there for its economic interests. 
+
+ISLMID: MID7 3 -- not islands 
+ISLMID-CER: MID7 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID7 3 -- not civil war
+CIVWARMID-CER: MID7 1 -- certain 
+CIVWARMID-NOTES: MID7 from Gibler (2018), Egpyt was financing militarized rebel groups to attack UK military targets as part of this MID. Coded not civil war because militarized rebel groups in Egypt were attacking UK, but these groups were not militarized against Egypt. There was therefore no civil conflict in Egypt or anywhere else, so while this involves rebel groups, it does not amount to a civil war MID. 
+
+CIVWARLINK: MID7 3 -- not civil war link 
+CIVWARLINK-CER: MID7 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID7 3 -- not coup 
+COUPMID-CER: MID7 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID7 3 -- not coup link
+COUPLINK-CER: MID7 1 -- certain 
+COUPLINK-NOTES: 
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm002365 narrative, MID200 is the Sinai War between Israel and Egypt and a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. The UK is involved in this MID due to its support for Israel. Russia is involved in this MID due to its support of Egypt/opposition of Israel, and its support for Czechoslovakia, who made a large arms deal with Israel shortly before the invasion. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because the UK and Egypt did not dispute territory here. See TERRLINK: Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm002365 narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and the UK was pulled in to the dispute due to their support of Israel in the dispute. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war 
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 from cm002365 narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war link because Egypt sponsored a militarized rebel group against Israel, outside of this dyad, which led to events that contributed to this MID. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 3 -- not civil war 
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES: MID125 from cm002365 narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup, and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded not civil war MID because the civil war in Lebanon is outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 coded civil war link because the Lebanese civil war triggered a multilateral MID, including this MID between UK and Egypt, and since the Lebanese civil war is outside of this dyad, it is a civil war link MID. 
+
+COUPMID: MID125 3 -- not coup 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID125 1 -- coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: MID125 the coup in Iraq contributed to the civil war in Lebanon, and the new Iraqi regime supported the revolutionaries in Lebanon, contributing to this MID. Iraq is outside this dyad.
+
+MID2331 
+
+TERRMID: MID2331 3 -- not territory 
+TERRMID-CER: MID2331 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2331 3 -- not third party link to territory 
+TERRLINK-CER: MID2331 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2331 3 -- not maritime 
+MARITMID-CER: MID2331 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2331 3 -- not islands 
+ISLMID-CER: MID2331 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2331 3 -- not civil war 
+CIVWARMID-CER: MID2331 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2331 3 -- not civil war link 
+CIVWARLINK-CER: MID2331 1 -- certain 
+CIVWARLINK-NOTES: MID2331 coded not civil war link because, although there were extensive domestic protests and domestic turmoil in Iraq, there were no militarized rebel groups. See Coup MID. 
+
+COUPMID: MID2331 3 -- not coup 
+COUPMID-CER: MID2331 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2331 1 -- coup link
+COUPLINK-CER: MID2331 1 -- certain 
+COUPLINK-NOTES: MID2331 from Gibler (2018), Jordan requested UK troops be sent to its territory to protect it from possible spillover of conflict from Iraq's domestic unrest and coup. Meanwhile, in Iraq, angry crowds damaged the UK embassy (per cm200645 narrative). Coded coup link because this MID was connected to the 1958 coup in Iraq. Egypt is pulled into this MID due to its support for the new regime in Iraq, which the UK opposed. 
+
+NARRATIVE-CM:
+British troops occupied Egypt to suppress a nationalist rebellion on September 15, 1882. Britain and Egypt agreed to jointly administer Sudan on January 19, 1899. Britain established a protectorate over Egypt on December 18, 1914. Britain appointed General Edmund Allenby as high commissioner for Egypt on October 17, 1919. British and Egyptian representatives held negotiations in London from July 12 to November 20, 1921. Britain terminated the protectorate over Egypt on February 28, 1922. Egypt proclaimed its independence from Britain on March 15, 1922. Sir Lee Stack, British governor-general of the Sudan, was assassinated in Cairo on November 19, 1924. Britain demanded compensation for the death of Sir Lee Stack and demanded protection of British interests in Egypt on November 22, 1922. Egypt provided 500,000 pounds in compensation to Britain on November 24, 1922 (but rejected the demand regarding protection of British interests in the country). British troops occupied the customs offices in Alexandria on November 24, 1922. Prime Minister Ziwar Pasha of Egypt accepted the British demand regarding protection of interests on November 29, 1922, and British troops were withdrawn from the customs offices in Alexandria on December 2, 1922. Britain appointed Sir George Lloyd as high commissioner for Egypt on February 26, 1925. British and Egyptian representatives held bilateral negotiations in London from March 8 to May 1, 1929. Britain appointed Sir Percy Loraine as high commissioner for Egypt on August 8, 1929. British and Egyptian representatives held bilateral negotiations in London from March 27 to May 8, 1930. Britain and Egypt signed the *Anglo-Egyptian Treaty* on August 26, 1936, which provided for the withdrawal of British troops from Egypt (except for the Suez Canal zone). The Egyptian government formally requested on September 23, 1945 that the *Anglo-Egyptian Treaty* of 1936 be revised and that British military occupation of the Suez Canal zone be terminated. Egypt also requested sovereignty over the Sudan. Azzam Bey, Secretary-General of the *League of Arab States* (LAS), expressed support for Egypt on February 3, 1946. British troops killed some 20 individuals during demonstrations in Cairo on February 21, 1946. Seventeen individuals, including two British soldiers, were killed during riots in Alexandria on March 4, 1946. The LAS Council expressed support for Egypt's demand for the withdrawal of British troops from Suez on March 25, 1946. The LAS Council expressed support for Egypt's demands regarding Sudan on January 3, 1947. Britain announced on January 25, 1947 that it would prepare Sudan for self-determination. Lebanon and Syria jointly offered to mediate negotiations in February 1947. The LAS Council expressed support for Egypt on March 23, 1947. Ambassador Mahmoud Hassan Pasha of Egypt requested the UN Security Council on June 11, 1947 to order the immediate removal of British troops from Egypt and Sudan. Egypt formally referred the Sudan dispute to the *United Nations *(UN) Security Council on July 6, 1947. The UN Security Council discussed the dispute from August 5 to September 10, 1947, but was unable to agree on a resolution. Prime Minister Nahas Pasha of Egypt asked the Egyptian parliament to abrogated the 1936 treaty on October 8, 1951. Prime Minister Alcide de Gasperi of Italy offered to mediate negotiations between Britain and Egypt on October 8, 1951. Secretary of State Dean Acheson of the United States expressed support for Britain on October 10, 1951, and condemned Egypt on October 17, 1951 for abrogating the 1936 treaty. Britain declared a state-of-emergency for its military forces in Egypt on October 16, 1951. The LAS expressed support for Egypt on October 18, 1951, and appealed for peaceful negotiations between Britain and Egypt. France expressed support for Britain on October 19, 1951. Canada appealed for peaceful negotiations between Britain and Egypt on October 19, 1951. Syria's foreign minister expressed support for Egypt on October 23, 1951. Egypt notified Britain on October 27, 1951 that it had abrogated the 1936 treaty. British troops and Egyptian police clashed in Ismailia on November 17-24, 1951, resulting in the deaths of 23 individuals. British troops and Egyptian police clashed in Suez City on December 3-4, 1951, resulting in the deaths of 65 individuals. Egypt referred the matter to the UN Security Council in November 1951. The UN Security Council established a commission of inquiry. British and Egyptian troops engaged in military hostilities in Port Said beginning on January 18, 1952. King Ibn Saud of Saudi Arabia offered to mediate negotiations between Britain and Egypt on January 23, 1952. British troops attacked a Egyptian police headquarters in Ismailiya on January 25, 1952, resulting in the deaths of five British soldiers and 41 Egyptians. Sixty-seven individuals were killed during riots in Cairo on January 26, 1952. The UN commission of inquiry issued its report on February 18, 1952. British troops withdrew from Ismailiya in March 1952. Britain and Egypt signed an agreement on February 12, 1953 that provided self-determination for Sudan within a three-year transitional period, but the countries did not come to an agreement concerning the Suez Canal. President Gamal Abdal Nasser of Egypt threatened Britain on February 24, 1953 that it would attack the Canal Zone unless British troops were withdrawn immediately. Egypt and Britain representatives began bilateral negotiations on March 1, 1953. The US expressed support for Britain on March 7, 1953. British and Egyptian representatives ended bilateral negotiations on May 6, 1953. Egypt warned Britain on May 11, 1953 that military force might be used to resolve the dispute. Britain and Egypt signed an agreement in Cairo on October 19, 1954, which provided for the withdrawal of British troops from the Suez Canal zone over a 20-month period. Some 55 British soldiers were killed during military hostilities near the Suez Canal zone in 1953 and 1954. British troops completed their withdrawal from the Suez Canal zone on June 13, 1956. Britain withdrew its offer to finance the construction of the Aswan High Dam on July 20, 1956, and President Nasser nationalized the Suez Canal on July 26, 1956 in order to finance the construction of the Aswan High Dam. The LAS Council expressed support for Egypt's decision to nationalize the Suez Canal on August 12, 1956. On September 23, 1956, France and Britain requested that the UN Security Council convene to consider the "situation created by the unilateral action of the Egyptian government in bringing to an end the system of international operation of the Suez Canal." Egypt referred the matter to the UN Security Council on September 24, 1956. On September 26, 1956, the UN secretary-general offered to facilitate negotiations between the parties. The UN secretary-general facilitated the signing of an agreement by representatives of Egypt, France, and Britain on October 13, 1956. Israeli troops attacked Egypt in the Sinai Peninsula on October 29, 1956. Britain appealed for a ceasefire and withdrawal of Egyptian and Israeli troops from the Suez Canal zone. Egypt rejected the ultimatum, and British military aircraft attacked Egyptian military bases on October 31, 1956. The UN General Assembly appealed for a ceasefire and the withdrawal of foreign troops from Egypt on November 2, 1956. British troops invaded the Suez Canal zone on November 5, 1956, but agreed to a ceasefire on November 7, 1956. Saudi Arabia and Syria imposed diplomatic sanctions (suspension of diplomatic relations) against Britain. The UN General Assembly appealed for the withdrawal of foreign troops from Egypt on November 7, 1956. British troops were evacuated from Egyptian territory beginning on November 10, 1956. The UN General Assembly appealed for the withdrawal of British troops from Egypt on November 24, 1956. The UN Security Council deployed the *United Nations Emergency Force* (UNEF) in the northern Suez Canal zone on December 22, 1956 following the withdrawal of British troops from Egypt. UNEF, which consisted of 6,000 peacekeeping troops from ten countries, was commanded by Lt. General E. L. Burns of Canada. Some 22 British soldiers and 921 Egyptians were killed during the conflict. Egypt and Britain signed an agreement on January 17, 1959 that settled outstanding issues related to the Suez Canal. Saudi Arabia agreed to resume diplomatic relations with Britain on January 16, 1963. Egypt severed diplomatic relations with Britain on June 6, 1967 after Israel attacked Egypt on June 5, 1967. Britain and Egypt resumed diplomatic relations on December 12, 1967. UNEF troops were withdrawn from Egypt on June 13, 1967. Some 105 UNEF personnel were killed during the mission.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 429-430; Butterworth, 1976, 73-75, 156-158; Clodfelter, 1992, 1036, 1037-1038; Donelan and Grieve, 1973, 123-129; *Facts on File*, October 19-25, 1951, October 26-November 1, 1951, November 2-8, 1951, November 9-15, 1951, November 16-22, 1951, November 23-29, 1951, November 30-December 6, 1951, December 14-20, 1951, December 21-27, 1951, January 1-10, 1951, January 18-24, 1951; *Keesing*, February 23-March 2, 1946, March 2-9, 1946, May 4-11, 1946, January 4-11, 1947, January 25-February 1, 1947, March 22-29, 1947, July 12-19, 1947, October 6-13, 1951, October 20-27, 1951, January 19-26, 1963; Langer, 1972, 865-870, 1075-1078, 1293-1295; Matthews, 79-101; *Survey of International Affairs *(SIA), 1925 (supplement), 83-85, 1936, 662-701; *The Times* (London), October 9, 1951, October 11, 1951, June 14, 1956, July 27, 1956; Tillema, 1991, 162-163; Weisburd, 1997, 29-33.
+
+NARRATIVE-CR:
+The theme that has united all the disputes between Egypt and the UK has been British desire to control or influence events in Egypt so as to preserve British interests in the Middle East especially with respect to the Suez Canal. The British viewed Egypt as a crucial component to maintaining secure shipping to their far flung empire through the Suez Canal. Therefore, it was with great reluctance that the British eventually evacuated Egypt under pressure from Nasser in the mid 1950s. 
+
+MID3725 occurred in the summer of 1882. In this event the British attempted to assert control over strategically important Egypt. The British fleet began bombarding Alexandria with offshore shelling. Troops occupied the city and installed the khedive in the Ras at Tin Palace. The khedive obligingly declared the leader of Egypt, Urabi a rebel and deprived him of his political rights. Urabi in turn obtained a religious ruling, a fatwa, signed by three Al Azhar sheikhs, deposing Tawfiq as a traitor who brought about the foreign occupation of his country and betrayed his religion. Urabi also ordered general conscription and declared war on Britain. Thus, as the British army was about to land in August, Egypt had two leaders: the khedive, whose authority was confined to British-controlled Alexandria, and Urabi, who was in full control of Cairo and the provinces. 
+
+In August Sir Garnet Wolsley and an army of 20,000 invaded the Suez Canal Zone. Wolsley was authorized to crush the Urabi forces and clear the country of rebels. The decisive battle was fought at Tall al Kabir on September 13, 1882. The Urabi forces were routed and the capital captured. The nominal authority of the khedive was restored, and the British occupation of Egypt, which lasted for seventy-two years, began. Britain's military intervention in 1882 and its extended occupation of the country left a legacy of bitterness among the Egyptians that would not be dealt with until 1956 when British troops were finally removed from the country.
+
+The relations between the two countries were relatively stable until World War II when militarized action began again. This portion of the rivalry takes place from 1942 until 1958. There are five mids in this period. The general theme that unites all of the disputes here is British desire for influence in Egypt and the Egyptian desire to remove British influence in Egypt and the region. Not all of the mids between the countries are bilateral or have this as their central issue however in half of them this issue is a central concern. 
+
+MID617 occurred in February of 1942. Here there was a British display of force against Egypt. I was not able to find direct reference to this dispute however this mid occurred prior to the announcement by the Egyptian government of the dissolution of the Egyptian Parliament and the pledge to govern via a democratically elected parliament in accord with bilateral agreements. 
+
+MID7 occurred from October of 1951 until January of 1952. In January 1950, the Wafd returned to power with Nahhas as prime minister. In October 1951, Nahhas introduced, and Parliament approved, decrees abrogating unilaterally the Anglo-Egyptian Treaty of 1936 and proclaiming Faruk king of Egypt and Sudan. Egyptians took a great deal of pride in this. The Wafd government gave way to pressure from the Brotherhood and leftist groups for militant opposition to the British. `Liberation battalions' were formed, and the Brotherhood and auxiliary police were armed. Food supplies to the Suez Canal Zone were blocked, and Egyptian workers were withdrawn from the base. A guerrilla war against the British in the Suez Canal Zone was undertaken by students and the Brotherhood. 
+
+In December British bulldozers and Centurion tanks demolished fifty Egyptian mud houses to open a road to a water supply for the British army. This incident and one that followed on January 25 provoked intense Egyptian anger. On January 25, 1952, the British attacked an Egyptian police barracks at Ismailiya (Al Ismailiyah) when its occupants refused to surrender to British troops. Fifty Egyptians were killed and 100 wounded. 
+
+The January incident led directly to "Black Saturday," January 26, 1952, which began with a mutiny by police in Cairo in protest against the death of their colleagues. Concurrently, groups of people in Cairo went on a rampage. British property and other symbols of the Western presence were attacked. By the end of the day, 750 establishments valued at 50 million had been burned or destroyed. Thirty persons were killed, including eleven British and other foreigners; hundreds were injured. 
+
+MID200 is the Sinai War which took place in 1956. On July 26, 1956, the fourth anniversary of King Faruk's exile, Nasser appeared in Muhammad Ali Square in Alexandria where twenty months earlier an assassin had attempted to kill him. An immense crowd gathered, and he began a three-hour speech from a few notes jotted on the back of an envelope. When Nasser said the code word, "de Lesseps," it was the signal for engineer Mahmud Yunis to begin the takeover of the Suez Canal. 
+
+The canal's owner was the Suez Canal Company, an international company with headquarters in Paris. Anthony Eden, then British prime minister, called the nationalization of the canal "theft," and United States secretary of state Dulles said Nasser would have to be made to "disgorge" it. The French and British depended heavily on the canal for transporting oil supplies, and they felt that Nasser had become a threat to their remaining interests in the Middle East and Africa. Eden wanted to launch a military action immediately but was informed that Britain was not in a position to do so. Both France and Britain froze Egyptian assets in their countries and increased their military preparedness in the eastern Mediterranean. 
+
+Egypt promised to compensate the stockholders of the Suez Canal Company and to guarantee right of access to all ships, so it was difficult for the French and British to rally international support to regain the canal by force. The Soviet Union, its East European allies, and Third World countries generally supported Egypt. The United States moved farther away from Britain and stated that while it opposed the nationalization of the canal, it was against the use of force. 
+
+What followed was the invasion of Egypt by Britain, France, and Israel, an action known as the Tripartite Invasion or the 1956 war. Whereas the truth about the invasion eventually became known, at the time the Conservative government in London denied that it used Israel as an excuse for attacking Egypt. Eden, who had an intense personal dislike for Nasser, concealed the cooperation with Israel from his colleagues, British diplomats, and the United States. 
+
+The plan, which was supposed to enable Britain and France to gain physical control of the canal, called for Israel to attack across the Sinai Desert. When Israel neared the canal, Britain and France would issue an ultimatum for an Egyptian and Israeli withdrawal from both sides of the canal. An Anglo-French force would then occupy the canal to prevent further fighting and to keep it open to shipping. Israeli prime minister David Ben-Gurion agreed to the plan but informed Britain that Israel would not attack unless Britain and France first destroyed the Egyptian air force. 
+
+On October 28, Israeli troops crossed the frontier into the Sinai Peninsula allegedly to destroy the bases of Egyptian commandos. The first sign of collusion between Israel and Britain and France came on the same day when the Anglo-French ultimatum was handed to Egypt and Israel before Israel had even reached the canal. British bombing destroyed the Egyptian air force, and British and French paratroopers were dropped over Port Said and Port Fuad. The Egyptians put up fierce resistance. Ships were sunk in the canal to prevent transit. In the battle for Port Said, about 2,700 Egyptian civilians and soldiers were killed or wounded. 
+
+Although it was invaded and occupied for a time, Egypt can claim to have emerged the victor. There was almost universal condemnation of the Tripartite Invasion. The Soviet Union threatened Britain and France with a rocket attack if they did not withdraw. The United States, angered because it had not been informed by its allies of the invasion, realized it could not allow the Soviet Union to appear as the champion of the Third World against Western imperialism. Thus, the United States put pressure on the British and French to withdraw. Faced with almost total opposition to the invasion, the anger of the United States, and the threat of the collapse of the pound sterling, the British agreed to withdraw. Severely condemned, Britain and France accepted a cease-fire on November 6, as their troops were poised to advance the length of the canal. The final evacuation took place on December 22. 
+
+Israel, which occupied all of Sinai, was reluctant to withdraw. President Dwight D. Eisenhower of the United States placed great pressure on Israel to give up all its territorial acquisitions and even threatened sanctions. The Israelis did withdraw from Sinai, but they carried out a scorched earth policy, destroying roads, railroads, and military installations as they went. 
+
+A United Nations Emergency Force (UNEF) was established and began arriving in Egypt on November 21. The troops were stationed on the Egyptian side of the Egyptian-Israeli border as well as along the eastern coast of Sinai. Israel refused to allow UN troops on its territory. The UN troops were stationed on the Gulf of Aqaba to ensure the free passage of Israeli shipping to Elat. The troops remained in Egypt until 1967, when their removal contributed to the outbreak of the June 1967 War. 
+
+Egypt reopened the canal to shipping in April and ran it smoothly. It was open to all ships except those of Israel, and it remained open until the June 1967 War (Arab-Israeli war, also known as the Six-Day War). Diplomatic relations between Egypt and Britain were not restored until 1969. 
+
+Nasser had won a significant victory. The immediate effect was that Britain and France were finally out of Egypt. Nasser went on to nationalize all other British and French assets in Egypt. The Egyptians now had full control of the canal and its revenues. The Suez crisis also made Nasser the hero of the Arab world, a man who had stood up to Western imperialism and had prevailed. 
+
+In response to his increased prestige, Nasser emphasized the Arab character of Egypt and its leadership role in the Arab world. He had always had a concern for Arab causes, as shown by his volunteering to fight in Palestine in 1948, but now this tendency was amplified. His Egyptian nationalism became Arab nationalism when he decided that if the Arab countries worked together, they would have the resources to solve their individual problems. In addition, the move toward nationalization, which started with French and British assets, continued in Egypt and became a cornerstone of Nasser's administration. 
+
+MID125 is the US intervention in Lebanon which took place from May through October of 1958. Here the principal combatants were the US and the USSR. In this dispute force between the Egypt and the United Kingdom did not take place and their dispute was not a central consideration. 
+
+The 1958 Civil War was instigated by Lebanese Muslims and Druzes who were inspired by the February 1958 unification of Egypt and Syria and agitated to make Lebanon a member of the new United Arab Republic. Pro-Nasser demonstrations grew in number and in violence until a full-scale rebellion was underway. The unrest was intensified by the assassination of Nassib Matni, the Maronite anti-Shamun editor of At Talagraph, a daily newspaper known for its outspoken pan-Arabism . The revolt almost became a religious conflict between Christians and Muslims. 
+
+This state of turmoil increased when, in the early hours of July 14, 1958, a revolution overthrew the monarchy in Iraq and the entire royal family was killed. In Lebanon jubilation prevailed in areas where anti-Shamun sentiment predominated, with radio stations announcing that the Shamun regime would be next. Shamun, realizing the gravity of his situation, summoned the ambassadors of the United States, Britain, and France on the morning of July 14. He requested immediate assistance, insisting that the independence of Lebanon was in jeopardy. 
+
+MID2331 occurred from July through October of 1958 and involved Iraq and Egypt v. the UK. This mid is called the Iraqi revolution. In Iraq, General Abdul Karim Kassem led a successful army revolt (July 14), overthrowing the monarchy and killing King Faisal II. The Hashimite monarchy was overthrown on July 14, 1958, in a swift, predawn coup executed by officers of the Nineteenth Brigade under the leadership of Brigadier Abd al Karim Qasim and Colonel Abd as Salaam Arif. The coup was triggered when King Hussein, fearing that an anti-Western revolt in Lebanon might spread to Jordan, requested Iraqi assistance. Instead of moving toward Jordan, however, Colonel Arif led a battalion into Baghdad and immediately proclaimed a new republic and the end of the old regime. The July 14 Revolution met virtually no opposition and proclamations of the revolution brought crowds of people into the streets of Baghdad cheering for the deaths of Iraq's two "strong men," Nuri as Said and Abd al Ilah. King Faisal II and Abd al Ilah were executed, as were many others in the royal family. Nuri as Said also was killed after attempting to escape disguised as a veiled woman. In the ensuing mob demonstrations against the old order, angry crowds severely damaged the British embassy. 
+
+After the Iraqi revolution an internal debate within the UK regarding its Middle East policy in general and specifically with respect to Egypt took place. The central question with respect to Egypt was whether the UK should seek a confrontation with Nasser while the US still had military superiority over the USSR. Ultimately, the UK decided to forgo direct confrontation and diplomatic relations between the two countries were restored in 1959. The two countries also signed a bilateral finance agreement in the same year. Progress in relations between the two countries was slow. There was hostile resentment about the colonial presence in Egypt and diplomatic representatives were slow to take their posts. In 1960, Macmillan and Nasser met in New York at the UN. In 1961, the Iraqi proclamation of sovereignty over Kuwait prompted the UK to deploy troops to defend Kuwait. The crisis brought about a convergence of interests between the two countries. Both Egypt and the UK had an interest in seeing Kuwait remain sovereign and the two states cooperated in their efforts to coordinate troop activity. British troops protecting Kuwait was an embarrassment to Egypt. The British coordinated a withdrawal of their troops followed by a deployment of Arab League troops which included a large contingent of Egyptian troops. Other issues which influenced the rapprochement were the serious economic crisis in Egypt precipitated by the worst cotton crop in years. The US delivered food aid to the Egyptians which prompted a general improvement in Egyptian relations with the West including the UK. 
+
+SOURCES-CR: Brecher and Wilkenfeld, 1997, 429-430; Butterworth, 1976, 73-75, 156-158; Clodfelter, 1992, 1036, 1037-1038; Donelan and Grieve, 1973, 123-129; *Facts on File*, October 19-25, 1951, October 26-November 1, 1951, November 2-8, 1951, November 9-15, 1951, November 16-22, 1951, November 23-29, 1951, November 30-December 6, 1951, December 14-20, 1951, December 21-27, 1951, January 1-10, 1951, January 18-24, 1951; *Keesing*, February 23-March 2, 1946, March 2-9, 1946, May 4-11, 1946, January 4-11, 1947, January 25-February 1, 1947, March 22-29, 1947, July 12-19, 1947, October 6-13, 1951, October 20-27, 1951, January 19-26, 1963; Langer, 1972, 865-870, 1075-1078, 1293-1295; Matthews, 79-101; Metz, 1990; *Survey of International Affairs *(SIA), 1925 (supplement), 83-85, 1936, 662-701; *The Times* (London), October 9, 1951, October 11, 1951, June 14, 1956, July 27, 1956; Tillema, 1991, 162-163; Weisburd, 1997, 29-33.
+
+PS-NARRATIVE:
+
+19581025-19610113 Transition 
+
+The last MID of RIV465, MID2331, ended on October 22, 1958. Two main issues dominated Egyptian-British relations after the Suez Crisis of 1956. First, is the role of Egypt's Nasser in the Middle East. The British were concerned about Nasser's attempt to use Arab nationalism to unify the Arab world under his control. Second, the two countries disagreed over settlement of financial issues, political prisoners, and diplomatic relations in the aftermath of the Suez crisis. 
+
+In 1957, there were concerns of both a possible communist takeover and/or intervention by Britain and members of the Baghdad Pact into Syria. The Ba'ath party in Syria was opposed to either of these events and, consequently, pushed Syria toward alignment with Egypt and Nasser. In January 1958, Syria and Egypt entered negotiations over the possible union of the two countries. On February 1, 1958 an agreement was struck creating the United Arab Republic (UAR). Britain and the west reacted negatively to this event, fearful of Nasser's growing influence and power in the Middle East. Britain and the United States were both opposed to direct action but would support actions taken by other Arab nations to disrupt the Union. Britain did, however, push for more cooperative relations between Jordan, Iraq, and Saudi Arabia as a way of countering the UAR. The product of this was that on February 14, 1958 Jordan and Iraq established the Arab Union to balance against the influence of the UAR. Britain initially supported the formation of the Arab Union but later backed away as Iraq pushed for Kuwait to join and for possible Iraqi intervention into Syria.
+
+At the same time as these events, Britain was engaged in ongoing negotiations with Egypt regarding the Suez Canal. Britain wanted Egypt to pay for all British property that was nationalized by Egypt and the return of two British political prisoners. Egypt opposed these request and wanted Britain and France to pay for war damages. In March of 1958 these negotiations were on the verge of collapse. In May of 1958 crisis erupted in Lebanon. Violence supported by Nasser broke out in Lebanon after Camille Chamoun announced he would seek reelection. Chamoun claimed that the British had promise to support him if Nasser plotted to overthrow his government. On June 6th, the Lebanese Foreign Minister petitioned the United Nations Security Council claiming that the UAR was subverting the sitting regime in Lebanon. On June 11, the Security Council passed a resolution providing a UN observation team to limit outside interference.
+
+In July, Britain and Egypt resumed negotiations over the Canal issues. Limited agreement was reached on a lump sum payment by Egypt to the British government for nationalized British property and the return of British prisoners. On July 14, a day after the agreement, the Iraqi government was toppled by a coup of the Iraqi Free Officers. The fall of Iraq was a huge blow to British influence in the Middle East and to British efforts to counter Egyptian influence in the region. Shortly after, the US and Britain deployed troops to Lebanon and Jordan respectively in order to secure those countries from outside subversion. With the introduction of US and British troops to the region, Nasser sought but did not receive support from the Soviets in the event of military action by the west. On August 18th, an Arab resolution was passed by the UN General Assembly calling for non-interference in the internal affairs of Arab states. This act had some effect in easing tensions between Egypt and Britain. 
+
+On December 19, 1958 a deal was struck between Egypt and Britain that would payout a lump sum of 27.5 million dollars to Britain for nationalized British property. On January 22, details of the deal were still being negotiated in regard to the disposition of political prisoners and an upgrade in diplomatic relations. In March of 1959, the British Secretary of Treasury was dispatched to sign the agreement. 
+
+Shortly thereafter, Iraqi President Qasim, with communist help, defeated a Nasser inspired coup attempt. Tensions between Britain and Egypt again increased as Nasser suspected Britain of supporting the communists that helped save the President and Britain suspected Nasser of having assisted in the attempt. After 1959, however, Nasser experienced a growing concern regarding the communist movement in the Middle East and suspected the movement of trying to undermine his influence in the region. These sentiments put him at growing odds with the Soviet Union and pushed him toward the west. 
+
+Relations remained tense in 1960 and 1961 because the British felt that the Egyptians were dragging their feet in regard to fulfilling the agreement signed in 1959. The British were reluctant to reestablish ambassador relations until the Egyptians fulfilled all aspects of the agreement. Relations were also tense due to British arms shipments to Israel. The situation stagnated and became very quiet in 1960; finally, on January 14, 1961 ambassadors were exchanged and normal relations resumed. During the 1956 Suez Crisis, the British embassy was mostly evacuated except for key personnel. On November 1, 1956 Egypt broke off all relations with Britain, baring the Embassy gates and refusing to let anyone in or out. By November 10, arrangements had been made for the evacuation of all British personnel. Diplomatic relations were restored at the Charge d'Affaires level in 1959 and at the Ambassador level in 1961.
+
+19610114-19671127 .25 
+
+After a period of relative quiet, a crisis erupted in the summer of 1961 when Kuwait asked Britain to abrogate the treat of 1899 making Kuwait a protectorate of Britain. Kuwait wanted to two countries to replace this document with a treat of friendship. On June 19, 1961 Britain sent a letter to Kuwait agreeing to this request. Iraqi reacted poorly to this event, immediately declaring sovereignty over Kuwait. Britain, fearing an Iraqi invasion, deployed troops to the area. On July 5, UAR suggested that the Arab League could handle the situation if Britain removed their troops. This involved having Kuwait ask the UN for official membership and UAR getting the Arab League to supply a military force to replace British troops. On July 10, Kuwaiti officials presented this request to the Arab League and the UAR offered to supply the troops. On July 20, the Arab League voted to admit Kuwait causing Iraq to walk out of the meeting. On August 10, Kuwait requested British troops be withdrawn on September 10, the date Arab League troops were scheduled to arrive. British officials consulted with Nasser throughout the process, marking the first time the two countries had worked together to avoid an international crisis. 
+
+The relations quickly soured, however, when Syria walked away from the UAR in September of 1961. The failure of the UAR was primarily due to Nasser's failed domestic economic policies; nevertheless, Nasser blamed the west for his failed vision of Arab unity and relations with Britain suffered. Syrian military officers, becoming more and more disillusioned with Nasser's foreign and domestic policy, conducted a coup on September 28, 1961. In order to prevent further damage to relations, British officials avoided recognizing Syria until after Nasser's October 5th speech officially declaring an end to the UAR and that he would not oppose Syrian membership in the UN or the Arab League. After the collapse of the UAR, Nasser's foreign policy became somewhat sporadic between October and December of 1961. He initiated a minor rapprochement with the Soviets, initiated disputes with France by arresting members of a French delegation, and accused Britain of plotting a coup in Lebanon. In response to rumors of renewed Iraqi action against Kuwait, the British moved a naval group into the area. This sparked widespread Arab protest and rumors regarding Iraqi-Egyptian consultations over the future of Kuwait. 
+
+Diplomatic relations were again suspended in 1965 over the Rhodesia incident but restored in 1967. The 1958 to 1961 period marks a transition out of rivalry. The aftermath of the Suez Crisis marks hostile relations between the two countries but there exists a dialog aimed at negotiating through the major differences. The period of 1961 to 1967, however, is still marked by constant clashes over policy in the Middle East and negotiations over settling lingering questions from the Suez incident. These fundamental differences keep tensions high throughout the period and lead to at least one break in diplomatic relations. Consequently, this period is coded as low-level conflict (.75). 
+
+In early 1962, Nasser showed a renewed interest in improving relations with Britain. This was helped, in part, by the United States offer of a 500 million dollar food aid package to Nasser to alleviate problems caused by severe economic decline. Nasser offered to negotiate with the British to finally settle any remaining issues lingering from the 1959 agreement over the Suez Crisis. Negotiations commenced during the spring and continued through the summer. In August of 1962, the countries signed two agreements. As well as clearing up some of the lingering problems from the 1959 agreement, the British also pledged aid for Egypt's suffering economy. 
+
+The detente between the two countries, however, was short lived. In September 1962 pro-Nasser forces overthrew the leader of Yemen, Iman Badr. Britain was not happy to have a pro-Nasser country in the region. The coup had failed to kill the Iman, who escaped to the mountains and rallied support for a counter coup. This made the new Yemeni regime uneasy and they requested military support from Egypt. Egypt deployed as many as 8,000 troops to Yemen by November of 1962. The move by Nasser was seen by the British as an attempt to renew his failed efforts at Arab unity under Egyptian leadership. During this time, Saudi Arabia and Jordan were actively supporting the royalist rebels who where trying to forcibly reverse the coup. Against British wishes, the United States negotiated with Egypt for the removal of Egyptian forces from Yemen in exchange for the cessation of Saudi Arabian, Jordanian, and British support for the royalists. Internal politics in Britain favored not recognizing the new Yemen regime. This, of course, would further strain Anglo-Egyptian relations. The failure of the United State's plan for Egyptian withdrawal was followed by more fighting as supplies for royalist rebels flowed from Saudi Arabia into Yemen and Egypt moved more troops into Yemen and border towns to stop the flow of outside support. In March of 1963, the US sent an air force squadron to Saudi Arabia in exchange for assurance that they would stop funneling supplies to rebels in Yemen. A new disengagement plan was worked out in April of 1963.
+
+In February and March of 1963, the regimes of Iraq and Syria respectively were overthrown by Ba'ath party members and both countries subsequently showed open support for Nasser and some of his Arab unity policies. All of these events shifted power in the Middle East away from Britain, Saudi Arabia and Jordan and toward Nasser. Upheaval in Jordan and the signing of the Tripartite agreement between Egypt, Iraq and Syria in mid-April further strained Anglo-Egyptian relations. 
+
+In 1963, Nasser began aiding a rebel group called the National Liberation Front (NLF) in North Yemen in hopes that they would overthrow British rule. It was also clear by July of that year that the disengagement treaty signed in April had not stopped Egyptian involvement in fighting royalist rebels in Yemen. In 1964, Alec Douglas-Home became Prime Minister in England. He immediately made several speeches viewed as inflammatory toward the Egyptians. Nasser retaliated with an anti-British Middle East policy speech on February 22, 1964. Libya, answering Nasser's call, demanded a renegotiation of their defense agreement with Britain. 
+
+In March of 1964, Britain further inflamed the Middle East by bombing a Yemeni village in retaliation for UAR helicopter attacks on a village in South Arabia. The Arab League moved quickly to condemn British action. The summer of 1964 witnessed repeated rhetorical clashes between Britain and Nasser over policy in the Middle East. The UAR continued to assist the new Yemeni regime to right off royalist rebels and Saudi Arabia continued, with implicit British support, to support the royalist rebels. In December of 1964, Britain and Egypt came close to resolving their disputes over Yemen. Egypt demanded that Britain pull out of Aden and recognize the new regime in Yemen and the British demanded that Egyptian troops be withdrawn from Yemen. No agreement was reached.
+
+Negotiations continued into 1965, going poorly until the signing of a ceasefire in Yemen between the new regime and the royalists on August 25. On December 17, however, Egypt broke diplomatic relations with Britain over the Rhodesia incident. The white majority in Rhodesia held elections in May 1965 and then declared independence on November 11. Egypt demanded that Britain put down the rebellion with force. When the British government refused to do so, Nasser severed relations. 
+
+In 1966, Britain announced plans to withdraw from Aden by 1968. To the British government's displeasure, Nasser viewed this as a victory and declared that Egyptian troops would remain in Aden until Britain had withdrawn. Despite this seeming breakthrough regarding one of the major contentious points, relations remained tense through 1966 and Egypt continued to fuel rebel attacks on the British base in Aden.
+
+In 1967, after Israeli air attacks against Syria and Jordan and reports of Israeli troop movements toward the Syrian border aimed at overthrowing the Syrian regime, Nasser requested that the UNEF force be removed. This took place on May 19 and, for the first time in a decade, there was nothing separating Israeli and Egyptians troops. Nasser next blockaded the Gulf of Aqaba from Israeli ships. The British announced that the world maritime powers would safeguard the freedom of passage through the Straits of Tiran. This announcement, however, proved to be an empty one. None of the maritime powers, including Britain, would commit to using naval forces to secure access to the gulf. 
+
+On May 30, 1967 Egypt and Jordan signed a military alliance. Western powers were debating action when, on June 5, Israel acted by using air strikes to destroy the Egyptian air force. Nasser immediately lodged baseless protests against the British government for colluding with Israel in the attack. 
+
+Meanwhile, the situation in South Arabia continued to deteriorate. The British hoped to keep the federation together and turn over power to some governing body when they pulled out of Aden. It became clear that this would not be possible as rebel attacks increased and in November of 1967 the federation disintegrated. 
+
+19671128-20159999 .5
+
+At the end of November 1967, South Arabia was granted independence on November 28, 1967, and British forces were withdrawn. The removal of British troops immediately relieved a major source of tension between the two countries. Egyptian troops left Yemen on November 29, 1967. After 1967, relations improve markedly. The settlement of the Suez issues and withdrawal of British troops from South Arabia ends to two major issues of contention between the two states. The period from 1967 to present is coded as negative peace (.5). With Nasser's defeat by Israel in the Six Day War, Britain felt more comfortable removing troops from the region. At the end of 1967, the British cabinet voted to reengage with Egypt and diplomatic relations were restored. After the Yemen issue was settled, relations between the two countries began to improve, starting in 1968, even as relations between Nasser and the United States began to degrade. Relations further improved with pro-Western leaders like Sadat and Mubarak coming to power in the 1970s and 1980s.
+
+In 1994, NATO established the Mediterranean Dialogue with several Middle Eastern countries to include Egypt. The Mediterranean Dialogue recognizes that Middle Eastern security is a major concern for security in Europe. The purpose of the Dialogue is for NATO to work with Egypt (and others) to take part in regional security and stability, open lines of communications between NATO and Egypt, and reassure Egypt regarding the purpose and goals of NATO. Egypt and other member countries are engaged by NATO in a yearly Work Programme to discuss security related issues. NATO also provides military and policy experts to visit countries on an advisory basis. Military representatives from NATO and the participating Mediterranean Dialogue countries also meet twice a year. In fact, Egypt, as well as Jordan and Morocco, participated in NATO operations in Bosnia-Herzegovina and Kosovo through the Mediterranean Dialogue partnership. In 2005 Egypt assumed the role as primary contact with Egypt for all NATO-Egyptian cooperation and coordination efforts. 
+
+PS-SOURCES: Sources www.britishembassy.gov.uk; McNamara 2003; nato.int, New York Times November 29, 1967, November 30, 1967
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,426 @@
+FILE: cm355640v11.0.txt
+DYAD: BULGARIA-TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV949
+DISPUTE(S): MID1274 MID1250 MID3352 MID1251 
+RIVALRY: RIV950
+DISPUTE(S): MID3158 MID3850 MID3857 MID3828 MID3200 
+RIVALRY: RIV951
+DISPUTE(S): MID2601 MID2830 MID2829 
+
+PS: 19081005-19150922 0.0 19150923-19350822 .5 19350823-19530220 0.00 19530221-19850214 0.5 19850215-19911219 0.25 19911220-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303
+LS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID3352 
+
+WWII MIDs: MID3850 MID3857 MID3828 
+
+MID1251 
+
+TERRMID: MID1251 1 -- not territory
+TERRMID-CER: MID1251 1 -- certain 
+TERRMID-NOTES: MID1251 The Balkan states (Bulgaria, Yugoslavia, Greece, and Romania) dispute how to divide the spoils from the First Balkan War. The Ottomans/Turkey ends up in this MID because it backs Serbia (from Gibler 2018). The territorial issues here lie primarily within the Balkan dyads, not with the Ottomans (see terrlink). Yet, ICOW codes a claim between Bulgaria and the Ottomans over Eastern Thrace at this time as well.
+
+TERRLINK: MID1251 1 -- third party link to territory
+TERRLINK-CER: MID1251 1 -- certain 
+TERRLINK-NOTES: MID1251 from Gibler 2018, after the Second Balkan War, there were still outstanding territorial disputes among the Balkan countries. Serbia (Yugoslavia) and Bulgaria both claimed Macedonia, and after Bulgaria refused to cede parts of Macedonia to Serbia, Bulgaria attacked Serbia, Greece, and Romania to control the territory. The Ottomans joined the conflict on the side of the Serbians. Coded third party link to territory because this MID relates to various territorial claims between the Balkan states (but not the Ottomans at this point), claim on Macedonian territory. 
+
+MARITMID: MID1251 3 -- not maritime 
+MARITMID-CER: MID1251 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1251 3 -- not islands 
+ISLMID-CER: MID1251 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1251 3 -- not civil war 
+CIVWARMID-CER: MID1251 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1251 3 -- not civil war link 
+CIVWARLINK-CER: MID1251 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1251 3 -- not coup 
+COUPMID-CER: MID1251 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1251 3 -- not coup link
+COUPLINK-CER: MID1251 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1274 
+
+TERRMID: MID1274 1 -- territorial MID
+TERRMID-CER: MID1274 1 -- certain 
+TERRMID-NOTES: MID1274 from Gibler 2018, Bosnia was annexed by Austria, leading to Bulgaria declaring independence. The Ottomans refused to grant independence to Bulgaria, leading to threats/shows of force but not to any fighting. The Ottomans were eventually persuaded to acknowledge Bulgarian independence. Coded territorial MID because this was connected to sovereignty over Bulgaria. 
+
+TERRLINK: MID1274 3 -- not third party link to territory 
+TERRLINK-CER: MID1274 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1274 3 -- not maritime 
+MARITMID-CER: MID1274 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1274 3 -- not islands 
+ISLMID-CER: MID1274 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1274 3 -- not civil war 
+CIVWARMID-CER: MID1274 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1274 3 -- not civil war link 
+CIVWARLINK-CER: MID1274 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1274 3 -- not coup 
+COUPMID-CER: MID1274 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1274 3 -- not coup link
+COUPLINK-CER: MID1274 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1250 
+
+TERRMID: MID1250 1 -- territorial MID
+TERRMID-CER: MID1250 1 -- certain 
+TERRMID-NOTES: MID1250 from Gibler 2018, Yugoslavia (Serbia), Greece, and Bulgaria were former parts of the Ottoman empire, pressing claims against the Ottomans in the lead-up to WWI. Here, all three countries were seeking to take pieces of Ottoman territory in the Balkan peninsula, and they declared war on the Ottomans. Coded territorial MID because this was connected to disputed territory in the Balkans. 
+
+TERRLINK: MID1250 1 -- not third party link to territory 
+TERRLINK-CER: MID1250 1 -- certain 
+TERRLINK-NOTES: MID1250 The territorial dispute in this dyad is Bulgaria-Ottoman. But the dispute also involves additional territorial claims against the Ottomans from outside this dyad (e.g., Serbia and Greece).
+
+MARITMID: MID1250 3 -- not maritime 
+MARITMID-CER: MID1250 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1250 3 -- not islands 
+ISLMID-CER: MID1250 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1250 3 -- not civil war 
+CIVWARMID-CER: MID1250 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1250 3 -- not civil war link 
+CIVWARLINK-CER: MID1250 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1250 3 -- not coup 
+COUPMID-CER: MID1250 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1250 3 -- not coup link
+COUPLINK-CER: MID1250 1 -- certain 
+COUPLINK-NOTES:
+
+MID3158 
+
+TERRMID: MID3158 3 -- not territory 
+TERRMID-CER: MID3158 1 -- certain 
+TERRMID-NOTES: MID1358 while Bulgaria was trying to gain access to the Aegean Sea here, they were not claiming any other country's territory. Bulgaria wanted reliable access, not sovereignty over the territory. Huth and Allee 2002 do not list a territorial dispute between Turkey and Bulgaria. 
+
+TERRLINK: MID3158 3 -- not third party link to territory 
+TERRLINK-CER: MID3158 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3158 3 -- not maritime 
+MARITMID-CER: MID3158 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3158 3 -- not islands 
+ISLMID-CER: MID3158 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3158 3 -- not civil war 
+CIVWARMID-CER: MID3158 1 -- certain 
+CIVWARMID-NOTES: MID3158 from Gibler 2018, Bulgarian nationalists began "agitating" for access to the Aegean, an issue that Bulgaria and Turkey had been disputing, and Turkey fortified its border, triggering this MID. Coded not civil war because this was connected to domestic protests but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that it involved militarized rebel groups. 
+
+CIVWARLINK: MID3158 3 -- not civil war link 
+CIVWARLINK-CER: MID3158 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3158 3 -- not coup 
+COUPMID-CER: MID3158 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3158 3 -- not coup link
+COUPLINK-CER: MID3158 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3200 
+
+TERRMID: MID3200 3 -- not territory 
+TERRMID-CER: MID3200 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3200 3 -- not third party link to territory 
+TERRLINK-CER: MID3200 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3200 3 -- not maritime 
+MARITMID-CER: MID3200 1 -- certain 
+MARITMID-NOTES: MID3200 from Gibler 2018, Turkish and Bulgarian vessels exchanged fire when a Turkish vessel entered Bulgarian waters. The Turkish ship retreated. Coded not maritime because no maritime boundary was being disputed. 
+
+ISLMID: MID3200 3 -- not islands 
+ISLMID-CER: MID3200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3200 3 -- not civil war 
+CIVWARMID-CER: MID3200 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3200 3 -- not civil war link 
+CIVWARLINK-CER: MID3200 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3200 3 -- not coup 
+COUPMID-CER: MID3200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3200 3 -- not coup link
+COUPLINK-CER: MID3200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2601 
+
+TERRMID: MID2601 3 -- not territory 
+TERRMID-CER: MID2601 1 -- certain 
+TERRMID-NOTES: MID2601 from Gibler 2018, in 1986 Turkey seized a Bulgarian plane to coerce repayment on a debt (Bulgaria disputed the debt). Coded not territory because no boundary was being disputed. 
+
+TERRLINK: MID2601 3 -- not third party link to territory 
+TERRLINK-CER: MID2601 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2601 3 -- not maritime 
+MARITMID-CER: MID2601 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2601 3 -- not islands 
+ISLMID-CER: MID2601 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2601 3 -- not civil war 
+CIVWARMID-CER: MID2601 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2601 3 -- not civil war link 
+CIVWARLINK-CER: MID2601 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2601 3 -- not coup 
+COUPMID-CER: MID2601 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2601 3 -- not coup link
+COUPLINK-CER: MID2601 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2830 
+
+TERRMID: MID2830 3 -- not territory 
+TERRMID-CER: MID2830 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2830 3 -- not third party link to territory 
+TERRLINK-CER: MID2830 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2830 3 -- not maritime 
+MARITMID-CER: MID2830 3 -- uncertain 
+MARITMID-NOTES: MID2830 from Gibler, Miller, and Little 2016, Bulgaria claimed that a Turkish fishing vessel sank when it collided with a Bulgarian naval vessel, but Turkey disputed this claim. Coded not maritime because no boundary was being disputed, and coded uncertain because GML argue this case should be dropped since no evidence of the incident actually occurring could be found.
+
+ISLMID: MID2830 3 -- not islands 
+ISLMID-CER: MID2830 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2830 3 -- not civil war 
+CIVWARMID-CER: MID2830 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2830 3 -- not civil war link 
+CIVWARLINK-CER: MID2830 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2830 3 -- not coup 
+COUPMID-CER: MID2830 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2830 3 -- not coup link
+COUPLINK-CER: MID2830 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2829 
+
+TERRMID: MID2829 3 -- not territory 
+TERRMID-CER: MID2829 3 -- uncertain 
+TERRMID-NOTES: MID2829 from Gibler, Miller, and Little 2016, this was originally coded as a threat of force but GML argue there was no threat, only a vague statement involving protecting ethnic Turks in Bulgaria. Coded not territory because no boundary was being disputed, and coded uncertain because GML argue this case should be dropped. 
+
+TERRLINK: MID2829 3 -- not third party link to territory 
+TERRLINK-CER: MID2829 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2829 3 -- not maritime 
+MARITMID-CER: MID2829 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2829 3 -- not islands 
+ISLMID-CER: MID2829 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2829 3 -- not civil war 
+CIVWARMID-CER: MID2829 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2829 3 -- not civil war link 
+CIVWARLINK-CER: MID2829 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2829 3 -- not coup 
+COUPMID-CER: MID2829 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2829 3 -- not coup link
+COUPLINK-CER: MID2829 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4439 
+
+TERRMID: MID4439 3 -- not territory 
+TERRMID-CER: MID4439 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4439 3 -- not third party link to territory 
+TERRLINK-CER: MID4439 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4439 3 -- not maritime 
+MARITMID-CER: MID4439 1 -- certain 
+MARITMID-NOTES: MID4439 from Gibler 2018, in 2008 the Bulgarian Coast Guard fired on a Turkish vessel that entered Bulgaria's territorial waters. Coded not maritime because no boundary was being disputed. 
+
+ISLMID: MID4439 3 -- not islands 
+ISLMID-CER: MID4439 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4439 3 -- not civil war 
+CIVWARMID-CER: MID4439 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4439 3 -- not civil war link 
+CIVWARLINK-CER: MID4439 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4439 3 -- not coup 
+COUPMID-CER: MID4439 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4439 3 -- not coup link
+COUPLINK-CER: MID4439 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4439
+rivalry=355640 nationa=BULGARIA nationb=TURKEY/OTTOMAN EMPIRE MID4439 20080417-20080417 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+A Turkish fishing boat crossed into Bulgarian waters to retrieve its fishing nets. While in Bulgarian waters it was fired upon by Bulgarian coast guard, killing one of the fishermen. Turkey protested the incident. First day of dispute was on 4/17/2008 and last day of dispute was on 4/17/2008.
+
+RIVNOTES: 
+RIV949: MID3.02 has recoded MID1251 as Bulgaria against everyone else in the Second Balkan War (1913).
+
+NARRATIVE-CM:
+Bulgaria declared its independence from the Ottoman Empire (Turkey) on October 5, 1908. Bulgaria declared war against the Ottoman Empire on October 18, 1912, and Bulgarian troops commanded by General Radko Dimitriev invaded the Ottoman province of Thrace on October 19, 1912 (MID1250). Bulgarian troops defeated Turkish troops near Kirk Kilisseh on October 22, 1912. Bulgarian troops defeated Turkish troops near Lule Burgas on November 3, 1912. Russia warned Bulgaria on November 5, 1912 against the occupation of Constantinople. Bulgarian troops were defeated by Turkish troops near Constantinople on November 18, 1912. Bulgaria and Turkey agreed to a ceasefire on December 3, 1912. Bulgarian and Turkish representatives participated in negotiations in London between December 16, 1912 and January 22, 1913. Bulgarian troops and Turkish troops resumed military hostilities on February 3, 1913. Bulgarian troops captured Adrianople on March 26, 1913. Bulgaria and Turkey agreed to a ceasefire on April 16, 1913. Bulgarian and Turkish representatives signed the *Treaty of London* on May 30, 1913, which provided for the Bulgarian acquisition of Adrianople from Turkey. Some 32,000 Bulgarians and 30,000 Turks were killed during the conflict. Turkey troops attacked Bulgarian troops in Thrace on July 13, 1913 (after Bulgarian troops attacked Greece and Serbia on June 29, 1913). This was MID1251. Bulgaria and Turkey agreed to a ceasefire on August 10, 1913. Some 20,000 Bulgarians and 2,000 Turks were killed in the conflict. Bulgarian and Turkish representatives signed the *Treaty of Constantinople* on September 29, 1913, which provided for the Turkish recovery of Adrianople from Bulgaria. 
+
+MID3352 occurred from August 21, 1915 to September 22, 1915. No specific information was found regarding this MID. 
+
+Turkey mobilized troops on the border with Bulgaria on March 1, 1935, and Bulgaria protested the troop mobilization on March 6, 1935. Bulgaria referred the matter to the *League of Nations *(LON) on March 8, 1935. Bulgaria withdrew the referral from the LON on March 10, 1935. Turkey mobilized troops on the border with Bulgaria between August 23rd to 30th, 1935. This was MID3158. 
+
+MID3850 lasted from October 3rd, 1940 to February 20th, 1941 between Bulgaria and Turkey. Turkey made it clear that it would invade southern Bulgaria if Bulgaria is taken over by Nazi Germany in order to establish defense mechanisms in the mountains of Eastern Rumelia. Since June 1940 Turkey has stationed troops on its European shore (300,000 troops in Thrace) which has been perceived as an offensive measure by Bulgaria. MID3857 occurred in the same context on October 11, 1940. 
+
+MID3854 occurred on November 10th, 1940 and is also related to the imminent threat posed by Turkish troops in Thrace, ready to attack Bulgaria. Bulgaria and Turkey signed a treaty of friendship and non-aggression on February 17, 1941, but Turkey revoked the treaty on March 3, 1941.
+
+No information could be found about MID3828 which occurred on January 8, 1944.
+
+MID3200 occurred on January 5, 1952, and is related to the fact that Turkey joined NATO-a military alliance established to act against the Treaty of Warsaw countries of which Bulgaria was a member and secondly the MID is also related to the fact the Turkey closed the border with Bulgaria for Bulgarian Turks trying to migrate to Turkey. Bulgarian military forces shot down two Turkish military aircraft over its territory on February 9, 1948. On August 16, 1950, Bulgaria agreed to allow 250,000 ethnic-Turks to leave the country over the next three months. Turkey closed its border with Bulgaria on September 10, 1950. Turkey re-opened the border on December 2, 1950, and some 120,000 ethnic-Turks emigrated to Turkey. Turkey closed the border with Bulgaria on November 8, 1951 after 132 gypsies illegally crossed the border into Turkey. Turkey re-opened the border with Bulgaria on February 21, 1953 after Bulgaria agreed to take back the 132 gypsies who had crossed into Turkey in November 1951. Prime Minister Todor Zhivkov of Bulgaria and Prime Minister Demirel of Tukey held negotiations in Ankara on March 20-26, 1968, and signed an agreement on March 22, 1968. Some 115,000 ethnic-Turks were allowed to emigrate to Turkey through 1978. Bulgaria granted political asylum to eight Turkish skyjackers between May 3 and October 23, 1972. The Bulgarian government attempted to force some 800,000 ethnic-Turks to adopt Bulgarian names beginning in November 1984. Ethnic-Turks clashed with Bulgarian troops near Momchilgrad in Kurdzhali province in December 1984, resulting in the deaths of 40 ethnic-Turks. Ethnic-Turks and Bulgarian troops clashed in the Dobrudja region on February 8, 1985, resulting in the deaths of 20 individuals. Turkey recalled its ambassador from Bulgaria on February 15, 1985. Turkey accused Bulgaria of mistreating ethnic-Turks on February 22, 1985. On February 27, 1985, Prime Minister Turgut Ozal of Turkey announced that some 500,000 ethnic-Turks in Bulgaria would be allowed to emigrate to Turkey. Some 40,000 individuals demonstrated in Istanbul against Bulgaria's mistreatment of ethnic-Turks on March 21, 1985. Bulgaria rejected Turkey's requested for negotiations on March 26, 1985. Turkey referred the matter to the *Organization of the Islamic Conference *(OIC)* on April 8, 1985. The secretary-general of the OIC denounced the Bulgarian government's attempts to assimilate ethnic-Turks. The *Council of Europe* (COE) Parliamentary Assembly condemned human rights abuses against minorities in Bulgaria on September 26, 1985. On April 2, 1986, *Amnesty International *reported that 100 ethnic-Turks had been killed by Bulgarian troops during the "Bulgarization campaign." On July 15, 1987, *Amnesty International *reported that Bulgaria continued to violate the human rights of ethnic-Turks. Ethnic-Turks and Bulgarian troops clashed in Kaolinovo and Todor Ikonomovo on May 20-21, 1989, resulting in the deaths of three ethnic-Turks. Bulgaria expelled 250 ethnic-Turks from the country on May 26, 1989. Some 350,000 ethnic-Turks fled from Bulgaria between February and August 21, 1989. Turkey closed the border with Bulgaria on August 21, 1989. The United States recalled its ambassador to Bulgaria on August 29, 1989 to protest the government's mistreatment of ethnic Turks. The Amir of Kuwait facilitated negotiations between Bulgarian and Turkish representatives on October 29-30, 1989.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 589-590; Clodfelter, 1992, 613-614; Ference, 1994, 61-102; *Foreign Broadcast Information Service *(FBIS), January 16, 1985, January 22, 1985, January 23, 1985, February 25, 1985, August 22, 1989, August 23, 1989, October 31, 1989; *Keesing*, April 27-May 4, 1968, June 1985, July 1986, November 1987, May 1989, June 1989; *Middle East Journal *(MEJ), Spring 1985, Autumn 1989; New York Times August 25, 1935; October 24, 1940; 
+
+NARRATIVE-CR:
+Aggressions between Bulgaria and the Ottoman Empire/Turkey effectively began with the Young Turk Revolution, which lead to the Bulgarian declaration of independence in 1908 by King Ferdinand of Bulgaria. Prior to 1908 Bulgaria was a principality of the Ottoman Empire subject to oversight by a Turkish Grand Vizier. The Ottoman Empire had been traditionally unconcerned by the Balkan states as they were small in military and economically unimpressive. However, by the beginning of the 20 Century things had begun to change and the feelings in Constantinople were soon to change (Kedourie 1999, 136). In part because of growing concern over Greek and Bulgarian intentions the Young Turks effectively took control over foreign policy-making with the intention of restoring the Ottoman Empire to its former greatness and beyond if possible. It seems that the Sultan of the Empire did not exercise much control over foreign policy as the Young Turks (the Committee of Union and Progress) did. 
+
+Concerned over the change in government in the Ottoman Empire (or maybe perhaps simply using it as a reason for change) King Ferdinand initiated a string of events that would eventually lead to several small conflicts between Turkey and Bulgarian, a large military build-up and eventually a declaration of independence that would drive a rift between the two nations until their eventual alignment during the First World War. The first event in the string is known as the Geshov Incident of September 1908 (Kedourie 1999 p141). It was a rather small diplomatic incident where the Sultan had not invited the Bulgarian diplomatic representative, Geshov, to a birthday party. King Ferdinand protested that the oversight was an intended insult towards Bulgaria and an attempt to relegate them to unimportance. Rather than let the situation diffuse it elevated to a point where Bulgaria seized a portion of the Ottoman controlled Oriental Railway (Kedourie 1999 143).
+
+The intended effect of the seizure on September 20th of 1908 was to force the Sultan to take notice of Bulgaria and to repay an insult. The situation again elevated through a series of events to where Bulgaria mobilized between 100,000 and 115,000 troops on the Bulgarian-Turkish border in October of 1908 (which is the official start date for the MID series-MID1274). Ferdinand threatened to increase the number to 215,000 and forced the question of Bulgarian independence on the Ottoman Empire. While the Ottoman Empire felt that Bulgaria had used several small events as a way to elevate tensions to the point of declaring independence there was little that could be done. Bulgarian troop mobilization was almost complete and Turkish mobilization would take over three years (Kedourie 1999). In a small effort to reclaim some losses Turkey demanded that Bulgaria pay 125,000 francs: 25,000 for the railroad that they seized and 100,000 for compensation for loss of territory as the result of Turkey granting Bulgaria independence. 
+
+Bulgaria refused on both accounts, however Russia struck a deal with the Ottoman Empire where they received their demanded amount in exchange for recognizing Bulgaria's independence on March 16 of 1909. The Empire agreed to the Ottoman-Russian protocol because of a newly reported Bulgarian-Russian alliance (Kedourie 1999 p165). Continued disputes however would occur between Turkey and Bulgaria over several border issues and Railway access issues. Complete acceptance of Bulgarian independence would not be fully settled until 1915 when both states would enter into alliance with Germany at the beginning of World War I (MID257). The last MID in the series is coded as MID3352 and refers to a railway dispute between the nations. However territory issues were put on hold with the mutual alliance to Germany. WWI effectively ended the dispute over Bulgaria's right to independence, however a whole new problem would emerge in the wake of the Second World War (MID258) when Bulgaria is taken by the Bolsheviks, the presence of ethnic Turks within the borders of Bulgaria.
+
+Communism created new nationality problems in Bulgaria with the issue of Bulgarian Muslims becoming the premier problem in Bulgarian-Turkish relations (Danopoulos 1997). One of the measures that Bulgaria undertook to 'solve' the problem was to deport a large amount of ethnic Turks beginning in 1950 and not ending until January of 1952 when Turkey closed its borders to Bulgarian Turks. Also in 1952 Turkey was admitted to the North Atlantic Treaty Organization, which gave it added leverage against Bulgaria and the Warsaw Pact in terms of aggressive moves. WWI having originated in the Balkans was fresh in the minds of both Western and Eastern leaders therefore much more control was exercised concerning NATO-Soviet relations. 
+
+The issue of Bulgarian treatment of ethnic Turks again becomes a salient issue in the 1980's during the decline of the Communist Regime. With the impending fall of Warsaw Pact Bulgaria again implemented a policy of forced relocation (Danopoulos 1997 p213). Turkey having had opened its borders received over 300,000 immigrants from Bulgaria by 1987. In addition to the immigration problem some border disputes over waterways were cleared up in a maritime treaty in September of 1987. The issue of Bulgarian treatment of domestic ethnic Turks is put on hold at least for a while because of regime reform that has occurred since the collapse of the Warsaw Pact. However, recent reports on the treatment of ethnic minorities in Bulgaria are not promising (Amnesty International. The formal improvement of relations among the states may be the result fo pressure applied by the EU (which both states are aspiring to join) and NATO. 
+
+SOURCES CR:
+Danopoulos 1997; Kedourie 1999
+
+PS-NARRATIVE:
+
+19530221-19850214 0.5
+
+Turkey re-opened the border with Bulgaria on February 21, 1953 after Bulgaria agreed to take back the 132 gypsies who had crossed into Turkey in November 1951. On September 12, 1953 the government of Turkey made it clear to the Bulgarian government that they want to tackle the issue of the Turkish population in Bulgaria which is systematically discriminated against. Prime Minister Todor Zhivkov of Bulgaria and Prime Minister Demirel of Turkey held negotiations in Ankara on March 20-26, 1968, and signed an agreement on March 22, 1968. Some 115,000 ethnic-Turks were allowed to emigrate to Turkey through 1978. Bulgaria granted political asylum to eight Turkish skyjackers between May 3 and October 23, 1972. On June 7, 1979, a protocol was signed by Turkey and Bulgaria at the end of the fourth round of the talks of the joint Turkish-Bulgarian Economic and Technical Co-operation committee in Ankara. The protocol envisages co-operation between the two countries in trade, agriculture, food industry, energy, technology, communications, transport and tourism. The protocol was signed by Trade Minister Teoman Koprululer and Bulgarian Transport Minister, Vasil Tsanov. 
+
+On July 11, 1979, Prime Minister Bulent Ecevit has said that the differences in the systems of Turkey and Bulgaria and the fact that the two countries are members of different alliances do not obstruct bilateral relations and co-operation between the two countries. Ecevit gave a dinner in honor of the Chairman of the Bulgarian State Council, Todor Zhivkov, in Antalya this evening. In a speech at the dinner, Ecevit pointed out that co-operation between Bulgaria and Turkey extended to the fields of energy, communications, culture, and art, and that this co-operation contributed to international detente and world peace.
+
+The Bulgarian government attempted to force some 800,000 ethnic-Turks to adopt Bulgarian names beginning in November 1984. Ethnic-Turks clashed with Bulgarian troops near Momchilgrad in Kurdzhali province in December 1984, resulting in the deaths of 40 ethnic-Turks. Ethnic-Turks and Bulgarian troops clashed in the Dobrudja region on February 8, 1985, resulting in the deaths of 20 individuals. Turkey recalled its ambassador from Bulgaria on February 15, 1985. Turkey accused Bulgaria of mistreating ethnic-Turks on February 22, 1985. On February 27, 1985, Prime Minister Turgut Ozal of Turkey announced that some 500,000 ethnic-Turks in Bulgaria would be allowed to emigrate to Turkey. Some 40,000 individuals demonstrated in Istanbul against Bulgaria's mistreatment of ethnic-Turks on March 21, 1985. Bulgaria rejected Turkey's requested for negotiations on March 26, 1985. Turkey referred the matter to the *Organization of the Islamic Conference *(OIC)* on April 8, 1985. The secretary-general of the OIC denounced the Bulgarian government's attempts to assimilate ethnic-Turks. The *Council of Europe* (COE) Parliamentary Assembly condemned human rights abuses against minorities in Bulgaria on September 26, 1985.
+
+It has been announced on July 28, 1981 that from 1982, the amount of electricity imported from Bulgaria to Turkey will be doubled. On March 2, 1982, at a news conference at Esenboga airport, Evren recalled that this had been the first visit to Bulgaria at the level of head of state. Noting that it had been a loss not to have exchanged visits at the highest level with this neighboring country which had coexisted very closely with Turkey for centuries and whose culture and traditions were very similar to those of Turkey, Evren said: When the Bulgarian people received us they were shouting slogans of ''peace'' and ''friendship''. As you know, Turkey has always pursued a policy of peace, a policy of friendship and good will with all countries, irrespective of their political and economic systems. We are determined to continue this policy in the future as well. Evren said that co-operation had developed in many fields between Turkey and Bulgaria in recent years. He added that, however, during his visit it had been decided that there were many more fields in which the two countries could co-operate. He noted that the necessary activities would be continued to develop co-operation further, and that thus relations with Bulgaria had entered a better stage. Evren said: We believe that if Turkey acts in accordance with the principle of good-neighborliness, more tranquility can be achieved. In fact if all countries establish tranquil and comfortable relations with their neighbors, problems can automatically be solved in the world and especially in Europe. And again, we believe that all countries have both domestic problems and problems involving other neighboring or faraway countries. Such problems can only be solved through mutual talks. If dialogues are interrupted, then this has a different connotation. Therefore, we have always chosen to solve our problems through bilateral talks, to be held in an atmosphere of good will. We are determined on this method, and we believe that this is the best method. Noting that he had held positive talks with Zhivkov, Evren said that action would be taken with the aim of reuniting separated families, a situation that had been created after the emigration agreement between the two countries expired in 1978. Evren said that the Aziziye Hill problem, concerning a region close to the border with Bulgarian territory, which could not be opened to agriculture until now due to a bilateral agreement, had been solved with a protocol that had been signed. Recalling that an agreement had not yet been reached between the two countries in regard to the continental shelf issue in the Black Sea, Evren added that a decision had been made to begin talks on the continental shelf with good will. Recalling that there was a Turkish-Bulgarian agreement on the issue of smuggling, Evren said that during his talks with Zhivkov they had reached an agreement in principle in regard to the effective implementation of this agreement, and that smuggling into Turkey through Bulgaria would thus be prevented to some extent. Evren concluded by saying: In conclusion, I can say that this visit was very beneficial and productive. Through similar visits to other neighboring countries we will further strengthen the peaceful policy that Turkey has always pursued. I also brought the greetings of Zhivkov and the Bulgarian people to the Turkish nation. I should like to convey those greetings. The Foreign Minister, Ilter Turkmen, has said on February 16,1983, that his recent visit to Bulgaria was an important step in the development of relations, and that it had yielded positive results to the benefit of both countries. He also said that Turkey and Bulgaria had reached an agreement to speed up their co-operation to prevent smuggling. In a news conference he held in Ankara, Turkmen pointed out that the visit paid to Bulgaria by President Kenan Evren last year constituted an important stage in the relations between the two countries. He added that during his talks with Bulgarian officials they had reviewed the developments following President Evren's visit. Turkmen said that Bulgaria had an important place in Turkish foreign policy as a neighboring country, adding that the policy to develop the relations further would be continued. The Foreign Minister said that during his talks in Sofia, they had discussed the develop-ment of economic co-operation between Turkey and Bulgaria and various international issues. He noted that the two sides had agreed that it would be beneficial for the establishments and business circles concerned to hold contacts to promote commercial relations between the two countries. He said that an agreement in principle had been reached with Bulgarian officials to undertake joint investments in industry and agri-culture and to develop co-operation in the field of energy. Turkmen pointed out that during his talks an identity of views had been reached to support harmonious relations among the Balkan countries. Replying to a question about the extradition of Bekir Celenk, for whom an arrest warrant had been issued in Turkey in his absence, Turkmen said that Bulgarian officials had said that the extradition demand was being studied, and that it was out of the question for Celenk to go to another country. Replying to another question, Turkmen explained that the Bulgarian Government had recently begun to take certain steps to prevent smuggling, and that they had decided to speed up their co-operation in this field. To a question on Turkish-Greek relations, Turkmen said that Turkey was always ready for negotiations that aimed at solving problems. He said that, in accordance with the Lausanne treaty's stipulations that the Aegean islands must have a non-military status, the island of Limni [Limnos] must be kept outside NATO exercises, and that the military installations in that island must be dismantled.
+
+The chairman of the state council of Bulgaria Todor Zhivkov arrived to Istanbul on June 7, 1983, on a four-day official visit to Turkey. He would reportedly discuss with Turkish leaders the question of increasing trade between the two countries, the international situation and the situation in the Balkan in particular. Under their trade agreement signed in 1974, the two countries have used free currencies for settling accounts in their trade. In 1982, Turkey's export to Bulgaria stood at 17 million US dollars in value and its import from Bulgaria reached 60 million US dollars excluding the cost of 165 million kw of electricity supplied by Bulgaria. The trade volume between the two countries is expected to reach 250 million US dollars in 1988.
+
+Turkey and Bulgaria will further promote cooperation in the fields of communications, tourism and culture, it was announced in Ankara on July 13, 1984, after a two-day talks held here between the foreign ministers of the two countries. Turkish foreign minister Vahit Halefoglu and his Bulgarian counterpart Peter Mladenov in their talks reached identical views on further developing the existing economic, social, political, and in particular trade relations between the two countries. They also reached agreement in principle on common actions in communications, highways and sea transportation. In recent years, the development of the two countries' relations has been marked by mutual visits of their top leaders such as Turkish president's visit to Bulgaria in February, 1982; a return call by Bulgarian chairman of the state council in June, 1983 as well as Turkish foreign minister's visit to Bulgaria in February, 1983. The total export volume of turkey to Bulgaria amounted to 20.3 million US dollars last year while that of imports was 99.5 million dollars. Turkey's total export volume to Bulgaria in the first four months of this year was valued at 18.4 million dollars while its imports at 10.3 million dollars. Turkey imported electricity of 1.5 billion kwh from Bulgaria in 1983 and will import two billion kwh this year. Turkish president Kenan Evren and prime minister Turgut Ozal received Bulgarian minister Mladenov.
+
+19850215-19911219 RIV951-0.25
+
+The Bulgarian government attempted to force some 800,000 ethnic-Turks to adopt Bulgarian names beginning in November 1984. Ethnic-Turks clashed with Bulgarian troops near Momchilgrad in Kurdzhali province in December 1984, resulting in the deaths of 40 ethnic-Turks. Ethnic-Turks and Bulgarian troops clashed in the Dobrudja region on February 8, 1985, resulting in the deaths of 20 individuals. Turkey recalled its ambassador from Bulgaria on February 15, 1985. Turkey accused Bulgaria of mistreating ethnic-Turks on February 22, 1985. On February 27, 1985, Prime Minister Turgut Ozal of Turkey announced that some 500,000 ethnic-Turks in Bulgaria would be allowed to emigrate to Turkey. Some 40,000 individuals demonstrated in Istanbul against Bulgaria's mistreatment of ethnic-Turks on March 21, 1985. Bulgaria rejected Turkey's requested for negotiations on March 26, 1985. Turkey referred the matter to the *Organization of the Islamic Conference *(OIC)* on April 8, 1985. The secretary-general of the OIC denounced the Bulgarian government's attempts to assimilate ethnic-Turks. The *Council of Europe* (COE) Parliamentary Assembly condemned human rights abuses against minorities in Bulgaria on September 26, 1985. On April 2, 1986, *Amnesty International *reported that 100 ethnic-Turks had been killed by Bulgarian troops during the "Bulgarization campaign." 
+
+The first MID of RIV951, MID2601 occurred from July 20th to 23rd, 1986. A Bulgarian national airlines jetliner was seized at Istanbul's airport on July 20, 1986, under a court order, the Hurriyet news agency reported. It said the Balkan Airlines aircraft, a 151-seat, Soviet-made Tupolev 154, was taken over by police just before it was scheduled to leave for Sofia, the capital of Bulgaria, with 125 passengers. The jetliner was turned over to customs officials and passengers were flown to Sofia on another Bulgarian aircraft, Hurriyet said. It said the district court order declared that Balkan Airlines had failed to pay the equivalent of $90,000 in compensation to the heirs of Haydar Yasa, a Turk killed in the crash of a Balkan Airlines plane near Sofia on Jan. 10, 1984. In the afternoon of 3rd September, 1986 near the village of Generalovo, Khaskovo Region, a border trespasser coming from Greek territory made use of a firearm to resist his lawful arrest and was shot dead. The papers found on him identify him as Turan Kanya, a Turkish citizen. The Greek border authorities said that the offender had killed one person and had injured another on their territory. The two Bulgarian border guards wounded in the exchange of fire have been rushed to hospital in Sofia by helicopter. The second MID of RIV951, MID2830, occurred on September 14, 1987. It seems to be related to the threats raised by Turkish Prime Minister Turgut Ozal at the Bulgarian government regarding the treatment of the Turkish minority in Bulgaria. 
+
+The last MID of RIV951, MID2829 ended on October 3, 1987. MID2829 was over the same threatening remarks made by Turkish Prime Minister Turgut Ozal during September and October 1987. The Bulgarian government reacted saying that there is no Turkish minority in Bulgaria but just a group of Bulgarians who were Islamized during the Ottoman Empire's occupation of Bulgaria. On August 22, 1989, the government of Bulgaria accused Turkey of hyprocrisy for its decision requiring that ethnic Turks immigrating from Bulgaria first obtain visas. Turkish border officials said they had strict orders to turn away the refugees waiting to cross into Turkey. However, the semi-official Turkish news agency Anatolia said 522 were allowed to cross without visas anyway. The refugees say they are fleeing a harsh assimilation campaign in Bulgaria. The Turkish government announced its move Monday, saying it would require the visas because Bulgaria's communist leaders have refused to start talks on an accord to protect the emigrants. Turkish officials said the new requirement would give them more control over the influx. However, Turkish opposition parties accused the government of backing away from its pledge to accept all ethnic Turks who want to come. Turkey's ambassador to Sofia was summoned to the Foreign Ministry to hear Bulgarian complaints about the "exceedingly harsh predicament" of thousands of Bulgarian Turks en route to Turkey, the official Bulgarian BTA news agency said. "The Turkish government's decision to close its border to Bulgarian citizens proves the hypocrisy and the instigation of the Turkish mass media and officials who used to claim that unobstructed admission will be secured for all Muslim Bulgarians," BTA quoted the Communist Party daily newspaper Rabotnichesko Delo as saying. "This decision debunked a myth which has been persistently propagated by the stage managers of the anti-Bulgarian propaganda: that Turkey is the 'mother country,' the real homeland of Moslem Bulgarians," the newspaper said. Bulgaria blames Turkey for refusing to hold talks on reaching an immigration agreement, BTA said. About 310,000 Bulgarian Turks have flooded into Turkey in the past three months. They say the assimilation campaign, begun in 1984, has prevented them from using their Turkish names, speaking Turkish or practicing Islamic rites. About 1.5 million ethnic Turks live in Bulgaria. Turkey says an immigration accord should stipulate that those who leave be compensated for property left behind and accumulated social security. It also says families should be kept together. Turkish officials say ethnic Turks can now obtain visas from Turkey's consulates at Burgas and Sofia in Bulgaria. Anatolia said Turkish authorities tried to turn back the refugees who crossed at the Kapuikule border post Tuesday without visas. However, some of the refugees tried to jump from the windows of the train they were in, and officials agreed to let the group cross, the agency said. In Istanbul, Turkey, members of a U.S. congressional delegation criticized Bulgaria. On March 31, 1992, Bulgaria believed that by fishing in the contested Black Sea zone Turkish boats are violating the 1988 agreement between Bulgaria and Turkey to avoid actions on either side that could disturb order in the region, Deputy Foreign Minister Valentin Dobrev said in response to a question concerning the 13th March incident with a Turkish fishing boat when a Bulgarian border guard was killed. The reason for the refusal of the Turkish Ambassador in Sofia to receive the protest note of the Bulgarian Foreign Ministry delivered on 16th March is that Turkey disagrees with the Bulgarian interpretation of the case viewing the Bulgarian reaction as too strong. 
+
+19911220-20159999 0.5 
+
+Turkey and Bulgaria signed military accords on December 20, 1991 designed to build confidence through the withdrawal of troops along their mutual border and the training of Bulgarian officers in Turkish military academies. On 10th December, 1993 Mr. Suleyman Demirel, president of the Republic of Turkey said in an interview that "Turkey does not at all meddle in Bulgaria's domestic policy'. "Turks in Bulgaria are Bulgarian citizens and law-abiding citizens of their country. The Bulgarian Turks are nice people and live in peace with the Bulgarians," Mr Demirel says. "We do not instigate them at all to one thing or another. Nor can we do so, because Turkey is a democracy, and many different voices are heard in democracies. A democracy cannot be an aggressor," the Turkish president emphasizes. Conferring with Mr Demirel, Mr Zhivkov had claimed that he was trying to keep everything all right. "It was all right and all right and nothing but all right until 1989, when he drove so many people away; 350,000 people left for Turkey," says the Turkish president, referring to the aftermath of the forced change of ethnic Turks' names by the communist regime in the second half of the 1980s. "Our relations with Bulgaria are now very good, and they will stay that way," Mr Demirel says. "Bulgaria and Turkey must continue to work together for the cause of peace, of Balkan peace," he says. "Free trade, free communications, free transport and cooperation in the Balkans-such cooperation will be of benefit to us all," the president of the Republic of Turkey adds. "I am convinced that Turkey and Bulgaria, being two friendly neighbouring countries, will continue to cooperate for the benefit of the two peoples. We are filled with good will, and so is Bulgaria," the Turkish head of state observes in conclusion. He extends best wishes to Bulgarians and to President Zhelev, whom he wishes success in his work. "I hope to visit Bulgaria in the nearest future," Mr Demirel tells his interviewer of the 'Kontinent' daily. Bulgarian President Zhelu Zhelev arrived in Ankara on July 6, 1994, marking the first state visit by a Bulgarian head of state to Turkey since relations between the neighbours improved following the collapse of the Soviet Union. Relations between the two Cold War foes reached an all-time low in 1989 when it was revealed that Bulgaria was involved in a campaign of forced assimilation of 900,000 Bulgarian ethnic Turks under the communist rule of Todor Zhivkov. Turkey opened its borders to tens of thousands of Turks fleeing Bulgaria. Today ties between the two erstwhile rivals are good. This week Bulgarian Chief of Staff Lyuben Petrov inspected joint naval exercises in Turkey. During his stay, President Zhelev is expected to hold talks with Turkish business representatives and sign agreements to boost economic ties between Bulgaria and Turkey. He will also discuss a number of issues affecting the Balkans and suggest long term projects for cooperation in the region. In a interview with Istanbul's daily Milliyet newspaper published Tuesday, Zhelev described his vision for the Balkans as an "integrated area with only symbolic borders." He said he would encourage projects including a highway starting from Turkey, linking Bulgaria to Macedonia and Albania and reaching Italy's Adriatic shores. "Such a project would reduce Bulgaria's dependence on Serbia and be an alternative to the embargo whose length is still undetermined." A second project supported by Bulgaria would link Greece to the Bulgarian capital Sofia and Central Europe via a bridge across the Danube, while a third would tie Turkey, Bulgaria and Romania to Ukraine and Russia, he said. Both Turkey and Bulgaria are members of the Black Sea Economic Cooperation (BSEC) created in 1992 to ensure political stability in the turbulent region and develop the economies of countries of the region, most of which have recently adopted a free market economy. Zhelev and his host, Turkish President Suleyman Demirel, are expected to sign an economic, trade and technical cooperation pact as well as agreements to prevent double taxation and protect mutual investments. The trade volume between the two countries stands at 235 million dollars. A Turkish spokesman said economic ties between two countries were at pleasing level but still left room for improvement. The Anatolia news agency said Zhelev would also ask President Demirel to support Bulgaria's bid for full membership of NATO. "Our two neighbours, Turkey and Greece, are NATO members. Bulgaria should be in NATO for the continuation of stability in the region," Anatolia quoted him as saying. "We have signed the Partnership for Peace agreement even though it does not guarantee our full security. Our main aim is NATO membership."
+
+Turkey's president said on July 4, 1995, that his country would support an application by Bulgaria to join NATO and urged the neighboring country to back Turkish efforts to develop closer ties with Europe. ''Turkey will back Bulgaria's candidature to join NATO,'' the state news agency, BTA, quoted President Suleyman Demirel as saying after private talks with Bulgarian President Zhelyu Zhelev. Zhelev, a former dissident, wants Bulgaria to seek full NATO membership. He is in a political battle with the ruling Socialist Party of former Communists who object to NATO membership, fearing it would antagonize Russia. Russia says it would be isolated by a NATO eastward expansion. Russia agreed last week to give Bulgaria tanks and helicopters worth US 500 million in an effort to cool its desire to join the U.S.-led military alliance. Bulgaria signed up a year ago for NATO's Partnership for Peace program, which allows countries to participate in NATO maneuvers and to have representatives at NATO headquarters in Brussels, Belgium. But like other former Soviet bloc countries, Bulgaria seeks full membership. ''Turkey and Bulgaria must support each other in the European structures, where they are both members,'' Demirel said. He apparently meant the Council of Europe, whose parliamentary assembly has threatened to suspend Turkey's membership, demanding that it end an invasion of northern Iraq and make progress on human rights protection. Turkey is also struggling to join the European customs union, but encounters opposition from European Union member Greece, which has close ties with Bulgaria. Communications between Turkey, a NATO member, and Bulgaria, a former Soviet satellite state, had been considerably strained during the Cold War period because the Communist regime had forced 800,000 ethnic Turks in Bulgaria to take Slavic names. Bulgaria has been often given as an example of peaceful solution of ethnic problems, which have erupted in bloody conflicts elsewhere in the defunct Soviet bloc. The country's 8.5 million people are mainly Slavic-speaking Christian Orthodox. The Bulgarian Turk minority has won protection of human rights under the post-Communist governments, and a Turkish ethnic party has 15 seats in Bulgaria's parliament. But Bulgaria and Turkey still have some differences on issues expected to be discussed during Demirel's meetings with Bulgarian officials. Bulgaria has repeatedly called for gradual lifting of the sanctions that the United Nations imposed on neighbouring Yugoslavia for fomenting the war in Bosnia-Herzegovina. Bulgaria claims it has lost US 3.5 billion in trade because of the sanctions. Turkey, a Muslim country, supports the Muslim-led Bosnian government and opposes the lifting of sanctions on Serb-dominated Yugoslavia. Bulgaria and Turkey differ also over the future of the Black Sea Economic Cooperation Council. Turkey seeks to politically institutionalize the loose, 11-nation community by establishing a parliamentary assembly of the member countries. Bulgaria says economic matters should take precedence.
+
+On July 28, 1997, Turkey and Bulgaria signed four cooperation agreements designed to advance bilateral relations. After meeting with the Turkish President Suleyman Demirel, Bulgarian President Petar Stoyanov and a delegation of business leaders announced cooperation accords on the environment, transportation, tourism and nuclear safety. Earlier, Demirel had said that Turkey was willing to participate in efforts to achieve peace and stability in the Balkans. "This visit will help the two countries solve their problems in a good and neighborly manner," he told a press conference. Demirel continued: "At a time when Europe is restructuring its security and economics policies, Turkey and Bulgaria, two important and powerful figures in southeastern Europe, should do their best for the maintenance of peace and stability." Stoyanov said the two countries should continue their cooperation. The business delegation accompanying the Bulgarian president on his three-day visit, and representatives from the Chamber of Turkish Trade and Industry (TOBB), urged stronger economic and commercial relations. The chairman of the Bulgarian delegation, Bojidar Bojinov, said Turkey was an important partner for Bulgaria. He added: "if we do not help each other, none of the European states will." TOBB representative Erol Gemalmaz said trade between Turkey and Bulgaria increased from 216 million to 509 million dollars between 1991 and 1996. Besides Demirel, Stoyanov will also meet with Turkish Prime Minister Mesut Yilmaz and he will address the parliament in Ankara. On May 16, 1998, Turkish Foreign Minister Ismail Cem has said that relations with Bulgaria are at their best ever level. Cem was speaking during a visit to Bulgaria, during which he discussed economic and social cooperation with senior Bulgarian leaders and expressed Turkey's support for Bulgaria's application to join NATO. He also said that Turkey backed Bulgaria as the headquarters of the planned Balkan peacekeeping force. 
+
+Turkish Prime Minister Bulent Ecevit said on 3 October, 2002, that friendly relations had been set up between Turkey and Bulgaria in recent years. The November 2002 announcement that Bulgaria will join NATO, as of 2004, was an important step towards bringing Turkey and Bulgaria closer together. Following tete-a-tete and inter-delegation meetings, Prime Minister Ecevit and Prime Minister Simeon Saxe-Coburg-Gotha of Bulgaria who is currently in Turkey on an official visit, held a joint press conference. Speaking at the press conference, Prime Minister Ecevit expressed his pleasure with hosting Prime Minister Saxe-Coburg-Gotha and his entourage in Turkey. He said that friendly relations had been set up between the two neighboring countries especially in recent years. "Our bilateral relations have accelerated during Prime Minister Saxe-Coburg-Gotha's term in office," he said. Ecevit said that he hoped that Turkey and Bulgaria would carry out some joint projects. Recalling that Turkey and Bulgaria had set up close cooperation in economy, education and culture, Prime Minister Ecevit added: "We have been trying to do our utmost for Bulgaria's becoming a member of NATO. We attribute great importance to Bulgaria's membership to NATO. Also, we hope that Romania would become a member of NATO." Turkey and Bulgarian have solved differences over Turkey's electricity purchase from Bulgaria, reported the Anatolian News Agency on June 10, 2003. A protocol was signed in Ankara after ministers from the two neighbors concluded discussions on the matter. An understanding on a bargain over the deal was reached by Turkish Minister of Energy and Natural Resources Hilmi Guler, visiting Bulgarian Minister of Regional Development Valentin Tserovski and Energy Minister Milko Kovachev. Under the protocol, Bulgaria would award a Turkish company in a motorway construction bid within three months, and a decision would be taken within 10 days on building two dams by the Turkish firm. If Bulgaria does not award Turkish companies with construction of those dams, Turkey would not purchase Bulgarian electricity, according to the protocol. An energy cooperation agreement, signed by Turkey and Bulgaria in 1998, foresaw purchase of 4 billion kilowatt-hour of electricity by Turkey from Bulgaria within 10 years. In exchange, Turkish companies would be granted projects of a motorway that will connect Bulgaria to Turkey, three dams over Arda River and a hydroelectric power plant. Turkey stopped purchase of electricity from Bulgaria in April, citing Bulgaria' failure to fulfill its commitments under the agreement. On 27 May, 2004, Bulgarian Foreign Minister Solomon Pasi said in Istanbul that Turkish-Bulgarian cooperation in military manufacturing industry within the framework of NATO would open new horizons between the two countries. Pasi attended a working lunch hosted by Turkish-Bulgarian Business Council in Istanbul. Speaking prior to the luncheon, Pasi said that he was accompanied by a large delegation including deputies, businessmen and governors during his visit to Turkey. Pasi noted that diplomatic relations between Bulgaria and Turkey had been established 125 years ago. Bulgaria was one of the first countries recognizing the newly-founded Turkish Republic in 1920s, Pasi stated. Pasi pointed out that he and Turkish Foreign Minister Abdullah Gul saw that bilateral relations had reached their best level in the last 50 years. On 3 May, 2005, Turkish President Ahmet Necdet Sezer has said that he had a fruitful and comprehensive meeting with Bulgarian President Georgi Purvanov. "Purvanov extended an invitation to me to attend the Regional Forum on Southeast European Cultural Corridors which will take place in Varna on 20-21 May," said Sezer. Sezer hosted a luncheon after his meeting with Purvanov. The luncheon was also attended by Foreign Minister and Deputy Prime Minister Abdullah Gul and Minister of Interior Affairs Abdulkadir Aksu. "Our friendly and neighboring Bulgaria has become a country that contributes to peace and stability in the Balkans. The reforms it has made in the past 15 years have made Bulgaria an important part of the Euro-Atlantic alliance. I congratulate President Purvanov and the Bulgarian people for signing the EU Accession Agreement on 25 April 2005. This historical step will bring our countries closer to each other," told Sezer. Sezer indicated that the absence of political disputes between Turkey and Bulgaria is an important reality that will make relations much better in the future. "With a total annual trade volume of 1.8bn US dollars, Bulgaria is Turkey's second biggest trade partner in the Balkans. Turkey is also the biggest investor in Bulgaria. Mr Purvanov's visit gave us the chance to review and strengthen our already existing economic ties," expressed Sezer.
+
+PS-SOURCES: Xinhua June 7, 1983; July 14, 1984; June 10, 2003; BBC June 2, 1979; July 11, 1979; July 28, 1981; March 2, 1982; February 16, 1983; July 18, 1984; October 8, 1987; March 31, 1992; December 14, 1993; July 6, 1994; May 16, 1998; October 3, 2002; May 28, 2004; May 3, 2005; Associated Press July 20, 1986; August 22, 1989; July 4, 1995; New York Times September 12, 1953; August 14, 1989; Deutsche Presse-Agentur July 28, 1997
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+None of the MIDs listed above refer to the following incident:
+On March 31, 1992, Bulgaria believed that by fishing in the contested Black Sea zone Turkish boats are violating the 1988 agreement between Bulgaria and Turkey to avoid actions on either side that could disturb order in the region, Deputy Foreign Minister Valentin Dobrev said in response to a question concerning the 13th March incident with a Turkish fishing boat when a Bulgarian border guard was killed. The reason for the refusal of the Turkish Ambassador in Sofia to receive the protest note of the Bulgarian Foreign Ministry delivered on 16th March is that Turkey disagrees with the Bulgarian interpretation of the case viewing the Bulgarian reaction as too strong.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.

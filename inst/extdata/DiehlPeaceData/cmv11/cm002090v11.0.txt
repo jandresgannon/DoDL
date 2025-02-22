@@ -1,0 +1,97 @@
+FILE: cm002090v11.0.txt
+DYAD: USA - GUATEMALA
+RIVALRY: RIV16
+DISPUTE(S): MID1535 
+RIVALRY: RIV17
+DISPUTE(S): MID1734 
+RIVALRY: RIV18
+DISPUTE(S): MID1124 
+
+RIVNOTES: 
+
+PS-UPDATE2020:
+
+PS-LAST-CHANGED: 20220207
+PS-LAST-CHECKED: 20220207
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1535
+
+MID1734 
+
+TERRMID: MID1734 3 -- not territory
+TERRMID-CER: MID1734 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1734 3 -- not third party link to territory 
+TERRLINK-CER: MID1734 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1734 3 -- not maritime 
+MARITMID-CER: MID1734 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1734 3 -- not islands 
+ISLMID-CER: MID1734 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1734 3 -- not civil war 
+CIVWARMID-CER: MID1734 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1734 1 -- civil war link
+CIVWARLINK-CER: MID1734 3 -- uncertain
+CIVWARLINK-NOTES: MID1734 from NYT 1/16/1911, the US urged Guatemala to respect the policy of neutrality in the ongoing revolution in Honduras. The US believed that Guatemala was providing support to Honduran rebels, and the US was opposed to that rebel movement in Honduras. The warning/urging by the US is what triggers the MID here. This is coded civil war link because this incident is centered on the revolution in Honduras, outside of this dyad. Coded uncertain because Gibler, Little, and Miller (2016: IIB-15) recommend this case be dropped. GLM argue that the US did not issue a warning or officially protest with respect to Guatemala, but rather issued a vague, undirected warning that does not meet the criteria of a militarized threat. 
+
+COUPMID: MID1734 3 -- not coup 
+COUPMID-CER: MID1734 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1734 3 -- not coup link
+COUPLINK-CER: MID1734 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1124 
+
+TERRMID: MID1124 3 -- not territory
+TERRMID-CER: MID1124 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1124 3 -- not third party link to territory 
+TERRLINK-CER: MID1124 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1124 3 -- not maritime 
+MARITMID-CER: MID1124 1 -- certain
+MARITMID-NOTES: MID1124 from cm070090v11.0 cm RIVNOTES, this is a fishing dispute between Guatemala and Mexico. In 1958, Guatemala deployed airplanes when Mexican fishing vessels were in Guatemalan waters and fired on the boats. The US is pulled into this MID because an American was nearly killed as the captain of one of the fishing vessels, after which the US pledged they would stay out of Mexico's waters, 9 miles from Mexico's coast. Coded not maritime because the maritime border was not disputed between the US and Guatemala, this was not an attempt to advance a maritime claim, and the US was not one of the primary disputants here. 
+
+ISLMID: MID1124 3 -- not islands 
+ISLMID-CER: MID1124 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1124 3 -- not civil war 
+CIVWARMID-CER: MID1124 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1124 3 -- not civil war link
+CIVWARLINK-CER: MID1124 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1124 3 -- not coup 
+COUPMID-CER: MID1124 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1124 3 -- not coup link
+COUPLINK-CER: MID1124 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 1/16/1911

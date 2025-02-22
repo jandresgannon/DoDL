@@ -1,0 +1,147 @@
+FILE: cm101200v11.0.txt
+DYAD: VENEZUELA - UNITED KINGDOM
+RIVALRY: RIV277
+DISPUTE(S): MID1628 MID1630 
+RIVALRY: RIV10278
+DISPUTE(S): MID1637 MID1639 MID2338 MID254 
+RIVALRY: RIV280
+DISPUTE(S): MID2237 
+
+PS: 19009999-19030219 .25 19030220-19450814 .5
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20170720
+PS-LAST-CHECKED: 20170729
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1628 MID1630 MID1637 MID1639 
+
+MID2338 
+
+TERRMID: MID2338 3 -- not territory
+TERRMID-CER: MID2338 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2338 3 -- not third party link to territory 
+TERRLINK-CER: MID2338 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2338 3 -- not maritime 
+MARITMID-CER: MID2338 1 -- certain
+MARITMID-NOTES: MID2338 from cm narrative, this MID was triggered by UK deploying warships to collect on loans after Venezuela defaulted in 1901. Coded not maritime because the border was not disputed. 
+
+ISLMID: MID2338 3 -- not islands 
+ISLMID-CER: MID2338 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2338 3 -- not civil war 
+CIVWARMID-CER: MID2338 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2338 3 -- not civil war link
+CIVWARLINK-CER: MID2338 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2338 3 -- not coup 
+COUPMID-CER: MID2338 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2338 3 -- not coup link
+COUPLINK-CER: MID2338 1 -- certain 
+COUPLINK-NOTES: 
+
+MID254 
+
+TERRMID: MID254 3 -- not territory 
+TERRMID-CER: MID254 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID254 3 -- not third party link to territory 
+TERRLINK-CER: MID254 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID254 3 -- not maritime 
+MARITMID-CER: MID254 3 -- uncertain 
+MARITMID-NOTES: MID254 from cm narrative, it is doubtful that this MID actually took place. British and German ships blockaded several Venezuelan ports when Venezuela defaulted on its debt to those countries in 1902-1903. Roosevelt claimed he sent US ship into the area to deter the ships from taking further action, triggering this MID. Coded not maritime because even if it did occur, it did not involve a disputed maritime boundary and no one was advancing a maritime claim here. Coded uncertain because it’s not clear that a MID occurred.
+
+ISLMID: MID254 3 -- not islands 
+ISLMID-CER: MID254 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID254 3 -- not civil war 
+CIVWARMID-CER: MID254 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID254 3 -- not civil war link 
+CIVWARLINK-CER: MID254 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID254 3 -- not coup 
+COUPMID-CER: MID254 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID254 3 -- not coup link
+COUPLINK-CER: MID254 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2237 
+
+TERRMID: MID2237 3 -- not territory
+TERRMID-CER: MID2237 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2237 1 -- third party link to territorial MID
+TERRLINK-CER: MID2237 1 -- certain
+TERRLINK-NOTES: MID2237 from cm narrative, UK intervened in a territorial dispute between Venezuela and Guyana. Guyana is a former colony of UK, and the UK deployed warships here to prevent escalation of conflict. Coded third party link to territory because Venezuela and Guyana's territorial dispute led to the UK intervening against Venezuela here.
+
+MARITMID: MID2237 3 -- not maritime 
+MARITMID-CER: MID2237 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2237 3 -- not islands 
+ISLMID-CER: MID2237 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2237 3 -- not civil war 
+CIVWARMID-CER: MID2237 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2237 3 -- not civil war link
+CIVWARLINK-CER: MID2237 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2237 3 -- not coup 
+COUPMID-CER: MID2237 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2237 3 -- not coup link
+COUPLINK-CER: MID2237 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10278 was previously coded as two separate rivalries, but all disputes involved (MID1637, MID1639, MID2338, MID254) involve similar issues, specifically British collection or Venezuelan debts.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY: RIV279
+DATES (may not be accurate, see riv5.20all.cvs): 19010122 -19030219
+
+NARRATIVE-CM:
+Britain and Venezuela dispute the border between British Guiana and Venezuela beginning in the 1830s. Venezuela asked the United States to arbitrate a resolution to the dispute on March 31, 1894. President Grover Cleveland of the US appointed a commission of inquiry on January 1, 1896 to investigate the facts regarding the dispute. The commission issued its report on February 27, 1897. Britain and Venezuela signed an arbitration agreement on February 2, 1897 in which a five-member arbitration tribunal would be appointed to resolve the dispute. The tribunal issued its award on October 3, 1899 in which Britain was given most of the disputed 42,000 square miles of territory. A mixed boundary commission completed the delimitation of the border on August 2, 1905. President Cipriano Castro of Venezuela suspended payments on its foreign debt, confiscated foreign property, and restricted the activities of foreign companies in April 1901. British Foreign Secretary, Lord Lansdowne, instructed the British minister in Venezuela on July 29, 1902 to warn the Castro government that unless Venezuela continued its debt payments, Britain would be required to take steps to secure the payments. President Castro relied that Britain had to settle Venezuela's claims prior to continuation of its payments to British citizens. Britain (along with Germany) issued a joint ultimatum to Venezuela on December 2, 1902 regarding the payment of the debt. Diplomatic relations were severed on December 3, 1902, and British (and German) warships sank and captured several Venezuelan vessels during the period from December 4 -19, 1902. Britain (along with Germany and Italy) began a blockade of Venezuela on December 20, 1902 to enforce the payment of the debts and indemnities. German warships destroyed the Venezuelan fort of San Carlos on January 21, 1903. The Allied blockade was not lifted until February 19, 1903. The United States, which was asked by Venezuela to mediate the dispute on December 18, 1902, hosted talks which resulted in the signing of an arbitration agreement on February 13, 1903 in Washington DC. The agreement called for the dispute to be submitted to the Permanent Court of Arbitration (PCA). The PCA ruled in favor of the creditor countries on February 22, 1904. Venezuela renewed the territorial dispute with Britain on October 2, 1962 when its foreign minister brought the dispute to the attention of the United Nations (UN) General Assembly. Venezuela questioned the validity of the 1899 arbitration decision. Britain and Venezuela held talks from November 5, 1963 to February 17, 1966, when the countries signed the Geneva Agreement which established a mixed boundary commission "with the task of seeking satisfactory solutions for the practical settlement of the controversy." The dispute between Britain and Venezuela formally ended with Guyana's independence from Britain on May 26, 1966.
+
+SOURCES-CM:
+Butterworth, 1976, 329-331; Keesing, April 2-9, 1966.
+
+NARRATIVE-CR:
+The rivalry between Venezuela and the United Kingdom is characterized by a series of disputes in the late 19th and early 20th centuries involving the British use of military force in order to recover monies loaned to Venezuela. There are other disputes that occur outside of this context, beginning in 1858, but they involve matters unassociated with the settling of financial claims. They are briefly discussed below.
+
+In March of 1858, President Jose Monagas of Venezuela was overthrown by General Julian Castro. France and Britain supported Monagas and guaranteed him safe-conduct. In May 1858, Monagas was arrested, leading to a blockade of port Laguayra by French and British naval vessels to secure his release, MID1628. On August 27, 1858 Castro agreed to release Monagas, ending the blockade. In May 1859, the British charge d'affaires who ordered the blockade of Laguayra was arrested by the Venezuelan government for assisting exiled rebels start a civil war earlier that year, MID1630.
+
+The rivalry actually began then in January 1881, when Great Britain sent naval forces to Venezuela to collect on defaulted loans, MID1637. In October 1886, Great Britain sent another warship to Venezuela to collect on its loans, MID1639. Two additional disputes regarding claims of damage to property and recovery of loans occured from 1901 to 1903, MID2338 and MID254, leading to the seizure and sinking of three Venezuelan ships, the seizure of an English ship and a bombardment and blockade of the Venezuelan coast by Germany, England and Italy. In 1902, the US offered good offices to settle the disputes, getting all sides to agree to Hague Court arbitration to settle the claims with the signing of an arbitration agreement on February 13, 1903 in Washington DC. The Permanent Court of Arbitration ruled in favor of the creditor countries on February 22, 1904. This decision and Venezuela's acceptance of it, led to the end of the rivalry between the two countries.
+
+In a final note, MID2237 in 1982, involved British intervention in the dispute between Guyana and Venezuela over the Essequibo region and as such is an isolated dispute.
+
+SOURCES-CR:
+New York Times 4/22/1858, 5/27/1858, 6/2/1859; Lieuwen 1961; Lombadi 1982
+

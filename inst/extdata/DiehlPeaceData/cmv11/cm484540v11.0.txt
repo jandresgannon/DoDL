@@ -1,0 +1,113 @@
+FILE: cm484540v11.0.txt
+DYAD: CONGO BRAZZAVILLE - ANGOLA
+RIVALRY: RIV1096
+DISPUTE(S): MID4168 MID4246 
+
+PS: 19751111-19971913 0.5 19971014-19991228 .25 19991229-20209999 0.5
+
+
+PS-UPDATE2020: The coding change results from support of both states in rebel groups in the other state, specifically Angola's support of the Cobras in Congo-B. This is most evident for the onset of a lesser rivalry in 1997 when between 1,000-3,000 Angolan troops were flown in to support General Sassou Nguesso and his militia, the Cobras. The relationship returns to negative peace two years later, when a peace agreement was signed to end hostilities in the Congo (sometimes referred to as the Republic of the Congo Civil War, 1997-1999). See: https://peaceaccords.nd.edu/accord/agreement-on-ending-hostilities-in-the-republic-of-congo
+
+PS-LAST-CHANGED: 20220630
+PS-LAST-CHECKED: 20220630
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4168
+
+TERRMID: MID4168 3 -- not territory
+TERRMID-CER: MID4168 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4168 3 -- not third party link to territory 
+TERRLINK-CER: MID4168 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4168 3 -- not maritime 
+MARITMID-CER: MID4168 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4168 3 -- not islands 
+ISLMID-CER: MID4168 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4168 3 -- not civil war 
+CIVWARMID-CER: MID4168 1 -- certain
+CIVWARMID-NOTES: MID4168 from Gibler 2018, an Angolan soldier crossed into Congo and killed two Congolese villagers. The soldier was killed, and Angola later conducted an attack in retaliation. Coded not civil war because although Congo was experiencing militarized rebel activity, there is no indication that rebels were connected to this MID. 
+
+CIVWARLINK: MID4168 3 -- not civil war link
+CIVWARLINK-CER: MID4168 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4168 3 -- not coup 
+COUPMID-CER: MID4168 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4168 3 -- not coup link
+COUPLINK-CER: MID4168 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4246
+
+TERRMID: MID4246 3 -- not territory
+TERRMID-CER: MID4246 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4246 3 -- not third party link to territory 
+TERRLINK-CER: MID4246 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4246 3 -- not maritime 
+MARITMID-CER: MID4246 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4246 3 -- not islands 
+ISLMID-CER: MID4246 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4246 1 -- civil war MID
+CIVWARMID-CER: MID4246 1 -- certain
+CIVWARMID-NOTES: MID4246 from Gibler 2018, Angola intervened in the Congolese Civil War to help the rebels take over the government. Coded civil war MID because this was connected to a civil war in Congo. 
+
+CIVWARLINK: MID4246 3 -- not civil war link
+CIVWARLINK-CER: MID4246 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4246 3 -- not coup 
+COUPMID-CER: MID4246 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4246 3 -- not coup link
+COUPLINK-CER: MID4246 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4168
+rivalry=484540 nationa=ANGOLA nationb=CONGO BRAZZAVILLE MID4168 19950513-19950513 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=9 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+1-25 DEATHS fatalpb=2 lhostb=USE OF FORCE 
+
+An Angolan soldier was killed near the Angola-Congo border after he killed 2 villagers. In retaliation, Angolan soldiers crossed into Congo and engaged in battle with Congolese Army soldiers. The battle appears to have been short lived and did not escalate. First and last day of dispute was on 5/13/1995.
+
+MID4246
+rivalry=484540 nationa=ANGOLA nationb=CONGO BRAZZAVILLE MID4246 19971011-19971015 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=
+. lhostb=USE OF FORCE 
+
+Angola intervened in the Congolese civil war on behalf of rebel forces. Angola and the rebel forces took control of the capitol on 10/15/97, effectively ending the civil war and this MID. First and last day of dispute was on 10/11/1997 and last day of dispute was on 10/15/1997.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

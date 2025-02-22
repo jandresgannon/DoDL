@@ -1,0 +1,73 @@
+FILE: cm200310v11.0.txt
+DYAD: UNITED KINGDOM-HUNGARY
+RIVALRY: RIV417
+DISPUTE(S): MID1265 
+RIVALRY: RIV418
+DISPUTE(S): MID258 
+
+PS: 19181116-19450119 .5 19450120-19450814 .25 19450815-19500814 .5 20040501-20170328 1.00 20170329-20201231 -9
+
+PS-UPDATE2020: This dyad enters a transition period from the time that the UK gives notice of leaving the EU (20170329) to the date that Brexit becomes final (20201231) Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PSNOTES: EU dyad 
+
+PS-LAST-CHECKED: 20220220
+PS-LAST-CHANGED: 20220220
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258 
+
+MID1265 
+
+TERRMID: MID1265 3 -- not territory 
+TERRMID-CER: MID1265 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1265 1 -- third party link to territorial MID
+TERRLINK-CER: MID1265 1 -- certain 
+TERRLINK-NOTES: MID1265 from Gibler (2018), after WWI, several countries, including Romania, Czechoslovakia, and Yugoslavia, pressed territorial claims against Hungary, recently broken away from Austria-Hungary. Here, Romania attacked Hungary to claim territory from Hungary, and the UK, as part of the Allies, alowed this to happen and facilitated the Hungarian surrender of territory to Romania. Coded third party link to territorial MID because Romania and Hungary had a territorial dispute which the UK became involved in here. 
+
+MARITMID: MID1265 3 -- not maritime 
+MARITMID-CER: MID1265 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1265 3 -- not islands 
+ISLMID-CER: MID1265 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1265 3 -- not civil war 
+CIVWARMID-CER: MID1265 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1265 3 -- not civil war link 
+CIVWARLINK-CER: MID1265 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1265 3 -- not coup 
+COUPMID-CER: MID1265 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1265 3 -- not coup link
+COUPLINK-CER: MID1265 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

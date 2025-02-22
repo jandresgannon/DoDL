@@ -1,0 +1,666 @@
+FILE: cm365630v11.0.txt
+DYAD: RUSSIA/USSR-IRAN
+RIVALRY: RIV996
+DISPUTE(S): MID166 MID3133 MID165 MID1132 MID1133 MID1130 MID3160 MID523 MID20 MID3199 MID2871 MID2897 MID2602 MID3017 MID3087 MID2590 MID2588 MID2826 
+
+PS: 19009999-19080415 .5 19080416-19871102 0.00 19871103-19890225 -9 19890226-20209999 0.5 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220702
+PS-LAST-CHECKED: 20220702
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1132 
+
+WWII MIDs: MID523 
+
+MID166 
+
+TERRMID: MID166 3 -- not territory 
+TERRMID-CER: MID166 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID166 3 -- not third party link to territory 
+TERRLINK-CER: MID166 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID166 3 -- not maritime 
+MARITMID-CER: MID166 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID166 3 -- not islands 
+ISLMID-CER: MID166 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID166 3 -- not civil war 
+CIVWARMID-CER: MID166 1 -- certain 
+CIVWARMID-NOTES: MID166 from Gibler 2018, Russia sent troops to Persia in 1908 to address banditry in the region. Russia eventually left after Persian payment for losses. Coded not civil war because this was connected to bandits, not to militarized rebels, as they were engaged in criminal activity and were not organized to target the government for political reasons. 
+
+CIVWARLINK: MID166 3 -- not civil war link 
+CIVWARLINK-CER: MID166 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID166 3 -- not coup 
+COUPMID-CER: MID166 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID166 3 -- not coup link
+COUPLINK-CER: MID166 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3133 
+
+TERRMID: MID3133 3 -- not territory 
+TERRMID-CER: MID3133 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3133 3 -- not third party link to territory 
+TERRLINK-CER: MID3133 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3133 3 -- not maritime 
+MARITMID-CER: MID3133 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3133 3 -- not islands 
+ISLMID-CER: MID3133 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3133 1 -- civil war MID
+CIVWARMID-CER: MID3133 1 -- certain 
+CIVWARMID-NOTES: MID3133 from Gibler 2018 and cm narrative, the Shah of Iran was overthrown by pro-constitutional forces in 1909 and the Shah fled to Russia. Russia sent forces to guard the Shah. Coded civil war MID because a rebellion in Iran led to the events of this MID. 
+
+CIVWARLINK: MID3133 3 -- not civil war link 
+CIVWARLINK-CER: MID3133 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3133 3 -- not coup 
+COUPMID-CER: MID3133 1 -- certain 
+COUPMID-NOTES: MID3133 the pro-constitutional forces were a political opposition group, not military or political elite, and this is therefore not a coup. 
+
+COUPLINK: MID3133 3 -- not coup link
+COUPLINK-CER: MID3133 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID165 
+
+TERRMID: MID165 3 -- not territory 
+TERRMID-CER: MID165 1 -- certain 
+TERRMID-NOTES: MID165 from Gibler 2018, in 1911 Iran invited an American monetary expert to help organize its treasury. Russia was angered by this and issued several ultimatums to Iran for the expert to be asked to leave Iran. Coded not territory because they were not disputing a boundary. 
+
+TERRLINK: MID165 3 -- not third party link to territory 
+TERRLINK-CER: MID165 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID165 3 -- not maritime 
+MARITMID-CER: MID165 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID165 3 -- not islands 
+ISLMID-CER: MID165 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID165 3 -- not civil war 
+CIVWARMID-CER: MID165 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID165 3 -- not civil war link 
+CIVWARLINK-CER: MID165 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID165 3 -- not coup 
+COUPMID-CER: MID165 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID165 3 -- not coup link
+COUPLINK-CER: MID165 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1133 
+
+TERRMID: MID1133 3 -- not territory 
+TERRMID-CER: MID1133 1 -- certain 
+TERRMID-NOTES: MID1133 from Gibler 2018, Russia invaded northern Persia with the intention of expelling the UK troops stationed there. Coded not territory because Russia was not claiming any Persian territory, but was trying to weaken the British presence in the area. 
+
+TERRLINK: MID1133 3 -- not third party link to territory 
+TERRLINK-CER: MID1133 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1133 3 -- not maritime 
+MARITMID-CER: MID1133 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1133 3 -- not islands 
+ISLMID-CER: MID1133 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1133 3 -- not civil war 
+CIVWARMID-CER: MID1133 1 -- certain 
+CIVWARMID-NOTES: MID1133 there is no indication in cm narrative, Gibler 2018, or NYT coverage of the event that indicates the Russians were invading Persia due to civil conflict activity. 
+
+CIVWARLINK: MID1133 3 -- not civil war link 
+CIVWARLINK-CER: MID1133 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1133 3 -- not coup 
+COUPMID-CER: MID1133 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1133 3 -- not coup link
+COUPLINK-CER: MID1133 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3160 
+
+TERRMID: MID3160 3 -- not territory 
+TERRMID-CER: MID3160 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3160 3 -- not third party link to territory 
+TERRLINK-CER: MID3160 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3160 3 -- not maritime 
+MARITMID-CER: MID3160 1 -- certain 
+MARITMID-NOTES: MID3160 from Gibler 2018, Soviet Union seized several Persian fishing vessels in the Caspian Sea, and Persia protested. Coded not maritime because they were not disputing a maritime boundary; the boats were seized in international waters. It is not clear why USSR seized the vessels, but it may be because the Persian vessels came fairly close (about 20 miles) to USSR's territory. This was not within USSR's territorial waters at the time, however. 
+
+ISLMID: MID3160 3 -- not islands 
+ISLMID-CER: MID3160 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3160 3 -- not civil war 
+CIVWARMID-CER: MID3160 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3160 3 -- not civil war link 
+CIVWARLINK-CER: MID3160 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3160 3 -- not coup 
+COUPMID-CER: MID3160 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3160 3 -- not coup link
+COUPLINK-CER: MID3160 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID20 
+
+TERRMID: MID20 3 -- not territory 
+TERRMID-CER: MID20 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID20 3 -- not third party link to territory 
+TERRLINK-CER: MID20 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID20 3 -- not maritime 
+MARITMID-CER: MID20 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID20 3 -- not islands 
+ISLMID-CER: MID20 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID20 1 -- civil war MID
+CIVWARMID-CER: MID20 1 -- certain 
+CIVWARMID-NOTES: MID20 from Gibler 2018, Russia was angry about Iran giving preferential deals to American and British oil companies in Iran, and responded by supporting a separatist movement in Northern Iran. Coded civil war MID because this was connected to Russia supporting separatist militarized rebels in Iran. 
+
+CIVWARLINK: MID20 3 -- not civil war link 
+CIVWARLINK-CER: MID20 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID20 3 -- not coup 
+COUPMID-CER: MID20 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID20 3 -- not coup link
+COUPLINK-CER: MID20 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3199 
+
+TERRMID: MID3199 3 -- not territory 
+TERRMID-CER: MID3199 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3199 3 -- not third party link to territory 
+TERRLINK-CER: MID3199 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3199 3 -- not maritime 
+MARITMID-CER: MID3199 1 -- certain 
+MARITMID-NOTES: MID3199 from Gibler 2018, Iran fired at a Soviet vessel that entered its territorial waters in 1951. Soviet Union protested. Coded not maritime because this was not connected to a maritime boundary dispute. From NYT 8/3/1951, Persia was likely reacting to Soviet Union's military exercises occurring at the time; Soviet Union was trying to dissuade Persia from nationalizing its oil industry. Fearing other countries would take the cue that Persia could be coerced, it fired on the Soviet vessel when it entered Persia's territorial waters. 
+
+ISLMID: MID3199 3 -- not islands 
+ISLMID-CER: MID3199 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3199 3 -- not civil war 
+CIVWARMID-CER: MID3199 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3199 3 -- not civil war link 
+CIVWARLINK-CER: MID3199 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3199 3 -- not coup 
+COUPMID-CER: MID3199 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3199 3 -- not coup link
+COUPLINK-CER: MID3199 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2871 
+
+TERRMID: MID2871 3 -- not territory 
+TERRMID-CER: MID2871 1 -- certain 
+TERRMID-NOTES: MID2871 from Gibler 2018, Soviet Union was angry about Iran improving relations with the West. They began to violate Iranian airspace on numerous occasions in 1959, leading to Iran protesting. Coded not territory because this was not connected to a boundary dispute. 
+
+TERRLINK: MID2871 3 -- not third party link to territory 
+TERRLINK-CER: MID2871 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2871 3 -- not maritime 
+MARITMID-CER: MID2871 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2871 3 -- not islands 
+ISLMID-CER: MID2871 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2871 3 -- not civil war 
+CIVWARMID-CER: MID2871 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2871 3 -- not civil war link 
+CIVWARLINK-CER: MID2871 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2871 3 -- not coup 
+COUPMID-CER: MID2871 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2871 3 -- not coup link
+COUPLINK-CER: MID2871 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2897 
+
+TERRMID: MID2897 3 -- not territory 
+TERRMID-CER: MID2897 1 -- certain 
+TERRMID-NOTES: MID2897 from Gibler 2018, Soviet Union detected an Iranian spy plane and shot it down, killing two on board. Coded not territory because there was no boundary dispute. 
+
+TERRLINK: MID2897 3 -- not third party link to territory 
+TERRLINK-CER: MID2897 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2897 3 -- not maritime 
+MARITMID-CER: MID2897 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2897 3 -- not islands 
+ISLMID-CER: MID2897 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2897 3 -- not civil war 
+CIVWARMID-CER: MID2897 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2897 3 -- not civil war link 
+CIVWARLINK-CER: MID2897 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2897 3 -- not coup 
+COUPMID-CER: MID2897 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2897 3 -- not coup link
+COUPLINK-CER: MID2897 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2602 
+
+TERRMID: MID2602 3 -- not territory 
+TERRMID-CER: MID2602 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2602 3 -- not third party link to territory 
+TERRLINK-CER: MID2602 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2602 3 -- not maritime 
+MARITMID-CER: MID2602 1 -- certain 
+MARITMID-NOTES: MID2602 from gibler 2018, Iran suspected in 1978 that Soviet Union would begin trying to control the Persian Gulf, so they allowed the US to establish monitoring stations in the area to prevent this. Iran also began flying spy planes into Soviet territory, and the Soviet Union shot down two of these planes. Coded not maritime because no boundary dispute was present. Iran suspected Soviets might begin to make a claim, and the actual use of force was connected to an airspace violation. 
+
+ISLMID: MID2602 3 -- not islands 
+ISLMID-CER: MID2602 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2602 3 -- not civil war 
+CIVWARMID-CER: MID2602 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2602 3 -- not civil war link 
+CIVWARLINK-CER: MID2602 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2602 3 -- not coup 
+COUPMID-CER: MID2602 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2602 3 -- not coup link
+COUPLINK-CER: MID2602 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3017 
+
+TERRMID: MID3017 3 -- not territory 
+TERRMID-CER: MID3017 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3017 3 -- not third party link to territory 
+TERRLINK-CER: MID3017 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3017 3 -- not maritime 
+MARITMID-CER: MID3017 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3017 3 -- not islands 
+ISLMID-CER: MID3017 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3017 3 -- not civil war 
+CIVWARMID-CER: MID3017 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3017 1 -- civil war link 
+CIVWARLINK-CER: MID3017 1 -- certain 
+CIVWARLINK-NOTES: MID3017 from Gibler 2018, this MID occurred during the Soviet occupation of Afghanistan and the civil conflict there between the Soviets and the Afghani militarized rebels, primarily the Mujahideen. Iran threatened to begin supporting the rebels if the Soviets did not stop occupying Afghanistan. Coded civil war link because this was connected to the civil war in Afghanistan, outside this dyad. 
+
+COUPMID: MID3017 3 -- not coup 
+COUPMID-CER: MID3017 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3017 3 -- not coup link
+COUPLINK-CER: MID3017 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3087 
+
+TERRMID: MID3087 3 -- not territory 
+TERRMID-CER: MID3087 3 -- uncertain 
+TERRMID-NOTES: MID3087 from Gibler, Miller, and Little 2016, Pakistan claimed that Soviet and Afghan troops destroyed an Iranian border post, but everyone denied this. Coded not territory because there was no border dispute, and coded uncertain because GML argue this case be dropped. 
+
+TERRLINK: MID3087 3 -- not third party link to territory 
+TERRLINK-CER: MID3087 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3087 3 -- not maritime 
+MARITMID-CER: MID3087 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3087 3 -- not islands 
+ISLMID-CER: MID3087 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3087 3 -- not civil war 
+CIVWARMID-CER: MID3087 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3087 1 -- civil war link 
+CIVWARLINK-CER: MID3087 3 -- uncertain 
+CIVWARLINK-NOTES: MID3087 from NYT 4/9/1982, this was connected to the Afghani Civil War. Iran expressed concern that the war was close to its border and claimed that the destruction of the border posts were a product of the fighting. Coded uncertain because GML recommend that the case be dropped.
+
+COUPMID: MID3087 3 -- not coup 
+COUPMID-CER: MID3087 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3087 3 -- not coup link
+COUPLINK-CER: MID3087 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2590 
+
+TERRMID: MID2590 3 -- not territory 
+TERRMID-CER: MID2590 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2590 3 -- not third party link to territory 
+TERRLINK-CER: MID2590 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2590 3 -- not maritime 
+MARITMID-CER: MID2590 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2590 3 -- not islands 
+ISLMID-CER: MID2590 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2590 3 -- not civil war 
+CIVWARMID-CER: MID2590 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2590 1 -- civil war link 
+CIVWARLINK-CER: MID2590 1 -- certain 
+CIVWARLINK-NOTES: MID2590 from Gibler 2018, Iran accused Soviet Union of violating their airspace when the Soviets pursued Afghan rebels who were fighting against the Soviets in Afghanistan. Coded civil war link because this was connected to the ongoing civil war in Afghanistan, outside this dyad. 
+
+COUPMID: MID2590 3 -- not coup 
+COUPMID-CER: MID2590 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2590 3 -- not coup link
+COUPLINK-CER: MID2590 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2588 
+
+TERRMID: MID2588 3 -- not territory 
+TERRMID-CER: MID2588 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2588 1 -- third party link to territorial MID
+TERRLINK-CER: MID2588 1 -- certain 
+TERRLINK-NOTES: MID2588 from Gibler 2018 and cm narrative, Iran stopped two Soviet ships in the Persian Gulf and detained them for about a day. Coded third party link to territorial MID because this occurred during the Iran-Iraq War, a territorial dispute during which Iran routinely attacked ships trading with Iraq in an attempt to harm their economy. 
+
+MARITMID: MID2588 3 -- not maritime 
+MARITMID-CER: MID2588 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2588 3 -- not islands 
+ISLMID-CER: MID2588 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2588 3 -- not civil war 
+CIVWARMID-CER: MID2588 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2588 3 -- not civil war link 
+CIVWARLINK-CER: MID2588 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2588 3 -- not coup 
+COUPMID-CER: MID2588 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2588 3 -- not coup link
+COUPLINK-CER: MID2588 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2826 
+
+TERRMID: MID2826 3 -- not territory 
+TERRMID-CER: MID2826 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2826 1 -- third party link to territorial MID
+TERRLINK-CER: MID2826 1 -- certain 
+TERRLINK-NOTES: MID2826 from Gibler 2018, Iran attacked a Soviet tanker in 1987. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute in which both countries attacked tankers trading with the other country. 
+
+MARITMID: MID2826 3 -- not maritime 
+MARITMID-CER: MID2826 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2826 3 -- not islands 
+ISLMID-CER: MID2826 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2826 3 -- not civil war 
+CIVWARMID-CER: MID2826 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2826 3 -- not civil war link 
+CIVWARLINK-CER: MID2826 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2826 3 -- not coup 
+COUPMID-CER: MID2826 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2826 3 -- not coup link
+COUPLINK-CER: MID2826 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3564 
+
+TERRMID: MID3564 3 -- not territory 
+TERRMID-CER: MID3564 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3564 1 -- third party link to territorial MID
+TERRLINK-CER: MID3564 1 -- certain 
+TERRLINK-NOTES: MID3564 from Gibler 2018, this is the Nagorno-Karabach War, a territorial dispute between Azerbaijan and Armenia. Russia became involved in this war by supporting Armenia against Azerbaijan and eventually helped negotiate a cease fire. Iran and Turkey became involved when they protested that their border was becoming threatened by the war. Coded third party link to territorial MID because this was connected to a territorial dispute outside this dyad. 
+
+MARITMID: MID3564 3 -- not maritime 
+MARITMID-CER: MID3564 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3564 3 -- not islands 
+ISLMID-CER: MID3564 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3564 3 -- not civil war
+CIVWARMID-CER: MID3564 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID3564 1 -- civil war link 
+CIVWARLINK-CER: MID3564 1 -- certain 
+CIVWARLINK-NOTES: MID3564 coded civil war link because this involved militarized rebel activity in Armenia and Azerbaijan, outside this dyad. 
+
+COUPMID: MID3564 3 -- not coup 
+COUPMID-CER: MID3564 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3564 3 -- not coup link
+COUPLINK-CER: MID3564 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+RIV996: MID3564 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Russian troops occupied northern Iran after issuing an ultimatum on November 11, 1911. Russian Bolshevik troops attacked Russian anti-Bolshevik troops in northern Iran on May 18, 1920, and Iran referred the matter to the *League of Nations (LON) Council on May 19, 1920. General Reza Khan of Iran negotiated a withdrawal of Russian troops from the country on February 26, 1921. Some 40,000 Soviet entered northern Iran on August 25, 1941. The *Tudeh Party* (communists) began a secessionist movement in the northern province of Azerbaijan in Iran on August 23, 1945. Soviet troops intervened in support of the secessionists, and prevented Iranian troops from suppressing the secessionist movement on August 24, 1945. Iranian authorities regained control of the province in September 1945. The rebellion resumed on November 16, 1945, and Soviet military forces again prevented Iranian military units from suppressing the revolt on November 21, 1945. The United States called on the Soviet Union to withdraw its troops from northern Iran on November 24, 1945, and Britain made the same appeal on November 26, 1945. The province of Azerbaijan declared its independence from Iran in December 1945. Iran referred the matter to the *United Nations *(UN) Security Council on January 19, 1946. The UN Security Council appealed for peaceful negotiations on January 30, 1946. The US appealed for the withdrawal of Soviet troops from Iranian territory on March 6, 1946. Iran formally protested the intervention of Soviet troops in Iran to the UN Security Council on March 19, 1946. Iran and the Soviet Union bilaterally agreed on the withdrawal of Soviet troops on April 4, 1946. Soviet troops were withdrawn from northern Iran on May 9, 1946. Some 15,000 Iranian troops suppressed the secessionist movement on December 13, 1946. Some 20 individuals were killed in the conflict.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 374-381; Clodfelter, 1992, 976, 813; Jessup, 1998, 319-325; *Keesing*, January 19-26, 1946, March 2-9, 1946, April 27-May 4, 1946, June 8-15, 1946; Langer, 1972, 800, 1309; Ostrower, 123; *Survey of International Affairs *(SIA-Middle East), 1945-1950, 56-105; Tillema, 1991, 145-146.
+
+NARRATIVE-CR:
+Russia and Iran have had a long rivalry beginning the early 20th century. The issues over which the pair have fought have a wide range. The motivations for some of the conflicts include: Russian interest in oil in the region; Russian interest in establishing a sphere of influence; Russian/Soviet clashes with Iranians during the Afghanistan War; and Iranian attacks on Soviet ships in the Iran-Iraq War. In addition, there are a number of disputes between the Soviets and Iranians during the Cold War that were a part of the larger Cold War conflict. MID166 took place within the context of internal Iranian conflict and Russian presence in the country. The dispute occurred from April through June of 1908. Muzaffar ad Din (the shah from 1896 to 1907), was a weak and ineffectual ruler. Royal extravagance and the absence of incoming revenues exacerbated financial problems. The shah quickly spent two large loans from Russia, partly on trips to Europe. Public anger fed on the shah's propensity for granting concessions to Europeans in return for generous payments to him and his officials. People began to demand a curb on royal authority and the establishment of the rule of law as their concern over foreign, and especially Russian, influence grew. The shah's failure to respond to protests by the religious establishment, the merchants, and other classes led the merchants and clerical leaders in January 1906 to take sanctuary from probable arrest in mosques in Tehran and outside the capital. When the shah reneged on a promise to permit the establishment of a "house of justice," or consultative assembly, 10,000 people, led by the merchants, took sanctuary in June in the compound of the British legation in Tehran. In August, the shah was forced to issue a decree promising a constitution. In October, an elected assembly convened and drew up a constitution that provided for strict limitations on royal power, an elected parliament, or Majlis, with wide powers to represent the people, and a government with a cabinet subject to confirmation by the Majlis. The shah signed the constitution on December 30, 1906. He died five days later. The Supplementary Fundamental Laws approved in 1907 provided, within limits, for freedom of press, speech, and association, and for security of life and property. The Constitutional Revolution marked the end of the medieval period in Iran. The hopes for constitutional rule were not realized, however. Mohammad Ali Shah, was determined to crush the constitution. After several disputes with the members of the Majlis, in June 1908 he used his Russian-officered Persian Cossacks Brigade to bomb the Majlis building, arrest many of the deputies, and close down the assembly. Resistance to the shah, however, coalesced in Tabriz, Esfahan, Rasht, and elsewhere. In July 1909, constitutional forces marched from Rasht and Esfahan to Tehran, deposed the shah, and reestablished the constitution. The ex-shah went into exile in Russia.
+
+MID3133 and MID165 occurred 1909 through 1912. Both of these MIDs are related to the Russian occupation of Iran. After the Persian Revolution of 1906-09, Russia sent troops to the northern Persian city of Kazvin to protect its interests there and refused to remove them, in violation of the Anglo-Russian agreement of 1907. William Morgan Shuster (1877-1960), an American serving as Persia's treasurer-general to help put in order its finances, clashed with Russia, which evidently backed an unsuccessful military attempt by former shah, Muhammad Ali (1872-1925), to regain power in mid-1911. The Russians issued two ultimatums for the Persians to remove Shuster, but the national assembly (majlis) rejected both (November 1911). In northern Persia, Russians committed atrocities at Tabriz, took over Azerbaijan, and then advanced on Tehran. Persia's regency government during the minority of Ahmed Shah (1898-1930), with the cabinet, enacted a coup on December 24, 1911, suddenly closing down the assembly, forminga ruling directory, and accepting Russia's demand for the dismissal of Shuster.
+
+Most serious of all, the hope that the Constitutional Revolution would inaugurate a new era of independence from the great powers ended when, under the Anglo-Russian Agreement of 1907, Britain and Russia agreed to divide Iran into spheres of influence. The Russians were to enjoy exclusive right to pursue their interests in the northern sphere, the British in the south and east; both powers would be free to compete for economic and political advantage in a neutral sphere in the center. Matters came to a head when Morgan Shuster, a United States administrator hired as treasurer general by the Persian government to reform its finances, sought to collect taxes from powerful officials who were Russian proteges and to send members of the treasury gendarmerie, a tax department police force, into the Russian zone. When in December 1911 the Majlis unanimously refused a Russian ultimatum demanding Shuster's dismissal, Russian troops, already in the country, moved to occupy the capital. To prevent this, on December 20 Bakhtiari chiefs and their troops surrounded the Majlis building, forced acceptance of the Russian ultimatum, and shut down the assembly, once again suspending the constitution. There followed a period of government by Bakhtiari chiefs and other powerful notables.
+
+MID1132 occurred on November 3, 1918. This dispute is coded as a use of Iranian force against Russia. I was not able to locate information on this dispute. 
+
+MID1133 is called the Occupation of Gilan and occurred from May 8, 1920 until February, 24 1921. In 1920, the Soviet Russian fleet, having defeated the White Russian forces, seized Enzeli and Resht and occupied most of Gilan. The Bolsheviks established the Soviet Republic of Gilan, which remained in power until October 1921. MID1130 is related to this dispute. 
+
+MID1130 is called Gilan and is coded as a mutual use of force between Iran and the USSR. It is coded to have occurred in October of 1921 with Iran as the victor state. With an enlarged and modernized army, Reza Khan suppressed a revolt in Gilan and overthrew the Soviet Republic of Gilan. The Persian army successfully established control over southern Azerbaijan. MID1133 is related to this dispute. 
+
+MID3160 is coded as a use of Soviet force against Iran that occurred on April 11, 1933. I was not able to locate record of this dispute. 
+
+MID523 is the UK and USSR occupation of Iran during World War II. At the outbreak of World War II, Iran declared its neutrality, but the country was soon invaded by both Britain and the Soviet Union. Britain had been annoyed when Iran refused Allied demands that it expel all German nationals from the country. When Hitler invaded the Soviet Union in 1941, the Allies urgently needed to transport war materiel across Iran to the Soviet Union, an operation that would have violated Iranian neutrality. As a result, Britain and the Soviet Union simultaneously invaded Iran on August 26, 1941, the Soviets from the northwest and the British across the Iraqi frontier from the west and at the head of the Persian Gulf in the south. Resistance quickly collapsed. Reza Shah knew the Allies would not permit him to remain in power, so he abdicated on September 16 in favor of his son, who ascended the throne as Mohammad Reza Shah Pahlavi. Reza Shah and several members of his family were taken by the British first to Mauritius and then to Johannesburg, South Africa, where Reza Shah died in July 1944. 
+
+MID20 or the Azerbaijan Crisis occurred from November 18, 1945 until May 9, 1946. During WWII, the US, UK, and USSR stationed troops in Iran. The US and UK withdrew their troops by 1946 but the USSR remained and actively sought to foster procommunist movements. Groups in Azerbaijan and Kurdistan launched a violent campaign to secede from Iran in 1945. Soviet troops supported these groups. The US assisted Iran in bringing the dispute before the UN. The USSR agreed to withdraw its troops for oil concessions. 
+
+MID3199 occurred on August 2, 1951. This dispute is coded as a use of Iranian force against the USSR. No record of this dispute was located. 
+
+MID2871 occurred from March through June of 1959. This was coded as a display of Soviet force against the Iranians. The Iranian government sought to void the nonaggression pact between the two states and the Soviet Union refused to comply with the Iranian desire. The Soviets interpreted this as a move by Iran to develop closer ties with the US and as such saw it as a direct threat. 
+
+MID2897 is coded as occurring on November 21, 1963. While Leonid Brezhnev was on a state visit in Iran, Soviet war planes shot down an Iranian civilian aircraft in Iranian airspace near the Soviet border. The Iranians reported that the plane's occupants were surveyors mapping the land near the Soviet border. Brezhnev asked Moscow for an investigation and expressed regret to the Iranians. 
+
+MID2602 is coded as occurring on 6/21/1978 as a bilateral dispute. I was not able to locate any information on this dispute. 
+
+MID3017 occurred from January 19 until March 4, 1980. This is a trilateral dispute involving Afghanistan. This dispute took place in the context of the Soviet invasion of Afghanistan and in the recent aftermath of the Iranian revolution. In this, conflict the Soviet intervention in Iran was perceived as a direct threat to Iran and the Iranians built up troops on its Afghani border in response. 
+
+MID3087 occurred on 4/5/1982. This is trilateral dispute including Afghanistan. In this dispute Soviet and pro-Soviet Afghan troops entered Iran in pursuit of rebel Afghani troops. 
+
+MID2590 occurred on April 30, 1983. This dispute is coded as a used of force by both the USSR and Iran. However, the actions taken during this period are somewhat different. Iran dissolved the Iranian Communist Party and ordered 18 Soviet diplomats to leave the country. This incident followed public confessions of Iranian Communist Party leader regarding passing information to Moscow for decades. 
+
+MID2588 occurred on September 9, 1986. This dispute is related to the Iran-Iraq War. The Soviet Union was a major arms supplier to Iraq during the war. Iran stopped two Soviet ships in the Persian Gulf in this dispute and searched them for arms. 
+
+MID2826 occurred from April 27 until November 2, 1987. The dispute began with an Iranian attack on a Soviet tanker in the Persian Gulf. This dispute was part of the larger Iran-Iraq War (Tanker War). The Soviet Tanker, Ivan Korotoyev, was hit near Dubai on May 8th. The Soviets continued to escort their ships in the Persian Gulf throughout the remainder of the Iran-Iraq War. 
+
+MID3564 is a multilateral war whose primary combatants were Armenia and Azerbaijan. The two countries were fighting over the Nagorno-Karabakh region. The overlapping participation of the Iranians and the Russians took place in September of 1993. In the late summer of 1993, the Armenians were advancing rapidly. This generated a significant amount of refugees. Iranian troops crossed into Azerbaijan and set up refugee camps in an effort to keep them from entering into Iran. The Russians perceived this as a threatening move and reacted warily towards the Iranians. There were several significant events that took place in the late 1980s and early 1990s that are associated with the termination of the rivalry between the former Soviet Union/Russia and Iran. Among those events are Mikhail Gorbachev's rise to power in the Soviet Union; the subsequent break up of the USSR, the Soviet withdrawal from Afghanistan, the lack of continued contiguity, and the government of Mohammed Khatami in Iran. 
+
+On February 15, 1989, Soviet forces completed their withdrawal from Afghanistan. The Soviet Union continued to support the communist Democratic Republic of Afghanistan with substantial aid until the end of 1991. As a number of MIDs Iranian forces clashing with Soviet troops in Afghanistan, the withdrawal of Soviet troops from Afghanistan removed the motivation and the opportunity for this type of conflict to occur. 
+
+Similarly, the conflict between Iran and Iraq ended in 1988. Some of the disputes between the USSR and Iran took place in the context of this conflict as well. With its end the opportunity and motivation to engage in conflicts associated with this larger war were removed. Gorbachev instituted a number of political reforms under the name of Glasnost; these included relaxing censorship and political repression, reducing the powers of the KGB and democratisation. By the late 1980s the process of openness and democratisation began to run out of control, and went far beyond what Gorbachev had intended. In a series of events that culminated in 1991, the USSR endured a coup and its dissolution. This dissolution was a significant political distraction for the USSR/Russia. Of direct concern for the rivalry between Russia and Iran was the fact that the dissolution of the USSR meant that Iran and Russia no longer shared a border. Thus without direct contiguity, the opportunity and incentives for conflict may have abated.
+
+Another significant event associated with the termination of the rivalry occurred in 1989. Ayatollah Khomeini died and was replaced as the nation's spiritual leader by Ayatollah Ali Khamenei. The speaker of Iran's Parliament, Ali Akbar Hashemi Rafsanjani, was elected president. Later, in 1997, Mohammad Khatami, a moderate cleric, won Iran's presidential election. The West was hopeful about the election and about the new more moderate leader. Today, Iran maintains regular diplomatic and commercial relations with Russia and the former Soviet Republics. Both Iran and Russia believe they have important national interests at stake in developments in Central Asia and the Transcaucasus, particularly on energy resources from the Caspian Sea. Russian and other sales of military equipment and technology concern Iran's neighbors and the United States.
+
+SOURCES-CR:
+Brecher and Wilkenfeld, 1997, 374-381; Clodfelter, 1992, 976, 813; http://www.indiana.edu/~league/1921.htm; Jessup, 1998, 319-325; *Keesing*, January 19-26, 1946, March 2-9, 1946, April 27-May 4, 1946, June 8-15, 1946; Langer, 1972, 800, 1309; Metz, 1987; New York Times 9/10/1993, 5/8/1987, 9/4/1986, 5/5/1983, 4/9/1982; Onwar.com; Ostrower, 123; *Survey of International Affairs *(SIA-Middle East), 1945-1950, 56-105; Tillema, 1991, 145-146; Times (London) 11/21/1963.
+
+PS-NARRATIVE: 
+
+19871103-19890225 Transition
+
+The last significant MID between Russia and Iran, MID2826 occurred from April 27 until November 2, 1987. The dispute began with an Iranian attack on a Soviet tanker in the Persian Gulf. This dispute was part of the larger Iran-Iraq War (Tanker War). The Soviet Tanker, Ivan Korotoyev, was hit near Dubai on May 8th, 1987. The Soviets continued to escort their ships in the Persian Gulf throughout the remainder of the Iran-Iraq War. In 1988, the Soviet Union's ties with Iran were improving, but there still seem to be suspicions in Moscow about Iran's Islamic revolution seeping across the border into the Moslem-dominated Soviet republics. With Moscow undergoing a major reassessment of past attitudes, domestic and foreign policies are changing-including its assessment of the efficacy of military power to resolve political problems. But this "opening up" has also resulted in greater assertion of various Soviet national groups, particularly the Moslems living in six of the fifteen Soviet republics. A leading Soviet specialist on the issue confirmed in an interview that there have been pro-Khomeini demonstrations in the Soviet Republic of Azerbaijan. "These demonstrations were not as big as you think, and they were by boys studying in Madrassas," said the official, who was interviewed in the Foreign Ministry here. There have been reports that with the big nation-wide celebrations this year in the Soviet Union marking 1,000 years of Christianity, Soviet Moslems are demanding similar ceremonies for Islam. Experts of Soviet foreign policy say the fact that such developments are taking place is quite significant-even more so because Soviet officials are willing to talk about it. The official, who requested anonymity, said there had been no impact from Iran's "Islamic factor" on the Soviet Union. "For us the main thing is non-interference in the internal affairs of neighbors," he said, but he warned: "However, if Iran engages in unacceptable actions in neighboring countries, it won't be good for that country." He said the Soviet Union expects no major change in policy towards Iran, and feels that speaker Hujjatul Rafsanjani, known as a moderate, will probably keep his position in the leadership." As to the Soviet Union's assessment of the political transition in Iran after Ayatollah Khomeini, the official said he foresaw no substantive changes. "For the Soviet Union, any change in Iran should be through the will of the people of Iran," the official said. "And any regime that is for good ties with the Soviet Union is okay with us, irrespective of its external appearance." The Soviet Union was among the first countries to welcome the anti-monarchial Islamic revolution in Iran, but Soviet officials later blamed Teheran for not correctly understanding its stand-particularly its sensitiveness to Islamic fundamentalism. More recently, Soviet-Iranian ties have improved with a series of high-level visits. And a meeting of the Soviet-Iranian joint economic commission is scheduled for December 1988-the second time since the Shah was overthrown. On February 15, 1989, Soviet forces completed their withdrawal from Afghanistan. The Soviet Union continued to support the communist Democratic Republic of Afghanistan with substantial aid until the end of 1991. As a number of MIDs Iranian forces clashing with Soviet troops in Afghanistan, the withdrawal of Soviet troops from Afghanistan removed the motivation and the opportunity for this type of conflict to occur. 
+
+19890226-20159999 0.5
+
+Soviet Foreign Minister Eduard Shevardnadze was right when he called his recent visit to Tehran (February 26, 1989) ``a turning point'' in Soviet-Iranian affairs. He might have added: and a strong challenge for the Bush administration in a country of vital strategic importance for the West, where successive U.S. administrations have blundered for so long. It was the first official visit to the Islamic Republic of Iran by a Soviet foreign minister, and it was crowned by a meeting with Ayatollah Khomeini on Feb. 26, 1989. After years of including the Soviet Union on the short list of foreign devils that Iran's revolutionaries should regularly denounce, Ayatollah Ruhollah Khomeini, in an about-face, urged greater cooperation between the two countries to combat the ``devilish acts of the West.'' Mr. Shevardnadze also managed to sign a gas agreement with Iran-the first one to be made public since the 1979 revolution-and to secure Iranian approval of a long-standing Soviet plan to build a transborder railway.
+
+Russia began moves on December 19, 1991 to establish its own diplomatic relations with Iran, taking over from the Soviet Union diplomatic establishment, and asked the Islamic Republic for assistance in freeing Soviet soldiers held prisoner by Afghan Mujahideen, Tehran radio said. Russian Vice President Alexander Rutskoi, in Tehran at the head of a delegation, met Iranian President Akbar Hashemi Rafsanjani and sought his assistance in having Soviet soldiers held by Afghan Mujahideen rebels freed. A Tehran radio report monitored in Athens said Rutskoi also held a meeting with Foreign Minister Ali Akbar Velayati and introduced the Soviet ambassador in Tehran as the official responsible for looking after Russian affairs in the Iranian capital. The move followed evidence of uncertainty in Tehran about how it should react to the rapid changes taking place in Moscow and the breakup of the Soviet Union. Tehran has stopped short of recognizing the independence of the Central Asian republics, pending the emergence of a new entity to replace the Soviet Union, but the Iranian state radio said Tehran has decided to set up consulates in the republics. Rutskoi reportedly told Rafsanjani that Russian President Boris Yeltsin wished to make Iran the first Islamic country he visited after a new constitutional order is established to replace the Soviet Union. Rafsanjani replied that Iran had got on well with the Soviet order but was ready to recognize the Russian republic and the other independent republics that emerged in the changes taking place north of the Iranian borders. ''The Russian federation will be one of the big countries of the region, and we hope that our former agreements (with the Soviet Union), will continue in an appropriate manner,'' the Iranian president said. Iran ''can actively cooperate with the countries of the Caspian region,'' Rafsanjani told the Russian visitor. ''We hope that Mr. Yeltsin's visit will take place as soon as possible and that a program of cooperation will be examined,'' he said. Apparently hanging in balance is a series of bilateral economic and other agreements Iran signed earlier with the Soviet Union, including a deal for the sale of 3 billion cubic meters of Iranian natural gas a year to the Soviet states. In a separate meeting with Velayati, Rutskoi reportedly briefed him on the emerging commonwealth of independent states scheduled to formally replace the Soviet Union on Jan. 1, 1992. He said the fact that his delegation began its current tour of the region in Tehran showed the importance Russia considered Iran to have in the region. Rutskoi was also scheduled to visit Pakistan and Afghanistan. Velayati said Iran ''will honor whatever decision the people of the region take'' about the future of the Soviet Union. ''We want the changes taking place in the countries that are our neighbors to occur in a peaceful manner,'' he said. The Iranian foreign minister said Iran and Russia should establish a joint economic commission and begin detailed discussions on the future of the economic ties between the two countries. Tehran radio said the Iranian embassy in Moscow has been made responsible for handling Iran's relations with the independent Russian state. Apparently no decision has been taken yet on the relations Iran will have with the commonwealth of independent states, once it has formally replaced the Soviet entity. 
+
+On August 12, 1994, Washington continued to demand that Russia cease exporting arms to Iran. During the meetings with U.S. President Bill Clinton in Vancouver and Naples, Boris Yeltsin promised to do him this favor. But Russian diplomats, and not they alone, explain the need to continue the arms export by Russia's non-participation in the setting up of a new COCOM. Moscow, they say, considers the demand to stop the arms deliveries should not be made before new terms of export are formulated. Furthermore, Foreign Minister Andrei Kozyrev said recently it was unlikely that Russia would accept these terms if they were formulated without her participation. He said further that, being a great power, Russia would not tolerate being told what she is do. This statement could be agreed with, the paper writes, if Iran had an immaculate reputation. But Teheran is a generally recognized to be capital of militant Islamic fundamentalism. From 1995 onwards the cooperation between Russia and Iran was increased to the level of nuclear power cooperation with significant effects on the international stage. Officials from Russia's Atomic Energy Ministry flew to Iran on August 17, 1995, for discussions to finalize an $800 million nuclear reactor deal with the Gulf nation. The two sides plan to iron out remaining questions concerning shipments of nuclear fuel to Iran for use at the plant and transport of spent fuel back to Russia for reprocessing. Negotiators will also discuss which bank will be used for Tehran's payments to Moscow, the Interfax news agency reported. The commission, led by Russian Deputy Nuclear Energy Minister Yevgeny Reshetnikov, is scheduled to remain in Iran until Aug. 25, when the final agreement is to be signed. Russia and Iran agreed in January on the construction of a Russian light-water reactor at Bushehr on the Gulf. Under the present deal, Russia will begin 30 years of nuclear fuel deliveries to Iran in 2001, when the reactor is to be completed. Iran has already given Russia $5 million and $10 million for salary payments to 120 Russian specialists at work evaluating the unfinished, German-built station at Bushehr upon which the Russian reactor will be built. Russia has gone ahead with the plan despite strong objections from the United States, which has said Iran is ''awash in oil'' and wants the reactors not to supply energy but to push its campaign to attain nuclear weapons. Russia has countered by saying light-water reactors cannot be used to make weapons-grade nuclear material and has given assurances the project will be open to inspection by the International Atomic Energy Agency. The lucrative deal will provide badly needed funds for Russia's struggling atomic energy program and work for hundreds of its employees. Iran has also expressed interest in Russia building three more reactors at Bushehr, including a powerful 1,000-megawatt VVER-1000 reactor as a twin to the one now under discussion and two smaller VVER-440 units.Russia's involvement in Iran's controversial nuclear program stretches back to 1995, when post-Soviet Russia was desperate to earn foreign income and Iran was recovering from a decade of revolution and war. Throughout the next decade, Moscow and Tehran strengthened their ties, often angering the United States and worrying Western Europe with growing trade, including armaments. Along with commercial interests, Russia clearly sees ties with Iran as important in achieving its foreign policy goal of "multipolarity" shorthand for countering the United States' perceived dominance of world affairs. Iran-Russia ties "answer the interests of our nations and contribute to global peace and stability," President Vladimir Putin said last year in ongratulating hard-line conservative Mahmoud Ahmadinejad on his election as Iran's president. Iran echoes that view. Iranian Ambassador Gholamreza Ansari said on Ekho Moskvy radio that talk of taking Iran before the U.N. Security Council "is trying to undermine the stabilizing factor in the region." Russia has emphasized it believes Iran's nuclear program has only peaceful intentions. Moscow was under strong pressure from the West in 1995 not to sign a contract with Iran to complete construction of a nuclear reactor at a power plant in Bushehr, which; opponents said Iran likely wanted to use to help develop nuclear weapons. But the $800US million price tag was a tremendous inducement for the country impoverished by economic chaos after the collapse of the Soviet Union, and the deal underlined that despite its troubles, Russia remained technologically sophisticated. For Iran, the contract with Russia was a step toward international credibility. Construction of the Bushehr reactor was begun by a German company, but stopped in the 1979 Islamic revolution and then languished during Iran's long war with Iraq and the subsequent period of international mistrust. Amid continuing U.S. complaints, in 2005 Russia struck an arrangement under which all used fuel from the Bushehr reactor would be returned to Russia, blocking the possibility that Iran could derive plutonium for possible use in weapons from the spent fuel. But new complications emerged. The uranium enrichment facility at the center of the current standoff apparently has no Russian connection; its equipment came from Pakistan. Nonetheless, Russia, which has a heavy diplomatic investment in Iran, has sought to resolve the dispute by having all Iran's uranium enrichment done in Russia. Iran's refusal to sign on to the proposal has clearly frustrated the Kremlin, but for now Russia is holding back from Western threats to refer the matter to the U.N. Security Council, which could impose sanctions. Economic sanctions against Iran could be a blow to Russia, with trade between the two countries running at some $2US billion (euro1.7 billion) a year. Russia also is eager to maintain good relations with Iran in hopes of eventually agreeing on how to apportion the rich petroleum fields of the Caspian Sea, which both countries border. Good relations with Iran also give Russia a favorable presence in the Muslim world even as it fights an Islamic-oriented insurgency in Chechnya. Despite Russia's frequent denunciation of international terrorism, it does not include Iran in the accusations; Moscow contends the alleged international terrorism in Chechnya is centered on Wahhabi Muslims, whereas Iran is Shiite. The visiting chairman of the Russia parliament's defense committee has said Russian defence cooperation with Iran will continue, the Teheran daily Abrar reported on February 3, 1997. "Russia will fulfill its military agreements with Iran," Duma member Lev Rokhlin, who arrived in Iran on Saturday for a four-day visit, was quoted by the daily as telling Iran's Foreign Minister Ali Akbar Velayati. Velayati told the Russian official that Moscow and Teheran play a fundamental role in forming regional co-operation and restoring peace and balance in the region. Teheran-Moscow military co-operation is one of the main issues in dispute between Russia and the United States which regards Iran as a main sponsor of international terrorism. Washington contends Iran is trying to acquire nuclear weapons. Moscow has so far rejected the U.S. position and has conducted normal trade-including military co-operation-with the Islamic republic. Russia agreed last December during an economic session in Moscow to increase its industrial and armaments exports to Iran to 4 billion dollars within the next 10 years. Russia's arms exports to Iran in 1994 amounted to 104 million dollars, its industrial exports to 333 million dollars. The two states have also agreed to set up a joint oil exploration company in the Caspian Sea. Vice-Speaker Hassan Rowhani told Rokhlin at a meeting that bilateral co-operation would help foil "U.S. conspiracies in the region" against Iran which, he said, has 70 per cent of the world's oil reserves and has formed a "stronghold" against the American interventionist policies in the Gulf. Russia announced last year that it is determined to complete a highly controversial 800-million-dollar nuclear plant in southern Iran which both sides say is for peaceful purposes. The first phase of the power-generating plant-with a capacity of 1,000 megawatts-will be completed by the turn of the century.
+
+Iran is looking for a military alliance with Russia in the region, Iranian Parliament Speaker Ali Akbar Nateq Nuri said on April 15,1997, upon return from a five-day visit to Russia. "There is a regional lack in this regard and we welcome an alliance whether with Russia on a bilateral basis or with other states such as Turkmenistan or even India, China and Ukraine on a unilateral basis," the speaker said at a news conference in Teheran. He added that during the trip, in which he was accompanied by Defence Minister Mohammad Foruzandeh, all defence negotiations were de facto a review of the former agreements. "Although-after an eight-year war (with Iraq)-we are in need of new weapons, this does not mean that there have been any deals for new arms purchases with Russia," Nateq Nuri emphasised. During an economic session in Moscow in December 1996, the two sides agreed to increase Russian industrial and armament exports to Iran to 4 billion dollars within the next 10 years. In 1994, Russia's armament export to Iran amounted to 104 million dollars. The speaker, a likely candidate to succeed Akbar Hashemi Rafsanjani as president in next month's elections, also said that agreements were signed for construction of Tupolev-330 and 214 aircraft and transfer of relevant technology, joint cooperation in the Caspian Sea and a joint drilling project in the Pars gas fields in southern Iran. Iran and Russia enjoy good relations and do have many common viewpoints on international and regional issues and are engaged in several economic projects. The annual trade of the two sates is supposed to reach 2 billion dollars within the next few years, which would make Russia Iran's main trade partner, even before Germany with a trade volume of 1.8 billion dollars in 1996. On September 15, 2005, the Russian President Vladimir Putin said Russia and Iran have a lot of mutual interests, including in the Caspian Sea region. In his meeting with Iranian President Mahmoud Ahmadinejad Putin said, "Russia and Iran have ancient and rather close relations." He pointed to close cooperation in different fields. "It's rather to say last year trade turnover between our countries increased by 43 percent," the Russian president said. He noted that Moscow and Tehran "have a lot of regional interests, including in the Caspian Sea region." Putin said, "I hope that this positive dynamics will be continued after the election as Iran's president." "Moreover, being Tehran mayor you established very good relations with our major cities-St. Petersburg and Moscow, the capital of Russia," Putin said, adding that the Iranian president "has positive experience of cooperation with Russia." Ahmadinejad said Russia is Iran's best friend. "Powerful Russia is our best friend. We're glad that in the recent years you have succeeded in solving many problems in Russia and strengthening your country's prestige." "Powerful Russia is Iran's best friend and powerful Iran is one of the best friends of Russia," he added. "We seek to strengthen Russia's role in the world," Ahmadinejad stressed. He said Iran is ready to develop cooperation with Russia in the future. "Our government is seeking to develop relations with Russia on a long-term basis." He agreed that Iran and Russia had a lot of close interests, including in the Caspian Sea region. "I want to thank you for sending a greetings message to me on the election as Iran's president. It was very friendly and sincere and proved of our deep and multilateral relations," the Iranian president stressed. "Our interests at the bilateral level and on the international arena are very close," Ahmadinejad said. The Iranian president recognized that he had pleasant memories about his visit to Moscow and his meeting with Moscow Mayor Yuri Luzhkov before he was elected president.
+
+PS-SOURCES: Inter Press Service October 28, 1988; August 12, 1994; United Press International December 19, 1991; August 17, 1995; Associated Press September 17, 1991; January 19, 2006; BBC March 18, 2003; August 11, 2005; TASS September 15, 2005; Deutsche Presse-Agentur February 3, 1997; April 15, 1997; Russian Press Digest May 21, 1997; Xinhua March 8, 1995
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1951). Soviet Warship Is Fired On By Iranian Frontier Guards. New York Times August 3: 1.
+
+New York Times (1982). Iran Says Afghan War Is Close to Its Border. New York Times April 9: A7.

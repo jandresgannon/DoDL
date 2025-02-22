@@ -1,0 +1,55 @@
+FILE: cm040042v11.0.txt
+DYAD: CUBA - DOMINICAN REPUBLIC
+RIVALRY: RIV137
+DISPUTE(S): MID1114 
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1114 
+
+TERRMID: MID1114 3 -- not territory
+TERRMID-CER: MID1114 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1114 3 -- not third party link to territory 
+TERRLINK-CER: MID1114 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1114 3 -- not maritime 
+MARITMID-CER: MID1114 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1114 3 -- not islands 
+ISLMID-CER: MID1114 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1114 1 -- civil war MID
+CIVWARMID-CER: MID1114 1 -- certain
+CIVWARMID-NOTES: MID1114 from NYT 6/27/1959, Cuba and Dominican Republic broke diplomatic relations following attacks on Cuban diplomats in the Dominican Republic capital and attacks on the DR embassy in Cuba. Tensions were escalated when DR killed Cuban prisoners who had crossed into DR to fight in an ongoing rebellion in DR. Coded civil war MID because this MID was partially triggered by Dominican Republic killing Cuban rebels who were militarized and fighting against the Dominican Republic government (within this dyad). The rebellion in Dominican Republic was militarized, rather than one of domestic protests/general unrest, as noted in the NYT 6/28/1959 and 7/5/1959. On 6/28/1959, the NYT describes an incident in which the DR dictator sent an undercover agent to join a rebel group made up of Dominican exiles hiding out in Puerto Rico who were preparing an invasion. On 7/5/1959, the NYT wrote about the state of the DR and the security of the regime in the midst of a coming revolution, and noted that the DR's biggest threat was invasion from Dominican exiles, who were banded together in rebel groups and seeking refuge in neighboring countries. 
+
+CIVWARLINK: MID1114 3 -- not civil war link
+CIVWARLINK-CER: MID1114 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1114 3 -- not coup 
+COUPMID-CER: MID1114 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1114 3 -- not coup link
+COUPLINK-CER: MID1114 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 6/27/1959, 6/28/1959, 7/5/1959

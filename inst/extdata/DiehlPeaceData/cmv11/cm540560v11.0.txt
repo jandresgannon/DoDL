@@ -1,0 +1,67 @@
+FILE: cm540560v11.0.txt
+DYAD: ANGOLA-SOUTH AFRICA
+RIVALRY: RIV1149
+DISPUTE(S): MID1441 
+
+PS: 19751111-19880830 0.25 19880901-20209999 0.5
+
+PS-UPDATE2020: Commitment to improve relations: https://www.africanews.com/2018/03/03/south-africa-keen-to-boost-cooperation-with-angola/
+
+PSNOTES: thompson rivalry cm540560 ,19750000 ,19880000 
+
+PS-LAST-CHANGED: 20220314
+PS-LAST-CHECKED: 20220314
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1441 
+
+TERRMID: MID1441 3 -- not territory 
+TERRMID-CER: MID1441 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1441 3 -- not third party link to territory 
+TERRLINK-CER: MID1441 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1441 3 -- not maritime 
+MARITMID-CER: MID1441 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1441 3 -- not islands 
+ISLMID-CER: MID1441 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1441 1 -- civil war MID
+CIVWARMID-CER: MID1441 1 -- certain 
+CIVWARMID-NOTES: MID1441 from Gibler 2018, Angola was experiencing a civil war from 1975-1988, and several countries intervened in various ways. South Africa was heavily involved in the civil war, assisting rebels militarily against the government. Coded civil war MID because this was connected to the Angolan civil war, and Angola lies within this dyad. 
+
+CIVWARLINK: MID1441 3 -- not civil war link 
+CIVWARLINK-CER: MID1441 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1441 3 -- not coup 
+COUPMID-CER: MID1441 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1441 3 -- not coup link
+COUPLINK-CER: MID1441 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: South Africa supported UNITA, the opposition, to the Algerian government during the Angolan Civil War. 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

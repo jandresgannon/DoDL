@@ -1,0 +1,240 @@
+FILE: cm344346v11.0.txt
+DYAD: CROATIA-BOSNIA & HERZEGOVINA
+RIVALRY: RIV892
+DISPUTE(S): MID3556 MID4341 MID4231 
+
+RIVNOTES: 
+RIV892: MID4341 (1993) added by MID3.02
+
+PS: 19920406-19961018 0.00 19961019-19981121 -9 19981122-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHECKED: 20220301
+PS-LAST-CHANGED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3556 
+
+TERRMID: MID3556 1 -- territorial MID
+TERRMID-CER: MID3556 1 -- certain 
+TERRMID-NOTES: MID3556 from Gibler 2018, Croatia made an alliance with Serbia to partition Bosnia and Herzegovina during the Yugoslav Wars, leading Croatia and Bosnia and Herzegovina to fight in this MID. Coded territorial MID because Croatia was claiming territory from Bosnia and Herzegovina, leading to this MID. 
+
+TERRLINK: MID3556 3 -- not third party link to territory
+TERRLINK-CER: MID3556 1 -- certain 
+TERRLINK-NOTES: MID3556 this is a bilateral MID. 
+
+MARITMID: MID3556 3 -- not maritime 
+MARITMID-CER: MID3556 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3556 3 -- not islands 
+ISLMID-CER: MID3556 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3556 1 -- civil war MID
+CIVWARMID-CER: MID3556 1 -- certain 
+CIVWARMID-NOTES: MID3556 the Yugoslav Wars involved ethnic militarized rebel groups, some of which were fighting in both of these countries. The agreement to partition Bosnia and Herzegovina was connected to the Yugoslav Wars, so this MID is connected to militarized rebels fighting for Bosnia/Herzegovina independence. 
+
+CIVWARLINK: MID3556 3 -- not civil war link 
+CIVWARLINK-CER: MID3556 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3556 3 -- not coup 
+COUPMID-CER: MID3556 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3556 3 -- not coup link
+COUPLINK-CER: MID3556 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4341 
+
+TERRMID: MID4341 1 -- territorial MID
+TERRMID-CER: MID4341 1 -- certain 
+TERRMID-NOTES: MID4341 see CIVWARMID-NOTES for full description of this MID. Coded territorial MID because this was connected to Croatia claiming territory of Bosnia and using force to attempt to gain control of the territory. 
+
+TERRLINK: MID4341 3 -- not third party link to territory 
+TERRLINK-CER: MID4341 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4341 3 -- not maritime 
+MARITMID-CER: MID4341 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4341 3 -- not islands 
+ISLMID-CER: MID4341 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4341 1 -- civil war MID
+CIVWARMID-CER: MID4341 1 -- certain 
+CIVWARMID-NOTES: MID4341 from Gibler 2018, this MID began in 1993 when Bosnia held a referendum for independence in which people voted for independence. Bosnian Serbs proclaimed their own independent state when the election results were announced, and soon ethnic rebel groups of Croats and Serbs were fighting each other and against Bosnian Muslims. The fighting continued until March 1994. Coded civil war MID because ethnic rebel groups in both countries in this dyad were fighting each other and against forces of the other state. 
+
+CIVWARLINK: MID4341 3 -- not civil war link 
+CIVWARLINK-CER: MID4341 1 -- certain 
+CIVWARLINK-NOTES: MID4341 this is a bilateral MID which involved rebel groups fighting against both states in the dyad. Militarized rebel activity, as part of the Yugoslav Wars, was occurring in states outside this dyad, but this MID was specifically connected to Bosnian independence and Croatia's interests in Bosnia that were incompatible with Bosnian independence. 
+
+COUPMID: MID4341 3 -- not coup 
+COUPMID-CER: MID4341 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4341 3 -- not coup link
+COUPLINK-CER: MID4341 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4231 
+
+TERRMID: MID4231 3 -- not territory 
+TERRMID-CER: MID4231 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4231 3 -- not third party link to territory 
+TERRLINK-CER: MID4231 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4231 3 -- not maritime 
+MARITMID-CER: MID4231 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4231 3 -- not islands 
+ISLMID-CER: MID4231 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4231 3 -- not civil war 
+CIVWARMID-CER: MID4231 1 -- certain 
+CIVWARMID-NOTES: MID4231 from Gibler 2018, this MID occurred after the countries had signed an agreement ending their hostilities in the Yugoslav Wars. Here, Croatia arrested a former Bosnian officer and charged him with war crimes, triggering protest from Bosnia and triggering this MID. Coded not civil war because although the Yugoslav Wars involved civil war activity, this MID occurred after the countries stopped fighting and was a diplomatic issue. 
+
+CIVWARLINK: MID4231 3 -- not civil war link 
+CIVWARLINK-CER: MID4231 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4231 3 -- not coup 
+COUPMID-CER: MID4231 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4231 3 -- not coup link
+COUPLINK-CER: MID4231 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3 1993-2001:
+
+MID3556
+rivalry=344346 nationa=CROATIA nationb=BOSNIA-HERZEGOVINA MID3556 19921020-19941028 
+ revtype1a=TERRITORY revtype2a=. fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=251-500 DEATHS fatalpb=.
+lhostb=USE OF FORCE 
+
+The battle between Bosnia and Croatia (who had been allies) began with a dispute over a gas station. First day of dispute was on 10/20/1992 and last day of dispute was on 10/28/1994.
+
+MID4341
+rivalry=344346 nationa=CROATIA nationb=BOSNIA-HERZEGOVINA MID4341 19930605-19940302 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+251-500 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+First day of dispute was on 6/5/1993 and last day of dispute was on 3/2/1994.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4231
+rivalry=344346 nationa=CROATIA nationb=BOSNIA-HERZEGOVINA MID4231 19960810-19961018 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Croatia arrested a Bosnian and charged him with a war crime. Eventually the person was released and returned to Bosnia, when he was found innocent. First day of dispute was on 8/10/1996 and last day of dispute was on 10/18/1996.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+MID3556 lasted from October 20th, 1992 to October 28th, 1994. MID3556 The battle between Bosnia and Croatia (who had been allies) began with a dispute over a gas station. 
+
+MID4341 lasted from June 5th, 1993 to March 2nd, 1994. 
+
+MID4231 lasted from August 10th, 1996 to October 18, 1996. MID4231 Croatia arrested a Bosnian and charged him with a war crime. Eventually the person was released and returned to Bosnia, when he was found innocent.
+
+Croatia declared independence from Yugoslavia on June 25, 1991. Bosnia&Herzegovina declared independence on March 1st, 1992 and was finally recognized as such on April 6, 1992. On April 9, 1992, the Republic of Croatia, a decision says, as a sovereign and independent state, has recognised the independence and sovereignty of the Socialist Republic of Bosnia-Hercegovina as a community of three constituent nations. The international recognition guarantees the sovereign right of the Croatian nation, as one of the three constituent nations in that republic. By this act of recognition, we are at the same time offering dual citizenship to members of the Croatian nation who wish to obtain it, and we are proposing to do that by an international agreement, the decision says. I suggest that the governments of our countries establish diplomatic relations and full co-operation as soon as possible, the decision of the President of the Republic of Croatia, Dr Franjo Tudjman, on the recognition of Bosnia-Hercegovina says.
+
+On June 15, 1992, President Franjo Tudjman of the Republic of Croatia and Alija Izetbegovic, President of the Presidency of the Republic of Bosnia-Hercegovina, have expressed their wish for a meeting to discuss current problems as well as future relations between the two sovereign and independent states. Mutual regret has been expressed at the current situation, in which brutal aggression is being conducted against the Republic of Bosnia-Hercegovina, President Izetbegovic is not able to leave Sarajevo. Expressing their hope that they will soon be able to meet, the two Presidents decided to make the following joint statement.
+1. Taking into consideration that the Republic of Croatia has recognised the Republic of Bosnia-Hercegovina and that the Republic of Bosnia-Hercegovina has recognised the Republic of Croatia, both Presidents state that steps should immediately be taken to establish diplomatic relations at embassy level.
+2. The Republic of Bosnia-Hercegovina expresses its gratitude to the Republic of Croatia for the humanitarian aid given and the reception and accommodation given to a large number of refugees from Bosnia-Hercegovina who have been forced to leave their centuries-old hearths in the light of brutal and barbarous attacks by Chetniks and military forces from Serbia and Montenegro.
+3. The Republic of Croatia supports Bosnia-Hercegovina's efforts to preserve its independence and repulse aggression and is giving and will continue to give aid to this end. The Republic of Croatia also supports the efforts of the legal government and the Presidency of Bosnia-Hercegovina to consolidate the defence of the Republic by uniting all aspects and components of armed resistance into unified military forces under the command of the Presidency constituted in accordance with item four.
+4. Both Presidents express their full concord that following the end of the war political solutions should be sought on the basis of the principle of equality of all constituent nations in Bosnia-Hercegovina.
+5. President Franjo Tudjman of the Republic of Croatia, supports the efforts of the international community to bring an end to the aggression against Bosnia-Hercegovina. He also supports the demand of the Republic of Bosnia-Hercegovina to the international community for aid, for effective action for preventing further aggression and for an end to military operations.
+6. Both Presidents agree that diplomatic and consular missions of both states should mutually give all necessary help and services to the citizens of the Republics of Croatia and Bosnia-Hercegovina in cases when the representative offices of these countries cannot give this help. Help given in this way will be recognised as valid in both states. On November 30, 1992, Alija Izetbegovic, President of Bosnia-Hercegovina Presidency, described relations between Bosnia-Hercegovina and Croatia as very friendly and deep-rooted. In most difficult times Croatia has taken care of hundreds of thousands of refugees and we shall never forget it, Izetbegovic added.
+
+Speaking about the slowness with which the joint command of the Croatian Defence Council and the Bosnia-Hercegovina army was being established, he said it was important to remember that thanks to sensible people on both sides, negative consequences in relations between Croats and Muslims in Central Bosnia had been prevented. It was impossible to counter the Chetniks without it, and the best example of it could be found in northern Bosnia, where co-operation was good and the results equally good, said Izetbegovic. He confirmed that representatives of the Bosnia-Hercegovina Army had been invited to the talks between Gen Bobetko and the Serbs, but this was rejected because, he said, no talks with Chetniks were possible at such a high level.
+On January 22, 1993, the first session of the Council for Defence and National Security, presided over by President of the Republic, Franjo Tudjman, was held in the Presidential Palace today. In the introductory part of the session the President of the Republic spoke about the constitutional foundations and reasons for the formation of the council, a statement from the president's office says.
+
+In the course of the wide-ranging agenda of the session, there was discussion of relations with the Republic of Bosnia-Hercegovina, in connection with the recent statement from the session of the Bosnia-Hercegovina Presidency and government which took place without the presence of the Croatian members of these bodies, and in which the Republic of Croatia is blamed for the spread of the conflict in Bosnia-Hercegovina. The council rejected the accusations in the statement and is greatly concerned and regrets that there has been a clash, an attack by certain Muslim units of the Bosnia-Hercegovina army on units of the Croatian Defence Council [HVO] and the population of Gornji Vakuf, which resulted in casualties and damage to property.The council stresses that from the beginning of the Serbian aggression in Bosnia-Hercegovina, the Republic of Croatia, although itself damaged and impoverished by war, has borne and is continuing to bear a large burden both in material and human terms. The Republic of Croatia is caring for several hundred thousand refugees from Bosnia-Hercegovina, of whom more than 80% are Muslims. The Republic of Croatia is also contributing to a large extent to supplies to Bosnia-Hercegovina, and in its diplomatic and consular missions in the world it is affording consular and other assistance to refugees from Bosnia-Hercegovina.
+
+The Republic of Croatia was the first state in the world to recognise Bosnia-Hercegovina, it established diplomatic relations and appointed an ambassador to it. The Republic of Croatia has always and will continue to respect mutually concluded and adopted agreements on friendship and cooperation between the Republic of Bosnia-Hercegovina and the Republic of Croatia. The Republic of Croatia has at all negotiations so far, including the Geneva conference on the former Yugoslavia, advocated a peaceful and political solution to the conflict in the Republic of Bosnia-Hercegovina, and has supported the Geneva documents which have been signed by the representatives of the Croatian nation in Bosnia-Hercegovina.
+
+On May 17, 1993, the Bosnian Government accused Croatia of aggression and supported the idea of a summit meeting to discuss the problems existing between the two countries. On June 28, 1993, Croatian President Franjo Tudjman sent a letter to the Presidency of Bosnia-Herzegovina in which he asked them to stop the 'aggression' against Croats in Bosnia. He accussed Bosnia for conducting ethnic cleansing in the Croatian-inhabited regions of Bosnia and that over 100,000 Croats from those regions either became refugees or face mortal danger. 
+
+A working meeting between delegations of the governments of the Republic of Croatia and the Republic of Bosnia-Hercegovina, held on September 5, 1994, in Zagreb, was yet another opportunity for the two countries to exchange views on their shared and open issues.
+
+On october 25, 1994, the Muslim-Croat federation government in Bosnia has demanded that Croatia give up sovereignty over the seaport of Ploce and cede it to the government in Sarajevo. Croat Herceg-Bosna radio said that the Muslim-Croat government had cited the Washington agreement as the basis for its request. The agreement, signed in march at the insistence of the United States, envisaged the forming of a Muslim-Croat federation in Bosnia-Hercegovina and its subsequent confederation with Croatia.The Muslim-Croat government also demanded that the Ploce-Celjevo road and rail corridor at the Croatia-Bosnia border be put outside the jurisdiction of the Croatian authorities.As one of the six republics of the former Yugoslav federation, Bosnia-Hercegovina had 24 km of the Adriatic coast in the region of the town of Neum, near the confluence of the Neretva river. Neum has never been a port. Since the war broke out in Bosnia in 1992, Neum has been held by Bosnian Croats who have denied access to the Muslims.
+
+On August 9th, 1995, the high-level talks between Croatia and Bosnia have started. Earlier, Croatian President Tudjman decorated the Bosnian president and the foreign minister in recognition of their contribution to development of the relations between the two countries.Bestowing the orders, President Tudjman said that this was a sign of recognition to Messrs Izetbegovic and Sacirbegovic for their contribution to the development of relations between the two countries and the implementation of the Washington agreement. The cooperation between Croatia and Bosnia-Hercegovina and the Croatian and Bosniak nations is not important only for bilateral relations but also for the defeat of the Serb aggressor, in which the two countries have the support of the western democratic world and the Islamic countries, Tudjman said. The first results, he said, of this cooperation were a motivation for a further development of bilateral relations.
+
+On December 15, 1995 Croatia and Bosnia signed an agreement to set up a joint council for cooperation. The Joint Council for cooperation will be concerned with the promotion, strategic planning and coordination of cooperation as follows:
+(i) in relations between the Republic of Croatia and the Federation of Bosnia-Hercegovina, particularly in the areas of education, science, technology, information, tourism, sport, environmental protection, social policy, economic relations, and the promotion of cooperation between non-governmental organizations,
+(ii) in relations between the Republic of Croatia and the Republic of Bosnia-Hercegovina, particularly in the areas of coordination of foreign policy and relations with third countries and international organizations, coordination of activities concerned with affiliation to the EU, the Council of Europe, the Partnership for Peace and cooperation with NATO, and in dealings with other regional, European and wider associations, the coordination of development and cooperation with the international community in the area of reconstruction and development, in military cooperation, in the solution of questions of the succession of the former SFRY Socialist Federal Republic of Yugoslavia , and other issues of mutual interest to the two states,
+(iii) The Joint Council will have ten members, five each from the Republic of Croatia and from the Republic and Federation of Bosnia-Hercegovina. The president of the Joint Council will be President of the Republic of Croatia Franjo Tudjman and the vice-president will be Alija Izetbegovic, president of the Presidency of the Republic of Bosnia-Hercegovina. The parties will appoint the members of the Joint Council within 15 days of the signing of the agreement.
+
+On January 5, 1996, Croatian President Franjo Tudjman left for Sarajevo to attend the first session of the council for cooperation between the Republic of Croatian and Bosnia&Herzegovina. Tudjman declared that "Today, we shall be expected to reiterate and, in principle, put in concrete terms all that has so far been agreed upon in Washington and Dayton and to create foundations for the long-lasting cooperation and links between Croatia and Bosnia-Hercegovina or rather the Federation in all spheres: economic, customs, cultural-you have probably all read the agreements-including coordination in the foreign policy and defence spheres. As you can see, this will genuinely mark the opening of a process of cooperation which must secure increasingly stronger unity in economic and other spheres between Bosnia and Croatia."
+
+The president of the Bosnia-Hercegovina Presidency, Alija Izetbegovic, arrived in Zagreb on May 12, 1996, for a two-day official visit.Apart from President Izetbegovic and Kresimir Zubak, president of the Bosnia-Hercegovina Federation, the Bosnia-Hercegovina delegation included Federal Vice President Ejup Ganic, the prime ministers of Bosnia-Hercegovina and the federation, Hasan Muratovic and Izudin Kapetanovic respectively, Bosnia-Hercegovina Foreign Minister Jadranko Prlic, Mariofil Ljubic Speaker of the federal assembly and Kasim Trnka Bosnian ambassador to Croatia . The delegation arrived to attend the second session of the joint council for cooperation of the Republic of Bosnia-Hercegovina and Croatia. The delegation of the Republic of Croatia which will take part in the talks consists of Croatian President Franjo Tudjman, Prime Minister Zlatko Matesa, Mate Granic, deputy prime minister and minister of foreign affairs, word indistinct , Ivo Sanader Tudjman's chief-of-staff , Borislav Skegro deputy prime minister and Vladimir Seks deputy Speaker of the Chamber of Deputies. The Bosnia-Hercegovina delegation was greeted at the airport with the highest honours by Mate Granic, Croatian deputy prime minister and minister of foreign affairs. The topics of discussion will be the signing of the agreement on the use of the port of Ploce for the needs of Bosnia-Hercegovina, passage through Neum municipality for vehicles and citizens of the Republic of Croatia and an agreement on regulating mutual property and legal relations. This will also be an opportunity to examine all aspects of the realization of the Dayton and Washington agreements and the implementation so far of the federation, and also to try and coordinate some of the open issues in relations within Bosnia-Hercegovina and between Bosnia-Hercegovina and Croatia.
+
+On 17th October 1996, the [Bosnian] Serb and Croat members of the Dayton Bosnia-Hercegovina Presidency, Momcilo Krajisnik and Kresimir Zubak, today said they hoped that another session of the three-member Presidency could be held soon and that an agreement on setting up other joint institutions of the Dayton Bosnia-Hercegovina could also be reached. After the meeting with Zubak in Pale, Krajisnik said that certain stances on the resumption of the work of the joint institutions had been prepared and noted that all three Presidency members wanted this to happen. "If we establish principles of equality for all three nations and the two entities [Bosnian Serb Republic and Bosnia-Hercegovina Federation] and if we respect all peculiarities and differences, we will find a solution," Krajisnik explained and said that everything had to be done to avoid a fresh outbreak of war. "Any attempt at outvoting would lead to resistance which would be beyond the control of the Presidency members," Krajisnik warned.Zubak, who earlier had talks with Muslim member of the Presidency Alija Izetbegovic, said that the Presidency session could be held soon, although several issues remained unresolved. The session could be followed by an agreement on the setting up of other joint bodies, he said."We are on the right path to resolve this," Zubak said but declined to give any more details.
+
+SOURCES-CR: BBC April 9, 1992; June 17, 1992; November 30, 1992; January 25, 1993; May 17, 1993; June 27, 1993; June 28, 1993; September 7, 1994; October 27, 1994; March 22, 1995; August 9, 1995; December 14, 1995; December 15, 1995; January 5, 1996; May 12, 1996; Deutsche Presse-Agentur August 29, 1996; 
+
+PS-NARRATIVE:
+
+19961019-19981121 Transition 
+
+The last MID between Croatia and Bosnia&Herzegovina, MID4231 ended on October 18, 1996. MID4231 Croatia arrested a Bosnian and charged him with a war crime. Eventually the person was released and returned to Bosnia, when he was found innocent.
+
+Following the Dayton Accords and the good work within the Joint Council for Cooperation between Croatia and Bosnia-Herzegovina, the relations between the two countries improved significantly during 1996. On September 5, 1998, Bosnia and Croatia have reached a preliminary agreement on Bosnia's use of Croatia's port of Ploce. This has been one of the unresolved issues which has hampered Bosnia's relations with Croatia since the Dayton peace agreement was signed in 1995. The two-day talks between Bosnia-Hercegovina and the Republic of Croatia on the Croatian port of Ploce and transit of goods through Neum the only Bosnian town on the Adriatic coast, it is about 25 km from Ploce and breaks the continuity of Croatia's Adriatic coast ended just a moment ago, resulting in harmonized principles of the agreement. 
+
+19981122-20159999 0.5
+
+President Franjo Tudjman of Croatia and Ejup Ganic of the Croat-Moslem Federation in Bosnia-Herzegovina signed an agreement on special relations between the two sides on November 22, 1998 in Zagreb. The agreement, resulting after months of negotiations which also involved international mediators, provides for broad cooperation between the two countries in all fields. Croatian Foreign Minister Mate Granic described the agreement as "Croatia's most important since the Dayton accords", as quoted by the Zagreb news agency HINA. International mediator Jacques Klein warned that Croatia and Bosnia-Herzegovina would still have to work hard to make the agreement work. The sides also signed two other agreements, one on Bosnia-Herzegovina's use of Croatia's Adriatic seaport of Ploce and another on Croatian traffic through the narrow Bosnian coastal zone of Neum. The latter was signed by the Moslem member of the Bosnia-Herzegovina presidium, Alija Izetbegovic, in the presence of its Serbian chairman Zivko Radisic.
+
+Croatian Premier Ivica Racan is to visit Sarajevo and Mostar on 27th and 28th July, 2000, to confirm the new Croatia-Bosnia-Hercegovina relations as part of complying with obligations to the international community and to incite the resolving of mutual issues, a government official said. Prime Minister Racan will head a delegation comprising Deputy Prime Minister Slavko Linic, Foreign Minister Tonino Picula, Defence Minister Jozo Rados, Veterans' Minister Ivica Pancic, and Deputy Economy Minister Neven Mimica, said government spokeswoman Aleksandra Kolaric. During the visit, two agreements will be signed, one on customs cooperation and another on readmittance, as well as a cooperation protocol between the two foreign ministries.The customs cooperation agreement will include both Bosnia-Hercegovina's entities, and not only the Croat-Muslim federation as before. The agreement's objective is to prevent smuggling and customs violations.The agreement on readmittance, namely the turnover and admittance of people, represents Croatia's attempt to resolve the issue of the increasing number of illegal border crossings by persons from Bosnia-Hercegovina headed for the West.In the first six months of 1999, 7,526 persons illegally entered Croatia, and 9,547 did so in this year's first six months. Croatia has spent 1.8m kuna to provide care for these people. According to the agreement, Croatia will be able to return them to Bosnia-Hercegovina, while Bosnia-Hercegovina citizens will be able to temporarily enter Croatia with identity cards.Kolaric said Bosnia-Hercegovina citizens would be able to enter Croatia with ID cards during the tourist season, namely from 27th July until 30th September.Under the agreement on cooperation between the two Foreign Ministries, Croatia and Bosnia-Hercegovina will offer consular assistance in states in which one of the two countries has no mission, as is Croatia's case in Saudi Arabia, Libya, and Pakistan. Croatia's Diplomatic Academy will educate diplomats for Bosnia-Hercegovina's needs.The visit to Mostar will be the first on this high a level since the change of authority in Croatia earlier this year. Kolaric said the aim was to confirm Croatia's further care for Bosnian Croats in line with the international obligations Croatia assumed and in keeping with the implementation of the Dayton peace agreement.Croatia and Bosnia-Hercegovina will also hold talks on advancing mutual relations in the economy through trade liberalisation.
+
+On May 14, 2001, the Bosnian Federation and Croatian interior ministers, Muhamed Besicand Sime Lucin, have held talks in Sarajevo on cooperation against crime, especially organized crime. They agreed to draw up an agreement on cooperation between Croatia and Bosnia-Hercegovina as a whole. Both ministers agreed that instability in one republic affected the other, and it was important to achieve the situation where criminals could not find any protection or refuge either in Bosnia or Croatia. 
+
+On 22 January, 2002, Croatia has officially informed Bosnia-Hercegovina that the ban on road transport of oil and oil derivatives across its territory was lifted at midnight last night, the Bosnia-Hercegovina Foreign Ministry has said. Croatian Ambassador to Sarajevo Josip Vrbosic has informed Deputy Foreign Minister for Bilateral Relations Ana Trisic-Babic that the implementation of the decree from the Rules of Procedure on amendments and addenda to the Rules of Procedure on modalities of road transport of dangerous substances across Croatian territory has been suspended. During the talks, Vrbosic said that Croatia "did not have the intention of disrupting the goodneighbourly relations and cooperation with Bosnia-Hercegovina". He added that in future Croatia would seek the opinion of the relevant authorities in Bosnia-Hercegovina. "Croatia will continue to act in accordance with the previously signed agreements and accepts all multilateral deals, conventions and bilateral agreements," Vrbosic said.
+
+On June 28, 2003, the Croatian ambassador to Bosnia said that the relations between the two countries are stable.He said "I will support this with examples. We have regular sessions of the Inter-State Council, alternately in Bosnia-Hercegovina and in Croatia. Meetings between our officials are very, very frequent. In the past couple of months, there were several visits to Sarajevo and several from Sarajevo to Zagreb. Next month, more precisely on 14 July, Croatian Prime Minister Ivica Racan will visit Sarajevo. Further on, a result of the stable and, I would say, friendly relations between our two countries is the fact that the economic cooperation, both exports from Bosnia-Hercegovina to Croatia and exports from Croatia to Bosnia-Hercegovina, is in constant growth. Another aspect of this good cooperation is the possibility for tourists from Bosnia-Hercegovina to go to Croatia and Croatians to come to Bosnia-Hercegovina with just their IDs during the summer period. We expect this not to be only a summer thing, but also a winter asset in order to help winter tourism in Bosnia-Hercegovina. the Croatian minister for public works, reconstruction and construction, Radimir Cacic, and the Bosnia-Hercegovina minister for human rights and refugees, Mirsad Kebo, gave their support on 23 July, 2003, to the speedier return of refugees to Croatia and Bosnia-Hercegovina, and have announced the formation of a joint committee to speed up this process.At a news conference held after talks in Zagreb, Cacic and Kebo announced that a joint committee would be set up soon, which should "work for the return of Croatian citizens who want to return to Croatia, but are temporarily in Bosnia-Hercegovina, and Bosnia-Hercegovina citizens who want to return to Bosnia-Hercegovina, but are now in Croatia," and exchange details about them. "This exchange is of special importance as there are significant differences in the figures," Cacic said, adding that according to Bosnia-Hercegovina's figures, 24,000 people want to return to Croatia, while Croatian figures point to 2,600 people who want to return."The final figure will most probably be higher than 2,600, but probably fewer than 24,000," Cacic said."I would like to use this opportunity to call on Croats from Bosnia-Hercegovina to return to Bosnia-Hercegovina. Their return is no longer a security or political issue, it is an economic issue," Kebo said. Kebo said there were discussions on how to motivate people to return to the place they had fled, "without denying them the right to choose where they would like to live". "We paid special attention to the matter of public information. We would like the public information campaign in Bosnia-Hercegovina and Croatia to be such that the relevant information reaches those citizens to which it applies," Kebo said.
+
+On 25 February, 2004, Bosnia's Chairman of the Council of Ministers Adnan Terzic in Mostar this evening held talks with Croatian Prime Minister Ivo Sanader. The meeting was held on the eve of the international conference on the investment in Bosnia-Hercegovina, which will be held in Mostar on 26 and 27 February. This is the first official meeting of the two prime ministers after the election of the new Croatian government. According to Adnan Terzic, the meeting focused on the current state of relations between the two countries and on resolving open issues."We believe that the relations between Bosnia-Hercegovina and the Republic of Croatia are very good and still improving," Terzic said, adding that a delegation of the Council of Ministers would visit Zagreb at Ivo Sanader's invitation at the end of March.The chairman of the Council of Ministers pointed out that Bosnia-Hercegovina supported strongly Croatia's effort to join the EU as soon as possible. "The introduction of the European standards in Bosnia-Hercegovina will be much speedier and easier if Europe is on our border," Terzic said. He added that it had been agreed at the meeting that Croatia would convey to Bosnia-Hercegovina its experience on the path to the European integration."Croatia is focused on the EU, but this is not to say that its interest in the neighbouring countries, particularly Bosnia-Hercegovina, is weaker for it," Prime Minister Ivo Sanader said after the talks.He described the talks with Terzic as very useful, and pointed out that Bosnia-Hercegovina would enjoy Croatia's full support on the path of stabilization and association with the EU. "We shared the past in the common state with Bosnia-Hercegovina, and I am certain that we shall share the future in the united Europe," the Croatian prime minister said.He added that these were two friendly countries and that this friendship was stronger than any open issues, such as the foreign trade deficit of Bosnia-Hercegovina in trade with Croatia, the free-trade agreement, the Vc corridor, the cooperation related to the port of Ploce and the passage through Neum.In this context Ivo Sanader singled out the issue of equality of the Croat people in Bosnia-Hercegovina, and recalled that his government had the support of the Bosniak MP in the Croatian parliament, that is the SDA Party of Democratic Action in Croatia.He said that Croatia was interested in resolving open issues between the two countries, and in improving the economic cooperation. Sanader said that in this context the interlocutors had discussed the possibility of setting up a joint council to deal with the economic cooperation between the two countries."We are interested in clear European prospects of both Croatia and Bosnia-Hercegovina. I expect from the EU a positive reply in Croatia's case, and I expect Bosnia-Hercegovina soon to achieve a negotiating position and sign the Stabilization and Association Agreement, as a first step towards the EU," the Croatian prime minister said.
+
+A joint international border crossing between Croatia and Bosnia and Hercegovina on Croatian territory, Maljevac-Velika Kladusa, was inaugurated on 18 October,2005.The project is worth 15m kuna, with 40 per cent invested by Croatia and the rest coming from an International Bank for Reconstruction and Development (IBRD) loan.This was the last of four border crossings built within a project aimed at facilitating trade and traffic in Southeast Europe. Other crossings were built at Gunja, Slavonski Brod, and Slavonski Samac, the total investment amounting to 11.5m dollars.The project covered six countries signatories to a memorandum of understanding-Croatia, Bosnia and Hercegovina, Bulgaria, Macedonia, Romania, and Albania-based on which Croatia signed a 14.8m euro loan agreement with the IBRD in 2000.The main objective of the project is to cut costs in trade and traffic, and prevent trafficking and corruption at border crossings.The Maljevac-Velika Kladusa crossing was inaugurated by prime ministers Ivo Sanader of Croatia and Ahmet Hadzipasic of Bosnia's Croat-Muslim federation.Sanader said that with this project Croatia demonstrated political will to cooperate with Bosnia and other neighbours."The political message is clear, cooperation has no alternative. Yes to cooperation in Southeast Europe, but without integration," he said, adding that due to their long border Croatia and Bosnia should significantly contribute to stability in the region.He also said that the new border crossing should help develop economic cooperation, and that now emphasis should be placed on the exchange of goods and services rather than politics.Sanader said Croatia would lead a parallel policy-successfully complete EU entry negotiations as soon as possible and contribute with its neighbours to the stability of Southeast Europe because by joining the EU, Croatia would not separate itself from the region. Sanader said Croatia and Bosnia were committed to cooperation, two friendly countries with the joint goal of joining Euro-Atlantic institutions. He added Croatia would help Bosnia in its integration. Federal PM Hadzipasic said Bosnia's interest in the border crossing project was to suppress trafficking and corruption, facilitate border monitoring and save money.The World Bank director for Croatia, Romania and Bulgaria, Anand Seth, said the promotion of trade and free traffic of goods was one of the foundations for joining the EU. He said the border crossing project would cut the time necessary to cross the border, cut the two states' expenditure by 65 per cent, Croatia's traffic costs by 10m and Bosnia's by three million US dollars.Seth welcomed Croatia's decision to take part in the Ploce port project, saying it would increase trade on the Bosnian side by 80 per cent. Last month Croatia signed a preliminary agreement with the World Bank on a 60-80m euro loan for the project. The money will be invested in the building of two terminals in the southern Croatian port.
+
+Discussions continue to date between Bosnia and Croatia on several small disputed sections of the boundary related to maritime access that hinder final ratification of the 1999 border agreement.Sections of the Una River and villages at the base of Mount Plješevica are in Croatia, while some are in Bosnia, which causes an excessive number of border crossings on a single route and impedes any serious development in the region. The Zagreb-Bihac-Split railway line is still closed for major traffic due to this issue. The road Karlovac-Plitvice Lakes-Knin, part of the Croatian state route D1 and European route E71, is becoming increasingly unused because Croatia built the A1, a separate multi-lane highway to the west, closer to the Adriatic Sea coastline. The border on the Una River between Hrvatska Kostajnica on the northern, Croatian side of the river, and Bosanska Kostajnica on the southern, Bosnian side, is also being discussed. A river island between the two towns is under Croatian control, but is claimed by Bosnia and Herzegovina. A shared border crossing point has been built and has been functioning since 2003, and is used without hindrance by either party.
+
+The Herzegovinian municipality of Neum in the south makes the southernmost part of Croatia (Dubrovnik-Neretva County) an exclave. In 1999, a border agreement between former Croatian President Franjo Tudman and President of Bosnia and Herzegovina Alija Izetbegovic moved the Croatia-Bosnia and Herzegovina border near Neum from the very coast (during SFR Yugoslavia era and confirmed by the Badinter Arbitration Committee) further into the sea waters of the Mali Ston Bay, placing two Croatian islands (Mali and Veliki Škoj, incidentally translated into English as Little and Big Island) under Bosnia-Herzegovina sovereignty. Six years later, the Croatian government called for the ratification of this agreement; however, as of 2007, it was not ratified. The two countries are currently negotiating special transit rules through Neum to compensate for the lack of contiguity of Croatia.
+
+Recently Croatia has opted to build a bridge to the Pelješac peninsula to connect the Croatian mainland with the exclave as part of the Zagreb-Dubrovnik highway (A1), but Bosnia and Herzegovina has protested that it will hinder their access to international waters (although Croatian territory and territorial waters completely surround the ones of Bosnia and Herzegovina) and has suggested that the bridge must be higher than 55 meters (180 ft) to ensure free passage of all types of ships, while Croatia stated that the Neum harbor doesn't currently have a potential to house ships so big.
+
+PS-SOURCES: BBC November 26, 1997; September 5, 1998; July 31, 1999; July 24, 2000; May 14, 2001; January 22, 2002; April 13, 2003; June 28, 2003; July 23, 2003; February 25, 2004; April 21, 2004; November 16, 2004; October 18, 2005; Deutsche Presse-Agentur November 22, 1998
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

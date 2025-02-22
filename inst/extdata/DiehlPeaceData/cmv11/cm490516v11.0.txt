@@ -1,0 +1,103 @@
+FILE: cm490516v11.0.txt
+DYAD: BURUNDI-DRC/ZAIRE
+
+PS: 19620701-19940923 0.5 19940924-20031115 .25 20031116-20209999 0.5
+
+PS-UPDATE2020: Coding change to a lesser rivalry (.25) with the creation of the CNDD-FDD rebels in Burundi and some of whose leaders because based in the DRC. The DRC also supported that rebel group. The rivalry ends with the signing of the Global Ceasefire Agreement between Burundi government and CNDD rebels. The rebel group transformed into a political party and won elections two years later.
+
+PSNOTES: 
+
+
+PS-LAST-CHANGED: 20220629
+PS-LAST-CHECKED: 20220629
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4366
+
+TERRMID: MID4366 3 -- not territory
+TERRMID-CER: MID4366 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4366 3 -- not third party link to territory 
+TERRLINK-CER: MID4366 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4366 3 -- not maritime 
+MARITMID-CER: MID4366 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4366 3 -- not islands 
+ISLMID-CER: MID4366 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4366 3 -- not civil war 
+CIVWARMID-CER: MID4366 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4366 1 -- civil war link
+CIVWARLINK-CER: MID4366 1 -- certain
+CIVWARLINK-NOTES: MID4366 from Gibler 2018, rebels targeting the Rwandan government entered Burundi (from DRC) and attacked a refugee camp there. Burundi threatened the DRC, since the rebels crossed from DRC territory where they regularly sought refuge from the Rwandan government. Coded civil war link because this was connected to militarized rebels targeting Rwanda, outside this dyad. 
+
+COUPMID: MID4366 3 -- not coup 
+COUPMID-CER: MID4366 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4366 3 -- not coup link
+COUPLINK-CER: MID4366 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4393
+
+TERRMID: MID4393 3 -- not territory
+TERRMID-CER: MID4393 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4393 3 -- not third party link to territory 
+TERRLINK-CER: MID4393 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4393 3 -- not maritime 
+MARITMID-CER: MID4393 1 -- certain
+MARITMID-NOTES: MID4393 from Gibler 2018, several Congolese soldiers attacked Burundi fisherman, and Burundi detained the soldiers. Coded not maritime because the countries were not disputing a maritime boundary. 
+
+ISLMID: MID4393 3 -- not islands 
+ISLMID-CER: MID4393 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4393 3 -- not civil war 
+CIVWARMID-CER: MID4393 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4393 3 -- not civil war link
+CIVWARLINK-CER: MID4393 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4393 3 -- not coup 
+COUPMID-CER: MID4393 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4393 3 -- not coup link
+COUPLINK-CER: MID4393 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4366
+rivalry=490516 nationa=BURUNDI nationb=DRC/ZAIRE MID4366 20040813-20040813 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+On April 24, 2004, Rwanda escalated action by invading the DRC Kivu region with the additional military forces and attacking the DRC towns of Masisi and Rutshuru while looking for Interahamwe rebels and occupying the territory. During the course of this occupation, Rwanda also continued to fortify its border with the DRC with thousands of additional troops. In August 2004, the fighting in DRC spilled over into neighboring Burundi, when Hutu extremist rebels, reportedly with the aid of Congolese military units, attacked a Tutsi refugee camp, killing 160 people. In response, both Rwanda and Burundi threatened to send troops into DRC territory to attack rebel bases in eastern Congo. At about the same time, the Burundian government accused soldiers from the DRC of firing their automatic weapons across the border at the Burundian military checkpoint at Gatumba. The dispute seemed mostly dormant until the end of November 2004, when Rwanda sent troops into DRC to attack and occupy the rebel-held villages of Goma, Beni, and Ikobo in eastern Congo. This prompted the DRC government to place its military forces on heightened alert for possible clashes with Rwandan military units. First day of dispute was on 8/13/2004 and last day of dispute was on 8/13/2004.
+
+MID4393
+rivalry=490516 nationa=DRC/ZAIRE nationb=BURUNDI MID4393 20070910-20080313 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE
+
+On September 9, 2007, six Congolese soldiers were captured and detained by Burundian military forces after attacking Burundian fishermen on Lake Tanganyika. It is unclear when, or if, the Congolese soldiers were released. First day of dispute was on 9/10/2007 and last day of dispute was on 3/13/2008.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,664 @@
+FILE: cm100101v11.0.txt
+DYAD: COLOMBIA-VENEZUELA
+RIVALRY: RIV256
+DISPUTE(S): MID1174 MID2342
+RIVALRY: RIV257
+DISPUTE(S): MID2323 MID2356 MID2812 MID2768 MID4219 MID4009 MID4172 MID4262
+
+RIVNOTES: 
+
+PS: 19009999-19820712 0.25 19820713-20209999 0.00
+
+PS-UPDATE2020:
+
+PS1800: 18410101-18999999 .25
+
+PSNOTES: thompson rivalry cm100101 ,18310000 ,20100000 
+
+PS-LAST-CHANGED: 20220217
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1174 
+
+TERRMID: MID1174 3 -- not territory
+TERRMID-CER: MID1174 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1174 3 -- not third party link to territory 
+TERRLINK-CER: MID1174 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1174 3 -- not maritime 
+MARITMID-CER: MID1174 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1174 3 -- not islands 
+ISLMID-CER: MID1174 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1174 1 -- civil war MID
+CIVWARMID-CER: MID1174 1 -- certain
+CIVWARMID-NOTES: MID1174 from cm narrative, this is one of two MIDs triggered by the Liberal government of Venezuela joining in liberal rebel attacks against the conservative Colombian regime. This MID occurred in 1900. Coded civil war MID because Venezuela supported rebel groups in Colombia and directly helped them attack Colombia.
+
+CIVWARLINK: MID1174 3 -- not civil war link
+CIVWARLINK-CER: MID1174 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1174 3 -- not coup 
+COUPMID-CER: MID1174 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1174 3 -- not coup link
+COUPLINK-CER: MID1174 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2342 
+
+TERRMID: MID2342 3 -- not territory
+TERRMID-CER: MID2342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2342 3 -- not third party link to territory 
+TERRLINK-CER: MID2342 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2342 3 -- not maritime 
+MARITMID-CER: MID2342 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2342 3 -- not islands 
+ISLMID-CER: MID2342 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2342 1 -- civil war MID
+CIVWARMID-CER: MID2342 1 -- certain
+CIVWARMID-NOTES: MID2342 from cm narrative, this is one of two MIDs triggered by the Liberal government of Venezuela joining in liberal rebel attacks against the conservative Colombian regime. This MID occurred in 1902. Coded civil war MID because Venezuela supported rebel groups in Colombia and directly helped them attack Colombia.
+
+CIVWARLINK: MID2342 3 -- not civil war link
+CIVWARLINK-CER: MID2342 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2342 3 -- not coup 
+COUPMID-CER: MID2342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2342 3 -- not coup link
+COUPLINK-CER: MID2342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2323 
+
+TERRMID: MID2323 1 -- territorial MID
+TERRMID-CER: MID2323 1 -- certain 
+TERRMID-NOTES: MID2323 from cm narrative, the land border between Venezuela and Colombia was settled in 1924. A dispute later arose over the land boundary because of the land boundary's implications for offshore oil reserves. The countries began having MIDs connected to this dispute in the 1980s (from cm narrative), the first of which is MID2323. On July 13, 1982 and July 24, 1982, the Venezuelan military crossed over into Colombian territory, forcing Colombia to take defensive actions against the incursions. The Colombian government demanded an explanation for the two incidents. Coded territorial MID because Venezuela's actions in the disputed area and Colombia's defensiveness over the area was connected to the disputation of the area, as both countries sought to control the area and its associated oil drilling rights.
+
+TERRLINK: MID2323 3 -- not third party link to territory 
+TERRLINK-CER: MID2323 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2323 1 -- not maritime 
+MARITMID-CER: MID2323 1 -- certain
+MARITMID-NOTES: MID2323 the maritime boundary was disputed, and in this area in particular, oil reserves fueled a dispute over both the maritime and land border. Colombia and Venezuela sought to control this area of the maritime border because oil reserves were in the area. Coded maritime MID because although this MID occurred in the disputed land area, it was mainly driven by the conflicting maritime claims and control over the offshore oil reserves. 
+
+ISLMID: MID2323 3 -- not islands 
+ISLMID-CER: MID2323 1 -- certain
+ISLMID-NOTES: MID2323 from Gibler, Miller, and Little (2016) narrative for MID2356 (pg. IIB-24), islands in the disputed waters were also disputed, but they were not connected to this incident. 
+
+CIVWARMID: MID2323 3 -- not civil war 
+CIVWARMID-CER: MID2323 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2323 3 -- not civil war link
+CIVWARLINK-CER: MID2323 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2323 3 -- not coup 
+COUPMID-CER: MID2323 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2323 3 -- not coup link
+COUPLINK-CER: MID2323 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2356 
+
+TERRMID: MID2356 3 -- not territory
+TERRMID-CER: MID2356 1 -- certain 
+TERRMID-NOTES: MID2356 this MID includes a clash at the border between Colombian rebels and Venezuelan border guards (see CIVWARMID-NOTES), but this was not a dispute centered on the land border dispute, and it is unclear whether this clash actually occurred at the disputed section of the border. In any case, this was a civil conflict issue, not an incident in which either country was advancing its claim on the disputed land border. 
+
+TERRLINK: MID2356 3 -- not third party link to territory 
+TERRLINK-CER: MID2356 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2356 1 -- maritime MID
+MARITMID-CER: MID2356 3 -- uncertain
+MARITMID-NOTES: MID2356 the maritime boundary was disputed at this time, as were several islands in the disputed waters. This MID has two aspects, one being a military response to Colombian guerrillas and the other being an exchange over the disputed islands after Colombia asserted its sovereignty over the islands. From Gibler, Little, and Miller (2016: IIB-24), Venezuela publicly rejected Colombia's claim of sovereignty over the disputed islands and asserted its own sovereignty over the islands and the associated waters. Coded maritime MID because this aspect of the MID includes Venezuela asserting its sovereignty over the disputed waters, but coded uncertain because GLM assert that this exchange does not constitute a MID. 
+
+ISLMID: MID2356 1 -- islands MID
+ISLMID-CER: MID2356 3 -- uncertain
+ISLMID-NOTES: MID2356 from Gibler, Little, and Miller (2016: IIB-24), on 6/5/1986, Venezuela reasserted its claim of sovereignty over the "islands within its gulf and the gulf up to the north of the Guajira Peninsula." Colombia had recently asserted its own sovereignty over the disputed islands. However, GLM recommend this case be dropped because this was not a threat and therefore not a militarized incident. Coded islands MID because this was connected to the disputed islands, but coded uncertain because GLM assert that this is not a MID. 
+
+CIVWARMID: MID2356 1 -- civil war MID
+CIVWARMID-CER: MID2356 1 -- certain
+CIVWARMID-NOTES: MID2356 from cm narrative, on 6/7/1986, Colombian guerrillas (most likely FARC rebels) attacked Venezuelan border guards at a border outpost. In response, Colombia deployed troops to the border with Venezuela. The cross-border guerrilla attack and the troop deployment triggers this MID. Coded civil war MID because this MID occurred when militarized rebels in Colombia attacked a border outpost, and these rebels were involved in an insurgency against the Colombian government. 
+
+CIVWARLINK: MID2356 3 -- not civil war link
+CIVWARLINK-CER: MID2356 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2356 3 -- not coup 
+COUPMID-CER: MID2356 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2356 3 -- not coup link
+COUPLINK-CER: MID2356 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2812 
+
+TERRMID: MID2812 1 -- territorial MID
+TERRMID-CER: MID2812 1 -- certain 
+TERRMID-NOTES: MID2812 from cm narrative, most of the events of this MID involve the maritime boundary, but toward the end of this MID, Colombia accused Venezuela of border incursions and border closings. This occurred in September 1987, and the border, although settled in 1924, had become disputed again when oil reserves were discovered in the disputed gulf. The land boundary leading up to the coast had become disputed due to the implications of the maritime boundary and the associated offshore oil reserves. Coded territorial MID because the border was again disputed in the 1980s (per the cm narrative), and part of the events of this MID include border incursions as clashes occurred in the disputed waters. 
+
+TERRLINK: MID2812 3 -- not third party link to territory 
+TERRLINK-CER: MID2812 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2812 1 -- maritime MID
+MARITMID-CER: MID2812 1 -- certain
+MARITMID-NOTES: MID2812 from cm narrative, a Colombian warship entered the disputed waters, triggering Venezuelan protests and calls for mediation. Coded maritime MID because this MID was triggered by a warship entering the disputed waters. 
+
+ISLMID: MID2812 3 -- not islands 
+ISLMID-CER: MID2812 1 -- certain
+ISLMID-NOTES: MID2812 islands were disputed also, but this MID did not involve the islands. 
+
+CIVWARMID: MID2812 3 -- not civil war 
+CIVWARMID-CER: MID2812 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2812 3 -- not civil war link
+CIVWARLINK-CER: MID2812 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2812 3 -- not coup 
+COUPMID-CER: MID2812 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2812 3 -- not coup link
+COUPLINK-CER: MID2812 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2768 
+
+TERRMID: MID2768 3 -- not territory
+TERRMID-CER: MID2768 1 -- certain 
+TERRMID-NOTES: MID2768 from cm narrative, this MID involved the Venezuelan military killing two Colombians on the Arauca River, which forms part of the border between Colombia and Venezuela. Coded not territory because although this was a border incident and a section of the border was disputed, the section of the border where this clash occurred was not disputed, and neither country was advancing a territorial claim here. 
+
+TERRLINK: MID2768 3 -- not third party link to territory 
+TERRLINK-CER: MID2768 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2768 3 -- not maritime 
+MARITMID-CER: MID2768 1 -- certain
+MARITMID-NOTES: MID2768 did not involve the disputed maritime boundary.
+
+ISLMID: MID2768 3 -- not islands 
+ISLMID-CER: MID2768 1 -- certain
+ISLMID-NOTES: MID2768 did not involve the disputed islands. 
+
+CIVWARMID: MID2768 3 -- not civil war 
+CIVWARMID-CER: MID2768 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2768 3 -- not civil war link
+CIVWARLINK-CER: MID2768 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2768 3 -- not coup 
+COUPMID-CER: MID2768 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2768 3 -- not coup link
+COUPLINK-CER: MID2768 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4495 
+
+TERRMID: MID4495 3 -- not territory
+TERRMID-CER: MID4495 1 -- certain 
+TERRMID-NOTES: MID4495 the border was disputed at this time and Colombia accused Venezuela of dropping bombs in Colombia territory during a battle between right-wing paramilitaries and left-wing rebels. The events of this MID are explicitly about rebel group activity in Colombia and are not centered on the territorial claim. Coded not territory because although part of the MID involves Colombia protesting a violation of its sovereignty across the disputed border, this is not sufficient to trigger a territorial MID and neither country was advancing its territorial claim here.
+
+TERRLINK: MID4495 3 -- not third party link to territory 
+TERRLINK-CER: MID4495 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4495 3 -- not maritime 
+MARITMID-CER: MID4495 1 -- certain
+MARITMID-NOTES: MID4495 not connected to the disputed maritime border in this dyad. 
+
+ISLMID: MID4495 3 -- not islands 
+ISLMID-CER: MID4495 1 -- certain
+ISLMID-NOTES: MID4495 not connected to the disputed islands in this dyad. 
+
+CIVWARMID: MID4495 1 -- civil war MID
+CIVWARMID-CER: MID4495 1 -- certain
+CIVWARMID-NOTES: MID4495 from cm narrative, this MID occurred 3/2003-3/30/2003. Venezuela built up troops along the disputed border in response to violence between the Colombian government, right-wing paramilitaries, and left-wing rebels spilling over into Venezuela. Colombia also accused Venezuela of supporting left-wing rebels against the Colombian government. Coded civil war MID because civil conflict in Colombia led to the events of this MID.
+
+CIVWARLINK: MID4495 3 -- not civil war link
+CIVWARLINK-CER: MID4495 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4495 3 -- not coup 
+COUPMID-CER: MID4495 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4495 3 -- not coup link
+COUPLINK-CER: MID4495 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4500 
+
+TERRMID: MID4500 3 -- not territory
+TERRMID-CER: MID4500 3 -- uncertain 
+TERRMID-NOTES: MID4500 from cm narrative, Venezuelan soldiers and a helicopter entered into Colombian territory and fired on a settlement there. It is unclear why the attack occurred. It may have been connected to the disputed border, an attack on a rebel settlement, or both. Coded uncertain because it is unclear why the attack occurred, and coded not territory because there is no indication that this was connected to the disputed border. 
+
+TERRLINK: MID4500 3 -- not third party link to territory 
+TERRLINK-CER: MID4500 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4500 3 -- not maritime 
+MARITMID-CER: MID4500 1 -- certain
+MARITMID-NOTES: MID4500 not connected to the disputed maritime boundary. 
+
+ISLMID: MID4500 3 -- not islands 
+ISLMID-CER: MID4500 1 -- certain
+ISLMID-NOTES: MID4500 not connected to the disputed islands. 
+
+CIVWARMID: MID4500 1 -- civil war MID
+CIVWARMID-CER: MID4500 3 -- uncertain
+CIVWARMID-NOTES: MID4500 from cm narrative, this attack most likely occurred due to rebel activity in Colombia that sometimes spills over into Venezuela, contributing to tensions between these countries. Coded uncertain because it is unclear if rebel settlements in Colombia were connected to this MID.
+
+CIVWARLINK: MID4500 3 -- not civil war link
+CIVWARLINK-CER: MID4500 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4500 3 -- not coup 
+COUPMID-CER: MID4500 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4500 3 -- not coup link
+COUPLINK-CER: MID4500 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4503 
+
+TERRMID: MID4503 3 -- not territory
+TERRMID-CER: MID4503 1 -- certain 
+TERRMID-NOTES: MID4503 from cm narrative, this MID was mostly driven by Colombia crossing the border of Ecuador to attack FARC rebels. In response, Ecuador and Venezuela deployed troops to fortify their respective borders with Colombia. Venezuela charged that Colombian troops had crossed the border into Venezuela. Venezuela announced that it had stopped the Colombian troops on the Venezuelan side of the border, and issued a protest to Colombia. Coded not territory because although this MID did involve Venezuela protesting a violation of its territorial sovereignty, this is not sufficient to trigger a territorial MID and neither country was advancing its territorial claim here.
+
+TERRLINK: MID4503 3 -- not third party link to territory 
+TERRLINK-CER: MID4503 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4503 3 -- not maritime 
+MARITMID-CER: MID4503 1 -- certain
+MARITMID-NOTES: MID4503 the disputed maritime boundary was not connected to this dispute.
+
+ISLMID: MID4503 3 -- not islands 
+ISLMID-CER: MID4503 1 -- certain
+ISLMID-NOTES: MID4503 the disputed islands were not connected to this dispute.
+
+CIVWARMID: MID4503 1 -- civil war MID
+CIVWARMID-CER: MID4503 1 -- certain
+CIVWARMID-NOTES: MID4503 this MID began when Colombia crossed borders to attack FARC rebels. Coded civil war MID because this MID was connected to militarized rebels fighting against the Colombian government.
+
+CIVWARLINK: MID4503 3 -- not civil war link
+CIVWARLINK-CER: MID4503 1 -- certain
+CIVWARLINK-NOTES: MID4503 involved another country, Ecuador, but there were no rebel groups in Ecuador fighting against that government. 
+
+COUPMID: MID4503 3 -- not coup 
+COUPMID-CER: MID4503 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4503 3 -- not coup link
+COUPLINK-CER: MID4503 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4505 
+
+TERRMID: MID4505 3 -- not territory
+TERRMID-CER: MID4505 1 -- certain 
+TERRMID-NOTES: MID4505 from cm narrative, this MID was mostly driven by rebel group activity. This is coded not territory because while it involves troop buildups and tensions along the disputed border, this is not sufficient to trigger a territorial MID and neither country was advancing its territorial claim here.
+
+TERRLINK: MID4505 3 -- not third party link to territory 
+TERRLINK-CER: MID4505 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4505 3 -- not maritime 
+MARITMID-CER: MID4505 1 -- certain
+MARITMID-NOTES: MID4505 the disputed maritime boundary was not connected to this dispute.
+
+ISLMID: MID4505 3 -- not islands 
+ISLMID-CER: MID4505 1 -- certain
+ISLMID-NOTES: MID4505 the disputed islands were not connected to this dispute.
+
+CIVWARMID: MID4505 1 -- civil war MID
+CIVWARMID-CER: MID4505 1 -- certain
+CIVWARMID-NOTES: MID4505 from cm narrative, on 8/9/2009, Colombia accused Venezuelan troops of an incursion into Venezuela through the Orinoco River to hunt down FARC rebels. In response to an increasing frequency of incursions into Venezuelan territory by Colombian forces, Venezuela deployed additional troops to secure its border with Colombia. This additional deployment resulted in Colombia placing its military on 'maximum alert.' Coded civil war MID because Colombia fighting FARC rebels contributed to this MID.
+
+CIVWARLINK: MID4505 3 -- not civil war link
+CIVWARLINK-CER: MID4505 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4505 3 -- not coup 
+COUPMID-CER: MID4505 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4505 3 -- not coup link
+COUPLINK-CER: MID4505 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4507 
+
+TERRMID: MID4507 3 -- not territory
+TERRMID-CER: MID4507 1 -- certain 
+TERRMID-NOTES: MID4507 from cm narrative, this MID involves Colombia violating Venezuelan airspace and Venezuela deploying troops along the border with Colombia in response to "threatening moves" by Colombia. Coded not territory because this is not sufficient to trigger a territorial MID and there is no indication that either country was advancing its territorial claim here.
+
+TERRLINK: MID4507 3 -- not third party link to territory 
+TERRLINK-CER: MID4507 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4507 3 -- not maritime 
+MARITMID-CER: MID4507 1 -- certain
+MARITMID-NOTES: MID4507 did not involve the disputed maritime boundary.
+
+ISLMID: MID4507 3 -- not islands 
+ISLMID-CER: MID4507 1 -- certain
+ISLMID-NOTES: MID4507 did not involve the disputed islands. 
+
+CIVWARMID: MID4507 1 -- civil war MID
+CIVWARMID-CER: MID4507 1 -- certain
+CIVWARMID-NOTES: MID4507 involved the suspension of diplomatic relations due to Colombia accusing Venezuela of harboring FARC rebels. 
+
+CIVWARLINK: MID4507 3 -- not civil war link
+CIVWARLINK-CER: MID4507 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4507 3 -- not coup 
+COUPMID-CER: MID4507 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4507 3 -- not coup link
+COUPLINK-CER: MID4507 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4219 
+
+TERRMID: MID4219 1 -- territorial MID
+TERRMID-CER: MID4219 3 -- uncertain 
+TERRMID-NOTES: MID4219 from cm narrative, on 1/7/1994, a Venezuelan helicopter crossed the border, landed in a village, and kidnapped several Colombians. From cm narrative, it is "not clear whether the Venezuelan forces mistook the Colombian fishermen for guerrillas, or whether this action was intended to support Venezuela's territorial claim along the border. A Venezuelan general later apologized for the incident on Colombian television." Coded territorial MID because it is possible that this is connected to the territorial dispute, but coded uncertain because this connection cannot be confirmed. 
+
+TERRLINK: MID4219 3 -- not third party link to territory 
+TERRLINK-CER: MID4219 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4219 3 -- not maritime 
+MARITMID-CER: MID4219 1 -- certain
+MARITMID-NOTES: MID4219 did not involve the disputed maritime boundary.
+
+ISLMID: MID4219 3 -- not islands 
+ISLMID-CER: MID4219 1 -- certain
+ISLMID-NOTES: MID4219 did not involve the disputed islands. 
+
+CIVWARMID: MID4219 1 -- civil war MID
+CIVWARMID-CER: MID4219 3 -- uncertain
+CIVWARMID-NOTES: MID4219 from cm narrative, Venezuelan soldiers kidnapped several Colombian fishermen in the Arauca River. "It is not clear whether the Venezuelan forces mistook the Colombian fishermen for guerrillas, or whether this action was intended to support Venezuela's territorial claim along the border. A Venezuelan general later apologized for the incident on Colombian television." Coded civil war MID because it is possible this was connected to Colombian guerrillas, but coded uncertain because this connection cannot be confirmed. 
+
+CIVWARLINK: MID4219 3 -- not civil war link
+CIVWARLINK-CER: MID4219 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4219 3 -- not coup 
+COUPMID-CER: MID4219 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4219 3 -- not coup link
+COUPLINK-CER: MID4219 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4009 
+
+TERRMID: MID4009 3 -- not territory
+TERRMID-CER: MID4009 1 -- certain 
+TERRMID-NOTES: MID4009 from United Press International 10/29/1995, Venezuela accused Colombia of failing to provide adequate border security to stop Colombian drug traffickers from cross-border attacks. Colombia also accused Venezuelan troops of violating their territorial sovereignty in order to arrest drug traffickers, which Venezuela denied. Coded not territory because this dispute was connected to drug trafficking and border security, not to either country advancing a territorial claim.
+
+TERRLINK: MID4009 3 -- not third party link to territory 
+TERRLINK-CER: MID4009 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4009 3 -- not maritime 
+MARITMID-CER: MID4009 1 -- certain
+MARITMID-NOTES: MID4009 not connected to the disputed maritime boundary.
+
+ISLMID: MID4009 3 -- not islands 
+ISLMID-CER: MID4009 1 -- certain
+ISLMID-NOTES: MID4009 not connected to the disputed islands. 
+
+CIVWARMID: MID4009 3 -- not civil war
+CIVWARMID-CER: MID4009 1 -- certain
+CIVWARMID-NOTES: MID4009 from Gibler, Little, and Miller (2016: F-308) and United Press International 10/29/1995, this MID involved Colombia protesting after Venezuela allegedly crossed the border to arrest Colombian drug traffickers, which Venezuela denied. Venezuela also accused Colombia of not providing adequate border security. Coded not civil war because this was connected to drug traffickers, not militarized rebel group activity. 
+
+CIVWARLINK: MID4009 3 -- not civil war link
+CIVWARLINK-CER: MID4009 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4009 3 -- not coup 
+COUPMID-CER: MID4009 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4009 3 -- not coup link
+COUPLINK-CER: MID4009 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4172 
+
+TERRMID: MID4172 3 -- not territory
+TERRMID-CER: MID4172 1 -- certain 
+TERRMID-NOTES: MID4172 from cm narrative, this MID was driven by Colombian rebel group activity. Venezuela responded to an attack by pursuing the rebels across the disputed territory. However, this is coded not territory because Colombia did not protest the border crossing and Venezuela was not attempting to advance its territorial claim here. 
+
+TERRLINK: MID4172 3 -- not third party link to territory 
+TERRLINK-CER: MID4172 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4172 3 -- not maritime 
+MARITMID-CER: MID4172 1 -- certain
+MARITMID-NOTES: MID4172 was not connected to the disputed maritime border.
+
+ISLMID: MID4172 3 -- not islands 
+ISLMID-CER: MID4172 1 -- certain
+ISLMID-NOTES: MID4172 was not connected to the disputed islands.
+
+CIVWARMID: MID4172 1 -- civil war MID
+CIVWARMID-CER: MID4172 1 -- certain
+CIVWARMID-NOTES: MID4172 from cm narrative, Colombian rebels crossed the border and attacked Venezuelan guards. Venezuela pursued the rebels back across the Colombian border, where they fired on a boat that they believed to contain rebels. The boat was carrying Colombian civilians. Coded civil war MID because this was connected to a rebel group in Colombia. 
+
+CIVWARLINK: MID4172 3 -- not civil war link
+CIVWARLINK-CER: MID4172 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4172 3 -- not coup 
+COUPMID-CER: MID4172 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4172 3 -- not coup link
+COUPLINK-CER: MID4172 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4262 
+
+TERRMID: MID4262 3 -- not territory
+TERRMID-CER: MID4262 1 -- certain 
+TERRMID-NOTES: MID4262 from cm narrative and NYT 11/29/2000, the Colombia/Venezuela border was ratehr porous, allowing rebels to cross back and forth, triggering several MIDs. Coded not territory because although this MID involves Colombia accusing Venezuela of a border violation, this MID is centered on civil conflict activity and is not connected to either country advancing a territorial claim. 
+
+TERRLINK: MID4262 3 -- not third party link to territory 
+TERRLINK-CER: MID4262 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4262 3 -- not maritime 
+MARITMID-CER: MID4262 1 -- certain
+MARITMID-NOTES: MID4262 not connected to the disputed maritime boundary.
+
+ISLMID: MID4262 3 -- not islands 
+ISLMID-CER: MID4262 1 -- certain
+ISLMID-NOTES: MID4262 not connected to the disputed islands.
+
+CIVWARMID: MID4262 1 -- civil war MID
+CIVWARMID-CER: MID4262 1 -- certain
+CIVWARMID-NOTES: MID4262 from NYT 11/29/2000, Colombia and Venezuela had a dispute here related to rebels crossing the border into Venezuela, causing an exchanging of protests and threats. Chavez of Venezuela further antagonized Colombia's president by calling him pro-American. Colombia accused Venezuela of crossing the border, and Colombia was further outraged when Venezuela invited a FARC rebel leader to a legislative forum in Venezuela. Coded civil war MID because this exchange of threats and possible border violation is connected to FARC rebels in Colombia. 
+
+CIVWARLINK: MID4262 3 -- not civil war link
+CIVWARLINK-CER: MID4262 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4262 3 -- not coup 
+COUPMID-CER: MID4262 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4262 3 -- not coup link
+COUPLINK-CER: MID4262 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4495
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4495 20030300-20030330 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Venezuela announced on 3/13/2003 the deployment of additional troops, arms, and aircraft to its border with Colombia, where violence between the Colombian military, left-wing rebels, and right-wing paramilitaries sometimes spill over. On 3/27/2003, Venezuela bombed Colombian irregulars inside Venezuela, but did not further establish the identity of the targeted irregulars. Venezuela denied an accusation by Colombia that Venezuelan military planes dropped bombs on Colombian territory in 3/2003 during a battle between left-wing rebels and right-wing paramilitaries. It also denied tolerating Colombian left-wing rebels on its territory or otherwise supporting them. The presidents of Colombia and Venezuela planned to discuss the dispute in a meeting in Venezuela on 4/23/2003, but not formal end to interstate hostilities was ever announced. First day of MID 4495 is listed as 3/00/2003 and last day of dispute is listed on 3/30/2003.
+
+MID4500
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4500 20060811-20060811 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+About 70 Venezuelan soldiers and a helicopter entered into Colombian territory and fired on a settlement there. It is unclear why the attack occurred, but, given the history of hostilities between Venezuela and Colombia over rebels near the countries' shared border, it is possible that the attack occurred on a suspected rebel settlement. First day of dispute was on 8/11/2006 and last day of dispute was on 8/11/2006.
+
+MID4503
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4503 20080303-20080516 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+The dispute commenced with a border violation on 3/1/2008 or 3/2/2008 in which Colombia killed a number of FARC rebels inside Ecuador, including senior FARC member Raul Reyes. In response, Ecuador and Venezuela deployed troops to fortify their respective borders with Colombia. Venezuelan border fortifications continued as of 3/4/2008. On 5/17/2008, Venezuela charged that Colombian troops had crossed the border into Venezuela. Venezuela announced that it had stopped the Colombian troops on the Venezuelan side of the border, and issued a protest to Colombia. On 5/19/2008, Venezuela announced that a separate group of Colombian troops that had crossed into its territory left at the request of Venezuelan troops. There were no other disputes between Colombia and Ecuador, or between Colombia and Venezuela, in the remainder of 2008. First day of dispute is listed on 3/3/2008 and last day of dispute is listed on 5/16/2008.
+
+MID4505
+rivalry=100101 nationa=COLOMBIA nationb=VENEZUELA MID4505 20090809-20091121 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+Again, the underlying issue between Colombia and Venezuela is the ongoing military hostilities resulting from actions against rebels operating between the two countries. On 8/9/2009, marking first day of dispute, Colombia accused Venezuelan troops of an incursion into Venezuela through the Orinoco River to hunt down FARC rebels. In response to an increasing frequency of incursions into Venezuelan territory by Colombian forces, Venezuela deployed additional troops to secure its border with Colombia. This additional deployment resulted in Colombia placing its military on 'maximum alert.' Last day of dispute was on 11/21/2009.
+
+MID4507
+rivalry=100101 nationa=COLOMBIA nationb=VENEZUELA MID4507 20100729-20100730 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+On 7/22/2010, Venezuela suspended diplomatic relations with Colombia over accusations that Venezuela harbored Colombian rebels. Venezuela charged that a Colombian military helicopter violated Venezuelan airspace on 7/29/2010, marking first day of dispute. From 7/30/2010 through 8/2/2010, Venezuela deployed troops along its border with Colombia due to alleged threatening moves by Colombia. Last day of dispute is listed on 7/30/2010.
+
+MID3 1993-2001:
+
+MID4219
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4219 19940107-19940109 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+MID4219 The border between Venezuela and Colombia was unsettled, and relations along the border were compounded by Colombia's long struggle against various guerrilla movements; this struggle occasionally spilled over the Venezuelan border, and created a great deal of tension among Venezuelans living near the border. A Venezuelan helicopter violated the border and landed in Arauca, Colombia on January 7, 1994. Venezuelan soldiers kidnapped seven Colombian fishermen. After the overloaded helicopter crashed five of the seven kidnapped fishermen were either released or escaped. A second Venezuelan helicopter that came to rescue machine-gunned the wreckage to make it appear to be downed by Colombian guerrillas. It is not clear whether the Venezuelan forces mistook the Colombian fishermen for guerrillas, or whether this action was intended to support Venezuela's territorial claim along the border. A Venezuelan general later apologized for the incident on Colombian television. The final two fishermen were released on September 1st. There is no information on any negotiations that may have taken place. First day of dispute was on 1/7/1994 and last day of dispute was on 1/9/1994.
+
+MID4009
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4009 19951000-19951000 
+ revtype1a=OTHER revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The 1200 mile border between Colombia and Venezuela is not well marked, and has frequently been the scene of cross-border incidents involving Colombian guerrillas or drug traffickers and Venezuelan forces. For example, on February 26, 1995, 150-200 Colombian rebels attacked a Venezuelan naval post, killing eight soldiers and wounding four. Venezuelan President Caldera urged his Colombian counterpart Samper to punish those responsible for the attack; Samper expressed his condolences. In March, defense ministers from both sides met to discuss the problems along their common border, and both sides increased the number of troops on the border to stop the rebels. In October a series of drug related incidents occurred along the border. On October 8, 1995, Venezuelan national guardsmen harassed nine Colombian farmers on the Colombian side of the border. Venezuela admitted that the incident took place, but claimed that the Colombians were poppy farmers and the guardsmen had crossed the border in "hot pursuit." Again in early October, Colombian authorities claimed that Venezuelan guardsmen killed and decapitated a Colombian farmer on Colombian territory; Venezuela responded that the farmer was growing poppy. Also in October, Venezuela arrested five Colombian men growing poppy on the Colombian side of the border. Colombian President Samper said it was unacceptable that Venezuelans crossed the border. Venezuela, on the other hand, claimed that they arrested the men on their side of the border. Finally, in November, 1995, both sides agreed to end the border dispute and mark the border with signposts. First and last day of dispute was on 10/00/1995.
+
+MID4172
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4172 19970206-19970206 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Ongoing Venezuelan struggle with Colombian rebels crossing the border between two countries led to a new dispute. On February 6, 1997, about ten Colombian rebels from the ELN crossed the Venezuelan border and ambushed Venezuelan troops, wounding three soldiers. Venezuelans pursued the rebels back to the Arauca River along the border, where they fired on a boat that they believed to contain rebels. The boat was carrying Colombian civilians and as a result of Venezuelan fire, one child died, three children and two adults were hurt. While Colombian Foreign Minister protested Venezuelan "overreaction," Venezuela protested the rebel attack. On April 9, 1997, both countries agreed to step up their military presence on the border to confront violence by Colombian rebels. First and last day of dispute was on 2/6/1997.
+
+MID4262
+rivalry=100101 nationa=VENEZUELA nationb=COLOMBIA MID4262 20001013-20001123 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Following a long series of drug-related problems on their border, Venezuelan forces mounted a nine-hour operation across the border on October 13, 2000. Venezuelan soldiers, supported by two helicopters and one airplane, bombarded and set fire to houses, destroyed coca plantations, and killed an undetermined number of farm animals. While Colombia claimed that the incident took place during a drug operation, Venezuela denied that it took place. Tibu, the village in question, is located 285 miles northeast of Bogota. Colombia sent troops to the site of the incident. In an apparently unrelated incident on November 15, Venezuelan National Guard forces, transported by two helicopters and supported by other aircraft, crossed the border to Colombia. The Venezuelans arrested four Colombian farm workers, taking them to Venezuela. Venezuelan officials admitted the incident took place, but promised to investigate and punish the people responsible for it. About a week later, on November 23, 2000, during clashes between Colombian military and rebels near the border with Venezuela, at least six Venezuelan helicopters crossed the border. The "war of words" between Colombia and Venezuela continued until late December 2000, when tensions started to decrease as a result of conciliatory meetings. First day of dispute was on 10/13/2001 and last day of dispute was on 11/23/2001.
+
+NARRATIVE-CM:
+Colombian and Venezuelan representatives signed a treaty of friendship, alliance, commerce, navigation, and boundaries in Bogota on December 14, 1833, which provided for the demarcation of the border between the countries. Colombian and Venezuelan representatives signed an arbitration agreement in Caracas on September 14, 1881, which provided for the submission of the border dispute to the King of Spain. King Alfonso XII of Spain agreed to arbitrate the disputes, and appointed an investigation commission on November 19, 1883. King Alfonso XIII of Spain issued an arbitral award on March 16, 1891. A mixed demarcation commission was appointed on August 16, 1899. The commission suspended its work as a result of internal problems in both of the countries in 1901. Colombia severed diplomatic relations with Venezuela on November 16, 1901. The countries signed an arbitration agreement in Bogota on November 3, 1916, which provided for the submission of the dispute to arbitration. Colombia and Venezuela agreed to submit the dispute to arbitration by the *Swiss Federal Council* (SFC) on July 20, 1917. The SFC issued a decision in favor of Colombia on March 24, 1922. Colombia and Venezuela established a 13-member demarcation commission on May 29, 1922. The commission completed the demarcation on July 30, 1924. Colombia and Venezuela disputed their maritime border after Colombia unilaterally declared its sovereignty over the Los Monjes islands in 1944. Venezuela objected to the Colombia declaration, and annexed the islands in February 1952. Foreign Minister Juan Uribe Holguin of Colombia renounced his country's claim to the islands on November 11, 1952, but Colombia reclaimed the islands in 1971. 
+
+On July 13, 1982 and July 24, 1982, the Venezuelan military crossed over into Colombian territory, forcing Colombia to take defense actions against the incursions. The Colombian government demanded an explanation for the two incidents, MID2323. On June 7, 1986 Venezuela border guards were attacked by Colombian guerillas. Colombian troops were deployed on the border in response to the attacks, MID2356. On June 20, 1986 Colombia and Venezuela reached an agreement aimed at ending territorial violations and fishing boat incursions in each country's territorial waters. Admiral Tito Motta of the Colombian National Navy also stated that the two countries had agreed on how to handle isolated incidents to prevent conflict between the two governments.On August 9, 1987 a Colombian warship entered waters of the Gulf of Venezuela claimed by Venezuela. On August 13, 1987 Venezuela accused Colombia of provocating an attack and mobilized its naval presence near Colombia. On August 16, 1987 Colombian forces were put on their highest state of alert. Colombia called a special meeting of the Organization of American States, requesting international mediation. The OAS and Argentina requested that the two countries peacefully resolve the dispute on August 17. Colombia ordered the ship to leave the area on August 18. On August 20, 1987 Brazilian president advised Colombia that the dispute was not worth military conflict. The dispute continued through September with Colombia accusing Venezuela of border incursions and border closings, MID2812. On August 12, 1988 Venezuela protested to Colombia after a Venezuelan consul's automobile was stoned in Guainia, following the killing of two Colombians by the Venezuelan military on the Arauca River, MID2768. On August 14, 1988 the foreign ministers of the two countries met to discuss border incidents. On August 19, 1988 Colombian Foreign Minister Parades stated that Colombia would not use force to settle the border dispute with Venezuela. 
+
+SOURCES-CM:
+Allock et al., 1992, 580-582; Ireland, 1938, 206-219; Langer, 1972, 1064-1065; *Survey of International Affairs *(SIA), 1925, 432-433, 1925 (supplement), 52-53; *New York Times* 7/29/82; BBC 6/20/86; *Latin America Weekly Report* 6/13/86, 9/3/87, 8/15/88, 8/16/88, 8/19/88; *Facts on File* 10/16/87.
+
+NARRATIVE-CR:
+Venezuela and Colombia began engaging in militarized disputes in the early 20th century with two mids, MID1174 and MID2342 in 1900 and 1902, respectively. These first two mids involved the Liberal and Conservative wars in Central America that occurred at the turn of the century, with the Liberal President Castro of Venezuela participating in attacks on the Conservative Colombian government. These two mids were part of a larger effort by Venezuela, Ecuador, Nicaragua and exiled Colombian Rafael Uribe to unite these countries and form a new Gran Colombia. These two disputes, however, are not a part of the rivalry between the two countries that begins in the 1980s. 
+
+The rivalry that begins in the 1980s between Venezuela and Colombia centers on a border dispute, both maritime and land, between the two countries. While the the borders have been disputed since the 1940s, militarized disputes did not occur until 1982 when the Venezuelan military began crossing over into Colombia. On July 13, 1982 and July 24, 1982, the Venezuelan military crossed over into Colombian territory, forcing Colombia to take defense actions against the incursions. The Colombian government demanded an explanation for the two incidents, MID2323. On June 7, 1986 Venezuela border guards were attacked by Colombian guerillas. Colombian troops were deployed on the border in response to the attacks, MID2356. On June 20, 1986 Colombia and Venezuela reached an agreement aimed at ending territorial violations and fishing boat incursions in each country's territorial waters. Admiral Tito Motta of the Colombian National Navy also stated that the two countries had agreed on how to handle isolated incidents to prevent conflict between the two governments.On August 9, 1987 a Colombian warship entered waters of the Gulf of Venezuela claimed by Venezuela. On August 13, 1987 Venezuela accused Colombia of starting an attack and mobilized its naval presence near Colombia. On August 16, 1987 Colombian forces were put on their highest state of alert. Colombia called a special meeting of the Organization of American States, requesting international mediation. The OAS and Argentina requested that the two countries peacefully resolve the dispute on August 17. Colombia ordered the ship to leave the area on August 18. On August 20, 1987 Brazilian president advised Colombia that the dispute was not worth military conflict. The dispute continued through September with Colombia accusing Venezuela of border incursions and border closings, MID2812. On August 12, 1988 Venezuela protested to Colombia after a Venezuelan consul's automobile was stoned in Guainia, following the killing of two Colombians by the Venezuelan military on the Arauca River, MID2768. On August 14, 1988 the foreign ministers of the two countries met to discuss border incidents. On August 19, 1988 Colombian Foreign Minister Parades stated that Colombia would not use force to settle the border dispute with Venezuela.
+
+The resurgence of the border issue beginning in 1994 through 2003: MID4219, MID4009, MID4172, and MID4262, occurred during a period of political violence in Colombia that reached a level three times worse than that of Argentina in the 1970s. Specifically, the peace process between Colombia and the FARC (Revolutionary Armed Forces of Colombia) that began in 1984 was beginning to collapse, with the FARC initiating open conflict again. Since the continuation of the civil war in Colombia, the border issue with Venezuela has actually increased in importance as Venezuela has accused Colombia of being unable to control its borders, leading to FARC using Venezuela as a safe haven. MID4219 on 1/7/94 illustrated this point with Colombian rebels shooting down a Venezuelan helicopter that was guarding the border. Conversely, Colombia has accused Venezuela of aiding and harboring guerillas across the border. With the civil war in Colombia showing no signs of terminating, it can be expected that the border disputes with Venezuela will continue. As recently as April 5, 2003 Venezuela was reported violating Colombian territory with its air force, while Colombia was accused of attacking a Venezuela border patrol. Both governments have been trying to cooperate on border patrols to keep Colombian guerillas from entering Venezuela, however, despite the fact that Venezuelan President Hugo Chavez has expressed himself as being sympathetic to the FARC.
+
+SOURCES-CR: 
+*New York Times* 7/29/82; BBC 6/20/86, 10/31/95, 6/21/97, 10/16/00; *Latin America Weekly Report* 6/13/86, 9/3/87, 8/15/88, 8/16/88, 8/19/88; *Facts on File* 10/16/87; Agence France Presse 1/7/94, 4/24/03; *Financial Times* 4/5/03; *The Times* 4/2/03; McBeth 2001
+
+Colombia-Venezuela maritime dispute still ongoing: Reuters 6/20/2015 http://www.reuters.com/article/us-venezuela-colombia-border-idUSKBN0P00VV20150620
+Colombia-venezuela maritime dispute reignited: El Estimulo 6/17/2015 http://elestimulo.com/blog/las-alarmas-tambien-se-encienden-en-colombia-por-creacion-de-las-zodimain/
+Long standing maritime dispute in Gulf of Venezuela "resurfaces" from Venezuela decreed it to be theirs: Council on Hemispheric Affairs 8/13/2015 http://www.coha.org/colombia-and-venezuela-the-border-dispute-over-the-gulf/
+Maritime dispute was never really resolved, only subsided in the 1990s: Anita Kellogg, UCLA PhD Candidate, http://www.arkellogg.com/maritime-border-dispute/
+Maritime dispute has been going on for decades: Forbes 4/11/2017 https://www.forbes.com/sites/realspin/2017/04/11/nicolas-maduro-wants-war-with-colombia/#6569f9dbf3b3
+No indication that Colombia and Venezuela settled the maritime boundary: Anderson, Thomas D. 1989. "The Gulf of Venezuela Sea Boundary: A Problem Between Friends." Yearbook. Conference of Latin Americanist Geographers 15: 97-105.
+Maritime border delimitation proposed in draft treay but never signed (Day 1987: 416)
+Maritime delimitation in 1982 (Biger 1995: 174-75).
+Venezuela-Colombia land border not settled until 1941: Former Colombian Diplomat, Carrizosa 1983. 
+Venezuela-Colombia land border not fully settled in 1941, leads to maritime dispute: Martz 1989
+
+PS-NARRATIVE:
+
+18410101-19820712 RIV256-0.25 
+
+This dyad is coded at the 0.75 level from its inception until the outbreak of hostilities in a rivalry in 1982. The dyad begins its existence with the COW state beginning year of Venezuela of 01/01/1841. This level of coding is identified by using other indicators of conflict that do not rise to the level of rivalry at the 1.0 level. These include crises as defined in the International Crisis Behavior dataset, a non-militarized rivalry coded by William Thompson (2001), a period characterized by isolated conflicts, or active support of rebels in the opposing country. This dyad is coded as a rivalry according to Thompson's definition. Thompson codes rivalry using an alternative-diplomatic histories approach. He identifies rivalries when states are sufficiently threatening competitors to qualify as enemies. To further support this coding there is a period of isolated conflict that occurs in which two MIDs occur from 1900-1902. This lends support to the notion that the period is one of instability and latent conflict. The 
+
+During this period, the countries are engaged in continuous disputes regarding the demarcation of their mutual border. Particular issues at stake in these disputes have been the dissolution of Gran Colombia, the Guajira peninsula, and the Gulf of Venezuela. Thompson codes this dyad as a rivalry from 1831 until the present. The first MID of RIV257, MID2323, started on July 13, 1982.
+
+19820713-20159999 RIV257-0.00
+
+ The frequent MIDs, consistent over time, and the unresolved issues over Venezuelan support for the FARC lead this to be coded as a severe rivalry. There has been no improvement in relations following the death of President Chavez and the FARC insurgency in the border areas between the two countries continued through 2015.
+
+PS-SOURCES: 
+Klein et. al, 2006; Thompson, 2001
+
+MARITIME-MIDS: MID2812
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2812
+ DYAD: COLOMBIA VENEZUELA 100101
+ DATES: 19870813 19870905
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+The rivalry that begins in the 1980s between Venezuela and Colombia centers on a border dispute, both maritime and land, between the two countries. On June 20, 1986 Colombia and Venezuela reached an agreement aimed at ending territorial violations and fishing boat incursions in each country's territorial waters. Admiral Tito Motta of the Colombian National Navy also stated that the two countries had agreed on how to handle isolated incidents to prevent conflict between the two governments. On August 9, 1987 a Colombian warship entered waters of the Gulf of Venezuela claimed by Venezuela. On August 13, 1987 Venezuela accused Colombia of starting an attack and mobilized its naval presence near Colombia. On August 16, 1987 Colombian forces were put on their highest state of alert. Colombia called a special meeting of the Organization of American States, requesting international mediation. The OAS and Argentina requested that the two countries peacefully resolve the dispute on August 17. Colombia ordered the ship to leave the area on August 18. On August 20, 1987 Brazilian president advised Colombia that the dispute was not worth military conflict. The dispute continued through September with Colombia accusing Venezuela of border incursions and border closings, MID2812.

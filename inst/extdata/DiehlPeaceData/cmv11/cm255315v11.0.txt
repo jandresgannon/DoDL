@@ -1,0 +1,412 @@
+FILE: cm255315v11.0.txt
+DYAD: GERMANY/PRUSSIA-CZECHOSLOVAKIA
+RIVALRY: RIV677
+DISPUTE(S): MID67 MID12 MID2302 
+RIVALRY: RIV2732
+DISPUTE(S): MID27 MID2898 MID2231 MID2559 MID2597 
+
+PS: 19181028-19340724 .5 19340725-19390315 0.00 19450510-19550504 .5 19550505-19860922 0.25 19860923-19891215 -9 19891216-19921231 0.5
+
+PS-NOTES: Czech Republic (316)and Slovakia (317) are considered separate states from Czechoslovakia (315) after secession although the narrative for Czechoslovakia is given below as if there were continuation. 
+
+PS-LAST-CHANGED: 20171223
+PS-LAST-CHECKED: 20171224
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID67 
+
+TERRMID: MID67 3 -- not territory 
+TERRMID-CER: MID67 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID67 3 -- not third party link to territory 
+TERRLINK-CER: MID67 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID67 3 -- not maritime 
+MARITMID-CER: MID67 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID67 3 -- not islands 
+ISLMID-CER: MID67 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID67 3 -- not civil war 
+CIVWARMID-CER: MID67 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID67 1 -- civil war link 
+CIVWARLINK-CER: MID67 1 -- certain 
+CIVWARLINK-NOTES: MID67 from (Gibler 2018), in 1934, a group of Austrian Nazis (a banned political party) stormed the capital and assassinated the Chancellor. Fearing a union between Germany and Austria, Italy and Czechoslovakia deployed troops to the border. Italy threatened to invade if Austria joined with Germany, and Czechoslovakia threatened to defend their territory with force if fighting broke out. Austria eventually put down the Nazi uprising. Coded civil war link because the Austrian Nazis were a militarized rebel group, since they were banned politically and used force against the government, and that civil war activity (outside this dyad) led to this MID. 
+
+COUPMID: MID67 3 -- not coup 
+COUPMID-CER: MID67 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID67 3 -- not coup link
+COUPLINK-CER: MID67 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID12 
+
+TERRMID: MID12 1 -- territorial MID
+TERRMID-CER: MID12 1 -- certain 
+TERRMID-NOTES: MID12 from (Gibler 2018), Germany pressed a claim on Sudetenland, an area of former German control that had been under Czech control since the end of WWI. Germany issued a series of demands to Czechoslovakia, and other Allied Powers, most importantly UK and France, did not offer much support against Germany. The Czech military mobilized in preparation for a German invasion. Eventually UK and France forced Czechoslovakia to surrender part of its territory to Germany. Coded territorial MID because this was centered on a territorial dispute between Germany and Czechoslovakia. 
+
+TERRLINK: MID12 3 -- not third party link to territory
+TERRLINK-CER: MID12 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID12 3 -- not maritime 
+MARITMID-CER: MID12 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID12 3 -- not islands 
+ISLMID-CER: MID12 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID12 3 -- not civil war 
+CIVWARMID-CER: MID12 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID12 3 -- not civil war link 
+CIVWARLINK-CER: MID12 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID12 3 -- not coup 
+COUPMID-CER: MID12 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID12 3 -- not coup link
+COUPLINK-CER: MID12 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2302 
+
+TERRMID: MID2302 1 -- territorial MID
+TERRMID-CER: MID2302 1 -- certain 
+TERRMID-NOTES: MID2302 from (Gibler 2018), this is the German occupation of Czechoslovakia prior to WWII. Hitler invaded and quickly divided Czechoslovakia into several states that were under German control. Coded territorial MID because Germany occupied Czechoslovakia and claimed it as Third Reich territory. 
+
+TERRLINK: MID2302 3 -- not third party link to territory 
+TERRLINK-CER: MID2302 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2302 3 -- not maritime 
+MARITMID-CER: MID2302 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2302 3 -- not islands 
+ISLMID-CER: MID2302 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2302 3 -- not civil war 
+CIVWARMID-CER: MID2302 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2302 3 -- not civil war link 
+CIVWARLINK-CER: MID2302 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2302 3 -- not coup 
+COUPMID-CER: MID2302 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2302 3 -- not coup link
+COUPLINK-CER: MID2302 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded territorial MID because West Germany (Federal Republic of Germany) claimed the territory of East Germany (German Democratic Republic) as rightfully its own, and Czechoslovakia is pulled in as a third party due to its support for East Germany. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2898 
+
+TERRMID: MID2898 3 -- not territory 
+TERRMID-CER: MID2898 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2898 3 -- not third party link to territory 
+TERRLINK-CER: MID2898 1 -- certain 
+TERRLINK-NOTES: MID2898 from (Gibler 2018), a West German plane was forced down in Czechoslovakia and crashed. Coded not third party link to territory because there is no indication that this was driven by the East-West Germany territorial dispute as opposed to general Cold War tensions. 
+
+MARITMID: MID2898 3 -- not maritime 
+MARITMID-CER: MID2898 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2898 3 -- not islands 
+ISLMID-CER: MID2898 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2898 3 -- not civil war 
+CIVWARMID-CER: MID2898 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2898 3 -- not civil war link 
+CIVWARLINK-CER: MID2898 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2898 3 -- not coup 
+COUPMID-CER: MID2898 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2898 3 -- not coup link
+COUPLINK-CER: MID2898 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2231 
+
+TERRMID: MID2231 3 -- not territory 
+TERRMID-CER: MID2231 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2231 3 -- not third party link to territory 
+TERRLINK-CER: MID2231 1 -- certain 
+TERRLINK-NOTES: MID2231 from cm002365 narrative, this is a multilateral MID involving shows of force between the US with West Germany and USSR with Czechoslovakia. The US installed missiles in West Germany, and USSR did the same in Czechoslovakia. Threatening behavior using warplanes ensued. Coded not third party link to territory because although West Germany, a US ally, had a territorial dispute against East Germany, a USSR ally, this MID is not connected to that territorial dispute. East Germany is not involved in this MID and the threats here escalated from missile installations, which were themselves a part of routine Cold War behavior between US and USSR. 
+
+MARITMID: MID2231 3 -- not maritime 
+MARITMID-CER: MID2231 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2231 3 -- not islands 
+ISLMID-CER: MID2231 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2231 3 -- not civil war 
+CIVWARMID-CER: MID2231 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2231 3 -- not civil war link 
+CIVWARLINK-CER: MID2231 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2231 3 -- not coup 
+COUPMID-CER: MID2231 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2231 3 -- not coup link
+COUPLINK-CER: MID2231 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2559 
+
+TERRMID: MID2559 3 -- not territory 
+TERRMID-CER: MID2559 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2559 3 -- not third party link to territory
+TERRLINK-CER: MID2559 1 -- certain 
+TERRLINK-NOTES: MID2259 from cm narrative, Czechoslovakia fired on a US recon helicopter in West German airspace. West Germany and East Germany had a territorial dispute (West Germany claimed that East Germany's territory was rightfully West's territory), and the US was allied to West Germany while Czechoslovakia and Russia were allied with East Germany. Coded not third party link to territory because there is no indication that the territorial dispute between East and West Germany, as opposed to general Cold War tensions, drove this MID. The attack was on a recon plane; both the US and USSR regularly attacked each other's recon aircraft throughout Europe and Asia. 
+
+MARITMID: MID2559 3 -- not maritime 
+MARITMID-CER: MID2559 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2559 3 -- not islands 
+ISLMID-CER: MID2559 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2559 3 -- not civil war 
+CIVWARMID-CER: MID2559 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2559 3 -- not civil war link 
+CIVWARLINK-CER: MID2559 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2559 3 -- not coup 
+COUPMID-CER: MID2559 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2559 3 -- not coup link
+COUPLINK-CER: MID2559 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2597 
+
+TERRMID: MID2597 3 -- not territory 
+TERRMID-CER: MID2597 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2597 3 -- not third party link to territory
+TERRLINK-CER: MID2597 1 -- certain 
+TERRLINK-NOTES: MID2597 from (Gibler 2018), two Poles tried to flee to West Germany from Czechoslovakia; one died. Separately, two East Germans were shot at by Czechoslovakia as they fled into West Germany. Coded not third party link to territory because these incidents were attempts to stop refugees from fleeing to West Germany, and this was therefore not connected to the disputed territory. 
+
+MARITMID: MID2597 3 -- not maritime 
+MARITMID-CER: MID2597 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2597 3 -- not islands 
+ISLMID-CER: MID2597 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2597 3 -- not civil war 
+CIVWARMID-CER: MID2597 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2597 3 -- not civil war link 
+CIVWARLINK-CER: MID2597 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2597 3 -- not coup 
+COUPMID-CER: MID2597 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2597 3 -- not coup link
+COUPLINK-CER: MID2597 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+RIVNOTES: 
+
+RIV677: MID67 (1934) revised by MID3.1 so it is now Germany against Yugoslavia, Italy, and Czechoslovakia.
+
+RIV732 and RIV733 were between West Gemany and Czechoslovakia, but we integrate all the West Gemany files (260) into the Gemany/Prussia files (255).
+
+RIV2732 combines RIV732 (MID27 MID2898) and RIV733 (MID2231 MID2559 MID2597) which are both Cold War rivalries.
+
+NARRATIVE-CM:
+The *Federal Republic of Germany *(FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. Eight Czechoslovaks fled to West Germany on July 25, 1953. President Antonin Zapotacky of Czechoslovakia recognized West Germany on January 1, 1956. Czechoslovak and West German representatives signed a treaty on December 11, 1973, which provided for the normalization of relations. The Czechoslovak Federal Assembly ratified the treaty with West Germany on July 15, 1974. Czechoslovak and West German representatives signed an agreement on July 20, 1974, which provided for the nullification of the *Munich Agreement* of 1938.
+
+SOURCES-CM: 
+Ference, 1994, 103-164; Langer, 1972, 1194-1199, 1203-1205.
+
+NARRATIVE-CR:
+
+The so-called third Czechoslovak Republic (1945-1948) was established in April 1945. The *Federal Republic of Germany *(FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. 
+
+19340725-19390315 RIV677-0.00
+
+The first MID of RIV677, MID67 lasted from July 25 to 31, 1934. It is a MID that involved Italy, Czechoslovakia, Yugoslavia and Germany. The second MID, MID12 lasted from March 11, 1938 to September 30, 1938. On July 24, 1934, the National Socialists failed to seize power in Austria after seizing the radio station in Vienna (forcing announcers to broadcast Chancellor Engelbert Dollfuss' resignation) and assassinating Chancellor Dollfuss (probably unintentionally). The coup was badly mismanaged and the Heimwehr routed the National Socialists. The German government mounted a major propaganda effort prior to the revolt and pressured the Austrian government to step aside. The German plan almost succeeded except for the timely intervention of the Italian, Yugoslav and Czechoslovak governments. The Italian government intervened actively in support of the Austrian government. Premier Benito Mussolini mobilized a large Italian army on the Brenner Pass to demonstrate his determination to intervene and counter the German threat to Austrian independence. The Yugoslavians also mobilized their army on the Austrian frontier. The German government backed off by disavowing any connection with the affair and recalled their ambassador from Vienna.After the March 1938 Austrian Anschluss, Czechoslovakia was to become Hitler's next target. The German nationalist minority, led by Konrad Henlein and vehemently backed by Hitler, demanded the union of the predominantly German districts with Germany. On May 19th, 1938, intelligence sources reported that Germany was concentrating troops in Saxony, near the Czechoslovak border. These troops were carrying out combined army and air military games near and on the Koenigsbruck military training ground. On May 20th, 1938, Czechoslovakia responded by declaring a state of emergency and partial mobilization. On May 23,1938, the Czechoslovak ambassador to Berlin was assured that Nazi Germany had no aggressive intentions toward his country. On September 12, Hitler addressed the Nazi Party Congress and asked for self-determination for the Germans living in Sudetenland, within Czechoslovakia. Threatening war, Hitler extorted through the Munich Agreement on September 30, 1938 the cession of the Bohemian, Moravian and Czech-Silesian borderlands-Sudetenland where all Czech population were forcibly expelled. On September 29, the Munich Agreement was signed by Germany, Italy, France, and Britain. The Czechoslovak government agreed to abide by the agreement. The Munich Agreement stipulated that Czechoslovakia must cede Sudetenland territory to Germany. The last MID of RIV677, MID2302, lasted from March 12, 1938 to March 16, 1938 and it involves the surrender of whatever remained of Czechoslovakia (Bohemia and Moravia) to Germany. Slovakia declared independence on March 14, 1939 and another part of Czechoslovakia, Sub-Carphatian Rutenia, was invaded by Hungary the same day. Hitler forced the Czechoslova Prime Minister, Hacha to surrender what remained of Bohemia and Moravia to German control on 15 March 1939, establishing the German protectorate "Bohemia and Moravia", which was created on March 16th, 1939.
+
+SOURCES-CR:
+
+PS-NARRATIVE: 
+
+19550505-19860922 RIV732/RIV733-0.25 
+
+The *Federal Republic of Germany *(FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. It may be recalled that hitherto the major obstacle to normalization of Czechoslovak-West German relations has been the 1938 Munich Agreement. Czechoslovakia has maintained a maximalist position, demanding that it be declared invalid from the very beginning. On June 23, 1950, a group of parliamentarians of the Western German Parliament stated that `Sudetenland' belongs to Germany, and asked the Czechoslovak authorities to return that territory back to Germany. This took place in the aftermath of a treaty between East Germany and Czechoslovakia in which the East Germans renounced any territorial claims on the Sudetenland region. 
+
+In February 1950, the Czechoslovak and the West German governments signed a treaty that will allow 20,000 Germans from Czechoslovakia to move to West Germany if they can prove that they have relatives there. In 1949, another 15,000 Germans were allowed to move to West Germany. Accusations of illegal border-crossing by military and police patrols were common in the early years of the 1950s. On June 24, 1953, West Germany and Czechoslovakia signed a trade agreement which will allow for trade worth 34 million dollars per year between the two countries. The military occupation troops of US, UK and France officially ended their occupation of West Germany on May 5, 1955. President Antonin Zapotacky of Czechoslovakia recognized West Germany on January 1, 1956.
+
+In July 1959, West Germany agreed to propose pacts of non-aggression and renouncing of the use of force, to Czechoslovakia and Poland. Later there have been indications that the Soviets might be about to adopt a more moderate line in order to facilitate a Czechoslovak-West German settlement, but as late as November 24, 1972, Czechoslovak Foreign Minister Bohuslav Chnoupek reaffirmed the official position that the Munich Agreement must be declared null and void ab initio.
+
+In May and June of 1960, Czechoslovakia accused West Germany of 19 illegal border crossings by military and police patrols, and they detained 14 German citizens. In December 1960, Czechoslovakia vigorously protested at the West Germany's Government actions to provide German citizenship to Czechs. The early 50s exchanges of population based on the citizenship of relatives was not allowed anymore. On September 17, 1961, the tensions between West Germany and Czechoslovakia rose as the Czech troops took battle positions at the border with West Germany. This was part of the increasing East-West tensions over the Berlin Wall. 
+
+The first MID of RIV732, MID27 is the Berlin Wall Crisis. This is a multilateral dispute involving many countries including West Germany in opposition to Czechoslovakia, from October 18, 1961 to October 28, 1961. The second MID of RIV732, MID2898, occured on October 4, 1963 and it only involved the two countries. 
+
+The last MID of RIV732, MID2898 involved only West Germany and Czechoslovakia and it lasted one day, October 4, 1963. In May 1964, on the 19th anniversary of the end of World War II in Europe, the Czechoslovak Communist leadership referred to West Germany as their arch-enemy. In October 1964, West Germany and Czechoslovakia discussed a trade agreement, but the Czechoslovaks are adamant that West Germany repudiates the Munich 1938 decision before any further agreements are signed. 
+
+Negotiations on a trade treaty between Bonn and Prague foundered in February 1965 on the issue of Berlin. The treaty was fully prepared and ready for signature but for a mutually acceptable formula treating the status of East Berlin in trade exchanges. Since that time, in spite of the lack of a formal agreement, trade on a bi-lateral basis has flourished. Between 1964 and 1965 exchanges increased, by nearly 20% from DM 620 million to 739 million. The two countries signed a trade agreement in August 1967 in which Czechoslovakia agreed to consider West Berlin as part of West Germany for trade purposes only. They established trade missions in Bonn and Prague, with the power to issue visas-basically having the function of consulates. 
+
+In March 1966, Chancellor Ludwig Erhard of West Germany, stated that Germany renounced any territorial claims it had through the 1938 Munich Agreement over parts of Czechoslovakia and invited Czechoslovakia to have closer relations. 
+
+In August 1968, the West German Ministry of Foreign Affairs, Willy Brandt made it clear that West Germany is not going to offer any help to the pro-Western Czechoslovak government, and will not meddle in Czechoslovakia's domestic politics. In October 1969, Czechoslovakia asked West Germany to recognize as a legal entity under international law the state of East Germany, to renounce the Munich Agreement in its totality and to give up the claim that it stands and speaks for all Germans around the world. 
+
+On December 11, 1973, in Prague, West Germany and Czechoslovakia signed a treaty on mutual relations. In this treaty, the two countries declared the Munchen Agreement as void, the inviolability of their borders as well as the peaceful resolution of any disputes between the two of them. This treaty basically marked the end of 35 long years of bitterness and disputes between the two countries. In the aftermath of the treaty Czechoslovakia made a series of goodwill gestures, by releasing a number of West German citizens, who where imprisoned for various reasons. In 1983, West German exports to Czechoslovakia stagnated at DM 1.4bn (358m) while imports from Czechoslovakia were up 7 per cent to DM 1.8bn. West Germany was Czechoslovakia's first-ranking Western trade partner. The first MID of RIV733, MID2231 started on April 20, 1984 for Czechoslovakia and West Germany. MID2231 occurred is called the Deployment of Soviet SS-22 missiles and U.S. Pershing missiles.' In this MID the USSR, the USA, W. Germany and Czechoslovakia displayed threatening behavior toward one another in a show of their respective warplanes. MID2559 occurred on September 29, 1985 and involved U.S., West Germany and Czechoslovakia. 
+
+The first MID of RIV733, MID2231 involved U.S, Soviet Union, Federal Republic of Germany and Czechoslovakia. Germany and Czechoslovakia were involved only for the period April,20 to May,20 of 1984. The MID is called the Deployment of Soviet SS-22 missiles and U.S. Pershing missiles.' In this MID the USSR, the USA, W. Germany and Czechoslovakia displayed threatening behavior toward one another in a show of their respective warplanes. MID2559 occurred on September 29, 1985 and it involved U.S., Germany and Czechoslovakia. A Czechoslovak fighter jet opened fire on a U.S. helicopter flying a surveillance mission over southern border of Germany. Pentagon reported that 2 or 4 rockets were fired at the helicopter. The last MID of RIV733, MID2597 involved Czechoslovakia, Germany and U.S. and it occurred between September 18 and 22nd, 1986. No other information could be found on this MID. 
+
+19860923-19891215 Transition
+
+The last MID of RIV733, MID2597, involved only West Germany and Czechoslovakia from September 18-22, 1986. In August 1988, Czechoslovakia has asked West Germany to try a former Nazi SS concentration camp guard it sentenced to death in absentia in 1948. Czechoslovakia sentenced Anton Maloth, 76, to death for way crimes in the Theresienstadt concentration camp. Czechoslovakia asked Italy to extradite him, but because there is no extradition treaty between the two countries, Italy handed Mr. Maloth to the West German authorities who made it clear no prosecution will follow and that Mr. Maloth, a German citizen will not be extradited. In the same month, the Czechoslovak First Deputy Foreign Minister Jaromir Johanes highly praised the state of Czechoslovak-West German relations.
+
+The Federal German foreign minister, Hans Dietrich Genscher visited Czechoslovakia on July 11-12, 1989. Czechoslovak foreign minister Jaromir Johanes and Genscher will discuss the Warsaw pact's proposal for disarmament, further cooperation between their nations, the simplification of visa formalities and Czechoslovakia's demand that West Germany return two Czech juvenile airplane hijackers. The Federal Republic of Germany is Czechoslovakia's principal trade partner among western nations, and tourist traffic between them is also increasing. In 1989, 600,000 Germans were expected to visit Czechoslovakia, and 300,000 Czechs will travel to West Germany. In September 1989, the Czechoslovak Government spokesman, Miroslav Pavel, said in an interview, ''We wouldn't do anything which would involve opening a channel of communication that would enable East Germans to leave for West Germany.'' This statement came about as hundreds of East Germans were camped inside the West German embassy in Prague, waiting for a solution to get to West Germany.
+
+19891216-19970120 0.5
+
+On December 16, 1989, Czechoslovakia's Defense Minister proposed that the nation begin dismantling fortifications along all of its 150-mile border with West Germany. This has been a heavily fortified border since the end of the Cold War, as it was one of the many border contacts between two systems of alliances (NATO and Warsaw Pact). It was a significant change in the policy of Czechoslovakia towards West Germany. 
+
+President Vaclav Havel of Czechoslovakia, who visited both Germanys on January 2, 1990, said their reunification appears inevitable and can be a benefit to Europe rather than a threat. "It is more important that Germany maintains a democratic consciousness ... than whether it has 60 million or 70 million people," he said. "As long as it remains peaceful and democratic, it can be as large as it wants."
+
+On March 16, 1990, President Richard von Weizsacker of West Germany made an official visit to Prague, meeting with President Vaclav Havel. President Havel had a message of reconciliation and agreed to the German unification. He said that ''It is up to the Germans whether unification becomes the welcome engine of an all European unification, or on the contrary, its downfall.' Mr. Weizsacker, who has spoken out in West Germany about facing up to the crimes of the past, today sought to reassure his Czechoslovak neighbors. The president of West Germany assured Czechoslovak officials on the 51st anniversary of the Nazi invasion of Czechoslovakia that his country has no territorial claims on its neighbors. In the years after World War II, Czechoslovakia expelled about 2.5 million Germans in its Sudetenland region whose nationalist yearnings had been the pretext for Nazi Germany's occupation of the country. The relations between the two countries got better from 1990 until 1992, especially in terms of trade relations. On December 31, 1992 Czechoslovakia peacefully broke-up into Czech Republic and Slovakia. Germany recognized the independent Czech Republic on January 1, 1993, when diplomatic contacts on the ambassadorial level were established. In 1994, Germany and Czech Republic signed an agreement about how to deal with illegal refugees entering Germany through Czech Republic. Under the new accord, Germany pledged to give the Czechs 60 million marks (40 million dollars) to build housing for rejected asylum-seekers. Germany remained the number one trade partner of the Czech Republic in 1995, with the bilateral volume rising 25 per cent to 286.8 billion korunas (10.5 billion dollars) and the Czech side enjoying a slight surplus, it was reported on February 12, 1996.
+
+The German government welcomed the fact that the Czech Republic is submitting an application for membership in the European Union (EU), German Foreign Minister Klaus Kinkel said on January 23, 1996. The Czech Republic and Germany are connected by a number of close and friendly relations. Germany cannot imagine EU enlargement without the Czech Republic, Kinkel said. The German government will work for talks on the admission of new members to start six months after the EU inter-governmental conference, according to the conclusions of the European Council meetings in Essen and Madrid, if the applicants meet the required demands, Kinkel said.
+
+After decades of mistrust resulting from World War II and its aftermath, Foreign Ministers Klaus Kinkel of Germany and Josef Zieleniec of the Czech Republic initialed a document of reconciliation on December 21, 1996. The document, which still faces parliamentary approval on both sides, is intended to bury ill feelings dating to the Nazi occupation of Czech lands in World War II. In the document, Germany expresses regret for the evils committed by the Nazi regime, while the Czechs express regret for Czechoslovakia's expulsion of about 2.5 million Germans from the Sudeten region in 1945-46.
+
+19970121-20040430 0.75
+Germany and the Czech Republic signed a document on January 21, 1997, intended to seal their post-World War II reconciliation and end decades of ill feeling dating to Nazi occupation of Czech lands. "We want to ask forgiveness, and we want to forgive," German Chancellor Helmut Kohl said after signing the declaration with Czech Premier Vaclav Klaus. The document, a product of 18 months of negotiations, is not legally binding, but is widely perceived as being of great symbolic value as the Czech Republic seeks integration with the West. Czechoslovakia broke up peacefully in 1993. It was Kohl's first trip to the Czech Republic. The Czech-German declaration was hailed recently in Prague by French Foreign Minister Herve de Charette as "important not only for the two countries involved, but for the whole of Europe." While Germany expresses its regrets over Nazi evils, the Czechs express theirs over Czechoslovakia's expulsion of the Sudeten Germans in 1945-46.
+
+On July 8th, 1997, Czech Republic was offered membership into NATO, thus becoming an ally of Germany. It became a full member on March 12th,1999. 
+
+The border treaty between the Czech Republic and Germany which was signed in November 1994 will come into effect in September 1997, the Czech Foreign Ministry press office said. This is the first time since 1918 that the two countries have reached agreement on a basic, bilateral treaty to determine the demarcation of the state border, and how it should be administered. The document annuls previous treaties signed in 1930 and 1935 between the German Reich and the Czechoslovak Republic. The treaty was signed in Bonn three years ago by the interior ministers of the two countries. Today the Deputy Foreign Minister of the Czech Republic, Jan Winkler, and the Charge d'affaires of the German Embassy, exchanged the instruments of ratification. The Czech Republic's longest border is with Germany, a distance measuring 810 kilometres. The agreement determines the demarcation of the Czech-German border on land and through rivers, the regulations governing the surveying and sign-posting of the border and ways of paying costs connected to the responsibilities of those owning property within the border areas. The document undertakes to protect border and surveying signposts and other fixtures used in signposting the state border, and to maintain a clear demarcation of the line between the two countries.
+
+Czech deputy premier Egon Lansky said on August 3, 1998, that Germany allowed the struggle before a general election in September to affect its relations with the Czech Republic. Speaking on the public Czech Television's programme "21" Lansky reacted to the statements by some German politicians who denounced Premier Milos Zeman comparing Sudeten Germans with Czech extreme-right Republicans and Communists. Lansky said that the German politicians' statements worsened relations between Germany and the Czech Republic. Zeman recently criticized the presence of members of the Sudeten German Landsmannschaft (SL), which has rejected the Czech-German declaration of 1997, in the coordination council of the Czech-German Discussion Forum set up under the declaration, and said that Prague had not appointed Communists and Republicans to the council, both vocal opponents of the declaration. "I don't want to criticize the German side, but I only want to point out that Czech Social Democracy and actually no Czech democratic party stooped to something like this neither in the election two years ago nor in the election several months ago". On August 3, 1998, Bavarian Premier Edmund Stoiber threatened that Germany might block the Czech Republic's entrance into the European Union in connection with Zeman's statement.
+
+In September 1999, during his first official visit to Czech Republic, German Chancellor Gerhard Schroeder promised to help the Czech Republic join the European Union as soon as possible. After talks in Prague with Czech Prime Minister Milos Zeman, Schroeder said Germany had experienced Czech solidarity 10 years ago when the Prague government helped thousands of East Germans travel to the West, a move which helped lead to German unification. Germany would repay this solidarity by helping the Czech Republic's E.U. membership aspirations. The German government will do everything to help the Czech Republic join as soon as possible, he said.
+
+In May 2000, the Czech Republic President Vaclav Havel arrived in Berlin on Tuesday and made a four-day official visit to Germany. And it is Havel's first state visit to Germany. German President Johannes Rau conferred the highest German orders upon Havel for commending his contributions to promote the bilateral relations during the past years. Havel conferred also upon Rau the highest order of the Czech Republic, "the Order of the White Lion". During the talks between Havel and German chancellor Gerhard Schroeder Havel stressed that the membership of the European Union was the highest aim of Czech Republic and the importance of the strengthening of the bilateral relations. Schroeder supported the joining in the European Union of the Czech Republic. Until end of 2002 the Czech Republic can become the new member of the EU. Havel thanked Germany for its supports.
+
+In August 2001, German Prime Minister, Gerhard Schroder made his second visit to the Czech Republic as chancellor. For the first time he visited Prague in 1999 on the occasion of the 10th anniversary of the departure of thousands of East Germans from Prague to West Germany. The first official visit paid by a Czech premier in Germany took place in March 1999 that is six years after the establishment of the independent Czech Republic. Relations between former Czech premier Vaclav Klaus and the then German chancellor Helmut Kohl were very cold. At their first meeting in March 1999 Schroeder and Czech Prime Minister Zeman stated that this would not burden their mutual relations by the past. "The past has been closed and we will focus on the future," Schroeder said. They issued a joint statement in which the Czech side said it considered the post-war Benes decrees under which some 2.5 million Germans were transferred from Czechoslovakia after World War Two to have "faded away", and the German side said it would not raise any property claims against the Czech Republic. However, Sudeten Germans, who had been transferred from the Czech border area, do not agree with this and still demand compensation and the abolition of the Benes decrees. One of the most significant landmarks in modern Czech-German relations was the signature of the Czech-German declaration on mutual relations and their future development in January 1997. The declaration also gave rise to the Fund for the Future, from which former WWII forced labourers are currently being compensated in the Czech Republic. An important aspect of bilateral relations is the Czech Republic's integration with the European Union as the Czech Republic considers Germany its main mediator. Though Schroeder announced in December that Germany was proposing a seven-year transition period for the movement of labour from new EU countries after their entry into the EU, Germany fully supports EU enlargement. Germany is the Czech Republic's most important trading partner, constituting 37 percent of the Czech Republic's foreign trade. 
+
+The presidents of Germany and the Czech Republic downplayed disputes on June 5, 2002, over post-World War II decrees that expelled millions of ethnic Germans from Czechoslovakia. Germany's Johannes Rau and the Czech Republic's Vaclav Havel sought to underline that while elections in both countries have stirred bad feelings over the Benes decrees, relations between the two nations are improving. "Czech-German relations are good," Rau said, "and the discussions over the last couple of weeks cannot change that." Earlier this year, Czech Prime Minister Milos Zeman described the ethnic Germans as "Hitler's fifth column." In Germany, Bavarian Gov. Edmund Stoiber, the conservative candidate for chancellor in the September parliamentary election, called the decrees "intolerable for the European Union." The remarks were problematic for the Czech Republic, which is hoping to join the EU in 2004. The diplomatic tensions between Germany and the Czech Republic prompted German Chancellor Gerhard Schroeder to postpone a visit to Prague earlier that year.
+
+Cooperation between the Czech and German military forces, for instance in foreign missions but also in NATO, should intensify, Czech Defence Minister Jaroslav Tvrdik and his German counterpart Rudolf Scharping told journalists on June 10, 2002. During a signing of a document on military and political cooperation after 2003 the two ministers informed journalists about a meeting of NATO planners, which is to take place before the November NATO summit in Prague and at which models of further military cooperation within the alliance are to be proposed. 
+
+Czech-German relations are now developing better than ever before, German Foreign Minister Joschka Fischer indicated during his trip to Prague in September 2003, "preparing the ground" for German Chancellor Gerhard Schroeder's visit to the Czech Republic. In connection with the approaching Czech Republic's entry into the EU, scheduled for 1 May 2004, Czech-German relations rather focus on the issues of future European integration than the bitter chapters from the joint past. The bilateral relations between the Czech Republic and Germany are marked by the conflict concerning the interpretation of the post-war history, predominantly the post-war decrees issued by President Edvard Benes, on the basis of which about 2.5m ethnic Germans were transferred from post-war Czechoslovakia, mainly the border regions (Sudetenland), after the war and their property was confiscated. Unlike the German federal government, Sudeten Germans demand that the Benes decrees be abolished. In addition, the upper house (Bundesrat) of the German parliament reminded of this requirement in June. The Bundesrat thus met the proposal of the largest German land, Bavaria, which stands up as a patron of Sudeten Germans, and pointed to an older appeal of the European Parliament from 1999 to annul the Czechoslovak post-war documents. At the same time, the Bundesrat appreciated the statement of the Czech government calling the post-war events as not acceptable from the present point of view. Schroeder rejects all attempts to re-open the question of the Benes decrees. He refers to the Czech-German Declaration from 1997 which binds the two countries not to burden bilateral relations with controversial issues ensuing from the past. Schroeder said in June 2003 that the decrees had been a reaction to the Nazi German invasion of the Czech lands. At present, top politicians from both countries also point to the excellent level of Czech-German bilateral relations as well as the perspectives of their development. The probably most important breakpoint in modern Czech-German relations was the Czech-German Declaration on bilateral relations and their future development, signed in January 1997. The declaration also initiated the Czech-German Fund for the Future, which mediates compensation to Czech victims of forced labor in Germany during World War Two. The Czech Republic was the first of all partner countries in this respect where the payment of the first installment to forced labor victims was completed and the second installment was launched.
+
+Germany still has a dominant share in the Czech Republic's foreign trade, as 2003 it accounted for 36.9% of Czech exports and for 32.5% of imports. Turnover in trade between the two countries rose in 2003 and Germany has been the largest and most important economic and trading partner of the Czech Republic for over a decade. Moreover, the Czech Republic has been showing a surplus in trade with Germany since 1998. Vice versa, the Czech Republic is Germany's biggest trading partner from among central and eastern European countries. Analysts say the Czech Republic now definitively became one of Germany's major trading partners and attribute this not only to a revival in German imports but also to a growth in Czech exports. Germany is also one of the biggest investors in the Czech Republic.
+
+20040501-20159999 1.00
+
+On May 1st, 2004, Czech Republic became a member of the European Union, thus strengthening its links with Germany, being now under a common political space. In May 2004, Bavarian Prime Minister Edmund Stoiber at the Sudeten Germans' meeting in Nueremberg in Germany demanded a cancellation of the Czechoslovak President Edvard Benes decrees of 1945 on the expulsion of Sudeten Germans and the confiscation of their property , describing them as injustice which has no place in the EU. In his speech, which attracted applause and cries of approval, he said that the Czech Republic had to condemn the expulsion. Unless Prague does so, it will in vain wait for his visit. In May 2005, German Chancellor, Gerhard Schroeder, on a brief-visit to the Czech Republic, the second since this formerly communist country joined the European Union last year, said that relations were now excellent between the once quarreling neighbors over their post-World War II history. "Our future is a common European future," Schroeder told reporters after meeting Czech Prime Minister Jiri Paroubek. "That's what counts." Rudolf Jindrak, new Czech Ambassador to Germany, wants to promote the lifting of border checks between the old and new EU member states and the free movement of labour force, which is significant for the Czech Republic, Jindrak, who handed his credentials to German President Horst Koehler on December 11, 2006, said in an interview for the Czech News Agency. He added that among his priorities is to persuade the German border regions that the Czech Republic would be prepared for the Schengen enlargement in time. Last week, the EU interior ministers decided to extend the Schengen area as from January 1, 2008. The German federal countries of Bavaria and Saxony, bordering on the Czech Republic, then criticised this step. Jindrak said he would like to play the role of a mediator between the Czech Republic and German experts and politicians with regard to the fact that in November 2007 the EU must definitively confirm the date of Schengen enlargement. Jindrak said he would keep explaining that Germany need not fear a "mass influx of unqualified Czech workers who will deprive German citizens of jobs." Germany is among the old EU member countries that did not open their labor markets to the EU newcomers, including the Czech Republic. Berlin extended this measure by another three years in 2006 and will re-assess it again in 2009.
+
+PS-SOURCES: Brecher and Wilkenfeld (1997)(Open Society Archives (http://www.osa.ceu.hu/files/holdings/300/8/3/text/21-4-111.shtml; New York Times February 8, 1950; June 24, 1950; June 21, 1951; June 25, 1953; July 28, 1959; August 5, 1960; December 30, 1960; September 17, 1961; May 10, 1964; October 6, 1964; March 30, 1966; August 4, 1967; October 29, 1969; December 12, 1973; June 21, 1974; October 2,1985; September 2, 1989; November 7, 1989; December 16, 1989; March 16, 1990; December 21, 1996; Washington Post December 4, 1973; August 1, 1968; Financial Times February 14, 1984; Associated Press August 12, 1988; January 2, 1990; January 4, 1990; November 3, 1990; November 03, 1994; Xinhua News Service July 11, 1989; May 10, 2000; June 5, 2002; May 17, 2005; Toronto Star March 16,1990; Herald January 3, 1990;Deutsche Presse-Agentur February 12, 1996; February 17, 2003; CTK National News January 23, 1996; March 29, 1996; January 21, 1997; June 23, 1997; August 3, 1998; September 30, 1999; May 12, 2000; March 9, 2001; August 19, 2001; September 30, 2004; December 11, 2006; BBC September 14, 1999; February 17, 2002; June 10, 2002; September 3, 2003; May 30, 2004; http://www.indiana.edu/~league/1934.htm
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

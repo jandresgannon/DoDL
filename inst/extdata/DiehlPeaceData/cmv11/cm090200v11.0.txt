@@ -1,0 +1,233 @@
+FILE: cm090200v11.0.txt
+DYAD: GUATEMALA-UNITED KINGDOM
+RIVALRY: RIV209
+DISPUTE(S):MID238
+RIVALRY: RIV210
+DISPUTE(S): MID2319 MID360 MID2139
+
+PS: 19009999-19450310 .5 19450311-19720127 .25 19720128-19810920 0.00 19810921-19941001 .25 19941002-19991001 .50
+
+PS-NOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20200601
+PS-LAST-CHECKED: 20200601
+
+RIVNOTES: RIV209: MID1734 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data.
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID238 
+
+TERRMID: MID238 3 -- not territory
+TERRMID-CER: MID238 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID238 3 -- not third party link to territory 
+TERRLINK-CER: MID238 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID238 3 -- not maritime 
+MARITMID-CER: MID238 1 -- certain
+MARITMID-NOTES: MID238 from MID-B data, this MID occurred between 5/10/1913 and 5/14/1913. From NYT 5/15/1913, the British deployed a warship to the coast of Guatemala to coerce them into repaying a debt. Guatemala complied. Coded not maritime because this was a debt repayment issue. 
+
+ISLMID: MID238 3 -- not islands 
+ISLMID-CER: MID238 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID238 3 -- not civil war 
+CIVWARMID-CER: MID238 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID238 3 -- not civil war link
+CIVWARLINK-CER: MID238 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID238 3 -- not coup 
+COUPMID-CER: MID238 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID238 3 -- not coup link
+COUPLINK-CER: MID238 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2319 
+
+TERRMID: MID2319 1 -- territorial MID
+TERRMID-CER: MID2319 1 -- certain 
+TERRMID-NOTES: MID2319 from cm narrative, this is one of three disputes betwen UK and Guatemala that is centered on the countries' territorial dispute over Belize. Guatemala claimed all or much of Belize as its own territory since the 19th century, and they maintained this claim when UK acquired Belize from Mexico in 1826. When UK allowed self-government in Belize as a step toward independence in the 20th century, a series of disputes occurred between Guatemala and the UK, Guatemala having never dropped their claim on Belize. This MID involves Guatemalans amassing troops on the border and UK responding with warships. 
+
+TERRLINK: MID2319 3 -- not third party link to territory 
+TERRLINK-CER: MID2319 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2319 1 -- maritime MID
+MARITMID-CER: MID2319 1 -- certain
+MARITMID-NOTES: MID2319 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+ISLMID: MID2319 1 -- islands MID
+ISLMID-CER: MID2319 1 -- certain
+ISLMID-NOTES: MID2319 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+CIVWARMID: MID2319 3 -- not civil war 
+CIVWARMID-CER: MID2319 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2319 3 -- not civil war link
+CIVWARLINK-CER: MID2319 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2319 3 -- not coup 
+COUPMID-CER: MID2319 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2319 3 -- not coup link
+COUPLINK-CER: MID2319 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID360 
+
+TERRMID: MID360 1 -- territorial MID
+TERRMID-CER: MID360 1 -- certain 
+TERRMID-NOTES: MID360 from cm narrative, this is one of three disputes between UK and Guatemala that is centered on the countries' territorial dispute over Belize. Guatemala claimed all or much of Belize as its own territory since the 19th century, and they maintained this claim when UK acquired Belize from Mexico in 1826. When UK allowed self-government in Belize as a step toward independence in the 20th century, a series of disputes occurred between Guatemala and the UK, Guatemala having never dropped their claim on Belize. This MID involves Guatemalans amassing troops on the border and UK responding with threats of military action. 
+
+TERRLINK: MID360 3 -- not third party link to territory 
+TERRLINK-CER: MID360 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID360 1 -- maritime MID
+MARITMID-CER: MID360 1 -- certain
+MARITMID-NOTES: MID360 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+ISLMID: MID360 1 -- islands MID
+ISLMID-CER: MID360 1 -- certain
+ISLMID-NOTES: MID360 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+CIVWARMID: MID360 3 -- not civil war 
+CIVWARMID-CER: MID360 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID360 3 -- not civil war link
+CIVWARLINK-CER: MID360 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID360 3 -- not coup 
+COUPMID-CER: MID360 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID360 3 -- not coup link
+COUPLINK-CER: MID360 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2139 
+
+TERRMID: MID2139 1 -- territorial MID
+TERRMID-CER: MID2139 1 -- certain 
+TERRMID-NOTES: MID2139 from cm narrative, this is one of three disputes between UK and Guatemala that is centered on the countries' territorial dispute over Belize. Guatemala claimed all or much of Belize as its own territory since the 19th century, and they maintained this claim when UK acquired Belize from Mexico in 1826. When UK allowed self-government in Belize as a step toward independence in the 20th century, a series of disputes occurred between Guatemala and the UK, Guatemala having never dropped their claim on Belize. This MID involves the British reinforcing garrisons in Belize in response to a perceived threat of Guatemalan aggression. 
+
+TERRLINK: MID2139 3 -- not third party link to territory 
+TERRLINK-CER: MID2139 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2139 1 -- maritime MID
+MARITMID-CER: MID2139 1 -- certain
+MARITMID-NOTES: MID2139 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+ISLMID: MID2139 1 -- islands MID
+ISLMID-CER: MID2139 1 -- certain
+ISLMID-NOTES: MID2139 Guatemala claimed about half of Belize to be its own territory, including much of the territorial waters of Belize. This MID is coded territorial, maritime, and islands MID because Guatemala's claim and the MIDs within this dyad are driven by tensions centered on and stemming from all three issue types. Even though the MIDs do take place in disputed territory rather than in disputed waters or on disputed islands, the threats/clashes are driven by each country's desire to control the land, islands, and waters that are contested.
+
+CIVWARMID: MID2139 3 -- not civil war 
+CIVWARMID-CER: MID2139 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2139 3 -- not civil war link
+CIVWARLINK-CER: MID2139 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2139 3 -- not coup 
+COUPMID-CER: MID2139 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2139 3 -- not coup link
+COUPLINK-CER: MID2139 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1734 
+
+TERRMID: MID1734 3 -- not territory
+TERRMID-CER: MID1734 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1734 3 -- not third party link to territory 
+TERRLINK-CER: MID1734 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1734 3 -- not maritime 
+MARITMID-CER: MID1734 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1734 3 -- not islands 
+ISLMID-CER: MID1734 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1734 3 -- not civil war 
+CIVWARMID-CER: MID1734 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1734 1 -- civil war link
+CIVWARLINK-CER: MID1734 3 -- uncertain
+CIVWARLINK-NOTES: MID1734 from NYT 1/16/1911, the US and UK urged Guatemala to respect the policy of neutrality in the ongoing revolution in Honduras. The US and UK believed that Guatemala was providing support to Honduran rebels, and the US/UK were opposed to that rebel movement in Honduras. From Gibler, Little, and Miller (2016: IIB-15), the warning/urging by the US is what triggers the MID here. This is coded civil war link because this incident is centered on the revolution in Honduras, outside of this dyad. Coded uncertain because Gibler, Little, and Miller (2016: IIB-15) recommend this case be dropped. GLM argue that the US and UK did not issue a warning or officially protest with respect to Guatemala, but rather issued a vague, undirected warning that does not meet the criteria of a militarized threat. 
+
+COUPMID: MID1734 3 -- not coup 
+COUPMID-CER: MID1734 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1734 3 -- not coup link
+COUPLINK-CER: MID1734 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Guatemala claimed sovereignty over British Honduras (Belize) after attaining independence from Spain on September 15, 1821. Britain and Guatemala signed an agreement on April 30, 1859, which provided for the demarcation of the border between Belize and Guatemala. Britain proclaimed British Honduras a self-governing colony in 1862. Guatemala proposed that the United States arbitrate the dispute in 1937, but Britain suggested instead that the dispute be submitted to the *Permanent Court of International Justice* (PCIJ) on August 17, 1937. Guatemala refused to submit the dispute to the PCIJ. The Guatemalan Legislative Assembly approved a constitution on March 11, 1945, which proclaimed that British Honduras was a part of Guatemalan national territory. Guatemala formally claimed sovereignty over British Honduras on September 24, 1945. Britain proposed that the dispute be referred to the *International Court of Justice* (ICJ) on January 14, 1946, and Guatemala accepted the proposal on January 16, 1946. Britain deployed two warships to British Honduras on February 28-March 1, 1948 after hearing reports of a planned Guatemalan invasion of Britush Honduras. Guatemala referred the matter to the *United Nations* (UN) on February 28, 1948. Britain withdrew the warships from British Honduras on March 16, 1948. Guatemala proposed that the territorial dispute be submitted to the United States for mediation on June 21, 1948, but Britain rejected the proposal on October 29, 1948. Guatemala opened the border with British Honduras on May 21, 1951. Guatemala severed diplomatic relations with Britain on July 24, 1963. The US secretary-of-state facilitated negotiations between British and Guatemalan representatives in Washington DC on December 15-19, 1963. Britain and Guatemala requested the mediation of the United States in July 1965. President Lyndon Johnson appointed Bethuel Webster to mediate negotiations between the countries on November 20, 1965. Bethuel Webster submitted a proposal to settle the dispute on April 26, 1968, but Britain rejected the proposal on May 20, 1968. Guatemala troops were deployed near the border region on November 1, 1975. Britain responded by deploying 350 additional troops in the colony on November 5, 1975, which brought the number of British troops in British Honduras to 1,000 soldiers. The UN General Assembly appealed for peaceful negotiations between Britain and Guatemala on December 8, 1975. Britain and Guatemala agreed to the resumption of negotiations on November 30, 1975. The UN General Assembly appealed for peaceful negotiations between the countries on December 1, 1976. Guatemalan troops mobilized in the border region on June 25, 1977, and Britain responded by deploying additional troops in the colony on July 6, 1977. Secretary-of-State Cyrus Vance of the US facilitated negotiations in Washington DC in July 1977, and the countries agreed to reduce tensions in the region on July 28, 1977. Britain and Guatemala tentatively agreed on a resolution of the dispute in London on March 16, 1981, but the agreement collapsed on July 23, 1981. Guatemala severed diplomatic relations with Britain on July 24, 1981. Guatemala referred the matter to the UN Security Council on September 11, 1981. Belize formally achieved its independence from Britain on September 21, 1981.
+
+SOURCES-CM: 
+Allock et al., 1992, 562-572; Bloomfield 1953; Brecher and Wilkenfeld, 1997, 515-517; *Keesing*, March 2-9, 1946, March 6-13, 1948, November 13-20, 1948; Menon, 1979, 343-371; *Survey of International Affairs (SIA), 1947-1948, 488-492; *Times (London)*, July 16, 1963, July 25, 1963, July 26, 1963, December 20, 1963, November 20, 1965, May 6, 1966, June 20, 1966, April 30, 1968, May 10, 1968, August 5, 1968, August 9, 1968, January 28, 1972, January 29, 1972, March 17, 1972, April 21, 1972, May 6, 1975, November 6, 1975, November 7, 1975, November 8, 1975, November 13, 1975, February 3, 1976, April 28, 1976, February 3, 1981, March 12, 1981, July 29, 1981, September 8, 1981, September 12, 1981, September 22, 1981, September 25, 1981.
+
+NARRATIVE-CR:
+The rivalry between Guatemala and the UK centered on the issue of Belize and Guatemalan claims to the country. Belize was originally claimed by Guatemala and Mexico after their independence from Spain in 1821, with Great Britain acquiring Mexico's claim in 1826. British Honduras as it was then called became a British colony in 1862 after the Anglo-Guatemalan agreement of 1859 settled the issue of border recognition between the UK and Guatemala. One of the terms of the agreement was that the British construct a road from Guatemala City to the Caribbean coast in exchange for recognition but this never happened thus causing Guatemala to never ratify the agreement. Guatemala continued the pursuit of its claims throughout the 1900s without success. When the UK allowed internal self-government as a first step in the subsequent independence for Belize in the 1960s during the third wave of international decolonization, Guatemalan claims intensified, leading to the three MIDs that make up the rivalry (MID2319, MID360 and MID2139). After the last mid in 1977, the US facilitated negotiations between the two countries in Washington in July 1977 and the countries agreed to a reduction of the tension over the dispute. An agreement to a reduction in tensions by Guatemala may in large part be due to internal conflicts that caused the Guatemalan army to concern itself with fighting a resurgent guerilla force that had resumed combat operations against the government in early 1977. In 1978 the British Foreign Secretary proposed to his Guatemalan counterpart a quick settlement of the dispute over Belize, but this was rejected due to Guatemala's claims to the entire territory of Belize. In February 1981 the talks between U.K. and Guatemala were restarted and the two disputants agreed to resolve the conflict in March 1981 over talks in London but the agreement failed to materialize, with Guatemala ending its diplomatic relations with Great Britain on July 24, 1981.In London, the two disputants agreed to resolve the conflict in March 1981 but the agreement failed to materialize, with Guatemala ending its diplomatic relations with Great Britain on July 24, 1981. The rivalry ended when Belize formally achieved its independence from Great Britain with UN approval on September 21, 1981, although the dispute continued between Guatemala and Belize with Great Britain acting as an observer to talks between the two countries. With the omission of any explicit claims to Belize in the new constitution of Guatemala introduced in 1985 and the re-establishment of relations between the UK and Guatemala in August 1986, it appears that the dispute itself has come to an end in addition to the rivalry. 
+
+SOURCES-CR: 
+Schooley (1987); Dunkerley (1991); New York Times 5/15/1913
+
+PS-NARRATIVE:
+
+19450311-19720127 0.25
+
+The Guatemalan Legislative Assembly approved a constitution on March 11, 1945, which proclaimed that British Honduras (Belize) was a part of Guatemalan national territory. Guatemala formally claimed sovereignty over British Honduras on September 24, 1945. Britain proposed that the dispute be referred to the *International Court of Justice* (ICJ) on January 14, 1946, and Guatemala accepted the proposal on January 16, 1946. Because the parties were not able to agree on a basis, as between equity and law, for any decision by the Court, negotiations broke down once again in 1947. There were no meetings to discuss the dispute for a further 15 years after that. 
+
+Britain deployed two warships to British Honduras on February 28-March 1, 1948 after hearing reports of a planned Guatemalan invasion of British Honduras. Britain also deployed troops along the border with Guatemala. This is not recorded as a MID by the COW MID Dataset. Guatemala referred the matter to the *United Nations* (UN) on February 28, 1948. Britain withdrew the warships from British Honduras on March 16, 1948. Guatemala proposed that the territorial dispute be submitted to the United States for mediation on June 21, 1948, but Britain rejected the proposal on October 29, 1948. Guatemala opened the border with British Honduras on May 21, 1951. In the early 1960s, there had been an armed incursion by Guatemalan civilians in southern British Honduras and references by the President of Guatemala to the creation of a "fifth column" there. In April 1962 the two sides met again and the British asked that the Economic Council for Latin America (ECLA) implement a 1961 resolution to explore the possibility of closer economic relations between British Honduras and its Central American neighbors. Guatemala severed diplomatic relations with Britain on July 24, 1963 and the border with British Honduras was closed. The US secretary-of-state facilitated negotiations between British and Guatemalan representatives in Washington DC on December 15-19, 1963. Britain and Guatemala requested the mediation of the United States in July 1965. President Lyndon Johnson appointed Bethuel Webster to mediate negotiations between the countries on November 20, 1965. Bethuel Webster submitted a proposal to settle the dispute on April 26, 1968, but Britain rejected the proposal on May 20, 1968. A new round of negotiations between Guatemala and UK, with Belizean politicians as observers, took place between 1969-1972. In 1971 with the talks not going to Guatemala's satisfaction and with the announcement of an early independence by Belize, Guatemala secured the cooperation of El Salvador for a planned invasion and occupation of Belize. The invasion date was set for 4 February 1972, but this was forestalled by a massive reinforcement by the UK (3,000 marines in an aircraft carrier and 18 Harrier jets) on January 28, 1972. The date of the first MID of the rivarly, MID2319, is January 27th, 2008.
+
+19810921-19941001 0.25
+
+The last MID of the rivarly, MID 2139 ended on July 19, 1977. On 21 September 1981, Belize became independent from United Kingdom and thus the dispute became one between Guatemala and Belize. The rivalry between United Kingdom and Guatemala thus, officially ended. Throughout the 1980s, the Guatemalan government did not recognizing the independence of Belize and insisted they were negotiating with UK, even though the UK delegates were present at the negotiations as observers. In 1982 during the Falklands War between Argentina and UK, Guatemala offered diplomatic support to Argentina and threatened to fight to regain Belize. A Guatemalan official referred to the UK's actions in Southern Atlantic as being the same type of `neo-colonialism' UK used in their conflict over Belize. In August 1986 Guatemala announced it will resume consular relations with UK. On 29 December 1986 the two countries re-established diplomatic ties at the ambassadorial level. 
+
+19941002-20091002 0.50
+
+Until October 2,1994, British troops were stationed in Belize to safeguard this nation's independence against Guatemalan interests. These included a battalion of infantry as well as four Harrier ground-attack aircrafts remained there. After 1994 a small British military presence remained in Belize. The UK continues to support Guatemala's plans to advance development by implementing the agreements under the Peace Accords signed at the end of the civil war in 1996, particularly those relating to human rights, indigenous peoples and the internal security situation. In addition, the UK supports the OAS-sponsored negotiation process between Belize and Guatemala to resolve their territorial dispute. The Foreign and Commonwealth Office /Department for International Development/Ministry of Defense of UK are jointly funding a number of projects aimed at reducing the potential for conflict along the Belize/Guatemala border. The UK has disbursed approximately £2 million for projects since 2004/05 as well as providing financial and other support for the work of the OAS Office in the Adjacency Zone between Guatemala and Belize. The issue of contention between Guatemala and U.K. over Belize has not been resolved, however U.K.'s role changed from that of a party to the conflict to that of a 3rd party interested to find a solution to the conflict. 
+
+We have applied the 15 year rule to arrive at the end date of 2009.
+
+PS-SOURCES: 
+New York Times 4/25/1982, 5/23/1982, 12/30/1986, Country Profiles Foreign and Commonwealth Office (2007), Thomson (2004), Shoman (1994), Narrative-CM
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

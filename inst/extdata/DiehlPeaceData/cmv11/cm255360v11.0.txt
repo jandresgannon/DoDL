@@ -1,0 +1,46 @@
+FILE: cm255360v11.0.txt
+DYAD: GERMANY/PRUSSIA-ROMANIA
+RIVALRY: RIV10688 ISOLATED 
+DISPUTE(S): MID257 MID3341 MID396 
+RIVALRY: RIV10689 ISOLATED 
+DISPUTE(S): MID3825 MID3826 
+
+PS: 19009999-19141019 .5 19141020-19171206 .25 19171207-19400827 .5 19400828-19450507 .25 19450508-19500507 .5 20070101-20209999 1.00
+
+PS-UPDATE2020:Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PSNOTES: 
+
+no relationship after german surrender. Romania becomes full member of EU; therefore, relationship is coded as 1.00.
+
+For period 19141020-19171206, the end date was changed from 19171209 TO 19171206 because Romanian and Central Powers representatives signing a formal cessation of military hostilities in Focsani on December 6, 1917. Therefore, for period 19171207-19400827, begin date is changed from 19171208 to 19171207. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID3341 MID257 MID396
+
+WWII MIDs: MID258 MID3825 MID3826
+
+RIVNOTES: 
+RIV10689: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10688 is coded isolated since all disputes are related to World War I. Similarly, RIV10689 is coded isolated because all disputes are related to World War II.
+
+NARRATIVE-CM:
+Germany declared war against Romania on August 30, 1916. German troops, and other *Central Powers* troops, invaded Transylvania, Romania on September 18, 1916, and German military aircraft bombed Bucharest on September 25, 1916. German troops occupied Bucharest on December 6, 1916, and Romanian troops retreated to Moldavia. Britain provided economic assistance to the Romanian government in Moldabia on March 9, 1917. German troops clashed with Romanian troops near Putna in northern Moldavia between August 6 and September 3, 1917. Romanian and *Central Powers *representatives signed a formal cessation of military hostilities in Focsani on December 6, 1917. Some 350,000 Romanian soldiers and 60,000 *Central Powers* soldiers were killed during the conflict. Germany demanded that Romania begin negotiations on a peace treaty with the *Central Powers* on February 6, 1918. Romanian and *Central Powers *representatives signed the *Treaty of Bucharest* on May 7, 1918, which provided for the Romanian cessation of Dobrudja to Bulgaria. Romania declared war against Germany on November 8, 1918, and attacked German troops, and other *Central Powers *troops, in Wallachia. Romanian troops invaded Transylvania on November 10, 1918, and Romanian troops occupied the region on December 1, 1918. German and Romanian representatives signed a non-aggression pact on March 21, 1928. Romania agreed to allow the deployment of German troops in the country beginning on October 10, 1940. German and Romanian representatives signed an agreement on October 22, 1940, which provided for the repatriation of some 77,000 Germans from southern Bukovina and northern Dobrudja. Romania agreed to join the *Tripartite Pact *(Germany, Italy, Japan) on November 23, 1940. German military aircraft bombed Bucharest on August 24, 1944, and Romania declared war against Germany on August 25, 1944. Allied (Britain, Soviet Union, United States) military aircraft bombed German military positions near Bucharest on August 26, 1944. Soviet troops occupied Bucharest on August 31, 1944. Some 160,000 Romanian soldiers were killed during the conflict with Germany. 
+
+SOURCES-CM: 
+Clodfelter, 1992, 766, 835-836; Ference, 1994, 301-336; Langer, 1972, 971-972, 1026-1028.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

@@ -1,0 +1,59 @@
+FILE: cm300710v11.0.txt
+DYAD: AUSTRIA-HUNGARY - CHINA
+RIVALRY: RIV793
+DISPUTE(S): MID31 
+RIVALRY: RIV794
+DISPUTE(S): MID2649 
+
+PS-LAST-CHANGED: 20180211 
+PS-LAST-CHECKED: 20180211
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID2649
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm200710 narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention, including Austria-Hungary here. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+China declared war against Austria-Hungary on August 14, 1917.
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

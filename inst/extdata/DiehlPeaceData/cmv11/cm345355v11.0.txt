@@ -1,0 +1,442 @@
+FILE: cm345355v11.0.txt
+DYAD: YUGOSLAVIA-BULGARIA
+RIVALRY: RIV897
+DISPUTE(S): MID1251 MID257 MID397 MID1240 MID3188 MID3813 MID1286 MID1703 
+RIVALRY: RIV898
+DISPUTE(S): MID2059 
+RIVALRY: RIV899
+DISPUTE(S): MID4343 
+
+PS: 19081005-19130519 .5 19130520-19530910 0.00 19530911-19930407 0.25 19930408-20001128 -9 20001129-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm345355 ,18780000 ,19540000 bulgaria enters system in 19081005
+
+PS-LAST-CHECKED: 20220301
+PS-LAST-CHANGED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 MID397
+
+WWII MIDs: MID3813 
+
+MID1251 
+
+TERRMID: MID1251 1 -- territorial MID
+TERRMID-CER: MID1251 1 -- certain 
+TERRMID-NOTES: MID1251 from Gibler 2018, after the Second Balkan War, there were still outstanding territorial disputes among the Balkan countries. Serbia (Yugoslavia) and Bulgaria both claimed Macedonia, and after Bulgaria refused to cede parts of Macedonia to Serbia, Bulgaria attacked Serbia, Greece, and Romania to control the territory. Coded territorial MID because this was connected to the countries' claim on Macedonian territory. 
+
+TERRLINK: MID1251 1 -- third party link to territorial MID
+TERRLINK-CER: MID1251 1 -- certain 
+TERRLINK-NOTES: MID1251 coded third party link to territorial MID because this MID also involved Romania, who claimed the territory being fought over. 
+
+MARITMID: MID1251 3 -- not maritime 
+MARITMID-CER: MID1251 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1251 3 -- not islands 
+ISLMID-CER: MID1251 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1251 3 -- not civil war 
+CIVWARMID-CER: MID1251 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1251 3 -- not civil war link 
+CIVWARLINK-CER: MID1251 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1251 3 -- not coup 
+COUPMID-CER: MID1251 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1251 3 -- not coup link
+COUPLINK-CER: MID1251 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1240 
+
+TERRMID: MID1240 3 -- not territory 
+TERRMID-CER: MID1240 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1240 3 -- not third party link to territory 
+TERRLINK-CER: MID1240 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1240 3 -- not maritime 
+MARITMID-CER: MID1240 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1240 3 -- not islands 
+ISLMID-CER: MID1240 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1240 1 -- civil war MID
+CIVWARMID-CER: MID1240 1 -- certain 
+CIVWARMID-NOTES: MID1240 from Gibler 2018, Yugoslavia felt threatened when rebel groups gathered on the border in Bulgaria and deployed troops to the border. They also threatened to invade Bulgaria if any rebels crossed into Yugoslavian territory. Coded civil war MID because this involved a militarized rebel group.
+
+CIVWARLINK: MID1240 3 -- not civil war link 
+CIVWARLINK-CER: MID1240 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1240 3 -- not coup 
+COUPMID-CER: MID1240 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1240 3 -- not coup link
+COUPLINK-CER: MID1240 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3188 
+
+TERRMID: MID3188 3 -- not territory 
+TERRMID-CER: MID3188 3 -- uncertain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3188 3 -- not third party link to territory 
+TERRLINK-CER: MID3188 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3188 3 -- not maritime 
+MARITMID-CER: MID3188 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3188 3 -- not islands 
+ISLMID-CER: MID3188 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3188 1 -- civil war MID
+CIVWARMID-CER: MID3188 3 -- uncertain 
+CIVWARMID-NOTES: MID3188 from cm narrative and Gibler, Miller, and Little 2016, Yugoslavia accused Bulgaria of threatening and violating the Bulgaria-Yugoslavia border. From New York Times 4/22/1929, this MID also involves Yugoslavia becoming angry after Bulgaria hosted a Macedonian political leader who was favored by ethnic Macedonians in Yugoslavia who wanted an independent Macedonia. After the political leader landed, the guerillas in Macedonia stated they would renew their militarized struggle against Yugoslavia. Coded civil war MID because this was connected to militarized rebels in Yugoslavia. Coded uncertain because GML 2016 recommend this case be dropped, as nothing between Yugoslavia and Bulgaria occurred that would rise to the level of a MID. 
+
+CIVWARLINK: MID3188 3 -- not civil war link 
+CIVWARLINK-CER: MID3188 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3188 3 -- not coup 
+COUPMID-CER: MID3188 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3188 3 -- not coup link
+COUPLINK-CER: MID3188 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1286 
+
+TERRMID: MID1286 3 -- not territory 
+TERRMID-CER: MID1286 1 -- certain 
+TERRMID-NOTES: MID1286 from cm002310 narrative, this is a multilateral MID pitting US and Yugoslavia against USSR, Bulgaria, Hungary, and Romania in the first few years of the Cold War. The tensions that led to this MID began when Yugoslavia and the USSR began to drift apart in terms of the ruling Yugoslavia Communist Party's willingness to acquiesce to Stalin's directives. The US observed the drift and tried to create an anti-Soviet state in the region by providing economic, food, and military assistance to Yugoslavia, and even attempted to bring Yugoslavia into NATO. Soviet troop mobilizations and border clashes occurred between Yugoslavia and Soviet-bloc states Hungary, Bulgaria, and Romania. Coded not territory because Yugoslavia and Bulgaria did not dispute any territory between them. This was connected to Cold War tensions. 
+
+TERRLINK: MID1286 3 -- not third party link to territory 
+TERRLINK-CER: MID1286 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1286 3 -- not maritime 
+MARITMID-CER: MID1286 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1286 3 -- not islands 
+ISLMID-CER: MID1286 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1286 1 -- civil war MID
+CIVWARMID-CER: MID1286 3 -- uncertain 
+CIVWARMID-NOTES: MID1286 from cm002310 narrative, Stalin attempted to create domestic unrest that would result in the overthrow of the communist government in Yugoslavia and its replacement by a more USSR-friendly communist government. However, the domestic unrest did not result in violence or a militarized rebel group during this MID. Coded civil war because it appears that Stalin attempted, but failed, to organize an anti-government rebel group. Coded uncertain because it is unclear whether he intended to organize a rebel group, or incite general domestic unrest (which does not qualify as civil conflict in our coding rules). 
+
+CIVWARLINK: MID1286 3 -- not civil war link 
+CIVWARLINK-CER: MID1286 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1286 3 -- not coup 
+COUPMID-CER: MID1286 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1286 3 -- not coup link
+COUPLINK-CER: MID1286 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1703
+
+TERRMID: MID1703 3 -- not territory
+TERRMID-CER: MID1703 1 -- certain 
+TERRMID-NOTES: MID1703 from Gibler 2018, this is a Cold War MID that began when Yugoslavia began to pull away from Stalinist Communism in Europe. The Yugoslavian leader, Marshall Tito, began enacting and arguing for policies in the interest of Yugoslavia, rather than the Socialist Union as a whole. In 1952, Yugoslavia fortified its border with Hungary fearing an attack, protested that Soviet airplanes violated its airspace, and accused Bulgaria of espionage. Romania accused Yugoslavia of violating their airspace, while Hungary protested that Yugoslavia destroyed two bridges linking their territories. Tensions eventually died down. Coded not territory because this was connected to Cold War tensions. Yugoslavia and Bulgaria were not disputing territory here. 
+
+TERRLINK: MID1703 3 -- not third party link to territory 
+TERRLINK-CER: MID1703 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1703 3 -- not maritime 
+MARITMID-CER: MID1703 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1703 3 -- not islands 
+ISLMID-CER: MID1703 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1703 3 -- not civil war 
+CIVWARMID-CER: MID1703 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1703 3 -- not civil war link
+CIVWARLINK-CER: MID1703 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1703 3 -- not coup 
+COUPMID-CER: MID1703 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1703 3 -- not coup link
+COUPLINK-CER: MID1703 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2059 
+
+TERRMID: MID2059 3 -- not territory 
+TERRMID-CER: MID2059 1 -- certain 
+TERRMID-NOTES: MID2059 from Gibler 2018, Yugoslavia protested two border violations by Bulgarian aircraft in 1971. Coded not territory because this was connected to Cold War tensions. No territory was being disputed. 
+
+TERRLINK: MID2059 3 -- not third party link to territory 
+TERRLINK-CER: MID2059 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2059 3 -- not maritime 
+MARITMID-CER: MID2059 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2059 3 -- not islands 
+ISLMID-CER: MID2059 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2059 3 -- not civil war 
+CIVWARMID-CER: MID2059 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2059 3 -- not civil war link 
+CIVWARLINK-CER: MID2059 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2059 3 -- not coup 
+COUPMID-CER: MID2059 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2059 3 -- not coup link
+COUPLINK-CER: MID2059 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. These MIDs are coded separately due to the temporal separation between them. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerillas.
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4186
+rivalry=345355 nationa=BULGARIA nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=NO MILITARIZED ACTION 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4343
+rivalry=345355 nationa=YUGOSLAVIA-SERBIA nationb=BULGARIA MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV899: MID4186 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV899: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+RIV897: MID3.02 has recoded MID1251 as Bulgaria against everyone else in the Second Balkan War (1913).
+
+NARRATIVE-CM:
+Bulgaria and Serbia signed an agreement to form a military alliance against the Ottoman Empire on March 13, 1912. [Bulgaria, Greece, Montenegro, and Serbia fought the *First Balkan War *against the Ottoman Empire from October 8 to, 1912 to April 16, 1913. Following the signing of the *Treaty of London* on May 20, 1913, Bulgaria and Serbia disagreed over the division of territories of the former Ottoman Empire in southeast Europe. Bulgarian troops launched a military offensive against Serbia on June 29-30, 1913. Montenegro joined the *Second Balkan War* in support of Serbia on June 30, 1913, and Romania joined the war in support of Serbia on July 10, 1913. Bulgaria and Serbia agreed to a cessation of military hostilities on July 31, 1913. Some 20,000 Bulgarians, 18,500 Serbs, and 1,500 Romanians were killed during the conflict. Bulgaria and Serbia signed the *Treaty of Bucharest* on August 10, 1913, which provided for Serbian acquisition of Monastir and Ochrid from Bulgaria. Bulgarian troops invaded Serbia on October 11, 1915, and Bulgaria declared war against Serbia on October 14, 1915. Serbian troops recaptured Bitola from Bulgarian troops in November 1916. Bulgarian occupation troops suppressed a Serbian rebellion led by Kosta Pecanac, Kosta Vojnovic, and Rade Vlahovic in Toplica in February 1917, resulting in the massacre of some 20,000 Serbian civilians. British, French, and Greek troops entered Bulgaria on September 25, 1918, and Bulgaria agreed to a cessation of military hostilities on September 29, 1918. Some 100,000 Bulgarian soldiers, 275,000 Bulgarian civilians, 125,000 Serbian soldiers, and 650,000 Serbian civilians died during the *First World War*. Bulgarian and Serbian representatives signed the *Treaty of Neuilly *on November 27, 1919, which provided for the cessation of territory from Bulgaria to Serbia and Bulgarian recognition of the independence of Yugoslavia. On July 18, 1922, the *League of Nations* (LON) Council established a mixed boundary commission to demarcate the border between the countries. The LON boundary commission completed its work on March 17, 1923. Bulgaria and Yugoslavia resumed diplomatic relations on June 29, 1923. Bulgarian and Yugoslav representatives signed a treaty for friendship on January 24, 1937. German troops invaded Yugoslavia (Serbia) from Bulgarian territory on April 6, 1941, and German troops occupied Belgrade on April 24, 1941. Bulgaria formally annexed the Yugoslav territory of Macedonia and parts of eastern Serbia on May 14, 1941. The Soviet Union declared war against Bulgaria on September 5, 1944, and Soviet troops invaded Bulgaria on September 8, 1944. Bulgaria and the Soviet Union agreed to a cessation of military hostilities on September 9, 1944. Bulgaria declared war against Germany on September 7, 1944, and Bulgarian troops attacked German troops in Yugoslavia. Bulgarian troops and Soviet troops captured Belgrade from German troops on October 20, 1944. Bulgaria signed a peace treaty with the Allied countries, including Yugoslavia, on February 10, 1947. Bulgarian and Yugoslav representatives signed a treaty of friendship and mutual assistance on November 27, 1947. Soviet troops completed the withdrawal of troops from Bulgaria on December 15, 1947. Bulgaria revoked its treaty of friendship and mutual assistance with Yugoslavia on October 1, 1949. Bulgaria resumed diplomatic relations with Yugoslavia on September 11, 1953.
+
+SOURCES-CM: 
+Clodfelter, 1992, 613-614, 762-763, 811-812, 835-836; Dedijer et al. 1974; Ference, 1994, 61-102; *Keesing*, November 21-28, 1953; Langer, 1972, 1021-1023, 1025-1026, 1207-1209, 1211-1213; *Survey of International Affairs *(SIA), 1937 (vol. 1), 610.
+
+NARRATIVE-CR:
+The Second Balkan War (MID1251) began between Yugoslavia, Greece and Romania against Bulgaria (backed by Turkey) over the division of the lands won in the First Balkan War. Bulgaria attacked Serbian forces in June of 1913 (www.onwar.com 2003). Bulgaria was quickly defeated and a peace treaty was signed in August of 1913. Serbia gained the Kosovo region and gained several other territories in Macedonia (www.onwar.com 2003). 
+
+The second two disputes between the two states was over Bulgarian entry into the First World War (MID397 and MID257) on the side of Germany. Yugoslavia fought on the side of the Allied forces. Serbian forces actively engaged Austrian and Bulgarian/Turkish forces, occupying and holding territories in both countries. Yugoslavia gained land from Bulgaria and Turkey following the defeat of the Central Powers (Gerolymatos 2002). 
+
+Hostilities resumed between the two states in June of 1923 (MID1240) with the assassination of the Yugoslavian majority party leader by a Bulgarian sponsored nationalists (Facts On File). Six years later Yugoslavia accused Bulgaria of threatening and violating the Bulgaria-Yugoslavia border (MID3188). Yugoslavia responded by increasing the amount of border guards (NYTIMES June 29th, 1929). 
+
+In 1940 tensions over territories annexed by Bulgaria from Romania led to a dispute (MID3813) between Yugoslavia, Greece and Bulgaria. The Dobruja was returned to Romania after Yugoslavia and Greece acquired it from Bulgaria following the Russian advances against the Axis ally in March of 1941.
+
+The next few disputes are related to the Cold War. A new issue arose in August of 1949 with the rise of the communist party in Yugoslavia and the expulsion of Yugoslavia from the Cominform countries (Stavrianos 2000). Yugoslavia had a disagreement with the Cominform countries regarding the return of German property from WWII. A first agreement was signed in 1951 (MID1286), ending the first disagreement over reparations. A second dispute came about between Bulgaria and Yugoslavia in 1953 with the drafting of a new communist constitution and the appointment of Tito in Yugoslavia (MID1703). There is no information on MID2059 in the London or New York Times (a second search through I searched through LexisNexis, New York Times, the Economist and the Financial Times conducted in 200903 also turned up nothing).
+
+The final dispute (MID4186) between the two states is related to the Yugoslavian elections in 2000. Socialist Party head, Slobodan Milosevic (the man responsible for many human rights violations in the previous war) called for early elections in an attempt to win reelection. After being defeated Milosevic claimed the election invalid. Finally, in November he admitted defeat (www.cnn.com 2003). 
+
+SOURCES-CR: 
+Facts On File; Gerolymatos 2002; Stavrianos 2000; www.cnn.com; www.onwar.com
+
+PS-NARRATIVE: 
+
+19530911-19930407-0.25 
+
+A new issue arose in August of 1949 with the rise of the communist party in Yugoslavia and the expulsion of Yugoslavia from the Cominform countries (Stavrianos 2000). Yugoslavia had a disagreement with the Cominform countries regarding the return of German property from WWII. A first agreement was signed in 1951 (MID1286), ending the first disagreement over reparations. A second dispute came about between Bulgaria and Yugoslavia in 1953 with the drafting of a new communist constitution and the appointment of Tito in Yugoslavia (MID1703). The last MID of RIV987, MID1703 ended on October 26, 1952.
+
+On September 28th, 1953, Yugoslavia charged Bulgaria that it is seeking an aggressive policy against its neighbors. The same day the negotiations over the Yugoslav-Bulgarian border dispute also broke down. There were reports of attacks by Bulgarian intelligence service people
+
+In October 1958, Bulgaria accused Yugoslavia of `fascism' and had strong words against Tito's regime. Yugoslavia's reply was that Bulgaria still wanted Macedonia as an integral part of its territory and that its comments are endangering regional international cooperation. 
+
+The official line in Sofia, in 1962 was that they favor an improvement in the relations with Belgrade. This change came in the aftermath of the 1961 visit by Khruschev to Sofia, where he urged an improvement in the relations with Tito's regime. 
+
+On September 22, 1968, the increasing tension between Bulgaria and Yugoslavia rooted in an old quarrel over Macedonia, has become evident following the rejection by a leading Yugoslav leader of what he termed Bulgarian chauvinism. This was in connection to Bulgaria's desire to regain Macedonia, which was part of Yugoslavia back then. 
+
+On February 28, 1969, Yugoslavia links Bulgarian campaign to establish claims to Macedonia to USSR doctrine of limited sovereignty and right of Communist nations to intervene in affairs of other nations if they believe Communism is endangered, which USSR put forth after invasion of Czechoslovakia. 
+
+On August 3, 1969, President Tito pleads for cooperation among Balkan nations, but warns Bulgaria that attack on Macedonia is 'attack on Yugoslavia. 
+
+On December 26, 1969, Bulgaria offered to declare it has no territorial claims on Yugoslavia in exchange for recognition by Yugoslavia that Macedonians are of Bulgarian origin repeatedly rejected at recent Bulgarian-Yugoslav talks; Yugoslav Minister Tepavac repeats relations with Bulgaria remained strained despite fence-mending visit by Bulgarian's Bashev to Parliament.
+
+MID2059 between the two countries occurred on July 4th, 1971. 
+
+In a speech on April 30, 1979, Todor Zhivkov stated that Bulgaria's invariable striving has been and is to build up our relations with Yugoslavia as with a neighboring socialist State, in the interests of our fraternal peoples of peace and socialism in the Balkans. I think that it would be neither correct nor would correspond to the truth if only the negative moments in the development of Bulgaro-Yugoslav relations are indicated and emphasized. Relations between the two countries in the last few years have made a definite development, particularly in the economic sphere. Contacts are being maintained between our Party and the League of Communists of Yugoslavia, between socio-political organizations, ministries, economic organizations and various institutes. A differentiated system of bilateral bodies has been built up where questions of co-operation in various spheres are being discussed. Every year thousands of citizens of the two countries meet at mass frontier rallies, the number of tourists in both directions is growing. The frontier between the People's Republic of Bulgaria and the Socialist Federal Republic of Yugoslavia is a border of peace. Our trade doubles once every five years. In 1978 it came up to 192,000,000 dollars. Its structure is improving. Certain steps have been made towards industrial co-operation and specialization. Definite headway has been made also in the sphere of cultural exchange. It should be declared clearly, however, that the state of Bulgaro-Yugoslav relations does not correspond either to the bilateral objective needs and real possibilities, to the deepest and most fundamental interests of our two neighbouring countries and peoples, or to the idea of the People's Republic of Bulgaria about Bulgaro-Yugoslav socialist good-neighbourliness. What is more, truth demands it to say that recently attempts of certain circles in Yugoslavia to exacerbate our relations and to push them down the slippery road of confrontation and tension have been observed. I should like once again to declare clear and loud or rather to repeat which I stated in Blagoevgrad last year-the People's Republic of Bulgaria is not interested in the exacerbation of relations with the Socialist Federal Republic of Yugoslavia; she is full of desire, will and constructiveness to combat all-round and active political, economic and cultural co-operation with our Western neighbor on an equitable and mutually advantageous basis.
+
+Trade between Yugoslavia's Macedonia Republic and Bulgaria increased by 53 per cent in 1978 as compared with the previous year. This was disclosed by a secretary of the economic council of the Macedonian Republic on June 12, 1979. There are disputes over the Macedonian national issue between Yugoslavia and Bulgaria but the trade and economic relations between the Macedonian Republic and Bulgaria have grown in recent years. The volume of trade between the Macedonian Republic and Bulgaria in 1978 constituted about 20 per cent of the trade between Yugoslavia and Bulgaria. The Macedonian Republic's export to Bulgaria last year doubled that of 1977 and its import from Bulgaria went up by 40 per cent. Cooperation is being maintained between the Macedonian Republic and Bulgaria in the metallurgical, chemical, metal-processing, electronic and textile industries, transportation and tourism. the two sides signed a long-term agreement on the exchange of chemical products from 1979 to 1985. To promote trade with Bulgaria, the Macedonian Republic will hold an economic fair in Sofia from June 14 to 20, 1979.
+
+Addressing a meeting at the Simpo furnishing industry in Vranje on 5th July, 1979, to mark Veterans' Day and Serbian Uprising Day, Dusan Ckrebic, President of the Serbian Assembly, said that Yugoslavia was particularly concerned to maintain good relations and co-operation with its neighbors. There were, however, certain problems. Yugoslavia could not be content with the state of Yugoslav-Bulgarian relations which did not possess the desired dynamics and tempo of development, as a result of the well-known differences which existed between the two countries. Yugoslavia was ready to develop mutually advantageous co-operation and similar assurances were often heard from the Bulgarian side. The future would provide new stimuli to the development of such co-operation. At the same time Yugoslavia did not forget that essential differences divided the two countries; differences which would have to be overcome gradually in the interests of both countries and their peoples. Yugoslavia had to state openly that the denial of the existence of the Macedonian nation and national minority in Bulgaria, as well as the claims on Macedonian history, significant personalities and culture of the Macedonian people, were unacceptable. This did not mean, however, that there should be no constructive dialogue on these and other questions, or that these differences between neighboring socialist countries should not be narrowed by the development of mutual relations. 
+
+Since Tito's death in May 1980, the relations between Yugoslavia and Bulgaria improved significantly. On November 18, 1980, Josip Vrhovec, Yugoslavia's Foreign Minister arrived in Bulgaria on an official and friendly visit at the invitation of Foreign Minister Petur Mladenov, who welcomed him at Sofia airport. Official talks began later that day between Mladenov and Vrhovec. The two ministers expressed concern at the international situation and declared their support for world peace, detente and disarmament. In previewing the situation in the Balkans, the ministers noted the great importance of the developing relations of good-neighborliness and co-operation between their countries. They expressed concern at the situation in the Near East and called for the solution of the Iran-Iraq dispute by peaceful means. They also called for liquidating the remnants of colonialism, racism and apartheid in South Africa and exchanged opinions on the situation in the Middle East and South-East Asia. Welcoming the Yugoslav Foreign Secretary at a banquet that evening, Mladenov said: ''. . . It gives me pleasure to be able to stress the positive trend in the development of our co-operation in the past few years. Our political contacts have been activated. Our economic and scientific-technical relations are more intensive. Our cultural and tourist exchange too is growing. All this contributes to the consolidation of trust between the Bulgarian and Yugoslav peoples, as well as to understanding in the Balkans. ''The development of Bulgarian-Yugoslav relations is of general interest and corresponds to the century-old aspirations of the two people to live in peace and good-neighborliness. Comrade Todor Zhivkov has stated on several occasions that Bulgaria is interested in having as its neighbor a stable and progressive socialist Yugoslavia.
+
+After a short improvement following the death of President Tito in 1980, relations between Yugoslavia and Bulgaria have in 1981 taken a sharp turn for the worse. The quarrel is far from new but it deserves to be watched closely. Ancient and powerful emotions are stirring on both sides. And because of Bulgaria's membership in the Soviet Bloc and the West's support of Yugoslavia's independent position between the blocs, there is always the risk that one or the other country might call in a powerful champion from the outside. Bulgarian officials accuse the Yugoslavs of responsibility for two border incidents in recent weeks. On Aug. 30, 1981, according to Bulgaria, three peasants out hunting accidentally crossed the border in the region of Pernik west of Sofia and were shot at by Yugoslav soldiers who in turn claimed that it was they who were attacked. One Bulgarian was killed. In September, 1981, the Bulgarians also allege, a twin-engine Yugoslav plane crossed into Bulgaria, landed, and then flew off again. Other similar incidents have happened before, Bulgarian officials say. Bulgaria also accuses Yugoslavia of having broken off well-established contacts between the Yugoslav Republic of Macedonia and the inhabitants of the border area of Bulgaria known as Pirin Macedonia. There are usually four such meetings in the year in which the inhabitants of a Bulgarian or Yugoslav Macedonian town exchange visits. But only one "gathering," as they are called, took place this year. The Yugoslavs, Bulgaria says, called off the other three. These "gatherings" are at the heart of the quarrel between the two countries because they are an aspect of the "Macedonian problem" which is the single chief source of their mutual bitterness. Macedonia, one of federal Yugoslavia's six component republics, covers territory ruled at its height by the medieval Bulgarian empire. This empire also included parts of Turkey and Greece. Modern Macedonia was briefly included in Yugoslavia after the 1878 Treaty of San Stefano which recreated Bulgaria after 500 years of domination by Turkey. But the terms of the treaty were quickly altered by the great powers and Bulgaria lost Macedonia.
+
+Today's problem lies in Bulgaria's insistence that while it recognizes the borders of Yugoslavia it does not recognize a Macedonian nationality: Macedonians, for Sofia, are Bulgarians pure and simple. The Yugoslavs also say they accept present borders, but that Macedonians are a true nation, and that many of the inhabitants of Pirin Macedonia in Bulgaria are therefore Macedonian, not Bulgarian.
+
+Both sides have developed a battery of historical, ethnographic and linguistic arguments to support their case. But the more Bulgaria presses its case the more enraged the Yugoslavs become and vice versa. Neither side can hope to win over the other. All that results is a dangerously growing mass of suspicion and self-righteousness.
+
+Why has the old quarrel become so sharp now? Bulgarian officials say it is because, after the Albanian nationalist troubles in the Yugoslav province of Kosovo earlier this year, Yugoslavia became nervously aware of its fragility as a multi-national federal state.
+
+Bulgarian officials call Yugoslavia a "complex country that must be ruled by politics and terror." They say Yugoslavia needs an "anti-Bulgarian policy," that Bulgaria appeared even more threatening after the Kosovo events because there is a discontented Albanian minority in Macedonia which, according to Bulgaria, is really inhabited by Bulgarians.
+
+They also claim, though details are provided, that there have been some "Bulgarian" disturbances in Macedonia after Kosovo blew up and that they were "put down very heavily." All this is calculated to infuriate the Yugoslavs. What is the Bulgarian motive? Yugoslavs have said for some time, more or less openly, that they believe Moscow stands behind Bulgaria. "Little Bulgaria," they say, would not dare embark on an active Macedonian policy without Moscow's approval and encouragement. Assessing the relations with Yugoslavia's neighbors in October 1982, Dr Grlickov said that we have good political, economic and other relations with all our neighbors, except Bulgaria and Albania. Readiness has been expressed by both sides [Yugoslavia and Bulgaria] to solve specific problems in the interests of both, while respecting the UN principles on relations between states, including non-interference in the internal affairs of other countries and the peaceful resolution of disputes. Bulgaria does not recognize the minority rights of Macedonians in Bulgaria and by not recognizing the Macedonian nation it limits in objective terms the development of better mutual relations. There are very many signs of the need for caution and distrust. First of all, there is an enormous amount of literature which exaggerates the size of Bulgaria, according to the San Stefano Treaty; this feeds ideas about a Greater Bulgaria. Then there is communication with Mestrovic, a member of the Ustasha leadership abroad, and all this promotes self-control (Serbo-Croat: autokontrola) in the development of mutual relations. If they want to give broader political scope for the development of our mutual relations-and this is what we want-then we cannot be asked to place the problem of the Macedonian minority on ice. 
+
+Grisha Filipov arrived in Belgrade on 11th November, 1985, for a three-day official visit. He was met at the airport by Premier Milka Planinc Official talks between the two premiers started the same afternoon. After the talks deputy premiers Borisav Srebric of Yugoslavia and Andrey Lukanov of Bulgaria signed a protocol on the completion of consultations between the planning authorities of the two countries which will serve as the basis for developing the next five-year agreement on economic co-operation. The value of trade exchange is expected to amount to 2.5 billion dinnars in 1986-90.
+
+The Foreign Ministers of Yugoslavia and Bulgaria met on November 16, 1987, to seek a solution to their ethnic disputes, saying expanded ties serve the interests of the two countries and cooperation among Balkan nations. Bulgarian Foreign Minister Peter Mladenov, who arrived for an official visit, met with his Yugoslav counterpart, Raif Dizdarevic, on lingering ethnic differences. The two foreign ministers also are expected to discuss preparations for a proposed meeting of Balkan foreign ministers scheduled for early next year in Belgrade. The two foreign ministers agreed that they should not ignore outstanding historical issues. Yugoslavia and Bulgaria differ on the issue of Macedonian nationality. Bulgaria insists on denying recognition to a Macedonian nationality. Yugoslavia regards Macedonians as a nationality and has formed the Macedonian republic, which borders Bulgaria.
+
+On 6th May, 1989, in Bregovo (north-western Bulgaria), Petur Mladenov, Foreign Affairs Minister of Bulgaria, and Budimir Loncar, Federal Secretary for Foreign Affairs of Yugoslavia, opened the new border control checkpoint Bregovo-Negotin. After the opening ceremony Minister Mladenov said that over the past years relations between Bulgaria and Yugoslavia are developing in the right direction. ''Constant work should be done and special attention should be rendered for friendship and good-neighbourliness. . . Budimir Loncar pointed out that Yugoslavia and Bulgaria have well-developed neighbourly and friendly relations. Further on there was a working meeting between the two countries' Foreign Affairs Ministers. They exchanged opinions related to the individual aspects of Bulgarian-Yugoslav relations. All issues were considered which have essential importance for the future development of mutually advantageous co-operation between Bulgaria and Yugoslavia.
+
+''The visit of the Yugoslav Federal Secretary for Foreign Affairs Budimir Loncar to Bulgaria is an expression of our conviction that truly good neighborly relations should be established in all spheres on the basis of patience and mutual tolerance.'' This is the assessment given by the Yugoslav Foreign Affairs Secretariat to the recent visit of the Head of Yugoslavia's diplomacy to Sofia, expressed at a press conference of the Secretariat on April 30th, 1991.
+
+President Zhelu Zhelev condemned the Yugoslav military on July 4, 1991, for using force in resolving political issues and expressed hope the civilian leadership of the neighboring country could restore control over the generals. In a nationwide television address, Zhelev criticized the ''attempts to impose political solutions through the use of tanks.'' ''I just had a telephone conversation with (Yugoslav) President Stipe Mesic and expressed to him our firm support for his effort to put the army under full political control and return it to the barracks,'' Zhelev said. He declared that Bulgaria is in favor of democratic processes in Yugoslavia and will not interfere in its internal affairs, taking advantage of the present situation in the neighboring country. ''Bulgaria recognizes the right to self-determination of the Yugoslav peoples, including the right to establish their independent states, with the only condition that these changes take place through political dialogue and political compromise,'' he said. Zhelev said five Bulgarians had been killed in crossfire in Slovenia, placing the ''entire responsibility on the Yugoslav government''
+
+Macedonia became independent on September 8, 1991. It was officially recognized on April 8, 1993. The main issue of contention between Yugoslavia and Bulgaria disappeared with Macedonia's independence, however given Bulgaria's Western aspirations, it adopted a strong anti-Yugoslav position during the Balkan wars and the Kosovo conflict. 
+
+19930408-20001128 Transition
+
+''The Government of the Republic of Bulgaria is following with deep concern the escalation of the senseless violent conflict in neighboring Yugoslavia'', reads a Bulgarian Government declaration on October 10, 1991. ''The government deems it categorically unacceptable that military force should be used in the settlement of disputes and that the inter-republican borders should be revised. There is cause for serious concern in the joint actions of the volunteer formations, armed by the Republic of Serbia, and the Yugoslav People's Army on the territory of the Republic of Croatia, as well as in the deliberate attempts to draw Bosnia-Herzegovina and Macedonia into the conflict, citing in justification the all-out civil war and the imminent military threat.' ''The Republic of Bulgaria reaffirms its position of non-intervention in the internal affairs of Yugoslavia and does not intend to take unfair advantage of the grave situation in that country. At the same time, the government categorically rejects all insinuations about a military threat and territorial designs on the part of the republic of Bulgaria,'' the declaration says.
+
+Serbian and Bulgarian leaders said on February 25, 1992, that the two sides need frank and direct dialogue in forging good-neighborly and cooperative relations between them. During his meeting with Bulgarian Foreign Minister Stojan Ganev, Serbian Prime Minister Radoman Bozovid said that Yugoslavia and Serbia firmly oppose Bulgaria's claims to their territories. Yugoslavia and Serbia are dissatisfied with the Bulgarian government's recognition of the independence of some secessionist Yugoslav republics, Bozovic said, because it violates international norms and the UN peace efforts for resolving Yugoslavia's crisis. The Bulgarian Foreign Minister said his country absolutely has no ambitions for Serbian and other Yugoslav territories. He said the independence recognition only shows Bulgaria's willingness to respect Yugoslavs' rights to determine their future, which will help foster dialogue and cooperation among the Balkan peoples.
+
+Bulgaria has lifted sanctions against rump Yugoslavia, the government's press office confirmed on November 26, 1995. The lifting of sanctions will take effect in a few days, after an announcement has appeared in the official government register, according to a statement issued in Sofia. Bulgaria had imposed sanctions, including a trade embargo, on rump Yugoslavia in 1992 and renewed them in 1993 and 1994. After the sanctions are lifted, Bulgarian firms will be able to trade freely with rump Yugoslavia. The Bulgarian government plans to open a trade office in rump Yugoslavia. Deputy Prime Minister Kiril Tsochev, who is also trade minister, will travel to Belgrade on December 11, 1995, to sign a bilateral trade agreement.
+
+On 13th October, 2000, according to Prime Minister Ivan Kostov, the relations between Bulgaria and Yugoslavia are not cool, Prime Minister Ivan Kostov said. "There is no ice freezing the relations between Bulgaria and Yugoslavia and if any country in Southeastern Europe is good-willed towards Yugoslavia, it is Bulgaria," Kostov underlined in an interview given to the Panorama political talk show of national television. Setting forth his arguments, Kostov said that Bulgaria was the last one to join the UN Security Council embargo on Yugoslavia it was the last to abandon the bilateral negotiations on a legal framework of relations and stood up categorically for the territorial integrity of its western neighbor. The prime minister recalled that Bulgaria did not join the European Union resolution on the imposition of a petrol embargo, which cost the country a lot of tension and tarnished the reputation it enjoyed with a number of friendly countries. "All the time Bulgaria supported the Yugoslav opposition firmly, categorically and unambiguously and organized Yugoslavia's neighbors to make a stand against Milosevic," Kostov said. He expressed the hope that what until recently was Yugoslavia's opposition will now appreciate Bulgaria's position and described the victory of the opposition forces in Yugoslavia as "our common victory".
+
+MID4343 ended on November 28, 2000. Bulgaria only joined MID4343, 4 days before its end, on November 24, 2000. 
+
+20001129-20159999 .5
+
+With the change of regime in Belgrade in November 2000, the relations between the two countries improved. A draft readmission agreement between Bulgaria and Yugoslavia was handed to the Charge d'Affaires of Yugoslavia in Bulgaria Danko Prokic, the office of the Foreign Ministry's spokesman said on 19 December , 2000. Director of the Consular Relations Directorate in the Foreign Ministry Krasimir Stefanov told the Yugoslav diplomat that Bulgaria wants to sign a readmission accord with Yugoslavia as soon as possible. "This will be in the interest of both countries and will provide important basis to regulate visa-free travels between the two," the press release says. "Bulgaria's relations with Yugoslavia are of priority importance," Stefanov told Prokic.
+
+"Now is the time to create the best part of our common history," Yugoslav Foreign Minister Goran Svilanovic said at a meeting with Bulgarian Prime Minister Ivan Kostov on January 25, 2001. Svilanovic is in Sofia on a one-day official visit at the invitation of Foreign Minister Nadezhda Mikhaylova. Speaking to journalists, Svilanovic said he had talked with Kostov about the two countries' efforts to broaden economic cooperation, improve border control and work jointly on projects important to both of them, such as the clean-up of the Danube and the Sofia-Nis highway.
+
+Bulgaria's road to Europe passes through Yugoslavia. Yugoslavia's stability is the key to regional stability and we will support the stabilization of our western neighbor," Bulgarian Foreign Minister Solomon Pasi said after meeting with his Yugoslav counterpart Goran Svilanovic. Pasi arrived on an official visit in Belgrade on 26 November, 2001, his first since he became foreign minister in July 2001.
+
+The implementation of joint infrastructure projects between Bulgaria and Yugoslavia was on the agenda of 25 July, 2002, meeting between the two countries' foreign ministers, Solomon Pasi and Goran Svilanovic respectively.
+
+The presidents of Serbia-Montenegro and Bulgaria on November 11, 2004 pledged to work together to find European investment for a long-delayed project to construct a highway linking the two countries. "We will send a joint letter to our European partners to convince them of the importance of the project, not only for our countries but for the region as a whole," Bulgaria's President Georgi Parvanov said after the talks. "If we want economic cooperation, we need infrastructure ... so we will do our best to rally support for the project from European institutions," Svetozar Marovic, the President of Serbia-Montenegro said.
+
+Bulgaria and Serbia will speed up joint projects to link regional infrastructure with the European transport network, the presidents of the two Balkan neighbors pledged on April 7th, 2005. The main projects include the construction of a highway between Bulgaria's capital, Sofia, and the southern Serbian city of Nis, as well as the expansion of Bulgaria's gas piping network toward southern Serbia, Bulgarian President Georgi Parvanov told reporters after talks with Serbian counterpart Boris Tadic. Tadic said that Belgrade plans to start work on the Serbian section of the Sofia-Nis highway by early 2006. In March, Bulgaria's government signed a concession agreement with a Portuguese-led consortium to construct, among other things, the Bulgarian section of the highway by 2009. The 96-kilometers (60-mile) long road between Sofia and Nis is part of a major European transport corridor linking Salzburg in Austria with Thessaloniki in Greece and with Istanbul in Turkey.
+
+The foreign ministries of Bulgaria and of Serbia and Montenegro held their first political consultations on Euro-Atlantic integration at the level of directors in Sofia on 30-31 May, 2005. The participants exchanged information and views on matters relating to Serbia and Montenegro's future involvement in Partnership for Peace and the defense and security reforms linked with this.
+
+The relations between Serbia-Montenegro and Bulgaria are "the best in recent history," the foreign ministers of the two Balkan neighbors agreed on June 21, 2005. Vuk Draskovic of Serbia-Montenegro and Solomon Pasi of Bulgaria met in the border town of Dimitrovgrad, about 280 kilometers (168 miles) southeast of Belgrade, to discuss bilateral ties and European Union integration. Pasi pledged Bulgaria's support for Serbia-Montenegro's bid to one day join the EU. The agency quoted Draskovic as saying that Belgrade should learn from Sofia's experience in the EU integration process. Belgrade is still far from joining the EU but Sofia is expected to become member in 2007.
+
+Serbia and Bulgaria held a joint military exercise on July 12, 2006, as part of efforts to boost cooperation between the Balkan neighbors. The "Partnership 2006" exercise was carried out at a military training facility near the southern Serbian city of Nis, about 200 kilometers (120 miles) southeast of Belgrade, local media said. The Beta news agency said that the two countries' soldiers focused on actions taken in international humanitarian operations and peace missions. Those included simulating border control, car bomb attacks and helping a military convoy pass through hostile environment, the agency said.
+
+PS-SOURCES: new York Times September 29, 1953; October 5, 1958; October 10, 1962; September 23, 1968; February 28, 1969; August 3, 1969; December 26, 1969; Globe and Mail October 13, 1981; BBC February 27, 1979; April 30, 1979; July 10, 1979; August 14, 1979; April 11, 1980; November 20, 1980; October 13, 1982; November 16, 1985; February 12, 1987; May 9, 1989; April 30, 1991; July 3, 1991; October 10, 1991; October 16, 2000; December 19, 2000; January 25, 2001; November 26, 2001; July 25, 2002; May 31, 2005; Xinhua June 13, 1979; November 16, 1987; February 25, 1992; United Press International July 4, 1991; Deutsche Presse-Agentur November 26, 1995; Associated Press November 11, 2004; April 7, 2005; June 21, 2005; July 12, 2006
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

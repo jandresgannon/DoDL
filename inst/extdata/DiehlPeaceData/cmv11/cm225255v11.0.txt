@@ -1,0 +1,65 @@
+FILE: cm225255v11.0.txt
+DYAD: SWITZERLAND - GERMANY/PRUSSIA
+RIVALRY: RIV601
+DISPUTE(S): MID149 
+RIVALRY: RIV602
+DISPUTE(S): MID3342 
+RIVALRY: RIV10603 ISOLATED
+DISPUTE(S): MID1686 MID1783 MID1788 
+
+PS-LAST-CHANGED: 20180213
+PS-LAST-CHECKED: 20180213
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID149
+
+WWII MIDs: MID1686 MID1783 MID1788
+
+MID3342 
+
+TERRMID: MID3342 3 -- not territory 
+TERRMID-CER: MID3342 3 -- uncertain 
+TERRMID-NOTES: MID3342 from Gibler, Miller, and Little (2016), Switzlerland mobilized the civilian guard near the start of WWI. GML recommend this case be dropped because the mobilization was not directed at any country, so coded uncertain. 
+
+TERRLINK: MID3342 3 -- not third party link to territory 
+TERRLINK-CER: MID3342 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3342 3 -- not maritime 
+MARITMID-CER: MID3342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3342 3 -- not islands 
+ISLMID-CER: MID3342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3342 3 -- not civil war 
+CIVWARMID-CER: MID3342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3342 3 -- not civil war link 
+CIVWARLINK-CER: MID3342 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3342 3 -- not coup 
+COUPMID-CER: MID3342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3342 3 -- not coup link
+COUPLINK-CER: MID3342 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10603 is coded isolated since all the disputes are related to World War~II.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+

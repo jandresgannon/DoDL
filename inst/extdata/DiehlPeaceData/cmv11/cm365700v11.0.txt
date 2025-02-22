@@ -1,0 +1,493 @@
+FILE: cm365700v11.0.txt
+DYAD: RUSSIA/USSR-AFGHANISTAN
+RIVALRY: RIV1007
+DISPUTE(S): MID1779 MID1781
+RIVALRY: RIV1008
+DISPUTE(S): MID3191
+RIVALRY: RIV1009
+DISPUTE(S): MID2053 MID2054 MID4054 MID4055 MID4176 MID4228 MID4201 MID4283
+
+PS: 19190808-19220330 .5 19220401-19260814 0.25 19260815-19930302 0.5 19930303-20011112 0.00 20011113-20209999 .5
+
+PS-UPDATE2020:
+
+PS-NOTES: thompson rivalry cm404433 ,19890000 ,19930000 
+
+PS-LAST-CHANGED: 20220305
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3191 
+
+MID1779 
+
+TERRMID: MID1779 1 -- territorial MID
+TERRMID-CER: MID1779 1 -- certain 
+TERRMID-NOTES: MID1779 from Gibler 2018, after WWI, UK and USSR were competing for influence and territory in Central Asia, and Afghanistan was trying to form a confederation of Islamic states, bringing them into a territorial dispute with USSR. Here, Afghanistan claimed the areas of Bukhara and Khiva and sought to throw the Soviets out. Afghanistan built up troops near the territories, and USSR offered a combination of financial assistance and threats toward Afghanistan. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1779 3 -- not third party link to territory 
+TERRLINK-CER: MID1779 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1779 3 -- not maritime 
+MARITMID-CER: MID1779 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1779 3 -- not islands 
+ISLMID-CER: MID1779 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1779 3 -- not civil war 
+CIVWARMID-CER: MID1779 1 -- certain 
+CIVWARMID-NOTES: MID1779 there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this was connected to militarized rebel activity. From OnWar.com, Afghanistan later experienced a civil war in 1928-1929, but there seems to be no rebel activity at the time of this MID. 
+
+CIVWARLINK: MID1779 3 -- not civil war link 
+CIVWARLINK-CER: MID1779 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1779 3 -- not coup 
+COUPMID-CER: MID1779 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1779 3 -- not coup link
+COUPLINK-CER: MID1779 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1781 
+
+TERRMID: MID1781 1 -- territorial MID
+TERRMID-CER: MID1781 1 -- certain 
+TERRMID-NOTES: MID1781 per Gibler 2018, the Amu Darya river was an inland river boundary, making this a territorial MID. See ISLMID-NOTES. 
+
+TERRLINK: MID1781 3 -- not third party link to territory 
+TERRLINK-CER: MID1781 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1781 3 -- not maritime 
+MARITMID-CER: MID1781 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1781 1 -- islands MID
+ISLMID-CER: MID1781 1 -- certain 
+ISLMID-NOTES: MID1781 from Gibler 2018, the island of Urta Tagail, located in the river that formed the border between Afghanistan and USSR, was disputed by USSR and Afghanistan. In 1925, Afghanistan occupied the island, and later the USSR did the same. Coded islands MID because this was connected to a dispute over the sovereignty of Urta Tagail island. 
+
+CIVWARMID: MID1781 1 -- civil war MID
+CIVWARMID-CER: MID1781 1 -- certain 
+CIVWARMID-NOTES: MID1781 from Gibler 2018, Russia was dealing with rebels attacking them after the Russian Revolution. Some of these rebels occupied the disputed island after they fled USSR and launched attacks from there until the Soviets took the island. 
+
+CIVWARLINK: MID1781 3 -- not civil war link 
+CIVWARLINK-CER: MID1781 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1781 3 -- not coup 
+COUPMID-CER: MID1781 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1781 3 -- not coup link
+COUPLINK-CER: MID1781 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2053 
+
+TERRMID: MID2053 3 -- not territory
+TERRMID-CER: MID2053 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2053 3 -- not third party link to territory 
+TERRLINK-CER: MID2053 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2053 3 -- not maritime 
+MARITMID-CER: MID2053 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2053 3 -- not islands 
+ISLMID-CER: MID2053 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2053 1 -- civil war MID
+CIVWARMID-CER: MID2053 3 -- uncertain 
+CIVWARMID-NOTES: MID2053 from Gibler 2018, Afghanistan was a Soviet Union ally at that time and had a Soviet-installed government. Several rebel groups were fighting against the government at the time and here, USSR sent troops and advisors to Afghanistan to quell the insurgency. Coded civil war MID because this was connected to civil war activity in Afghanistan. Coded uncertain because per Gibler 2018, Afghanistan and USSR are on the same side in this MID. 
+
+CIVWARLINK: MID2053 3 -- not civil war link 
+CIVWARLINK-CER: MID2053 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2053 3 -- not coup 
+COUPMID-CER: MID2053 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2053 3 -- not coup link
+COUPLINK-CER: MID2053 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2054 
+
+TERRMID: MID2054 3 -- not territory 
+TERRMID-CER: MID2054 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2054 3 -- not third party link to territory 
+TERRLINK-CER: MID2054 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2054 3 -- not maritime 
+MARITMID-CER: MID2054 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2054 3 -- not islands 
+ISLMID-CER: MID2054 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2054 1 -- civil war MID
+CIVWARMID-CER: MID2054 3 -- uncertain 
+CIVWARMID-NOTES: MID2054 from Gibler 2018, USSR was occupying Afghanistan at this time and Afghanistan's government was USSR-installed/backed. Afghanistan was still fighting against rebels in the country, who were trying to overthrow the Soviet-backed Afghan regime. The Soviets and Pakistan were on opposite sides of this MID due to attacks against rebels spilling over into Pakistan, and Pakistan and USSR building up troops along the border. Coded civil war MID because this was connected to civil war activity in Afghanistan, but coded uncertain because Afghanistan and USSR are on same side in this MID. 
+
+CIVWARLINK: MID2054 1 -- civil war link 
+CIVWARLINK-CER: MID2054 3 -- uncertain 
+CIVWARLINK-NOTES: MID2054 coded civil war link because this MID involved Afghanistan targeting rebels by attacking border villages in Pakistan, so there was violence occurring inside Pakistan, outside this dyad. Coded uncertain because Afghanistan and USSR are on the same side in this MID. 
+
+COUPMID: MID2054 3 -- not coup 
+COUPMID-CER: MID2054 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2054 3 -- not coup link
+COUPLINK-CER: MID2054 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4054 
+
+TERRMID: MID4054 3 -- not territory 
+TERRMID-CER: MID4054 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4054 1 -- third party link to territorial MID
+TERRLINK-CER: MID4054 1 -- certain 
+TERRLINK-NOTES: MID4054 from Gibler 2018, the Afghanistan-Tajikistan border was not delimited and led to a border dispute here. Russia, Uzbekistan, Kyrgyzstan, Turkmenistan, and Kazakhstan back Tajikistan's claim in this dispute. Border clashes between Afghanistan and the other parties ensued. Coded third party link to territorial MID because this was connected to a territorial dispute between Afghanistan and Tajikistan. 
+
+MARITMID: MID4054 3 -- not maritime 
+MARITMID-CER: MID4054 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4054 3 -- not islands 
+ISLMID-CER: MID4054 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4054 1 -- civil war MID
+CIVWARMID-CER: MID4054 1 -- certain 
+CIVWARMID-NOTES: MID4054 from cm narrative, this MID involves USSR launching attacks on rebels inside Afghanistan who were using Afghanistan's territory for bases to fight against Tajikistan. Violence against rebels therefore occurs in Afghanistan, within this dyad. 
+
+CIVWARLINK: MID4054 1 -- civil war link 
+CIVWARLINK-CER: MID4054 1 -- certain 
+CIVWARLINK-NOTES: MID4054 from Gibler 2018, this was connected to civil war activity in Tajikistan. Tajik rebels attacked Russian border posts, enflaming the tensions and leading to more border clashes. 
+
+COUPMID: MID4054 3 -- not coup 
+COUPMID-CER: MID4054 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4054 3 -- not coup link
+COUPLINK-CER: MID4054 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4055 
+
+TERRMID: MID4055 3 -- not territory 
+TERRMID-CER: MID4055 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4055 3 -- not third party link to territory 
+TERRLINK-CER: MID4055 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4055 3 -- not maritime 
+MARITMID-CER: MID4055 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4055 3 -- not islands 
+ISLMID-CER: MID4055 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4055 1 -- civil war MID
+CIVWARMID-CER: MID4055 1 -- certain 
+CIVWARMID-NOTES: MID4055 from Gibler 2018, Russia was fighting against Tajik rebels based in Afghanistan and attacked them on Afghan territory, triggering this MID. Coded civil war MID because this was connected to militarized rebels in Afghanistan. 
+
+CIVWARLINK: MID4055 1 -- civil war link 
+CIVWARLINK-CER: MID4055 1 -- certain 
+CIVWARLINK-NOTES: MID4055 from Gibler 2018, this MID involved USSR launching attacks against rebels on Tajikistan territory, outside this dyad. 
+
+COUPMID: MID4055 3 -- not coup 
+COUPMID-CER: MID4055 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4055 3 -- not coup link
+COUPLINK-CER: MID4055 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4176 
+
+TERRMID: MID4176 3 -- not territory 
+TERRMID-CER: MID4176 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4176 3 -- not third party link to territory 
+TERRLINK-CER: MID4176 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4176 3 -- not maritime 
+MARITMID-CER: MID4176 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4176 3 -- not islands 
+ISLMID-CER: MID4176 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4176 1 -- civil war MID
+CIVWARMID-CER: MID4176 1 -- certain 
+CIVWARMID-NOTES: MID4176 from Gibler 2016, Afghanistan was fighting against Taliban rebels in its territory. Russia, Tajikistan, Kyrgyzstan, and Uzbekistan put their forces on high alert at the border to prevent conflcit spillover, triggering this MID. Coded civil war MID because this was connected to militarized rebels in Afghanistan. 
+
+CIVWARLINK: MID4176 3 -- not civil war link 
+CIVWARLINK-CER: MID4176 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4176 3 -- not coup 
+COUPMID-CER: MID4176 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4176 3 -- not coup link
+COUPLINK-CER: MID4176 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4228 
+
+TERRMID: MID4228 3 -- not territory 
+TERRMID-CER: MID4228 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4228 3 -- not third party link to territory 
+TERRLINK-CER: MID4228 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4228 3 -- not maritime 
+MARITMID-CER: MID4228 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4228 3 -- not islands 
+ISLMID-CER: MID4228 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4228 1 -- civil war MID
+CIVWARMID-CER: MID4228 1 -- certain 
+CIVWARMID-NOTES: MID4228 from Gibler 2018, this is another incident where civil conflict in Afghanistan was in danger of spilling over the border, so Russia, Tajikistan, and Uzbekistan put their forces on high alert at the border, triggering this MID. Coded civil war link because this was connected to civil war activity in Afghanistan, within this dyad. 
+
+CIVWARLINK: MID4228 3 -- not civil war link 
+CIVWARLINK-CER: MID4228 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4228 3 -- not coup 
+COUPMID-CER: MID4228 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4228 3 -- not coup link
+COUPLINK-CER: MID4228 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4201 
+
+TERRMID: MID4201 3 -- not territory 
+TERRMID-CER: MID4201 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4201 3 -- not third party link to territory 
+TERRLINK-CER: MID4201 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4201 3 -- not maritime 
+MARITMID-CER: MID4201 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4201 3 -- not islands 
+ISLMID-CER: MID4201 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4201 1 -- civil war MID
+CIVWARMID-CER: MID4201 1 -- certain 
+CIVWARMID-NOTES: MID4201 from Gibler 2018, the Taliban had taken control of the government at the time of this MID and was sponsoring Islamist militants to attack countries throughout the region. Here, Russia and Uzbek forces exchanged fire with Afghan forces and fortified their borders. Coded civil war MID because this was connected to militarized rebels in Afghanistan, within this dyad. 
+
+CIVWARLINK: MID4201 1 -- civil war link 
+CIVWARLINK-CER: MID4201 1 -- certain 
+CIVWARLINK-NOTES: MID4201 coded civil war link because this was also conncected to civil war activity in Uzbekistan, outside this dyad. 
+
+COUPMID: MID4201 3 -- not coup 
+COUPMID-CER: MID4201 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4201 3 -- not coup link
+COUPLINK-CER: MID4201 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4283 
+
+TERRMID: MID4283 3 -- not territory 
+TERRMID-CER: MID4283 1 -- certain 
+TERRMID-NOTES: MID4283 involved a violation of Afghanistan's territorial sovereignty, but the invasion was a political leadership/regime change issue, not connected to a territorial dispute. See CIVWARLINK. 
+
+TERRLINK: MID4283 3 -- not third party link to territory 
+TERRLINK-CER: MID4283 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4283 3 -- not maritime 
+MARITMID-CER: MID4283 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4283 3 -- not islands 
+ISLMID-CER: MID4283 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4283 3 -- not civil war 
+CIVWARMID-CER: MID4283 1 -- certain 
+CIVWARMID-NOTES: MID4283 involved rebel group in Afghanistan, but this rebel group was allied to the Afghan government and was not connected to any anti-regime civil conflict in Afghanistan. See CIVWARLINK.
+
+CIVWARLINK: MID4283 1 -- civil war link 
+CIVWARLINK-CER: MID4283 1 -- certain 
+CIVWARLINK-NOTES: MID4283 from cm narrative, this is the US invasion of Afghanistan in response to the 9/11 attacks by a rebel group, al Qaeda, in Afghanistan. The US, UK, and France responded with force to Afghanistan's failure to comply with US demands to turn over bin Laden following 9/11. Later, NATO forces also used force against Afghanistan, including ships from Greece, Germany, Netherlands, Portugal, Spain, and Turkey. Russia is pulled into this MID because they put their forces at high alert on the Tajik border with Afghanistan. Coded civil war link because the sustained campaign by a militarized rebel group in Afghanistan led to the US invasion of Afghanistan, but al Qaeda was not opposing the current Afghan government, and there was therefore no civil conflict in Afghanistan connected to al Qaeda here. Al Qaeda (militarized rebels) attacked the US on US soil, and that violence (outside this dyad) led to this MID. 
+
+COUPMID: MID4283 3 -- not coup 
+COUPMID-CER: MID4283 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4283 3 -- not coup link
+COUPLINK-CER: MID4283 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4054
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4054 19930303-19940221 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=REGIME/GOVERNMENT revtype2b=NOT APPLICABLE fatalb=
+1-25 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+Dispute involves a series of 23 distinct incidents in which Russia and Tajikistan, sometimes supplemented by Turkmenistan, Uzbekistan, Kazakhstan, and Kyrgyzstan, trade threats, shows of force, border fortifications, and attacks with Afghanistan. The dispute primarily revolves around Afghan incursions into Tajikistan and support of militant forces in Tajikistan. In response, Russian, Kazakh, Kyrgyz, Uzbek, Turkmen, and Tajik forces were deployed along the Afghan border and placed on alert. In addition, Russian forces fired artillery and air strikes into Afghanistan as a means of striking militants operating out of Afghanistan. In response, Afghanistan filed protests, threatened retaliation for the strikes, and threatened war if the strikes continued. The most serious event in the dispute occurred when Afghan forces crossed the border into Tajikistan and captured a Russian border post. The fighting that ensued killed a total of 27 people on both sides. First day of dispute was on 3/3/1993 and last day of dispute was on 2/21/1994.
+
+MID4055
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4055 19941231-19950500 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=REGIME/GOVERNMENT revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+This dispute involves a series of Russian strikes into Afghanistan between 12/31/94 and 5/95. In addition, Russia placed its forces on alert during this period and fortified the Tajik-Afghan border with, according to reports, 25,000 troops. These actions were in response to repeated attacks into Tajikistan by Afghan-based militants. The Russian attacks involved airstrikes into Afghan villages near the border with Tajikistan. Additionally, Russian forces also conducted artillery strikes into the border areas of Afghanistan. These attacks were aimed at the militants operating out of Afghan territory. First day of dispute was on 12/31/1994 and last day of dispute was on 5/00/1995.
+
+MID4176
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4176 19970525-19970500 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+This dispute consists of two incidents in which CIS forces were placed on alert along the Afghan border in the wake of Taliban fighting in Northern Afghanistan. In addition, Uzbekistan deployed forces to reinforce its border with Afghanistan. This dispute consists of two incidents in which CIS forces were placed on alert along the Afghan border in the wake of Taliban fighting in Northern Afghanistan. In addition, Uzbekistan deployed forces to reinforce its border with Afghanistan. First day of dispute was on 5/25/1997 and last day of dispute was on 5/00/1997.
+
+MID4228
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4228 19980811-19980800 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=REGIME/GOVERNMENT revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+This dispute consists of three incidents in which Uzbekistan, Tajikistan, and Russia reinforced the border with Afghanistan in the wake of the spread of fighting within and the movement of Taliban forces into Northern Afghanistan. In addition, on 8/11/98 Russian and Tajik forces along the Afghan border were placed on alert. This dispute consists of three incidents in which Uzbekistan, Tajikistan, and Russia reinforced the border with Afghanistan in the wake of the spread of fighting within and the movement of Taliban forces into Northern Afghanistan. In addition, on 8/11/98 Russian and Tajik forces along the Afghan border were placed on alert. First day of dispute was on 8/11/1998 and last day of dispute was on 8/00/1998.
+
+MID4201
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4201 19990924-20010329 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+This dispute consists of 19 militarized incidents between 9/1999 and 3/2001 involving Russia, Uzbekistan, and Afghanistan. This dispute centers around the threat posed to Tajikistan and Uzbekistan by Islamic militants operating out of and being supported by Afghanistan. The dispute involves a series of alerts and border fortifications by Russian forces in Tajikistan as a means of countering threats from Afghanistan. At the same time, Afghanistan also placed its forces on alert and fortified its border. The highest level of conflict in the dispute occurred in June 2000 when a clash occurred between Uzbekistan and Afghanistan. The clash occurred when Uzbekistan launched airstrikes into Afghanistan. Afghan forces returned fire, shooting down and Uzbek plane & killing 2 pilots. First day of dispute was on 9/24/1999 and last day of dispute was on 3/29/2001.
+
+MID4283
+rivalry=365700 nationa=RUSSIA/USSR nationb=AFGHANISTAN MID4283 20010915-20011115 
+ revtype1a=REGIME/GOVERNMENT revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+This dispute consists of a series of 35 militarized incidents that are centered around the response to the September 11, 2001 terrorist strikes against the United States. In response to the terrorist attacks, the United States demanded that Afghanistan turn over Osama bin Laden and expel Al Qaeda members that were operating and training in Afghanistan. 9/15/01 - the United States, Great Britain, and France deployed naval forces to waters near Afghanistan. The United States deployed 2 aircraft carriers, Great Britain deployed 6 warships, and France deployed 2 warships. In response to the American deployment, Afghanistan placed its forces on alert and deployed anti-aircraft weapons around Kandahar. Russia, which had experienced previous disputes with Afghanistan along the Tajik border, placed its forces along the Tajik border on alert and mass weapons and troops along the border in response to the rising tensions in the region. 9/17/01 - American president Bush issued an ultimatum to the Afghan leadership to turn over Osama bin Laden or face American military strikes. The Taliban refused to turn over bin Laden unless a series of unreasonable conditions were met (trial by Muslim judge, recognition for the Taliban, foreign aid for Afghanistan, etc.) 9/22/01 - An American reconnaissance drone is shot down over Afghanistan. During this time, Great Britain began deploying special forces to Afghanistan 9/25/01 - British prime minister Tony Blair issued an ultimatum to the Afghan leaders to face military action if they do not turnover Osama bin Laden and shutdown the terrorist training camps in Afghanistan. 9/30/01 - The United States continued to increase the pressure on the Taliban by continuing to deploy forces to the region. In addition to the naval forces already deployed, the United States also sent ground forces to Uzbekistan and Tajikistan and sent the USS Kitty Hawk carrier group to the region. The Taliban responded to the increasing American pressure by conducting exercises along its border with Pakistan. During this period of time Taliban forces also fired on a Russian border post along the Tajik-Afghan border. Russian forces suffered no casualties in the clash and returned fire at the Taliban forces. No information was given regarding Afghan casualties. Early October, 2001 - The British government issued a series of statements threatening military action against Afghanistan if the Taliban did not turn over Osama bin Laden. 10/6/01 - Afghanistan threatened war against Uzbekistan if the United States launched attacks from Uzbekistan. Afghanistan also began redeploying forces to its border with Uzbekistan. In response, Uzbekistan began deploying its forces along the border with Afghanistan. Reports also indicate that Afghanistan fired at an unmanned American drone conducting reconnaissance. As conditions deteriorated, Tajikistan placed its forces along the border on alert. 10/7/01 - American and British strikes on Afghanistan began. The first strikes involved attacks from cruise missiles, bombers, and missiles and initial targets were confined to airfields, command and control centers, military installations. 10/9/01 - NATO redeploys its naval forces to the eastern Mediterranean in response to the conflict in Afghanistan. Ships from Greece, Germany, the Netherlands, Portugal, Spain, Turkey, Great Britain, and the United States participate in the redeployment. 10/10/01 - Following three days of sustained attacks, bombing targets began to include strikes against troops. Near this time, American and British forces began bombing Taliban forces positioned north of Kabul. These strikes involved the use of heavy cluster bombs and were likely to inflict heavy casualties on Taliban forces. These bombing strikes continued on a daily basis into November 10/16/01 - A Taliban gunman fired at a border picket occupied by Russian troops along the Tajik border. There were no Russian casualties in the attack. 10/17/01 - Reports indicate that Australian troops are now on the ground in Afghanistan conducted ground operations against Taliban and AlQaeda forces. 10/19/01-11/13/01 - US commando units began conducting ground operations within Afghan territory. These ground raids were used to attack Taliban and Al-Qaeda forces, flush them out for airstrikes, and for intelligence purposes. Two American soldiers were killed when their search and rescue helicopter crashed in Pakistan after a mission. These deaths are not counted in the dispute coding because they were accidental and did not result from military action. Allied airstrikes continue throughout this period. 11/13/01 - Russia "took additional security measures" along its border with Afghanistan. Taliban forces withdraw from Kabul and Northern Alliance troops take the capital. Because the Taliban has lost control of the capital, the dispute ends. First day of dispute was on 9/15/2001 and last day of dispute was on 11/15/2001.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Afghan troops and Soviet troops clashed near the border in December 1925. Afghan and Soviet representatives signed the *Pact of Neutrality and Non-Aggression* in 1926. The Soviet Union provided military assistance in support of the government of the *Democratic Republic of Afghanistan* (DRA) on March 26-27, 1979, after the *Mujahuddin *began a rebellion against the government in Herat. President Hafizollah Amin of Afghanistan was overthrown and killed on December 27, 1979, and Babrak Kamal was named president, prime minister, and chairman of the revolutionary council on December 28, 1979. Some 50,000 Soviet troops were deployed in support of the government of President Kamal beginning on December 28, 1979. Iran condemned the Soviet Union on December 28, 1979. Pakistan condemned the Soviet intervention in Afghanistan, and appealed for the withdrawal of Soviet troops from Afghanistan on December 29, 1979. Turkey condemned the Soviet intervention in Afghanistan on December 29, 1979. China condemned the Soviet intervention in Afghanistan on December 29, 1979, and referred the matter to the *United Nations *(UN) Security Council on December 31, 1979. Albania condemned the Soviet intervention in Afghanistan on December 30, 1979. India appealed for the withdrawal of Soviet troops from Afghanistan on December 31, 1979. The United States imposed economic sanctions (grain embargo) against the Soviet Union on January 2, 1980. Cuba expressed support for the Soviet Union on January 4, 1980. The Soviet Union vetoed a UN Security Council resolution on January 7, 1980, which would have condemned the Soviet intervention in Afghanistan. The UN General Assembly met in emergency special session on January 14, 1980, and approved a resolution condemning the Soviet intervention and appealing for the withdrawal of Soviet troops from Afghanistan. *European Community *(EC) foreign ministers condemned the Soviet intervention in Afghanistan on January 15, 1980, and the *North Atlantic Treaty Organization *(NATO) Council condemned the Soviet intervention in Afghanistan on January 15, 1980. Thirty-six member-states of the *Organization of the Islamic Conference *(OIC) condemned the Soviet intervention in Afghanistan on January 29, 1980. The UN General Assembly appealed for the withdrawal of Soviet troops from Afghanistan on November 20, 1980. UN Secretary-General Kurt Waldheim appointed Javier Perez de Cuellar as his personal representative to Afghanistan in February 1981, and Diego Cordoves of Ecuador was appointed as personal representative in February 1982. NATO foreign ministers condemned Soviet military aggression in Afghanistan on December 9, 1983. NATO foreign ministers condemned Soviet aggression against Afghanistan on May 31, 1984. The UN General Assembly appealed for the withdrawal of Soviet troops from Afghanistan on November 13, 1985. The Soviet Union, US, Afghanistan, and Pakistan signed four accords in Geneva on April 14, 1988 which provided for the return of refugees to Afghanistan and the withdrawal of Soviet troops. The Soviet Union began their troop withdrawal on May 15, 1988 and completed the withdrawal on February 15, 1989. Some 13,800 Soviet troops were killed during the intervention.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 356-358; Clodfelter, 1992, 1105-1109; *Keesing*, May 9, 1980; *North Atlantic Treaty Organization *(NATO) press release, December 9, 1983, May 31, 1984.
+
+NARRATIVE-CR:
+
+There are mixed reports as to why the Soviets chose to invade with the Soviet government claiming they were asked to intervene by the Afghani government and the government denying this account. The invasion led to a rivalry and war that lasted until the Soviet military withdrew in 1988.
+
+MID2053 occurred from March 26, 1979 to April 14, 1982, while MID2054 occurred from September 18, 1983 to April 30, 1987. These MIDs are associated with the Soviet invasion and occupation of Afghanistan. The MIDs of 1980s were dominated by the armed conflict between the Mujahideen and the Afghan and Soviet government forces. Consequently, the Afghan territorial claim against Pakistan was not raised officially during this period. Cross border raids into both Pakistan and Iran in pursuit of Mujahideen rebels took place during this period. These MIDs seem to show an alliance between the governments of Afghanistan and Soviet Union, rather than militarized disputes. 
+
+MID4054 occurred from March 3, 1993 to February 21 1994. The dispute involves a series of 23 distinct incidents in which Russia and Tajikistan, sometimes supplemented by Turkmenistan, Uzbekistan, Kazakhstan, and Kyrgyzstan, trade threats, shows of force, border fortifications, and attacks with Afghanistan. The dispute primarily revolves around Afghan incursions into Tajikistan and support of militant forces in Tajikistan. In response, Russian, Kazakh, Kyrgyz, Uzbek, Turkmen, and Tajik forces were deployed along the Afghan border and placed on alert. In addition, Russian forces fired artillery and air strikes into Afghanistan as a means of striking militants operating out of Afghanistan. In response, Afghanistan filed protests, threatened retaliation for the strikes, and threatened war if the strikes continued. The most serious event in the dispute occurred when Afghan forces crossed the border into Tajikistan and captured a Russian border post. The fighting that ensued killed a total of 27 people on both sides. 
+
+MID4055 This dispute involves a series of Russian strikes into Afghanistan between 12/31/94 and 5/95. In addition, Russia placed its forces on alert during this period and fortified the Tajik-Afghan border with, according to reports, 25,000 troops. These actions were in response to repeated attacks into Tajikistan by Afghan-based militants. The Russian attacks involved airstrikes into Afghan villages near the border with Tajikistan. Additionally, Russian forces also conducted artillery strikes into the border areas of Afghanistan. These attacks were aimed at the militants operating out of Afghan territory.
+
+MID4176 This dispute consists of two incidents in which CIS forces were placed on alert along the Afghan border in the wake of Taliban fighting in Northern Afghanistan. In addition, Uzbekistan deployed forces to reinforce its border with Afghanistan. This dispute consists of two incidents in which CIS forces were placed on alert along the Afghan border in the wake of Taliban fighting in Northern Afghanistan. In addition, Uzbekistan deployed forces to reinforce its border with Afghanistan. 
+
+MID4228 This dispute consists of three incidents in which Uzbekistan, Tajikistan, and Russia reinforced the border with Afghanistan in the wake of the spread of fighting within and the movement of Taliban forces into Northern Afghanistan. In addition, on 8/11/98 Russian and Tajik forces along the Afghan border were placed on alert. This dispute consists of three incidents in which Uzbekistan, Tajikistan, and Russia reinforced the border with Afghanistan in the wake of the spread of fighting within and the movement of Taliban forces into Northern Afghanistan. In addition, on 8/11/98 Russian and Tajik forces along the Afghan border were placed on alert.
+
+MID4201 This dispute consists of 19 militarized incidents between 9/1999 and 3/2001 involving Russia, Uzbekistan, and Afghanistan. This dispute centers around the threat posed to Tajikistan and Uzbekistan by Islamic militants operating out of and being supported by Afghanistan. The dispute involves a series of alerts and border fortifications by Russian forces in Tajikistan as a means of countering threats from Afghanistan. At the same time, Afghanistan also placed its forces on alert and fortified its border. The highest level of conflict in the dispute occurred in June 2000 when a clash occurred between Uzbekistan and Afghanistan. The clash occurred when Uzbekistan launched airstrikes into Afghanistan. Afghan forces returned fire, shooting down and Uzbek plane & killing 2 pilots. 
+
+MID4283 This dispute consists of a series of 35 militarized incidents that are centered around the response to the September 11, 2001 terrorist strikes against the United States. In response to the terrorist attacks, the United States demanded that Afghanistan turn over Osama bin Laden and expel Al Qaeda members that were operating and training in Afghanistan. 9/15/01-the United States, Great Britain, and France deployed naval forces to waters near Afghanistan. The United States deployed 2 aircraft carriers, Great Britain deployed 6 warships, and France deployed 2 warships. In response to the American deployment, Afghanistan placed its forces on alert and deployed anti-aircraft weapons around Kandahar. Russia, which had experienced previous disputes with Afghanistan along the Tajik border, placed its forces along the Tajik border on alert and mass weapons and troops along the border in response to the rising tensions in the region. 9/17/01-American president Bush issued an ultimatum to the Afghan leadership to turn over Osama bin Laden or face American military strikes. The Taliban refused to turn over bin Laden unless a series of unreasonable conditions were met (trial by Muslim judge, recognition for the Taliban, foreign aid for Afghanistan, etc.) 9/22/01-An American reconnaissance drone is shot down over Afghanistan. During this time, Great Britain began deploying special forces to Afghanistan 9/25/01-British prime minister Tony Blair issued an ultimatum to the Afghan leaders to face military action if they do not turnover Osama bin Laden and shutdown the terrorist training camps in Afghanistan. 9/30/01-The United States continued to increase the pressure on the Taliban by continuing to deploy forces to the region. In addition to the naval forces already deployed, the United States also sent ground forces to Uzbekistan and Tajikistan and sent the USS Kitty Hawk carrier group to the region. The Taliban responded to the increasing American pressure by conducting exercises along its border with Pakistan. During this period of time Taliban forces also fired on a Russian border post along the Tajik-Afghan border. Russian forces suffered no casualties in the clash and returned fire at the Taliban forces. No information was given regarding Afghan casualties. Early October, 2001-The British government issued a series of statements threatening military action against Afghanistan if the Taliban did not turn over Osama bin Laden. 10/6/01-Afghanistan threatened war against Uzbekistan if the United States launched attacks from Uzbekistan. Afghanistan also began redeploying forces to its border with Uzbekistan. In response, Uzbekistan began deploying its forces along the border with Afghanistan. Reports also indicate that Afghanistan fired at an unmanned American drone conducting reconnaissance. As conditions deteriorated, Tajikistan placed its forces along the border on alert. 10/7/01-American and British strikes on Afghanistan began. The first strikes involved attacks from cruise missiles, bombers, and missiles and initial targets were confined to airfields, command and control centers, military installations. 10/9/01-NATO redeploys its naval forces to the eastern Mediterranean in response to the conflict in Afghanistan. Ships from Greece, Germany, the Netherlands, Portugal, Spain, Turkey, Great Britain, and the United States participate in the redeployment. 10/10/01-Following three days of sustained attacks, bombing targets began to include strikes against troops. Near this time, American and British forces began bombing Taliban forces positioned north of Kabul. These strikes involved the use of heavy cluster bombs and were likely to inflict heavy casualties on Taliban forces. These bombing strikes continued on a daily basis into November 10/16/01-A Taliban gunman fired at a border picket occupied by Russian troops along the Tajik border. There were no Russian casualties in the attack. 10/17/01-Reports indicate that Australian troops are now on the ground in Afghanistan conducted ground operations against Taliban and AlQaeda forces. 10/19/01-11/13/01-US commando units began conducting ground operations within Afghan territory. These ground raids were used to attack Taliban and Al-Qaeda forces, flush them out for airstrikes, and for intelligence purposes. Two American soldiers were killed when their search and rescue helicopter crashed in Pakistan after a mission. These deaths are not counted in the dispute coding because they were accidental and did not result from military action. Allied airstrikes continue throughout this period. 11/13/01-Russia "took additional security measures" along its border with Afghanistan. Taliban forces withdraw from Kabul and Northern Alliance troops take the capital. Because the Taliban has lost control of the capital, the dispute ends. 
+
+MID4283 marks the invasion of Afghanistan by the United States, following the terrorist attacks against the United States on September 11, 2001. Afghanistan has been occupied by the United States since the invasion. 
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+19200101-19260814 RIV1007-0.75 
+
+Afghanistan enters the international system as an independent state in 1920. In June of 1919, the Afghan government initiated a dialog with the Soviet Union. The purpose of this contact was two fold. First, Afghanistan wanted to establish diplomatic relations with one of its neighbors. Second, Afghanistan hoped to establish an alliance with the Soviet Union in case of further war with Great Britain, of which there had already been three since 1839. The Soviet Union desired friendly relations with Afghanistan but did not want to commit to a military agreement. Instead, a commercial agreement was signed in Moscow in February 1921. The trade agreement was meant to encourage trade in raw and manufactured goods and to prevent the imposition of import duties. Despite the Soviet Union's desire to avoid a military agreement with Afghanistan, they did help the country acquire military equipment. At this time, Afghanistan was attempting to build an air force and by 1923 had received shipment of two soviet aircrafts. Over the next two years, the Soviet Union shipped eleven more planes as well as parts and maintenance crews.
+
+MID1779 is a *display of force* that occurs between April and July of 1922
+
+MID1781 took place between December of 1925 and February 1926. The dispute began when Soviet troops reportedly invaded the areas of Darqad, Bustan, Shaftalubuz and Qualabad. The motivation behind the Soviet invasion was to capture a disputed island, called Urta Tagai or Yangi Qala, on the Amu Darya (Oxus River). In December of 1925, the Afghan government sent troops north and Soviet advisors were suspended from their duties. The dispute was resolved between February 4 and 28 of 1926 when Soviet troops evacuated the island, allowing Afghani troops to take over. 
+
+Relations became tense between the two countries in October of 1925 when it was reported that Soviet troops had invaded the areas of Darqad, Bustan, Shaftalubuz and Qualabad. The motivation behind the Soviet invasion was to capture a disputed island, called Urta Tagai or Yangi Qala, on the Amu Darya (Oxus River). In December of 1925, the Afghan government sent troops north and Soviet advisors were suspended from their duties. The dispute was resolved between February 4 and 28 of 1926 when Soviet troops evacuated the island, allowing Afghani troops to take over.
+
+19260815-19930302 RIV1008/RIV1009-0.5
+
+On August 15, 1926 a Soviet-Afghan protocol was signed where the Soviet Union acknowledged Afghanistan's rightful ownership of the island. This treaty resolved a festering dispute between the two countries. To solidify the post-crisis friendship, the two countries concluded a treaty of neutrality and nonaggression that lasted for three years.
+
+In January 1929 a rebellion broke out in Afghanistan and the leader, Amanullah, was overthrown and power seized by an Afghan Tajik named Habibulla. The Soviets organized a brief incursion to help return Amanullah to power but were quickly forced to withdraw and Amanullah fled to Italy. On October 13, 1929 Habibulla was overthrown by another rebel force and Mohammad Nadir Khan took the thrown. These events ended Russian influence in Afghanistan for a time. 
+
+MID3191 is a *display of force* that occurred between October 1939 and January 1940. 
+
+Afghanistan remained neutral during World War II. At the end of the war, the two countries signed another agreement aimed at resolving the Amu river border. On June 13, 1946, the two countries signed a treaty settling ownership of 1,192 islands.
+
+Immediately after the war, Afghanistan sought military and economic aid from the United States. Initially, these requests were justified by a need to repress rebel uprisings and a Pushtunistan dispute with Pakistan. The Afghan government quickly shifted the justification to concerns over Soviet ambitions in the region. The Soviet Union had exerted control over almost all of its neighbors. The Afghan government was afraid that the Soviets would attempt an invasion and hoped that the US would be willing to supply arms to prevent this from happening. The US viewed Afghanistan as strategically unimportant and felt that Afghanistan was a bigger threat to Pakistan than was the Soviet Union to Afghanistan. The US was unwilling to help Afghanistan fight against Pakistan and repeatedly refused to supply military aid. Instead, the US began arming Pakistan. This turned Afghanistan to the Soviet Union. The two countries signed their first aid agreement on January 27, 1954. This was followed by three more agreements in July, August, and October of that same year, all three aimed at development projects. In July of 1956, a military aid agreement was signed promising over 32.4 million in loan money. Over the next twenty years the Afghan military more than doubled in size and modernized with Soviet equipment and advisors. Many Afghani military officers trained in the Soviet Union during the post-World war II period, prior to the Soviet invasion. Thus, from the early 1950s on Afghanistan was closely tied to the Soviet Union through the receipt of military and economic aid. 
+
+By 1973, however, the Afghani government had begun to move away from policies favored by the Soviet Union. And, on July 17, 1973 Mohammed Daoud Khan orchestrated a coup to take over the country. Although there were Maxist elements in the coup group and the Soviet Union was presumably aware that a coup was being planned, there is disagreement over whether the Soviet Union was involved in promoting the coup. The same is true of the 1978 coup to overthrow Daoud. This coup was carried out by a small group of military officers on April 27, 1978. The Soviet Union played a significant role in helping the new regime in 1978 solidify power. They supplied advisors and $250 million in military aid. On December 5, 1978, the Soviet Union and Afghanistan signed a treaty of friendship and cooperation, officially ratified on May 27, 1979. The first MID of RIV1009, MID2053, occurs in March of 1980. Rebel groups rose up against what they viewed as a communist regime in Afghanistan in 1978-79. The Soviet Union responded by, in March of 1979, sending military equipment to Kabul. By late 1979, the Soviet government had become dissatisfied with the progress and stability of the regime in Afghanistan. And, on December 24, 1979 began deploying troops into Afghanistan. 
+
+The Soviet Union provided military assistance in support of the government of the *Democratic Republic of Afghanistan* (DRA) on March 26-27, 1979, after the *Mujahuddin *began a rebellion against the government in Herat. President Hafizollah Amin of Afghanistan was overthrown and killed on December 27, 1979, and Babrak Kamal was named president, prime minister, and chairman of the revolutionary council on December 28, 1979. Some 50,000 Soviet troops were deployed in support of the government of President Kamal beginning on December 28, 1979. Iran condemned the Soviet Union on December 28, 1979. Pakistan condemned the Soviet intervention in Afghanistan, and appealed for the withdrawal of Soviet troops from Afghanistan on December 29, 1979. Turkey condemned the Soviet intervention in Afghanistan on December 29, 1979. China condemned the Soviet intervention in Afghanistan on December 29, 1979, and referred the matter to the *United Nations *(UN) Security Council on December 31, 1979. Albania condemned the Soviet intervention in Afghanistan on December 30, 1979. India appealed for the withdrawal of Soviet troops from Afghanistan on December 31, 1979. The United States imposed economic sanctions (grain embargo) against the Soviet Union on January 2, 1980. Cuba expressed support for the Soviet Union on January 4, 1980. The Soviet Union vetoed a UN Security Council resolution on January 7, 1980, which would have condemned the Soviet intervention in Afghanistan. The UN General Assembly met in emergency special session on January 14, 1980, and approved a resolution condemning the Soviet intervention and appealing for the withdrawal of Soviet troops from Afghanistan. *European Community *(EC) foreign ministers condemned the Soviet intervention in Afghanistan on January 15, 1980, and the *North Atlantic Treaty Organization *(NATO) Council condemned the Soviet intervention in Afghanistan on January 15, 1980. Thirty-six member-states of the *Organization of the Islamic Conference *(OIC) condemned the Soviet intervention in Afghanistan on January 29, 1980. The UN General Assembly appealed for the withdrawal of Soviet troops from Afghanistan on November 20, 1980. UN Secretary-General Kurt Waldheim appointed Javier Perez de Cuellar as his personal representative to Afghanistan in February 1981, and Diego Cordoves of Ecuador was appointed as personal representative in February 1982. NATO foreign ministers condemned Soviet military aggression in Afghanistan on December 9, 1983. NATO foreign ministers condemned Soviet aggression against Afghanistan on May 31, 1984. The UN General Assembly appealed for the withdrawal of Soviet troops from Afghanistan on November 13, 1985. The Soviet Union, US, Afghanistan, and Pakistan signed four accords in Geneva on April 14, 1988 which provided for the return of refugees to Afghanistan and the withdrawal of Soviet troops. The Soviet Union began their troop withdrawal on May 15, 1988 and completed the withdrawal on February 15, 1989. Some 13,800 Soviet troops were killed during the intervention.
+
+MID4054 occurred from March 3, 1993 to February 21 1994. The dispute involves a series of 23 distinct incidents in which Russia and Tajikistan, sometimes supplemented by Turkmenistan, Uzbekistan, Kazakhstan, and Kyrgyzstan, trade threats, shows of force, border fortifications, and attacks with Afghanistan. The dispute primarily revolves around Afghan incursions into Tajikistan and support of militant forces in Tajikistan. In response, Russian, Kazakh, Kyrgyz, Uzbek, Turkmen, and Tajik forces were deployed along the Afghan border and placed on alert. In addition, Russian forces fired artillery and air strikes into Afghanistan as a means of striking militants operating out of Afghanistan. In response, Afghanistan filed protests, threatened retaliation for the strikes, and threatened war if the strikes continued. The most serious event in the dispute occurred when Afghan forces crossed the border into Tajikistan and captured a Russian border post. The fighting that ensued killed a total of 27 people on both sides. 
+
+From 1994 to 2001 the majority of Afghanistan was under Taliban control and the number of MIDs between Russia and Afghanistan increased. There were several border incidents during this timeframe. 
+
+20011113-20069999 0.5
+
+After the conflict between the two countries ended in 1988, they continued to experience dispute until the US invasion in 2001. After the initial US invasion, Russia reopened its embassy in Kabul in December of 2001 and began supplying humanitarian and economic aid to Afghanistan. In March of 2002, the Interim head of government in Afghanistan, Hamed Karzi, visited Moscow where the two countries discussed the building of stronger and friendlier relations. The two countries held talks again in June of 2006 to discuss closer cooperation on issues of gas and fuel and Russian assistance to continue the rebuilding process in Afghanistan. The two countries signed a joint statement in 2007 aimed at further building close economic relations and addressing issues of terrorism and narcotics in Afghanistan. 
+
+The invasion and toppling of the Taliban regime in Afghanistan marks a transition period in relations with Russia. With the removal of the Taliban government, a major source of tension, there has been a transition toward normalized relations between Russia and Afghanistan. 
+
+PS-SOURCES: 
+
+Adamec 1974; Bradsher 1985; BBC
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+OnWar.com. https://www.onwar.com/aced/chrono/c1900s/yr20/fafghan1928.htm

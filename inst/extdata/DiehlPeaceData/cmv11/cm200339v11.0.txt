@@ -1,0 +1,102 @@
+FILE: cm200339v11.0.txt
+DYAD: UNITED KINGDOM - ALBANIA
+RIVALRY: RIV424
+DATES (may not be accurate, see riv5.20all.cvs): 19460515 -19461113
+DISPUTE(S): MID4 
+RIVALRY: RIV425
+DISPUTE(S): MID2858 
+
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20171223
+PS-LAST-CHECKED: 20180102
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID4 
+
+TERRMID: MID4 3 -- not territory
+TERRMID-CER: MID4 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4 3 -- not third party link to territory 
+TERRLINK-CER: MID4 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4 3 -- not maritime 
+MARITMID-CER: MID4 1 -- certain
+MARITMID-NOTES: MID4 from Gibler (2018), Albania and Britain disputed the right of UK to travel through the Corfu Channel (inside Albanian territorial waters). Albania fired on British ships passing through the channel in May 1946, and later another UK ship was damaged by a mine in the waters. When UK announced it would remove mines from the channel, Albania protested. Dispute was eventually settled via ICJ. Coded not maritime because this was about the right to travel through the Corfu Channel, and neither country was disputing the location of a maritime boundary. 
+
+ISLMID: MID4 3 -- not islands 
+ISLMID-CER: MID4 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4 3 -- not civil war 
+CIVWARMID-CER: MID4 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4 3 -- not civil war link
+CIVWARLINK-CER: MID4 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4 3 -- not coup 
+COUPMID-CER: MID4 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4 3 -- not coup link
+COUPLINK-CER: MID4 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2858 
+
+TERRMID: MID2858 3 -- not territory
+TERRMID-CER: MID2858 1 -- certain 
+TERRMID-NOTES: MID2858 from Gibler (2018), Albania forced down a UK cargo plane on 12/31/1957. The plane was later released. Coded not territory because no boundary was being challenged. 
+
+TERRLINK: MID2858 3 -- not third party link to territory 
+TERRLINK-CER: MID2858 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2858 3 -- not maritime 
+MARITMID-CER: MID2858 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2858 3 -- not islands 
+ISLMID-CER: MID2858 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2858 3 -- not civil war 
+CIVWARMID-CER: MID2858 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2858 3 -- not civil war link
+CIVWARLINK-CER: MID2858 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2858 3 -- not coup 
+COUPMID-CER: MID2858 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2858 3 -- not coup link
+COUPLINK-CER: MID2858 1 -- certain 
+COUPLINK-NOTES:
+
+NARRATIVE-CM:
+The British warship *Orion* was fired upon by Albanian forces near the Corfu Straits on May 15, 1946. Two British destroyers *Saumarez* and *Volage* struck mines in the Corfu Straits in Albanian territorial waters on October 22, 1946, resulting in the deaths of 44 British sailors. British warships entered Albanian territorial waters on November 13, 1946 in order to sweep for mines, and the minesweepers found 22 mines which had recently been laid in the waters. The British government held Albania responsible for the mining. Britain demanded an apology and reparations from Albania on December 10, 1947. The British government referred the matter to the* United Nations *(UN) Security Council on January 11, 1947. The Soviet Union vetoed a UN Security Council resolution on March 26, 1947, which suggested that Albania was responsible for the incident in the Corfu Straits. The UN Security Council approved a resolution on April 9, 1947, which recommended that the parties refer the dispute to the *International Court of Justice* (ICJ). The ICJ ruled on March 25, 1948 that it had jurisdiction over the case. The ICJ decided on April 9, 1949 that Albania was responsible for the mining. The ICJ decided on December 15, 1949 that Albania should pay reparations totaling 843,947 pounds sterling. Albania refused to pay the reparations, and diplomatic relations were severed. The parties resumed diplomatic relations after Albania agreed on May 9, 1992 to pay the reparations.
+
+SOURCES-CM: 
+Butterworth, 1976, 70-71; *Keesing,* January 25-February 1, 1947, April 5-12, 1947.
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

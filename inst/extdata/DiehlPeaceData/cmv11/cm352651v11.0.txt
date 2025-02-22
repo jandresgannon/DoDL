@@ -1,0 +1,91 @@
+FILE: cm352651v11.0.txt
+DYAD: CYPRUS - EGYPT
+RIVALRY: RIV940
+DISPUTE(S): MID3604 MID2163 
+
+PS-LAST-CHANGED: 20191115
+PS-LAST-CHECKED: 20191115
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3604 
+
+TERRMID: MID3604 3 -- not territory 
+TERRMID-CER: MID3604 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3604 3 -- not third party link to territory 
+TERRLINK-CER: MID3604 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3604 3 -- not maritime 
+MARITMID-CER: MID3604 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3604 3 -- not islands 
+ISLMID-CER: MID3604 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3604 1 -- civil war MID
+CIVWARMID-CER: MID3604 1 -- certain 
+CIVWARMID-NOTES: MID3604 from Gibler 2018, in 1978, terrorists assassinated a prominent Egyptian and held a plane hostage in Cyprus. From New York Times 2/22/1978, the terrorists were Palestinians that Egypt believed were part of a wide-spread campaign to target Egypt after they agreed to peace negotiations with Israel. Egyptian commandos stormed the plane without permission from Cyprus, and as a result, a clash between the countries occurred, triggering this MID. Coded civil war MID because this was connected to militarized rebels (Egypt considered them to be an organized group) attacking Egypt and hijacking a plane in Cyprus, within this dyad. 
+
+CIVWARLINK: MID3604 3 -- not civil war link 
+CIVWARLINK-CER: MID3604 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3604 3 -- not coup 
+COUPMID-CER: MID3604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3604 3 -- not coup link
+COUPLINK-CER: MID3604 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2163 
+
+TERRMID: MID2163 3 -- not territory 
+TERRMID-CER: MID2163 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2163 3 -- not third party link to territory 
+TERRLINK-CER: MID2163 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2163 3 -- not maritime 
+MARITMID-CER: MID2163 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2163 3 -- not islands 
+ISLMID-CER: MID2163 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2163 1 -- civil war MID
+CIVWARMID-CER: MID2163 1 -- certain 
+CIVWARMID-NOTES: MID2163 from Gibler 2018, terrorists assassinated an Egyptian newspaper editor and held a plane hostage in Cyprus. Egypt raided the plane without Cyprus's permission, leading to a clash between the countries and triggering this MID. Coded civil war MID because this was connected to militarized rebels targeting Egypt. 
+
+CIVWARLINK: MID2163 3 -- not civil war link 
+CIVWARLINK-CER: MID2163 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2163 3 -- not coup 
+COUPMID-CER: MID2163 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2163 3 -- not coup link
+COUPLINK-CER: MID2163 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Yusuf Sibai, the editor of an Egyptian newspaper, was assassinated by Palestinian terrorists in Nicosia on February 18, 1978. The terrorist also seized 30 hostages and demanded an airplane in order to leave Cyprus. The plane departed with 11 of the hostages, refueled in Djibouti, and returned back to Cyprus after being refused landing rights several other countries. Some 74 Egyptian commandos attacked the plane at Larnaca airport in Nicosia on February 19, 1978, resulting in the deaths of 15 Egyptian soldiers. The terrorists released the hostages and surrendered to Cypriot police on February 19, 1978. Egypt severed diplomatic relations with Cyprus on February 22, 1978 after accusing Cyprus of assisting the Palestinian terrorists.
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.
+New York Times (1978). “Egyptian Says Commandos Struck After ’Unnecessary’ Cypriot Delay”. New York Times February 22. By Christopher S. Wren, Special to The New York Times: NJ21.

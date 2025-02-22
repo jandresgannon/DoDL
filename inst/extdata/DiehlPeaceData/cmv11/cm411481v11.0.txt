@@ -1,0 +1,81 @@
+FILE: cm411481v8.1.txt
+DYAD: EQUATORIAL GUINEA-GABON
+RIVALRY: RIV1048
+DISPUTE(S): MID1340 
+
+PS: 19681012-19720822 0.5 19720823-20161114 .25 20161115-20209999 0.5
+
+PS-UPDATE2020: Relationship shifts to negative peace with the signing of the Gabon-Guinea Agreement, ending the border dispute (https://www.unmultimedia.org/s/photo/detail/704/0704192.html; https://africatimes.com/2016/11/17/gabon-equatorial-guinea-agree-to-end-territorial-dispute-over-islands/) o	Both states agree to submit their border dispute to the ICJ for arbitration to decide the common maritime and territorial boundaries and sovereignty over Mbanié, Cocotiers and Conga islands (http://country.eiu.com/article.aspx?articleid=304867614&Country=Equatorial%20Guinea&topic=Politic_8
+
+
+PSNOTES: Two states go to ICJ, which ends the dispute presumably, but this is not till late 2016
+
+thompson rivalry cm411481 ,19720000 ,ongoing 
+
+Equatorial Guinea became independent on October 12, 1968.
+
+PS-LAST-CHANGED: 20220615
+PS-LAST-CHECKED: 20220615
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1340
+
+TERRMID: MID1340 3 -- not territory
+TERRMID-CER: MID1340 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1340 3 -- not third party link to territory 
+TERRLINK-CER: MID1340 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1340 1 -- maritime MID
+MARITMID-CER: MID1340 1 -- certain
+MARITMID-NOTES: MID1340 from Gibler 2018, Equatorial Guinea and Gabon had a maritime and islands dispute (the maritime boundary was connected to the disputed islands). Coded maritime MID because this MID is connected to a disputed maritime border. See ISLMID-NOTES. 
+
+ISLMID: MID1340 1 -- islands MID
+ISLMID-CER: MID1340 1 -- certain
+ISLMID-NOTES: MID1340 from Gibler 2018, Equatorial Guinea and Gabon had conflicting claims over uninhabited islands in Corisco Bay. In 1972, Gabon established outposts on the islands and Equatorial Guinea appealed to the UNSC for assistance in the dispute. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID1340 3 -- not civil war 
+CIVWARMID-CER: MID1340 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1340 3 -- not civil war link
+CIVWARLINK-CER: MID1340 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1340 3 -- not coup 
+COUPMID-CER: MID1340 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1340 3 -- not coup link
+COUPLINK-CER: MID1340 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Equatorial Guinea and Gabon disputed their maritime border in the Bay of Corisco beginning on August 23, 1972, when Gabon extended its territorial waters to 100 nautical miles. Equatorial Guinean troops clashed with Gabonese troops near the islands from August 23 to September 7, 1972. President Bongo of Gabon referred the matter to the *United Nations* (UN) Secretary-General Kurt Waldheim on September 8, 1972. Equatorial Guinea appealed for an immediate meeting of the UN Security Council on September 12, 1972. President Mobutu of Congo-Kinshasa and President Ngouabi of Congo-Brazzaville mediated negotiations between the countries from September 16 to November 13, 1972. President Francisco Macias Nguema of Equatorial Guinea and President Bongo of Gabon signed an agreement on November 13, 1972, which provided for the "neutralization" of the disputed region in the Bay of Corisco. The *Organization of African Unity* (OAU) established a border demarcation commission chaired by President Ngouabi of Congo-Brazzaville. Equatorial Guinea and Gabon signed an accord in 1974.
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1972-1973; *Africa Research Bulletin* (ARB), September 1-30, 1972, October 1-31, 1972, November 1-30, 1972; Butterworth, 1976, 463-464; *Keesing*, November 18-25, 1972.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS: MID1340
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID1340
+ DYAD: EQUATORIAL GUINEA GABON 411481
+ DATES: 19720601 19720918
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+Equatorial Guinea and Gabon disputed their maritime border in the Bay of Corisco beginning on August 23, 1972, when Gabon extended its territorial waters to 100 nautical miles. Equatorial Guinean troops clashed with Gabonese troops near the islands from August 23 to September 7, 1972. President Bongo of Gabon referred the matter to the *United Nations* (UN) Secretary-General Kurt Waldheim on September 8, 1972. Equatorial Guinea appealed for an immediate meeting of the UN Security Council on September 12, 1972. President Mobutu of Congo-Kinshasa and President Ngouabi of Congo-Brazzaville mediated negotiations between the countries from September 16 to November 13, 1972. President Francisco Macias Nguema of Equatorial Guinea and President Bongo of Gabon signed an agreement on November 13, 1972, which provided for the "neutralization" of the disputed region in the Bay of Corisco. The *Organization of African Unity* (OAU) established a border demarcation commission chaired by President Ngouabi of Congo-Brazzaville. Equatorial Guinea and Gabon signed an accord in 1974.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

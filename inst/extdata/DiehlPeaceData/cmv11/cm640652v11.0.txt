@@ -1,0 +1,578 @@
+FILE: cm640652v11.0.txt
+DYAD: TURKEY/OTTOMAN EMPIRE-SYRIA
+RIVALRY: RIV11212
+DISPUTE(S): MID3155 MID3154 MID607 MID3152 MID3165 MID3168 MID2787 MID3922 MID4190 MID4315 MID4291 
+
+RIVNOTES: 
+RIV11212 was originally coded as two separate rivalries (RIV1211 and RIV1212). Yet at least one unresolved issue connects the two rivalries (claims over Hatary province) and therefore the rivalries were combined.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY: RIV1211
+DATES: 19550326-19650527
+
+PS: 19460417-19550325 0.25 19550326-19981019 0.00 19981020-20040107 -9 20040108-20110314 0.5 20110315-20121002 -9 20121003-20209999 0.00
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3155
+
+TERRMID: MID3155 1 -- territorial MID
+TERRMID-CER: MID3155 1 -- certain 
+TERRMID-NOTES: MID3155 from cm narrative and Gibler 2018, Turkey and Syria disputed the territory of Hatay province. In 1955, Turkey accused Syria of violating their airspace, and Syria accused Turkey of amassing troops near the disputed territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3155 3 -- not third party link to territory 
+TERRLINK-CER: MID3155 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3155 3 -- not maritime 
+MARITMID-CER: MID3155 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3155 3 -- not islands 
+ISLMID-CER: MID3155 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3155 3 -- not civil war 
+CIVWARMID-CER: MID3155 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3155 3 -- not civil war link
+CIVWARLINK-CER: MID3155 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3155 3 -- not coup 
+COUPMID-CER: MID3155 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3155 3 -- not coup link
+COUPLINK-CER: MID3155 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3154
+
+TERRMID: MID3154 1 -- territorial MID
+TERRMID-CER: MID3154 1 -- certain 
+TERRMID-NOTES: MID3154 from Gibler 2018 and cm narrative, Syrian and Turkish troops clashed at the disputed border at Hatay province in 1955-1956. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3154 3 -- not third party link to territory 
+TERRLINK-CER: MID3154 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3154 3 -- not maritime 
+MARITMID-CER: MID3154 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3154 3 -- not islands 
+ISLMID-CER: MID3154 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3154 3 -- not civil war 
+CIVWARMID-CER: MID3154 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3154 3 -- not civil war link
+CIVWARLINK-CER: MID3154 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3154 3 -- not coup 
+COUPMID-CER: MID3154 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3154 3 -- not coup link
+COUPLINK-CER: MID3154 1 -- certain 
+COUPLINK-NOTES: 
+
+MID607
+
+TERRMID: MID607 3 -- not territory 
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain
+TERRLINK-NOTES: MID607 from Gibler 2018, the Baghdad Pact countries (Iraq, Turkey, Iran, and Pakistan) had a series of disputes with the Soviet-back countries of Syria and Egypt from 1956-1958. In 1956, Iraq warned Syria that it would use force to defend itself if Syria continued to (allegedly) lie about Iraq sending arms into Syria to foment unrest. The Baghdad pact members were also concerned about Soviet support for Syria. Also in 1956, Syria protested that Turkey was threatening to attack and amassing troops at the border with Syria. Jordan warned that aggression to Syria would be seen as aggression to Jordan. In 1957, the Baghdad Pact members and the Soviet-backed countries disputed the future of Jordan, as the Baghdad Pact countries feared that the Soviet Union, Egypt, and Syria were preparing to split Jordan amongst themselves. Iraq threatened force if Jordan was split. Turkey deployed troops to the border with Syria, and NATO countries conducted shows of force. Syrian and Turksih forces clashed on the border. Coded third party link to territorial MID because this was connected to a dispute over Jordan, outside this dyad. Although Turkey did not claim any of Jordan's territory, it did dispute Egypt's right to split Jordan and control part of Jordanian territory. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID607 3 -- not civil war link
+CIVWARLINK-CER: MID607 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3152
+
+TERRMID: MID3152 3 -- not territory
+TERRMID-CER: MID3152 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3152 3 -- not third party link to territory 
+TERRLINK-CER: MID3152 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3152 3 -- not maritime 
+MARITMID-CER: MID3152 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3152 3 -- not islands 
+ISLMID-CER: MID3152 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3152 3 -- not civil war 
+CIVWARMID-CER: MID3152 1 -- certain
+CIVWARMID-NOTES: MID3152 from Gibler 2018 and cm narrative, in 1958 Syrian and Turkish troops clashed when Syrian troops engaged Turkish smugglers. Coded not civil war because this was connected to bandits, not to militarized rebels. 
+
+CIVWARLINK: MID3152 3 -- not civil war link
+CIVWARLINK-CER: MID3152 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3152 3 -- not coup 
+COUPMID-CER: MID3152 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3152 3 -- not coup link
+COUPLINK-CER: MID3152 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3165
+
+TERRMID: MID3165 3 -- not territory
+TERRMID-CER: MID3165 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3165 3 -- not third party link to territory 
+TERRLINK-CER: MID3165 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3165 3 -- not maritime 
+MARITMID-CER: MID3165 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3165 3 -- not islands 
+ISLMID-CER: MID3165 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3165 3 -- not civil war 
+CIVWARMID-CER: MID3165 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3165 3 -- not civil war link
+CIVWARLINK-CER: MID3165 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3165 1 -- coup MID
+COUPMID-CER: MID3165 1 -- certain 
+COUPMID-NOTES: MID31654 from cm narrative, this MID occurred in March of 1962. Syrian Army officers staged a coup in March of 1962. President Qudsi resigned, as did the prime minister and the cabinet, and the executive and legislative functions of the government were taken over by an organization called the General Command of the Army and Armed Forces. Demonstrations against this new coup broke out in several of the major cities and, on April 5, the seven military officers who had organized and implemented the coup were sent into exile by other military leaders. On April 10 Qudsi resumed the presidency. The crisis in Syria served to increase tensions along its Turkish border, and Turkey closed its border to Syria in early April of 1962. Coded coup MID because this was connected to a coup in Syria. 
+
+COUPLINK: MID3165 3 -- not coup link
+COUPLINK-CER: MID3165 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3168
+
+TERRMID: MID3168 3 -- not territory
+TERRMID-CER: MID3168 1 -- certain 
+TERRMID-NOTES: MID3168 from Gibler 2018, in 1965 a clash broke out between Syrian and Turkish troops on the border over a stray herd of sheep. Coded not territory because this was not connected to the disputed Hatay province; it concerned livestock. 
+
+TERRLINK: MID3168 3 -- not third party link to territory 
+TERRLINK-CER: MID3168 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3168 3 -- not maritime 
+MARITMID-CER: MID3168 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3168 3 -- not islands 
+ISLMID-CER: MID3168 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3168 3 -- not civil war 
+CIVWARMID-CER: MID3168 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3168 3 -- not civil war link
+CIVWARLINK-CER: MID3168 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3168 3 -- not coup 
+COUPMID-CER: MID3168 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3168 3 -- not coup link
+COUPLINK-CER: MID3168 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3922
+
+TERRMID: MID3922 1 -- territorial MID
+TERRMID-CER: MID3922 1 -- certain 
+TERRMID-NOTES: MID3922 from Gibler 2018, in 1989 Syria shot down two Turkish planes over the disputed Hatay province. This may have been Syria's response to a Turkish threat, in which Turkey tried to coerce Syria into halting the Kurdish attacks on Turkey originating from Syrian territory. Coded territorial MID because this was connected to the dispute over Hatay province. 
+
+TERRLINK: MID3922 3 -- not third party link to territory 
+TERRLINK-CER: MID3922 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3922 3 -- not maritime 
+MARITMID-CER: MID3922 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3922 3 -- not islands 
+ISLMID-CER: MID3922 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3922 1 -- civil war MID
+CIVWARMID-CER: MID3922 1 -- certain
+CIVWARMID-NOTES: MID3922 from Gibler 2018, this MID involved Turkey threatening Syria in order to encourage Syria to police the militarized rebels in Syria who were targeting Turkey. 
+
+CIVWARLINK: MID3922 3 -- not civil war link
+CIVWARLINK-CER: MID3922 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3922 3 -- not coup 
+COUPMID-CER: MID3922 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3922 3 -- not coup link
+COUPLINK-CER: MID3922 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2787
+
+TERRMID: MID2787 3 -- not territory
+TERRMID-CER: MID2787 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2787 3 -- not third party link to territory 
+TERRLINK-CER: MID2787 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2787 3 -- not maritime 
+MARITMID-CER: MID2787 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2787 3 -- not islands 
+ISLMID-CER: MID2787 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2787 1 -- civil war MID
+CIVWARMID-CER: MID2787 3 -- uncertain
+CIVWARMID-NOTES: MID2787 from Gibler, Miller, and Little 2016, Kurdish rebels attacked a Turkish village, and Turkey told Syria to increase its border security to prevent further attacks. Turkey claimed that it would have to retaliate against the rebels next time. Coded civil war MID because this was connected to militarized rebels in Syria targeting Turkey. Coded uncertain because GML recommend this case be dropped since Turkey did not threaten Syria. 
+
+CIVWARLINK: MID2787 3 -- not civil war link
+CIVWARLINK-CER: MID2787 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2787 3 -- not coup 
+COUPMID-CER: MID2787 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2787 3 -- not coup link
+COUPLINK-CER: MID2787 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4520
+
+TERRMID: MID4520 3 -- not territory
+TERRMID-CER: MID4520 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4520 3 -- not third party link to territory 
+TERRLINK-CER: MID4520 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4520 3 -- not maritime 
+MARITMID-CER: MID4520 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4520 3 -- not islands 
+ISLMID-CER: MID4520 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4520 1 -- civil war MID
+CIVWARMID-CER: MID4520 1 -- certain
+CIVWARMID-NOTES: MID4520 from cm narrative, Turkey moved significant numbers of troops to its border with Syria to ensure border stability following several violent riots in Syria. The riots were widespread domestic unrest by unarmed citizens, but also involved militarized rebels in Syria. First day of dispute was on 3/16/2004 and last day of dispute was on 3/16/2004. Coded civil war MID because this was connected to militarized rebels in Syria. 
+
+CIVWARLINK: MID4520 3 -- not civil war link
+CIVWARLINK-CER: MID4520 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4520 3 -- not coup 
+COUPMID-CER: MID4520 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4520 3 -- not coup link
+COUPLINK-CER: MID4520 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4190
+
+TERRMID: MID4190 3 -- not territory
+TERRMID-CER: MID4190 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4190 3 -- not third party link to territory 
+TERRLINK-CER: MID4190 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4190 3 -- not maritime 
+MARITMID-CER: MID4190 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4190 3 -- not islands 
+ISLMID-CER: MID4190 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4190 1 -- civil war MID
+CIVWARMID-CER: MID4190 1 -- certain
+CIVWARMID-NOTES: MID4190 from cm narrative, Syria amassed troops on their border in response to Turkey attacking and attempting to kill the leader of the Kurdistan Workers Party in Syria. Coded civil war MID because this was connected to militarized rebels in Syria. 
+
+CIVWARLINK: MID4190 3 -- not civil war link
+CIVWARLINK-CER: MID4190 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4190 3 -- not coup 
+COUPMID-CER: MID4190 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4190 3 -- not coup link
+COUPLINK-CER: MID4190 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4315
+
+TERRMID: MID4315 3 -- not territory
+TERRMID-CER: MID4315 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4315 3 -- not third party link to territory 
+TERRLINK-CER: MID4315 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4315 3 -- not maritime 
+MARITMID-CER: MID4315 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4315 3 -- not islands 
+ISLMID-CER: MID4315 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4315 3 -- not civil war 
+CIVWARMID-CER: MID4315 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4315 1 -- civil war link
+CIVWARLINK-CER: MID4315 1 -- certain
+CIVWARLINK-NOTES: MID4315 from Gibler 2018 in 1997, Turkey invaded Iraq to attack Kurdish militants, and Syria fortified its border with Turkey in response. Coded civil war link because this is connected to militarized rebels in Iraq, outside this dyad. 
+
+COUPMID: MID4315 3 -- not coup 
+COUPMID-CER: MID4315 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4315 3 -- not coup link
+COUPLINK-CER: MID4315 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4291
+
+TERRMID: MID4291 3 -- not territory
+TERRMID-CER: MID4291 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4291 3 -- not third party link to territory 
+TERRLINK-CER: MID4291 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4291 3 -- not maritime 
+MARITMID-CER: MID4291 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4291 3 -- not islands 
+ISLMID-CER: MID4291 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4291 1 -- civil war MID
+CIVWARMID-CER: MID4291 1 -- certain
+CIVWARMID-NOTES: MID4291 from Gibler 2018, in 1998 Turkey amassed troops at the border with Syria and threatened Syria to stop them from supporting the PKK, a Kurdish militant group. Syria responded by moving troops to the border. Coded civil war MID because this was connected to militarized rebels in Syria. 
+
+CIVWARLINK: MID4291 3 -- not civil war link
+CIVWARLINK-CER: MID4291 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4291 3 -- not coup 
+COUPMID-CER: MID4291 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4291 3 -- not coup link
+COUPLINK-CER: MID4291 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4520
+rivalry=640652 nationa=TURKEY/OTTOMAN EMPIRE nationb=SYRIA MID4520 20040316-20040316 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkey moved significant numbers of troops to its border with Syria to ensure border stability following several violent riots in Syria. First day of dispute was on 3/16/2004 and last day of dispute was on 3/16/2004.
+
+MID3 1993-2001:
+
+MID4190
+rivalry=640652 nationa=SYRIA nationb=TURKEY/OTTOMAN EMPIRE MID4190 19960600-19960600 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+An AFP news report says, "Syria has massed troops near the border with Turkey following reports that Ankara was behind four blasts that rocked the country in recent weeks, Al-Hayat daily reported Saturday" (AFP, 6/15/96, 15:10 GMT). Based on this news article, we may suppose concerning ME00065 that Syria first committed a border fortification in reaction to the bomb explosion, accusing Turkey of attempting to kill Abdallah Ocalan, the leader of the Kurdistan Workers Party, who has been sheltered near Damascus in Syria. We may also suppose that Turkey responded by fortifying its border, and the US threatened Syria that it risks confrontation with the American military if Syria goes to War with Turkey. An AFP news report says, "Syria has massed troops near the border with Turkey following reports that Ankara was behind four blasts that rocked the country in recent weeks, Al-Hayat daily reported Saturday" (AFP, 6/15/96, 15:10 GMT). Based on this news article, we may suppose concerning ME00065 that Syria first committed a border fortification in reaction to the bomb explosion, accusing Turkey of attempting to kill Abdallah Ocalan, the leader of the Kurdistan Workers Party, who has been sheltered near Damascus in Syria. We may also suppose that Turkey responded by fortifying its border, and the US threatened Syria that it risks confrontation with the American military if Syria goes to War with Turkey. First and last day of dispute was on 6/00/1996.
+
+MID4315
+rivalry=640652 nationa=SYRIA nationb=TURKEY/OTTOMAN EMPIRE MID4315 19970520-19970500 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+There are several issues of concern between Syria and Turkey. Most immediately, Turkey mounted a large military operation into Iraq to attack the Kurdish Workers Party (PKK). One Syrian source called this operation (which was reported to involve up to 50,000 troops, and hundreds of tanks and aircraft) "an invasion;" the Syrian deployment was a direct response to the Turkish action. But there are two other issues that cloud relations between these two countries. First, Turkeiy has pursued closer relations with Israel. Second, there is a longstanding Syrian concern about water, with the source of a significant amount of Syrian water lying in Turkey. Coder: Ric Stoll. Date: 7/31/02. First day of dispute was on 5/20/1997 and last day of dispute was on 5/00/1997.
+
+MID4291
+rivalry=640652 nationa=TURKEY/OTTOMAN EMPIRE nationb=SYRIA MID4291 19981001-19981119 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Iran claims an equal share of the Caspian Sea oil for each country in the Caspian Sea; Azerbaijan says it should split in line with national boundaries, which would give Iran a smaller slice. Turkey supports Azerbaijan in this dispute. So during the period of 8/24/2001 to 8/25/2001 Turkey's chief of General Staff visited Baku with 10 Turkish F-16 fighter jets. First day of dispute was on 10/1/1998 and last day of dispute was on 11/19/1998.
+
+NARRATIVE-CM:
+Syria and Turkey disputed the sovereignty of Hatay Province (Sanjak of Alexandretta), which had become part of the French mandated territory of Syria in 1921. France transferred the territory to Turkey on July 23, 1939, but Syria declared that the transfer was in violation of the Covenant of the *League of Nations* (LON) and the mandate provided to France by the LON Council. Turkey refused to recognized Syria's independence until Syria recognized Turkey's sovereignty over Hatay Province. Foreign Minister Nuri al-Sa'id of Iraq mediated an agreement between Syria and Turkey on March 6, 1946, which provided for Turkish recognition of Syria's independence without conditions. Syria formally achieved its independence from France on April 17, 1946. King Abdallah of Jordan expressed support for Turkey on January 10, 1947. Turkey closed the border and banned trade with Syria on March 30, 1955. Turkish troops moved toward the Syrian border on May 1, 1957. Syria issued a warning to Turkey on May 7, 1957. The United States accelerated arms shipments to Turkey on September 5, 1957. The Soviet Union accused Turkey of mobilizing troops on the border with Syria, and warned Turkey against attacking Syria on September 10, 1957. Syrian police and Turkish police clashed near the border on October 8, 1957. Syria accused Turkey of aggression on October 9, 1957, and President Gamal Abdel Nasser of Egypt ordered the deployment of troops in Syria on October 13, 1957. Syria referred the matter to the president of the *United Nations *(UN) General Assembly on October 16, 1957. The US warship *Canberra* and other naval ships arrived at Izmir (Smyrna) as a display of military force in support of Turkey on October 18, 1957. King Saud of Saudi Arabia offered to mediate negotiations between Syrian and Turkish representatives on October 20, 1957, but the offer was rejected by Syria on October 23, 1957. The *League of Arab States* (LAS) expressed support for Syria on October 31, 1957. Syria withdrew the referral of the matter to the UN General Assembly on November 1, 1957. Syrian troops fired on a Turkish military aircraft over the port of Latakia on November 4, 1957. Syrian troops and Turkish troops clashed near the border on November 9, 1957. Turkish troops withdrew from the border region beginning on November 19, 1957. 
+
+Turkey accused Syria of providing support for *Kurdistan Workers Party* (PKK) rebels in 1985, but Syria denied the accusation. Syria shot down a Turkish military aircraft on October 11, 1989. President Suleyman Demirel of Turkey warned Syria on October 1, 1998 to end its support of PKK rebels and extradite rebel leader Abdullah Ocalan to Turkey. Libya warned Turkey on October 6, 1998 to avoid aggression against Syria. President Hosni Mubarak of Egypt began mediation on October 6, 1998. The Turkish parliament issued an ultimatum to Syria on October 7, 1998, demanding that Syria end its support of Turkish rebels based on its territory. Oman appealed for peaceful negotiations on October 7, 1998. Prime Minister Abd al-Karim al-Iyrani of Yemen expressed support for Syria on October 7, 1998. Foreign Minister Kamal Kharrazi of Iran, representing the *Organization of the Islamic Conference* (OIC), began mediation on October 8, 1998.
+
+SOURCES-CM: 
+Allock et al., 1992, 402-406; *Associated Press *(AP), October 7, 1998, October 8, 1998, October 9, 1998; Brecher and Wilkenfeld, 1997, 345-346; Butterworth, 1976, 204-205; *Facts on File*, October 3-9, 1957, October 10-16, 1957, October 17-23, 1957, October 24-30, 1957, October 31-November 6, 1957, November 7-13, 1957, November 14-20, 1957; Jessup, 1998, 759-764; *Keesing*, October 19-26, 1957, December 21-28, 1957; Langer, 1972, 1297-1300; *Middle East Journal *(MEJ), Autumn 1956; *Reuters*, October 6, 1998, October 7, 1998, October 8, 1998, October 9, 1998; Sanjian, 1956, 379-394.
+
+NARRATIVE-CR:
+There are several issues that motivate the rivalry between Syria and Turkey. There are territorial issue, resource issues (the damming of the Euphrates), and opposition/insurgent support. The territorial issues dates back to the early part of the 20th century. Syria has never abandoned its claim to the Turkish province of Hatay, which includes the city of Iskenderun. France, the mandatory power over Syria from 1920 to 1941, ceded the area to Turkey in 1939 after a disputed plebiscite, in violation of its League of Nations mandate. 
+
+Tensions with Syria are compounded by Turkey's control over distribution of the waters of the Euphrates River. Turkey's huge Southeast Anatolian Project, with its dams and hydroelectric plants, threatens to deplete Syria's water resources. In addition, Syria has a history of permitting hostile political movements-Armenian, Marxist, and Kurdish-to conduct anti-Turkish operations from Syrian-controlled territory in Lebanon's Bekaa Valley. To a considerable degree, the issues of access to water and Syria's support for the Kurdish insurgency are linked. To the extent that Turkey attempts to accommodate Syria on water sharing, Syria limits its backing of the Kurds. In December 1993, the Syrian government took into custody the Kurdish rebel leader, Abdullah Ocalan, in what was seen as an attempt to strengthen Syria's hand in water negotiations.
+
+The first rivalry between Syria and Turkey takes place from 1955 until 1965 and contains six mids. Syria and Turkey disputed the sovereignty of Hatay Province (Sanjak of Alexandretta), which had become part of the French mandated territory of Syria in 1921. France transferred the territory to Turkey on July 23, 1939, but Syria declared that the transfer was in violation of the Covenant of the League of Nations and the mandate provided to France by the LON Council. Turkey refused to recognize Syria's independence until Syria recognized Turkey's sovereignty over Hatay Province. Foreign Minister Nuri al-Sa'id of Iraq mediated an agreement between Syria and Turkey on March 6, 1946, which provided for Turkish recognition of Syria's independence without conditions. Syria formally achieved its independence from France on April 17, 1946. 
+
+In addition to historic territorial claims this rivalry reflected the Cold War rivalry between the US and the USSR. In 1955, Syria shifted its regional political position toward Nasser's revolutionary Arabism and nonalignment. Egypt and Syria signed a military alliance and Syria purchased Soviet arms. These moves created apprehension in the West. Turkey felts its security threatened, and with US support began an immediate troop buildup on Syria's northern border. A crisis atmosphere was created and serious tensions began in 1957 and there were a number of border clashes involving fatalities. In September of 1957, the Soviet Union accused the US of inciting Turkey to invade Syria. The US responded by stating that any attack on Turkish territory would bring US retaliation on Soviet territory. In November of 1957 the dispute deescalated. This series of incidents describes events in the following MIDs: MID3155 MID3154 MID607. 
+
+In 1958 the states of Egypt and Syrian temporarily joined to create a new nation, the United Arab Republic. Attempts were also made to include Yemen in the union, but the UAR collapsed in 1961 after a coup in Syria, leaving only Egypt, which had been the centre of political activity in the UAR, with Cairo as the capital and Gamal Abdal Nasser as the president. The name United Arab Republic continued to be used by Egypt until 1971, after the death of Nasser.
+
+MID 3152 occurred in March and April of 1958. In April, a Turkish border patrol pursued a group of Syrian smugglers across the border into Syria. A Syrian border patrol responded to the incursion and the patrols clashed with one another resulting in the death of one Syrian patrolman. NYTimes 4/13/1958. This incident occurred amid tensions between the UAR and the West as Nasser decried Western propaganda efforts directed against the UAR. Nasser also complained about the US influence in the Middle East with Baghdad Pact countries. The Baghdad Pact was also known as the Central Treaty Organization (also referred to as CENTO, the Middle East Treaty Organization or (METO). It was adopted in 1954 by Iraq, Turkey, Pakistan, and Iran, as well as Great Britain and the United States. Modeled after the North Atlantic Treaty Organization it committed the nations to mutual cooperation and protection, as well as non-intervention in each other's affairs. It was designed in part to contain the Soviet Union. It lasted nominally until the Iranian revolution of 1979, however had shown strains in 1965 and 1971 when Pakistan tried unsuccessfully to get assistance in its wars with India.
+
+MID3165 occurred in March of 1962. Syrian Army officers staged a coup in March of 1962. President Qudsi resigned, as did the prime minister and the cabinet, and the executive and legislative functions of the government were taken over by an organization called the General Command of the Army and Armed Forces. Demonstrations against this new coup broke out in several of the major cities and, on April 5, the seven military officers who had organized and implemented the coup were sent into exile by other military leaders. On April 10 Qudsi resumed the presidency. The crisis in Syria served to increase tensions on the Turkish border and Turkey closed its border to Syria in early April of 1962. 
+
+MID3168 is a one day dispute that occurred on May 27th of 1965. I was not able to locate information regarding this dispute in the sources listed below and the New York Times, the Times (London), Facts on File, and Keesings Contemporary Archives. However, there were several minor incidents that occurred between the two countries in the mid 1960s. In August of 1964, Syria protested against Turkish incursions into Syrian territory by war planes and ships. Syria retaliated by banning shipping in her territorial waters near Turkey. 
+
+During this interim period there were items that served as distractions to the rivalry in both countries. In Syria, on September 28, 1961, a military coup was staged in Damascus, and Syria seceded from the UAR. From 1961 until 1970 there were a series of coups and counter coups in Syria. This period marked a turning point in the country's domestic affairs. It was the first time that a coup or coup attempt had resulted in widespread violence and loss of life. On July 19, 1961 eight army officers and 12 civilians were convicted in summary trials before revolutionary security courts and were executed by firing squads the same day. 
+
+Between May 1964 and February 1966, there were frequent changes of government reflecting the contest for power between the centrist and leftist wings of the Baath Party. The occasional urban and town riots, student disorders, and pro-Nasser demonstrations were sternly repressed. During this period Hafiz continued to dominate the public scene, but two other Baathist generals, both Alawis, began to exercise decisive power. On February 23, 1966, these two generals, Salah al Jadid and Hafiz al Assad, joined Nureddin Atassi in a coup that placed the more extremist wing of the Baath Party in power. 
+
+Similarly in Turkey, there was a military coup in 1960. On May 27, 1960, Turkish army units, under the direction of the chief of General Staff, Cemal G∏rsel, seized the principal government buildings and communications centers and arrested President Bayar, Prime Minister Menderes, and most of the DP representatives in the Grand National Assembly, as well as a large number of other public officials. Those arrested were charged with abrogating the constitution and instituting a dictatorship.
+
+Further, the June 1967 war took place in the interim here which Syria was significantly involved in. 
+
+The rivalry picks up again with a mid beginning in 1987. This portion of the rivalry contains five mids. Two issues that have caused recurring tension in the last decade of the rivalry have been Syrian support for Kurdish separatism and the division of the waters of the Euphrates. The headquarters of the Kurdish Workers/ Party (PKK), which is fighting against the Turkish government, are in the Syrian controlled Beka'a valley in Lebanon and Turkey claims that Syria enables PKK guerrillas to cross the border d from Syria into Turkey. Syria is concerned at the effect on its water supply of Turkish irrigations schemes in south eastern Turkey and of the Attaturk dam on the Euphrates in Turkey. 
+
+MID2787 took place on March 8, 1987. Here the Syrians published a brochure for the 1987 Mediterranean Games in which Syria referenced their continued claim to Hatay with a map depicting Hatay as a part of Syria. Syria Minister of State responded by stating that this claim constituted a negative factors in Turkish Syrian relations. Syria withdrew the brochure and issued a new one with Hatay redrawn reflecting the Turkish claim to the land. 
+
+MID3922 took place on October 21, 1989. Syrian Air Forces shot down a Turkish plane in Turkish air space on October 11, 1989. Turkey accused Syria of providing support for *Kurdistan Workers Party* (PKK) rebels in 1985, but Syria denied the accusation. Syria shot down a Turkish military aircraft on October 11, 1989. President Suleyman Demirel of Turkey warned Syria on October 1, 1998 to end its support of PKK rebels and extradite rebel leader Abdullah Ocalan to Turkey. Libya warned Turkey on October 6, 1998 to avoid aggression against Syria. President Hosni Mubarak of Egypt began mediation on October 6, 1998. The Turkish parliament issued an ultimatum to Syria on October 7, 1998, demanding that Syria end its support of Turkish rebels based on its territory. Oman appealed for peaceful negotiations on October 7, 1998. Prime Minister Abd al-Karim al-Iyrani of Yemen expressed support for Syria on October 7, 1998. Foreign Minister Kamal Kharrazi of Iran, representing the *Organization of the Islamic Conference* (OIC), began mediation on October 8, 1998.
+
+MID4190 occurred in June of 1996. Here, Syria experienced terrorist bombings in Damascus. The Syrians blamed Ankara for the acts. The Turks denied having anything to do with the violence. The Syrians built up their troop concentration on the border with Turkey to display force and emphasize their concern.
+
+MID4315 occurred in May of 1997. Here, the Turks conducted an operation to pursue PKK rebels that took them inside of Iraq. This outraged many in the region especially Iran and Syria. They both feared that Turkey would take similar action in their countries as each of them contain a significant population of Kurds. The Syrians condemned this action and built up troops on the border to back up claims that they would ensure their sovereignty militarily. 
+
+MID4291 occurred in October and November of 1998. Here the Turkish government warned the Syrian government to stop supporting the Kurdish rebels. The tension reached a point during this two month period that Turkish officials described the conditions between the two countries as a state of undeclared war. Another factor in the tension was Syria's angry reaction to the improved relations between Israel and Turkey. 
+
+It is difficult to tell whether relations between Syria and Turkey have truly turned a corner. With the assumption of power of Bashar Al Asad (the son of Hafez) Syria may move towards a more pragmatic approach in dealing with its neighbors. In January of 2004, leaders of the two countries met to discuss several issues including the war in Iraq, the Kurdish question, and long standing border issues. The emphasis of the meeting was the common ground the two countries share and the prospects for coordinated efforts at solving some of the problems that the countries face jointly. 
+
+SOURCES-CR:
+Agence France Presse, 5/07/97, 6/15/96; Allock et al., 1992, 402-406; *Associated Press *(AP), October 7, 1998, October 8, 1998, October 9, 1998; BBC.co.uk January 2004; Brecher and Wilkenfeld, 1997, 345-346; Butterworth, 1976, 204-205; Collelo, 1988; *Facts on File*, October 3-9, 1957, October 10-16, 1957, October 17-23, 1957, October 24-30, 1957, October 31-November 6, 1957, November 7-13, 1957, November 14-20, 1957; Jessup, 1998, 759-764; *Keesing*, October 19-26, 1957, December 21-28, 1957; Langer, 1972, 1297-1300; Metz, 1996; *Middle East Journal *(MEJ), Autumn 1956; New York Times 10/11/1998 & 10/3/1998 *Reuters*, October 6, 1998, October 7, 1998, October 8, 1998, October 9, 1998; Sanjian, 1956, 379-394.
+
+PS-NARRATIVE: 
+
+19460417-19550325 0.25
+
+Syria became independent on April 17, 1946. On January 5, 1947, Turkey announced that it may be willing to trade support for a trans-Arab state including Syria, Lebanon, Trans-Jordan and Palestine for recognition from the Arab world that it is the rightful owner of Hatay, the region given to Turkey by France at the end of it mandate in Syria. On June 10, 1953, Syria was accused by Turkey of expropriating Turkish nationals in Syria. On March 10, 1955, Turkey sent a note of protest to Damascus accusing Syria of creating an anti-Turkish/Iraqi alliance together with Egypt and Saudi Arabia. In 1955, Syria shifted its regional political position toward Nasser's revolutionary Arabism and nonalignment. Egypt and Syria signed a military alliance and Syria purchased Soviet arms. These moves created apprehension in the West. Turkey felts its security threatened, and with US support began an immediate troop buildup on Syria's northern border. A crisis atmosphere was created and serious tensions began in 1957 and there were a number of border clashes involving fatalities. In September of 1957, the Soviet Union accused the US of inciting Turkey to invade Syria. The US responded by stating that any attack on Turkish territory would bring US retaliation on Soviet territory. The first MID of RIV, MID3155 started on March 26, 1955. 
+
+19981020-20040107 Transition
+
+On September 16, 1998, Turkish Land Forces Commander Gen. Atilla Ates makes a high-profile statement in Hatay, accusing Syria of providing support for the Kurdistan Workers' Party (PKK). Gen. Ates asserts that "Turkey's patience with Syria is running out." On October 1, 1998, in a speech at the opening of Parliament's new legislative year, President Suleyman Demirel announced, "I'm telling the entire world that we reserve our right to retaliate against Syria, which has not given up its hostile stance despite all our warnings and peaceful initiatives." On October 10, 1998, Turkish Prime Minister Yilmaz issues another warning of serious consequences for Syria if it fails to comprehend Turkey's resolve to combat the PKK. "Unless Syria collects its wits about it, it will be a holy duty for us to bring the world crashing down on its head," Yilmaz says. On October 20, 1998, Turkish and Syrian officials sign an agreement under which Damascus pledges to shut down Kurdish separatist camps in its territory and the Syrian-controlled Bekaa Valley in Lebanon. Syria also agrees not to allow PKK terrorists to stage cross-border attacks on Turkey. On October 20, 1998 Yilmaz says that PKK leader Abdullah Ocalan is no longer in Syria but in Russia. Later, Ocalan claims that he left Damascus on October 9, 1998.
+
+A Turkish military delegation left the Syrian capital Damascus on February 24, 1999, after a two-day visit, it was announced. The Turkish delegation headed by Turkey's second army general Aytac Yalman, met on Tuesday with General Adnan Badr Hassan, the head of Syria's political security. The meeting came within the joint Syrian-Turkish security committee formed between the two countries last November. It was decided before the arrest of Abdullah Ocalan leader of Kurdish Workers Party (PKK) the previous week. Syria and Turkey signed in November 1998 in Adhana, southern Turkey, a security deal under which Syria pledged not to support Ocalan's party following the threat from Ankara to attack it over claims that Damascus backed the Kurdish group. After the deal Syria declared the PKK an outlawed party. Ocalan had been the main reason for the dispute between the two countries. Syrian media did not report the visit and no reports had leaked over.
+
+After ousting Kurdish rebel leader Abdullah Ocalan under Turkish pressure, Syria is urging Turkey to start a dialogue on a wide range of problems between the two neighbors, a newspaper said on March 10, 1999. Syria wants to revive a negotiation mechanism set up in 1992 to deal with a range of issues, including how to share water from the Euphrates River. Turkey's strengthening ties with Israel are also a source of tension. Syria's minister of information, Mohammed Salman, told Turkey's Milliyet daily that time has come to address the rival water claims. Turkey and Syria are at odds over an ambitious Turkish irrigation project in southeastern Turkey, which Damascus fears would reduce the flow of the Euphrates River as it crosses into Syria. Turkey has rejected past appeals by Syria on the subject because of what it says is Syria's support of Ocalan and his outlawed Kurdistan Workers Party. Turkish Foreign Ministry officials were not available for comment on the latest call for talks. Turkey, threatening military action, pressured Damascus into ousting Ocalan in October. Ocalan, who had been leading a guerrilla war for autonomy in Turkey's southeast from Syria, was captured by Turkish forces in Kenya last month after months of searching for a new refuge. The 15-year-old conflict between Ocalan's rebels and Turkish troops has killed 37,000 people and badly hurt relations between Damascus and Ankara. Salman urged Turkey to review its ties with Israel in order to establish better relations with Damascus. He also stressed the need for a meeting to strengthen economic ties, the paper said.
+
+On March 24, 1999, Syria and Turkey agreed to boost trade and economic relations, a joint statement said. Salim Yassin, the Syrian deputy prime minister in charge of economic affairs, and his Turkish counterpart Hikmat Ulugbay "exchanged views on economic relations between Syria and Turkey and ways of developing and boosting them," the Syrian news agency Sana said. Yassin arrived in Ankara in the first Syrian-Turkish high-level meeting since Turkey pressured Syria into ousting Kurdish rebel Leader Abdullah Ocalan. Sana said the two sides reached a "joint understanding that might be a basis for (making) initiatives and measures in all trade and economic ties." The two parties "will exert all possible efforts to raise and diversify trade ... In this contest they agreed to exchange visits by mercantile and economic delegations to review the potentials of establishing a private council for businessmen in both countries," the statement said. They also agreed to begin talks on an agreement to avoid double taxation and on another deal to boost and protect investments, the statement added. 
+
+Sehabettin Harput, Sanliurfa governor, said on 21st May 1999 that the relations between Turkey and Syriaincreased following Adana agreement, adding that 44 Turkish citizens received documents to have trade with Syria. Harput told Anatolia correspondent that the relations between Turkey and Syria was not good enough because Syria supported the terrorist organization PKK Kurdistan Workers' Party and sheltered Abdullah Ocalan, terrorist chief, adding that the commercial relations were deteriorated in parallel to this. Stressing that Syria sent the terrorist chief to another country as Turkey pressed and the relations between the two countries entered into a softening period, Harput noted that many things changed after the Adana agreement was signed. Harput said, "The relatives living in two countries could exchange Bayram greetings face to face, not beyond the wires. Now there are significant developments in commercial relations. The exports and imports between the two countries gradually increase. A total of 44 Turkish citizens received the document to have trade with Syria. I hope that this number will increase." Pointing out that they demand 13 products from Syria and Syria demand industrial and food products from Turkey, Harput stated that their target is to turn Akcakale border gate to a first class gate and to set up an open marketplace.
+
+A senior Turkish official discussed on March 6, 2000, with Syrian Deputy Foreign Minister Suleiman Hadad the long-standing water dispute between their two countries. Ujur Ziyal, an advisor to Turkish Foreign Minister Ismail Cem, arrived early Monday at the head of a political delegation on a three-day visit that aims at boosting relations between the two neighbors. Turkish embassy sources in Damascus said the visit was aimed at "discussing bilateral relations in an amicable and frank atmosphere," and is expected to pave the way for a meeting between Cem and his Syrian counterpart Faruk al-Sharaa. The sources, speaking on condition of anonymity, said Turkey looks forward to establishing a "positive relationship with Syria within the framework of mutual respect". Syria's relations with Turkey, marred for years by differences over sharing water from the Euphrates river, have improved in recent years, following the arrest of Kurdish rebel leader Abdullah Ocalan, whom Turkey claimed Syria was harboring. Turkey is building dams along the river, which Syria claims could sharply slow the flow of water to northern Syria. The sources said the talks would also tackle the possibility of "forging ahead a declaration of principles for bilateral relations in the economic, political and cultural fields." They added that the talks would cover the issue of security and water, which Turkey had in the past refused to discuss with Syria because of what it said was Syria's support for Ocalan. Syria has been for many years demanded that Turkey embarks on serious negotiations concerning a fair share of the Euphrates on the basis of a new agreement to replace the one signed in 1987 that allows the flow of 500 cubic meters of water per second into Syria. The sources said Turkey's strengthening ties with Israel, which were of great concern to Syria, "are against nobody, though some countries have misunderstood these relations." They added that Turkey is sincerely desirous that Israel and the Arab countries reach a genuine peace, "which would have a positive impact on the whole region." 
+
+Relations between Turkey and Syria have improved since the arrest of Kurdish rebel leader Abdullah Ocalan, the Foreign Ministry said on April 29, 2000. The two neighbors have been at odds for years over Turkey's accusation that Syria was harboring Kurdish rebels. Last year Ankara forced Damascus to expel Ocalan from his refuge in Syria by threatening military action. ''We cannot say that everything is 100 percent all of a sudden, but (relations) are progressing in a positive way,'' Foreign Ministry Spokesman Sermet Atacanli said. Turkey and Syria signed a cooperation protocol for transportation that could pave the way for increased trade and tourism. But problems remain. Syria fears an ambitious Turkish irrigation project could cut the flow of water from the Euphrates River and it is suspicious of Turkey's ties with Israel. Ocalan was captured in February and is awaiting trial on charges of treason. The 15-year-old conflict between his rebels and Turkish troops has killed close to 37,000 people.
+
+A torrid summer has forced Turkey to cut the water flow to Syria by two-thirds, Turkish officials said on September 26, 2000. Turkey is currently releasing an average of 160 cubic meters (5,600 cubic feet) of water per second from the Euphrates River, said Dogan Altinbilek, chief of Turkey's State Water Works Institute. A 1987 agreement requires Turkey to release to Syria 500 cubic meters (17,500 cubic feet) of Euphrates water a second from its Ataturk Dam in southeastern Turkey. ''Unless it rains and the waters return to normal, we can't meet the 500 cubic meters in October,'' Altinbilek told Hurriyet newspaper. Turkey, which is also facing a severe water shortage, was hit by an unusually hot and dry summer, particularly in its southeastern regions. Foreign Minister spokesman Huseyin Dirioz denied reports that Syria protested the low water flow.
+
+Syria and Turkey are already at loggerheads over how to share the waters of the Euphrates River. Turkey is building dams along the river which Syria claims could sharply reduce the flow of water to northern Syria. Altinbilek warned the Foreign Ministry to update the 1987 agreement with Syria to add a drought clause. He said that in case of drought, Syria should reduce the flow of the Euphrates water to Iraq rather than demand more water from Turkey.
+
+On December 17, 2003, the interior ministers of Turkey and Syria signed a security agreement on designed to enhance cooperation between the two neighbors in the fight against terrorism, organized crime and drug and people smuggling. The agreement came just a few weeks after Syria handed over to Turkey 22 people suspected of being involved in last month's suicide bomb attacks in Istanbul that left 62 people dead. Those suspects were handed over under a previous anti-terrorism deal. Just one of the 22 were subsequently charged in relation to the attacks but Turkish ministers were effusive in their praise of Damascus for quickly rounding up and handing over the suspects. "We in Syria are ready to capture anyone who harms Turkey's security," Syrian Interior Minister Ali Hammoud told reporters after signing the agreement. Turkey and Syria have never been particularly friendly neighbors due to both historical animosity and more recently thanks to Syria's support of the rebel Kurdish Workers' Party (PKK).
+
+Relations have improved measurably since 1999 after Syria expelled PKK leader Abdullah Ocalan after Turkey threatened it may go to war with Syria over the matter. "We must leave behind us all the negatives and instead look ahead," Turkey's Interior Minister said. The increasingly closer relations between Turkey and Syria are in stark contrast to Syria's relation with Turkey's main ally the United States. Last week U.S. President George W. Bush signed into law a bill that authorizes the implementation of sanctions on military-type materials unless Syria stops supporting terrorist groups and withdraws its army from Lebanon. 
+
+20040108-20110314 0.5 
+
+Bashar Assad's visit to Turkey on January 8, 2004, the first by a Syrian president in 57 years, is clearly an important and positive development in the relationship between the two countries. Ties will no doubt be further improved by Assad's evident diplomacy and his willingness to sign economic agreements boosting trade between Syria and Turkey. But in addition to the local influence of Assad's visit, it is important to perceive this visit in terms of its regional and even international impacts. During an interview with Mehmet Ali Birand, Assad revealed that his visit is more than "both visit and business," that Syria perceives the talks in Ankara from a broader perspective: "I don't want to compress the relations between Turkey and Syria into the national borders of the two countries. We need to take the relations in regional terms or maybe, in the future, in international terms." This is a perception shared by Ankara, where there is a belief that the cooperation established with Syria creates an important opportunity to further Turkey's regional and international goals. Syria is also looking forward to Turkey's potential inclusion into the EU. During the interview with Birand, Assad expressed his support for Turkey's negotiations with the EU, claiming he will be happy for Syria to become a neighbor of the EU. Nor is Assad overly concerned about Turkey's friendly relations with Israel, saying "we are not disturbed" by the ties. Assad's comments underline the hope that Turkey can continue developing close relations with Israel and the West, while at the same time improving ties with Syria and the Arab world. Such a situation has been the central desire of Turkish diplomacy for several years now. In yesterday's Yeni Safak, Fehmi Koru analyzed Assad's visit from the perspective of what Damascus had to gain from improved ties with Turkey: "We should expect that improving ties between Syria and Turkey will affect international political developments. Considering this fact, cooperation may seem to be a "union of opposites." And in fact this may be what makes Turkey attractive to Syria-the possibility for a 'union of opposites'." What makes Turkey attractive to Syria is, according to Koru, Turkey's ability to generate international policies through its relationship with the United States, the EU and Israel on one side and the Arab world on the other. Put another way, Turkey is becoming a country that could undertake some very important roles and missions for both East and West. For instance, Turkey appears to be in a position to help solve the problems between Syria and the United States and Israel. It is important to see the current discussions between Turkey and Syria from this point of view.
+
+Turkey plans to explore for oil in land bordering Syria after it removes land mines planted during years of tensions with its southern neighbor, Turkey's defense minister said on March 7, 2004. Turkey announced in 2003 that it planned to clear fertile land bordering Syria of mines and open them up for farming. The announcement followed a sharp improvement in relations between the two countries in recent years. Defense Minister Vecdi Gonul said de-mining would begin in May 2004, and that Turkey would look for oil before some of the land is opened to farming. "The first thing we will do after clearing (the area) is to search for oil," Defense Minister Vecdi Gonul told the Anatolia news agency. "Syria is producing oil on the other side of the border, whereas we can't because the region is mined." Some 615,000 unexploded mines litter the Turkish-Syria border, most of them planted in the late 1950s during Cold War tensions between NATO-member Turkey and Syria. In the 1980s and 1990s, Turkish forces battled Kurdish rebels who launched attacks from bases in Syria. Syrian-Turkish ties improved after 1999, when Turkey threatened military action against Syria over its hosting of Turkish Kurdish rebels, forcing Damascus to expel Kurdish rebel leader Abdullah Ocalan. Syrian President Bashar Assad paid an unprecedented visit to Turkey earlier in 2004 and Turkey's minister in charge of foreign trade, Kursad Tuzmen, is currently in Syria for talks aimed at improving trade. Syria and Turkey are still at odds over Damascus's claims to Turkey's Hatay province, which has a large Arab population, and the sharing of the water from the Euphrates River. Turkeyis building dams along the river, which Syria claims could sharply reduce the flow of water to Syria. Turkey and Syria share a 877-kilometer (526-mile) long border, of which a 300-to 450-meter-(yard-) wide strip is reportedly mined.
+
+On November 19, 2004, the Syrian Ba'th Party deputy leader Abdallah al-Ahmar said when he and his delegation called on the Turkey-Syria Friendship Group in the parliament that the people in the area will not be forced to travel to Ankara or Istanbul to acquire a visa for Syria when the consulate opens in Gaziantep. Al-Ahmar and his delegation called on Yuksel Cavusoglu, head of the Turkey-Syria Friendship Group. He asserted that the consulate will facilitate visa procedures.
+
+Turkey will supply Syria with 1.4 billion kilowatts of electricity over a period of one year beginning next week agreement signed on October 4, 2006, Syria's official news agency reported. The agreement, which is renewable annually, was signed here by Mohammed Abu Jaish, head of the state-owned Electricity Company in Syria and Haji Doran Koyaka of the Turkish Electricity Company. Turkey's Birecik power plant will begin providing electricity to Syria on October 11, 2006, SANA said. It did not give the financial details of the deal. Ties between Syria and Turkey were strained for much of the 1980s and 1990s when Turkey accused Syria of harboring Turkish Kurd guerrilla leader Abdullah Ocalan, and Syria said Turkey's building of a series of dams was restricting the flow of water down the Euphrates and Tigris rivers. But relations improved after 1998 when Syria, bowing to Turkish pressure, expelled Ocalan who was later captured and imprisoned in Turkey. Turkish Prime Minister Recep Tayyip Erdogan's visit to Damascus in December 2004, when he signed a trade pact with Syrian officials and agreed to allow additional water to flow into Syria helped restore neighborly ties. The details of the Free Trade Agreement (FTA) signed between Turkey and Syria during Prime Minister Recep Tayyip Erdoethan's visit to Syria in the final weeks of 2004 have come to light. According to the agreement, after the two countries have completed their internal procedures, Turkey will lift all customs taxes on Syrian industrial imports, however, Syria will be given a 12-year transition period for lifting customs taxes on the country's imports from Turkey. When the agreement comes into force, Syria will immediately lift customs taxes on its imports from Turkey on all products for which the tax rate is lower than 3 percent. Customs taxes on products with 5-7 percent tax will be lifted in 3 years, 10-14.5 percent in 6 years, 20-23.5 percent in 9 years, and 29-47 percent in 12years. Moreover, Syria has also agreed to make important reductions on the customs taxes of products with tax rates of over 50 percent. It was noted by officials that the transition periods mentioned in the agreement were arranged to be parallel to the ones between Syria and the European Union (EU), but that the negotiations between Turkey and Syria had taken a comparatively shorter period. Officials stated that the while the negotiations between Turkey and Syria had taken only three rounds to reach its desired state, the EU-Syria negotiations on the Europe-Mediterranean Partnership Agreement had lasted 10 rounds. The Joint Committee, which was formed to conduct the negotiations between Turkey and Syria, had three meetings, two in Ankara and one in Damascus, between April and August 2004. As a result of conformity being reached on the text, the agreement was signed on Dec. 22, 2004 in Damascus during Erdoethan's visit to Syria. The Undersecretariat of the Prime Ministry for Foreign Trade (DTM) officials have commented that with the Turkey-Syria FTA, details of Syria's foreign trade policy, which was previously very hard to get information on, has finally come to light. "We were facing difficulty in getting information even on the taxes in force. (Through this agreement) our trade relations with Syria will have a stronger and more transparent base." The Turkey-Syria FTA, which will come into force in 2005 after the completion of internal procedures, is expected to accelerate Turkey's negotiations with other countries in this region, especially with Lebanon.
+
+PS-SOURCES: New York Times January 5, 1947; June 12, 1953; March 11, 1955; Associated Press March 10, 1999; April 29, 1999; September 26, 2000; March 7, 2004; October 4, 2006; Deutsche Presse Agentur February 24, 1999; March 24, 1999; March 6, 2000; December 17, 2003; Xinhua September 28, 2000; BBC May 21, 1999; November 19, 2004; Turkish Daily News January 4, 2005
+
+20110315-20121002 Transition
+
+The transition period starts on March 15, 2011 which marks start date of Syrian Civil War. On this day, activist called for a “Day of Rage” in Syria, which was inspired by other uprisings in the Arab world. There was an influx of Syrian refugees that caused tension, but nothing serious until a bomb from Syria caused several casualties on October 3, 2012. Because of this Turkey retaliated and marked the start of a rivalry between both countries. 
+
+20121003-20159999 0.00
+
+On October 3, 2012 a bomb fired from Syria hit a house in the central area of Akçakale, which resulted in casualties. As a result Turkey retaliated with strikes into Syria for several days. 29 October 29, 2012, Turkey also strikes Syria after shells hit Turkish village. On May 11, 2013 a blast from Syria kills dozens in Turkish town of Reyhanli on Syria border. On September 16, 2013, Turkish fighter jets shoot down a Syrian Mi-17 helicopter that violated Turkish airspace. 23 March 23, 2014, Turkish fighter jets again shoot down a Syrian warplane. The Syrian Arab Republic claims aircraft was in Syrian airspace on a mission the city of Latakia, when it was shot down by Turkey and called it an act of aggression. On February 21-22, 2015, a convoy with Turkish troops, tanks, and armored vehicles entered Syria through Kobanî to evacuate the 38-man Turkish military garrison guarding the Suleyman Shah tomb. The remains of Suleyman Shah were moved to a site in Syria closer to the border in an area under Turkish military control. Syria condemned Turkey for entering country without permission called it an act of aggression. On February 1, 2016, Syria accused and condemned the Turkish military of shelling a location in the country’s northern Latakia province, which resulted in several injuries.
+
+Sources: http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9585945/Turkey-shells-Syria-live.html; https://www.theguardian.com/world/2012/oct/04/turkey-syria-threat-security-live; http://english.alarabiya.net/articles/2012/06/22/222135.html; http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9594146/Turkey-shells-Syria-for-sixth-day.html; http://www.bbc.com/news/world-middle-east-22494128; http://www.reuters.com/article/us-syria-crisis-turkey-idUSBRE98F0K920130916; https://web.archive.org/web/20141031231249/http://bigstory.ap.org/article/heavy-clashes-syria-near-turkish-border
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

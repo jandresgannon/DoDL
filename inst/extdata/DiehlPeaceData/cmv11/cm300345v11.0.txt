@@ -1,0 +1,138 @@
+FILE: cm300345v11.0.txt
+DYAD: AUSTRIA-HUNGARY - YUGOSLAVIA
+RIVALRY: RIV781
+DISPUTE(S): MID30 MID21 MID3 MID257 
+
+PS: 19009999-19081004 .5 19081005-19181112 0.0
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20180211
+PS-LAST-CHECKED: 20180211
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 
+
+MID30
+
+TERRMID: MID30 1 -- territorial MID
+TERRMID-CER: MID30 1 -- certain 
+TERRMID-NOTES: MID30 from Gibler (2018), Austria-Hungary intended to annex Bosnia and Serbia (Yugoslavia) protested. Other countries, including Germany and Russia, became involved in negotiating the annexation (Germany for, Russia against). Serbia mobilized its army and demanded that Austria back down, but was ultimately forced to accept teh annexation. This was a major factor leading up tp WWI. Coded territorial MID because this involved a forceful annexation of territory. 
+
+TERRLINK: MID30 3 -- not third party link to territory 
+TERRLINK-CER: MID30 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID30 3 -- not maritime 
+MARITMID-CER: MID30 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID30 3 -- not islands 
+ISLMID-CER: MID30 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID30 3 -- not civil war 
+CIVWARMID-CER: MID30 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID30 3 -- not civil war link
+CIVWARLINK-CER: MID30 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID30 3 -- not coup 
+COUPMID-CER: MID30 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID30 3 -- not coup link
+COUPLINK-CER: MID30 1 -- certain 
+COUPLINK-NOTES: 
+
+MID21
+
+TERRMID: MID21 2 -- somewhat connected to territory
+TERRMID-CER: MID21 1 -- certain 
+TERRMID-NOTES: MID21 from Gibler (2018), Austria did not want Serbia (Yugoslavia) to have access to the Adriatic via a port in Albania that Austria controlled. Russia supported Serbia's access, and Austria and Serbia mobilized troops over this issue. Russia eventually backed down. Coded somewhat connected to territory because Serbia and Russia were not disputing Austria's sovereignty over the port, but they were asserting that Serbia should have the right to travel through Austria's territory to access the Adriatic Sea. 
+
+TERRLINK: MID21 3 -- not third party link to territory 
+TERRLINK-CER: MID21 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID21 3 -- not maritime 
+MARITMID-CER: MID21 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID21 3 -- not islands 
+ISLMID-CER: MID21 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID21 3 -- not civil war 
+CIVWARMID-CER: MID21 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID21 3 -- not civil war link
+CIVWARLINK-CER: MID21 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID21 3 -- not coup 
+COUPMID-CER: MID21 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID21 3 -- not coup link
+COUPLINK-CER: MID21 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3
+
+TERRMID: MID3 1 -- territorial MID 
+TERRMID-CER: MID3 1 -- certain 
+TERRMID-NOTES: MID3 from Gibler (2018), after the First Balkan War, Austria-Hungary controlled Albania and sought to claim more of the surrounding territory from Yugoslavia. Yugoslavia wanted to prevent Austrian expansion. Montenegro (Yugoslavia) occupied the Albanian town of Scutari, and Austria mobilized in response. Most Yugoslavian states backed down, but Serbia refused to, although they were eventually forced to back down and accept Austrian expansion. Coded territorial MID because this is connected to Austria claiming and annexing more territory in Albania. 
+
+TERRLINK: MID3 3 -- not third party link to territory 
+TERRLINK-CER: MID3 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3 3 -- not maritime 
+MARITMID-CER: MID3 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3 3 -- not islands 
+ISLMID-CER: MID3 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3 3 -- not civil war 
+CIVWARMID-CER: MID3 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3 3 -- not civil war link 
+CIVWARLINK-CER: MID3 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3 3 -- not coup 
+COUPMID-CER: MID3 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3 3 -- not coup link 
+COUPLINK-CER: MID3 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Austria-Hungary announced the annexation of Bosnia-Herzegovina on October 5, 1908. Serbia, which had hoped to incorporate Bosnia-Herzegovina into a greater Serbia, disputed Austria-Hungary's annexation of the territory. On November 11, 1908, Austria-Hungary issued a warning to Serbia to cease its preparations for war. Serbia withdrew its troops from the border with Austria-Hungary on November 17, 1908. Austrian-Hungarian troops and Serbian troops clashed near the border on November 21-22, 1908, resulting in the deaths of some 20 individuals. Austrian-Hungarian and Turkish representatives signed an agreement on February 26, 1909, which provided for Austrian-Hungarian compensation to the Ottoman Empire for the annexation of Bosnia-Herzegovina. Austria-Hungary issued an ultimatum to Serbia to relinquish its claims to Bosnia-Herzegovina, but Serbia refused to recognize the annexation on March 10, 1909. France offered to mediate negotiations between the parties on March 18, 1909. Britain, France, and Russia appealed to Serbia for peaceful negotiations on March 19, 1909. Serbia agreed to recognize the Austrian-Hungarian annexation of Bosnia- Herzegovina on March 31, 1909. Archduke Francis Ferdinand of Austria-Hungaria was assassinated by a Serbian nationalist in Sarajevo, Bosnia-Herzegovina on June 28, 1914. Germany expressed support for Austria-Hungary on July 4, 1914. Austria-Hungary issued an ultimatum to Serbia on July 23, 1914, and Serbia mobilized its military forces on July 25, 1914. Austria-Hungary severed diplomatic relations with Serbia on July 27, 1914, and declared war against Serbia on July 28, 1914. Russia decided to prepare to mobilize its military forces in support of Serbia on July 26, 1914, and Russia ordered partial mobilization of some 6 million troops on July 29, 1914. On August 1, 1914, Germany declared war against Russia after demanding the demobilization of Russian troops. Montenegro declared war against Austria-Hungary on August 5, 1914. Some 200,000 Austrian-Hungarian troops commanded by General Oskar Potiorek invaded Serbia on August 12, 1914, but Serbian troops commanded by General Radomir Putnik defeated the Austrian-Hungarian troops in the battle of the Jadar River on August 16-21, 1914. Austrian-Hungarian troops executed 126 Serbian civilians near Foca on August 14, 1914. Some 6,000 Austrian-Hungarian soldiers and 3,000 Serbian soldiers were killed during the attempted invasion. Serbian troops invaded Austrian-Hungarian territory on September 5-12, 1914. Some 300,00). Meanwhile, Austrian-Hungarian troops invaded Serbia on September 7, 1914, and Austrian-Hungarian troops captured Belgrade on December 2, 1914. Serbian troops launched a counter-military offensive against Austrian-Hungarian troops on December 3, 1914, and Serbian troops recaptured Belgrade on December 15, 1914. Some 60,000 Austrian-Hungarian soldiers were killed or wounded during the conflict for Belgrade, while some 30,000 Serbian soldiers were killed or wounded. Italy declared war against Austria-Hungary on May 23, 1915. Austrian-Hungarian troops and German troops launched a military offensive against Serbia on October 6, 1915, and captured Belgrade on October 9, 1915. Some 100,000 Serbians were killed or wounded during the military offensive. Bulgaria declared war against Serbia on October 14, 1915, and Bulgarian troops captured Nis on November 5, 1915. British troops commanded by General Bryan Mahon and French troops (156th Division) commanded by General Maurice Sarrail intervened in support of Serbia beginning on October 14, 1915. Bulgarian troops captured Pristina on November 23, 1915, and captured Monastir on December 2, 1915. British troops and French troops were forced to withdraw into Greece on December 10, 1915. Some 220,000 Serbian soldiers and 200,000 Serbian civilians fled as refugees to Albania. Austrian-Hungarian troops launched a military offensive against Montenegro on January 8, 1916, and Austrian-Hungarian troops captured Cetinje, Montenegro on January 13, 1916. Some 200,000 Serbian troops were evacuated to the Greek islands of Corfu and Vido on January 15-16, 1916. Montenegro surrendered to Austrian-Hunagarian troops on January 17, 1916. Some 70,000 Serbian soldiers died on the islands of Corfu and Vido. British and French transport ships carried some 130,000 Serbian troops to Salonica (Thessaloniki), Greece in April 1916, and Allied troops launched a military offensive against *Central Powers *troops in southern Serbia (*Salonica Front*) on September 12, 1916. Allied troops advanced as far as Monastir by November 19, 1916. Some 50,000 Allied troops and 60,000 *Central Powers *troops were killed or wounded during the military offensive. Greece declared war against Austria-Hungary on June 27, 1917. Allied troops launched a military offensive against *Central Powers *troops in southern Serbia (*Salonica Front*) on September 14, 1918, and Bulgaria agreed to a cessation of military hostilities against the Allied countries on September 30, 1918. Serbian troops liberated Belgrade on November 1, 1918. Austria-Hungary agreed to a cessation of military hostilities against the Allied countries on November 3, 1918. The *Kingdom of the Serbs, Croats, and Slovenes* (Yugoslavia) was proclaimed in Belgrade on December 4, 1918. Austria and Yugoslavia signed the *Treaty of St. Germain on September 10, 1919, which provided for the Yugoslav acquisition of Bosnia-Herzegovina, Slovenia, and Dalmatia. Some 125,000 Serbian soldiers and 650,000 Serbian civilians died during the *First World War, *and some 925,000 Austrian-Hungarian soldiers and 300,000 Austrian-Hungarian civilians died during the war.
+
+SOURCES-CM: 
+Clodfelter, 1992, 747-748, 762-763; Dedijer et al. 1974; Ference, 1994, 393-436; Gilbert 1994; Langer, 1972, 798-799, 943-979.
+
+NARRATIVE-CR:
+The rivalry between Austria and Yugoslavia began with the annexation of Bosnia by the Austria-Hungarian Empire in October of 1908 (MID30). Russia agreed to allowing the annexation of Bosnia if it could exchange it for other territories and financial reparations. Russia however failed to account for the Serbian reaction. Yugoslavian Serbs felt betrayed by the Russians and demanded that they retract the deal. Ultimately the annexation could not occur because of Britain and France's threat of war with Austria-Hungary (www.onwar.com 2003). 
+
+The rivalry continued through the First and Second Balkan Wars. Austria Hungary wishing to contain the expansion of the Serbians convinced the Western Powers to create an Independent Albania (Stavrianos 2000), preventing Serbia an outlet to the Adriatic sea and requiring the removal of Serbian forces (MID21). Following the First Balkan War the Treaty of London awarded the Serbs almost all of the remaining Ottoman lands in Europe but Austria backed Bulgaria's attacks in Macedonia (Stavrianos 2000). Bulgaria was defeated and Serbian territorial holdings substantially increased in Macedonia (MID3). 
+
+The final dispute, the First World War, MID257, resolved the issue of Serbian influence in the Balkan region for the Austria-Hungarian Empire once and for all. Although the dispute is coded as ending on November 11th of 1918 (the date of the armistice between Germany and the Allied Powers) the dispute effectively ended with the Treaty of Versailles which called for the dissection of the Austria-Hungarian Empire (Nicolson 2001). The Austro-Hungarian Empire was entirely dismantled, and a new nation of Czechoslovakia was formed. The state of Poland was revived with new borders, Bulgaria and Hungary were reduced in size, and Finland, Estonia, Latvia and Lithuania became independent states (Clodfelter 1992). The end of the Austria-Hungarian Empire effectively ended the Rivalry with the Yugoslavian Serbs in 1918. 
+
+SOURCES-CR:
+Clodfelter 1992; Nicolson 2001; Stavrianos 2000
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

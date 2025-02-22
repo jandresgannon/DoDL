@@ -1,0 +1,97 @@
+FILE: cm620666v11.0.txt
+DYAD: LIBYA - ISRAEL
+RIVALRY: RIV1180
+DISPUTE(S): MID1043 
+RIVALRY: RIV1181
+DISPUTE(S): MID2591 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190429
+PS-LAST-CHECKED: 20190429 
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1043
+
+TERRMID: MID1043 3 -- not territory
+TERRMID-CER: MID1043 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1043 3 -- not third party link to territory 
+TERRLINK-CER: MID1043 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1043 3 -- not maritime 
+MARITMID-CER: MID1043 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1043 3 -- not islands 
+ISLMID-CER: MID1043 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1043 3 -- not civil war 
+CIVWARMID-CER: MID1043 1 -- certain
+CIVWARMID-NOTES: MID1043 from Gibler 2018, in 1973 Israel shot down a civilian Libyan airliner in Israeli airspace that refused to respond to orders to land. Coded not civil war because although Libya did provide support for anti-Israel terrorist groups, that was not connected to this incident. 
+
+CIVWARLINK: MID1043 3 -- not civil war link
+CIVWARLINK-CER: MID1043 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1043 3 -- not coup 
+COUPMID-CER: MID1043 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1043 3 -- not coup link
+COUPLINK-CER: MID1043 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2591
+
+TERRMID: MID2591 3 -- not territory
+TERRMID-CER: MID2591 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2591 3 -- not third party link to territory 
+TERRLINK-CER: MID2591 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2591 3 -- not maritime 
+MARITMID-CER: MID2591 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2591 3 -- not islands 
+ISLMID-CER: MID2591 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2591 1 -- civil war MID
+CIVWARMID-CER: MID2591 2 -- somewhat certain
+CIVWARMID-NOTES: MID2591 from Gibler 2018, in 1986 Israel forced down a Libyan plane in Israel that was suspected of carrying a wanted terrorist, but found he was not aboard and released the plane. Coded civil war MID because from NYT 1986, Israel suspected that a Palestinian terrorist leader was on the plane and that the leader was returning from a conference of radical Arab and Palestinian organizations in Libya. The specific organization the leader belongs to is unclear, which explains why we code it somewhat uncertain. The claim that the wanted terrorist was a leader who was traveling internationally to attend a conference of radical organizations, however, suggests that the group is an organized, militarized rebel group. 
+
+CIVWARLINK: MID2591 3 -- not civil war link
+CIVWARLINK-CER: MID2591 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2591 3 -- not coup 
+COUPMID-CER: MID2591 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2591 3 -- not coup link
+COUPLINK-CER: MID2591 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Israeli military aircraft fired on a Libyan airliner over the Sinai Peninsula on February 21, 1973, resulting in the deaths of 93 individuals. Tunisia condemned Israel on February 21, 1973, and Tanzania condemned Israel on February 22, 1973. The *International Civil Aviation Organization *(ICAO) condemned Israel on March 1, 1973. Israeli military aircraft intercepted a Libyan civilian plane near Cyprus on February 4, 1986, and forced the Libyan plane to land in northern Israel. The Libyan plane was later allowed to fly to Damascus, Syria. The United States vetoed a *United Nations *(UN) Security Council resolution on February 6, 1986, which would have condemned Israel for the interception of the Libyan plane.
+
+SOURCES-CM: 
+*Africa Diary*, March 26-April 1, 1973; *Africa Research Bulletin* (ARB), February 1-28, 1973, March 15, 1986; *Keesing,* March 5-11, 1973, March 1986.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times (1986). Israelis Intercept a Libyan Civil Jet and Then Let it Go. New York Times February 5. By Thomas L. Friedman, special to the New York Times: A1.

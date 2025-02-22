@@ -1,0 +1,90 @@
+FILE: cm220731v11.0.txt
+DYAD: FRANCE - N. KOREA
+RIVALRY: RIV590
+DISPUTE(S): MID51 
+RIVALRY: RIV591
+DISPUTE(S): MID3951 
+
+PS-LAST-CHANGED: 20170809
+PS-LAST-CHECKED: 20170810
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002731 narrative, this MID is the Korean War. UN/NATO forces, including France, fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and UN/NATO’s support for South Korea led them to fight directly with NKOR, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID51 1 -- civil war MID
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES: MID51 from cm narrative, France, as part of UN forces, intervened in the Korean War to assist South Korea and prevent the communists in the North from taking control of the peninsula. This war has a civil war element, as the primary disputants were Koreans who were divided along nationalist vs communist lines. Coded civil war MID because the civil war was within this dyad, and led to UN intervention and the triggering of the MID between France and North Korea here. 
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 is the Korean War, which has a civil war element. Coded civil war link because the civil conflict is present in South Korea also, outside of this dyad. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3951 
+
+TERRMID: MID3951 3 -- not territory 
+TERRMID-CER: MID3951 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3951 3 -- not third party link to territory 
+TERRLINK-CER: MID3951 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3951 3 -- not maritime 
+MARITMID-CER: MID3951 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3951 3 -- not islands 
+ISLMID-CER: MID3951 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3951 3 -- not civil war 
+CIVWARMID-CER: MID3951 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3951 1 -- civil war link 
+CIVWARLINK-CER: MID3951 3 -- uncertain 
+CIVWARLINK-NOTES: MID3951 from Gibler, Little, and Miller (2016: IIB-47), a French warship fired shots to halt a North Korean freighter as part of the trade embargo against Iraq. GLM suggest this case be dropped because there was no protest from North Korea. Coded civil war link because the embargo against Iraq was connected to civil conflict activity (the embargo was part of sanctions to prevent Hussein from attacking Kurds), and this MID is connected to that embargo. Coded uncertain because GLM recommend this case be dropped. 
+
+COUPMID: MID3951 3 -- not coup 
+COUPMID-CER: MID3951 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3951 3 -- not coup link
+COUPLINK-CER: MID3951 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

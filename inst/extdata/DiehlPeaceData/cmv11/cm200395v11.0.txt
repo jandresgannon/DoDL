@@ -1,0 +1,256 @@
+FILE: cm200395v11.0.txt
+DYAD: UNITED KINGDOM-ICELAND
+RIVALRY: RIV10449
+DISPUTE(S): MID2865 MID2875 MID354 MID619
+
+RIVNOTES: RIV10449 was formerly two separate rivalries but because all the disputes are fishing and territorial waters these MIDs all form one rivalry.
+ 
+PS: 19440617-19450814 0.5 19520312-19760601 0.25 19760602-19810601 .50
+
+PS-UPDATE2020:Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PSNOTES:
+
+PS-LAST-CHECKED: 20220420
+PS-LAST-CHANGED: 20220420
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID2865 
+
+TERRMID: MID2865 3 -- not territory 
+TERRMID-CER: MID2865 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2865 3 -- not third party link to territory 
+TERRLINK-CER: MID2865 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2865 1 -- maritime MID
+MARITMID-CER: MID2865 1 -- certain 
+MARITMID-NOTES: MID2865 from Gibler (2018), this is the "Cod War." Iceland claimed that its exclusivity to fishing in its waters extended 12 miles out from its coast. UK disputed this extension and continued fishing in waters Iceland claimed. Iceland seized a British ship and encountered resistance when it attempted to seize another. UK attempted to bring the dispute to the ICJ but the ICJ chose not to hear the case. Coded maritime MID because this was triggered by a dispute over where Iceland's exclusive maritime boundaries were located. 
+
+ISLMID: MID2865 3 -- not islands 
+ISLMID-CER: MID2865 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2865 3 -- not civil war 
+CIVWARMID-CER: MID2865 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2865 3 -- not civil war link 
+CIVWARLINK-CER: MID2865 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2865 3 -- not coup 
+COUPMID-CER: MID2865 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2865 3 -- not coup link
+COUPLINK-CER: MID2865 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2875 
+
+TERRMID: MID2875 3 -- not territory 
+TERRMID-CER: MID2875 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2875 3 -- not third party link to territory 
+TERRLINK-CER: MID2875 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2875 1 -- maritime MID
+MARITMID-CER: MID2875 1 -- certain 
+MARITMID-NOTES: MID2875 from Gibler (2018), this was another incident connected to Iceland's unilateral extension of its fishing waters. UK protested, and attacks on UK fishing boats followed. This dispute eventually led to the UN convening the UNCLOS in March 1960. Coded maritime MID because this was connected to a dispute over Iceland's exclusive fishing waters. 
+
+ISLMID: MID2875 3 -- not islands 
+ISLMID-CER: MID2875 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2875 3 -- not civil war 
+CIVWARMID-CER: MID2875 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2875 3 -- not civil war link 
+CIVWARLINK-CER: MID2875 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2875 3 -- not coup 
+COUPMID-CER: MID2875 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2875 3 -- not coup link
+COUPLINK-CER: MID2875 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID354 
+
+TERRMID: MID354 3 -- not territory 
+TERRMID-CER: MID354 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID354 3 -- not third party link to territory 
+TERRLINK-CER: MID354 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID354 1 -- maritime MID
+MARITMID-CER: MID354 1 -- certain 
+MARITMID-NOTES: MID354 from Gibler (2018), this is the Second Cod War. Iceland again extended its EEZ waters to 50 miles out (from 12 miles), triggering another protest from UK, leading to several minor clashes between UK and Icelandic fishing vessels. Coded maritime MID because this was connected to a disagreement over the extent of Iceland's EEZ waters. 
+
+ISLMID: MID354 3 -- not islands 
+ISLMID-CER: MID354 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID354 3 -- not civil war 
+CIVWARMID-CER: MID354 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID354 3 -- not civil war link 
+CIVWARLINK-CER: MID354 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID354 3 -- not coup 
+COUPMID-CER: MID354 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID354 3 -- not coup link
+COUPLINK-CER: MID354 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID619 
+
+TERRMID: MID619 3 -- not territory 
+TERRMID-CER: MID619 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID619 3 -- not third party link to territory 
+TERRLINK-CER: MID619 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID619 1 -- maritime MID
+MARITMID-CER: MID619 1 -- certain 
+MARITMID-NOTES: MID619 from Gibler (2018), in 1975, Iceland again extended its claims to EEZ waters from 50 miles to 200 miles from its coast, triggering protest from UK, and minor clashes between fishing vessels of both countries followed. Coded maritime MID because this was connected to a dispute over the extent of Iceland's EEZ waters. 
+
+ISLMID: MID619 3 -- not islands 
+ISLMID-CER: MID619 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID619 3 -- not civil war 
+CIVWARMID-CER: MID619 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID619 3 -- not civil war link 
+CIVWARLINK-CER: MID619 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID619 3 -- not coup 
+COUPMID-CER: MID619 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID619 3 -- not coup link
+COUPLINK-CER: MID619 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+NARRATIVE-CM:
+Iceland extended its maritime border to four miles on May 15, 1952. Iceland decided to extend its maritime border from four to twelve miles on May 25, 1958, and Britain formally protested the decision on June 3, 1958. Iceland formally extended its maritime border to twelve miles on September 1, 1958. British fishing vessels and British naval ships crossed the 12-mile maritime border on September 1, 1958. Iceland has forbidden British ships in its harbors on September 26, 1958. Britain delivered a protest to Iceland on October 2, 1958, and Iceland rejected the protest on October 3, 1958. Icelandic naval ships fired on the British fishing vessel *Kingston Emerald *on October 6, 1958. British and Icelandic representatives held negotiations on October 1-10, 1960, and Britain agreed to recognize Iceland's 12-mile maritime border on February 27, 1961. Iceland decided to extend its maritime border to 50 miles on November 28, 1971. The parliament of Iceland voted to extend the maritime border to 50 miles on February 16, 1972, and the government of Iceland formally extended the maritime border to 50 miles on February 24, 1972. Britain refused to recognize the maritime border extension, and submitted the dispute to the *International Court of Justice* (ICJ) on April 14, 1972. British and Icelandic representatives held negotiations in London and Reykjavik between May 24 and July 12, 1972. The ICJ issued an interim ruling on August 17, 1972, which suggested that Iceland should not extend its maritime border to 50-miles. Iceland rejected the ICJ ruling and extended its maritime border to 50-miles on September 2, 1972. Britain re-submitted the dispute to the ICJ in November 1972. Icelandic coast guard ships and British fishing vessels clashed on April 23-24, 1973. Icelandic coast guard ships fired on British fishing vessels on May 14-15, 1973, and Britain deployed naval ships near the disputed waters on May 19, 1973. British naval ships and Icelandic coast ships clashed on several occasions between May 20 and September 10, 1973. Iceland referred the matter to the *North Atlantic Treaty Organization *(NATO) on May 28, 1973, and the NATO Council appealed for peaceful negotiations between the countries on May 29, 1973. Norway offered to mediate negotiations between the parties, but Iceland rejected the mediation offer in May 1973. Iceland threatened to severe diplomatic relations with Britain on September 11, 1973. Iceland agreed to set aside an area within their maritime border for British fishing vessels on November 13, 1973. The Icelandic naval ship *Thor* attacked and captured the British fishing vessel *C. S. Forester* within Iceland's maritime border on July 19, 1974. The ICJ issued a ruling on July 25, 1974, which stated that Iceland could not prohibit British fishing vessels within the 50-mile border. Iceland announced that it intended to extend its maritime border to 200-miles on July 15, 1975. British and Icelandic representatives held negotiations on October 23-25, 1975. Britain deployed three naval ships within the 50-mile zone on December 7, 1975. Iceland referred the matter to the UN Security Council on December 11, 1975 and to the NATO Council on January 8, 1976. Iceland severed diplomatic relations with Britain on February 19, 1976. The *Nordic Council *(Denmark, Finland, Iceland, Norway, Sweden) appealed to Britain to withdraw its naval ships from Icelandic territorial waters on February 29, 1976. Britain ordered its naval ships from the waters around Iceland on May 30, 1976. British and Icelandic representatives signed an interim agreement in Oslo, Norway on June 1, 1976, which allowed British fishing vessels rights within the 200-mile zone. Iceland resumed diplomatic relations with Britain on June 1, 1976. Britain agreed to recognize the 200-mile maritime border in 1977.
+ 
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 608-610; Donelan and Grieve, 1973, 164-167; Jessup, 1998, 129-130, 299-300; *Keesing*, November 1-8, 1958, April 29-May 6, 1972, May 7-13, 1973, August 6-12, 1973, December 10-16, 1973, September 9-15, 1974, January 9, 1976, March 26, 1976, July 9, 1976.
+
+PS-NARRATIVE: 
+
+19440617-19450814 0.5
+
+In 1940, Iceland was a self-governing protectorate of Denmark. When Germany invaded Denmark on April 9, 1940, all relations between the two countries were ended. Initially neutral in World War II, Iceland was invaded on May 10, 1940 by the United Kingdom. The logic for the invasion was allied force fears of a German invasion of Iceland. Iceland was viewed as a critical strategic territory in the North Atlantic. In 1941, Iceland and the United States signed a defense agreement formally transferring responsibility for the defense of Iceland from Britain to the United States. On June 17, 1944, Iceland, through a plebiscite, declared itself an independent republic. Iceland took over responsibility for its own defense in 1946; however, the United States retained access to a base in Keflavic. On March 30, 1949, Iceland and the United Kingdom became charter members of NATO. In 1951, Iceland and the United States signed a defense agreement returning responsibility for Iceland's defense to the United States and returning US troops to the state.
+
+Iceland viewed fishing resources of vital interest because fishing is the `very foundation of the modern Icelandic economy and it is the only highly-developed industry.' Fish and fish products accounted for, on average, 89.7 percent of Iceland's total exports in the years from 1881-1976. 
+ 
+Tensions between Iceland and the United Kingdom began almost immediately after independence. In 1901, the Fisheries Convention was signed between Great Britain and the King of Denmark to regulate British access to fishing off of Iceland's coast. Iceland viewed the Fisheries Convention as a major contributor to overfishing of Icelandic waters and a reduction in Iceland's share of fishing exports from those waters. In 1949, Iceland, against the wishes of the UK, petitioned the International Law Commission to review codification of territorial water limits. Britain, along with Norway, argued against a review of territorial water limits stating that the three mile limit currently in use was well established in practice. The previous year, in 1948, Iceland took the first steps toward greater regulation of territorial waters by passing the Fundamental Conservation Law of 1948. The law authorized the Icelandic Ministry of Fisheries to determine zones of conservation within the continental shelf. This act became the foundation for all subsequent extensions of Iceland's territorial waters.
+
+In 1949, Iceland voted to abrogate the 1901 Fisheries Convention. The Convention limited Iceland's fishing jurisdiction to three miles and opened all bays to foreign access. Abrogation of the treaty required two years notice; therefore, the treaty remained in force until 1951. In 1950, Iceland passed a series of laws regulating the type of fishing that could take place within its territorial waters. In 1952, after the 1901 Fisheries Convention ended, Iceland passed a resolution extending territorial waters from 3 miles to 4 miles. In addition, bays were closed off to foreign fishing. 
+
+19520312-19760601 RIV10449-0.75
+
+The UK officially protested the new laws, arguing that Iceland was limiting Britain's rights to `fish the high seas.' An official protest was issued on May 2, 1952, however, Iceland reject the protest on May 12, 1952, thus escalating the dispute. In response to the new laws, British trawlers imposed a landing ban on Icelandic trawlers in British harbors. The harbor ban forced Iceland to seek new markets for their fish exports. UK hoped that the ban would cause enough economic hardship to force Iceland to rescind the new policy. Iceland argued that the harbor ban violated several unilateral and multilateral treaties and, thus, violated international law.
+
+In May of 1954 Britain petitioned the Consultative Assembly of the Council of Europe to discuss Iceland's new territorial water limit. Between 1954 and 1955 both countries submitted multiple memoranda to the Council of Europe in support of their respective cases. No solution was agreed upon by the Council.
+
+On November 14, 1956 Britain lifted the harbor ban after four years of unsuccessful economic pressure. Iceland was able to avoid the negative consequences of the ban by opening new markets in Italy, the United States, and the Soviet Union. At the time the ban was lifted, Iceland agreed that it would no seek further revision of the territorial water limit until after the United Nations General Assembly dealt with the issue. The issue was set to come up for debate by the assembly in that same year. To Iceland's dissatisfaction, the assembly later decided to put off any decision on the matter and, instead, commissioned a convention of the Laws of the Sea to meet in Geneva in 1958. When the Laws of the Sea convention failed to agree on codifying territorial limits and voted to meet again in 1960 to further debate the issues, Iceland again grew impatient. 
+
+Iceland appealed the matter to NATO on May 18, 1958, requesting approval for a new twelve mile limit to territorial waters. NATO rejected the request but offered to convene a commission to address the issue. Iceland's government, fearing a NATO commission would result endless negotiations, decided to unilaterally extent territorial waters to twelve miles on May 24, 1958.
+
+The representatives of the fishing industry of Western Europe met at The Hague on July 14, 1958, passing a resolution to condemn Iceland's actions as illegal and declaring their intentions to continue fishing up to the previous four mile limit. UK took the issue a step further by sending warships into Icelandic waters to protect British trawlers and enforce their right to fish the waters. This step sparks the rivalry between the two countries that begins in August of 1958, with the first MID of RIV10449, MID2865.
+
+From Icelandic independence to the beginning of the rivalry, the relationship between Iceland and UK is characterized by tensions and hostility regarding fishing rights. Iceland repeatedly issues new laws and petitions international bodies regarding territorial waters. The UK files official protests and issues sanctions (the harbor ban) in response to these actions. Due to the tensions, disagreements and unresolved issues, the relationship during this period is best characterized as a negative peace. Even though the possibility of real war between Iceland and UK was never on the table, considering their past and future relations after the fishing disputes, we could conclude that the fishing dispute was a minor issue seen on the whole of the bilateral relations between Iceland and UK, which were dominated by generally positive relations. 
+
+Iceland formally extended its maritime border to twelve miles on September 1, 1958. British fishing vessels and British naval ships crossed the 12-mile maritime border on September 1, 1958. September 1, 1958 is seen by most historians as the actual start of the `First Cod War' between Iceland and UK. However, the first MID of RIV10449, MID2865 is listed as starting on August 27, 1958. BBC News records this day as the day when Iceland extended its fishing zone to 12 nautical miles. Because MID2865 is coded as starting on August 27, 1958, I will maintain this coding for the purposes of this narrative, too.
+
+
+Iceland extended its maritime border to four miles on May 15, 1952. Iceland decided to extend its maritime border from four to twelve miles on May 25, 1958, and Britain formally protested the decision on June 3, 1958. Iceland formally extended its maritime border to twelve miles on September 1, 1958. British fishing vessels and British naval ships crossed the 12-mile maritime border on September 1, 1958. The first MID of RIV10449, MID2865 is listed as starting on August 27, 1958. BBC News records this day as the day when Iceland extended its fishing zone to 12 nautical miles. Because MID2865 is coded as starting on August 27, 1958, I will maintain this coding for the purposes of this narrative, too. Iceland has forbidden British ships in its harbors on September 26, 1958. Britain delivered a protest to Iceland on October 2, 1958, and Iceland rejected the protest on October 3, 1958. Icelandic naval ships fired on the British fishing vessel *Kingston Emerald *on October 6, 1958. 
+
+MID2875 occurred from February 28, 1960 to June 30, 1960. On 19600301 an Icelandic gunboat fired on a British trawler, the second such incident in 48 hours according to the British Trawler Federation. 
+
+British and Icelandic representatives held negotiations on October 1-10, 1960, and Britain agreed to recognize Iceland's 12-mile maritime border on February 27, 1961. Iceland decided to extend its maritime border to 50 miles on November 28, 1971. The parliament of Iceland voted to extend the maritime border to 50 miles on February 16, 1972, and the government of Iceland formally extended the maritime border to 50 miles on February 24, 1972. Britain refused to recognize the maritime border extension, and submitted the dispute to the *International Court of Justice* (ICJ) on April 14, 1972. British and Icelandic representatives held negotiations in London and Reykjavik between May 24 and July 12, 1972. The ICJ issued an interim ruling on August 17, 1972, which suggested that Iceland should not extend its maritime border to 50-miles. MID354 occurred from September 1, 1972 to November 8, 1973. Iceland rejected the ICJ ruling and extended its maritime border to 50-miles on September 2, 1972. Britain re-submitted the dispute to the ICJ in November 1972. Icelandic coast guard ships and British fishing vessels clashed on April 23-24, 1973. Icelandic coast guard ships fired on British fishing vessels on May 14-15, 1973, and Britain deployed naval ships near the disputed waters on May 19, 1973. British naval ships and Icelandic coast ships clashed on several occasions between May 20 and September 10, 1973. Iceland referred the matter to the *North Atlantic Treaty Organization *(NATO) on May 28, 1973, and the NATO Council appealed for peaceful negotiations between the countries on May 29, 1973. Norway offered to mediate negotiations between the parties, but Iceland rejected the mediation offer in May 1973. Iceland threatened to severe diplomatic relations with Britain on September 11, 1973. Iceland agreed to set aside an area within their maritime border for British fishing vessels on November 13, 1973. The Icelandic naval ship *Thor* attacked and captured the British fishing vessel *C. S. Forester* within Iceland's maritime border on July 19, 1974. The ICJ issued a ruling on July 25, 1974, which stated that Iceland could not prohibit British fishing vessels within the 50-mile border. Iceland announced that it intended to extend its maritime border to 200-miles on July 15, 1975. British and Icelandic representatives held negotiations on October 23-25, 1975. MID 619 occurred from November 15, 1975 to June 1, 1976. Britain deployed three naval ships within the 50-mile zone on December 7, 1975. Iceland referred the matter to the UN Security Council on December 11, 1975 and to the NATO Council on January 8, 1976. Iceland severed diplomatic relations with Britain on February 19, 1976. The *Nordic Council *(Denmark, Finland, Iceland, Norway, Sweden) appealed to Britain to withdraw its naval ships from Icelandic territorial waters on February 29, 1976. Britain ordered its naval ships from the waters around Iceland on May 30, 1976. British and Icelandic representatives signed an interim agreement in Oslo, Norway on June 1, 1976, which allowed British fishing vessels rights within the 200-mile zone. Iceland resumed diplomatic relations with Britain on June 1, 1976. Britain agreed to recognize the 200-mile maritime border in 1977.
+
+19760602-20069999 .75
+
+On June 1, 1976, the last MID of RIV10449, MID619 ended. On June 1, 1976 the two countries signed an agreement that ended the Cod disputes and restored diplomatic relations between the two countries. This agreement was officially approved by the Icelandic government on November 11, 1976. The agreement gave British fishing vessels temporary access to Icelandic fishing waters for a period of six months. After that six month period, Iceland would enforce a 200 mile fishery limit. This agreement brought to an end the rivalry between the two nations. Indeed, on December 10, 1976 Britain established a 200 mile fishery limit off its own coast. The European Economic Community determined that the entire community should establish a 200 mile limit.
+
+The agreement ending the Cod disputes did not end Britain's desire for access to Iceland's coastal fishing waters. Britain immediately began pressuring for a new negotiation and agreement that would continue to give British fishing vessels access beyond the six month period stipulated in the agreement. No agreement was reached. Britain honored the new 200 mile limit when the six month agreement expired. Post-Cod dispute relations between the two nations have been uneventful. The two countries have not experienced a dispute since the end of the last rivalry. The two countries today enjoy a health exchange of tourists and trade. As a matter of fact, Britain is Iceland's most important economic partner in Europe. The two countries are founding members of NATO and Iceland's contribution to NATO peace-keeping forces in the Balkans were attached to British troop per the UK-Iceland Memorandum of Understanding signed in 2000. The two countries are friends and partners in economic and security areas, however, they are not highly integrated from a decision making or coordination standpoint. 
+
+PS-SOURCES: Jonsson, 1983; Hart, 1976; Bittner, 1983; British Embassy, Reykjavik; http://www.nat.is/travelguideeng/12_miles_fishing_limits_and_the_.htm, New York Times May 2, 1960
+
+
+
+MARITIME-MIDS: MID2865 MID2875 MID354 MID619
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2865
+ DYAD: UNITED KINGDOM ICELAND 200395
+ DATES: 19580827 19590605
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+Iceland decided to extend its maritime border from four to twelve miles on May 25, 1958, and Britain formally protested the decision on June 3, 1958. Iceland formally extended its maritime border to twelve miles on September 1, 1958. British fishing vessels and British naval ships crossed the 12-mile maritime border on September 1, 1958. Iceland has forbidden British ships in its harbors on September 26, 1958. Britain delivered a protest to Iceland on October 2, 1958, and Iceland rejected the protest on October 3, 1958. Icelandic naval ships fired on the British fishing vessel *Kingston Emerald *on October 6, 1958. September 1, 1958 is seen by most historians as the actual start of the `First Cod War' between Iceland and UK. However, MID2865 is listed as starting on August 27, 1958. BBC News records this day as the day when Iceland extended its fishing zone to 12 nautical miles. Because MID2865 is coded as starting on August 27, 1958, I will maintain this coding for the purposes of this narrative, too. The representatives of the fishing industry of Western Europe met at The Hague on July 14, 1958, passing a resolution to condemn Iceland's actions as illegal and declaring their intentions to continue fishing up to the previous four mile limit. UK took the issue a step further by sending warships into Icelandic waters to protect British trawlers and enforce their right to fish the waters. This step sparks the rivalry between the two countries that begins in August of 1958, with the first MID of RIV10449, MID2865.
+
+MARITIME-DISPUTE: MID2875
+ DYAD: UNITED KINGDOM ICELAND 200395
+ DATES: 19600228 19600630
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2875 occurred from February 28, 1960 to June 30, 1960. On 19600301 an Icelandic gunboat fired on a British trawler, the second such incident in 48 hours according to the British Trawler Federation. 
+
+MARITIME-DISPUTE: MID354
+ DYAD: UNITED KINGDOM ICELAND 200395
+ DATES: 19720901 19731108
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+Iceland decided to extend its maritime border to 50 miles on November 28, 1971. The parliament of Iceland voted to extend the maritime border to 50 miles on February 16, 1972, and the government of Iceland formally extended the maritime border to 50 miles on February 24, 1972. Britain refused to recognize the maritime border extension, and submitted the dispute to the *International Court of Justice* (ICJ) on April 14, 1972. British and Icelandic representatives held negotiations in London and Reykjavik between May 24 and July 12, 1972. The ICJ issued an interim ruling on August 17, 1972, which suggested that Iceland should not extend its maritime border to 50-miles. MID354 occurred from September 1, 1972 to November 8, 1973. Iceland rejected the ICJ ruling and extended its maritime border to 50-miles on September 2, 1972. Britain re-submitted the dispute to the ICJ in November 1972. Icelandic coast guard ships and British fishing vessels clashed on April 23-24, 1973. Icelandic coast guard ships fired on British fishing vessels on May 14-15, 1973, and Britain deployed naval ships near the disputed waters on May 19, 1973. British naval ships and Icelandic coast ships clashed on several occasions between May 20 and September 10, 1973. Iceland referred the matter to the *North Atlantic Treaty Organization *(NATO) on May 28, 1973, and the NATO Council appealed for peaceful negotiations between the countries on May 29, 1973. Norway offered to mediate negotiations between the parties, but Iceland rejected the mediation offer in May 1973. Iceland threatened to severe diplomatic relations with Britain on September 11, 1973. Iceland agreed to set aside an area within their maritime border for British fishing vessels on November 13, 1973.
+
+MARITIME-DISPUTE: MID619
+ DYAD: UNITED KINGDOM ICELAND 200395
+ DATES: 19751115 19760601
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID 619 occurred from November 15, 1975 to June 1, 1976. Britain deployed three naval ships within the 50-mile zone on December 7, 1975. Iceland referred the matter to the UN Security Council on December 11, 1975 and to the NATO Council on January 8, 1976. Iceland severed diplomatic relations with Britain on February 19, 1976. The *Nordic Council *(Denmark, Finland, Iceland, Norway, Sweden) appealed to Britain to withdraw its naval ships from Icelandic territorial waters on February 29, 1976. Britain ordered its naval ships from the waters around Iceland on May 30, 1976. On June 1, 1976, MID619 ended. British and Icelandic representatives signed an interim agreement in Oslo, Norway on June 1, 1976, which allowed British fishing vessels rights within the 200-mile zone. Iceland resumed diplomatic relations with Britain on June 1, 1976. On June 1, 1976 the two countries signed an agreement that ended the Cod disputes and restored diplomatic relations between the two countries. Britain agreed to recognize the 200-mile maritime border in 1977.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

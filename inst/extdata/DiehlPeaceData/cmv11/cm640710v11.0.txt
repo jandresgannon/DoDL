@@ -1,0 +1,56 @@
+FILE: cm640710v11.0.txt
+DYAD: TURKEY/OTTOMAN EMPIRE - CHINA
+RIVALRY: RIV1216
+DISPUTE(S): MID51 
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20181006
+PS-LAST-CHECKED: 20181006
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 narrative, this MID is the Korean War. The US and UN forces fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and NATO's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led China and Turkey to be involved in this multilateral MID against each other. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and Turkey did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because Turkey and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 3 -- not civil war 
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Like China, Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because the Korean civil war is outside of this dyad, and the UN forces and China fought here due to their opposing support in that war. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES:
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

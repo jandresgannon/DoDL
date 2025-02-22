@@ -1,0 +1,1138 @@
+FILE: cm200365v11.0.txt
+DYAD: UNITED KINGDOM-RUSSIA/USSR
+RIVALRY: RIV436
+DISPUTE(S): MID153 MID216
+RIVALRY: RIV437
+DISPUTE(S): MID236 MID57 MID227
+RIVALRY: RIV438
+DISPUTE(S): MID3323 MID307 MID3324 MID119 MID242 MID197 MID2606 MID2366 MID2363 MID2605 MID2365 MID2604 MID2364 MID1133 MID186 MID241 
+RIVALRY: RIV439
+DISPUTE(S): MID258 MID3860 MID603 MID26 MID3196 MID3195 MID3201 MID208 MID200 MID125 MID608 MID27 MID1353 MID2915 MID2933 MID2226 MID4334 MID4342
+
+RIVNOTES: 
+RIV439: MID2232 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV438: MID16 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV439: MID3241 (1970) was removed in mid3.02 it was a 1970 incident involving major powers and Iraq and Syria. MID4342 (1999) was added by MID3.02
+
+PS: 19009999-19070830 0.00 19070831-19170103 .5 19170104-19230701 0.00 19230702-19410711 0.25 19410712-19460801 0.5 19460802-19891108 0.00 19891109-19921110 -9 19921111-20209999 .25
+
+PS-UPDATE2020: Under the rivalry termination rule the relationship would normally end 5 years after the end of the rivalry on 19410712 but this would leave a 2 week relationship gap before the start of a new rivalry in 1946 - accordingly we extend the relationship for two weeks and thereby make the relationship continuous.
+
+PSNOTES: thompson rivalry cm200365 ,18160000 ,19560000 
+The .75 period should end on July 11, 1941 and the .5 period begin the day after - the latter is the date of the Anglo-Soviet alliance
+
+PS-LAST-CHECKED: 20220218
+PS-LAST-CHANGED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID153 MID216 MID236 MID57 MID227 MID3323 MID307 MID3324 MID119 MID16
+
+WWI MIDs: MID197 MID2606 MID2366 MID2363 
+
+WWII MIDs: MID258 MID3860 
+
+MID242 
+
+TERRMID: MID242 3 -- not territory 
+TERRMID-CER: MID242 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID242 1 -- third party link to territorial MID
+TERRLINK-CER: MID242 1 -- certain 
+TERRLINK-NOTES: MID242 from Gibler (2018), this was connected to the Russo-Japanese War. Russian ships mistook UK fishing vessels as Japanese torpedo boats. The UK protested, and a crisis developed but stopped short of war. Coded third party link to territory because this occurred during and was connected to the Russo-Japanese War, a territorial dispute between Russia and Japan. 
+
+MARITMID: MID242 3 -- not maritime 
+MARITMID-CER: MID242 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID242 3 -- not islands 
+ISLMID-CER: MID242 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID242 3 -- not civil war 
+CIVWARMID-CER: MID242 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID242 3 -- not civil war link 
+CIVWARLINK-CER: MID242 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID242 3 -- not coup 
+COUPMID-CER: MID242 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID242 3 -- not coup link
+COUPLINK-CER: MID242 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2605 
+
+TERRMID: MID2605 3 -- not territory 
+TERRMID-CER: MID2605 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2605 1 -- third party link to territorial MID
+TERRLINK-CER: MID2605 1 -- certain 
+TERRLINK-NOTES: MID2605 from Gibler (2018), this is Estonia's war for independence from Russia in 1918. Estonia had declared independence from its colonizer, Russia, during Russia's civil war. After Russia exited WWI, it re-focused on its civil war, including attempting to regain control over Estonia. UK assisted Estonia in its war against Russia and eventually they drove the Soviets out of Estonia. Coded third party link to territorial MID because Russia claimed all of Estonia's territory, making this a territorial MID between Russia and Estonia. 
+
+MARITMID: MID2605 3 -- not maritime 
+MARITMID-CER: MID2605 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2605 3 -- not islands 
+ISLMID-CER: MID2605 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2605 1 -- civil war MID
+CIVWARMID-CER: MID2605 1 -- certain 
+CIVWARMID-NOTES: MID2605 from Gibler (2018), this was connected to events of the Russian Civil War, which involved Estonia's fight for independence. Coded civil war MID because this was connected to the Russian civil war. See CIVWARLINK.
+
+CIVWARLINK: MID2605 3 -- not civil war link 
+CIVWARLINK-CER: MID2605 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2605 3 -- not coup 
+COUPMID-CER: MID2605 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2605 3 -- not coup link
+COUPLINK-CER: MID2605 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2365 
+
+TERRMID: MID2365 3 -- not territory 
+TERRMID-CER: MID2365 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2365 3 -- not third party link to territory 
+TERRLINK-CER: MID2365 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2365 3 -- not maritime 
+MARITMID-CER: MID2365 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2365 3 -- not islands 
+ISLMID-CER: MID2365 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2365 1 -- civil war MID
+CIVWARMID-CER: MID2365 3 -- uncertain 
+CIVWARMID-NOTES: MID2365 from Gibler, Little, and Miller 2016, this is the Allied Powers' involvement in the Russian Civil War. The UK intervened in northern Russia to fight the Bolsheviks. Coded uncertain because GLM recommend this case be dropped because it is essentially a duplicate of MID197, except with a later start date so as not to overlap with WWI. 
+
+CIVWARLINK: MID2365 3 -- not civil war link 
+CIVWARLINK-CER: MID2365 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2365 3 -- not coup 
+COUPMID-CER: MID2365 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2365 3 -- not coup link
+COUPLINK-CER: MID2365 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2604 
+
+TERRMID: MID2604 3 -- not territory 
+TERRMID-CER: MID2604 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2604 1 -- third party link to territorial MID
+TERRLINK-CER: MID2604 1 -- certain 
+TERRLINK-NOTES: MID2604 from Gibler (2018), Latvia had declared independence from Russia during Russia's civil war. Here, Russia invaded Latvia, claiming all of Latvia as its own. The UK, Poland, and Germany intervened to help push the Russians out. Coded third party link to territorial MID because this was a territorial dispute between Russia and Latvia, and the UK intervened to help Latvia. 
+
+MARITMID: MID2604 3 -- not maritime 
+MARITMID-CER: MID2604 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2604 3 -- not islands 
+ISLMID-CER: MID2604 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2604 1 -- civil war MID
+CIVWARMID-CER: MID2604 1 -- certain 
+CIVWARMID-NOTES: MID2604 coded civil war MID because this occurred during the Russian civil war, as the Bolsheviks were fighting to control all of Russia, including Latvia, which the Bolsheviks considered to be part of Russia's territory. 
+
+CIVWARLINK: MID2604 3 -- not civil war link 
+CIVWARLINK-CER: MID2604 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2604 3 -- not coup 
+COUPMID-CER: MID2604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2604 3 -- not coup link
+COUPLINK-CER: MID2604 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2364 
+
+TERRMID: MID2364 3 -- not territory 
+TERRMID-CER: MID2364 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2364 3 -- not third party link to territory 
+TERRLINK-CER: MID2364 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2364 3 -- not maritime 
+MARITMID-CER: MID2364 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2364 3 -- not islands 
+ISLMID-CER: MID2364 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2364 1 -- civil war MID
+CIVWARMID-CER: MID2364 1 -- certain 
+CIVWARMID-NOTES: MID2364 from Gibler (2018), this occurred during the Russian Civil War. In 1920, The UK was supporting the White Army against the Red Army. UK ships in the Black Sea were protecting White Army forces when they attacked the Red Army on the Crimean Peninsula. Coded civil war MID because this was connected to the events of the Russian Civil War. 
+
+CIVWARLINK: MID2364 3 -- not civil war link 
+CIVWARLINK-CER: MID2364 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2364 3 -- not coup 
+COUPMID-CER: MID2364 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2364 3 -- not coup link
+COUPLINK-CER: MID2364 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1133 
+
+TERRMID: MID1133 3 -- not territory 
+TERRMID-CER: MID1133 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1133 3 -- not third party link to territory 
+TERRLINK-CER: MID1133 1 -- certain 
+TERRLINK-NOTES: MID1133 from Gibler (2018), Russia invaded northern Persia with the intention of expelling the UK troops stationed there. Coded not third party link to territory because Russia was not claiming any Persian territory, but was trying to weaken the British presence in the area. 
+
+MARITMID: MID1133 3 -- not maritime 
+MARITMID-CER: MID1133 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1133 3 -- not islands 
+ISLMID-CER: MID1133 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1133 3 -- not civil war 
+CIVWARMID-CER: MID1133 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1133 3 -- not civil war link 
+CIVWARLINK-CER: MID1133 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1133 3 -- not coup 
+COUPMID-CER: MID1133 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1133 3 -- not coup link
+COUPLINK-CER: MID1133 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID186 
+
+TERRMID: MID186 3 -- not territory 
+TERRMID-CER: MID186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID186 1 -- third party link to territorial MID
+TERRLINK-CER: MID186 1 -- certain 
+TERRLINK-NOTES: MID186 from Gibler (2018), this is the UK response to the Soviet invasion of Poland in 1920. The Soviets were occupying Poland and claiming it as their territory. The UK threatened to intervene but ultimately did nothing. Coded third party link to territorial MID because this was connected to the territorial dispute between Russia and Poland. 
+
+MARITMID: MID186 3 -- not maritime 
+MARITMID-CER: MID186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID186 3 -- not islands 
+ISLMID-CER: MID186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID186 3 -- not civil war 
+CIVWARMID-CER: MID186 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID186 3 -- not civil war link 
+CIVWARLINK-CER: MID186 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID186 3 -- not coup 
+COUPMID-CER: MID186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID186 3 -- not coup link
+COUPLINK-CER: MID186 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID241 
+
+TERRMID: MID241 3 -- not territory 
+TERRMID-CER: MID241 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID241 3 -- not third party link to territory 
+TERRLINK-CER: MID241 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID241 1 -- maritime
+MARITMID-CER: MID241 1 -- certain 
+MARITMID-NOTES: MID241 from Gibler (2018), Russia expanded its territorial water sovereignty from 3 to 12 miles off its shore, and UK rejected this claim. The UK sent naval vessels to protect the fishing vessels in waters claimed by the Soviets. Russia seized a UK trawler in 1923, and the UK issued an ultimatum for the Russians to release the ship. Coded maritime because this was a dispute over Russia's maritime EEZ boundary. 
+
+ISLMID: MID241 3 -- not islands 
+ISLMID-CER: MID241 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID241 3 -- not civil war 
+CIVWARMID-CER: MID241 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID241 3 -- not civil war link 
+CIVWARLINK-CER: MID241 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID241 3 -- not coup 
+COUPMID-CER: MID241 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID241 3 -- not coup link
+COUPLINK-CER: MID241 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID603 
+
+TERRMID: MID603 3 -- not territory 
+TERRMID-CER: MID603 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID603 3 -- not third party link to territory 
+TERRLINK-CER: MID603 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID603 3 -- not maritime 
+MARITMID-CER: MID603 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID603 3 -- not islands 
+ISLMID-CER: MID603 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID603 3 -- not civil war 
+CIVWARMID-CER: MID603 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID603 3 -- not civil war link 
+CIVWARLINK-CER: MID603 1 -- certain 
+CIVWARLINK-NOTES: MID603 from Gibler (2018), this is connected to domestic protests in Iran. In 1946, UK moved troops to the Iran-Iraq border, worrying that domestic turmoil in Iran could harm UK business interests. Russia, protecting their interests from within Iran, moved troops to the border as well. Coded not civil war link because although domestic protests in Iran (outside of this dyad) led to this MID, there is no indication of militarized rebel activity in Iran. 
+
+COUPMID: MID603 3 -- not coup 
+COUPMID-CER: MID603 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID603 3 -- not coup link
+COUPLINK-CER: MID603 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID26 
+
+TERRMID: MID26 3 -- not territory 
+TERRMID-CER: MID26 1 -- certain 
+TERRMID-NOTES: MID26 from cm002365 narrative, this MID is the Berlin blockade crisis. Russia blockaded West Berlin after the US' plans for economic recovery and independence for a West German state became known. The US/UK/France responded to the blockade by airlifting supplies into West Berlin. The US/UK/France and Russia had repeated exchanges of shows of force. Coded not territorial because the UK and Russia were not disputing territory between them. 
+
+TERRLINK: MID26 3 -- not third party link to territory 
+TERRLINK-CER: MID26 1 -- certain 
+TERRLINK-NOTES: MID26 coded not third party link to territory. Although this MID was about the territory that would become West Germany (Federal Republic of Germany) -- and West and East Germany would later have a territorial dispute -- neither East nor West Germany was yet a state, so no territorial claim was present , and the UK and Russia were therefore not linked to a territorial dispute in this MID. 
+
+MARITMID: MID26 3 -- not maritime 
+MARITMID-CER: MID26 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID26 3 -- not islands 
+ISLMID-CER: MID26 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID26 3 -- not civil war 
+CIVWARMID-CER: MID26 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID26 3 -- not civil war link 
+CIVWARLINK-CER: MID26 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID26 3 -- not coup 
+COUPMID-CER: MID26 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID26 3 -- not coup link
+COUPLINK-CER: MID26 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3196 
+
+TERRMID: MID3196 3 -- not territory 
+TERRMID-CER: MID3196 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3196 3 -- not third party link to territory 
+TERRLINK-CER: MID3196 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3196 3 -- not maritime 
+MARITMID-CER: MID3196 1 -- certain 
+MARITMID-NOTES: MID3196 from Gibler (2018), Russia seized a UK trawler. After a fine was paid, the Soviets released the vessel. Coded not maritime because this was a fishing dispute and they were not disputing the maritime boundary. 
+
+ISLMID: MID3196 3 -- not islands 
+ISLMID-CER: MID3196 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3196 3 -- not civil war 
+CIVWARMID-CER: MID3196 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3196 3 -- not civil war link 
+CIVWARLINK-CER: MID3196 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3196 3 -- not coup 
+COUPMID-CER: MID3196 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3196 3 -- not coup link
+COUPLINK-CER: MID3196 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3195 
+
+TERRMID: MID3195 3 -- not territory 
+TERRMID-CER: MID3195 1 -- certain 
+TERRMID-NOTES: MID3195 from Gibler (2018), this is connected to the Iranian threat to nationalize the Anglo-Iranian Oil Company, owned by UK. Iran asked Russia to intervene if UK sent in troops to protect its interests, and Russia massed troops along the border. UK sent a cruiser but ultimately did not intervene. Coded not territory because UK and Iran were not disputing territory, and this was about UK's oil interests. No indication that a piece of territory was being claimed by UK as part of this dispute. 
+
+TERRLINK: MID3195 3 -- not third party link to territory 
+TERRLINK-CER: MID3195 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3195 3 -- not maritime 
+MARITMID-CER: MID3195 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3195 3 -- not islands 
+ISLMID-CER: MID3195 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3195 3 -- not civil war 
+CIVWARMID-CER: MID3195 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3195 3 -- not civil war link 
+CIVWARLINK-CER: MID3195 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3195 3 -- not coup 
+COUPMID-CER: MID3195 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3195 3 -- not coup link
+COUPLINK-CER: MID3195 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3201 
+
+TERRMID: MID3201 3 -- not territory 
+TERRMID-CER: MID3201 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3201 3 -- not third party link to territory 
+TERRLINK-CER: MID3201 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3201 3 -- not maritime 
+MARITMID-CER: MID3201 3 -- uncertain 
+MARITMID-NOTES: MID3201 from Gibler, Little, and Miller 2016, this is the seizure of several UK fishing boats by Russia. Coded not maritime because they were not disputing a maritime boundary. Coded uncertain because GL argue this case should be dropped, as UK did not protest the seizures. 
+
+ISLMID: MID3201 3 -- not islands 
+ISLMID-CER: MID3201 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3201 3 -- not civil war 
+CIVWARMID-CER: MID3201 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3201 3 -- not civil war link 
+CIVWARLINK-CER: MID3201 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3201 3 -- not coup 
+COUPMID-CER: MID3201 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3201 3 -- not coup link
+COUPLINK-CER: MID3201 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID208 
+
+TERRMID: MID208 3 -- not territory 
+TERRMID-CER: MID208 1 -- certain 
+TERRMID-NOTES: MID208 from cm002365 narrative, occurred in March of 1953 and is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced a US reporter to prison for espionage. The US imposed economic sanctions, and Czechoslovakia shot down a US military aircraft over US-occupied Germany. Coded not territorial because the UK and Czechoslovakia did not have a territorial dispute. See TERRLINK.
+
+TERRLINK: MID208 3 -- not third party link to territory 
+TERRLINK-CER: MID208 1 -- certain 
+TERRLINK-NOTES: MID208 from cm002365 narrative, this is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Coded not third party link because this was not connected to a territorial dispute but was rather connected to general Cold War tensions. Territorial disputes, namely the East Germany-West Germany dispute, was involved in the Cold War, but that did not connect to this incident. 
+
+MARITMID: MID208 3 -- not maritime 
+MARITMID-CER: MID208 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID208 3 -- not islands 
+ISLMID-CER: MID208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID208 3 -- not civil war 
+CIVWARMID-CER: MID208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID208 3 -- not civil war link 
+CIVWARLINK-CER: MID208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID208 3 -- not coup 
+COUPMID-CER: MID208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID208 3 -- not coup link
+COUPLINK-CER: MID208 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm002365 narrative, MID200 is the Sinai War between Israel and Egypt and a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. The UK is involved in this MID due to its support for Israel. Russia is invovled in this MID due to its support of Egypt/opposition of Israel, and its support for Czechoslovakia, who made a large arms deal with Israel shortly before the invasion. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because the UK and USSR did not dispute territory here. See TERRLINK: Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm002365 narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and the UK and Russia were pulled in to the dispute due to their support of opposing sides of the dispute. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war 
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 from cm002365 narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war link because Egypt sponsored a militarized rebel group against Israel, outside of this dyad, which led to events that contributed to this MID. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 3 -- not civil war 
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES: MID125 from cm002365 narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup, and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded not civil war MID because the civil war in Lebanon is outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 coded civil war link because the Lebanese civil war triggered a multilateral MID, including this MID between UK and Russia. Since the Lebanese civil war is outside of this dyad, it is a civil war link MID. 
+
+COUPMID: MID125 3 -- not coup 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID125 1 -- coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: MID125 the coup in Iraq contributed to the civil war in Lebanon, and the new Iraqi regime supported the revolutionaries in Lebanon, contributing to this MID. Iraq is outside this dyad. 
+
+
+MID608 
+
+TERRMID: MID608 3 -- not territory 
+TERRMID-CER: MID608 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID608 1 -- third party link to territorial MID
+TERRLINK-CER: MID608 1 -- certain 
+TERRLINK-NOTES: MID608 from cm narrative, this is a multilateral MID involving the US, UK, and France against USSR. Soviet Premier Khrushchev issued an ultimatum for the Western powers to vacate Berlin and withdraw all military resources from there, making West Berlin a sovereign city. Khrushchev also said Russia would turn all lines of communication with West Berlin to East Germany, so the West would only have access to West Berlin through East Germany's permission. The Western powers responded by firmly asserting their determination to remain in West Berlin. Coded third party link to territorial MID because this was centered on the West Germany-East Germany territorial dispute, and UK and USSR are pulled into this MID against each other due to their opposing diplomatic and military support. 
+
+MARITMID: MID608 3 -- not maritime 
+MARITMID-CER: MID608 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID608 3 -- not islands 
+ISLMID-CER: MID608 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID608 3 -- not civil war 
+CIVWARMID-CER: MID608 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID608 3 -- not civil war link 
+CIVWARLINK-CER: MID608 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID608 3 -- not coup 
+COUPMID-CER: MID608 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID608 3 -- not coup link
+COUPLINK-CER: MID608 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded third party link to territorial MID because this was centered on the East Germany-West Germany territorial dispute, and the UK and USSR are pulled into this dispute against each other due to their opposing support. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm002365 narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos, and the USSR provided less direct support to communist insurgents. The UK supported the Royal Laotian Government (RLG) forces. USSR forces directly engaged in combat with RLG forces and provided them with weapons and training, triggering this MID due to the UK support for RLG forces and USSR's support for communist forces. Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2915 
+
+TERRMID: MID2915 3 -- not territory 
+TERRMID-CER: MID2915 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2915 3 -- not third party link to territory
+TERRLINK-CER: MID2915 1 -- certain 
+TERRLINK-NOTES: MID2915 from Gibler (2018), Soviet planes violated West German airspace, which UK was patrolling and enforcing. Coded not third party link to territory because although this incident did involve a violation of West German airspace, and the East Germany-West Germany territorial dispute was currently active, there is no indication that this was directly tied to that territorial dispute rather than the general Cold War tensions between the USSR and the US and its allies. 
+
+MARITMID: MID2915 3 -- not maritime 
+MARITMID-CER: MID2915 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2915 3 -- not islands 
+ISLMID-CER: MID2915 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2915 3 -- not civil war 
+CIVWARMID-CER: MID2915 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2915 3 -- not civil war link 
+CIVWARLINK-CER: MID2915 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2915 3 -- not coup 
+COUPMID-CER: MID2915 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2915 3 -- not coup link
+COUPLINK-CER: MID2915 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2933 
+
+TERRMID: MID2933 3 -- not territory 
+TERRMID-CER: MID2933 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2933 3 -- not third party link to territory 
+TERRLINK-CER: MID2933 1 -- certain 
+TERRLINK-NOTES: MID2933 UK and Russia were on opposing sides of the East-West Germany territorial dispute, but that dispute is not connected to this incident, which occurred in or near UK's territorial waters. 
+
+MARITMID: MID2933 3 -- not maritime 
+MARITMID-CER: MID2933 1 -- certain 
+MARITMID-NOTES: MID2933 from Gibler (2018), UK seized a Soviet trawler near UK waters. Coded not maritime because the countries were not disputing a maritime boundary. 
+
+ISLMID: MID2933 3 -- not islands 
+ISLMID-CER: MID2933 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2933 3 -- not civil war 
+CIVWARMID-CER: MID2933 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2933 3 -- not civil war link 
+CIVWARLINK-CER: MID2933 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2933 3 -- not coup 
+COUPMID-CER: MID2933 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2933 3 -- not coup link
+COUPLINK-CER: MID2933 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2226 3 -- not maritime 
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: MID2226 from cm002365 narrative, this involves a show of ships, or a mutual display of naval power, between USSR and several NATO countries, including the UK. Coded not maritime because the UK and USSR were not disputing a maritime boundary here, and this seems to be a product of general Cold War tensions. 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4334 
+
+TERRMID: MID4334 3 -- not territory 
+TERRMID-CER: MID4334 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4334 1 -- third party link to territorial MID
+TERRLINK-CER: MID4334 1 -- certain 
+TERRLINK-NOTES: MID4334 from cm narrative, as KFOR was preparing to move into Kosovo, Russian troops quickly moved out into Kosovo in an attempt to reach Pristina. In response to the Russian movements, the UK placed its troops on alert (which lasted 4.5 hours) to move into Pristina before the Russian troops arrived and stop the Russians "by any means necessary." Through diplomatic discourse UK yielded and allowed Russian troops to enter Pristina uncontested. Coded third party link to territorial MID because the UK and Russia are on opposing sides in this MID due to their ooposing support in the Kosovo War, a territorial dispute between Kosovo and Yugoslavia. 
+
+MARITMID: MID4334 3 -- not maritime 
+MARITMID-CER: MID4334 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4334 3 -- not islands 
+ISLMID-CER: MID4334 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4334 3 -- not civil war 
+CIVWARMID-CER: MID4334 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4334 1 -- civil war link 
+CIVWARLINK-CER: MID4334 1 -- certain 
+CIVWARLINK-NOTES: MID4334 coded civil war link because the Kosovo War featured militarized rebel groups organized along ethnic lines, including ethnic Albanians fighting against the Yugoslavian Army. Kosovo is outside this dyad. 
+
+COUPMID: MID4334 3 -- not coup 
+COUPMID-CER: MID4334 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4334 3 -- not coup link
+COUPLINK-CER: MID4334 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler (2018), this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because UK, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler (2018), this involves UK (as part of NATO) war activity in Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and Yugoslavia is outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1039
+
+TERRMID: MID1039 3 -- not territory
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link
+CIVWARLINK-CER: MID1039 1 -- certain
+CIVWARLINK-NOTES: MID1039 from Gibler 2018, a Palestinian terrorist group hijacked a plane of mostly American passengers that was headed to Jordan. The intent was to provoke fighting between between Jordan and Palestinian rebels. Jordan indeed attacked Palestinian rebels, and the US was publicly concerned with Syrian or Iraqi involvement to assist the PLO. The USSR assured the US that no outside intervention would occur, but Syrian forces invaded Jordan anyway. The crisis de-escalated. Coded civil war link because militarized rebel activity against Jordan (outside this dyad; the rebels also resided outside this dyad) led to this MID between Jordan, Israel, UK, and US versus Iraq and Syria. Coded uncertain because Gibler 2018 does not consider USSR a party to this MID, as they only are involved by providing assurances to US that tensions would not flare. 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4342
+rivalry=200365 nationa=RUSSIA/USSR nationb=UNITED KINGDOM MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4334
+rivalry=200365 nationa=UNITED KINGDOM nationb=RUSSIA/USSR MID4334 19990611-19990611 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+As KFOR was preparing to move into Kosovo, Russian troops quickly moved out into Kosovo in an attempt to reach Pristina. In response to the Russian movements, the UK placed its troops on alert (which last 4.5 hours) to move into Pristina before the Russian troops arrived and stop the Russians "by any means necessary." Through diplomatic discourse UK yielded and allowed Russian troops to enter Pristina uncontested. First and last day of dispute was on 6/11/1999.
+
+NARRATIVE-CM:
+A Russian warship enroute to the Pacific Ocean fired upon some British fishing vessels in the North Sea on October 21, 1904, resulting in the deaths of two British fishermen and the sinking of one fishing vessel. The countries disputed the facts related to the cause of the incident. Russia and Britain signed an agreement on November 25, 1904 in which they agreed to the establishment of a commission of inquiry to investigate the "question of facts connected with the incident which occurred during the night of the 21st-22nd of October 1904 in the North Sea." The commission of inquiry, which was composed of five members (two each from Britain and Russia and one from Austria-Hungary), met from January 9 to February 9, 1905. The commission of inquiry found that the incident was largely caused by mistakes made by the Russian ships, and Russia later agreed to pay financial damages to Britain. Britain imposed a trade embargo against the Soviet Union on April 19, 1933, after the arrest of two British nationals for sabotage on March 11, 1933. The Soviet Union responded with a trade embargo against Britain on April 22, 1933. The Soviet Union released the British nationals on July 1, 1933, and the countries terminated the trade embargoes.
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1933, 601.
+
+NARRATIVE-CR:
+Civil war in the Ottoman Empire, and the Eastern question more broadly set the stage for the nineteenth century disputes between the United Kingdom and Russia. 
+
+Civil war erupted in the Ottoman Empire in 1820; the Pasha of Egypt, Mohamed Ali, had modernized Egypt by that time and extended his holdings to include parts of both Sudan and Arabia. Ali's next planned conquest within the Empire was Syria, however the crippling naval defeat suffered at Navarino caused Ali to pull back and try to gain favor with France and Great Britain. 
+
+Eleven years later, Ali moved again. His son Ibrahim led a victorious army through Syria in 1831. The Ottoman Sultan declared both Ali and Ibrahim rebels. Determined to regain their titles, Ali ordered his son to march forward and attack Ottoman forces in Anatolia to force the Sultan to reinstate his status as Pasha. The attack commenced on 21 December 1832, and was successful; the Ottoman Empire was in danger of collapse.
+
+Europe reacted slowly. France urged a joint Franco-British mediation, to preserve the Ottoman Empire, French influence in Egypt, and good relations with the UK. Austria was not sanguine about French attempts to forge an agreement. Austria warned the UK that Egypt was a French puppet and a means that the French could employ to convert the Mediterranean into a French lake. British policy was split at home; some favored saving Turkey, others thought it best to leave Turkey to collapse, and others debated what cost that Britain should pay in any attempt to stabilize the Ottoman Empire. Effectively the British policy drifted to keeping the other powers outside of Turkey.
+
+Russia sided with Turkey and condemned Ali (which also worked to limit French influence in the Far East), while trying to maintain the support of Austria. Russia offered the Sultan military assistance, but fear of Russian motives and pressure from France paralyzed the Sultan. Egyptian forces forced the Sultan's hand. An Egyptian advance in December 1832 and January 1833 caused the Sultan to call for Russian aid. A Russian fleet arrived in Constantinople on 20 February 1833 and despite the Sultan's request that Russia withdraw the fleet (due to French diplomatic pressure), the Russians stayed. France tried to force a settlement on the Sultan that would have given Ali Syria, but the Sultan waited for Russian troops to reinforce his position. Tensions between France and UK on one side and Russia on the other were rising, and British and French fleets at Smyrna were alerted (MID153).
+
+The rest of Europe now scrambled to end the conflict to preserve Turkey and remove Russian troops from the region. British, French, and Austrian diplomats labored to find a solution, but were ineffective. This was largely because the Sultan did not believe French and British promises of assistance, and Ali did not believe in the threats of naval intervention.
+
+Eqypt and Turkey came to their own terms in May of 1833. Turkey restored Ali's title and extended his holdings to include Syria, Cyprus, and Anatolia. These Turkish concessions were made possible by Egyptian battlefield successes and a growing Russian military presence-an additional Russian army had moved into the capital at the Sultan's request in March. Russia was very pleased; Turkey was insecure and completely dependent on Russian patronage. Russia exploited its position by signing a treaty with Turkey (Unikar-Skelessi) that provided for mutual defense and Russian control of the Straits of Constantinople, although the Straits convention was a secret clause. 
+
+Britain tried to weaken the Russian position in Turkey in the 1830s, while Austria found itself torn between wanting Russian support in Central Europe and wanting to restrain Russia in the Near East. Metternich signed the Munchengratz agreement, where both Austria and Russia agreed to sustain the Ottoman Empire. Metternich tried to expand Munchengratz to encompass all of the European powers, but Britain refused. Palmerston (in Britain) spoke of a potential confrontation while other diplomats thought to contain Russia with an English-Turkish alliance and the British fleet in the Black Sea.
+
+Nesselrode moved towards rapprochement with Britain in the mid to late 1830s. However, the Vixen affair strained these attempts. On 24 November 1836, the British ship Vixen is spotted by the Russian vessel Anna, the flagship of the Russian fleet that is blockading the Black Sea to cut off support for the Murid tribes that Russia was fighting in the Caucausas. 
+
+The Vixen was pursued by the Russian ship Ajax, which was ordered to use force of arms, if necessary, to capture the Vixen. On 26 April, Ajax fired a warning shot over the bow of Vixen. The Ajax boarded the Vixen, whose captain, James Bell, told the Russians that the Vixen was selling salt to the local people. The Ajax seized the Vixen for violating customs regulations. The ship was taken to Sevastapol and the crew was sent to Odessa and confined. Bell sent a letter to the British government that was dated 12 December 1836, but which was not sent to London until 3 January 1837. 
+
+European diplomats suspected that the entire affair had been designed by Britain to show its disapproval of the blockade of the Circassians. Nesselrode hastened to interpret the Vixen's trespassing as illegal commerce rather than arms smuggling through the blocakde. 
+
+In early February the British newspapers were calling for war. The public outcry in Britain persuaded Nesselrode that discussions with England were necessary. In the first week of February, Nesselrode instructed his diplomat in London to discuss the issue. The British hesitated, largely because there was a split in the government over how to respond: with hostility or to accept the Russian charge of a customs violation. Ultimately the British did accept the Russian claim of a customs violation on 23 May, ending the affair.
+
+As revolutions spread across Europe in 1848 radicals in Hungary became emboldened to challenge Hapsburg rule. An imperial manifesto was passed on 15 March that promised a constitutional assembly to Hungary, but on the same day the Hungarian table of deputies passed the March Laws which essentially declared Hungary an independent state. The Hapsburg emperor granted Hungary a constitution on 25 April, but it was not enough to appease the radicals. Uprisings continued in Hungary and on 12 June the Princess of Windischgratz was shot during a confrontation between the rebels and government forces. The Prince of Windischgratz (commander of Hapsburg troops in Hungary and an Austrian field marshal) called up reinforcements and prepared to put down the revolution.
+
+Windischgratz's forces bombarded Prague and crushed the anti-Hapsburg revolution among the Czechs by 17 June. Austria gained additional ground against the revolution in late July when Radetzky reclaimed Lombardy. By September, the governor of Croatia, Jellachich, who had been out of favor with Austria saw his chance to regain imperial favor by turning against Hungary. As Austria still faced a powerful resistance in Hungary, Jellachich was reinstated and supported in his efforts against Hungary. 
+
+In early October radicals seized the assembly in Vienna; the rest of the assembly moved to Kremiser in Morovia. Windischgratz and Jellachich took Vienna from the radicals, most of which were executed. Emperor Ferdinand of Austria, who had such difficulty facing the revolution, was replaced by Francis Joseph I on 2 December 1848. The new emperor declared that he was not bound by the agreements signed by his predecessor. Francis Joseph I ordered Windischgratz to move on Hungary.
+
+Hungary had declared itself the Hungarian Republic on 13 April 1849. Windischgratz moved against Hungary, but was not immediately successful. Francis Joseph I accepted the Russian offer for assistance in putting down the Hungarian revolution. On 17 June 1849, Russian troops join the effort and within two months the revolution was crushed. On 13 August 1849, the Hungarian revolutionaries were forced to surrender. 
+
+After the end of the revolution, Russia and Austria demanded that Turkey extradite Hungarians who were involved in the 1849 rebellion. Turkey resisted the Russian demand and asked for British assistance in resisting Russia. Palmerston promised to help Turkey, and England and France made a joint naval demonstration in October of 1849. (MID236) British ships actually entered the Straights to avoid inclement weather, but were recalled after Russia protested.
+
+The next four years were relatively peaceful for Russia and Britain, but the Crimean War shattered the relative calm. The Crimean war essentially began as a competition between France and Russia for influence over the holy places in the Middle East. Russia vied to be the protector of the Orthodox Christians while France tried to assert its right to protect Latin Christians. Throughout the conflict, Russia on one side and France and Britain on the other sought to include Austria and Prussia on their side. Prussia remained neutral, and Austria managed to commit relatively little effort in the conflict. This left Russia to fight Britain and France to a terribly expensive but not terribly conclusive end. 
+
+Turkey initially sided with France. Russia felt that Turkey was acceptable as an independent buffer state if Turkey feared Russia more than any other power. By yielding to France, Turkey had demonstrated that it was more concerned with French demands than Russian. The Russians sent a diplomatic mission to Turkey, led by Menshikov, to redress the problem. His forceful diplomatic maneuvers solidified British resistance to Russian action in Turkey. To protect an allegedly independent Turkey (which really was not capable of standing on its own) the United Kingdom ordered a fleet sent to Besika Bay on 2 June 1853; the British fleet arrived along with a French fleet on 13 June.
+
+The tsar was confident that Austria and Prussia would side with him against the Western powers, or at least remain neutral. Thus the tsar escalated the conflict by occupying the Danubian principalities (present day Bulgaria and parts of surrounding states) on 2 July. France tried a diplomatic solution to solve the crisis by appealing to Prussia and Austria. Prussia had no interest in getting involved, and Austria feared Russia on one side and French action in northern Italy on the other. Austria tried to find a way out where Russia would drop its demands in the Holy Places without losing honor. This was essentially impossible.
+
+On 1 August, diplomats from France, Britain, Prussia, and Austria signed the Vienna Note. The agreement stipulated what the four powers felt Turkey could yield to Russia without Turkey losing its independence. Russia accepted the note on 5 August as a solution to the crisis, but Turkey asked for revisions on 19 August. The four powers were surprised that their attempt to save Turkey was spurned, but the Turkish rejection was vindicated on 7 September when Nesselrode (the Russian foreign minister) announced that Russia interpreted the note to mean that Russia would be the protector of all Orthodox people in Turkey. This effectively ended the possibility of diplomatic success.
+
+Following the diplomatic collapse, British and French vessels passed the Dardanelles. The tsar moved away from Nesselrode's interpretation of the Vienna Note in a meeting with Francis Joseph I of Austria. Russia's attempt to get Austrian and Prussian support was a failure. The Russian offer to partition Turkey was unacceptable to Austria, as the proposed Russian gains would threaten Austria's access to the Danube and therefore shipping. Prussia simply had no interest in becoming involved in the conflict.
+
+The Russian diplomatic effort was successful in splitting the Western powers. France was willing to try a revised Vienna Note, but UK resisted and sent the fleet to Constantinople on 23 September. France decided to side with the British and sent the French fleet along to Constantinople. This Western support emboldened the Sultan, who declared war on Russia on 4 October 1853.
+
+Europe hoped foe a Russian victory that would leave Turkey intact. Prussia, Austria, Britain, and France signed the 5 December Protocol which was an attempt to coerce Russia into accepting a compromise. It called for the Sultan to make concessions to his Christian subjects and called for Russia not to absorb Ottoman holdings. However, it was clear to all powers involved that neither Prussia nor Austria was prepared to back these demands with military power at this time.
+
+The Protocol was undermined further by a Russian naval victory on 30 November. British and French fleets were allegedly in the area to protect the Turkish fleet. The Russian victory at Sinope caused a violent shift in English public opinion towards anti-Russian feeling; the naval action erased the memory of the Hungarian refugee crisis and its aftermath among the British masses. Thus once the French fleet moved through the Straits, the British fleet was ordered to follow. This action was just a step short of war. Palmerston resigned in the United Kingdom, as he felt that stronger measures should have been taken in the aftermath of the Russian naval victory. 
+
+Russia tried to maneuver to gain Austrian and Prussian neutrality in the event of hostilities with the western powers. However, Austria's demand that Russia evacuate the Balkans (especially the Danubian Principalities) and respect Turkey's prewar borders was more that the tsar would accept. Prussia simply tried to remain neutral.
+
+France tried a diplomatic solution on 29 January 1854 when Napoleon III wrote the tsar proposing direct Franco-Russian mediation over the issue of the Holy Places. There was no real Russian counter proposal, so the French offer of mediation was replaced by a joint Franco-British demand that Russia withdraw from the Danubian Principalities. 
+
+Following the failed Russian attempt to gain Austrian neutrality, Boul (the Austrian foreign minister) favored an alliance with the western powers, but his generals argued that any conflict would largely be fought in Austria and therefore be hugely expensive for Austria and rather cheap for the western powers. Boul was persuaded to by these arguments to avoid an alliance with the west unless Prussia was also a signatory to any such agreement. The Prussian determination to remain neutral prevented such an outcome.
+
+On 31 March 1854 France and England joined the Turkish war against Russia. The Crimean War began. Austria and Prussia sign a mutual neutrality pact so that Prussia could avoid fighting altogether and Austria could gain freedom to maneuver in northern Italy and along the Danube River. With this agreement in place, Austria demanded that Russia evacuate the principalities on 3 June.
+
+Russia was concerned that Austria could join the western powers. On 3 June Austria and Prussia met to discuss sanctions against Russia if the Austrian demand was not met. This realization, combined with the advice of Prussia to accept the demand for evacuation, convinced the tsar to withdraw. Therefore on 29 June, the tsar announced that Russia would respect the Austrian demand of 3 June and vacate the principalities if Austria would prevent British and French troops from entering them. This was unacceptable to Austria, which began preparations for war.
+
+Once preparations were initiated, Austria met with France and Britain to form a set of war aims. The three powers settled on the following four demands: Europe would be the new guarantor of the principalities; the Danube would be opened; rights in the straits would revert to the convention of 1841, which adhered more closely to European interests; and finally Europe would be the new protector of Christians in Turkey. The fourth point had already been conceded by the 'less hostile' interpretation of the 1853 Vienna Note by Russia. By August the first two points were met by the Russian withdrawal from the principalities. The Crimean War was basically fought over the Straights and Russian nava power in the Black Sea.
+
+On 29 July the British parliament ratified these war aims. However, once news of British ratification reached Vienna, the Austrians knew that Russia was going to exit the principalities. Thus Boul refused to sign the treaty on 8 August. Within days, Austria had gained Turkish acquiescence and occupied the principalities.
+
+France and Britain were left to fight the war; in mid-September 50,000 western troops landed near Sevastopol. Russian troops were routed initially, but were later able to stymie western troops and force a siege of Sevastopol. Diplomacy began anew, with France and the UK again trying to bring in Austria support. Again Austria tried to remain in the middle. Boul courted the west and tried to get Russia to accept the four points. However, on 26 August Russia rejected the four points and even spoke of war with Austria. Austria responded by mobilizing on 22 October, although this was largely a diplomatic gesture as the campaigning period had already passed for the year. Any new fighting would have to wait for spring. Prussia became concerned that its policy of neutrality would not be sustainable. Fredrick William wrote to the tsar and expressed his concerns and urged Russia again to accept the four points. 
+
+In early November, Russia considered accepting the demands of France, the UK, and Austria. As Austria saw a potential for the Crimean War to end and Boul became concerned about Austria's position in northern Italy vis-à-vis France. Russia did accept the four points on 20 November, and one day later Austria revoked their mobilization. Now France and the UK had to decide whether they should continue to prosecute the war or accept the terms to which Russia had agreed.
+
+France was aware of Austrian security concerns in northern Italy and worked to gain Austrian confidence. France moved to contain Sardinia, as Cavour (Prime Minister of Sardinia) had considered moving against Austria when it was preoccupied in the Near East. Sardinia needed French support if there ever would be a unified Italy. Cavour felt that if Austria and France were too closely aligned that Austrian desires would win the day and prevent unification. Thus he courted the French and tolerated the Austrians. Sardinia agreed to assist France in the war and not to agitate the Austrians. 
+
+Now that Austria is satisfied, but still not providing troops, Britain looks to settle the Crimean War with diplomacy. England proposes that the war will end when the Russian naval presence in the Black Sea is destroyed. Austria balked at this interpretation of the third point, but did agree to ending Russian dominance in the Black Sea. On 7 January 1855, Russia accepted the Austrian interpretation of the third point and agreed to talks to end the war. Again, western attempts to bring Austria to bear against Russia led not to war but to the negotiating table.
+
+France bristled at the proposed conference; on 16 February 1855, Napoleon III announced that he would go the battlefield and take command himself. British policy in early 1855 was less coherent, as first there was a peace overture made towards Russia and then there was a hostile approach as the parties in government stabilized. Perhaps the most important event that made peace possible was the death of Nicholas I on 2 March 1855 in Russia. His successor, Alexander II, was more interested in Russian concerns rather than being a leading force for conservatism in Europe.
+
+The Vienna Conference was held on 15 March 1855. The western powers quickly realized that Russia would not voluntarily reduce its naval strength, so the delegates took the unusual step of asking the Russians to draft their own plan to reduce their naval dominance in he Black Sea. On 2 April the conference was suspended to allow Russia to form this proposal. Once it became clear that Austria would not fight, nor would Russia reduce its naval power, Britain and France proposed that their respective vessels be allowed into the Black Sea as a counter to Russian power. The French and British diplomats, acting against the orders of their governments, accepted this plan as the basis for an agreement.
+
+Back in London, the British parliament considered the peace plan and seemed about to approve it, but Napoleon III could not be convinced. The conference resumed on 4 June and Russia refused to further limit its navy. The western powers walked out and the French-Austrian agreements about northern Italy of one month earlier crumbled. Hostilities resumed on 8 September and Sevastopol fell to the French and British. 
+
+Austria, fearful of a French-Russian arrangement, agreed to cooperate with France and Britain to dictate terms to Russia. On 14 November, France and Austria (after France had clandestinely determined what terms Russia would accept) concluded an agreement between themselves that established the demands that they would make of Russia. Then France and Austria presented the agreement to Britain, claiming that these were the only terms that Austria would accept, when they were in fact the terms that France had already determined would be acceptable to Russia. This proposed agreement called for the neutralization of the Black Sea. Russia accepted largely because their fleet was in ruins and the Turkish fleet was to be dismantled. 
+
+The peace preliminaries were signed on 1 February 1856. The Congress of Paris, which ran from 25 February to 16 April 1856, finalized the treaty. Essentially the four points were adhered to by all parties. Some small territorial changes were made, most notably the Danubian principalities were freed and formed into Rumania, a buffer state between Austria and Russia. 
+
+Meanwhile in the Far East, during the 1861 Russia-Japan conflict Russia occupied Tsushima, a Japanese island. A British fleet demonstrated to protect British interests in the area.
+
+The Congress of Paris settled European tensions for the moment, however the peace between Turkey and Russia would not last. Twenty years later European powers reconsidered the stability of Turkey as the Great Eastern Crisis began. Again the sultan had rebellious subjects, this time the Slavic peoples under Ottoman rule rebelled. According to Taylor, "...Russia dared not let them [the Slavic rebels] fail; Austria-Hungary dared not let them succeed" (229). Andrassy (the Austrian foreign minister) tried to settle the issue with support from the league of the three emperors (Austria, Russia, and Germany). However Andrassy's attempt to promote a solution by local diplomats from each of these three states was weakened when France asserted itself. France demanded to be a part of the solution; Russia agreed quickly as they felt that France could be played off against Germany and further that a refusal of French demands would result in a reenactment of the Crimean War coalition of the west. Once four powers were involved in the solution, Italy and Britain were asked to attend as a matter of formality. England was not enthusiastic to join, as Derby (the foreign secretary) was an isolationist, but join they did, largely to try to protect Turkish interests.
+
+The August 1875 meeting was a failure; mediation offer was spurned and the revolt continued. The European response was the Andrassy note, which was written in 30 December 1875, and spelled out domestic reforms for Turkey. Turkey accepted the note, but did little to implement it. The rebels ignored the mediation. 
+
+The next attempt to settle the issue came on 11 May 1876 when Russian, Austrian, and German diplomats met to craft another solution. The agreement called for a two month armistice and a resettlement plan for the rebels who were to keep their weapons. France, Italy, and Britain were invited to adhere to the document on 13 May. Britain refused to sign the note not because of their concern for Turkey but more because Disraeli (the British Prime Minister) felt that the British had been slighted in the drafting of the note. The more bellicose response by England was to send the fleet to Besika Bay, the same action that had initiated the Crimean War twenty years earlier. 
+
+Russia tried to remain on good terms with Europe to sort out the crisis. Initially Russia let the Turkish government manage the revolt itself; Russia seemed content to let the Ottoman Empire act alone and sort out the end. Thousands of Bulgarians were killed by Turkish troops in the summer of 1876 and Serbia and Montenegro declared war on Turkey. 
+
+The powers were concerned that this revolt may be too much for the Ottoman empire to withstand. France and Russia met in the summer to discuss their plans if chaos were to prevail in the Balkans. The 8 July 1876 Reichstadt agreement formalized assurances between France and Russia that conflict would be avoided in the Balkans. Russia, in spite of wanting to maintain relations with the west, becomes pulled into the war when their client Serbia, which is badly beaten by Turkey, calls for Russian aid. During this time, British public opinion begins to shift away from Turkey; the massacre of thousands of Bulgarians and general Turkish misrule across the empire are too much for the public to stomach.
+
+By fall, Russia threatens Turkey and demands that the fighting cease. A six week armistice is signed on 31 October 1876. However, little is done to address the roots of the problem. Russia continues to develop relationships with the west in the face of the crisis by meeting with British diplomats in Constantinople on 12 December. This agreement, like the Russo-French agreement of three months earlier, agreed upon a post-war Balkan landscape. Three days later, a similar agreement is signed between Russia and Austria in Budapest.
+
+The cumulation of these treaties led to a common European policy, but Turkey resisted the powers' attempt to manage their civil war. On 18 January 1877 Turkey officially rejected the European proposal to end the conflict, and Russia loses patience. Throughout the spring Britain tried to negotiate a settlement between Turkey and Russia, but cannot. On 24 April 1877, Russia declares war on Turkey. Britain was concerned about Russian activity in the Near East, so they warned Russia against interfering with the Suez Canal or Egypt and reaffirmed the British policy on the straights. (MID307) The Russian response to the warning was deliberately vague.
+
+Initially the Russian invasion of Turkey proceeds quickly, but Turkish resistance stiffens at Plevna. A four month stalemate followed. In Briatin, the Turks are seen as heroes fighting against a great power. Responding to this groundswell of support for Turkey, on 15 February 1878 a British fleet moved through the straights (in spite of Turkish pleas not to intervene). (MID3324) Russia concentrated on forming a free Greater Bulgaria as a solution to the problem of Slavic people being repressed by the sultan. 
+
+The Treaty of San Stefano effectively ends the Russo-Turkish War for the primary combatants on 3 March and establishes a large Bulgarian state. Russia sent Count Peter Shuvalov to negotiate with the British to settle any outstanding issues from the war two months later. The result of the negotiations was, on 8 May, a smaller Bulgaria. Russia entered into agreements with Austria, and England and Turkey signed a treaty solidifying the place of a smaller Bulgaria in the future.
+
+The Berlin Congress brought all of the powers together to complete the peace process. From 13 June to 13 July, the powers formed an agreement that guaranteed a free Serbia, Montenegro, Macedonia, and Bulgaria, and provided for Eastern Roumelia to be under limited Turkish rule. Austria made territorial gains in the Balkans and Russia absorbed some territory from Turkey. Although the Russian goal of a Greater Bulgaria was replaced by three states (independent Bulgaria and Macedonia, and Turkish controlled Eastern Roumelia) the overall desire for a buffer had been filled. Russian nationalists were disappointed, as were the aspirations of Serbia, Greece, and Bulgaria. The other powers, however, were content with this solution to the Great Eastern Crisis.
+
+The nest crisis to involve Russia and the UK involved Russian expansion into Afghanistan. On 30 March 1885, a Russian army defeated the Afghans at Penjdeh and threatened to move into Afghanistan, which the British wanted to retain as a buffer state for India. A British fleet occupied Port Hamilton (on the Korean coast) on 26 April to provide a station from which action against Vladivostok could be taken. The English attempt to apply pressure from the Mediterranean failed when Turkey refused access to the Straights. The inability to act in the Black Sea coupled with insufficient force to mount an independent campaign against Vladivostok compelled the British to back down. Arbitration was accepted on 4 May; agreement was reached on 18 June, and on 10 September a new Russo-Afghanistan border was implemented. 
+
+British and German financial competition in China led to the next clash between Russia and the UK. An Anglo-German loan to China irritated Russia, which tried to replace Brown (a British financial advisor) with a Russian. The UK China squadron moved towards Port Arthur (in Russia), but Russian-French cooperation restrained the British who ultimately settled for the Chemulpo naval demonstration. After the show of force, the Russians retracted their demand.
+
+The first period of MIDs between Russia and Great Britain of the 20th century are the result of tension between the Allied powers and the new Bolshevik government in Russia. The last MID between the two powers in this first series is coded as MID241 and is named the "British Trawler issue", however, this small incident is not really representative of the general conflict. The previous series of conflicts; the "Occupation of Gilan" MID1133, the "UK Intervention in the Caucasus and Transcaucasus" MID2363, and "Latvia vs. USSR" MID2604 are more representative of the underlying issues. Prime Minister of Britain for most of these MIDS was Lloyd George and Stalin commanded the Bolsheviks. The appropriate timeline for this first conflict is from the Soviet revolution of 1917 until Allied end of aggression following the treaty of Rapallo, which was signed in April of 1922 (Kirby 1995).
+
+In August of 1918, Allied troops (French and British) landed in the town of Archangel with the intention of reinforcing Czech forces combating the Bolsheviks (Bradley 68). The British concentrated efforts on bolstering the White Russian movement (Bradley 68). Because of division within the White movement the British War Minister Winston Churchill arranged plans for evacuation through southern Russia by June of 1919. During their long retreat, the Allied forces continued to support volunteer armies in resistance of Bolsheviks. By 1921 it became clear that volunteer armies would not be sufficient to resist the Bolshevik movement and Allied influence in the region faded.
+
+Britain signed an armistice with Russia in November of 1918, which slowly caused a shift in policy from resistance to recognition. British Prime Minister Lloyd George officially stated that Britain wished to stick by her war ally no matter what (Bradley 68). However, as the British involvement in Latvia and Siberia demonstrated, Britain's official standpoint and its military objectives were not always in agreement. An indirect conflict between the Russian Bolsheviks and the British erupted in Iran. British forces facilitated a coup in Iran with the intention of setting up a British friendly military regime (Chaqueri 1995)
+
+British War Minister Winston Churchill and General Ironside according to Russian scholars were instrumental in organizing a coup d'etat of February 24th, 1921 in which Reza Kahn would institute a military regime in Iran. Britain wished to withdraw her troops but wanted to leave a military presence that could resist Bolshevik aggression (Chaqueri 1995). The British influence on the regime change became apparent following Iran's pro Britain policy following the change. 
+
+Other conflicts between Russia and Britain followed similar Anti-Bolshevik containment policy. British-Russian aggression never fully ended during this first period of conflict but did subside as Britain, France and Germany came to recognize the Bolshevik government of Russia as legitimate (Kirby 1995).
+
+The second groups of conflicts follow World War II and are related to the Allied occupation of Berlin. They extend over 40 years and are consistent in their scope of involvement, British interests in Berlin and Iran. 
+
+The actors frequently involved in the disputes of this period are Russia, France, Great Britain and the US. France, the US, Britain and the Soviet Union reached a four-power agreement in 1944 and 1945 which divided Germany into four zones of administration each to be governed by one power (Slusser 1973). In addition to the division of Germany, Berlin was also divided into four zones of control despite the fact that the city of Berlin was entirely surrounded by the Soviet occupied portion of Germany (East Germany). By November of 1958 the Soviet leader Nikita Krushchev began to make demands for a western peace treaty with East Germany with the purpose of ending western occupation of West Berlin (Slusser). Over the following three years Krushchev's demands grew in strength and posture. By April 25th of 1960 the Soviet Union began to make specific threats directed at the western powers (Camp 1971). On April 25th the Soviet Union issued a warning to Britain and the other two powers that insisted that if a peace treaty was not signed with East Germany which included the withdrawal of occupying military forces then it would be forced to sign a unilateral peace treat with East Germany and the Western Powers would lose the right of entry into Berlin (by air, water or land). 
+
+On June 8th of 1961 the USSR began a more aggressive strategy to cut off West Berlin from West Germany. When the West German government had announced that it intended to hold its Bundesrat (the upper house of the legislature) session in West Berlin it brought formal Soviet complaint (Camp; Also see Gearson 1998 and Slusser). France supported the West German insistence that it was a meeting of elected officials for the purpose of peacefully conducting business and not an affront to the four-power division of Berlin. Responding to demands placed by Krushchev the session never occurred in Berlin. 
+
+On July 2nd 1961 the Krushchev announced that any Western aggressions in Berlin would be met with swift response including the nuclear destruction of both France and Britain (Slusser). The US President, J. Kennedy told Khrushchev that he must decide between pursing the Soviet goal of an East German treaty which included the ousting of Western military forces from Berlin and the minimal goal of sealing off the escape route for East Germans who were fleeing into West Berlin. 
+
+On October 17th at the 22nd session of the Soviet Congress, Krushchev announced that the Soviet Union would relax its demands for a peace treat with East Germany if the West continued to show a willingness to cooperate (Gearson; Also see Slusser). On October 28th 1961 French, British and American troops and tanks violated the Soviet imposed 100-meter no troop zone around the wall in a show of protest to the East German use of tanks to prevent Western officials from entering East Berlin without the new Soviet permits. The East Germans stood down and removed their tanks from checkpoint Charlie, the gateway between East and West Berlin (Slusser).
+
+Subsequent MIDS include several Berlin Wall crises ending with the shooting of the American Major Arthur D Nicholson Jr. MID2232 on 1985. This last conflict barely involves Britain but is representative of the Allied attitude towards containment of Soviet expansion. On September 7th Nicholson was shot and killed by a Soviet sentry. Soviet Russia formally apologized to the Allied forces and the conflict ended without further involvement (www.arlingtoncemetery.com). 
+
+Although the MID series is coded as ending in 1985 after the shooting in Berlin it would be more appropriate to end the series after reunification of Germany. One might even extend the MID to the fall of the Soviet Union as all of the British-Russian conflicts were characteristic of the Cold War struggle. 
+
+SOURCES-CR:
+Bradley 1968; Camp 1971; Chaqueri 1995; Gearson 1998; Kirby 1995; Slusser 1971
+
+SB-CR:
+Russia / United Kingdom Years: 1833-1907. Issues at stake: Spheres of influence in Afghanistan/Persia; Access to Straits of Constantinople. End coding: The Treaty of St. Petersburg, signed on August 31, 1907, set out spheres of influence in Asia, dividing Persia into three zones, one British, one Russian, one neutral, and recognizing the force of existing agreements regarding access to the Straits. Number of reciprocated 30 day militarized disputes: 11. Last militarized dispute: 1904 (Dogger Bank). Wars: 1854-1856. Summary: Britain and Russia had competing interests primarily in Asia since the early 1800s. In 1864, Russia annexed Turkistan, intensifying the rivalry through its new proximity to Persia. In part, the 1867 sale of Alaska to the US may have been directed against Britain (Kinder and Hilgemann 1978). The 1907 Treaty of St. Petersburg divided Persia, the center of the ongoing rivalry, into formal spheres of influence to avoid the friction of direct contact. Notes: A series of later disputes between 1917 and 1923 are about allied intervention in the Russian civil war, and are unrelated to the earlier issues of influence in Asia, which remain settled. Post-WWII confrontations between NATO and the Warsaw Pact are not frequent enough, and Britain is not central enough to the disputes, to constitute a new rivalry under the coding rules. Sources: Albrecht-Carrie (1958), Kinder and Hilgemann (1978).
+
+PS-NARRATIVE: 
+
+19390325-19410930 0.25
+
+Through the summer of 1939 numerous negotiations between UK and Soviet Union took place, regarding a possible alliance against the German threat. None of them materialized. MID258 represents the start of World War II, on September 3, 1939, when UK declares war on Germany and comes to the defence of Poland. Soviet Union joined the War on September 17, 1939 when it also attacked Poland. Thus for a period of two years UK and Russia found themselves on different sides of the war, especially over Poland and Finland. Not much direct fighting existed between the two countries during this period. Soviet Union signed a treaty of non-aggression with Germany, while UK was fighting the Germans.MID3860 is only between UK and USSR from 19400114 to 19400402. MID3860 occured over the support Britain offered to Finnish fighters in their effort to protect their independence against Soviet Union. In February 1940 British and French troops offered to help Finland by sending in 100,000 British and 35,000 French troops to Scandinavia to make sure that a German-Soviet overtake of the Peninsula will not occur.In early March 1940 UK offered again troops to Finland, but by then Finland was already negotiating a peace with Soviet Union. It is considered that without the Western threat of intervention, nothing would have stopped Soviet Union from taking over the entire Finland. 
+
+19411001-19460801 0.5
+
+On October 1st, 1941, Soviet Union signed the Lend-Lease Agreement with United States, thus becoming a direct ally of United Kingdom in their war against Nazi Germany. United Kingdom, Soviet Union and United States were the main allies against the German and Japanese troops. In this capacity, UK and Soviet Union, even though fighting on different war theaters cooperated closely in terms of military planning and support, all throughout the war. The Lend-Lease Agreement ended on September 20, 1945 towards Soviet Union. From August 25, 1941 to September 17,1941, UK and Soviet Union cooperated in Operation Countenance, which meant taking over Iran and dividing the country between the two forces, for fear that Nazi Germany will get the Iranian oil fields. Soviet Union was able to receive much needed military support through the Persian Corridor. At the war's end Britain withdrew but Soviet troops stationed in northwestern Iran not only refused to withdraw but backed revolts that established short-lived, pro-Soviet separatist regimes in the northern provinces of Iran Iranian Azerbaijan, the People's Republic of Azerbaijan and the Kurdish People's Republic in late 1945. Soviet troops did not withdraw from Iran proper until May, 1946 after receiving a promise of oil concessions. The Soviet republics in the north were soon overthrown and the oil concessions were revoked.In March 1946, the animosity between Britain and Soviet Union increased, with Churchill's famous speach in Fulton, Mo., when he cautioned about an Iron Wall separating Soviet-dominated Europe from the rest of Europe. In the same time, in speeches at the United Nations, Soviet Union accused the British Empire for suppressing the liberties of native people and considered Britain as its major enemy. MID603 was between UK and Soviet Union over the issue of special spheres of influence in Iran and started on August 2, 1946. We consider this militarized incident, following the increased animosity between the two nations during late 1945 and early 1946, to be the starting point of the Cold War. 
+
+19891109-19921110 Transition 
+
+The last MID of RIV439, MID4342 ended on April 19, 1999. The end of the Cold War witnessed a warming of relations between the former Soviet Union and Great Britain. British Prime Minister Margaret Thatcher maintained a close relationship with Mikhail Gorbachev. UK and Soviet Union cooperated during the Iraq Gulf War, through the United Nations. Thatcher visited Gorbachev in Moscow in 1990, and so did members of the Royal family in a show of thawing the relations. In April 1990, one of the biggest Anglo-Soviet trade deals to date, worth 2.6 billion pounds over the next 15 years was signed. The deal involved timber trade from Siberia to UK. British Prime Minister John Major said he came away from four hours of talks with Mikhail Gorbachev in Moscow, encouraged by the Soviet president's position on the Baltic republics and a Middle East peace settlement. ''In short, I believe we can say that the United Kingdom can continue to do business with Mr. Gorbachev in a very satisfactory manner,'' Major said on March 6, 1991. UK's Prime Minister John Major said on August 19, 1991, that Soviet leader Mikhail Gorbachev was removed from office by ''an unconstitutional seizure of power'' and warned the Soviet Union must abide by its international commitments. Speaking outside No. 10 Downing Street, Major praised Gorbachev and said, ''I believe the whole world has a very serious stake in the events currently taking place in the Soviet Union. The reform process there is of vital importance to the whole world and of most vital importance, of course, to the Soviet people themselves.''The period from 1989, when the Berlin Wall comes down, to 1992, when the Cold War is officially declared over and Britain and Russia sign a friendship and cooperation treat, is a transition period out of rivalry.
+
+19921111-20159999 .25
+
+In the aftermath of the collapse of the Soviet Union, the governments of Great Britain and Russia signed, on November 9-10 1992, the Treaty on the Principles of Relations between the Russian Federation and the United Kingdom. The treaty called for cooperation between the two countries in order to achieve and strengthen `peace, friendship, democracy, respect for human rights and the peaceful settlement of disputes, as well as to the promotion of commerce and to practical cooperation over a wide area of government activity.' The early years after the fall of communism saw a considerable amount of support from Britain for the Russian democratic transition. In 1994, British Prime Minister John Major visited Russian in support of the newly elected Russian bicameral parliament; as well, the Queen of England and Duke of Edinburgh visited Russia that year marking a watershed moment in British-Russian relations. 
+
+The new friendly relationship between Russia and Britain, however, was strongly tested when Chechnya declared independence in 1994. Although Britain wanted to promote a stable Russia, the brutal use of force in Chechnya tested the lengths to which the west would support Russian action. The British saw Boris Yeltsin, the Russian President, as the best hope for reform in the country. Consequently, and despite reservations about tactics used in Chechnya, the British made no move to call for formal sanctions against Russia. Relations were strained briefly in 1997 when British hostages were taken in Chechnya. Overall, Chechnya had very little effect on overall Russian-British relations.
+
+In 1997 the Labour Party came to power in Britain under the leadership of Tony Blair. President Yeltsin was re-elected in 1996. His government was extremely unpopular domestically. Prime Minister Blair used British presidency of the EU and the Group of Seven in 1998 to offer a show of support and confidence in Yeltsin and Russian economic reforms. Expansion of the G7 to include Russia was used as a symbol of support for Russia.
+
+NATO expansion to include Poland, Hungary, and the Czech Republic during PM Blair's stint in office threatened to strain relations. As compensation, Russia was offered the Founding Act on Mutual Relations, Cooperation and Security agreement under which the NATO-Russia Joint Council was established. This agreement ensured that Russia would have a voice in NATO, although not a veto. 
+
+At the end of 1998, Russia was teetering on collapse from economic stagnations. Britain, along with the EU and the United States, provided food aid to help Russia survive the winter. 
+
+In the late 1980s, Britain and Russia were trading partners. In 1987, British imports from the Soviet Union were around 875 million (British pounds) and exports were around 432 million. Trade increased after 1991. By 1997 British exports reached 1232 million, while British imports were around 1476 million. Overall, however, British trade was relatively modest compared to other European countries such as Germany and accounted for only about 1 percent of British trade. In terms of foreign investment, however, Britain was by 1996 the second largest foreign source (about ten percent of total). There were approximately 1200 joint ventures between Russian and British firms. 
+
+Britain and Russia see common ground for possible cooperation in European security and economic development. However, the potential for conflict certainly exists in those same areas. Despite a limited voice in NATO, Russia still sees further expansion of NATO to the Baltic Republics is viewed by Russia as a threat to national security. Militarized disputes between Russia and Britain over troop deployments in Kosovo (MID4334 and MID4342) illustrate that there are still points of contention over spheres of influence and Russian input regarding NATO operations in Eastern Europe. MID4334 occurred in 1999 when NATO troops were moving into Kosovo. Russian troops entered Kosovo independently of NATO and attempted to occupy Pristina first. British troops were put on alert and initially declared that they would occupy Pristina `by any means necessary.' Eventually, through diplomatic channels, the crisis ended with Russian troops occupying Pristina. MID4342 is an unidentified dispute that occurred between NATO and Russia in 1999.
+
+In October 2002, the Foreign Affairs Ministry, Aleksandr Yakovenko stated that Moscow and London have "similar or absolutely identical" positions on most of key international problems. This refers to such issues as Middle East and Afghan settlement, combating international terrorism, stabilizing the situation on the South Asian subcontinent, as well as a whole range of other issues. Yakovenko also said that developing Russian-British cooperation was one of the main aspects of both countries' foreign policy. Moscow regards Great Britain to be an important partner in the UN Security Council, the G8, on European issues, especially in relations with NATO, the EU and OSCE, as well as in solving a number of global problems. London actively supports the strengthening of Russia's cooperation with NATO and the European Union. Moscow appreciates the practical efforts made by London regarding Russia's integration into international structures and full participation in their activity. 
+
+Russian-British trade turnover increased by 20 per cent in 2002, reaching 5.3bn dollars, as reported by the Russian Economic Development and Trade Ministry in April 2003. Britain is one of Russia's main investment partners. As of 1 January 2003, the total value of accumulated investment in Russia from that country reached 5.1bn dollars and direct investment reached 2.2bn dollars. Also in April 2003, The British Ambassador to Moscow stated that the two countries have rather stable relations in education and between the armed forces. He also noted that Great Britain and Russia are very close in the antiterrorist fight. Great Britain is a major investor in Russia, and the two countries maintain close economic relations, the diplomat said. The structure of bilateral relations has become rather diverse, and it does not depend on differences over particular issues, the ambassador stressed. He said Great Britain and Russia have similar principles in all issues of foreign policy.
+
+The growing economic ties between the UK and the Russian Federation were strengthened on June 26, 2003, as the countries' leaders agreed to work together on increasing investment and development in energy. Speaking at the opening of the Russia-UK energy summit at Lancaster House, UK Prime Minister Tony Blair celebrated the long-established and growing partnership with Russia which has helped bring security and prosperity to both countries. "The UK's relationship with Russia is one of our most important international partnerships," said Mr Blair.
+
+In September 2004, Russia's foreign minister, Sergey Lavrov, accused the USA and Britain of the policy of double standards for granting asylum to what he called Chechen extremist leaders.
+Since the collapse of Communism, some British companies have developed huge businesses in Russia. Shell's pounds 10bn Sakhalin project was the biggest foreign investment in Russia. At the time of its conception more than a decade ago, Russia lacked the knowledge and financial firepower to implement such a scheme. But now Shell is being forced to give up much of the upside over claims that it is breaching environmental laws. Shell was forced into selling a stake in its Sakhalin project, by the Putin government in December 2006.
+
+BP has also been a Russian flag-bearer, through TNK-BP, its Russian joint venture. Lord Browne of Madingley, the BP chief executive, claims to have invested around $10bn into Russia since the company was set up in 2003-another figure which suggests the official UK data understates Britain's investment in Russia. Although much of the original investment has been clawed back in dividends, the company's interest is substantial-and under threat. TNK-BP is in a similar bind to Shell. Russian authorities are holding the company to a target of producing 9bn cubic metres of gas from the Itkutsk region by the end of the year. TNK-BP claims that total demand for gas in the Itkutsk region will only reach 2.5bn cubic feet within three years. Nonetheless, it could lose its licenses unless it does a deal with Gazprom. 
+
+In November-December 2006, Britain accused Russia of orchestrating the assassination of a Russian citizen, former KGB member Alexander Litvinenko, on British territory. UK asked Russia in several occasions to extradite those responsible for Litvinenko's murder, in order to stand trial in UK. Russia, even though it offered cooperation with the British investigation refused to extradite any Russian citizens. This case led to a negative turn for the British-Russian relations. 
+
+The two states have enjoyed a higher level of cooperation yet there are still isolated disputes regarding the expansion of NATO and spheres of influence in Eastern Europe. In 2006 a number of disputed forced take-over of some British companies' shares in the Russian gas and oil industry has sparked new issues of contention.
+
+PS-SOURCES: Keeble 2000; IPS-Inter Press Service February 20, 1991; United Press International March 6, 1991; August 19, 1991; TASS May 22, 1990; The Independent February 3, 1990; April 4, 1990; November 2, 1990; Hermes Database March 14, 2002; June 26, 2003; BBC October 15, 2001; March 18, 2002; October 9, 2002; March 4, 2003; April 4, 2003; April 28, 2003; June 23, 2003; April 5, 2004; September 9, 2004; November 24, 2004; Sunday Telegraph December 17, 2006; New York Times March 17, 1946
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID242 is not considered a maritime MID 
+
+MARITIME-DISPUTE: MID242
+ DYAD: UNITED KINGDOM RUSSIA/USSR 200365
+ DATES: 19041021 19041105
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+A Russian warship enroute to the Pacific Ocean fired upon some British fishing vessels in the North Sea on October 21, 1904, resulting in the deaths of two British fishermen and the sinking of one fishing vessel. The countries disputed the facts related to the cause of the incident. Russia and Britain signed an agreement on November 25, 1904 in which they agreed to the establishment of a commission of inquiry to investigate the "question of facts connected with the incident which occurred during the night of the 21st-22nd of October 1904 in the North Sea." The commission of inquiry, which was composed of five members (two each from Britain and Russia and one from Austria-Hungary), met from January 9 to February 9, 1905. The commission of inquiry found that the incident was largely caused by mistakes made by the Russian ships, and Russia later agreed to pay financial damages to Britain. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

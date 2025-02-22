@@ -1,0 +1,363 @@
+FILE: cm200345v11.0.txt
+DYAD: UNITED KINGDOM-YUGOSLAVIA
+RIVALRY: RIV426
+DISPUTE(S): MID3812 MID3192 
+RIVALRY: RIV427
+DISPUTE(S): MID3551 MID4137 MID4186 MID4343 MID4295 
+
+PS: 19009999-19450814 0.5 19920716-20001128 0.00 20001129-20051128 0.5
+
+PS-UPDATE2020:Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+ 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220307
+PS-LAST-CHECKED: 20220307
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3812
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Yugoslavia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. They therefore refused to recognize the independence of states that declared independence from Yugoslavia, still claiming their territory as part of Yugoslavia. Coded third party link to territorial MID because UK (as part of UN/NATO) became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Coded civil war MID because civil war within Yugoslavia eventually convinced NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 coded civil war link because this also involved insurgent forces fighting outside of this dyad, especially in Albania and Croatia. 
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 coded civil war link because this MID involved ethnic insurgents fighting inside Kosovo, outside of this dyad. Serbian guerrillas and troops fought Albanian guerrillas within Kosovo. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. These MIDs are coded separately due to the temporal separation between them. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4295 
+
+TERRMID: MID4295 3 -- not territory
+TERRMID-CER: MID4295 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4295 1 -- third party link to territorial MID
+TERRLINK-CER: MID4295 1 -- certain
+TERRLINK-NOTES: MID4295 from cm narrative, Yugoslavia arrested police officers from Canada and UK who were in Kosovo and Montenegro to help train regional police officers. Yugoslavia claimed they were spies. Occurred 7/31/2000 to 10/6/2000. Coded third party link to territorial MID because this partly occurred in Kosovo; Serbia did not recognize Kosovo's independence at this point and still claimed it to be part of Yugoslavia; and Canada was a third party to that territorial dispute by being a part of the forces in Yugoslavia. 
+
+MARITMID: MID4295 3 -- not maritime 
+MARITMID-CER: MID4295 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4295 3 -- not islands 
+ISLMID-CER: MID4295 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4295 1 -- civil war MID
+CIVWARMID-CER: MID4295 1 -- certain
+CIVWARMID-NOTES: MID4295 coded civil war MID because this MID was directly connected to Yugoslavia-Kosovo tensions, which for years involved ethnic guerrillas coming into Yugoslavia from Kosovo to fight against the government and against ethnic Serb guerrillas. 
+
+CIVWARLINK: MID4295 1 -- civil war link
+CIVWARLINK-CER: MID4295 1 -- certain
+CIVWARLINK-NOTES: MID4295 coded civil war link because insurgent groups in Kosovo, organized along ethnic lines, had fought against each other and against governments for years, and this violence was part of the reason UN/NATO forces eventually intervened in the Yugoslavian War. The civil war activity in Kosovo, outside of this dyad, contributed to the Canadian presence in this MID. 
+
+COUPMID: MID4295 3 -- not coup 
+COUPMID-CER: MID4295 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4295 3 -- not coup link
+COUPLINK-CER: MID4295 1 -- certain 
+COUPLINK-NOTES:
+
+MID3192 
+
+TERRMID: MID3192 3 -- not territory 
+TERRMID-CER: MID3192 1 -- certain 
+TERRMID-NOTES: MID3192 from cm narrative, UK and Yugoslavia were allies during WWII, but when Yugoslavia allied with the Soviets after WWII, relations between Yugoslavia and UK soured. From NYT 10/7/1946, Yugoslavia forced down a British courier plane and released it after UK protested. Coded not territory because there was no territorial claim being advanced here, and this as likely due to ideological tensions along West vs Communist lines. 
+
+TERRLINK: MID3192 3 -- not third party link to territory 
+TERRLINK-CER: MID3192 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3192 3 -- not maritime 
+MARITMID-CER: MID3192 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3192 3 -- not islands 
+ISLMID-CER: MID3192 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3192 3 -- not civil war 
+CIVWARMID-CER: MID3192 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3192 3 -- not civil war link 
+CIVWARLINK-CER: MID3192 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3192 3 -- not coup 
+COUPMID-CER: MID3192 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3192 3 -- not coup link
+COUPLINK-CER: MID3192 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3551
+rivalry=200345 nationa=UNITED KINGDOM nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19961002 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=USE OF FORCE
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and UK by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade. First day of dispute was on 7/16/1992 and last day of dispute was on 10/2/1996.
+
+MID4137
+rivalry=200345 nationa=UNITED KINGDOM nationb=YUGOSLAVIA-SERBIA MID4137 19980503-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+501-999 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 5/3/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=200345 nationa=UNITED KINGDOM nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4295
+rivalry=200345 nationa=YUGOSLAVIA-SERBIA nationb=UNITED KINGDOM MID4295 20000731-20001006 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Yugoslavia seized a number of police officers from Canada and the UK who were in Kosovo and Montenegro to help train regional police officers. Yugoslavia claimed that they were spies. First day of dispute was on 7/31/2000 and last day of dispute was on 10/6/2000.
+
+MID4343
+rivalry=200345 nationa=YUGOSLAVIA-SERBIA nationb=UNITED KINGDOM MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO DISPUTE NARRATIVE FROM COW AVAILABLE
+
+RIVNOTES: 
+
+RIV427: MID4186, this MID has been broken up into MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+19400402-19450814 RIV426-0.5
+
+RIV426 consists of two MIDs, MID3812 and MID3192. MID3812 lasted from April 2-4th, 1940, and it only involved Yugoslavia and United Kingdom. This MID is about a threat of force made by UK against Yugoslavia's ships that carry goods for Germany through the port of Trieste. Force will be used against Yugoslav ships if found carrying goods for Germany. In 1940, Britain attempted to bring Yugoslavia to the Allied side by supplying military aide to the Yugoslav Royal Air Force, including new Hawker Hurricane fighter aircraft. The thirty divisions of the Royal Yugoslav Army were not equipped or prepared to meet the fifty-two invading German, Italian, and Hungarian divisions and the Bulgarian forces that invaded Macedonia. Lacking modern equipment and adequate mobility and firepower, the Yugoslav Army faced a surprise attack on several fronts by superior and heavily armored and mechanized forces. Yugoslav forces retreated rapidly to the center of the country, attempting to use the mountainous coastal areas as a base and to maintain lines of supply to Greece and the Allies. However, German forces captured the supreme command at Sarajevo on April 17, 1941, and Yugoslavia formally surrendered. Germany, Italy, Hungary, Bulgaria, and Albania annexed or occupied parts of the country. The Communist Party of Yugoslavia (CPY) under Tito refused to accept defeat. It remained inactive, however, until Germany attacked the Soviet Union on June 22, 1941. Through the Comintern (Communist Internal trans), the CPY received orders from the Soviet Union to resist the German occupation. Initially the military committees of the CPY collected arms and organized available manpower. Then they conducted small armed attacks and acts of sabotage against occupying Axis forces. Yugoslavia became an unanticipated theater of war for the Axis. Large German forces were forced to remain there to protect lines of supply to Greece and North Africa during the critical year of 1942. Nearly 600,000 Axis troops, thirty-eight divisions in all, were needed to control the country and thus were unavailable as reinforcements for the pivotal battles of El Alamein and Stalingrad. The occupation of Yugoslavia drained significant Axis manpower and resources from other theaters over a long period of time. Partisan pressure was a factor in Italy's withdrawal from the war in September 1943. When Italy's twenty divisions left Yugoslav territory, Germany had to commit even greater numbers of soldiers to maintain its position there. At maximum strength the German occupying army included twenty-six divisions. By late 1943, Tito's Partisans began to resemble a regular army. With captured or abandoned Italian arms, they armed 300,000 combatants in eight corps and twenty-six divisions. At the end of 1943, virtually all Allied military assistance was transferred from the Cetnici to the Partisans, whose operations had the potential of hastening the defeat of Germany. From then until the end of the war, the Partisans received over 100 tanks, 300 field guns, 2,000 mortars, 13,000 machine guns, and 130,000 rifles from Great Britain and the United States.
+
+MID3192 occurred on October 5th, 1946 and again only involved Yugoslavia and UK. 
+
+UK and Yugoslavia (both the Royal forces and Tito's forces) were basically allies against Germany in WWII. Tito was also a friend of Churchill and they fought together against the Axis Powers. I could not find any specific information on the two MIDs between Yugoslavia and UK for this period, but they seem to be overshadowed by the entire cooperation between British and Yugoslav forces in the war. 
+
+19450814-19910804 no relationship
+
+The last MID of RIV426, MID3192, ended on October 5th, 1946. Tito's forces in Yugoslavia were helped by British special operations during World War II. But in the end, Tito did not turn out to be quite such a disaster as the British Foreign Office seemed at first to think. His wartime connection with the British, who so significantly helped him to victory, made his defection from Moscow in 1948 easier and prepared the way for the independent policy that Yugoslavia has pursued ever since. On January 31st, 1946, the new constitution of the Federal People's Republic of Yugoslavia was adopted, modeling the Soviet Union's. Yugoslavia was officially a Communist country. 
+
+From the mid-1940s to mid-1950s, British diplomats were involved as 3rd parties in the negotiations over the fate of Trieste, a town disputed by Italy and Yugoslavia. Britain was part of a three nation coalition (UK, France and U.S.) to provide aid to Yugoslavia in the 1950s, totaling 750 million US dollars. 
+
+On June 2nd, 1970, Princess Margaret started a 7-day visit to Yugoslavia with her husband. This is the 1st member of Britain's royal family to visit a Communist country.
+
+Queen Elizabeth II, Prince Philip and Princess Anne arrived in Belgrade, Yugoslavia on October 17, 1972 and received a red-carpet greeting from President Tito and high Yugoslav officials; thousands throng flag-decked streets to give the Queen a warm welcome. The Queen, making her 1st visit to a Communist country, spent two days in Belgrade before starting a 780-mile tour of Yugoslavia's popular scenic areas.
+
+Yugoslavia on December 4 and 5, 1973, tried two Britons, E P Mason and R Curtis, who were charged with espionage on behalf of 'foreign organizations'; Mason and Curtis were arrested at a air base near Sarajevo with long telescope, powerful binoculars, short-wave radios capable of monitoring aircraft communications, tape recorder and notebooks full of data about airfields and airplanes; prosecutor at trial implies that primary mission of men was to check on presence of Soviet military transports taking part in airlift of arms and supplies to Arabs during the 1973 Middle East war. 
+
+The Governor of the National Bank of Yugoslavia, Dr Ksente Bogoev made an official visit to London on April 9, 1979, where he held talks with the Governor of the Bank of England, and representatives of British commercial banks on possibilities of their more active engagement in the promotion of trade between the two countries. This support of British banks is indispensable, especially to alleviate Yugoslavia's large deficit in trade with Britain. Dr Ksente Bogoev said the talks were useful and fruitful and also related to the question of terms for the expansion and promotion of crediting.
+
+On September 25, 1980, British Prime Minister Mrs. Thatcher made an official visit to Yugoslavia. The fact that this is the first visit which a British Prime Minister is paying to Yugoslavia does not alter anything. Because, although since the war there have been ups and downs in Yugoslav-British relations, the fact remains that both countries have managed with no great effort to channel their mutual relations in a positive direction. The war time alliance has always gained the upper hand over the differences which have existed and which will continue to exist in view of the differences in the two countries' social systems and different international position. Margaret Thatcher is coming to Yugoslavia at a time which demands from all countries the investment of maximum efforts in the direction of preserving world peace, which is under serious threat. This will, in fact, be one of the main subjects of the talks which Veselin Djuranovic and Margaret Thatcher will have. As European countries, Yugoslavia and Great Britain are vitally interested in contributing, in line with their possibilities and with their influence-which is considerable-to the implementation of the spirit of Helsinki and in general to the resolving of major international problems. Yugoslavia's and Great Britain's views, true enough, are somewhat different, but this does not diminish the significance of consultations between the two Governments and in particular of high-level meetings. Great Britain has always appreciated Yugoslavia's role, and in particular its resolve to preserve its independence and freedom. It is on these foundations that the friendship between two great men of this century-Tito and Churchill-was founded, a friendship which will be remembered for a long time to come. Though a member of NATO, Great Britain sees the non-aligned movement, to which Yugoslavia belongs, as a significant and influential force in the world, a force capable of resisting various forms of pressure and interference in the internal affairs of independent countries. It should, however, be said that the economic co-operation between Yugoslavia and Great Britain lags behind the political. The situation will perhaps not change to any substantial extent even after Djuranovic-Thatcher meeting, but in view of the significance which the two countries attach to developing and promoting political relations, it is also possible to expect an improvement in economic co-operation. Great Britain is able to contribute to this to a considerable extent, which of course does not mean that the Yugoslav side has done everything that is required in this respect. What we can be certain of, regardless of the differences or similarities in the views of Yugoslavia and Great Britain is that the talks between the Heads of Government of the two countries will be permeated by a mutual desire for the further consolidation and promotion of friendly relations. This will, we are convinced, make it possible for everything unfavorable in the co-operation between Yugoslavia and Great Britain to be resolved in a favorable way.
+
+British Foreign Minister, Francis Pym was received by the Yugoslav President Petar Stambolic in Belgrade on 6th July, 1982. A friendly and open discussion was held with the participation of Lazar Mojsov, Federal Secretary for Foreign Affairs, and the Ambassadors of the two countries. Bilateral relations were positively assessed and were said to be characterized by traditional friendship and co-operation in many fields. Stress was laid on the importance of promoting mutual economic co-operation in the present difficult economic climate. On international questions, concern was expressed at the deterioration of the world situation and the need was pointed out for all countries to be involved in solving key problems. In this connection reference was made to the need to strengthen international action for disarmament and to resolve the problems of the developing countries. Speaking at a press conference immediately after his meeting with Stambolic the Foreign Secretary expressed satisfaction that Yugoslavia was the first country he was visiting outside the Atlantic alliance. After stating that Yugoslavia and Britain maintained contacts in various spheres and speaking of the content of his talks with Lazar Mojsov, he went on: ''Great Britain entertains sentiments of respect for Yugoslavia and for what was achieved under the leadership of President Tito and for what is reflected today in the further consolidation of Yugoslavia's unity and stability, implying also consolidation of its independence and national integrity. The government of this country points out the importance of the principle of self-determination and is against the use of force in inter-national relations.'' Pym, added that the British position in this connection was very clear. He then stressed Yugoslavia's constructive role in the non-aligned movement and said that this was very important for world relations in general. Asked about the world economic situation, he spoke of the imperative demand that British and Yugoslav relations should establish conditions in which the difficulties currently being experienced could be overcome as easily as possible. 
+
+Yugoslav Prime Minister Milka Planinc, arrived on November 17, 1983, on an official and friendly visit to Great Britain. She was returning British Prime Minister Margaret Thatcher's visit to Yugoslavia in 1980. It is reported in Belgrade that the talks will also cover the non-aligned nations' activities and, of course, Yugoslav-British bilateral co-operation. As Prime Minister Thatcher herself said, Great Britain is interested in the economic situation in Yugoslavia and in the steps being taken to stabilize the economy. Britain, together with other Western countries, has provided financial aid to Yugoslavia. For its part, Yugoslavia registered a rise in exports to Britain this year and in the first ten months of this year their value topped the 41,000,000 pound mark.
+
+The Associated Belgrade Bank and Barclays Bank International signed an agreement in Belgrade on 22nd November, 1983, on the refinancing of Yugoslav firms' medium and long-term payments falling due by the end of the year, totaling 40 million pounds. The agreement provides for a five and a half year deferment of these payments under the provisions of the Berne agreement concluded in January 1983 between Yugoslavia and Government representatives of 15 industrially developed countries within the framework of this group's financial support to Yugoslavia. 
+
+On March 25, 1986, Britain has reaffirmed its willingness to help Yugoslavia through its economic crisis, now in its fifth year and showing no signs of abating. On a two-day visit there, Sir Geoffrey Howe, the Foreign Secretary, said Britain valued Yugoslavia's independence, non-alignment and domestic stability, and, in that context, was willing to help. Sir Geoffrey, speaking at a luncheon hosted by Mr Raif Dizdarevic, the Yugoslav Foreign Minister, said that Yugoslavia's economic stabilization programme was in keeping with the world-wide trend towards economic liberalism. He said human rights were also a matter of special concern to Britain, especially as the follow-up meeting on the Helsinki Accord was due to be held in Vienna later in 1986. He indicated that trials of Yugoslavs for their opinions and the expulsion of British journalists was viewed with disapproval by Britain.
+
+19910805-19920715 Transition
+
+On August 5, 1991, the British government expressed "deep concern" over the collapse of the European Community's (EC) peace mission to Yugoslavia. "We strongly urge Serbia to reconsider its stand," said a foreign office spokesperson, referring to Serbia's rejection of any international involvement. A British Foreign Office spokesperson said Yugoslavia's "internal borders should only be changed by peaceful agreement by all parties concerned."
+
+On September 23, 1991, Douglas Hurd, the foreign secretary, will sound out members of the United Nations Security Council about intervention in Yugoslavia, including an oil and arms embargo. British sources said that Mr Hurd agreed in principle that the foreign ministers of the 15-nation council should meet on Yugoslavia this week as requested by France, the council president. Britain opposes the dispatch of UN peacekeeping troops unless a ceasefire holds and all sides accept their presence. The Security Council is expected to adopt a resolution endorsing European Community efforts to bring peace to Yugoslavia. Measures to isolate the country's federal government diplomatically are also being considered.
+
+Britain will send troops to join a UN peacekeeping force in Yugoslavia, Whitehall officials announced on January 10th, 1992. Three UK Army officers will arrive in Yugoslavia on January 11th, 1992, to be followed later by hundreds more soldiers who will man field hospitals and handle communications. The first MID of RIV427, MID3551, started on July 15th, 1992. 
+
+19920716-20001128 RIV427-0.00
+
+MID3551 involved 13 of the NATO members (including UK) and Yugoslavia. It is basically the Bosnian Wars during which in several occasions, troops from NATO members were involved in actions against Yugoslav (Serbian) troops. For UK and Yugoslavia the MID lasted from July 16, 1992 until October 2, 1996. 
+
+MID4137 is the Kosovo War which pitted NATO & allies troops against Serbian troops over the break-away province of Kosovo. UK was involved from May 3, 1998 until June 10, 1999. 
+
+MID4186 is a MID involving an anti-Serbia NATO-led coalition and Serbia. It occurred between February 21, 2000 and April 3, 2000. This MID is related to the Albanian-Serbian ethnic conflicts in the town of Mitrovica, in Kosovo, during which NATO troops had to intervene military several times to maintain peace and security. Yugoslav Information Minister Goran Matic on February 22, 2000, rejected U.S. and NATO accusations that Belgrade is fomenting trouble in Kosovo. The U.S. ambassador to the United Nations, Richard Holbrooke accused the Yugoslav government of fomenting the latest unrest in the ethnically divided city of Kosovska Mitrovica. His view was shared by Gen. Wesley Clark, the NATO commander in Europe, and the alliance's secretary-General, Lord George Robertson.
+
+MID4295 is a MID involving Canada, United Kingdom and Yugoslavia from July 31st, 2000 to October 6th, 2000. This MID is over the arrest by Yugoslav authorities of two Britons and two Canadian police officers accused of espionage. They were arrested on the Kosovo-Montenegro border by Serbian authorities. The Yugoslav Army, which arrested the Britons along with two Canadians, said the four men were "armed and equipped with demolition devices" and there were indications they were "training special forces of the Montenegrin Interior Ministry for terrorist attacks." Yugoslavia dropped all charges on October 6th, 2000 against two Britons and a Canadian arrested this summer on suspicion of terrorism. A Yugoslav military court dismissed the case against British police officers Adrian Prangnell and John Yore, and Canadian Liam Hall. He said the military judge ordered the three released. British Foreign Secretary Robin Cook welcomed the move as a sign that Yugoslavia now ''is prepared to live within the rule of law.'' Prangnell and Yore were detained July 31 on the border between Montenegro and Kosovo. They were headed back to Kosovo, where they were training local police for the Organization for Security and Cooperation in Europe.
+
+On October 7th, 2000, Slobodan Milosevic resigned, after losing the elections. 
+
+MID4343 is a MID which lasted from November 24, 2000 to November 28, 2000. It was a MID over Kosovo clashes between Albanian and Serbian policemen, in which the Serbian government accused NATO troops for not doing their job to protect the Serbs living in Kosovo from Albanian guerilla attacks.
+
+20001129-20159999 0.5
+
+The last MID of RIV427, MID4343 ended on November 28th, 2000. This was a MID over the Kosovo conflict. British companies are leading from the front in Serbia, as it rebuilds its war-damaged infrastructure, Richard Caborn the Minister for Trade said on December 22, 2000. With the help of the UK's Federal Republic of Yugoslavia Taskforce, regeneration projects across the country have made encouraging progress. Commending the work of the Taskforce Mr Caborn said: "The Taskforce is just one example of a successful partnership between government and the private sector. This initiative is showing Yugoslavia the full range of British capability in emergency assistance and construction." The Government-backed Taskforce, spearheaded by industry experts from major British firms, has worked hand-in-hand with the Yugoslav Government to aid redevelopment following the devastating damage inflicted during the Milosevic years. Work is ongoing in four key areas: Novi Sad water pipeline, energy, waste management and medical aid.
+
+On April 4th, 2001, Vladan Batic, the Serbian minister of justice, has stated that Robin Cook, the British Secretary of State for Foreign Affairs, set no conditions and made no ultimatums during their talks, but that, instead, he "showed understanding" towards trying Slobodan Milosevic, the former Yugoslav president, "before this people's court". After the meeting, Cook told reporters that it would be right to try Milosevic in this country, for the crimes he had committed against his own people, but that he should afterwards be extradited to the Hague Tribunal International Criminal Tribunal for the Former Yugoslavia, ICTY, where he should be tried for the crimes he committed against other nations. Cook welcomed the adoption of the federal law on cooperation with the Hague Tribunal and said it was a "good step". The chief of British diplomacy said that Britain, Europe and the international community want to establish a partnership-like cooperation with Yugoslavia and Serbia and to assist in reconstruction, but added that this has to be a two-way cooperation and that, while the international community provides assistance to Serbia, "Serbia should fulfill its international obligations". Batic emphasized that Cook promised Britain's assistance in bringing Serbia and Yugoslavia back "into Europe and the rest of the world, which is of crucial importance".
+
+On November 30, 2001, British Prime Minister Tony Blair told President Kostunica of Yugoslavia that his Government must hand over suspected Serb war criminals to the international tribunal at The Hague. Mr Kostunica, who also met the Queen, was told at Downing Street that Britain was ready to help to rebuild the Yugoslav economy but that Belgrade had to observe international law.
+
+Britain supports Yugoslavia's integration in the European Union and is in favor of bilateral cooperation in fighting organized crime, Serbian Foreign Trade Minister Goran Pitic said on April 22nd, 2002, in London. Pitic, who is on a two-day visit to Britain as member of a Serbian delegation headed by Serbian Premier Zoran Djindjic, said the talks with British officials focused also on writing off of Britain's share of Yugoslavia's debt to the Paris Club, which amounts to half a billion dollars.
+
+Yugoslav President Vojislav Kostunica received on July 2, 2002 the British Foreign Office Minister Dennis McShane. McShane welcomed the positive developments in Yugoslavia and the region since the democratic changes in Yugoslavia, and pointed to the importance of the federal authorities' role in resolving problems in the relations between Serbia and Montenegro, implementing army reform and achieving progress in cooperation with the UN war crimes tribunal.
+
+The agreement between Britain and Yugoslavia on the settlement of the latter's debt, concluded within the framework of the agreement the Yugoslav government had reached with the governments of the creditor countries of the Paris Club on 28 December 2001, went into force on 23 August,2002, the Yugoslav Foreign Ministry said. Britain is Yugoslavia's largest creditor, and the agreement practically writes off 450m dollars, or 51% of Yugoslavia's debt to Britain. In line with the agreement with the Paris Club, Britain is due to write off another 15 per cent of Yugoslavia's debt. At a ceremony of exchange of relevant documents, British Ambassador to Belgrade Charles Crawford described the agreement as very important for bilateral relations and for the successful development of democracy and reforms in Yugoslavia.
+
+Yugoslavia has accepted the technical assistance which Britain offered to prevent the possibility of arms trade with countries under UN sanctions, the two countries' diplomatic heads, Jack Straw and Goran Svilanovic respectively, said in Belgrade on November 6th, 2002. The two ministers told journalists that they had discussed difficult, unpleasant topics, such as illegal arms trade and cooperation with the Hague court International Criminal Tribunal for the Former Yugoslavia-ICTY . Straw said that "it is very important for the sake of international law and the country's reputation for the Yugoslav authorities to undertake further efforts to transfer war crimes suspects" to The Hague. Svilanovic said that he had "accepted with pleasure" the technical assistance offered by Britain to ensure the efficient control of arms sales and expressed the conviction that, after today's talks, "the trust re-established today will be lasting". Straw and Svilanovic today also signed two agreements-on protection and furthering of investments and cooperation in culture, education, science and sport.
+
+On March 13, 2004, British Prime Minister Tony Blair said, in a letter congratulating Serbian leader, Vojislav Kostunica, on his election to the post of Serbian prime minister, that it is extremely important that the Serbian government program gives priority to integration into European institutions, and especially underscored the importance of cementing the state union of Serbia and Montenegro (SCG) in securing regional stability and accession to the European Union (EU). The letter, presented by British Ambassador in Belgrade David Gowen, gives support to the government's readiness to consolidate the rule of law, to curb corruption and organized crime, and reorganize the police, judiciary and public institutions.
+
+PS-SOURCES: http://www.country-data.com/cgi-bin/query/r-14923.html; New York Times April 5, 1940, October 6, 1954; June 2, 1970; July 16, 1972; October 18, 1972; October 20, 1972; December 6, 1973; The Economist July 16, 1975; The Times March 25, 1986; September 23, 1991; November 30, 2001; BBC April 9, 1979; April 22, 1980; September 25, 1980; January 8, 1981; July 8, 1982; November 17, 1983; December 1, 1983; April 5, 2001; November 29, 2001; July 3, 2002; April 7, 2002; April 23, 2002; August 23, 2002; November 6, 2002; March 13, 2004; Inter Press Service August 5, 1991; Daily Mail January 10, 1992; Hermes Database December 22, 2000; Deutsche Presse Agentur August 3, 2000
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+

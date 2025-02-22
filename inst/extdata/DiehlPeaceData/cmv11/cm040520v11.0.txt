@@ -1,0 +1,57 @@
+FILE: cm040520v11.0.txt
+DYAD: CUBA - SOMALIA
+RIVALRY: RIV151
+DISPUTE(S): MID2069 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2069 
+
+TERRMID: MID2069 3 -- not territory
+TERRMID-CER: MID2069 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2069 3 -- not third party link to territory 
+TERRLINK-CER: MID2069 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2069 3 -- not maritime 
+MARITMID-CER: MID2069 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2069 3 -- not islands 
+ISLMID-CER: MID2069 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2069 3 -- not civil war 
+CIVWARMID-CER: MID2069 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2069 1 -- civil war link
+CIVWARLINK-CER: MID2069 1 -- certain
+CIVWARLINK-NOTES: MID2069 from NYT 3/11/1975, this is connected to the Ethiopian Civil War, which featured external intervention from several states, including Cuba and Somalia here. Somalia and Cuba both had troops deployed in Ethiopia; Somalia was opposing the regime, and Cuba was supporting it. Coded civil war link because this MID was triggered by opposing support in the Ethiopian Civil War, outside of this dyad. 
+
+COUPMID: MID2069 3 -- not coup 
+COUPMID-CER: MID2069 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2069 3 -- not coup link
+COUPLINK-CER: MID2069 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 3/11/1975

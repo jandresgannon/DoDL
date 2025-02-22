@@ -1,0 +1,437 @@
+FILE: cm645666v11.0.txt
+DYAD: IRAQ-ISRAEL
+RIVALRY: RIV11227
+DISPUTE(S): MID1793 MID1035 MID1046 MID3101 MID3180 MID3956 MID3981 MID4273 MID1039 
+
+RIVNOTES: 
+RIV1227: MID3.02 adds Israel as participant in MID1039 (1970).
+RIV11227 Once consisted of two separate rivalries (RIV1126 and RIV 1127) which contained 1 and 8 MIDs respectively. Yet MID1793 (1948) of RIV1126 is closely tied to subsequent Iraqi participation in wars against Israel.
+
+PS: 19480514-20030413 0.00 20030414-20209999 .25
+
+PS-UPDATE2020:This relationship remains a lesser rivalry through 2020 given Israeli support for a Kurdish state and alleged Israeli attaks on paramilitary bases in Iraq in 2019. Iraq's increasing ties with Iran have also exacerbated relations.
+
+PS-NOTES: Severe rivalry ends with the end of the last dispute and the fall of Saddam Hussein government. Relationship is still hostile and Iraq has not yet recognized Israel.
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1793
+
+TERRMID: MID1793 1 -- territorial MID
+TERRMID-CER: MID1793 1 -- certain 
+TERRMID-NOTES: MID1793 from Gibler 2018, in 1947-1948, the Israelis and Palestinians disputed who would control the area that is modern-day Israel. The Israelis declared independence and sovereignty over the land in 1948, and a coalition of Arab nations (Syria, Iraq, Egypt, Lebanon, and Jordan) attacked Israel that same day because they denied Israel's claim to sovereignty and wanted a Palestine state instead. A war broke out, and Israel emerged victorious in 1949. Coded territorial MID because Iraq disputed Israel's claim to the territory. 
+
+TERRLINK: MID1793 1 -- third party link to territory 
+TERRLINK-CER: MID1793 1 -- certain
+TERRLINK-NOTES: MID1793 in this dyad, the TERRMID is between Iraq and Israel, but this MID also involves a territorial MID between the other Arab states outside this dyad. 
+
+MARITMID: MID1793 1 -- maritime MID
+MARITMID-CER: MID1793 1 -- certain
+MARITMID-NOTES: MID1793 the dispute between Israel and the Arab nations involved in this dispute (Egypt, Iraq, Jordan, Syria, and Lebanon) also included a dispute over sovereignty over the waters off the coast of what is current-day Israel. 
+
+ISLMID: MID1793 3 -- not islands 
+ISLMID-CER: MID1793 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1793 1 -- civil war MID
+CIVWARMID-CER: MID1793 1 -- certain
+CIVWARMID-NOTES: MID1793 this MID involves fighting between Israelis and Palestinians before a state was created. Thus, the militarized groups were non-state armed groups fighting for control of the state, making them militarized rebels per our coding scheme. 
+
+CIVWARLINK: MID1793 3 -- not civil war link
+CIVWARLINK-CER: MID1793 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1793 3 -- not coup 
+COUPMID-CER: MID1793 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1793 3 -- not coup link
+COUPLINK-CER: MID1793 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1035
+
+TERRMID: MID1035 1 -- territorial MID
+TERRMID-CER: MID1035 1 -- certain 
+TERRMID-NOTES: MID1035 from Gibler 2018, this is the 6-day War between Israel and Iraq, Egypt, Syria, Jordan, Saudi Arabia, and Kuwait. In 1967, Israel attacked Egypt, having already attacked Jordan the year before and expecting that other Arab countries would soon attack Israel. Israel handily defeated the Arab states and took control of territory in Sinai, Golan Heights, and elsewhere. All countries involved against Israel disputed Israel's borders. Coded territorial MID because this is connected to a dispute over Israel's boundaries, particularly in the Sinai at this time, which Israel was occupying. 
+
+TERRLINK: MID1035 1 -- third party link to territorial MID
+TERRLINK-CER: MID1035 1 -- certain
+TERRLINK-NOTES: MID1035 in this dyad, the TERRMID is between Iraq and Israel, but this MID also involves a territorial MID between the other Arab states outside this dyad.
+
+MARITMID: MID1035 3 -- not maritime 
+MARITMID-CER: MID1035 1 -- certain
+MARITMID-NOTES: MID1035 this was connected to a dispute over sovereignty of the Sinai peninsula. Israel claimed the Sinai, and Iraq disputed that claim. Coded not maritime MID, however, because the claim on Sinai resides with the Egyptian-Israeli dyad. Iraq is linked to those maritime issues here. 
+
+ISLMID: MID1035 3 -- islands MID
+ISLMID-CER: MID1035 1 -- certain
+ISLMID-NOTES: MID1035 this was connected to a dispute over sovereignty of the Sinai peninsula. Israel claimed the Sinai and Iraq disputed that claim. Coded islands MID because the claim on Sinai includes a claim on offshore islands associated with the peninsula. 
+
+CIVWARMID: MID1035 3 -- not civil war 
+CIVWARMID-CER: MID1035 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1035 3 -- not civil war link
+CIVWARLINK-CER: MID1035 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1035 3 -- not coup 
+COUPMID-CER: MID1035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1035 3 -- not coup link
+COUPLINK-CER: MID1035 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1046
+
+TERRMID: MID1046 3 -- not territory
+TERRMID-CER: MID1046 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1046 1 -- third party link to territorial MID
+TERRLINK-CER: MID1046 1 -- certain
+TERRLINK-NOTES: MID1046 from Gibler 2018, this dispute between Israel and Egypt, Iraq, Syria, Jordan, and Saudi Arabia occurred in 1971-1973. Israel was occupying the Sinai peninsula of Egypt. The Arab countries attacked Israel on Yom Kippur, but Israel was militarily superior. Israel occupied the Golan Heights and claimed it as a strategically valuable piece of territory. The fighting ceased by May 1974. Coded third party link to territory because this is connected to a territorial dispute between Israel-Lebanon and Israel-Egypt, outside this dyad. 
+
+MARITMID: MID1046 3 -- not maritime 
+MARITMID-CER: MID1046 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1046 3 -- not islands 
+ISLMID-CER: MID1046 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1046 3 -- not civil war 
+CIVWARMID-CER: MID1046 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1046 3 -- not civil war link
+CIVWARLINK-CER: MID1046 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1046 3 -- not coup 
+COUPMID-CER: MID1046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1046 3 -- not coup link
+COUPLINK-CER: MID1046 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3101
+
+TERRMID: MID3101 3 -- not territory
+TERRMID-CER: MID3101 1 -- certain 
+TERRMID-NOTES: from Gibler 2018, in 1981 Israel bombed an Iraqi nuclear facility. Coded not territory because this was connected to Israel preventing Iraq from developing nuclear weapons and was a power balance issue, not a boundary issue. 
+
+TERRLINK: MID3101 3 -- not third party link to territory 
+TERRLINK-CER: MID3101 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3101 3 -- not maritime 
+MARITMID-CER: MID3101 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3101 3 -- not islands 
+ISLMID-CER: MID3101 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3101 3 -- not civil war 
+CIVWARMID-CER: MID3101 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3101 3 -- not civil war link
+CIVWARLINK-CER: MID3101 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3101 3 -- not coup 
+COUPMID-CER: MID3101 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3101 3 -- not coup link
+COUPLINK-CER: MID3101 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3180
+
+TERRMID: MID3180 3 -- not territory
+TERRMID-CER: MID3180 1 -- certain 
+TERRMID-NOTES: MID3180 from Gibler 2018, in 1981 two Israeli planes crossed into Iraqi airspace and were chased out by Iraqi planes. Iraq had increased its air patrols and were especially wary of Israeli planes since Israel had bombed Iraq's nuclear reactor in 1981. Coded not territory because they were not disputing a border. Iraq and Israel did dispute Israel's occupation of Golan and Sinai, but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this was connected to those occupation disputes. 
+
+TERRLINK: MID3180 3 -- not third party link to territory 
+TERRLINK-CER: MID3180 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3180 3 -- not maritime 
+MARITMID-CER: MID3180 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3180 3 -- not islands 
+ISLMID-CER: MID3180 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3180 3 -- not civil war 
+CIVWARMID-CER: MID3180 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3180 3 -- not civil war link
+CIVWARLINK-CER: MID3180 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3180 3 -- not coup 
+COUPMID-CER: MID3180 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3180 3 -- not coup link
+COUPLINK-CER: MID3180 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3956
+
+TERRMID: MID3956 3 -- not territory
+TERRMID-CER: MID3956 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3956 1 -- third party link to territorial MID
+TERRLINK-CER: MID3956 1 -- certain
+TERRLINK-NOTES: MID3956 from Gibler 2018, during the Gulf War, Iraq was fighting against a coalition of states responding to Iraq's invasion of Kuwait. Iraq anticipated the possibility that Israel would also attack and threatened to destroy Israel if they did. Iraq then launched scud missiles at Israel. Coded third party link to territorial MID because this was connected to the Gulf War, a territorial MID between Iraq and Kuwait, in which Iraq suspected an Israeli attack. 
+
+MARITMID: MID3956 3 -- not maritime 
+MARITMID-CER: MID3956 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3956 3 -- not islands 
+ISLMID-CER: MID3956 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3956 3 -- not civil war 
+CIVWARMID-CER: MID3956 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3956 3 -- not civil war link
+CIVWARLINK-CER: MID3956 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3956 3 -- not coup 
+COUPMID-CER: MID3956 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3956 3 -- not coup link
+COUPLINK-CER: MID3956 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3981
+
+TERRMID: MID3981 3 -- not territory
+TERRMID-CER: MID3981 1 -- certain 
+TERRMID-NOTES: MID3981 from Gibler 2018, in 1991 Israeli planes violated Iraqi airspace on a recon mission. Coded not territory because they were not disputing a boundary here. Iraq and Israel did dispute Israel's occupation of Golan and Sinai, but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this was connected to those occupation disputes. 
+
+TERRLINK: MID3981 3 -- not third party link to territory 
+TERRLINK-CER: MID3981 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3981 3 -- not maritime 
+MARITMID-CER: MID3981 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3981 3 -- not islands 
+ISLMID-CER: MID3981 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3981 3 -- not civil war 
+CIVWARMID-CER: MID3981 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3981 3 -- not civil war link
+CIVWARLINK-CER: MID3981 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3981 3 -- not coup 
+COUPMID-CER: MID3981 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3981 3 -- not coup link
+COUPLINK-CER: MID3981 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273
+
+TERRMID: MID4273 3 -- not territory
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain
+CIVWARMID-NOTES: MID4273 from cm narrative, this MID involves Iraq's refusal to comply with UN weapons inspectors and enforcement of the no-fly zone. Iraq expelled weapons inspectors and repeatedly violated the no-fly zone. The US and UK repeatedly threatened Iraq and eventually bombed them over a four day period. Israel was part of a coalition of states that participated in a show of force to deter Iraq from further violations. Coded civil war MID because this MID involved violation and enforcement of the no-fly zone over Iraq. The no-fly zone was put in place to prevent Saddam Hussein from attacking militarized rebels in Kurdistan. 
+
+CIVWARLINK: MID4273 3 -- not civil war link
+CIVWARLINK-CER: MID4273 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1039 
+
+TERRMID: MID1039 3 -- not territory 
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link 
+CIVWARLINK-CER: MID1039 1 -- certain 
+CIVWARLINK-NOTES: MID1039 from Gibler 2018, in 1970 PLO terrorists hijacked an airplane headed to Jordan and held the passengers hostage. The terrorists intended to provoke fighting between Jordan and Palestinian rebels. Jordan did indeed attack Palestinian rebels, and Syrian and Jordan troops clashed in the aftermath, as Syria was sympathetic to the rebels. Israel is pulled into this MID when they threatened (with US support) to bomb Syria. Coded civil war link because this was connected to militarized rebel activity in Palestine/Jordan, and the hijacking occurred outside of Israel and outside of this dyad. (Iraq is only connected to this MID as the target of a US warning not to interfere in the situaion, per Garfinkle 1985.) 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4513
+
+TERRMID: MID4513 3 -- not territory
+TERRMID-CER: MID4513 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4513 3 -- not third party link to territory 
+TERRLINK-CER: MID4513 1 -- certain
+TERRLINK-NOTES: MID4513 from Gibler 2018, Israel put its forces on alert when the US invaded Iraq in 2003. Coded not third party link to territory because this was connected to the US invasion of Iraq, a regime change issue, not a territorial dispute. 
+
+MARITMID: MID4513 3 -- not maritime 
+MARITMID-CER: MID4513 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4513 3 -- not islands 
+ISLMID-CER: MID4513 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4513 3 -- not civil war 
+CIVWARMID-CER: MID4513 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4513 3 -- not civil war link
+CIVWARLINK-CER: MID4513 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4513 3 -- not coup 
+COUPMID-CER: MID4513 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4513 3 -- not coup link
+COUPLINK-CER: MID4513 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4273
+rivalry=645666 nationa=ISRAEL nationb=IRAQ MID4273 20020913-20020913 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=NO MILITARIZED ACTION 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+Over the course of 2002, US and UK planes bombed various Iraqi defense systems placed either in or near the US-imposed no-fly zones. During this time Iraq deployed ground forces to its border towns in a preemptive move against future US aggression. Beginning in March 2003, the US began deploying additional land, naval, and air forces to the the Middle East in a clear show of force and build-up to a future invasion of Iraq. In March 2003, just prior to the US-led invasion, several Middle Eastern countries deployed small numbers of troops to Kuwait in a symbolic show of defense for the neighbor of Iraq, which had been the historical target of Iraqi aggression. Later in March 2003, a US-led coalition, seeking to oust the regime of Saddam Hussein and dismantle alleged Iraqi weapons of mass destruction, invaded Iraq and engaged in major combat operations, ultimately resulting in war, against the country that lasted until May 1, 2003. First day of dispute was on 9/13/2002 and last day of dispute was on 9/13/2002.
+
+MID4513
+rivalry=645666 nationa=ISRAEL nationb=IRAQ MID4513 20030322-20030413 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+During the beginning of the USA-IRQ war (MID4273), Israel placed its forces on heightened alert due to the possibility of a reprisal missile attack by Iraq against Israel. First day of dispute was on 3/22/2003 and last day of dispute was on 4/13/2003.
+
+MID3 1993-2001:
+
+NOTE THAT ISRAEL IS INVOLVED BRIEFLY IN THE SAME DISPUTE IN TWO DIFFERENT PERIODS - MID4273. ONE IS IN 2002 ABOVE AND THE OTHER IS IN 1998 BELOW
+
+MID4273
+rivalry=645666 nationa=ISRAEL nationb=IRAQ MID4273 19981217-19981220 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First day of dispute was on 12/17/1998 and last day of dispute was on 12/20/1998.
+
+NARRATIVE-CM:
+Israeli military aircraft attacked airforce bases in Iraq on June 5-6, 1967, resulting in the destruction of 17 Iraqi military aircraft. Some 12,000 Iraqi troops and Israeli troops clashed near the Israeli-Syrian border on October 10-19, 1973, resulting in the deaths of 278 Iraqi soldiers. Israeli military aircraft bombed a nuclear reactor near Bagdad on June 7, 1981. The *Gulf Cooperation Council* (GCC) secretary-general condemned the Israeli attack against Iraq on June 9, 1981. Algeria, Britain, France, Libya, Morocco, Somalia, Soviet Union, United States, and Zambia condemned Israel on June 10, 1981. The *Organization of African Unity* (OAU) secretary-general condemned Israel on June 11, 1981. The *United Nations *(UN) Security Council condemned Israel on June 19, 1981. OAU foreign ministers condemned Israel on June 26, 1981. The UN General Assembly condemned Israel on November 13, 1981. Iraq attacked Israeli territory with 40 SCUD-B missiles between January 17 and February 27, 1991, resulting in the deaths of four individuals.
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1981-1982; *Africa Research Bulletin* (ARB), June 1-30, 1981; Brecher and Wilkenfeld, 1997, 292-294; Clodfelter, 1992, 1041-1046, 1051-1061; Jessup, 1998, 326-330, 338-343; Tillema, 1991, 154.
+
+NARRATIVE-CR:
+The rivalry between Iraq and Israel is intimately related to other rivalries involving Israel in the region. The underlying motivation is opposition by Arab states to the existence of a Jewish state in the Middle East. More generally there is opposition to the notion that Israel has the right to exist. Additionally, between Iraq and Isreal there is the added issue of regional hegemony. The Iraqis made efforts to acquire nuclear capacity. The Israelis thwarted these efforts by destroying the Iraqi nuclear reactor being used to develop Iraqi nuclear capacity in the early 1980s. The rivalry between the Iraqis and Israel appears to be ongoing at least until the current war in Iraq (2003). It remains to be seen how the recent developments will be received by the Israelis and how the more permanent governing situation in Iraq will be resolved. 
+
+Arab states surrounding Israel have opposed the presence of a Jewish state in the Middle East since the creation of Israel in 1948. Arab states rejected the UN partition plan arguing that it was a violation of the principle of self determination expressed in the UN Charter. Iraq has been one such state and accordingly has aided all efforts of hostility towards Israel. Iraq participated in the Palestine War, the Six Day War, and the Yom Kippur War. 
+
+MID1793 is the Palestine War which occurred from May through October of 1948. Jewish leaders unilaterally proclaimed the State of Israel on May 14, 1948. Arab states, including Egypt, Iraq, Jordan, Lebanon and Syria had amassed troops on Palestine's borders invaded on the 15th of May. The War ended in 1949. 
+
+MID1035 is the Six Day War. Low level conflict occurred between Israel and Syria and Jordan beginning in 1963. Egypt and Syria declared a state of emergency in mid May after Israel had massed troops on the Syrian border. Israeli military aircraft attacked air force bases in Iraq on June 5-6, 1967, resulting in the destruction of 17 Iraqi military aircraft. 
+
+The events leading up to the Yom Kippur War of 1973 (MID1046) were motivated by Arab efforts to recover territory lost to the Israelis in the 1967 War. As a result of the 1967 War, Israel occupied the Sinai, the Golan Heights, and the West Bank Territories of Palestine. Iraq participated in the fighting against Israel. Some 12,000 Iraqi troops and Israeli troops clashed near the Israeli-Syrian border on October 10-19, 1973, resulting in the deaths of 278 Iraqi soldiers. 
+
+Iraq built the Osiraq 40 megawatt light-water nuclear reactor at the Al Tuwaitha Nuclear Center near Baghdad with French assistance. Approximately 27.5 pounds of 93% U-235 was supplied to Iraq by France for use in the Osiraq research reactor. Iraq began to expand its nuclear sector in the 1970's, but made little progress in the early 1980's, when most of its energy and attention were focused on the war against Iran. In September 1980, at the onset of the Iran-Iraq War, the Israeli Chief of Army Intelligence urged the Iranians to bomb Osiraq. On 30 September 1980 a pair of Iranian Phantom jets, part of a larger group of aircraft attacking a conventional electric power plant near Baghdad, also bombed the Osiraq reactor. Minor damage to the reactor was reported. No further Iranian air attacks against Iraqi nuclear facilities were identified during the rest of the seven-year war. When Israeli intelligence confirmed Iraq's intention of producing weapons at Osiraq, the Israeli government decided to attack. According to some estimates, Iraq in 1981 was between one and ten years away from the ability to build a nuclear weapon. Prime Minister Menachem Begin felt military action was the only remedy. Begin feared that his party would lose the next election, and he feared that the opposition party would not preempt prior to the production of the first Iraqi nuclear bomb. Israeli military aircraft bombed a nuclear reactor near Bagdad on June 7, 1981. 
+
+MID3180 occurred in late December and early January of 1981/82. Iraq was fully engaged in the war with Iran at this point. Iran had attempted to bomb an Iraqi military base near the Iraqi/Saudi border named Maqar al Naam. During this time Israel had reportedly been flying reconnaissance missions over a number of Arab states including Saudi Arabia. The Iraqis reported that the Israelis flew over this air base in Western Iraq twice during this period. 
+
+MID3956 occurred during the Gulf War. Saddam Hussein called for linkage between the Kuwait and Palestine issues. Arabs felt the rapid implementation of UN resolutions condemning the invasion and the rapid deployment of a massive arsenal to repel the Iraqis was hypocritical. The PLO condemned the invasion of Iraq but also condemned military action against Iraq. US efforts to build a coalition against Iraq was complicated by the possibility of Israeli intervention which would cause problems for Arab coalition members. In efforts to dislodge Arab members of the coalition charged with ejecting Iraq from Kuwait, Iraq attacked Israeli territory with 40 SCUD-B missiles between January 17 and February 27, 1991, resulting in the deaths of four individuals.
+
+In October of 1991, MID3981 occurred. Here the Israelis expressed concern over SCUD missile sites in Western Iraq. Israeli jets flew reconnaissance missions over the suspected areas to monitor the SCUD sites. 
+
+The portion of MID4273 that included both Iraq and Israel occurred in December of 1998. Here the United States and the UK had been targeting and attacking Iraqi air defense sites for a number of months. The Israelis warned the Iraqis that should they be attacked they would not hesitate to respond. 
+
+The rivalry is not finished as of December 2006. After the US invasion of 2003, the relations between Israel and Iraq did not improve. The long-standing Arab-Israeli conflict is seen in the Iraqi-Israeli relations, too, where the former Iraqi Prime Minister Ayad Allawi said in 2004 that Iraq will not reconcile its differences with Israel. 
+
+SOURCES-CR:
+Allcock et al. 1992, 325-362; Africa Contemporary Record (ACR), 1981-1982; *Africa Research Bulletin* (ARB), June 1-30, 1981; Brecher and Wilkenfeld, 1997, 292-294; Clodfelter, 1992, 1041-1046, 1051-1061; Jessup, 1998, 326-330, 338-343; New York Times 1/4/1982, 12/17/1998; Tillema, 1991, 154.
+
+SB-CR:
+Iraq / Israel Years: 1948-1988 (Censored) Issues at stake: Israel's right to exist; competition for regional influence. End coding: continuing as of 1988. Number of militarized disputes: 5. Number of 30 day reciprocated militarized disputes: 4. Last militarized dispute: 1973. Wars: 1948, 1973. Summary: Like the conflict between Israel and other Arab states, this conflict surrounds Israel's right to exist. Iraq participated in the 1948 and 1973 wars against Israel, and hostility remained high between and after these wars. Relations improved somewhat in 1980 when Iraq stated that negotiations with Israel were possible, in effect recognizing Israel's existence, and Iraq cut its ties with extremist Palestine organizations and factions. However, militarized disputes continued after this date, with the 1981 Israeli destruction of the Osiraq nuclear reactor demonstrating Israel's willingness to take action against Iraq in its quest to be a major regional power. Rhetoric throughout the 1980s and missile attacks on Israel during the 1990 Persian Gulf War demonstrated that hostility between the states remains high. 
+
+The rivalry is not finished as of December 2006. After the US invasion of 2003, the relations between Israel and Iraq did not improve. The long-standing Arab-Israeli conflict is seen in the Iraqi-Israeli relations, too, where the former Iraqi Prime Minister Ayad Allawi said in 2004 that Iraq will not reconcile its differences with Israel. 
+Sources: Metz (1990a, 1990b), Reich (1990).
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Garfinkle, Adam M. US Decision Making in the Jordan Crisis: Correcting the Record. Political Science Quarterly 100.1 (1985): 117-138.

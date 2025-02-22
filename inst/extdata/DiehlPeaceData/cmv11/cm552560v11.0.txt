@@ -1,0 +1,102 @@
+FILE: cm552560v11.0.txt
+DYAD: ZIMBABWE-SOUTH AFRICA
+RIVALRY: RIV1161
+DISPUTE(S): MID2570 MID2755 
+
+PS: 19651111-19940426 0.25 19940427-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm552560 ,19800000 ,19920000 
+I took the end of the apartheid regime as the end of the animosity between the two countries. 
+
+PS-LAST-CHANGED: 20220320
+PS-LAST-CHECKED: 20220320
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2570 
+
+TERRMID: MID2570 3 -- not territory 
+TERRMID-CER: MID2570 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2570 3 -- not third party link to territory 
+TERRLINK-CER: MID2570 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2570 3 -- not maritime 
+MARITMID-CER: MID2570 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2570 3 -- not islands 
+ISLMID-CER: MID2570 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2570 1 -- civil war MID
+CIVWARMID-CER: MID2570 1 -- certain 
+CIVWARMID-NOTES: MID2570 from Gibler 2018, South Africa launched an offensive against rebels taregteing its regime. As part of this effort, South Africa bombed targets in Zimbabwe. Coded civil war MID because this was connected to militarized rebels in Zimbabwe. 
+
+CIVWARLINK: MID2570 3 -- not civil war link 
+CIVWARLINK-CER: MID2570 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2570 3 -- not coup 
+COUPMID-CER: MID2570 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2570 3 -- not coup link
+COUPLINK-CER: MID2570 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2755 
+
+TERRMID: MID2755 3 -- not territory 
+TERRMID-CER: MID2755 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2755 3 -- not third party link to territory 
+TERRLINK-CER: MID2755 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2755 3 -- not maritime 
+MARITMID-CER: MID2755 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2755 3 -- not islands 
+ISLMID-CER: MID2755 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2755 1 -- civil war MID
+CIVWARMID-CER: MID2755 1 -- certain 
+CIVWARMID-NOTES: MID2755 from Gibler 2018, in 1988 rebels attacked South Africa from Zimbabwe. South Africa protested and soon thereafter threatened Zimbabwe. Coded civil war MID because this was connected to militarized rebel activity in Zimbabwe. 
+
+CIVWARLINK: MID2755 3 -- not civil war link 
+CIVWARLINK-CER: MID2755 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2755 3 -- not coup 
+COUPMID-CER: MID2755 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2755 3 -- not coup link
+COUPLINK-CER: MID2755 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: The RIV is in the context of the apartheid regime in South Africa, and the Mugabe regime in Zimbabwe. 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

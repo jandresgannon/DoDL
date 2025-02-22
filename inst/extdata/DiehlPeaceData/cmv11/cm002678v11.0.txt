@@ -1,0 +1,57 @@
+FILE: cm002678v11.0.txt
+DYAD: USA - YEMEN ARAB REPUBLIC(N.)
+RIVALRY: RIV95
+DISPUTE(S): MID1108 
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20170801
+PS-LAST-CHECKED: 20170801
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1108 
+
+TERRMID: MID1108 3 -- not territory
+TERRMID-CER: MID1108 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1108 3 -- not third party link to territory 
+TERRLINK-CER: MID1108 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1108 3 -- not maritime 
+MARITMID-CER: MID1108 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1108 3 -- not islands 
+ISLMID-CER: MID1108 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1108 1 -- civil war MID
+CIVWARMID-CER: MID1108 1 -- certain
+CIVWARMID-NOTES: MID1108 this MID began when a coup in Yemen in 1962 led to the involvement of several countries, including the US, Egypt, and Saudi Arabia, who wanted to influence the type of regime that took power. Coded civil war MID because the coup and subsequent external state involved was connected to a civil war in Yemen. See COUPMID. 
+
+CIVWARLINK: MID1108 3 -- not civil war link
+CIVWARLINK-CER: MID1108 1 -- certain
+CIVWARLINK-NOTES: MID1108 civil conflict not occurring in any other country involved in this MID. 
+
+COUPMID: MID1108 1 -- coup MID
+COUPMID-CER: MID1108 1 -- certain 
+COUPMID-NOTES: MID1108 from NYT 5/25/1963, a military officer deposed the Yemeni government in September 1962. This began a civil war in Yemen and triggered the involvement of Egypt, Jordan, the US, and Saudi Arabia. Egypt supported the new military government and deployed troops to Yemen to support the government. (Egypt's support of the new Yemeni government was also opposing Saudi Arabia, as the Saudis supported the deposed government.) The US, in exchange for Egypt withdrawing its troops, recognized the military government that had just seized power in a coup. By recognizing that government and negotiating with Egypt over its troops, the US intervened in this MID and is against Yemen due to its opposition to governments that took power later in the Yemeni Civil War. Coded coup MID because a coup in Yemen led to the US being involved in this MID.
+
+COUPLINK: MID1108 3 -- not coup link
+COUPLINK-CER: MID1108 1 -- certain 
+COUPLINK-NOTES: MID1108 no coups in other countries involved in this MID. 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 5/25/1963 

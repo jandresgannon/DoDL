@@ -1,0 +1,577 @@
+FILE: cm365640v11.0.txt
+DYAD: RUSSIA/USSR - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV997
+DISPUTE(S): MID3320 MID3321 MID142 MID64 MID146 MID189 
+RIVALRY: RIV998
+DISPUTE(S): MID236 MID126 MID57 
+RIVALRY: RIV999
+DISPUTE(S): MID3322 MID187 MID141 MID91 MID56 MID391 MID3325 MID128 MID317 MID257 MID3345 MID612 
+RIVALRY: RIV1000
+DISPUTE(S): MID3803 MID252 MID607 MID253 MID3163 
+RIVALRY: RIV1001
+DISPUTE(S): MID3564 MID4173 MID4221 MID4342 MID4344 
+
+PS: 19009999-19210515 0.0 19210516-19400214 .5 19400215-19461004 .25 19461005-19911226 .5 
+
+PSNOTES: On November 24, 2015, Turkey shoots down Russian jet near Syria-Turkey border over airspace dispute. This dispute strained relations between Russia and Turkey which qualifies for a coding of .25. Source: http://www.bbc.com/news/world-middle-east-34907983
+
+PS-LAST-CHANGED: 20190426
+PS-LAST-CHECKED: 20190426
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID3320 MID3321 MID142 MID64 MID146 MID189 MID236 MID126 MID57 MID3322 MID187 MID141 MID91 MID56 MID391 
+
+WWI MIDs: MID257 MID3345 
+
+WWII MIDs: MID3803 
+
+MID252
+
+TERRMID: MID252 1 -- territorial MID
+TERRMID-CER: MID252 1 -- certain 
+TERRMID-NOTES: MID252 from Gibler 2018, in 1945-1946 USSR began demanding that Turkey cede land along the Black Sea coast to USSR to give them access to a Russian oil port. Turkey voted to increase its military budget and said they would use force to defend their territory. USSR moved troops to the now-disputed border. Turkey mobilized its troops. When the US threatended to intervene with force, the USSR backed down. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID252 3 -- not third party link to territory 
+TERRLINK-CER: MID252 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID252 1 -- maritime MID
+MARITMID-CER: MID252 1 -- certain
+MARITMID-NOTES: MID252 USSR was demanding that Turkey cede an area on the Black Sea coast which included maritime possessions, due to oil resource implications. 
+
+ISLMID: MID252 3 -- not islands 
+ISLMID-CER: MID252 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID252 3 -- not civil war 
+CIVWARMID-CER: MID252 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID252 3 -- not civil war link
+CIVWARLINK-CER: MID252 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID252 3 -- not coup 
+COUPMID-CER: MID252 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID252 3 -- not coup link
+COUPLINK-CER: MID252 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3325 
+
+TERRMID: MID3325 3 -- not territory 
+TERRMID-CER: MID3325 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3325 1 -- third party link to territory 
+TERRLINK-CER: MID3325 1 -- certain 
+TERRLINK-NOTES: MID3325 from Gibler 2018, in 1902 a Russian ambassador protested to the Ottomans about the deteriorating diplomatic conditions between Turkey and Greece as a result of their territorial claims to Macedonia. That protest triggers this MID. Coded third party link to territorial MID because this was connected to the Turkey-Greece dispute over Macedonia. 
+
+MARITMID: MID3325 3 -- not maritime 
+MARITMID-CER: MID3325 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3325 3 -- not islands 
+ISLMID-CER: MID3325 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3325 1 -- civil war MID
+CIVWARMID-CER: MID3325 1 -- certain 
+CIVWARMID-NOTES: MID3325 from New York Times 9/22/1902, Russia did protest and request that Turkey "restore order to Macedonia." From Dakin 1966, at this time, Macedonia was under Ottoman control, but was experiencing militarized movements from several ethnic groups such as Bulgarians, Greeks, and Serbs, who were fighting for control of their ethnic homelands. Coded civil war MID because this was connected to militarized rebels in Turkey. 
+
+CIVWARLINK: MID3325 3 -- not civil war link 
+CIVWARLINK-CER: MID3325 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3325 3 -- not coup 
+COUPMID-CER: MID3325 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3325 3 -- not coup link
+COUPLINK-CER: MID3325 1 -- certain 
+COUPLINK-NOTES: 
+
+MID128 
+
+TERRMID: MID128 3 -- not territory 
+TERRMID-CER: MID128 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID128 3 -- not third party link to territory 
+TERRLINK-CER: MID128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID128 3 -- not maritime 
+MARITMID-CER: MID128 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID128 3 -- not islands 
+ISLMID-CER: MID128 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID128 1 -- civil war MID
+CIVWARMID-CER: MID128 1 -- certain 
+CIVWARMID-NOTES: MID128 from Gibler 2018, Macedonia was officially under Ottoman control, but had descended into lawlessness and anarchy. From Gibas-Krzak (2013), this included a revolutionary movement made up of militarized rebels. Several countries, including UK, Russia, and Austria-Hungary, proposed intervening, including with direct military intervention, to restore order by implementing several reforms. The Ottomans resisted this and kept their troops in Macedonia. The UK further instigated the turmoil and issued threats to intervene, while several countries deployed ships to the waters close to Macedonia, triggering this MID. Coded civil war MID because the militarized rebels in Macedonia (within this dyad) were connected to the events of this MID.
+
+CIVWARLINK: MID128 3 -- not civil war link 
+CIVWARLINK-CER: MID128 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID128 3 -- not coup 
+COUPMID-CER: MID128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID128 3 -- not coup link
+COUPLINK-CER: MID128 1 -- certain 
+COUPLINK-NOTES: 
+
+MID317 
+
+TERRMID: MID317 3 -- not territory 
+TERRMID-CER: MID317 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID317 1 -- third party link to territorial MID
+TERRLINK-CER: MID317 1 -- certain 
+TERRLINK-NOTES: MID317 from Gibler 2018, during the Balkan Wars (1912-1913 here) Russia sent forces to prevent Bulgaria from capturing Constantinople, and to generally try to contain the war from spreading, triggering this MID between Russia and Bulgaria and Turkey. Coded third party link to territorial MID because this was connected to the Balkan Wars, a territorial dispute, and Russia is pulled in due to sending troops to try and contain the war. 
+
+MARITMID: MID317 3 -- not maritime 
+MARITMID-CER: MID317 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID317 3 -- not islands 
+ISLMID-CER: MID317 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID317 1 -- civil war MID
+CIVWARMID-CER: MID317 1 -- certain 
+CIVWARMID-NOTES: MID317 from Dakin 1966, Macedonian rebel groups were active at this time and had fought against the Ottomans, who were controlling Macedonia, in a revolution years earlier. Here, they again fought against the Ottomans (within this dyad) in the First Balkan War. 
+
+CIVWARLINK: MID317 1 -- civil war link 
+CIVWARLINK-CER: MID317 1 -- certain 
+CIVWARLINK-NOTES: MID317 from Hall 2002, the Balkans featured militarized rebels organized along ethnic lines, and many of these Balkan groups (outside this dyad) fought in the First Balkan War. 
+
+COUPMID: MID317 3 -- not coup 
+COUPMID-CER: MID317 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID317 3 -- not coup link
+COUPLINK-CER: MID317 1 -- certain 
+COUPLINK-NOTES: 
+
+MID612
+
+TERRMID: MID612 1 -- territorial MID
+TERRMID-CER: MID612 1 -- certain 
+TERRMID-NOTES: MID612 from Gibler 2018, Russia and Turkey disputed sovereignty over Georgia. Russia issued an ultimatum to Turkey to vacate Georgia. Turkey did not comply and moved troops to the border of the disputed region. Later, Russian troops entered the area and attacked civilians. Coded territorial MID because this was connected to the disputed territory of Georgia. 
+
+TERRLINK: MID612 3 -- not third party link to territory 
+TERRLINK-CER: MID612 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID612 1 -- maritime MID
+MARITMID-CER: MID612 1 -- certain
+MARITMID-NOTES: MID612 from Gibler 2018, Russia and Turkey disputed the entirety of Georgia, which included Goergia's maritime territory. 
+
+ISLMID: MID612 3 -- not islands 
+ISLMID-CER: MID612 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID612 3 -- not civil war 
+CIVWARMID-CER: MID612 1 -- certain
+CIVWARMID-NOTES: MID612 there is no indication that this MID involved militarized rebel activity. cm narrative, Gibler 2018, and news coverage of this MID do not mention militarized rebels. 
+
+CIVWARLINK: MID612 3 -- not civil war link
+CIVWARLINK-CER: MID612 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID612 3 -- not coup 
+COUPMID-CER: MID612 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID612 3 -- not coup link
+COUPLINK-CER: MID612 1 -- certain 
+COUPLINK-NOTES: 
+
+MID607
+
+TERRMID: MID607 3 -- not territory 
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain 
+TERRLINK-NOTES: MID607 from cm narrative, this is a multilateral MID involving Turkey, allied with the US, Jordan, and Iraq, in a territorial dispute against Syria, allied with Egypt and the USSR. After border troop buildups by Turkey and Syria, clashes occurred along the disputed border. The Egyptians and the Americans were involved heavily in the MID, in the form of arms support and, in the case of Egypt, supplying troops to fight. Russia is involved in this MID due to its support for Syria. Coded third party link to terrirorial MID because this was connected to a territorial dispute between Turkey and Syria. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain 
+CIVWARMID-NOTES: MID607 no indication that rebel group activity contributed to this MID. 
+
+CIVWARLINK: MID607 3 -- not civil war link 
+CIVWARLINK-CER: MID607 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID253 
+
+TERRMID: MID253 3 -- not territory 
+TERRMID-CER: MID253 1 -- certain 
+TERRMID-NOTES: MID253 from cm narrative, Soviet forces shot down a US reconnaissance plane in Soviet airspace, capturing and imprisoning its pilot. Occurred May-July 1960. Turkey is pulled into this MID because it allowed the US to use bases on its territory to launch recon flights. Coded not territorial because this was not connected to a territorial dispute.
+
+TERRLINK: MID253 3 -- not third party link to territory 
+TERRLINK-CER: MID253 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID253 3 -- not maritime 
+MARITMID-CER: MID253 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID253 3 -- not islands 
+ISLMID-CER: MID253 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID253 3 -- not civil war 
+CIVWARMID-CER: MID253 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID253 3 -- not civil war link 
+CIVWARLINK-CER: MID253 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID253 3 -- not coup 
+COUPMID-CER: MID253 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID253 3 -- not coup link
+COUPLINK-CER: MID253 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3163
+
+TERRMID: MID3163 3 -- not territory
+TERRMID-CER: MID3163 1 -- certain 
+TERRMID-NOTES: MID3163 from cm narrative, the US installed nuclear missiles in Turkey, angering the Soviets. Tensions were high, and Soviets and Turkish border guards exchanged fire. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID3163 3 -- not third party link to territory 
+TERRLINK-CER: MID3163 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3163 3 -- not maritime 
+MARITMID-CER: MID3163 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3163 3 -- not islands 
+ISLMID-CER: MID3163 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3163 3 -- not civil war 
+CIVWARMID-CER: MID3163 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3163 3 -- not civil war link
+CIVWARLINK-CER: MID3163 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3163 3 -- not coup 
+COUPMID-CER: MID3163 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3163 3 -- not coup link
+COUPLINK-CER: MID3163 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3564 
+
+TERRMID: MID3564 3 -- not territory 
+TERRMID-CER: MID3564 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3564 1 -- third party link to territorial MID
+TERRLINK-CER: MID3564 1 -- certain 
+TERRLINK-NOTES: MID3564 from Gibler 2018, this is the Nagorno-Karabach War, a territorial dispute between Azerbaijan and Armenia. Russia became involved in this war by supporting Armenia against Azerbaijan and eventually helped negotiate a cease fire. Turkey became involved when they protested that their border was becoming threatened by the war. Coded third party link to territorial MID because this was connected to a territorial dispute outside this dyad. 
+
+MARITMID: MID3564 3 -- not maritime 
+MARITMID-CER: MID3564 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3564 3 -- not islands 
+ISLMID-CER: MID3564 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3564 3 -- not civil war
+CIVWARMID-CER: MID3564 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID3564 1 -- civil war link 
+CIVWARLINK-CER: MID3564 1 -- certain 
+CIVWARLINK-NOTES: MID3564 coded civil war link because this involved militarized rebels in Armenia, outside this dyad. 
+
+COUPMID: MID3564 3 -- not coup 
+COUPMID-CER: MID3564 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3564 3 -- not coup link
+COUPLINK-CER: MID3564 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4173
+
+TERRMID: MID4173 3 -- not territory
+TERRMID-CER: MID4173 1 -- certain 
+TERRMID-NOTES: MID4173 from cm narrative, in 1996 Russian and Turkish troops fired at each other near the Armenian border. Turkey and Russia were disputing the degree of Russian influence over oil pipelines in several former Soviet republics. Coded not territory because this was connected to oil pipelines, not a territorial dispute. 
+
+TERRLINK: MID4173 3 -- not third party link to territory 
+TERRLINK-CER: MID4173 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4173 3 -- not maritime 
+MARITMID-CER: MID4173 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4173 3 -- not islands 
+ISLMID-CER: MID4173 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4173 3 -- not civil war 
+CIVWARMID-CER: MID4173 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4173 3 -- not civil war link
+CIVWARLINK-CER: MID4173 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4173 3 -- not coup 
+COUPMID-CER: MID4173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4173 3 -- not coup link
+COUPLINK-CER: MID4173 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial MID
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler 2018, this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because Turkey, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler 2018, this involves Turkish (as part of NATO) war activity in Yugoslavia, the latter being supported by Russia. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and the various states experiencing this violence all lie outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4221
+
+TERRMID: MID4221 3 -- not territory
+TERRMID-CER: MID4221 1 -- certain 
+TERRMID-NOTES: MID4221 from cm narrative, Russia and Turkey were disputing the degree of Russian influence over oil pipelines in former Soviet Republics, and tensions between Turkey and Russia were high. Here, in 2000 Turkish guards killed two Russian border guards. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID4221 3 -- not third party link to territory 
+TERRLINK-CER: MID4221 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4221 3 -- not maritime 
+MARITMID-CER: MID4221 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4221 3 -- not islands 
+ISLMID-CER: MID4221 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4221 3 -- not civil war 
+CIVWARMID-CER: MID4221 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4221 3 -- not civil war link
+CIVWARLINK-CER: MID4221 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4221 3 -- not coup 
+COUPMID-CER: MID4221 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4221 3 -- not coup link
+COUPLINK-CER: MID4221 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4344
+
+TERRMID: MID4344 3 -- not territory
+TERRMID-CER: MID4344 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4344 1 -- third party link to territorial MID
+TERRLINK-CER: MID4344 1 -- certain
+TERRLINK-NOTES: MID4344 from cm narrative, Russia became wary of Turkey's involvement in the NATO mission in Yugoslavia in 1999, so Russia sent troops to Armenia to guard against Turkey coming in. Coded third party link to territorial MID because this was connected to the Yugoslav Wars, a territorial dispute outside of this dyad. 
+
+MARITMID: MID4344 3 -- not maritime 
+MARITMID-CER: MID4344 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4344 3 -- not islands 
+ISLMID-CER: MID4344 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4344 3 -- not civil war 
+CIVWARMID-CER: MID4344 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4344 1 -- civil war link
+CIVWARLINK-CER: MID4344 1 -- certain
+CIVWARLINK-NOTES: MID4344 coded civil war link because this was connected to the Yugoslav Wars, which featured militarized rebel groups fighting in the former Yugoslav republics, outside this dyad. 
+
+COUPMID: MID4344 3 -- not coup 
+COUPMID-CER: MID4344 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4344 3 -- not coup link
+COUPLINK-CER: MID4344 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3564
+rivalry=365640 nationa=RUSSIA/USSR nationb=TURKEY/OTTOMAN EMPIRE MID3564 19930400-19930907 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=USE OF FORCE 
+
+First day of dispute was on 4/00/1993 and last day of dispute was on 9/7/1993.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4173
+rivalry=365640 nationa=TURKEY/OTTOMAN EMPIRE nationb=RUSSIA/USSR MID4173 19960713-19960713 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Outpost of Russian troops guarding Turkish-Armenian border came under fire from a Turkish outpost. First and last day of dispute was on 7/13/1996.
+
+MID4342
+rivalry=365640 nationa=RUSSIA/USSR nationb=TURKEY/OTTOMAN EMPIRE MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4344
+rivalry=365640 nationa=RUSSIA/USSR nationb=TURKEY/OTTOMAN EMPIRE MID4344 19990415-19990400 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/15/1999 and last day of dispute was on 4/00/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4221
+rivalry=365640 nationa=TURKEY/OTTOMAN EMPIRE nationb=RUSSIA/USSR MID4221 20000618-20000913 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS
+fatalpb=1 lhostb=USE OF FORCE 
+
+A Russian guard was killed by Turkish border guards apparently after being lured toward the Turkish troops. Three months later, Turkish troops entered Armenian territory, finding Russian guards patrolling the Armenian border, who demanded the Turkish troops stop. Russian forces subsequently went on alert. First day of dispute was on 6/18/2000 and last day of dispute was on 9/13/2000.
+
+RIVNOTES: 
+
+MID4344 this appears to be a new dispute but no entry for it in changes file, see MID4137. According to MID3.1 data this is short bilateral dispute between Russia and Turkey (dates: 19990415 19990400) This MID added to RIV1001. 
+
+RIV5.20 changes: cm365640v11.0.txt - MID4344 added to RIV1001 
+
+From mid31changes.txt: 
+MID4137 Kosovo (1998-1999): Both Russia and Turkey are listed on sideA of the MID. Can there be a MID between the two states on the same side as part of the same MID? RUS and TUR are in fact both on the same AND on opposing sides in the MID. Incident # 4137080 - where both parties are recorded as opponents - starts on 15-Apr-1999 and ends on -9-Apr-1999. As news reports incidate RUS felt "compelled" to strengthen its military presence in Armenia because of TUR involvment in NATO-YUG conflict. This incident has been pulled out into a new dispute. A new dispute was added (MID4344) in MID B, I and IP files. The start and end dates as well as other variables are identical to what used to be MID incident # 4137080. BBC New Dispute added 3.1 Jan-06
+
+RIV51 changes: None for this MID Russia and Turkey are still listed on the same side.
+
+RIV1001: MID4342 (1999) was added by MID3.02
+
+NARRATIVE-CM:
+Russia and Turkey signed the Treaty of Constantinople on February 8, 1879, which formally ended the Turko- Russian War of 1877-1878 (MID187) and provided for Turkish indemnities to Russian nationals for damages sustained during the war. Russia and Turkey disputed the issue of war indemnities from the war, and agreed to submit the dispute to the Permanent Court of Arbitration (PCA) on August 4, 1910. The PCA issued a decision in favor of Turkey on November 11, 1912. Russian naval ships attacked Turkish naval ships in the Black Sea on October 29, 1914, and Turkish naval ships responded by attacking Sebastopol and Odessa on October 29, 1914. Russia declared war on Turkey on November 2, 1914, and Russian troops occupied Bayazon on November 3, 1914. Some 30,000 Turkish soldiers were killed during a battle against Russian troops in the Caucasus mountains in December 1914 and January 1915. Russian troops defeated Turkish troops in a battle near Atkutur, Iran on April 25, 1915, resulting in the deaths or wounding of some 12, 000 Turkish soldiers. Russian troops captured the city of Van on May 5, 1915, but Turkish troops recaptured the city from the Russians on August 5, 1915. Russian troops captured Erzurum on February 16, 1916 and Trebizond on April 18, 1916. 
+
+The Soviet Union demanded the districts of Batum, Kars, and Ardahan from Turkey on June 7, 1945. President Inonu of Turkey rejected the Soviet demand on November 1, 1945. The Soviet Union requested from Turkey a revision of the 1936 Montreux Convention (Black Sea Straits regime) on August 7, 1946. The United States mobilized military and naval forces in the region on August 20, 1946. Turkey responded to the proposed revision on August 22, 1946, and the Soviet Union repeated its demand for a revision of the 1936 Montreux Convention on September 24, 1946. Britain and the US expressed support for Turkey on October 9, 1946. Turkey rejected the Soviet demands on October 18, 1846, and the Soviet Union dropped its demands on October 26, 1946. Prime Minister Marshal Bulganin of the Soviet Union expressed concern about reports of Turkish troops concentrations near the Syria-Turkey border on September 10, 1957. Prime Minister Adnan Menderes denied the Soviet allegations on October 5, 1957. US Secretary-of-State John Foster Dulles warned the Soviet Union against attacking Turkey on October 18, 1957, and US naval ships arrived at the Turkish port of Izmir (Smyrna) on October 18, 1957. The Soviet Union protested to the Turkish government on May 13, 1960 concerning "allowing foreign military aircraft to use their airspace for the preparation and execution of intrusions into Soviet airspace."
+
+SOURCES-CM:
+American Journal of International Law (AJIL), 1913, 146-149, 178-201; Brecher and Wilkenfeld, 1997, 334- 336; Butterworth, 1976, 204-205; Clodfelter, 1992, 748-749; Keesing, February 16-23, 1946, August 17-24, 1946, August 31-September 7, 1946, October 19-26, 1946, October 19-26, 1957, May 21-28, 1960; Stuyt, 1990, 307.
+
+NARRATIVE-CR:
+Hostilities between Russia and Turkey in the 19th century actually began the first recorded dispute. The Russo-Turkish War of 1806 began Russian involvement in the battle between Serbia and Turkey. Turkey, backed by France demanded that Russia stop encroaching on the Ottoman Balkan empire (Clodfelter 1992). Turkey declared war on Russia on November 6th, 1806. The war was officially ended in May of 1812 when the Treaty of Buchrest was signed. However, the issue of Russian involvement in the Serbian Wars of Independence still resonated in the Ottoman Empire and is the source of the first dispute listed in the rivalry, MID3320. The second war of independence between Serbia (which was being backed by Russian Troops) and Turkey ended with a compromise where Turkey would recognize the autonomy of Serbia as long as the newly appointed leader of Serbia would fall under the power of the Ottoman Empure. This cessation of civil war came about when Obrenovia was recognized as hereditary prince in 1817, and Serbia was granted limited self-government (www.onwar.com 2003). The second dispute, MID3321 involved the assassination of a revolutionary who was aiding the Serbians on behalf of the Russians. With the appointment of the new government in Serbia he was found and "Black George" Karageorge was killed July 27th, 1817 while he was asleep, and his head was sent to Constantinople as proof (www.onwar.com 2003). 
+
+Related to Russia's involvement in Serbia was Russia's support of the Greek insurrection in 1821. In an effort to expel the Turks from Morea, Thessaly, Epirus and Thrace (The mainland of Greece) the Christian Greeks united and began revolt on April 2nd by murdering the Muslim population of Kalaviyta (Clodfelter 1992). By the end of 1821 the Turks had been forced out from almost all of the Morea by Greek forces aided by Russia (MID142). Uprisings in the Danube Principalities (MID64, Romanian and Greek regions allowed Russian influence and in 1926, those areas fell out of Ottoman hands and became protectorates of Russia (www.onwar.com 2003). Russian pressure, along with pressure from Britain and France would come again a few years later in the Battle of Navarino Bay (MID146). Allied forces beat back a Turkish fleet and forced an armistice in 1828. Four years later the Treaty of London (1832) would establish the independence of Greece (Clodfelter 1992). 
+
+The Russian involvement in the Greek War of Independence and the weakening of the Ottoman Empire following Navarino Bay supplied enough momentem for the Russians to declare war on April 26th of 1828 (MID189). Russian forces under Czar Nicholas I crossed the Danube and entered the Ottoman controlled Balkan region. Disease ravaged both sides and the casualties were far worse than Russia had anticipated. The war only lasted until 1829 when the push for Greek independence and the call of a holy crusade weakened in the face of impending loss. Russia gained several regions on the Danube and the eastern coast of the Black Sea by the time the Treaty of Adrianople was signed on September 16th, 1829 (Clodfelter 1992). This treaty brought to a close the issue of Russian involvement in Greek independence.
+
+The second rivalry in the 19th century was touched off by the Hungarian revolution of 1848. Hungarian revolutionaries declared their independence from the Hapsburg Empire and sought support from their one-time adversaries, the Turks. Backed by the Ottoman Empire, the revolutionaries succeeded in defeating the Hapsburg army several times before the Russians intervened. However, on June 17th of 1849, the Russians intervened on behalf of the Hapsburgs and invaded Hungary with an overwhelming force. Hungarian forces were crushed and Hungary remained under the rule of the Hapsburg Empire despite assistance from Turkey (Clodfelter 1992). Fleeing from Hungary many Hungarians took refuge in the Ottoman Empire despite Russian demands for extradition (MID236). Turkey refused and with the support of Britain held their position of protection for the Hungarian refugees (NY Times 2/3/1863). Russia and Austria maintained their positions and demanded the return of the refugees. Russia threatened war with the Turks over the issue. In response, Count Leiningen (of Austria) instigated a conflict with Turkey over the issue of Montenegro (MID126). Turkey succeeded in refusing the demands of Austria and Russia initially but eventually lost Montenegro in the wars of 1852-77 (Clodfelter 1992). 
+
+Russian expansionism into the regions formally held by the Ottoman Empire led to the Crimean war in 1853 (MID57). Turkey, in an attempt to recapture the Danube Principalities declared war on October 4th of 1853 and launched an attack in Romania against the Russian forces occupying the regions (Clodfelter 1992). Russia responded by securing naval dominance. Britain and France backed the Ottoman Empire, which they saw as being a pre-emptive defense against a fast growing Russian Empire. Both sides incurred heavy losses and a peace was negotiated on February 1st of 1856 (Clodfelter 1992).The final peace treaty was signed on March 30th of 1856, which gave Sevastopol back to Russia in exchange for Russia returning a coastal strip in Bessarabia to Moldavia and the KARS district to the Ottoman Empire (www.bartleby.com 2003). With Russia temporarily contained, the Alliance of Western Powers broke up and the Rivalry between Russia and Turkey was ended.
+
+Conflict between Russia and Turkey was ignited a third time over the issue of Serbian independence again in 1876 (MID3322) Turkey launched an all out offensive against Serbia in August of 1876 and successfully defeated Serbian forces (Clodfelter 1992). Russian involvement came through the lending of troops and a full threat of war against Turkey. In response Turkey negotiated a ceasefire on October 18th of 1876. Having re-ignited old flames, the Russian-Turkish rivalry over the Balkans, Black Sea and the Caucasus was resumed with the Russo-Turkish War of 1877-78 (MID187). Russian success against Turkey brought troops to the city of Constantinople in January of 1878 where the Russians forced an armistice on the 31st. The Treaty of San Stefano was negotiated on March 3rd of 1878, which forced Turkey to recognize the independence of Serbia, Montenegro, Romania, and Bulgaria (Clodfelter 1992). This effectively ended the Ottoman Empire's dominance over the Balkans. 
+
+With the Balkan dispute somewhat resolved between Russia and Turkey other issues continued, such as the question of Turkey's relationship with Greece and the Greek Islands. Growing antagonism between Turkey and Greece prompted Russian, British and French intervention. In 1881 the Western Powers granted Thessaly and Arta to Greece in response to the Greek discontent of the Treaty of Berlin, which served mainly to benefit the Ottoman Empire (MID141). Thessaly and Arta were given to Greece while the rest of the territories were returned to Turkey (Stavrianos 2000). Several subsequent disputes came about as a result of Turkish claims on territories held by Greece (MID3325, MID128). The Allied Powers again intervened in 1897 (MID56) and demanded Turkish withdrawal (MID391). The Ottoman Empire/Turkey had claimed rights over Crete insisting that the island was Muslim and not Christian and therefore not rightly the property of Greece (Danopoulos 1997). By 1897 Greece began sending troops to Crete and began hostilities with Turkey. Allied intervention in 1897 forced an Armistice and then a Peace Treaty between Greece and Turkey. December 4th the Treaty was concluded and Crete was made an international protectorate in exchange for Greece granting Turkey some land in Thessaly and a tribute. Another dispute regarding territorial claims between Greece and Turkey in the region of Macedonia led to conflict in 1905 (MID128). Ultimately, these disputes would lead to the First Balkan War. Following the First Balkan War, Crete was awarded to Greece in the Treaty of London in 1913 (Stavrianos 2000). 
+
+The second issue in this rivalry is the entrance of Turkey into the First World War on behalf of Germany (MID257). Immediately preceding the First World War Turkey had initiated attacks against ethnic Bulgarians in Kotchana and Berana. On the 14th of October Serbia, Bulgaria and Greece presented an ultimatum and by the 18th declared war on Turkey. Russia backed and support the Serbian/Bulgarian/Greek alliance against the Turkish forces (MID317). Matters were compounded by the entrance of Turkey into WWI on the side of Germany. Following WWI the Ottoman Empire was divided up and most of its territory lost. In August of 1920 Allied Powers imposed the Treaty of Sevres on the defeated Turks. The treaty yielded the formally Turkish Dardenelle Straits to international control and divided up the Anatolia region into Greek Italian, French, Armenian and Kurdish zones. However, because of a nationalist revolution led by Kemal Ataturk the treaty of Sevres was never implemented. Following the nationalist occupation (MID328) the Lausanne Treaty was negotiated. Resolving an issue that lingered from WWI, Russia and Turkey negotiated a trade. The Turkish government ceded Batum (MID612) to Soviet Russia in return for Soviet recognition of Turkish sovereignty over Kars and Ardahan in the Turko-Russian Treaty of 1921. An additional treaty was signed in December, effectively resolving all issues left from WWI between Soviet Russia and Turkey (Grenville 1974). 
+
+The next 20th century rivalry officially begins in 1940 with Russia's condemnation of Turkey and Greece's decision to support France and Britain's Second World War policy. In the beginning of February of 1940 the Balkan Entente held a conference where the allies decided on their military positions regarding Germany. Soviet Russia accused French-British forces of attempting to spread war into the Balkans and that the British assurance of support given to Greece and Turkey would be used as an excuse to interfere in the Balkans (Zapantis 1982). Combined with Russia's growing relations with Bulgaria (which was supporting Germany) and the desire of Russia to ensure that Germany would not interfere in Eastern Europe, the Russian anti-western alliance stance taken with Turkey makes sense. Russia threatened a possible intervention in the region (MID3803) but the issue was put to rest when Germany broke the armistice between Russia and Germany forcing Russia to enter the war on the side of the allies. 
+
+The next two disputes (MID252 and MID607) involved Russian involvement with Armenians in Syria and Lebanon. Substantively the remaining disputes in the rivalry are all related to the Cold War with Turkey on the side of US. Soviet Russia supported Armenian resistance Syria and worked towards annexation of Eastern Anatolia to the USSR with the promise of granting independence to the region (www.kultur.gov.tr 2003). In September of 1957 (MID607), Soviet backed Syria accused Turkey of massing troops on the Syrian-Turkish border with the intent of executing a U.S.-backed attack on Syria (Howard 2001). MID253 only marginally involved Turkey. The US had required Turkey to supply military support for US/NATO U2 flights over the USSR as well as house B-47 bombers armed with Juniper nuclear missiles (Howard 2001). The last dispute was over the installation of nuclear missiles in Turkey by the US and again, only marginally involved Turkey. The soviet response to the installation of missiles (MID3163) was the installation of missiles in Cuba, which was resolved when Kennedy agreed to remove the missiles in Turkey (www.onwar.com 2003). The rivalry didn't effectively end until the fall of the Soviet Union nearly 4 decades later.
+
+The final, censored rivalry between Turkey and Russia is over Caspian Oil. All three disputes (MID3564, MID4173, and MID4221) revolved around oil lines, percentage of oil rights and Russian involvement in the former republics through which the pipelines run. In 1992 there was a dispute over Armenia and Azerbaijan (where the oil must flow through), which involved both Russia and Turkey. The dispute is ongoing with the most recent dispute in 2000.
+
+SOURCES-CR:
+Clodfelter 1992; Danopoulos 1997; Grenville 1974; Howard 2001; Stavrianos 2000; Zapantis 1982
+
+SB-CR:
+Ottoman Empire (Turkey) / Russia (USSR) Years: 1816-1923. Issues at stake: Eastern Turkish border / southern Russian border; influence in the Balkans; access to Straits of Constantinople. End coding: The 1923 Straits Convention (an annex to the 1923 Treaty of Lausanne between the WWI Allies [less the USSR] and Turkey) established accepted rules of passage in the Straits; and was signed by Turkey and Russia. The outcome of WWI and redrawing of western Turkish borders had settled issues of Ottoman/Turkish influence Balkans. The 1921 Treaty of Peace and Friendship between Turkey and the USSR settled their direct borders. 1921 was also the last militarized dispute, which occurred after the 1921 treaty was signed. Number of reciprocated 30 day militarized disputes: 9. Last militarized dispute: 1921. Wars: 1828-1829, 1853-1856, 1877-1878, 1914-1917. Summary: The Ottoman-Russian "rivalry" dates back earlier than 1816. The Russian Czars' were historically attracted to Constantinople, and for strategic reasons had always desired secure access to the Straits. Additionally, Russian and Ottoman spheres of influence met and clashed in the Balkans, where Russia claimed the right to protect Slav Serbs and Bulgarians under Ottoman rule. Although there are not an unusually high number of militarized disputes in the dyad relative to others, there are an unusually high number of wars over the issues at stake. Disputes between Russia and Turkey over the Straits escalated to the point where Britain and France became involved on more than one occasion. In the first half of the 19th century the Ottoman/Russian advantage in access varied, as at least three different agreements on multinational access to the Straits were signed, in 1833, 1841, and 1856. For example, in the last case, Russian defeat and pressure by Britain, France, Italy, and Austria- Hungary led to the official demilitarization of the Black Sea. However, the Reinsurance Treaty of 1887 brought a statement by Austria and Germany that they would support Russia if it felt it necessary to "defend the entrance to the Black Sea" in case of conflict (Albrecht-Carrie 1958:201). The collapse of the Ottoman Empire before and during WWI ended its conflict with the USSR over influence in the Balkans. In 1921 the USSR and the Turkish nationalists signed a Treaty of Peace and Friendship, settling the eastern Turkish border with Russia (Georgia was recognized as sovereign, and Nakichevan was made autonomous under Azerbaijan). The 1923 Straits Convention demilitarized the straits and guaranteed free navigation of the Straits by any state as long as Turkey was neutral, which once recognized by both Turkey and the USSR marked the settlement of the last of the issues disputed by the two states. Notes: In 1946 there was a dispute between the USSR and Turkey in which the USSR made a claim regarding access to the Straits. I code this as an isolated dispute rather than a continuation of the rivalry, because those issues had been settled in 1923. According to the coding rules, because 10 years had passed after the 1923 agreement, and because no claims were voiced between 1923 and 1946 (accompanied by minimal general hostility), the rivalry ended in 1923. The USSR explicitly accepted modifications to the 1923 Straits convention in the Montreux Convention of 1936 which restored Turkish control over the Straits. The 1946 claim was brought on partly as a result of growing US- Soviet tensions, and could have marked the beginning of a new rivalry if Soviet claims persisted. However, the 1946 claims were not repeated, and a new rivalry did not begin. Sources: Albrecht-Carrie (1958), Grenville (1974).
+
+SOURCES: Dakin, Douglas. The Greek Struggle in Macedonia: 1897-1913. Vol. 88. Thessalonik¯e: Institute for Balkan Studies, 1966.
+
+Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Hall, Richard C.2002: Balkan Wars 1912-1913, in: 1914-1918-online. International Encyclopedia of the First World War, ed. by Ute Daniel, Peter Gatrell, Oliver Janz, Heather Jones, Jennifer Keene, Alan Kramer, and Bill Nasson, issued by Freie Universität Berlin, Berlin 2014-10-08. DOI: 10.15463/ie1418.10009.
+
+New York Times (1902). Russia Protests To Turkey. New York Times September 22: 3.

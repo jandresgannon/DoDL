@@ -1,0 +1,212 @@
+FILE: cm200255v11.0.txt
+DYAD: UNITED KINGDOM-GERMANY/PRUSSIA
+RIVALRY: RIV408
+DISPUTE(S): MID368 
+RIVALRY: RIV2013
+DISPUTE(S): MID194 
+RIVALRY: RIV410
+DISPUTE(S): MID3363 MID191 MID237 MID315 MID257 MID1269 MID127 
+RIVALRY: RIV411
+DISPUTE(S): MID12 MID258 MID420 
+
+PS: 19009999-19211105 0.0 19211106-19380825 .5 19380826-19450507 0.0 19450508-19721231 0.5 19730101-19920206 0.75 19920207-20170328 1.00 20170329-20201231 -9
+
+PS-UPDATE2020: We code a continuing relationship beyond the 5 year rivalry termination rule given UK's occupation with Allied forces of Germany and the central role of the UK in German and NATO security in Europe, specifically Germany. This dyad enters a transition period from the time that the UK gives notice of leaving the EU (20170329) to the date that Brexit becomes final (20201231)
+
+PS1800: 18870600-18999999 0.0
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20220609
+PS-LAST-CHECKED: 20220609
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID368 MID194 MID3363 MID191 MID237 
+
+WWI MIDs: MID257
+
+WWII MIDs: MID258 MID420
+
+MID1269 
+
+TERRMID: MID1269 3 -- not territory 
+TERRMID-CER: MID1269 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1269 1 -- third party link to territorial MID
+TERRLINK-CER: MID1269 1 -- certain 
+TERRLINK-NOTES: MID1269 from Gibler 2018, in 1919, Germany invaded Latvia to establish a protectorate there, with intentions of moving on into Estonia (Germany did invade Estonia but was pushed back by the Estonian army). The Allies eventually intervened and brokered an armistice between all parties. Coded third party link to territorial MID because UK, as part of the Allies, intervened in a territorial dispute between Germany and Latvia & Estonia. 
+
+MARITMID: MID1269 3 -- not maritime 
+MARITMID-CER: MID1269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1269 3 -- not islands 
+ISLMID-CER: MID1269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1269 3 -- not civil war 
+CIVWARMID-CER: MID1269 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1269 3 -- not civil war link 
+CIVWARLINK-CER: MID1269 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1269 3 -- not coup 
+COUPMID-CER: MID1269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1269 3 -- not coup link
+COUPLINK-CER: MID1269 1 -- certain 
+COUPLINK-NOTES: 
+
+MID315 
+
+TERRMID: MID315 3 -- not territory
+TERRMID-CER: MID315 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID315 1 -- third party link to territorial MID
+TERRLINK-CER: MID315 1 -- certain 
+TERRLINK-NOTES: MID315 from Gibler 2018, a German gunboat arrived in Morocco, where France was establishing a colony. France interpreted this as Germany attempting to establish Germany as a colony. The UK became involved in this MID by warning Germany not to expand into Morocco (the UK and France were new allies). Eventually Germany conceded Morocco to France in exchange for part of the French Congo holdings. Coded third party link to territorial MID because this was a dispute between France and Germany over colonial territory in Africa, and the UK becomes involved by supporting France. 
+
+MARITMID: MID315 3 -- not maritime 
+MARITMID-CER: MID315 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID315 3 -- not islands 
+ISLMID-CER: MID315 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID315 3 -- not civil war 
+CIVWARMID-CER: MID315 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID315 3 -- not civil war link 
+CIVWARLINK-CER: MID315 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID315 3 -- not coup 
+COUPMID-CER: MID315 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID315 3 -- not coup link
+COUPLINK-CER: MID315 1 -- certain 
+COUPLINK-NOTES:
+
+MID127 
+
+TERRMID: MID127 3 -- not territory 
+TERRMID-CER: MID127 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID127 3 -- not third party link to territory
+TERRLINK-CER: MID127 1 -- certain 
+TERRLINK-NOTES: MID127 from Gibler 2018, the Allied Powers were demanding reparations from Germany after WWI, and Germany was trying to negotiate better terms. In 1921, France and Belgium invaded the Ruhr to prevent Germany from extracting resources there. Belgium joined the French in using troop deployments to provide economic pressure on Germany into making reparation payments. Coded not territory because neither France nor Belgium claimed the Ruhr as their own, and they occupied the Ruhr to exert economic pressure on Germany, and thus UK (as part of Allies) is not pulled into a territorial dispute. 
+
+MARITMID: MID127 3 -- not maritime 
+MARITMID-CER: MID127 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID127 3 -- not islands 
+ISLMID-CER: MID127 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID127 3 -- not civil war 
+CIVWARMID-CER: MID127 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID127 3 -- not civil war link 
+CIVWARLINK-CER: MID127 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID127 3 -- not coup 
+COUPMID-CER: MID127 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID127 3 -- not coup link
+COUPLINK-CER: MID127 1 -- certain 
+COUPLINK-NOTES: 
+
+MID12 
+
+TERRMID: MID12 3 -- not territory
+TERRMID-CER: MID12 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID12 1 -- third party link to territorial MID 
+TERRLINK-CER: MID12 1 -- certain 
+TERRLINK-NOTES: MID12 from Gibler (2018), Germany pressed a claim on Sudetenland, an area of former German control that had been under Czech control since the end of WWI. Germany issued a series of demands to Czechoslovakia, and other Allied Powers, most importantly UK and France, did not offer much support against Germany. The Czech military mobilized in preparation for a German invasion. Eventually UK and France forced Czechoslovakia to surrender part of its territory to Germany. Coded third party link to territorial MID because Germany became involved in this territorial dispute between Germany and Czechoslovakia. 
+
+MARITMID: MID12 3 -- not maritime 
+MARITMID-CER: MID12 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID12 3 -- not islands 
+ISLMID-CER: MID12 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID12 3 -- not civil war 
+CIVWARMID-CER: MID12 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID12 3 -- not civil war link 
+CIVWARLINK-CER: MID12 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID12 3 -- not coup 
+COUPMID-CER: MID12 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID12 3 -- not coup link
+COUPLINK-CER: MID12 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV409 removed because MID375 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+DATES (may not be accurate, see current version of MID dataset): 18480401-18480400
+
+RIV2013: MID3.02 moves UK to Denmark's side in MID194 (1863), 2nd Schleswig-Holstein War WAR46.
+
+NARRATIVE-CM:
+Britain declared war against Germany on August 4, 1914 after German troops inavded Belgium. Germany and the Allied countries agreed to a cessation of military hostilities on November 11, 1918. Some 947,000 British soldiers and 1.8 million German soldiers were killed during the war. British and German representatives signed the *Treaty of Versailles* on June 28, 1919. Germany ratified the peace treaty on July 7, 1919, and Britian ratified the peace treaty on October 15, 1919. Britian and Germany signed a naval agreement on June 18, 1935. Britain declared war against Germany on September 3, 1939. Germany surrendered to Allied troops on May 7, 1945.
+
+SOURCES-CM:
+Langer, 1972, 943-946, 959-958, 1135-1156.
+
+NARRATIVE-CR:
+Key issues at stake between Britain and Germany in the close of 19th century are both directly and indirectly related to the conditions sought at the close of the First World War. Therefore, it is appropriate to code this as a single series of MIDs and discuss the several issues that run as an undercurrent through all of the disputes. The series of MIDS is coded as starting in 1887, which corresponds to the final two years of Chancellor Bismark's rule. Kaiser Wilhelm led Germany throughout the remainder of the series that is coded as having final resolution in 1921. At the time of Armistice ending WWI, David Lloyd George was Prime Minister in Britain (Lowry 1996). 
+
+The first major issue that strings together the late 19th century and early 20 century MIDs is the role of Germany and Britain in colonialism and disputes that arose over contested holdings. By the 1870s both Britain and Germany, among others such as France and Belgium, were actively seeking to increase their colonial holdings. Germany and Britain were particularly concerned with the Mediterranean and also with the Pacific Islands (Romano 1999). 
+
+The first two coded MIDs between Germany and Britain is over Samoa and a subsequent dispute also over Samoa. The two MIDs are MID3363 and MID191, "Samoa" and "Samoan Dispute" respectively. German warships were landed in support of a chief in 1887 (the beginning of MID MID3363) who was lending unfair access to a German trading company in exchange for military support (Onwar 2003). British and US officials formally protested when a German gunboat shelled rebel villages. After a revolt resulted in the elimination of a contingent of German forces martial law was declared. A ceasefire was negotiated in 1889 (The coded conclusion of MID191) and included the US, Britain and Germany which all gained administrative rights in Samoa (Onwar 2003). 
+
+The next four MIDs all involve Mediterranean territories and were related to the undercurrent theme of strategic dominance of trade and military access. In 1886, German trained Turkish soldiers conducted a takeover of Crete, which led to the Major Power intervention in 1897 (Mtholyoke 2003). The two MIDs are coded as MID2837 and MID56. Germany was interested in possible relations with a strengthened Turkey and therefore left the blockade enforced by France, Britain, Russia and Italy. Settlement was reached in 1899 regarding the autonomy of Crete with the drafting of a new constitution. Following this development the Great Powers removed their occupying forces. 
+
+The final MID prior to World Way I is the Second Moroccan Crisis coded as MID315 and grew out of imperial rivalries between Germany and France backed by Britain (Onwar 2003). In 1904, a secret agreement among Britain, France and Spain granted French control over Morocco and did not include any input from Germany. Wilhelm found this unacceptable and challenged the French claim to Morocco. France denied any need to compromise and was supported by Britain. On June 15th Germany threatened t sign a defensive alliance with the Sultan to protect Morocco from French rule. France moved troops to the German border on January 3rd of 1905. In 1906 the Germanys decided to make an agreement in which France had to yield control over the Moroccan police. In 1911 this agreement was broken and Germany actively protested French action in Morocco. On July 32st of 1911 future British PM Lloyd George warned Germany of potential military action if Germany an agreement was not reached between France and Germany (Onwar 2003). On November 4th an agreement was reached and German access to the waterway was secured and France was given a protectorate in Morocco. 
+
+Besides growing concern over trade, Britain was concerned about the growing dominance of Germany within continental Europe (Romano 1999). The previous 30 years of German expansion was proving to be a major concern for the traditionally dominant Britain. Britain fears of German ambition were realized with the outbreak of the First World War. With the defeat of Germany seemingly eminent in 1918 Britain's major concern was the truncation of German ability to dominate Europe as well the removal of its access to trade and resources through its colonial empire. The terms sough in the Armistice of 1918 reflected both of these goals. WWI is coded as MID257 and ends on November 11, 1918 (the signing of the Armistice). However, some issues regarding the conditions of surrender were not settled until 1921. 
+
+The conditions of the Armistice that involved British interests included the immediate evacuation of the Rhine by Germany forces and the evacuation of Alsace-Lorraine (Barclay 1968). In addition all Allied prisoners would be repatriated immediately and the German navy would be interned in British ports. In addition to military conditions Germany also relinquished its colonial holdings and agreed to pay sever monetary reparations to the Allied Powers to compensate for the costs of the War (Barclay 1968). 
+
+Germany was not able to repay the amounts set forth in the Armistice and an Allied occupation of the Ruhr resulted. Without access to the main source of industrial fuel, coal, the Germany economy collapsed. Occupation ended with the reinstitution of German payments. The Demands made by Britain were directly tied to the wish to keep Germany from dominating Europe and yet remain economically important enough to offset any possible French hegemony (Lowry 1996). 
+
+The second major series of MIDs correspond to World War II and again involve British concern over German dominance and the future role of Germany in Europe. World War II is coded as MID258 and ended with the German surrender, and Allied occupation of Berlin on May 7th of 1945. The conditions Britain sought tended to echo those sought by France and concerned many of the same territorial and capability issues that de Gaulle saw as important (Grenville 1987). Churchill was PM and Hitler was leader of Germany Policy until the German surrender, which was handled by a provisional government. 
+
+Britain again sought the removal of Germany's ability to dominate but was less concerned about the future dominance of France. Primary issues resolved at the conclusion of WWII was the occupation of Germany by the Allied forces, the division of Berlin into zones of occupation, the return of the lands seized from France and the future productive capabilities of Germany. The Potsdam conference of August 2nd, 1945 was held to determine what reparations Germany needed to make. Although detailed reparations were included for the USSR, reparations promised to Britain were fairly limited (Grenville 1987). Few monetary reparations were required with the memory of the devastation caused by large reparations freshly in the mind of Churchill. However, complete disarmament and occupation of Germany was a requirement of all Allied powers. The four-power agreement of 1945 divided Germany into four zones of administration each to be governed by one power (Slusser 1973). In addition to the division of Germany, Berlin was also divided into four zones of control despite the fact that the city of Berlin was entirely surrounded by the Soviet occupied portion of Germany (East Germany). Large contingents of military personal were left for indefinite occupation, effectively terminating the independent German state for the next 45 years. 
+
+SOURCES-CR:
+Barclay 1968; Grenville 1987; Lowry 1996; Mtholyoke 2003; Onwar 2003; Slusser 1973
+
+SB-CR:
+Germany (Federal Republic of Germany) / United Kingdom Years: 1899-1955. Issues at stake: Before WWI, questions about German colonial borders in Togo, S-W Africa, and especially East Africa (Tanzania). Throughout the rivalry, Germany's border with France and the question of whether Germany would dominate Western Europe, which becomes especially important after the Anglo-French entente of 1903. End coding: Colonial issues were settled by WWI, when Germany gave up its colonial empire. Final termination date is the 1955 implementation of the 1954 Protocol signed by the WWII allies recognizing the Federal Republic of Germany as an independent, sovereign state, and acceptance of final western borders by France the Federal Republic of Germany. See France/Germany above. Number of reciprocated 30 day militarized disputes: 7. Last militarized dispute: 1945 (WWII). Wars: 1914-1918, 1939-1945. Summary: German-British rivalry is closely tied to German-French rivalry, as the British had no desire to see Germany dominate Europe (as they had not wanted France to dominate in the Napoleonic era). However, hostile German-British interactions were not as frequent as those between Prussia/Germany and France. During WWII in particular there were also substantial fears that Germany might try to conquer Britain as well (such an invasion was planned). Additionally, British and German colonial ambitions came into conflict in Africa before WWI. The start date of the rivalry is a dispute over colonial territory. WWI ended the German colonial empire, resolving colonial issues; the French-German section of this appendix contains details of the agreements leading up to a final post-WWII territorial settlement in Europe to which France, Britain, and Germany all agreed. Sources: Huth, Bennett, and Gelpi (1992), Kinder and Hilgemann (1978).
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,562 @@
+---
+title: '\singlespace Complementarity in Alliances'
+subtitle: '\singlespace How strategic compatibility and hierarchy promote efficient cooperation in international security'
+author:
+  - name: J Andrés Gannon
+    email: "juan.gannon@vanderbilt.edu"
+    url: jandresgannon.com
+    affiliation: Vanderbilt University
+format:
+  pdf:
+    output-file: "Gannon_DoDL"
+    output-ext:  "pdf"
+    fig-format: png
+    thanks: The author is thankful to many who provided feedback on earlier and related drafts, especially Abhit Bhandari, Steven Brooks, Rosella Cappella Zielinski, Jonathan Caverley, Joshua Clinton, Benjamin Fordham, Erik Gartzke, Brenton Kenkel, Nadiya Kostyuk, Kendrick Kuo, David Lake, Nicole R. Letourneau, Jonathan Markowitz, Sara Plana, Abigail Post, Philip Roeder, Erik Sand, Kaija Schilde, Ryan Shandler, Branislav Slantchev, Bradley C. Smith, Jennifer Spindel, and Sanne Verschuren. Excellent research assistance was provided by the Vanderbilt University Research on Conflict and Collective Action (ROCCA) Lab and the UC San Diego Center for Peace and Security Studies (cPASS). This project benefited from financial support from the Smith Richardson Foundation, the Stand Together Trust, and the APSA Centennial Center.
+    number-sections: true
+    fontsize: "12"
+editor: source
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: true
+abstract: \singlespacing \noindent How can groups successfully ally when coordination costs and opportunism risks are high? This issue is particularly challenging in international alliances where state capabilities, preferences, and incentives vary. I argue that states can overcome these problems by forming alliances with high strategic compatibility and hierarchy. This approach minimizes opportunism and coordination costs by efficiently distributing defense capabilities, encouraging complementarity rather than redundancy. I demonstrate this by developing a novel network-level measure of division of labor and applying it to data on national military capabilities from 1970 to 2014. This research not only enhances understanding of the modern international system but also underscores the importance of these considerations for political alliances more broadly.
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=newest}
+- \usetikzlibrary{plotmarks}
+- \usetikzlibrary{arrows.meta}
+- \usepgfplotslibrary{patchplots}
+- \usepackage{grffile}
+- \usepackage{caption}
+- \usepackage[utf8]{inputenc}
+- \usepackage[doublespacing]{setspace}
+- \AtBeginEnvironment{tabular}{\singlespacing}
+- \usepackage{float}
+- \usepackage{multirow}
+- \usepackage{tablefootnote}
+- \usepackage{pifont}
+- \usepackage{newunicodechar}
+- \usepackage{booktabs}
+- \usepackage{siunitx}
+- \newcolumntype{d}{
+    S[input-open-uncertainty=,
+    input-close-uncertainty=,
+    parse-numbers = false,
+    table-align-text-pre=false,
+    table-align-text-post=false]}
+- \usepackage{tabularx}
+- \newunicodechar{✓}{\ding{51}}
+- \usepackage{longtable}
+- \usepackage{array}
+- \usepackage{wrapfig}
+- \usepackage{colortbl}
+- \usepackage{pdflscape}
+- \usepackage{tabu}
+- \usepackage{threeparttable}
+- \usepackage{threeparttablex}
+- \usepackage[normalem]{ulem}
+- \usepackage{makecell}
+- \usepackage{xcolor}
+- \usepackage{graphicx}
+bibliography: rDMC-bib.bib
+---
+
+```{r knitr_options}
+library(knitr)
+library(kableExtra)
+library(ggplot2)
+library(ggtext)
+library(magrittr)
+```
+
+```{r load data}
+df_raw <- readRDS(file = paste0(here::here(), "/data/rDMC_raw_v1.rds"))
+df_long <- readRDS(file = paste0(here::here(), "/data/rDMC_long_v1.rds"))
+df_wide <- readRDS(file = paste0(here::here(), "/data/rDMC_wide_v1.rds"))
+
+df <- readRDS(file = paste0(here::here(), "/data/03_df-full.rds"))
+
+df_m1 <- df |>
+  dplyr::rename(dv = dol_nicheolap,
+                strcomp = strcomp_cinc_total_scaled,
+                hier = hier_laplace_scaled)
+```
+
+Invited to *Revise & Resubmit* at *American Journal of Political Science*
+
+Word count: 9,839
+
+\newpage
+
+# Introduction {#sec-intro}
+
+The collective action problem is one of the most enduring dilemmas in political science, posing a longstanding challenge to theories of cooperation and coordination among groups [@olson_logiccollectiveaction_1965; @hardin_collectiveaction_1982]. At its core, it highlights the difficulty of organizing collective efforts in the face of individual incentives to defect. How can a group of actors who would benefit from working together toward a common goal minimize the risk of opportunism and the cost of coordination that otherwise threaten the feasibility of cooperation? Whether and how actors overcome collective action problems has important implications for a wide variety of social behaviors. Actors successfully overcoming opportunism and coordination costs can consequently provide public goods, use comparative advantage to efficiently allocate resources, and strengthen sustainable community cohesion.
+
+Opportunism and coordination costs are rarely minimized incidentally. Instead, they are addressed through conscious choices by agents within favorable environments. Successful collective action has been observed in cases with formal (often coercive) enforcement mechanisms, compliance-inducing side payments, and trust stemming from strong social ties [@ostrom_behavioralapproachrational_1998]. In situations where actors collectively contribute resources toward a common goal, cooperation is not optimal simply because actors *aggregate* individual member capabilities [@olson_economictheoryalliances_1966]. Ideally, participants would efficiently *divide* among themselves the responsibilities that those capabilities require. A division of labor over the capabilities each actor contributes to the common good is evidence of efficiency gains made possible by comparative advantage. However, familiar problems arise when deciding what capabilities each partner should bring to the table, as actors have to consider the risks inherent in coordinating collective decisions that depend on possible defectors [@niou_alliancesanarchicinternational_1994].
+
+The goal of this study is to explain how groups can collectively align in ways that minimize opportunism and coordination costs in the context of international defense cooperation. The collective action problem is particularly pronounced here, as the stakes involve coercive military threats, and cooperation requires trust and commitment over public goods in the absence of externally enforceable mandates [@axelrod_achievingcooperationanarchy_1985]. Although defense alliances have been observed throughout history, their existence alone is insufficient evidence that collective action problems have been resolved. Such cooperation could be epiphenomenal if it simply reflects the interests of states rather than changing their behavior [@mearsheimer_falsepromiseinternational_1994; @downs_goodnewscompliance_1996], or if such cooperation leaves actors worse off because of opportunistic behavior like free-riding, abandonment, or entrapment [@snyder_securitydilemmaalliance_1984; @palmer_marginalutilitycooperation_1990].
+
+I argue that the composition of defense portfolios in military alliances provides evidence about ways in which state cooperation can minimize opportunism and enhance collective action. Alliances exhibit significant variation in *how* they aggregate defense capabilities to improve collective and individual security, with some alliances consisting of member states with complementary military capabilities and other alliances involving overlapping and redundant national force structures. How can states reap the efficiency gains of specializing their military portfolio if doing so leaves them vulnerable in the event their partner does not show up on the battlefield? Differences in the degree to which alliances divide the capabilities they aggregate cannot be fully explained by economic or geographic factors alone; political considerations play a crucial role.
+
+Drawing from organizational behavior research on inter-firm collaboration, I develop a theory of security cooperation that emphasizes the importance of strategic compatibility and hierarchy. Strategic compatibility, or the degree to which states agree about the nature of the international threat environment, creates compatible payoff structures that increase the efficiency of a joint warfighting force. Hierarchical alliances, characterized by an asymmetric distribution of influence over security decisions, are better equipped to resolve information asymmetries and harmonize interoperability standards. By reducing opportunism and coordination costs, alliances with these two characteristics are more successful at efficiently allocating defense capabilities across actors through complementary defense portfolios where a division of labor minimizes redundancy.
+
+To test this theory, I analyze the distribution of disaggregated national military capabilities across alliance members from 1970 to 2014 [@leeds_alliancetreatyobligations_2002; @gannon_planestrainsarmored_2023]. Using these data, I develop a new index adapted from statistical ecology to measure division of labor as the complementarity of military capabilities across alliance members while also improving state of the art measures of strategic compatibility [@leeds_interestsinstitutionsreliability_2009; @poast_arguingalliancesart_2019] and hierarchy [@beardsley_hierarchyprovisionorder_2020]. Consistent with theoretical expectations, I find evidence across a variety of statistical models indicating that alliances with high strategic compatibility and more hierarchical structures exhibit a greater division of labor, suggesting that these factors enable mutually interdependent cooperation by mitigating opportunism and coordination costs.
+
+This study advances our understanding of several key issues in international politics. First, it contributes to discussions about whether alliances and armaments act as substitutes or complements [@morrow_armsalliestradeoffs_1993; @diehl_substitutescomplementseffects_1994], suggesting that the distribution of armaments within alliances is influenced by the compatibility of member security interests and the centralization of decision-making control. The efficacy of military spending can only be understood in the context of what that money is spent on, and this is particularly true of allies whose spending could be high but superfluous or low but effectual. Second, it addresses the debate over the efficacy of alliances in improving security and stability [@kimball_politicalsurvivalpolicy_2010; @blankenship_burdensharingdilemmacoercive_2023], offering a novel mechanism -- complementarity -- by which allies can pool distinctly specialized capabilities to improve the efficiency of defense spending [@gannon_alliesarmamentsexplaining_2024]. Third, it challenges the foundational view that states behave as like-units due to the ability to use force and the absence of central authority [@stein_coordinationcollaborationregimes_1982; @posen_sourcemilitarydoctrine_1984], demonstrating instead that functional differentiation occurs when aligned states adopt different roles and responsibilities through cooperation [@bukovansky_specialresponsibilitiesglobal_2012, 6-7].
+
+The argument is organized as follows. @sec-lit reviews existing explanations for how states improve their security through arming and allying. @sec-theory details the theory of a shared production model of security, explaining how strategic compatibility and hierarchy can overcome the collective action problem to allow a division of labor in defense capabilities. @sec-empirics presents a quantitative empirical test of this theory using cross-national data on disaggregated military capabilities from 1970 to 2014. @sec-conclusion concludes with a discussion of the implications of these findings for theories about collective action and conflict and offers suggestions for future research.
+
+# Existing explanations for cooperative security {#sec-lit}
+
+A well-established literature has theorized that the two ways a state can develop a military response to foreign threats are internal balancing (arming) and external balancing (allying).[^1] Both strategies share the same primary motivation: security. States develop arms as a military response to foreign threats [@conybeare_armsalliancescapital_1994; @goldman_internationalcompetitionmilitary_2007; @nordhaus_effectsinternationalsecurity_2012] and at their core, military alliances are fundamentally an agreement about when and how to fight [@niou_externalthreatinternal_2019; @poast_arguingalliancesart_2019]. Other positive externalities can motivate both arming and allying, and these incentives may in some cases be more salient, but an expectation of improved security is a necessary condition.[^2]
+
+[^1]: See, for example, @altfeld_decisionallytheory_1984; @barnett_domesticsourcesalliances_1991; @morrow_alliancesasymmetryalternative_1991; @conybeare_portfoliodiversificationmodel_1992; @morrow_armsalliestradeoffs_1993; @diehl_substitutescomplementseffects_1994; @sorokin_armsalliancessecurity_1994; @conybeare_armsalliancescapital_1994; @kimball_politicalsurvivalpolicy_2010; @digiuseppe_armsdemocraticallies_2016; @yarhi-milo_armallypatron_2016; @horowitz_domesticsignalingcommitment_2017.
+
+[^2]: Non-security reasons for alliance formation include, for example, trade and economic cooperation [@poast_doesissuelinkage_2012; @haim_alliancenetworkstrade_2016; @kinne_gunsmoneydefense_2020], domestic policy concessions [@barnett_domesticsourcesalliances_1991; @kim_supplysidesecurity_2016], and influence over another state's foreign and domestic policy [@morrow_alliancesasymmetryalternative_1991; @lake_entanglingrelationsamerican_1999].
+
+Neither arming nor allying is a strictly dominant strategy for improving security across all circumstances and contingencies. Investing in arms (internal balancing) provides more certain access to defense capabilities, but it is slower and more costly since resources devoted to guns are resources a state is not devoting to butter [@powell_gunsbutteranarchy_1993; @clark_tradingbutterguns_2001; @poast_sinewwarpolitical_2019]. On the other hand, while allying with like-minded states (external balancing) accesses defense capabilities more quickly and allows more resources to be devoted to domestic issues, security decisions may now be at a whim of others on whom you now rely and may have to defend when you otherwise would not [@snyder_securitydilemmaalliance_1984; @walt_originsalliances_1987].
+
+Whether arming and allying are substitutes or complements has long been debated, with a mixed empirical record [@thies_alliancescollectivegoods_1987; @morrow_alliancesasymmetryalternative_1991, 928-929; @conybeare_alternativecollectivegoodsmodels_1994, 526]. To take Europe as an example, while "one might expect a continent with both a long-established military alliance and highly integrated economies and policymaking machineries to also have a highly integrated defense economy" [@mawdsley_armamentsdecisionmakingare_2018, 261], some have found that Europe's defense market is actually quite fragmented and protectionist [@bitzinger_europeandefenseindustry_2009]. The 27 states in the EU have a combined 25 armies, 21 air forces, and 18 navies most of which possess different weapons systems and that rarely coordinate force planning [@howorth_securitydefencepolicy_2007]. This is not a new problem either; not long after the end of the Cold War [@devestel_defencemarketsindustries_1995] noted that the redundancy of Europe's defense platforms was becoming increasingly costly. Similarly, research on extended nuclear deterrence continues to debate the relationship between the perceived reliability of a nuclear state's promise of protection and a protege's demand for nuclear and conventional arms [@bleek_securityguaranteesallied_2014; @fuhrmann_signalingalliancecommitments_2014; @monteiro_strategiclogicnuclear_2014; @reiter_securitycommitmentsnuclear_2014; @lanoszka_atomicassurancealliance_2018; @narang_unforeseenconsequencesextended_2019].
+
+This stands in stark contrast to models of international trade, where the established wisdom favors economic partnerships because the gains from each participant specializing produce an efficient and mutually interdependent division of labor. Those pessimistic about the efficacy of alliances make a more common assumption explicit; because the high politics of international security concern survival while the low politics of economics do not, true dependence on others for security is prohibitively risky and states avoid it whenever possible. When alliances do form, states join forces as "temporary marriages of convenience" [@mearsheimer_tragedygreatpower_2001, 33] against today's common enemy, but they do so by aggregating capabilities rather than dividing responsibilities [@olson_economictheoryalliances_1966]. Proponents argue this feature distinguishes domestic and international politics [@waltz_theoryinternationalpolitics_1979, 97-99], since while there is "functional specialization - an intense division of labor" within states and other organizations, "the same is obviously not true of international politics. There, power is distributed more equally than in organizations. Moreover, it is distributed to protect no group purpose. There is no functional specialization among states." [@posen_sourcemilitarydoctrine_1984, 36-37].
+
+The theoretical merits of this assumption and conflicting empirical findings are due to inattention to the *composition* of arms aggregated across defense alliances. Efforts to examine the composition of alliance military capabilities have still largely homogenized alliances to compare them to non-alliances [@becker_disaggregateddefensespending_2024; @gannon_alliesarmamentsexplaining_2024] or black-boxed arming by aggregating defense as spending [@alley_allianceparticipationtreaty_2021] or institutional design [@margulies_patronspersonnelforeign_2021; @kostyuk_alliesdiffusionstate_2024]. As a result, the state of the art insufficiently explains why states facing a common threat vary in how they aggregate distinct capabilities against that threat.
+
+What factors shape whether an alliance can reliably engaging in collective action and how does that change the strategic composition of arms across allied states?[^3] Understanding this phenomenon is a worthwhile endeavor, as how each state contributes to collective security has long been [@olson_economictheoryalliances_1966; @christensen_chaingangspassed_1990; @palmer_corrallingfreerider_1990; @snyder_alliancepolitics_1997], and remains, a central question in international politics [@fuhrmann_whenleadersfreeride_2020; @blankenship_burdensharingdilemmacoercive_2023; @kinne_freeridingnetwork_2023]. Differences in how alliances bring military resources together has important implications for the outcome of conflict [@conybeare_alternativecollectivegoodsmodels_1994; @bensahel_internationalalliancesmilitary_2007; @cappellazielinski_supplyingalliespolitical_2021; @lanoszka_militaryalliancestwentyfirst_2022, 118-123] as well as the political and economic costs of defense production [@hartley_publicprocurementcompetitiveness_1987; @devestel_defencemarketsindustries_1995; @gannon_alliesarmamentsexplaining_2024].
+
+[^3]: On alliance reliability more generally, see @morrow_alliancescredibilitypeacetime_1994; @smith_allianceformationwar_1995; @fearon_signalingforeignpolicy_1997; @leeds_reevaluatingalliancereliability_2000; @leeds_alliancereliabilitytimes_2003; @leeds_alliancesdeteraggression_2003; @leeds_terminatingallianceswhy_2007; @benson_constructinginternationalsecurity_2012; @crescenzi_reliabilityreputationalliance_2012; @mattes_democraticreliabilityprecommitment_2012; @mattes_reputationsymmetryalliance_2012; @benson_inducingdeterrencemoral_2014; @blankenship_promisespressurestatements_2020; @henry_whatallieswant_2020; @smith_militarycoalitionspolitics_2021; @benson_commitmentproblemsalliance_2023.
+
+# A shared production model of security {#sec-theory}
+
+Alliances are a promise to cooperate with another actor under a given set of contingencies [@papayoanou_intraalliancebargainingbosnia_1997; @morrow_allianceswhywrite_2000]. What are the conditions under which allies are able to ensure that a promise to cooperate with each other in the development and deployment of military capabilities happens successfully? Much research on bargaining within alliances starts with the @ricardo_principlespoliticaleconomy_1817 model of comparative advantage in trading goods based on differences in production costs [@snyder_conflictnationsbargaining_1977; @snyder_securitydilemmaalliance_1984; @palmer_corrallingfreerider_1990; @morrow_armsalliestradeoffs_1993; @snyder_alliancepolitics_1997]. A complementary division of labor over these capabilities can be an efficient way to undertake defense cooperation, but it requires intra-alliance bargaining over the terms of that cooperation. Who produces what matters because these capabilities differ in their private benefits (economies of scale), public benefits (contribution to aggregated defense), and asset specificity.
+
+The central argument I set out is as follows: intra-alliance bargaining can more easily reduce the risk of opportunism and costs of coordination costs when (1) there is high strategic compatibility, meaning members have similar security interests [@papayoanou_intraalliancebargainingbosnia_1997; @poast_arguingalliancesart_2019] and (2) the alliance is hierarchic, allowing a small number of participants to dictate the terms of the bargain [@krasner_globalcommunicationsnational_1991; @lake_anarchyimportancesecurity_2001]. Under these conditions, states are able to produce complementary militaries in ways that garner the efficiency gains of specialized production while maintaining the security gains of a diversified defense portfolio. If intra-alliance bargaining does not succeed because a gap in strategic compatibility has narrowed the bargaining range and/or because one actor cannot dictate the terms of the bargain sufficient to reach a mutually agreeable solution, then there will not be a shared division of labor over the production of security.[^4] In this way, a division of labor serves as evidence of confidence in the durability of an alliance since "\[s\]pecialization of forces may leave both allies exposed to other threats" [@morrow_alliancescredibilitypeacetime_1994, 272]. States will design defense portfolios that rely less on the capabilities of others and are thus more redundant and self-reliant. After outlining the broader problem of security cooperation in @sec-coopanarchy, @sec-stratcomp and @sec-hierarchy detail the effectiveness of strategic compatibility and hierarchy, respectively, as solutions.
+
+[^4]: I make a common knowledge assumption in the intra-alliance bargaining process whereby alliance partners have a reasonable amount of certainty about each other’s threat environment and military capabilities. While not strictly true in all cases, allies do generally have an incentive both to believe their partner and be honest with them since lying to your partner about those things creates costs from false compatibility or unnecessary duplication.
+
+## Barriers to cooperation under anarchy {#sec-coopanarchy}
+
+A state's decision about whether to cooperate with other states over the ownership and use of security assets is a function of three factors - the gains from cooperation, the expected cost of opportunism, and the expected cost of coordination [@axelrod_achievingcooperationanarchy_1985; @oye_explainingcooperationanarchy_1985; @lake_risefallfuture_1997].[^5] While these features are a hallmark of the collective action problem more generally, they are particularly pronounced in the context of international security cooperation since that requires resolving integrated command and control, intelligence sharing, and interoperability of complex and constantly evolving systems [@bensahel_internationalalliancesmilitary_2007]. The gains from cooperation include economic benefits from economies of scale, political benefits from the efficiency gains of focusing on core competencies, and security benefits from improved performance at particular security needs [@gannon_alliesarmamentsexplaining_2024]. After all, one of the expected payoffs from developing relationships with strategically compatible states is the expectation that some aspect of your ally's military resources are available during war [@olson_economictheoryalliances_1966; @conybeare_portfoliodiversificationmodel_1992].
+
+[^5]: While I here focus on defense pacts as the primary institution through which states coordinate strategies to jointly produce security [@sandler_burdensharingstrategy_1980; @murdoch_theoreticalempiricalanalysis_1982], there is an extensive body of research concerning different forms of defense cooperation and security alignments [@lake_anarchyhierarchyvariety_1996; @weber_hierarchyamidstanarchy_1997; @adler_securitycommunities_1998; @haftendorn_imperfectunionssecurity_1999; @weber_hierarchyamidstanarchy_2000; @leeds_alliancetreatyobligations_2002; @benson_constructinginternationalsecurity_2012; @wilkins_alignmentnotalliance_2012; @kinne_defensecooperationagreements_2018; @edgerton_cooperativecommunitiesinternational_2024]. The theory may generalize to other less formal forms of defense cooperation, but I only analyze defense pacts as the clearest and easiest case of an arrangement where states may have agreement about the use and division of force.
+
+The expected cost of opportunism is a function of the severity and likelihood of abandonment, entrapment, and exploitation [@snyder_securitydilemmaalliance_1984; @christensen_chaingangspassed_1990]. Relying on another state that may renege when asked to contribute to your defense could seriously jeopardize a state's security [@dekker_controlinterorganizationalrelationships_2004]. If this risk is seen as high, states should instead opt to produce security on their own. Opportunism via abandonment (shirking or buck-passing), entrapment (chain ganging), or exploitation can prove fatal to a state that depends on another for defense, especially if that dependence took the form of a specialization via omitting necessary defense assets. Avoiding this requires avenues for communication and routines for interaction that mitigate concerns about opportunism and the cost of war sufficient to encourage coordinated military strategies [@ikenberry_victoryinstitutionsstrategic_2001, 65-69; @wolford_showingrestraintsignaling_2014]. Because relying on your partner to provide assets risks losing autonomy over the conduct of those assets during combat, there can be ambiguity about the effects of cooperation on a state's security goals [@morrow_alliancesasymmetryalternative_1991]. As @auerswald_natoafghanistanfighting_2014 [232] put it, "in alliance warfare, allies sometimes do not always show up when needed or they show up but are not able to do what is needed."
+
+The expected cost of coordination are distinct and concern how much work is required to ensure the relationship achieves the expected benefits [@gulati_architecturecooperationmanaging_1998; @white_cooperationcostsgovernance_2005, 1385]. Collaboration requires communication, making adjustment in response to your partners actions. While opportunism costs focus on uncertainty regarding your partner, coordination costs are about uncertainty regarding the task [@oxley_appropriabilityhazardsgovernance_1997]. An actor can have full confidence their partner will not act opportunistically if they have identical interests, but there still has to be a designation of roles coordination who is contributing what. This is fundamentally an issue of information asymmetry [@bearce_alliancesinternalinformation_2006], so creating a "common knowledge assumption" can induce and stabilize cooperation by reducing uncertainty about the other actor's payoffs structure and conveying one's own payoff structure to your partner [@gulati_mutuallyassuredalliances_1992, 19]. Theories of international cooperation inspired by @williamson_economicinstitutionscapitalism_1985 and the accompanying transaction cost framework have been less concerned with coordination costs, instead arguing opportunism costs drive most of the variation in security relationships [@lake_anarchyhierarchyvariety_1996]. Coordination costs may not be particularly salient in contexts where resources are simply pooled, but that is not the case in the security context [@overhage_poolitshare_2013]. It is quite difficult to fight a war with another state's tools. In defense, "duplication of facilities, differences in requirements, coordination problems, lack of clear control and delays due to different budgetary systems all tend to increase the costs of collaborative projects" [@smith_weaponsprocurementdefence_1996, 69-70].
+
+## Cooperative benefits of strategic compatibility {#sec-stratcomp}
+
+I define strategic compatibility as the consistency of states' security interests and degree to which they agree on the nature of the possible international threat environment [@poast_arguingalliancesart_2019, 5]. When security interests among states are consistent, an adversary that poses a threat to one state's security interests also poses a threat to the other states' security interests [@yarhi-milo_armallypatron_2016; @markowitz_powerproximitydemocracy_2018]. In this situation, states are more likely to have compatible payoff structures regarding behavior conducive to the creation or maintenance of the optimal international environment [@axelrod_achievingcooperationanarchy_1985; @smith_allianceformationwar_1995; @johnson_capabilitycredibilityextended_2015].[^6] Some degree of strategic compatibility is necessary for security-motivated defense cooperation, but it is not a sufficient condition for cooperation [@gibler_priorcommitmentscompatible_2004].
+
+[^6]: I assume homogeneity in what alliance members are willing to fight for. But whether alliance partners agree that the expected costs of war are preferable to the demands they would otherwise concede could create different reservation points across allies [@wolford_politicsmilitarycoalitions_2015].
+
+Strategic compatibility is conducive to a division of defense labor because it increases the gains of cooperation and reduce opportunism and coordination costs. Strategically compatible alliances share the same desired outcome in the event of a military contest with an adversary. They consequently have an incentive to make more effective coalition contributions [@snyder_securitydilemmaalliance_1984; @stueck_koreanwarinternational_1997; @kreps_coalitionsconvenienceunited_2011; @mcinnis_varietiesdefectionstrategies_2019; @cappellazielinski_organizingperformancecoalition_2020]. This reduces the risk of opportunism because the presence of a common objective that both actors seek produces higher payoffs to conscious policy coordination [@oye_explainingcooperationanarchy_1985; @thies_friendlyrivalsbargaining_2003; @wolford_showingrestraintsignaling_2014]. Importantly, this creates incentives for coordination, rather than like-minded actors facing a common threat in isolation. Strategic compatibility positively shapes that coalition's collective strategy to ensure that each actors' participation is augmenting the efforts of the others [@wolford_politicsmilitarycoalitions_2015]. @snyder_alliancepolitics_1997 [166] writes that "among the most prominent issues in intra-alliance bargaining are the coordination of military plans, the stance to be adopted toward the opponent in a diplomatic crisis, and the sharing of preparedness burdens in peacetime."
+
+The gains from a division of labor can now be realized if the accompanying costs have been sufficiently reduced. By increasing the expected gains of cooperation and overcoming the expected costs of opportunism and coordination, high strategic compatibility can increase states' willingness to embrace a shared production model of military capabilities. Under complementarity, the gains from economies of scale mean that each state is better off than if they simply added their redundant military capabilities together. Each state can specialize in capabilities that take advantage of its relative economic and geographic advantages in a way that allows them to develop focus resources and innovations efficiently [@gannon_alliesarmamentsexplaining_2024].
+
+*Hypothesis 1: Defense alliances with high strategic compatibility should have a higher division of labor than alliances without high strategic compatibility.*
+
+## Cooperative benefits of hierarchy {#sec-hierarchy}
+
+I define hierarchy as a community with an asymmetric distribution of influence where a small number of dominant actors authoritatively control the behavior and characteristics of a larger number of subordinate actors when it comes to international security [@zaheer_relationalgovernanceinterorganizational_1995; @donnelly_sovereigninequalitieshierarchy_2006].[^7] In contrast to its early conceptualizations, hierarchy here is a structural attribute of a community defined by its relations; a network of actors has some observable degree of hierarchy defined by the nature of their relationships [@macdonald_embeddedauthorityrelational_2018; @beardsley_hierarchyprovisionorder_2020].[^8] Influence within the network is asymmetric in that decisions about self-enforcement are controlled by one or a few dominant actors which contrasts with non-hierarchical communities where arrangements about defense efforts are largely self-enforcing [@jung_marketshierarchiesnetworks_2011].[^9] Authoritative control means that the dominant state(s) exerts influence over the decisions of other states with varying degrees of consent and/or coercion, although the means used do not determine if a community is hierarchical [@beardsley_coevolutionnetworksinterstate_2024].[^10]
+
+[^7]: I scope my analysis to security hierarchies and think about them narrowly as a contract-functionalist arrangement deliberately constructed by purposive agents to advance their interests. See @zarakol_hierarchiesworldpolitics_2017 [4-10] for an overview of different ways to conceptualize hierarchies. Similar theories have been developed on hierarchies concerning, for example, economics [@manger_hierarchypreferenceslongitudinal_2012] and social status [@hobson_enduringplacehierarchy_2005; @larson_managingrisingpowers_2014; @musgrave_defendinghierarchymoon_2018].
+
+[^8]: Especially concerning empirical identification and measurement, only recently has work on hierarchies in international politics shifted its level of analysis from dyads [@lake_hierarchyinternationalrelations_2009; @jung_marketshierarchiesnetworks_2011; @nieman_returnsocialbonds_2016] to networks [@beardsley_hierarchyprovisionorder_2020; @kinne_freeridingnetwork_2023].
+
+[^9]: While hierarchy involves power imbalances and structures of control and decision-making, it is not strictly synonymous with either of these concepts [@lake_risefallfuture_1997]. Although some hierarchical relationships have an unequal distribution of material military power such that "a more powerful state has the material capability to intervene in and provide security for the weaker one" the presence of such a capability is not synonymous with hierarchy nor is its absence indicative of a more symmetrical relationship [@wendt_hierarchyanarchyinformal_1995, 696].
+
+[^10]: For contrasting views on the role of consent and coercion in hierarchy, see @holsti_unitydisintegrationinternational_1985, @lake_anarchyhierarchyvariety_1996, @hobson_enduringplacehierarchy_2005, @lake_escapestatenature_2007, @lanoszka_consentcoercionusing_2013, @mattern_hierarchiesworldpolitics_2016 [632], @macdonald_embeddedauthorityrelational_2018, @mcconaughey_anarchylogicspolitical_2018, and @nicholls_allhegemonsare_2020.
+
+Hierarchy reduces the risk of opportunism because a leading "alliance manager" can solve information asymmetries and creating mutual interdependence [@gulati_twofacetscollaboration_2012, 533]. Hierarchy resolves information asymmetries by centralizing the flow of authoritative communication [@galbraith_organizationdesign_1977; @beek_hierarchywar_2024], reducing uncertainty about future tasks [@pondy_otherhandclapping_1977], and providing rules of thumb concerning the role each state plays in the relationship [@oye_explainingcooperationanarchy_1985]. Institutionalization allows actors to figure out the "anticipated organizational complexity of decomposing tasks among partners along with ongoing coordination of activities to be completed jointly or individually across organizational boundaries and the related extent of communication and decisions that would be necessary" [@gulati_architecturecooperationmanaging_1998, 304]. The dominant state delegates nodes of responsibility to the subordinate state either because those tasks are less important niche capabilities or because the subordinate state can perform those tasks at a lower cost given comparative advantage offered by geography or industrial capacity [@sugiyama_improvementrobustnessenvironmental_2017]. By transferring a purely exchange relationship into a power relationship, hierarchy ensures unified command and standard operating procedures that create the type of task coordination needed for a division of responsibility [@march_organizations_1958; @galbraith_organizationdesign_1977; @gulati_architecturecooperationmanaging_1998; @koremenos_rationaldesigninternational_2001].
+
+While some of these mechanisms assume a division of labor in hierarchies is dictated by the dominant state through delegation, that is not the only way this can occur.[^11] Because it is easier to catch flies with honey than vinegar, states in hierarchical alliances can collectively agree upon differentiated obligations to manage collective problems given the inequality of their material capabilities [@ikenberry_victoryinstitutionsstrategic_2001, 35-77; @beardsley_coevolutionnetworksinterstate_2024]. Even in hierarchical alliances where the strong state is determining the terms of the agreement, both states are able to leverage the power of their allies to achieve international outcomes that are in their favor [@davidson_americaallieswar_2011]. Smaller states may desire institutionalizing their relationship with more dominant states precisely because that increases their bargaining leverage and creates mutual interdependence [@bosse_bargainingpoweralliance_2010; @schneider_weakstatesinstitutionalized_2011]. The dominant state benefits from such an arrangement, as it resolves credible commitment problems at a lower cost since -- like mutual hostage-taking -- a division of labor can reduces incentives to free ride by making some degree of dependence mutual [@williamson_crediblecommitmentsusing_1983]. This provides a way for both actors in an alliance to value the alliance independent of the degree of control they exercise in determining the structure and terms of that alliance [@schroeder_alliances18151945_2004; @weitsman_dangerousalliancesproponents_2004; @bearce_alliancesinternalinformation_2006]. By reducing the costs of coordination, institutionalization makes that interdependence of tasks easier which, in turn, facilitates a division of labor [@ikenberry_victoryinstitutionsstrategic_2001, 75-77].
+
+[^11]: I here will not attempt to empirically identify which mechanism is at play, but that presents an important avenue for future research.
+
+*Hypothesis 2: More hierarchical defense alliances should have a higher division of labor than less hierarchical defense alliances.*
+
+In sum, I predict a high division of labor in alliances that have high strategic compatibility and that are hierarchical because the expected gains of cooperation exceed the expected costs of opportunism and coordination. In this situation, purposeful functionally differentiation across militaries is possible and desirable despite a division of labor creating potentially costly dependence on other states [@lake_risefallfuture_1997]. Otherwise, allies will be composed of redundant militaries with overlapping capabilities that rarely coordinate with one another.
+
+# Characterizing alliances {#sec-empirics}
+
+I differentiate alliances over time and space by operationalizing the two variables described earlier -- strategic compatibility and hierarchy. Despite the well-recognized challenges of empirically measuring these concepts [@macdonald_rolehierarchyinternational_2008; @hage_choicecircumstanceadjusting_2011], recent methodological innovations concerning similar concepts provide means to improve existing measures [@poast_arguingalliancesart_2019; @beardsley_hierarchyprovisionorder_2020].
+
+## Measuring the division of defense labor {#sec-dv}
+
+I conceptualize security as an output that requires a number of distinct *tasks* (observed as military capabilities) that can, in theory, be distributed among some number of members of an alliance [@gorelick_normalizedmutualentropy_2004].[^12] The division of labor over the production of this security output can be quantified as the degree to which members of the alliance specialize in one task versus performing all tasks and whether a task is performed by one alliance member or many of them [@gorelick_quantifyingdivisionlabor_2007]. When multiple allies possess the same military capabilities and omit the same military capabilities, their division of labor is low and can be described as redundant -- neither is making a substantial unique contribution to their "pooled" defense capabilities. By comparison, when multiple allies possess different military capabilities from one another, they each fill in the gaps such that the combination of their capabilities is distinct from that of any individual state.
+
+[^12]: I assume that these technologies could at least in theory be allocated to the defense of other allied states. Some states are members of multiple alliances [@gibler_alliancesthendemocracy_2006, 137-138; @adler_whensecuritycommunity_2009; @kinne_igomembershipnetwork_2013; @li_threedegreehorizonpeace_2017], complicating inferences about whether a state's possession of a particular military capability is associated with one alliance as opposed to another. This will be discussed in the empirical model.
+
+The unit of analysis is an alliance-year defined as a network of states that share a defensive alliance pact. Alliance membership is measured annually using the Alliance Treaty and Provisions (ATOP) data set version 5 [@leeds_alliancetreatyobligations_2002]. The division of labor among states in an alliance is calculated as their 'niche overlap' which measures the weighted mean similarity of members' military portfolios in a given year [@araujo_networkanalysisreveals_2008; @dormann_indicesgraphsnull_2009]. This is measured using the Distribution of Military Capabilities (rDMC) dataset providing country-year counts of military capabilities across roughly 70 categories [@gannon_planestrainsarmored_2023].
+
+For each alliance-year $t$, consider a bipartite network as an $n \times m$ matrix with a row for each alliance member $N$ and column for each technology $M$. $\theta_{ij} = \sum_{m}^{}min(p_{im}p_{jm})$ describes the mean similarity measure for state $i$ and every state $j \neq i$ where $p_{im}$ and $p_{jm}$ represent the relative proportions of technology $m$ within each state $i$ and $j$, respectively, as well as the relative proportion of technology $m$ across all states [@hurlbert_measurementnicheoverlap_1978; @zaccarelli_rinsppackageanalysis_2013]. A division of labor can thus be observed as the complementarity associated with high dissimilarity since it means your partners possesses capabilities you do not and visa versa. The distribution of this index across the universe of alliance-years is shown in @fig-dv.
+
+```{r}
+#| label: fig-dv
+#| fig-cap: "Distribution of alliance-year division of labor. The measure is bounded between 0 and 1, with 1 representing the highest level of division of labor."
+#| fig-pos: 'h'
+
+df |>
+  ggplot(aes(x = dol_nicheolap)) +
+  geom_histogram(bins = 30, color = "black", fill = "gray") +
+  geom_vline(aes(xintercept = mean(dol_nicheolap, na.rm = TRUE)), 
+             linetype = "dashed", linewidth = 1) +
+  annotate("text",
+           x = mean(df$dol_nicheolap, na.rm = TRUE) + 0.15,
+           y = 200,
+           size = 4,
+           label = paste("Mean =", round(mean(df$dol_nicheolap, na.rm = TRUE), 3))) +
+#  geomtextpath::geom_textvline(xintercept = 0.42, label = "NATO (1989)", linetype = 3, hjust = 0.8, size = 4) +
+  scale_x_continuous(breaks = scales::pretty_breaks()) +
+  labs(title = "Division of labor index across alliance-years (1970-2014)",
+       x = "Division of Labor",
+       y = "Number of observations") +
+  theme_classic() +
+  theme(text = element_text(size = 10))
+```
+
+This measure has a few unique properties that make it well-suited to the task at hand. Unlike other measures of portfolio similarity, this measure can account for actors with very sparse military portfolios, was developed to account for wide differences in the availability of technologies across a sample, and is scale-invariant which allows for comparisons of relative complementarity across alliances of different sizes and years with different technologies [@hurlbert_measurementnicheoverlap_1978; @manthey_betadiversitymetrics_2009]. Additionally, the measure includes the simultaneous weighting of capability distribution within and across actors, as it quantifies the interdependence between state nodes and technology nodes as mutual entropy [@bolnick_measuringindividuallevelresource_2002; @gorelick_quantifyingdivisionlabor_2007]. The index consequently measures the redundancy of military portfolios across countries relative to a baseline prior expectation informed by the distribution of capabilities within each state and the distribution of each capability across states. For example, in a bilateral alliance in 2000 where each partner possesses `r df_raw |> dplyr::filter(year == 2000 & equipment_name == "MBT") |> dplyr::summarise(mode = median(unit_count, na.rm = TRUE))` main battle tanks, that capability similarity does not contribute very much to their overall similarity because main battle tanks are generally quite common and each state possesses the modal value in that year. By contrast, a bilateral alliance where each partner possessed `r df_raw |> dplyr::filter(year == 2000 & equipment_name == "MBT") |> dplyr::summarise(mode = median(unit_count, na.rm = TRUE))` ICBMs would, as a result, have more similarity given the rarity of that capability globally makes two states possessing that capability in similar and unusual quantities unlikely.
+
+## Measuring strategic compatibility {#sec-ev1}
+
+Strategic compatibility describes the consistency of states' security interests and agreement on the nature of the international threat environment. I create a new index of strategic compatibility across alliance members in a given year by first creating an annual measure of each state's geopolitical threat environment, defined as the actors within a state's geopolitical environment with whom competition could involve coercive bargaining intended to degrade that state's perceived security [@maoz_domesticsourcesglobal_1996; @powell_shadowpowerstates_1999; @markowitz_powerproximitydemocracy_2018; @beardsley_coevolutionnetworksinterstate_2024]. Scholars have long moved past the view that anarchy means every state is a threat to every other state [@powell_gunsbutteranarchy_1993]; instead, whether a state constitutes a geopolitical threat is a function of foreign policy orientation and power [@leeds_terminatingallianceswhy_2007; @poast_arguingalliancesart_2019]. This is coded as any state B that meets at least one of the following criteria:[^13] (1) strategic rivals, meaning both states perceive each other as enemies and resource competitors [@bremer_dangerousdyadsconditions_1992; @thompson_identifyingrivalsrivalries_2001; @colaresi_strategicrivalriesworld_2008] using data from @thompson_analyzingstrategicrivalries_2021 [34-46]; (2) peace scale rivals, coded as a "severe rivalry" or a non-allied "lesser rivalry", meaning both states have war plans, unresolved issues, and "see the use of military force as a legitimate means for resolving disputes" [@goertz_puzzlepeaceevolution_2016, 34; @diehl_peacedataconcept_2021]; or (3) politically relevant threat environment, meaning state B is contiguous or a great power [@maoz_domesticsourcesglobal_1996, 168; @lemke_relevancepoliticallyrelevant_2001; @benson_relevancepoliticallyrelevant_2005; @bennett_exploringoperationalizationspolitical_2006] *and* it is non-allied with a kappa chance-corrected alliance similarity score below the population median [@cohen_coefficientagreementnominal_1960; @hage_choicecircumstanceadjusting_2011; @chiba_carefulcommitmentsdemocratic_2015]. This consequently only includes political relevant dyads with an inconsistent foreign policy orientation [@leeds_terminatingallianceswhy_2007; @leeds_interestsinstitutionsreliability_2009].
+
+[^13]: The appendix contains a more thorough description of the three criteria -- including definitions from the primary sources -- as well as a comparison of their coverage. This measure relies heavily on the extensive efforts of all of the scholars mentioned, but particularly @leeds_terminatingallianceswhy_2007 and @poast_arguingalliancesart_2019, as I largely combine and slightly modify their measures.
+
+These criteria produce a list of threatening states with whom an actor could reasonably expect to engage in coercive bargaining as a function of willingness (foreign policy orientation) and capability (power); its strategic rivals, its negative peace rivals, and its politically relevant threat environment.[^14] Following @poast_arguingalliancesart_2019 [55], I then identify the threats that all states in an alliance have in common each year and sum their CINC scores.[^15] So if State A and State B had a bilateral alliance and State A's threat environment was composed of State X and State Y while State B's threat environment was composed of State Y and State Z, that bilateral alliance's shared threat environment would be the CINC score of State Y, since it is the only state in both alliance members' threat environment. The measure is continuous and scaled between 0 and 1 where higher values represent an alliance where all members share a highly salient common threat environment. While formal alliance membership itself may not change rapidly or substantially, this measure allows more variation within and across alliances as threats to alliance members change. @fig-hier shows the evolution of US-Japan strategic compatibility as existing shared threats like the Soviet Union became less powerful [@wallander_institutionalassetsadaptability_2000] and as changes in states' foreign policy orientation altered when China and North Korea were considered shared adversaries by the US and Japan [@lind_pacifismpassingbuck_2004].
+
+[^14]: Dangerous dyads have been used to identify threats based on dispute density and conflict history [@bremer_dangerousdyadsconditions_1992; @klein_newrivalrydataset_2006], but they are inapplicable here as they are endogenous with alliance military capabilities [@leeds_alliancesdeteraggression_2003]. Dangerous dyads also assumes that states one has fought constitute threats and that those one hasn't fought aren’t, despite much historical evidence to the contrary [@thompson_identifyingrivalsrivalries_2001, 574; @poast_arguingalliancesart_2019, 53-55].
+
+[^15]: This differs from @poast_arguingalliancesart_2019 [55-56] in that his measure of strategic compatibility is binary, not continuous, and is a ratio of the count of shared versus non-shared threats, rather than shared threats weighted by CINC score.
+
+```{r}
+#| label: fig-strcomp
+#| fig-cap: "Strategic compatibility index for the US-Japan alliance. Higher y-axis values indicate higher aggregated CINC scores for countries in the shared US and Japan threat environment."
+#| fig-pos: 'h'
+
+# US-Japan (3375)
+df |>
+  dplyr::filter(atopid == 3375) |>
+  dplyr::select(year, dol_nicheolap, strcomp_cinc_total) |>
+  ggplot(aes(y = strcomp_cinc_total, x = year)) +
+  geom_line() +
+  scale_x_continuous(breaks = seq(1970, 2015, 5), minor_breaks = NULL) +
+  theme_bw() +
+  labs(y = "Strategic Compatibility",
+       x = "Year",
+       title = "US-Japan Alliance Strategic Compatibility (1970-2014)") +
+  theme(text = element_text(size = 10))
+
+shared <- readRDS(file = paste0(here::here(), '/data/dyad_threat.rds')) |>
+  dplyr::filter(year == 1995 & ccode1 %in% c(2, 740) & threatenviro == 1) |>
+  dplyr::select(ccode1, rival, threatenviro, cinc2) |>
+  dplyr::mutate(threat_ccode1 = dplyr::if_else(ccode1 == 2 & threatenviro == 1, cinc2, 0),
+                threat_ccode2 = dplyr::if_else(ccode1 == 740 & threatenviro == 1, cinc2, 0)) |>
+  dplyr::filter(threat_ccode1 > 0 | threat_ccode2 > 0) |>
+  dplyr::select(-ccode1, -threatenviro) |>
+  tidyr::pivot_longer(cols = c(threat_ccode1, threat_ccode2)) |>
+  dplyr::filter(value > 0) |>
+  tidyr::pivot_wider(id_cols = rival, names_from = name) |>
+  dplyr::mutate(threat_shared = dplyr::if_else(threat_ccode1 > 0 & threat_ccode2 > 0, 1, 0),
+                dplyr::across(dplyr::everything(), ~tidyr::replace_na(.x, 0)))
+```
+
+## Measuring hierarchy {#sec-ev2}
+
+Alliances are joint-production security communities. Defined as the distribution of authoritative control of security decisions across actors in a community, hierarchy is thus a community-level measure based on the relative influence of actors within that community.[^16] An alliance is more hierarchical if it its members have differing levels of influence on security-production decisions. Arms sales dependence has been used by many recent works to measure asymmetry in the relative influence of each state on its security community [@kinne_multilateraltrademilitarized_2012; @beardsley_hierarchyprovisionorder_2020; @chou_howalliancestrade_2023]. This appropriately measures my conception of hierarchy because a dominant state is not simply one that possesses a high concentration of defense capabilities, but because it "reside\[s\] in central positions in networks of exchange" [@macdonald_embeddedauthorityrelational_2018, 131]. Armaments are vital war input materials [@cappellazielinski_supplyingalliespolitical_2021], and the ability to determine what arms allies possess constitutes an important degree of authority over decisions about the joint-production of security in a community [@thurner_networkinterdependenciesevolution_2019; @beardsley_hierarchyprovisionorder_2020, 735-736]. An alliance network where all states are equally central in the exchange of war input materials is relatively non-hierarchic. But if one or a few states produce and distribute many of the capabilities that its partners possess, the alliance is relatively hierarchic because that network has a structural power imbalance that comes from a few states influencing the production of security [@morrow_alliancesasymmetryalternative_1991; @kahler_networkedpoliticsagency_2009].
+
+[^16]: Measurements of hierarchy have evolved beyond dyadic measures due to methodological advancements in network analysis [@hoff_modelingdependenciesinternational_2004; @maoz_networksnationsevolution_2010; @poast_misusingdyadic_2010; @warren_geometrysecuritymodeling_2010; @maoz_hownetworkanalysis_2012; @dorff_networksdyadssocial_2013; @kinne_networkdynamicsevolution_2013; @cranmer_kantianfractionalizationpredicts_2015; @cranmer_critiquedyadicdesign_2016; @fordham_allalliancesare_2016; @poast_dyadsaredead_2016; @galambos_militaryexercisesnetwork_2024].
+
+To measure this, I create an annual global network with weighted directed edges accounting for arms sales between each pair of states using the @sipriarmstransfers_2024 Trend Indicator Values (TIV). Within each alliance, I identify the importance of each state to the overall structure of the network by measuring the consequence of that actor's removal from the network on that alliance's stock and flow of arms. This is quantified as the network's ability to respond to the loss of that node; the more change that is required to stabilize the network after a given node has been removed, the more important that node was to the structure of the network [@qi_laplaciancentralitynew_2012]. Computationally, this is a measure of each state's Laplacian entropy $C_L(v_i,G) = \frac{(\Delta E)_i}{E_L(G)} = \frac{E_L(G)-E_L(G_i)}{E_L(G)}$ where $G$ is a weighted network with vertices $V(G) = (v_1, v_2, \ldots, v_n)$ and directed edges $w_{ij}$ with non-negative integer weights [@gutman_laplacianenergygraph_2006; @guerrero_laplacianenergiesvertices_2022].[^17] $G$ and $G_i$ refer to the original network and the network with node $i$ removed, respectively, such that $E_L(G)$ is the Laplacian entropy of the entire network. $C_L(v_i,G)$ thus measures the amount of "effort" required to create a most-similar distribution of arms exchange across an alliance network if each actor $i$ were removed.
+
+[^17]: As states are represented in the network as vertices, this is quantified as the sum of squares of the eigenvalues in the matrix of arms sales [@boley_randomwalklaplacian_2018; @cordeiro_dynamiclaplaceefficient_2018]. The notation provided is taken from the formal proofs in @qi_laplaciancentralitynew_2012.
+
+For each alliance year, I then calculate $E_L(G) = \frac{\sum_{i}^{n} max(C_L) - C_{Li}}{n}$ as the mean of the difference between the highest state's value and every other value. This represents the network-level measure of hierarchy with measurable distinctions between networks with a single dominant state, those with multiple dominant states, and those where all states occupy equally central positions as security-producers in the network [@savage_commonpoolhierarchyexplaining_2021]. @fig-hier demonstrates the construction of this measure for NATO in 1975. In @fig-hier-1, the alliance's joint-production of security is measured as the flow of arms throughout the network from each member to the others. @fig-hier-2 quantifies the consequence of each member of the alliance being theoretically removed from the alliance with higher values indicating a larger "shock" to the network if that node were removed. The results are consistent with the historical record in identifying the most central security-producing NATO members as the United States followed by France and the United Kingdom.
+
+This measure is similar to, and positively correlated with, other measures of network centrality.[^18] It differs in accounting for weighted and directed edges and being invariant to network size which allows across-alliance comparisons. Additionally, because this measure accounts for the overall flow of armaments in the whole network, the dependence of each state on others accounts for the relative amount of arms they receive from that actor as well as the other states who in turn depend on that state. In other words, if State A is the sole arms provider to State B who then provides a majority of the arms for States C, D, E, and F, that downstream dependence makes State A important despite being a degree removed from the majority of arms recipients.
+
+[^18]: This measure has been previously used to identify the relative importance of central actors in terrorist networks [@qi_terroristnetworksnetwork_2013] and cyber operations [@aksoy_directionallaplaciancentrality_2021].
+
+```{r}
+#| label: fig-hier
+#| fig-cap: "Hierarchy measure of security production, NATO (1975)."
+#| fig-subcap: 
+#|   - "Directed edges represent arms sales among NATO members. Darker and thicker edges corresponding to higher arms sales."
+#|   - "Laplacian entropy of each node in the network. Higher values indicate the node is more important in the network."
+#| layout-ncol: 2
+#| fig-pos: 'h'
+
+# make this NATO 1975
+network <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+  dplyr::filter(year == 1975) |>
+  dplyr::select(ccode1, ccode2, value)
+
+sipri <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+  dplyr::filter(year == 1975) |>
+  dplyr::select(ccode1, ccode2, value) |>
+  dplyr::rename(weight = value) |>
+  igraph::graph_from_data_frame(directed = TRUE) |>
+  centiserve::laplacian(mode = "out") |>
+  as.data.frame() |>
+  dplyr::rename(laplace = 1) |>
+  tibble::rownames_to_column(var = "ccode") |>
+  dplyr::mutate(ccode = as.integer(ccode))
+
+nato <- rio::import(paste0(here::here(), "/inst/extdata/ATOP/atop5_1m.csv")) |>
+  dplyr::filter(yrexit > 1970 |
+                  yrexit == 0) |>
+  dplyr::mutate(yrexit = dplyr::if_else(yrexit == 0,
+                                        2023,
+                                        yrexit)) |>
+  dplyr::select(atopid, member, yrent, yrexit) |>
+  dplyr::distinct() |>
+  dplyr::mutate(row = dplyr::row_number()) |>
+  dplyr::group_by(row, atopid, member) |>
+  dplyr::reframe(year = seq(yrent, yrexit)) |>
+  dplyr::ungroup() |>
+  dplyr::select(-row) |>
+  dplyr::rename(ccode = 'member') |>
+  dplyr::filter(year == 1975 & atopid == 3180) |>
+  dplyr::distinct() |>
+  dplyr::select(-atopid, -year) |>
+  dplyr::mutate(nato = 1)
+
+## Network plot
+library(igraph)
+library(ggraph)
+library(tidygraph)
+
+edgelist <- dplyr::left_join(network, nato, by = c("ccode1" = "ccode")) |>
+  dplyr::rename(nato_sender = nato) %>%
+  dplyr::left_join(., nato, by = c("ccode2" = "ccode")) |>
+  dplyr::rename(nato_receiver = nato) |>
+  dplyr::filter(nato_sender == 1 & nato_receiver == 1) |>
+  dplyr::select(!dplyr::starts_with("nato_")) |>
+  dplyr::mutate(cown1 = countrycode::countrycode(ccode1, origin = "cown", destination = "cowc"),
+                cown1 = dplyr::if_else(ccode1 == 260, "GFR", cown1),
+                cown2 = countrycode::countrycode(ccode2, origin = "cown", destination = "cowc"),
+                cown2 = dplyr::if_else(ccode2 == 260, "GFR", cown2)) |>
+  dplyr::select(cown1, cown2, value)
+
+network <- igraph::graph_from_data_frame(edgelist, directed = TRUE)
+tbl_graph <- tidygraph::as_tbl_graph(network)
+
+ggraph(tbl_graph,
+       layout = 'linear',
+       circular = TRUE) +
+  geom_edge_fan(aes(edge_alpha = log(value + 1),
+                    edge_width = value), 
+                arrow = arrow(length = unit(2, "mm")), 
+                start_cap = circle(4, 'mm'),
+                end_cap = circle(8, 'mm'),
+                show.legend = FALSE,) +
+  geom_node_label(aes(label = name),
+                 size = 5,
+                 repel = FALSE,
+                 color = 'dodgerblue') +
+  scale_edge_width(range = c(0.5, 1.5)) +
+  scale_edge_alpha('Edge direction',
+                   guide = 'edge_direction') +
+  scale_x_continuous(expand = expansion(mult = .1)) +
+  theme_void()
+
+## Bar plot
+dplyr::left_join(nato, sipri) |>
+  dplyr::select(-nato) |>
+  dplyr::mutate(cname = countrycode::countrycode(ccode, origin = "cown", destination = "country.name"),
+                cname = dplyr::if_else(ccode == 260, "West Germany", cname)) |>
+  dplyr::arrange(laplace) |>
+  dplyr::mutate(cname = factor(cname, levels = cname)) |>
+  ggplot(aes(x = laplace,
+             y = cname)) +
+  geom_segment(aes(xend = 0, yend = cname)) +
+  geom_point(size = 3, color = "dodgerblue") +
+  labs(title = "Security production of NATO members (1975)",
+       x = "Laplacian entropy",
+       y = "") +
+  scale_x_continuous(labels = scales::label_comma()) +
+  theme_classic() +
+  theme(text = element_text(size = 14))
+```
+
+## Empirical models and results {#sec-model}
+
+With these new measures, I can now quantitatively identify the association between an alliance's ability to overcome collective action problems and that alliance's division of defense labor. The dependent variable is the division of labor of military capabilities measured for each alliance-year where higher index values represent a higher division of labor from more complementarity with fewer redundant capabilities.[^19] As the dependent variable is continuous, the models are estimated using a series of simplified and fully specified ordinary least squares (OLS) regressions, as the best unbiased linear estimator should be optimal under common assumptions [@portnoy_linearityunbiasedlinear_2022]. I account for the panel nature of the data with various time trend and standard errors clustering specifications given the non-independence of repeated alliance observations and since the evolution of technologies over time may impact the observed division of labor and the error structure of the model. The first pair of models accounts for time trends using cubic year polynomials [@carter_backfuturemodeling_2010], the second pair instead include year fixed effects [@bell_explainingfixedeffects_2015; @plumper_notharmlessall_2019], and the final pair are hierarchical multilevel models nesting observations within year [@hazlett_understandingchoosingunifying_2022].[^20]
+
+[^19]: Since the theory is about variation in the institutional characteristics of alliances, limiting the scope to observed alliances is not selecting on the dependent variable since there is no comparison being drawn between alliances and non-alliances [@vance_peacemissingvalue_2014]. This is consistent with prior research on the design of security institutions [@leeds_allianceinstitutionalizationalliance_2005; @leeds_terminatingallianceswhy_2007; @chiba_carefulcommitmentsdemocratic_2015].
+
+[^20]: Unit fixed effects are omitted because they assume exogeneity between past treatment and current outcome as well as past outcome and current treatment which is not true for these data and is hard to measure given the unknown and heterogeneous temporal lag in anticipated treatment effect [@imai_whenshouldwe_2019].
+
+For each model specification, I first include only the theorized explanatory variables as a first cut descriptive correlation given the risk of post-treatment bias and over-adjustment posed by the inclusion of control variables, especially with panel data where the predicted relationships have unspecified temporal dynamics [@montgomery_howconditioningposttreatment_2018; @clarke_omittedvariablescountervailing_2018; @dworschak_biasmitigationempirical_2023]. I then add a battery of control variables that existing research suggests could also influence the degree to which a group of states have similar military portfolios or that could influence the degree to which those states cooperate on security issues.[^21] The models control for the proportion of states in an alliance that are a democracy, measured as a Polity score greater or equal to 6, since democratic allies may differ in trust and expectations of cooperation [@chiba_carefulcommitmentsdemocratic_2015; @digiuseppe_armsdemocraticallies_2016; @warren_modelingcoevolutioninternational_2016; @fjelstul_explainingincompletenessconditionality_2019]. Because geographic proximity may better enable allied states to cooperate militarily [@bak_allianceproximityeffectiveness_2018] and also increases the chance two states fight alongside each other [@gartzke_tiesthatbias_2022], the models control for the proportion of alliances members that are contiguous and the maximum capital to capital distance in an alliance network [@fordham_allalliancesare_2016]. Larger alliances may inherently have a lower division of labor since more partners increases the potential for overlap and redundancy in capabilities [@chiba_carefulcommitmentsdemocratic_2015] and because the benefits of hierarchy decline with group size [@beek_hierarchywar_2024], so the model includes a control for the logged number of states in each alliance-year. Established alliances are more likely to have deeper roots for cooperation and thus have an easier time cooperating, so the models control for the average number of years each member has been in the alliance [@palmer_corrallingfreerider_1990; @benson_assessingvariationformal_2016].
+
+[^21]: Many of these variables were compiled using the peacesciencer R package [@miller_peacesciencerpackagequantitative_2022], with some modifications. All code is provided in the replication material.
+
+```{r}
+#| label: tbl-results
+#| tbl-cap: "Coefficient estimates for regression models."
+#| fig.position: 'H'
+
+df_m1 <- df |>
+  dplyr::rename(dv = dol_nicheolap,
+                strcomp = strcomp_cinc_total_scaled,
+                hier = hier_laplace_scaled)
+
+models <- list(fixest::feols(dv ~ strcomp + hier + 
+                               year_norm + year_sq + year_cube, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier + demo_polityprop + dist_contigprop + dist_maxlog + members_log + allianceage_avg + 
+                               year_norm + year_sq + year_cube, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier 
+                             | year_norm, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier + demo_polityprop + dist_contigprop + dist_maxlog + members_log + allianceage_avg 
+                             | year_norm, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               lmerTest::lmer(dv ~ strcomp + hier +
+                                (1 | year_norm),
+                              data = df_m1),
+               lmerTest::lmer(dv ~ strcomp + hier + demo_polityprop + dist_contigprop + dist_maxlog + members_log + allianceage_avg +
+                                (1 | year_norm),
+                              data = df_m1))
+
+coefs <- c("strcomp" = "Strategic Compatibility",
+           "hier" = "Hierarchy",
+           "demo_polityprop" = "Democracy Ratio",
+           "dist_contigprop" = "Contiguity Ratio",
+           "dist_maxlog" = "Maximum Distance (log)",
+           "members_log" = "Number of Members (log)",
+           "allianceage_avg" = "Alliance Age (avg)")
+
+modelsummary::modelsummary(models, 
+                           stars = c('*' = .05, '**' = .01, '***' = 0.001),
+                           coef_map = coefs,
+                           coef_omit = "Intercept",
+                           gof_map = c("nobs", "r.squared", 'adj.r.squared', 'r2.marginal', 'r2.conditional', 'aic', 'bic', 'rmse'),
+                           output = "tinytable") |>
+  tinytable::group_tt(j = list("Year Polynomials" = 2:3, "Year FE" = 4:5, "Multilevel Model" = 6:7)) |>
+  tinytable::theme_tt("resize")
+```
+
+These primary results are presented in @tbl-results. Across all model specifications, strategic compatibility and hierarchy both have a positive and statistically significant association with the division of labor in a military alliance. This provides suggestive evidence that alliances with high strategic compatibility and hierarchy are more likely to have a high division of labor in the military capabilities that their members possess, even factoring in other explanations for why states might have redundant or complementary armaments. I do not interpret the model coefficients for any of the control variables due to the absence of confounders for those variables [@keele_causalinterpretationestimated_2020; @dworschak_biasmitigationempirical_2023] and also do not compare the coefficients of the fixed effects models with the cross-sectional models because they only explain across-unit variation [@mummolo_improvinginterpretationfixed_2018; @hill_limitationsfixedeffectsmodels_2020].
+
+```{r}
+#| results: hide
+
+m1_obr <- ordbetareg::ordbetareg(dv ~ 
+                                   strcomp + hier + 
+                                   demo_polityprop + dist_contigprop + dist_maxlog + members_log + allianceage_avg +
+                                   (1 | year_norm),
+                                 data = df_m1,
+                                 cores = 6,
+                                 chains = 6,
+                                 iter = 2000,
+                                 backend = "cmdstanr",
+                                 refresh = 0,
+                                 file = "ordbeta",
+                                 file_refit = "on_change")
+
+ordpred_strcomp <- brms::conditional_effects(m1_obr)[[1]]
+ordpred_hier <- brms::conditional_effects(m1_obr)[[2]]
+```
+
+The results are also substantively significant. @fig-predvals illustrates the conditional effects of the two explanatory variables using an ordered beta regression, which appropriately accounts for the bounded nature of the dependent variable [@kubinec_orderedbetaregression_2022].[^22] For strategic compatibility (@fig-predvals-1), a one standard deviation increase centered around the mean value is associated with a `{r} marginaleffects::avg_comparisons(m1_obr, variables = list(strcomp = "sd")) |> broom::tidy() |> dplyr::pull(estimate) |> round(3)` unit increase in the division of labor. Put concretely, this was how much strategic compatibility in the US-Philippine alliance increased from 1992 to 2008. The end of the Cold War reduced the salience of many of the threats that the US and Philippines jointly faced, and by 1992 the US withdrew all troops because of failure to negotiate terms justifying a continued US presence. But soon after, Chinese aggression in the South China Sea caught the Philippines' attention when they occupied Mischief Reef in 1995, prompting tension between the two states [@decastro_usphilippineallianceevolving_2009]. This marked the beginning of a revival in US-Philippine defense cooperation, including the creation of a Joint Defence Assessment (JDA) mechanism in 1999 as a precursor to being designated a major non-NATO ally for the War on Terror in 2003 [@medeiros_pacificcurrentsresponses_2008, 114-115]. As a part of this, the US helped the Philippines specialize in counter-terrorism naval capabilities it did not itself possess while also trying to ensure it remained an effective hedge against China [@green_asiapacificrebalance2025_2016, 73-78]. By 2011, the US-Philippine division of labor had increased one average expected contrast given the average conditional expectations of the other covariates in the model.
+
+[^22]: A table of the full ordered beta regression results is provided in the appendix rather than @tbl-results as the coefficients are on a log odds scale and not comparable to the coefficients from the other models.
+
+For hierarchy (@fig-predvals-2), a one standard deviation increase centered around the mean value is associated with a `{r} marginaleffects::avg_comparisons(m1_obr, variables = list(hier = "sd")) |> broom::tidy() |> dplyr::pull(estimate) |> round(3)` unit increase in the division of labor. This is what we observe in NATO from 1975 to 2000. A decade after the end of the Cold War, NATO was more hierarchical than it had been when facing the Soviet Union. Part of this can be attributed to the increasingly dominant role of the United States in the provision of alliance security [@burton_natodurabilitypostcold_2018] and part of it can also be attributed to NATO expansion, as the Czech Republic, Hungary, and Poland had smaller than average militaries that developed capabilities for search and rescue and air defense in an explicit attempt demonstrate their value to the alliance through the provision of niche capabilities [@herspring_refolutioneasterneurope_1994; @danov_comparativeanalysisreforms_2001].
+
+```{r}
+#| label: fig-predvals
+#| fig-cap: "Predicted values of division of labor for each explanatory variable. Predictions based on an ordered beta regression with year fixed effects and all control variables described above held at their mean value. Highlight points represent the observed values on each dimensions for those observations. The difference between the points on the x-axis is one standard deviation and the difference between the points on the y-axis is the estimated conditional expectation."
+#| fig-subcap: 
+#|   - "Strategic Compatibility"
+#|   - "Hierarchy"
+#| layout-ncol: 2
+#| fig.position: 'H'
+#| results: hide
+
+# Strategic compatibility predicted values with example
+ex_strcomp <- df |>
+  dplyr::filter(year %in% c(1992, 2011), atopid == 3375) |>
+  dplyr::select(year, atopid, dol_nicheolap, strcomp_cinc_total_scaled) |>
+  dplyr::mutate(year = dplyr::recode(year, "1992" = "US-Philippines (1992)", "2011" = "US-Philippines (2011)"))
+
+ordpred_strcomp |>  
+  ggplot(aes(y = estimate__, x = strcomp)) +
+  geom_ribbon(aes(ymin = lower__,
+                  ymax = upper__), fill="blue",
+              alpha = 0.5) +
+  geom_hline(yintercept = 1, linetype = 2) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  geom_line() +
+  geom_point(data = ex_strcomp, 
+             aes(x = strcomp_cinc_total_scaled, y = dol_nicheolap), 
+             size = 1) +
+  geom_text(data = ex_strcomp, 
+            aes(x = strcomp_cinc_total_scaled, y = dol_nicheolap, label = year), 
+            vjust = -1) +
+  theme_bw() +
+  labs(y = "Division of Labor",
+       x = "Strategic Compatibility")
+
+# Hierarchy predicted values with example
+ex_hier <- df |>
+  dplyr::filter(year %in% c(1975, 2000) & atopid == 3180) |>
+  dplyr::select(year, dol_nicheolap, hier_laplace_scaled) |>
+  dplyr::mutate(year = dplyr::recode(year,
+                                       "1975" = "NATO (1975)",
+                                       "2000" = "NATO (2000)"))
+
+ordpred_hier |>
+  ggplot(aes(y = estimate__, x = hier)) +
+  geom_ribbon(aes(ymin = lower__,
+                  ymax = upper__), fill="blue",
+              alpha = 0.5) +
+  geom_hline(yintercept = 1, linetype = 2) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  geom_line() +
+  geom_point(data = ex_hier, 
+             aes(x = hier_laplace_scaled, y = dol_nicheolap), 
+             size = 1) +
+  geom_text(data = ex_hier, 
+            aes(x = hier_laplace_scaled, y = dol_nicheolap, label = year), 
+            vjust = 2) +
+  theme_bw() +
+  labs(y = "Division of Labor",
+       x = "Hierarchy")
+
+# marginaleffects::avg_slopes(m1_obr, variables = "strcomp")
+# marginaleffects::avg_slopes(m1_obr, variables = "hier")
+```
+
+A series of additional models in the appendix provide further evidence of a robust positive association consistent with theoretical expectations. To ensure the results are not just an artifact of new explanatory variable measurements, I estimate strategic compatibility and hierarchy using well established indices of most-similar concepts like alliance portfolio similarity and military power asymmetry. I find no statistically significant results for an interaction term for strategic compatibility and hierarchy, despite research suggesting they may serve as substitutes if lower strategic compatibility requires more hierarchy or a more coercive form of hierarchy [@beardsley_coevolutionnetworksinterstate_2024]. I also find consistent results using alternate control variables for democracy and geography as well as with the addition of control variables for NATO [@gibler_externalthreatdemocracy_2006], alliances with US participation [@digiuseppe_armsdemocraticallies_2016], and the Cold War [@leeds_alliancepoliticscold_2007; @fuhrmann_whenleadersfreeride_2020]. Consistent results are also found with different corrections for the panel structure of the data like two-way alliance-year clustered standard errors [@chiang_usingtwowayclusterrobust_2023]. The results of a Bayesian multilevel model also produces posterior means for the expected division of labor conditional on strategic compatibility and hierarchy that is consistent with theoretical expectations [@shor_bayesianmultilevelmodeling_2007; @burkner_brmspackagebayesian_2017] and a double/de-biased machine learning model (described in detail in the appendix) produces similar predictions that are robust to omitted variable bias and overfitting by using a cross-fitting split for out of sample validation [@chernozhukov_doubledebiasedmachine_2018; @bach_doublemlobjectorientedimplementation_2024].
+
+Despite the robustness of the results across a wide variety of model specifications, the limitations of causal inference from quantitative models using observational panel data warrant caution in interpreting this as evidence of a causal relationship. There is also a plausibly endogenous relationship that the models cannot account for -- a state's relationship with other states influences the capabilities each state produces but the capabilities each state has at their disposal also impacts the decision to ally with another state [@digiuseppe_armsdemocraticallies_2016]. Furthermore, threat environments could be endogenous to alliance formation if alliances create threats rather than protect against them. But, the goal of this study is to identify a robust empirical pattern consistent with the novel conception of alliances I have outlined with the hope that the theory and results presented here provide a justification for more causally-oriented research in the future.
+
+# Implications and conclusion {#sec-conclusion}
+
+This study has important implications for our understanding of three foundational debates in international politics; cooperation under anarchy, burden-sharing, and allies versus armaments.
+
+First, traditional debates concerning the efficacy of alliances and armaments as competing strategies for improving security assume resources devoted toward each of these means are zero-sum. But since the military capabilities a state needs is a function of the military capabilities their ally possesses, external balancing influences how a state internally balances. States differ in the military capabilities they choose for their security because the composition of their force structure is conditioned by those of their allies and the nature of their relationship with those allies. What those allies spend defense dollars on matters as much, if not more, than how much they spend. This suggests a novel mechanism by which the rewards of shared production can be reaped internally. States can save resources in a constrained optimization environment by sharing the production of international security with other states in a way that allows each state to allocate relatively more resources toward non-security functions [@conybeare_portfoliobenefitsfree_1994; @digiuseppe_armsdemocraticallies_2016]. The efficiency gains observed in alliances are the product of strategic compatibility and hierarchy enabling a division of labor [@pamp_armyourfriends_2018; @alley_budgetbreakerfinancial_2021; @kinne_freeridingnetwork_2023].
+
+Second, the public goods theory of alliances concludes that although it would be ideal if every alliance participant contributed to collective defense, the incentive to free ride renders such a situation unlikely, even for actors behaving in their own self-interest. One conclusion from this is pessimism and distrust of alliances as a security mechanism. But competing strategies for augmenting security -- internally arming or externally allying -- have been treated as fungible assets compared based on their relative size. But by looking at *what* states are contributing to the common defense, rather than how much they are spending, new perspectives on burden-sharing and the value of the alliance may emerge [@thies_alliancescollectivegoods_1987; @blankenship_burdensharingdilemmacoercive_2023]. What is commonly observed as free riding may actually be efficient specialization by actors participating in a division of labor [@conybeare_tripleententetriple_1990]. Actors with common security interests recognize that, if coordinated, their defense capabilities can focus on "special responsibilities" in ways that are more than the sum of their parts [@bukovansky_specialresponsibilitiesglobal_2012 5-17].
+
+Third, pessimism about cooperation under anarchy is challenged not, as others have argued, by the existence of alliances, but rather by evidence that those alliances produce functional differentiation. When it comes to defense, states are not like-units [@sorensen_statesarenot_1998]. Security cooperation can be more than the aggregation of similar capabilities against a common threat and can instead represent mutually interdependent by states adopting functionally differentiated defense roles because they have sufficiently resolved collection action problems that otherwise make a division of labor too risky.
+
+This paper also makes an important empirical contribution in being the first quantitative measure of the distribution of military capabilities across states. Similarities and differences across states has been of significant interest in the domains of economics [@hidalgo_productspaceconditions_2007; @kim_measuringtradeprofile_2020] and institutions [@lai_democracypoliticalsimilarity_2000; @edgerton_cooperativecommunitiesinternational_2024]. But there has been no prior effort to identify the degree to which two states arm in similar ways. Independent of the validity of the theory, the measurement produced here describes the observable world in a way that can advance the study important topics like arms racing, military innovation, and scientific R&D cultures. The improvement in existing measures of strategic compatibility and hierarchy is also of note, given the centrality of those concepts to the contemporary study of international politics is matched only by its difficulty.
+
+There are important policy implications of thinking about how alliances should be configured. Alliances are supposed to help a state be more secure than it would be otherwise. But coordinating joint efforts is costly, and even when it occurs defection presents a security risk. Alliances must contain ways to guard against these risks. Divisions of responsibility over defense capabilities are evidence that strategically compatible security interests and hierarchical security networks can accomplish this. While the US possesses only 2 Arctic-capable icebreakers (as opposed to Russia's 40), 7 of the 8 Arctic nations are US allies via NATO or NATO-partners [@markowitz_perilsplentyarctic_2020, 76-78]. This is not simply a case of the US delegating a low-priority security task to untrustworthy partners, as the Thule Air Base housing the US Ballistic Missile Early Warning System (BMEWS) can only be accessed by sea in the winter because of Canada's icebreaking fleet [@cross_natoalliancerole_2019]. This US omission is render less costly because of its allies' strengths. By having a division of labor whereby US allies operate icebreakers in the Arctic, "allies and partners can free up U.S. time and resources to focus elsewhere. They can also help improve situational awareness and manage tensions more broadly to minimize dangers and create opportunities in and near the North American and European Arctic" [@avey_icebreakergapdoesn_2019]. Alliances help each participant focus on their strengths while others compensate for their weaknesses, generating more bang for the buck in more efficiently generating military force than having to go it alone.
+
+Far from being the final word, this study advances our understanding of the relationship between alliances and how states arming in a way that motivates multiple avenues for future research. For example, this study assumes homogeneity in what alliance members are willing to fight for. But whether alliance partners agree that the expected costs of war are preferable to the demands they would otherwise concede could create different reservation points across allies [@wolford_politicsmilitarycoalitions_2015]. Additionally, I here take the alliance as the unit of analysis. While the network-based nature of this measure is an advancement beyond traditionally dyadic theories, it does not theoretically or empirically identify who within the alliance specializes and what they specialize in. Future researchers could examine this descriptively based on the new measure produced, and in doing so develop a novel theory about how one's degree and type of specialization is impacted by where a state is located in the alliance hierarchy. The composition of military assets, not just the amount spent, is what is truly of tremendous consequence for how states deal with future threats. As a result, what military capabilities potential or actual partners can bring to the table matters. In short, the nature of international cooperation influences *how* states arm.
+
+\newpage
+
+# References {#sec-refs}

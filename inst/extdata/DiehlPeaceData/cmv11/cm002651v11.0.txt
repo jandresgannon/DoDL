@@ -1,0 +1,432 @@
+FILE: cm002651v11.0.txt
+DYAD: USA-EGYPT
+RIVALRY: RIV90
+DISPUTE(S): MID200 MID2843 MID607 MID125 MID1108 MID2906 MID2924 MID353
+
+RIVNOTES: RIV90: MID353 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19370526-19550830 0.5 19550901-19731205 0.00 19731206-19780916 -9 19780917-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES: Egypt was not a member of the international system from 18820915 to 19370525, as it was integrated in the British Empire. 
+
+PS-LAST-CHANGED: 20220209
+PS-LAST-CHECKED: 20220209
+
+
+Territorial-Maritime-Boundary Issues Variables 
+
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm narrative, MID200 is the Sinai War between Israel and Egypt and a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. The US is involved in this MID due to its support for Israel. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because the US and Egypt did not dispute territory here. See TERRLINK: Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and the US was pulled in to the dispute due to their support of opposing sides of the dispute. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war MID
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: MID200 from cm narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded not civil war because although Egypt sponsored a militarized rebel group against Israel, which led to events that contributed to this MID, the civil conflict is not occurring within this dyad.
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 coded civil war link because this MID involves civil conflict in Israel, outside of this dyad. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2843 
+
+TERRMID: MID2843 3 -- not territory
+TERRMID-CER: MID2843 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2843 3 -- not third party link to territory
+TERRLINK-CER: MID2843 3 -- uncertain
+TERRLINK-NOTES: MID2843 from Gibler, Little, and Miller (2016: IIB-29), a US transport plane was forced to land in the Suez Canal by an Egyptian military plane. The cm narrative notes that this was during the Sinai War, but GLM point out that the plane was not attacked and suggest that this case should be dropped. Coded not third party link because this MID did not occur in connection with the events of the Sinai War, and coded uncertain because GLM suggest this case be dropped. 
+
+MARITMID: MID2843 3 -- not maritime 
+MARITMID-CER: MID2843 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2843 3 -- not islands 
+ISLMID-CER: MID2843 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2843 3 -- not civil war 
+CIVWARMID-CER: MID2843 1 -- certain
+CIVWARMID-NOTES: MIC2843 No civil conflict occurring within this dyad.
+
+CIVWARLINK: MID2843 3 -- not civil war link
+CIVWARLINK-CER: MID2843 1 -- certain
+CIVWARLINK-NOTES: MID2843 this was not connected to the Sinai War and only has a connection to the Sinai War due to the US plane being forced to land in the Suez Canal during the war. GLM argue that no militarized incident actually took place. 
+
+COUPMID: MID2843 3 -- not coup 
+COUPMID-CER: MID2843 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2843 3 -- not coup link
+COUPLINK-CER: MID2843 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID607
+
+TERRMID: MID607 3 -- not territory 
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: MID607 from cm narrative, this is a multilateral MID involving Turkey, allied with the US, Jordan, and Iraq, in a territorial dispute against Syria, allied with Egypt and the USSR. After border troop buildups by Turkey and Syria, clashes occurred along the disputed border. The Egyptians and the Americans were involved heavily in the MID, in the form of arms support and, in the case of Egypt, supplying troops to fight. Russia is involved in this MID due to its support for Syria. Coded not territory here because the US and Russia did not dispute territory here. See TERRLINK.
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain 
+TERRLINK-NOTES: MID607 from cm narrative, the US and Egypt were pulled into this MID due to their support for the primary disputants, Turkey and Syria. Coded link to territory because the territorial MID between Turkey and Syria caused a MID between US and Egypt here. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain 
+CIVWARMID-NOTES: MID607 no indication that rebel group activity contributed to this MID. 
+
+CIVWARLINK: MID607 3 -- not civil war link 
+CIVWARLINK-CER: MID607 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 3 -- not civil war 
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES: MID125 from cm narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded not civil war MID because the civil war in Lebanon is outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 coded civil war link because the Lebanese civil war triggered a multilateral MID, including this MID between US and Egypt, and since the Lebanese civil war is outside of this dyad, it is a civil war link MID. 
+
+COUPMID: MID125 3 -- not coup 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID125 1 -- coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: MID125 the coup in Iraq (listed as a coup in Powell and Thyne 2011 in 1958) contributed to the civil war in Lebanon, and the new Iraqi regime supported the revolutionaries in Lebanon, contributing to this MID. 
+
+
+
+MID1108 
+
+TERRMID: MID1108 3 -- not territory
+TERRMID-CER: MID1108 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1108 3 -- not third party link to territory 
+TERRLINK-CER: MID1108 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1108 3 -- not maritime 
+MARITMID-CER: MID1108 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1108 3 -- not islands 
+ISLMID-CER: MID1108 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1108 3 -- not civil war 
+CIVWARMID-CER: MID1108 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1108 1 -- civil war link
+CIVWARLINK-CER: MID1108 1 -- certain
+CIVWARLINK-NOTES: MID1108 from cm narrative, this is the Yemeni Civil War and is a multilateral MID involving Egypt and Yemen vs the US, Saudi, and Jordan. Occurred October 1962 to December 1963. In 1962 a military coup overthrew the Yemeni government (see COUPLINK) and a civil war ensued. Egypt intervened to support the new government, while Saudi Arabia intervened to attempt to help restore the overthrown government. The US made a show of force to deter Egypt from escalating tensions with Saudi that might result in an invasion of Saudi. Jordan also supported the deposed government, pulling them into this MID as well. Coded civil war link because the civil war in Yemen drew in the US and Egypt on opposite sides of support for the warring parties in Yemen, and Yemen is outside of this dyad. 
+
+COUPMID: MID1108 3 -- not coup 
+COUPMID-CER: MID1108 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1108 1 -- coup link
+COUPLINK-CER: MID1108 1 -- certain 
+COUPLINK-NOTES: MID1108 from cm narrative, the Yemeni civil war also involved a coup in Yemen. (This is listed as a coup in 1962 in Powell and Thyne 2011.) The coup led to or was associated with a civil war, and the US, Saudi, and Jordan supported the deposed government, while Egypt supported the new government in Yemen, triggering this MID between parties of the opposing sides. Coded coup link because the coup in Yemen contributed to this MID between US and Egypt, and it occurred in Yemen, which is outside of this dyad. 
+
+
+
+MID2906 
+
+TERRMID: MID2906 3 -- not territory 
+TERRMID-CER: MID2906 1 -- certain 
+TERRMID-NOTES: MID2906 from cm narrative, this is a bilateral MID that occurred December 19, 1964. Here an Egyptian (UAR) plane either forced down or shot down a civilian aircraft operating in Egyptian (UAR) air space. The plane was flying over Alexandria. The plane was operated by two Americans and was reportedly a plane chartered by the Esso oil company. Coded not territorial because the US and Egypt had no territorial dispute. 
+
+TERRLINK: MID2906 3 -- not third party link to territory 
+TERRLINK-CER: MID2906 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2906 3 -- not maritime 
+MARITMID-CER: MID2906 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2906 3 -- not islands 
+ISLMID-CER: MID2906 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2906 3 -- not civil war 
+CIVWARMID-CER: MID2906 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2906 3 -- not civil war link
+CIVWARLINK-CER: MID2906 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2906 3 -- not coup 
+COUPMID-CER: MID2906 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2906 3 -- not coup link
+COUPLINK-CER: MID2906 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2924 
+
+TERRMID: MID2924 3 -- not territory
+TERRMID-CER: MID2924 1 -- certain 
+TERRMID-NOTES: MID2924 from cm narrative, this MID took place on February 13, 1968. It was a bilateral mid in which the United States displayed force with no reaction by the Egyptians. The precise reason for the US show of force is unclear. Coded not territorial because the countries were not disputing territory. 
+
+TERRLINK: MID2924 3 -- not third party link to territory 
+TERRLINK-CER: MID2924 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2924 3 -- not maritime 
+MARITMID-CER: MID2924 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2924 3 -- not islands 
+ISLMID-CER: MID2924 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2924 3 -- not civil war 
+CIVWARMID-CER: MID2924 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2924 3 -- not civil war link
+CIVWARLINK-CER: MID2924 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2924 3 -- not coup 
+COUPMID-CER: MID2924 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2924 3 -- not coup link
+COUPLINK-CER: MID2924 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID353 
+
+TERRMID: MID353 3 -- not territory 
+TERRMID-CER: MID353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID353 1 -- third party link to territorial MID
+TERRLINK-CER: MID353 1 -- certain 
+TERRLINK-NOTES: MID353 from cm narrative, this MID is concurrent with the Yom Kippur War in October 1973. The US supported Israel, while USSR supported Egypt and Syria. The US's support for Israel during this territorial MID (specifically over Sinai and Golan Heights) between Israel and Egypt & Syria pulls them into this MID. Coded third party link to territory because the US was a third party to the territorial dispute which directly involved Egypt. 
+
+MARITMID: MID353 3 -- not maritime 
+MARITMID-CER: MID353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID353 3 -- not islands 
+ISLMID-CER: MID353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID353 3 -- not civil war 
+CIVWARMID-CER: MID353 1 -- certain 
+CIVWARMID-NOTES: MID353 no indication that rebel group activity contributed to this MID. 
+
+CIVWARLINK: MID353 3 -- not civil war link 
+CIVWARLINK-CER: MID353 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID353 3 -- not coup 
+COUPMID-CER: MID353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID353 3 -- not coup link
+COUPLINK-CER: MID353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+
+NARRATIVE-CM:
+On December 16, 1955, the United States announced that it would provide some $56 million to help finance the construction of Egypt's Aswan High Dam. The US withdrew its offer to finance the construction of the Aswan High Dam on July 19, 1956. On July 26, 1956, President Gamal Abdel Nasser nationalized the Suez Canal to provide funding for the Aswan Dam. Egypt severed diplomatic relations with the US following Israel's attack against Egypt on June 5, 1967.
+
+SOURCES-CM: 
+Donelan and Grieve, 1973, 123-129; Langer, 1972, 1293-1295.
+
+NARRATIVE-CR:
+The rivalry between Egypt and the United States is a complicated one. Generally speaking there were few direct confrontations between the two countries during their relatively brief rivalry. Much of the military action that did occur took place in the context of opposing alliances. During this period Nasser nationalized the Suez Canal and the Egyptians fought three wars against Israel, a strong US ally. Further, the Egyptians supported republican insurgency in Yemen which provoked a fearful reaction from the Saudis, an ally the US staunchly supported. 
+
+MID200 is the Sinai War of 1956. It started on September 1, 1955 and lasted until November 6, 1956. This war involved Egypt and the USSR versus Israel, the UK, France, and the USA. The US and USSR were not directly involved in hostilities. The conflict was precipitated by Nasser's nationalization of the Suez Canal when he came to power in Egypt in 1952. Israel was concerned about Egypt and their lack of pursuit of any kind of long term peace pact. The UK and France secretly agreed with Israel to occupy the Canal Zone after an Israeli invasion of the Sinai. In late October 1956, the IDF invaded the Sinai and quickly controlled the entire peninsula. The British and French called for a halt to the fighting and requested permission to station troops in the Canal Zone to ensure continued shipping. Egypt refused and British and French forces destroyed the Egyptian Air Force with an aggressive air offensive. The US and USSR applied pressure to their allies to stop the fighting. Under pressure from the US, British, France, and Israeli forces declared a ceasefire on 6 November 1956. Only the heavy handed influence of the superpowers kept the fighting at bay here as tension between Israel and Egypt remained high. MID2843 also occurred in the context of the Sinai War. 
+
+MID607 occurred from April through November of 1957. This is a multilateral mid whose principal combatants were Turkey and Syria. Also included in the mid were Jordan and Iraq allied with Turkey and the United States. The USSR and Egypt were allied with Syria. This was a border dispute between the two countries that spiraled to the point of open hostilities. In April of 1957, the Turks began to position troops near the Syrian border. This provoked a corresponding troop build up from the Syrians. Both sides alleged that they were conducting `normal' maneuvers. The Turks and the Syrians suffered dozens of casualties in the tension as minor flare ups occurred late in the mid. Both the Egyptians and the Americans were heavily involved in this mid. The Americans shipped arms in support of the Turks while the Egyptians supplied up to 15,000 troops to support the Syrians. 
+
+MID125 is the US intervention in Lebanon. This occurred from May though October of 1958. This is a multilateral mid involving Egypt, Iraq, and the USSR allied against the USA, and the UK. All of the participants were involved in the mid for most of its duration. 
+
+The 1958 Civil War was instigated by Lebanese Muslims and Druzes who were inspired by the February 1958 unification of Egypt and Syria and agitated to make Lebanon a member of the new United Arab Republic. Pro-Nasser demonstrations grew in number and in violence until a full-scale rebellion was underway. The revolt almost became a religious conflict between Christians and Muslims. 
+
+The turmoil increased on July 14, 1958 when a revolution overthrew the monarchy in Iraq and the entire royal family was killed. This was welcome news in anti-Shamun areas of Lebanon. Radio stations announced that the Shamun regime would be next. Shamun realized the gravity of his situation and summoned the ambassadors of the United States, Britain, and France on July 14. He requested immediate assistance, insisting that the independence of Lebanon was in jeopardy. 
+
+The war took a toll of some 2,000 to 4,000 lives. 5,000 United States Marines landed on the beaches near Beirut and waded ashore among sunbathers and swimmers. The Marines' role, in a situation described by the Department of Defense as "like war but not war," was to support the legal Lebanese government against any foreign invasion, specifically against Syria. The Marines were summoned because Shihab, believing that the army would mutiny and disintegrate if ordered into action, had disobeyed President Shamun's orders to send the army against Muslim rebels. 
+
+MID1108 is the first phase of the Yemeni Civil War which began in October of 1962 until December of 1963. This is also a multilateral mid involving Saudi Arabia, Jordan and the US v. Egypt, and the Yemen Arab Republic. Egyptian involvement in the mid lasted the duration of the mid however US involvement was limited to one day-November 15, 1962. 
+
+In 1962 a military coup overthrew the royalist government in Yemen. Nasser intervened to support the new republican government against the Saudi-backed royalists, who were attempting to regain control. This undertaking proved to be a great drain on Egypt's financial and military resources. At the height of its involvement, Egypt had 75,000 troops in Yemen. Egypt's intervention also increased inter-Arab tensions, especially between Saudi Arabia and Egypt. Egypt's defeat at the hands of Israel in the June 1967 War obliged it to withdraw its forces from Yemen and to seek peace. A settlement was achieved at a conference in Khartoum in 1967.
+
+During this conflict the United States made on brief show of force in an effort to deter potential Egyptian interest in attacking Saudi Arabia. On November 15, 1962, six USAF F-100 fighter jets flew over Riyadh, Saudi Arabia. This was perceived as by Middle Eastern observers as a statement of profound support for the Saudi regime and as a warning to Nasser and the UAR. It was interpreted as a sign that should Egypt decide to invade Saudi Arabia that the US would take necessary action to protect the Saudis. 
+
+MID2906 occurred on December 19, 1964. Here an Egyptian (UAR) plane either forced down or shot down a civilian aircraft operating in Egyptian (UAR) air space. The plane was flying over Alexandria. The plane was operated by two Americans and was reportedly a plane chartered by the Esso oil company. 
+
+MID2924 took place on February 13, 1968. It was a bilateral mid in which the United States displayed force with no coded reaction by the Egyptians. I was not able to locate reference to this mid in any of the text resources regarding US and Egyptian relations nor in any of the periodical coverage of the time period. 
+
+MID353 occurred in October of 1973. This was a multilateral mid with the US allied with Israel versus Egypt, Syria, and the USSR. The principal combatants here were the US and the USSR both displaying force. All parties were involved in the dispute for the duration of the mid. This mid is concurrent with the Yom Kippur War. Essentially, this mid codes the moves of support that the US and the USSR make in support of their allies in the Yom Kippur War. Both the US and the USSR made unusually large shipments of armaments to their allies during the war. 
+
+Relations between the US and Egypt improved following the death of Nasser and the assumption of power of Sadat in 1970. The ascendance of Sadat and the attendant shift in policy he brought is probably the most important element in the improvement of US-Egyptian relations. 
+
+Sadat took control of a country in need of economic reform. As Sadat's rule progressed, it became clear that his priority was solving Egypt's pressing economic problems by encouraging Western financial investment. Sadat realized, however, that Western investment would not be forthcoming until there was peace between Egypt and Israel, Soviet influence was eliminated, and the climate became more favorable to Western capitalism. 
+
+Sadat dismissed a number of government officials that were considered to considered to be left-leaning and pro-Soviet. This action, which became known as the Corrective Revolution, began Sadat's move away from Nasser's policies. He announced new elections and a complete reorganization of the ASU. The armed forces pledged their support for Sadat on May 15. There were also some popular demonstrations in the streets in support of Sadat's moves. 
+
+He expelled Soviet advisors in July 1972, an act that some in the United States considered a harbinger of better Egyptian-U.S. relations. Egypt attacked Israeli forces occupying the Sinai Peninsula and Syria attacked the Golan Heights in October 1973. In November 1973, Egypt and the United States restored diplomatic relations, and in December, the two nations participated in the Geneva peace conference. U.S. Secretary of State Henry Kissinger's so-called shuttle diplomacy led to Egyptian-Israeli and Syrian-Israeli disengagement agreements in 1974 and a second set of Egyptian-Israeli disengagements in 1975. The United States resumed economic aid to Egypt in 1975 after an 8-year hiatus. The United States endorsed Egyptian President Anwar al-Sadat's dramatic and courageous trip to Jerusalem in November 1977, and provided good offices to assist in the Israeli-Egyptian peace negotiations at Camp David in September 1978 and the Egyptian-Israeli peace treaty of March 1979. The United States organized the peacekeeping regime along the Egyptian-Israeli border, and maintains a rotating infantry battalion in the force.
+
+SOURCES-CR: 
+Collelo, 1987; Mark, 2003; New York Times various articles 4/1957-11/1957; 11/16/1962; 12/19/1964; On War.com (Yemeni Civil War-1962)
+
+Powell, Jonathan & Clayton Thyne. 2011. Global Instances of Coups from 1950-Present. Journal of Peace Research 48(2):249-259.
+
+PS-NARRATIVE:
+
+18550101-18820915 0.5 
+
+Pre-World War II relations between Egypt and the United States were extremely limited. To the extent that interactions did take place, they were limited to private business interests and philanthropy. The US State Department was involved with Egypt only to protect US business interests. The US was not even represented at the inauguration of the Suez Canal in 1869 and did not take part in the Constantinople Convention in 1888 to ensure the canal remained international. Egypt was not a member of the international system from 18820915 to 19370525, as it was integrated in the British Empire. 
+
+19370525-19550830 0.5 
+
+US business interest rose modestly over the years and total business investment totaled around 14 million by 1938. For the most part, prior to World War II, the US viewed Egypt as part of the British Empire and remained out of Egyptian affairs. An example of this is that after World War I, Egypt approached the US for help gaining independence from Britain; the US offered no assistance. 
+
+US interest in Egypt, and the Middle East in general, grew during the intra war years due to the discovery of petroleum. During World War II, the US accepted more of the burden for defending the Middle East and Egypt from Britain. The US slowly began to realize the importance of the Suez Canal and the Middle East. After World War II, the US increased involvement in the Middle East to prevent Soviet influence from dominating the area. Egypt tried to ensure national sovereignty and hoped the US's traditional anti-colonial policy would prove useful in limiting British influence. Initially, the US stayed out of Egyptian affairs out of deference to the British. The US's growing interest in Middle East oil led to an increase in use of the Suez Canal and a place on the canal's board of directors in 1948. Several bilateral agreements are signed in 1947 regarding military basing rights, trade, and economic aid. The US quickly becomes the second largest suppliers of goods to Egypt, after Britain. 
+
+In 1951-1952, unrest against British influence and the pro-British regime in Egypt began to rise. On July 23, 1952, a revolution took place in which King Farouk I was overthrown by a group called the Free Officers Movement. Initially, US Secretary of State Dean Acheson was positive about the changes in Egypt and felt that relations with Egypt would remain `friendly and cooperative.' There was, however, apprehension in the United States to extend requested military and economic aid to Egypt until Britain and Egypt settled their dispute. 
+
+These three problems led to conflict between the US and Egypt. Egypt's demands for aid on their terms and non-infringement of sovereignty consistently clashed with US and British efforts at using Egypt as part of a western effort to contain communism. Egypt resisted being dragged into the East-West global struggle and threatened neutrality in the issue if terms over aid and other issues were not met. Egypt went as far as to meet with Soviet officials in 1954 to discuss areas of possible cooperation. In 1954 and 1955, Nasser of Egypt pushed the US to supply arms and threatened to get arms from the Soviet Union should the US refuse. The US refused hoping to get a firm commitment from Egypt that they were in the west's camp in regard to the Cold War. Egypt responded by signing an arms deal with Czechoslovakia. 
+
+Nasser used his position between the two Cold War powers to push an independent foreign policy that upset the US. Nasser rejected US overtures, promoted Arab nationalism, and formalized relations with communist countries like the Soviet Union and China. The US, failing to influence Nasser and Egypt through gestures of aid, turned, in conjunction with Britain, toward a policy in 1955-56 of limiting Nasser's influence and prestige in the Middle East. This plan led to the decline in US-Egyptian relations and the onset of the rivalry between these two countries.
+
+Positive relations did not remain between the US and Egypt due to three major issues. First, the US was willing but reluctant to provide much economic and military assistance requested by Egypt until all issues were resolved with Britain. Second, Egypt refused attempts by the US and western countries to integrate Egypt into defense systems against the Soviet Union until complete independence from foreign influences was established and until sufficient aid was provided. Third, ongoing conflict between Egypt and Israel made the US more reluctant to provide unlimited military aid demanded by Egypt as necessary for self-defense. The first MID of RIV90, MID200, started on September 1, 1955. 
+
+The last MID of RIV90, MID2924 ended on February 13, 1968. Sadat, upon rising to power in September 1970, began looking toward the US as a means of strengthening Egypt's struggling military and economy. The first major move to de-align with the Soviet Union and move toward the United States came in July of 1972 when Sadat expelled Soviet military personnel from Egypt. Initially, Sadat's overtures toward the US were ignored. The reason is because following the dramatic military defeat of Egypt in 1967 Egypt was not viewed as a significant military threat in the region. After Egypt moved militarily across the Suez on October 6 1973, the US and Secretary of State Henry Kissinger determined that the time was ripe for dealing not only with the Egypt-Israeli conflict but with larger issues such as the Arab oil embargo and Arab-Israeli conflict in general. 
+
+19731206-19780916 Transition
+
+The last MID of RIV90, MID2924 ended on February 13, 1968. Diplomatic relations between the United States and Egypt were restored shortly after Kissinger and Sadat first met in November 1973.The new Egyptian ambassador to Washington, Ashraf Ghorbal took over his post on December 6, 1973.
+
+Geneva Middle East Peace Conference (December 1973), Sadat subscribes to Kissinger's notion of a `step-by-step' peace process rather than the comprehensive peace process being used (comprehensive process was not producing positive results).
+
+On 18 January, Egypt and Israel agreed on a US sponsored separation of forces agreement that, in part, solidified the US's commitment and role to not only the peace process but to a US-Egypt rapprochement.
+
+The US interested in gaining influence with Egypt and over the peace process in general, decided that offering economic and military aid was an important leveraging tool for getting Egypt to moderate demands at the peace talks. The Sinai I (The Sinai Separation of Forces Agreement) accord was signed on January 18, 1974. With the signing of the accord came 85 million dollars from the US to Egypt for the purpose of repairing and cleaning war damage around the Canal. On a June 1974 trip to Egypt to meet Sadat, US President Nixon promised a possible 250 million more in aid packages for the 1975 fiscal year.
+
+Eager to modernize both Egypt's economy and military, Sadat began, in April of 1974, initiating policy to open Egypt politically and economically to the west. 
+
+The Ford Administration continued this renewed engagement with Egypt. Kissinger, after a failed attempt in March of 1975 to deepen the Sinai I accord, was successful in leading Egypt and Israel toward signing the Sinai II accord in September 1975. In the aftermath of the Sinai II accord, the United States further increased aid to Egypt. Kissinger promised, in 1975, 750 million in grants and loans, as well as 200 million in food aid. The Ford Administrations also committed funds for infrastructure modernization and further reconstruction of cites around the Suez Canal damaged during the war. USAID also signed a deal to give nearly 100 million in industry development aid. The total aid package from the United States to Egypt in the mid-1970s was roughly a billion dollars a year. One of the Administration's goals was to increase aid to Egypt to roughly equivalent to that given to Israel as a way of solidifying Sadat's desire to work with the US government.
+
+19780917-20159999 0.5
+
+US-Egypt relations remained close during the Carter Administration. Although the peace process between Egypt and Israel began to stagnate between 1976 and 1979, the close relationship between President Carter and President Sadat convinced Sadat to continue on the path toward peace. In addition, the promise of further US economic aid was a strong motivation for Egypt as economic and infrastructure problems within the country continued to worsen. US President Jimmy Carter facilitated the signing of the Camp David Accords on September 17, 1978. US support was even more important after the signing of the Egyptian-Israeli Treaty on March 26, 1979 because the Arab world cut off all subsidies to Egypt in protest over the treaty. After the treaty was signed, the Carter Administration pledged 300 million in economic assistance and 1.5 billion in military aid to be distributed over three years. Increasingly, US aid was viewed as necessary for the survival of Sadat and, to some extent, Egypt's economic and military viability. The Egyptian people viewed participation in the peace process as a necessary condition for their economic prosperity. The failure to achieve that prosperity could be detrimental to both Sadat's hold on power and the peace process.
+
+In many ways, US aid to Egypt caused as many problems for the two countries as it solved. Sadat vocally and publicly espoused US aid as virtually guaranteeing prosperity for Egypt. However, due to bureaucratic red tape and problems within the Egyptian government, distribution and positive results from the aid were slow to come. In addition, the aid became increasingly viewed by the Egyptian people as benefiting the rich and upper middle class at the expense of the poor. From the US perspective, the election of Ronald Regan to the presidency saw the loss of a valuable supporter in Carter and the introduction of a US administration much less committed to the Middle East. Consequently, Sadat battled domestic opposition to what were viewed as his failed policies. The domestic problems culminated in the assassination of Sadat on October 6, 1981.
+
+Despite the problems that US aid to Egypt seemed to be causing, Sadat's replacement, Hosni Mubarak, came into office committed to maintaining the close relationship between the US and Egypt built by Sadat. Mubarak, however, was also committed to moderating the view that Egypt's interests were synonymous with the US's interests. In order to do this, Mubarak spoke out strongly against the Israeli invasion of Lebanon in June of 1982 and attempting to repair damaged relations with other Middle Eastern nations. Further, Mubarak refused to allow the United States to establish a permanent air force base at Ras Banas (although, the US was allowed to use an Egyptian base at Ras Banas for training purposes). He also demanded and received the power of greater control over the use of aid packages from the US. 
+
+The United States and Egypt maintained close relations throughout the 1980s and 1990s. The majority of the interactions during this time period revolved around two issues: the United State's role in the Middle East peace process and military/economic aid to Egypt from the United States. Egyptian President, Hosni Mubarak, made several requests throughout the 1980s for the United States to take a more prominent role in the Middle East peace process and, more specifically, to open a dialog with the PLO. 
+
+In 1987, the countries signed two aid agreements worth 125 and 385 million us dollars each. The first was an economic development package and the second was for development of energy production facilities and infrastructure. In 1988, the countries embarked on a join military tank production economic venture whereby parts for the tanks would be produced in both countries and assembled in a new plant in Egypt. Egypt saw this agreement as critical in development their emerging military goods industry. In 1990, the US signed a deal to provide Egypt with several hundred tanks as part of a military aid package. In 1990-91, Egypt was part of the US led coalition force that expelled Iraq from Kuwait. 
+
+In 1994 and 1995 there were two incidents that led to tense exchanges. In 1994, officials in the United States accused Egypt of providing Libya airplane parts and other goods in violation of the U.N. resolution leveling sanctions against Libya for the 1988 bombing of a US airline. Officials in the United States threatened cutting off some of the billions of dollars paid in aid to Egypt every year. Egyptian officials declared that the US had no right to interfere in what was domestic policy for the country and that Egypt had the right to do what was in its best interest. In 1995, Egypt threatened to no sign an indefinite extension of the Non-Proliferation Treaty unless Israel joined the agreement. Egypt had hoped to rally other members of the Arab League to join their protest but countries like Saudi Arabia and Kuwait refused to cross the United States, killing Egypt's effort.
+
+In 1996 and 1999, the two countries signed an economic aid package and a military modernization package respectively. In 2001, Egyptian President Hosni Mubarak began pushing the US for a free trade agreement; US officials, however, argued that more reforms needed to occur domestically before that was possible. From 2002 until the US invasion of Iraq, Egypt spoke often made press statements trying to pressure the US into playing a more active role in the Middle East peace process and to restrain Israel's violence against the Palestinians.
+
+Egypt tried to warn the US against invading Iraq in 2003 and has encouraged the US to make the occupation short. In addition, Egypt has stated they will not participate in any international security arrangement for Iraq unless the peacekeeping operation in conducted under a United Nations umbrella.
+
+In December 2004, the US, Israel, and Egypt signed the Qualified Industrial Zone agreement aimed at facilitating a closer and freer trade relationship between the three countries. In addition, in 2005 Egypt and the United States began serious negotiation towards an extensive free trade agreement. In the aftermath of the controversial US invasion of Iraq, both countries have made repeated statements reaffirming their close friendship and strategic relationship.
+
+Since the 1970s, the two countries have had a close relationship. The United States has provided billions of dollars in economic and military aid. There have also been extensive joint military training operations and several joint military operations. Despite this close relationship, even small issues between the two states seem to result in tense exchanges. This can be explained in part by distrust Egypt has regarding the US's intensions in the Middle East and the US's perceived bias in the Middle East peace process. The two have also disagreed over US policy toward Libya, Sudan, and Iraq. Egypt is also wary of too much US influence on domestic politics. The rivalry between the two countries ends in December of 1973 with the restoration of official diplomatic relations and subsequently moves into a transition period. That transition period lasts until September of 1978 when Egypt and Israel sign the Camp David Accords. With the signing of the Accords, US President Carter authorizes billions in aid for Egypt. From this time to the present, the relationship is best characterized by negative peace (.5).
+
+PS-SOURCES: 
+
+Associated Press February 20 1982, March 3, 1985, June 25 1987, November 1988, November 1990, December 1994, March 25 1995, November 13 1996, March 11, 1999, April 3, 2001, December 14, 2004; Burns (1985); Hahn (1991); Meyer (1980)
+
+MARITIME-MIDS: 
+
+MID200 not considered maritime MID 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID200
+ DYAD: USA EGYPT 2651
+ DATES: 19561106 19561106
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 6
+
+Discussion:
+MID200 is the Sinai War of 1956. It started on September 1, 1955 and lasted until November 6, 1956. This war involved Egypt and the USSR versus Israel, the UK, France, and the USA. The US and USSR were not directly involved in hostilities. The conflict was precipitated by Nasser's nationalization of the Suez Canal when he came to power in Egypt in 1952. Israel was concerned about Egypt and their lack of pursuit of any kind of long term peace pact. The UK and France secretly agreed with Israel to occupy the Canal Zone after an Israeli invasion of the Sinai. In late October 1956, the IDF invaded the Sinai and quickly controlled the entire peninsula. The British and French called for a halt to the fighting and requested permission to station troops in the Canal Zone to ensure continued shipping. Egypt refused and British and French forces destroyed the Egyptian Air Force with an aggressive air offensive. The US and USSR applied pressure to their allies to stop the fighting. Under pressure from the US, British, France, and Israeli forces declared a ceasefire on 6 November 1956. Only the heavy handed influence of the superpowers kept the fighting at bay here as tension between Israel and Egypt remained high. MID2843 also occurred in the context of the Sinai War. 

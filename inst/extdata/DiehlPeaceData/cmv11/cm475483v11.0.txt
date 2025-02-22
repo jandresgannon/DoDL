@@ -1,0 +1,106 @@
+FILE: cm475483v11.0.txt
+DYAD: NIGERIA - CHAD
+RIVALRY: RIV1084
+DISPUTE(S): MID3066 
+RIVALRY: RIV1085
+DISPUTE(S): MID4068 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180707
+PS-LAST-CHECKED: 20181001
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3066
+
+TERRMID: MID3066 3 -- not territory
+TERRMID-CER: MID3066 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3066 3 -- not third party link to territory 
+TERRLINK-CER: MID3066 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3066 3 -- not maritime 
+MARITMID-CER: MID3066 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3066 1 -- islands MID
+ISLMID-CER: MID3066 1 -- certain
+ISLMID-NOTES: MID3066 from Gibler 2018, Chad attempted to annex Nigerian islands that contained oil, leading to clashes here between the countries. Coded islands MID because this was connected to a dispute over islands. 
+
+CIVWARMID: MID3066 3 -- not civil war 
+CIVWARMID-CER: MID3066 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3066 3 -- not civil war link
+CIVWARLINK-CER: MID3066 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3066 3 -- not coup 
+COUPMID-CER: MID3066 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3066 3 -- not coup link
+COUPLINK-CER: MID3066 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4068
+
+TERRMID: MID4068 3 -- not territory
+TERRMID-CER: MID4068 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4068 3 -- not third party link to territory 
+TERRLINK-CER: MID4068 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4068 3 -- not maritime 
+MARITMID-CER: MID4068 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4068 1 -- islands MID
+ISLMID-CER: MID4068 1 -- certain
+ISLMID-NOTES: MID4068 from Gibler 2018, after negotiations over the disputed islands between the countries failed, Nigerian troops occupied the islands. Tensions soon de-escalated. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID4068 3 -- not civil war 
+CIVWARMID-CER: MID4068 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4068 3 -- not civil war link
+CIVWARLINK-CER: MID4068 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4068 3 -- not coup 
+COUPMID-CER: MID4068 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4068 3 -- not coup link
+COUPLINK-CER: MID4068 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4068
+rivalry=475483 nationa=NIGERIA nationb=CHAD MID4068 19950726-19950700 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Chad announced that soldiers from Niger are occupying islands on lake Chad, which are in Chad's territorial waters. Negotiations over ownership of the islands failed. First day of dispute was on 7/26/1995 and last day of dispute was on 7/00/1995.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Chadian police and Nigeria police clashed near the border on May 16, 1976, resulting in the deaths of three Nigerian policemen. Chad and Nigeria disputed the sovereignty *of several islands on Lake Chad in 1983. Chadian troops and Nigerian troops engaged in military hostilities beginning on April 18, 1983, resulting in the deaths of nine Nigerian soldiers and 75 Chadian soldiers. President Shehu Shagari of Nigeria and President Hissen Habre of Chad signed a ceasefire agreement in Abuja, Nigeria on July 2, 1983. The countries re-opened the border on May 15, 1984.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), May 1-31, 1976, May 1-31, 1983, June 1-30, 1983, July 1-31, 1983; Allock et al., 1992, 234; Brecher and Wilkenfeld, 1997, 466-467.
+
+NARRATIVE-CR:
+MID4068 Chad announced that soldiers from Niger are occupying islands on lake Chad, which are in Chad's territorial waters. Negotiations over ownership of the islands failed. 
+
+SOURCES-CR: COW narrative. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

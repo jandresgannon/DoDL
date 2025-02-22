@@ -1,0 +1,578 @@
+FILE: cm630700v11.0.txt
+DYAD: IRAN-AFGHANISTAN
+RIVALRY: RIV1198
+DISPUTE(S): MID3159 
+RIVALRY: RIV1199
+DISPUTE(S): MID3025 MID3017 MID3087 MID3059 MID4159 MID4160 MID4161 
+
+RIVNOTES: 
+
+PS: 19190808-19780518 0.5 19780519-19790319 -9 19790320-20011006 0.00 20011007-20209999 0.25
+
+PS-UPDATE2020: Remains a lesser rivalry through 2020 with the US backed Afghan government, but is likely to transition to negative peace after the Taliban assume power.
+
+PSNOTES: thompson rivalry cm630700 ,19960000 ,20010000 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3159
+
+TERRMID: MID3159 3 -- not territory
+TERRMID-CER: MID3159 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3159 3 -- not third party link to territory 
+TERRLINK-CER: MID3159 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3159 3 -- not maritime 
+MARITMID-CER: MID3159 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3159 3 -- not islands 
+ISLMID-CER: MID3159 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3159 3 -- not civil war 
+CIVWARMID-CER: MID3159 1 -- certain
+CIVWARMID-NOTES: MID3159 from Gibler 2018, in 1934 Persia claimed that Afghan raiders (bandits) led by Afghan army officers crossed into Persia and captured 2,000 Persians. From NYT 12/16/1934, there is no indication that the bandits were rebels, and the Persian government did not mention any rebels in their public statements. Coded not civil war because this was connected to banditry, not militarized rebels. 
+
+CIVWARLINK: MID3159 3 -- not civil war link
+CIVWARLINK-CER: MID3159 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3159 3 -- not coup 
+COUPMID-CER: MID3159 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3159 3 -- not coup link
+COUPLINK-CER: MID3159 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3025
+
+TERRMID: MID3025 3 -- not territory
+TERRMID-CER: MID3025 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3025 3 -- not third party link to territory 
+TERRLINK-CER: MID3025 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3025 3 -- not maritime 
+MARITMID-CER: MID3025 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3025 3 -- not islands 
+ISLMID-CER: MID3025 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3025 1 -- civil war MID
+CIVWARMID-CER: MID3025 1 -- certain
+CIVWARMID-NOTES: MID3025 from Gibler 2018, in 1979 Afghanistan accused Iran of disguising troops as refugees and attempting to foment civil unrest in Afghanistan. Afghanistan later accused Iran and Pakistan of supporting militarized rebels within Afghan borders. A minor border clash occurred after Afghanistan protested that Iran was putting troops at the border. Coded civil war MID because this was connected to militarized rebels in Afghanistan. 
+
+CIVWARLINK: MID3025 3 -- not civil war link
+CIVWARLINK-CER: MID3025 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3025 3 -- not coup 
+COUPMID-CER: MID3025 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3025 3 -- not coup link
+COUPLINK-CER: MID3025 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3017 
+
+TERRMID: MID3017 3 -- not territory 
+TERRMID-CER: MID3017 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3017 3 -- not third party link to territory
+TERRLINK-CER: MID3017 1 -- certain 
+TERRLINK-NOTES: MID3017 from Gibler 2018, the Soviets were occupying Afghanistan and moved troops to the Iranian border. Iran feared an imminent invasion and issued an ultimatum for the Soviets to leave Afghanistan. Coded not third party link to territory because although this was connected to Soviet Union's occupation of Afghanistan, there was no active territorial dispute between USSR-AFG, per Huth and Allee (2002). 
+
+MARITMID: MID3017 3 -- not maritime 
+MARITMID-CER: MID3017 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3017 3 -- not islands 
+ISLMID-CER: MID3017 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3017 3 -- not civil war 
+CIVWARMID-CER: MID3017 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3017 3 -- not civil war link 
+CIVWARLINK-CER: MID3017 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3017 3 -- not coup 
+COUPMID-CER: MID3017 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3017 3 -- not coup link
+COUPLINK-CER: MID3017 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3087
+
+TERRMID: MID3087 3 -- not territory
+TERRMID-CER: MID3087 3 -- uncertain 
+TERRMID-NOTES: MID3087 from Gibler, Miller, and Little 2016, Pakistan claimed that Soviet and Afghan police forces destroyed an Iranian border outpost. However, all parties involved denied this. Coded not territory because they were not disputing a boundary, and coded uncertain because GML recommend the case be dropped, since all parties deny Pakistan's accusation. 
+
+TERRLINK: MID3087 3 -- not third party link to territory 
+TERRLINK-CER: MID3087 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3087 3 -- not maritime 
+MARITMID-CER: MID3087 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3087 3 -- not islands 
+ISLMID-CER: MID3087 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3087 3 -- not civil war 
+CIVWARMID-CER: MID3087 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3087 3 -- not civil war link
+CIVWARLINK-CER: MID3087 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3087 3 -- not coup 
+COUPMID-CER: MID3087 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3087 3 -- not coup link
+COUPLINK-CER: MID3087 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3059
+
+TERRMID: MID3059 3 -- not territory
+TERRMID-CER: MID3059 1 -- certain 
+TERRMID-NOTES: MID3059 from Gibler 2018, in 1983 Afganistan protested airspace violations by Iranian helicopters. Coded not territory because they were not disputing a boundary. 
+
+TERRLINK: MID3059 3 -- not third party link to territory 
+TERRLINK-CER: MID3059 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3059 3 -- not maritime 
+MARITMID-CER: MID3059 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3059 3 -- not islands 
+ISLMID-CER: MID3059 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3059 3 -- not civil war 
+CIVWARMID-CER: MID3059 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3059 3 -- not civil war link
+CIVWARLINK-CER: MID3059 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3059 3 -- not coup 
+COUPMID-CER: MID3059 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3059 3 -- not coup link
+COUPLINK-CER: MID3059 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4578
+
+TERRMID: MID4578 3 -- not territory
+TERRMID-CER: MID4578 3 -- uncertain 
+TERRMID-NOTES: MID4578 from cm narrative, The border between Iran and Afghanistan in the Nimroz region developed into a source of conflict for the two countries. Iranian and Afghani border forces briefly clashed over the border, with each side suffering one fatality. Later, Iranian troops shot and killed several Afghani citizens suspected of attempting to illegally cross the border. First day of dispute was on 2/14/2007 and last day of dispute was on 9/8/2007. Coded not territory because although the border at Nimroz was a site of conflict, it was not disputed, per Huth and Allee (2002) and Owsiak (2012). Coded uncertain because it is not clear why the border region developed conflict at this time. 
+
+TERRLINK: MID4578 3 -- not third party link to territory 
+TERRLINK-CER: MID4578 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4578 3 -- not maritime 
+MARITMID-CER: MID4578 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4578 3 -- not islands 
+ISLMID-CER: MID4578 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4578 3 -- not civil war 
+CIVWARMID-CER: MID4578 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4578 3 -- not civil war link
+CIVWARLINK-CER: MID4578 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4578 3 -- not coup 
+COUPMID-CER: MID4578 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4578 3 -- not coup link
+COUPLINK-CER: MID4578 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4583
+
+TERRMID: MID4583 3 -- not territory
+TERRMID-CER: MID4583 3 -- uncertain 
+TERRMID-NOTES: MID4583 from cm narrative, Iranian border troops killed a dozen Afghan civilians on the border. In another, Iranian and Afghan troops clashed near the border after Iranian troops crossed into Afghanistan and claimed some Afghan farmland as belonging to Iran. First day of dispute was on 4/9/2008 and last day of dispute was on 4/20/2008. Coded not territory because although the border at Nimroz was a site of conflict, it was not disputed, per Huth and Allee (2002) and Owsiak (2012). Coded uncertain because it is not clear why the border region developed conflict at this time. 
+
+TERRLINK: MID4583 3 -- not third party link to territory 
+TERRLINK-CER: MID4583 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4583 3 -- not maritime 
+MARITMID-CER: MID4583 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4583 3 -- not islands 
+ISLMID-CER: MID4583 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4583 3 -- not civil war 
+CIVWARMID-CER: MID4583 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4583 3 -- not civil war link
+CIVWARLINK-CER: MID4583 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4583 3 -- not coup 
+COUPMID-CER: MID4583 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4583 3 -- not coup link
+COUPLINK-CER: MID4583 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4594
+
+TERRMID: MID4594 3 -- not territory
+TERRMID-CER: MID4594 3 -- uncertain 
+TERRMID-NOTES: MID4594 from cm narrative, Iranian soldiers repeatedly crossed over into the Nimroz region of Afghanistan. After being warned by Afghani soldiers to leave the area, the two Iranian soldiers began firing their weapons. When they fired on Afghanistan soldiers, the two sides exchanged fire, wherein one of the Iranian soldiers was killed and one was captured. First day of dispute was on 4/23/2009 and last day of dispute was on 4/23/2009. Coded not territory because although the border at Nimroz was a site of conflict, it was not disputed, per Huth and Allee (2002) and Owsiak (2012). Coded uncertain because it is not clear why the border region developed conflict at this time. 
+
+TERRLINK: MID4594 3 -- not third party link to territory 
+TERRLINK-CER: MID4594 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4594 3 -- not maritime 
+MARITMID-CER: MID4594 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4594 3 -- not islands 
+ISLMID-CER: MID4594 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4594 3 -- not civil war 
+CIVWARMID-CER: MID4594 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4594 3 -- not civil war link
+CIVWARLINK-CER: MID4594 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4594 3 -- not coup 
+COUPMID-CER: MID4594 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4594 3 -- not coup link
+COUPLINK-CER: MID4594 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4599
+
+TERRMID: MID4599 3 -- not territory
+TERRMID-CER: MID4599 3 -- uncertain 
+TERRMID-NOTES: MID4599 from cm narrative and Gibler 2018, in 2010 Iran detained several Afghan border guards that wandered into Iran, and Afghanistan later arrested several Iranian nationals and border guards. Coded not territory because although the border at Nimroz was a site of conflict, it was not disputed, per Huth and Allee (2002) and Owsiak (2012). Coded uncertain because it is not clear why the border region developed conflict at this time. 
+
+TERRLINK: MID4599 3 -- not third party link to territory 
+TERRLINK-CER: MID4599 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4599 3 -- not maritime 
+MARITMID-CER: MID4599 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4599 3 -- not islands 
+ISLMID-CER: MID4599 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4599 3 -- not civil war 
+CIVWARMID-CER: MID4599 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4599 3 -- not civil war link
+CIVWARLINK-CER: MID4599 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4599 3 -- not coup 
+COUPMID-CER: MID4599 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4599 3 -- not coup link
+COUPLINK-CER: MID4599 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4159
+
+TERRMID: MID4159 3 -- not territory
+TERRMID-CER: MID4159 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4159 3 -- not third party link to territory 
+TERRLINK-CER: MID4159 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4159 3 -- not maritime 
+MARITMID-CER: MID4159 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4159 3 -- not islands 
+ISLMID-CER: MID4159 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4159 1 -- civil war MID
+CIVWARMID-CER: MID4159 1 -- certain
+CIVWARMID-NOTES: MID4159 from cm narrative, This dispute consists of one incident in which Iran increased its border forces along the Afghan border and closed the border. The border closure was due to concern about the influx of Afghan refugees. Iran is coded as the revisionist state because its actions are aimed at checking the flow of refugees from Afghanistan by tightening control over the border. First and last day of dispute was on 9/5/1995. Coded civil war MID because this was connected to refugees fleeing the civil war in Afghanistan. 
+
+CIVWARLINK: MID4159 3 -- not civil war link
+CIVWARLINK-CER: MID4159 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4159 3 -- not coup 
+COUPMID-CER: MID4159 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4159 3 -- not coup link
+COUPLINK-CER: MID4159 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4160
+
+TERRMID: MID4160 3 -- not territory
+TERRMID-CER: MID4160 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4160 3 -- not third party link to territory 
+TERRLINK-CER: MID4160 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4160 3 -- not maritime 
+MARITMID-CER: MID4160 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4160 3 -- not islands 
+ISLMID-CER: MID4160 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4160 1 -- civil war MID
+CIVWARMID-CER: MID4160 1 -- certain
+CIVWARMID-NOTES: MID4160 from cm narrative and Gibler 2018, in 1998 Taliban forces seized the Iranian embassy in Afghanistan and killed several diplomats. Afghanistan and Iran amassed troops on the border as tensions increased. Afghanistan also foritfied its border. Coded civil war MID because this was connected to the ongoing civil war in Afghanistan. 
+
+CIVWARLINK: MID4160 3 -- not civil war link
+CIVWARLINK-CER: MID4160 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4160 3 -- not coup 
+COUPMID-CER: MID4160 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4160 3 -- not coup link
+COUPLINK-CER: MID4160 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4161
+
+TERRMID: MID4161 3 -- not territory
+TERRMID-CER: MID4161 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4161 3 -- not third party link to territory 
+TERRLINK-CER: MID4161 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4161 3 -- not maritime 
+MARITMID-CER: MID4161 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4161 3 -- not islands 
+ISLMID-CER: MID4161 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4161 1 -- civil war MID
+CIVWARMID-CER: MID4161 1 -- certain
+CIVWARMID-NOTES: MID4161 from cm narrative, This dispute consisted of one incident in which Iranian forces shelled Afghan forces as the Iranian-backed Hizbe Wahdat Afghan group suffered defeat to Taliban forces. Reports indicate that during the attacks Iranian forces crossed into Afghanistan. Taliban forces did not retaliate against the attacks but did issue a protest. First and last day of dispute was on 5/16/1999. Coded civil war MID because this was connected to militarized rebel activity in Afghanistan. 
+
+CIVWARLINK: MID4161 3 -- not civil war link
+CIVWARLINK-CER: MID4161 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4161 3 -- not coup 
+COUPMID-CER: MID4161 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4161 3 -- not coup link
+COUPLINK-CER: MID4161 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4578
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4578 20070214-20070908 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS
+fatalpb=1 lhostb=USE OF FORCE 
+
+The border between Iran and Afghanistan in the Nimroz region developed into a source of conflict for the two countries. Iranian and Afghani border forces briefly clashed over the border, with each side suffering one fatality. Later, Iranian troops shot and killed several Afghani citizens suspected of attempting to illegally cross the border. First day of dispute was on 2/14/2007 and last day of dispute was on 9/8/2007.
+
+MID4583
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4583 20080409-20080420 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+This MID is characterized by a few localized hostilities. In one incident, Iranian border troops killed a dozen Afghan civilians on the border. In another, Iranian and Afghan troops clashed near the border after Iranian troops crossed into Afghanistan and claimed some Afghan farmland as belonging to Iran. First day of dispute was on 4/9/2008 and last day of dispute was on 4/20/2008.
+
+MID4594
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4594 20090423-20090423 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=USE OF FORCE 
+
+Two Iranian soldiers repeatedly crossed over into the Nimroz region of Afghanistan After being warned by Afghani soldiers to leave the area, the two Iranian soldiers began firing their weapons. When they fired on Afghanistan soldiers, the two sides exchanged fire, wherein one of the Iranian soldiers was killed and one was captured. First day of dispute was on 4/23/2009 and last day of dispute was on 4/23/2009.
+
+MID4599
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4599 20101012-20101203 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+Iran detained 7 Afghan border troops after they wandered into Iran. These soldiers were eventually released. Later, Afghan soldiers detained 3 Iranian nationals, including 2 border guards. It is unclear if these detainees were ever released. First day of dispute was on 10/12/2010 and last day of dispute was on 12/3/2010.
+
+MID3 1993-2001:
+
+MID4159
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4159 19950905-19950905 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+This dispute consists of one incident in which Iran increased its border forces along the Afghan border and closed the border. The border closure was due to concern about the influx of Afghan refugees. Iran is coded as the revisionist state because its actions are aimed at checking the flow of refugees from Afghanistan by tightening control over the border. First and last day of dispute was on 9/5/1995.
+
+MID4160
+rivalry=630700 nationa=AFGHANISTAN nationb=IRAN MID4160 19980800-19981100 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+USE OF FORCE 
+
+This dispute consisted of 9 incidents between Iran and Afghanistan. The dispute was touched off by the deaths of Iranian diplomats in Afghanistan. On 8/8/98, following the capture of Mazar-e Sharif, Taliban forces forced their way into the Iranian consulate and killed 8 Iranian diplomats. Following Iranian protests, Afghanistan began massing troops along the border later in August 1998. In response, Iran deployed 200,000 troops to the Iran-Afghanistan border as a show of force on 9/1/98. These troops remained in the area on alert. Afghanistan responded to the Iranian action by fortifying its border and threatening to target Iranian cities if Iran attacks. Iran violated the Afghan border on 10/2/98, increasing the level of hostility between the two sides. Hostility further increased on 10/8/93 when Taliban forces attacked an Iranian border post and a three-hour clash ensued. Iranian forces claimed to have destroyed 3 Afghan border posts and inflicted "heavy" casualties on Taliban forces. This dispute does not appear to have a clear revisionist actor. The Taliban is acting to consolidate its hold in northern Afghanistan and Iran's actions are in response to the death of her diplomats. First day of dispute was on 8/00/1998 and last day of dispute was on 11/00/1998.
+
+MID4161
+rivalry=630700 nationa=IRAN nationb=AFGHANISTAN MID4161 19990516-19990516 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=.
+lhostb=NO MILITARIZED ACTION 
+
+This dispute consisted of one incident in which Iranian forces shelled Afghan forces as the Iranian-backed Hizbe Wahdat Afghan group suffered defeat to Taliban forces. Reports indicate that during the attacks Iranian forces crossed into Afghanistan. Taliban forces did not retaliate against the attacks but did issue a protest. This dispute consisted of one incident in which Iranian forces shelled Afghan forces as the Iranian-backed Hizbe Wahdat Afghan group suffered defeat to Taliban forces. Reports indicate that during the attacks Iranian forces crossed into Afghanistan. Taliban forces did not retaliate against the attacks but did issue a protest. First and last day of dispute was on 5/16/1999.
+
+NARRATIVE-CM:
+Afghanistan troops suppressed a rebellion in Herat on March 12-22, 1979, resulting in the deaths of some 5,000 individuals. Afghanistan accused Iran of providing support for the rebellion, but the Iranian government denied the accusation on March 19, 1979. Afghanistan expelled the Iranian consul-general in Herat on March 20, 1979, and Iran retaliated by expelling the first secretary of the Afghan embassy in Tehran on March 22, 1979. Afghan troops attacked rebel bases in Iran on April 5, 1982, resulting in the deaths of some 50 rebels. The Taliban government of Afghanistan accused Iran of supporting rebel groups in September 1997. On August 9, 1998, Iran accused the Taliban of seizing ten Iranian diplomats and a journalist from Iran's consulate-general in Mazar-I-Sharif after the rebel stronghold was captured by Afghan government troops. *Some 70,000 Iranian troops began training maneuvers near the Afghan border on September 1, 1998. Afghanistan announced on September 10, 1998 that it had found the bodies of nine Iranian diplomats. Afghan troops and Iranian troops clashed on October 8, 1998. *The *International Committee of the Red Cross* (ICRC) repatriated the bodies of the nine Iranian diplomats from Afghanistan to Iran from September 14 to October 11, 1998. The ICRC repatriated 36 Iranian prisoners from Afghanistan to Iran on Octobner 12-18, 1998. The *United Nations *(UN) Security Council condemned the Taliban on December 8, 1998 for the murder of the Iranian diplomats. On March 4, 1996, Tehran was hosting the Afghan president, esteemed Prof Borhanoddin Rabbani. The visit of the president of Afghanistan to Tehran, which is taking place at the invitation of the president of the Islamic Republic of Iran, is an important step towards the restoration of peace in Afghanistan. The government of Iran condemned Pakistan's interference after its intervention in the southwestern zone of Afghanistan and has called for the cessation of interference in the internal affairs of Afghanistan. When Benazir Bhutto, the prime minister of Pakistan, visited Iran a few months ago, the government of Iran presented to her evidence that showed Pakistan had interfered in the internal affairs of Afghanistan. The Islamic Republic of Iran and the Islamic State of Afghanistan have similar views as regards the current problems of our country, that is, the cessation of foreign interference in Afghanistan's internal affairs. Since the victory of the Islamic revolution in Afghanistan, Tehran has not closed down its embassy in Kabul and its diplomatic representative in Kabul has continued to discharge his duties during the harshest times. A glance at events in Afghanistan shows that Iran has always wanted to consolidate its relations with the Muslims of Afghanistan. The efforts of the Islamic Republic of Iran to end fighting in Afghanistan, from the Tehran conference to mediation between Afghanistan and the government of Benazir Bhutto, are clear to the people of Afghanistan. This shows the selfless efforts of that country to ensure peace in Afghanistan. Therefore, the visit of the president of Afghanistan to Iran is in the interests of peace in Afghanistan and the reduction of tension in the region. 
+
+An Afghan opposition alliance on March 4, 1996 accused Iran of interfering in the internal affairs of Afghanistan by inviting controversial President Burhanuddin Rabbani on a state visit. Rabbani reached Teheran reportedly at the start of a tour of Iran, Uzbekistan and Turkmenistan, neighors of Afghanistan. Leaders of the four-party Supreme Corrdination Council for Islamic Revolution in Afghanistan (SCCIRA) meeting in Peshawar charged that by inviting Rabbani Iran extended legitimacy to an "unlawful" regime. They urged Iran against "extending support to any particular group" in Afghanistan. Meanwhile, in Islamabad visiting Iranian Deputy Foreign Minister Morteza Sarmadi said Pakistan might have "a priority" for some Afghan groups, and added: "We may also think that way". Iran and Pakistan "may not have completely the same position but our objective is same-to convince all Afghan groups to sit together and work for the establishment of peace and security in Afghanistan", Sarmadi said. In another development, the SCCIRA leaders ordered a ceasefire between its two members, the Hizbe Islami group led by Gulbuddin Hekmatyar and the Uzbek militia of General Rashid Dostum, in northern Afghanistan. A Hizbe spokesman claimed that fighting had since stopped.
+
+On September 8, 1997, the Afghan leader Mullah Mohammad Omar accused Iran of taking sides in the civil war in Afghanistan and offered talks to settle differences between his Taliban movement and Iran. Omar, who heads the Taliban movement which controls two-thirds of Afghanistan, told the Afghan Islamic Press (AIP) agency Monday that "misgivings" should not be allowed to spoil the age-old Islamic and cultural ties between the peoples of the two neighboring countries. "I advise the new Iranian government to talk with our (Taliban) government which controls 80 per cent of Afghanistan. We want good relations with Iran," he said.
+
+Shiite Iran has been wary of the Taliban since the Sunni Islamic movement rose in southern Afghanistan in 1994 and captured much of the war-torn country, including the provinces bordering Iran. Iran has supported the anti-Taliban forces controlling northern Afghanistan with whom it has ethnic and linguistic links. Omar told AIP that the Taliban would not negotiate with General Abdul Malik unless the new northern Uzbek leader freed the Taliban emissaries he had seized when their alliance fell through in May. However the Taliban were ready to talk with other opponents, like the deposed president Burhanuddin Rabbani and his military aide Ahmad Shah Masood whom the Taliban had driven out of capital Kabul a year ago, he said. Omar carries the Islamic title of Amir al-Momineen for head of state but lives the life of a recluse in Kandahar, the headquarters of his puritan Taliban movement and militia in southern Afghanistan.
+
+Iran regretted on May 23, 1998, the renewed escalation of civil war in Afghanistan, the official Iranian news agency IRNA reported. "Iran regrets the continuation of war and bloodshed in Afghanistan and together with the international community is concerned about chaos, human rights breaches, massacres, ethnic cleansing and production as well as trafficking of narcotics in that country," Foreign Ministry Spokesman Hamid-Reza Assefi told IRNA. The spokesman further rejected once again claims by the ultra-Islamic Taliban group that Iran is interfering in Afghanistan in favor of anti-Taliban groups and said that it has always invited the Afghan warring factions to hold talks in order to settle their dispute and establish a broad-based government consisting of all ethnic and religious groups. "Raising such baseless allegations is aimed at diverting the public opinion and justify the continuation of the current crisis in Afghanistan which can however in no way help to solve the crisis," Assefi said. Iran denied last week reports from Pakistan that Iranian border forces shelled Afghanistan's Farah And Nimroz provinces as "a bunch of lies" and further denied that Iranians crossed into Afghan territory. Iran supports opposition groups loyal to ousted President Burhanuddin Rabbani and former Defence Minister Ahmad Shah Massoud and has so far termed the Taliban as "un-Islamic". The takeover of the Iranian consulate in the northern Afghan city of Mazar-e-Sharif by the Taliban last August, the killing of nine Iranian diplomats and the kidnapping of more than 70 hostages almost led to a war between the two neighboring Islamic states. Tensions were defused after United Nations mediation and the return of the corpses and release of the hostages. 
+
+Iran's President Mohammad Khatami termed the situation in Afghanistan as a danger to the region, Iranian television reported on July 6, 1998. "The situation in Afghanistan is deplorable and is posing danger to regional security and tranquillity," Khatami told visiting Turkmen President Saparmurat Niyazov. Khatami called on a regional cooperation to bring the Afghan dilemma to an end. Iran and Pakistan are the two countries directly involved in the dilemma in neighboring Afghanistan and officials from both countries also met last week with the two warring sides inside Afghanistan, but there are no reports yet on the outcome of the talks. Teheran and Islamabad are also scheduled to hold relevant talks this week in Teheran. Iran supports the ousted President Burhaneddin Rabbani while Pakistan is close to the ruling Taliban militias. The official Iranian news agency IRNA reported Monday that Iran's revolutionary guards opened a new air base in the north-eastern Khorassan province for what it termed "bringing greater security to the zones close to Afghanistan". Iran blames Taliban of being involved in drug trafficking via Iranian soil. More than 200 Iranian police forces were killed and 500 wounded while confronting drug trafficking via Iran to Europe. Iranian police seized 195 tons of drugs in 1997 at the joint border line-the Golden Crescent-with Afghanistan and Pakistan.
+
+In the wake of the latest outbreak of fierce military clashes in northern Afghanistan, Iran's special envoy for Afghan affairs has called on August 3, 1998, for a halt to the bloodshed in Afghanistan and emphasized that the only way to resolve the crisis in Afghanistan is through collective agreement and the establishment of an enduring Islamic system of government which would pave the way for the establishment of peace and tranquility. Iranian Foreign minister Kamal Kharrazi said on Iranian television on August 8, 1998, that Iran will not allow insecurity along its borders with Afghanistan and warned those who might destabilize the area. "Iran will neither allow insecurity alongside its borders with Afghanistan nor will it allow aliens to make the pleasure of benefit from this insecurity," the Iranian foreign minister said. The warning comes after Afghanistan's Islamic Taliban militia captured Mazar-e-Sharif, the last city held by its opponents in northern Afghanistan. Mazar-e-Sharif was the headquarters of the three-party Northern Alliance opposing the purist Taliban government. Iran has several times blamed the United States and Pakistan for supporting the Taliban movement in Afghanistan, which Teheran is opposed to. "No country should interfere in the internal affairs of Afghanistan as such interference would only increase bloodshed, poverty and involvement in drug trafficking," Kharrazi said. Iran blames Afghanistan in general and Taliban in particular for involvement in drug trafficking and using Iran as a transit route for smuggling the drugs into European markets via Turkey. Iran supports the opposition forces of ousted president Burhaneddin Rabbani and his defence minister Ahmad shah Massoud. 
+
+Afghanistan's Taliban religious army advanced through opposition territory on September 14, 1998, while reinforcing its western borders with Iran where 200,000 Iranian soldiers were conducting a massive military exercise. There also were reports of as many as 10,000 Taliban soldiers being sent to Afghanistan's western Herat province which borders Iran. The Taliban and its northern-based enemies are fighting on several fronts. The Taliban army, which has vowed to restore peace in the war-ravaged country and transform Afghanistan into a purist Islamic state, has made significant progress in recent weeks. Earlier the Taliban-run Radio Shariat warned Iran not to send its troops into Afghanistan, saying ''we have enough soldiers to resist any attack.' Relations between Afghanistan's Taliban army and Tehran-which have never been smooth-deteriorated last month following the killing of nine Iranian diplomats by Taliban soldiers. The Taliban authorities have offered to let Iran collect the bodies of the slain diplomats, but have refused to apologize or hand over any suspects they may arrest in connection with the killings. The diplomats were killed in August when Taliban soldiers overran the key opposition stronghold of Mazar-e-Sharif in northern Afghanistan. The Taliban has blamed renegade soldiers for the killings.
+
+Iran's diplomatic success and the positive outcome of the 6+2 talks in New York have eased military tension over Afghanistan, Defence Minister Admiral Ali Shamkhani said on September 26, 1998. He told reporters in Teheran: "The positive outcome of the 6+2 talks following Iran's success in its diplomatic efforts have definitely had a positive impact on military tensions over Afghanistan. "The international standpoint towards the Taliban is now either equal or very close to (that of) Iran and that would even justify a possible (Iranian) military operation against Afghanistan." Shamkhani was referring to this week's 6+2 meeting attended by the six neighboring countries to Afghanistan-China, Iran, Pakistan, Tajikistan, Turkmenistan and Uzbekistan-plus Russia and the United States. The meeting condemned the recent killing of nine Iranian diplomats, and called on the Taliban to stop the civil war and give in to formation of a broad-based government. "The 6+2 meeting even led to new diplomatic developments such as the recall of the Saudi Arabian charge d'affaires from Kabul," he said. "But we still want the killers of our (nine) diplomats to be identified and punished, and are also still worried about the genocide in Afghanistan," he said. Shamkhani confirmed that more than 270,000 Iranian troops will gather for the Zolfaqar-2 manouvers to be launched within the next week along the 850-kilometre eastern border with Afghanistan. "But we are not the Iran of 1979 anymore-we consider now all necessary angles before acting," Shamkhani said. Shamkhani also referred to "some suspicious elements" in Afghanistan related to Islamabad and previously involved in killing of Iranian nationals in Pakistan. But he stopped short of naming the Sunni extremist group Sipah Sahabe of Pakistan, which has claimed responsibility for killing several Iranians in Pakistan and is accused by certain domestic sources of being involved in killing the Iranian diplomats. The minister further referred to the new Iranian medium-range missile Shahab-3, and gave an assurance that it was for defensive purposes only. "It will never ever be used against any Islamic country, including Afghanistan," he said. Iran's President Mohammad Khatami Friday again proclaimed that Iran would continue its detente policy towards Afghanistan, but warned if peaceful channels failed to work, Iran would have the right to use force "for removing tension-makers from the regional scene".
+
+Iran is not seeking ties with the ruling Taliban in Afghanistan, Foreign Ministry Spokesman Hamid-Reza Assefi told the official Iranian news agency IRNA on January 19, 2000. "The issue of the establishment of relations with the Taliban group is not included in the agenda of the foreign affairs ministry," Assefi said, referring to local reports that Iran will resume diplomatic ties with the ultra-Islamic Taliban if a broadly-based government is installed in Kabul. The spokesman stressed that there will neither be changes in Iran's policy towards the Taliban nor a reopening of Iran's consulate general in the western Afghan city of Herat, despite the resumption of border trade between the two neighboring states. Iran opened a border point with Afghanistan last November to enable trade, stressing that the move did not pose a violation of U.N. Security Council sanctions against Afghanistan. Iran supports the opposition loyal to ousted president Burhanuddin Rabbani and former Defense Minister Ahmad Shah Massoud and has called the Taliban "un-Islamic". Iran and the Taliban almost started a war after the Taliban stormed the Iranian consulate in the northern afghan city of Mazar-e-Sharif in August 1998 killing nine diplomats. Tensions were defused through mediation of the United Nations, but Teheran still demands that the Taliban identify and punish the killers. 
+
+SOURCES-CM: 
+*Associated Press *(AP), September 5, 1998; *International Committee of the Red Cross *(ICRC) press release, September 14, 1998, October 21, 1998; *Keesing*, June 1, 1979, June 18, 1982; *Reuters*, October 8, 1998, October 9, 1998; *UN Chronicle,* 1998 (no.4).
+
+NARRATIVE-CR:
+Afghanistan's relations with Iran have fluctuated over the years, with periodic disputes over the water rights of the Helmand River as the main issue of contention. There were also border conflicts during the period of Soviet occupation. These conflicts were the result of Iranian support for the Shia rebels fighting against the Soviet regime. Iran also was opposed to and had several conflicts with the Taliban. This period of the conflict flared up when Taliban fighters attacked an Iranian mission in Afghanistan, detained dozens of Iranian diplomats and killed several. 
+
+MID3159 is a one day incident that occurred in 1934. Here the Afghanis `used force' against Iran. I was not able to locate information regarding this mid. 
+
+MID3025 occurred from March of 1979 until June of 1979. Here a rebel group within Afghanistan fought against the Taraki regime. The Taraki regime was a pro Soviet stooge government. Iranian troops, posing as refugees, crossed the border into Afghanistan and assisted the Afghani rebels in and near Herat. The Taraki regime attempted to assert a more secular and Soviet style of governing the country since his takeover in 1978. He used a sledgehammer approach to forcibly implement land redistribution, to abolish bride buying, and other measures that were not popularly supported. The policies and Tarki's approach generated significant retaliation from the rebels. Iran, who was in the midst of the Islamic Revolution, supported the rebels and their 
+
+Following the Soviet invasion, which Iran opposed, relations deteriorated. The Iranian consulate in Herat closed, as did the Afghan consulate in Mashad. The Iranians complained of periodic border violations following the Soviet invasion. In 1985, they urged feuding Afghan Shi'a resistance groups to unite to oppose the Soviets. Iran supported the cause of the Afghan resistance and provided limited financial and military assistance to rebel leaders who pledged loyalty to the Iranian vision of Islamic revolution. Iran provides refuge to about 2 million Afghans, though it has refused to accept more in recent years and, indeed, tried to force many to repatriate.
+
+MID3017 occurred from January until March of 1980. Here the USSR mobilized and deployed a large amount of troops into Afghanistan. This deployment alarmed Iran. The Iranians deployed forces along the border with Afghanistan in response. 
+
+MID3087 occurred on April 5, 1982. Here the Soviet and the pro-Soviet Afghan regime attacked an Iranian border post. The Soviets and Afghanis were also attacking Afghan rebels in the attack. The Afghan rebels sought refuge across the border in Iran. 
+
+MID3059 occurred on October 9 and 10, 1983. Iranian helicopter gunships provided air cover for Afghani rebels within Afghanistan. 
+
+Following the emergence of the Taliban and their harsh treatment of Afghanistan's Shi'a minority, Iran stepped up assistance to the Northern Alliance. Relations with the Taliban deteriorated further in 1998 after Taliban forces seized the Iranian consulate in Mazar-e-Sharif and executed Iranian diplomats. 
+
+MID4159 occurred on September 5, 1995. At this point, the Taliban gained control of Afghanistan. Iran was hostile towards the Taliban as it was an anti-Shiite group. The Iranians closed their border to Afghanistan which was a serious issue especially because there were a significant number of Afghani refugees still in Iran at the time. 
+
+Tensions between Afghanistan and Iran were heighted between August and November of 1998 that stemmed from the Taliban held Iranians it accused of arming rebels opposed to the Taliban. Iran conducted maneuvers on the border with a large contingent of troops (MID4160). Taliban fighters killed eight Iranian diplomats which then provoked a considerable row between the two countries. Iran amassed 250,000 troops on its border and threatened the Taliban with war over the incident. 
+
+MID4161 occurred on May 16,1999. Here the Iranian Army shelled border positions of the Taliban. The effort here was to support rebels fighting in opposition to the Taliban. 
+
+The US war against the Taliban that began in 2001 brought the regime in Afghanistan to an end and for now it seems has reduced the tension between the two countries. There have been no reports of violence between the two regimes since the fall of the Taliban. Iran had a mixed reaction to the military operations against the Taliban. While they supported the end of the regime mixed messages. Foreign ministry diplomats from Iran argued that the September 11th terrorists should be brought to justice, however they were not in support of the attacks and open US hostility towards the Taliban.
+
+SOURCES-CR:
+Agence France Presse 9/5/1995; Associated Press 3/20/1979, 6/16/1979; 4/8/1982
+BBC 10/14/1983; Blood, 1997; Metz, 1987; New York Times 9/3/1998; 10/13/1998; 10/9/2001; Deutsche Presse-Agentur May 18, 1999
+
+PS-NARRATIVE: 
+
+19459999-19780518 0.5 
+
+Afghanistan became independent on August 19, 1919. On March 26, 1950, Afghanistan's ruler, Shah Mohammed Zaher, accompanied by his son, Prince Nader Jan, made an official visit to Iran's Shah. On September 28, 1958, the Shah of Iran, Reza Pahlavi said that it seriously considers to suggest the formation of an Aryan confederation together with Afghanistan, Pakistan, and Turkey. The Shah said that this will be a defensive pact aimed at defending their territories. Iran had to choose one of the sides between US and Soviet Union and it chooses US. On April 20, 1962, Afghanistan denied access to the trade routes through Pakistan signed a five years transit agreement with Iran. On July 26, 1962, the Shah of Iran played the role of mediator in the ongoing trade conflict between Afghanistan and Pakistan. On February 3, 1975, Iran gave 2 billion USD of financial aid to Afghanistan's new ruler, President Daud. Iran pulled its wealth behind the new project to stabilize Afghanistan, and to counter the military help offered by the Soviet Union to Daud. Shah Reza Pahlevi said that Afghans have only to ask and Iran will give them everything they need. Iran and Afghanistan exchanged on June 6, 1977, the instruments of the Irano-Afghan treaty on the distribution of Helmand river waters, reported the local press. The treaty, together with two attached protocols, was signed on March 13, 1973, by Iranian prime minister Amir Abbas Hoveyda and the then afghani prime minister Mohammad Mussa Shafigh. An agreement was signed in Teheran on July 23, 1977, between Afghanistan and Iran on the former's import of 110,000 tons of petroleum products including 70,000 tons of diesel, 30,000 tons of petrol and 10,000 tons of kerosene until the end of the current year. 
+
+19780519-19790319 Transition 
+
+On May 19, 1978, Iran expressed serious concern about Afghanistan's new Communist government which it considers to be totally under Soviet Union's control. Iran was afraid that Afghanistan will play a major role in blocking the routes for shipping oil through the Gulf. A poorly-received Kabul radio broadcast in English on 16th March, 1979, said that the reported killing of some 3,000 Afghan citizens in Esfahan and other parts of Iran at the hands of "prejudiced fanatics" had caused the Afghan authorities "deep anxiety". The charge d'affaires in Tehran had been instructed to contact the provisional government of Iran and "obtain a necessary explanation". An immediate explanation had also been requested of the Iranian charge d'affaires in Kabul. The people and government of Afghanistan had "feelings of profound friendship for their Iranian brethren", and expected that all actions undermining this friendship would be stopped.
+
+20011007-20159999 0.25 
+
+The ouster of the Taliban by the US-led coalition led to the improvement of relations between the two parties and the end of their rivalry. The Iranian president officially welcomed the head of the interim government of Afghanistan at the Sa'dabad Cultural Centre in Tehran on February 24, 2002. At an international news conference after the first round of their one-and-a-half-hour-long talks, Mr Khatami and Mr Karzai described their talks as very fruitful and positive. Mr Khatami said: "Fortunately with the establishment of the interim government of Afghanistan and with the efforts of Mr Karzai and the people's support of this government, today we see an Afghanistan that is moving towards progress and development." The president said: Iran recognized the government of Afghanistan from the very beginning and attached priority to its strengthening in its foreign policy. And today we have a transparent cooperation with the government of Afghanistan. This trip is for the purpose of reiterating the Iranian nation's solidarity with the Afghan nation, strengthening the government of Afghanistan and paving the way for further cooperation in the reconstruction and progress of Afghanistan. The president referred to the pivotal role of Islam in issue of the unity between the various Afghan groups. He stressed: Afghanistan should never be the object of exploitation for the sake of the interests and wishes of foreign powers. Mr Khatami said: If foreigners are in Afghanistan, that presence should be temporary and with the purpose of reconstructing that country. The foreign minister of the Transitional Islamic State of Afghanistan, Dr. Abdollah Abdollah, arrived in Tehran on January 9, 2003. The visit of the Afghan foreign minister, Dr Abdollah, to Tehran on 9 January is worth looking at from several angles. First of all, this visit to Iran took place following trips to Iran by several high-ranking economic, political and cultural delegations of the Transitional Islamic State of Afghanistan in the last 10 days. On 29 December 2002 the minister of state of the Transitional Islamic State of Afghanistan was the first to come to Iran to harmonize and bring about joint coordination of the two countries' endeavors in fighting against narcotics smuggling. Then, a tripartite meeting between India, Iran and Afghanistan on 5 January 2003 led to the signing of a transit accord. On his return from Iran on 8 January the minister of trade of the Transitional Islamic State of Afghanistan, Mustafa Kazemi, described the signing of this accord as a great achievement for all three countries. The crucial point in the new transit accord is that Iran sets no limits on the import of goods to Afghanistan via Iran. Iran and Afghanistan signed a bilateral transit agreement in 1973. But in the new agreement Iran has removed all restrictions on the transit of commodities to Afghanistan. Under the previous agreement the lorries transiting goods from Afghanistan could only enter the town of Mashhad in Iran. But now Afghanistan can use all Iranian ports for export and import purposes and reaps the benefits of significant reductions in transport costs. So Afghanistan's foreign minister is visiting Iran at a time when the commercial and political relations of both countries have entered a new era. It must be said that the present ties between Iran and Afghanistan are still growing in all dimensions. The signing of various economic, cultural and political agreements between Iran and Afghanistan have given to the relations between the two countries a statutory and official form differently from the previous traditional and unofficial state. Stability in the relations between Iran and Afghanistan will play a significant role in boosting stability along the lengthy border between the two countries and throughout the region. This issue will have a crucial impact on the continuation of Afghanistan's rehabilitation process because security is a precondition and an essential pillar for economic growth. Similarly the active presence of Iran at the Kabul meeting for the purpose of joining combat against the smuggling of narcotics is clear proof of Iran's initiative in uprooting this problem. As a whole, it should be said that Iran and Afghanistan have many joint interests which need to be realized more rapidly and that ongoing consultations between the political and economic authorities should be continued in both countries. The current visit of the Afghan foreign minister to Iran is to be evaluated within this framework. The presidents of Iran and Afghanistan will officially inaugurate a 132-kilowatt power transmission line from Torbat-e Jam in northeastern Iran to the western Afghan city of Herat on January 25, 2005, said a senior power industry official. The English-language paper 'Iran Daily' quoted the deputy head of TAVANIR (a power generation, distribution and transmission company) as saying that once the power line becomes operational Iran's power exports to Afghanistan would increase ten-fold. The official put the total cost of the project at US$13.8 million. "The overall capacity of power transmission from Iran to Afghanistan would increase to 60 megawatts with the inauguration of the new transmission line, which covers 212 kilometers and has a 132-kilowatt (power transmission) post," he said. He stressed that the amount spent to install the transmission line was part of the financial commitment made by the Islamic Republic of Iran for reconstruction of Afghanistan. In March 2004, Iran opened a 150-kilometer, 20-kilowatt power transmission line to the western Afghan city. The project cost Tehran some US $2.3 million. Iran has a plan to construct a cement factory in the war-torn country. Several joint projects are currently being implemented in Afghanistan between Afghan and Iranian experts and feasibility studies are being conducted on a number of other projects in the cement, power and infrastructure sectors. Afghan officials have repeatedly announced their willingness to work with Iranian contractors due to their historical and cultural affinities. Iran's Arian Bank was inaugurated in Kabul in December 2004 as part of the Islamic Republic's efforts to facilitate trade exchanges with Afghanistan. The bank is the eighth foreign bank to operate in Afghanistan since the 2001 ouster of the Taliban by US-led forces. Arian Bank's total capital has been placed at US$10 million. Given Iran's half-a-billion-dollar commitment to Afghan reconstruction, the bank is expected to help raise the stakes of Iranian businesses in the war-ravaged country. Iranian exports to Afghanistan, which consist mainly of foodstuff, garments, carpets and construction materials, topped US$200 million last year.
+
+Relations between both countries still continue to be strained. On 15 June 2007, Iran forcibly removed over 100,000 Afghan refugees. On 6 May 2010, Afghans demonstrated against Iran’s treatment and execution of Afghan refugees. On 11 April 2011, Iranian and Afghani forces were involved in a few cross border skirmishes. First, Iran conducted a cross border attack hit an Afghan guards' security post in southwestern Nimroz injuring two individuals. Then Iranian forces with heavy and light weapons came after Afghan police stopped Iranians from releasing water from Sikhzar canal inside Afghanistan. In retaliation, Afghan border police arrested an Iranian military official and killed a police officer. On 8 December 2016, Afghan Senate members accused Iran and Russia of supporting the Taliban and certified the existence of documents to back their claims. Also among supported claims are that Taliban members are located in the cities of Mashhad, Yazd and Kerman in Iran and they often travel between the two countries according to local border residents.
+
+PS-SOURCES: New York Times, March 27, 1950; April 21, 1962; February 3, 1975; May 20, 1978; Xinhua June 8, 1977; July 26, 1977; BBC March 17, 1979; March 4, 1996; August 3, 1998; February 24, 2002; August 13, 2002; January 9, 2003; January 12, 2003; Asia Pulse January 25, 2005; Deutsche Presse Agentur September 8, 1997; August 8, 1998; Associated Press January 9, 2003
+
+SOURCES: http://www.washingtonpost.com/wp-dyn/content/article/2007/06/15/AR2007061500292_pf.html; http://news.bbc.co.uk/2/hi/8664289.stm; https://web.archive.org/web/20110413191054/http://www.e-ariana.com/ariana/eariana.nsf/allDocs/6AAAC28C6F8139B18725786F006911F0?OpenDocument; https://english.alarabiya.net/en/News/2016/12/08/Afghan-Senate-Iran-and-Russia-are-supporting-Taliban.html
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+Owsiak, Andrew P. (2012) Signing Up for Peace: International Boundary Agreements, Democracy, and Militarized Interstate Conflict. International Studies Quarterly 56(1):51-66.
+
+PERSIANS ACCUSE AFGHANS: Say Raiders Looted Villages and Took 2,000 Captives Back. New York Times 12/16/1934. 36.

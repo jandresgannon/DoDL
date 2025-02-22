@@ -1,0 +1,105 @@
+FILE: cm220437v11.0.txt
+DYAD: IVORY COAST-FRANCE
+
+PS: 19600807-19750806 0.5 20041106-20051018 .25 20051019-20101018 .5
+
+PS-UPDATE2020:Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PSNOTES: 15 year, post-colonial rule applied
+
+PS-LAST-CHANGED: 20220222
+PS-LAST-CHECKED: 20220222
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4371 
+
+TERRMID: MID4371 3 -- not territory 
+TERRMID-CER: MID4371 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4371 3 -- not third party link to territory 
+TERRLINK-CER: MID4371 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4371 3 -- not maritime 
+MARITMID-CER: MID4371 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4371 3 -- not islands 
+ISLMID-CER: MID4371 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4371 1 -- civil war MID
+CIVWARMID-CER: MID4371 1 -- certain 
+CIVWARMID-NOTES: MID4371 from cm narrative, Ivory Coast war planes bombed French military planes at an airport in Ivory Coast. French military units were in Ivory Coast acting as peacekeepers between the Ivory Coast government and rebel factions. From NYT 11/7/2004, an American civilian was also killed, bringing the US into this MID. Coded civil war MID because civil war activity in Ivory Coast drove this MID. 
+
+CIVWARLINK: MID4371 3 -- not civil war link
+CIVWARLINK-CER: MID4371 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4371 3 -- not coup 
+COUPMID-CER: MID4371 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4371 3 -- not coup link
+COUPLINK-CER: MID4371 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4382 
+
+TERRMID: MID4382 3 -- not territory 
+TERRMID-CER: MID4382 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4382 3 -- not third party link to territory 
+TERRLINK-CER: MID4382 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4382 3 -- not maritime 
+MARITMID-CER: MID4382 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4382 3 -- not islands 
+ISLMID-CER: MID4382 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4382 1 -- civil war MID
+CIVWARMID-CER: MID4382 1 -- certain 
+CIVWARMID-NOTES: MID4382 from cm narrative, following the events of MID4371, France declared that any provocations against its forces by Ivorian forces would be met with force. A short time later, France also deployed nine additional tanks to the country as part of its peace-keeping operation. First day of dispute was on 10/18/2005 and last day of dispute was on 10/18/2005. Coded civil war MID because France was in Ivory Coast to stop/prevent civil conflict, and an earlier Ivorian attack triggered this MID. 
+
+CIVWARLINK: MID4382 3 -- not civil war link
+CIVWARLINK-CER: MID4382 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4382 3 -- not coup 
+COUPMID-CER: MID4382 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4382 3 -- not coup link
+COUPLINK-CER: MID4382 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4371
+rivalry=220437 nationa=IVORY COAST nationb=FRANCE MID4371 20041106-20050506 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=9 lhostb=
+USE OF FORCE 
+
+On November 6, 2004, Ivory Coast war planes bombed French military units at an airport in Ivory Coast. The French military units were in Ivory Coast acting as peacekeepers between Ivorian government and rebel factions. Following the attack, Ivorian ground units exchanged fire with French units before retreating. In response to the two attacks, the French forces on the ground destroyed 2 Ivorian fighter jets at the airport, and France sent three fighter jets to the Gabonese capital Libreville in case of further attacks. First day of dispute was on 11/6/2004 and last day of dispute was on 5/6/2005.
+
+MID4382
+rivalry=220437 nationa=FRANCE nationb=IVORY COAST MID4382 20051018-20051018 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Following the events of MID4371, France declared that any provocations against its forces in CDI by Ivorian forces would be met with force. A short time later, France also deployed nine additional tanks to the country as part of its peace-keeping operation. First day of dispute was on 10/18/2005 and last day of dispute was on 10/18/2005.
+
+SOURCES
+
+Somini Sengupta. "Ivory Coast Violence Flares; 9 French and 1 US Death." New York Times 11/7/2004. Accessed 6/3/2017. http://www.nytimes.com/2004/11/07/world/africa/ivory-coast-violence-flares-9-french-and-1-us-death.html
+

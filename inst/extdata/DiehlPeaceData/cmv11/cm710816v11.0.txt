@@ -1,0 +1,679 @@
+FILE: cm710816v11.0.txt
+DYAD: CHINA-N. VIETNAM
+RIVALRY: RIV1306
+DISPUTE(S): MID1728 MID3007 MID3102 MID2975 MID3614 MID3639 MID3622 MID3628 MID2780 MID3638 MID2749 MID4029 MID4030 MID4328
+
+PS: 19540721-19751122 0.5 19751123-20209999 0.00
+
+PS-UPDATE2020: This remains a severe rivalry with the threat of military force and unresolved issues. China and Vietnam have continued to have disputes over South China Sea waters: https://www.crisisgroup.org/asia/north-east-asia/china/318-vietnam-tacks-between-cooperation-and-struggle-south-china-sea •	2014 – a Chinese-operated oil rig was sent into Vietnam’s exlusive economic zone (EEZ). This led to a series of intense harassments. o	“That incident is seen as the closest Hanoi and Beijing have come to escalating into open confrontation since the bloody incident over Johnson South Reef in 1988” (https://carnegieendowment.org/2020/09/30/rough-waters-ahead-for-vietnam-china-relations-pub-82826) o	Summer 2016: China dismissed an independent tribunal’s ruling on territorial disputes in the South China Sea (https://www.benarnews.org/english/news/in-focus/scs-pca-5-years-later/) o	2021: China’s wedge strategy toward the US-Vietnam partnership (https://thediplomat.com/2021/08/chinas-wedge-strategy-towards-the-u-s-vietnam-partnership/) ; China’s growing influence and Cambodia and Laos has Vietnam on edge (https://www.worldpoliticsreview.com/articles/30083/as-china-vietnam-relations-grow-tense-hanoi-considers-its-options
+
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220521
+PS-LAST-CHECKED: 20220531
+Territorial-Maritime-Boundary Issues Variables
+
+MID1728
+
+TERRMID: MID1728 3 -- not territory
+TERRMID-CER: MID1728 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1728 3 -- not third party link to territory 
+TERRLINK-CER: MID1728 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1728 1 -- maritime MID
+MARITMID-CER: MID1728 3 -- uncertain
+MARITMID-NOTES: MID1728 coded maritime MID because the involved states dispute the islands because of their implications for a maritime boundary. 
+
+ISLMID: MID1728 1 -- islands MID
+ISLMID-CER: MID1728 3 -- uncertain
+ISLMID-NOTES: MID1728 from Gibler, Miller, and Little 2016, a North Vietnamese newspaper published an article saying they must defend their claim to the disputed Spratly and Paracel Islands. A Chinese newspaper responded in kind. Coded islands MID because this was connected to an islands dispute, and coded uncertain because GML argue this does not amount to a MID and should therefore be dropped. 
+
+CIVWARMID: MID1728 3 -- not civil war 
+CIVWARMID-CER: MID1728 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1728 3 -- not civil war link
+CIVWARLINK-CER: MID1728 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1728 3 -- not coup 
+COUPMID-CER: MID1728 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1728 3 -- not coup link
+COUPLINK-CER: MID1728 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3007
+
+TERRMID: MID3007 3 -- not territory
+TERRMID-CER: MID3007 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3007 3 -- not third party link to territory 
+TERRLINK-CER: MID3007 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3007 3 -- not maritime 
+MARITMID-CER: MID3007 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3007 3 -- not islands 
+ISLMID-CER: MID3007 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3007 3 -- not civil war 
+CIVWARMID-CER: MID3007 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3007 1 -- civil war link
+CIVWARLINK-CER: MID3007 1 -- certain
+CIVWARLINK-NOTES: MID3007 from Gibler 2018, in 1978 Vietnam invaded Cambodia and helped rebels overthrow the Pol Pot regime, which was supported by China. In response, China invaded Vietnam to carry out retribution. Coded civil war link because this was connected to Vietnam's support for militarized rebels in Cambodia. 
+
+COUPMID: MID3007 3 -- not coup 
+COUPMID-CER: MID3007 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3007 3 -- not coup link
+COUPLINK-CER: MID3007 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3102
+
+TERRMID: MID3102 1 -- territorial MID
+TERRMID-CER: MID3102 1 -- certain 
+TERRMID-NOTES: MID3102 from Gibler 2018, China and North Vietnam disputed their border. In 1981, each accused the other of border violations, and clashes occurred. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3102 3 -- not third party link to territory 
+TERRLINK-CER: MID3102 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3102 3 -- not maritime 
+MARITMID-CER: MID3102 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3102 3 -- not islands 
+ISLMID-CER: MID3102 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3102 3 -- not civil war 
+CIVWARMID-CER: MID3102 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3102 3 -- not civil war link
+CIVWARLINK-CER: MID3102 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3102 3 -- not coup 
+COUPMID-CER: MID3102 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3102 3 -- not coup link
+COUPLINK-CER: MID3102 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2975
+
+TERRMID: MID2975 3 -- not territory
+TERRMID-CER: MID2975 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2975 3 -- not third party link to territory 
+TERRLINK-CER: MID2975 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2975 3 -- not maritime
+MARITMID-CER: MID2975 2 -- somewhat uncertain
+MARITMID-NOTES: MID2975 from Gibler 2018, in 1982 China accused Vietnam of harrassing Chinese fishing boats, and Vietnam accused China of harrassing local fishermen in Vietnam's territorial waters. Coded not maritime because, although Vietnam and China had an active maritime dispute, that dispute was near the Spratly and Paracel Islands, not near the Vietnamese coast where local fishermen would be. Also, neither the news coverage of the incident (NYT 1982) nor Gibler 2018 nor cm narrative mention that this was connected to the disputed maritime border in the South China Sea. Coded somewhat uncertain because it is unclear why the two states would harass each other's fishing vessels here independent of an active issue dispute.
+
+ISLMID: MID2975 3 -- not islands 
+ISLMID-CER: MID2975 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2975 3 -- not civil war 
+CIVWARMID-CER: MID2975 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2975 3 -- not civil war link
+CIVWARLINK-CER: MID2975 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2975 3 -- not coup 
+COUPMID-CER: MID2975 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2975 3 -- not coup link
+COUPLINK-CER: MID2975 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3614
+
+TERRMID: MID3614 3 -- not territory
+TERRMID-CER: MID3614 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3614 1 -- third party link to territorial MID
+TERRLINK-CER: MID3614 1 -- certain
+TERRLINK-NOTES: MID3614 from Gibler 2018, in 1983 Vietnam was pushing into Cambodia during the Vietnam-Cambodia war. The border between these countries was disputed at the time (Huth and Allee 2002). China accused Vietnam of attacking Chinese civilians on the border with Vietnam, and Vietnam accused Chinese troops of shelling Vietnamese outposts to assist Cambodian communist rebels. (China was supporting the communist Cambodian regime in their was against Vietnam.) Coded third party link to territorial MID because this was connected to the Vietnam-Cambodia War, a territorial war outside this dyad. 
+
+MARITMID: MID3614 3 -- not maritime 
+MARITMID-CER: MID3614 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3614 3 -- not islands 
+ISLMID-CER: MID3614 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3614 1 -- civil war MID
+CIVWARMID-CER: MID3614 1 -- certain
+CIVWARMID-NOTES: MID3614 coded civil war MID because this MID involved China assisting Cambodian communist rebels by attacking Vietnamese border outposts inside Vietnam (within this dyad). 
+
+CIVWARLINK: MID3614 1 -- civil war link
+CIVWARLINK-CER: MID3614 1 -- certain
+CIVWARLINK-NOTES: MID3614 coded civil war link because this MID involved militarized rebels in Cambodia (communists) fighting against Vietnam in Cambodia (Vietnam attacked the rebels in Cambodia), outside this dyad.
+
+COUPMID: MID3614 3 -- not coup 
+COUPMID-CER: MID3614 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3614 3 -- not coup link
+COUPLINK-CER: MID3614 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3639
+
+TERRMID: MID3639 1 -- territorial MID
+TERRMID-CER: MID3639 1 -- certain 
+TERRMID-NOTES: MID3639 from Gibler 2018, in 1984 Vietnam invaded China and attacked civilians in villages across the border. China fortified its border in response, and a clash ensued. From Huth and Allee 2002, China and Vietnam had an active territorial dispute at their border. The border had been unresolved for quite some time, but as Vietnamese and Chinese relations soured, China began pressing its claim again (Huth and Allee 2002, 406). Coded territorial MID because, although the Vietnam-China antagonism comes from ideological distancing, there was also a territorial element, as China revived the border claim in its dispute with Vietnam. 
+
+TERRLINK: MID3639 3 -- not third party link to territory 
+TERRLINK-CER: MID3639 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3639 3 -- not maritime 
+MARITMID-CER: MID3639 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3639 3 -- not islands 
+ISLMID-CER: MID3639 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3639 3 -- not civil war 
+CIVWARMID-CER: MID3639 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3639 3 -- not civil war link
+CIVWARLINK-CER: MID3639 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3639 3 -- not coup 
+COUPMID-CER: MID3639 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3639 3 -- not coup link
+COUPLINK-CER: MID3639 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3622
+
+TERRMID: MID3622 1 -- territorial MID
+TERRMID-CER: MID3622 1 -- certain 
+TERRMID-NOTES: MID3622 from Gibler 2018, in 1984-1986 China rejected a Vietnamese ceasefire proposal over their disputed border and launched a new attack. Border skirmishes continued for over a year. Coded territorial MID because this was connected to their disputed border. 
+
+TERRLINK: MID3622 3 -- not third party link to territory 
+TERRLINK-CER: MID3622 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3622 3 -- not maritime 
+MARITMID-CER: MID3622 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3622 3 -- not islands 
+ISLMID-CER: MID3622 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3622 3 -- not civil war 
+CIVWARMID-CER: MID3622 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3622 3 -- not civil war link
+CIVWARLINK-CER: MID3622 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3622 3 -- not coup 
+COUPMID-CER: MID3622 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3622 3 -- not coup link
+COUPLINK-CER: MID3622 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3628
+
+TERRMID: MID3628 3 -- not territory
+TERRMID-CER: MID3628 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3628 3 -- not third party link to territory 
+TERRLINK-CER: MID3628 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3628 3 -- not maritime 
+MARITMID-CER: MID3628 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3628 3 -- not islands 
+ISLMID-CER: MID3628 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3628 1 -- civil war MID
+CIVWARMID-CER: MID3628 1 -- certain
+CIVWARMID-NOTES: MID3628 coded civil war MID because this MID involved China supporting Cambodian guerillas by attacking Vietnamese targets in Vietnam, within this dyad. 
+
+CIVWARLINK: MID3628 1 -- civil war link
+CIVWARLINK-CER: MID3628 1 -- certain
+CIVWARLINK-NOTES: MID3628 from Gibler 2018, Vietnam was still intervening in Cambodia, and China was opposed to this. China launched several raids into Vietnam, and clashes occurred. Coded civil war link because this was connected to China's support for militarized rebels in Cambodia, outside this dyad. 
+
+COUPMID: MID3628 3 -- not coup 
+COUPMID-CER: MID3628 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3628 3 -- not coup link
+COUPLINK-CER: MID3628 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2780
+
+TERRMID: MID2780 3 -- not territory
+TERRMID-CER: MID2780 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2780 3 -- not third party link to territory 
+TERRLINK-CER: MID2780 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2780 1 -- maritime MID
+MARITMID-CER: MID2780 1 -- certain
+MARITMID-NOTES: MID2780 the disputed islands were claimed by both countries due to the maritime boundary implications associated with owning the islands. Coded maritime MID because, although the dispute involved an occupation of the island, it was also connected to the maritime boundary dispute, because of the implications. 
+
+ISLMID: MID2780 1 -- islands MID
+ISLMID-CER: MID2780 1 -- certain
+ISLMID-NOTES: MID2780 from Gibler 2018, China accused Vietnam of occupying one of the disputed islands in the South China Sea and threatened to take it back. Coded islands MID because this was a dispute over islands in the South China Sea. 
+
+CIVWARMID: MID2780 3 -- not civil war 
+CIVWARMID-CER: MID2780 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2780 3 -- not civil war link
+CIVWARLINK-CER: MID2780 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2780 3 -- not coup 
+COUPMID-CER: MID2780 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2780 3 -- not coup link
+COUPLINK-CER: MID2780 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3638
+
+TERRMID: MID3638 1 -- territorial MID
+TERRMID-CER: MID3638 1 -- certain 
+TERRMID-NOTES: MID3638 from Gibler 2018, China shot down a Vietnamese jet in 1987. From Daily Intelligence 10/6/1987, the border that the Vietnamese jet crossed was the same disputed border that was the subject of previous territorial MIDs. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3638 3 -- not third party link to territory 
+TERRLINK-CER: MID3638 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3638 3 -- not maritime 
+MARITMID-CER: MID3638 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3638 3 -- not islands 
+ISLMID-CER: MID3638 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3638 3 -- not civil war 
+CIVWARMID-CER: MID3638 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3638 3 -- not civil war link
+CIVWARLINK-CER: MID3638 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3638 3 -- not coup 
+COUPMID-CER: MID3638 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3638 3 -- not coup link
+COUPLINK-CER: MID3638 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2749
+
+TERRMID: MID2749 3 -- not territory
+TERRMID-CER: MID2749 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2749 3 -- not third party link to territory 
+TERRLINK-CER: MID2749 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2749 1 -- maritime MID
+MARITMID-CER: MID2749 1 -- certain
+MARITMID-NOTES: MID2749 coded maritime MID because the Spratly Islands are disputed due to the implications for the maritime boundaries, which are also disputed around the islands. 
+
+ISLMID: MID2749 1 -- islands MID
+ISLMID-CER: MID2749 1 -- certain
+ISLMID-NOTES: MID2749 from Gibler 2018, in 1988 China accused Vietnam of setting up military installations on one of the Spratly Islands, and Vietnam claimed that China sent warships to the area. Clashes ensued. Coded islands MID because this was connected to the disputed Spratly Islands. 
+
+CIVWARMID: MID2749 3 -- not civil war 
+CIVWARMID-CER: MID2749 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2749 3 -- not civil war link
+CIVWARLINK-CER: MID2749 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2749 3 -- not coup 
+COUPMID-CER: MID2749 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2749 3 -- not coup link
+COUPLINK-CER: MID2749 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4029
+
+TERRMID: MID4029 3 -- not territory
+TERRMID-CER: MID4029 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4029 3 -- not third party link to territory 
+TERRLINK-CER: MID4029 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4029 1 -- maritime MID
+MARITMID-CER: MID4029 1 -- certain
+MARITMID-NOTES: MID4029 from Gibler 2018, Vietnam protested China sending oil drilling and naval ships to disputed waters in the Gulf of Tonkin. Coded maritime MID because this was connected to a disputed maritime boundary. 
+
+ISLMID: MID4029 3 -- not islands 
+ISLMID-CER: MID4029 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4029 3 -- not civil war 
+CIVWARMID-CER: MID4029 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4029 3 -- not civil war link
+CIVWARLINK-CER: MID4029 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4029 3 -- not coup 
+COUPMID-CER: MID4029 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4029 3 -- not coup link
+COUPLINK-CER: MID4029 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4030
+
+TERRMID: MID4030 3 -- not territory
+TERRMID-CER: MID4030 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4030 3 -- not third party link to territory 
+TERRLINK-CER: MID4030 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4030 1 -- maritime MID
+MARITMID-CER: MID4030 1 -- certain
+MARITMID-NOTES: MID4030 coded maritime MID because the Spratly Islands are disputed because of their implications for maritime boundaries. 
+
+ISLMID: MID4030 1 -- islands MID
+ISLMID-CER: MID4030 1 -- certain
+ISLMID-NOTES: MID4030 from Gibler 2018, in 1994 China and Vietnam conducted shows of force around the disputed Spratly Islands, and Vietnam seized a Chinese research ship. Coded Islands MID because this was connected to an islands dispute. 
+
+CIVWARMID: MID4030 3 -- not civil war 
+CIVWARMID-CER: MID4030 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4030 3 -- not civil war link
+CIVWARLINK-CER: MID4030 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4030 3 -- not coup 
+COUPMID-CER: MID4030 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4030 3 -- not coup link
+COUPLINK-CER: MID4030 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4328
+
+TERRMID: MID4328 3 -- not territory
+TERRMID-CER: MID4328 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4328 3 -- not third party link to territory 
+TERRLINK-CER: MID4328 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4328 1 -- maritime MID
+MARITMID-CER: MID4328 1 -- certain
+MARITMID-NOTES: MID4328 coded maritime MID because the Spratly Islands were disputed due to the maritime boundary implications associated with controlling the islands. 
+
+ISLMID: MID4328 1 -- islands MID
+ISLMID-CER: MID4328 1 -- certain
+ISLMID-NOTES: MID4328 from Gibler 2018, in 1998 Vietnam deployed warships to the Spratly Islands, and China protested. Coded islands MID because this was connected to the Spratly Islands dispute. 
+
+CIVWARMID: MID4328 3 -- not civil war 
+CIVWARMID-CER: MID4328 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4328 3 -- not civil war link
+CIVWARLINK-CER: MID4328 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4328 3 -- not coup 
+COUPMID-CER: MID4328 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4328 3 -- not coup link
+COUPLINK-CER: MID4328 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4446
+
+TERRMID: MID4446 3 -- not territory
+TERRMID-CER: MID4446 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4446 3 -- not third party link to territory 
+TERRLINK-CER: MID4446 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4446 1 -- maritime MID 
+MARITMID-CER: MID4446 1 -- certain
+MARITMID-NOTES: MID4446 from cm narrative and Gibler 2018, in 2002 China conducted naval exercises. Vietnam claimed they were in Vietnamese waters. China, however, claimed they were only near Vietnamese waters, but were actually in Chinese waters. From Associated Press 6/11/2002, the exercises were taking place in the South China Sea, the location of the disputed Spratly Islands. Around the islands, the maritime borders are disputed as well, primarily due to natural resources in the area. Coded maritime MID because the naval exercises amount to a show of force directed at Vietnam in disputed waters in the South China Sea. 
+
+ISLMID: MID4446 1 -- islands MID
+ISLMID-CER: MID4446 1 -- certain
+ISLMID-NOTES: MID4446 coded islands MID because this was connected to the disputed Spratly Islands in the South China Sea. 
+
+CIVWARMID: MID4446 3 -- not civil war 
+CIVWARMID-CER: MID4446 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4446 3 -- not civil war link
+CIVWARLINK-CER: MID4446 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4446 3 -- not coup 
+COUPMID-CER: MID4446 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4446 3 -- not coup link
+COUPLINK-CER: MID4446 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4464
+
+TERRMID: MID4464 3 -- not territory
+TERRMID-CER: MID4464 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4464 3 -- not third party link to territory 
+TERRLINK-CER: MID4464 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4464 1 -- maritime MID
+MARITMID-CER: MID4464 1 -- certain
+MARITMID-NOTES: MID4464 from Gibler 2018, in 2003 Vietnam attacked Chinese fishing boats in disputed waters, seizing one. China parotested and the crew was released. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4464 3 -- not islands 
+ISLMID-CER: MID4464 1 -- certain
+ISLMID-NOTES: MID4464 the waters disputed between China and Vietnam also contain offshore islands that are disputed in the South China Sea, but Gibler 2018 and cm narrative are explicit that this was an incident of illegal fishing and did not involve any islands. The islands are also disputed due to their maritime boundary implications (ie islands will give rise to a maritime issue, but not necessarily vice versa [as here]). 
+
+CIVWARMID: MID4464 3 -- not civil war 
+CIVWARMID-CER: MID4464 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4464 3 -- not civil war link
+CIVWARLINK-CER: MID4464 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4464 3 -- not coup 
+COUPMID-CER: MID4464 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4464 3 -- not coup link
+COUPLINK-CER: MID4464 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4488
+
+TERRMID: MID4488 3 -- not territory
+TERRMID-CER: MID4488 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4488 3 -- not third party link to territory 
+TERRLINK-CER: MID4488 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4488 1 -- maritime MID
+MARITMID-CER: MID4488 1 -- certain
+MARITMID-NOTES: MID4488 coded maritime MID because the Spratly Islands were disputed due to the maritime boundary implications of possessing the islands. 
+
+ISLMID: MID4488 1 -- islands MID
+ISLMID-CER: MID4488 1 -- certain
+ISLMID-NOTES: MID4488 from Gibler 2018, China detained Vietnamese fishing boats at the Spratly Islands. Coded islands MID because this was connected to the disputed Spratly Islands. 
+
+CIVWARMID: MID4488 3 -- not civil war 
+CIVWARMID-CER: MID4488 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4488 3 -- not civil war link
+CIVWARLINK-CER: MID4488 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4488 3 -- not coup 
+COUPMID-CER: MID4488 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4488 3 -- not coup link
+COUPLINK-CER: MID4488 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4446
+rivalry=710816 nationa=CHINA nationb=N. VIETNAM MID4446 20020608-20020613 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Vietnam accused China of performing naval drills in Vietnamese waters, which they also claimed was impeding Vietnamese naval and shipping traffic. China denied the accusations, claiming that all naval drills occurred in Chinese waters, albeit near Vietnamese waters. First day of dispute was on 6/8/2002 and last day of dispute was on 6/13/2002.
+
+MID4464
+rivalry=710816 nationa=N. VIETNAM nationb=CHINA MID4464 20030923-20030923 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Vietnamese naval vessels attacked two Chinese fishing boats, seizing one, after they were found fishing in a disputed area. China protested and the crew was eventually released. First day of dispute was on 9/23/2003 and last day of dispute was on 9/23/2003.
+
+MID4488
+rivalry=710816 nationa=CHINA nationb=N. VIETNAM MID4488 20100329-20101012 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Chinese patrol boats around the disputed Spratly Islands harassed Vietnamese fishing boats. Two Vietnamese boats and their crews were seized and later released. First day of dispute was on 3/29/2010 and last day of dispute was on 10/12/2010.
+
+MID3 1993-2001:
+
+MID4029
+rivalry=710816 nationa=CHINA nationb=N. VIETNAM MID4029 19930800-19930800 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+This dispute is related to a show of force by China against Vietnam. China has resumed exploring oil fields in waters in the Gulf of Tonkin, claimed by Vietnam. The Chinese search, 110 km. off Vietnam, drew strong protest from Hanoi which claims the waters as its territory. The dispute centers on disputed waters near the Spratly Islands (which is claimed by many countries). First and last day of dispute was on 8/00/1993.
+
+MID4030
+rivalry=710816 nationa=CHINA nationb=N. VIETNAM MID4030 19940500-19940800 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+This dispute is based on a series of consecutive incidents between China and Vietnam over control of the disputed Spratly Islands. In May 1994, China engaged in a show of force by increasing its naval presence around the Spratly Islands with one frigate, landing craft, torpedo boats, two research ships and data collection vessels. In July 1994, two Chinese warships blockaded a Vietnamese oil rig. China turned back at least one ship carrying supplies for the rig. On July 2, 1994, Vietnam seized three Chinese fishing boats and detained their crews. China protested theVietnam's seizure and demanded the return of the vessels and the crew. In August 1994, Vietnamese gunships engaged in a show of force by forcing a Chinese research vessel to flee an oil field claimed by both countries. First day of dispute was on 5/00/1994 and last day of dispute was on 8/00/1994.
+
+MID4328
+rivalry=710816 nationa=N. VIETNAM nationb=CHINA MID4328 19980900-19980900 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+This dispute is one of the series of disputes over the possession of the Spratly Islands. Vietnam sent warships and personnel to two disputed reefs in the Spratly Islands, setting up "permanent" facilities on the reefs. China protested the action and demanded that the structures be removed. Vietnam claimed that the structures were civilian and the personnel were not soldiers. The event, however, was triggered by the presence of the Vietnamese navy, not the structures. First and last day of dispute was on 9/00/1998.
+
+RIVNOTES:
+
+NARRATIVE-CM:
+The* People's Republic of China* (PRC) and the *Socialist Republic of Vietnam* (SRV) disputed their border beginning on May 1, 1975. Vietnam claimed the Spratley and Paracel islands in the South China Sea on June 6, 1976, but the Vietnamese claim to the islands was rejected by China. Vietnam expelled several thousand ethnic Chinese from the country beginning in 1977, and the Chinese government protested the expulsions on October 22, 1977. China renewed its protest against the expulsion of ethnic-Chinese from Vietnam on April 6, 1978. China suspended economic assistance to Vietnam on July 3, 1978, and closed the border to human traffic on July 11, 1978. Chinese and Vietnamese representatives held negotiations in Hanoi from August 8 to September 26, 1978. Chinese troops and Vietnamese troops clashed near the border from September to December 1978, resulting in the deaths of some 300 Chinese civilians. China renewed its claim to the Spratley and Paracel islands on December 29, 1978. Chinese troops and Vietnamese troops clashed in the border region on February 5-7, 1979, resulting in the deaths of four Chinese soldiers and civilians. Some 120,000 Chinese troops invaded Vietnam beginning on February 17, 1979. Vietnam referred the matter to the United Nations secretary-general on February 17, 1979. The United States appealed for the withdrawal of Chinese troops from Vietnamese territory on February 17, 1979, and the Soviet Union appealed for the withdrawal of Chinese troops from Vietnamese territory on February 18, 1979. Romania and Yugoslavia appealed for a ceasefire and the withdrawal of Chinese troops from Vietnam. Foreign Minister Mochtar Kusumaatmadja of Indonesia, representing the *Association of Southeast Asian Nations* (ASEAN), appealed for a ceasefire and the withdrawal of Chinese troops from Vietnam on February 20, 1979. The Soviet Union vetoed a *United Nations *(UN) Security Council resolution on February 22, 1979, which would have appealed for a ceasefire. The Soviet Union deployed naval forces in the South China Sea on February 22, 1979, and provided military assistance to Vietnam. Chinese troops captured Lao Chai on February 20, 1979 and Lang Son on March 2, 1979. Chinese troops completed their withdrawal from Vietnam on March 16, 1979. Some 26,000 Chinese soldiers and 30,000 Vietnamese were killed during the conflict. Some 250,000 ethnic-Chinese and Vetnamese fled as refugees to China. The *United Nations High Commissioner for Refugees *(UNHCR) agreed to provide resettlement assistance to Vietnamese refugees oin China on November 10, 1979. Chinese and Vietnamese representatives held negotiations concerning the border dispute in Hanoi and Beijing from April 18 to December 19, 1979. Chinese and Vietnamese vessels clashed in the South China Sea on March 3-4, 1982. Vietnamese troops attacked Chinese military and civilian targets in the Guangxi Zhuang autonomous region and Yunnan province on April 9-14, 1983. Chinese troops shelled Vietnamese targets in the border region from April 2 to July 12, 1984, resulting in the deaths of several hundred Chinese and Vietnamese soldiers and civilians. Chinese troops and Vietnamese troops clashed near the border on July 22, 1984, resulting in the deaths of 15 Chinese soldiers. Chinese troops and Vietnamese troops clashed in the Guangxi Zhuang autonomous region on January 9, 1985, resulting in the deaths of six Chinese civilians. Chinese and Vietnamese troops clashed in the border region from January 10, 1985 to February 6, 1986, resulting in the deaths of several hundred Chinese and Vietnamese soldiers. Chinese and Vietnamese troops clashed near the border between Ha Tuyen province (Vietnam) and Yunnan province (China) on January 5-7, 1987, resulting in the deaths of several hundred Chinese and Vietnamese soldiers. Chinese troops occupied two reefs in the Spratley islands on January 31, 1988, and Vietnam accused China of violating its sovereignty over the islands on February 24, 1988. Chinese and Vietnamese naval ships clashed in the South China Sea on March 14, 1988, resulting in the deaths of 75 Vietnamese soldiers. Some 280,000 ethnic Chinese refugees from Vietnam were in China in December 1998. Chinese and Vietnamese representatives signed a land border agreement on December 30, 1999, and maritime border agreement concerning the Gulf of Tonkin on December 25, 2000.
+
+The rivalry is not finished as of December 2006 because the maritime border dispute over the Spratley and Paracel Islands is not finished. In 2004 China accused Vietnam of conducting oil explorations around Spratley Islands which are part of China, in its perception. Vietnam asked China not to drill in the disputed areas, too. Vietnam Airlines proposed flights to the disputed Spratley islands in 2004. Even though the commercial ties improved significantly since the 1990s, the unresolved dispute over the Spratley and Paracel islands determines us to consider this dyad an ongoing rivalry as of December 2006.
+
+SOURCES-CM:
+Allock et al., 1992, 465-472; Brecher and Wilkenfeld, 1997, 158-165; Clodfelter, 1992, 1144-1145; *Foreign Broadcast Information Service *(FBIS), February 8, 1979, February 23, 1979, February 26, 1979, March 19, 1979, April 13, 1983, April 15, 1983; Jessup, 1998, 791-795; *Keesing*, February 23, 1979, October 23, 1981, September 1984, January 1986, December 1986, April 1987; *Reuters*, December 30, 1999; *UN Chronicle*, February 1979; Weisburd, 1997, 280-284.
+
+NARRATIVE-CR:
+Following the Chinese rapprochement with the United States, relations between the PRC and North Vietnam began to sour. Following the withdrawal of American troops from South Vietnam and Cambodia, the PRC withdrew its support for Vietnamese unification. The two countries dispute claim of the Spratly and Paracel Islands in the South China Sea. In 1974 China occupied some of the reefs that make up the Spratly chain. A similar occupation of the Paracels followed in 1975. Tensions grew as Vietnam increased its formal ties to the Soviet block via entry into COMECON and through the signing of a treaty with the Soviet Union in 1978. In 1977 the PRC backed Kampuchean government conducted a series of raids into Vietnamese territory. In retaliation, Vietnam invaded Kampuchea in December of 1978. In response to Vietnam's invasion of Kampuchea, the PRC attacked North Vietnam in March of 1979. The PRC released a statement justifying the attack on the grounds that Vietnam needed to be "taught a lesson". The brief war ended when the PRC withdrew its troops after three weeks of fighting. The Vietnamese presence in Kampuchea and Vietnam's close ties to the USSR remained the primary concerns of the PRC until the end of the Cold War. In 1988 the PRC and Vietnam engaged in a brief naval battle as PRC naval forces occupied islands in the Spratly chain. On September 3 and 4, 1990 secret meetings took place between senior government and party leaders from the PRC and Vietnam. On September 9, 1991 the Vietnamese Foreign Minister began a state visit to the PRC to negotiate towards normalizing relations between the two states. On November 10, 1991 Vietnam and the PRC restored normal relations between the two countries. Also in 1991, a draft proposal was created in which both sides committed themselves to a non-violent solution to the Spratly Island dispute. On June 29, 1992 a meeting of representatives for Vietnam, the PRC, Indonesia, Brunei, Malaysia, and the Philippines took place to discuss the future of the disputed Spratly Island chain. On November 20, 1994 Chinese President Jiang Zemin began a state visit to Vietnam. Du Muoi, Chairman of the Vietnamese Council of Ministers visited Beijing on November 26, 1995. On December 8, 1998 the PRC asserted its "indisputable" sovereignty over the Spratly islands. Since the late 1980's China has engaged in a major program of improving its naval forces. The military buildup is seen as a potential threat to the other states laying claim to the Spratly and Paracel islands, including Vietnam. In March of 1999, ASEAN called upon Vietnam and the Philippines to create a proposal for a code of conduct for all parties involved in the South China Sea disputes. In March of 2000, a joint ASEAN-PRC statement was issued affirming a strong desire to develop a regional dispute resolution system, but did not mention the Spratly Islands. From 1999 to 2002, much of the ongoing negotiations over the Spratly and Paracel islands appear to have taken place in the context of the ASEAN regional organization. The rivalry is not finished as of December 2006 because the maritime border dispute over the Spratley and Paracel Islands is not finished. In 2004 China accused Vietnam of conducting oil explorations around Spratley Islands which are part of China, in its perception. Vietnam asked China not to drill in the disputed areas, too. Vietnam Airlines proposed flights to the disputed Spratley islands in 2004. Even though the commercial ties improved significantly since the 1990s, the unresolved dispute over the Spratley and Paracel islands determines us to consider this dyad an ongoing rivalry as of December 2006.
+
+SOURCES-CR:
+Lea and Milward, 227-233; Odgaard, 113-114, 237-243; Tarling 303-305
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1982). Around the World: Vietnamese Attaked 3 Boats, Chinese Say. New York Times March 9: A7.
+
+Daily Intelligence/Montgomery County Record (1987). China downs Vietnamese jet. Daily Intelligence/Montgomery County Record October 6: 4C.(July 16, 1984, Monday). 
+
+China Reports Border Fighting with Vietnam. BBC Summary of World Broadcasts. Retrieved from Nexis Uni.
+
+Vietnam demands China halt live-firing exercise in South China Sea. The Associated Press State & Local Wire, June 11, 2002, Tuesday, BC cycle. https://advance-lexis-com.proxy-remote.galib.uga.edu/api/document?collection=news&id=urn:contentItem:461X-5XW0-009F-S4FF-00000-00&context=1516831. Accessed May 17, 2019.

@@ -1,0 +1,132 @@
+FILE: cm910940v11.0.txt
+DYAD: PAPUA NEW GUINEA-SOLOMON ISLANDS
+RIVALRY: RIV1375
+DISPUTE(S): MID4075 MID4076 
+
+PSNOTES: Solomon Islands becomes independent on 19780707 (system membership). 
+
+The two states solve their maritime border in the 1980s and these disputes involve Bougainville rebels running across borders. The Solomon Islands are not really actively supporting the rebels and there is no territorial claim by SI. Thus, negative peace (.50) is right. There's no territory involved, and although there are civil war elements involved, it seems that the two sides are protesting the civil war ramifications/violations. Thus, there are a group of frequent MIDs, but it's not clear that the relationship between the two states drives the MID behavior.
+
+PS-LAST-CHANGED: 20170521
+PS-LAST-CHECKED: 20170521
+
+MID3 1993-2001:
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4075
+
+TERRMID: MID4075 3 -- not territorial 
+TERRMID-CER: MID4075 1 -- certain
+TERRMID-NOTE: MID4075 On 3/20/1993, the Sydney Morning Herald reported that Solomon Islands border guards, under orders to do so from government, fired at low-flying Papuan airplanes (consistent with narrative). The Solomon forces were under standing orders to fire at PNG aircraft that violated Solomon airspace, and PNG aircraft (and, on other occasions, ground troops and boats) regularly crossed the border in pursuit of secessionist Bougainville rebels who make a claim on PNG territory and live on Solomon territory. (Sydney Morning Herald). However, the disputes in this MID are driven by pursuit of rebels (see CIVWARMID) and not by a territorial or maritime dispute (these were settled, per the rivalry-notes section). Coded not territorial because boundary was not disputed and although it was crossed, it was to pursue rebels and not to advance a territorial claim. 
+
+TERRLINK: MID4075 3 -- not territorial link
+TERRLINK-CER: MID4075 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4075 3 -- not maritime 
+MARITMID-CER: MID4075 1 -- certain
+MARITMID-NOTES: MID4075 On 4/6/1993, The Age reported an exchange of gunfire between PNG and Solomon forces that occurred on 4/5/1993, triggered by PNG forces crossing the maritime border. The PNG forces were stationed in Bougainville, the home to the Bougainville Revolutionary Army, a secessionist movement. PNG forces had crossed the maritime boundary in pursuit of Bougainville rebels in Solomon Islands. Coded not maritime because maritime boundary had been settled in 1980s (per the rivalry-notes), and this was not a challenge to maritime boundaries but was rather driven by secessionist rebels (see CIVWARMID).
+
+ISLMID: MID4075 3 -- not island 
+ISLMID-CER: MID4075 1 -- certain
+ISLMID-NOTES: MID4075 
+
+CIVWARMID: MID4075 1 -- civil war 
+CIVWARMID-CER: MID4075 1 -- certain
+CIVWARMID-NOTES: MID4075 The Advertiser reported on 8/12/1993 that the Prime Minister of Solomon Islands announced that they would no longer support secessionist groups in the Papau New Guinea island of Bougainville, indicating that they were sponsoring secessionist rebels during the incidents that MID4075 comprises. On 3/20/1993, the Sydney Morning Herald reported that Solomon Islands border guards,under orders to do so, fired at low-flying Papuan airplanes (consistent with cm narrative below) and the Solomon PM declared they had captured Bougainville rebels transporting arms by boat (does not appear to be boating incident in narrative below, but does involve secessonist rebels). Coded civil war mid because this MID was triggered by PNG pursuit of Bougainville rebels into Solomon Islands, triggering clashes between the countries. 
+
+CIVWARLINK: MID4075 3 -- not civil war link
+CIVWARLINK-CER: MID4075 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID4075 3 -- not coup 
+COUPMID-CER: MID4075 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4075 3 -- not coup link
+COUPLINK-CER: MID4075 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4076
+
+TERRMID: MID4076 3 -- not territorial 
+TERRMID-CER: MID4076 1 -- certain
+TERRMID-NOTE: MID4076 per the cm narrative, Bougainville, a piece of PNG territory, is home to a secessionist rebel group. All three incidents were Papau New Guinea boats or troops crossing or approaching the Solomon Islands border. The first two incidents were in waters, the third was a border crossing on land. All three involved alleged pursuit of secessionist rebels. Coded not territorial because boundary was not disputed and MID was triggered by PNG pursuit of secessionist rebels into Solomon Islands.
+
+TERRLINK: MID4076 3 -- not territorial link
+TERRLINK-CER: MID4076 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4076 3 -- not maritime 
+MARITMID-CER: MID4076 1 -- certain
+MARITMID-NOTE: MID4076 per cm narrative, all three incidents were Papau New Guinea boats or troops crossing or approaching the Solomon Islands border. The first two incidents were in waters, the third was a border crossing on land. All three involved pursuit of secessionist rebels. Papuan vessels crossed the maritime boundary and fired on a village in "hot pursuit of rebels from Bougainville." Also, a Solomon patrol boat fired warning shots at a Papuan patrol vessel in Solomon waters. Coded not maritime because boundary was not disputed and MID not triggered by maritime issues. 
+
+ISLMID: MID4076 3 -- not island 
+ISLMID-CER: MID4076 1 -- certain
+ISLMID-NOTE: 
+
+CIVWARMID: MID4076 1 -- civil war 
+CIVWARMID-CER: MID4076 1 -- certain
+CIVWARMID-NOTES: MID4076 involved secessionist rebels in territory of Bougainville. Papuan patrol boats fired on Solomon village in "hot pursuit of rebels from Bougainville," per the cm narrative. Also involved were more incursions into SI by Papuan troops in pursuit of rebels. 
+
+CIVWARLINK: MID4076 3 -- not civil war link
+CIVWARLINK-CER: MID4076 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID4076 3 -- not coup 
+COUPMID-CER: MID4076 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4076 3 -- not coup link
+COUPLINK-CER: MID4076 1 -- certain 
+COUPLINK-NOTES: 
+
+rivalry=910940 nationa=PAPUA NEW GUINEA nationb=SOLOMON ISLANDS MID4075 19930305-19930400 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=. fatalpb=.
+lhostb=USE OF FORCE 
+
+The origins of this dispute go back to 1988, when the Bougainville Revolutionary Army wanted to join Solomon Islands. The dispute is related to three consecutive militarized incidents between Papua New Guinea and Solomon Islands. The first incident (OC00003) is an exchange of fire between Solomon Islands ground forces based on Shortland Island and an aircraft belonging to Papuan Defence Force. The second incident (OC 00002) is about the landing of four Papuan soldiers on the Solomon Island of Ovau and their subsequent attempt to land on the larger Mono Island. The final incident (OC00025) is a sea clash off Bougainville Island between patrol boats from Papua New Guinea and Solomon Islands on the eve of the resumption of border talks. First day of dispute was on 3/5/1993 and last day of dispute was on 4/00/1993.
+
+rivalry=910940 nationa=PAPUA NEW GUINEA nationb=SOLOMON ISLANDS MID4076 19960601-19961129 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+This dispute is based on three incidents between Papua New Guinea and Solomon Islands. The first incident (OC 00006) is related to the incursions of the Papuan patrol boats into the Solomon Islands waters and their firing on a village in "hot pursuit of rebels from Bougainville" (according to the Papuan Prime Minister). The second incident (OC 00008) occurred when one of the Solomon Islands patrol boats forced a Papuan defense vessel to turn back in Solomon waters by firing warning shots. The final incident (OC 00007) is related to the illegal border crossings of Papuan Defense Force soldiers into the Solomons' territory. It is claimed by Solomon Islands that the Papuan troops crossed from Bougainville to Telube in the Shortlands, and crossed to Sasamungga in Choiseul Province. Papua New Guinea's military commander defended these incursions into the Solomons' territory by resistance forces on Bougainville that are allied to the Papuan army. He accused Solomon Islands border police of not cooperating with Papua New Guinea to keep the border sealed. First day of dispute was on 6/1/1996 and last day of dispute was on 11/29/1996.
+
+RIVNOTES: 
+
+The two states solve their maritime border in the 1980s and these disputes involve Bougainville rebels running across borders. The Solomon Islands are not really actively supporting the rebels and there is no territorial claim by SI. Thus, negative peace (.50) is right, but not to the level of .75.
+
+MID4075 The origins of this dispute go back to 1988, when the Bougainville Revolutionary Army wanted to join Solomon Islands. The dispute is related to three consecutive militarized incidents between Papua New Guinea and Solomon Islands. The first incident (OC00003) is an exchange of fire between Solomon Islands ground forces based on Shortland Island and an aircraft belonging to Papuan Defence Force. The second incident (OC 00002) is about the landing of four Papuan soldiers on the Solomon Island of Ovau and their subsequent attempt to land on the larger Mono Island. The final incident (OC00025) is a sea clash off Bougainville Island between patrol boats from Papua New Guinea and Solomon Islands on the eve of the resumption of border talks. 
+
+MID4076 This dispute is based on three incidents between Papua New Guinea and Solomon Islands. The first incident (OC 00006) is related to the incursions of the Papuan patrol boats into the Solomon Islands waters and their firing on a village in "hot pursuit of rebels from Bougainville" (according to the Papuan Prime Minister). The second incident (OC 00008) occurred when one of the Solomon Islands patrol boats forced a Papuan defense vessel to turn back in Solomon waters by firing warning shots. The final incident (OC 00007) is related to the illegal border crossings of Papuan Defense Force soldiers into the Solomons' territory. It is claimed by Solomon Islands that the Papuan troops crossed from Bougainville to Telube in the Shortlands, and crossed to Sasamungga in Choiseul Province. Papua New Guinea's military commander defended these incursions into the Solomons' territory by resistance forces on Bougainville that are allied to the Papuan army. He accused Solomon Islands border police of not cooperating with Papua New Guinea to keep the border sealed.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+"HANDS OFF THE TRIGGER, SOLOMONS TELLS POLICE." 23 March 1993. Sydney Morning Herald, Sydney, Australia. Accessed via LexisNexis 12/7/2016.
+
+"PNG troops accused of shootout." 4/6/1993. The Age, Melbourne, Australia. Accessed via LexisNexis 12/7/2016.
+
+"Solomons in PNG Deal on Secessionists." 8/12/1993. The Advertiser. Accessed via LexisNexis 12/7/2016. 
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS: 
+
+MID4076 considered maritime MID 
+
+MARITIME-DISPUTE: MID4076
+ DYAD: PAPUA NEW GUINEA SOLOMON ISLANDS 910940
+ DATES: 19960601 19961129
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4076 This dispute is based on three incidents between Papua New Guinea and Solomon Islands. The first incident (OC 00006) is related to the incursions of the Papuan patrol boats into the Solomon Islands waters and their firing on a village in "hot pursuit of rebels from Bougainville" (according to the Papuan Prime Minister). The second incident (OC 00008) occurred when one of the Solomon Islands patrol boats forced a Papuan defense vessel to turn back in Solomon waters by firing warning shots. The final incident (OC 00007) is related to the illegal border crossings of Papuan Defense Force soldiers into the Solomons' territory. It is claimed by Solomon Islands that the Papuan troops crossed from Bougainville to Telube in the Shortlands, and crossed to Sasamungga in Choiseul Province. Papua New Guinea's military commander defended these incursions into the Solomons' territory by resistance forces on Bougainville that are allied to the Papuan army. He accused Solomon Islands border police of not cooperating with Papua New Guinea to keep the border sealed.

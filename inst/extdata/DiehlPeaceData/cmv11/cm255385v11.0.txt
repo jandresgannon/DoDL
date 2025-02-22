@@ -1,0 +1,67 @@
+FILE: cm255385v11.0.txt
+DYAD: GERMANY/PRUSSIA - NORWAY
+RIVALRY: RIV702
+DISPUTE(S): MID1771 MID1769 MID1656 
+RIVALRY: RIV703
+DISPUTE(S): MID3705 
+
+PS-LAST-CHANGED: 20180209 
+PS-LAST-CHECKED: 20180209 
+
+PSNOTES: Coded as .5 throughout because of occupied government
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1769 MID1656 
+
+WWII MIDs: MID3705
+
+MID1771
+
+TERRMID: MID1771 3 -- not territory
+TERRMID-CER: MID1771 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1771 1 -- third party link to territorial MID
+TERRLINK-CER: MID1771 1 -- certain
+TERRLINK-NOTES: MID1771 from Gibler (2018), this is connected to the Second Moroccan Crisis in which France invaded Morocco, to the chagrin of Germany. Germany issued military threats and deployed naval forces to attempt to compel France to leave Morocco, which Germany had a colonial stake in. It is unclear precisely how Norway is involved in this MID beyond the fact that Germany made a naval show of force off the coast of Norway. What is clear is that Norway had no direct stake in the Moroccan issue and made no threats to any other state, so Norway is not a direct party to the colonial territorial dispute. Coded third party link to territorial MID because Norway is pulled in to this territorial dispute between France and Germany when Germany made a show of force near NOrway's coast. 
+
+MARITMID: MID1771 3 -- not maritime 
+MARITMID-CER: MID1771 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1771 3 -- not islands 
+ISLMID-CER: MID1771 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1771 3 -- not civil war 
+CIVWARMID-CER: MID1771 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1771 3 -- not civil war link
+CIVWARLINK-CER: MID1771 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1771 3 -- not coup 
+COUPMID-CER: MID1771 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1771 3 -- not coup link
+COUPLINK-CER: MID1771 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV703: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Some 10,500 German troops commanded by General Nikolaus Falkenhorst invaded Norway on April 9, 1940, and German troops occupied Oslo on April 10, 1940. Norwegian military forces sank seven German naval ships on April 9-11, 1940. British naval ships intervened in support of Norway on April 10, 1940, but twelve British naval ships were destroyed by German naval ships between April 10 and June 10, 1940. British troops and French troops intervened in support of Norway between April 16 and June 10, 1940. German troops captured Dombas on April 30, 1940.
+
+SOURCES-CM: 
+Clodfelter, 1992, 792; Langer, 1972, 1136.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

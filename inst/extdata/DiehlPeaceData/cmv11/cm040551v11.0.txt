@@ -1,0 +1,55 @@
+FILE: cm040551v11.0.txt
+DYAD: CUBA - ZAMBIA
+RIVALRY: RIV152
+DISPUTE(S): MID1441 
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1441 
+
+TERRMID: MID1441 3 -- not territory
+TERRMID-CER: MID1441 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1441 3 -- not third party link to territory 
+TERRLINK-CER: MID1441 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1441 3 -- not maritime 
+MARITMID-CER: MID1441 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1441 3 -- not islands 
+ISLMID-CER: MID1441 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1441 3 -- not civil war 
+CIVWARMID-CER: MID1441 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1441 1 -- civil war link
+CIVWARLINK-CER: MID1441 1 -- certain
+CIVWARLINK-NOTES: MID1441 from NYT 1/16/1976 and 3/23/1976, Cuba (among others) was intervening or providing support in the Angolan Civil War. Cuba was providing support and troops to support anti-government rebels. From Washington Post 6/15/1978 and NYT 2/12/1972, Zambia was host to rebel groups who were crossing into Angola and fighting with nationalist guerrillas who were fighting to prop up the government. There is no indication that the Zambian government endorsed these guerrillas, but Zambia did protest when a hospital on the border with Angola was bombed in an apparent attack on nationalist guerrillas hiding in Zambia. This attack, along with the fact that rebels fighting in the Angolan civil war were hiding in Zambia, pulls Zambia into this MID. Cuba and Zambia (Zambian guerrillas) were supporting opposite sides in the Civil War. Coded civil war link because this MID was triggered by opposing support in the Angolan Civil War, outside of this dyad. 
+
+COUPMID: MID1441 3 -- not coup 
+COUPMID-CER: MID1441 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1441 3 -- not coup link
+COUPLINK-CER: MID1441 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 2/12/1972, 1/16/1976, 3/23/1976, Washington Post 6/15/1978

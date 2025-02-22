@@ -1,0 +1,93 @@
+FILE: cm365900v11.0.txt
+DYAD: RUSSIA/USSR - AUSTRALIA
+RIVALRY: RIV1022
+DISPUTE(S): MID1353 MID611 
+
+PS-LAST-CHANGED: 20180912
+PS-LAST-CHECKED: 20180912
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm002365 narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos. The USSR provided less direct support to communist insurgents. The US and Thailand supported the Royal Laotian Government (RLG) forces. Australia is drawn into this MID because it was in Vietnam supporting the US. Chinese forces directly engaged in combat with RLG forces, triggering this MID (due to the US and Thai support for RLG forces and USSR's support for communist forces). Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID611 
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 from cm002365 narrative, this is the Vietnam War. Soviet Union supported North Vietnam against South Vietnam. Australia fought alongside the South Vietnamese. The Vietnam War was both a territorial MID and a civil war MID. The territorial element comes from the fact each side claimed the entirety of the other's territory. This is coded as a third party link to territorial MID because Soviet Union and South Korea were involved in the North-South dispute by fighting with opposite sides. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: MID611 involved the disputation of maritime territory as well, but coded not maritime here neither dyad member is a claimant to the maritime territory. 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: MID611 involved the disputation of islands off the coast of South Vietnam as well, but coded not maritime here neither dyad member is a claimant to the maritime territory.
+
+CIVWARMID: MID611 3 -- not civil war 
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 the Vietnam War is also considered a civil war MID because North Vietnamese communist guerrillas were present in the South, fighting against the government as part of the war effort. Coded civil war link because North and South Vietnam are outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV1021 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. DATES (may not be accurate, see riv5.20all.cvs): 19390917 -19390929
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

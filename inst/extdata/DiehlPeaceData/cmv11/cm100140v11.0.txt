@@ -1,0 +1,55 @@
+FILE: cm100140v11.0.txt
+DYAD: COLOMBIA - BRAZIL
+RIVALRY: RIV263
+DISPUTE(S): MID2050 
+
+PS-LAST-CHANGED: 20170729
+PS-LAST-CHECKED: 20170730
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2050 
+
+TERRMID: MID2050 3 -- not territory
+TERRMID-CER: MID2050 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2050 1 -- third party link to territorial MID
+TERRLINK-CER: MID2050 3 -- uncertain
+TERRLINK-NOTES: MID2050 from MID-B data, this MID has date range 9/9/1932-5/25/1933. From NYT 12/3/1932, Brazil and Peru experienced a naval clash near the upper Amazon. This was connected to an ongoing dispute between Colombia and Peru, which was a territorial dispute centered on the town of Leticia. The COL-PER dispute at the time seems to have encouraged Brazil to dispatch reinforcement troops to the disputed area. Coded third party link to territory because this was connected to a territorial dispute between Colombia and Peru. Coded uncertain because it is not clear that a militarized incident occurred between Colombia and Brazil. There is no indication that Brazil was taking a side as opposed to attempting to ensure that conflict did not spill into its borders or that its own shipping was not disrupted. It seems that the mere presence of Brazilian naval vessels triggered this MID between them, but this is not sufficient for a MID. 
+
+MARITMID: MID2050 3 -- not maritime 
+MARITMID-CER: MID2050 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2050 3 -- not islands 
+ISLMID-CER: MID2050 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2050 3 -- not civil war 
+CIVWARMID-CER: MID2050 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2050 3 -- not civil war link
+CIVWARLINK-CER: MID2050 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2050 3 -- not coup 
+COUPMID-CER: MID2050 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2050 3 -- not coup link
+COUPLINK-CER: MID2050 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 12/3/1932

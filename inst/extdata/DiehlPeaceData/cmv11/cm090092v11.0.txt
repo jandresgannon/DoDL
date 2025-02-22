@@ -1,0 +1,141 @@
+FILE: cm090092v11.0.txt
+DYAD: GUATEMALA - EL SALVADOR
+RIVALRY: RIV10020
+DISPUTE(S): MID1533 MID1535 MID1534 MID1205 
+RIVALRY: RIV206
+DISPUTE(S): MID1171 
+RIVALRY: RIV207
+DISPUTE(S): MID2942 
+
+PS: 19009999-19060720 0.0 19060721-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: Rivalry begins before 1900
+
+PS-LAST-CHANGED: 20220217
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1533 MID1535 MID1534
+
+MID1205 
+
+TERRMID: MID1205 3 -- not territory
+TERRMID-CER: MID1205 1 -- certain 
+TERRMID-NOTES: MID1205 is the so-called Second Central American War. This war was not territorial, but was rather a war to influence the regime type of other Central American countries. 
+
+TERRLINK: MID1205 3 -- not third party link to territory 
+TERRLINK-CER: MID1205 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1205 3 -- not maritime 
+MARITMID-CER: MID1205 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1205 3 -- not islands 
+ISLMID-CER: MID1205 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1205 1 -- civil war MID
+CIVWARMID-CER: MID1205 1 -- certain
+CIVWARMID-NOTES: MID1205 from cm narrative, this is the conflict that grew into the Second Central American War. States in Central America often interfered in each other's domestic affairs in liberal vs. conservative conflicts. Here, El Salvador assisted exiled Guatemalan liberals in a revolution against the conservative government of Guatemala. Coded civil war MID because El Salvador was supporting revolutionaries in a civil conflict in Guatemala. 
+
+CIVWARLINK: MID1205 3 -- not civil war link
+CIVWARLINK-CER: MID1205 1 -- certain
+CIVWARLINK-NOTES: MID1205 this is a multilateral MID, but no civil conflict took place outside of Guatemala. 
+
+COUPMID: MID1205 3 -- not coup 
+COUPMID-CER: MID1205 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1205 3 -- not coup link
+COUPLINK-CER: MID1205 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1171 
+
+TERRMID: MID1171 3 -- not territory
+TERRMID-CER: MID1171 1 -- certain 
+TERRMID-NOTES: MID1171 from cm narrative, clashes occurred in 1935 after a boundary change between El Salvador, Guatemala, and Honduras. However, this was not a dispute centered on the border change, but was rather connected to attempts to forge a political union among Central American states (similar to the European Union). El Salvador and Guatemala both wanted the capital of the interstate union to be in their country, preventing the union from materializing and producing tensions that materialized into minor clashes along the new border. Coded not territory because the border was not disputed between these countries and the tensions were connected to disagreement over a political union. 
+
+TERRLINK: MID1171 3 -- not third party link to territory 
+TERRLINK-CER: MID1171 1 -- certain
+TERRLINK-NOTES: MID1171 El Salvador and Honduras (outside of this dyad) had a long-running boundary dispute, but this MID is not connected to that disputed boundary and does not involve Honduras. 
+
+MARITMID: MID1171 3 -- not maritime 
+MARITMID-CER: MID1171 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1171 3 -- not islands 
+ISLMID-CER: MID1171 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1171 3 -- not civil war 
+CIVWARMID-CER: MID1171 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1171 3 -- not civil war link
+CIVWARLINK-CER: MID1171 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1171 3 -- not coup 
+COUPMID-CER: MID1171 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1171 3 -- not coup link
+COUPLINK-CER: MID1171 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2942 
+
+TERRMID: MID2942 3 -- not territory
+TERRMID-CER: MID2942 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2942 3 -- not third party link to territory 
+TERRLINK-CER: MID2942 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2942 3 -- not maritime 
+MARITMID-CER: MID2942 1 -- certain
+MARITMID-NOTES: MID2942 from cm narrative, this MID occurred on 11/15/1970 and involved Guatemalan air attacks on Salvadoran fishing vessels in supposed violation of Guatemalan waters. This MID is unrelated to earlier rivalry issues. Coded not maritime because the maritime boundary was not disputed, and this was connected to fishing disagreements. 
+
+ISLMID: MID2942 3 -- not islands 
+ISLMID-CER: MID2942 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2942 3 -- not civil war 
+CIVWARMID-CER: MID2942 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2942 3 -- not civil war link
+CIVWARLINK-CER: MID2942 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2942 3 -- not coup 
+COUPMID-CER: MID2942 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2942 3 -- not coup link
+COUPLINK-CER: MID2942 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10024 adds MID1205 in 1906 which is clearly part of the ongoing dispute between the two countries.
+
+NARRATIVE CR:
+The rivalry between Guatemala and El Salvador is mostly due to the interventionist tendencies of both states toward the other in the midst of both Liberal and Conservative conflict and the pursuit of Central American unification. MID1533 on 2/15/1876 was a war started by Guatemalan president Justo Rufino Barrios, a liberal in power two years after toppling the previous Conservative regime. The war was an effort to create a new Central American union. While the creation of the union was unsuccessful, Barrios was able to secure the placement of Rafael Zaldivar to the presidency of El Salvador. In 1885, General Francisco Melendez overthrew Zaldivar leading to further Guatemalan intervention and the second mid between the two countries (MID1535 on 2/28/1885) during which time Guatemalan President Barrios was killed and his forces defeated. In 1889, a provisional pact of union creating the Republic of Central America was signed by Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica. This union never took effect. In 1890, General Carlos Erzeta of El Salvador took power during the suppression of a revolt, replacing President Francisco Melendez after executing him. In response, Guatemala refused to grant recognition to the Erzeta regime, leading to war between the two countries (MID1534 on 6/23/1890). In 1895, El Salvador, Honduras and Nicaragua signed the Pact of Amapala that called for the establishment of a union between the three countries. Again this union was not acheived due to changes of liberal leadership in the various countries. MID1205 on 3/15/1906 between Guatemala and El Salvador culminated into the so-called Second Central American War. Exiled Guatemalan Liberals were assisted by El Salvador to overthrow the Conservative Guatemalan President Cabrera. Because this conflict still pertains to the Liberal-Conservative conflict in Central America and to the general problem of the Central American states' persistent interference in the domestic political affairs of other Central American states it seems appropriate to include it in the rivalry. On September 1907, the United States and Mexico attempted to mediate the conflict in Washington, DC. The mediations produced several treaties providing for obligating the countries to mutual non-intervention and for non-recognition of governments born out of revolution. Perhaps the most important was the establishment of a Central American Bureau for advocating reunification and the Central American Court of Justice to settle disputes. 
+
+From 1906 to 1931, El Salvador was the most stable of regimes in Central America with little or no civil conflict during this period. Leadership during this period rotated between members of the two most prominent families, the Menendez and Quinones. This peace and stability allowed El Salvador to focus on social and economic issues. 
+
+In Guatemala beginning in 1913, border conflicts with Honduras began, perhaps shifting the focus away from the rivalry with El Salvador. In addition, around 1909, the US began a consistent policy of intervention to *maintain order* in the region beginning in the middle of the 19th century and continuing throughout the 20th (notably in neighborhing Nicaragua and Honduras). This US presence may have helped to reduce conflict between the Central American countries after the beginning of the 20th century. With the large presence of American and British companies requiring stability in the region for economic purposes (i.e. United Fruit Company), this explanation merits consideration. 
+
+MID1171 beginning on 8/28/1935 were various border clashes between the two countries as a result of boundary change around Mount Montecristi and Mount Brujo at the intersection of the border between El Salvador, Guatemala and Honduras. This dispute occurred at a time when Guatemala under President Jorge Ubico was trying to organize a political union among the five Central American states. El Salvador and Guatemala both wanted any political union to result in its country having the capital along with the presidency, thus making the realization of the union impossible. 
+
+MID2942 on 11/15/1970 involved Guatemalan air attacks on Salvadoran fishing vessels in supposed violation of Guatemalan waters and is unrelated to earlier rivalry issues.
+
+SOURCES-CR: 
+Blutstein et al (1979); Bethell (1991); *New York Times* 8/12/1935, 9/15/1935, 11/16/1970
+

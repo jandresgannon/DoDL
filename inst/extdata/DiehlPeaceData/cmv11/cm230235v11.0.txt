@@ -1,0 +1,73 @@
+FILE: cm230235v11.0.txt
+DYAD: SPAIN-PORTUGAL
+RIVALRY: RIV606
+DISPUTE(S): MID1540 
+RIVALRY: RIV607
+DISPUTE(S): MID210 
+
+PS: 19009999-19360731 .5 19360801-19390329 .25 19390330-19851231 .5 19860101-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad, 3 year MID in the late 30s
+
+PS-LAST-CHANGED: 20220223
+PS-LAST-CHECKED: 20220223
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1540 
+
+MID210 
+
+TERRMID: MID210 3 -- not territory 
+TERRMID-CER: MID210 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID210 3 -- not third party link to territory 
+TERRLINK-CER: MID210 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID210 3 -- not maritime 
+MARITMID-CER: MID210 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID210 3 -- not islands 
+ISLMID-CER: MID210 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID210 1 -- civil war MID
+CIVWARMID-CER: MID210 1 -- certain 
+CIVWARMID-NOTES: MID210 from Gibler 2018, this is the Spanish Civil war. General Franco, leading the anti-government forces, received support from other fascist states (Portugal, Italy, and Germany). Coded civil war MID because this was connected to the Spanish Civil War. 
+
+CIVWARLINK: MID210 3 -- not civil war link 
+CIVWARLINK-CER: MID210 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID210 3 -- not coup 
+COUPMID-CER: MID210 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID210 3 -- not coup link
+COUPLINK-CER: MID210 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+MID210 was over Italian involvement in the Spanish Civil War. For Italy and Germany the Spanish Civil war was a chance to test out their new methods of Tank and Air warfare. France and Britain were concerned about the shifting balance of power into the Fascist state's favor. The conflict was resolved with the rise of the fascist state in Spain and the defeat of the Republican government in November of 1936 (www.onwar.com).
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

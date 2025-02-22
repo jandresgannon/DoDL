@@ -1,0 +1,62 @@
+FILE: cm070200v11.0.txt
+DYAD: MEXICO - UNITED KINGDOM
+RIVALRY: RIV192
+DISPUTE(S): MID135 
+RIVALRY: RIV193
+DISPUTE(S): MID2311 MID2310 
+
+PSNOTES: 
+PS-LAST-CHANGED: 20170803
+PS-LAST-CHECKED: 20170803
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID135
+
+WWI MIDs: MID2310
+
+MID2311 
+
+TERRMID: MID2311 3 -- not territory
+TERRMID-CER: MID2311 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2311 3 -- not third party link to territory 
+TERRLINK-CER: MID2311 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2311 3 -- not maritime 
+MARITMID-CER: MID2311 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2311 3 -- not islands 
+ISLMID-CER: MID2311 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2311 1 -- civil war MID
+CIVWARMID-CER: MID2311 1 -- certain
+CIVWARMID-NOTES: MID2311 from NYT 2/14/1914, UK sent troops into Mexico in response to US advice that the British embassy might be the target of an attack during the ongoing revolution in Mexico. Coded civil war MID because there was an ongoing civil conflict and revolution in Mexico, and this caused Britain to deploy troops to its embassy to protect against an attack there. 
+
+CIVWARLINK: MID2311 3 -- not civil war link
+CIVWARLINK-CER: MID2311 1 -- certain
+CIVWARLINK-NOTES: MID2311 no civil war in states connected to, but outside, this dyad.
+
+COUPMID: MID2311 3 -- not coup 
+COUPMID-CER: MID2311 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2311 3 -- not coup link
+COUPLINK-CER: MID2311 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 2/14/1914

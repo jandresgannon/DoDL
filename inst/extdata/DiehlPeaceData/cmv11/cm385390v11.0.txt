@@ -1,0 +1,167 @@
+FILE: cm385390v11.0.txt
+DYAD: NORWAY-DENMARK
+RIVALRY: RIV104
+DISPUTE(S): MID2939 
+RIVALRY: RIV1041
+DISPUTE(S): MID2970 
+
+PS: 19050607-19520624 0.5 19520625-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220307
+PS-LAST-CHECKED: 20220307
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID2939 
+
+TERRMID: MID2939 3 -- not territory 
+TERRMID-CER: MID2939 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2939 3 -- not third party link to territory 
+TERRLINK-CER: MID2939 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2939 3 -- not maritime 
+MARITMID-CER: MID2939 3 -- uncertain 
+MARITMID-NOTES: MID2939 from Gibler, Miller, and Little 2016, Norway seized fishing trawlers from Denmark after they strayed into Norway's territorial waters. Coded not maritime because this was not connected to a maritime dispute, and coded uncertain because GML recommend the case be dropped. Denmark did not protest, and this should therefore not be a MID. 
+
+ISLMID: MID2939 3 -- not islands 
+ISLMID-CER: MID2939 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2939 3 -- not civil war 
+CIVWARMID-CER: MID2939 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2939 3 -- not civil war link 
+CIVWARLINK-CER: MID2939 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2939 3 -- not coup 
+COUPMID-CER: MID2939 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2939 3 -- not coup link
+COUPLINK-CER: MID2939 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2970 
+
+TERRMID: MID2970 3 -- not territory 
+TERRMID-CER: MID2970 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2970 3 -- not third party link to territory 
+TERRLINK-CER: MID2970 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2970 3 -- not maritime 
+MARITMID-CER: MID2970 3 -- uncertain 
+MARITMID-NOTES: MID2970 from Gibler, Miller, and Little 2016, Norway seized six Danish fishing boats that had strayed into Norwegian waters, and later released them. Coded not maritime because this was not connected to a maritime dispute, and coded uncertain because GML recommend the case be dropped. Denmark did not protest, and this should therefore not be a MID. 
+
+ISLMID: MID2970 3 -- not islands 
+ISLMID-CER: MID2970 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2970 3 -- not civil war 
+CIVWARMID-CER: MID2970 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2970 3 -- not civil war link 
+CIVWARLINK-CER: MID2970 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2970 3 -- not coup 
+COUPMID-CER: MID2970 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2970 3 -- not coup link
+COUPLINK-CER: MID2970 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+RIVNOTES: RIV1040 and RIV1041 seem to be related to the maritime boundaries between the Danish-held Greenland and the Norwegian-held Jan Mayen, even though I could not find specific information for this dates. This dispute was finally settled by the International Court of Justice in 1993. 
+
+NARRATIVE-CM:
+Denmark informed Norway of its intention to extend its "political and economic interests" to the entire island of Greenland on July 14, 1919, and requested formal recognition from Norway of Denmark's sovereignty over Greenland on January 18, 1921. Denmark announced its claim of sovereignty over southern Greenland on May 10, 1921, but Norway informed the Danish government that it could not recognize its claim since it would interfere with Norwegian fishing rights in the area. Danish and Norwegian representatives held negotiations concerning the dispute in Copenhagen and Kristiania beginning on September 25, 1923. Denmark and Norway signed an agreement on July 9, 1924, which provided for the protection of Norwegian fishing rights near southern Greenland. Norway claimed territory in eastern Greenland on June 28, 1931, but Denmark rejected the claim. Norway formally annexed eastern Greenland on July 10, 1931. The countries submitted the dispute to the *Permanent Court of International Justice* (PCIJ) on July 12, 1931. Norway annexed territory in southeast Greenland on July 12, 1932. The countries submitted the dispute to the PCIJ on July 18, 1932. The PCIJ decided the eastern Greenland dispute in favor of Denmark on April 5, 1933. The countries withdrew the southeast Greenland dispute from the PCIJ on April 18, 1933, and the PCIJ terminated its proceedings on the dispute on May 11, 1933.
+
+SOURCES-CM:
+Langer, 1972, 1043-1044; Preuss, 1932, 469-487; *Survey of International Affairs *(SIA), 1925 (supplement), 79, 1931, 516, 1932, 593, 1933, 584.
+
+NARRATIVE-CR:
+
+MID2939 was a Russian Trawler incident.
+
+DISPUTE: MID2939 RUSSIA/USSR SIDE B
+ NAME:
+ DATES: 19690109 19690109
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: NO MILITARIZED ACTION FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+DISPUTE: MID2939 DENMARK SIDE B
+ NAME:
+ DATES: 19690109 19690109
+ ORIGINATOR: YES
+ REVISION1: POLICY REVISION2: .
+ HOSTILITY: NO MILITARIZED ACTION FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+DISPUTE: MID2939 E. GERMANY SIDE B
+ NAME:
+ DATES: 19690109 19690109
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: NO MILITARIZED ACTION FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+DISPUTE: MID2939 NORWAY SIDE A
+ NAME:
+ DATES: 19690109 19690109
+ ORIGINATOR: YES
+ REVISION1: NOT APPLICABLE REVISION2: .
+ HOSTILITY: USE OF FORCE FATALITY: NONE RECIPROCATED: NO
+ OUTCOME: STALEMATE
+ VERSION: 3.1
+
+On 5/21/13 at 12:38 PM, balexandru1981@gmail.com (Alex Balas) wrote:
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+19459999-19520624 0.25 
+
+Denmark and Norway were founding members of the North Atlantic Treaty Organization (NATO) as of April 4, 1949. 
+
+19520625-20069999 0.00
+
+On June 25, 1952, the statute of the Nordic Council entered into force. On February 13, 1953 the first session of the Nordic Council (Norway, Sweden, Denmark, and Finland) was held. The introduction in 1952 of a common labour market and the free movement across borders without passports for the countries' citizens were the first actions of the Nordic Council.
+
+In 1960, Denmark and Norway were founding members of the European Free Trade Association. 
+
+PS-SOURCES: 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: 
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

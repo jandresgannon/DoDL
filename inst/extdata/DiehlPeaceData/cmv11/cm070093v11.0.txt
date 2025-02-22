@@ -1,0 +1,55 @@
+FILE: cm070093v11.0.txt
+DYAD: MEXICO - NICARAGUA
+RIVALRY: RIV19
+DISPUTE(S): MID1203 
+
+PS-LAST-CHANGED: 20170706
+PS-LAST-CHECKED: 20170712
+
+Territorial-Maritime-Boundary Issues Variables 
+
+MID1203 
+
+TERRMID: MID1203 3 -- not territory
+TERRMID-CER: MID1203 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1203 3 -- not third party link to territory 
+TERRLINK-CER: MID1203 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1203 3 -- not maritime 
+MARITMID-CER: MID1203 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1203 3 -- not islands 
+ISLMID-CER: MID1203 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1203 1 -- civil war MID
+CIVWARMID-CER: MID1203 1 -- certain
+CIVWARMID-NOTES: MID1203 from cm002093v11.0 narrative, throughout the 20th century, the US policy in Nicaragua was to influence the tide of civil wars by assisting rebels when a rebel victory would result in a US-friendly regime, or to assist a friendly government against rebel forces. MID1203 occurred in 1909 and involved the US assisting the rebels against President Jose Zelaya. The NYT reported on 3/15/1909 that Mexico voiced its support for US intervention and dispatched a gunboat to Nicaraguan waters, pulling Mexico into this MID. Coded civil war MID because Mexico helped the US intervene in the Nicaraguan civil war against the government, triggering this MID. 
+
+CIVWARLINK: MID1203 3 -- not civil war link
+CIVWARLINK-CER: MID1203 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1203 1 -- coup MID
+COUPMID-CER: MID1203 1 -- certain 
+COUPMID-NOTES: MID1203 involved a rebellion led by a general, Juan Estrada. General Estrada was also a member of the conservative party and was a political figure. Coded coup MID because Estrada was a general, a member of the elite/establishment, who overthrew the government. Also coded a civil war MID because the overthrow was in the context of a civil war (see CIVWARMID-NOTES MID1203). 
+
+COUPLINK: MID1203 3 -- not coup link
+COUPLINK-CER: MID1203 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+New York Times 3/15/1909. "Mexico to Support Action in Nicaragua." 

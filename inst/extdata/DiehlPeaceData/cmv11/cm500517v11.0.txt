@@ -1,0 +1,455 @@
+FILE: cm500517v11.0.txt
+DYAD: UGANDA-RWANDA
+RIVALRY: RIV1110
+DISPUTE(S): MID2621 
+RIVALRY: RIV1111
+DISPUTE(S): MID3979 MID4252 MID4253 MID4310 
+
+RIVNOTES: 
+
+PS: 19621009-19710806 0.5 19710807-20100628 0.00 20100629-20209999 0.50
+
+PS-UPDATE2020: In 2019, Rwanda closed its border to Uganda after accusing Uganda of supporting rebel groups in order to destabilize Rwanda. It just recently reopened its border after three years: https://www.voanews.com/a/uganda-rwanda-agree-to-reopen-border-after-3-years-/6416798.html and https://www.france24.com/en/africa/20220128-rwanda-to-reopen-land-border-with-uganda-after-three-years-as-relations-thaw
+
+PS-NOTES: The rivalry period is extended through 20100628, which is the end date of their last MID. The last period starts on 20100629 through 20159999 and is coded at negative peace. Since their last MID, they have both been in an alliance supporting the same rebel group (M23) in 2012 and 2013. In addition, they have also agreed to complete border demarcation in 2010, even though still not complete, it shows relations have been continuously improved post 2010. 
+
+PS-LAST-CHANGED: 20220314
+PS-LAST-CHECKED: 20220314
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2621
+
+TERRMID: MID2621 3 -- not territory
+TERRMID-CER: MID2621 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2621 3 -- not third party link to territory 
+TERRLINK-CER: MID2621 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2621 3 -- not maritime 
+MARITMID-CER: MID2621 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2621 3 -- not islands 
+ISLMID-CER: MID2621 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2621 1 -- civil war MID
+CIVWARMID-CER: MID2621 3 -- uncertain
+CIVWARMID-NOTES: MID2621 from Gibler, Miller, and Little 2016, Uganda ordered the border with Tanzania and Rwanda closed because it claimed that rebels from Zambia were entering Uganda through Rwanda. Coded civil war MID because this was connected to militarized rebel activity in Uganda and Rwanda, within this dyad. Coded uncertain because GML argue this is not a MID since the border closure was directed at rebels and was not a show of force. 
+
+CIVWARLINK: MID2621 3 -- not civil war link
+CIVWARLINK-CER: MID2621 3 -- uncertain
+CIVWARLINK-NOTES: MID2621 from GLM, Idi Amin referred to anti-Ugandan rebels in Zambia. The rebels were seeking refuge in Zambia while targeting the Ugandan regime, and Amin was attempting to prevent them from launching attacks in Uganda. The closing of the border is therefore considered to be directed toward Zambia, but GML argue this MID should be dropped since it is actually toward the rebels in Zambia. This mid involved rebels in Zambia, outside this dyad; yet because they fought only against Uganda, in this dyad, our coding rules label this a non-civil-war-link. 
+
+COUPMID: MID2621 3 -- not coup 
+COUPMID-CER: MID2621 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2621 3 -- not coup link
+COUPLINK-CER: MID2621 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3979
+
+TERRMID: MID3979 3 -- not territory
+TERRMID-CER: MID3979 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3979 3 -- not third party link to territory 
+TERRLINK-CER: MID3979 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3979 3 -- not maritime 
+MARITMID-CER: MID3979 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3979 3 -- not islands 
+ISLMID-CER: MID3979 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3979 1 -- civil war MID
+CIVWARMID-CER: MID3979 1 -- certain
+CIVWARMID-NOTES: MID3979 from Gibler 2018, Rwanda was fighting against rebels who were seeking refuge in Uganda, and in 1991 Rwanda crossed into Uganda and opened fire on a village to attack those rebels. Coded civil war MID because this was connected to militarized rebel activity in Uganda and Rwanda, within this dyad. 
+
+CIVWARLINK: MID3979 3 -- not civil war link
+CIVWARLINK-CER: MID3979 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3979 3 -- not coup 
+COUPMID-CER: MID3979 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3979 3 -- not coup link
+COUPLINK-CER: MID3979 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4252
+
+TERRMID: MID4252 3 -- not territory
+TERRMID-CER: MID4252 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4252 3 -- not third party link to territory 
+TERRLINK-CER: MID4252 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4252 3 -- not maritime 
+MARITMID-CER: MID4252 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4252 3 -- not islands 
+ISLMID-CER: MID4252 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4252 3 -- not civil war 
+CIVWARMID-CER: MID4252 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4252 1 -- civil war link
+CIVWARLINK-CER: MID4252 1 -- certain
+CIVWARLINK-NOTES: MID4252 from Gibler 2018, Uganda and Rwanda supported rival factions in an ongoing civil war in DRC, and their rival support led to direct clashes between Ugandan and Rwandan forces there. Coded civil war link because this was connected to a civil war in DRC, outside this dyad. 
+
+COUPMID: MID4252 3 -- not coup 
+COUPMID-CER: MID4252 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4252 3 -- not coup link
+COUPLINK-CER: MID4252 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4253
+
+TERRMID: MID4253 3 -- not territory
+TERRMID-CER: MID4253 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4253 3 -- not third party link to territory 
+TERRLINK-CER: MID4253 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4253 3 -- not maritime 
+MARITMID-CER: MID4253 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4253 3 -- not islands 
+ISLMID-CER: MID4253 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4253 3 -- not civil war 
+CIVWARMID-CER: MID4253 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4253 1 -- civil war link
+CIVWARLINK-CER: MID4253 1 -- certain
+CIVWARLINK-NOTES: MID4253 from Gibler 2018, this is another MID connected to the DRC civl war. In 2000, as Uganda and Rwanda were supporting opposite rebel factions in the DRC civil war, Ugandan and Rwandan troops clashed. Coded civil war link because this was connected to a civil war in DRC, outside this dyad. 
+
+COUPMID: MID4253 3 -- not coup 
+COUPMID-CER: MID4253 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4253 3 -- not coup link
+COUPLINK-CER: MID4253 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4310
+
+TERRMID: MID4310 3 -- not territory
+TERRMID-CER: MID4310 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4310 3 -- not third party link to territory 
+TERRLINK-CER: MID4310 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4310 3 -- not maritime 
+MARITMID-CER: MID4310 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4310 3 -- not islands 
+ISLMID-CER: MID4310 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4310 3 -- not civil war 
+CIVWARMID-CER: MID4310 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4310 1 -- civil war link
+CIVWARLINK-CER: MID4310 1 -- certain
+CIVWARLINK-NOTES: MID4310 from cm narrative, Uganda and Rwanda have been involved in several disputes related to the Democratic Republic of Congo conflict. In this MID, Uganda reinforced its border with Rwanda due to fears of an impending attack from Rwanda. From The Monitor 10/25/2001, the feared attack was due to Rwandan troops, not rebels, amassing at the border. Coded civil war link because this was connected to Uganda and Rwanda's opposing support in the DRC civil war, outside this dyad. 
+
+COUPMID: MID4310 3 -- not coup 
+COUPMID-CER: MID4310 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4310 3 -- not coup link
+COUPLINK-CER: MID4310 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4356
+
+TERRMID: MID4356 3 -- not territory
+TERRMID-CER: MID4356 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4356 3 -- not third party link to territory 
+TERRLINK-CER: MID4356 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4356 3 -- not maritime 
+MARITMID-CER: MID4356 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4356 3 -- not islands 
+ISLMID-CER: MID4356 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4356 1 -- civil war MID
+CIVWARMID-CER: MID4356 1 -- certain
+CIVWARMID-NOTES: MID4356 coded civil war MID because Rwandan forces invaded DRC partly to fight against Rwandan rebels (targeting the Rwandan government) who were operating in DRC. This is therefore connected to civil conflict in Rwanda, within this dyad. 
+
+CIVWARLINK: MID4356 1 -- civil war link
+CIVWARLINK-CER: MID4356 1 -- certain
+CIVWARLINK-NOTES: MID4356 from Gibler 2018, Rwandan forces moved into DRC and claimed that they were countering Rwandan rebels (fighting against the Rwandan regime) and Ugandan forces in the area they invaded. Coded civil war link because this was connected to militarized rebel activity in DRC, outside this dyad. 
+
+COUPMID: MID4356 3 -- not coup 
+COUPMID-CER: MID4356 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4356 3 -- not coup link
+COUPLINK-CER: MID4356 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4372
+
+TERRMID: MID4372 3 -- not territory
+TERRMID-CER: MID4372 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4372 3 -- not third party link to territory 
+TERRLINK-CER: MID4372 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4372 3 -- not maritime 
+MARITMID-CER: MID4372 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4372 3 -- not islands 
+ISLMID-CER: MID4372 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4372 1 -- civil war MID
+CIVWARMID-CER: MID4372 1 -- certain
+CIVWARMID-NOTES: MID4372 the Rwandan military was fighting in DRC against Rwandan rebels (targeting the Rwandan regime). This is therefore connected to civil conflict in Rwanda, within this dyad. 
+
+CIVWARLINK: MID4372 1 -- civil war link
+CIVWARLINK-CER: MID4372 1 -- certain
+CIVWARLINK-NOTES: MID4372 from Gibler 2018, Uganda fortified its border with Rwanda to prevent fighting from spilling over into Uganda from DRC, where Uganda and Rwanda were supporting opposing rebel factions. Coded civil war link because this was connected to militarized rebel activity in DRC, outside this dyad. 
+
+COUPMID: MID4372 3 -- not coup 
+COUPMID-CER: MID4372 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4372 3 -- not coup link
+COUPLINK-CER: MID4372 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4406
+
+TERRMID: MID4406 3 -- not territory
+TERRMID-CER: MID4406 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4406 3 -- not third party link to territory 
+TERRLINK-CER: MID4406 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4406 3 -- not maritime 
+MARITMID-CER: MID4406 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4406 3 -- not islands 
+ISLMID-CER: MID4406 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4406 1 -- civil war MID
+CIVWARMID-CER: MID4406 1 -- certain
+CIVWARMID-NOTES: MID4406 from Gibler 2018, Rwanda fortified its border with Uganda in response to rebel attacks. Coded civil war MID because this was connected to anti-Rwandan rebels in Uganda, within this dyad. 
+
+CIVWARLINK: MID4406 3 -- not civil war link
+CIVWARLINK-CER: MID4406 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4406 3 -- not coup 
+COUPMID-CER: MID4406 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4406 3 -- not coup link
+COUPLINK-CER: MID4406 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4356
+rivalry=500517 nationa=RWANDA nationb=UGANDA MID4356 20030311-20030311 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+THREAT TO USE FORCE 
+
+Following the incidents of MID4347, Rwanda engaged in a series of occupations of DRC territory in violation of the July 31, 2002 peace agreement. These occupations occurred due to what Rwanda claimed were the formation of alliances between Ugandan military forces and anti- Rwandan rebels based in DRC. It remains largely unclear for how long the occupations of DRC territory occurred. First day of dispute was on 3/11/2003 and last day of dispute was on 3/11/2003.
+
+MID4372
+rivalry=500517 nationa=UGANDA nationb=RWANDA MID4372 20041202-20041204 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=.
+lhostb=USE OF FORCE 
+
+Uganda fortified its border with Rwanda to prevent Rwadan troops, operating in DRC against anti-Rwandan rebels, from moving through Ugandan territory. A few days later, Ugandan and Rwandan troops clashed in Uganda. First day of dispute was on 12/2/2004 and last day of dispute was on 12/4/2004.
+
+MID4406
+rivalry=500517 nationa=RWANDA nationb=UGANDA MID4406 20100628-20100628 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION
+
+Beginning on June 28, 2010, Rwanda deployed additional troops to its border with the southwestern Ugandan district of Kabale. First day of dispute was on 6/28/2010 and last day of dispute was on 6/28/2010.
+
+MID3 1993-2001:
+
+MID4252
+rivalry=500517 nationa=UGANDA nationb=RWANDA MID4252 19990814-19990818 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+Uganda and Rwanda were allies in the Democratic Republic of Congo war. When the rebel groups they supported split into factions, they chose to support opposite sides. This dispute began when Uganda landed troops in Kisangani and a clash with Rwandan troops ensued. First day of dispute was on 8/14/1999 and last day of dispute was on 8/18/1994.
+
+MID4253
+rivalry=500517 nationa=UGANDA nationb=RWANDA MID4253 20000505-20000611 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+Rwanda and Uganda were allies in the Democratic Republic of Congo war, but ended up supporting opposing rebel groups inside the Democratic Republic of Congo. In this dispute they battle for control of Kisangani. First day of dispute was on 5/5/2000 and last day of dispute was on 6/11/2000.
+
+MID4310
+rivalry=500517 nationa=UGANDA nationb=RWANDA MID4310 20010326-20011030 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Uganda and Rwanda have been involved in several disputes related to the Democratic Republic of Congo conflict. In this mid, Uganda reinforced its border with Rwanda due to fears of an impending attack from Rwanda. First day of dispute was on 3/26/2001 and last day of dispute was on 10/30/2001.
+
+NARRATIVE-CM:
+The Rwanda Patriotic Front (RPF) invaded Rwanda from Ugandan territory on September 30, 1990. Rwanda accused Uganda of supporting the RPF. Rwanda and Uganda agreed to a ceasefire on February 17, 1991, but the ceasefire was broken on March 9, 1991. Rwanda and Uganda referred the matter to the United Nations (UN) Security Council on February 22, 1993. The UN Security Council established the United Nations Observer Mission Uganda-Rwanda (UNOMUR) on June 22, 1993. UNOMUR consisted of 81 military observers from eight countries headed by Brigadier-General Romeo Dallaire of Canada. UNOMUR was disbanded on September 21, 1994. Rwandan and Ugandan troops clashed near Kisangani, Congo on August 14-17, 1999, resulting in the deaths of some 300 individuals. Rwandan troops and Ugandan troops clashed near Kisangani, Congo on May 5-9, 2000, resulting in the deaths of 28 civilians and 15 soldiers. President Yoweri Museveni of Uganda and President Paul Kagame of Rwanda held negotiations in Mwanza, Tanzania, and the leaders agreed to withdraw their troops from Kisangani on May 14, 2000. Rwandan troops and Ugandan troops began withdrawing their troops from Kisangani on May 29, 2000. Rwandan troops and Ugandan troops resumed military hostilities near Kisangani on June 5, 2000. UN Secretary-General Kofi Annan appealed for a ceasefire on June 7, 2000, and the UN Security Council condemned the countries on June 7, 2000. Foreign Minister Louis Michel of Belgium appealed for a ceasefire on June 8, 2000, and Organization of African Unity (OAU) Secretary-General Salim Ahmed Salim condemned the countries on June 8, 2000. The European Union (EU) appealed for a ceasefire on June 9, 2000. Ugandan troops withdrew from Kisangani on June 11, 2000. Some 200 soldiers and 400 civilians were killed during the military hostilities on June 5-19, 2000. The International Committee of the Red Cross (ICRC) assisted with the repatriation of 28 Ugandan prisoners-of-war captured by Rwandan troops in the Democratic Republic of Congo on June 26, 2000.
+
+SOURCES-CM: Associated Press (AP), August 18, 1999, May 16, 2000, May 29, 2000; Brecher and Wilkenfeld, 1997, 485-486; International Committee of the Red Cross (ICRC) press release, June 30, 2000; Panafrican News Agency (PANA), May 10, 2000, May 14, 2000, May 22, 2000, June 6, 2000, June 7, 2000, June 8, 2000, June 11, 2000; Reuters, May 29, 2000, June 5, 2000, June 6, 2000, June 8, 2000, June 9, 2000; United Nations press release, June 7, 2000.
+
+NARRATIVE-CR:
+On April 25, 1971, President Idi Amin of Uganda accused several African states of planning an attack on his country. The meetings to plan this attack, according to Amin had been headed by Somalia, and attended by Rwanda, Zambia, Tanzania, and Burundi. These allegations were denied. Amin closed his border with Rwanda on July 7, 1971 because of its lack of support for his regime. The border was reopened on August 7 of that year. This is MID2621, and is listed as the first rivalry between Rwanda and Uganda. While this clearly has to do with opposition to the military coup of Amin in January of 1971, it does not seem to qualify as an actual rivalry as only one MID is listed, which was fairly low level hostility.
+
+The first MID listed for the second rivalry between Rwanda and Uganda occurred in 1991. The Rwanda Patriotic Front (RPF) invaded Rwanda from Ugandan territory on September 30, 1990. Rwanda accused Uganda of supporting the RPF. Further attacks by the RPF occurred in January of 1991. A group of about 400 to 600 RPF fighters temporarily occupied the town of Ruhengeri in north-west Rwanda on January 23, 1991. This is MID3979. Rwanda and Uganda agreed to a ceasefire on February 17, 1991, but the ceasefire was broken on March 9, 1991. 
+
+The first MID listed for RIV1111 between Rwanda and Uganda occurred in 1991. The Rwanda Patriotic Front (RPF) invaded Rwanda from Ugandan territory on September 30, 1990. Rwanda accused Uganda of supporting the RPF. Further attacks by the RPF occurred in January of 1991. A group of about 400 to 600 RPF fighters temporarily occupied the town of Ruhengeri in north-west Rwanda on January 23, 1991. This is MID3979. Rwanda and Uganda agreed to a ceasefire on February 17, 1991, but the ceasefire was broken on March 9, 1991. 
+
+Heavy fighting was reported in northern Rwanda on October 26, 1990, as the presidents of Rwanda and Uganda continued their efforts to find a diplomatic solution to the nearly month-old civil war. ''We always expect good things,'' one Rwandan diplomat in Kenya said of the scheduled meeting Friday between President Juvenal Habyarimana and Ugandan leader Yoweri Museveni in neighboring Zaire. As the leaders met, however, state-run Rwanda radio Friday reported government troops had killed 320 rebels in battles in Gabiro and Mutase, in northern Rwanda. ''The battles are continuing until the last rebel is crushed,'' the radio report said. The fighting began Oct. 1 when thousands of armed Rwandan rebels, previously exiled in Uganda, stormed across the border into Rwanda determined to overthrow the largely Hutu-tribe government. Led by trained guerrilla fighter Maj. Gen. Fred Rwigyema, the rebel Rwandese Patriotic Front is made up mainly of Tutsi tribe refugees whose families fled to Uganda during tribal killings in Rwanda. Extensive shuttle diplomacy between Belgium, Rwanda's former colonial ruler, Rwanda and Uganda, France, Zaire and Kenya, has so far failed to end the conflict. A cease-fire coordinated between Belgium and Rwanda last Wednesday has also failed. Belgian Prime Minister Wilfried Martens said at the time, however, he did not know if the rebels had been aware of the agreement. France and Belgium have sent troops to Rwanda to protect their nationals working in the tiny East African nation. On Friday, however, the Belgian Cabinet was to decide whether or not to keep its forces there. There are some 500,000 Rwandans living in the countries around Rwanda, with an estimated 80,000 in Uganda alone. Responding to calls to allow these refugees to return home, Habyarimana said earlier this year that Rwanda-the most densely populated nation in Africa-had no room for returning exiles. Habyarimana's position on the exiles is one of the RPF's main complaints against the Rwandan government, which it has accused of being corrupt and regionalist.
+
+On January 15, 1991, the Uganda government has dismissed as totally unfounded and malicious statements made by Kigali authorities that Uganda is assisting Rwandan rebels in further plans to invade Rwanda. A statement issued by the Ministry of Foreign and Regional Affairs, said the government of Rwanda has for the last one week broadcast on their national radio, hostile, totally unfounded and malicious propaganda against the government of Uganda to the effect that Uganda is assisting Rwandan rebels in further plans to invade Rwanda. Information to this effect is said to have been supplied to Rwanda by the 'Kenya Times' of Nairobi, Kenya. Rwandan authorities went further to say that the purpose of the invasion is to disrupt the forthcoming regional conference on refugees scheduled for 17th and 19th of January in Kinshasa, and the subsequent summit to take place in Tanzania. 
+
+On May 25, 1992, Rwanda has expressed the hope that the Ugandan government will help her to find solutions to her present two main problems, that of Rwandese refugees living outside the country and the conflict now going on in the Central African state. Speaking at State House, Entebbe, after delivering a special message from President Juvenal Habyarimana to President Yoweri Museveni, the visiting Rwandese Foreign Minister said the Rwandese government recognizes that the Rwandese refugees living outside the country are Rwandese people and it must make arrangements for their voluntary repatriation. On the conflict in Rwanda, Mr. Boniface Ngulinzira said his government is ready to enter into dialogue with the Rwandese Patriotic Front [RPF]. During the discussion with President Museveni, Mr Ngulinzira told the Ugandan head of state that the Rwandese government is committed to the normalization of bilateral relations between Uganda and Rwanda based on mutual confidence and cooperation. He also briefed the President about the situation in Rwanda. President Museveni, on his part, was happy to hear that the government of Rwanda is ready to tackle her problems, which are keeping the people of Rwanda apart, and appealed to the leadership of Rwanda to do everything possible to ensure unity of its people. He was also happy to note that the Rwandese government recognizes the problems of Rwandese refugees as a Rwandese problem which must be solved by the people of Rwanda themselves. He assured the minister that the NRM government is ready to help the people of Rwanda in finding a solution to their problems if asked to do so. He also assured the minister that there is no truth to rule that the Rwandese Patriotic Front is based in Uganda. On bilateral relations, the President welcomed Rwanda's readiness to strengthen cooperation between our two sister countries, pointing out that there is no real problem between Uganda and Rwanda.
+
+Rwandan and Ugandan troops clashed near Kisangani, Congo on August 14-17, 1999, resulting in the deaths of some 300 individuals. This is MID4252. Both countries had forces in Kisangani, backing rebels attempting to overthrow President Kabila of Congo. Each state was backing a different rebel in hopes that they would benefit from eventual agreements in terms of access to resources such as timber, tea, coffee, gold, and diamonds.
+
+Rwandan troops and Ugandan troops clashed again near Kisangani, Congo on May 5-9, 2000, resulting in the deaths of 28 civilians and 15 soldiers. President Yoweri Museveni of Uganda and President Paul Kagame of Rwanda held negotiations in Mwanza, Tanzania, and the leaders agreed to withdraw their troops from Kisangani on May 14, 2000. Rwandan troops and Ugandan troops began withdrawing their troops from Kisangani on May 29, 2000. Rwandan troops and Ugandan troops resumed military hostilities near Kisangani on June 5, 2000. Ugandan troops withdrew from Kisangani on June 11, 2000. Some 200 soldiers and 400 civilians were killed during the military hostilities on June 5-19, 2000. This was MID4253.
+
+Fighting continued in the Congo throughout 2001 (MID4310) and beyond. Between 1998 and 2002, over three million people were killed in this war. Uganda and Rwanda continued to back rebel forces as part of the conflict, however they were not directly involved anymore. 
+
+The last MID of RIV1111, MID4310 ended on October 30, 2001. MID4310 Uganda and Rwanda have been involved in several disputes related to the Democratic Republic of Congo conflict. In this MID, Uganda reinforced its border with Rwanda due to fears of an impending attack from Rwanda. 
+
+Uganda and Rwanda have agreed to put together mechanisms to improve bilateral relations between the two countries, said a press release from Ugandan President's Office on November 7, 2001. After Ugandan President Yoweri Museveni and his Rwandan counterpart Paul Kagame held talks in London both countries have decided to set up a team to follow up all the matters agreed on by the two presidents, said the release. The joint verification teams, which will comprise Uganda, Rwanda and the United Kingdom, will be going to various sites to check on the alleged presence of dissidents in either country. Uganda accused Rwanda of harboring and backing renegade army officers who declared war on the Kampala government, while Rwanda echoed the same fears, accusing Uganda of backing renegade Rwanda People's Army officers.
+
+On February 27, 2002, Rwanda government has accused Uganda of propagating a "misinformation campaign" against it. Regional diplomatic sources said that Rwandan military officials wrote to their Uganda counterparts on February 25, 2002, complaining that certain articles published in the government media are meant to project Rwanda in bad light. The letter, addressed to Maj James Mugira, head of Uganda delegation Rwanda-Uganda Joint Verification and Investigation Committee was also copied to Lt-Col Chris Wilton an observer of the Claire Short-brokered peace mission from the United Kingdom. "This is for the record again since there seems to be no end to the subject of misinformation. It is unfortunate that the Government of Uganda has maintained a misinformation campaign aimed at confusing the people of Uganda and indeed the international community regarding Rwanda," the letter signed by, Col Charles Kayonga, head of Rwanda delegation Rwanda-Uganda Joint Verification and Investigation Committee said. The complaint is in reference to articles that appeared in the government owned New Vision newspaper. Presidents Yoweri Museveni and Paul Kagame met on February 24, 2002, at Katuna along the Rwanda-Uganda border and Kabale southwestern Uganda and "emphasized their desire to resolve any misunderstanding directly through bilateral channels rather than by means of public statements or press articles".
+
+On 8 January, 2003, Rwanda government spokesman Joseph Bideri said they "have irrefutable evidence" about treacherous plans by Uganda against them. Bideri was responding to reports that a Congolese rebel who fled Kampala recently claimed on Rwandan radio and television that Uganda is training rebels (including Interahamwe Hutu militia) to attack its southern neighbor. Bideri said because of the military threat that Uganda is posing, Kigali has decided to "involve third parties in the region and the wider international community". Bideri said that Rwanda would take the evidence before Britain that has been involved in negotiating between the two countries. However, Ugandan Minister of State for Foreign Affairs in charge of Regional Cooperation Col Kahinda Otafiire challenged Rwanda to bring the said evidence to a neutral party for verification before going to the United Nations. Jean Bosco Barihima, the president of the Patriotic Movement for the Liberation of Eastern Congo, fled to Kigali on New Year's Eve and has accused Uganda of training his forces and other rebels to attack Rwanda. "Let the British select a team which can come with Barihima and let him show us where these training camps are," Otafiire said. "These places they are talking about are refugee settlements manned by UNHCR," he said. Barihima alleged that the Ugandan government has trained 2,000 anti-Rwanda rebels in Nakivale in Mbarara southern Uganda and Kyangwali in Masindi western Uganda. "We have analyzed his information and we have no doubt that this is true," Bideri said. The UN and the British government have been active in attempts to resolve simmering tensions between Rwanda and Uganda. Asked if Rwanda had prepared to counter any threat, Bideri said: "Rwanda Defense Forces are capable of containing whatever threat in whatever form as they have demonstrated on several occasions before." Uganda accuses Rwanda of harboring dissident Uganda People's Defense Forces officers, colonels Samson Mande and Anthony Kyakabale, and training anti-Uganda forces. Ugandan and Rwandan forces clashed three times while in the DRCongo. Those clashes soured the relationship between the former allies.
+
+No Ugandan aircraft violated Rwanda airspace the week of February 24, 2003, contrary to claims by Kigali, Foreign Affairs State Minister Tom Butime said. Butime told a press conference in Kampala that Rwanda could have "eavesdropped" on a technical error by Entebbe Airport area controller that the aircraft strayed into their territory. The clarification was sent in form of a diplomatic note, Butime said. Rwanda this week summoned Uganda's ambassador to Kigali, Linda Bazirake, and protested the alleged violation of their airspace by Uganda "military aircraft". But Butime said, "The government of Uganda wishes to state that there was no aircraft known to the Ugandan authorities that violated the Rwanda airspace from Uganda on 20 February 2003 or any other day." He said the radio communication which Rwanda was referring to suggesting that the aircraft was outside Uganda may have been picked by other parties. "This communication was in error and could have been the origin of the allegation," he added. Butime said the aircraft in question, 5Y-MAP PA31, belongs to Photomap Kenya Limited and is operated by the International Centre for Research in Agro-Forestry of Nairobi, with an office in Kabale. It was in Uganda on assignment to survey Kabale water catchment areas. "It was noted that in the transcript recorded at 10.00 a.m. local time, the Entebbe area controller erred in his estimation of the aircraft when he informed the pilot that it was outside the borders of Uganda. It was clearly established that the aircraft was within Ugandan borders to the north of Kabale, which is far from the border with Rwanda," Butime, flanked by Uganda's ambassadors Adonia Ayebare and Mull Katende, said. A consul at the Russian embassy in Uganda, Michael Kruchinin, attended. Butime said Rwanda and DR Congo had been informed before the plane flew to western Uganda. Katende said the Uganda-Rwanda ties were improving.
+
+Rwanda and Uganda agreed on 11 November, 2004 to conduct joint security operations along their common border in a bid to curb cross-border crime, a move that would also foster relations between the two countries. At a meeting in the Rwandan capital, Kigali, officials of both countries said crimes such as drug trafficking, fraud and cross-border robbery were on the rise. They resolved to undertake joint security operations along the border. In a statement issued after the meeting, officials resolved "to constantly exchange information between the two parties on issues of cross-border crime and carry out mobile patrols as a way of reducing the increasing crime". Cases of robbery of vehicles, mainly from Rwanda to the Ugandan capital, Kampala, have increased lately. Similarly, vehicles and other valuable items stolen from Uganda have been taken into Rwanda with some articles ending up in parts of eastern Democratic Republic of the Congo (DRC). The Kigali meeting was part of the Rwanda-Uganda Joint Commission-an initiative that has been instrumental in reviving relations strained during their intervention in the DRC. Rwanda and Uganda have clashed on several occasions in the past on Congolese territory between 1998 and 2002 in the course of the DRC's conflict. Ugandan officials also agreed to mobilize Rwandan refugees still living in camps across Uganda to return home voluntarily. Officials from both countries also promised to exchange information on the numbers and whereabouts of any of their nationals who may be detained in prisons in any of the countries.
+
+The Rwandan government has written a strong letter to Uganda and Britain protesting accusations that Kigali trained the People's Redemption Army (PRA) rebel suspects arrested in Uganda's West Nile region in mid-November 2004. In the protest letter seen by The Monitor, Rwanda says Uganda's accusations are aimed at "thwarting the process" of improving relations between the two countries. "The spirit of public criticism at this stage when relations between our countries were becoming cordial, insinuates how your government is determined to thwart the process," reads the two-page letter signed by the head of the Rwandan Joint verification and Investigation Committee (JVIC) Lt-Col Hassan Lumumba. The letter is copied to the British High Commission in Kigali and the commission's defense advisor in Kampala Lt-Col Chris Wilton and Uganda's head of the JVIC, Lt John Kasaija. "I wish to reiterate that Rwanda can never and will never allow such activity to take place on her territory. This is your government propaganda to asperse Rwanda's image," the letter said. Rwanda said it had relocated Captain James Katabazi, one of the eight PRA suspects arrested in West Nile, to a third country. "Rwanda left no stone unturned to have Ugandan dissidents, including Cols Samson Mande and Anthony Kyakabale, Capt Katabazi and others relocated to third countries," it added. Katabazi, who was captured in Koboko District with eight others a week ago, told journalists and the chief of military intelligence Lt-Col James Mugira that he had been trained in Kabuga, Kigali. Rwanda has strongly denied the allegation. "I remonstrate against the allegation and seek an explanation. I urge you to audaciously dissuade your government from public criticism and instead use peace measures and initiatives in place to resolve such differences," Lt-Col Lumumba wrote. Uganda's defense and army spokesman, Maj Shaban Bantariza, said Kigali had misunderstood the issue. "What the Rwandans read in the media was not said by a UPDF official, but the captives themselves," Bantariza said. "The media in Uganda will report about anything. We can never do anything to thwart the process of improving relations as they have said," he added. Britain's former secretary for international development, Ms Clare Short, has been mediating talks between Rwanda and Uganda following simmering tension between the two countries. The Uganda-Rwanda relations started deteriorating when the two countries' armies fought each other in 1998 in D.R. Congo's eastern town of Kisangani where they had gone as allies to support rebels fighting the slain President Laurent Kabila's government at that time. Last week Rwanda and Uganda expelled each other's diplomats accredited to either country for alleged espionage.
+
+On 31 January, 2005, Uganda's heads of Military Intelligence and the External Security Organization [ESO] have been to Kigali, Rwanda, to discuss issues aimed at improving relations between the two countries. Acting Chief of Military Intelligence [CMI], Lt-Col James Mugira, his ESO counterpart, Mr Maku Iga, and Uganda's representative to the Joint Verification and Investigation Committee [JVIC], Lt-Col John Kasaija, met Rwandan officials for the first time since October 2004 when the two countries openly exchanged unfriendly words through the media. The Uganda team which returned last Friday met with Rwanda's Secretary-General of the National Security Services, Dr Emmanuel Ndahiro, and Rwanda's representative on the JVIC Lt-Col Hassan Lumumba. Uganda and Rwanda have a joint verification committee to investigate allegations that both countries are harboring and supporting each other's dissidents. Uganda's Ambassador to Rwanda, Mr Adonia Ayebare, confirmed the meeting. "They were there under the trilateral mechanism that is comprised of Uganda, Rwanda and the United Kingdom," Ayebare said. Mugira told The Monitor "We held bilateral meetings on security issues in Rwanda, but the details are not for the press." The British government has been mediating to improve relations between Uganda and Rwanda after Kampala accused Kigali of training and harboring Ugandan rebels of the People's Redemption Army [PRA]. Rwanda denies the accusations. Rwanda and Uganda have expelled each other's diplomat for alleged espionage. Uganda claims PRA is based in eastern DR Congo under the command of renegade UPDF officers Lt-Cols. Samson Mande, Anthony Kyakabale and Col Edison Muzoora under the political leadership of Col Kizza Besigye, the 2001 presidential candidate. The four colonels have repeatedly denied the accusations. Besigye fled the country in August 2001 and lives in exile in South Africa.
+
+The relations between Uganda and Rwanda are good and leaders are on talking terms, the State Minister for Regional Cooperation, Mr Augustine Nshimye, has said. Nshimye on 2 June, 2005, told MPs on the presidential and foreign affairs committee that officials from Rwanda and Uganda would meet next month for discussions. "Next month the Joint Permanent Commission is meeting in Uganda to discuss new developments," Nshimye said. The British government has been mediating to improve relations between Uganda and Rwanda after Kampala accused Kigali of training and harboring rebels of the People's Redemption Army (PRA).
+
+Rwanda denies the accusations and the two countries expelled each other's diplomats for alleged espionage. Uganda claims that the PRA rebels are based in the eastern DRCongo under the command of renegade UPDF [Uganda People's Defense Forces] officers Lt-Col Samson Mande, Anthony Kyakabale and Col Edison Muzoora. It is alleged that PRA rebels are headed by self-exiled Dr Kizza Besigye. Recently, President Yoweri Museveni wrote to President Paul Kagame of Rwanda in the wake of renewed defections of Rwanda officers to Uganda. Rwanda accused Ugandan leaders of violating a standing agreement that bars the two nations from speaking ill against each other in the press. The MPs last week summoned Nshimye to explain the escalating poor relations between Uganda and Rwanda. "Although there may be accusations, they have not gone so deep in our relations to cause worry among our people," he said. Nshimye said some malicious people had penetrated security officials, leaders and ministers to spoil the good relations Uganda had with Rwanda. He said most Rwandans who come to Uganda run away from justice in community courts.
+
+On April 4, 2006, Uganda supports Rwanda's application to the East African Community (EAC) as a means of improving diplomatic relations between the two countries, state minister for foreign affairs Henry Okello Oryem said. "We support Rwanda's application to the EAC because it will not only have economic and social impact but also security benefits," he said. He said because of the cooperation between Tanzania and Kenya, "there are few insecurity issues between us. Similarly, if Rwanda is part of EAC, it will be bound by EAC's laws and hence cherish the development of the community." Last Friday, Rwanda's Special Envoy to the Great Lakes region, Dr. Richard Sezibera, published a letter in the local press saying Rwanda was not being used as a base to destabilize Uganda. But he alleged that Uganda was doing nothing about Rwandan rebels in Uganda plotting to topple the Kigali regime. He mentioned Rwandans rebels operating in Uganda as the RPR, Ex-FAR and Interhamwe. Rwandan leader Paul Kagame last week said Uganda's attempt to link his government to Ugandan rebels, the People's Redemption Army, had failed. But Oryem denies the hate campaign claims. "Relations between Uganda and Rwanda are good compared to other times in the past," Oryem said.
+
+On April 11, 2006, Rwanda denied expelling a Ugandan diplomat but instead accused Kampala of reneging on a deal last July to recall its First Secretary in Kigali, Mr Arthur Katsigazi. For the last one-week, Uganda and Rwanda have been embroiled in a bitter exchange following the arrest of Kigali's First Secretary in Kampala, Mr John Ngarambe, for alleged adultery. Ngarambe was arrested a week ago in a room at Lake Victoria Windsor Hotel with a married woman, Ms Joyce Ngaiza Rugunda, sparking a diplomatic row between the two neighboring countries. It was reported that Rwanda had expelled Mr Katsigazi, prompting Kigali to respond. "The Government of Rwanda wishes to state unequivocally that it has not expelled Mr Arthur Katsigazi as reported in the Ugandan media," the statement from Rwanda's Ministry of Foreign Affairs and Cooperation dated April 10 read. "However, to set the record straight, the Government of Rwanda wishes to inform the people Uganda and Rwanda that in July 2005, at the initiative of the Government of Uganda, an agreement was reached between Uganda and Rwanda according to which Rwanda would recall Mr Gerald Mbanda, a diplomat in the Rwandan Embassy in Uganda and Uganda would recall Mr Arthur Katsigazi, a diplomat in the Ugandan Embassy in Rwanda" the statement sent to Daily Monitor reads further. In August 2005, Rwanda withdrew Mr Mbanda but Uganda did not recall Katsigazi. "Unfortunately, for reasons best known to her, Uganda has up to now not recalled Katsigazi. Its worth noting that Arthur Katsigazi has continued to carry out his duties as a diplomat of Uganda in Rwanda, unhindered," the statement reads. Rwanda further says that; "If Uganda has now decided to honor its agreement should not be misconstrued to be an expulsion." However, the Ugandan Minister of State for Information, Dr James Nsaba Buturo, explained why Kampala delayed to recall Katsigazi. "We have decided to recall him now because the former ambassador (Adonia Ayebale) was always on the move and if we withdrew him (Katsigazi) the station would remain unmanned." He said Katsigazi was already in Kampala but the government had not found his replacement in the Kigali Mission. Unofficially both countries have accused each other of spying with the position of First Secretary always under the spotlight. Both countries plan to discuss the issue in a Tripartite Plus meeting in Bujumbura, Burundi on April 28. The Joint Tripartite Plus Commission comprising the DR Congo, Uganda, Rwanda and Burundi, with the African Union, the United Nations and the European Union as observers, and the United States as facilitator. But arrangements like this have achieved little in bringing harmony between Rwanda and Uganda right from 1999 when the armies of the two countries clashed during a joint invasion of the DR Congo. Since then, diplomatic relations have suffered occasional strains almost leading to a full-scale war in 2002. The two states have in the past accused each other of aiding insurgents' intent on toppling their governments.
+
+On April 18, 2006, as the two countries quarrel over a relatively minor incident involving a Kigali envoy, President Museveni says relations with its western neighbor are excellent. Uganda has sought to defuse a diplomatic row with Rwanda, saying the arrest of a senior diplomat in Kampala was a personal matter that would not affect Rwanda's application to join the East African Community or relations between the two countries. A spokesman for Uganda President Yoweri Museveni told The East African that the arrest of John Ngarambe, the First Secretary at Rwanda's embassy in Kampala two weeks ago for alleged adultery, would not affect the "excellent" relations between the two countries.
+
+"The position of the president is that relations with Rwanda are excellent and this issue of the diplomat is a personal issue, about an individual, and not about the two countries," President Museveni's press secretary, Onapito Ekomoloit told The EastAfrican. But Rwanda's Foreign Affairs Minister, Dr Charles Murigande said relations were far from excellent. He said Mr Ngarambe "had definitely been framed" and accused Uganda of violating the envoy's diplomatic immunity. Mr Ngarambe was arrested in a hotel in Entebbe, 40 km from Kampala, and detained for a couple of hours. He flew to Kigali for consultations and returned to Kampala two days later. The director for regional co-operation in Uganda's Foreign Affairs Ministry, Lewis Barinda, told The EastAfrican that the diplomatic row was "not a serious incident" and did not warrant any apology. "I'm not sure we have anything to apologize for. Our relations with Rwanda are excellent; these are small incidents that are basically off and on and in no way affect our principal relations," he said. "For example," he said, "Uganda is one of the countries backing Rwanda's application to join the East African Community. If our relations were that bad, we wouldn't be pushing hard for Rwanda and Burundi to be admitted into the community. That alone shows that this is a storm in a teacup." The latest diplomatic row shows that while Uganda and Rwanda have moved several steps back from the precipice of war that saw their armies clash thrice in eastern Congo between 1998 and 2000, suspicions remain on both sides of the border. In October 2004, Kampala expelled Jimmy Uwizeye, an administrative attach at the Rwanda embassy in Kampala over allegations of espionage. In retaliation, Kigali expelled Uganda's First Secretary Joseph Birungi. In August 2005, Uganda asked Rwanda to withdraw its First Secretary in Kampala, Gerald Mbanda, over espionage claims. Rwanda retaliated by asking Kampala to withdraw First Secretary in Kigali, Arthur Katsigazi. However, Rwanda's request had not been honoured until the latest diplomatic row. Rwanda now also claims that Rwandan dissidents based in Uganda are organizing a meeting in Kampala this month. The New Times newspaper of Rwanda reported on April 7 that Ignace Murwanashyaka, leader of the Democratic Forces for the Liberation of Rwanda (FDLR)-a rebel group accused of taking part in the 1994 Rwanda genocide-had arrived in Kampala from his base in eastern Congo to take part in the meeting. Mr Murwanashyaka, who holds a German passport and is under a UN Security Council travel ban, was arrested by German authorities as he tried to enter the country on April 5. However, Uganda's army spokesman, Maj Felix Kulayigye denied the newspaper claims. "It's not true. FDLR is not here," Maj Kulayigye said. Indeed, Murwanashyaka was arrested in Germany at the time they claimed he was supposed to be meeting Ugandan security chiefs."
+
+He added that the press reports were in breach of the London Understanding, a protocol signed by the two countries and brokered by the British government, which bars them from discussing bilateral issues in the mass media. Maj Kulayigye said allegations about the presence of Rwandan dissidents in Uganda should be referred to the Joint Monitoring Committee which brings together security chiefs from both countries. Despite the public spat between the two countries, President Museveni and Presiden Paul Kagame of Rwanda are eager to normalise relations. President Kagame recently told journalists in Kigali that both countries should aspire for a fresh start in their relations. A normal relationship between the two countries would make economic sense. Rwanda is the only major trading partner with which Uganda has a positive balance of trade account, with exports of $36 million last year, up from $16.6 million in 2001. Rwanda, which carries out most of its import and export trade through Uganda, is banking on Uganda's support when its application to join the East African Community comes up for consideration in November.
+
+On November 5, 2006, the relations between Uganda and Rwanda are improving and this will foster harmonious bilateral relations and national development efforts between the two countries. This was revealed by the Rwandan ambassador to Uganda, Kamali Karyegyesa, while meeting delegates of the Rwandan Bar Association who were admitted to the East African Law Society. "Relationships between the two countries have improved shown by the frequent visits of the leading statesmen of Rwanda and Uganda to the two respective countries," said Karegyesa. Karegyesa further added that when presidents of Rwanda and Uganda visited each other, accompanied by other senior officials of the respective governments, the courtesy calls showed a friendly atmosphere between Rwanda and Uganda. "The presidents and other government officials of the two countries have committed themselves to signing different memoranda of understanding, further showing that the leaders of the two countries have good will for each other," said Karegyesa. Kamali further highlighted the recent visit to Rwanda of Sam Kutesa, the Ugandan minister of foreign affairs, as a stepping stone to the normalization of relations between the two countries. The ambassador reiterated that Uganda and Rwanda were one, bringing to the fore the inclusion of Rwandans as a tribe recognized by the Ugandan Constitution of 1995. "This shows that both Rwanda and Uganda have a lot of common interest for each other. Uganda respected the Rwandan community on top of the peace prevailing over the Rwanda community in Uganda," said Karegyesa.
+
+Even though the two countries withdrew from D.R.Congo where they clashed in the late 1990s, they still operate proxy groups in the eastern part of D.R.Congo and have significant interests in that region's resources. Secondly, the relations between the two countries are still cold, as the diplomatic problems show. Given that there is a high probability of MIDs post-2001, for which there is no data, I believe there is no evidence to indicate that the rivalry ended. 
+
+SOURCES-CR: Brecher and Wilkenfeld, 1997; Deutsch Presse-Agentur, July 4 2001; Facts on File, April 29-May 5 1971, July 15-21 1971, August 26-September 1 1971; Keesing's, January 1991, February 1991, May 2000, June 2000; New York Times, August 15 1999.
+
+PS-NARRATIVE:
+
+19621009-19710806 0.5
+
+Rwanda became independent on July 1, 1962. Uganda became independent on October 9, 1962. Given the deterioration of the common market with Kenya and Tanzania, in 1965 Uganda started looking for other markets for trade and Rwanda was its first choice. The major issues of contention between Rwanda and Uganda during the 1960s, 70s and 80s were: the issue of the Rwandan refugees in Uganda and secondly the border between the two countries which was closed at Uganda's desire, basically, placing an embargo on Rwanda-a landlocked country with no other routes for its imports and exports. 
+
+On August 7, 1971, the border between Rwanda and Uganda opened, a month after Ugandan President Idi Amin closed it saying that Rwanda wants to overthrow him. In return for the border opening, Rwanda has agreed to suppress any anti-Amin guerillas there and prohibit any military moves by Tanzania aimed against Uganda. General Amin gave assurance he would not allow any Rwandans in Uganda to act against Rwanda, although he recently welcomed the exiled Mwani (King) of Rwanda, sponsoring his three-week tour of Uganda, where some thousands of monarchist Rwandans now live. 
+
+19710807-20100628 RIV1110-0.25 
+
+On April 25, 1971, President Idi Amin of Uganda accused several African states of planning an attack on his country. The meetings to plan this attack, according to Amin had been headed by Somalia, and attended by Rwanda, Zambia, Tanzania, and Burundi. These allegations were denied. Amin closed his border with Rwanda on July 7, 1971 because of its lack of support for his regime. The border was reopened on August 7 of that year. This is MID2621, and is listed as the first rivalry between Rwanda and Uganda. While this clearly has to do with opposition to the military coup of Amin in January of 1971, it does not seem to qualify as an actual rivalry as only one MID is listed, which was fairly low level hostility.
+
+On July 22, 1976, Rwanda was suffering an acute gasoline crisis-it had gasoline for only five days-because the trucks from Kenya to Rwanda were either hijacked or stopped in Uganda. Rwandan President Habyarimana flew to Kampala to discuss with Idi Amin, but no results were forthcoming. In August 1976, Idi Amin instituted an economic blockade of Rwanda, basically cutting off Rwanda's routes for importing and exporting goods. `We are trying very hard to get along with our neighbors' a senior government official said, but every time Kenya and Uganda go at it we get the heel of the boot.' 
+
+On March 5, 1978, Presidents Juvenal Habyarimana of Rwanda and Idi Amin of Uganda have said that "the problems between African states can and should be settled in the spirit of African brotherhood, good neighborliness and in accordance with the principles of the charter of the OAU." This was contained in a joint communique issued on March 5, 1978, in Kampala at the end of the Rwandan president's four-day visit to Uganda. Referring to the problems of Southern Africa, the two presidents reaffirmed their determination to "speed up the liberation of Zimbabwe, Namibia, South Africa and any other African territories still under colonial domination. In this connection, they condemned the policy of apartheid and racial discrimination as well as the continued illegal occupation of Namibia practiced by South Africa." The two heads of state agreed to establish a joint ministerial committee on a permanent basis which would meet every six months to review the issues of security, politics and economics and all other matters concerning the two countries. The two states also signed a trade agreement. 
+
+On July 8, 1980, Uganda and Rwanda have reached an agreement on cooperation in the construction of roads. The agreement was concluded here during Rwanda minister of posts and telecommunications Felicien Gatabazis' visit to Uganda which ended last weekend. During his stay, Gatabazi also held talks with Ugandan ministers on ways to improve transportation of Rwanda's coffee through Uganda and to stop smuggling on either side of their common border. Chairman of the military commission of Uganda national liberation front, Paul Muwanga, met Gatabazi and by his courtesy, received a special message from Rwanda's leader Juvenal Habyalimana. 
+
+On October 18, 1980, the Rwandese Ambassador to Uganda has appealed to Uganda to open the border with his country. The envoy told the Ugandan Minister of Foreign Affairs, Mr Otema Alimadi, that the closure of Uganda's southern border was greatly inconveniencing his country. The Ambassador reassured Mr Otema Alimadi of Rwanda's solidarity with Uganda. The Minister also assured the Ambassador of Uganda's continued brotherly attitude towards Rwanda and promised to let the Ambassador know the true position as soon as he had made necessary consultations. 
+
+On September 15, 1981, Uganda and Rwanda have agreed to strengthen their relations of sisterly cooperation in security, economic and cultural fields. A ministerial meeting of the two countries was held in the past three days at Kabale, southwest Uganda. The Ugandan delegation was led by minister of regional cooperation Samuel Tewungwa and the Rwandese delegation by minister of foreign affairs Francois Ngarukiyintwali. During the talks, the two sides reaffirmed that their bilateral relations should be guided by mutual trust and confidence. They also pledged to be totally committed to the principles of non-interference in each other's internal affairs and respect for each other's sovereignty and territorial integrity. Specifically, the two sides agreed that new customs and police posts will be set up and regular patrols intensified to maintain and improve the security in the common border areas. They resolved to make joint efforts to strike smuggling and other forms of illicit trade along the border. The two ministers also decided to conclude a cultural agreement and step up cooperation in the fields of transport, communications, trade, agriculture and animal husbandry. It is learnt that technical committees will soon be formed to study ways and means of the implementation. 
+
+On October 9, 1982, news appeared suggesting that Uganda is conducting a systematic process of sending Rwandans in Uganda into crowded refugee camps. Up to 100,000 people could be affected by the evictions. The Rwandan community in Uganda was established after WWI when part of Rwanda was ceded to Uganda. The community grew in the 1950s and 1960s after tribal warfare inside Rwanda forced many to flee. According to the refugees' commission there are about 27,000 Rwandans living in refugee camps in Uganda. 
+
+On October 28, 1982, the meeting of a joint committee of Ugandan and Rwandese Ministers has ended in Gabiro, Rwanda, after passing a number of recommendations to their Governments aimed at finding a lasting solution to the problem of refugees. A communique issued at the end of the meeting said the talks were held in a cordial and frank atmosphere in the spirit of good-neighborliness. The communique said the ministerial joint committee discussed at length various aspects of the refugee problem. These included historical factors pertaining to the current problem of refugees; the nature of movement of refugees across the border; the measures taken by the two Governments to contain the situation; the nationality of the refugees; and appropriate recommendations to the Governments. The committee agreed on the following: The Government of Uganda accepts the responsibility for the Rwandese people who are still in Uganda and to keep refugees in designated areas in accordance with recognized international laws and procedures. The Governments of Rwanda and Uganda agree to maintain law and order at their common border. The Rwanda Government undertakes to expedite and fully examine applications of Rwandese refugees in Uganda for voluntary repatriation. The two Governments agree to the necessity of identifying the nationalities of the refugees who have recently arrived in Rwanda. The Rwanda Government agrees to the reabsorption of those who have been identified as Rwandese nationals; and the Uganda Government undertakes to examine the possibility of compensating those who might have left their property in Uganda. Uganda Government agrees that the identified Ugandan nationals shall be recognized as Ugandan refugees in Rwanda and Uganda accepts to examine their applications for voluntary repatriation in accordance with international laws applicable to refugees. The joint Rwanda-Uganda ministerial committee recommends to the two Governments to continue direct negotiations relating to the Rwandese nationals and refugees still in Uganda in a view to finding a permanent solution. In view of the urgency and importance of this matter, the joint committee recommends to the two Governments to implement these recommendations as soon as it is possible. The two delegations reaffirmed their Governments' commitment to the charters of the OAU, the UN and international conventions to which they are signatories. The joint committee hailed the efforts by President Milton Obote and President Habyarimana of Rwanda towards finding a lasting solution to the problem of the refugees. The joint ministerial meeting has endorsed an understanding reached at a meeting between Vice-President Paulo Muwanga and President Habyarimana of Rwanda in Arusha early this month. The Uganda delegation to the Gabiro meeting was led by the Minister of Public Services and Cabinet Affairs, Mr Wilson Okwenje. It included the Minister of State for Internal Affairs, Col Omaria; the Deputy Minister of Culture and Community Development, Mr Olanya Olenge; and other Government officials. The Rwandese delegation was led by Mr Gatabazi Felicien, the Minister of Social Affairs and Community Development.
+
+On February 8, 1988, President Yoweri Museveni and President Habyarimana of Rwanda have officially opened the meeting of the Rwanda-Uganda joint ministerial committee at the Uganda international conference centre, in Kampala. In his opening address, President Museveni welcomed President Habyarimana and thanked him for accepting the invitation to come and visit Uganda. Mr Museveni appreciated the good relationship existing between Uganda and Rwanda. He observed that the relationship between the two countries is historical. Even before Europeans came, he said, the people of Uganda had dealings with the people of Rwanda. It is therefore the duty of our two governments, President Museveni said, to ensure that this relationship is enhanced. In his address, President Habyarimana thanked the government and people of Uganda for the invitation to come to Uganda and for the warm welcome accorded to him and his delegation on his arrival at the airport this morning. He stressed that his visit to Uganda is to further strengthen the good relations existing between the two countries. He added that this good relation is based on reciprocal security, whereby nothing comes from Rwanda to disturb Uganda and nothing goes from Uganda to disturb Rwanda. The joint commission meeting will discuss issues concerning the two countries. It is attended by cabinet ministers from Uganda and Rwanda. 
+
+President Juvenal Habyarimana of Rwanda is continuing his three-day state visit to Uganda on February 8, 1988, with a visit to Lugazi industrial establishments, in Mukono district. On February 7, 1988, he visited Semuto, in Luwero district, which was one of the strongholds of the NRA during the struggle against the dictatorial rule in the country in the early '80s. Introducing him to the people, President Museveni briefed Gen Habyarimana on how the struggle was organized in the area. Mr Museveni informed his visitor that Semuto, and indeed Luwero triangle, was the heart of the NRM's operation struggle for the revolution which Uganda now enjoys. He observed that the success of the NRM was due to the support of the masses because the movement had a popular cause. He said Semuto represents the political strengthen of the NRM which is the political unity of the people of Uganda irrespective of tribe, religion and other differences which were exploited by bankrupt politicians to the disadvantage of the masses. Addressing the people, President Habyarimana said that what he had witnessed was proof of the bad and corrupt regimes of the past. He therefore appealed to all Ugandans to support President Museveni and the NRM policies aimed at making Uganda a totally peaceful country. He said Rwanda supports the NRM's policies because they are all out to unite the people of Uganda. On the issue of Rwandese refugees in Uganda, President Habyarimana said that Rwanda takes a keen interest, adding that the problem can only be solved if Rwanda receives the co-operation of the neighboring countries where those refugees are living. He said the issue could be discussed in regional organizations, like the PTA, OAU and Kagera Basin Organisation and eventually solved. President Habyarimana reiterated Rwanda's determination to strengthen her relationship and co-operation with Uganda so that all transactions across borders are legitimate. The rally was also attended by cabinet ministers from Uganda and Rwanda, senior Uganda government officials and religious leaders.
+
+On October 18, 1990, President Yoweri Museveni has called for efforts to find a political solution to the conflict in Rwanda. The President said this when he was having informal discussions with several ambassadors accredited to Uganda, who called on him at State House, Entebbe, to discuss the issue of Rwanda. President Museveni told the envoys that the Uganda government would like to see a political solution to the problem of Rwandese refugees, which has remained unresolved for the past 30 years. He appealed for a spirit of reconciliation between the parties involved in the search for a solution. The President stated categorically that the government of Uganda had no prior knowledge of the invasion of Rwanda. He explained that the Uganda government had for some time been getting information that Rwandese refugees were trying to organize something, but this information had not been confirmed, so that the government could act. He said that the government had all along communicated such information to the government of Rwanda. He denied recent allegations that the government of Uganda was in any way involved in the invasion of Rwanda, saying that this would be totally against the NRM's policy. He informed the envoys that the Uganda government had all along been pursuing efforts to find a political solution to the problem of Rwandese refugees, who are found not only in Uganda but also in Zaire, Burundi and Tanzania. President Museveni criticized the rebel group led by Maj-Gen Fred Rwigyema for opting for a militarist approach when they had not exhausted all political channels, such as the OAU and the UN for peaceful negotiations. He said by deserting the NRA and crossing into Rwanda from Uganda with arms, that they compromised Uganda, which has been pursuing a clear line of regional co-operation and good-neighborliness since 1986. The President said that the problem of Rwandese refugees should now be solved once and for all so that future governments in Uganda do not have to face the problem again. He pointed out that the refugees who have crossed into Rwanda will not be allowed to come back into Uganda. On the search for a political solution, the President suggested the holding of either bilateral or tripartite talks to stop the fighting. After the cease-fire is in place, he said, regional meetings could follow involving Rwanda, Zaire, Burundi, Tanzania and Uganda. He also called on the OAU through its Secretary-General to take an active role in finding a solution to the Rwandese refugee problem. To help solve the immediate problem at the Uganda-Rwanda border, President Museveni called for the setting-up of a Uganda-Rwanda monitoring team immediately to check any subversive activities being carried out against Rwanda. President Museveni expressed concern about foreign troops being brought into Rwanda, saying that it was important that foreign troops be kept out of combat among nationals. Elaborating on this point, he said that foreign troops often postpone the finding of a political solution. He said, however, he had been assured by the Belgian and French governments that their troops were in Rwanda only to protect their citizens. On this point, the Zairean ambassador also told President Museveni that Zairean troops were in Rwanda merely to contain the situation and not to fight. He assured the President that Zaire would also like to see a peaceful solution to the problem, because Zaire, like Uganda, has a large community of Rwandese refugees. The Rwandese ambassador told President Museveni that his government is also for a political solution and had already been working on this. He endorsed the idea of a monitoring team along the Uganda-Rwanda border, saying he had already started discussing it with Ugandan authorities. Present at the meeting were the ambassadors of Zaire, Rwanda, Burundi, Tanzania, Kenya, France, Britain, the USA, Italy and Germany and the EC. The meeting was also attended by the Second Deputy Prime Minister and Minister of Foreign and Regional Affairs, Mr Paul Ssemogerere, and the Minister of State for Foreign and Regional Affairs, Mr Daniel Omara Atubo. 
+
+PS-SOURCES: New York Times July 31, 1965; August 8, 1971; July 23, 1976; August 15, 1976; BBC October 20, 1980; October 30, 1982; February 8, 1988; October 18, 1990; January 17, 1991; May 25, 1992; February 27, 2002; January 10, 2003; February 28, 2003; November 12, 2004; November 27, 2004; November 30, 2004; December 1, 2004; January 31, 2005; June 4, 2005; June 6, 2005; November 5, 2006; Xinhua March 5, 1978; July 8, 1980; September 15, 1981; November 7, 2001; United Press International October 26, 1990; Africa News January 11, 1998; September 21, 1999; May 8, 2000; March 20, 2001; March 18, 2003; The Monitor April 11, 2006; East African April 18, 2006; New Vision April 4, 2006
+
+20100629-20159999 0.50
+
+In 2010, both Rwanda and Uganda have agreed to settle border demarcation and finally resolve their boundary dispute. Even though still not completed, relations have continued to improve. 
+
+Rwanda and Uganda have both supported M23 rebels in conflict against the Democratic Republic of Congo which started 9 May 2012 and lasted until 2013. This is different from the previous period when countries have supported opposing rebels, indicating an improvement in relations. 
+
+SOURCES:http://www.theeastafrican.co.ke/news/Finally--Rwanda-and--Uganda-to-resolve-boundary-dispute/2558-901692-139mdta/index.html; http://ucdp.uu.se/ 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001. International Studies Quarterly. 60 (4): 719-730.
+
+The Monitor. (October 25, 2001 Thursday). Uganda; Troops Amass At Border As Pressure Grows to End Conflict. Africa News. Retrieved from Nexis Uni.

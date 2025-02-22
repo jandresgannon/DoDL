@@ -1,0 +1,110 @@
+FILE: cm820830v11.0.txt
+DYAD: MALAYSIA-SINGAPORE
+RIVALRY: RIV1367
+DISPUTE(S): MID3573 
+
+PS: 19650809-20209999 0.25
+
+PS-UPDATE2020: Remains a lesser rivalry with unresolved and new maritime disputes and associated militarization. 	In June 2017, Malaysia filed an application for a revision to ICJ’s 2008 ruling in favor of Singapore over ownership of Pedra Branca (an island and the easternmost point of Singapore). That said, the ICJ did not change its decision: (https://www.icj-cij.org/en/case/170) October 2018, maritime dispute when Malaysia unilaterally extended its territorial boundary at Jonor Bahru Port o	“The claim extends beyond the maritime border Malaysia unilaterally declared and reinstated in 1979 and 1999 respectively, marking the first time in almost 20 years that either side has attempted to shift the boundary. Malaysia has since deployed three maritime agency vessels to patrol the newly claimed area in an ‘occupation’ using non-military force” (https://www.eastasiaforum.org/2019/01/30/singapore-malaysia-relations-in-troubled-waters/
+
+
+PS-LAST-CHANGED: 20220531
+PS-LAST-CHECKED: 20220531
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3573 
+
+TERRMID: MID3573 3 -- not territory 
+TERRMID-CER: MID3573 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3573 3 -- not third party link to territory 
+TERRLINK-CER: MID3573 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3573 1 -- maritime MID
+MARITMID-CER: MID3573 1 -- certain 
+MARITMID-NOTES: MID3573 from Gibler 2018, in 1992 Malaysia detained two Singaporean vessels that crossed a disputed maritime border, and on another occasion Malaysian vessels entered the disputed waters. Both countries protested and decided to submit the case to the ICJ. Coded maritime MID because this was connected to a maritime boundary dispute around several disputed islands. 
+
+ISLMID: MID3573 1 -- islands MID
+ISLMID-CER: MID3573 1 -- certain 
+ISLMID-NOTES: MID3573 coded islands MID because per Gibler 2018, the events of this MID were connected to Malaysia and Singapore disputing several islands. The islands were disputed for their maritime boundary implications and for their inherent value (one had an oft-used lighthouse, for example). As a result of this MID, the states decided to submit the islands dispute to the ICJ. 
+
+CIVWARMID: MID3573 3 -- not civil war 
+CIVWARMID-CER: MID3573 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3573 3 -- not civil war link 
+CIVWARLINK-CER: MID3573 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3573 3 -- not coup 
+COUPMID-CER: MID3573 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3573 3 -- not coup link
+COUPLINK-CER: MID3573 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4556
+
+TERRMID: MID4556 3 -- not territorial 
+TERRMID-CER: MID4556 1 -- certain
+TERRMID-NOTE: MID4556 No land border dispute or MID. Malaysia and Singapore disagreed on their maritime boundary, including sovereignty over several islands, until the ICJ settled the claims in 2008 (http://www.icj-cij.org/docket/files/130/14490.pdf). This MID concerned the islands of Pedra Blanca and occurred before the boundary was settled.
+
+TERRLINK: MID4556 3 -- not third party linked to territory
+TERRLINK-CER: MID4556 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4556 1 -- maritime MID
+MARITMID-CER: MID4556 1 -- certain
+MARITMID-NOTES: MID4556 Malaysia and Singapore disagreed on their maritime boundary, including sovereignty over several islands, until the ICJ settled the claims in 2008 (http://www.icj-cij.org/docket/files/130/14490.pdf). This MID concerned the islands of Pedra Blanca and occurred before the boundary was settled.
+
+ISLMID: MID4556 1 -- islands MID
+ISLMID-CER: MID4556 1 -- certain
+ISLMID-NOTES: MID4556 Malaysia and Singapore disagreed on their maritime boundary, including sovereignty over several islands, until the ICJ settled the claims in 2008 (http://www.icj-cij.org/docket/files/130/14490.pdf). This MID concerned the islands of Pedra Blanca and occurred before the boundary was settled.
+
+CIVWARMID: MID4556 3 -- not civil war
+CIVWARMID-CER: MID4556 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4556 3 -- not civil war link 
+CIVWARLINK-CER: MID4556 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4556 3 -- not coup 
+COUPMID-CER: MID4556 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4556 3 -- not coup link
+COUPLINK-CER: MID4556 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4556
+rivalry=820830 nationa=MALAYSIA nationb=SINGAPORE MID4556 20030100-20030100 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Malaysian naval vessels repeatedly violated Singaporean territorial waters surrounding a disputed islet of Pedra Blanca during the month of January, resulting in an official Singaporean protest. First and last day of dispute are listed as 1/00/2003.
+
+RIVNOTES: Thompson rivalry 19650000, 20100000
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

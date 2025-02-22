@@ -1,0 +1,894 @@
+FILE: cm520530v11.0.txt
+DYAD: SOMALIA-ETHIOPIA
+RIVALRY: RIV1134
+DISPUTE(S): MID1423 MID1421 MID1425 MID2066 MID2067 MID1378 MID2068 MID1427 MID1428 MID2069 MID2070 MID2071 MID2072 MID2073 MID2074 MID2075 
+
+PS: 19600814-20120819 0.00 20120820-20180904 -9 20180905-20209999 0.50
+
+PS-UPDATE2020: This severe rivalry transitions with the reestablish of a recognized central government in Somalia in 2012. Thereafter, the interests of Somalia and Ethiopia converge in fighting Al-Shabab and other groups across the borders. Thus, Ethiopian military actions help support the Somali government. The previous territorial disputes become secondary in the face of internal stability concerns for both sides. The change in relations is solidified by •	September 5, 2018, Ethiopia, Somalia, and Eritrea held a tripartite summit and issued a Joint Declaration on Comprehensive Cooperation : https://www.peaceagreements.org/viewmasterdocument/2099 o	“The three countries also held a second tripartite summit and reaffirmed their "commitment to an inclusive regional peace and cooperation. With the framework of IGAD, Ethiopia and Somalia is working in collaboration with regional economic integration and peace and security” (http://www.mfa.gov.et/Home/TemplateI?PageName=Ethiopia-Somalia&TYPE=Policy%20Issue&SUBTYPE=Neighboring%20Countries&Language=English&Layout=_Layout
+
+
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220617
+PS-LAST-CHECKED: 20220617
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1423
+
+TERRMID: MID1423 1 -- territorial MID
+TERRMID-CER: MID1423 1 -- certain 
+TERRMID-NOTES: MID1423 from cm narrative, Ethiopia and Somalia disputed their border beginning at Somalia's independence in 1960. From Gibler 2018, this MID began in 1960 when Ethiopian forces fired on Somali troops sent to investigate banditry across the disputed border. A long series of border clashes resulted. Coded territorial MID because this was connected to the disputed border. 
+
+TERRLINK: MID1423 3 -- not third party link to territory 
+TERRLINK-CER: MID1423 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1423 3 -- not maritime 
+MARITMID-CER: MID1423 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1423 3 -- not islands 
+ISLMID-CER: MID1423 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1423 1 -- civil war MID
+CIVWARMID-CER: MID1423 1 -- certain
+CIVWARMID-NOTES: MID1423 from cm narrative and Gibler 2018, this MID involved Ethiopian troops clashing with ethnic Somalis in the disputed Ogaden region, which was disputed between Somalia and Ethiopia, partially due to transnational ethnic kin in the area. Coded civil war MID because this was connected to militarized rebels in the disputed territory. 
+
+CIVWARLINK: MID1423 3 -- not civil war link
+CIVWARLINK-CER: MID1423 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1423 3 -- not coup 
+COUPMID-CER: MID1423 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1423 3 -- not coup link
+COUPLINK-CER: MID1423 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1421
+
+TERRMID: MID1421 1 -- territorial MID
+TERRMID-CER: MID1421 3 -- uncertain 
+TERRMID-NOTES: MID1421 from Gibler, Miller, and Little 2016, this MID should be merged with MID1421. A series of border clashes across the disputed border between Ethiopia and Somalia resulted from bandits in Ethiopia raiding villagers in Somalia. Coded territorial MID because this was connected to the disputed border, but coded uncertain because GML recommend this MID be dropped. 
+
+TERRLINK: MID1421 3 -- not third party link to territory 
+TERRLINK-CER: MID1421 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1421 3 -- not maritime 
+MARITMID-CER: MID1421 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1421 3 -- not islands 
+ISLMID-CER: MID1421 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1421 1 -- civil war MID
+CIVWARMID-CER: MID1421 3 -- uncertain
+CIVWARMID-NOTES: MID1421 coded civil war MID because per cm narrative, this MID involved Ethiopian troops clashing with ethnic Somalis in the disputed Ogaden region. Coded uncertain because GML 2016 recommend this case be dropped. 
+
+CIVWARLINK: MID1421 3 -- not civil war link
+CIVWARLINK-CER: MID1421 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1421 3 -- not coup 
+COUPMID-CER: MID1421 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1421 3 -- not coup link
+COUPLINK-CER: MID1421 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1425
+
+TERRMID: MID1425 1 -- territorial MID
+TERRMID-CER: MID1425 1 -- certain 
+TERRMID-NOTES: MID1425 from Gibler 2018, Somalia claimed the Ogaden region of Ethiopia which contained many ethnic Somalis. In 1963, Ethiopia levied a new tax in the region, replaced local ethnic Somalian authorities with Ethiopian authorities, and arrested dissenters. In response, some Somalis formed a guerilla movement and began to receive support from Somalia. Somalia used this to press its claim on the disputed region, increasing their military presence there. Border clashes between the two countries followed. Coded territorial MID because this was connected to the disputed border. 
+
+TERRLINK: MID1425 3 -- not third party link to territory 
+TERRLINK-CER: MID1425 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1425 3 -- not maritime 
+MARITMID-CER: MID1425 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1425 3 -- not islands 
+ISLMID-CER: MID1425 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1425 1 -- civil war MID
+CIVWARMID-CER: MID1425 1 -- certain
+CIVWARMID-NOTES: MID1425 from Gibler 2018, this MID involved the formation of a militarized rebel group in the disputed Ogaden region and Somalia supporting those rebels. The civil conflict occurs within these dyad members' states. 
+
+CIVWARLINK: MID1425 3 -- not civil war link
+CIVWARLINK-CER: MID1425 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1425 3 -- not coup 
+COUPMID-CER: MID1425 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1425 3 -- not coup link
+COUPLINK-CER: MID1425 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2066
+
+TERRMID: MID2066 1 -- territorial MID
+TERRMID-CER: MID2066 1 -- certain 
+TERRMID-NOTES: MID2066 this involved a clash that occurred as a result of Somalia supporting militarized rebels against Ethiopia, and the support itself was tied to the border dispute between Ethiopia and Somalia. See CIVWARMID-NOTES. 
+
+TERRLINK: MID2066 3 -- not third party link to territory 
+TERRLINK-CER: MID2066 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2066 3 -- not maritime 
+MARITMID-CER: MID2066 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2066 3 -- not islands 
+ISLMID-CER: MID2066 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2066 1 -- civil war MID
+CIVWARMID-CER: MID2066 1 -- certain
+CIVWARMID-NOTES: MID2066 from Gibler 2018, in 1965 a clash between Ethiopian and Somalian troops occurred when Ethiopian troops discovered Somalian troops smuggling weapons into Ethiopia. Somalia was providing support to militarized rebels in the disputed Ogaden region who were fighting against the Ethiopian government. Coded civil war MID because this was connected to militarized rebel activity. 
+
+CIVWARLINK: MID2066 3 -- not civil war link
+CIVWARLINK-CER: MID2066 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2066 3 -- not coup 
+COUPMID-CER: MID2066 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2066 3 -- not coup link
+COUPLINK-CER: MID2066 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2067
+
+TERRMID: MID2067 1 -- territorial MID
+TERRMID-CER: MID2067 1 -- certain 
+TERRMID-NOTES: MID2067 from Gibler 2018, in 1966 Ethiopian and Somalian troops clashed in the disputed Ogaden region. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2067 3 -- not third party link to territory 
+TERRLINK-CER: MID2067 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2067 3 -- not maritime 
+MARITMID-CER: MID2067 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2067 3 -- not islands 
+ISLMID-CER: MID2067 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2067 3 -- not civil war 
+CIVWARMID-CER: MID2067 1 -- certain
+CIVWARMID-NOTES: MID2067 Somalia was supporting militarized rebels in the Ogaden region beginning in 1963 (per Gibler 2018 MID1425 narrative), but this incident was not connected to militarized rebel activity. There is no indication in cm narrative, Gibler 2018, or news coverage of this MID that indicate this mid involved rebels. 
+
+CIVWARLINK: MID2067 3 -- not civil war link
+CIVWARLINK-CER: MID2067 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2067 3 -- not coup 
+COUPMID-CER: MID2067 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2067 3 -- not coup link
+COUPLINK-CER: MID2067 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1378 
+
+TERRMID: MID1378 1 -- territorial MID
+TERRMID-CER: MID1378 1 -- certain 
+TERRMID-NOTES: MID1378 Somalia had an active territorial claim against Ethiopia for areas in which ethnic Somalis lived there (Huth and Allee 2002:385). The desire of Somalis to leave Ethiopia, as well as the Somali/Ethiopian response, constitute part of the defining events of this MID, thereby making the territorial claim relevant here. That claim lies within the current dyad. 
+
+TERRLINK: MID1378 1 -- third party link to territorial MID 
+TERRLINK-CER: MID1378 1 -- certain 
+TERRLINK-NOTES: MID1378 Somalia had an active claim at the time to annex portions of Kenya inhabited by ethnic Somalis (per Huth and Allee 2002:390). The desire of Somalis to leave Kenya constitutes part of the defining feature of this MID, thereby making the territorial claim relevant here. 
+
+MARITMID: MID1378 3 -- not maritime 
+MARITMID-CER: MID1378 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1378 3 -- not islands 
+ISLMID-CER: MID1378 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1378 1 -- civil war MID
+CIVWARMID-CER: MID1378 1 -- certain 
+CIVWARMID-NOTES: MID1378 from Gibler 2018, secessionist rebels who were ethnic Somalis wanted to secede and take pieces of Kenya and Ethiopia to join the state of Somalia. Kenya and Ethiopia formed a pact to combat the rebels and each struggled to police the rebels in their territory. Somalia backed these rebels in their attacks against Kenya and Ethiopia, triggering this MID between Somalia and Kenya/Ethiopia. Coded civil war MID because this is connected to militarized rebel activity in the disputed region of Ogaden, within this dyad. 
+
+CIVWARLINK: MID1378 1 -- civil war link 
+CIVWARLINK-CER: MID1378 1 -- certain 
+CIVWARLINK-NOTES: MID1378 from Gibler 2018, this MID also involved militarized rebels fighting against the Kenyan government and receiving support from Somalia. Coded civil war link because this was connected to militarized rebel activity in Kenya, outside this dyad. 
+
+COUPMID: MID1378 3 -- not coup 
+COUPMID-CER: MID1378 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1378 3 -- not coup link
+COUPLINK-CER: MID1378 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2068
+
+TERRMID: MID2068 1 -- territorial MID
+TERRMID-CER: MID2068 1 -- certain 
+TERRMID-NOTES: MID2068 from Gibler 2018, in 1973 the Soviets began providing assistance to the Somali military and encouraging them to expand into the disputed Ogaden territory. Ethiopia responded by fortifying its border, and Somalia protested and accused them of plotting an attack. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2068 3 -- not third party link to territory 
+TERRLINK-CER: MID2068 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2068 3 -- not maritime 
+MARITMID-CER: MID2068 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2068 3 -- not islands 
+ISLMID-CER: MID2068 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2068 3 -- not civil war 
+CIVWARMID-CER: MID2068 1 -- certain
+CIVWARMID-NOTES: MID2068 The disputed Ogaden region on which this MID is centered also contained militarized rebels, but this incident was not connected to rebel activity. There is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this involved rebels. 
+
+CIVWARLINK: MID2068 3 -- not civil war link
+CIVWARLINK-CER: MID2068 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2068 3 -- not coup 
+COUPMID-CER: MID2068 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2068 3 -- not coup link
+COUPLINK-CER: MID2068 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1427
+
+TERRMID: MID1427 1 -- territorial MID
+TERRMID-CER: MID1427 1 -- certain 
+TERRMID-NOTES: MID1427 from Gibler 2018, in 1974 Ethiopian forces intercepted Somalian troops that crossed the disputed border. No clash broke out, and the Somalian forces were soon released. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1427 3 -- not third party link to territory 
+TERRLINK-CER: MID1427 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1427 3 -- not maritime 
+MARITMID-CER: MID1427 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1427 3 -- not islands 
+ISLMID-CER: MID1427 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1427 3 -- not civil war 
+CIVWARMID-CER: MID1427 1 -- certain
+CIVWARMID-NOTES: MID1427 the disputed Ogaden region contained militarized rebels fighting against Ethiopia, but this MID did not involve militarized rebels. There is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this involved rebels. 
+
+CIVWARLINK: MID1427 3 -- not civil war link
+CIVWARLINK-CER: MID1427 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1427 3 -- not coup 
+COUPMID-CER: MID1427 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1427 3 -- not coup link
+COUPLINK-CER: MID1427 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1428
+
+TERRMID: MID1428 1 -- territorial MID
+TERRMID-CER: MID1428 1 -- certain 
+TERRMID-NOTES: MID1428 from Gibler 2018, in 1975 Ethiopia accused Somalia of providing support to militarized rebels in the disputed Ogaden region and of mobilizing troops along the disputed border. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1428 3 -- not third party link to territory 
+TERRLINK-CER: MID1428 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1428 3 -- not maritime 
+MARITMID-CER: MID1428 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1428 3 -- not islands 
+ISLMID-CER: MID1428 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1428 1 -- civil war MID
+CIVWARMID-CER: MID1428 1 -- certain
+CIVWARMID-NOTES: MID1428 coded civil war MID because this MID also involved militarized rebels in the disputed Ogaden region, who were receiving support from Somalia (per Gibler 2018 MID1425 narrative). 
+
+CIVWARLINK: MID1428 3 -- not civil war link
+CIVWARLINK-CER: MID1428 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1428 3 -- not coup 
+COUPMID-CER: MID1428 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1428 3 -- not coup link
+COUPLINK-CER: MID1428 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2069
+
+TERRMID: MID2069 1 -- territorial MID
+TERRMID-CER: MID2069 1 -- certain 
+TERRMID-NOTES: MID2069 from Gibler 2018, Somalia and Ethiopia fought a war over the disputed Ogaden region. Cuba assisted Ethiopia by sending troops to fight against Somalia. Somalia was defeated, and the war ended 3/9/1978. Coded territorial MID because this was a war fought over disputed territory. 
+
+TERRLINK: MID2069 3 -- not third party link to territory 
+TERRLINK-CER: MID2069 1 -- certain
+TERRLINK-NOTES: MID2069 this territorial war also involved Cuban forces, but the Cuba was not a party to any territorial dispute here. 
+
+MARITMID: MID2069 3 -- not maritime 
+MARITMID-CER: MID2069 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2069 3 -- not islands 
+ISLMID-CER: MID2069 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2069 1 -- civil war MID
+CIVWARMID-CER: MID2069 1 -- certain
+CIVWARMID-NOTES: MID2069 coded civil war MID because, per New York Times 3/11/1978, militarized rebels in the disputed Ogaden region were fighting alongside Somali forces against Ethiopian forces. 
+
+CIVWARLINK: MID2069 3 -- not civil war link
+CIVWARLINK-CER: MID2069 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2069 3 -- not coup 
+COUPMID-CER: MID2069 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2069 3 -- not coup link
+COUPLINK-CER: MID2069 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2070
+
+TERRMID: MID2070 1 -- territorial MID
+TERRMID-CER: MID2070 1 -- certain 
+TERRMID-NOTES: MID2070 this MID involved Ethiopia attacking rebels in the disputed region of Ogaden, and the rebels were ethnic Somalis who wished to secede and join Somalia. This MID is also coded territorial MID because the Somalian support for the rebels and the Somalian protest of Ethiopian air raids was connected to the issue of the disputed Ogaden territory. See CIVWARMID-NOTES. 
+
+TERRLINK: MID2070 3 -- not third party link to territory 
+TERRLINK-CER: MID2070 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2070 3 -- not maritime 
+MARITMID-CER: MID2070 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2070 3 -- not islands 
+ISLMID-CER: MID2070 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2070 1 -- civil war MID
+CIVWARMID-CER: MID2070 1 -- certain
+CIVWARMID-NOTES: MID2070 from Gibler 2018, in 1978 an Ethiopian ambassador threatened to invade Somalia if Somalia did not stop aiding militarized rebels in the disputed Ogaden region. Somalia did not comply and later accused Ethiopia of air raids in the territory. Coded civil war MID because this was connected to militarized rebels who were receiving support from Somalia. 
+
+CIVWARLINK: MID2070 3 -- not civil war link
+CIVWARLINK-CER: MID2070 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2070 3 -- not coup 
+COUPMID-CER: MID2070 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2070 3 -- not coup link
+COUPLINK-CER: MID2070 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2071
+
+TERRMID: MID2071 3 -- not territory
+TERRMID-CER: MID2071 1 -- certain 
+TERRMID-NOTES: MID2071 Somalia and Ethiopia disputed their border, and this MID involved border clashes, but the tensions that led to this MID were a product of the US giving aid to Somalia and Ethiopia protesting that aid. The dispute over the border was not connected to this MID. See CIVWARMID-NOTES. 
+
+TERRLINK: MID2071 3 -- not third party link to territory 
+TERRLINK-CER: MID2071 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2071 3 -- not maritime 
+MARITMID-CER: MID2071 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2071 3 -- not islands 
+ISLMID-CER: MID2071 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2071 1 -- civil war MID
+CIVWARMID-CER: MID2071 1 -- certain
+CIVWARMID-NOTES: MID2071 from Gibler 2018, in 1980 the US began asking Somalia to allow the US to build bases in Somalia in exhange for military assistance to the government, drawing the ire of Ethiopia. Tensions between Ethiopia and Somalia increased and cross-border clashes became frequent. Militarized rebels in Somalia increased their activities against the Ethiopian government, leading Ethiopia to amass troops on the border. Coded civil war MID because while the issue that began these hostilities was connected to US giving aid to Somalia, this MID also involved militarized rebel activity. 
+
+CIVWARLINK: MID2071 3 -- not civil war link
+CIVWARLINK-CER: MID2071 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2071 3 -- not coup 
+COUPMID-CER: MID2071 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2071 3 -- not coup link
+COUPLINK-CER: MID2071 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2072
+
+TERRMID: MID2072 1 -- territorial MID
+TERRMID-CER: MID2072 1 -- certain 
+TERRMID-NOTES: MID2072 coded territorial MID because this was connected to disputed territory between Somalia and Ethiopia (the Ogaden region). Somalia was supporting ethnic Somali rebels to further their attempt to control the territory. 
+
+TERRLINK: MID2072 3 -- not third party link to territory 
+TERRLINK-CER: MID2072 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2072 3 -- not maritime 
+MARITMID-CER: MID2072 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2072 3 -- not islands 
+ISLMID-CER: MID2072 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2072 1 -- civil war MID
+CIVWARMID-CER: MID2072 1 -- certain
+CIVWARMID-NOTES: MID2072 from Gibler 2018, from 1982-1983 Ethiopia bombed several Somali towns across the disputed border in the Ogaden region in response to militarized rebels in the area conducting cross-border operations against Ethiopia. Coded civil war MID because this was connected to militarized rebel activity. 
+
+CIVWARLINK: MID2072 3 -- not civil war link
+CIVWARLINK-CER: MID2072 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2072 3 -- not coup 
+COUPMID-CER: MID2072 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2072 3 -- not coup link
+COUPLINK-CER: MID2072 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2074
+
+TERRMID: MID2074 1 -- territorial MID
+TERRMID-CER: MID2074 1 -- certain 
+TERRMID-NOTES: MID2074 coded territorial MID because this was connected to disputed territory between Somalia and Ethiopia (the Ogaden region). Somalia was supporting ethnic Somali rebels to further their attempt to control the territory. 
+
+TERRLINK: MID2074 3 -- not third party link to territory 
+TERRLINK-CER: MID2074 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2074 3 -- not maritime 
+MARITMID-CER: MID2074 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2074 3 -- not islands 
+ISLMID-CER: MID2074 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2074 1 -- civil war MID
+CIVWARMID-CER: MID2074 1 -- certain
+CIVWARMID-NOTES: MID2074 from Gibler 2018, from 1984-1985 Ethiopia conducted several cross-border raids in the Ogaden to attack militarized rebels in the area. Coded civil war MID because this is connected to militarized rebel activity. 
+
+CIVWARLINK: MID2074 3 -- not civil war link
+CIVWARLINK-CER: MID2074 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2074 3 -- not coup 
+COUPMID-CER: MID2074 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2074 3 -- not coup link
+COUPLINK-CER: MID2074 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2075
+
+TERRMID: MID2075 1 -- territorial MID
+TERRMID-CER: MID2075 1 -- certain 
+TERRMID-NOTES: MID2075 coded territorial MID because this was connected to disputed territory between Somalia and Ethiopia (the Ogaden region). Somalia was supporting ethnic Somali rebels to further their attempt to control the territory. 
+
+TERRLINK: MID2075 3 -- not third party link to territory 
+TERRLINK-CER: MID2075 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2075 3 -- not maritime 
+MARITMID-CER: MID2075 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2075 3 -- not islands 
+ISLMID-CER: MID2075 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2075 1 -- civil war MID
+CIVWARMID-CER: MID2075 1 -- certain
+CIVWARMID-NOTES: MID2075 from Gibler 2018, in 1985 Ethiopia conducted two cross-border raids to attack militarized rebels in the Ogaden region. Coded civil war MID because this was connected to militarized rebel activity. 
+
+CIVWARLINK: MID2075 3 -- not civil war link
+CIVWARLINK-CER: MID2075 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2075 3 -- not coup 
+COUPMID-CER: MID2075 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2075 3 -- not coup link
+COUPLINK-CER: MID2075 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2245
+
+TERRMID: MID2245 1 -- territorial MID
+TERRMID-CER: MID2245 1 -- certain 
+TERRMID-NOTES: MID2245 coded territorial MID because this was connected to disputed territory between Somalia and Ethiopia (the Ogaden region). Somalia was supporting ethnic Somali rebels to further their attempt to control the territory. 
+
+TERRLINK: MID2245 3 -- not third party link to territory 
+TERRLINK-CER: MID2245 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2245 3 -- not maritime 
+MARITMID-CER: MID2245 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2245 3 -- not islands 
+ISLMID-CER: MID2245 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2245 1 -- civil war MID
+CIVWARMID-CER: MID2245 1 -- certain
+CIVWARMID-NOTES: MID2245 from Gibler 2018, in 1987 Ethiopia and Somalia were in peace talks over their disputed border, and a rebel group backed by Ethiopia attacked several Somali targets. The Ethiopian government announced that they would investigate the attacks and declared that they hoped the peace talks would continue. Coded civil war MID because this was connected to militarized rebels supported by Ethiopia attacking Somalia. 
+
+CIVWARLINK: MID2245 3 -- not civil war link
+CIVWARLINK-CER: MID2245 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2245 3 -- not coup 
+COUPMID-CER: MID2245 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2245 3 -- not coup link
+COUPLINK-CER: MID2245 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4345
+
+TERRMID: MID4345 3 -- not territory
+TERRMID-CER: MID4345 1 -- certain 
+TERRMID-NOTES: MID4345 from cm narrative and Gibler 2018, this MID did not occur in the Ogaden region, but rather in the Puntland and Gedo regions, which were not disputed. Ethiopia invaded these regions because they were rebel strongholds, not because of any territorial dispute. 
+
+TERRLINK: MID4345 3 -- not third party link to territory 
+TERRLINK-CER: MID4345 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4345 3 -- not maritime 
+MARITMID-CER: MID4345 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4345 3 -- not islands 
+ISLMID-CER: MID4345 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4345 1 -- civil war MID
+CIVWARMID-CER: MID4345 1 -- certain
+CIVWARMID-NOTES: MID4345 from Gibler 2018, in 2002 Ethiopia was supporting Somali rebels who were fighting against the Somalian government. Ethiopia further assisted the rebels by occupying parts Somalia's territory and reinforcing their border. Coded civil war MID because this was connected to militarized rebels in Somalia. 
+
+CIVWARLINK: MID4345 3 -- not civil war link
+CIVWARLINK-CER: MID4345 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4345 3 -- not coup 
+COUPMID-CER: MID4345 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4345 3 -- not coup link
+COUPLINK-CER: MID4345 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4376
+
+TERRMID: MID4376 3 -- not territory
+TERRMID-CER: MID4376 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4376 3 -- not third party link to territory 
+TERRLINK-CER: MID4376 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4376 3 -- not maritime 
+MARITMID-CER: MID4376 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4376 3 -- not islands 
+ISLMID-CER: MID4376 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4376 1 -- civil war MID
+CIVWARMID-CER: MID4376 1 -- certain
+CIVWARMID-NOTES: MID4376 from Gibler 2018, in 2005 Ethiopia responded to increased militarized rebel activity by reinforcing their border. Somalia and Ethiopia sponsored rebel groups against each other. Coded civil war MID because this was connected to militarized rebel activity in Somalia. 
+
+CIVWARLINK: MID4376 3 -- not civil war link
+CIVWARLINK-CER: MID4376 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4376 3 -- not coup 
+COUPMID-CER: MID4376 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4376 3 -- not coup link
+COUPLINK-CER: MID4376 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4387
+
+TERRMID: MID4387 3 -- not territory
+TERRMID-CER: MID4387 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4387 3 -- not third party link to territory 
+TERRLINK-CER: MID4387 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4387 3 -- not maritime 
+MARITMID-CER: MID4387 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4387 3 -- not islands 
+ISLMID-CER: MID4387 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4387 1 -- civil war MID
+CIVWARMID-CER: MID4387 1 -- certain
+CIVWARMID-NOTES: MID4387 from Gibler 2018, in 2006-2007, Ethiopia reinforced their border with Somalia and launched several attacks into Somalia to attack militarized rebels across the border who were targeting Ethiopia. Coded civil war MID because this was connected to militarized rebels in Somalia targeting Ethiopia. 
+
+CIVWARLINK: MID4387 3 -- not civil war link
+CIVWARLINK-CER: MID4387 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4387 3 -- not coup 
+COUPMID-CER: MID4387 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4387 3 -- not coup link
+COUPLINK-CER: MID4387 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4396
+
+TERRMID: MID4396 1 -- territorial MID
+TERRMID-CER: MID4396 1 -- certain 
+TERRMID-NOTES: MID4396 from Gibler 2018, in 2008 Ethiopian troops were patrolling the disputed border with Somalia when Somali troops fired at the soldiers, setting off a border clash. Coded territorial MID because this was connected to a border dispute. 
+
+TERRLINK: MID4396 3 -- not third party link to territory 
+TERRLINK-CER: MID4396 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4396 3 -- not maritime 
+MARITMID-CER: MID4396 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4396 3 -- not islands 
+ISLMID-CER: MID4396 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4396 3 -- not civil war 
+CIVWARMID-CER: MID4396 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4396 3 -- not civil war link
+CIVWARLINK-CER: MID4396 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4396 3 -- not coup 
+COUPMID-CER: MID4396 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4396 3 -- not coup link
+COUPLINK-CER: MID4396 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4401
+
+TERRMID: MID4401 1 -- territorial MID
+TERRMID-CER: MID4401 1 -- certain 
+TERRMID-NOTES: MID4401 coded territorial MID because this was connected to disputed territory between Somalia and Ethiopia (the Ogaden region). Somalia was supporting ethnic Somali rebels to further their attempt to control the territory. 
+
+TERRLINK: MID4401 3 -- not third party link to territory 
+TERRLINK-CER: MID4401 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4401 3 -- not maritime 
+MARITMID-CER: MID4401 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4401 3 -- not islands 
+ISLMID-CER: MID4401 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4401 1 -- civil war MID
+CIVWARMID-CER: MID4401 1 -- certain
+CIVWARMID-NOTES: MID4401 from Gibler 2018, from 2008-2010 Ethiopia attacked Islamist rebels who were seeking refuge in Somalia, and the series of attacks by Ethiopia included Ethiopia occupying some Somalian territory. Coded civil war MID because this was connected to militarized rebels in Somalia. 
+
+CIVWARLINK: MID4401 3 -- not civil war link
+CIVWARLINK-CER: MID4401 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4401 3 -- not coup 
+COUPMID-CER: MID4401 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4401 3 -- not coup link
+COUPLINK-CER: MID4401 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2073
+
+TERRMID: MID2073 1 -- territorial MID
+TERRMID-CER: MID2073 3 -- uncertain 
+TERRMID-NOTES: MID2073 from Gibler, Miller, and Little 2016, this MID describes the same events as MID2072 and should be combined due to temporal overlap. Ethiopia launched several air raids on Somali border towns in connection to the disputed Ogaden region. Coded territorial MID because this was connected to a territorial dispute, and coded uncertain because GML recommend this MID be merged with MID2072. 
+
+TERRLINK: MID2073 3 -- not third party link to territory 
+TERRLINK-CER: MID2073 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2073 3 -- not maritime 
+MARITMID-CER: MID2073 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2073 3 -- not islands 
+ISLMID-CER: MID2073 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2073 1 -- civil war MID
+CIVWARMID-CER: MID2073 3 -- uncertain
+CIVWARMID-NOTES: MID2073 coded civil war MID because this was connected to militarized rebels in the Ogaden region. Ethnic Somali rebels were receiving support from Somalia. In this MID, Ethiopia launched air raids to target rebels in Ogaden. Coded civil war MID because this was connected to militarized rebels. Coded uncertain because GML recommend this case be merged with MID2072 due to temporal overlap. 
+
+CIVWARLINK: MID2073 3 -- not civil war link
+CIVWARLINK-CER: MID2073 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2073 3 -- not coup 
+COUPMID-CER: MID2073 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2073 3 -- not coup link
+COUPLINK-CER: MID2073 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4345
+rivalry=520530 nationa=ETHIOPIA nationb=SOMALIA MID4345 20020106-20021226 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=.
+lhostb=USE OF FORCE 
+
+Beginning on January 6, 2002, Ethiopian military forces occupied much of the Puntland region in support of the insurgent Abdullahi Yusuf against the Somali TNC. During the occupation, the Ethiopian military assaulted the town of Guriceel, in the Galgaduud Region, and confiscated weapons from civilians in the town. It is likely that similar unreported incidents occurred in other towns as well. On March 3, Ethiopian military forces, supported by armored vehicles and local Somali militants fighting against the Somali TNC, attacked and captured the town of Bulo Hawo in the Gedo region. This incident was mirrored on May 15, when Ethiopian forces and Somali SRRC militia attacked and occupied the towns of Garbaharey and Bulo Hawo in the Gedo region of Somalia, clashing with Somali military units in the process. This was the highest action taken by both sides during the course of the dispute. Beginning on June 25, Ethiopian forces expanded their occupation by establishing military bases in the Somali regions of Hiraan in central Somalia and Bakool in southcentral Somalia in an effort to stop the use of Somali territory by Ethiopian opposition rebel groups. On September 19, Ethiopian troops crossed the border with Somalia and abducted 12 village elders from the village of Geri-Jur in the Galgudud region, as well as temporarily closing roads and confiscating radio equipment and weapons from the villagers. In late November, Ethiopian military forces briefly entered Somali territory and seized 16 guns from local Somali pastoralists along the border before returning to Ethiopian territory. In late December, Ethiopia amasses hundreds of troops along its border with the Somali region of Hiiraan for the purposes of securing the border against incursion by Somali military forces and rebels. In March of 2003, Ethiopia, with the aid of U.S. helicopters, increases its vigil of its border with Somalia in an effort to stop the trafficking of contraband and terrorists into the country. The underlying issue of the MID is one of Ethiopia's struggles with and against various rebel groups operating in Somalia, as it both operated with Somali rebels against the incumbent TNC and against rebels using Somalia as a host to attack Ethiopian territory. Certainly, information on Ethiopia's occupation and operations in Somalia were periodically sparse; while reports provide information on various operations against villages and Somali military targets, it is unclear for how long Ethiopian troops were continuously stationed in Somali territory. However, it is clear that multiple, large-scale operations occurred in Somali territory. First day of dispute was on 1/6/2002 and last day of dispute was on 12/26/2002.
+
+MID4376
+rivalry=520530 nationa=ETHIOPIA nationb=SOMALIA MID4376 20050313-20050313 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Although the underlying reasons are unclear, hundreds of Ethiopian troops are sent to the Ethiopian-Somalia border near the towns of Gaalkacyo and Goldogob. It is possible that the underlying issue is the continuing presence of anti-Ethiopian rebels in the region (see MID4345). First day of dispute was on 3/13/2005 and last day of dispute was on 3/13/2005.
+
+MID4387
+rivalry=520530 nationa=ETHIOPIA nationb=SOMALIA MID4387 20060618-20070121 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+In some ways, this MID is a mirror to the previous MID4345, with many of the same underlying issues between Ethiopia, Somali-based rebels, and the Somali TNC. This MID contains several incidents of Ethiopian incursions into Somali territory, but without any incidents of violence or fighting with Somali troops or rebels. On June 18, 2006, Ethiopian forces in several machine-gun mounted trucks crossed into the Gedo region for about 5 hours while simultaneously moving additional troops to the border to prevent incursions from Somalia. From June 28 to July 4 of 2006, Ethiopian forces occupied the Somali town of Beled Xaawo with about 200 troops. Later, beginning on July 21, Ethiopia moved several hundred troops, supported by about 140 tanks, to south-central Somalia. It is unclear where the troops were moved to. However, it is likely that the troops were utilized later in the occupation of the town of Bur Haqaba from Somali rebels. First day of dispute was on 6/18/2006 and last day of dispute was on 1/21/2007.
+
+MID4396
+rivalry=520530 nationa=SOMALIA nationb=ETHIOPIA MID4396 20080212-20080212 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+While patrolling the Ethiopian-Somalia border near Shabeele, Somalia, Ethiopian soldiers were shot at by a Somali soldier. In response, the Ethiopian soldiers shot and killed the Somali soldier. First day of dispute was on 2/12/2008 and last day of dispute was on 2/12/2008.
+
+MID4401
+rivalry=520530 nationa=ETHIOPIA nationb=SOMALIA MID4401 20081205-20100920 
+ revtype1a=POLICY revtype2a=REGIME/GOVERNMENT fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On December 5, 2008, Ethiopian soldiers fired mortars into a neighborhood of Mogadishu, killing 15 civilians. Later, in February 2009, Ethiopian troops moved into and occupied a portion of the Bakool region of Somalia and, in May 2009, a portion of the Hiraan region. In December 2009, hundreds of Ethiopian troops, along with armored vehicles, occupied a section of the Galguduud region of central Somalia. In March 2010, Ethiopian troops again occupied a portion of central Somalia, using their position as a forward station for searching the area for Islamist rebels. First day of dispute was on 12/5/2008 and the last day of the dispute was on 9/20/2010.
+
+RIVNOTES: 
+RIV1134: MID2245 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data.
+
+RIV1134: MID2245 (1987) was added in version 3.02 
+
+NARRATIVE-CM:
+Somalia claimed the Ogaden region of Ethiopia following its independence on July 1, 1960. Ethiopian troops and ethnic-Somalis clashed in the Ogaden region between August 14, 1960 and January 3, 1961, resulting in the deaths of some 100 Somali tribesmen and 20 Ethiopian soldiers. Ethiopian troops and ethnic-Somalis clashed in the Ogaden region on October 13, 1963. The Soviet Union, United States, West Germany, and Italy offered military assistance to Somalia, and Somalia accepted the offer of military assistance from the Soviet Union on November 10, 1963. Ethiopian police and Somalis clashed near the border on January 11, 1964, resulting in the deaths of 15 Ethiopian policemen and 45 Somalis. Somali troops and Ethiopian troops clashed near the Ethiopian military border post of Tog Wajaleh on February 7-10, 1964, resulting in the deaths of some 300 Somali soldiers and ten Ethiopian soldiers. Ethiopia declared a state-of-emergency, and referred the matter to the Organization of African Unity (OAU) on February 9, 1964. UN Secretary-General U Thant appealed for peaceful negotiations on February 9, 1964. Somalia referred the matter to the United Nations (UN) Security Council on February 10, 1964. Ethiopian troops and Somali troops clashed near Debra Goriale on February 11, 1964, resulting in the deaths of some 95 Somali soldiers. OAU foreign ministers discussed the dispute on February 12-14, 1964, and appealed for a cessation of military hostilities on February 14, 1964. The Soviet Union offered to mediate negotiations between the countries, but the mediation offer was rejected by Ethiopia and Somalia. The countries agreed to a cessation of military hostilities on February 15, 1964, but the parties continued military hostilities through February 17, 1964. Ethiopian troops and Somali troops engaged in military hostilities near the border on March 26-April 1, 1964, resulting in the deaths of some 200 individuals. President Ibrahim Abboud of Sudan, representing the OAU, mediated a demobilization agreement between the parties on March 30, 1964. The parties agreed to withdraw their troops from the border beginning on April 16, 1964. President Kenneth Kaunda of Zambia agreed to mediate in the dispute in September 1967. Ethiopia and Somalia issued a joint communique on September 22, 1967, which contained an agreement to "eliminate all forms of tension" between their countries. In May 1973, Somalia referred the matter to the OAU after incidents between Somali and Ethiopian troops in the Ogaden region in March-April 1973. OAU foreign ministers established an eight-member good offices commission (Cameroon, Lesotho, Liberia, Mauritania, Nigeria, Senegal, Sudan, Tanzania) chaired by the Nigerian representative on May 28, 1973. Ethiopia and Somalia resumed military hostilities on July 22, 1977, when Somali troops intervened on behalf of the Western Somalia Liberation Front (WSLF) rebels against the Ethiopian government in the Ogaden region. Ethiopia referred the matter to the OAU on August 2, 1977, and referred the matter to the UN Security Council on August 28, 1977. Madagascar attempted to mediate negotiations between the countries in August 1977. France suspended military assistance to Somalia on September 1, 1977. Ethiopia severed diplomatic relations with Somalia on September 7, 1977. Kenya condemned Somalia on September 9, 1977. China expressed support for Somalia on September 11, 1977. Somalian troops captured Jijiga on September 13-14, 1977. The Soviet Union provided emergency military assistance (military aircraft) to Ethiopia beginning on September 20, 1977. Some 1,500 Soviet military advisors were eventually deployed in support of Ethiopia. The Soviet Union expressed support for Ethiopia on October 23, 1977, and Cuba expressed support for Ethiopia on October 23, 1977. Some 15,000 Cuban troops were deployed in support of the Ethiopian government beginning in December 1977. Egypt provided some $30 million in military assistance to Somalia, and Iran provided military assistance to Somalia in January 1978. South Yemen deployed some 2,000 troops and 160 military advisors in support of Ethiopia in January 1978. Saudi Arabia expressed support for Somalia on January 15, 1978. Ethiopian troops, supported by Cuban and South Yemeni troops, began a counteroffensive against Somali troops in the Ogaden on January 22, 1978. Somalia ordered a general troop mobilization on February 9, 1978. Kenya expressed support for Ethiopia on March 9, 1978. Somalia announced its intention to withdrew its troops from the Ogaden on March 9, 1978, and Somali troops completed their withdrawal from the Ogaden on March 14, 1978. Some 8,000 Somali soldiers were killed during the conflict. Some 300,000 individuals fled as refugees from the Ogaden region. The United Nations High Commissioner for Refugees (UNHCR) provided humanitarian assistance to the refugees beginning in April 1978. The League of Arab States (LAS) agreed to provide military assistance to Somalia on March 29, 1978. Ethiopian military aircraft attacked the village of Kalabed in northwest Somalia on March 31, 1978, and Somalia referred the matter to UN Secretary-General Kurt Waldheim on April 2, 1978. The US offered military assistance to Somalia on June 1, 1978. Ethiopian military aircraft attacked several villages in northern Somalia on June 22, 1978, resulting in the deaths of 13 individuals. Somalia referred the matter to the OAU on June 29, 1978. OAU heads-of-state demanded a cessation of military hostilities on July 22, 1978. Ethiopian military aircraft attacked targets in Somalia from November 1979 to June 1981, resulting in the deaths of some 200 individuals. Ethiopian military aircraft attacked the village of Goldojob in Somalia on January 23, 1980, resulting in the deaths of nine individuals. Ethiopian troops and Somali troops clashed in the Ogaden region between May 27 and July 17, 1980, resulting in the deaths of some 1,300 Somali soldiers. The OAU good offices committee met in Lagos, Nigeria on August 18-20, 1980, and declared that the "Ogaden was part of Ethiopia" and urged the countries to restore diplomatic relations. The US agreed to provide military assistance to Somalia on August 21, 1980. Some 848,000 Ethiopians were refugees in Somalia in October 1980. Ethiopian troops attacked Somalia military units in the Mudugh region of central Somalia beginning on June 30, 1982. President Siad Barre of Somalia referred the matter to the OAU and UN secretary-general on July 12, 1982. President Daniel Moi of Kenya, the president of the OAU, appealed for a ceasefire on July 14, 1982. The US State Department announced that it had begun providing emergency military assistance (weapons and ammunition) to Somalia on July 24, 1982. Ethiopian troops occupied areas within the borders of Somalia in August 1982, and Somalia declared a state-of-emergency in the border region. LAS heads-of-state expressed support for Somalia at a summit meeting in Fez, Morocco on September 6-9, 1982. Some 40,000 individuals, including some 1,000 Cuban soldiers, were killed during military hostilities from 1976 to 1983. Ethiopian troops and Somalian troops clashed near the border on August 31, 1984. President Hassan Gouled Aptidon of Djibouti, chairman of the Intergovernment Authority on Drought and Development (IGADD), mediated negotiations between the Ethiopian and Somali leaders in Djibouti beginning on January 17, 1986. Ethiopia and Somalia agreed to establish a bilateral committee to improve relations between their countries. The bilateral committee held a first round of negotiations in Addis Ababa in May 1986. The bilateral committee held a second round of negotiations in Mogodishu on August 23-26, 1986. Organization of the Islamic Conference (OIC) heads-of-state appealed for the withdrawal of Ethiopian troops from Somalia on January 28, 1987. Ethiopian troops and Somali rebels attacked Somali military positions in the Todghere region on February 12-13, 1987, resulting in the deaths of some 300 Ethiopian soldiers and 25 Somali soldiers. The bilateral committee held a third round of negotiations in Addis Ababa on April 1-3, 1987. Ethiopian and Somalian representatives signed a peace agreement in Mogadishu on April 3, 1988, which provided for the demilitarization of the border and resumption of diplomatic relations. Ethiopian troops and Somalian troops completed their disengagement from the border region on April 25, 1988.
+
+In 1996, Ethiopia's army attacks an Islamist alliance base in Somalia after a wave of attacks is claimed by that movement. Ethiopian troops, tanks and helicopter gunships have crossed the border into western Somalia and attacked three towns, killing scores of people, a Somali Muslim fundamentalist faction charged on August 10, 1996. Workers for a Kenya-based Western relief organization confirmed the attack. High-ranking officials of a Somali group called the Union of Islam said two battalions of Ethiopian troops with tanks and helicopter gunships had seized the Gedo region of southwestern Somalia in fighting. The group said that the troops, tanks and helicopter gunships had swept through the towns of Dolo, Beled-Hawo and Lugh, and that the fighting was continuing. The area of the fighting is adjacent to the Ogaden, a harsh desert region controlled by Ethiopia but populated almost entirely by ethnic Somali nomads. In 1977, Somalia and Ethiopia waged a bitter war over control of the region. Ethiopia eventually prevailed with heavy support from the Soviet Union and Cuba. Still, nationalist sentiments still run high among many of the Somalis living there. The towns under attack are a stronghold of the Union of Islam, a fundamentalist Islamic group that with the collapse of central authority in Somalia, has carried on the fight for the Ogaden's independence from Ethiopia. The group has claimed responsibility for three bombings and one attempted assassination inside Ethiopia since January. In a statement released in Nairobi, Kenya, the fundamentalists said that more than 100 civilians and an unknown number of militiamen had been killed and that thousands of Somali families were fleeing because of the Ethiopian attack. The group said Dolo and Lugh had been captured by the Ethiopian forces and warned that the Ethiopian Government would have to bear the consequences of what it called a savage attack on Somalia. "We declare a holy war against the Ethiopians," said the group's leader, Sheik Hassan Dahir Aweys. "The invasion just shows the longtime desire of Ethiopia to occupy part of Somalia' he continued. In a special commentary broadcast on December 29, 1996, the Mogadishu radio, controlled by warlord Hussein Mohamed Aidid, accused Ethiopia of interfering in Somalia's affairs and noted that Ethiopians had not learnt the "recent historic lesson" from the failed US-led United Nations' military intervention in Somalia. Ethiopia's attack on Somalia could break the deadlock in Somalia's peace process and unify the country's warring forces for the common defence of the nation, the radio warned. It went on to accuse Ethiopia of destroying many towns inside Ethiopia, including Luq and Dollo, in the latest fighting. The statement by Aidid's United Somali Congress/Somali National Alliance (USC/SNA) faction was the most strongly-worded since the latest hostilities erupted between Ethiopian troops and the Al-Itihad Al-Islam fundamentalists more than a week ago. Other leaders of Somali religious groups, including those normally said to be moderates, have also made similar calls to Somali people to take up arms and help fight off the Ethiopian incursions.
+
+Thousands of sign-waving demonstrators led by Somali faction leader Hussein Aidid demanded on January 16, 1997, that Ethiopia end its occupation of parts of Somalia. Aidid claims Ethiopia has occupied 30 square kilometers (12 square miles) of western Somalia, after pursuing Muslim fundamentalist fighters of Al-Itihad Al-Islam, or Islamic Unity, across the border. The fundamentalists want the eastern Ethiopia region of Ogaden reunified with Somalia to form an Islamic state. Aidid's supporters carried placards cursing Ethiopian leader Meles Zenawi, and demanding that his troops leave the border town of Dolo, which they took in December 1996. Ethiopia has said it was defending itself from cross-border raids by Somali extremists. The event at Mogadishu's main soccer stadium was the first major demonstration since Aidid's father, Gen. Mohamed Farrah Aidid, died of battle wounds in August. Aidid claimed to be Somalia's president and his son inherited the claim.
+
+Al-Itihad has fought since 1992 for the reunification of Ogaden with Somalia. Ogaden is inhabited by ethnic Somalis. Somalia fought wars with Ethiopia over Ogaden in 1961 and 1964, and from 1977 to 1978, when the Ethiopians backed by the ex-Soviet and Cuban troops pushed the Somali army out of Ogaden and seized Dolo. Three Somali political factions on June 10, 1998, condemned Ethiopia for involvement in Somalia's internal affairs.The Somali National Movement (SNM), Somali Democratic Alliance (SDA) and United Somali Front (USF), who originate from Somalia's north-western regions, accused Ethiopia of supplying large amounts of military weapons, ammunition and uniforms to the secessionist regime of Mohamed Haggi Ibrahim Egal of the breakaway republic of Somaliland. In a strongly worded statement issued in Mogadishu, the three factions also accused Ethiopia of defying resolutions by the United Nations and Organization of African Unita (OAU) imposing an arms embargo on Somalia. Signatories of the statement included Abdurahman Ahmed Ali Tur, the chairman of the SNM, who also blamed Ethiopia for violating Somalia's unity and territorial integrity by constantly sending its military officials to Hargeisa, the capital of the breakaway republic of Somaliland, so as to encourage Egal as they put it. The three factions who are allied with the faction leader Hussein Mohamed Aidid said Ethiopia has already given diplomatic recognition to Egal by opening its own mission in Hargeisa while reciprocally offering an office to Egal's secessionist administration in Addis Ababa in fulfilling what they called Ethiopia's particular military and economic interests. The three factions, SNM, SDA and USF said they would no longer tolerate what they called Ethiopia's deliberate and arrogant intransigence. The factions said that only Ethiopia will shoulder the consequences of what they called illicit and unwarranted relations with Egal and they called on Ethiopia to refrain from all actions and policies that may worsen the security situation of the region. In 1997, Ethiopia supplied weapons and ammunition to the factions of Ali Mahdi Mohamed and the Somali Salvation Democratic Front. They also made two armed incursions into Somalia's border region of Gedo in their support of the Somali National Front fighting against the Islamic fundamentalist group of Al-Itihad Al-Islam. Ethiopian military officials opened three training camps for the Hawadle clan militiamen in the central region of Hiran early this year. At least 750 former militiamen trained and supervised by Ethiopia are currently operating in Hiran in accordance with the Ethiopian led programme, reports said. From 2000 to 2004, Addis Ababa backs a warlord alliance opposing a government of national unity established in 2000 in Mogadishu, which accused Ethiopia of occupying some regions in Somalia. But Ethiopia denied claims it was stoking instability in Somalia. On May 22, 2002, Somalia insisted that Ethiopia had invaded its territory and said "there is not an iota of truth" to Ethiopian claims that it fabricated the incursion to avoid taking part in an upcoming peace conference. Somalia's government has been promoting national reconciliation with opposition groups and plans to attend the next peace conference sponsored by Kenya, Somalia's U.N. Ambassador Ahmed Abdi Hashi said. Last week, Kenyan Foreign Minister Marsden Madoka said his country hoped to be able to host a Somali peace conference by July. "What Ethiopia is gunning for is to destabilize the transitional national government and create in Somalia puppet governments-some lands that it can rule over," he said. "At the same time, Ethiopia doesn't want the reemergence of a strong, viable and vibrant Somali state." Ethiopia vehemently denied Somalia's claim that its troops had invaded southern Somalia. Ethiopia's U.N. Ambassador Abdul Mejid Hussein said fighting in the southern Gedo region was between a group heavily armed by Somalia's transitional government and local supporters of the Somali Reconstruction and Restoration Council. The council is a loose alliance of faction leaders backed by Ethiopia. Somalia's allegations are "a desperate manifestation using the fiction of an Ethiopian 'invasion' as scapegoat to announce its unwillingness to face the realities of the impending Somalia peace process in Nairobi, Kenya," Mejid Hussein said. "We are willing to attend the Nairobi conference," countered Somalia's Abdi Hashi. "Somalia has attended all Kenya-sponsored earlier conferences, which Ethiopia refused to attend." Somalia had appealed to the U.N. Security Council to impose sanctions on Ethiopia, claiming its troops have invaded on several occasions since mid-April, forcing at least two waves of Somali refugees to flee into Kenya. Somalia has been without an effective central government since 1991 and clan-based fighting has turned the nation of 7 million into fiefdoms ruled by heavily armed militias. A transitional government elected in August 2000 has little influence outside Mogadishu, the capital. Ethiopia, which is predominantly Christian, and Somalia, which is predominantly Muslim, have fought two wars since the mid-1970s over Ethiopia's southeastern Ogaden region, home to thousands of ethnic Somalis. Ethiopia has deployed a "sizeable" contingent of troops in the southeastern part of the country along its long border with Somalia, a senior official said on February 27, 2002. 
+
+Abdulmejid Hussein, Ethiopia's ambassador to the United Nations, told reporters that the forces were in the country's Ogaden region, inhabited mainly by ethnic Somalis, "so we will not be caught unaware as in May 1998 in northern Ethiopia." He did not say how many troops had been deployed. The official, who is himself an ethnic Somali, was referring to the beginning of Ethiopia's 2 1/2-year border war with Eritrea. Somalia and Ethiopia fought a war over the Ogaden region in the late 1970s following a Somali invasion. Abdulmejid called the news conference to counter claims from neighboring Djibouti that remarks he made in a recent interview amounted to interference in the affairs of a sovereign state. Abdulmejid, who was the target of an unsuccessful attack by Somali Islamic militants at a Addis Ababa hotel in 1996, reportedly said in the interview that Islamic militants from Al-Itihaad al-Islami pose a threat to Ethiopia, which would be forced to take serious measures if the Somalis failed to solve their internal problems. The statement from the Djibouti government said at a time when countries of the Horn of Africa were preparing a conference on Somalia in Kenya in April, Abdulmejid's remarks "seriously damage the peace prospects and dash hopes that the Somali people and the international community may have placed in this conference." The government of Djibouti President Ismael Omar Guelleh organized a peace conference in August 2000 that led to the election of a transitional national government for Somalia headed by President Abdiqasim Salad Hassan, the first central authority in Somalia since clan-based factional fighting broke out more than a decade ago. "We have been perplexed by the communique and by Djibouti's self-designation to speak on behalf of Somalia," Abdulmejid said. "We will take strong exception when tiny countries begin to take the mantle. They should know what their contributions to the peace process should be." Abdulmejid repeated Ethiopian claims that Somalia's transitional government contains "terrorist elements." Abdiqasim's government accuses Ethiopia of sending troops into Somalia. Independent sources in Somalia say that Ethiopians are training militia in the south central city of Baidoa, which is under control of the Somalia Reconciliation and Restoration Council, which opposes the transitional government. Ethiopia, Eritrea, Djibouti, Sudan, Uganda, Kenya and Somalia all belong to the Djibouti-based Intergovernmental Authority on Development or IGAD, under whose auspices the Nairobi peace conference on Somalia will be held.
+
+In June/July 2006, the powerful Islamist movement takes Mogadishu and routs the warlords. They then declare a holy war against Ethiopia, which they accuse of deploying thousands of troops to back the weak interim government formed in Kenya in late 2004. Ethiopia is prepared to invade neighboring Somalia to defend Somalia's internationally recognized government against what appeared to be an imminent attack by an Islamic militia, a government spokesman said on July 19, 2006. "We have the responsibility to defend the border and the Somali government. We will crush them," Ethiopia's Minister of Information Berhan Hailu told The Associated Press. The comments came as the Islamic militia that has seized control of most of southern Somalia deployed hundreds of fighters outside the base of the U.N.-backed interim government and said they planned to seize it. The militia's movement toward the Somali town of Baidoa immediately raised concerns about possible intervention by Ethiopia, Somalia's traditional enemy. Somali transitional President Abdullahi Yusuf Ahmed is allied with Ethiopia and has asked for its support, and Ethiopia has intervened militarily in Somalia in the past. Hundreds of Ethiopian troops have been spotted along the countries' border in recent weeks. Berhan said Ethiopia supports Somalia's interim government because the panel is backed by the United Nations and the African Union. "We believe they have the right to lead the country in the right direction. But if the Islamic Courts Union militias move closer to Baidoa, then that is showing the intention of wanting to take over the recognized government," he said. Somalia invaded Ethiopia in 1978 in an attempt to grab land occupied by ethnic Somalis. Since then, Ethiopia has attempted to influence Somali politics to prevent another invasion. Ethiopia sent troops into Somalia in 1993 and 1996 to crush Islamic militants attempting to establish a religious government. The current leader of the Islamic courts was also a top Islamic leader in the 1990s.
+
+In November 2006, Ethiopian Prime Minister Meles Zenawi says his country has completed preparations for war with a Somali Islamic movement after efforts for dialogue failed, but Addis Ababa denies having troops in Somalia apart from advisers and trainers. On December 12, 2006, the Islamists issue a seven-day ultimatum for Ethiopia to withdraw its soldiers or face a major assault.
+
+SOURCES-CM: 
+Africa Research Bulletin (ARB), June 1-30, 1973, August 1-31, 1977, September 1-30, 1977, October 1-31, 1977, January 1-31, 1978, February 1-28, 1978, March 1-31, 1978, April 1-30, 1978, June 1-30, 1978, September 1-30, 1984, March 15, 1987; Africa Contemporary Record (ACR), 1978-1979; Allock et al., 1992, 243-251; Brecher and Wilkenfeld, 1997, 96-102; Butterworth, 1976, 143-144, 327-329; Clodfelter, 1992, 1008-1010; Donelan and Grieve, 1973, 182-187; Facts on File, January 19-25, 1961, February 13-19, 1964, March 26-April 1, 1964; Foreign Broadcast Information Service (FBIS), February 6, 1978, February 8, 1978, February 23, 1978, March 10, 1978, April 3, 1978; Keesing, January 6, 1978, May 26, 1978, November 28, 1980, March 27, 1981, September 10, 1982, April 1987; New York Times (NYT), August 18, 1977, June 2, 1978, August 29, 1980, October 11, 1980, July 25, 1982, April 5, 1988, April 26, 1988; Tillema, 1991, 90-92, 95-97; Woronoff, 1970, 347-359.
+
+NARRATIVE-CR:
+Somalia claimed the Ogaden region of Ethiopia following its independence on July 1, 1960. Ethiopian troops and ethnic-Somalis clashed in the Ogaden region between August 14, 1960 and January 3, 1961, resulting in the deaths of some 100 Somali tribesmen and 20 Ethiopian soldiers. These clashes accounted for both MID1423 and MID1421, respectively. The rivalry between Ethiopia and Somalia mainly revolved around the territorial dispute over the Ogaden region, but became part of the overarching Cold War conflict.
+
+MID1425 was a series of clashes between 1963 and 1964 over the issue of the Ogaden region. Ethiopian troops and ethnic-Somalis clashed in the Ogaden region on October 13, 1963. The Soviet Union, United States, West Germany, and Italy offered military assistance to Somalia, and Somalia accepted the offer of military assistance from the Soviet Union on November 10, 1963, placing the dispute within the broader context of the Cold War, as a proxy conflict. Ethiopian police and Somalis clashed near the border on January 11, 1964, resulting in the deaths of 15 Ethiopian policemen and 45 Somalis. Somali troops and Ethiopian troops clashed near the Ethiopian military border post of Tog Wajaleh on February 7-10, 1964, resulting in the deaths of some 300 Somali soldiers and ten Ethiopian soldiers. Ethiopia declared a state-of-emergency on February 9, 1964. Ethiopian troops and Somali troops clashed near Debra Goriale on February 11, 1964, resulting in the deaths of some 95 Somali soldiers. The countries agreed to a cessation of military hostilities on February 15, 1964, but the parties continued military hostilities through February 17, 1964. Ethiopian troops and Somali troops engaged in military hostilities near the border on March 26-April 1, 1964, resulting in the deaths of some 200 individuals. The parties agreed to withdraw their troops from the border beginning on April 16, 1964. 
+
+MID2066 involved a clash between Somali and Ethiopian troops along the border in which several Somali soldiers were said to have been captured.
+
+I was unable to locate information on the Ogaden clash that is designated as MID2067. It appears to be part of this same issue though.
+
+MID1378 revolved around election in French Somaliland. Somalia claimed the area, and amassed forces along the border. Ethiopia, which opposed the annexation, also mobilized along the border of French Somaliland. Ethiopia and Somalia issued a joint communique on September 22, 1967, which contained an agreement to "eliminate all forms of tension" between their countries, ending MID1378. 
+
+In May 1973, Somalia referred the matter to the OAU after incidents between Somali and Ethiopian troops in the Ogaden region in March-April 1973. These incidents are designated MID2068.
+
+An oil dispute is listed as MID1427. I was unable to find any information on this dispute, but it clearly revolved around the issue of the Ogaden region.
+
+MID1428 occurred between December of 1975 and January of 1976. The Ethiopian government accused Somalia of having infiltrated southern and eastern Ethiopia with agents and guerillas in preparation for a full-scale war.
+
+Ethiopia and Somalia resumed military hostilities on July 22, 1977, when Somali troops intervened on behalf of the Western Somalia Liberation Front (WSLF) rebels against the Ethiopian government in the Ogaden region. Somalian troops captured Jijiga on September 13-14, 1977. This began MID2069. The Soviet Union provided emergency military assistance (military aircraft) to Ethiopia beginning on September 20, 1977. Some 1,500 Soviet military advisors were eventually deployed in support of Ethiopia. The Soviet Union expressed support for Ethiopia on October 23, 1977, and Cuba expressed support for Ethiopia on October 23, 1977. Some 15,000 Cuban troops were deployed in support of the Ethiopian government beginning in December 1977. Egypt provided some $30 million in military assistance to Somalia, and Iran provided military assistance to Somalia in January 1978. South Yemen deployed some 2,000 troops and 160 military advisors in support of Ethiopia in January 1978. Saudi Arabia expressed support for Somalia on January 15, 1978. Ethiopian troops, supported by Cuban and South Yemeni troops, began a counteroffensive against Somali troops in the Ogaden on January 22, 1978. Somalia ordered a general troop mobilization on February 9, 1978. Kenya expressed support for Ethiopia on March 9, 1978. Somalia announced its intention to withdrew its troops from the Ogaden on March 9, 1978, and Somali troops completed their withdrawal from the Ogaden on March 14, 1978. Some 8,000 Somali soldiers were killed during MID2069. Some 300,000 individuals fled as refugees from the Ogaden region. 
+
+Ethiopian military aircraft attacked the village of Kalabed in northwest Somalia on March 31, 1978. The US offered military assistance to Somalia on June 1, 1978. Ethiopian military aircraft attacked several villages in northern Somalia on June 22, 1978, resulting in the deaths of 13 individuals. The Ethiopian air raids are designated as MID2070.
+
+Ethiopian military aircraft attacked targets in Somalia from November 1979 to June 1981, resulting in the deaths of some 200 individuals. This is MID2071. Ethiopian military aircraft attacked the village of Goldojob in Somalia on January 23, 1980, resulting in the deaths of nine individuals. Ethiopian troops and Somali troops clashed in the Ogaden region between May 27 and July 17, 1980, resulting in the deaths of some 1,300 Somali soldiers. The OAU good offices committee met in Lagos, Nigeria on August 18-20, 1980, and declared that the "Ogaden was part of Ethiopia" and urged the countries to restore diplomatic relations. The US agreed to provide military assistance to Somalia on August 21, 1980. Some 848,000 Ethiopians were refugees in Somalia in October 1980. 
+
+Ethiopian troops attacked Somalia military units in the Mudugh region of central Somalia beginning on June 30, 1982, beginning MID2072. The US State Department announced that it had begun providing emergency military assistance (weapons and ammunition) to Somalia on July 24, 1982. Ethiopian troops occupied areas within the borders of Somalia in August 1982, and Somalia declared a state-of-emergency in the border region. LAS heads-of-state expressed support for Somalia at a summit meeting in Fez, Morocco on September 6-9, 1982. Some 40,000 individuals, including some 1,000 Cuban soldiers, were killed during military hostilities from 1976 to 1983. 
+
+MID2073 involved multiple raids by Ethiopia and Somali rebels based in Ethiopia into Somalia. On January 30, Ethiopian air raids killed 40 people in Somalia. In March, Somali rebels claimed to have killed 123 Somali soldiers. Two days of air raids in May of 1984 by Ethiopian forces killed 6 Somali civilians.
+
+Ethiopian troops and Somalian troops clashed near the border on August 31, 1984. 
+
+Ethiopian troops, backed by artillery, tanks, and jets invaded Somalia on December 20, 1984, but were driven back by Somali forces. This was MID2074.
+
+Somalia claimed to have repelled two Ethiopian attacks in October of 1985, killing 64 soldiers. This was MID2075.
+
+President Hassan Gouled Aptidon of Djibouti, chairman of the Intergovernment Authority on Drought and Development (IGADD), mediated negotiations between the Ethiopian and Somali leaders in Djibouti beginning on January 17, 1986. Ethiopia and Somalia agreed to establish a bilateral committee to improve relations between their countries. The bilateral committee held a first round of negotiations in Addis Ababa in May 1986. The bilateral committee held a second round of negotiations in Mogodishu on August 23-26, 1986. Organization of the Islamic Conference (OIC) heads-of-state appealed for the withdrawal of Ethiopian troops from Somalia on January 28, 1987. Ethiopian troops and Somali rebels attacked Somali military positions in the Todghere region on February 12-13, 1987, resulting in the deaths of some 300 Ethiopian soldiers and 25 Somali soldiers. This dispute is not listed as a MID within this rivalry (it is apparently added in MID3.02). The bilateral committee held a third round of negotiations in Addis Ababa on April 1-3, 1987. Ethiopian and Somalian representatives signed a peace agreement in Mogadishu on April 3, 1988, which provided for the demilitarization of the border and resumption of diplomatic relations. Ethiopian troops and Somalian troops completed their disengagement from the border region on April 25, 1988. These agreements appear to have ended the rivalry between Ethiopia and Somalia, as there are no more MIDs between them after this date. Furthermore, as the disputes not only dealt with territorial issues (mainly over the Ogaden area) but also clearly was a proxy conflict for the Cold War, this time period appears to be an appropriate termination point for the rivalry.
+
+In 1996, Ethiopia's army attacks an Islamist alliance base in Somalia after a wave of attacks is claimed by that movement. Ethiopian troops, tanks and helicopter gunships have crossed the border into western Somalia and attacked three towns, killing scores of people, a Somali Muslim fundamentalist faction charged on August 10, 1996. Workers for a Kenya-based Western relief organization confirmed the attack. High-ranking officials of a Somali group called the Union of Islam said two battalions of Ethiopian troops with tanks and helicopter gunships had seized the Gedo region of southwestern Somalia in fighting. The group said that the troops, tanks and helicopter gunships had swept through the towns of Dolo, Beled-Hawo and Lugh, and that the fighting was continuing. The area of the fighting is adjacent to the Ogaden, a harsh desert region controlled by Ethiopia but populated almost entirely by ethnic Somali nomads. In 1977, Somalia and Ethiopia waged a bitter war over control of the region. Ethiopia eventually prevailed with heavy support from the Soviet Union and Cuba. Still, nationalist sentiments still run high among many of the Somalis living there. The towns under attack are a stronghold of the Union of Islam, a fundamentalist Islamic group that with the collapse of central authority in Somalia, has carried on the fight for the Ogaden's independence from Ethiopia. The group has claimed responsibility for three bombings and one attempted assassination inside Ethiopia since January. In a statement released in Nairobi, Kenya, the fundamentalists said that more than 100 civilians and an unknown number of militiamen had been killed and that thousands of Somali families were fleeing because of the Ethiopian attack. The group said Dolo and Lugh had been captured by the Ethiopian forces and warned that the Ethiopian Government would have to bear the consequences of what it called a savage attack on Somalia. "We declare a holy war against the Ethiopians," said the group's leader, Sheik Hassan Dahir Aweys. "The invasion just shows the longtime desire of Ethiopia to occupy part of Somalia' he continued. In a special commentary broadcast on December 29, 1996, the Mogadishu radio, controlled by warlord Hussein Mohamed Aidid, accused Ethiopia of interfering in Somalia's affairs and noted that Ethiopians had not learnt the "recent historic lesson" from the failed US-led United Nations' military intervention in Somalia. Ethiopia's attack on Somalia could break the deadlock in Somalia's peace process and unify the country's warring forces for the common defence of the nation, the radio warned. It went on to accuse Ethiopia of destroying many towns inside Ethiopia, including Luq and Dollo, in the latest fighting. The statement by Aidid's United Somali Congress/Somali National Alliance (USC/SNA) faction was the most strongly-worded since the latest hostilities erupted between Ethiopian troops and the Al-Itihad Al-Islam fundamentalists more than a week ago. Other leaders of Somali religious groups, including those normally said to be moderates, have also made similar calls to Somali people to take up arms and help fight off the Ethiopian incursions.
+
+Thousands of sign-waving demonstrators led by Somali faction leader Hussein Aidid demanded on January 16, 1997, that Ethiopia end its occupation of parts of Somalia. Aidid claims Ethiopia has occupied 30 square kilometers (12 square miles) of western Somalia, after pursuing Muslim fundamentalist fighters of Al-Itihad Al-Islam, or Islamic Unity, across the border. The fundamentalists want the eastern Ethiopia region of Ogaden reunified with Somalia to form an Islamic state. Aidid's supporters carried placards cursing Ethiopian leader Meles Zenawi, and demanding that his troops leave the border town of Dolo, which they took in December 1996. Ethiopia has said it was defending itself from cross-border raids by Somali extremists. The event at Mogadishu's main soccer stadium was the first major demonstration since Aidid's father, Gen. Mohamed Farrah Aidid, died of battle wounds in August. Aidid claimed to be Somalia's president and his son inherited the claim.
+
+Al-Itihad has fought since 1992 for the reunification of Ogaden with Somalia. Ogaden is inhabited by ethnic Somalis. Somalia fought wars with Ethiopia over Ogaden in 1961 and 1964, and from 1977 to 1978, when the Ethiopians backed by the ex-Soviet and Cuban troops pushed the Somali army out of Ogaden and seized Dolo. Three Somali political factions on June 10, 1998, condemned Ethiopia for involvement in Somalia's internal affairs.The Somali National Movement (SNM), Somali Democratic Alliance (SDA) and United Somali Front (USF), who originate from Somalia's north-western regions, accused Ethiopia of supplying large amounts of military weapons, ammunition and uniforms to the secessionist regime of Mohamed Haggi Ibrahim Egal of the breakaway republic of Somaliland. In a strongly worded statement issued in Mogadishu, the three factions also accused Ethiopia of defying resolutions by the United Nations and Organization of African Unita (OAU) imposing an arms embargo on Somalia. Signatories of the statement included Abdurahman Ahmed Ali Tur, the chairman of the SNM, who also blamed Ethiopia for violating Somalia's unity and territorial integrity by constantly sending its military officials to Hargeisa, the capital of the breakaway republic of Somaliland, so as to encourage Egal as they put it. The three factions who are allied with the faction leader Hussein Mohamed Aidid said Ethiopia has already given diplomatic recognition to Egal by opening its own mission in Hargeisa while reciprocally offering an office to Egal's secessionist administration in Addis Ababa in fulfilling what they called Ethiopia's particular military and economic interests. The three factions, SNM, SDA and USF said they would no longer tolerate what they called Ethiopia's deliberate and arrogant intransigence. The factions said that only Ethiopia will shoulder the consequences of what they called illicit and unwarranted relations with Egal and they called on Ethiopia to refrain from all actions and policies that may worsen the security situation of the region. In 1997, Ethiopia supplied weapons and ammunition to the factions of Ali Mahdi Mohamed and the Somali Salvation Democratic Front. They also made two armed incursions into Somalia's border region of Gedo in their support of the Somali National Front fighting against the Islamic fundamentalist group of Al-Itihad Al-Islam. Ethiopian military officials opened three training camps for the Hawadle clan militiamen in the central region of Hiran early this year. At least 750 former militiamen trained and supervised by Ethiopia are currently operating in Hiran in accordance with the Ethiopian led programme, reports said. From 2000 to 2004, Addis Ababa backs a warlord alliance opposing a government of national unity established in 2000 in Mogadishu, which accused Ethiopia of occupying some regions in Somalia. But Ethiopia denied claims it was stoking instability in Somalia. On May 22, 2002, Somalia insisted that Ethiopia had invaded its territory and said "there is not an iota of truth" to Ethiopian claims that it fabricated the incursion to avoid taking part in an upcoming peace conference. Somalia's government has been promoting national reconciliation with opposition groups and plans to attend the next peace conference sponsored by Kenya, Somalia's U.N. Ambassador Ahmed Abdi Hashi said. Last week, Kenyan Foreign Minister Marsden Madoka said his country hoped to be able to host a Somali peace conference by July. "What Ethiopia is gunning for is to destabilize the transitional national government and create in Somalia puppet governments-some lands that it can rule over," he said. "At the same time, Ethiopia doesn't want the reemergence of a strong, viable and vibrant Somali state." Ethiopia vehemently denied Somalia's claim that its troops had invaded southern Somalia. Ethiopia's U.N. Ambassador Abdul Mejid Hussein said fighting in the southern Gedo region was between a group heavily armed by Somalia's transitional government and local supporters of the Somali Reconstruction and Restoration Council. The council is a loose alliance of faction leaders backed by Ethiopia. Somalia's allegations are "a desperate manifestation using the fiction of an Ethiopian 'invasion' as scapegoat to announce its unwillingness to face the realities of the impending Somalia peace process in Nairobi, Kenya," Mejid Hussein said. "We are willing to attend the Nairobi conference," countered Somalia's Abdi Hashi. "Somalia has attended all Kenya-sponsored earlier conferences, which Ethiopia refused to attend." Somalia had appealed to the U.N. Security Council to impose sanctions on Ethiopia, claiming its troops have invaded on several occasions since mid-April, forcing at least two waves of Somali refugees to flee into Kenya. Somalia has been without an effective central government since 1991 and clan-based fighting has turned the nation of 7 million into fiefdoms ruled by heavily armed militias. A transitional government elected in August 2000 has little influence outside Mogadishu, the capital. Ethiopia, which is predominantly Christian, and Somalia, which is predominantly Muslim, have fought two wars since the mid-1970s over Ethiopia's southeastern Ogaden region, home to thousands of ethnic Somalis. Ethiopia has deployed a "sizeable" contingent of troops in the southeastern part of the country along its long border with Somalia, a senior official said on February 27, 2002. 
+
+Abdulmejid Hussein, Ethiopia's ambassador to the United Nations, told reporters that the forces were in the country's Ogaden region, inhabited mainly by ethnic Somalis, "so we will not be caught unaware as in May 1998 in northern Ethiopia." He did not say how many troops had been deployed. The official, who is himself an ethnic Somali, was referring to the beginning of Ethiopia's 2 1/2-year border war with Eritrea. Somalia and Ethiopia fought a war over the Ogaden region in the late 1970s following a Somali invasion. Abdulmejid called the news conference to counter claims from neighboring Djibouti that remarks he made in a recent interview amounted to interference in the affairs of a sovereign state. Abdulmejid, who was the target of an unsuccessful attack by Somali Islamic militants at a Addis Ababa hotel in 1996, reportedly said in the interview that Islamic militants from Al-Itihaad al-Islami pose a threat to Ethiopia, which would be forced to take serious measures if the Somalis failed to solve their internal problems. The statement from the Djibouti government said at a time when countries of the Horn of Africa were preparing a conference on Somalia in Kenya in April, Abdulmejid's remarks "seriously damage the peace prospects and dash hopes that the Somali people and the international community may have placed in this conference." The government of Djibouti President Ismael Omar Guelleh organized a peace conference in August 2000 that led to the election of a transitional national government for Somalia headed by President Abdiqasim Salad Hassan, the first central authority in Somalia since clan-based factional fighting broke out more than a decade ago. "We have been perplexed by the communique and by Djibouti's self-designation to speak on behalf of Somalia," Abdulmejid said. "We will take strong exception when tiny countries begin to take the mantle. They should know what their contributions to the peace process should be." Abdulmejid repeated Ethiopian claims that Somalia's transitional government contains "terrorist elements." Abdiqasim's government accuses Ethiopia of sending troops into Somalia. Independent sources in Somalia say that Ethiopians are training militia in the south central city of Baidoa, which is under control of the Somalia Reconciliation and Restoration Council, which opposes the transitional government. Ethiopia, Eritrea, Djibouti, Sudan, Uganda, Kenya and Somalia all belong to the Djibouti-based Intergovernmental Authority on Development or IGAD, under whose auspices the Nairobi peace conference on Somalia will be held.
+
+In June/July 2006, the powerful Islamist movement takes Mogadishu and routs the warlords. They then declare a holy war against Ethiopia, which they accuse of deploying thousands of troops to back the weak interim government formed in Kenya in late 2004. Ethiopia is prepared to invade neighboring Somalia to defend Somalia's internationally recognized government against what appeared to be an imminent attack by an Islamic militia, a government spokesman said on July 19, 2006. "We have the responsibility to defend the border and the Somali government. We will crush them," Ethiopia's Minister of Information Berhan Hailu told The Associated Press. The comments came as the Islamic militia that has seized control of most of southern Somalia deployed hundreds of fighters outside the base of the U.N.-backed interim government and said they planned to seize it. The militia's movement toward the Somali town of Baidoa immediately raised concerns about possible intervention by Ethiopia, Somalia's traditional enemy. Somali transitional President Abdullahi Yusuf Ahmed is allied with Ethiopia and has asked for its support, and Ethiopia has intervened militarily in Somalia in the past. Hundreds of Ethiopian troops have been spotted along the countries' border in recent weeks. Berhan said Ethiopia supports Somalia's interim government because the panel is backed by the United Nations and the African Union. "We believe they have the right to lead the country in the right direction. But if the Islamic Courts Union militias move closer to Baidoa, then that is showing the intention of wanting to take over the recognized government," he said. Somalia invaded Ethiopia in 1978 in an attempt to grab land occupied by ethnic Somalis. Since then, Ethiopia has attempted to influence Somali politics to prevent another invasion. Ethiopia sent troops into Somalia in 1993 and 1996 to crush Islamic militants attempting to establish a religious government. The current leader of the Islamic courts was also a top Islamic leader in the 1990s. On July 20th, 2006 Ethiopian troops invaded Somalia. 
+
+In November 2006, Ethiopian Prime Minister Meles Zenawi says his country has completed preparations for war with a Somali Islamic movement after efforts for dialogue failed, but Addis Ababa denies having troops in Somalia apart from advisers and trainers. On December 12, 2006, the Islamists issue a seven-day ultimatum for Ethiopia to withdraw its soldiers or face a major assault.
+
+The conflict over the Ogaden region has not ended and Ethiopia troops were still in Somalia as of December 31, 2006. 
+
+SOURCES-CR: 
+Facts on File, September 1967; New York Times, June 13 1965, January 31 1984, March 16 1984, May 26 1984, December 21 1984, October 22 1985; Agence France Presse December 29, 1996; December 20, 2006; Deutsche Presse-Agentur June 10, 1998; Associated Press January 16, 1997; August 10, 1996; June 10, 1998; February 27, 2002; May 22, 2002; July 19, 2006; New York Times August 10, 1996
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001. International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1978a). Moscow Said to Link Pullouts by Cubans, Somalis in Ethiopia. New York Times March 11: 1.

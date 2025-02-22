@@ -1,0 +1,527 @@
+FILE: cm800812v11.0.txt
+DYAD: THAILAND-LAOS
+RIVALRY: RIV1350
+DISPUTE(S): MID2028 MID2030 MID2031 MID2015 MID2016 MID2017 MID1376 MID3226 MID3003 MID3114 MID3082 MID3540 MID2776
+
+RIVNOTES:
+
+PS: 19531023-19600824 0.5 19600825-19880219 0.00 19880220-19920218 -9 19920219-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220324
+PS-LAST-CHECKED: 20220324
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2028
+
+TERRMID: MID2028 1 -- territorial 
+TERRMID-CER: MID2028 3 -- uncertain
+TERRMID-NOTES: MID2028 involves clashes in the Mekong river, which forms the internal boundary between the two states. From cm narrative, soon after Kong Le took control of Laos, Laotian troops fired on a Thai patrol boat in the Mekong River, which serves as the border. Occurred August 1960. Coded uncertain because Gibler, Miller, and Little 2016 argue this MID should be dropped and combined with MID2030, as both MIDs describe the same issue. 
+
+TERRLINK: MID2028 3 -- not third party linked to territory 
+TERRLINK-CER: MID2028 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2028 3 -- not maritime 
+MARITMID-CER: MID2028 1 -- certain
+MARITMID-NOTES: MID2028 not really maritime, since this is an inland river boundary.
+
+ISLMID: MID2028 3 -- not islands
+ISLMID-CER: MID2028 1 -- certain
+ISLMID-NOTES: MID2028 no islands were in dispute in the Mekong river, the maritime boundary between the countries. 
+
+CIVWARMID: MID2028 1 -- civil war MID
+CIVWARMID-CER: MID2028 3 -- uncertain
+CIVWARMID-NOTES: MID2028 from cm narrative, MID2028 occurred during the Laotian civil war and directly after Kong Le took control in a coup. Thailand was worried about a communist threat throughout Laos' civil war. These fears turned out not to be baseless, as Laos later funded a Thai communist insurgent group when the communists won the Laotian civil war in 1975. Further, Thailand was on the side of the US's anti-communist efforts in Indochina, so the Thai government was generally at odds with communist groups both during and after the Laotian civil war. Coded uncertain because Gibler, Miller, and Little 2016 argue this MID should be dropped and combined with MID2030, as both MIDs describe the same issue. 
+
+CIVWARLINK: MID2028 3 -- not civil war link
+CIVWARLINK-CER: MID2028 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2028 1 -- coup MID
+COUPMID-CER: MID2028 3 -- uncertain 
+COUPMID-NOTES: MID2028 from Gibler, Miller, and Little 2016, this MID involved a coup in Laos. An army elite took power in a coup on 8/9/1960 and wanted to end the Laotian Civil War. Thailand blockaded the disputed Mekong River in response. Coded coup MID because this involved a coup in Laos. Coded uncertain because Gibler, Miller, and Little 2016 argue this MID should be dropped and combined with MID2030, as both MIDs describe the same issue. 
+
+COUPLINK: MID2028 3 -- not coup link
+COUPLINK-CER: MID2028 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2030
+
+TERRMID: MID2030 1 -- territorial 
+TERRMID-CER: MID2030 1 -- certain 
+TERRMID-NOTES: MID2030 from cm narrative, Thai troops clashed with Laotian troops in the Mekong river. Reportedly, Thailand was wary of a communist takeover in Laos and the influence communists could have in Thailand as a result. Occurred September 1960.
+
+TERRLINK: MID2030 3 -- not third party linked to territory 
+TERRLINK-CER: MID2030 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2030 3 -- not maritime MID
+MARITMID-CER: MID2030 1 -- certain 
+MARITMID-NOTES: MID2030 River forms internal land boundary between the two states.
+
+ISLMID: MID2030 3 -- not islands 
+ISLMID-CER: MID2030 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2030 1 -- civil war MID
+CIVWARMID-CER: MID2030 1 -- certain 
+CIVWARMID-NOTES: MID2030 from cm narrative, occurred during Laotian civil war and was a result of Thai fears of a communist takeover in Laos. These fears turned out not to be baseless, as Laos later funded a Thai communist insurgent group when the communists won the Laotian civil war in 1975. Further, Thailand was on the side of the US's anti-communist efforts in Indochina, so the Thai government was generally at odds with communist groups both during and after the Laotian civil war. 
+
+CIVWARLINK: MID2030 3 -- not civil war link
+CIVWARLINK-CER: MID2030 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID2030 1 -- coup MID
+COUPMID-CER: MID2030 1 -- certain 
+COUPMID-NOTES: MID2030 from Gibler 2018, on 8/9/1960 an army elite took power in a coup in Laos and wanted to end the ongoing Laotian Civil War. Thailand supported the ousted government and blockaded the Mekong River in response to the coup. Coded coup MID because this was connected to a coup in Laos. 
+
+COUPLINK: MID2030 3 -- not coup link
+COUPLINK-CER: MID2030 1 -- certain 
+COUPLINK-NOTES:
+
+MID2031
+
+TERRMID: MID2031 3 -- not territorial MID
+TERRMID-CER: MID2031 1 -- certain 
+TERRMID-NOTES: MID2031 from cm narrative, Thailand closed their land border with Laos out of fear that advancing Pathet Lao and North Vietnamese (communist rebels) troops would invade Thailand. They did not invade. 
+
+TERRLINK: MID2031 3 -- not third party linked to territory
+TERRLINK-CER: MID2031 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2031 3 -- not maritime 
+MARITMID-CER: MID2031 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2031 3 -- not islands 
+ISLMID-CER: MID2031 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2031 1 -- civil war MID
+CIVWARMID-CER: MID2031 1 -- certain
+CIVWARMID-NOTES: MID2031 from cm narrative, MID2031 occurred during the Laotian civil war. Thailand was concerned about communist elements throughout the civil war. 
+
+CIVWARLINK: MID2031 3 -- not civil war link
+CIVWARLINK-CER: MID2031 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID2031 3 -- not coup 
+COUPMID-CER: MID2031 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2031 3 -- not coup link
+COUPLINK-CER: MID2031 1 -- certain 
+COUPLINK-NOTES:
+
+MID2016
+
+TERRMID: MID2016 3 -- not territorial 
+TERRMID-CER: MID2016 1 -- certain
+TERRMID-NOTES: MID2016 from CM narrative, MID2016 occurred after renewed fighting in the Laotian civil war. Nervous about fighting going on next door, Thailand closed parts of its border with Laos. Coded as non-territorial because neither side attempted to violate the sovereignty of the other or make a claim on territory. 
+
+TERRLINK: MID2016 3 -- not third party linked to territory
+TERRLINK-CER: MID2016 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2016 3 -- not maritime 
+MARITMID-CER: MID2016 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2016 3 -- not islands 
+ISLMID-CER: MID2016 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2016 1 -- civil war MID
+CIVWARMID-CER: MID2016 1 -- certain 
+CIVWARMID-NOTES: MID2016 from narrative, MID2016 occurred when Thailand closed parts of its border with Laos. Renewed civil war fighting in Laos prompted fears in Laos of spillover and communist incursions. Coded civil war MID because events of MID driven by Laotian Civil War. Events took place May 1969.
+
+CIVWARLINK: MID2016 3 -- not civil war link
+CIVWARLINK-CER: MID2016 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID2016 3 -- not coup 
+COUPMID-CER: MID2016 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2016 3 -- not coup link
+COUPLINK-CER: MID2016 1 -- certain 
+COUPLINK-NOTES:
+
+MID2017
+
+TERRMID: MID2017 3 -- not territorial 
+TERRMID-CER: MID2017 1 -- certain 
+TERRMID-NOTES: MID2017 from cm narrative, communist forces (Pathet Lao and North Vietnam) made aggressive advances toward Thai border, prompting Thailand to aid RLG forces in countering the advances. Coded not territorial because Thailand and the government of Laos at the time did not have a territorial dispute, and were actually working in concert to try to stop communist advances across the border into Thailand. Occurred March 1970.
+
+TERRLINK: MID2017 3 -- not third party linked to territory 
+TERRLINK-CER: MID2017 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2017 3 -- not maritime 
+MARITMID-CER: MID2017 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2017 3 -- not islands 
+ISLMID-CER: MID2017 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2017 1 -- civil war
+CIVWARMID-CER: MID2017 1 -- certain 
+CIVWARMID-NOTES: MID2017 from cm narrative, events of this MID occurred during the Laotian Civil War and in response to advances toward the Thai border by communist rebel forces. Thai forces worked in concert with RLG forces to prevent communist insurgents from crossing the border into Thailand, and the militarization of the border constitutes this MID. Occurred in March 1970.
+
+CIVWARLINK: MID2017 3 -- not civil war link
+CIVWARLINK-CER: MID2017 1 -- certain
+CIVWARLINK-NOTES: MID2017 the militarization of the Laos-Thailand border prompts this MID. The militarization happens in response to events of the Laotian civil war, when communists were moving toward the Tahi border. The Laotian civil war is in this dyad,see CIVWARMID. 
+
+COUPMID: MID2017 3 -- not coup 
+COUPMID-CER: MID2017 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2017 3 -- not coup link
+COUPLINK-CER: MID2017 1 -- certain 
+COUPLINK-NOTES:
+
+MID1376
+
+TERRMID: MID1376 1 -- territorial MID
+TERRMID-CER: MID1376 1 -- certain 
+TERRMID-NOTES: MID1376 from cm narrative, following the end of the Laotian Civil War, unclear border demarcations led to a border dispute and daily military clashes on the border. Occurred June 1975.
+
+TERRLINK: MID1376 3 -- not third party linked to territory 
+TERRLINK-CER: MID1376 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1376 3 -- not maritime 
+MARITMID-CER: MID1376 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1376 3 -- not islands
+ISLMID-CER: MID1376 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1376 1 -- civil war MID
+CIVWARMID-CER: MID1376 1 -- certain
+CIVWARMID-NOTES: MID1376 from narrative, directly followed a civil war. Thailand and Laos broke diplomatic relations in 1975, and Thailand's regime distrusted Laos' new communist government. This tension contributed to border clashes. 
+
+CIVWARLINK: MID1376 3 -- not civil war link
+CIVWARLINK-CER: MID1376 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1376 3 -- not coup 
+COUPMID-CER: MID1376 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1376 3 -- not coup link
+COUPLINK-CER: MID1376 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3226
+
+TERRMID: MID3226 1 -- territorial MID
+TERRMID-CER: MID3226 1 -- certain 
+TERRMID-NOTES: MID3226 from cm narrative, the events of MID3226 are border clashes resulting from a border dispute. After the Laotian civil war left the communists in power, the MIDs in this dyad became more territorial in nature. Unclear border demarcation led the communists in Laos who took power in the civil war to dispute the boundary, creating a border dispute that went on to drive several MIDs, including MID3226. Negotiations to resolve the dispute failed several times. Occurred May 1976.
+
+TERRLINK: MID3226 3 -- not third party linked to territory
+TERRLINK-CER: MID3226 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3226 3 -- not maritime
+MARITMID-CER: MID3226 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3226 3 -- not islands
+ISLMID-CER: MID3226 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3226 1 -- civil war MID
+CIVWARMID-CER: MID3226 1 -- certain
+CIVWARMID-NOTES: MID3226 from cm narrative, these events directly followed a civil war and the tensions that led to MID3226 were fueled by the Laotian civil war, which left the communists in power. Thailand was suspicious of Laos' communist government. 
+
+CIVWARLINK: MID3226 3 -- not civil war link
+CIVWARLINK-CER: MID3226 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3226 3 -- not coup 
+COUPMID-CER: MID3226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3226 3 -- not coup link
+COUPLINK-CER: MID3226 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3003
+
+TERRMID: MID3003 1 -- territorial MID
+TERRMID-CER: MID3003 1 -- certain 
+TERRMID-NOTES: MID3003 from cm narrative, this MID involves a major clash on the Mekong River. The battle seems to be a result of heightened tensions resulting from the Laotian Civil War. After the communists took power in Laos, a previously unclear border demarcation led to a border dispute and failed negotiations between Laos and Thailand. Occurred December 1978 to January 1979.
+
+TERRLINK: MID3003 3 -- not third party linked to territory
+TERRLINK-CER: MID3003 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3003 3 -- not maritime
+MARITMID-CER: MID3003 1 -- certain
+MARITMID-NOTES: MID3003 concerns the Mekong River, which is an inland river boundary and therefore considered a land border. 
+
+ISLMID: MID3003 3 -- not islands
+ISLMID-CER: MID3003 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3003 1 -- civil war MID
+CIVWARMID-CER: MID3003 1 -- certain
+CIVWARMID-NOTES: MID3003 from cm narrative, the events of MID3003 are a result of heightened tensions between the countries in the wake of the Laotian civil war. More specifically, the communist presence in Vientiane, a city in Laos on the border with Thailand, kept Thai suspicions high and contributed to the constant tension between the countries. Per the cm narrative, this tensions escalated into MID3003.
+
+CIVWARLINK: MID3003 3 -- not civil war link
+CIVWARLINK-CER: MID3003 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3003 3 -- not coup 
+COUPMID-CER: MID3003 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3003 3 -- not coup link
+COUPLINK-CER: MID3003 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3114
+
+TERRMID: MID3114 1 -- not territorial 
+TERRMID-CER: MID3114 1 -- certain 
+TERRMID-NOTES: MID3114 from cm narrative, after a new anti-communist leader took power in Thailand, tensions heightened again, and Laos fired on a Thai patrol boat that crossed the inland river boundary in the Mekong river. There was an ongoing territorial dispute at the time. Occurred June 1982.
+
+TERRLINK: MID3114 3 -- not third party linked to territory
+TERRLINK-CER: MID3114 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3114 3 -- not maritime
+MARITMID-CER: MID3114 1 -- certain 
+MARITMID-NOTES: MID3114 involved the Mekong River, an inland river boundary. Thus, although this concerned a Thai patrol boat, it occurred within the inland river, not maritime space per se.
+
+ISLMID: MID3114 3 -- not islands
+ISLMID-CER: MID3114 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3114 1 -- civil war MID 
+CIVWARMID-CER: MID3114 1 -- certain 
+CIVWARMID-NOTES: MID3114 coded as civil war MID because it followed a civil war that left a regime in power in Laos that led to heightened tensions in the years that followed. The increased tensions led to several disputes, and this MID occurred after an anti-communist regime took power in Thailand. Considered CIVWARMID because result of Laotian civil war contributed to tensions and repeated disputes, even though Laotian Civil War ended in 1975. 
+
+CIVWARLINK: MID3114 3 -- not civil war link
+CIVWARLINK-CER: MID3114 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3114 3 -- not coup 
+COUPMID-CER: MID3114 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3114 3 -- not coup link
+COUPLINK-CER: MID3114 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3082
+
+TERRMID: MID3082 1 -- territorial MID
+TERRMID-CER: MID3082 1 -- certain
+TERRMID-NOTES: MID3082 from narrative, tensions again heightened when Thailand accused Laos of supporting communist insurgents in Thailand and refusing to control heroin trafficking within Laos. Thailand accused Laotian troops of firing on a Thai village from an island in the Mekong River and firing on patrol boats the following day. Coded territorial MID because of the attack on Thai territory (village) and because of unresolved territorial dispute.
+
+TERRLINK: MID3082 3 -- not third party linked to territory
+TERRLINK-CER: MID3082 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3082 3 -- not maritime
+MARITMID-CER: MID3082 1 -- certain
+MARITMID-NOTES: MID3082 from narrative, Thailand accused Laos of firing on a patrol boat in the Mekong River, near an island occupied by Laotian troops. Occurred June 1982. Although a patrol boat is involved, the dispute occurs on an inland river, rather than maritime space per se.
+
+ISLMID: MID3082 3 -- not islands
+ISLMID-CER: MID3082 1 -- certain
+ISLMID-NOTES: MID3082 although the shelling of the Thai village and patrol boats by Laos happened from an island in the Mekong, coded non-islands MID because the dispute was not over the island itself, nor has sovereignty over the island been disputed as part of the territorial dispute. Island was only the site of artillery shelling by Laos. 
+
+CIVWARMID: MID3082 1 -- civil war MID
+CIVWARMID-CER: MID3082 1 -- certain
+CIVWARMID-NOTES: MID3082 consistent with previous coding, considered civil war MID because increased tensions between countries that led to repeated disputes comes in large part from Thailand's distrust of the communist regime that took power in Laos as a result of the civil war. further, Thailand accused Laos of funding communist insurgents in Thailand. 
+
+CIVWARLINK: MID3082 3 -- not civil war link
+CIVWARLINK-CER: MID3082 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3082 3 -- not coup 
+COUPMID-CER: MID3082 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3082 3 -- not coup link
+COUPLINK-CER: MID3082 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3540
+
+TERRMID: MID3540 1 -- territorial MID 
+TERRMID-CER: MID3540 1 -- certain 
+TERRMID-NOTES: MID3540 from narrative, Thailand and Laos disputed control over three villages, resulting in repeated clashes and failed negotiations. Driven by rich timber resources in the villages, which lie in the northern portion of the countries' border area. Occurred December 1983 to June 1986.
+
+TERRLINK: MID3540 3 -- not third party linked to territory
+TERRLINK-CER: MID3540 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3540 3 -- not maritime 
+MARITMID-CER: MID3540 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3540 3 -- not islands 
+ISLMID-CER: MID3540 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3540 1 -- civil war MID
+CIVWARMID-CER: MID3540 1 -- certain 
+CIVWARMID-NOTES: MID3540 consistent with previous MID coding, considered civil war MID because increased tensions between countries that led to repeated disputes comes in large part from Thailand's distrust of the communist regime that took power in Laos as a result of the civil war. further, Thailand accused Laos of funding communist insurgents in Thailand.
+
+CIVWARLINK: MID3540 3 -- not civil war link
+CIVWARLINK-CER: MID3540 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3540 3 -- not coup 
+COUPMID-CER: MID3540 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3540 3 -- not coup link
+COUPLINK-CER: MID3540 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2776
+
+TERRMID: MID2776 1 -- territorial MID 
+TERRMID-CER: MID2776 1 -- certain 
+TERRMID-NOTES: MID2776 from narrative, Laos accused Thailand of amassing troops near disputed timber-rich area of border. Thailand bombed Laotian troops in the area and intense fighting ensued. Both sides were fighting for control of disputed territory. 
+
+TERRLINK: MID2776 3 -- not third party linked to territory 
+TERRLINK-CER: MID2776 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2776 3 -- not maritime 
+MARITMID-CER: MID2776 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2776 3 -- not islands 
+ISLMID-CER: MID2776 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2776 1 -- civil war MID 
+CIVWARMID-CER: MID2776 1 -- certain 
+CIVWARMID-NOTES: MID2776 consistent with previous MID coding, considered civil war MID because increased tensions between countries that led to repeated disputes comes in large part from Thailand's distrust of the communist regime that took power in Laos as a result of the civil war. further, Thailand accused Laos of funding communist insurgents in Thailand.
+
+CIVWARLINK: MID2776 3 -- not civil war link 
+CIVWARLINK-CER: MID2776 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID2776 3 -- not coup 
+COUPMID-CER: MID2776 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2776 3 -- not coup link
+COUPLINK-CER: MID2776 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Laotian troops and Thai police clashed near the border on July 22, 1975, and resulting in the deaths of three Thai policemen. Laotian troops attacked a Thai patrol boat on the Mekong River on November 17, 1975, resulting in the death of one Thai soldier. Thailand closed the border with Laos on November 18, 1975. Laotian troops and Thai police clashed near the border on May 20, 1976, resulting in the deaths of six Thai policemen. Laotian troops fired into Thai territory on several occasions on October 14-20, 1976, resulting in the death of one individual. Thai troops attacked three Laotian islands (Sang Khi, Con Tam, and Singsou) on the Mekong River in April 1977. Laotian troops and Thai troops clashed near the Mekong River on December 14-17, 1978, resulting in the deaths of four Thai soldiers. Laotian troops and Thai police clashed near Tha Song Khon village on January 24, 1979, resulting in the deaths of two Thai police. Laotian troops attacked a Thai patrol boat on the Mekong River on June 15, 1980, resulting in the death of one Thai soldier. Laotian troops and Thai troops clashed near the Mekong River on January 20-27, 1981, resulting in the deaths of three Laotians. Laotian troops attacked a Thai patrol boat on the Mekong River and Ban Mai and Ban Kutbong villages on June 16-17, 1982, resulting in the deaths of two Thai villagers. Laos and Thailand disputed the sovereignty of the three villages of Ban Mai, Ban Kang, and Ban Savang beginning in March 1984. Laotian troops occupied the villages on April 15, 1984, but Thai troops took control of the villages on June 6, 1984. Laotian troops and Thai troops clashed near the villages on June 7-9, 1984. Representatives of the countries held negotiations in Bangkok between July 21 and August 15, 1984. Laotian troops attacked Thai troops near Ban Mai on September 1, 1984, resulting in the deaths of two Thai soldiers. On October 2, 1984, Thailand announced that it would withdraw its troops from the villages, and Thai troops completed their withdrawal from the three villages on October 15, 1984. Laos referred the dispute to the *United Nations *(UN) Security Council, which debated the dispute on October 22, 1984. Laotian troops and Thai police clashed on August 10, 1985, resulting in the death of one Thai police officer. Thirty-five Laotian immigrants were killed by Laotian troops near Chiang Kham village in Thailand on June 14, 1986. Thailand referred the matter to the UN Security Council. Laotian troops and Thai troops resumed military hostilities near the three villages on November 3, 1987. Thai military aircraft and troops attacked Laotian troops in the disputed region on December 15-27, 1987. Laos referred the matter to UN Secretary-General Javier Perez de Cuellar on December 17, 1987 and Foreign Minister Witness Mangwende of Zimbabwe, chairman of the *Non-Aligned Movement* (NAM) on December 18, 1987. Thailand called on Laos to withdraw its troops from the disputed region on December 28, 1987. Laos and Thailand agreed to hold negotiations on December 30, 1987. UN Secretary-General Perez de Cuellar appealed for negotiations and offered to facilitate negotiations on January 4, 1988. Thai military aircraft attacked Laotian troops in the disputed region on February 1-5, 1988 (some 70 Thai soldiers were killed by friendly fire on February 3, 1988). The UN secretary-general offered to mediate negotiations between the parties on February 5, 1988, but Thailand rejected the mediation offer. Laotian troops and Thai troops clashed in the dispute region on February 14-17, 1988. Laos and Thailand agreed to a ceasefire on February 17, 1988, and the ceasefire went into effect on February 19, 1988. Some 300 soldiers were killed during the conflict. Laos and Thailand signed a security and cooperation agreement on August 17, 1990. Laotian and Thai representatives held negotiations on March 11-12, 1991, and the countries withdrew their troops from the border region on March 13-19, 1991. Laos and Thailand signed a treaty of friendship and cooperation in Bangkok on February 19, 1992. Laos and Thailand signed a border demarcation agreement on May 19, 1997, and a joint demarcation commission began work on marking the border on November 1, 1997.
+
+SOURCES-CM: 
+Allock et al, 532-536; *Bangkok Times*, (Bangkok), May 19, 1997; Brecher and Wilkenfeld, 1997, 558-559, 562; Brogan, 1992, 167-168; *Far Eastern Economic Review *(FEER), January 7, 1988, January 28, 1988, February 18, 1988, March 3, 1988, March 24, 1988; *Foreign Broadcast Information Service *(FBIS), December 14, 1978, December 15, 1978, December 19, 1978, January 26, 1979, June 21, 1982, December 17, 1987, December 18, 1987, December 21, 1987, December 22, 1987, December 28, 1987, December 29, 1987, December 30, 1987, January 6, 1988, February 8, 1988, February 12, 1988, February 16, 1988, February 19, 1988, February 22, 1988, February 23, 1988; *Keesing*, August 18-24, 1975, January 30, 1976, December 17, 1976, December 4, 1981, December 3, 1982, June 1985, September 1986, March 1991; *KPL News Agency* (Vientiane), February 3, 1998; *Radio Thailand* (Bangkok), March 14, 1991; Tillema, 1991, 266-267; *Voice of Free Asia* (Bangkok), March 20, 1991; Weisburd, 1997, 274.
+
+NARRATIVE-CR:
+The rivalry between Laos and Thailand stems from the ideological differences between the countries. During the Cold War, Thailand was a stalwart anti-communist state. It was supported by the USA as was the Royal Laotian Government. In Laotian civil war that plagued the country for 15 years the communist faction ultimately gained control of the country in 1975. The MIDs constituting the rivalry occur during two distinct periods, but the same anticommunist impetus motivates the hostility in both periods.
+
+The first period of MIDs occur during the civil war in Laos. Here the MIDs happen from 1960 until 1973. At the close of the civil war, the communist group gains control of Laos, thus from 1975 forward forms the second period of MIDs. During the second period, the rivalry took on a different character as the issues that motivated the hostility included Lao support for a Thai communist insurgent group, vaguely demarcated borders, and disputes over logging and heroin production. These seem to be proximate causes of an underlying general ideological animosity between the two countries. Consequently, though there are two distinct phases in the rivalry they appear to coalesce around ideological differences between the two governments.
+
+From 1958 until 1973, a civil war took place in Laos. The Pathet Lao, a communist insurgency group supported by Hanoi, Peking, and Moscow controlled northern portions of Laos. The Royal Laotian Government (RLG) controlled southern portions of the country and were supported by Washington, Thailand and other western powers. There was also a faction vying for control of the government that supported taking a neutral stance in accordance with agreements signed at Geneva in 1954 between Moscow, Washington, Peking, Laos, London, and several other interested states. The thinking was that Laos would serve as a buffer between the communist states North Vietnam and China, and the rest of Indochina. In principle, the RLG was to remain neutral and a part of the nonaligned movement. This neutral stance was a difficult one to maintain as the RLG leaned to the right and northern groups under the leadership of the Pathet Lao leaned left. All the Cold Warriors were heavily invested in making sure the country fell their way. Washington supported the RLG with air power, advisors, and equipment-much of it useless during the rainy season. Hanoi supported, both directly and indirectly the Pathet Lao. Moscow provided airlift support to the Pathet Lao. Peking provided indirect support and possibly direct support though the record on this is not clear.
+
+The MIDs that occur between Laos and Thailand during the civil war generally occur at times in the conflict when neutral forces were in charge of Laos, the left held positions of power, or the Pathet Lao made provocative moves on the Thai border. In all instances, the Thai governments felt a communist threat and responded militarily. In the years that follow the Pathet Lao's successful take over and control of Laos, the disputes take on more of a territorial tone, however the territorial disputes are motivated by the ideological differences between the two countries and the presence of right wing Laotian officials in Thailand.
+
+In August of 1960, MID2028 occurs. Here Captain Kong Le took control of the country in a coup. He was an avowed neutralist. Soon after the coup, Laotian troops fired on a Thai patrol boat in the Mekong River (the bordering waterway between the two countries). Again, in September of 1960, Thai troops clashed with Kong Le forces on the Mekong, as reports indicated that Thailand sensed an increased threat of a communist takeover in Laos. In February of 1964, MID2031 occurred. Here Thailand closed part of its border with Laos as Pathet Lao and North Vietnamese forces advanced on the Thai border. Thailand feared a communist invasion that did not materialize.
+
+In 1965, Laos was in a sense divided into northern and southern halves along similar divisions as North and South Vietnam. In May of 1969, MID2016 took place amid renewed fighting in the civil war. This prods Thailand into heightening security and closing portions of the border. In March of 1970, MID2017 took place. Pathet Lao and North Vietnamese forces move provocatively towards the Thai border. Thai troops aided RLG forces in countering the move.
+
+In 1973, the fighting in the Laotian civil war ended with an arrangement to share power brokered between the two sides and other interested parties. Many right wing elements in Laos fled to Thailand. In time, the Pathet Lao consolidated resources and took control of the government completely in 1975.
+
+During the summer of 1975, Thailand and Laos broke off diplomatic relations. In June of 1975, daily skirmishes took place on the border constituting MID1376. Laos arrested two Thai military attaches. There were also lingering border disputes between Laos and Thailand due to the ambiguous nature of border demarcation. The origin of this dispute seems to be the heightened level of alert given the communist presence in Vientiane and the heightened level of armaments on the Mekong. Negotiations were attempted to resolve these border disputes but failed. This led to further disputes in 1976. In May of 1976, Laotian troops and Thai police clashed near the border. Six Thai police were killed in the incident. This constitutes MID3226.
+
+From December 1978 through January 1979, MID3003 took place. Here there was a major skirmish between Pathet Lao forces and Thai forces on the Mekong river. The two countries lost four vessels and a number of personnel were killed on both sides. Again the origin of this dispute seems to be the heightened level of alert given the communist presence in Vientiane and the heightened level of armaments on the Mekong.
+
+The two countries signed a memorandum of understanding describing the Mekong as a `river of peace and friendship' and establishing a border liaison committee that reduced the number of armed patrols on the river. However, after General Prem Tinsulandond assumed power in Thailand in March of 1980 relations deteriorated again. He was seen as a staunch anticommunist. On June 15 of 1980 MID3114 took place. Lao troops fired on a Thai patrol boat operating in the Lao half of the Mekong, killing a naval officer. Thailand responded by closing the frontier for most of July, causing serious food shortages in Vientiane.
+
+A general improvement of relations occurred during 1981 and 1982 during which reciprocal ministerial visits occurred. This was short lived and in 1982, Thailand charged that Laos was aiding the Pak Mai (New Party), a small, pro-Vietnamese, Thai communist insurgent group that had split from the Chinese-backed Communist Party of Thailand in 1979. At the same time, Thailand accused Laos of ignoring heroin production inside Laos and of refusing to cooperate in the suppression of narcotics trafficking between Laos and Thailand. In June of 1982 MID3082 occurred. Thailand alleges that Lao troops stationed on Don Sangkhi, an island in the Mekong, fired on a Thai village, and that the following day Lao forces shelled Thai patrol boats operating near the island.
+
+From December of 1983 until the middle of June 1986 MID3540 took place. Here Laos and Thailand disputed the sovereignty of three villages in the northern portion of both countries, hence the term commonly used to describe this dispute, the three villages dispute. In mid 1984, armed clashes occurred over the status of three remote border villages. Throughout the dispute, there were attempts to negotiate, recurring low-level hostilities, and armed confrontation resulting in the deaths of dozens on both sides. Laos raised this issue in the UN Security Council, rejecting Thailand's proposal to determine the territoriality of the villages through a joint or neutral survey team. The motivation for this conflict was the rival claim of both countries to rich timber resources in the region.
+
+A general improvement in relations occurred during August of 1986 when Kaysone Phomvihane, Lao Prime Minister, sent a letter of congratulations to General Prem on his reappointment as Thailand's Prime Miniser.
+
+However in May of 1987 until February of 1988 MID2776 occurred. In May, Laos accused Thailand of massing troops in th Ban Rom Klao region near their northern border to protect illegal logging activity. In December of 1987, Thai fighter planes bombed the area to clear it of Laotian troops. Fighting between the troops began in earnest from this point on. As many as 700 personnel were killed on both sides in this dispute. Here the two sides were battling for territorial sovereignty as both sides were interested in making claims to the rich timber resources in the area.
+
+Thus with the exception of the last two MIDs it seems that the underlying motivation for the rivalry between the two countries concerns ideological differences. It could be that the underlying differences were the root cause and the timber disputes in MID3540 and MID2776 were proximate causes of conflict.
+
+Relations since the late 1980s between the two countries have improved a great deal especially in the later half of the 1990s.
+
+In 1987, a major foreign policy goal for Thailand was the restoration of its traditionally cordial ties with Laos, strained since 1975, when Bangkok came to perceive Laos as a client state of Vietnam. In 1981, Thailand banned 273 "strategic" commodities from export or transshipment to Laos. Amid the armed conflicts, occurring between the countries one important economic link continued to be unaffected by political or security matters: Laos sold electricity to Thailand, earning as much as 75 percent of its annual foreign exchange from this transaction.
+
+On the initiative of Laos, the two sides met in November 1986 to reaffirm their commitment to the 1979 accord on neighborly relations. At about the same time, Thailand began to relax its trade embargo, thereby decreasing the number of banned items to sixty-one. Apparently, this action was taken under pressure from Thai businessmen, whose exports to Laos had dropped sharply from 81 percent of the total imports of Laos in 1980 to 26 percent in 1984. Thai exports to Laos increased in 1985 and 1986, but the future of economic links between the two countries was uncertain.
+
+The determination in 1988 of Thai prime minister Chatichai Choonhaven to open up the Indochina market abruptly turned the heated rivalry into a wave of goodwill gestures and business ventures. Lao Prime Minister Kaysone paid an official visit to Bangkok in 1989, his first since the brief 1979 rapprochement with Prime Minister General Kriangsak Chomanand. These gestures were followed by official visits by Princess Maha Chakkri in March 1990 and Crown Prince Maha Wachirolongkon in June 1992.
+
+Two political issues slowed rapprochement during the 1980s: first, the continuing issue of Laotian migrants and refugees remaining in temporary camps-whom Thailand had no desire to accept as immigrants-and second, Laotian and Hmong resistance groups who used the camps as a base. The Hmong constituted half of the camp dwellers and were expected to avoid repatriation the longest, out of fear of reprisal and hope for national autonomy. Thailand announced in July 1992, however, that Laotian refugees who have not returned home or found third-country resettlement by 1995 will be classified as illegal immigrants and face deportation.
+
+By 1997 Laos joined ASEAN as a full member. By then Thailand was the biggest investor in Laos with 254 projects worth around US$2.06 billion, mainly in mining, hotels, agro-industry, telecommunications, textiles and energy. Laos and Thailand signed a landmark agreement in March for the first railway link between the two countries. A Thai firm, Sahaviriya, will build the 27-km line to the halfway point on a bridge across the Mekong River, and Laos will handle the rest. The state-owned Electricity Generating Authority of Thailand has signed a memorandum of understanding committing it to buy up to 3,000 megawatts a year from Laos in the future.
+
+Future Laotian-Thai relations have a clear path visible toward mutually beneficial trade and investment, which need not be obscured by refugees or economic migrants, by one-sided economic dealings of an exploitative kind, or by inflamed border disputes. The exodus of tens of thousands of middle-class lowland Lao and mountain dwelling Hmong across the Mekong into Thailand created a tense border that Thailand preferred to close off to commerce of any kind. An improved trade relationship has been achieved in spite of past feelings of superiority or victimization, and growing interdependence may make the path easier to follow.
+
+Note-I had difficulty finding information regarding MID2015. I searched the New York Times, the Times of London, Facts on File and the text sources listed in the SOURCES-CR. I did not find mention in any of these sources of a one-day incident occurring on the specified date. I expanded the date range to a month on either side of the provided date of 19760517 and still did not locate information regarding a militarized interstate dispute between the two countries. J. Klein
+
+SOURCES-CR: 
+Allcock, 1992, 532-6; Bercovitch and Jackson, 1997, 160, 206-7, LePoer, 1987; Savada, 1994; New York Times 8/25-8/301960, 9/22-10/30/1960, 2/16-3/30/1960, 2/16-3/30/1964, 5/5-5/9/1969; 2/25/-3/30/1970, 7/7-11/30/1975; Weisburg, 1997, 274;
+
+PS-NARRATIVE: 
+
+19531023-19600824 0.5
+
+Laos became a member of the international system on October 23, 1953. On February 19, 1955, Thao Kratai Sasorith, the prime minister of Laos, made an official visit to Thailand. This was the first official visit by a Laotian official to Thailand in modern times. Mutual defense problems as well as a common Buddhist block were among the issues on the agenda. On January 29, 1958, the government of Thailand announced that it reached an agreement with the government of Laos to eliminate the 25 kilometers demilitarized border area between the two countries.
+
+The first MID of RIV1350, MID2028, started in August of 1960. Here Captain Kong Le took control of the country in a coup. He was an avowed neutralist. Soon after the coup, Laotian troops fired on a Thai patrol boat in the Mekong River (the bordering waterway between the two countries). Again, in September of 1960, Thai troops clashed with Kong Le forces on the Mekong, as reports indicated that Thailand sensed an increased threat of a communist takeover in Laos.
+
+19880220-19920218 Transition
+
+On February 20, 1989, the Prime Minister of Laos, Kaysone Phomvihan made an official visit to Thailand. The two prime ministers agreed on the building of a bridge between the two countries over the Mekong River. This first bridge between the two countries was expected to be completed by November 1994.
+
+On May 9, 1991, Thailand and Laos agreed to set up a joint commission to promote bilateral ties between the two countries. Bilateral relations, bumpy since 1975 when a Socialist government took power in Laos, hit a low during the small border war of 1987-1988, but diplomatic relations were never stopped.
+
+19920219-20159999 0.5
+
+On 19th February, 1992, three bilateral cooperation agreements were signed by Thai Prime Minister Anan Panyarachun and LPDR Premier Khamtai Siphandon. After the signing of the Thai-Lao cooperation accords, Prime Minister Anan Panyarachun stated that the signing of the Treaty of Amity and Cooperation between Thailand and Laos is to be regarded as a special historic event between Thailand and Laos. It stresses the fact that Laos is a neighboring country which has very special and close relations with Thailand. It is the first treaty within a bilateral framework that Thailand has ever signed with a neighboring country. This treaty will provide guidelines for the implementation of bilateral relations, which are based on peaceful coexistence and the solving of problems and conflicts through peaceful means. Furthermore, it will also provide the basis for further cooperation between Thailand and Laos. The tourism agreement is the first such agreement Laos has ever signed with another country. The agreement will provide opportunities for Thailand to assist Laos in the training of Lao officials, the promotion and development of tourist attractions, the exchange of information and data on tourism, and the exchange of tourist information offices in the capitals of each country. LPDR Premier Khamtai Siphandon also remarked on the occasion that these documents will serve as the groundwork for the enhancement of relations between two countries which are neighbors to each other, two brotherly countries; the peoples of our two nations are close relatives. I hope that these important documents will be maintained and increased in value by turning their concepts into practice through the relations and cooperation between our two countries.
+
+On January 15, 1993, Sakthip Krairoek, Director-General of the Information Department of the Foreign Ministry of Thailand, discussed the success of the visit to the Lao People's Democratic Republic [LPDR] by the delegation of the government of the Kingdom of Thailand led by Sqn-Ldr Prasong Sunsiri, Foreign Minister of Thailand. He said that the talks between the foreign ministers of the two countries proceeded in an atmosphere of intimacy and achieved brilliant success. The two sides reaffirmed that Thai-Lao relations have been conducted on the basis of correctness, equality and mutual benefit. The Thai side reiterated that the current Thai government will continue to build on whatever foundations have been laid by the previous government and will expand areas of cooperation in the interests of the two peoples. As for certain remaining problems, they are being gradually resolved and the third meeting between the Joint Thai-Lao Border Committee will be held in Thailand in mid-March 1993 under the co-chairmanship of the foreign ministers of the two countries.
+
+Thai King Bhumibol Adulyadej greeted Lao President Nouhak Phoumsavanh on February 14, 1995, at Bangkok International Airport at the start of a six-day visit which marks vastly improved relations between the two neighboring nations. Nouhak, 83, will be in Thailand until February 19 as the guest of King Bhumibol. The official visit demonstrates that Thai-Lao friendship has developed to "the highest level," an Asian diplomat said. The ancient Lao communist revolutionary, accompanied by his wife, was escorted by a motorcade to the Grand Palace in Bangkok where he will reside with his entourage of Lao ministers. Nouhak is scheduled to attend a dinner, hosted by the King Tuesday night, before travelling to the northern provinces of Chiang Mai and Chiang Rai to witness various rural development projects sponsored by the Royal Family. Thailand's king, who visited Laos in April 1994, to commemorate the opening of the Thai-Lao Friendship Bridge, has initiated several rural development projects in Laos, one of the world's poorest countries. Laos had a monarchy before 1975, when the land-locked country went communist. The Lao royal family reportedly perished in re-education camps. In recent years as Laos opened its doors to foreign investment, trade with the non-communist bloc and market-oriented reforms, the Thai royal family has shown great interest in their neighbor, which has strong historic, cultural and linguistic ties with Thailand. "Our friendship is based on the proximity of our countries, common history and religion, and close similarity in our languages, cultures and norms," Nouhak told reporters in an interview on Thai-Lao relations last week. The proximity has also been a source of tension and war. Thailand and Laos waged a mini-war over some disputed territory in 1987, and the two countries were on opposite sides of the Cold War, despite their close cultural ties.
+
+On September 9, 1996, the two countries agreed to demarcate their border in order to deal with the problematic issues of the past decades. A Thai-Lao Joint Boundary Commission was set up for this task.
+
+On October 29, 1997, the Lao National Radio denied Thai media reports that six Thai nationals were released "unconditionally" earlier in the week after being held for 19 days for violating Lao territory. The government-controlled radio station stressed that the families of several Laotians who allegedly died in a smuggling incident on the Mekong river still demanded compensation from Thailand. On October 7, the five Thai policemen and a customs official were captured on the Lao side of the Mekong while they were in hot pursuit of a Lao smuggling racket trying to ship thousands of cases of German-made Lowenbrau beer into Thailand. Laos has claimed that two or four Lao nationals drowned in the crackdown after they jumped overboard into the river, which defines the border between Thailand and Laos. On Sunday the six Thais were released following a meeting between Thai and Lao provincial authorities. But Wednesday, in a broadcast monitored in Bangkok, Lao radio blasted Thai press and television for reporting that the Thai officials were released without conditions from the Lao side. "Negotiations between the two sides will continue until Thailand pays compensation to the families of the Lao nationals who lost their lives in the incident," said Lao radio. But an official at Thailand's ministry of foreign affairs denied the Lao report and said: "The Thais were released unconditionally, because if Thailand agreed to pay compensation it would have been an admission that the Thai side was at fault, which has not been determined yet." He added that the border dispute was still under investigation to determine which side was in the wrong. "Thai-Lao relations are still strong. We will soon be setting up a joint committee to handle business and economic disputes to handle such cases in the future," said the official, who asked to remain anonymous.
+
+Lao Prime Minister Khamthai Siphandong was among the first country leaders to rush off a congratulatory telegram to Thailand's new premier, a government radio station said on November 11, 1997. Khamthai cabled his congratulations to Chuan Leekpai shortly after his royal appointment to the premiership, which was officially announced on November 11, 1997. The cable expressed the hope that "good existing relations between Laos and Thailand would continue to further develop," said the Lao National Radio in a broadcast monitored in Bangkok. Thai-Lao relations were reportedly strained under the outgoing government of former Thai Prime Minister Chavalit Yongchaiyudh, a one-time Army Commander-in-Chief who lost a "mini-war" against Laos in 1987-88. Thailand under Chavalit's leadership reportedly lost the battle for Ban Lom Klow, a disputed territory claimed by both countries. Chavalit went on to become prime minister in November 1996 and led the country into its worst economic crisis in decades until he finally resigned, bowing to popular demand, the previous month. Thai-Lao relations were recently marred by a border incident in which six Thai police were arrested and detained after cracking down on a Lao smuggling racket on the Mekong River, which defines the countries' common border.
+
+A senior Lao government official admitted on January 3, 1998, that efforts to demarcate the common border between Laos and Thailand made slow progress in 1997, radio reports said. Uen Phumachak, chief of the treaty and legal affairs department in the Lao foreign ministry, said that the two neighboring countries had only agreed upon 13 border markers covering 113 kilometers since the joint demarcation program began on May 5, 1997. Uen, however, denied media reports that the project had run into resistance from local populations on the Thai and Lao sides of the common border, which is largely defined by the Mekong River. The senior Lao official said the joint border demarcation team's work was hampered by record low river levels and lack of food in the remote areas, said the Lao National Radio in a broadcast monitored in Bangkok. In September 1996 both countries agreed to recognize the border agreements defined by the Franco-Siam (Thailand's old name) treaty of 1926. Thai government officials have complained that the treaty, signed when France was a powerful colonial power in Indochina (including the former French colonies Cambodia, Laos and Vietnam) threatening Thailand's sovereignty, was far from favorable for the Thai side. Uen said the second phase of the demarcation effort would be carried out between January 1 and June 30, 1998, and should be completed within two years.
+
+Laos agreed on June 4, 1998, to allow Thai-registered vehicles to enter Vientiane instead of parking at the foot of the Thai-Lao Friendship Bridge, Foreign Ministry spokesman Kobsak Chutikul said. Kobsak said that the vehicles needed insurance that covered accidents in foreign countries. He did not, however, say when the new measure would become effective. The agreement was made at a meeting between Foreign Minister Surin Pitsuwan and his Lao counterpart Somsavat Lengsavad during the former's three-day official visit to Vientiane. The bridge over the Mekong is the first between Thailand and Laos and was opened in 1994, linking the Lao capital with Nongkhai province in Thailand. Laos has refused to allow Thai vehicles into the capital for fear of traffic congestion. Meanwhile Surin said in a telephone interview from Vientiane that Thailand had informed Laos that the Interior Ministry had agreed to a proposal to allow vehicles from Laos to enter Udon Thani province. He added that the Transportation Ministry of Thailand would endorse the proposal with immediate effect. At present vehicles from Laos can go only to Nong Khai province.
+
+Informal joint Cabinet meetings between Thailand and the People's Democratic Republic of Laos will be organized at Pakse District, Champasak Province of Laos and Ubon Ratchathani Province of Thailand, March 20-21, 2004. These meetings will highlight development potential for Northeastern Thailand, which could also be linked with other neighboring states such as Cambodia. These joint cabinet meetings between the two countries will lead to the more concrete results in more cooperative projects for equal benefit to the peoples on both sides of the Mekong River. There are many projects in the pipeline that need expediting, however, including: 1. Tourism Promotion in the Emerald Triangle: This is a project of cooperation between three countries along the Mekong River, i.e., Thailand, Laos and Cambodia. The project has taken shape very rapidly to open new tourism sites along the borders of the three countries. These include Ubon Ratchathani and Sisaket Provinces of Thailand, Champasak and Attapeu Provinces of Laos, and the Preah Vihear and Stung Treng Provinces of Cambodia. There is more needed to be done to complete this project, including border passing regulations within the triangle, and improvements in road transportation to key tourist attractions. 2. Promotions for Thai-Lao Border Trade: The Thai-Lao border trade is the second highest border trade of record for Thailand, after the border trade with Malaysia. The border trade between the two countries is poised to grow continuously in line with the economic development of Laos. 3. Special Border Economic Zone: Certain spots now showing bright potential for a pilot project promoting a special border economic zone between the two countries includes Chiang Saen in Chiang Rai Province, Northern Thailand, adjoining Chiang Khong Province of Laos. Cooperation between these two provinces can be extended to Myanmar and Southern China, to create spillover effects to other neighboring states of Thailand. There are some other areas showing sound potential in this project. Mukdahan Province, in Northeastern Thailand, can be linked with Savannakhet Province of Laos, through the Second Thai-Lao Friendship Bridge, which will be completed by 2006.
+
+The second Thai-Lao Friendship Bridge linking Savannakhet province of Laos and Mukdahan province of Thailand had its official opening ceremony on December 20, 2006 and will be opened for commuting in January 2007. This new bridge will facilitate people in their traveling and goods transportation between Thailand and Laos, and will lead to a growth in trade, investment and tourism between the two countries. It is deemed that the second Thai-Lao Friendship Bridge will be able to strengthen economic linkage under the East-West Economic Corridor between Laos, Thailand and Vietnam via the highway no. 9 which route network is being extended to Burma at present. The bridge is definitely a factor that supports economic cooperation of the Indochina region and drives the steady growth in the Lao economy, as well as boosting Thai-Lao border trade at Savannakhet and Mukdahan provinces. In the previous 3 years, the border trade value between Thailand-Laos has risen on average more than 30 percent per annum.
+
+PS-SOURCES: New York Times February 20, 1955, January 30, 1958, Nation June 4, 1998, Deutsche Presse-Agentur February 14, 1995, October 29, 1997, November 11, 1997, January 3, 1998, BBC February 21, 1992, January 18, 1993, Xinhua September 9, 1996, Thai Press Reports March 24, 2004, December 27, 2006, Japan Economic Newswire November 15, 1989, May 9, 1991
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

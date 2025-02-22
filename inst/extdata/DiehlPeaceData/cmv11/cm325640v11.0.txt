@@ -1,0 +1,333 @@
+FILE: cm325640v11.0.txt
+DYAD: ITALY - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV862
+DISPUTE(S): MID1735 
+RIVALRY: RIV863
+DISPUTE(S): MID141 MID1641 MID56 MID391 MID128 MID311 MID312 MID114 MID257 MID320 MID230 MID327 MID328 MID1736 
+RIVALRY: RIV864
+DISPUTE(S): MID3851 
+
+PS: 19009999-19241115 0.0 19241116-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220301
+PS-LAST-CHECKED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1735 MID141 MID1641 MID56 MID391 
+
+WWI MIDs: MID257 MID320 
+
+WWII MIDs: MID3851 
+
+MID128 
+
+TERRMID: MID128 3 -- not territory 
+TERRMID-CER: MID128 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID128 3 -- not third party link to territory 
+TERRLINK-CER: MID128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID128 3 -- not maritime 
+MARITMID-CER: MID128 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID128 3 -- not islands 
+ISLMID-CER: MID128 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID128 3 -- not civil war 
+CIVWARMID-CER: MID128 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID128 1 -- civil war link 
+CIVWARLINK-CER: MID128 1 -- certain 
+CIVWARLINK-NOTES: MID128 from Gibler 2018, Macedonia was officially under Ottoman control, but had descended into lawlessness and anarchy. From Gibas-Krzak 2013, this included a revolutionary movement made up of militarized rebels. Several countries, including UK, Russia, Italy, and Austria-Hungary, proposed intervening to restore order by implementing several reforms, including direct military intervention. The Ottomans resisted this and kept their troops in Macedonia. The UK further instigated the turmoil and issued threats to intervene, while several countries (including Italy) deployed ships to the waters close to Macedonia, triggering this MID. Coded civil war link because the militarized rebels in Macedonia were outside of this dyad and connected to the events of this MID.
+
+COUPMID: MID128 3 -- not coup 
+COUPMID-CER: MID128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID128 3 -- not coup link
+COUPLINK-CER: MID128 1 -- certain 
+COUPLINK-NOTES: 
+
+MID311 
+
+TERRMID: MID311 3 -- not territory
+TERRMID-CER: MID311 1 -- certain 
+TERRMID-NOTES: MID311 from Gibler 2018, Italy and the Ottomans both claimed Libya as their colonial possession. In 1908, an Italian missionary was murdered in the disputed territory, and Italy responded by deploying a warship to Ottoman waters. Coded not territory because, although the two countries were disputing territory, this MID was caused by an Italian citizen being murdered, and the response to that comprises the MID. Italy was not advancing its territorial claim here. 
+
+TERRLINK: MID311 3 -- not third party link to territory 
+TERRLINK-CER: MID311 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID311 3 -- not maritime 
+MARITMID-CER: MID311 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID311 3 -- not islands 
+ISLMID-CER: MID311 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID311 3 -- not civil war 
+CIVWARMID-CER: MID311 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID311 3 -- not civil war link 
+CIVWARLINK-CER: MID311 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID311 3 -- not coup 
+COUPMID-CER: MID311 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID311 3 -- not coup link
+COUPLINK-CER: MID311 1 -- certain 
+COUPLINK-NOTES: 
+
+MID312 
+
+TERRMID: MID312 3 -- not territory 
+TERRMID-CER: MID312 1 -- certain 
+TERRMID-NOTES: MID312 from Gibler 2018, the Turks seized an Italian ship and refused to release it. Italy informed its allies that it planned a military response, and the Ottomans released a list of demands. Germany and Austria mediated the dispute. Coded not territory because, although the dyad was disputing Libya at this time, this MID did not seem to be centered on Libya (even though tensions may have generally been high because of Libya). Neither side was advancing their territorial claim here. 
+
+TERRLINK: MID312 3 -- not third party link to territory 
+TERRLINK-CER: MID312 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID312 3 -- not maritime 
+MARITMID-CER: MID312 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID312 3 -- not islands 
+ISLMID-CER: MID312 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID312 3 -- not civil war 
+CIVWARMID-CER: MID312 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID312 3 -- not civil war link 
+CIVWARLINK-CER: MID312 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID312 3 -- not coup 
+COUPMID-CER: MID312 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID312 3 -- not coup link
+COUPLINK-CER: MID312 1 -- certain 
+COUPLINK-NOTES: 
+
+MID114 
+
+TERRMID: MID114 1 -- territorial MID
+TERRMID-CER: MID114 1 -- certain 
+TERRMID-NOTES: MID114 from Gibler 2018, this is the Italian-Turkish War of 1911-1912. Italy and Turkey fought over the status of Libya as a colony, and Italy won. Coded territorial MID because this was a war over the territory of Libya, a colonial possession. 
+
+TERRLINK: MID114 3 -- not third party link to territory 
+TERRLINK-CER: MID114 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID114 1 -- maritime MID
+MARITMID-CER: MID114 1 -- certain 
+MARITMID-NOTES: MID114 this dispute was over the entirety of the Libyan territory, which includes Libya's territorial waters. Coded maritime due to coding rules that disputing a significant territory with maritime boundary implications invokes this issue as well. 
+
+ISLMID: MID114 3 -- not islands 
+ISLMID-CER: MID114 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID114 3 -- not civil war 
+CIVWARMID-CER: MID114 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID114 3 -- not civil war link 
+CIVWARLINK-CER: MID114 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID114 3 -- not coup 
+COUPMID-CER: MID114 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID114 3 -- not coup link
+COUPLINK-CER: MID114 1 -- certain 
+COUPLINK-NOTES: 
+
+MID230 
+
+TERRMID: MID230 1 -- territorial MID
+TERRMID-CER: MID230 1 -- certain 
+TERRMID-NOTES: MID230 from Gibler 2018, after WWI, Italy claimed part of southwest Turkey and occupied it. Turkey protested, but to no avail. Turkey eventually had to cede much of its territory, but did fight in Anatolia from 1920-1921. Coded territorial MID because this was connected to Italy claiming much of Turkey's territory. 
+
+TERRLINK: MID230 3 -- not third party link to territory 
+TERRLINK-CER: MID230 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID230 1 -- maritime MID
+MARITMID-CER: MID230 1 -- certain 
+MARITMID-NOTES: MID230 coded maritime MID because Italy's claim of a large zone of Turkeys territory included an extensive portion of Turkey's coastline, which includes Italy claiming the maritime waters off the coast. 
+
+ISLMID: MID230 1 -- islands MID
+ISLMID-CER: MID230 1 -- certain 
+ISLMID-NOTES: MID230 coded islands MID because Italy's claim of a large zone of Turkeys territory included an extensive portion of Turkey's maritime waters off the coast, and there are many islands in these waters that Italy's claim extended to. 
+
+CIVWARMID: MID230 3 -- not civil war 
+CIVWARMID-CER: MID230 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID230 3 -- not civil war link 
+CIVWARLINK-CER: MID230 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID230 3 -- not coup 
+COUPMID-CER: MID230 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID230 3 -- not coup link
+COUPLINK-CER: MID230 1 -- certain 
+COUPLINK-NOTES: 
+
+MID327 
+
+TERRMID: MID327 3 -- not territory 
+TERRMID-CER: MID327 1 -- certain 
+TERRMID-NOTES: MID327 from Gibler 2018, in 1920, Turkey had recently achieved independence after WWI (independent of Ottoman Empire), and Mustafa Kemal and his followers were able to gain a majority in Parliament. However, The UK, France, and Italy did not want Kemal to be Turkey's leader, and they subsequently invaded Constantinople in 1920 to install a puppet government. Coded not territory because no territory was disputed between the involved parties. This was a regime leadership issue. 
+
+TERRLINK: MID327 3 -- not third party link to territory 
+TERRLINK-CER: MID327 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID327 3 -- not maritime 
+MARITMID-CER: MID327 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID327 3 -- not islands 
+ISLMID-CER: MID327 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID327 3 -- not civil war 
+CIVWARMID-CER: MID327 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID327 3 -- not civil war link 
+CIVWARLINK-CER: MID327 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID327 3 -- not coup 
+COUPMID-CER: MID327 1 -- certain 
+COUPMID-NOTES: MID327 This MID involved foreign regime change efforts, rather than a coup.
+
+COUPLINK: MID327 3 -- not coup link
+COUPLINK-CER: MID327 1 -- certain 
+COUPLINK-NOTES: 
+
+MID328 
+
+TERRMID: MID328 3 -- not territory 
+TERRMID-CER: MID328 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID328 3 -- not third party link to territory 
+TERRLINK-CER: MID328 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID328 3 -- not maritime 
+MARITMID-CER: MID328 1 -- certain 
+MARITMID-NOTES: MID328 from Gibler 2018, the UK had assumed that the newly independent Turkish government would consider the straits within Turkey's territorial waters to be neutral territory. As Turkey's power grew, the UK no longer believed that Turkey would grant UK access to the straits in times of war. In 1922, the UK landed forces at Chanakkale (in the straits) to coerce the Turkish government to agree to consider them neutral territory. Italy, as the UK's ally, supported the UK and helped negotiate a favorable settlement for UK in this dispute, pulling them into this MID. Italy, however, is not the disputant concerned with the straits' status. Coded not maritime because there was no maritime dispute between Italy and Turkey here. This MID is coded "somewhat connected to maritime" in 200640. 
+
+ISLMID: MID328 3 -- not islands 
+ISLMID-CER: MID328 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID328 3 -- not civil war 
+CIVWARMID-CER: MID328 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID328 3 -- not civil war link 
+CIVWARLINK-CER: MID328 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID328 3 -- not coup 
+COUPMID-CER: MID328 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID328 3 -- not coup link
+COUPLINK-CER: MID328 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1736 
+
+TERRMID: MID1736 3 -- not territory 
+TERRMID-CER: MID1736 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1736 3 -- not third party link to territory 
+TERRLINK-CER: MID1736 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1736 3 -- not maritime 
+MARITMID-CER: MID1736 1 -- certain 
+MARITMID-NOTES: MID1736 coded not maritime because there is no indication that the island of Rhodes was connected to a maritime dispute. Per the cm narrative, they were disputing a maritime boundary between Castellorizo and the Anatolian coast, but this was not around the island of Rhodes. 
+
+ISLMID: MID1736 1 -- islands MID
+ISLMID-CER: MID1736 1 -- certain 
+ISLMID-NOTES: MID1736 from Gibler 2018, in 1924, Italy landed at the Turkish island of Rhodes, claimed and occupied it, and maintained control over it. Coded islands MID because ITaly claimed and occupied a Turkish island here. 
+
+CIVWARMID: MID1736 3 -- not civil war 
+CIVWARMID-CER: MID1736 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1736 3 -- not civil war link 
+CIVWARLINK-CER: MID1736 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1736 3 -- not coup 
+COUPMID-CER: MID1736 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1736 3 -- not coup link
+COUPLINK-CER: MID1736 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES:
+
+NARRATIVE-CM:
+On September 28, 1911, Italy demanded that Turkey agree to Italian occupation of the provinces of Tripoli and Cyrenaica. Turkey refused the demand, and Italy declared war against Turkey on September 29, 1911. Italian naval ships destroyed the Turkish naval ship Takat near Corfu on September 29, 1911, resulting in the deaths of nine Turkish naval personnel. Italian naval ships bombarded Tripoli on October 3-4, 1911, resulting in the deaths of 12 Turkish soldiers and seven civilians. Italian troops captured Tripoli on October 5, 1911. Italian troops captured Derna on October 15-18, 1911. Italian naval ships bombarded Benghazi on October 19, 1911, and Italian troops occupied Benghazi on October 29, 1911. Some 200 Turkish soldiers and 36 Italian soldiers were killed during the battle for Benghazi. Turkish troops attacked Italian troops near Tripoli on October 23-31, 1911, resulting in the deaths of some 1,000 Turkish soldiers and 382 Italian soldiers. Italy formally proclaimed the annexation of the provinces of Tripoli and Cyrenaica on November 5, 1911. Austria-Hungary and Russia offered to mediate negotiations between the countries, but Turkey rejected the mediation offers. Italian troops attacked Turkish troops near Tripoli on November 26, 1911, resulting in the deaths of 16 Italian soldiers. Italian troops attacked Turkish troops near Ain Zara on December 4, 1911, resulting in the deaths of 17 Italian soldiers. Italian troops attacked Turkish troops near the oasis of Zanzur on December 17, 1911, resulting in the deaths of some 50 Italian soldiers. Italian naval ships destroyed the Turkish naval ship Awn-Illah near Beruit on February 24, 1912, resulting in the deaths of 58 Turkish naval personnel and 66 civilians. Italian troops attacked Turkish troops near Homs on May 2, 1912, resulting in the deaths of 65 Italian soldiers. The Turkish government expelled some 50,000 Italians from the Ottoman Empire on May 20, 1912. Italian troops captured the town of Misratah on July 9-20, 1912, resulting in the deaths of nine Italian soldiers. Italian troops and Turkish troops clashed near Derna on September 17, 1912, resulting in the deaths of 111 Turkish soldiers and 61 Italian soldiers. Italian troops captured the oasis of Zanzur on September 20, 1912, resulting in the deaths of some 200 Italian soldiers. Italian and Turkish representatives signed the Treaty of Lausanne on October 18, 1912, which provided for Turkish recognition of Italian sovereignty over the province of Tripoli. Some 14,000 Turkish soldiers and 6,000 Italian soldiers died during the conflict. Italy declared war against Turkey on August 21, 1915. Italian troops landed at Adalia in Anatolia province on April 29, 1919. Italian and Turkish representatives signed an agreement on March 13, 1921, which provided for the withdrawal of Italian troops from Anatolia. Italy and Turkey disputed the maritime border between Castellorizo and the Anatolian coast, and agreed to submit the dispute to the Permanent Court of International Justice (PCIJ) on May 30, 1929. Italian and Turkish representatives signed an agreement concerning their maritime border on January 4, 1932. On January 3, 1933, Italy and Turkey requested that the PCIJ terminate proceedings concerning the maritime border dispute. The PCIJ terminated proceedings concerning the dispute on January 26, 1933.
+
+SOURCES-CM: 
+Beehler 1913; Clodfelter, 1992, 638; Langer, 1972, 710, 1085-1088; Survey of International Affairs (SIA), 1933, 593.
+
+NARRATIVE-CM:
+On September 28, 1911, Italy demanded that Turkey agree to Italian occupation of the provinces of Tripoli and Cyrenaica. Turkey refused the demand, and Italy declared war against Turkey on September 29, 1911. Italian naval ships destroyed the Turkish naval ship *Takat* near Corfu on September 29, 1911, resulting in the deaths of nine Turkish naval personnel. Italian naval ships bombarded Tripoli on October 3-4, 1911, resulting in the deaths of 12 Turkish soldiers and seven civilians. Italian troops captured Tripoli on October 5, 1911. Italian troops captured Derna on October 15-18, 1911. Italian naval ships bombarded Benghazi on October 19, 1911, and Italian troops occupied Benghazi on October 29, 1911. Some 200 Turkish soldiers and 36 Italian soldiers were killed during the battle for Benghazi. Turkish troops attacked Italian troops near Tripoli on October 23-31, 1911, resulting in the deaths of some 1,000 Turkish soldiers and 382 Italian soldiers. Italy formally proclaimed the annexation of the provinces of Tripoli and Cyrenaica on November 5, 1911. Austria-Hungary and Russia offered to mediate negotiations between the countries, but Turkey rejected the mediation offers. Italian troops attacked Turkish troops near Tripoli on November 26, 1911, resulting in the deaths of 16 Italian soldiers. Italian troops attacked Turkish troops near Ain Zara on December 4, 1911, resulting in the deaths of 17 Italian soldiers. Italian troops attacked Turkish troops near the oasis of Zanzur on December 17, 1911, resulting in the deaths of some 50 Italian soldiers. Italian naval ships destroyed the Turkish naval ship *Awn-Illah *near Beruit on February 24, 1912, resulting in the deaths of 58 Turkish naval personnel and 66 civilians. Italian troops attacked Turkish troops near Homs on May 2, 1912, resulting in the deaths of 65 Italian soldiers. The Turkish government expelled some 50,000 Italians from the Ottoman Empire on May 20, 1912. Italian troops captured the town of Misratah on July 9-20, 1912, resulting in the deaths of nine Italian soldiers. Italian troops and Turkish troops clashed near Derna on September 17, 1912, resulting in the deaths of 111 Turkish soldiers and 61 Italian soldiers. Italian troops captured the oasis of Zanzur on September 20, 1912, resulting in the deaths of some 200 Italian soldiers. Italian and Turkish representatives signed the *Treaty of Lausanne* on October 18, 1912, which provided for Turkish recognition of Italian sovereignty over the province of Tripoli. Some 14,000 Turkish soldiers and 6,000 Italian soldiers died during the conflict. Italy declared war against Turkey on August 21, 1915. Italian troops landed at Adalia in Anatolia province on April 29, 1919. Italian and Turkish representatives signed an agreement on March 13, 1921, which provided for the withdrawal of Italian troops from Anatolia. Italy and Turkey disputed the maritime border between Castellorizo and the Anatolian coast, and agreed to submit the dispute to the *Permanent Court of International Justice* (PCIJ) on May 30, 1929. Italian and Turkish representatives signed an agreement concerning their maritime border on January 4, 1932. On January 3, 1933, Italy and Turkey requested that the PCIJ terminate proceedings concerning the maritime border dispute. The PCIJ terminated proceedings concerning the dispute on January 26, 1933.
+
+SOURCES-CM: 
+Beehler 1913; Clodfelter, 1992, 638; Langer, 1972, 710, 1085-1088; *Survey of International Affairs *(SIA), 1933, 593.
+
+NARRATIVE-CR:
+The first rivalry of the 19th century is coded as beginning in September of 1825 (MID1735). This isolated dispute is most likely a temporary involvement of Italy in the Turkish attempted suppression of the Greek war of independence (1821-1832). Italy was not yet a unified state and had no particular interaction with the Ottoman Empire at this early point. The first real rivalry began in 1881 over the Treaty of Berlin, following the conflict between Turkey and Greece. Growing antagonism between Turkey and Greece prompted Allied intervention (including Italy). In 1881 the Western Powers granted Thessaly and Arta to Greece in response to the Greek discontent of the Treaty of Berlin, which served mainly to benefit the Ottoman Empire (MID141). Thessaly and Arta were given to Greece while the rest of the territories were returned to Turkey (Stavrianos 2000) The second dispute in the rivalry occurred in 1889 and was over Italian involvement in Ethiopia (MID1889). The Italians, helped by the British, who were trying to control Sudanese Muslim fanatics (backed by Turkey) called Mahdists, secured a base on Ethiopia's Red Sea coastline at Massawa (www.onwar.com) Italy secured the area as a protectorate.
+
+The Allied Powers (including Italy) intervened in Greek-Turkish relations in 1897 (MID56) and demanded Turkish withdrawal from Crete (MID391). The Ottoman Empire/Turkey had claimed rights over Crete insisting that the island was Muslim and not Christian and therefore not rightly the property of Greece (Danopoulos 1997). By 1897 Greece began sending troops to Crete and began hostilities with Turkey. Allied intervention in 1897 forced an Armistice and then a Peace Treaty between Greece and Turkey. December 4th the Treaty was concluded and Crete was made an international protectorate in exchange for Greece granting Turkey some land in Thessaly and a tribute. Another dispute regarding territorial claims between Greece and Turkey in the region of Macedonia led to conflict in 1905 (MID128). Ultimately, these disputes would lead to the First Balkan War. Following the First Balkan War, Crete was awarded to Greece in the Treaty of London in 1913 (Stavrianos 2000). 
+
+Prior events had been leading up to the Italian-Turkish war of 1911 (MID311 and MID312) and were resolved following the war in the Armistice of 1912 and the Treaty of Lausanne in October 19th (MID114). Italy declared war on Turkey in September of 1911 because of the failure of the Ottomans to allow Italy to occupy Tripoli and Cyrenaica (www.onwar.com 2003). Turkey wished to resolve the issue quickly because of the coming Balkan War. Other issues were involved as well, such as Italian Post Office activities within the Ottoman Empire. The Treaty of Lausanne called for Italian compensation to Turkey for the cost of the war and for Italy to withdraw from the disputed territories (which never occurred). 
+
+The First World War (MID257) provided the venue for the next dispute between Italy and Turkey. Turkey entered on the side of Germany while Italy fought alongside the allies (MID320). During the course of the war several disputes occurred as part of the larger issue such as Italian occupation of Turkish territories (MID230). Following WWI the Ottoman Empire was divided up and most of its territory lost. In August of 1920 Allied Powers imposed the Treaty of Sevres on the defeated Turks. The treaty yielded the formally Turkish Dardenelle Straits to international control and divided up the Anatolia region into Greek Italian, French, Armenian and Kurdish zones. However, because of a nationalist revolution led by Kemal Ataturk the treaty of Sevres was never implemented. Following the nationalist occupation (MID328) the Lausanne Treaty of 1921 was negotiated. In 1922 nationalist powers came to the leadership of the government, which tried to extend Turkey's borders beyond those granted in the armistice. In response the Allied powers occupied Constantinople (MID327 and MID328), arrested deputies and began military opposition to the nationalist forces. Civil war erupted and the Sultan was placed back in control until the establishment of a republic in 1923(www.onwar.com 2003). The rivalry ended with the abolition the Caliphate in 1924 and the creation of the modern Turkish state had occurred. 
+
+The final rivalry begins and ends in 1940 on the eve of the Second World War. Turkey was concerned about Italian possession of Libya and domination of the Dodecanese Islands (Howard 2001). It was Italy's involvement in the partitioning of Anatolia in the Treaty of Sevres that provided Turkish worries over Italian designs on Turkish territories. Turkish fears were never realized however. By the time Turkey entered WWII on the side of the Allies Italy had already been defeated. Since the defeat of Italy in WWII there has been no clashes between the two states over Balkan/Greek issues nor was there any more 
+conflicts over territory as Turkey's borders had now been well defined. 
+
+SOURCES-CR:
+Danopoulos 1997; Howard 2001; Stavrianos 2000;
+
+SB-CR:
+Italy / Ottoman Empire (Turkey) Years: 1880-1923. Issues at stake: Control over Dodecanese islands; influence in southern Balkans, especially Albania and Yugoslavia; influence in North Africa, especially Libya. End coding: WWI settled questions of influence in the Balkans. The 1923 Treaty of Lausanne settled the Turkish borders, giving control over the Dodecanese islands to Italy. Number of reciprocated 30 day militarized disputes: 7. Last militarized dispute: 1922. Wars: 1911-1912, 1915-1918. Summary: The central element of the Italian- Ottoman/Turkish rivalry is control over territory in light of the declining Ottoman empire. The earliest disputes are also tied up with other European (British, French) efforts to keep influence with regard to the Straits of Constantinople. Additionally, Italy intervenes in Crete against the Turks in their dispute with Greece. By the late 1800s and early 1900s, Italy takes several independent actions to expand its Mediterranean territory, including seizing the Dodecanese islands and moving into Libya in 1911-1912. Following WWI, Italy invades mainland Turkey, landing troops at Adalia in 1919; Britain, France, and Italy together take Constantinople in 1920. Turkish nationalist victories forced the Italians to withdraw from Asia Minor in 1921. By 1922, all of the Allies were forced to withdraw from Constantinople and European Turkey in 1922. In the Armistice of Mudanya on October 11, 1922, the WWI allies (including Italy) recognized Turkish sovereignty over the Straits and Constantinople, and established provisional European borders. The 1923 Treaty of Lausanne finalized the Turkish borders, and recognized Italian control over the Dodecanese islands. The accompanying Straits Convention established accepted rules of passage in the Straits. Turkish control over the Balkans and in North Africa had simply been removed by WWI, eliminating concerns over those issues. Notes: The COW dispute data set lists minor militarized disputes in 1924 and 1926. They involve no response by Turkey in either case. The 1926 dispute relates to the recent independence of Yugoslavia, but does not appear to represent a new claim by Italy vis-a-vis Turkey's role. Sources: Albrecht-Carrie (1958), Grenville (1974), Kinder and Hilgemann (1978).
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibas-Krzak, Danuta. 2013. "Contemporary Terrorism in the Balkans: A Real Threat to Security in Europe." The Journal of Slavic Military Studies 26(2): 203-218. 

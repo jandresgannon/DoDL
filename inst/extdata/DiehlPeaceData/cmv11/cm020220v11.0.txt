@@ -1,0 +1,92 @@
+FILE: cm020220v11.0.txt
+DYAD: CANADA - FRANCE
+RIVALRY: RIV115
+DISPUTE(S): MID2737 MID2773 
+
+PS-LAST-CHANGED: 20170801
+PS-LAST-CHECKED: 20170801
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2737 
+
+TERRMID: MID2737 3 -- not territory
+TERRMID-CER: MID2737 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2737 3 -- not third party link to territory 
+TERRLINK-CER: MID2737 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2737 1 -- maritime MID
+MARITMID-CER: MID2737 3 -- uncertain
+MARITMID-NOTES: MID2737 from Gibler, Little, and Miller (2016: IIB-28), Canada said they would seize any French fishermen caught fishing in the Burgeo Bank area, which Canada and France both claimed. (Canada claimed France had exceeded its cod quota.) From NYT 5/8/1988, France and Canada dispute the maritime boundary off the coast of Newfoundland because of rich fishing resources in the area. Coded maritime MID because this warning was connected to accusations of French overfishing in the disputed waters. Coded uncertain because GLM recommend this case be dropped (the warning by France was directed toward civilians, not the French government). 
+
+ISLMID: MID2737 3 -- not islands 
+ISLMID-CER: MID2737 1 -- certain
+ISLMID-NOTES: MID2737 France owns several small islands off the coast of Newfoundland that they gained from the British. The ownership of these islands is not disputed, but they do produce overlapping EEZs and a disagreement of where the maritime boundary lies.
+
+CIVWARMID: MID2737 3 -- not civil war 
+CIVWARMID-CER: MID2737 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2737 3 -- not civil war link
+CIVWARLINK-CER: MID2737 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2737 3 -- not coup 
+COUPMID-CER: MID2737 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2737 3 -- not coup link
+COUPLINK-CER: MID2737 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2773 
+
+TERRMID: MID2773 3 -- not territory
+TERRMID-CER: MID2773 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2773 3 -- not third party link to territory 
+TERRLINK-CER: MID2773 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2773 1 -- maritime MID
+MARITMID-CER: MID2773 1 -- certain
+MARITMID-NOTES: MID2773 from NYT 5/8/1988, France and Canada disputed a maritime boundary off the coast of Newfoundland due to fishing resources in the area. Here, a diplomatic crisis occurred when a French naval vessel arrested a Canadian trawler, and a Canadian naval vessel arrested a French trawler. France owns several small islands off the coast of Newfoundland, and the sovereignty over the islands is not disputed, but they do lead to overlapping EEZs between Canada and France, as well as a disputed maritime border in the nearby waters. The countries have an agreement on fishing quotas in the non-disputed sections of the overlapping EEZs, but fishing in the disputed waters creates tensions between the countries. Coded maritime MID because the disputed waters, related to the fishing rights dispute, leads to this MID. 
+
+ISLMID: MID2773 3 -- not islands 
+ISLMID-CER: MID2773 1 -- certain
+ISLMID-NOTES: MID2773 France owns several small islands off the coast of Newfoundland that they gained from the British. The ownership of these islands is not disputed, but they do produce overlapping EEZs and a disagreement of where the maritime boundary lies.
+
+CIVWARMID: MID2773 3 -- not civil war 
+CIVWARMID-CER: MID2773 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2773 3 -- not civil war link
+CIVWARLINK-CER: MID2773 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2773 3 -- not coup 
+COUPMID-CER: MID2773 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2773 3 -- not coup link
+COUPLINK-CER: MID2773 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV114 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+DATES (may not be accurate, see riv5.20all.cvs): 19400707 -19410714
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+NYT 5/8/1988
+

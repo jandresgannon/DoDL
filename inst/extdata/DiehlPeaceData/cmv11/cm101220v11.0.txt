@@ -1,0 +1,65 @@
+FILE: cm101220v11.0.txt
+DYAD: VENEZUELA - FRANCE
+RIVALRY: RIV283
+DISPUTE(S): MID1628 
+RIVALRY: RIV284
+DISPUTE(S): MID310 
+
+PS-LAST-CHANGED: 20170803
+PS-LAST-CHECKED: 20170803
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1628
+
+MID310 
+
+TERRMID: MID310 3 -- not territory
+TERRMID-CER: MID310 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID310 3 -- not third party link to territory 
+TERRLINK-CER: MID310 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID310 3 -- not maritime 
+MARITMID-CER: MID310 1 -- certain
+MARITMID-NOTES: MID310 from MID-B data, this MID has date range 10/1905-12/1905. From NYT 10/19/1905, France deployed several warships to the coast of Venezuela, seemingly to coerce repayment on defaulted loans. UK had repeatedly deployed warships to Venezuela and other Latin American countries around this time to force repayment of loans. Coded not maritime because the boundary was not disputed. 
+
+ISLMID: MID310 3 -- not islands 
+ISLMID-CER: MID310 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID310 3 -- not civil war 
+CIVWARMID-CER: MID310 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID310 3 -- not civil war link
+CIVWARLINK-CER: MID310 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID310 3 -- not coup 
+COUPMID-CER: MID310 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID310 3 -- not coup link
+COUPLINK-CER: MID310 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+
+
+SOURCES-CM:
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+
+NYT 10/19/1905.

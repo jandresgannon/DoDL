@@ -1,0 +1,174 @@
+FILE: cm255710v11.0.txt
+DYAD: GERMANY/PRUSSIA - CHINA
+RIVALRY: RIV721
+DISPUTE(S): MID43 MID31 MID2314 
+RIVALRY: RIV722
+DISPUTE(S): MID2649 MID2208 
+
+PS: 19009999-19260308 0.25 19260309-19410309 .5
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20180328
+PS-LAST-CHECKED: 20180328
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID43 
+
+WWI MIDs: MID2649 
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm002710 narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention. The civil conflict lies within this dyad. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2314
+
+TERRMID: MID2314 3 -- not territory 
+TERRMID-CER: MID2314 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2314 3 -- not third party link to territory 
+TERRLINK-CER: MID2314 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2314 3 -- not maritime 
+MARITMID-CER: MID2314 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2314 3 -- not islands 
+ISLMID-CER: MID2314 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2314 1 -- civil war MID
+CIVWARMID-CER: MID2314 3 -- uncertain
+CIVWARMID-NOTES: MID2314 from Gibler, Miller, and Little 2016, this is another MID connected to the Boxer Rebellion in China, in which several Western countries (including Prussia here) intervened in China to protect their interests. Coded civil war MID because the Boxer Rebellion in China led to this MID, and coded uncertain because GML argue this should be combined with MID31; the events temporally overlap with MID31 and should therefore not be considered as a separate MID. 
+
+CIVWARLINK: MID2314 3 -- not civil war link
+CIVWARLINK-CER: MID2314 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2314 3 -- not coup 
+COUPMID-CER: MID2314 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2314 3 -- not coup link
+COUPLINK-CER: MID2314 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2208
+
+TERRMID: MID2208 3 -- not territory
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 1 -- third party link to territorial MID
+TERRLINK-CER: MID2208 1 -- certain
+TERRLINK-NOTES: MID2208 from Gibler 2018, Chinese nationalist forces fired on Japanese destroyers. In response, Japan and others (US, UK, Germany, France, Italy, Russia) demanded China remove mines from the Taku harbor or face military force, triggering this MID. Coded third party link to territorial MID because per NYT 3/26/1926, the mines were laid at Taku because China was defending against a Japanese invasion and occupation. This is a territorial MID between China and Japan, and Germany (among others) is pulled in here due to its coordination with Japan in demanding China demine Taku. 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2208 3 -- not civil war link
+CIVWARLINK-CER: MID2208 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV723 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. DATES (may not be accurate, see riv5.20all.cvs): 19411207 -19450507
+
+NARRATIVE-CM:
+Two German Catholic missionaries were killed by bandits in Shantung province on November 1, 1897. German troops seized Tsingtao port on November 14, 1897. On November 20, 1897, the German government demanded mining and railroad rights in Shantung province. Chinese and German representatives signed an agreement in Peking on March 6, 1898, which provided for the leasing of Tsingtao for 99 years to Germany and the granting of railroad rights to Germany. Baron von Ketteler, the German minister to China, was killed by *Boxer Movement* rebels in Peking on June 20, 1900. Allied troops, including some 100 German troops, relieved foreign legations under seige in Peking during the Boxer rebellion on August 15, 1900. Chinese and German representatives signed a peace agreement on September 12, 1901. 
+
+China severed diplomatic relations with Germany on March 14, 1917, and declared war against Germany on August 14, 1917. 
+
+China declared war against Germany on December 9, 1941.
+
+SOURCES-CM: 
+Clodfelter, 1992, 643-644.
+
+NARRATIVE-CR:
+The rivalry between Germany and China has several phases and in each it seems there is a different theme. In the first period, Germany is interested in what it can gain by way of trade and resources in China. Germany is competing with other Great Power states for position in China. In the second period, China joins the allied powers in World War I against Germany but does not engage in direct combat with the Germans. During this second period the issue from the first period remains; the Great Powers have financial interest in China and are prepared to protect them militarily. The third period in the rivalry is the Chinese participation in World War II on the allied side. This is more a product of opposition to Japanese colonialism in China than it is to any quarrel with Germany. 
+
+The rivalry between Germany and China began at the turn of the 19th century. Germany along with a number of other Great Powers were interested in developing trade with China. This contact with the West provoked an antiforeigner response at this point that resulted in three disputes. 
+
+MID43 is titled Chinese concessions I and occurred from November 14, 1897 until March 6, 1898. This is a bilateral dispute between China and Germany. Two German Catholic missionaries were killed by bandits in Shantung province on November 1, 1897. German troops seized Tsingtao port on November 14, 1897. On November 20, 1897, the German government demanded mining and railroad rights in Shantung province. Chinese and German representatives signed an agreement in Peking on March 6, 1898, which provided for the leasing of Tsingtao for 99 years to Germany and the granting of railroad rights to Germany. 
+
+MID31 is the Boxer rebellion which occurred from May 30, 1900 until August 16, 1900. Chinese conservatives gave clandestine backing to the antiforeign and anti-Christian movement of secret societies known as Yihetuan (Society of Righteousness and Harmony). The movement has been better known in the West as the Boxers (from an earlier name-Yihequan, Righteousness and Harmony Boxers). In 1900, Boxer bands spread over the north China countryside, burning missionary facilities and killing Chinese Christians. Finally, in June 1900, the Boxers besieged the foreign concessions in Beijing and Tianjin, an action that provoked an allied relief expedition by the offended nations. The Qing declared war against the invaders, who easily crushed their opposition and occupied north China. Boxer Movement rebels in Peking killed Baron von Ketteler, the German minister to China, on June 20, 1900. Allied troops, including some 100 German troops, relieved foreign legations under siege in Peking during the Boxer rebellion on August 15, 1900 (MID2314). Chinese and German representatives signed a peace agreement on September 12, 1901. Under the Protocol of 1901, the court was made to consent to the execution of ten high officials and the punishment of hundreds of others, expansion of the Legation Quarter, payment of war reparations, stationing of foreign troops in China, and razing of some Chinese fortifications. In the decade that followed, the court belatedly put into effect some reform measures. These included the abolition of the moribund Confucian-based examination, educational and military modernization patterned after the model of Japan, and an experiment, if half-hearted, in constitutional and parliamentary government. The suddenness and ambitiousness of the reform effort actually hindered its success. One effect, to be felt for decades to come, was the establishment of new armies, which, in turn, gave rise to warlordism.
+
+The next period of conflict between Germany and China took place from World War I until 1926. Here there were two disputes. 
+
+MID2649 is the Chinese declaration and participation in World War I against Germany and Austria-Hungary. China severed diplomatic relations with Germany on March 14, 1917, and declared war against Germany on August 14, 1917. 
+
+When World War I broke out in 1914, Japan fought on the Allied side and seized German holdings in Shandong Province. In 1915, the Japanese set before the warlord government in Beijing the so-called Twenty-One Demands, which would have made China a Japanese protectorate. The Beijing government rejected some of these demands but yielded to the Japanese insistence on keeping the Shandong territory already in its possession. Beijing also recognized Tokyo's authority over southern Manchuria and eastern Inner Mongolia. In 1917, in secret communiques, Britain, France, and Italy assented to the Japanese claim in exchange for the Japan's naval action against Germany. 
+
+In 1917, China declared war on Germany in the hope of recovering its lost province, then under Japanese control. However, in 1918 the Beijing government signed a secret deal with Japan accepting the latter's claim to Shandong. When the Paris peace conference of 1919 confirmed the Japanese claim to Shandong and Beijing's sellout became public, the Chinese public was outraged. On May 4, 1919, there were massive student demonstrations against the Beijing government and Japan. The political fervor, student activism, and iconoclastic and reformist intellectual currents set in motion by the patriotic student protest developed into a national awakening known as the May Fourth Movement. The intellectual milieu in which the May Fourth Movement developed was known as the New Culture Movement and occupied the period from 1917 to 1923. The student demonstrations of May 4, 1919 were the high point of the New Culture Movement, and the terms are often used synonymously. Students returned from abroad advocating China's communist rulers would adopt social and political theories ranging from complete Westernization of China to the socialism that one day. 
+
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral mid involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+The final period of conflict between Germany and China is World War II. China declared war against Germany on December 9, 1941. China remained in the war until August of 1945. The activities of the Chinese in World War II were limited to the Asian theater and there was limited if any direct combat between German and Chinese forces. 
+
+In the period directly following World War II, both Germany and China were occupied with activities that distracted them from continuing hostilities. The Germans were occupied by the US, UK, USSR and France. Foreign armies occupied the entire German territory, cities and infrastructure were largely reduced to rubble, the country was flooded with millions of refugees from the east, and large portions of the population were suffering from hunger and the loss of their homes. The nation-state was essentially in ruins. This precluded much desire or ability for aggression. This was especially so for a country as distant as China. 
+
+As for China, in the years immediately following World War II China experienced a resumption of the civil war that had begun in 1926. The Chinese Civil War was a conflict in China between the Kuomintang (the Nationalist Party; KMT) and the Communist Party of China (CPC). It began with the takeover of the KMT by the right-wing General Chiang Kai-shek and purges of leftist and Communist members in 1926 and ended in 1949 with an unofficial cessation of major hostilities, with the Communists controlling mainland China and the Nationalists controlling Taiwan and several outlying Fujianese islands. Thus, China as well was occupied with an internal problem that precluded opportunities for aggression especially with a country as distant as Germany. 
+
+Since 1949, China's overriding concerns have been security and economic development. In working toward both of these goals, China has focused on its relations with the superpowers. Because most of the developed world, with the exception of Japan, is distant from China and during the Cold War was aligned formally or informally with either the Soviet Union or the United States, China's relations with the developed world often have been subordinate to its relations with the superpowers. In the 1950s, China considered most West European countries "lackeys" of United States imperialism, while it sided with Eastern Europe and the Soviet Union. As China's relations with the superpowers changed, so did its ties with other developed nations. An example of this is that more than a dozen developed countries, including the Federal Republic of Germany, Spain, Japan, Australia, and New Zealand, all established diplomatic relations with China after the Sino-American rapprochement in the early 1970s. 
+
+The developed nations have been important to China for several reasons: as sources of diplomatic recognition, as alternative sources of trade and technology to reduce reliance on one or the other superpower, and as part of China's security calculations. In the 1980s, China stressed the role of developed nations in ensuring peace in an increasingly multi-polar world. Australia and Canada were important trading partners for China, but Beijing's most important relations with the developed world were with Japan and Europe. 
+
+China Germany relations have improved in all fields, ever since the establishment of their diplomatic relations. High-level ministerial visits between the two countries occurred frequently between 1978-1989. Soon after the Tiananmen Square incident, Germany joined in the sanctions taken against China, thus the bilateral relationship worsened. Later, with joint efforts, however, their relations, step by step, returned to normal and began to improve. The bilateral trade relations between the two countries is very strong. Germany is China's largest economic and trade partner in Europe and China is Germany's largest trade partner in Asia. 
+
+SOURCES-CR:
+Clodfelter, 1992, 643-644; New York Times 3/15-20/1926; Onwar.com; Worden, Savada and Dolan 1987
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+NYT 3/26/1926 "Envoys in China Order Mines Lifted" 

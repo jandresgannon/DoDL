@@ -1,0 +1,101 @@
+FILE: cm490620v11.0.txt
+DYAD: ZAIRE - LIBYA
+RIVALRY: RIV110
+DISPUTE(S): MID3634 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180914
+PS-LAST-CHECKED: 20180914
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3634 
+
+TERRMID: MID3634 3 -- not territory 
+TERRMID-CER: MID3634 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3634 3 -- not third party link to territory 
+TERRLINK-CER: MID3634 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3634 3 -- not maritime 
+MARITMID-CER: MID3634 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3634 3 -- not islands 
+ISLMID-CER: MID3634 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3634 3 -- not civil war 
+CIVWARMID-CER: MID3634 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3634 1 -- civil war link 
+CIVWARLINK-CER: MID3634 3 -- uncertain 
+CIVWARLINK-NOTES: MID3634 from Gibler 2018, this is connected to the ongoing civil war in Chad. Militarized rebels in Chad took control of Chad in 1983. The incumbent regime lost all but a small piece of territory it controlled, but it did still have soldiers fighting against the new regime. Libya opposed the new government, and Libyan troops clashed with Chadian forces. French troops also intervened on behalf of the new Chadian government and against Libyan forces. Coded civil war link because this is connected to the Chadian civil war, outside of this dyad. Coded uncertain because Gibler 2018 does not consider Zaire a party to this dispute. 
+
+COUPMID: MID3634 3 -- not coup 
+COUPMID-CER: MID3634 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3634 3 -- not coup link
+COUPLINK-CER: MID3634 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4359
+
+TERRMID: MID4359 3 -- not territory
+TERRMID-CER: MID4359 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4359 3 -- not third party link to territory 
+TERRLINK-CER: MID4359 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4359 3 -- not maritime 
+MARITMID-CER: MID4359 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4359 3 -- not islands 
+ISLMID-CER: MID4359 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4359 1 -- civil war MID 
+CIVWARMID-CER: MID4359 1 -- certain
+CIVWARMID-NOTES: MID4359 from Gibler 2018, Uganda was backing rebels fighting a civil war against DRC, and in 2002, Libya, assisting the rebels, took over an airport in DRC. Coded civil war MID because this was connected to the civil war in DRC/Zaire. 
+
+CIVWARLINK: MID4359 3 -- not civil war link
+CIVWARLINK-CER: MID4359 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4359 3 -- not coup 
+COUPMID-CER: MID4359 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4359 3 -- not coup link
+COUPLINK-CER: MID4359 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4359
+rivalry=490620 nationa=LIBYA nationb=DRC/ZAIRE MID4359 20021212-20030612 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Libyan military forces occupy the airport of Zombo in the DRC for the purposes of moving tanks and military supplies to Ugandan-backed rebels in the region. First day of dispute was listed on 12/12/2002 and last day of dispute was listed on 6/12/2003.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

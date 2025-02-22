@@ -1,0 +1,57 @@
+FILE: cm230666v11.0.txt
+DYAD: SPAIN - ISRAEL
+RIVALRY: RIV626
+DISPUTE(S): MID2917 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20171224
+PS-LAST-CHECKED: 20171224
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2917 
+
+TERRMID: MID2917 3 -- not territory 
+TERRMID-CER: MID2917 3 -- uncertain 
+TERRMID-NOTES: MID2917 from Gibler, Miller, and Little (2016), Israel forced down a Spanish passenger plane in Israeli airspace that ignored orders to land. The plane was held less than 24 hours, and there was no protest from either country, so GML recommend this case be dropped; therefore coded uncertain. 
+
+TERRLINK: MID2917 3 -- not third party link to territory 
+TERRLINK-CER: MID2917 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2917 3 -- not maritime 
+MARITMID-CER: MID2917 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2917 3 -- not islands 
+ISLMID-CER: MID2917 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2917 3 -- not civil war 
+CIVWARMID-CER: MID2917 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2917 3 -- not civil war link 
+CIVWARLINK-CER: MID2917 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2917 3 -- not coup 
+COUPMID-CER: MID2917 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2917 3 -- not coup link
+COUPLINK-CER: MID2917 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

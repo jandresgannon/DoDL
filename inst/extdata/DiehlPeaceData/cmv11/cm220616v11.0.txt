@@ -1,0 +1,250 @@
+FILE: cm220616v11.0.txt
+DYAD: FRANCE-TUNISIA
+RIVALRY: RIV572
+DISPUTE(S): MID1706 MID266 MID1796 MID1711 MID28
+RIVNOTES: 
+
+PS: 19560320-19610928 0.00 19610929-19631015 -9 19631016-19681015 0.5
+
+PSNOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20220301
+PS-LAST-CHECKED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1706 
+
+TERRMID: MID1706 1 -- territorial MID
+TERRMID-CER: MID1706 1 -- certain 
+TERRMID-NOTES: MID1706 from Gibler, Miller, and Little (2016), this is a series of border clashes in Tunisia. Tunisia gained independence, but France refused to cede its base at Bizerte. Coded territorial MID because this was connected to France's claim on a port in Tunisia. 
+
+TERRLINK: MID1706 3 -- not third party link to territory 
+TERRLINK-CER: MID1706 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1706 3 -- not maritime 
+MARITMID-CER: MID1706 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1706 3 -- not islands 
+ISLMID-CER: MID1706 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1706 3 -- not civil war 
+CIVWARMID-CER: MID1706 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1706 3 -- not civil war link 
+CIVWARLINK-CER: MID1706 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1706 3 -- not coup 
+COUPMID-CER: MID1706 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1706 3 -- not coup link
+COUPLINK-CER: MID1706 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID266 
+
+TERRMID: MID266 1 -- territorial MID
+TERRMID-CER: MID266 3 -- uncertain 
+TERRMID-NOTES: MID266 from Gibler, Miller, and Little (2016), this MID is a duplicate of MID1706, a territorial dispute between France and Tunisia, that should be deleted. Coded uncertain because GML recommend this be dropped. 
+
+TERRLINK: MID266 3 -- not third party link to territory 
+TERRLINK-CER: MID266 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID266 3 -- not maritime 
+MARITMID-CER: MID266 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID266 3 -- not islands 
+ISLMID-CER: MID266 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID266 3 -- not civil war 
+CIVWARMID-CER: MID266 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID266 3 -- not civil war link 
+CIVWARLINK-CER: MID266 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID266 3 -- not coup 
+COUPMID-CER: MID266 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID266 3 -- not coup link
+COUPLINK-CER: MID266 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1796 
+
+TERRMID: MID1796 1 -- territorial MID
+TERRMID-CER: MID1796 1 -- certain 
+TERRMID-NOTES: MID1796 from Gibler (2018), French troops in Algeria engaged in several border clashes with Tunisian troops. Coded territorial MID because France and Tunisia were disputing the territory of Bizerte, and this led to MIDs between Tunisia and France because each side refused to abandon their claim.
+
+TERRLINK: MID1796 3 -- not third party link to territory 
+TERRLINK-CER: MID1796 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1796 3 -- not maritime 
+MARITMID-CER: MID1796 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1796 3 -- not islands 
+ISLMID-CER: MID1796 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1796 3 -- not civil war 
+CIVWARMID-CER: MID1796 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1796 3 -- not civil war link 
+CIVWARLINK-CER: MID1796 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1796 3 -- not coup 
+COUPMID-CER: MID1796 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1796 3 -- not coup link
+COUPLINK-CER: MID1796 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1711 
+
+TERRMID: MID1711 3 -- not territory 
+TERRMID-CER: MID1711 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1711 3 -- not third party link to territory 
+TERRLINK-CER: MID1711 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1711 3 -- not maritime 
+MARITMID-CER: MID1711 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1711 3 -- not islands 
+ISLMID-CER: MID1711 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1711 3 -- not civil war 
+CIVWARMID-CER: MID1711 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1711 1 -- civil war link 
+CIVWARLINK-CER: MID1711 1 -- certain 
+CIVWARLINK-NOTES: MID1711 from Gibler (2018), France was fighting against militarized rebel groups in Algeria. The rebels would regularly cross the border into Tunisia to seek refuge, and France on several occasions pursued and attacked the rebels into Tunisia. Coded civil war link because this was connected to civil war activity in Algeria, outside this dyad. 
+
+COUPMID: MID1711 3 -- not coup 
+COUPMID-CER: MID1711 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1711 3 -- not coup link
+COUPLINK-CER: MID1711 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID28 
+
+TERRMID: MID28 1 -- territorial MID
+TERRMID-CER: MID28 1 -- certain 
+TERRMID-NOTES: MID28 from Gibler (2018), France planned to expand its base at Bizerte (inside Tunisia), and the territory that contained this base was disputed. Tunisia blockaded the base, and France attacked Tunisia. Coded territorial MID because this was connected to the disputed territory of Bizerte. 
+
+TERRLINK: MID28 3 -- not third party link to territory 
+TERRLINK-CER: MID28 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID28 3 -- not maritime 
+MARITMID-CER: MID28 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID28 3 -- not islands 
+ISLMID-CER: MID28 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID28 3 -- not civil war 
+CIVWARMID-CER: MID28 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID28 3 -- not civil war link 
+CIVWARLINK-CER: MID28 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID28 3 -- not coup 
+COUPMID-CER: MID28 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID28 3 -- not coup link
+COUPLINK-CER: MID28 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Tunisia formally achieved its independence from France on March 20, 1956. France and Tunisia suspended diplomatic relations in October 1956, but resumed diplomatic relations on December 11, 1956. French troops and Tunisian troops clashed along the Tunisian-Algerian border during French military pursuit of Algerian rebels from May 26 to June 7, 1957, resulting in the deaths of seven Tunisian soldiers. French troops and Tunisian troops clashed in the Gabes area on June 3-14, 1957, resulting in the deaths of eleven Tunisian soldiers and ten French soldiers. 
+
+France suspended arms shipments to Tunisia in August 1957, and Tunisia requested military assistance from other countries on August 8, 1957 in order to secure the Algerian-Tunisian border. French and Tunisian troops clashed near the Algerian-Tunisian border on September 1, 1957, resulting in the deaths of ten Algerian rebels and seven Tunisian soldiers. After a French plane fired on a Tunisian military post, Tunisia formally protested to the French government on October 1, 1957. France responded that the plane had fired in retaliation to Tunisian military aggression. French planes attacked and killed three Tunisians near the Algerian-Tunisian border on October 4, 1957. Britain and the United States delivered military weapons to Tunisia on November 15, 1957. 
+
+French troops attacked a Tunisian village in southwest Tunisia on January 2, 1958, resulting in the death of three individuals. France denied the incident. On February 8, 1958, French military aircraft bombed the Tunisian village of Sakhiet-Sidi-Youssef in retaliation for the downing of a French military aircraft by Tunisian anti-aircraft weapons, resulting in the deaths of 68 individuals. Tunisia retaliated by blockading the French bases *within Tunisia, and France indicated its intention to use military force to resupply the bases. Britain and the US jointly offered to facilitate negotiations between the parties on February 9, 1958, and the parties accepted the good offices offer on February 17, 1958. Italy offered to facilitate bilateral negotiations between France and Tunisia on February 11, 1958. France and Tunisia referred the matter to the *United Nations *(UN) Security Council on February 13-14, 1958. Robert Murphy of the US and Harold Beeley of Britain were appointed as special envoys in the dispute on February 19-21, 1958. The US and Britain suspended their facilitation of negotiations between the parties during an internal political crisis in France from April 16-31, 1958. 
+
+French troops and Tunisian troops clashed near Gabes and Remada on May 24-25, 1958, resulting in the deaths of some 300 Tunisians and five French soldiers. Tunisia declared a state-of-emergency. Tunisia referred the matter to the UN Security Council on May 29, 1958, and the UN Security Council discussed the matter on June 2-4, 1958. Prime Minister Kwame Nkrumah of Ghana expressed support for Tunisia on June 11, 1958. On June 17, 1958, France agreed to withdraw its military personnel from Tunisia except the Bizerte naval base within four months. France withdrew from the El-Aouina air force base on October 11, 1958. French military aircraft attacked Alb-Arritma on February 14, 1959, resulting in the deaths of three Tunisians. Tunisia referred the matter to the UN Security Council on February 19, 1859. 
+
+Tunisia began a blockade of the Bizerte naval base on July 18, 1961 after France began an extension of the runway on the base. French military aircraft attacked Tunisian military positions in the Bizerte region on July 19, 1961, and French troops seized Bizerte on July 20-21, 1961. Tunisia severed diplomatic relations with France on July 20, 1961. Tunisia referred the matter to the *League of Arab States *(LAS) Council and the UN Security Council on July 20, 1961. The LAS condemned France and expressed support for Tunisia on July 20, 1961 and July 24, 1961. The UN Security Council appealed for a ceasefire and troop withdrawal on July 22, 1961. France and Tunisia agreed to a cessation of military hostilities on July 23, 1961, but France refused to withdraw its troops from Bizerte. Some 670 Tunisians and 25 French soldiers were killed during the military hostilities. Foreign Minister Manzoor Qadir of Pakistan expressed support for Tunisia on July 23, 1961, and Prime Minister Nehru of India expressed support for Tunisia on July 25, 1961. President Nasser of Egypt expressed support for Tunisia on July 23, 1961, and announced on July 30, 1961 that Egypt would immediately provide military assistance to Tunisia. Prime Minister Abubakar Tafawa Balewa of Nigeria expressed support for Tunisia on July 25, 1961. The Soviet Union and Sudan jointly condemned France and expressed support for Tunisia on July 28, 1961. The LAS Council expressed support for Tunisia on August 15, 1961. The US appealed for peaceful negotiations on August 22, 1961, and Britain appealed for peaceful negotiations on August 23, 1961. The UN General Assembly appealed for peaceful negotiations on August 25, 1961, but France rejected the UNGA resolution on August 27, 1961. Tunisia requested that the *International Commission of Jurists *(ICJ) send a commission of inquiry to investigate possible violations of human rights by French soldiers in Bizerta on September 3, 1961. The ICJ sent a three-member commission of inquiry (Austria, Britain, Norway) to Tunisia on September 5-18, 1961. The ICJ commission of inquiry issued a report on October 12, 1961, which suggested that French troops had committed violations of human rights against Tunisians on July 18-24, 1961. France and Tunisia signed an agreement in Tunis on September 29, 1961, which provided for the demobilization of French troops in Tunisia. French troops completed the withdrawal of troops from Bizerte on October 3, 1961. French and Tunisia representatives held bilateral negotiations regarding the Bizerte naval base in Rome and Paris beginning on December 7, 1961. France evacuated their military installation in Menzel-Bourguiba on June 30, 1962. France and Tunisia resumed diplomatic relations on July 20, 1962. France and Tunisia agreed on August 13, 1962 that France would withdraw from the Bizerte naval base. France completed its withdrawal from the base on October 15, 1963.
+
+SOURCES-CM: 
+*Africa Diary*, July 29-August 4, 1961, September 2-8, 1961; Bercovitch and Jackson, 1997, 71; Brecher and Wilkenfeld, 1997, 430-431, 436-437; Butterworth, 1976, 137-138, 233-235, 314-316; Clodfelter, 1992, 999-1000; *Facts on File, June 6-12, 1957, February 6-12, 1958, February 13-19, 1958, February 20-26, 1958, February 27-March 5, 1958, March 6-12, 1958, March 13-19, 1958, April 17-23, 1958; Hassouna, 1975, 141-166; *International Commission of Jurists (ICJ) report, October 12, 1961; *Keesing*, November 30-December 7, 1957, May 31-June 7, 1958, February 7-14, 1959, November 14-21, 1959, September 30-October 7, 1961; Langer, 1972, 1291-1292; Mezerik, 1-15; *Middle East Journal *(MEJ), 1957, 85-87, 1958, 186-189, 314-316, 1961, 81-82, 437-440; *New York Times*, February 14, 1958, February 16, 1958, February 17, 1958, February 18, 1958, February 19, 1958, February 21, 1958, February 25, 1958, July 21, 1961, July 23, 1961, July 24, 1961, July 25, 1961, July 26, 1961, July 27, 1961, July 28, 1961; Ruf, 1971, 201-211; *Survey of International Affairs *(SIA), 1956-1958, 428-444, 1960, 562-572; Weisburd, 1997, 70-71.
+
+NARRATIVE-CR:
+
+The rivalry between France and Tunisia took place form 1957 until the early 1960s. There were five mids between the two countries. All of the mids were bilateral. The issues were tension over continued French presence in Tunisa after independence and Tunisian support for and protection of Algerian troops in the French-Algerian War. 
+
+After Tunisian independence in 1956, France retained substantial military installations within Tunisia. Rebels opposed to the French presence began attacks on the French military, and France alleged that the Tunisian government was complicit. Further, the French were engaged in a brutal war with Algerian nationalists from 1954 until 1962. The fighting often spilled over into Tunisia and Morocco. 
+
+At the same time France was engaged in conflict with Algeria and Morocco in the North African War. French troops and Tunisian troops clashed along the Tunisian-Algerian border during French military pursuit of Algerian rebels from May 26 to June 7, 1957, resulting in the deaths of seven Tunisian soldiers. French troops and Tunisian troops clashed in the Gabes area on June 3-14, 1957, resulting in the deaths of eleven Tunisian soldiers and ten French soldiers. This constitutes MID1706. 
+
+MID266 occurred from February 8, 1958 until June of 1958. Here a counterinsurgency operation was launched on Sakiet-Sidi-Youssef, a town on the Tunisian border. French bombers attacked the city. The Tunisian army responded by surrounding the Frenchy military installation and on February 13 lodged a complaint with the UN. There was also serious fighting in May of 1958 in Remada and Gabes causing several hundred casualties. In June the French agreed to withdraw all troops except the 12,000 stationed at Bizerte a northern coastal city. 
+
+MID1796 occurred from February until August of 1959. On February 14, Tunisia alleged that French fighter aircraft had crossed the border on February 9, and attacked a group of Tunisians, causing three death and several casualties. Tunisa alleged that a similar incident occurred in April. France alleged a Tunisian incursion in May in which six French were killed. Further incidents occurred in July and August but the dispute eventually abated. Neither side attempted a mediated settlement. Further conflict occurred in 1960. 
+
+MID1711 occurred from March through May of 1960. Here the French alleged that Tunisia permitted Algerian troops to encamp and conduct operations from Tunisian territory. This led to clashes between French and Tunisian troops and a small number of casualties. The French protested to the UN calling on the Tunisians to cease support to the Algerians. 
+
+MID28 occurred from July through September of 1961 and is known as the Bizerte Crisis. There were protracted negotiations between the French and the Tunisians regarding complete withdrawal. During this period, France sought to extend the runway at Bizerte to accommodate more modern aircraft. This prompted Tunisia to intensify its efforts to gain an immediate withdrawal of all French units. On July 19, 1961 Tunisian naval vessels imposed a blockade on the base at Bizerte. Tunisia announced that it would fire on any French aircraft attempting to land at the base. Tunisia fired on several French aircraft and the French responded by strafing Tunisian troops. Demonstrators surrounded the base and the French responded by firing on them. A tense standoff ensued as the French attempted to take control of the city. The situation eased as a ceasefire was reached and the dispute eased over time as the French agreed to withdraw from Tunisia altogether. 
+
+Several factors contributed to the termination of the rivalry between France and Tunisia. First, France was occupied with a number of other colonial issues during this period. France was engaged with a costly war of independence with neighboring Algeria. The conflict in Algeria lasted until 1962. Some of the fighting between France and Tunisia was a product of this conflict. Thus when it ended the motivation for French attacks against sympathetic Tunisian forces who harbored the FLN was eliminated. Another contributing factor to the end of the rivalry was the election of de Gaulle to power and the formation of the Fifth Republic in France. The constitution de Gaulle formed permitted him to weld significant power over policy direction which was a dramatic departure from the Fourth Republic who ruled more by consensus which led to difficulties in policy change. De Gaulle offered self determination to the Algerians a year after coming to power in 1959. De Gaulle began withdrawal of French troops from Tunisia in June of 1958. After the Bizerte crisis of 1961 normalization of relations took place slowly. Normalization of cultural and technical cooperation was announced in October of 1961. In April of 1963, extensive Tunisian French talks designed to extend cooperation opened in Paris. The talks resulted in new cultural and economic agreements between the two countries. 
+
+SOURCES-CR:
+*Africa Diary*, July 29-August 4, 1961, September 2-8, 1961; Bercovitch and Jackson, 1997, 71; Brecher and Wilkenfeld, 1997, 430-431, 436-437; Butterworth, 1976, 137-138, 233-235, 314-316; Clayton, 1994; Clodfelter, 1992, 999-1000; *Facts on File, June 6-12, 1957, February 6-12, 1958, February 13-19, 1958, February 20-26, 1958, February 27-March 5, 1958, March 6-12, 1958, March 13-19, 1958, April 17-23, 1958; Hassouna, 1975, 141-166; *International Commission of Jurists (ICJ) report, October 12, 1961; *Keesing*, November 30-December 7, 1957, May 31-June 7, 1958, February 7-14, 1959, November 14-21, 1959, September 30-October 7, 1961; Langer, 1972, 1291-1292; Ling, 1967; Mezerik, 1-15; *Middle East Journal *(MEJ), 1957, 85-87, 1958, 186-189, 314-316, 1961, 81-82, 437-440; *New York Times*, February 14, 1958, February 16, 1958, February 17, 1958, February 18, 1958, February 19, 1958, February 21, 1958, February 25, 1958, July 21, 1961, July 23, 1961, July 24, 1961, July 25, 1961, July 26, 1961, July 27, 1961, July 28, 1961; Ruf, 1971, 201-211; *Survey of International Affairs *(SIA), 1956-1958, 428-444, 1960, 562-572; Weisburd, 1997, 70-71.
+
+PS-NARRATIVE:
+
+19610929-19631015 Transition 
+
+The last MID of RIV572, MID1706, ended on June 17, 1958. In December 1961, French and Tunisian officials met to negotiate on several issues of contention: the Bizerte problem, the situation of French citizens in Tunisia, re-establishment of full diplomatic relations and the problem of the southern border of Tunisia. Throughout 1962 and 1963 the same issues were negotiated over and over again and while most issues were solved, the issue of Bizerte and the French military presence in Tunisia was the major problem. This was solved in 1963 with the departure of the last French soldiers. All throughout the transition periods the negotiations between the two parties were conducted in a manner of confidence and trust and the diplomatic relations were improved very fast. 
+
+19631016-20069999 0.5
+
+The last French soldiers left Tunisia on October 15, 1963. In the same year, the Tunisian government nationalized the properties of foreigners in Tunisia, thus taking over many of the French citizens' possessions there. However, there was no conflict created over this move and in 1965 the two countries started signing a number of cooperation agreements. 
+
+In November 1975 took place the first visit by a French President to independent Tunisia. Valery Giscard D'Estaing signs a number of agreements in various fields and the statements made by the two presidents show two countries that coordinate their actions in the field of foreign policy. French Secretary of State for Defense, Jean-Jacques Beucler, paid an official visit to Tunisia from September 23 to 25, 1977. The two sides agreed to further strengthen the cooperation between the two countries in view of their common interests on security and peace in the Mediterranean. Secretary of State Beucler discussed questions of equipment and training of military personnel with Tunisian Secretary of State for National Defence Ahmed Bennour. On the question of training of military personnel, the two sides have agreed to increase the number of personnel of the French mission to Tunisia and the number of Tunisian military personnel to be trained in France. In June 1979 at the 7th French-Tunisian Mixed Commission For Cooperation, the Foreign Ministers of Tunisia and France took common positions regarding the Palestinian issue, apartheid and racial discrimination in Southern Africa, Namibia and Zimbabwe, foreign intervention in Africa as well as expressing a desire to enhance the cooperation between the two countries. In October 1980, Raymond Barre, the French Prime Minister, said during his visit to Tunisia that France had agreed to the setting up of a Franco-Arab-Tunisian investment bank with 30% French, 30% Arab and 40% Tunisian capital. Tunisia had agreed to release 80% of the French assets frozen since 1954. In June 1989 French President Francois Mitterand made an official visit to Tunisia. During this visit he made it clear that all the `difficult' problems between the countries regarding the safety of Tunisian immigrant workers to France, were settled amicably, noting that such `difficult problems' between Tunisia and France are extremely rare. On the economic front, France is Tunisia's number one trading partner. In 1988, France supplied 27.6 percent of Tunisia's imports and absorbed 30.4 percent of its exports. In 1987, Tunisia's trade deficit with France amounted to around $277 million, while French financial aid for development programs and projects amounted to $140 million. In 1992, French President Francois Mitterrand flew to Tunisia for one day for a fence-mending trip that was his first to an Arab country since the Gulf war. Mr. Mitterrand, accompanied by three ministers, left Tunis after firming up close ties with Tunisia that were strained by Tunisia's support for Iraq.In 1995, France has set aside at least 1 billion francs ($203 million) for aid to Tunisia to demonstrate determination to remain the country's ''first economic partner,'' French President Jacques Chirac said. Chirac, who spoke to the Tunisian National Assembly as he wound up a two-day visit to North African nation, said the aid would help Tunisia modernize its economy as well as face market competition and the effects of two years of drought on rural areas. The French president lauded Tunisia for becoming the first Arab and first African country to enter an association with the European Union, saying the accord was ''a courageous and exemplary move.'' More than 350 French companies have economic interests in Tunisia. In 2003 with the occasion of a visit to Tunis by President Chirac, Le Quotidien de Tunis (Tunis Daily) agreed that relations between the two countries are "exemplary and privileged", adding that France and Tunisia share the same views on key international issues. "In the face of rising uncertainty and the tensions rocking the world, Tunisia and France both favour the wisdom of dialogue between peoples and militate in favour of international law, which is a rampart for preserving peace and stability in the world." French Foreign Minister Philippe Douste-Blazy urged Tunisia to uphold press freedoms after a French journalist was attacked and a Belgian television crew was threatened in the capital Tunis. In 2006, French and Tunisian officials signed 90 million Euro (US$113 million) trade agreements during a visit by the Tunisian prime minister to France, as activists renewed criticism of the North African country's human rights record. President Jacques Chirac, after meeting with Tunisian Premier Mohamed Ghannouchi, confirmed French support for Tunisia's economic reforms and for progress "in the domain of human rights and the rule of law". Relations between Tunisia and France have been strained over a French law last year that cited the "positive role" of colonialism, and over a law introduced Tuesday that would make it much harder to obtain residency in France. Ghannouchi did not criticize the immigration law directly, but urged a "concerted policy taking into account the interests of all parties." There are yearly visits and meetings between officials of the two countries from the highest levels of presidents and ministers to lower levels of the governments. Cooperation is extended too all fields from military and economic to cultural and scientific. Accords and agreements are always signed and renewed between the two countries. They also align their foreign policy stances with each other and coordinate their actions in the international arena very closely. France is Tunisia's main ally, main trading partner (both for imports and exports) and a large number of Tunisians have relatives living in France. The two countries enjoy one of the highest degrees of cooperation and coordination in their policies regarding each other. 
+
+PS-SOURCES: Mechat (2005), Riffi (1989), Domergue-Cloarec (1994), Perkins (2004), Wauthier (1995), Xinhua General News Service 05/27/1977, 09/27/1977, 06/13/1978, 06/22/1979, 10/30/1983, 02/19/1984, 06/10/1985, 10/09/1986, 09/24/1993, 10/07/1995, 01/17/1996, Inter Press Service 06/05/1989, BBC Summary of World Broadcasts 02/11/1980, 02/14/1980, 09/16/1980, 11/04/1980, 03/03/1981, 05/15/1989, 09/05/1989, 07/15/1991, 08/27/1991, 10/10/1995, United Press International 10/6/1995, Christian Science Monitor 05/23/1986, The Globe and Mail 02/05/1980, Agence France Press 07/11/1991, 12/03/2003, 07/17/2004, 07/19/2004, 11/15/2005, 07/28/2006, Associated Press Worldstream 10/06/1995, 08/05/1997, 01/30/2005, 05/03/2006, Deustche Presse-Agentur 10/05/1995, Africa News 10/20/1997, 09/18/1999, 01/31/2000, PanAfrican News Agency (PANA) Daily Newswire 11/14/2002
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

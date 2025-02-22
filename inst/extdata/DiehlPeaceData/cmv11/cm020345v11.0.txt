@@ -1,0 +1,316 @@
+FILE: cm020345v11.0.txt
+DYAD: CANADA-YUGOSLAVIA/SERBIA
+RIVALRY: RIV121 ISOLATED
+DISPUTE(S): MID3551 MID4137 MID4186 MID4343 MID4295 
+
+RIVNOTES: 
+
+RIV121: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart.
+
+RIV121: MID3551 was added as a new MID in MID3.10 dataset and thus was added to this version of the Rivalry Dataset.
+
+PS: 19920615-20010220 0.00 20010221-20060220 0.5
+
+PS-UPDATE2020:Revision based on new relationship rule that allow a dyad to enter a relationship at any peace scale level and also Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+ 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220210
+PS-LAST-CHECKED: 20220210
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Serbia was not claiming the Yugoslavian states' territory as under its own sovereignty, but did dispute their international boundaries in the sense that Serbia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. Coded third party link to territorial MID because Canada became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Canada was pulled into this MID when they reversed their policy of supporting a united Yugoslavia, and denounced Serbia as the aggressors and imposed economic sanctions. Coded civil war MID because civil war within Yugoslavia eventually convinced Canada and other NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, Canada, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 from cm narrative, this civil war MID appears in many dyads, as it is a multilateral MID involving Yugoslavia vs. all the UN/NATO countries who imposed sanctions, a blockade, a no fly zone, or shows of force against Yugoslavia in order to stop the ethnic cleansing, international war, and civil war incitement by Serbia. The UN/NATO countries include US, Canada, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy.
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 from cm narrative, the Yugoslavian War involved both interstate conflict and ethnic guerrilla conflict inside several Yugoslavian states. In Yugoslavia/Serbia, ethnic Albanian guerrillas were fighting against the government and against Serbian guerillas. In this MID, this guerrilla activity was directly connected to the border fortifications. 
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 from cm narrative, part of the Kosovo conflict involved fighting between ethnic Albanian and Serbian civilians. Insurgencies formed along ethnic lines and took part in the fighting. Coded civil war link because this civil war activity was connected to the UN/NATO involvement in Kosovo, bringing Canada into this MID. This MID is also coded civil war MID in other dyads. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 from cm narrative, the Yugoslavian War involved both interstate conflict and ethnic guerrilla conflict inside several Yugoslavian states. In Yugoslavia/Serbia, ethnic Albanian guerrillas were fighting against the government and against Serbian guerillas. Further, in this MID, ethnic Albanians were infiltrating Yugoslavia/Serbia from Kosovo and attacking Serb police officers. This led to Yugoslavia deploying troops to the border and NATO responding with a threat. 
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outside of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 from cm narrative, the Yugoslavian War involved both interstate conflict and ethnic guerrilla conflict inside several Yugoslavian states. In Yugoslavia/Serbia, ethnic Albanian guerrillas were fighting against the government and against Serbian guerillas. 
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outside of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4295 
+
+TERRMID: MID4295 3 -- not territory
+TERRMID-CER: MID4295 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4295 1 -- third party link to territorial MID
+TERRLINK-CER: MID4295 1 -- certain
+TERRLINK-NOTES: MID4295 from cm narrative, Yugoslavia arrested police officers from Canada and UK who were in Kosovo and Montenegro to help train regional police officers. Yugoslavia claimed they were spies. Occurred 7/31/2000 to 10/6/2000. Coded third party link to territorial MID because this partly occurred in Kosovo; Serbia did not recognize Kosovo's independence at this point and still claimed it to be part of Yugoslavia; and Canada was a third party to that territorial dispute by being a part of the forces in Yugoslavia. 
+
+MARITMID: MID4295 3 -- not maritime 
+MARITMID-CER: MID4295 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4295 3 -- not islands 
+ISLMID-CER: MID4295 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4295 1 -- civil war MID
+CIVWARMID-CER: MID4295 1 -- certain
+CIVWARMID-NOTES: MID4295 coded civil war MID because this MID was directly connected to Yugoslavia-Kosovo tensions, which for years involved ethnic guerrillas coming into Yugoslavia from Kosovo to fight against the government and against ethnic Serb guerillas. 
+
+CIVWARLINK: MID4295 1 -- civil war link
+CIVWARLINK-CER: MID4295 1 -- certain
+CIVWARLINK-NOTES: MID4295 coded civil war link because insurgent groups in Kosovo, organized along ethnic lines, had fought against each other and against governments for years, and this violence was part of the reason UN/NATO forces eventually intervened in the Yugoslavian War. The civil war activity in Kosovo, outside of this dyad, contributed to the Canadian presence in this MID. 
+
+COUPMID: MID4295 3 -- not coup 
+COUPMID-CER: MID4295 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4295 3 -- not coup link
+COUPLINK-CER: MID4295 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3551
+rivalry=20345 nationa=CANADA nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19920716 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=USE OF FORCE
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade . First and last day of dispute was on 7/16/1992.
+
+MID4137
+rivalry=20345 nationa=CANADA nationb=YUGOSLAVIA-SERBIA MID4137 19980611-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=501-999 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 6/11/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=20345 nationa=CANADA nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4295
+rivalry=20345 nationa=YUGOSLAVIA-SERBIA nationb=CANADA MID4295 20000731-20001006 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Yugoslavia seized a number of police officers from Canada and the UK who were in Kosovo and Montenegro to help train regional police officers. Yugoslavia claimed that they were spies. First day of dispute was on 7/31/2000 and last day of dispute was on 10/06/2000.
+
+MID4343
+rivalry=20345 nationa=YUGOSLAVIA-SERBIA nationb=CANADA MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000. 
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+PS-NARRATIVE: 
+
+19460131-19920614 0.5
+
+On January 31st, 1946, the new constitution of the Federal People's Republic of Yugoslavia was adopted, modeling the Soviet Union's. Yugoslavia was officially a Communist country. In 1947, Canadian students from McGill University and from the Canadian National Federation of Labour formed what was known as the Canadian Beaver Brigade that helped with post-war reconstruction in Yugoslavia. The relations were generally positive in the 1950s with Canada viewing Yugoslavia as a friendly communist state.
+
+On February 7th, 1950, Yugoslavia backed back part of its debt to Canada. They paid 150,000 dollars out of the 225,000 dollars it owes Canada. The money was given to Yugoslavia during World War II. On December 29th, 1951, Yugoslavia raised its relation with Canada to the status of embassy. In October 1959, H.F. Davies, the head of the Canadian European division of the department of External Affairs visited Belgrade; a visit reciprocated in 1960 by Milos Minc, the prime minister of Serbia. In 1961, the Yugoslav foreign minister, Koca Popovic, visited Canada, amid large protests from anti-Communist groups.
+In July 1979 a Yugoslav delegation was in Canada to negotiate a trade agreement with the North American country. In 1978, Yugoslav exports to Canada were slightly under $20-million, 10 percent more than a year earlier. The main export items for Yugoslavia are leather, furniture, footwear and sporting and recreational goods. Canadian exports to Yugoslavia fell by 25 percent in 1978 to just under $43-million but exports in the first quarter of 1979, at $8.3-million, were more than four times the year-earlier level.
+
+Defense Minister Gilles Lamontagne of Canada met on October 9th, 1981, with his Yugoslav counterpart, Nikola Ljubicic, officials said. Mr. Lamontagne, who arrived the previous day from Prague, is in Belgrade in his capacity as acting Minister of Veterans Affairs to pay respects at the graves of Canadian soldiers killed in Yugoslavia in World War II. 
+
+On June 12, 1982, Canadian Prime Minister Pierre Trudeau made a visit to Yugoslavia. He was the first Canadian head of executive to visit Yugoslavia. He praised Yugoslavia's policy of non-alignment and put in a good word for the Candu nuclear reactor. Mr. Trudeau, who arrived in Belgrade from the NATO meeting in Bonn, hailed Yugoslavia for being truly non-aligned rather than using non-alignment as a cover for supporting the Soviet Union.In Canada's view, president Tito did an important thing for the stability of the world when he helped found the non-aligned movement, Mr. Trudeau said. "I express the hope that the non-aligned world remains and progresses in strength . . . It is important to have a group of nations who can look objectively without having ideological hangups." Then he pressed the case for the Candu reactor during a meeting with Yugoslavia's head of Government, Milka Planinc. Yugoslavia has had an unhappy experience with its first nuclear reactor, built by Westinghouse of the United States, and will make a decision on a second reactor next year. Canada, France and West Germany are all angling for the contract. The only jarring note in the day came from the Yugoslavs who complained that Canada was not doing enough to stop Croatian nationalist activities in Canada. The Yugoslavs were particularly unhappy about a January 1982 meeting in Toronto of the Croatian National Congress. At a lunch given by his Yugoslav hosts, Mr. Trudeau said Canada and Yugoslavia held similar views on many international issues, including the absolute necessity of not only halting the arms race but of moving to actual disarmament. On January 20th, 1983, Canada was one of the 15 developed countries which agreed to a 3 billion dollars package of economic credits for Yugoslavia.
+
+A shipment of rifles and handguns bound for Yugoslavia has been seized in Toronto, a Canada Customs official said on August 16, 1991. Five handguns, seven sporting rifles and a substantial amount of ammunition were contained in a shipment of personal effects bound for the Yugoslav port city of Dubrovnik, said Michael Joly, acting director of intelligence for the customs service in Ottawa.
+
+On November 9th, 1991, Canada imposed stiff economic sanctions on Yugoslavia to cripple Serbia, and they urged the United Nations to launch an oil embargo. Meanwhile, the Serbian-controlled federal army warned it already has missiles on launching pads, aimed at selected targets in Croatian-held territory. And the Yugoslav navy has blockaded six Croatian ports, threatening to destroy any civilian vessels attempting to leave or enter. Canada's sanctions on Yugoslavia mean that nothing can be exported to any part of the country without a special government permit, which will only be issued for humanitarian aid. External Affairs spokesman Guy Archambault said Canada exports about $ 52 million of goods to Yugoslavia a year, mostly wood pulp, iron ore, heavy machinery and boiler components. Canada has already stopped exporting anything related to arms and munitions. Mulroney also announced that Canada will channel $ 1 million in relief to Yugoslavia through the International Red Cross.
+
+19920615-20010220 RIV121-0.00
+
+In 1992 the largest number of Canadian peacekeepers since Canada's deployment in Korea was included in the largest U.N. mission to date since the one in D.R.Congo in 1961, UN's peacekeeping mission to Yugoslavia. The first MID of RIV121, MID3551 started on July 15th, 1992. It involved 13 NATO members against Yugoslavia, over the Bosnian crisis. 
+
+Canada recalled its ambassador from Yugoslavia and expelled Yugoslav diplomats there to protest against continuing bloodshed in Bosnia-Herzegovina, Prime Minister Brian Mulroney announced on May 25, 1992. Canada has also suspended the landing rights of Yugoslavia's national airline, JAT, and will also ask the United Nations Security Council to convene an urgent meeting to impose trade and oil sanctions against Yugoslavia, Mulroney told a conference of young leaders from 88 countries. In the latest sign of improved relations between Serbia and the West, President Slobodan Milosevic met here with Canadian Foreign Minister Lloyd Axworthy on April 11, 1996. The official Tanjug press agency quoted Axworthy as saying that the normalisation of relations between Canada and Yugoslavia (Serbia and Montenegro) was on the agenda for discussion, suggesting that Canada might soon name an ambassador to Belgrade.
+
+Canada said on April 11, 1996 that it will extend an extra 18 million US dollars for reconstruction projects in the former Yugoslavia, as Foreign Affairs Minister Lloyd Axworthy wound up a visit to the Serbian capital. Axworthy had talks with Serbian President Slobodan Milosevic and Yugoslav Foreign Minister Milan Milutinovic. Canada has already extended 15 million Canadian dollars to help heal the damage wrought by nearly four years of war in the former Yugoslavia. "We have a number of aid development programs and we want to ensure and support all the efforts that are being made to bring a successful accomplishment of the (peace) process," Axworthy said.
+
+MID4137 is the Kosovo War which pitted NATO & allies troops against Serbian troops over the break-away province of Kosovo. Canada was involved from June 11, 1998 until June 10, 1999. 
+
+MID4186 is a MID involving an anti-Serbia NATO-led coalition and Serbia. It occurred between February 21, 2000 and April 3, 2000. This MID is related to the Albanian-Serbian ethnic conflicts in the town of Mitrovica, in Kosovo, during which NATO troops had to intervene military several times to maintain peace and security. Yugoslav Information Minister Goran Matic on February 22, 2000, rejected U.S. and NATO accusations that Belgrade is fomenting trouble in Kosovo. The U.S. ambassador to the United Nations, Richard Holbrooke accused the Yugoslav government of fomenting the latest unrest in the ethnically divided city of Kosovska Mitrovica. His view was shared by Gen. Wesley Clark, the NATO commander in Europe, and the alliance's secretary-General, Lord George Robertson.
+
+MID4295 is a MID involving Canada, United Kingdom and Yugoslavia from July 31st, 2000 to October 6th, 2000. This MID is over the arrest by Yugoslav authorities of two Britons and two Canadian police officers accused of espionage. They were arrested on the Kosovo-Montenegro border by Serbian authorities. The Yugoslav Army, which arrested the Britons along with two Canadians, said the four men were "armed and equipped with demolition devices" and there were indications they were "training special forces of the Montenegrin Interior Ministry for terrorist attacks." Yugoslavia dropped all charges on October 6th, 2000 against two Britons and a Canadian arrested this summer on suspicion of terrorism. A Yugoslav military court dismissed the case against British police officers Adrian Prangnell and John Yore, and Canadian Liam Hall. He said the military judge ordered the three released. British Foreign Secretary Robin Cook welcomed the move as a sign that Yugoslavia now ''is prepared to live within the rule of law.'' Prangnell and Yore were detained July 31 on the border between Montenegro and Kosovo. They were headed back to Kosovo, where they were training local police for the Organization for Security and Cooperation in Europe.
+
+On October 7th, 2000, Slobodan Milosevic resigned, after losing the elections. 
+
+MID4343 is a MID which lasted from November 24, 2000 to November 28, 2000. It was a MID over Kosovo clashes between Albanian and Serbian policemen, in which the Serbian government accused NATO troops for not doing their job to protect the Serbs living in Kosovo from Albanian guerilla attacks.
+
+The last MID of RIV121, MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces. 
+
+On January 31, 2001, former Canadian Prime Minister Brian Mulroney, chairman of Sun Media Corporation, has agreed to act as part of an international advisory council to the Serb Republic. In the early 1990s, when Mr. Mulroney was still prime minister Canada was the first country to ask the United Nations to intervene militarily in the former Yugoslavia. Mr. Mulroney met with Serbian Prime Minister Zoran Djindjic at the World Economic Forum in Davos, Switzerland, over the weekend. In an interview after his return from Davos, Mr. Mulroney said the recently elected Serb leader sought him out and proposed the idea of taking part in an advisory council that is expected to include political and business leaders from around the world. He agreed to assist the country in the unpaid, advisory role on economic and political matters. "I would think the reconstruction is almost total," Mr. Mulroney said of the challenge that faces Serbia. "They have to re-establish a democracy there, work a functioning democracy; they're going to have to begin the process of creating a climate which will attract foreign investment and ensure that the rule of law is respected; and adopt international positions that are compatible with those steeped in democracy. 
+
+20010221-20159999 0.5
+
+The Canadian government lifted some of its Kosovo-related sanctions against Yugoslavia on February 21, 2001 in light of Serbian elections that drove Slobodan Milosevic's party out of government two months before. Foreign Minister John Manley announced most Canadian goods would no longer require export permits to go to Yugoslavia, although an arms embargo remains in place.
+
+Canada has posted a new ambassador in Yugoslavia as the two countries rebuild relations. Foreign Affairs Minister John Manley appointed Angela Bogdan to the position on March 17, 2001. "Bogdan's appointment as ambassador represents an important step in the normalization of relations between Canada and the Federal Republic of Yugoslavia following the democratic transition in that country last year," Mr. Manley said in a release. Ms. Bogdan has been the charge d'affaires at the Canadian Embassy in Belgrade since it was reopened in October 1999. Former ambassador Raphael Girard and other staff were evacuated and the embassy was closed in March 1999 before the start of NATO air strikes in Kosovo. Since moderate Vojislav Kostunica replaced former Yugoslav president Slobodan Milosevic on Oct. 7, Canada has resumed negotiations with Belgrade. In February, Canada removed Yugoslavia from its controlled area list, meaning Canadian exporters and investors could resume business with Serbia. The ban was imposed in June 1998 in response to repeated acts of aggression by Mr. Milosevic's security forces against ethnic Albanians in the Yugoslav territory of Kosovo. The announcement does not affect sanctions imposed by the United Nations Security Council. Those include a freeze on Canadian-based assets of the former Yugoslavia and a freeze on Yugoslav and Serbian assets in Canada.
+
+Canadian Foreign Minister John Manley said in Belgrade on 28 May 2001 after talks with Yugoslav counterpart Goran Svilanovic that there were significant possibilities for stepping up trade and investments between Canada and Yugoslavia and many areas in which the two countries could cooperate. Addressing reporters together with Svilanovic, Manley said Canada was ready to help renewal and reforms, and that Canadian companies were very interested in investments in Yugoslavia. Conveying a message of support and encouragement of the Canadian government to the Yugoslav, Manley underscored the importance of Yugoslavia's cooperation with the Hague tribunal as a significant step forward in winning the full confidence of the international community. After his meeting with Manley, Svilanovic said he expected the active participation of Canada-a member-state of G8-at the donor conference for Yugoslavia set for late June 2001. Svilanovic marked as a common interest, aimed towards speedier cooperation, the signing of agreements on social security, protection of investments and avoiding double taxation. Manley welcomed the Yugoslav government decision to join the Ottawa Convention which bans the production, use and sales of antipersonnel mines.
+
+Canada announced on June 29, 2001 that it plans to contribute as much as $20 million in development and assistance money to Yugoslavia as part of an international reward for Belgrade's decision to hand former president Slobodan Milosevic to the international war crimes tribunal in The Hague. Canada will attend a donors' conference tomorrow in Brussels that western nations hope will generate commitments of $1.3 billion U.S. to help rebuild the country's economy, which has been devastated by a decade of civil war and corruption under Mr. Milosevic. Canada has provided $40 million in humanitarian assistance since 1999, but in solidarity with the western embargo, has not contributed any money for renewal or development. Officials said that Canada would be earmarking its contribution of between $10 million and $20 million for democratic development and governance programs as well as for rebuilding the energy sector.
+
+On August 20, 2002, Canada wrote off 156 million euros of Yugoslav debt to the Paris Club. Yugoslav Deputy Premier Miroljub Labus and Canadian Ambassador to Yugoslavia Angela Bogdan signed on 20 August a bilateral agreement under which Canada has written off to Yugoslavia 156 of the total 234 million euro debt with the Paris Club of creditors, and the rest has been reprogrammed under very favourable terms. In a statement to reporters in the Federal Palace building Labus specified that, besides the writing off of the debt, Canada has granted to Yugoslavia a very favourable interest rate and repayment conditions for the rest of the debt. The Canadian ambassador assessed that the signing of the bilateral agreement was a significant step towards the normalization of relations of Yugoslavia with Canada, as well as with the international community and world financial institutions.
+
+On May 1, 2002, Yugoslav Foreign Minister Goran Svilanovic concluded his visit to Canada, during which he discussed the current situation in the Balkans, bilateral and, above all, economic cooperation with his hosts. Svilanovic, who met with his Canadian counterpart William Graham, Prime Minister Jean Chretien and House of Commons Speaker Peter Milliken, said that the talks had focused on the current situation in the Balkans and bilateral cooperation with a special stress on the economy. This visit is important because Canada is presiding over the G8 and is preparing a summit with one of topics being the situation in the Balkans. Svilanovic also said that he discussed, among other things, the future relations between Serbia and Montenegro with the Canadian officials. Svilanovic said that Yugoslavia can count on full support from Canada when it comes to implementing the Belgrade accord, the intention to come closer to the European integrations, and especially Euro-Atlantic integrations as heard . The message of encouragement in regards to Yugoslavia joining the NATO-led Partnership for Peace was quite clear, with an accent on the Partnership for Peace not being merely a security system, but simultaneously enabling an improvement of economic cooperation among its members. Currently, its members are all the countries surrounding Yugoslavia.
+Svilanovic expects an increased interest by the Canadian companies to invest in Yugoslavia to be one of the results of his visit. In regard to the bilateral cooperation between these two countries, it is currently quite insignificant, although the potentials are great, Svilanovic said.
+
+On February 4th, 2003, Yugoslavia changed its name to Serbia and Montenegro. On June 11, 2003, Borivoje Mijatovic and Milos Jevtic, deputies of the Serbia-Montenegro Assembly, today talked to members of a Canadian expert delegation on mines, which was headed by an ambassador in the Canadian Foreign Ministry, Ross Hines, the assembly information service has stated. This delegation's visit marks the beginning of concrete cooperation between Serbia-Montenegro and Canada, one of the biggest donors in projects for destroying anti-personnel mines, as well as in preparations for ratifying and implementing the Ottawa Convention in Serbia-Montenegro, the statement said.
+
+A Serb paramilitary soldier, who fled to Ontario after being accused of taking part in the massacre of Kosovo villagers in 1999, arrived back in Belgrade on October 13, 2005, escorted by a pair of Canadian immigration officers. Dejan Demirovic, 30, an alleged member of the Scorpions paramilitary group, was arrested and jailed upon his arrival in Serbia, according to local media reports, ending his four-year fight to stay in Canada as a refugee. Mr. Demirovic flew to Canada in 2001 and lived in Windsor. But on Jan. 14, 2003, he was arrested by Canadian authorities after Serbia alleged he had murdered 14 ethnic Albanian women and children in Podujevo. The Canadian government ordered his deportation on Sept. 15, 2004, for "violating human rights [and] crimes against humanity." A Federal Court of Canada judge dismissed his last avenue of appeal on Sept. 20. Anna Pape, a spokeswoman for the Canada Border Services Agency, confirmed that two immigration escorts had accompanied Mr. Demirovic on a flight that left Toronto's Pearson airport.
+
+On June 3rd and June 5th, 2006, respectively, Montenegro and Serbia declared independence. We consider Serbia to continue Yugoslavia. 
+
+PS-SOURCES: Balawyder (1945-1962); New York Times October 9, 1981; June 12, 1982; July 5, 1991; October 22, 2008; Globe and Mail March 30, 1979; July 23, 1979; May 12, 1982; June 12, 1982; February 24, 2001; BBC June 15, 1982; March 22, 1984; August 16, 1991; May 28, 2001; May 1, 2002; May 4, 2002; August 20, 2002; June 11, 2003; Associated Press January 20, 1983; April 4, 1995; The Gazette (Montreal) November 9, 1991; May 25, 1992; Agence France Presse April 11, 1996; Toronto Star November 8, 1991; February 21, 1992; Xinhua May 24, 1992; Ottawa Citizen January 31, 2001; March 17, 2001; June 28, 2001; National Post October 13, 2005
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

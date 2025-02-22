@@ -1,0 +1,118 @@
+FILE: cm220651v11.0.txt
+DYAD: FRANCE - EGYPT
+RIVALRY: RIV580
+DISPUTE(S): MID3725 
+RIVALRY: RIV581
+DISPUTE(S): MID200 
+
+PSNOTES: 
+
+I did NOT change the .5 coding for this case as it is only the Suez Crisiis for a short period of time - no other MIDs and not enough to call this a lesser rivalry
+
+PS-LAST-CHANGED: 20170812
+PS-LAST-CHECKED: 20170813
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID3725
+
+MID200
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm002651v11.0 narrative, this is the Sinai War between Israel and Egypt and is a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. France is involved in this MID due to their support for Israel. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because France and Egypt did not dispute territory here. See TERRLINK.
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm002651v11.0 narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and France was pulled in to the dispute due to its support for Israel. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war 
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: MID200 the civil conflict occurs in Israel, outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 from cm002651v11.0 narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war MID because Egypt sponsored a militarized rebel group against Israel, which led to events that contributed to this MID. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM: 
+*Keesing,* January 19-26, 1963.
+
+NARRATIVE-CR:
+The rivalry between France and Egypt consists of two mids that take place 75 years apart. France is a secondary actor in the first mid which is primarly between the UK and France. The motivation for both conflicts between the UK/France and Egypt in 1882 and the conflict in the Sinai war nearly a century later is access to the Suez canal. 
+
+MID3725 occurred from July through September of 1882. France was involved very briefly, one week in July of that year. Thus this mid is primarily between the UK and Egypt. In July 1882, the British fleet began bombarding Alexandria. The motivation here was control of Egypt for various reasons, one of which was territorial access to the Suez Canal. 
+
+Following the burning of Alexandria and its occupation by British marines, the British installed the khedive in the Ras at Tin Palace. The khedive obligingly declared Urabi a rebel and deprived him of his political rights. Urabi in turn obtained a religious ruling, a fatwa, signed by three Al Azhar shaykhs, deposing Tawfiq as a traitor who brought about the foreign occupation of his country and betrayed his religion. Urabi also ordered general conscription and declared war on Britain. Thus, as the British army was about to land in August, Egypt had two leaders: the khedive, whose authority was confined to British-controlled Alexandria, and Urabi, who was in full control of Cairo and the provinces. 
+
+In August Sir Garnet Wolsley and an army of 20,000 invaded the Suez Canal Zone. Wolsley was authorized to crush the Urabi forces and clear the country of rebels. The decisive battle was fought at Tall al Kabir on September 13, 1882. The Urabi forces were routed and the capital captured. The nominal authority of the khedive was restored, and the British occupation of Egypt, which was to last for seventy-two years, had begun. 
+
+Urabi was captured, and he and his associates were put on trial. An Egyptian court sentenced Urabi to death, but through British intervention the sentence was commuted to banishment to Ceylon. Britain's military intervention in 1882 and its extended, if attenuated, occupation of the country left a legacy of bitterness among the Egyptians that would not be expunged until 1956 when British troops were finally removed from the country.
+
+The Sinai War also known as the Suez War, Suez Campaign or Kadesh Operation was a 1956 war fought on Egyptian territory (MID200). The conflict pitted Egypt against an alliance between France, the United Kingdom and Israel. The alliance between the two European nations and Israel was largely one of convenience; the European nations had economic and trading interests in the Suez Canal, while Israel had a pressing need to open the canal for Israeli shipping. By the conclusion of the war, only Israel enjoyed significant gains. 
+
+The roots of the crisis extend back to 1952, when officers in the Egyptian army overthrew the monarchy under King Farouk. Abandoning policies which were co-operative with European powers, the new government desired to undertake a more nationalistic and assertive stance. This led to conflict with Israel and the European powers over the Suez Canal. 
+
+Throughout 1956, conflict increased between Israel and Egypt, with Israel launching frequent incursions into Egyptian territory and Egypt increasingly defending itself. Egypt, under the leadership of President Gamal Abdul Nasser, blockaded the Gulf of Aqaba and closed the Suez Canal to Israeli shipping. At the same time, Egypt nationalized the canal, a vital trade route to the east, in which British banks and business held a 44% stake. 
+
+The British Prime Minister of the time Anthony Eden needed to persuade the British public of the need for war and so, perhaps in an attempt to recall World War II-era patriotism he compared Nasser's nationalization of the Suez Canal with the nationalism of Mussolini and Hitler 20 years earlier. Eden had been a staunch opponent of Neville Chamberlain's policy of appeasement and he claimed that a display of force was needed to prevent Nasser becoming another expansionist military threat, propagandising him as a sort of 'Mussolini of the Nile'. 
+
+In the months that followed Egypt's nationalization of the canal, a secret meeting between Israel, France and Britain took place at Sèvres, outside Paris. All parties were agreed that Israel should invade and that Britain and France would subsequently intervene, instruct the Israeli and Egyptian armies to withdraw their forces either side of the canal, and then place an Anglo-French intervention force in the Canal Zone around Port Said. It was to be called "Operation Musketeer". 
+
+On October 29, Israel invaded the Gaza Strip and the Sinai Peninsula and made rapid progress towards the Canal Zone. As per the agreement, Britain and France offered to reoccupy the area and separate the warring armies. Nasser (whose nationalization of the company had been greeted with delirium by Egyptian crowds) refused the offer, which gave the European powers a pretext for a joint invasion to regain control of the canal and topple the Nasser regime. The United Kingdom and France then began to bomb Egypt on October 31 to force the reopening of the canal. 
+
+Alarmed by the crisis, on November 7, 1956, the United Nations General Assembly adopted a resolution which called for the United Kingdom, France and Israel to withdraw their troops from Egypt immediately. 
+
+The campaign progressed as planned at first, but the European forces never reached the canal itself. Although Israel captured the Gaza Strip in the course of the war, the whole episode is usually regarded in Britain as an embarrassment. Eden was forced to resign because of a combination of ill health and opposition from the Labour Party and even from within his own party over the invasion of Egypt. 
+
+The invading forces were forced to withdraw in March 1957 under pressure from the United States, which saw good relations with the third world as being more important than defending Anglo-French interests. Perhaps more significantly, the US also feared a wider war after the USSR's offer to intervene on the Egyptian side. After the withdrawal, the United Nations established the UN Emergency Force (UNEF) to keep peace in the area. 
+
+Part of the pressure that the United States used against Britain was financial, as Eisenhower threatened to sell the United States holdings of the British pound and thereby precipitate a collapse of the British currency. 
+
+Eden's resignation marked the end of the last attempt Britain would ever make to establish, as Scott Lucas writes, "that Britain did not require Washington's endorsement to defend her interests". In a way, it also marked the symbolic end of the British Empire, though it had in reality been in decline for decades, even before World War II. The crisis also marked the transfer of power to the new superpowers, the United States and the Soviet Union. 
+
+The crisis also greatly improved Nasser's standing in the Arab world and help to promote pan-Arabism. It also hastened the process of decolonization as the remaining colonies of both Britain and France become independent over the next several years. 
+
+One hindrance to France's relations with the Egypt and the wider middle east was its close alliance with Israel. In the 1950s France was, perhaps, Israel's closest ally in the world.
+
+This all changed dramatically with the coming of Charles de Gaulle to power. De Gaulle's foreign policy was centered around an attempt to limit the power and influence of both superpowers, and at the same time increase France's international prestige. De Gaulle hoped to move France from being a follower of the United States to becoming the leading nation of a large group of non-aligned third world countries. The nations de Gaulle looked at as potential participants in this grouping were those in France's traditional spheres of influence: Africa and the Middle East. The former French colonies in eastern and northern Africa came quite agreeably into these close relations with France. These nations had close economic and cultural ties to France, and they also had few other suitors amongst the major powers. This new orientation of French foreign policy also appealed strongly to the leaders of the Middle East. None of them wanted to be dominated by either of the superpowers, and they supported France's policy of trying to balance the US and the USSR to prevent either from becoming dominant in the region. The Middle Eastern leaders wanted to be free to pursue their own goals and objectives, and did not want to be chained to either alliance block. De Gaulle hoped to use this common foundation to build strong relations between the nations. He hoped that good relations would improve France's trade with the region. De Gaulle also imagined that these allies would look up to the more powerful French nation, and would look to it in leadership in matters of foreign policy. 
+
+The end of the Algerian conflict in 1962 accomplished much in this regard. France could not portray itself as a leader of the oppressed nations of the world if it still was enforcing its colonial rule upon other nations. The battle against the Muslim separatists that France waged in favour of the minority of white settlers was an extremely unpopular one throughout the Muslim world. With the conflict raging it would have been next to impossible for France to have had positive relations with the nations of the Middle East. The Middle Eastern support for the FLN guerillas was another strain on relations that the end of the conflict removed. Most of the financial and material support for the FLN had come from the nations of the Middle East and North Africa. This was especially true of Nasser's Egypt, which had long supported the separatists. Egypt is also the most direct example of improved relations after the end of hostilities. The end of the war brought an immediate thaw to Franco-Egyptian relations, Algeria ended the trial of four French officers accused of espionage, and France ended its trade embargo against Egypt. 
+
+In 1967 de Gaulle completely overturned France's Israel policy. De Gaulle and his ministers reacted very harshly to Israel's actions in the Six Day War. The French government and de Gaulle condemned Israel treatment of refugees, warned that it was a mistake to occupy the Palestinian areas, and also refused to recognize the Israeli control of Jerusalem. The French government continued to criticize Israel after the war and de Gaulle spoke out against other Israeli actions, such as the operations against he PLO in Lebanon. France began to use its veto power to oppose Israel in the UN, and France sided with the Arab states on almost all issues brought to the international body. Most importantly of all, however, de Gaulle's government imposed an arms embargo on the Israeli state. The embargo was in fact applied to all the combatants, but very soon France began selling weaponry to the Arab states again. As early as 1970 France sold Libya a hundred Mirage fighter jets. After 1967 France continued to support Israel's right to exist, but its support extended little beyond this. 
+
+De Gaulle launched the immense shift in policy from one favouring Israel to one favouring the Arab states for a combination of reasons. It was becoming obvious that the strengthening alliance between the United States and Israel would soon make France's role as an ally mostly irrelevant. The US could always provide Israel with more money and with higher levels of military technology. For France to play an important role in the region it seemed supporting the Arab side would give it more leverage in the future. Trade considerations also came into play. The Arab states at the time had a combined population of over a hundred million, compared to only three million in Israel. As de Gaulle memoirs show he was personally quite sympathetic to Israel, but he saw it in the interest of France to distance the two nations. For the pursuit of political and economic ends de Gaulle crafted a new Middle Eastern policy that discontinued support for Israel and instead pursued close relations with the Arab states. 
+
+Also important was the increase in foreign aid spending by the French government. France increased its expenditures greatly to become second only to the United States in total aid amongst the western powers. By 1968 France was paying out $855 million dollars per year in aid far more than either West Germany or Great Britain. France paid the most per capita in foreign aid of any of the major powers, but the total amount still paled in comparison to that dispensed by the US. The vast majority of French aid was directed towards Africa and the Middle East. France also increased its expenditures on other forms of aid sending out skilled individuals to developing countries to provide technical and cultural expertise. . 
+
+The combination of aid money, arms sales, and diplomatic alignments helped to erase the memory of the Suez Crisis and the Algerian War in the Arab world and France successfully developed amicable relationships with the governments of many of the Middle Eastern states. Nasser and de Gaulle, who shared many similarities, cooperated together on limiting American power in the region. Nasser proclaimed France as the only friend of Egypt in the west. France and Iraq also developed a close relationship with business ties, joint military training exercises, and French assistance in Iraq's nuclear program in the 1970s. France's relations with its former colony Syria were improved, and eroded cultural links were partially restored. 
+
+France did not benefit much from these closer relations. In terms of trade France did receive some benefits from the improved relations with the Middle East. French trade with the Middle East increased by over fifty percent after de Gaulle's reforms. The arms industries benefited most as France soon had lucrative contracts with many of the regimes in the Middle East and North Africa. The French trade with the Middle East was still not competitive with that of other Western powers, however. The United States, Great Britain and West Germany all sold far more to the Middle East each year than France, and none of these states pursued as strong a pro-Arab policy as did the French. Quite the opposite was true of the United States and Britain which firmly backed Israel and were opposed to many of the governments in the region, especially Nasser's Egypt. The Arab states would almost always prefer the cheaper goods from an anti-Arab nation than more expensive ones from a pro-Arab state such as France, however. France was not as successful economically as Britain, Germany, or the United States and no amount of positive relations with the Arab world could overcome the greater costs of French goods. Throughout the subsequent decades France continued to have very large trade deficits with the oil exporting countries of the Middle East. 
+
+Not only did trade not benefit much, France's positive relations with the Muslim world also has failed to protect it from Islamic terrorism, rather the opposite is true. France is one of the West's most frequent targets of Islamic terrorism. Throughout the period since de Gaulle left power there have been a number of attacks. There have been hijackings, such as those of an Air France plane to Uganda in 1976, and one to perhaps be crashed into the Eiffel tower in 1994. Another plane was blown up over the Sahara in 1989, killing many French citizens. There have also been bombings in France such as those in 1986 or that against a Paris restaurant in 1982. Attacks have also occurred against representatives of the United Arab Emirates and Saudi Arabia in France. The close relations between the French government and the governments of a number of Arab states have not done anything to reduce attacks on French citizens. French relations with the secular regimes of the Middle East has even encouraged terrorism, as supporters of these governments have often been targeted by religious extremists. 
+
+In Middle East peace negotiations France also never managed to play an important role. De Gaulle had hoped that by taking a moderate path and not strongly supporting either side France could become integral to the peace process. In reality peace negotiations between Israel, the Palestinians, and the Arab powers have almost always involved representatives of the one or both of the superpowers, but France has been universally excluded. In the Camp David accords between Sadat and Begin US President Jimmy Carter played an immense role, the French played virtually none. The French foreign minister complained that a separate peace between Israel and Egypt would not benefit Middle East peace, but none of the leaders involved were particularly concerned about what the French government thought. This pattern has repeated itself frequently. The Oslo Accords, the Israeli-Jordanian Peace Treaty, and others were all negotiated and written with no input at all from France. When France does try to intervene it is looked on as unhelpful by the US and Israel, and these nations have rejected all major French peace proposals. Chirac's visit to the Middle East in 1996 annoyed the Americans and Israelis, and had no lasting impact on the peace process. 
+
+SOURCES-CR:
+OnWar.com
+http://en.wikipedia.org/wiki/Sinai_Campaign
+

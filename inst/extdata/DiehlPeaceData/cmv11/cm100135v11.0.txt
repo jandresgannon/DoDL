@@ -1,0 +1,261 @@
+FILE: cm100135v11.0.txt
+DYAD: COLOMBIA - PERU
+RIVALRY: RIV260
+DISPUTE(S): MID1523 MID1506 
+RIVALRY: RIV10261
+DISPUTE(S): MID1597 MID1160 MID1161 MID1598 MID1162 MID1139 MID1141 
+
+PS: 19009999-19340524 0.0 19340525-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220217
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1523 MID1506 MID1597
+
+MID1160 
+
+TERRMID: MID1160 1 -- territorial MID
+TERRMID-CER: MID1160 1 -- certain 
+TERRMID-NOTES: MID1160 this is the first of the post-1900 MIDs in this dyad. The border between Colombia and Peru had been disputed since 1821 and settled in 1928 (Owsiak 2012). This MID occurred in 1907. On 9/21/1907, the NYT published a response by Colombia to Peru after Peru condemned Colombia for granting a concession for a rubber processing corporation in the disputed territory. The article mentions that the countries agreed to withdraw their troops from the disputed region pending an arbitration outcome, indicating that troop buildups in the disputed region had occurred. Coded territorial MID because this dispute is directly connected to the disputed territory. 
+
+TERRLINK: MID1160 3 -- not third party link to territory 
+TERRLINK-CER: MID1160 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1160 3 -- not maritime 
+MARITMID-CER: MID1160 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1160 3 -- not islands 
+ISLMID-CER: MID1160 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1160 3 -- not civil war 
+CIVWARMID-CER: MID1160 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1160 3 -- not civil war link
+CIVWARLINK-CER: MID1160 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1160 3 -- not coup 
+COUPMID-CER: MID1160 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1160 3 -- not coup link
+COUPLINK-CER: MID1160 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1161 
+
+TERRMID: MID1161 1 -- territorial MID
+TERRMID-CER: MID1161 1 -- certain 
+TERRMID-NOTES: MID1161 from MID-B data, this MID has date range 1/19/1911-7/9/1911. From NYT 9.21.1911, Colombian troops invaded the disputed region around the Yapura River, which forms part of the disputed border with Peru. Coded territorial MID because this was a military invasion of the disputed region. 
+
+TERRLINK: MID1161 3 -- not third party link to territory 
+TERRLINK-CER: MID1161 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1161 3 -- not maritime 
+MARITMID-CER: MID1161 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1161 3 -- not islands 
+ISLMID-CER: MID1161 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1161 3 -- not civil war 
+CIVWARMID-CER: MID1161 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1161 3 -- not civil war link
+CIVWARLINK-CER: MID1161 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1161 3 -- not coup 
+COUPMID-CER: MID1161 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1161 3 -- not coup link
+COUPLINK-CER: MID1161 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1598 
+
+TERRMID: MID1598 1 -- territorial MID
+TERRMID-CER: MID1598 1 -- certain 
+TERRMID-NOTES: MID1598 from MID-B data, this MID occurred in 1911. Peruvian troops attacked the Colombian garrison at the river town of Puerto Cordoba, giving rise to the July treaty in which both countries agreed to limit the number of troops in the area (Ireland 1938, 195). Coded territorial MID because this attack was connected to the disputed border. 
+
+TERRLINK: MID1598 3 -- not third party link to territory 
+TERRLINK-CER: MID1598 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1598 3 -- not maritime 
+MARITMID-CER: MID1598 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1598 3 -- not islands 
+ISLMID-CER: MID1598 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1598 3 -- not civil war 
+CIVWARMID-CER: MID1598 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1598 3 -- not civil war link
+CIVWARLINK-CER: MID1598 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1598 3 -- not coup 
+COUPMID-CER: MID1598 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1598 3 -- not coup link
+COUPLINK-CER: MID1598 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1162 
+
+TERRMID: MID1162 1 -- territorial MID
+TERRMID-CER: MID1162 3 -- uncertain 
+TERRMID-NOTES: from MID-B data, this MID occurred in March and April 1913. Gibler, Little, and Miller (2016: IA-4) argue that this dispute should be dropped from the COW data due to lack of information. GLM describe this as the following: "[MID1162 is] a retreat of Peruvian troops from settlements in the Putumayo region seems to constitute a Colombian victory in a MID. However, Galvez' wording is vague and scarce with details. His account could not be corroborated elsewhere. A reading into the broader situation at the time leaves open the possibility that Peru recalled its garrison there as part of ongoing diplomatic efforts with Colombia (De La Pedraja 2006, 89-92)." According to GLM, the only source for this MID is Galvez, Juan Ignacio, 1920 ("International Conflicts: Peru against Colombia, Ecuador and Chile."). Coded uncertain because the information in this MID, or even whether this is a MID, is unclear, as detailed by GLM. 
+
+TERRLINK: MID1162 3 -- not third party link to territory 
+TERRLINK-CER: MID1162 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1162 3 -- not maritime 
+MARITMID-CER: MID1162 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1162 3 -- not islands 
+ISLMID-CER: MID1162 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1162 3 -- not civil war 
+CIVWARMID-CER: MID1162 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1162 3 -- not civil war link
+CIVWARLINK-CER: MID1162 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1162 3 -- not coup 
+COUPMID-CER: MID1162 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MIDXXXX 3 -- not coup link
+COUPLINK-CER: MIDXXXX 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1139 
+
+TERRMID: MID1139 1 -- territorial MID
+TERRMID-CER: MID1139 1 -- certain 
+TERRMID-NOTES: MID1139 from cm narrative, the disputed Leticia territory was temporarily settled in 1922 with the Treaty of Salomon, but an anti-Colombia uprising in Peru in 1932 led to another dispute between Colombia and Peru. Peruvian villagers crossed the recently settled border and occupied a Colombian village. Out of concern for his popularity, the Peruvian leader was forced to publicly support the uprising, triggering this MID. Coded territorial MID because despite the treaty in 1922, the border is disputed again here. 
+
+TERRLINK: MID1139 3 -- not third party link to territory 
+TERRLINK-CER: MID1139 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1139 3 -- not maritime 
+MARITMID-CER: MID1139 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1139 3 -- not islands 
+ISLMID-CER: MID1139 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1139 3 -- not civil war 
+CIVWARMID-CER: MID1139 1 -- certain
+CIVWARMID-NOTES: MID1139 this dispute involved an uprising in Peru, but the group was 300 armed Peruvian citizens who were not organized against the Peruvian government and were not waging a campaign of insurgency against any government (Ireland 1938, 199). 
+
+CIVWARLINK: MID1139 3 -- not civil war link
+CIVWARLINK-CER: MID1139 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1139 3 -- not coup 
+COUPMID-CER: MID1139 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1139 3 -- not coup link
+COUPLINK-CER: MID1139 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1141 
+
+TERRMID: MID1141 1 -- territorial MID
+TERRMID-CER: MID1141 1 -- certain 
+TERRMID-NOTES: MID1141 from cm narrative, this was another dispute triggered by an uprising of Peruvian citizens who crossed the recently settled border and occupied a Colombian village. Colombia condemned the invasion, but the Peruvian president was forced to publicly support it, bringing the border dispute back. This MID occurred in 1934, two years after the initial occupation, and seems to be triggered by a hostile diplomatic exchange between Peru and Colombia. Coded territorial MID because the border became disputed again as a result of the occupation and public support by Peru. 
+
+TERRLINK: MID1141 3 -- not third party link to territory 
+TERRLINK-CER: MID1141 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1141 3 -- not maritime 
+MARITMID-CER: MID1141 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1141 3 -- not islands 
+ISLMID-CER: MID1141 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1141 3 -- not civil war 
+CIVWARMID-CER: MID1141 1 -- certain
+CIVWARMID-NOTES: MID1141 this dispute involved an uprising in Peru, but the group was Peruvian citizens who were not organized against the Peruvian government and were not waging a campaign of insurgency against any government. 
+
+CIVWARLINK: MID1141 3 -- not civil war link
+CIVWARLINK-CER: MID1141 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1141 3 -- not coup 
+COUPMID-CER: MID1141 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1141 3 -- not coup link
+COUPLINK-CER: MID1141 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+RIV10261 adds disputes MID1139 and MID1141 which were originally part of RIV262, but these were combined because they involved the same unresolved issues and despite the 19 year gap in disputes. 
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY, RIV262
+DATES (may not be accurate, see riv5.20all.cvs): 19320901 -19340519
+
+NARRATIVE-CM:
+Colombia and Peru disputed the Putumayo border region (Leticia) beginning in 1822. Colombian and Peruvian representatives signed arbitration agreements on May 6, 1906 and September 12, 1906, but neither agreement went into effect. Peruvian troops commanded by Major Oscar Benavides defeated some 70 Colombian troops in a battle near La Pedrera in the disputed region on July 10, 1911. The countries agreed to a cessation of military hostilities on July 15, 1911. Colombian and Peruvian representatives signed an agreement on July 19, 1911, which provided for the disengagement of troops from the border region. Colombian and Peruvian representatives signed the *Salomon-Lozana Treaty* in Lima on March 24, 1922, which provided for the Peruvian cessation of the Leticia region to Colombia and the Colombian cessation of territory south of the Putumayo river to Peru. The countries exchanged ratifications of the *Salomon-Lozana Treaty* in Bogota on March 19, 1928, and Colombia took possession of the Leticia territory on August 17, 1930. Some 300 armed Peruvian citizens invaded the Leticia region on August 31, 1932, and the Peruvians expelled the Colombian officials from the town of Letcia. Peruvian troops occupied the territory on November 26, 1932 in order to protect its citizens. Peru referred the dispute to the *Permanent Commission on Inter-American Conciliation* (PCIC) on October 3, 1932. Colombia rejected the involvement of the PCIC, since it regarded the matter as an internal dispute. Foreign Minister Afranio de Mello Franco of Brazil offered to mediate negotiations on December 30, 1932. Colombia referred the matter to the *League of Nations* (LON) Council on Janaury 2, 1933. The LON Council appealed for a ceasefire on January 14, 1933. The LON Council established a three-member commission of inquiry (Guatemala, Ireland, Spain) on January 24, 1933. Peruvian military forces bombed Colombian gunboats on February 14, 1933, and Colombian troops captured Tarpaca on February 15, 1933. Colombia severed diplomatic relations with Peru on February 15, 1933. On February 25, 1933, the LON commission of inquiry proposed LON administration of the disputed region during negotiations between Colombia and Peru. Colombia and Peru agreed to the LON proposal on February 27, 1933. The LON Council approved the plan on March 1, 1933, but Peru rejected the proposal on March 6, 1933. Colombian troops and Peruvian troops clashed near the Putumayo river on March 26-29 and April 17-20, 1933. President Sanchez Cerro of Peru was assassinated on April 30, 1933. Colombian and Peruvian representatives signed an agreement in Geneva on May 25, 1933, which provided for LON administration of the town of Leticia in the disputed region. The LON administrative commission - which consisted of Colonel Arthur Brown of the US and representatives of Brazil, Spain, and Cuba - was appointed on June 9, 1933. Some 150 LON peacekeeping troops from Colombia were deployed in Leticia on June 23, 1933. Foreign Minister Mello Franco of Brazil mediated negotiations between Colombian and Peruvian representatives in Rio de Janeiro beginning on October 25, 1933. Colombian and Peruvian representatives signed the *Protocol of Peace, Friendship, and Cooperation* in Rio de Janeiro on May 25, 1934, which provided for the resumption of diplomatic relations and the peaceful settlement of the dispute*. *The LON administrative commission turned Leticia over to Colombian authorities on June 19, 1934. Colombia and Peru completed ratification of the peace treaty on September 27, 1935. Some 850 individuals were killed during the conflict. Victor Haya de la Torre, leader of the *American Popular Revolutionary Alliance* (*Alianza Popular Revolucionaria Americana* - APRA), sought asylum in the Colombian embassy in Lima on January 3, 1949. Colombia requested safe conduct for Victor Haya de la Torre to Colombian territory, but the request was rejected by Peru. The countries submitted the dispute to the *International Court of Justice *(ICJ). The ICJ isued a decision on November 20, 1950, which suggested that Victor Haya de la Torre did not have the right of asylum and Peru was not require to provide safe conduct to Victor Haya de la Torre. Peru demanded the surrender of Victor Haya de la Torre to Peruvian officials on November 21, 1950. Colombia re-submitted the dispute to the ICJ on December 23, 1950. The ICJ issued a ruling on June 13, 1951, which suggested that Colombia was not obligated to surrender Victor Haya de la Torre to Peruvian authorities. The countries agreed to negotiate a resolution of the dispute concerning Victor Haya de la Torre on July 14, 1951.
+
+SOURCES-CM: 
+Bannon and Dunne, 1947, 782-784; Brecher and Wilkenfeld, 1997, 499-501; *Kessing*, April 21-28, 1951, November 3-10, 1951; *Survey of International Affairs *(SIA), 1933, 581-582, 1934, 695; Walters, 524-540; Wood, 1966, 169-251.
+
+NARRATIVE-CR:
+The rivalry between Colombia and Peru begins with the dispute over the Montana region in the far northeastern corner of Peru. This region included the Putamayo River along with the port of Leticia on the Amazon River and had been in dispute since Peru's independence in 1821. The militarization of the rivalry begins in 1899 (MID1597) after a rubber boom brought the two countries to the brink of war in 1899 (MID1597). The rivalry should be classified as one rivarly from 1899 to 1934 since the issues of contention remain the same despite the lack of fighting from 1913 to 1932. Earlier militarized conflicts between the two countries involved issues over Ecuador and the subsequent breakup of Gran Colombia and are not part of the rivalry (MID1523 on 3/14/1852 and MID1506 on 8/15/1852). 
+
+The dispute over the Montana ends with the signing of the *Salomon-Lozano Treaty* in 1922 that sets the Putamayo River as the boundary between Colombia and Peru. Also in this treaty was the designation that the area around the Port of Leticia on the Amazon River be ceded to Colombia. While seemingly settled, Leticia remained contested due to an armed Peruvian uprising in 1932 against Colombian rule (MID1139 on 9/1/32 and MID1141 on 2/15/34). The conflict over Leticia ends in 1934 with an agreement by both Colombia and Peru to allow a League of Nations commission to decide the fate of the port. This agreement was largely possible due to the fact that Colombian president Alfonso Pumarejo and Peruvian president Oscar Benavides were close personal friends. On June 19, 1934 the League of Nations awarded Leticia to Colombia. The award was secured to a great extent with the complete ratification of the 1934 *Protocol of Peace, Friendship, and Cooperation* which resumed diplomatic relations and provided for the peaceful settlement of the Leticia dispute. For Colombia, the control of the port along with the treaty ratification by Peru settles the rivalry. 
+
+It is worth noting, however, that 1934 does mark a substantive change in the social, political and economic conditions in Colombia with the election of Alfonso Lopez Pumarejo to the office of president. It is from this point in history that Colombia begins to modernize after going through a severe economic depression. From 1936 to 1945 Colombia's gross national product doubled and then doubled again from 1945 to 1953. Also, the number of workers in manufacturing also doubled, totalling 15% of the workforce. Socially and politically, however, modernization was not as positive. Politically, the Liberal-Conservative tensions that served as the background to most political conflicts throughout Latin America continued to persist in Colombia but elections were stable until 1946, with the Liberal party in power. In 1946, political violence broke out between the parties as the Conservatives were elected into office. This began the period commonly known as La Violencia in which violence dominated political, social and economic arenas. La Violencia lasted until 1958 when both the Liberals and Conservatives agreed to a power sharing role in government. 
+
+With regard to Peru, the settlement with Colombia came just one year after the country emerged from civil war (1930-1933). The end of the civil war left the right wing Revolutionary Union party in power under Sanchez Cerro. Cerro's reign was short lasted, however, due to his assassination by an opposition party member. Oscar Benavides replaced Cerro as president and the Leticia crisis was resolved between the two counries. The resolution came at a high political cost. President Benavides was already facing hostilities from opposition groups like the American Popular Revolutionary Alliance (APRA) and the settlement only increased those hostilities as the president delayed congressional elections in order to get the treaty ratified. On November 26, 1934 the APRA revolted against the government under the leadership of Colonel Cesar Pardo. The rebellion was defeated but led to increasing political instability in the country. In 1936, Benavides outlawed the APRA whose candidate had the only real opportunity of defeating him in the presidential elections. APRA chose to support another candidate, Luis Eguiguren, who managed to win the election only to have Benavides disqualify him as well. This disqualification and Benavides remaining in office amounted to a bloodless coup. Despite this illegitimate maintenance of power, Benavides provided relative political stability after defeating APRA, remaining in office until 1939. This political stability continued with the transition to democratic governments with the Prado and Ugarteche administrations through the second World War. By 1941, Peru was also involved in militarized conflict with Ecuador over territorial claims, perhaps symbolizing its acceptance of the resolved dispute with Colombia and its focus on remaining issues of contention with other countries. 
+
+At the time of the settlement, Peru also had its attention focused on recovery from the Great Depression. During Benavides tenure in office, the administration was able to shift its attention to domestic issues along with the attention of the public. Government spending doubled during the Benavides regime. Several social and economic initiatives were successful. In 1936 the government began building roads in the previously disputed Montana region, encouraging settlement in a larger effort to unite all the regions of Peru. The irrigation systems of the country were also expanded to serve 275,000 acres of land from the previous 130,000 acres and modern water systems were built into provincial towns. Additionally, the government began constructing low-income housing in Lima and passed a nationwide Compulsory Social Security Law for Peruvian workers that guaranteed benefits for free health care, unemployment and retirement at age 60. By 1939, over 200,000 workers were enrolled and covered under the law. 
+
+While domestic factors arguably played some role in the adherence to the final arbitartion by the League of Nations in 1934, it does appear that the rivalry really is settled upon ratification of the *Protocol of Peace, Friendship, and Cooperation*. Since Colombia received what it wanted during the dispute, the continuation could only come from Peru. The initial treaty in 1922, however, seems to signify the Peruvian government's acceptance of Leticia as belonging to Colombia even if the people there did not in 1934. Thus, the settlement and a shift of attention to domestic issues by Peru ended the possibility of further dispute of the region.
+
+SOURCES-CR:
+Kline (1995), pp. 40-53; Dix (1967), pp. 22-35; Werlich (1978), pp.58-221; Klaren (1993), pp.29-44; Survey of International Affairs *(SIA) (1933), pp. 581-582, (1934), p. 695
+
+SB-CR:
+Colombia / Peru Years: 1899-1934. Issues at stake: Border between Colombia and Peru, particularly control of the port of Leticia in the latter part of the rivalry. End coding: At the conclusion of the 1934 militarized dispute, Peru accepts the League of Nations award of the disputed port of Leticia to Colombia. Number of reciprocated 30 day militarized disputes: 6. Last militarized dispute: 1934. Wars: None. Summary: An early dispute between Peru and Gran Colombia that led to war between them in 1828 was inherited by Ecuador after the breakup of Gran Colombia into Ecuador, Colombia, and Venezuela in 1830. While setting the stage for hostility between Colombia and Peru, however, the rivalry in the early 1900s actually concerned other territory. The territorial dispute that makes up the rivalry centers around the Putamayo river, which makes up most of the border between Peru and Colombia, and control of the port of Leticia on the Amazon, which makes up another section of the border. Early disputes concerned territory on either side of the Putamayo, with some pieces of territory trading hands more than once. The dispute over Leticia arose from the desire of Peru and Colombia to have access to the Amazon so that they could reach the Atlantic as well as Pacific Oceans. Although the Amazon flowed through Peru, Colombia had access only through the Putumayo, which flowed into the Amazon only through a series of small rivers. The port of Leticia, originally in Peruvian territory, would give Colombia direct access to the Amazon. In 1916 Ecuador gave Colombia a strip of territory along their border, ostensibly in return for Colombian aid against Peru. However, in 1922 in the Salomon-Lozan treaty Colombia transferred that territory to Peru in exchange for Leticia. That transfer set the Amazon as the Peruvian-Colombian border for about 50 miles in the southeasternmost section of their border; Leticia was on the Colombian side of the river. Ecuador was angry about the transfer, but was unable to do anything about. Acceptance of the transfer did not last long, however, and disputes followed between Peru and Colombia which almost escalated to war in 1932. After a series of disputes between 1932 and 1934, the League of Nations awarded Leticia to Colombia. In May 1934, at the conclusion of the last militarized dispute between Colombia and Peru, Peru accepted the League of Nations award. Notes: The COW militarized dispute data set has one dispute between Colombia and Peru in 1852. This dispute is quite isolated, and involves Peruvian aid to Ecuadoran rebels rather than the territorial dispute between Colombia and Peru, and so is not the start date of the rivalry. Sources: Goldstein (1992), Hammond World Atlas (1992).
+
+Gibler, Little, and Miller 2016. 
+Ireland, Gordon. 1938. Boundaries, Possessions, and Conflicts in South America.
+Owsiak, Andrew P. 2012. Signing Up for Peace. International Studies Quarterly 56(1).
+

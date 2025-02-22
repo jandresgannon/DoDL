@@ -1,0 +1,350 @@
+FILE: cm531679v11.0.txt
+DYAD: ERITREA-YEMEN (UNIFIED)
+RIVALRY: RIV1145
+DISPUTE(S): MID4121 MID4132 MID4200 
+
+RIVNOTES: 
+
+PS: 19930524-20151220 0.00 20151221-20209999 0.5
+
+PS-UPDATE2020: Although Eritrea and Yemen have not resolved their differences over disputed islands, the relationships shifts to negative peace in late 2015 as Eritrea joins a Saudi-led coalition ostensibly to fight global terrorism, but most immediately to aid the Yemeni government in its civil war against the Houthi rebels. This was followed by a series of actions to support the coalition and the Yemeni government (•	In 2016, Eritrea opened up its port city of Assab to host a UAE military base, to facilitate UAE’s involvement in the Yemen war, fighting Houthi rebels (https://www.ispionline.it/en/pubblicazione/yemens-impact-horn-africa-22610; https://www.hrw.org/world-report/2017/country-chapters/eritrea ) o	Many in Yemen were grateful about Eritrea’s support: 	“Eritrea officially threw her support to the Saudi-led 35 states military coalition force in the spirit of establishing a strategic alliance to combat terrorism and lawlessness in the Red Sea region and beyond” https://www.tesfanews.net/thank-eritrea-signs-yemen-capital/ including providing troops to the effort in 2018. Such support represents a change in priorities for Eritrea and a movement away from the rivalry relationship to one based on mutual interests.
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220615
+PS-LAST-CHECKED: 20220615
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4121 
+
+TERRMID: MID4121 3 -- not territory 
+TERRMID-CER: MID4121 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4121 3 -- not third party link to territory 
+TERRLINK-CER: MID4121 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4121 1 -- maritime 
+MARITMID-CER: MID4121 1 -- certain 
+MARITMID-NOTES: MID4121 The dispute over the Hanish Islands largely concerns maritime boundaries. The islands themselves are uninhabited (or minimally inhabited). At the time of this MID, Yemen began a construction project on the islands, to create a tourist resort. Eritrea responded to this, as it seemed a de facto advancement of the Yemeni claim. The Yemeni claim to the islands dates back to 1982; when it signed the Law of the Sea in 1982, it registered a claim to the islands. Eritrea argues that Ethiopia (its parent country at the time the Law of the Sea was signed) protested that Yemeni declaration. Regardless, tourism competition does not seem to be the root of this issue. According to Lefebvre 1998, ``tension in the region is heightened because Eritrea and Yemen have staked out exploration blocks in the Red Sea that overlap at certain points, and that include the territorial waters of the Hanish Islands or the islands themselves.'' We therefore code this as a maritime boundary dispute. A Permanent Court of Arbitration case resolved ownership of the islands in 1998.
+
+ISLMID: MID4121 1 -- islands MID
+ISLMID-CER: MID4121 1 -- certain 
+ISLMID-NOTES: MID4121 from cm narrative, Eritrea and Yemen disputed islands in the Red Sea archipelago. From Gibler 2018, in 1995 Eritrea invaded the islands after discovering Yemen developing a tourist resort there, and a battle between Eritrea and Yemen occurred. Minor clashes continued until 1996. Coded islands MID because this was connected to disputed islands, and the two sides are fighting specifically over the islands here. 
+
+CIVWARMID: MID4121 3 -- not civil war 
+CIVWARMID-CER: MID4121 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4121 3 -- not civil war link 
+CIVWARLINK-CER: MID4121 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4121 3 -- not coup 
+COUPMID-CER: MID4121 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4121 3 -- not coup link
+COUPLINK-CER: MID4121 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4132 
+
+TERRMID: MID4132 3 -- not territory 
+TERRMID-CER: MID4132 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4132 3 -- not third party link to territory 
+TERRLINK-CER: MID4132 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4132 1 -- maritime MID
+MARITMID-CER: MID4132 1 -- certain 
+MARITMID-NOTES: MID4132 coded maritime MID because the two states disputed islands in the Red Sea archipelago, which caused a dispute over the waters surrounding the islands. The fishing vessels seized by Eritrea were in the disputed waters. See ISLMID-NOTES. 
+
+ISLMID: MID4132 3 -- not islands 
+ISLMID-CER: MID4132 1 -- certain 
+ISLMID-NOTES: MID4132 Although Yemen and Eritrea also disputed sovereignty over islands in the Red Sea archipelago, this incident did not directly involve the islands themselves. 
+
+CIVWARMID: MID4132 3 -- not civil war 
+CIVWARMID-CER: MID4132 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4132 3 -- not civil war link 
+CIVWARLINK-CER: MID4132 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4132 3 -- not coup 
+COUPMID-CER: MID4132 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4132 3 -- not coup link
+COUPLINK-CER: MID4132 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4200 
+
+TERRMID: MID4200 3 -- not territory 
+TERRMID-CER: MID4200 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4200 3 -- not third party link to territory 
+TERRLINK-CER: MID4200 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4200 1 -- maritime MID
+MARITMID-CER: MID4200 1 -- certain 
+MARITMID-NOTES: MID4200 from Gibler 2018, Eritrea seized 6 Yemeni fishing vessels in disputed waters surrounding the disputed islands in the Red Sea archipelago. Coded maritime MID because this was connected to a maritime dispute.
+
+ISLMID: MID4200 3 -- not islands 
+ISLMID-CER: MID4200 1 -- certain 
+ISLMID-NOTES: MID4200 Although Yemen and Eritrea disputed sovereignty over islands in the Red Sea archipelago, this incident did not involve the islands themselves. Rather, it involved the disputed waters around the islands.
+
+CIVWARMID: MID4200 3 -- not civil war 
+CIVWARMID-CER: MID4200 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4200 3 -- not civil war link 
+CIVWARLINK-CER: MID4200 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4200 3 -- not coup 
+COUPMID-CER: MID4200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4200 3 -- not coup link
+COUPLINK-CER: MID4200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4379 
+
+TERRMID: MID4379 3 -- not territory 
+TERRMID-CER: MID4379 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4379 3 -- not third party link to territory 
+TERRLINK-CER: MID4379 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4379 1 -- maritime MID
+MARITMID-CER: MID4379 1 -- certain 
+MARITMID-NOTES: MID4379 from Gibler 2018, in 2005 Eritrea attacked a Yemeni fisherman in disputed waters near the Red Sea archipelago. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID4379 3 -- not islands 
+ISLMID-CER: MID4379 1 -- certain 
+ISLMID-NOTES: MID4379 coded not islands because although Yemen and Eritrea also disputed sovereignty over islands in the Red Sea archipelago, this incident did not involve the islands themselves. 
+
+CIVWARMID: MID4379 3 -- not civil war 
+CIVWARMID-CER: MID4379 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4379 3 -- not civil war link 
+CIVWARLINK-CER: MID4379 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4379 3 -- not coup 
+COUPMID-CER: MID4379 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4379 3 -- not coup link
+COUPLINK-CER: MID4379 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4407 
+
+TERRMID: MID4407 3 -- not territory 
+TERRMID-CER: MID4407 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4407 3 -- not third party link to territory 
+TERRLINK-CER: MID4407 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4407 1 -- maritime MID
+MARITMID-CER: MID4407 1 -- certain 
+MARITMID-NOTES: MID4407 from Gibler 2018, in 2010 Eritrea seized Yemeni fishermen who were fishing in disputed waters and later Yemen seized Eritrean fishermen in response. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID4407 3 -- not islands 
+ISLMID-CER: MID4407 1 -- certain 
+ISLMID-NOTES: MID4407 coded not islands because although Yemen and Eritrea also disputed sovereignty over islands in the Red Sea archipelago, this incident did not involve the islands themselves. 
+
+CIVWARMID: MID4407 3 -- not civil war 
+CIVWARMID-CER: MID4407 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4407 3 -- not civil war link 
+CIVWARLINK-CER: MID4407 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4407 3 -- not coup 
+COUPMID-CER: MID4407 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4407 3 -- not coup link
+COUPLINK-CER: MID4407 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4379
+rivalry=531679 nationa=ERITREA nationb=YEMEN (UNIFIED) MID4379 20050617-20050617 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+An Eritrean soldier attacks and kills a Yemeni fisherman in Eritrean territorial waters. First day of dispute was on 6/17/2005 and last day of dispute was on 6/17/2005.
+
+MID4407
+rivalry=531679 nationa=ERITREA nationb=YEMEN (UNIFIED) MID4407 20100829-20100901 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE
+
+On June 26, 2010, Eritrea seized 14 Yemeni fishermen in international waters and detained them for 10 days before releasing them. Later, on August 29, Yemen captured 9 Eritrean soldiers posing as fishermen in the Yemeni port of al-Hoedieda. The fate of the Yemeni soldiers/fishermen is unclear. First day of dispute was on 8/29/2010 and last day of dispute was on 9/1/2010.
+
+MID3 1993-2001:
+
+MID4121
+rivalry=531679 nationa=ERITREA nationb=YEMEN (UNIFIED) MID4121 19951113-19960828 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+USE OF FORCE 
+
+The long-running dispute over the Red Sea archipelago turned violent in November 1995, when Eritrean forces overran Greater Hanish, the largest island in the chain, killing six Yemeni soldiers and capturing about 200 others. Eritrea later released the Yemeni prisoners. France has tried to mediate the conflict since January 1996. Eritrea and Yemen agreed to a cease-fire and international arbitration in May 1996, but this was broken in August with further clashes over the smaller island called Lesser Hanish. Arbiters eventually agreed with the Yemeni argument that the chain was their territory, while also giving Eritrea some fishing rights in the area. First day of dispute was on 11/13/1995 and last day of dispute was on 8/28/1996.
+
+MID4132
+rivalry=531679 nationa=ERITREA nationb=YEMEN (UNIFIED) MID4132 19970500-19970700 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The Yemeni government accused the Eritrean authorities of holding some 200 Yemeni fishermen and 40 boats since May 1997 because they were fishing in an area which Yemen believes is inside its territorial waters. Negotiations were held via diplomatic channels between the two countries "to resolve this question and secure the release of the Yemeni fishermen held in Asmara since May." Yemen and Eritrea had a territorial water dispute that flared after Eritrea seized the island of Greater Hanish in 1995. The international court of justice ruled the return of the island to Yemen in May 1998. First day of dispute was on 5/00/1997 and last day of dispute was on 7/00/1997.
+
+MID4200
+rivalry=531679 nationa=ERITREA nationb=YEMEN (UNIFIED) MID4200 19990821-19990821 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Yemen charged that Eritrea was still seizing Yemeni fishing vessels from territorial waters, and referred to 24 fishermen detained by the Eritreans. Yemen said that "piracy" against Yemeni vessels by Eritrean patrols has been repeated, and that a patrol of the Eritrean coastal guard on August 21 seized six Yemeni fishing vessels along with the 24 fishermen aboard who were fishing in the high seas. Yemen and Eritrea had a territorial water dispute that flared after Eritrea seized the island of Greater Hanish in 1995. The International Court of Justice ruled the return of the island to Yemen in May 1998. By December 1999 Yemen and Eritrea have accepted the second ruling of the ICJ over their maritime boundaries. The ICJ stipulated that the boundary would be positioned equidistant between the two countries, while Yemen will retain some sovereignty over the Hanish islands, Eritrean fishermen will be allowed to fish in the area. First and last day of dispute was on 8/21/1999.
+
+NARRATIVE-CM:
+Eritrea became independent on May 24, 1993. Eritrea and Yemen disputed the sovereignty of the Hanish Islands in the Red Sea. In 1995 the dormant dispute was rekindled by oil leasing and tourism, according to diplomatic sources. Eritrea became alarmed when Yemen permitted an Italian firm to set up diving operations on Hanish al Kabir to promote it as a tourist attraction. The Eritrean and Yemeni offshore concession systems overlap in the southern Red Sea, intersecting parts of the Hanish group. In October 9, 1995 Anadarko Petroleum signed a contract for Eritrea's Zula Block, which extends to the area directly to the north of the Hanish group. Eritrean troops landed on the Hanish Islands on November 15, 1995. Eritrean forces were reported on November 15, 1995, to have invaded three Yemeni islands in the Red Sea, near the Bab el Mandab Straits bottleneck on the Suez Canal-Indian Ocean shipping route. No official Yemeni announcements have been made, but Yemeni President Ali Abdullah Saleh is soliciting intervention by the United States to avert a conflict with Eritrea. The Yemeni Navy has already launched an offensive to comb Yemen's territorial waters and is believed to have already dislodged the Eritreans from one of the islands, the report said.
+
+In early October 1995 the interior ministers of Eritrea and Yemen met in Sanaa to discuss security and fishing issues. Eritrea released 25 Yemeni fishermen it had apprehended in its waters. Since the countries have no agreed maritime boundaries, due in part to the Hanish Islands dispute, the islands probably figured in the discussions. Eritrea claims that Yemen began stationing troops on the islands in early November 1995, but Yemen says that Eritrean forces appeared on 11 November and ordered Yemeni forces to leave. The claimants met in Asmara on 7 December, but failed to resolve the dispute. Eritrea claims that the talks stalled when the Yemeni delegation insisted that their mandate was to discuss `Hanish Island' and not the archipelago. On 15 December fighting erupted. Eritrean and Yemeni representatives held negotiations regarding the Hanish Islands between November 22 and December 10, 1995. The League of Arabs States (LAS) secretariat expressed support for Yemen on December 3, 1995, and Eritrea rejected LAS interference in the dispute on December 11, 1995. Eritrean and Yemeni troops clashed near the Hanish Islands on December 15-18, 1995, resulting in the deaths of 12 individuals. The presidents of Eritrea and Yemen agreed to a cessation of military hostilities on December 17, 1995. The LAS secretariat expressed support for Yemen on December 18, 1995, and Eritrea responded that the "Arab league has no legal or moral authority to adjudicate in matters that concern Eritrea and Yemen alone and urges it to refrain from unwarranted acts of interference." The Organization for the Islamic Conference (OIC) offered to mediate negotiations between the parties on December 19, 1995. LAS Secretary-General Ismat Abd-al-Majid appealed for peaceful negotiations on December 19, 1995. Prime Minister Meles Zenawi of Ethiopia offered to mediate negotiations between the countries on December 21, 1995, and Yemen accepted the mediation offer on December 22, 1995. The International Committee of the Red Cross (ICRC) established a mission consisting of seven personnel to assist with the repatriation of 213 Yemeni soldiers and civilians on December 24-30, 1995. President Hosni Mubarak of Egypt offered to mediate negotiations between the countries on December 24, 1995, and Yemen accepted the mediation offer on December 25, 1995. Prime Minister Zenawi mediated negotiations between the countries beginning on December 25, 1995. Eritrean troops and Yemeni troops clashed near the Hanish Islands on December 26, 1995. Russia offered to mediate negotiations between the countries on December 29, 1995, and Yemen accepted the mediation offer on December 29, 1995. Special Envoy Vladimir Shiskov of Russia attempted to mediate negotiations between the countries on December 28, 1995-January 2, 1996. France offered to mediate negotiations between Eritrean and Yemeni representatives on January 6, 1996, and President Jacques Chirac appointed Francis Gutmann as special envoy for the Eritrean-Yemeni dispute. President Benjamin Mkapa of Tanzania appealed for peaceful negotiations between the countries on January 10, 1996. Francis Gutmann of France mediated the signing of the Agreement on Principles in Paris by the countries on May 21, 1996, which provided for the renunciation of the use of force and the peaceful settlement of the dispute. On May 30, 1996, Eritrea and Yemen agreed to French supervision of Eritrean and Yemeni military movements near the disputed islands. Eritrean troops captured Lesser Hanish Island from Yemeni troops on August 18, 1996. The United Nations (UN) Security Council demanded the withdrawal of Eritrean troops from Lesser Hanish Island on August 22, 1996. France mediated the signing of an agreement between Eritrean and Yemeni representatives in Paris on October 3, 1996, which provided for the submission of the dispute to the Permanent Court of Arbitration (PCA). The five-member PCA tribunal issued a decision concerning the Hanish Islands in favor of Yemen on October 8, 1998. The five-member PCA tribunal issued a decision concerning the demarcation of the maritime border between Eritrea and Yemen on December 17, 1999.
+
+Once the Hanaish Islands dispute ended with the International Court of Justice's ruling and the negotiations between the two countries regarding their maritime dispute, the rivalry continued with sporadic fighting around the Hanaish Islands and Eritrea continued to suspect Yemen of working together with Ethiopia and Sudan to destabilize it. There are some small steps towards cooperation (joint fishing company), but in general, the tension over security in the region persists. 
+
+The Yemeni press charged on August 23, 1999, that Eritrea was still seizing Yemeni fishing vessels from territorial waters, and referred to 24 fishermen detained by the Eritreans. The al-Shouri newspaper in Sanaa said that "piracy" against Yemeni vessels by the Eritrean patrols has been repeated, and that a patrol of the Eritrean coastal guard on Saturday seized six Yemeni fishing vessels along with the 24 fishermen aboard who were fishing in the high seas. It said that the fishermen have made several petitions to the Yemeni government for intervention on their behalf to end such "assaults". Yemen and Eritrea had a territorial water dispute that flared after Eritrea seized the island of Greater Hanish in 1975. The international court of justice ruled the return of the island to Yemen in May 1998.
+
+An agreement has been reached in London between Eritrea and Yemen over their maritime border and disputed islands on December 17, 1999. The Arbitration Tribunal formed to adjudicate the territorial sovereignty of islands in the Red Sea and to delimit the international maritime boundary between the two countries announced its second and final award on Friday 17th December 1999, in London. The foreign minister of Eritrea, Haile Woldentensae, and the ambassador to London from Yemen, Dr Husayn Abdullah al-Amri, received the award. The decision of the five judges of the Arbitration Tribunal was unanimous. The main decisions of the Arbitration Tribunal in the second award constitute, inter alia: "That the international boundary shall be a single all-purpose boundary which is a median line and that it should, as far as practicable, be a median line between the opposite mainland coastlines." The primary consideration influencing the decision is the fact that "title over Jabal al-Tayar and the Zubayr group and over the Zuqur-Hanish group was found by the Tribunal to be indeterminate until recently." The two northern groups of islands were therefore given no maritime zones at all and the Zuqur Hanish group was given minimal effect. Eritrea's islands were, on the other hand, all given the usual maritime zones. "It entitles both Eritrean and Yemeni fishermen to engage in artisanal fishing around the islands which, in its first Award on Sovereignty, the Tribunal attributed to Yemen. This is to be understood as including diving carried out by artisanal means for shells and pearls. Equally these fishermen remain entitled freely to use these islands for those purposes traditionally associated with artisanal fishing-the use of islands for drying fish, for way stations, for the provision of temporary shelter and for the effecting of repairs." The Tribunal explicitly noted that "any administrative measures impacting upon these traditional rights shall be taken by Yemen with the agreement of Eritrea". At this juncture, the government of Eritrea wishes to underline the crucial role played by the French government in brokering and making the Arbitration Agreement possible with remarkable competence and commitment, and expresses its gratitude for all its endeavors including its vital contribution to confidence-building in the early days of the dispute. The government of Eritrea also thanks the British government for providing its good offices for the effective functioning of the Arbitration Court in its first session and the International Court of Justice for facilitating the second session of the court. The government of Eritrea expresses its pleasure at the manner in which the dispute has been resolved on the basis of international law and the long-term fraternal interests of both peoples and countries. In this spirit, the government of Eritrea expresses its deep appreciation to the Government and people of Yemen for their exemplary contribution. The government of Eritrea reaffirms that it will be bound by all the decisions of the Arbitration Court as it has consistently done so before and in accordance with the provisions of the Arbitration Agreement signed by both parties on 3rd October 1996.
+
+President Ali Abdallah Salih of Yemen arrived in Asmara on January 20, 2000, on a two-day visit to Eritrea at the invitation of President Isayas Afewerki. Upon arrival at the Asmara International airport, President Salih was received by President Isaias Afewerki and high ranking Eritrean officials. During his stay in Eritrea, President Ali Abdallah Salih and President Isaias will discuss the current situation in the region and ways of strengthening bilateral ties. Eritrea and Yemen will also sign a cooperation agreement on trade, agriculture, energy, transport and general economic cooperation.President Ali Abdallah Salih's visit is expected to boost relations between the two countries.
+
+Yemeni President Ali Abdallah Salih met in Sanaa on 4 April, 2001, with the Eritrean Minister of Foreign Affairs Ali Sayyid Abdallah who conveyed to him a message from his Eritrean counterpart Isayas Afewerki. The message dealt with spheres of joint cooperation and ways of accomplishing the common interests of Yemen and Eritrea, as well as developments in the African Horn region. During the meeting, President Salih underscored Yemen's keenness to boost relations with Eritrea and to push them forward. He also praised the border settlement reached recently by the two neighbors of Eritrea and Ethiopia, emphasizing that the agreement would serve the region's security and peace.
+
+On October 13, 2002, Eritrean President Isayas Afewerki has alleged that, as part of its plans to destabilize Eritrea, the Ethiopian government is deploying what he called agents provocateurs and trying to encircle Eritrea in partnership with Sudan and Yemen. Isayas made this claim in meetings with government officials and members of the public. He told them that Ethiopia was also planning economic sabotage, "unrelenting psychological warfare" and "naked aggression" against Eritrea. 
+
+Eritrea has released 113 Yemeni fishermen who spent a month in detention during a dispute with Yemen over fishing areas around the once-disputed Hunaish archipelago in the southern Red Sea, a report said on July 2, 2003. Eritrean authorities released the fishermen two days ago, the head of the fisheries ministry bureau in the western province of al-Houdieda was quoted as saying by the Yemeni newspaper al-Wahda. Abdul-Wahab al-Khadhir said Eritrea was still holding eight boats belonging to the fishermen which Eritrean navy patrols had intercepted on June 1 in fishing areas shared by the two countries. The Eritrean patrols led the Yemeni boats to an Eritrean harbor where they detained the fishermen and confiscated their boats and equipment. Tensions flared up between the two countries recently over traditional fishing rights around the archipelago. The islands were the subject of a territorial dispute between Yemen and Eritrea, which was resolved in December 1998 when a Hague-based international tribunal granted Yemen sovereignty over most of the islands.
+
+In 1995, the row sparked an armed confrontations leading to the Eritrean occupation of the larger island, Great Hunaish. Since the beginning of 2001, Sanaa and Asmara have been accusing each other of giving erroneous interpretation of the tribunal's verdict. In December 2002, Yemen said in an official statement that Eritrea's explanation of the verdict lacks legal logic. The statement said the verdict gave Yemeni and Eritrean fishermen the same rights to fish off the archipelago.
+
+On 4 January 2004, the Eritrean Foreign Minister Ali Sayyid Abdallah, delivered a message from President Isayas Afewerki to President Ali Abdallah Salih of Yemeni. President Ali Abdallah Salih and Mr Ali Sayyid Abdallah discussed bilateral relations between Eritrea and Yemen and the prevailing situation in our region. Mr Ali Sayyid told President Abdallah Salih that the Ethiopian government was hampering the implementation of the decision by the Eritrea-Ethiopia Boundary Commission EEBC, warning that the hindrance would cause a dangerous situation in our region. He called on Yemen to play a role in the implementation of the decision. Regarding bilateral relations, Mr Ali Sayyid said Eritrea was keen to strengthen its relations with Yemen in the interest of the peoples of the two countries. Wishing President Isayas Afewerki good health, President Ali Abdallah Salih said relations between the two countries and peoples still existed, and it was vital to endeavor to consolidate them. Regarding the border conflict between Eritrea and Ethiopia, President Ali Abdallah Salih said his country believed the decision by the EEBC was final and binding and supported its implementation. Reports received from Yemen indicted that Mr Ali Sayyid also met with his Yemeni counterpart, Dr Abu-Bakr al-Qirbi, where the two discussed bilateral relations, regional issues and the rejection of the decision by the EEBC.
+
+On November 30, 2004, the embassy of Eritrea in Sana'a dismissed news reports that armed clashes had taken place between Yemeni and Eritrean naval forces in the vicinity of the Hanish archipelago as "baseless and fabricated". The embassy affirmed that Eritrean naval forces had not trespassed on Yemeni territorial waters, and noted that the bilateral ties between the two governments are excellent and are witnessing fruitful cooperation in different fields. Meanwhile, the website of 26 September, published by the Yemeni armed forces, quoted an official source at the Ministry of Defense as also refuting reports that intermittent confrontations had occurred offshore near Hanish between the two countries' naval forces. On 26 November, 2004, military sources in the western city of Al-Hudaydah told opposition paper Al-Sahwa, on condition of anonymity that sporadic clashes had recently flared up near those islands between the two states' forces. The sources accused Eritrean forces of violating Yemeni territorial waters and firing at Yemeni troops positioned in the archipelago. Col Abd-al-Hamid Al-Nahari, commander of the western Yemeni islands, declined to comment on the clashes, but told Al-Sahwa that no casualties were reported among the Yemeni troops stationed on Hanish.
+
+In a rare and strategic visit, the Yemeni and Eritrean leaders concluded talks on December 10, 2004, on cooperation in fighting terrorism in the Horn of Africa and settling conflicts between countries in the region. Yemeni President Ali Abdullah Saleh said the three-day talks helped in "removing a lot of misunderstanding," according to the official Saba news agency. Eritrean President Isaias Afwerki said he received a pledge from Yemen to mediate between his country and rivals Sudan and Ethiopia. Eritrea had earlier accused the three countries of forming an alliance against it. Moving past their conflicts, Eritrea and Yemen will be signing a number of treaties of cooperation in the fields of security, investments and commerce. The two nations discussed counterterrorism and coordinated stances on serving security and stability in the region, Saba added. A landmark agreement on fishing in the southern part of the Red Sea-a thorny issue that has plagued the two countries' relations-was signed. The agreement envisages the establishment of an independent investment company with equally shared capital between Eritrea and Yemen to organize fishing in the region. Eight more various agreements will be inked in Asmara on Dec. 24, Saleh said. "What happened was in the past and we should not be pulled toward it," Saleh said of relations with Eritrea. "It has to go away with its negative issues and we have to start anew the relations that we consider excellent." Saleh added that in a meeting with Sudan and Ethiopia next month he will "carry a message as a mediator." "I tell the brothers in Sudan, Ethiopia and Eritrea that everyone should accept the other," he said. Khartoum accuses Eritrea of backing southern Sudanese rebels who have been fighting a civil war against the Sudanese army since 1983-a charge Eritrea denies. Eritrea also fought a border war with Ethiopia between 1998 and 2000 that killed tens of thousands. Afwerki was quoted as saying he is not sensitive to Yemen's alliance with the two countries-a significant change of heart-and thanked Saleh for his mediation.
+
+Yemen and Eritrea held in Sanaa on February 9, 2005, official talks on the fields of the bilateral relations and the current developments in the Middle East and the African Horn, the talks were co-chaired by Foreign Minister Abu Bakr al-Qerbi and his Eritrea counterpart Ali Saeed Abdullah. Al-Qerbi underlined the importance of exchanging visits between officials of two countries, indicating to the historical relations and common interests link the two countries. He pointed out that the talks of presidents Ali Abdullah Saleh and Isayas Afewerki, held in Sana'a last month, opened new horizons of bilateral cooperation between the two counties. The Eritrea Foreign Minister appreciated the role of Yemen in enhancing the security in the region and the Red Sea. 
+
+The first round of the joint Yemeni-Eritrean committee was held in the Eritrean Capital, Asmara on March 8-10, 2005. The two countries signed seven agreements covering mutual cooperation in investment encouragement and protection, oil gas and minerals, culture, tourism, media, and security. However, the Yemenis and Eritreans reached a deadlock regarding establishment of a joint fishing company. Instead, they agreed to set up a technical committee to study the possibility of establishing the joint company. Dr Abu Bakr al-Qirbi, head of the Yemeni delegation, told Saba News Agency upon his arrival in Sana'a, that in the first round several agreements were signed. Meetings in Asmara confirmed the importance of implementing the agreed on terms and preparing practical programs. He also pointed out the relationship between Yemen's and Eritrea's security. "The security of Yemen and Eritrea is part of the security of the region. All should work for the sake of stabilizing it so that the region's countries get a chance for development through their own capacities." Prior to his departure from Asmara, Dr al-Qirbi, along with his Eritrean counterpart Ali Sayid Abdullah, head of the Eritrean side in the committee discussed means of coordination between the ministries of foreign affairs in the two countries, as well as ways to enhance mutual cooperation.
+
+Yemeni Foreign minister Abu-Bakr al-Qerbi met in Sanaa on June 4, 2005, with the foreign minister of Eritrea Ali Said Abdella, minister of fisheries Ahmed Haj Ali and minister of National Development Wolday Futur. The ministers are visiting Yemen to participate in the 15th anniversary of Yemen unification Day, May.22 During the meeting, they discussed the bilateral relations between the two neighbors and the means of enhancing them and the latest political regional and international developments of common concern. They also discussed the project of establishing a joint commercial fishery company.
+
+On June 18, 2005, Yemen denounced the alleged killing of a Yemeni fisherman and the confiscation of his boat by Eritrean soldiers inside Eritrea's territorial waters. President Ali Abdullah Saleh condemned the incident in a telephone conversation with his Eritrean counterpart Isaias Afewerke, the Yemeni news agency SABA reported Saturday. "President Saleh expressed his dismay, noting that the Eritrean authorities could have arrested the fisherman and interrogated him without killing him and seizing his boat," the agency said. Saleh was quoted as saying, "Yemen's territorial waters are open to the brothers in Eritrea and the action against the fisherman was irresponsible and unjustified, and might have (been done) by individuals who are not aware that such acts harm bilateral relations." SABA said Afewerke denied his knowledge of the incident and promised to investigate it. Yemeni opposition officials said the Eritrean authorities have been arresting Yemeni fishermen and confiscating their boats for venturing into Eritrea's territorial waters. They said as many as 50 Yemeni fishermen have been arrested and 14 fishing boats confiscated during the previous week.
+
+On August 12, 2006, the visiting Eritrean government delegation headed by the Secretary of the PFDJ, Mr. Al-Amin Mohammed Seid, delivered a message from President Isaias Afwerki to President Ali Abdalla Saleh of Yemen. The President's focuses on strengthening relations between the two sisterly countries. In the meeting, the Eritrean delegation and President Ali Abdalla Saleh discussed issues of mutual concern to Eritrea and Yemen. Stating the significance of boosting all-round Eritrean-Yemeni cooperation, President Ali Abdalla Saleh gave directives to pertinent Yemeni government institutions so as to carrying out joint tasks to r realize this set objective. Earlier, the delegation held talks with the Deputy Secretary General of the General People's Congress, Mr. Sultan Al-Burkani and other officials at the Party headquarters. The talks dealt with political relations between the PFDJ and the General People's Congress, as well as the role of both organizations in the implementations of the agreements concluded between Eritrea and Yemen. The two sides also agreed that Eritrea and Yemen should share common views on regional and international issues of mutual concern. The Eritrean delegation left for Yemen yesterday on a working visit. On arrival in Sana'a, the delegation was welcomed by the Deputy Secretary General of the General People's Congress, Mr. Sultan Al-Burkani, the Minister of Health and Housing, Dr. Adelkerim Wasi'e, the Deputy Director of the Office of the Yemeni President, Dr, Abdelhadi Al-Hamedani, and other officials, as well as heads and members of the Eritrean Embassy. On departure for Sana'a, Mr. Al-Amin Mohammed Seid told the Eritrean News Agency that the visit is in continuation of the contacts between the two countries to strengthen Eritrean-Yemeni relations. He further explained that in the course of its stay, the delegation would hold talks with Yemeni officials on the implementation of previously concluded cooperation agreements in the spheres of economy, tourism, fisheries, oil exploration and others. The PFDJ official pointed out to journalists on arrival in Sana'a that the delegation and Yemeni officials would exchange views on bilateral and regional issues of mutual concern to both countries.
+
+On August 14, 2006, the Republic of Yemen and Eritrea agreed to form a joint high executive committee have influential authority to contribute in enhancing mutual cooperation relations and developing them in various aspects. The agreement was ratified by the two sides at end of 2-day talks held in Sana'a on Monday and co-chaired by Foreign and Expatriates Affairs Dr. Abu Baker Al Qirbi and General Secretary of Popular Front for Democracy and Justice of Eritrea Ameen Mohammed Saeed. The talks focused on discussions and evaluation of mutual cooperation relations between the two countries and horizons of strengthening and extending them in various fields as well as evaluating level of implementing of cooperation included in the minutes of the first session of joint committee signed in Asmara in March 10, 2005. During the talks the two sides exchanged viewpoints over the latest regional and international developments, especially the situation in Somalia, Lebanon, Palestine, Iraq and Horn of Africa. The two sides signed minutes of the talks which stipulated to form the joint Yemeni-Eritrean High Executive Committee to strengthen cooperation relations between the two countries.
+
+On November 10, 2006, Eritrea and Yemen concluded an agreement on the establishment of a Joint Fisheries Company. The Company would carry out fishing activities, as well as the processing and canning of different fish products. The agreement includes provisions on general main principles with regards to capital, infrastructure utilization, human resources and others. Concerning the detailed outline of the agreement, a meeting would be held in Sana'a, Yemen, after two months. As regards the implementation of the agreement, a detailed timeframe has already been drawn up. As indicated in the agreement, the necessary technical preparation based on appropriate study would be undertaken so as to ensure that the Company serves the interest of both peoples. The agreement was signed on the Eritrean side by Dr. Matewos Woldu, Economic Advisor in the Ministry of National Development, and on the Yemeni side by the Deputy Minister of Fisheries, Mr. Abdelhafez Naji, who headed the Yemeni delegation. The agreement was concluded following discussions that the Joint Eritrean-Yemeni Technical Committee has been conducting since November 8, 2006, in Asmara on the draft document presented by the Eritrean technical committee. The Eritrean Technical Committee is made up of members from the ministries of national development, fisheries, foreign affairs and the National Fisheries Corporation.
+
+SOURCES-CM: 
+Sources: Associated Press (AP), November 17, 1995, December 17, 1995, December 18, 1995, December 20, 1995, October 9, 1998; Foreign Broadcast Information Service (FBIS), December 18, 1995, December 19, 1995, December 20, 1995, December 21, 1995, December 22, 1995, December 26, 1995, December 27, 1995, December 28, 1995, December 29, 1995, January 2, 1996, January 3, 1996, January 4, 1996, January 5, 1996, January 11, 1996, January 16, 1996, January 17, 1996, January 26, 1996, January 29, 1996; International Committee of the Red Cross (ICRC) press release, December 30, 1995; Keesing, December 1995, January 1996; Middle East News Agency (MENA), January 6, 1996, May 2, 1996, October 9, 1998; Reuters, December 18, 1995, December 20, 1995, December 29, 1995, August 17, 1996, October 9, 1998; Deutsche Presse Agentur August 23, 1999; July 2, 2003; December 10, 2004; Associated Press December 10, 2004; Yemen News Agency March 10, 2005; June 4, 2005; August 14, 2006; BBC December 26, 1999; April 6, 2001; October 15, 2002; January 4, 2004; December 1, 2004; December 11, 2004; February 9, 2005; February 10, 2005; March 10, 2005; March 11, 2005; March 15, 2005; June 22, 2005; August 13, 2006; Africa News January 20, 2000; August 12, 2006; November 10, 2006; 
+
+NARRATIVE-CR:
+Eritrea and Yemen disputed the sovereignty of the Hanish Islands in the Red Sea following Eritrea's independence from Ethiopia on May 24, 1993. This provided the basis for the rivalry between these two states throughout most of the 1990s.
+
+MID4121 began when Eritrean troops landed on the Hanish Islands on November 15, 1995. Eritrean and Yemeni representatives held negotiations regarding the Hanish Islands between November 22 and December 10, 1995. Eritrean and Yemeni troops clashed near the Hanish Islands on December 15-18, 1995, resulting in the deaths of 12 individuals. The presidents of Eritrea and Yemen agreed to a cessation of military hostilities on December 17, 1995. Eritrean troops and Yemeni troops clashed near the Hanish Islands on December 26, 1995. Francis Gutmann of France mediated the signing of the Agreement on Principles in Paris by the countries on May 21, 1996, which provided for the renunciation of the use of force and the peaceful settlement of the dispute. On May 30, 1996, Eritrea and Yemen agreed to French supervision of Eritrean and Yemeni military movements near the disputed islands. Eritrean troops captured Lesser Hanish Island from Yemeni troops on August 18, 1996. The United Nations (UN) Security Council demanded the withdrawal of Eritrean troops from Lesser Hanish Island on August 22, 1996. France mediated the signing of an agreement between Eritrean and Yemeni representatives in Paris on October 3, 1996, which provided for the submission of the dispute to the Permanent Court of Arbitration (PCA). 
+
+I was unable to find any information on MID4132, which was supposed to have occurred between May and July of 1997. It is a safe assumption though that it revolved around the Hansih Islands issues, as the rest of the disputes between these countries did.
+
+The five-member PCA tribunal issued a decision concerning the Hanish Islands in favor of Yemen on October 8, 1998. 
+
+MID4200 revolved around the seizure of six Yemeni fishing vessels and 24 Yemeni fishermen by Eritrea in the area of the Hanish Islands in August of 1999.
+
+The five-member PCA tribunal issued a decision concerning the demarcation of the maritime border between Eritrea and Yemen on December 17, 1999. This decision may provide the basis for the termination of the rivalry as it establishes an agreement over the dispute that formed the basis for the rivalry. However, because there was a dispute in August of 1999, it is too soon to determine whether or not the rivalry will continue into the future.
+
+Once the Hanaish Islands dispute ended with the International Court of Justice's ruling and the negotiations between the two countries regarding their maritime dispute, the rivalry continued with sporadic fighting around the Hanaish Islands and Eritrea continued to suspect Yemen of working together with Ethiopia and Sudan to destabilize it. There are some small steps towards cooperation (joint fishing company), but in general, the tension over security in the region persists. 
+
+The Yemeni press charged on August 23, 1999, that Eritrea was still seizing Yemeni fishing vessels from territorial waters, and referred to 24 fishermen detained by the Eritreans. The al-Shouri newspaper in Sanaa said that "piracy" against Yemeni vessels by the Eritrean patrols has been repeated, and that a patrol of the Eritrean coastal guard on Saturday seized six Yemeni fishing vessels along with the 24 fishermen aboard who were fishing in the high seas. It said that the fishermen have made several petitions to the Yemeni government for intervention on their behalf to end such "assaults". Yemen and Eritrea had a territorial water dispute that flared after Eritrea seized the island of Greater Hanish in 1975. The international court of justice ruled the return of the island to Yemen in May 1998.
+
+An agreement has been reached in London between Eritrea and Yemen over their maritime border and disputed islands on December 17, 1999. The Arbitration Tribunal formed to adjudicate the territorial sovereignty of islands in the Red Sea and to delimit the international maritime boundary between the two countries announced its second and final award on Friday 17th December 1999, in London. The foreign minister of Eritrea, Haile Woldentensae, and the ambassador to London from Yemen, Dr Husayn Abdullah al-Amri, received the award. The decision of the five judges of the Arbitration Tribunal was unanimous. The main decisions of the Arbitration Tribunal in the second award constitute, inter alia: "That the international boundary shall be a single all-purpose boundary which is a median line and that it should, as far as practicable, be a median line between the opposite mainland coastlines." The primary consideration influencing the decision is the fact that "title over Jabal al-Tayar and the Zubayr group and over the Zuqur-Hanish group was found by the Tribunal to be indeterminate until recently." The two northern groups of islands were therefore given no maritime zones at all and the Zuqur Hanish group was given minimal effect. Eritrea's islands were, on the other hand, all given the usual maritime zones. "It entitles both Eritrean and Yemeni fishermen to engage in artisanal fishing around the islands which, in its first Award on Sovereignty, the Tribunal attributed to Yemen. This is to be understood as including diving carried out by artisanal means for shells and pearls. Equally these fishermen remain entitled freely to use these islands for those purposes traditionally associated with artisanal fishing-the use of islands for drying fish, for way stations, for the provision of temporary shelter and for the effecting of repairs." The Tribunal explicitly noted that "any administrative measures impacting upon these traditional rights shall be taken by Yemen with the agreement of Eritrea". At this juncture, the government of Eritrea wishes to underline the crucial role played by the French government in brokering and making the Arbitration Agreement possible with remarkable competence and commitment, and expresses its gratitude for all its endeavors including its vital contribution to confidence-building in the early days of the dispute. The government of Eritrea also thanks the British government for providing its good offices for the effective functioning of the Arbitration Court in its first session and the International Court of Justice for facilitating the second session of the court. The government of Eritrea expresses its pleasure at the manner in which the dispute has been resolved on the basis of international law and the long-term fraternal interests of both peoples and countries. In this spirit, the government of Eritrea expresses its deep appreciation to the Government and people of Yemen for their exemplary contribution. The government of Eritrea reaffirms that it will be bound by all the decisions of the Arbitration Court as it has consistently done so before and in accordance with the provisions of the Arbitration Agreement signed by both parties on 3rd October 1996.
+
+President Ali Abdallah Salih of Yemen arrived in Asmara on January 20, 2000, on a two-day visit to Eritrea at the invitation of President Isayas Afewerki. Upon arrival at the Asmara International airport, President Salih was received by President Isaias Afewerki and high ranking Eritrean officials. During his stay in Eritrea, President Ali Abdallah Salih and President Isaias will discuss the current situation in the region and ways of strengthening bilateral ties. Eritrea and Yemen will also sign a cooperation agreement on trade, agriculture, energy, transport and general economic cooperation.President Ali Abdallah Salih's visit is expected to boost relations between the two countries.
+
+Yemeni President Ali Abdallah Salih met in Sanaa on 4 April, 2001, with the Eritrean Minister of Foreign Affairs Ali Sayyid Abdallah who conveyed to him a message from his Eritrean counterpart Isayas Afewerki. The message dealt with spheres of joint cooperation and ways of accomplishing the common interests of Yemen and Eritrea, as well as developments in the African Horn region. During the meeting, President Salih underscored Yemen's keenness to boost relations with Eritrea and to push them forward. He also praised the border settlement reached recently by the two neighbors of Eritrea and Ethiopia, emphasizing that the agreement would serve the region's security and peace.
+
+On October 13, 2002, Eritrean President Isayas Afewerki has alleged that, as part of its plans to destabilize Eritrea, the Ethiopian government is deploying what he called agents provocateurs and trying to encircle Eritrea in partnership with Sudan and Yemen. Isayas made this claim in meetings with government officials and members of the public. He told them that Ethiopia was also planning economic sabotage, "unrelenting psychological warfare" and "naked aggression" against Eritrea. 
+
+Eritrea has released 113 Yemeni fishermen who spent a month in detention during a dispute with Yemen over fishing areas around the once-disputed Hunaish archipelago in the southern Red Sea, a report said on July 2, 2003. Eritrean authorities released the fishermen two days ago, the head of the fisheries ministry bureau in the western province of al-Houdieda was quoted as saying by the Yemeni newspaper al-Wahda. Abdul-Wahab al-Khadhir said Eritrea was still holding eight boats belonging to the fishermen which Eritrean navy patrols had intercepted on June 1 in fishing areas shared by the two countries. The Eritrean patrols led the Yemeni boats to an Eritrean harbor where they detained the fishermen and confiscated their boats and equipment. Tensions flared up between the two countries recently over traditional fishing rights around the archipelago. The islands were the subject of a territorial dispute between Yemen and Eritrea, which was resolved in December 1998 when a Hague-based international tribunal granted Yemen sovereignty over most of the islands.
+In 1995, the row sparked an armed confrontations leading to the Eritrean occupation of the larger island, Great Hunaish. Since the beginning of 2001, Sanaa and Asmara have been accusing each other of giving erroneous interpretation of the tribunal's verdict. In December 2002, Yemen said in an official statement that Eritrea's explanation of the verdict lacks legal logic. The statement said the verdict gave Yemeni and Eritrean fishermen the same rights to fish off the archipelago.
+
+On 4 January 2004, the Eritrean Foreign Minister Ali Sayyid Abdallah, delivered a message from President Isayas Afewerki to President Ali Abdallah Salih of Yemeni. President Ali Abdallah Salih and Mr Ali Sayyid Abdallah discussed bilateral relations between Eritrea and Yemen and the prevailing situation in our region. Mr Ali Sayyid told President Abdallah Salih that the Ethiopian government was hampering the implementation of the decision by the Eritrea-Ethiopia Boundary Commission EEBC, warning that the hindrance would cause a dangerous situation in our region. He called on Yemen to play a role in the implementation of the decision. Regarding bilateral relations, Mr Ali Sayyid said Eritrea was keen to strengthen its relations with Yemen in the interest of the peoples of the two countries. Wishing President Isayas Afewerki good health, President Ali Abdallah Salih said relations between the two countries and peoples still existed, and it was vital to endeavor to consolidate them. Regarding the border conflict between Eritrea and Ethiopia, President Ali Abdallah Salih said his country believed the decision by the EEBC was final and binding and supported its implementation. Reports received from Yemen indicted that Mr Ali Sayyid also met with his Yemeni counterpart, Dr Abu-Bakr al-Qirbi, where the two discussed bilateral relations, regional issues and the rejection of the decision by the EEBC.
+
+On November 30, 2004, the embassy of Eritrea in Sana'a dismissed news reports that armed clashes had taken place between Yemeni and Eritrean naval forces in the vicinity of the Hanish archipelago as "baseless and fabricated". The embassy affirmed that Eritrean naval forces had not trespassed on Yemeni territorial waters, and noted that the bilateral ties between the two governments are excellent and are witnessing fruitful cooperation in different fields. Meanwhile, the website of 26 September, published by the Yemeni armed forces, quoted an official source at the Ministry of Defense as also refuting reports that intermittent confrontations had occurred offshore near Hanish between the two countries' naval forces. On 26 November, 2004, military sources in the western city of Al-Hudaydah told opposition paper Al-Sahwa, on condition of anonymity that sporadic clashes had recently flared up near those islands between the two states' forces. The sources accused Eritrean forces of violating Yemeni territorial waters and firing at Yemeni troops positioned in the archipelago. Col Abd-al-Hamid Al-Nahari, commander of the western Yemeni islands, declined to comment on the clashes, but told Al-Sahwa that no casualties were reported among the Yemeni troops stationed on Hanish.
+
+In a rare and strategic visit, the Yemeni and Eritrean leaders concluded talks on December 10, 2004, on cooperation in fighting terrorism in the Horn of Africa and settling conflicts between countries in the region. Yemeni President Ali Abdullah Saleh said the three-day talks helped in "removing a lot of misunderstanding," according to the official Saba news agency. Eritrean President Isaias Afwerki said he received a pledge from Yemen to mediate between his country and rivals Sudan and Ethiopia. Eritrea had earlier accused the three countries of forming an alliance against it. Moving past their conflicts, Eritrea and Yemen will be signing a number of treaties of cooperation in the fields of security, investments and commerce. The two nations discussed counterterrorism and coordinated stances on serving security and stability in the region, Saba added. A landmark agreement on fishing in the southern part of the Red Sea-a thorny issue that has plagued the two countries' relations-was signed. The agreement envisages the establishment of an independent investment company with equally shared capital between Eritrea and Yemen to organize fishing in the region. Eight more various agreements will be inked in Asmara on Dec. 24, Saleh said. "What happened was in the past and we should not be pulled toward it," Saleh said of relations with Eritrea. "It has to go away with its negative issues and we have to start anew the relations that we consider excellent." Saleh added that in a meeting with Sudan and Ethiopia next month he will "carry a message as a mediator." "I tell the brothers in Sudan, Ethiopia and Eritrea that everyone should accept the other," he said. Khartoum accuses Eritrea of backing southern Sudanese rebels who have been fighting a civil war against the Sudanese army since 1983-a charge Eritrea denies. Eritrea also fought a border war with Ethiopia between 1998 and 2000 that killed tens of thousands. Afwerki was quoted as saying he is not sensitive to Yemen's alliance with the two countries-a significant change of heart-and thanked Saleh for his mediation.
+
+Yemen and Eritrea held in Sanaa on February 9, 2005, official talks on the fields of the bilateral relations and the current developments in the Middle East and the African Horn, the talks were co-chaired by Foreign Minister Abu Bakr al-Qerbi and his Eritrea counterpart Ali Saeed Abdullah. Al-Qerbi underlined the importance of exchanging visits between officials of two countries, indicating to the historical relations and common interests link the two countries. He pointed out that the talks of presidents Ali Abdullah Saleh and Isayas Afewerki, held in Sana'a last month, opened new horizons of bilateral cooperation between the two counties. The Eritrea Foreign Minister appreciated the role of Yemen in enhancing the security in the region and the Red Sea. 
+
+The first round of the joint Yemeni-Eritrean committee was held in the Eritrean Capital, Asmara on March 8-10, 2005. The two countries signed seven agreements covering mutual cooperation in investment encouragement and protection, oil gas and minerals, culture, tourism, media, and security. However, the Yemenis and Eritreans reached a deadlock regarding establishment of a joint fishing company. Instead, they agreed to set up a technical committee to study the possibility of establishing the joint company. Dr Abu Bakr al-Qirbi, head of the Yemeni delegation, told Saba News Agency upon his arrival in Sana'a, that in the first round several agreements were signed. Meetings in Asmara confirmed the importance of implementing the agreed on terms and preparing practical programs. He also pointed out the relationship between Yemen's and Eritrea's security. "The security of Yemen and Eritrea is part of the security of the region. All should work for the sake of stabilizing it so that the region's countries get a chance for development through their own capacities." Prior to his departure from Asmara, Dr al-Qirbi, along with his Eritrean counterpart Ali Sayid Abdullah, head of the Eritrean side in the committee discussed means of coordination between the ministries of foreign affairs in the two countries, as well as ways to enhance mutual cooperation.
+
+Yemeni Foreign minister Abu-Bakr al-Qerbi met in Sanaa on June 4, 2005, with the foreign minister of Eritrea Ali Said Abdella, minister of fisheries Ahmed Haj Ali and minister of National Development Wolday Futur. The ministers are visiting Yemen to participate in the 15th anniversary of Yemen unification Day, May.22 During the meeting, they discussed the bilateral relations between the two neighbors and the means of enhancing them and the latest political regional and international developments of common concern. They also discussed the project of establishing a joint commercial fishery company.
+
+On June 18, 2005, Yemen denounced the alleged killing of a Yemeni fisherman and the confiscation of his boat by Eritrean soldiers inside Eritrea's territorial waters. President Ali Abdullah Saleh condemned the incident in a telephone conversation with his Eritrean counterpart Isaias Afewerke, the Yemeni news agency SABA reported Saturday. "President Saleh expressed his dismay, noting that the Eritrean authorities could have arrested the fisherman and interrogated him without killing him and seizing his boat," the agency said. Saleh was quoted as saying, "Yemen's territorial waters are open to the brothers in Eritrea and the action against the fisherman was irresponsible and unjustified, and might have (been done) by individuals who are not aware that such acts harm bilateral relations." SABA said Afewerke denied his knowledge of the incident and promised to investigate it. Yemeni opposition officials said the Eritrean authorities have been arresting Yemeni fishermen and confiscating their boats for venturing into Eritrea's territorial waters. They said as many as 50 Yemeni fishermen have been arrested and 14 fishing boats confiscated during the previous week.
+
+On August 12, 2006, the visiting Eritrean government delegation headed by the Secretary of the PFDJ, Mr. Al-Amin Mohammed Seid, delivered a message from President Isaias Afwerki to President Ali Abdalla Saleh of Yemen. The President's focuses on strengthening relations between the two sisterly countries. In the meeting, the Eritrean delegation and President Ali Abdalla Saleh discussed issues of mutual concern to Eritrea and Yemen. Stating the significance of boosting all-round Eritrean-Yemeni cooperation, President Ali Abdalla Saleh gave directives to pertinent Yemeni government institutions so as to carrying out joint tasks to r realize this set objective. Earlier, the delegation held talks with the Deputy Secretary General of the General People's Congress, Mr. Sultan Al-Burkani and other officials at the Party headquarters. The talks dealt with political relations between the PFDJ and the General People's Congress, as well as the role of both organizations in the implementations of the agreements concluded between Eritrea and Yemen. The two sides also agreed that Eritrea and Yemen should share common views on regional and international issues of mutual concern. The Eritrean delegation left for Yemen yesterday on a working visit. On arrival in Sana'a, the delegation was welcomed by the Deputy Secretary General of the General People's Congress, Mr. Sultan Al-Burkani, the Minister of Health and Housing, Dr. Adelkerim Wasi'e, the Deputy Director of the Office of the Yemeni President, Dr, Abdelhadi Al-Hamedani, and other officials, as well as heads and members of the Eritrean Embassy. On departure for Sana'a, Mr. Al-Amin Mohammed Seid told the Eritrean News Agency that the visit is in continuation of the contacts between the two countries to strengthen Eritrean-Yemeni relations. He further explained that in the course of its stay, the delegation would hold talks with Yemeni officials on the implementation of previously concluded cooperation agreements in the spheres of economy, tourism, fisheries, oil exploration and others. The PFDJ official pointed out to journalists on arrival in Sana'a that the delegation and Yemeni officials would exchange views on bilateral and regional issues of mutual concern to both countries.
+
+On August 14, 2006, the Republic of Yemen and Eritrea agreed to form a joint high executive committee have influential authority to contribute in enhancing mutual cooperation relations and developing them in various aspects. The agreement was ratified by the two sides at end of 2-day talks held in Sana'a on Monday and co-chaired by Foreign and Expatriates Affairs Dr. Abu Baker Al Qirbi and General Secretary of Popular Front for Democracy and Justice of Eritrea Ameen Mohammed Saeed. The talks focused on discussions and evaluation of mutual cooperation relations between the two countries and horizons of strengthening and extending them in various fields as well as evaluating level of implementing of cooperation included in the minutes of the first session of joint committee signed in Asmara in March 10, 2005. During the talks the two sides exchanged viewpoints over the latest regional and international developments, especially the situation in Somalia, Lebanon, Palestine, Iraq and Horn of Africa. The two sides signed minutes of the talks which stipulated to form the joint Yemeni-Eritrean High Executive Committee to strengthen cooperation relations between the two countries.
+
+On November 10, 2006, Eritrea and Yemen concluded an agreement on the establishment of a Joint Fisheries Company. The Company would carry out fishing activities, as well as the processing and canning of different fish products. The agreement includes provisions on general main principles with regards to capital, infrastructure utilization, human resources and others. Concerning the detailed outline of the agreement, a meeting would be held in Sana'a, Yemen, after two months. As regards the implementation of the agreement, a detailed timeframe has already been drawn up. As indicated in the agreement, the necessary technical preparation based on appropriate study would be undertaken so as to ensure that the Company serves the interest of both peoples. The agreement was signed on the Eritrean side by Dr. Matewos Woldu, Economic Advisor in the Ministry of National Development, and on the Yemeni side by the Deputy Minister of Fisheries, Mr. Abdelhafez Naji, who headed the Yemeni delegation. The agreement was concluded following discussions that the Joint Eritrean-Yemeni Technical Committee has been conducting since November 8, 2006, in Asmara on the draft document presented by the Eritrean technical committee. The Eritrean Technical Committee is made up of members from the ministries of national development, fisheries, foreign affairs and the National Fisheries Corporation.
+
+SOURCES-CR: 
+See above; Deutsch Presse-Agentur, August 23 1999; Deutsche Presse Agentur August 23, 1999; July 2, 2003; December 10, 2004; Associated Press December 10, 2004; Yemen News Agency March 10, 2005; June 4, 2005; August 14, 2006; BBC December 26, 1999; April 6, 2001; October 15, 2002; January 4, 2004; December 1, 2004; December 11, 2004; February 9, 2005; February 10, 2005; March 10, 2005; March 11, 2005; March 15, 2005; June 22, 2005; August 13, 2006; Africa News January 20, 2000; August 12, 2006; November 10, 2006; BBC February 21, 1994; May 14, 1994; December 19, 1994; October 12, 1995; November 19, 1995; Xinhua April 9, 1994; May 17, 1994; Deutsch Presse-Agentur, August 23 1999; Deutsche Presse Agentur August 23, 1999; July 2, 2003; December 10, 2004; Associated Press December 10, 2004; Yemen News Agency March 10, 2005; June 4, 2005; August 14, 2006; BBC December 26, 1999; April 6, 2001; October 15, 2002; January 4, 2004; December 1, 2004; December 11, 2004; February 9, 2005; February 10, 2005; March 10, 2005; March 11, 2005; March 15, 2005; June 22, 2005; August 13, 2006; Africa News January 20, 2000; August 12, 2006; November 10, 2006
+
+PS-NARRATIVE: 
+
+PS-SOURCES: 
+
+MARITIME-MIDS: MID4200
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID4200
+ DYAD: ERITREA YEMEN (UNIFIED) 531679
+ DATES: 19990821 19990821
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4200 revolved around the seizure of six Yemeni fishing vessels and 24 Yemeni fishermen by Eritrea in the area of the Hanish Islands in August of 1999.
+The Yemeni press charged on August 23, 1999, that Eritrea was still seizing Yemeni fishing vessels from territorial waters, and referred to 24 fishermen detained by the Eritreans. The al-Shouri newspaper in Sanaa said that "piracy" against Yemeni vessels by the Eritrean patrols has been repeated, and that a patrol of the Eritrean coastal guard on Saturday seized six Yemeni fishing vessels along with the 24 fishermen aboard who were fishing in the high seas. It said that the fishermen have made several petitions to the Yemeni government for intervention on their behalf to end such "assaults".
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Lefebvre, J.A. 1998. Red Sea Security and the Geopolitical Economy of the Hanish Islands Dispute. Middle East Journal. 52(#):367-385.
+
+Permanent Court of Arbitration. Eritrea/Yemen - Sovereignty and Maritime Delimitation in the Red Sea. https://pca-cpa.org/en/cases/81/

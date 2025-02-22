@@ -1,0 +1,428 @@
+FILE: cm471475v11.0.txt
+DYAD: CAMEROON-NIGERIA
+RIVALRY: RIV1081
+DISPUTE(S): MID3104 MID3103 MID2807 MID4119 MID4165 MID4166 MID4250 
+RIVNOTES: 
+
+PS: 19601001-19810514 0.5 19810515-20021009 0.00 20021010-20060611 -9 20060612-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220312
+PS-LAST-CHECKED: 20220312
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3104 
+
+TERRMID: MID3104 1 -- territorial MID
+TERRMID-CER: MID3104 1 -- certain 
+TERRMID-NOTES: MID3104 from cm narrative, Cameroon and Nigeria disputed land and maritime borders. From Gibler 2018, in 1981 Cameroon fired on a Nigerian patrol boat in the Cross River, which flows across the disputed border between the countries. Coded territorial MID because this was connected to a territorial border dispute. 
+
+TERRLINK: MID3104 3 -- not third party link to territory 
+TERRLINK-CER: MID3104 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3104 1 -- maritime MID
+MARITMID-CER: MID3104 1 -- certain
+MARITMID-NOTES: MID3104 coded maritime MID because the Cross River connects to the waters of the Bakassi Peninsula, a disputed land area with disputed waters around it, and sovereignty over the Cross River therefore has implications for the disputed waters. 
+
+ISLMID: MID3104 3 -- not islands 
+ISLMID-CER: MID3104 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3104 3 -- not civil war 
+CIVWARMID-CER: MID3104 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3104 3 -- not civil war link
+CIVWARLINK-CER: MID3104 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3104 3 -- not coup 
+COUPMID-CER: MID3104 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3104 3 -- not coup link
+COUPLINK-CER: MID3104 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3103
+
+TERRMID: MID3103 1 -- territorial MID
+TERRMID-CER: MID3103 3 -- uncertain 
+TERRMID-NOTES: MID3103 coded territorial MID because the disputed waters between Nigeria and Cameroon were connected to sovereignty over the Bakassi peninsula, a land territorial dispute. Coded uncertain because GML 2016 recommend this case be dropped. See maritmid-notes. 
+
+TERRLINK: MID3103 3 -- not third party link to territory 
+TERRLINK-CER: MID3103 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3103 1 -- maritime MID 
+MARITMID-CER: MID3103 3 -- uncertain
+MARITMID-NOTES: MID3103 from Gibler, Miller, and Little 2016, this is coded as a MID because Cameroon warned its citizens of "molestations" of fishing vessels in the disputed waters by Nigeria. However, GML argue this case should be dropped since this statement does not amount to a protest and there is no indication that Nigeria actually did anything aggressive toward Cameroon fishermen. We therefore code this uncertain. 
+
+ISLMID: MID3103 3 -- not islands 
+ISLMID-CER: MID3103 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3103 3 -- not civil war 
+CIVWARMID-CER: MID3103 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3103 3 -- not civil war link
+CIVWARLINK-CER: MID3103 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3103 3 -- not coup 
+COUPMID-CER: MID3103 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3103 3 -- not coup link
+COUPLINK-CER: MID3103 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2807
+
+TERRMID: MID2807 1 -- territorial MID
+TERRMID-CER: MID2807 1 -- certain 
+TERRMID-NOTES: MID2807 from Gibler 2018, Cameroon soldiers occupied numerous Nigerian border villages until Nigerian troops expelled them. Coded territorial MID because this was connected to a territorial dispute between Nigeria and Cameroon. 
+
+TERRLINK: MID2807 3 -- not third party link to territory 
+TERRLINK-CER: MID2807 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2807 3 -- not maritime 
+MARITMID-CER: MID2807 1 -- certain
+MARITMID-NOTES: MID2807 from cm narrative, this MID took place in Borno province. This is in the northern part of Nigeria and is not connected to the Bakassi Peninsula dispute in the south. There are no maritime possessions near Borno. 
+
+ISLMID: MID2807 3 -- not islands 
+ISLMID-CER: MID2807 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2807 3 -- not civil war 
+CIVWARMID-CER: MID2807 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2807 3 -- not civil war link
+CIVWARLINK-CER: MID2807 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2807 3 -- not coup 
+COUPMID-CER: MID2807 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2807 3 -- not coup link
+COUPLINK-CER: MID2807 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4119
+
+TERRMID: MID4119 1 -- territorial MID
+TERRMID-CER: MID4119 1 -- certain 
+TERRMID-NOTES: MID4119 from Gibler 2018, this is a clash between Nigeria and Cameroon over the disputed Bakassi Peninsula, which had oil deposits. Coded territorial MID because this was connected to a terirtorial dispute. 
+
+TERRLINK: MID4119 3 -- not third party link to territory 
+TERRLINK-CER: MID4119 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4119 1 -- maritime
+MARITMID-CER: MID4119 1 -- certain
+MARITMID-NOTES: MID4119 Coded maritime as well because the Bakassi Peninsula's sovereignty has ramifications for the maritime border dispute between the two countries (see disputants' and ICJ position on the matter; 1998 Judgment, p. 320).
+
+ISLMID: MID4119 3 -- not islands 
+ISLMID-CER: MID4119 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4119 3 -- not civil war 
+CIVWARMID-CER: MID4119 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4119 3 -- not civil war link
+CIVWARLINK-CER: MID4119 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4119 3 -- not coup 
+COUPMID-CER: MID4119 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4119 3 -- not coup link
+COUPLINK-CER: MID4119 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4165
+
+TERRMID: MID4165 1 -- territorial MID
+TERRMID-CER: MID4165 1 -- certain 
+TERRMID-NOTES: MID4165 from Gibler 2018, troops from Cameroon attacked and occupied a Nigerian border post until Nigerian troops expelled them in 1995. Coded territorial MID because this was connected to a territorial dispute over the Bakassi Peninsula. 
+
+TERRLINK: MID4165 3 -- not third party link to territory 
+TERRLINK-CER: MID4165 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4165 1 -- maritime MID
+MARITMID-CER: MID4165 1 -- certain
+MARITMID-NOTES: MID4165 Coded maritime as well because the Bakassi Peninsula's sovereignty has ramifications for the maritime border dispute between the two countries (see ICJ case).
+
+ISLMID: MID4165 3 -- not islands 
+ISLMID-CER: MID4165 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4165 3 -- not civil war 
+CIVWARMID-CER: MID4165 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4165 3 -- not civil war link
+CIVWARLINK-CER: MID4165 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4165 3 -- not coup 
+COUPMID-CER: MID4165 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4165 3 -- not coup link
+COUPLINK-CER: MID4165 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4166
+
+TERRMID: MID4166 1 -- territorial MID
+TERRMID-CER: MID4166 1 -- certain 
+TERRMID-NOTES: MID4166 from Gibler 2018, this is another clash over the disputed Bakassi Peninsula which occurred from 1996-1997. Coded territorial MID because this was connected to a territorial boundary dispute. 
+
+TERRLINK: MID4166 3 -- not third party link to territory 
+TERRLINK-CER: MID4166 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4166 1 -- maritime 
+MARITMID-CER: MID4166 1 -- certain
+MARITMID-NOTES: MID4166 Coded maritime as well because the Bakassi Peninsula's sovereignty has ramifications for the maritime border dispute between the two countries (see disputants' and ICJ position on the matter; 1998 Judgment, p. 320).
+
+ISLMID: MID4166 3 -- not islands 
+ISLMID-CER: MID4166 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4166 3 -- not civil war 
+CIVWARMID-CER: MID4166 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4166 3 -- not civil war link
+CIVWARLINK-CER: MID4166 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4166 3 -- not coup 
+COUPMID-CER: MID4166 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4166 3 -- not coup link
+COUPLINK-CER: MID4166 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4250
+
+TERRMID: MID4250 1 -- territorial MID
+TERRMID-CER: MID4250 1 -- certain 
+TERRMID-NOTES: MID4250 from Gibler 2018, in 1998 Nigerian and Cameroonian soldiers clashed over the disputed Bakassi peninsula as the ICJ was considering their case. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID4250 3 -- not third party link to territory 
+TERRLINK-CER: MID4250 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4250 1 -- maritime 
+MARITMID-CER: MID4250 1 -- certain
+MARITMID-NOTES: MID4250 Coded maritime as well because the Bakassi Peninsula's sovereignty has ramifications for the maritime border dispute between the two countries (see disputants' and ICJ position on the matter; 1998 Judgment, p. 320).
+
+ISLMID: MID4250 3 -- not islands 
+ISLMID-CER: MID4250 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4250 3 -- not civil war 
+CIVWARMID-CER: MID4250 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4250 3 -- not civil war link
+CIVWARLINK-CER: MID4250 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4250 3 -- not coup 
+COUPMID-CER: MID4250 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4250 3 -- not coup link
+COUPLINK-CER: MID4250 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4380
+
+TERRMID: MID4380 1 -- territorial MID
+TERRMID-CER: MID4380 1 -- certain 
+TERRMID-NOTES: MID4380 from Gibler 2018, this MID occurred in 2005 and is another clash over the disputed Bakassi peninsula. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID4380 3 -- not third party link to territory 
+TERRLINK-CER: MID4380 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4380 1 -- maritime 
+MARITMID-CER: MID4380 1 -- certain
+MARITMID-NOTES: MID4380 Coded maritime as well because the Bakassi Peninsula's sovereignty has ramifications for the maritime border dispute between the two countries (see disputants' and ICJ position on the matter; 1998 Judgment, p. 320).
+
+ISLMID: MID4380 3 -- not islands 
+ISLMID-CER: MID4380 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4380 3 -- not civil war 
+CIVWARMID-CER: MID4380 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4380 3 -- not civil war link
+CIVWARLINK-CER: MID4380 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4380 3 -- not coup 
+COUPMID-CER: MID4380 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4380 3 -- not coup link
+COUPLINK-CER: MID4380 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4380
+rivalry=471475 nationa=CAMEROUN nationb=NIGERIA MID4380 20050618-20050618 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=1
+lhostb=NO MILITARIZED ACTION 
+
+Nigerian and Cameroonian military forces clashed on the disputed Bakassi Peninsula, killing 1 Cameroon soldier. First day of dispute was on 6/18/2005 and last day of dispute was on 6/18/2005.
+
+MID3 1993-2001:
+
+MID4119
+rivalry=471475 nationa=CAMEROUN nationb=NIGERIA MID4119 19940103-19941127 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=.
+lhostb=USE OF FORCE 
+
+This is part of an ongoing dispute between Nigeria and Cameroun over the Bakassi Peninsula area. Both countries claim the oil rich territory and engage in sporadic military incursions into each other's territory. First day of dispute was on 1/3/1994 and last day of dispute was on 11/27/1994.
+
+MID4165
+rivalry=471475 nationa=CAMEROUN nationb=NIGERIA MID4165 19950612-19950613 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=1 lhostb=
+USE OF FORCE 
+
+Camerounian troops attacked a Nigerian post and captured it, only to lose it later in a Nigerian counteroffensive. First day of dispute was on 6/12/1995 and last day of dispute was on 6/13/1995.
+
+MID4166
+rivalry=471475 nationa=CAMEROUN nationb=NIGERIA MID4166 19960203-19970504 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=26-100 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=26-100 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+This is part of an ongoing dispute over owenership of the Bakassi peninsula region. Several skirmishes take place. Cameroun and Nigeria both initiate attacks. First day of dispute was on 2/3/1996 and last day of dispute was on 5/4/1997.
+
+MID4250
+rivalry=471475 nationa=CAMEROUN nationb=NIGERIA MID4250 19980225-19980911 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=. fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=USE OF FORCE
+
+Cameroun claims part of Nigerian territory--specifically the oil-rich Bakassi peninsula area. The dispute was submitted to the ICI, but clashes continue in the region, and both states regularly reinforce positions along the border. First day of dispute was on 2/25/1998 and last day of dispute waas on 9/11/1998.
+
+NARRATIVE-CM:
+Cameroon and Nigeria disputed their common border following Cameroon's independence from France on January 1, 1960. The leaders of Nigeria and Cameroon signed an agreement in Maroua, Cameroon on May 31, 1975, which delimited the maritime border between their countries, but the agreement was not ratified by Nigeria. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula in the Gulf of Guinea on May 15-16, 1981. Cameroon troops fired on Nigerian troops aboard a boat on the Rio del Rey river in a disputed area, and five Nigerian troops were killed during the clash. Nigeria claimed that its soldiers were in Nigerian territory waters at the time of the incident, but Cameroon insisted that the Nigerian soldiers had entered its territorial waters. Nigeria issued a warning to Cameroon on May 18, 1981, and referred the matter to the *Organization of African Unity* (OAU). The OAU secretary-general declined to place the matter on the agenda of the OAU Assembly of Heads-of-State held in Nairobi, Kenya on June 24-28, 1981. The Cameroonian embassy in Lagos, Nigeria was attacked by protesters on May 29, 1981. President Shehu Shagari of Nigeria rejected a Guinean proposal to allow the *Economic Community of West African States* (ECOWAS) to mediate negotiations between the countries. OAU Secretary-General Edem Kodjo and Foreign Minister Robert Ouko of Kenya attempted to mediate negotiations between the countries beginning on July 13, 1981. President Ahmadou Ahidjo of Cameroon offered to provide compensation to the families of the victims on July 20, 1981. The presidents of Ivory Coast, Niger, and Togo offered to mediate negotiations between the parties, but Nigeria announced that Cameroon had apologized for the incident and would compensate the victims' families on July 20, 1981. On August 1, 1981, Nigeria announced that an international arbitration tribunal would be established to deal with the border dispute. Cameroonian troops entered Borno province in Nigeria on May 2, 1987. The countries agreed on the establishment of a joint Cameroon-Nigeria border patrol on September 26, 1987. Cameroonian troops attacked the village of Abana, Nigeria on December 21, 1993, resulting in the deaths of six individuals. Nigerian troops occupied two Cameroonian islands, Diamond and Djsbana, on January 3, 1994. Cameroonian police raided several islands near the Bakassi peninsula on January 19-February 8, 1994. Some 22,000 Nigerians fled as refugees from the area. Cameroonian troops and Nigerian troops clashed on the Bakassi peninsula on February 18-19, 1994, resulting in the death of one Cameroonian soldier and 30 Nigerian soldiers. Cameroon requested military assistance from France, and France deployed two helicopters and 30 troops to Yaounde on February 27, 1994. Bruno Delaye, a special adviser to President Francois Mitterrand of France, attempted to mediate negotiations between the parties beginning on February 28, 1994. The *European Union (EU) appealed for the withdrawal of troops from the disputed region on March 1, 1994. President Gnassingbe Eyadema of Togo offered to mediate in the dispute on March 3, 1994, and the offer was accepted by the parties. Cameroon submitted the dispute concerning the Bakassi peninsula to the *International Court of Justice* (ICJ) on March 29, 1994, and requested the mediation of the United Nations and the OAU. The OAU appealed for the withdrawal of troops from the disputed region on March 24, 1994. An OAU fact-finding mission headed by OAU Deputy Secretary-General Tobias Mapuranga arrived in the region on April 18, 1994. Cameroon submitted a territorial dispute concerning the Lake Chad region to the ICJ on June 6, 1994. Cameroonian troops and Nigerian troops clashed in the border region on September 18, 1994, resulting in the deaths of ten Cameroonian soldiers. Nigeria objected to the jurisdiction of the ICJ over the border dispute on December 13, 1995. Cameroonian troops and Nigerian troops clashed on the Bakassi peninsula beginning on February 3, 1996. Cameroonian troops captured 30 Nigerian civilians. UN Secretary-General Boutros Boutros-Ghali appealed for a troop withdrawal on February 5, 1996, and OAU Secretary-General Salim Ahmed Salim appealed for peaceful negotiations on February 7, 1996. President Eyadema of Togo mediated a ceasefire agreement between the countries in Kara, Togo on February 17, 1996. Two Nigerian soldiers, two Nigerian civilians, and one Cameroonian soldier were killed during the military hostilities. UN Secretary-General Boutros-Ghali appealed for peaceful negotiations on February 26, 1996. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on April 23-24, 1996, resulting in the death of one Nigerian soldier. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on May 3-6, 1996, resulting in the deaths of some 50 Nigerian soldiers. Lakhdar Brahimi of Algeria, the special representative of the UN secretary-general, facilitated negotiations between the parties beginning on May 14, 1996. UN Secretary-General Boutros-Ghali sent a fact-finding mission to the region in September 1996. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on November 23, 1997, resulting in the death of one Cameroonian soldier. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on February 23-25, 1998, resulting in the deaths of seven Cameroonian soldiers. The ICJ began hearings on the dispute on March 2, 1998. On March 2, 1998, Nigeria asked the ICJ to dismiss the case submitted by Cameroon. On June 11, 1998, the ICJ ruled that it had jurisdiction over the border dispute between the countries The *International Committee of the Red Cross* (ICRC) assisted with the repatriation of 124 Nigerian POWs and 87 Cameroonian POWs from November 19, 1997 to November 24, 1998. Cameroonian police attacked several Nigerian villages in the border region on October 12-24, 2000, resulting in the deaths of several individuals.
+
+SOURCES-CM: 
+*Africa Diary*, August 6-12, 1981; *Africa Report*, September-October 1981; *Africa Research Bulletin* (ARB), May 1-31, 1981, June 1-30, 1981, July 1-31, 1981, June 15, 1987; Allock et al., 1992, 227-229; Brecher and Wilkenfeld, 1997, 461, 481-482, 491-493; *Foreign Broadcast Information Service *(FBIS), June 1, 1981, July 14, 1981, July 16, 1981, July 17, 1981, February 10, 1994, February 28, 1994, March 1, 1994, March 2, 1994, March 4, 1994, March 14, 1994, April 25, 1994, February 6, 1996, February 7, 1996, February 8, 1996. February 23, 1996, April 25, 1996, April 29, 1996; *International Committee of the Red Cross *(ICRC) press release, November 26, 1997, November 24, 1998; *International Court of Justice* (ICJ) press release, February 24, 1998, July 1, 1998; *Keesing*, October 9, 1981, February 1994, March 1994, April 1994, May 1996; *New York Times *(NYT), May 7, 1996; *Panafrican News Agency (PANA), October 22, 2000; *Post Express (Lagos)*, October 25, 2000; *Reuters*, September 15, 1996, March 13, 1998, March 21, 1998, June 11, 1998, October 22, 2000; *United Nations* (UN) press release, February 5, 1996, February 26, 1996.
+
+NARRATIVE-CR:
+While the beginning of hostilities between Nigeria and Cameroon did not really get under way until May of 1981, the basis for the rivalry dated back to the independence of Cameroon on January 1, 1960. From this date, Nigeria and Cameroon were in a dispute over the border region between the two countries, focusing particularly on the Bakassi peninsula and the Lake Chad region. The leaders reached an agreement on the territory on May 31, 1975, but it was not ratified by Nigeria.
+
+Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula in the Gulf of Guinea on May 15-16, 1981. Cameroon troops fired on Nigerian troops aboard a boat on the Rio del Rey river in a disputed area, and five Nigerian troops were killed during the clash. Nigeria claimed that its soldiers were in Nigerian territory waters at the time of the incident, but Cameroon insisted that the Nigerian soldiers had entered its territorial waters. Nigeria issued a warning to Cameroon on May 18, 1981. The Cameroonian embassy in Lagos, Nigeria was attacked by protesters on May 29, 1981. This was MID3104.
+
+In December of 1981, MID3103 occurred, which was a dispute between fishermen from the two countries. 
+
+Cameroonian troops entered Borno province in Nigeria on May 2, 1987. This was classified as MID2807.
+
+Hostilities increased significantly during the 1990s. While attempts were made by Cameroon to submit decisions over both disputed areas to the International Court of Justice (ICJ) in 1994, Nigeria did not accept this method of solving either dispute. As of 2000, incursions and military conflicts were still ongoing between the two countries.
+
+Cameroonian troops attacked the village of Abana, Nigeria on December 21, 1993, resulting in the deaths of six individuals. 
+
+Nigerian troops occupied two Cameroonian islands, Diamond and Djsbana, on January 3, 1994. Cameroonian police raided several islands near the Bakassi peninsula on January 19-February 8, 1994. Some 22,000 Nigerians fled as refugees from the area. Cameroonian troops and Nigerian troops clashed on the Bakassi peninsula on February 18-19, 1994, resulting in the death of one Cameroonian soldier and 30 Nigerian soldiers. Cameroon submitted the dispute concerning the Bakassi peninsula to the *International Court of Justice* (ICJ) on March 29, 1994. Cameroon submitted a territorial dispute concerning the Lake Chad region to the ICJ on June 6, 1994. Cameroonian troops and Nigerian troops clashed in the border region on September 18, 1994, resulting in the deaths of ten Cameroonian soldiers. This was MID4119.
+
+Nigeria objected to the jurisdiction of the ICJ over the border dispute on December 13, 1995. This is classified as MID4165.
+
+Cameroonian troops and Nigerian troops clashed on the Bakassi peninsula beginning on February 3, 1996, beginning MID4166. Cameroonian troops captured 30 Nigerian civilians. Two Nigerian soldiers, two Nigerian civilians, and one Cameroonian soldier were killed during the military hostilities. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on April 23-24, 1996, resulting in the death of one Nigerian soldier. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on May 3-6, 1996, resulting in the deaths of some 50 Nigerian soldiers. 
+
+Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on November 23, 1997, resulting in the death of one Cameroonian soldier. 
+
+Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula on February 23-25, 1998, resulting in the deaths of seven Cameroonian soldiers. This was MID4250. The ICJ began hearings on the dispute on March 2, 1998. On March 2, 1998, Nigeria asked the ICJ to dismiss the case submitted by Cameroon. On June 11, 1998, the ICJ ruled that it had jurisdiction over the border dispute between the countries. 
+
+The ICJ began hearings on the dispute on March 2, 1998. On March 2, 1998, Nigeria asked the ICJ to dismiss the case submitted by Cameroon. On June 11, 1998, the ICJ ruled that it had jurisdiction over the border dispute between the countries. On October 9, 1998, Nigeria was seeking the intervention of the World Court in the latest action by Cameroon asserting its ownership of the disputed land and maritime boundaries between it and Nigeria, despite the court's order to the contrary. Reacting to the Defence Information statement that Cameroon has granted an oil-prospecting contract to a Canadian company to explore oil in parts of the disputed areas, the attorney-general of the federation and minister of justice, Alhaji Abdullahi Ibrahim, who heads Nigeria's legal team to the ICJ [International Court of Justice] on the dispute, said by the action Cameroon has violated the order of the ICJ, which requested all parties to maintain the status quo and do nothing that would aggravate the situation.
+
+Cameroonian police attacked several Nigerian villages in the border region on October 12-24, 2000, resulting in the deaths of several individuals.
+
+On November 18, 2001, the sour relationship between Nigeria and Cameroon was getting worse as Nigeria alleged that Cameroon has added a fresh claim on 28 towns in east Nigeria apart from the southern Bakassi Peninsula. Nigerian Ambassador to Cameroon Emmanuel Njuwa told the official New Nigerian newspaper on Sunday in an interview that Cameroon has added the fresh claim on Nigerian towns to its case which is before the world Court at The Hague. Njuwa declared that the towns to which Cameroon is now laying claims fall within states of Taraba, Adamawa and Borno, saying that Cameroon does not appear ready to resolve the problem through diplomatic means. The envoy said Cameroon authorities now presume that most Nigerians visiting that country are spies and a number of Nigerians are being arrested and detained indiscriminately. Over 500 Nigerians are currently serving various prison terms in neighboring Cameroon for offenses which did not normally lead to prison terms, he added. The two neighbors have engaged in the feud even bloody conflicts for long over the territorial disputes along their border areas. Earlier last August, the two countries exchanged fire in Bakassi Peninsula, leading to several soldiers wounded. Meanwhile, six autonomous communities in border area of Nigeria's southern Cross River State have threatened to join Cameroon on account of alleged neglect and refusal by the government to allow them more self-governed rights. 
+
+SOURCES-CR: 
+Allock et al., 1992; Brecher and Wilkenfeld, 1997; See above.
+
+PS-NARRATIVE:
+
+19601001-19810514 0.5 
+
+Cameroon and Nigeria disputed their common border following Cameroon's independence from France on January 1, 1960. On February 6, 1961, a UN plebiscite occurred in the region of northern Cameroon during which the local population was questioned if they wanted to join Cameroon or Nigeria. The region has more than 1.5 million people. The voting showed that the northern part of these northern territories of Cameroon wanted to join Nigeria while the southern part wanted to join Cameroon. This new frontier line was accepted by Nigeria which voted in favor of UN Resolution 1608 (XV)in 1961, acknowledging that the Bakassi Peninsula was not included in the territory of the plebiscite, as it would indicate in the 1990s. On March 27, 1962, Nigeria referred in a note to Cameroon to some oil licensing blocks offshore from the Bakassi Peninsula. There was no dispute over who owned the peninsula at that time and well into the 1970s. The International Court of Justice took it as a given that the parties believed that Bakassi Peninsula belonged to Cameroon. The leaders of Nigeria and Cameroon signed an agreement in Maroua, Cameroon on May 31, 1975, which delimited the maritime border between their countries, but the agreement was not ratified by Nigeria. Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula in the Gulf of Guinea on May 15-16, 1981. This marks the beginning of RIV 
+
+20021010-20060611 Transition 
+
+MID4250 ended on February 25, 1998. The International Court of Justice gave a ruling on October 10, 2002, in which the court ceded part of the peninsula, which lies at the maritime borders of the two countries, to Cameroon. It also ruled in a suit filed by Cameroon against Nigeria that certain areas of the land borders between the two countries be re-shared between them. The leader of Nigeria's delegation to the Nigeria-Cameroon Mixed Commission on boundary matters said on November 30, 2003, that the judgment by the Hague-based International Court ceding part of the oil-rich Bakassi peninsula to Cameroon would not cause tension between the two countries. Speaking to Nigerians living in the area, Bola Ajibola assured them that the part of the peninsula in Nigeria's Cross River state would not be ceded to Cameroon. "We are gaining the confidence of Cameroon. We are very much ahead with confidence building measures with that country," he said. He assured the Nigerians that the government would be made aware of their feelings and stressed: "What we have not done is to part with Bakassi." The peninsula lies at the maritime border between the two countries and part of it was ceded to Cameroon in the landmark judgment in October 2002 resulting from a suit filed by Cameroon against Nigeria. After the judgment was delivered, the two countries established the Nigeria-Cameroon Mixed Commission to seek a political solution to the judgement. Nigeria is expected to fully vacate part of the peninsula on December 1, 2003. 
+
+U.N. mediators and officials of the Nigeria Cameroon Mixed Commission visited the border between the two countries on February 27, 2004, the United Nations said in a statement. The visit was aimed at assessing compliance with a ruling of the International Court of Justice at The Hague over the dispute concerning border villages and the oil-rich Bakassi peninsula. In its ruling on October 10, 2002, the court ceded part of the peninsula, which lies at the maritime borders of the two countries, to Cameroon. It also ruled in a suit filed by Cameroon against Nigeria that certain areas of the land borders between the two countries be re-shared between them. Following the ruling, Nigeria ceded some 30 villages at the northern end of the boundary in the Lake Chad region to Cameroon last December. Cameroon is expected to cede some 10 villages in the southern part of the border to Nigeria soon. The Nigeria Cameroon Mixed Commission was established after the court's ruling to ensure a peaceful application of the judgment. 
+
+Nigeria's northeastern state of Adamawa has established a Ministry of Integration and Cooperation to integrate communities returned to Nigerian authority by Cameroon, the Deputy Governor of the state, Bello Tukur, said on May 22, 2004. The communities are to become became part of Nigeria following a judgment by the International Court of Justice at The Hague, which ruled that the two countries forfeit some portions of their land and maritime borders to each other. A part of Nigeria's oil-rich Bakassi peninsula is to be given to Cameroon under the ruling. Tukur said there had been renewed cooperation between Nigeria and Cameroon since both countries established the Nigeria/Cameroon Mixed Commission to seek an amicable execution of the court ruling. He offered assurance that the affected communities would get a true sense of belonging in Nigeria through the functions of the new ministry. "There will be no difficulty as people of the affected communities speak Fulfude and other dialects spoken in border towns in the area between Nigeria and Cameroon," he said. Cameroon dragged Nigeria before the court in 1984 claiming that the oil-rich Bakassi peninsula lying at the maritime border in the southeastern part of the two countries belonged to it. In its judgment, however, the court ruled that while most parts of the peninsula belonged to Cameroon, some communities in the northern borders belonged to Nigeria. The court consequently ordered the re-partitioning of both countries, an assignment being undertaken by the Nigeria/Cameroon Mixed Commission and supervised by the United Nations. 
+
+The completion of the realignment of the border between Nigeria and Cameroon moved one step closer on June 1, 2004, as the project received 8.5 million dollars in contributions, a United Nations representative said. Ould Abdallah, representing U.N. Secretary General Kofi Annan at the Nigeria/Cameroon Mixed Commission, said the contributions were 3.5 million dollars short of the 12 million dollars needed for the realignment, which was ordered by the International Court of Justice in The Hague, Netherlands. The commission was jointly set up by Nigeria and Cameroon in November 2002 to execute the court's order. Abdallah said at the 10th session of the commission Tuesday that Nigeria and Cameroon jointly contributed 6 million dollars, while Britain gave 1.8 million dollars. The European Commission donated 400,000 euros (487,000 dollars), and more donations were expected from France, the United States and the European Union. Bola Ajibola, Nigeria's leader to the commission, said the withdrawal and transfer of authority from the land area of the border would soon be completed and that the same process would begin soon on the maritime border. Under the court's order, Cameroon is to cede part of the land border to Nigeria, while Nigeria was to cede part of the oil-rich Bakassi Peninsula to Cameroon. Ajibola's Cameroonian counterpart, Amadou Ali said the courts ruling had opened new opportunities for cooperation and interaction between the two countries.
+
+The 11th session of the ICJ verdict-implementation mixed commission, which ended in Yaounde on August 20, 2004, confirmed that on 15 September, Nigeria's withdrawal from Bakassi and Cameroon's takeover will be effective. Also, a meeting will be held in Yaounde to adopt the practical modalities. The Cameroon-Nigeria Mixed Commission particularly expressed satisfaction with the atmosphere of peace and good relations between the inhabitants and the new authorities in the villages along the land border, where transfer of authority was carried out. This should normally serve as an example to the Bakassi inhabitants so that the settlement of this border dispute will be exemplary in all its aspects.
+
+Nigeria and Cameroon agreed on June 23, 2005, to conduct a full investigation into the June 17 killing of a Cameroonian soldier at the disputed Bakassi Peninsula on their maritime border. Remi Oyo, Senior Special Assistant to Nigerias President Olusegun Obasanjo on media, said in Abuja that Obasanjo and his Cameroonian counterpart Paul Biya discussed the matter by telephone.
+
+On July 28, 2005, Nigeria protested the alleged ill-treatment of its nationals by Cameroon as the two countries resumed negotiations on the ceding of the oil-rich Bakassi peninsula to Cameroon. Bola Ajibola, Head of Nigeria's delegation to the Nigeria/Cameroon Mixed Commission on the disputed peninsula, complained of "flagrant abuses of the rights of Nigerians" living in areas surrounding the peninsula. He urged the Cameroonian authorities to call its security agents and nationals to order. The commission was established by Nigeria and Cameroon with the assistance of the United Nations to work out the details of ceding the peninsula to Cameroon as ordered by the International Court of Justice at The Hague in October 2002. The peninsula lies in the maritime border between the two countries. "Nigerian fishermen in Bakassi are complaining of being deprived of their means of livelihood by incessant seizures of their boats," Ajibola said at a commission meeting in the Cameroonian capital Yaounde. "They are also complaining of some mass arrests of their members who are allegedly being killed, maimed or declared missing." In other places there were allegations of killings and mass arrests of Nigerians and there was documentary evidence supporting the claims. He said there also were allegations of exorbitant fees charged for residency permits issued to Nigerians and infringement of their property rights. He said the alleged actions were frightening the affected population in spite of the ongoing negotiation to handover Bakassi to Cameroon. Ajibola reiterated Nigeria's commitment to a policy of good neighbourliness, while not relinquishing its responsibilities to its citizens. He added that Nigeria was committed to a peaceful resolution of the boundary dispute with Cameroon, whose nationals, he said, "are all brothers and sisters". Ajibola said was imperative for the governments of both nations to ensure that nothing was done to create doubts in their commitment to peace and harmony. He said Nigeria was eagerly awaiting the outcome of a U.N. observer team's fact-finding mission in Bakassi. He commended members of the international community for their "wonderful support and commitment" in ensuring a speedy and amicable resolution of the boundary dispute. The Nigeria/Cameroon Mixed Commission had not met since its 12th session in Abuja in October 2004 following disagreements over the timetable for the handover of Bakassi. At the last session the commission resolved to hand over the issue of the oil-rich Bakassi to the presidents of both countries, Nigerian President Olusegun Obasanjo and Cameroonian President Paul Biya. The two leaders met with U.N. Secretary General Kofi Annan in Geneva in May and resolved some grey areas surrounding the implementation of the court ruling. Ould Abdallah, U.N. delegate to the commission, reminded Nigeria and Cameroon that the court judgment will be three years old in October and called for a quick resolution of all outstanding issues to conclude the handover of the peninsula to Cameroon. He said that both nations had achieved a lot in the handover processes, having completed the aspect that affected the Lake Chad area and having swapped some settlements as directed by the court. Abdallah expressed regrets about skirmishes that occurred in Bakassi that led to some deaths in June, but praised both nations for the mature handling of the situation and preventing its escalation. In his remarks earlier, Ahmadu Ali, leader of the Cameroonian delegation, called for a quick resolution of all obstacles to a speedy handover of the Bakassi peninsula. Ali described both nations as "leading lights in Africa" who must strive to show a good example to other nations by resolving the dispute peacefully. 
+
+20060612-20159999 0.5 
+
+On June 12, 2006, The Presidents of Nigeria and Cameroon signed an Agreement settling a decades-old, sometimes violent, border dispute over the oil-rich Bakassi Peninsula, following intensive mediation over the weekend by United Nations Secretary-General Kofi Annan. `The signing ceremony, which has brought us together, crowns a remarkable experiment in conflict prevention by Cameroon and Nigeria,' Mr. Annan said of the Agreement, which provides for the withdrawal of Nigerian troops within 60 days, with a possible 30-day extension, from Bakassi, which the International Court of Justice, the top United Nations judicial body, awarded to Cameroon in 2002. `With today's Agreement on the Bakassi Peninsula, a comprehensive resolution of the dispute is within our grasp,' the Secretary-General added at the ceremony at the Greentree estate in Manhasset outside New York. `The momentum achieved must be sustained.' Under the Agreement, transitional arrangements will be completed in two years on the peninsula, which was the last of four areas to be demarcated in accordance with the International Court of Justice decision. `Our Agreement today is a great achievement in conflict prevention, which practically reflects its cost-effectiveness when compared to the alternative of conflict resolution,' Nigeria's President Olusegun Obasanjo said. `Its significance, therefore, goes much beyond Nigeria and Cameroon. It should represent a model for the resolution of similar conflicts in Africa and, I dare say, in the world at large.' `Reason and wisdom have been our main guides,' Cameroon's President Paul Biya added. `By signing the present Agreement, we have armed ourselves with an efficient instrument to implement the Court's decision bringing a definitive conclusion to our border dispute.' The historic Agreement came some 12 years after Cameroon asked the International Court of Justice to rule on a dispute `relat[ing] essentially to the question of sovereignty over the Bakassi Peninsula', which it claimed was in part under military occupation by Nigeria, and to determine the maritime boundary between the countries. Later, in 1994, Cameroon's Government extended the case to a further dispute, relating to `the question of sovereignty over a part of the territory of Cameroon in the area of Lake Chad', which it claimed was also occupied by Nigeria. The Secretary-General has led the United Nations efforts to help resolve the stalemate over the peninsula, which is located on the Gulf of Guinea, and has been the subject of intense disputes between the two countries for years. As late as last year the dispute was still claiming victims-two Cameroonian soldiers killed and another wounded. On 5 September 2002, Mr. Annan met in Paris with the two Presidents, who both promised to respect and implement whatever decision the International Court of Justice might give on the case. Barely a week later, the Court essentially awarded Cameroon rights to the oil-rich peninsula. Shortly after that, Nigeria said in a position paper that the judgment did not consider `fundamental facts' about the Nigerian inhabitants of the territory, whose `ancestral homes' the Court adjudged to be in Cameroonian territory. At another summit called by Mr. Annan on 15 November 2002, the two Heads of State agreed to establish a United Nations-backed implementation mechanism-the Cameroon-Nigeria Mixed Commission, which would be chaired by the Secretary-General's Special Representative, Ahmedou Ould-Adballah. The panel would consider all the implications of the International Court's decision, including the need to protect the rights of the affected populations in both countries. The Mixed Commission, which met alternately in the two countries' capitals-Abuja and Yaounde, was also entrusted with the task of demarcating the land boundary between the two countries and making recommendations on additional confidence-building measures, such as the holding of regular meetings between local authorities, Government officials and Heads of State. Such measures would also include the development of joint-venture projects, avoidance of inflammatory statements on Bakassi, troop withdrawals along the land boundary, demilitarization of the peninsula and the reactivation of the Lake Chad Basin Commission. On the same day, Mr. Annan noted the `stunning' cost-effectiveness of the Mixed Commission, which is based in Dakar and staffed by fewer than a dozen professionals. With a handful of international civilian observers, currently based in Yaounde, but no peacekeeping element, the Commission's small budget of some $5 million per year is supplemented by contributions to a United Nations trust fund to pay the costs of demarcating the land boundary. In the two years following the Commission's establishment, the observers witnessed the withdrawal of civil administration, military and police forces, along with the peaceful and orderly transfer of authority in about 40 villages, without any significant incident reported about the rights of the affected populations. 
+
+On July 6, 2006, Nigeria handed over 33 villages to Cameroon and taken back two villages under the terms of a ruling by the Hague-based International Court of Justice which ordered the redrawing of borders between the two countries,
+Bola Ajibola, leader of Nigeria's delegation to the Nigeria/Cameroon Mixed Commission established by the two countries to implement the court's decision, said in Abuja Thursday that verification of border lines had taken place on most parts of the 410 kilometers-long boundary. Ajibola said at a joint meeting between Nigeria and Cameroon that tentative agreement had also been reached on the maritime boundary. The court at The Hague also ceded the oil-rich Bakassi peninsula lying at the maritime border between the two countries to Cameroon in the initial judgment delivered in 2002. Ajibola lauded the June 12 agreement signed by Nigeria and Cameroon in the United States, which gave Nigeria until end of August to pull out completely from the disputed area and said it had showed the two nation's good understanding and determination to abide by the international rule of law. "Our adversaries thought we would go to war, and some were even fanning the embers of hatred between us. But we achieved peace and harmony at the end. This is a great demonstration of what is called peaceful co-existence," he said. Chairman of the Mixed Commission, who is also the UN representative, Ould Abdallah, said at the meeting that a 12-member implementation committee established by the UN to ensure compliance by both countries would meet on July 10 to deliberate on the commission's agenda. Nigeria's national security adviser, retired army major-general Abdullahi Mukhtar, said in his remarks that efforts by leaders of Nigeria and Cameroon, Presidents Olusegun Obasanjo and Paul Biya, respectively, to resolve the dispute peacefully, were commendable. He said that the success of the mixed commission had become a reference point for conflict management and resolution for other countries. On August 25, 2006, of the 7,000 Nigerians who have indicated their desire to leave mainland Cameroon and relocate to Nigeria, 2,000 have arrived Calabar with tales of woe. Speaking to newsmen in Calabar, spokesman for the National Emergency Management Agency (NEMA), Mr. Abiodun Oladunjoye, said the bulk of this first batch of returnees were from Bayelsa and River States with afew from Akwa Ibom. The returnees made it known that they were not from Bakassi but from mainland Cameroon. Speaking to newsmen at Barracks Road where they are temporarily being accommodated in Calabar, one of the returnees, Mrs.Cameroon Christopher, said: "I was born in Cameroon and my parents gave me the name Cameroon. I had never been to Nigeria until now. My parents, however, came back to Nigeria a long time ago and they are in Bayelsa." Mrs. Christopher said she came back with her husband and some of her children and according to her, "I have five children, some are students and some are married. "She said she got tired of living in Cameroon because over there, the Cameroonian authorities made lifedifficult for Nigerians. "It doesn't mean anything to them whether you were born there or not. You have to pay a number of taxes. We don't sleep. They wake you up to pay taxes. If you don't, they handcuff you, put you in a boat and take you away until you give them bribe or you appeal to the Nigerian Consulate before you are let go." Also speaking, Mr. Famous Fiesin who said he was also born in Cameroon said his parents were from Bayelsa and had since relocated to Nigeria. "I was born in Cameroon. My parents left Cameroon for Nigeria in 1975. My parents have been asking me to come to Nigeria ever since but it's been difficult making a move to come down to Nigeria. It is even difficult raising money to come over with your belongings and your immediate family," he said. Mr. Fiesin who gave his age as 50 said he had to leave Cameroon because he could not bear the hardship in Cameroon any longer. "The suffering was too much. We don't leave in peace. They increase their taxes regularly. You can't afford to pay these taxes and you have no money to come back to Nigeria. Once they know you are a Nigerian and if you have 12 children, for instance, they must allhave residence permits. The Bakassi thing also contributed to our suffering. They persecuted us. You can't argue that you were born in Cameroon. They would tell you, you are a Nigerian whether you were born there or not. I appeal to government to please assist us to resettle comfortably so we won't have to go back to Cameroon." Another returnee, Mr. Joshua Eletugbene, who gave his age as 26 said he was also born in Cameroon and that this was his first time in Nigeria.
+
+PS-SOURCES: New York Times February 7, 1961; http://www.un.org/News/Press/docs/2006/afr1397.doc.htm; Deutsche Presse-Agentur November 30, 2003; February 27, 2004; May 22, 2004; June 1, 2004; August 20, 2004; June 23, 2005; July 28, 2005; July 6, 2006; Xinhua November 18, 2001; December 2, 2003; Vanguard August 25, 2006; BBC October 9, 1998; 
+
+MARITIME-MIDS: MID3103 MID3104
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID3104
+ DYAD: CAMEROUN NIGERIA 471475
+ DATES: 19810520 19810520
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+Cameroonian troops and Nigerian troops clashed near the Bakassi peninsula in the Gulf of Guinea on May 15-16, 1981. Cameroon troops fired on Nigerian troops aboard a boat on the Rio del Rey river in a disputed area, and five Nigerian troops were killed during the clash. Nigeria claimed that its soldiers were in Nigerian territory waters at the time of the incident, but Cameroon insisted that the Nigerian soldiers had entered its territorial waters. Nigeria issued a warning to Cameroon on May 18, 1981. The Cameroonian embassy in Lagos, Nigeria was attacked by protesters on May 29, 1981. This was MID3104.
+
+MARITIME-DISPUTE: MID3103
+ DYAD: CAMEROUN NIGERIA 471475
+ DATES: 19811215 19811215
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+In December of 1981, MID3103 occurred, which was a dispute between fishermen from the two countries. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+International Court of Justice. 1998. Judgment in the Case Concerning the Land and Maritime Boundary between Cameroon and Nigeria. https://www.icj-cij.org/files/case-related/94/094-19980611-JUD-01-00-EN.pdf

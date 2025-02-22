@@ -1,0 +1,152 @@
+Filename=Peacedatav3.1-readme.txt
+
+This readme file describes the "peace data" that initially formed the the core of the book:
+Goertz, G., Diehl, P. and Balas, A. 2016. The Puzzle of Peace: Explaining the Rise of Peace in the International System. Oxford University Press.
+
+The current version, 3.1, of the datasets can be downloaded at:
+https://drive.google.com/drive/folders/1HKZ6FQmK09VJ5mzzEzIwkOawf7tb6Z63?usp=sharing
+
+Version 3.1 changes are discussed below in more detail but in summary: (1) three small changes to the basic data, (2) new version of the dyad-month dataset, (3) a new version of dyad-year dataset. The dyad-month and dyad-year datasets fix some errors in version 3.0 (thanks to Bomi Lee and Andreas Wimer for pointing these out). 
+
+Version 3.0 is updated through 31 Dec 2020, see below for notes on this update.
+
+Version 2 is revised and updated through 2015. A new description of some of the data as well as a discussion of a research agenda using the data can be found in the following article:
+Diehl, P., Goertz, G. and Gallegos, Y. 2021. "Peace Data: Concept, Measurement, Patterns, and Research Agenda" Conflict Management and Peace Science. 38:605--24. ("Diehl_goertz_gallegos2021.pdf" in the peace data folder).
+
+The book and the article should be cited as the source of the data as well as the exact version number, which is v3.1 for this release of the dataset.
+
+Because there are ongoing misunderstandings about our rivalry data (which are now a part of the peace data) at the bottom of the file we briefly discuss similarities and differences between Thompson's conceptualizations and data with ours. The biggest ongoing (still to be found in 2022) misunderstanding is that ours is a "dispute density'' approach. This has not been true since 2008 (version 5 of the rivalry data), there is no requirement of minimum or maximum MID occurrence for any scale level. For example, the USA and Canada have 5 MIDs but are coded as a positive peace.
+
+These data may be freely used for non-commercial purposes. For commercial use, please contact the authors.
+
+Questions, comments and suggestions can be addressed to:
+Gary Goertz -- ggoertz@nd.edu
+Paul Diehl -- pdiehl@illinois.edu
+
+If you would like to receive information about updates, please contact us and we will put you on the email list.
+
+This readme documents version 3.1 of the peace data. Since the publication of the book (version 1.0), the data have been updated from 2006 to the end of 2020 along with many small corrections to the original data. This file describes the basic data and coding rules used to generate them.
+
+The peace scale has values 0.0 -- serious rivalry, .25 -- lesser rivalry, .50 -- negative peace, .75 -- warm peace, and 1.0 -- security community. These categories and the coding criteria are described in detail in Goertz, Diehl, and Balas (2016, Chapter 2)
+
+In data distribution there are the following data files:
+
+The raw data -- Peacedatav3.1.csv -- are quite simple in format.
+Each row is a dyad. The first column is the dyad. We follow the convention of the smaller COW number followed by the larger one, e.g., 2200 is USA-UK, 200220 is UK-France. If one is interesting is getting a good overview of changes (or not) within a dyad this is the best file to use.
+
+The next columns provide the period covered and peace scale level for that period (0.0 through 1.0) or -9 for transitional periods. Exact dates are given, YYYYMMDD. Dyads can spend years and decades at a given level of the peace scale. As such the number of columns for given dyad will vary depending on how often they change level. The date range gives the time period the dyad is at that level of the peace scale. For example, the first observation is the following:
+002020,19200110-19871002,0.75,19871003-20209999,1.0
+The dyad is nation 002 (USA) and nation (020) Canada. They spend 19200110 to 19871002 at level .75. They then spend the period from 19871003 to 20209999 (this means censored as of 20201231) at level 1.0.
+
+The date format is YYYYMMDD (Y--year, M--month, D--day). This avoids confusion between European and American dating systems and if you sort on this variable, data will be in chronological order. 
+
+19009999 -- means the data are left censored, i.e., the relationship existed before 1900.
+20209999 -- means that the data are right censored, i.e., the relationship continues into 2021--.
+
+Data file -- Dyad-Month --peacedatadymonv3.1.csv
+This uses the month instead of the day for changes in peace level. The basic coding rule is that the peace level for the month is the peace level on the last day of the month.
+
+Data file -- Dyad-Year -- file is peacedatav3.1dyadyrmean.csv
+This is created using the dyad-month dataset. Creating dyad-year data requires a number of decisions. The dyad-year data are the mean of the peace levels for the 12 months (or whatever number of months there are data for). There are certainly other possible options including (1) minimum, (2) maximum, (3) value for last month of the year. This can all be done using the dyad-month dataset (contact the authors for more information regarding these options).
+
+Narrative files -- cmv11 folder 
+Included is a folder -- cmv11 -- that includes what we call the "narrative files." These contain more or less information about the dyad and contain the codings and justifications for the peace scale data. They are also a very useful source of info about MIDs. One can search all these files for, say, MID250, (i.e., MID followed by the dispute number) for historical information about a given MID. The name of the file indicates the dyad, e.g., cm200220v11.0.txt is the file for UK-France. Generally speaking if there was a MID between the two countries at any point of their existence there is a cm file. A large number of dyads are coded as negative peace (i.e., .50) for their whole existence. As a general rule -- with exceptions -- there is no narrative file for these dyads. If the dyad is coded at some point as something else than .50, then a narrative file exists.
+
+Some details:
+
+Relationships begin or end when the dyad enters or exits the international system (e.g., USA-Canada starts when Canada enters the COW system in 1920).
+
+When countries merge or split we made decisions regarding the secessor state. Notably, we consider West Germany to be the Germany COW code 255 -- throughout, Russia takes over the 365 USSR code, etc. These are justified in the dyadic, cmv11.0, files. Be aware that our use of 255 instead of 260 for West Germany may cause problems when merging other datasets with the peace data.
+
+Coding Relationships
+
+The peace data only include information for dyads with relationships, i.e., not every possible dyad is included. We refer users to the Goertz, Diehl and Balas book for a long discussion and rationale for this decision as well as the conceptualization and operationalization of the dyadic interstate relationship concept.
+
+Version history:
+Version 3.1 -- released 10 August 2023
+Version 3.0 -- released 17 July 2022
+Version 2.02 -- released 17 Sept 2019
+Version 2.01 -- released 5 August 2019
+Version 2.0 -- released 1 April 2018
+Version 1.0 -- released 1 March 2016
+
+Notes for the 3.1 version
+
+Three corrections were made to the basic data:
+
+(1)  for dyad 404520, changed first period from "20040000" to "20040204"  reflecting when GUINEA-BISSAU joins CEN-SAD creating a relationship.
+
+(2) for dyad 290816, changed first period from "19780000" to  "19780629"  
+
+(3) for dyad 520530 there was a typo in the year "202029999" to "20209999"
+
+New versions of the dyad-mon and dyad-year datasets, see above for a discussion.
+
+Notes for the 3.0 version
+
+The fundamental data have not fundamentally changed from version 2.02. We have fixed a few errors of dates that were off by a day. We refined the coding rule for the end of some rivalries (discussed) below. There were almost no corrections to pre-2016 data on the peace level itself. The data now range from 19000101-20201231.
+
+Beyond updating, there were a number of changes to the data:
+
+-- various small errors were corrected (e.g., shift of one day in end date of a peace scale coding), none of which would affect conclusions from analyses conducted using previous version of the data.
+
+-- criteria for a state-state relationship (and therefore inclusion in the data) were checked against updated versions of alliance, contiguity, state system membership, rivalry, regional economic institution membership, and other criteria - this resulted in the addition or termination of relationship years for some dyads.
+
+-- some new relationship rules that modified select cases, specifically these are noted below and reflected in the dyad narrative files (v11)
+	Revision based on new relationship rule that allow a dyad to enter a relationship at any peace scale level.
+	Revision based on new relationship rule that specifies that when the criteria for a relationship ends and the relationship is at negative peace (.5), the relationship is terminated immediately (that is, when the criteria for relationship no longer exist).
+	Revision based on a new relationship rule that when a state exits a REI, the REI is the only basis for a relationship with a given other state, and the peace scale coding is not .5, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+	Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+- Addtional research was conducted on numerous cases to assess whether the peace scale coding should reflect a relationship change in the 2016-2020. Such research also led to coding changes in a handful of cases for the pre-2016 period.
+- Solidifying an informal coding rule, cases in which rival states moved disagreements to the International Court of Justice and in the absence of military threats and confrontations were coded as transitioned from rivalry to negative peace.
+- Solidifying an informal coding rule, a relationship was established or reestablished (if no other relationship criteria were present) when one state intervened militarily in another state in support of the latter's government (e.g., Cuba in Angola or Russia in Syria).
+- Solidifying an informal coding rule, ceteris paribus, the support by one state of rebel forces in another state's civil war (e.g., mutual support of rebel groups by Ethiopia and Sudan in various years since 1969) was coded as a lesser rivalry. Individual checks and research were conducted on the cases identified in the Mutual Interventions in Africa data set reported in Duursman and Tamm article (ISQ 2021)
+
+Notes for the 2.02 version
+
+The fundamental data have not changed from version 2.01. Version 2.02 includes versions of the data set that might be useful for various purposes and formats that makes them more accessible and usable in many statistical settings.
+
+First we interpolate values of the peace scale for transition periods (coded -9 in the raw data) that can often last for several years. This is a simple linear interpolation from the previous level to the next level.
+
+We have created a dyad-month version of the data set (peacedatav202dyadmon.csv). We give exact dates for the beginning and the end of movement between peace scale levels. This kind of data can be useful in settings where other data have more exact dates than years, such as the beginning and end of militarized disputes. We note that because of the size of this data set, over a million rows, it might not be readable into spreadsheet applications. When there are multiple values during a given month the value at the for the last day the month is used.
+
+With a dyad-month data set we have also created two dyad-year data sets. This is by far the most common data structure in international conflict research. The basic question is what should be the value for the year when there are multiple values for months in a given year (same as the question for multiple values within a given month) such as during a transition. We think there are two answers that probably dominate many possible options. The first is just the average value over the months of the year (peacedatav202dyadyrmean.csv). The second is the maximum peace scale level. This follows the logic of the militarized disputes and how they're constructed from incidents as well as the dispute level of hostility value which all use a maximum (peacedatav202dyadyrmax.csv). The maximum is also used when there are multiple alliances between two countries and the strongest one is taken as the value of the dyad.
+
+There are two other plausible options that we mention here but with for which we have not constructed sets. If there is a demand for them they can certainly be added to the dyad year data set list. The first is the minimum value which might be of interest for theories about peace just as the maximum seems to be the obvious choice for theories of war and military conflict. The second option would be the value at the end of the year, i.e., the month of December. This one could relatively easily be done by the user by just using only December values, the only small complication would be when the dyad ceases to exist when one might have to take last month of its existence were just eliminate those years altogether.
+
+Notes for the 2.01 version
+
+Beyond updating, there were a number of changes made to the file:
+
+--- various small errors have been corrected
+--- all relationships are now coded to the exact month and day
+--- there were minor date corrections reflecting new or more accurate information
+--- some .50 relationships that were misidentified in version 1 were deleted
+--- some adjustments were made to the years that a state qualified as a major power, resulting in some minor differences with the COW system list
+--- a 15 year rule was instituted for end of rivalries - relationships continue between rivals for 15 years even if no other relationship criterion is present; version 1.0 continued such relationships indefinitely.
+--- Occupied states during and after war (e.g., Poland and France - WWII) are considered as continuous states, unless the state is incorporated directly into another state (e.g., Latvia into the Soviet Union after WWI); this results in some differences with the COW system list
+- The REI (regional economic institution) data set was updated to 2015 and corrected, affecting the existence and timing of some relationships.
+
+Changes from the v1 dataset
+
+If one wants to see the differences between v1 and v2.01 we have created a file for that purpose. The folder includes the file "Peacedatav1.0-for-comparison.csv" which permits a comparison with the v2.01 data in file peacedatav2.01.csv. We created this file to allow researchers to see and explore the differences between v1 and v2.01 of the dataset. Note that transition data were not in v1.0 but are in v2.01. Also the right censoring date in the v1 file, 20059999, is changed to 2015999 so as not to generate differences that are not important substantive changes in the data. In short, one needs to compare "peacedatav2.01.csv" with "Peacedatav1.0-for-comparison.csv" using whatever software is most convenient, e.g., word, excel, BBedit, etc.
+
+Database, statistical, text, programing applications all have procedures for comparing two files. Depending on the user's preference any of these can be used because the two files are directly comparable. For example, Mac users can use BBedit's very nice "find differences" command to see the differences between the two highlighted. Stata users have easy options for comparing the two datasets. Word also has (I gather) capacities for comparing differences in files.
+
+COMPARING THOMPSON'S "STRATEGIC RIVALRIES'' WITH THE PEACE DATA (see also the CMPS article)
+
+Thompson defines three criteria for something to be a (strategic) rivalry: "Three selection criteria appear to be most important. The actors in question must regard each other as (a) competitors, (b) the source of actual or latent threats that pose some possibility of becoming militarized, and (c)enemies.'' (Thompson 2001, 560). While this is not explicitly stated these appear to be individually necessary and jointly sufficient for a relationship to be a strategic rivalry. It is worth noting that Thompson frequently refers to relationships in describing rivalries. In that sense the use of relationship as the core idea in the peace data matches the terminology he uses often in his original article, for example, "One way to visualize the array of behavior is to imagine a conflict-cooperation continuum. At one end are extreme cases of intense conflict; at the other, extreme cases of intense cooperation. In between are various mixes of conflict and cooperation of the relatively milder sorts. The relationships between most pairs of states can be located around the center of this continuum. That is, their relationships are normal and encompass some combination of conflict and cooperation. Some pairs of states have especially cooperative relationships (often called "special relationships") either because they share certain affinities of culture, race, and language, or because they share important goals, or because one of the states in the dyad has no choice but to be highly cooperative.'' (Thompson 2001, 559)
+
+The peace data are conceptually quite different. They do not require states be "enemies'' AND "competitors'' AND "threat with possibility of being militarized''. Rivalry in the peace data is conceptualized militarized foreign policies on some issue areas with another state. If one is threatening or using medium or large-scale military actions that suggests that they might be enemies. We make no requirement that they be "competitors'' just that they have militarized some issue area(s), which could be the existence of the state at the extreme end.
+
+Thompson is quite clear that much of this deals with perceptions of decision makers. Our approach is behavioral. It is actions, including strategic plans and the like, that determine peace or rivalry. For example, Canada felt threatened by the USA during the 19th century. Our coding is based on the building of military bases along the border, strategic plans for defending against possible US attack, arms acquisitions, as well as minor military incidents (e.g., in the Great Lakes).
+
+In both data sets it is basically those in charge of the government that determine the relationship. Various domestic actors might very in their perceptions and behavior vis-à-vis a potential rival. Walmart might have very cooperative relationships with China while the US government has military incidents with it. Major US banks had very good relationships with communist countries and lent them a lot of money. A major difference however is that the peace data do not rely on perceptions of threat or enemyness. It rests on actual behavior vis-à-vis the other country, cooperative or hostile or neutral.
+
+ Another conceptual difference is that the peace data do not use require actors to be competitors. Also, it does not include the concept of latent threat. It is actual militarized foreign policies that determine if something is a more severe or less severe rivalry. Overall, the Thompson approach is much more about perceptions of threat or enemyness, the possibility of militarization, while the peace data is behavioral.
+
+Thompson does not really describe the dyadic universe of cases that he is coding. He states he is using the Ward and Gleditsch state list. Presumably it is all dyads and then he searches for those that meet his three rivalry criteria. We code only those dyads with relationships. In terms of comparisons it is useful to see how either data set deals with some problematic multilateral militarized disputes and wars. For example, the wars and disputes regarding Yugoslavia-Serbia-Kosovo might be considered a rivalry under purely militarized dispute criteria. These wars produce dyads such as those with countries that contributed to the multilateral war such as Portugal, the Netherlands, and a variety of other European states. By our criteria these do not constitute relationships and hence are not coded. For Thompson these might not be considered rivalries because they do not meet the three criteria, e.g., they are not "enemies'' or not "competitors.''
+
+In terms of dates and the like, there are three important differences. His data cover the whole Correlates of War period starting in 1816 and ending in 2011. Our data began in 1900 and extend to the end of 2015. We give specific day-month-year dates; he gives only years. In addition, we allow for transitional periods so that the transition from one level to another can be gradual, these transitions can be several years long.
+
+One way to evaluate new data sets is something that might be called face validity. One can compare out our data set and Thompson's code various dyads and years. If one does such a comparison the match is relatively good. There are some differences on dates, very few on rivalries themselves. The peace data have two rivalry levels and those that are coded as lesser rivalry are usually those that Thompson describes as less severe.

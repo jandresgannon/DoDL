@@ -1,0 +1,63 @@
+FILE: cm220315v11.0.txt
+DYAD: FRANCE-CZECHOSLOVAKIA
+RIVALRY: RIV540
+DISPUTE(S): MID27 
+
+PSNOTES: Czechoslovakia ceased to exist on January 1, 1993
+
+PS-LAST-CHANGED: 20180211
+PS-LAST-CHECKED: 20180212
+
+RIVNOTES: 
+
+Territorial-Maritime-Boundary Issues Variables 
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: MID27 coded not territory because the USA and USSR did not dispute territory. See TERRLINK. 
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 from cm002365, this is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded third party link to territorial MID because West Germany (Federal Republic of Germany) claimed the territory of East Germany (German Democratic Republic) as rightfully its own, and by extension, the US, UK, and France backed this claim. The USSR, Czechoslovakia, and Poland backed East Germany's position in the territorial dispute. The opposing support for the claims was linked to this dispute.
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+MID27 is the Berlin Wall Crisis. This is a multilateral dispute involving many countries including the US in opposition to Czechoslovakia. The Berlin dispute had simmered ever since Khrushchev threatened (1958) to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

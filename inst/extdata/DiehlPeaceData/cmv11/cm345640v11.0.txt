@@ -1,0 +1,352 @@
+FILE: cm345640v11.0.txt
+DYAD: YUGOSLAVIA-TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV919
+DISPUTE(S): MID1250 MID257 
+RIVALRY: RIV920
+DISPUTE(S): MID3551 MID4224 MID4137 MID4186 MID4343 
+
+PS: 19009999-19120308 .5 19120309-19181111 .00 19181112-19231111 .5 
+
+PSNOTES: thompson rivalry cm345640 ,18780000 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS-LAST-CHECKED: 20180910
+PS-LAST-CHANGED: 20180915
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 
+
+MID1250 
+
+TERRMID: MID1250 1 -- territorial MID
+TERRMID-CER: MID1250 1 -- certain 
+TERRMID-NOTES: MID1250 from Gibler 2018, Yugoslavia (Serbia), Greece, and Bulgaria were former parts of the Ottoman empire, but were pressing claims against the Ottomans in the lead-up to WWI. Here, all three countries were seeking to take pieces of Ottoman territory in the Balkan peninsula, and they declared war on the Ottomans. Coded territorial MID because this was connected to disputed territory in the Balkans. 
+
+TERRLINK: MID1250 3 -- not third party link to territory 
+TERRLINK-CER: MID1250 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1250 3 -- not maritime 
+MARITMID-CER: MID1250 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1250 3 -- not islands 
+ISLMID-CER: MID1250 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1250 3 -- not civil war 
+CIVWARMID-CER: MID1250 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1250 3 -- not civil war link 
+CIVWARLINK-CER: MID1250 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1250 3 -- not coup 
+COUPMID-CER: MID1250 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1250 3 -- not coup link
+COUPLINK-CER: MID1250 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Yugoslavia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. They therefore refused to recognize the independence of states that declared independence from Yugoslavia, still claiming their territory as part of Yugoslavia. Coded third party link to territorial MID because Turkey (as part of UN/NATO) became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Coded civil war MID because civil war within Yugoslavia eventually convinced NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, UK, France, Germany, Greece, Turkey, Spain, Netherlands, Romania, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 coded civil war link because this also involved insurgent forces fighting outside of this dyad, especially in Albania and Croatia. 
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES:
+
+MID4224 
+
+TERRMID: MID4224 3 -- not territory 
+TERRMID-CER: MID4224 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4224 1 -- third party link to territorial MID
+TERRLINK-CER: MID4224 1 -- certain 
+TERRLINK-NOTES: MID4224 from Gibler 2018, Turkey threatened to intervene in Yugoslavia if the ongoing war over Macedonia spilled across the Turkish border. Coded third party link to territory because this was connected to the Yugoslav Wars, which had a territorial element, as Yugoslavia claimed all of Macedonia's territory.
+
+MARITMID: MID4224 3 -- not maritime 
+MARITMID-CER: MID4224 1 -- certain 
+MARITMID-NOTES: MID4224 this was connected to a maritime dispute between Yugoslavia and Macedonia since the former claimed all of the latter's territory. But there was no maritime dispute between Yugoslavia and Turkey. 
+
+ISLMID: MID4224 3 -- not islands 
+ISLMID-CER: MID4224 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4224 1 -- civil war MID
+CIVWARMID-CER: MID4224 1 -- certain 
+CIVWARMID-NOTES: MID4224 coded civil war MID because the Yugoslav Wars (including the war over Macedonia) had a civil war element, as ethnic Serbian rebel groups were fighting against the Macedonian goverment.
+
+CIVWARLINK: MID4224 1 -- civil war link 
+CIVWARLINK-CER: MID4224 1 -- certain 
+CIVWARLINK-NOTES: MID4224 coded civil war link because the Turkish government was concerned about the Yugoslav Wars as a whole and the danger of fighting spreading into Macedonia. Much militarized rebel activity was occurring outside Serbia (Kosovo, Croatia, etc.), and this fighting was connected to Turkey's threat to intervene. 
+
+COUPMID: MID4224 3 -- not coup 
+COUPMID-CER: MID4224 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4224 3 -- not coup link
+COUPLINK-CER: MID4224 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslav Wars featured fighting inside several states by militarized rebel groups organized along ethnic lines. In Yugoslavia, ethnic Serb and Albanian militias were fighting against each other, and ethnic Albanian militias were also fighting against Yugoslavian forces. 
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 from cm narrative, part of the Kosovo conflict involved fighting between ethnic Albanian and Serbian civilians. Insurgencies formed along ethnic lines and took part in the fighting. Coded civil war link because this civil war activity was connected to the UN/NATO involvement in Kosovo, bringing Turkey into this MID. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES:
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslav Wars featured fighting inside several states by militarized rebel groups organized along ethnic lines. In Yugoslavia, ethnic Serb and Albanian militias were fighting against each other, and ethnic Albanian militias were also fighting against Yugoslavian forces. 
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outide of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslav Wars featured fighting inside several states by militarized rebel groups organized along ethnic lines. In Yugoslavia, ethnic Serb and Albanian militias were fighting against each other, and ethnic Albanian militias were also fighting against Yugoslavian forces. 
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outide of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3551
+rivalry=345640 nationa=TURKEY/OTTOMAN EMPIRE nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19961002 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade. First day of dispute was on 7/16/1992 and last day of dispute was on 10/2/1996.
+
+MID4224
+rivalry=345640 nationa=TURKEY/OTTOMAN EMPIRE nationb=YUGOSLAVIA-SERBIA MID4224 19931108-19931108 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE
+fatalb=NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkey threatened to intervene in the Balkan civil war against Yugoslavia if the conflict spread to Macedonia. First and last day of dispute was on 11/8/1993.
+
+MID4137
+rivalry=345640 nationa=TURKEY/OTTOMAN EMPIRE nationb=YUGOSLAVIA-SERBIA MID4137 19980611-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+501-999 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 6/11/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=345640 nationa=TURKEY/OTTOMAN EMPIRE nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE
+fatalb=NONE fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4343
+rivalry=345640 nationa=YUGOSLAVIA-SERBIA nationb=TURKEY/OTTOMAN EMPIRE MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE
+fatalb=NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV920: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+RIV919: MID3.02 has recoded MID1251 as Bulgaria against everyone else in the Second Balkan War (1913).
+
+NARRATIVE-CM:
+Serbia declared war against Turkey on October 18, 1912, and Serbian troops commanded by General Radomir Putnik invaded Turkish Macedonia on October 19-20, 1912. Serbian troops defeated Turkish troops in the battle of Kumanova on October 24-26, 1912. Serbian troops captured Monastir from Turkish troops on November 15-18, 1912. Serbian and Turkish representatives agreed to a cessation of military hostilities on December 3, 1912, but the countries resumed military hostilities on February 3, 1913. Serbian and Turkish representatives signed the *Treaty of London *on May 30, 1913. Some 30,000 Turkish soldiers and 15,000 Serbian soldiers were killed during the conflict. Serbia declared war against Turkey on November 2, 1914. Turkey and the Allied countries agreed to a cessation of military hostilities in Mudros on October 30, 1918.
+
+SOURCES-CM: 
+Clodfelter, 1992, 613-614; Ference, 1994, Langer, 1972, 801-802, 943-979. 
+
+NARRATIVE-CR:
+Hostilities began between Yugoslavia and Turkey in 1912 with the onset of the First Balkan War (MID1250). Yugoslavia fought on the side of the Balkan League against the Ottoman Empire. The Serbians defeated Ottoman forces and helped to liberate Montenegro. Turkish forces were soundly defeated and an armistice was concluded in December of 1912 (www.onwar.com 2003). The peace was short lived after the Young Turks took control of Turkey in January of 1913 and the conflict resumed. Again, Turkey was defeated and lost almost all of its territory in Macedonia. The Second Balkan War (MID1251) began between Yugoslavia, Greece and Romania against Bulgaria (backed by Turkey) over the division of the lands won in the First Balkan War. Bulgaria attacked Serbian forces in June of 1913 (www.onwar.com 2003). Bulgaria was quickly defeated and a peace treaty was signed in August of 1913. Serbia gained the Kosovo region and gained several other territories in Macedonia (www.onwar.com 2003). The final dispute between the two nations was resolved with the end of the First World War (MID257). Turkey entered the war on the side of the central powers and Yugoslavia fought on the side of the Allied powers. Serbian forces actively engaged Austrian and Turkish forces, occupying and holding territories in both countries. Yugoslavia gained land Turkey following the defeat of the Central Powers, the borders established following WWI would remain until the dissolution of Yugoslavia in 1991 (Gerolymatos 2002). 
+
+The rivalry that began in 1992 between Yugoslavia and Turkey was in direct response to the dissolution of Yugoslavia in 1991 and the ethnic conflict under Milosevic. MID3551 and MID4224 are both related to the Bosnia conflict. MID4137 and MID4186 are both related to the Serbian treatment of Ethnic Albanians which is an ongoing dispute. The entire rivalry is the direct result of the dissolution of Yugoslavia and the ethnic conflict resulting. 
+
+SOURCES-CR:
+Gerolymatos 2002; www.onwar.com
+
+PS-NARRATIVE: 
+
+On January 31st, 1946, the new constitution of the Federal People's Republic of Yugoslavia was adopted, modeling the Soviet Union's. Yugoslavia was officially a Communist country. On February 26th, 1953, Turkey and Yugoslavia signed an export-import agreement of 70 million dollars, in an attempt to boost the trade relations between the two countries. On February 28th, 1953, Greece, Turkey and Yugoslavia signed a five years treaty of `friendship and cooperation', in which they pledged to defend each other. This was extended to a 20 years pact on August 9, 1954. On September 1st, 1954, Celal Bayar, President of Turkey started a 8-days official visit to Yugoslavia in reciprocation for Tito, Yugoslav leader's visit to Turkey in April 1954.
+
+On April 20th, 1979, Turkey and Yugoslavia signed a protocol on economic and trade cooperation. It was signed by Turkish deputy premier Hikmet Cetin and member of the Yugoslav Federal Executive Council Stojan Andov at the end of a three-day session of the Turkish-Yugoslav joint economic commission. Under the protocol, Yugoslavia will provide Turkey with a credit for building six ships. The protocol stipulates that the trade volume between the two countries will be increased and a joint tourism committee will be set up before June 1979 to discuss tourist cooperation. The two countries also agreed to launch joint projects in third countries.
+
+On August 8, 1980, the Turkish Finance Minister, Ismet Sezgin, has announced that a loan of 70,000,000 dollars had been procured from Yugoslavia for a ship-building project. In a statement to the TRT following his three-day official visit to Yugoslavia, Sezgin said that the loan would finance the machinery and equipment of five ships to be built by Turkey; he added that with the same loan Yugoslavia would build a freighter for Turkey. The Finance Minister pointed out that an agreement had been reached with Yugoslav officials whereby the Turkish TIR trucks, which used to pay high transit fees, would pay the minimum as of 30th September 1980, at the latest. Sezgin also said that an agreement had been reached under which Yugoslavia would compensate Turkish citizens, who had immigrated to Turkey from Yugoslavia, for the immovable property they had left behind.
+
+Sezgin said that they also agreed on the expansion and diversification of the volume of trade between Turkey and Yugoslavia; a Yugoslav delegation would arrive in Turkey in connection with that. He noted that joint projects would be undertaken with Yugoslavia for the construction of power lines and thermal and hydroelectric stations. In the course of his stay in Yugoslavia, the Minister visited the Uljanik shipyard in Pula and the 3rd May shipyard in Rijeka. He was received by Dragoljuv Stavrev, Vice-President of the Federal Executive Council, Ismet Sezgin left Yugoslavia on 7th August after conducting talks at the head of a Turkish economic delegation with a delegation of the Federal Executive Council led by Petar Kostic, Federal Secretary for Finance. In an interview which he granted to Tanjug at the end of his five-day stay in Yugoslavia, the Turkish Finance Minister stressed that the traditionally good relations between the two Mediterranean and Balkan countries would continue to be maintained. Petar Kostic announced that next year-following the two delegations' successful talks-trade between Yugoslavia and Turkey is to exceed 100,000,000 dollars. He added that the question of the property of Turkish citizens in Yugoslavia and of Yugoslav citizens in Turkey had also been discussed. The problem was expected to be solved satisfactorily at the session of the mixed commission in October. On his return to Istanbul on 7th August, Ismet Sezgin declared that Turkey and Yugoslavia must base their economics on stable foundations in order to assert their status as elements of political equilibrium and to play their role in promoting world peace. The two countries therefore wished to develop their economic and commercial co-operation further. Sezgin stated that the high rates being charged by Yugoslavia for Turkish lorries involved in international road haulage had been discussed A protocol envisaging co-operation in various fields between the two countries was signed in Belgrade on 7th August. The protocol stipulates that the volume of trade between Turkey and Yugoslavia should be increased to 100,000,000 dollars during the current year. 
+
+A joint communique was published in Belgrade on 23rd September, 1984, on the official friendly visit by Gen Kenan Evren, the Head of the Turkish Republic, to Yugoslavia. During his stay, the Turkish Head of State and his associates held talks with Petar Stambolic, President of the SFRY Presidency; Milka Planinc, President of the Federal Executive Council; Angel Cemerski, President of the Presidency of the SR of Macedonia; and other Yugoslav personalities. The two sides agreed to undertake all necessary measures to achieve a balanced trade exchange and the quickest possible promotion of trade relations between the two countries. They expressed the wish that the relevant bodies of the two countries should conclude as soon as possible an agreement on Turkey's export of mineral products to Yugoslavia and Yugoslavia's delivery of two multi-purpose tankers and a ferry to Turkey. Co-operation between the two countries in the cultural field was also considered. The two sides expressed their conviction that the rich historic and cultural heritage of the peoples of Turkey and Yugoslavia represented a solid basis for the all-round development of co-operation in this field; a considerable contribution is being made here by the program of cultural exchanges between the two countries. They agreed that full implementation of this program will contribute to strengthening mutual understanding and friendship between the peoples of the two countries.
+
+On October 16, 1984, Turkish President Kenan Evren said that further strengthening of friendly relations between Turkey and Yugoslavia will make greater contributions to peace and stability in the Balkan area. I believe that my talks with the President of the Presidency of the Socialist Federal Republic of Yugoslavia Veselin Djuranovic will promote the economic cooperation between the two countries, he added. Djuranovic will visit Turkey from October 16 to 18, 1984.
+
+Yugoslavia and Turkey will further strengthen their economic and technical cooperation, visiting Yugoslav Foreign Trade Minister Milenko Bojanic told the press on February 26, 1986, before his departure from Turkey. He said that the two countries will cooperate in many fields, including highway, sea, air and transport and industry. He said that Yugoslavia will cooperate with Turkey in developing tourism and banking business and the two countries will take part in projects on joint contract in third countries such as the Bekme dam project in Iraq. Bojanic pointed out that there is a big possibility and potential for Yugoslavia to invest in Turkish agriculture. He said the number and volume of the bilateral cooperation items will be finalized at the meeting of the joint economic committee to be held in May. He said that Turkey will participate in the international fair to be held in September in Zagreb, Yugoslavia. The volume of trade between Turkey and Yugoslavia reached 128 million US dollars in 1985. Turkey imported from Yugoslavia merchandise worth 101 million US dollars in 1984, while its exports to Yugoslavia reached to 28.95 million US dollars.
+
+Mijat Sukovic, President of [the] Foreign Affairs Commission of the Yugoslav parliament, and the delegation accompanying him were received on March 17, 1987 by Deputy Prime Minister Kaya Erdem and Deputy Speaker of the Turkish parliament, Arif Sevket Bilgin. On receiving his guests, Erdem said such contacts will help promote relations between Turkey and Yugoslavia. Sukovic, on his part, said promotion on relations between the parliaments of the two countries will help develop trade relations. Sukovic also expressed pleasure at the non-existence of any political problem between Turkey and Yugoslavia.
+
+On 11th April 1991, the SFRY Presidency President Borisav Jovic, who is on a visit to Turkey, has said that ''the Yugoslav-Turkish talks in Ankara have been successful and that all modalities of economic cooperation between the two countries have been established''. He told Yugoslav journalists after the Yugoslav-Turkish talks that ''a step further has been taken in briefings on the socio-political trends in the two friendly countries''. Borisav Jovic said that the talks were dominated by ''the desire of the hosts that Yugoslavia should remain a united country''. He added that the Turkish side had assessed that it was essential to have a stable economic system based on a market economy, which would also contribute to stable political relations''. The Presidency President added that the European integration processes were also discussed and that ''it was stated that both Yugoslavia and Turkey are interested in membership of European associations''.
+
+Slobodan Milosevic, President of the Republic of Serbia, and Foreign Minister Vladislav Jovanovic have arrived in Turkey on January 23, 1992 for a brief working visit. President Milosevic and Minister Jovanovic were greeted at Ankara airport by Deputy Prime Minister Erdal Inonu and Turkish Foreign Minister Hikmet Cetin. After a warm and friendly welcome, Milosevic and Inonu made brief statements to the numerous journalists. Inonu welcomed the delegation from Serbia and wished it a successful visit. He stressed that Turkey considered Yugoslavia a neighboring country and therefore events in it were followed with great attention and concern. The Turkish Deputy Prime Minister said that Turkey wanted the Yugoslav crisis to be resolved by the peoples in Yugoslavia themselves. With the recognition of Slovenia and Croatia the crisis in Yugoslavia had reached a new stage. Inonu said that until that moment, Turkey had supported the integrity of Yugoslavia. We have always advocated a peaceful global solution, which would also be a contribution to peace in the region. Inonu stressed that Turkey had always been in favor of dialogue with all sides involved in the Yugoslav problem. Expressing the belief that the Yugoslav crisis could be resolved in a peaceful way, Inonu underscored Turkey's desire to develop relations with Serbia in the future. As regards the Yugoslav crisis, Milosevic referred to Inonu's assessment that the best solution was for the Yugoslav peoples to decide it themselves and stressed that Serbia particularly valued this stand. In this sense, Milosevic said that all countries which wanted a peaceful solution should refrain from premature decisions until the end of the negotiation process on future relations in Yugoslavia. Milosevic expressed the hope that a peaceful solution to the Yugoslav crisis would be found through dialogue without additional pressures from outside.
+
+On February 6, 1992, Turkey decided to recognize the four new republics that have proclaimed independence from Yugoslavia. Turkey made the decision at a cabinet meeting chaired by Prime Minister Suleyman Demirel. After the meeting, government spokesman Akin Gonen said that Turkey would establish diplomatic relations with the republics of Serbia, Slovenia, Macedonia and Croatia through signing of separate protocols.
+
+On May 31st, 1992, Turkey announced that it will implement UN Security Council Resolution 757 on imposing sanctions against Yugoslavia. The resolution adopted Saturday imposed a ban of all trade, including vital oil shipments, on Yugoslavia to punish its continued attacks against Bosnia and its Muslim majority. The statement said that turkey will stop "all activities with Yugoslavia on the fields of trade, economy, sports, technology and culture, and give no permission to all aviation flights between the two countries." The statement said that since the beginning of the fighting, Turkey has made every effort to try to stop the conflict in the region. Earlier this week, Ankara withdrew its ambassador from Belgrade, saying that "Turkey has taken this decision as it has become apparent that Serbia will not abandon its support and encouragement for attacks on Bosnia which have exceeded all limits to turn into expansionism and inhumanity." The statement said that "Turkey also hopes the UN decision will be the last warning" in the efforts of international society in resolving the problem by "peaceful means."
+
+The first MID of RIV920, MID3551 was in response to Yugoslav involvement in Bosnian civil war. Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, Belgium, France, Germany, Greece, Turkey, Spain, Portugal and Italy. MID3551 started on July 15, 1992.
+
+20001129-20159999 .5
+
+The last MID of RIV920, MID4343 ended on November 29, 2000. This dispute is linked to MID4186. It also deals with the relationship between NATO and Yugoslavia. During this period KFOR continued to patrol the border between Kosovo and Yugoslavia. A number of rebels from Kosovo continued to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia moved tanks to the Kosovar border in an effort to crack down on Albanians crossing the border to attack Serb police. 
+
+On 2 March, 2001, the Turkish Foreign Minister Ismail Cem who came to Belgrade, Yugoslavia for an official visit, met his Yugoslavian counterpart Goran Svilanovic the same afternoon. Speaking to the press after the meeting, Cem and Svilanovic underlined the fact that the political and economic relations between the two countries have to further improve, adding the improvement of relations won't only serve the interests of Turkey and Yugoslavia, but also the interests of the regional countries. Svilanovic said that Turkey is an important state both for Yugoslavia and also all the region, adding that the commercial relations between the two countries were very good in the past. He stressed that they discussed the methods of improving the cooperation at the inter-delegates meetings. Cem said in his part that Turkey will extend support to the efforts of the new government in Yugoslavia to improve its democracy and development, adding that "I believe that the new democratic government in Yugoslavia will succeed in that. Turkey regards Yugoslavia as one of its important friends and partners in the past and future leaving aside the problems in the relations in the last few years."
+
+Cem said that they took up the latest situation in Kosovo and Montenegro in the meeting. The two ministers also published a joint declaration saying that relations between the regional countries should be normalized, adding that the principles of sovereign equality and good neighborhood have vital importance for improving the prosperity and stability in the Balkans. Turkish Foreign Minister Ismail Cem and his Yugoslavian counterpart Goran Svilanovic stressed that the financial and economic cooperation between the two countries has to further develop. Issuing a joint statement to the press after their tete-a-tete and inter-delegationary meetings, Cem and Svilanovic said that the trade between the two countries which is lower than the real potential should be improved by the governments and non-governmental initiatives. Cem and Svilanovic said that Turkey and Yugoslavia have to undertake common investments in the construction sector. The two ministers also signed a protocol which foresees regular exchange of views between the two foreign ministries. Foreign Minister Ismail Cem was expected to be received also by Yugoslavian President Vojislav Kostunica and Serbian Prime Minister Zoran Djindjic.
+
+The representatives of Yugoslavia and Turkey signed on 11 April, 2002, in Istanbul, in the presence of Yugoslav Foreign Minister Goran Svilanovic, an agreement on the founding of a business council of Yugoslavia and Turkey and on the cooperation of the chambers of commerce of the two countries.
+
+Addressing earlier in the day members of the council for international economic relations of Turkey, Svilanovic voiced hope that between the two countries will be signed an agreement on free trade, which, he assessed, will spur bilateral economic cooperation, but also give an impetus to economic relations in the region. 
+
+The Turkish Ministry of Foreign Affairs said on 6 February, 2003, that Turkey wanted to maintain its friendly relations and close cooperation with "Serbia and Montenegro". Releasing a statement, the Ministry of Foreign Affairs said that Turkey would establish close relations with Serbia and Montenegro. Turkey wished that the evolution in Serbia and Montenegro with which Turkey was establishing close relations again-after problems in former Yugoslavia that occurred in 1990's were overcome to a great extent-would contribute to prosperity, tranquillity and stability not only in this union, but also in the Balkans, the ministry said, and added that Turkey wanted to maintain its friendly relations and close cooperation with Serbia and Montenegro. On 4 February 2003, the Yugoslav parliament adopted a Constitutional Charter and replaced the Federal Republic of Yugoslavia with union of Serbia and Montenegro that was based on partnership of two equal member states.
+
+There is not a single controversial issue between Turkey and Serbia-Montenegro which could influence economic cooperation between the two countries, the Serbia-Montenegro minister for human and minority rights, Rasim Ljajic, assessed on May 28, 2003, during the opening of a session of the Business Council of Serbia-Montenegro and Turkey, which was also attended by representatives of 14 Turkish companies. Ljajic recalled that at the beginning of the 1990s, the exchange of goods between Turkey and Serbia-Montenegro had exceeded 350m dollars, whereas in 2003 it barely reached 130m with an express deficit on the Serbia-Montenegro side. Emphasizing that the role of politicians was to create a climate conducive to the development of economic and democratic processes, Ljajic noted that the two countries had signed five important agreements during the past two years, noting that the signing of an additional six agreements-among which a free trade agreement was the most important-was in progress. The minister for foreign economic cooperation, Branko Lukovac, said in more precise terms that of the 130m dollars' worth of trade, Serbia-Montenegro realized only 5m in exports to Turkey. According to the Serbia-Montenegro foreign minister's aide, Jelica Milic, Turkey was a significant factor for stability in the region and around 38 per cent of its investments were directed towards the western Balkans. Milic noted that Serbia-Montenegro expected Turkey's participation in privatization as it had great investment potential, as well as its participation in the construction of the Nis-Sofia motorway. The chairman of the Serbian Chamber of Commerce, Radoslav Veselinovic, specified in more precise terms that the Business Council had gathered more than 60 companies, and he called on representatives of those firms to set up joint ventures and projects in other markets, as well as joint production and privatization initiatives. The chairman of the Turkish part of the Business Council, Faruk Cengic, said that the Turkish economy registered a constant growth of exports and he concluded that the greatest potential for improving economic relations between Turkey and Serbia-Montenegro was to be found in the area of the textile, pharmaceutical and food industries.
+
+Turkish President Ahmet Necdet Sezer on February 12, 2004, voiced support for plans to include Serbia-Montenegro in NATO's "partnership for peace" program, saying the country's participation would help bring stability to the Balkans. Sezer's comments came during a visit by Serbia-Montenegro's president, Svetozar Marovic, who is in Turkey for two-days of talks aimed at strengthening economic and political ties. NATO officials have said Serbia-Montenegro, along with Bosnia, could be invited to join NATO's outreach program when the alliance holds its June summit in Istanbul. The invitation, however, is conditional on cooperation with the hunt for war crimes suspects, defense reforms and dropping a complaint at the international court over NATO's bombing raids during the 1999 Kosovo war. Turkey backed NATO's 1999 air war to halt Serb forces' crackdown on independence-seeking ethnic Albanians in Kosovo. Relations have been improving since former President Slobodan Milosevic fell in 2000. About 350 Turkish troops serve as part of the 20,000-member NATO-led peacekeeping mission deployed in Kosovo since mid-1999. "Even though we do not have common borders, Turkey and Serbia-Montenegro consider themselves to be neighbors," Sezer said earlier, during a welcoming ceremony. "Developing ties between our countries will undoubtedly strongly contribute to strengthened regional peace and stability."
+
+Serbia-Montenegro signed a military agreement with Turkey on August 19, 2004-the Balkan country's first arms deal with a NATO member in more than a decade and a step toward closer cooperation with the alliance. Turkish Defense Minister Vecdi Gonul and his Serbia-Montenegro counterpart, Prvoslav Davinic, signed the document in Serbia-Montenegro's capital, Belgrade. The agreement includes provisions for developing, producing and jointly selling arms, but few details were revealed. "This is a significant step in Serbia-Montenegro's efforts for cooperation with NATO," Davinic said. In 1999, NATO led a 78-day air war to end a Serb crackdown on ethnic Albanians seeking independence in Serbia's southern province of Kosovo. But since democratic leaders ousted former President Slobodan Milosevic in 2000, Serbia-Montenegro has sought closer ties with the alliance. It hopes to join Partnership for Peace, an alliance outreach program considered a stepping stone to full NATO membership. Scores of NATO officials have visited Belgrade since 2000 amid efforts to downsize and modernize the army of Serbia-Montenegro, the Balkan country formerly known as Yugoslavia. But the deal with Turkey is the first in more than a decade with a NATO country on specific technical cooperation envisaged to lead to arms production. Gonul said the cooperation should be "useful for both countries." He also met with Serbia's Prime Minister Vojislav Kostunica and is expected to visit an arms factory in central Serbia and an elite military unit during his four-day tour.
+
+On October 13, 2005, as two countries both striving to become members of the European Union, Turkey and Serbia and Montenegro have pledged closer political and economic cooperation. "Serbia and Montenegro and Turkey are ready to strengthen their political and economic partnership,especially in view of the latest EU decisions," to start negotiations on possible future membership for the two Balkan states, said a statement after talks between Turkish Foreign Minister Abdullah Gul and Serbia and Montenegro President Svetozar Marovic. While opening last week accession talks between Turkey and the bloc, the EU foreign ministers also gave the go-ahead to negotiations for a Stabilization and Association Agreement (SAA) with Serbia and Montenegro. Gul and Marovic said in the statement that "the enhanced association of the Balkan states with the EU institutions is a precondition for overall stability" of the still-volatile southeastern European region. Gul arrived in Belgrade late on Tuesday following a visit to Serbia's southern Kosovo province, which has been run by the United Nations and NATO since 1999. 
+
+-`Turkey attaches high importance to relations with Serbia," Turkish National Defence Minister Vecdi Gonul said on December 13, 2006 after meeting his Serbian counterpart Zoran Stankovic in Ankara. Speaking to press at a joint news conference, Gonul said this was the first visit of Stankovic to Turkey, indicating that Stankovic visited industrial institutions like Havelsan and Aselsan during the visit. Gonul emphasized that the Balkans was a very important region for Turkey, and noted that, "Serbia is a very important country of this region. Turkey is willing to have more cooperation with this country."
+
+Gonul said Serbia progressed in international relations, "it has gained an observer status in Southeastern Europe Defence Ministerial Process," he added. Gonul said the visit was an opportunity to boost relations. On the other hand Stankovic said his country aims to improve comprehensive relations with Turkey. "Turkey is a leading country in its region. Its army has high capabilities. Significant progress has been made particularly in defence industry. We are willing to share Turkey's experiences," he added. "Our two countries may share experiences in countering terrorism which is a problem for both countries," he noted.
+
+PS-SOURCES: New York Times February 27, 1953; March 1, 1953; November 8, 1953; November 20, 1953; August 10, 1954; Xinhua April 21, 1979; October 16, 1984; February 27, 1986; January 5, 1992; February 6, 1992; May 31, 1992; BBC August 12, 1980; August 19, 1980; September 25, 1982; June 24, 1983; October 28, 1986; March 19, 1987; July 15, 1987; April 13, 1991; January 27, 1992; March 2, 2001; April 11, 2002; February 6, 2003; May 28, 2003; December 13, 2006; Agence France Presse April 12, 2002; Associated Press February 12, 2004; August 19, 2004; Turkish Daily News October 13, 2005
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

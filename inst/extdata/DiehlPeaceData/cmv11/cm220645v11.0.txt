@@ -1,0 +1,316 @@
+FILE: cm220645v11.0.txt
+DYAD: FRANCE-IRAQ
+RIVALRY: RIV579
+DISPUTE(S): MID3957 MID3974 MID3552 MID3568 MID4269 MID4273 
+RIVNOTES: 
+
+PS: 19321003-19400622 0.5 19900808-19990111 0.00 19990112-20030319 0.25 20030320-20050711 -9 20050712-20100711 0.5
+
+PS-NOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20220301
+PS-LAST-CHECKED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from (Gibler 2018), this is the Iraqi invasion of Kuwait. France, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and France became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3974 
+
+TERRMID: MID3974 3 -- not territory 
+TERRMID-CER: MID3974 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3974 3 -- not third party link to territory 
+TERRLINK-CER: MID3974 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3974 3 -- not maritime 
+MARITMID-CER: MID3974 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3974 3 -- not islands 
+ISLMID-CER: MID3974 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3974 1 -- civil war MID
+CIVWARMID-CER: MID3974 1 -- certain 
+CIVWARMID-NOTES: MID3974 from cm narrative, this MID is connected to the enforcement of no-fly zones over Iraq, and is multilateral. The US, UK, and France enforced the no-fly zone over Iraq, who consistently fired at patrol jets. Saddam Hussein had been trying to wipe out opposition groups, including militarized rebel groups, who were trying to overthrow the regime. Bush Sr. also called for revolution in the country. Coded civil war MID because the civil war activity in Iraq drove events of this MID, as the US, UK, and France were trying to prevent Saddam Hussein from attacking rebel groups. 
+
+CIVWARLINK: MID3974 3 -- not civil war link 
+CIVWARLINK-CER: MID3974 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3974 3 -- not coup 
+COUPMID-CER: MID3974 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3974 3 -- not coup link
+COUPLINK-CER: MID3974 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3552 
+
+TERRMID: MID3552 3 -- not territory 
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain 
+CIVWARMID-NOTES: MID3552 from cm narrative, this is a multilateral MID involving Iraq vs. the US, UK, France, Kuwait, Saudi Arabia, and Russia. Iraq denied UN weapons inspectors entrance to various sites in Iraq, receiving protests in response, contributing to this MID. Also, Iraq threatened the safety of planes enforcing the no fly zone. In January 1993, the US, UK, and France raided several anti-aircraft missile sites. In June 1993, Iraq again refused UN access to a weapons plant. In June 1993, the US launched a cruise missile at an Iraqi inteligence headquarters building in response to an assassination attempt on Bush Sr as he was visiting Kuwait. Coded civil war MID because some of the events of this MID are connected to the no fly zone over Iraq, which was being enforced due to Saddam Hussein's attempts to conduct politicide against militarized rebel groups and civilians in parts of Iraq. 
+
+CIVWARLINK: MID3552 3 -- not civil war link 
+CIVWARLINK-CER: MID3552 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES:
+
+MID3568 
+
+TERRMID: MID3568 3 -- not territory 
+TERRMID-CER: MID3568 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3568 1 -- third party link to territorial MID
+TERRLINK-CER: MID3568 1 -- certain 
+TERRLINK-NOTES: MID3568 from cm narrative, this mid involved Iraq versus Kuwait, France, the UK, and the US. Iraq and Kuwait are the primary disputants, and the US, UK and France are also involved because of their defense of and support for Kuwait. (This occurred in August 1992, shortly after the Gulf War in which Saddam Hussein was expelled from Kuwait.) The border between Iraq and Kuwait was disputed; Iraq claimed Kuwait as its territory. Iraq set up border posts inside Kuwaiti territory, sparking border clashes and triggering this MID. Coded third party link to territorial MID because Iraq was attempting to encroach on Kuwaiti territory and the border was disputed, and France was pulled in by supporting Kuwait. 
+
+MARITMID: MID3568 3 -- not maritime 
+MARITMID-CER: MID3568 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3568 3 -- not islands 
+ISLMID-CER: MID3568 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3568 1 -- civil war MID
+CIVWARMID-CER: MID3568 1 -- certain 
+CIVWARMID-NOTES: MID3568 the events of this MID also include Iraqi violations of the no-fly zone in Iraq. The no-fly zone was enforced by US, UK, and France to stop Hussein from attacking minority groups, including militarized rebel groups, in Iraq. In response to Iraq's violation, the US, UK, and France attacked Iraqi missile stations and radars. Coded civil war MID because some of the events of this MID are connected to the no fly zone over Iraq, which was being enforced due to Saddam Hussein's attempts to conduct politicide against militarized rebel groups and civilians in parts of Iraq. 
+
+CIVWARLINK: MID3568 3 -- not civil war link 
+CIVWARLINK-CER: MID3568 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3568 3 -- not coup 
+COUPMID-CER: MID3568 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3568 3 -- not coup link
+COUPLINK-CER: MID3568 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4269 
+
+TERRMID: MID4269 3 -- not territory 
+TERRMID-CER: MID4269 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4269 1 -- third party link to territorial MID
+TERRLINK-CER: MID4269 1 -- certain 
+TERRLINK-NOTES: MID4269 from cm narrative, MID4269 is another multilateral mid involving Iraq versus Bahrain, France, Kuwait, Oman, the UAE, the UK, and the US. This mid occurred from August of 1994 until October of 1995. In October 1994, Iraq threatened to stop cooperating with UNSCOM and the IAEA. Iraq then moved troops toward the Kuwaiti border, which was disputed (Iraq claimed all of Kuwait's territory as its own). The US, UK, France, Bahrain, Oman, and the UAE mobilized in return to deter Iraq. Coded third party link to territorial MID because this MID was partly triggered when Iraq threatened to invade Kuwait again and attempt to advance its territorial claim. 
+
+MARITMID: MID4269 3 -- not maritime 
+MARITMID-CER: MID4269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4269 3 -- not islands 
+ISLMID-CER: MID4269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4269 3 -- not civil war 
+CIVWARMID-CER: MID4269 1 -- certain 
+CIVWARMID-NOTES: MID4269 several of the countries in this multilateral MID were enforcing a no fly zone, which was connected to civil war activity in Iraq, but that was not connected to the events of this MID. 
+
+CIVWARLINK: MID4269 3 -- not civil war link 
+CIVWARLINK-CER: MID4269 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4269 3 -- not coup 
+COUPMID-CER: MID4269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4269 3 -- not coup link
+COUPLINK-CER: MID4269 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273 
+
+TERRMID: MID4273 3 -- not territory 
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain 
+TERRLINK-NOTES: MID4273 also featured some clashes along the Kuwait-Iraq border which was disputed, but this was not connected to the territorial dispute and was instead connected to the US/coalition invasion of Iraq, as Kuwait was friendly with western forces. 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain 
+CIVWARMID-NOTES: MID4273 from (Gibler 2018), this is the leadup and beginning of the US/coalition invasion and occupation of Iraq. The US, UK, France, and other coalition forces were attempting to coerce Iraq into complying with weapons inspections. Iraq also threatened the planes enforcing the no-fly zone over Iraq, who were keeping Iraq from attacking rebel groups within its borders. Coded civil war MID because this involved threats by Iraq to US and UK war planes involved in preventing civil war activity between the regime and rebel groups in Iraq. 
+
+CIVWARLINK: MID4273 3 -- not civil war link 
+CIVWARLINK-CER: MID4273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3552
+rivalry=220645 nationa=FRANCE nationb=IRAQ MID3552 19920826-19930122 
+ revtype1a=NOT APPLICABLE revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 8/26/1992 and last day of dispute was on 1/22/1993.
+
+MID3568
+rivalry=220645 nationa=IRAQ nationb=FRANCE MID3568 19930112-19930113 
+ revtype1a=TERRITORY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=THREAT TO USE FORCE 
+
+MID3568 has three new participants: the United States, United Kingdom, and France. Deleted DisputeFirst day of dispute was on 1/12/1993 and last day of dispute was on 1/13/1993.
+
+MID4269
+rivalry=220645 nationa=FRANCE nationb=IRAQ MID4269 19941009-19941020 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated. Coder: Ric Stoll. Date: 8/2/02. First day of dispute was on 10/9/1994 and last day of dispute was on 10/20/1994.
+
+MID4273
+rivalry=220645 nationa=FRANCE nationb=IRAQ MID4273 19991022-19991022 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First and last day of dispute was on 10/22/1999.
+
+NOTE THAT FRANCE IS ONLY INVOLVED FOR ONE DAY OF MILITARY EXERCISES
+
+NARRATIVE-CR:
+This period of rivalry between France and Iraq is populated with disputes that begin with the Gulf War of 1990-1991 and are followed by a series of disputes related to coalition enforcement of no fly zones and sanctions imposed on Iraq by the winning coalition which included France. In August 1990 France made it clear that it will take action, together with other countries against Iraq and started deploying in the region. 
+
+On February 24th, 1991, the ground offensive against Iraq started. France had 15,000 men deployed to the region. On March 1st, 1991 the Soviet Union is tasked with representing French interests in Iraq and Iraqis in France. In June 1994, a delegation of French businessmen visits Iraq with a view to a possible lifting of the international embargo imposed on Iraq in 1990. MID3957 is the Persian Gulf War. The Gulf War was a conflict between Iraq and a coalition force of 34 nations led by the United States which included France. The result was a decisive victory of the coalition forces, which were able to drive Iraqi forces out of Kuwait quickly and with minimal coalition deaths. The main battles were aerial and ground combat within Iraq, Kuwait, and bordering areas of Saudi Arabia. 
+
+MID3974 occurred from March until December of 1991. This mid is called the Iraqi No-fly-zone Violations and includes the US, the UK, and France v. Iraq. On March 7th, 1991, following a Kurdish insurrection in northern Iraq and a Shiite uprising in the south, France, the United States and Britain set up an air exclusion zone in the north and launch the "Provide Comfort" aid operation for Kurdish refugees. As the name implies this mid involved patrol of areas in the north and south of Iraq as Hussein attempted to put down rebellion of Shiites in the south and Kurds in the north after Bush called for revolt within the country. During this period the Iraqi military engaged with and fired on US war planes patrolling the no fly zones as a violation of their sovereignty. 
+
+MID3552 is another multilateral mid that occurred from July of 1992 until the close of 1993. This mid included Iraq versus the US, the UK, France, Kuwait, Saudi Arabia, and Russia. There were a number of incidents in this mid. In July Iraq refused to allow UN inspectors to various sites in Iraq. In August, a no fly zone was established in the south of the country. In January of 1993, Iraq announced that it could not guarantee the safety of UN war planes patrolling the no fly zones. The US, UK, and France conducted air raids on Iraqi anti-aircraft missile sites in southern Iraq, at an industrial complex in Baghdad and in northern Iraq. In June, of 1993, Iraq refused UN access at a weapons plant. In June, the US launched a cruise missile attack at Iraqi intelligence headquarters in retaliation for an assassination attempt at former President Bush in Kuwait. On September 30th, 1993, Iraq opens a section for Iraqi interests in Paris, represented by Morocco. In October the same year, Iraq's deputy prime minister Tareq Aziz goes to Paris for "medical reasons" in what was the first visit by a senior Iraqi official in a coalition country since the war.
+
+MID3568 is another multilateral mid that occurred from August of 1992 until January of 1994. This mid involved Iraq versus Kuwait, France, the UK, and the US. In this mid, Iraq's principal adversary is Kuwait. This mid covers a period of lingering hostility towards Kuwait. Sadaam Hussein made a speech in Baghdad in which he threatens the Kuwaiti royal family. The Iraqis had established police posts inside the Kuwaiti border and Kuwait wanted them removed. Iraq did not remove them immediately after the Gulf War. In November of 1993, Iraq and Kuwait exchanged fire in Abdali a city that straddles the border. The border between the two countries is in dispute and in the aftermath of the Gulf War this region was a point of contention as several Iraqis were forced to vacate their farms. 
+
+MID4269 As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated. On September 27th, 1994, the first public meeting between Tareq Aziz and then French foreign minister Alain Juppe takes place in New York. On March 1st, 1995, a section of French interests in Baghdad was opened, and was represented by Romania. In April 1995, Paris helps to push through a UN Security Council resolution permitting Iraq to sell a limited quantity of oil in order to buy food and medicines. Baghdad takes 20 months to accept the text which gives the UN control over oil revenues. On December 27th, 1996, France refuses to take part in the new air surveillance force in Iraqi Kurdistan, which will replace Operation Provide Comfort. 
+
+MID4273 The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On October 23rd, 1997, Paris abstains from a vote on resolution 1134 calling for new sanctions to force the Iraqi authorities to cooperate with the UN and allow the body to continue inspections of Iraqi weapons. France wants a diplomatic solution, unlike the United States and Britain who favour a tough line.On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. In 1998, France plays a key role in a peaceful resolution of a new clash between Baghdad and the UN. Paris proposes solutions to allow UN inspectors free access to sites which may be used to conceal illegal weapons and pushes for a visit to Baghdad by UN Secretary General Kofi Annan. 
+
+On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In mid November, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. 
+
+France and Iraq have a complicated relationship that merits discussion and informs the rivalry. In the 1950s, French President Charles de Gaulle tried to establish good relationships with Third World nations. During the late 50's and early 60's, De Gaulle developed good relations with several nations in Africa. In time, these contacts enabled France to make new friends in the Arab world. While most of the Arab nations were under monarchies, revolutionaries had overthrown Iraq's government. The French exploited this opportunity by warming up to then Iraqi regime. One of the men instrumental in this relationship was Jacques Benoist Mechin, a French historian and military expert. He was very familiar with the Middle East and a confidant to most Arab leaders. He developed stong ties with Iraq. 
+
+In 1974, France sold two reactors to Iraq, with the agreement signed during Hussein's visit. The Iraqis purchased a 70-megawatt reactor, along with enough weapons-grade uranium to produce three to four nuclear devices. Baghdad also purchased a one-megawatt research reactor, and France agreed to train 600 Iraqi nuclear technicians and scientists-the core of Iraq's nuclear capability today. 
+
+France also agreed to sell Iraq $1.5 billion worth of weapons-an integrated air defense system, about 60 Mirage F1 fighter planes, surface-to-air missiles and advanced electronics. The Iraqis, for their part, agreed to sell France $70 million worth of oil. 
+
+In 1981, Iraq's nuclear reactor is destroyed by the Israeli's and Iraq goes to war with Iran. Newly elected French President Francois Mitterand continues the relationship with Iraq, betting that Iraq will win the war and therefore become the dominant power in the Middle East. Mitterrand eventually agrees to resume and even upgrade French cooperation with Iraq, both supplying weapons and entering into industrial partnerships. 
+
+Following the 1991 Gulf War, France and Russia were the first to begin to push for an easing of sanctions against Iraq. 
+
+SOURCES-CR:
+Metz, 1988; (See Sources for cm002645 and MID Dispute Narratives-MID 3.0 dataset Correlates of War 2 project http://cow2.la.psu.edu)
+
+PS-NARRATIVE:
+
+19459999-19900807 0.5
+
+France and Iraq have a complicated relationship that merits discussion and informs the rivalry. In the 1950s, French President Charles de Gaulle tried to establish good relationships with Third World nations. During the late 50's and early 60's, De Gaulle developed good relations with several nations in Africa. In time, these contacts enabled France to make new friends in the Arab world. While most of the Arab nations were under monarchies, revolutionaries had overthrown Iraq's government. The French exploited this opportunity by warming up to then Iraqi regime. One of the men instrumental in this relationship was Jacques Benoist Mechin, a French historian and military expert. He was very familiar with the Middle East and a confidant to most Arab leaders. He developed strong ties with Iraq. In the mid-70s, Iraq's closest ties were with France, which came to rank second to the Soviet Union as a source of foreign weapons. Iraq imported billions of dollars worth of French capital and consumer goods during the 1970s and signed several agreements with French companies for technical assistance on development projects. A major project was the Osiraq (Osiris-Iraq) nuclear reactor, which French engineers were helping to construct at Tuwaitha near Baghdad before it was bombed by Israel in June 1981. On June 18, 1972, Iraq guaranteed to France that will continue receiving oil from nationalized Kirkuk Fields for 10 years under conditions prevailing prior to June 1,1972 nationalization of Iraq Petroleum Co. Iraq National Oil Co. says France will get special prices for oil under 23.75% of production but will pay 'world commercial' price for amounts exceeding percentage. In 1974, France sold two reactors to Iraq, with the agreement signed during Hussein's visit. The Iraqis purchased a 70-megawatt reactor, along with enough weapons-grade uranium to produce three to four nuclear devices. Baghdad also purchased a one-megawatt research reactor, and France agreed to train 600 Iraqi nuclear technicians and scientists-the core of Iraq's nuclear capability today. France also agreed to sell Iraq $1.5 billion worth of weapons-an integrated air defense system, about 60 Mirage F1 fighter planes, surface-to-air missiles and advanced electronics. The Iraqis, for their part, agreed to sell France $70 million worth of oil. French Government announced on December 3, 1974 that France and Iraq have agreed on series of business deals worth $1-billion, but denies that Iraq granted France $1-billion loan. Agreements were signed by French Prime Minister Jacques Chirac during his visit to Baghdad that ended on December 2, 1974. Chirac and Iraqis signed a contract for delivery by French corporation Pechiney of aluminum plant worth $80-million and another contract for building a military hospital worth $160-million. An agreement in principle was also reached for setting up petrochemical complex of plants worth $700-million. The visit to Iraq by the French Prime Minister signifies the level of close relations existing between the two countries in the mid-70s. Economic links with France became especially important after the war with Iran had begun. Arms purchases from France, for example, continued in the 1980 to 1982 period when the Soviet Union was withholding weapons supplies. France also provided Iraq generous credits, estimated at US$7 billion, during 1980 to 1983 when oil revenues were severely reduced on account of the war related decline in exports. To demonstrate its support further, in 1983 France provided Iraq with advanced weapons, including Exocet missiles and Super Etendard jets, which Iraq subsequently used for attacks on Iranian oil loading facilities and on tankers carrying Iranian oil. Newly elected French President Francois Mitterand continues the relationship with Iraq, betting that Iraq will win the war and therefore become the dominant power in the Middle East. Mitterrand eventually agrees to resume and even upgrade French cooperation with Iraq, both supplying weapons and entering into industrial partnerships. Next to the Gulf states France had probably the largest stake in Iraq in the 1980s. About 6,000 French nationals were employed on projects under construction in Iraq. The government has guaranteed investments of about $4.75 billion in Iraq and is politically committed to the Baghdad government, which France sees as a key to stability in the region. In June 1986, Tariq Aziz, Iraqi deputy prime minister, held regular talks with both Chirac, widely regarded as the architect of France's pro-Iraqi policy while prime minister in 1975, and President Francois Mitterrand. French officials said he was told by both that France would fulfill its commitments to Iraq. These types of meetings between high ranking Iraqi and French officials were common during the 1980s. In December 1987, France was reported to be planning to supply Iraq with 12 more Mirage F-1 fighter jets and to help build there a fighter aircraft repair and maintenance facility. The Dassault-Breguet aircraft group acknowledged that it was having talks with Iraq. However, the company would not confirm that the talks involved the sale of F-1s, and added that no contract had been signed. Iraq has sought for some time to buy additional Mirages to replace those destroyed or damaged in its war with Iran. France, which with the Soviet Union is Iraq's principal arms supplier, has sold 137 F-1s to Iraq since 1977. New arms sales to Iraq would underline France's continuing commitment to its traditional policy of support of Iraq in the Gulf war despite the improvement in its relations with Tehran during the late 1980s. In 1989, Iraq's exports to France amounted to 5.45 billion French Francs (about 950 million US dollars), among which oil exports made up 98 percent. About 35 French companies have contributed to the overall export increase since 1970. These French firms operate in Iraq in such projects as telecommunications, engineering, computer, electricity and water. 
+
+French defense minister Jean Pierre Chevenement made a three-day visit to Iraq in January 1990. After a series of talks with Iraq's senior leaders on military cooperation, Chevenement discussed with Iraq's first deputy prime minister Taha Yassin Ramadan bilateral relations and cooperation between the two countries. Chevenement also met with Iraqi president Saddam Hussein and held a series of talks with high-ranking Iraqi officials discussing "means to enhance bilateral cooperation'. In July 1990, France agreed to reschedule a 5 billion franc (91 million US dollar) debt owed by Iraq. The two countries signed an agreement under which Iraq will repay 1.5 billion francs immediately and the remaining 3.5 billion francs before the end of 1999. Iraq owes France a total of 23 billion francs (4.18 billion US dollars), over half of which was borrowed to buy weapons. France had offered two re-schedulings which totaled 8.5 billion francs in 1987 and 1989. In August 1990 France made it clear that it will take action, together with other countries against Iraq and started deploying in the region. On February 6th 1991, Baghdad broke off diplomatic ties with France. Last French embassy staff had left Iraq on January 15th, 1991. The first MID of RIV579, MID3957, started on May 28, 1990. 
+
+19991022-20030319 0.25
+
+The last MID of RIV579, MID4273, ended on October 22, 1999. Following the 1991 Gulf War, France and Russia were the first to begin to push for an easing of sanctions against Iraq. France was among Iraq's major trading partners under the U.N.-approved oil program, which allowed for oil sales worth $5.2 billion every six months despite the sanctions. French exports to Iraq were estimated at a half-billion dollars during each of the two phases of the program. However, France still had planes patrolling the southern no-flight zone until the spring 2003 invasion of Iraq by US-led forces. On January 12, 1999, Paris launches an initiative calling for the lifting of the oil embargo and the setting up of a new monitoring system on Iraq's disarmament and its financial revenues. However, in December 1999 France was threatened by Iraq that will lose all of its trade benefits, including lucrative oil development deals for Elf and Total companies, if it votes in favor of a U.N. resolution backed by the United States and rejected by Iraq. In April 2000, France strongly condemned recent U.S.-British air raids in Iraq, calling them ''pointless and deadly.' In September 2000, France sent a humanitarian mission to Baghdad which included doctors, sportsmen and writers. In July 2001, Iraq announced that will not consider France a preferential trading partner because of its support for a British proposal to overhaul 11 years of U.N. sanctions. ''France will not have the priority in trade dealings with Iraq in the future because of its support for the 'smart sanctions' proposal against Iraq.'' France and Russia were considered Iraq's main trading partners for the last three decades and were often given priority bidding rights and contracts to develop Iraq's ailing oil industry. The decision followed an order by President Saddam Hussein to punish those countries that sided with Britain and the United States to try to push through the U.N. Security Council a proposal that would allow an unlimited flow of goods into Iraq while tightening an arms embargo. In fall 2002 and spring 2003, part of a coalition to avoid war between United States and Iraq, France was a strong leader in supporting the United Nations actions as well as those of the International Atomic Energy Agency. In the same time, the French President Jacques Chirac told Iraq that they must offer "full cooperation" to international inspectors who are preparing to search the country for weapons of mass destruction in order to avoid an invasion. In August 2002, French President Jacques Chirac condemns all unilateral and preventive military action by the United States against Iraq, saying such a decision must come from the UN Security Council. On February 10th, 2003, France vetoes US requests for NATO support for Turkey in case of war in Iraq. 
+
+20030320-20050711 Transition
+
+On March 20, 2003 the United States invaded Iraq and Saddam's regime was taken out of power. This is a turning moment in the relationships between Iraq and other members of the international community, including France. 
+
+In May 2003, Paris votes in favor of UN Security Council Resolution 1483 ending 13 years of sanctions and giving US-British forces control of Iraq's economy and its political future. Representatives of 14 Iraqi political parties were on an official visit in Paris in January 2005, at the invitation of the French government. They were meeting with French lawmakers, government members, jurists and members of France's media. Among the reasons for their visit, a French foreign ministry spokesman said is an effort to show Iraqis how French democracy works on the ground. Separately, Iraqi President Ghazi al Yawer had a luncheon meeting with French President Jacques Chirac.Mr. Chirac has not invited Iraqi Prime Minister Ayad Allawi to visit. The year before, Mr. Allawi indirectly criticized France for its allegedly hands-off approach to Iraq. Like several other European countries, Paris has refused to send troops to Iraq.
+
+20050712-20159999 0.5
+
+On July 12th, 2005, France and Iraq re-established diplomatic ties cut more than 13 years ago by ousted Iraqi leader Saddam Hussein at the start of the first Gulf War in 1991. Saddam ordered ties with France to be cut in February 1991, after the start of the Gulf War in which France was one of 34 countries allied in pushing Iraqi forces out of Kuwait. On December 23rd, 2005, the Government of Iraq announced that it has signed a bilateral agreement with France canceling the equivalent of U.S. $5.2 billion(a) of Iraqi debt, amounting to 80% of France's claims towards Iraq. The agreement with France was signed on December 21, 2005. In November 2006, Iraqi President Jalal Talabani made an official visit to Paris, in which he called for France to turn the page on the rift sparked by its opposition to the 2003 US-led invasion of Iraq and for Paris and Baghdad to revive their once-close economic and political ties. In talks with Nicolas Sarkozy, Minister of Interior at that time and future President of France a year later, he discussed France's training of Iraqi police and civil servants outside of Iraq. Sarkozy said 110 senior police officers and 39 magistrates from Iraq received instruction in French police academies last year, and another 800 civil servants were being trained this year. This was the second visit to the country by an Iraqi head of state since the 2003 invasion, after that of former Iraqi president Ghazi Al-Yawar in January 2005. 
+
+PS-SOURCES: CR-Narrative, Metz (1988), New York Times 06/19/1972, 12/04/1974, 02/02/1981, 08/20/1984, 07/22/1987, 11/03/1990, 12/06/1999, Washington Post 05/14/1983, 06/11/1986, 08/24/1990, 10/12/1990, Associated Press 06/27/1987, 04/07/2000, Economist 02/19/1983, Financial Times 12/10/1987, United Press International 09/15/1990, Xinhua General News Service 01/25/1990, 01/29/1990, 07/16/1990, 07/17/1990, BBC 03/22/1990, Associated Press Worldstream 01/12/1999, 12/05/1999, 09/22/2000, 07/09/2001, 11/14/2002, 08/30/2005, Agence France Presse 11/06/2002, 07/12/2004, 07/13/2004, 11/03/2006, Boston Globe 12/12/2002, Moscow Times 12/16/2003, Business Wire 12/22/2005, Voice of America News 01/11/2005
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

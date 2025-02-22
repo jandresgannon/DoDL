@@ -1,0 +1,522 @@
+FILE: cm230600v11.0.txt
+DYAD: SPAIN-MOROCCO
+RIVALRY: RIV618
+DISPUTE(S): MID1580 
+RIVALRY: RIV619 
+DISPUTE(S): MID1581 
+RIVALRY: RIV620
+DISPUTE(S): MID86 MID1086 MID1087 
+RIVALRY: RIV621
+DISPUTE(S): MID1117 MID2887 MID2880 MID1118 MID1119 MID2374 MID3607 MID3609 
+
+PS: 19009999-19120330 .5 19560302-19790613 0.00 19790614-19841104 -9 19841105-20010127 0.5 20011028-20030129 0.25 20030130-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm230600 ,19560000 ,19910000 
+
+did not apply the 15 year rivalry rule as the end of that period was very close to the start of the next rivalry and Thompson has the rivalry till 1991
+
+1900-1912 period is .50 because of contiguity over water
+
+Morocco was a member of the international system between January 1, 1847 and May 2, 1911 before joining the system again on March 2, 1956. RIV618 occurred from October 16, 1859 to March 25, 1860. RIV619 occurred from October 2, 1893 to January 31, 1894. RIV620 occurred from August 8, 1907 to December 30, 1911.
+
+PS-LAST-CHANGED: 20220223
+PS-LAST-CHECKED: 20220223
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1580 MID1581 
+
+MID86 
+
+TERRMID: MID86 3 -- not territory 
+TERRMID-CER: MID86 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID86 1 -- not third party link to territory 
+TERRLINK-CER: MID86 1 -- certain 
+TERRLINK-NOTES: MID86 from Gibler 2018, this involved France expanding its colonial control over parts of Morocco, met by Moroocan resistance. Coded third party link to territorial MID because this involves a territorial dispute between France and Morocco. Spain is pulled into this dispute when it it deployed troops along with France to Casablanca. 
+
+MARITMID: MID86 3 -- not maritime 
+MARITMID-CER: MID86 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID86 3 -- not islands 
+ISLMID-CER: MID86 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID86 1 -- civil war MID
+CIVWARMID-CER: MID86 1 -- certain 
+CIVWARMID-NOTES: MID86 from Gibler 2018, a civil war was ongoing in Morocco, and France used the disorder to land troops in Morocco and occupy part of its territory, thus expanding France's colonial holdings. Coded civil war MID because a civil war in Morocco contributed to French intervention. Spain is pulled into this when it it deployed troops along with France to Casablanca. 
+
+CIVWARLINK: MID86 3 -- not civil war link 
+CIVWARLINK-CER: MID86 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID86 3 -- not coup 
+COUPMID-CER: MID86 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID86 3 -- not coup link
+COUPLINK-CER: MID86 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1086 
+
+TERRMID: MID1086 1 -- territorial MID
+TERRMID-CER: MID1086 1 -- certain 
+TERRMID-NOTES: MID1086 from Gibler 2018,this is the Spanish-Moroccan War, in which Spain was fighting to establish control over Morocco. Spain wanted to expand its colonial holdings into Morocco, and from 1909-1910 fought and eventually defeated Morocco. Coded territorial MID because this was connected to the Spanish claim on Morocco. 
+
+TERRLINK: MID1086 3 -- not third party link to territory 
+TERRLINK-CER: MID1086 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1086 3 -- not maritime 
+MARITMID-CER: MID1086 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1086 3 -- not islands 
+ISLMID-CER: MID1086 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1086 3 -- not civil war 
+CIVWARMID-CER: MID1086 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1086 3 -- not civil war link 
+CIVWARLINK-CER: MID1086 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1086 3 -- not coup 
+COUPMID-CER: MID1086 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1086 3 -- not coup link
+COUPLINK-CER: MID1086 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1087 
+
+TERRMID: MID1087 1 -- territorial MID
+TERRMID-CER: MID1087 1 -- certain 
+TERRMID-NOTES: MID1087 from Gibler 2018, Spain further pressed into Morocco to expand its colonial holdings, engaging in hostilities against Moroccan forces from 1911-1912. When the fighting subsided, Spain had control of more Moroccan territory. Coded territorial MID because this was connected to Spain claiming more of Morocco's territory. 
+
+TERRLINK: MID1087 3 -- not third party link to territory 
+TERRLINK-CER: MID1087 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1087 3 -- not maritime 
+MARITMID-CER: MID1087 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1087 3 -- not islands 
+ISLMID-CER: MID1087 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1087 3 -- not civil war 
+CIVWARMID-CER: MID1087 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1087 3 -- not civil war link 
+CIVWARLINK-CER: MID1087 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1087 3 -- not coup 
+COUPMID-CER: MID1087 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1087 3 -- not coup link
+COUPLINK-CER: MID1087 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1117 
+
+TERRMID: MID1117 1 -- territorial MID
+TERRMID-CER: MID1117 1 -- certain 
+TERRMID-NOTES: MID1117 from Gibler 2018, this was a war over mineral resources in Morocco, as Spain was refusing to concede its control over Morocco after the latter declared its independence. Fighting occurred, and the eventual agreement to end the conflict granted Morocco control over the disputed area. Coded territorial MID because Spain was claiming the resource-rich area under dispute. 
+
+TERRLINK: MID1117 3 -- not third party link to territory 
+TERRLINK-CER: MID1117 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1117 3 -- not maritime 
+MARITMID-CER: MID1117 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1117 3 -- not islands 
+ISLMID-CER: MID1117 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1117 1 -- civil war MID
+CIVWARMID-CER: MID1117 1 -- certain 
+CIVWARMID-NOTES: MID1117 from Gibler 2018, this war involved Ifni rebels, a militarized rebel group fighting against Spain in the disputed region. Coded civil war MID because this involved militarized rebels fighting in Ifni against Spanish control. 
+
+CIVWARLINK: MID1117 3 -- not civil war link 
+CIVWARLINK-CER: MID1117 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1117 3 -- not coup 
+COUPMID-CER: MID1117 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1117 3 -- not coup link
+COUPLINK-CER: MID1117 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2887 
+
+TERRMID: MID2887 1 -- territorial MID
+TERRMID-CER: MID2887 1 -- certain 
+TERRMID-NOTES: MID2887 from Gibler 2018, Spain protested when Moroccan aircraft violated their airspace over Ifni, a piece of disputed territory. Spain and Morocco also had disputes over other areas of Morocco. Coded territorial MID because this was connected to the disputed territory of Ifni.
+
+TERRLINK: MID2887 3 -- not third party link to territory 
+TERRLINK-CER: MID2887 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2887 3 -- not maritime 
+MARITMID-CER: MID2887 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2887 3 -- not islands 
+ISLMID-CER: MID2887 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2887 3 -- not civil war 
+CIVWARMID-CER: MID2887 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2887 3 -- not civil war link 
+CIVWARLINK-CER: MID2887 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2887 3 -- not coup 
+COUPMID-CER: MID2887 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2887 3 -- not coup link
+COUPLINK-CER: MID2887 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2880 
+
+TERRMID: MID2880 1 -- territorial MID
+TERRMID-CER: MID2880 1 -- certain 
+TERRMID-NOTES: MID2880 see MARITMID-NOTES for full description of this MID. Coded territorial MID because this was connected to the disputed cities of Melilla and Cueta, although this specific incident involved fishing/naval vessels.
+
+TERRLINK: MID2880 3 -- not third party link to territory 
+TERRLINK-CER: MID2880 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2880 1 -- maritime MID
+MARITMID-CER: MID2880 1 -- certain 
+MARITMID-NOTES: MID2880 from Gibler 2018, Spain was in the process of withdrawing from Morocco in November 1961, but two cities remained disputed between Spain and Morocco. Spain sunk a Moroccan fishing vessel, and Morocco protested that Spain violated its maritime border. Coded maritime MID because per Gibler 2018, the tensions that contributed to this MID were connected to the disputed cities of Melilla and Cueta. 
+
+ISLMID: MID2880 3 -- not islands 
+ISLMID-CER: MID2880 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2880 3 -- not civil war 
+CIVWARMID-CER: MID2880 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2880 3 -- not civil war link 
+CIVWARLINK-CER: MID2880 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2880 3 -- not coup 
+COUPMID-CER: MID2880 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2880 3 -- not coup link
+COUPLINK-CER: MID2880 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1118 
+
+TERRMID: MID1118 3 -- not territory 
+TERRMID-CER: MID1118 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1118 3 -- not third party link to territory 
+TERRLINK-CER: MID1118 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1118 1 -- maritime MID
+MARITMID-CER: MID1118 1 -- certain 
+MARITMID-NOTES: MID1118 from Gibler 2018, Morocco claimed a 70 mile fishing limit from its coast, and Spain disputed this limit. Morocco seized Spanish vessels in 1972, and Spain responded by protecting vessels with their navy. A small exchange of fire occurred. Coded maritime MID because the countries were disputing Morocco's exclusivity to fishing in an area of the sea, although they were not disputing Morocco's territorial waters.
+
+ISLMID: MID1118 3 -- not islands 
+ISLMID-CER: MID1118 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1118 3 -- not civil war 
+CIVWARMID-CER: MID1118 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1118 3 -- not civil war link 
+CIVWARLINK-CER: MID1118 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1118 3 -- not coup 
+COUPMID-CER: MID1118 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1118 3 -- not coup link
+COUPLINK-CER: MID1118 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1119 
+
+TERRMID: MID1119 3 -- not territory 
+TERRMID-CER: MID1119 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1119 3 -- not third party link to territory 
+TERRLINK-CER: MID1119 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1119 1 -- maritime MID
+MARITMID-CER: MID1119 1 -- certain 
+MARITMID-NOTES: MID1119 from Gibler 2018, Morocco and Spain exited a fishing agreement and Morocco again asserted a 70 mile exclusive fishing zone from its coast. Spain and Morocco traded minor naval fire. Coded maritime MID because the countries were disputing Morocco's exclusivity to fishing in an area of the sea, although they were not disputing Morocco's territorial waters.
+
+ISLMID: MID1119 3 -- not islands 
+ISLMID-CER: MID1119 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1119 3 -- not civil war 
+CIVWARMID-CER: MID1119 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1119 3 -- not civil war link 
+CIVWARLINK-CER: MID1119 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1119 3 -- not coup 
+COUPMID-CER: MID1119 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1119 3 -- not coup link
+COUPLINK-CER: MID1119 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2374 
+
+TERRMID: MID2374 1 -- territorial MID
+TERRMID-CER: MID2374 1 -- certain 
+TERRMID-NOTES: MID2374 from Gibler 2018, this was connected to the French-Moroccan dispute over the cities of Ceuta and Melilla. Morooco was attempting to get the French to completely withdraw from the disputed cities. French and Moroccan forces clashed, triggering this MID. Coded territorial MID because this was connected to two disputed cities where the clashes occurred. 
+
+TERRLINK: MID2374 3 -- not third party link to territory 
+TERRLINK-CER: MID2374 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2374 3 -- not maritime 
+MARITMID-CER: MID2374 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2374 3 -- not islands 
+ISLMID-CER: MID2374 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2374 3 -- not civil war 
+CIVWARMID-CER: MID2374 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2374 3 -- not civil war link 
+CIVWARLINK-CER: MID2374 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2374 3 -- not coup 
+COUPMID-CER: MID2374 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2374 3 -- not coup link
+COUPLINK-CER: MID2374 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3607 
+
+TERRMID: MID3607 3 -- not territory 
+TERRMID-CER: MID3607 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3607 3 -- not third party link to territory 
+TERRLINK-CER: MID3607 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3607 3 -- not maritime 
+MARITMID-CER: MID3607 1 -- certain 
+MARITMID-NOTES: MID3607 from Gibler 2018, Spain and Morocco signed a fishing agreement, but Morocco seized Spanish fishing vessels who entered waters that Morocco did not grant them access to. The boats were released soon thereafter. Coded not maritime because this was a fishing dispute, and they were not disputing a maritime boundary. Previous MIDs involved fishing vessels being seized because they were in waters that were disputed in terms of Spain's right to fish in them, but here, those fishing waters dispute had already been resolved and Spain was not claiming rights to the waters in which the vessel was seized. 
+
+ISLMID: MID3607 3 -- not islands 
+ISLMID-CER: MID3607 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3607 3 -- not civil war 
+CIVWARMID-CER: MID3607 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3607 3 -- not civil war link 
+CIVWARLINK-CER: MID3607 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3607 3 -- not coup 
+COUPMID-CER: MID3607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3607 3 -- not coup link
+COUPLINK-CER: MID3607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3609 
+
+TERRMID: MID3609 3 -- not territory 
+TERRMID-CER: MID3609 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3609 3 -- not third party link to territory 
+TERRLINK-CER: MID3609 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3609 3 -- not maritime 
+MARITMID-CER: MID3609 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3609 3 -- not islands 
+ISLMID-CER: MID3609 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3609 3 -- not civil war 
+CIVWARMID-CER: MID3609 3 -- uncertain 
+CIVWARMID-NOTES: MID3609 from Gibler, Little, and Miller 2016, a Spanish vessel was seized. However, while Spain initially believed Morocco seized the vessels, it turned out to be Polisario rebels who seized the ship. Coded civil war MID because Polisario, a militarized rebel group in Morocco, seized a Spanish ship. Coded uncertain because GLM recommend this case be dropped, as there are not two state actors in this dispute. 
+
+CIVWARLINK: MID3609 3 -- not civil war link 
+CIVWARLINK-CER: MID3609 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3609 3 -- not coup 
+COUPMID-CER: MID3609 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3609 3 -- not coup link
+COUPLINK-CER: MID3609 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4352 
+
+TERRMID: MID4352 1 -- territorial MID
+TERRMID-CER: MID4352 1 -- certain 
+TERRMID-NOTES: MID4352 from Gibler 2018, Morocco invaded Cueta, a city in Morocco controlled by Spain. Spain responded by deploying naval forces and retaking control of the city. Coded territorial MID because this was connected to the disputed city of Cueta. 
+
+TERRLINK: MID4352 3 -- not third party link to territory 
+TERRLINK-CER: MID4352 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4352 3 -- not maritime 
+MARITMID-CER: MID4352 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4352 3 -- not islands 
+ISLMID-CER: MID4352 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4352 3 -- not civil war 
+CIVWARMID-CER: MID4352 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4352 3 -- not civil war link 
+CIVWARLINK-CER: MID4352 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4352 3 -- not coup 
+COUPMID-CER: MID4352 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4352 3 -- not coup link
+COUPLINK-CER: MID4352 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4352
+rivalry=230600 nationa=MOROCCO nationb=SPAIN MID4352 20020711-20020718 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+On July 11, 2002, Moroccan military forces occupied the North African island of Ceuta, which is controlled by Spain, but nominally claimed by Morocco, under the auspices of combating drug trafficking in the region. This prompted Spain, on July 16, to send a naval warship to the waters off of the islands coast as a show of dominance over the island. Additionally, Spain sent additional naval and marine forces to the island of Ceuta in August 2002. The marine forces expelled Moroccan troops stationed on the island, then left. Both sides agreed not to reoccupy the island, and agreed to talks over the fate of the island in September. First day of dispute is listed on 7/11/2002 and last day of dispute is listed on 7/18/2002.
+
+NARRATIVE-CM:
+Morocco disputed Spain's sovereignty over the Spanish Sahara (Western Sahara) beginning on March 2, 1956 (Morocco's independence day). Morocco also disputed Spain's sovereignty over several enclaves in northern Africa, including Ifni, Tekna protectorate, and Tarfaya. Spanish troops and Moroccans clashed in Ifni on August 19, 1957, resulting in the deaths of seven Moroccans. Some 12,000 members of the *Moroccan Liberation Army* (MLA) led by Ben Hamou attacked Ifni and the Spanish Sahara on November 23-28, 1957, resulting in the deaths of 63 Spanish soldiers and 230 Moroccans. Spanish troops attacked a Moroccan base at Etchebera in Rio de Oro on January 13, 1958, resulting in the deaths of 241 Moroccans and 51 Spanish soldiers. Moroccans and Spanish troops clashed in Ifni on February 5, 1958, resulting in the deaths of 60 Moroccans and four Spanish soldiers. Spanish naval units and troops attacked Moroccan bases in Ifni on February 19, 1958, and Spanish troops forced the Moroccan forces out of Ifni. France provided military support (air strikes) to Spain in Mach 1958. The United States mediated an agreement between the parties on April 1, 1958, which provided for the peaceful resolution of the dispute over Ifni, Tekna protectorate, and Tarfaya. Spain agreed to return the Tekna protectorate and Tarfaya to Morocco on April 10, 1958. *Morocco renewed its claims to Cceuta and Melilla on June 29, 1962, and Morocco extended its territorial waters from six to twelve miles on June 30, 1962. Spain restored the sovereignty of Ifni to Morocco in January 1969. King Hassan of Morocco officially extended the country's territorial waters from 12 miles to 70 miles on March 4, 1973. Spanish military aircraft fired on a Moroccan naval ship on April 2, 1973, and Spanish naval ships seized four Moroccan fishing ships in the Straits of Gibraltar on April 3, 1973. Moroccan naval ships seized a Spanish fishing ship on April 25, 1973. In 1974, Spain announced that the future of the Western Sahara would be decided in a referendum. Morocco referred the matter to the *International Court of Justice* (ICJ), and Morocco referred to matter to UN Secretary-General Kurt Waldheim on June 30, 1975. The *Organization of the Islamic Conference *(OIC) expressed support for Morocco regarding the dispute over the Spanish enclaves of Ceuta and Melilla on July 16, 1975. The ICJ issued a decision on October 16, 1975, which suggested that there was no evidence that the Spanish Sahara was a part of Morocco prior to Spanish occupation of the territory. Some 350,000 Moroccans marched into Spanish Sahara on November 6, 1975, but the "green march" was halted by King Hassan of Morocco on November 10, 1975. On November 14, 1975, the governments of Spain, Morocco, and Mauritania agreed to share administration of the territory until February 28, 1976, after which the two African countries would divide the territory. 
+
+SOURCES-CM: 
+Allock, et al., 1992, 281-287; Brecher and Wilkenfeld, 1997, 118-121; Clodfelter, 1992, 999; *Facts on File*, August 15-21, 1957, November 28-December 4, 1957, February 6-12, 1958; *Keesing*, April 30-May 6, 1973, August 25-31, 1975; *Middle East Journal *(MEJ), Summer 1973.
+
+NARRATIVE-CR:
+
+MID1117 occurred from November 23, 1957 to February 24, 1958. Spanish troops and Moroccans clashed in Ifni on August 19, 1957, resulting in the deaths of seven Moroccans. Some 12,000 members of the *Moroccan Liberation Army* (MLA) led by Ben Hamou attacked Ifni and the Spanish Sahara on November 23-28, 1957, resulting in the deaths of 63 Spanish soldiers and 230 Moroccans. Spanish troops attacked a Moroccan base at Etchebera in Rio de Oro on January 13, 1958, resulting in the deaths of 241 Moroccans and 51 Spanish soldiers. Moroccans and Spanish troops clashed in Ifni on February 5, 1958, resulting in the deaths of 60 Moroccans and four Spanish soldiers. Spanish naval units and troops attacked Moroccan bases in Ifni on February 19, 1958, and Spanish troops forced the Moroccan forces out of Ifni. France provided military support (air strikes) to Spain in Mach 1958. The United States mediated an agreement between the parties on April 1, 1958, which provided for the peaceful resolution of the dispute over Ifni, Tekna protectorate, and Tarfaya. Spain agreed to return the Tekna protectorate and Tarfaya to Morocco on April 10, 1958.
+
+MID2887 occurred on January 19, 1961. No information could be found on this particular incident. 
+
+MID2880 occurred on November 3, 1961. On November 3, 1961, Morocco issued a strong protest against a Spanish `violation' of Moroccan territorial waters. A Spanish destroyer sank a Moroccan fishing vessel off the Moroccan port of Arsila. 
+
+MID1118 occurred from January 1, 1972 to June 30, 1972. No information could be found on this particular incident. 
+
+MID1119 occurred from January 1, 1973 to January 2, 1974. Spanish military aircraft fired on a Moroccan naval ship on April 2, 1973, and Spanish naval ships seized four Moroccan fishing ships in the Straits of Gibraltar on April 3, 1973. Moroccan naval ships seized a Spanish fishing ship on April 25, 1973.
+
+MID2374 occurred from February 8, 1975 to April 7, 1975. Spain moved naval and marine units into two enclaves on Morocco's Mediterranean coast in an apparent answer to Morocco's assertion of territorial rights. Two destroyers, a landing craft, a troop transport and a submarine entered the port of Melilla while two troop ships, a marine battalion, and a submarine sailed into the port of Ceuta. 
+
+MID3607 occurred from February 6, 1979 to February 18, 1979. No information could be found on this particular incident. 
+
+MID3609 occurred from April 14, 1980 to June 17, 1980. No information could be found on this particular incident. 
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+19790614-19841104 Transition
+
+On June 14th, 1979, the first official visit to Morocco by the Spanish King Juan Carlos and his wife Sofia, together with the Ministry of Foreign Affairs, Mr. Marcelino Oreja, took place. On June 29, 1979, Morocco signs a provisional agreement regarding fishing rights. In November 1979, a number of agreements on technical and scientific cooperation as well as on social security were signed by the two countries. On October 14, 1980, the Spanish Foreign Minister, Jose Pedro Perez Llorca visited Morocco and a Convention on Cultural Cooperation was signed. On March 18, 1982, the Spanish Government gave Morocco 10,000 tons of wheat to alleviate the effects of the drought from the previous year. On May 13, 1982, the Moroccan Parliament ratified the Spanish-Moroccan Agreement signed in November 1979 regarding the financial retributions Morocco has to give the Spanish owners expropriated in 1973. In February 1983, Spain and Morocco opened talks on resolving their longtime disagreements over Spanish fishing boats that work in Moroccan waters and over transporting Moroccan oranges across Spain to reach other European countries. Spanish Prime Minister Felipe Gonzalez made a two-day visit to Morocco in March 1983 aimed at patching up strained relations over fishing rights and a guerrilla war in the Sahara. Both Spanish and Moroccan officials emphasized the symbolic importance of Gonzales' choice of Morocco for his first official visit abroad. Gonzalez was to meet in Rabat with Moroccan Prime Minister Maati Buabid and with King Hassan II in Fez. Spain also has demanded increased fishing rights in Moroccan waters. Under a provisional 1982 agreement, 1,600 Spanish boats received such rights. But Morocco wants in exchange to increase its exports to Spain which now are minimal. Relations have cooled sharply since Morocco renewed its claim last February to two Spanish cities on the north African coast, although this subject was not expected to figure during Gonzalez' visit. So intense have the Moroccan claims become that the Spanish military has felt obliged to assert its readiness to defend Spanish sovereignty by force, if necessary. ''The Spanish armed forces are prepared to defend what we have to defend and are prepared to face any aggression,'' stated Gen. Manuel Saavedra Palmeyro. The announcement in September 1984 of a treaty of union between Morocco and Libya, including a mutual defense accord, has raised Spanish concerns about the military balance in the Strait of Gibraltar and intensified Government efforts to stay in the North Atlantic Treaty Organization. 
+
+19841105-20010127 0.5
+
+On November 5, 1984, The Spanish Defense Minister, Narciso Serra, made an official visit to Morocco during which he met with King Hassan II as well as with the Prime Minister of Morocco and his defense counterpart. The Moroccan and Spanish armed forces will step up their co-operation, said Narciso Serra after his hour-long meeting with King Hasan II. The two parties announced that high-ranking defense visits would be stepped up, as will specialization courses and meetings for the officers of the two countries, and joint exercises, such as the recent Atlas-84 exercises for the air forces, will be encouraged. The Defense Minister also said that talks were already being held on the sale of Spanish patrol craft to Morocco, and that they were considering that the expansion of the Moroccan fleet be made in Spain. Hundreds of Spanish fishing vessels have returned to their ports from their traditional fishing grounds in Morocco's waters after Moroccan Foreign Minister Abdel Latif Filali issued an order in January 1988 banning European Community (EC) fishing vessels from Moroccan waters. Morocco had rejected a Spanish demand that its present catch be maintained, while the community did not agree to extend a Spanish-Morrocan fishery accord which expired in July 1987. Officials in Rabat, who say 70 per cent of Spanish fish exports come from Moroccan waters, want to cut Spain's quota on conservation grounds. According to fisheries officials in the Canary Islands, where 150,000 people depend directly or indirectly on the Moroccan fishing grounds, any cut-down would be the death knell for the local fleet. Over the past four years the Canaries fleet has been reduced by 40 per cent to accommodate Moroccan demands. Spanish fisherman say that Moroccan trawlers have increased their lucrative catch of squid from 10 tons in 1983 to 195 tons last year, largely thanks to generous Spanish credits which have allowed Rabat to buy bigger fishing vessels from Spain. On September 29, 1989, several agreements were signed between Morocco and Spain on the occasion of Morocco's King Hassan II visit to Spain. The first is a financial and technical agreement in the form of a legal framework which will guarantee investments between the two countries. The other agreement concerns the fixed link between Spain and Morocco. A third agreement was signed in the defense field. The two countries also agreed to set up a framework for the periodic meetings of the Moroccan-Spanish mixed committee. Spain, however, showed its goodwill to King Hassan in practical, hard cash terms. It has promised a four-year 1.1 billion dollars aid package to Morocco and it is actively urging Spanish companies to take up soft loan options and to invest across the Straits of Gibraltar. In March 1990, Spanish fishermen have demonstrated and blockaded seven ports in southern Spain since March 1 to prevent Moroccan ships from entering while more than 1,000 fishermen from Morocco held a sit-in demonstration in Spain to protest the ports blockade. The Spanish government is demanding that the European Community mediate the dispute and will discuss the problem with Morocco to solve it. On July 4, 1991, King Juan Carlos I and the Spanish Prime Minister, make an official visit to Morocco during which a Treaty of Friendship and Good Neighborhood was signed. Mr Javier Solana, the Spanish foreign minister, went to Rabat in July 1992 for talks on the growing problem of African immigrants entering Spain through Morocco. He is the second Spanish minister to travel to Morocco in less than a week to discuss the sharp increase in Africans using Morocco as a staging post for illegal entry into Europe. Mr Solana's trip follows a Spanish decision to take back 72 Africans expelled from the Spanish-held enclave of Melilla on Morocco's Mediterranean coast and refused entry by Morocco. The refugees spent two weeks camping in no-man's land between the enclave and the Moroccan frontier. In August 1995, Spain warned that it will reconsider its ties with Morocco following the breakdown of the sixth round of talks on fishing rights between the European Union and Morocco. Minister of fisheries Luis Atienza said it would be difficult for his country to cooperate with Morocco in other areas if a new agreement on fishing rights cannot be reached. The EU negotiates on behalf of Spain a new fishing agreement with Morocco. In October 19, 1995, Spain began erecting a barbed-wire fence between Ceuta and Morocco in a bid to stem the flow of sub-Saharan refugees into the Spanish-ruled enclave. Authorities said the 8-kilometre perimetre fence will be vital in keeping out illegal immigrants. They said 50 persons had been detained in the past two days for illegally entering Ceuta. Meanwhile, the Spanish Interior Ministry said a special envoy, Margarita Robles, would go to Rabat in coming days to discuss ways of tightening security. Spain's new Prime Minister, Jose Maria Aznar, is to make his first trip abroad as premier to Morocco. The official visit will take place May 27 to 28, 1996 and will include a meeting with King Hassan II. In October 1996, Spain and Morocco agreed on new measures to combat illegal immigration and drug smuggling, after meetings held by the Spanish Interior Minister Jaime Mayor Oreja and his Moroccan counterpart Dris Basri. The countries will create two mixed commissions for analyzing the problems of illegal immigration and of drugs respectively. A third commission, which deals with illegal immigrants, was inaugurated in July 1996. In February 1996, at the outset of two days of bilateral consultations, Moroccan Prime Minister Abdelatif Filali and his Spanish counterpart Felipe Gonzalez agreed to set up a joint "reflection" committee to help solve conflicts. Meeting in the Moroccan capital Rabat, the two politicians said relations between Spain and Morocco were "privileged". Gonzalez arrived in Morocco earlier with a delegation that included seven government ministers. Drugs smuggling and illegal immigration from Morocco to Spain are among issues officials are to discuss. In December 1996, Spain and Morocco have signed an agreement which makes it possible to convert a part of Morocco's debt to Spain into private Spanish investments in the country. The agreement was signed by Spanish finance minister Rodrigo Rato and his Moroccan counterpart Mohammed Kabbaj in Rabat on December 4, 1996. Moroccan Communications Minister Mohamed Larbi Messari has called for talks on the Spanish enclaves of Ceuta and Melilla. Spanish Prime Minister Jose Maria Aznar is to visit Morocco later in April 1998 and Messari said "Spain's interests lie in cooperation with Morocco and not in yielding to pressure groups which are trying to mar the relations between the two countries." In 1999 the negotiations over the fishing agreement came back into the headlines. Apart from the economics of the agreement, the fishing stock of Morocco has been consistently declining. For the Spanish it is an economic issue. At least 450 trawlers capture fish during any given period of time. A non-renewal of the agreement would mean major employment disturbances in some coastal regions. The issue has clearly overshadowed Morocco's Prime Minister Youssoufis visit to Spain in May 1999. The Moroccan government delegation was in Madrid within the context of the bilateral commission, which was assigned the boosting of trade relations between the two neighboring countries. While the commission chaired by Youssoufi and Spain's Jose Maria Aznar reviewed various sectors such as energy, law, education, public works, finance, transport, etc, the fishing agreement has been the central focus point of the two-day visit. To pressure Morocco to give up its idea of not renewing the agreement, Spanish officials aided by the media have reminded the Moroccans that Spain plays a major role in its neighbors' economic development. Morocco's King Mohammed VI made a brief private visit to Madrid on March 1, 2000. This was his first to Spain since he came to the throne after the death of his father Hassan II seven months ago. The monarch had lunch with King Juan Carlos and Queen Sofia, Prime Minister Jose Maria Aznar and Foreign Minister Abel Matutes at the Zarzuela royal palace. Lately, the relations were soured by a recent wave of attacks against Moroccan immigrants in the town of El Ejido. Rabat has also been angered by Aznars visit to the enclaves of Ceuta and Melilla, which Morocco claims as its own. Spain has been annoyed by Moroccos refusal to renew its fisheries agreement with the European Union, while Morocco sees Spain as hampering its efforts to increase tomato exports to the E.U. The Spanish prime minister, Jose Maria Aznar went to Morocco on May 2, 2000, on a two day official visit. The Spanish premier was greeted by the Moroccan King and Prime Minister Youssoufi. Issues of bilateral interest and further Spanish economic assistance were discussed. Relations between Morocco and Spain have not been so smooth. The two countries share common problems that require leadership to overcome. Among the hottest issues that are barriers to better relations are the racial incidents of El-Jedido in southern Spain, the fisheries issue, the tomato war, illegal immigration, and their opposing positions on the Western Sahara conflict. Morocco has been lobbying Spain to discuss the future of the enclaves of Ceuta and Melilla which are controlled by Spain but Aznar has reiterated his country's position that these enclaves are not negotiable. Spain and Morocco have also agreed to further negotiate a conversion of Morocco's debt owed to Spain. On April 25, 2001, EU fishing ministers abandon negotiations with Morocco, after Rabat refuses to agree to a new three-year deal to allow EU boats to fish in its territorial waters. The Spanish Prime Minister Jose Maria Aznar said Morocco's position on negotiations was unacceptable. On August 22, 2001, Spanish authorities arrested 800 clandestine immigrants from Morocco sparking a diplomatic row.
+
+20011028-20030129 0.25
+
+On October 28, 2001, Morocco recalled its ambassador from Madrid, citing "a certain number of Spanish attitudes and positions concerning Morocco". Spain says it cannot understand the move. Morocco withdrew its ambassador to Madrid in October, citing what it called a range of hostile Spanish attitudes. Foremost of these is Madrid's insistence on supporting a United Nations-backed referendum on the independence of the Western Sahara, which was occupied by Hassan, King Mohammed's late father, as Gen Francisco Franco lay dying in 1975. Spain withdrew from its colony without firing a shot. On October 30, 2001, Morocco postponed a long-awaited summit with Spain. On November 18, 2001, Spanish Foreign Minister Josep Pique says in an interview with a Moroccan paper that Spain's territories in North Africa claimed by Morocco "have been Spanish for centuries and will stay that way". On November 25, 2001, Morocco protests to Spain after four Moroccan journalists are prevented from covering a demonstration in the southern city of Seville and deported. On January 31, 2002, Morocco says proposed Spanish oil prospection off the Canary Isles near the Moroccan coast is an "unfriendly" act. The two countries have never agreed maritime frontiers between Spain's Canary Islands, southern Morocco and the Western Sahara. On April 4, 2002, Aznar says crisis with Morocco is Rabat's responsibility and that Morocco can decide "whether or not" it wishes to return its ambassador in Madrid. On May,7, 2002, Spain says Morocco's expanding occupation of disputed Western Sahara is making the problem harder to solve. On July 6, 2002, Morocco protests at Spanish warships cruising too close to its coast. On July 11, 2002, Morocco sends around a dozen soldiers to a disputed rocky islet in the Mediterranean, which Spain calls Perejil and Morocco calls Leila, prompting protests from Madrid and a military build up. The incident came as Morocco began several days of celebrations for King Mohamed VI's wedding. The ceremony was boycotted by Spain. Morocco insists it has had authority over Perejil since it gained independence in 1956. It claims to want the rock for use in fighting terrorism and illegal immigrant trafficking in the area. There has been no Spanish presence on the island for the last 40 years, but they claim it was a Spanish possession since 1668. On July 13, 2002, Spain sent three war vessels to protect two Spanish enclaves on the Moroccan coast as its southern Mediterranean neighbor occupied a tiny, uninhabited Spanish islet for a third day. A frigate arrived in Ceuta and two corvettes arrived in Melilla. Another corvette and a submarine were on their way to the zone. On July 16, 2002, Spain decides to indefinitely withdraw its ambassador to Morocco for consultations over the islet dispute. On July 17, 2002, Spanish forces push the Moroccan soldiers off the disputed island. Spanish television said six Moroccan soldiers were arrested. A Moroccan coalition government party leader said the eviction amounts to "a declaration of war." The standoff ended with a U.S.-brokered deal to remove all forces from the island. On July 22, the Spanish troops are withdrawn from the island of Perejil, following an agreement mediated by the U.S. Secretary of State, Colin Powell. In Madrid, Mr Aznar's aides say Spain's priority is to rebuild trust. Some 800 Spanish companies have important investments in Morocco, while 250,000 Moroccans live in Spain. Spain is also Morocco's biggest aid donor and its largest trading partner after France. In September 2002, tension between Spain and Morocco increased again after Rabat accused Madrid of violating its territory 87 times. Spanish Foreign Minister Ana Palacio said Morocco had not presented any formal complaints. She said she had heard about them through the press and called on her counterpart Mohammed Benaissa to use "appropriate channels" to air Moroccan grievances. Benaissa accused Spain of violating the Moroccan airspace 61 times and territorial waters 26 times since the two countries ended a military standoff over the islet of Perejil, also known as Leila or Tourah, in July 2002. The daily El Pais reported that Spain had banned arms exports to Morocco since the Perejil crisis. In 2001, Morocco was Spain's third largest client for military equipment, purchasing transport vehicles valued at 28.3 million euros (27.8 million dollars). 
+
+20030130-20159999 0.5
+
+On January 30, 2003, Ana Palacio, the Spanish Foreign Minister held meetings with the Moroccan king Mohammed VI and with the Moroccan Prime Minister, in the coastal town of Agadir, Morocco. They talked about restoring full diplomatic ties which were broke off since October 2001. On February 2, 2003, the Spanish Ambassador returned to Morocco. The Moroccan Ambassador was expected to return to Madrid later in the same week. In June 2003, Prime Minister Jose Maria Aznar and his Moroccan counterpart Driss Jettou met for three hours in Spain. It was the first meeting in three years between prime ministers of the two countries. Aznar described the meeting as positive and pleasant. Aznar announced the two sides would resume high-level ministerial meetings in October 2003 in Morocco. On April 24, 2004, Spanish Prime Minister Jose Luis Rodriguez Zapatero said in Casablanca that Rabat and Madrid decided to strengthen their cooperation to combat terrorism and illegal immigration. In a news conference at the end of his official visit to Morocco-the first of its kind since he became prime minister in his country-Zapatero said Morocco and Spain would work together to limit illegal immigration and facilitate organized and legal immigration, which would be beneficial to both countries. On October 13, 2004, the Spanish Foreign Minister Miguel Angel Moratinos was in Morocco for talks on terrorism, illegal immigration and the long-standing dispute over the Western Sahara territory that Morocco claims as its own. Morocco claims the vast, mineral-rich territory-formerly the Spanish Sahara-as its own, referring to it as its "southern provinces." On the eve of the sixth Moroccan-Spanish high-level meeting, which was held on December, 8-9, 2004, in Marrakech, Aznar said "I respect and highly value his majesty King Mohammed VI. I am a friend of Morocco and I am faithfully working in this direction. I am looking forward for stronger ties between our countries". Spain's King Juan Carlos and Queen Sofia arrived on January 17, 2005 in Morocco for a three-day visit, marking a rapid improvement in relations since Socialist Jose Luis Rodriguez Zapatero became Spain's Prime Minister in April 2004. Accompanied by a ministerial delegation, King Juan Carlos was scheduled to meet Prime Minister Driss Jettou, hold a speech to parliament and to inaugurate a new Spanish embassy building in Rabat. The relations between Spain and Morocco remained good despite Spanish Prime Minister Jose Luis Rodriguez Zapatero's controversial visit to Ceuta and Melilla, two Spanish enclaves claimed by surrounding Morocco, on February 1, 2006. He was the first prime minister to make an official visit to the outposts in 25 years. Morocco's ambassador to Spain, Omar Azziman, described the visit as "inappropriate", but added it had not affected relations which were in an "interesting and positive" phase. The Spanish government described relations with Morocco as "excellent". Zapatero refrained from statements which Morocco could interpret as provocative, such as stressing the Spanishness of Ceuta and Melilla, during his visit. Spain's King Juan Carlos visited Morocco on July 24, 2006 to meet with the North African country's King. Juan Carlos arrived at Casablanca, the country's largest city and commercial capital, where Moroccan King Mohamed VI greeted him with full state honors and a revue by a detachment of the royal guard. 
+
+PS-SOURCES: Garcia (1992), Gold (2000), Del Pino (1983), Serna (2001), Paz (2000), Larrazabal (1992), Xinhua 01/06/1988, 12/29/1988, 03/07/1990, 08/28/1995, 07/13/2002, New York Times 11/03/1961, 02/09/1975, 05/25/1988, The Times 02/20/1983, 09/05/1984, 09/02/1988, United Press International 03/28/1983, 09/29/1994, 06/05/1996, 08/16/1999, Christian Science Monitor 03/16/1983, 12/16/1986, Financial Times 07/13/1987, 01/29/1988, BBC 12/18/1982, 04/09/1983, 11/05/1984, 07/07/1987, 06/27/1989, 09/29/1989, 10/22/1993, 04/13/1998, 04/28/1998, 03/01/2000, 12/08/2003, 04/24/2004, Financial Times 03/28/1983, 08/10/1985, 01/25/1989, 10/26/1989, 07/29/1992, The Guardian 12/06/1985, 07/11/1987, 01/02/1988, International Trade Finance 09/23/1987, Africa News 05/10/1999, 05/23/2000, Deutsche Presse-Agentur 06/14/1995, 10/19/1995, 02/05/1996, 05/17/1996, 10/03/1996, 12/04/1996, 03/01/2000, 09/18/2000, 09/25/2002, 01/17/2005, 02/01/2006, Associated Press Worldstream 12/12/1994, 09/18/2000, 10/29/2001, 10/31/2001, 07/13/2002, 07/15/2002, 07/17/2002, 07/19/2002, 01/30/2003, 02/02/2003, 06/05/2003, 02/22/2004, 10/13/2004, 01/17/2005, 07/24/2006, Agence France Presse 10/31/2001, 07/17/2002, 12/10/2002, 12/11/2002
+
+MARITIME-MIDS: MID2880 MID1119 MID2374
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2880
+
+Discussion:
+MID2880 occurred on November 3, 1961. On November 3, 1961, Morocco issued a strong protest against a Spanish `violation' of Moroccan territorial waters. A Spanish destroyer sank a Moroccan fishing vessel off the Moroccan port of Arsila. 
+
+MARITIME-DISPUTE: MID1119
+ DYAD: SPAIN MOROCCO 230600
+ DATES: 19730101 19740102
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID1119 occurred from January 1, 1973 to January 2, 1974. King Hassan of Morocco officially extended the country's territorial waters from 12 miles to 70 miles on March 4, 1973. Spanish military aircraft fired on a Moroccan naval ship on April 2, 1973, and Spanish naval ships seized four Moroccan fishing ships in the Straits of Gibraltar on April 3, 1973. Moroccan naval ships seized a Spanish fishing ship on April 25, 1973.
+
+MARITIME-DISPUTE: MID2374
+ DYAD: SPAIN MOROCCO 230600
+ DATES: 19750208 19750407
+ HOSTILITYA: 3 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Discussion:
+MID2374 occurred from February 8, 1975 to April 7, 1975. Spain moved naval and marine units into two enclaves on Morocco's Mediterranean coast in an apparent answer to Morocco's assertion of territorial rights. Two destroyers, a landing craft, a troop transport and a submarine entered the port of Melilla while two troop ships, a marine battalion, and a submarine sailed into the port of Ceuta. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

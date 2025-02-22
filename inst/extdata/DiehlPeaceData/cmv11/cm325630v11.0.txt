@@ -1,0 +1,96 @@
+FILE: cm325630v11.0.txt
+DYAD: ITALY - IRAN
+RIVALRY: RIV860
+DISPUTE(S): MID3852 
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20180909
+PS-LAST-CHECKED: 20180909
+
+WWII MIDs: MID3852 
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2821
+
+TERRMID: MID2821 3 -- not territory
+TERRMID-CER: MID2821 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2821 1 -- third party link to territorial MID
+TERRLINK-CER: MID2821 1 -- certain
+TERRLINK-NOTES: MID2821 from Gibler 2018, in 1987 Iran attacked an Italian ship that was carrying Iraqi oil exports. This was during the Iran-Iraq War, or "Tanker War," in which both Iran and Iraq attacked ships trading with the other country to harm the other's economy as a matter of war strategy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial war outside this dyad. 
+
+MARITMID: MID2821 3 -- not maritime 
+MARITMID-CER: MID2821 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2821 3 -- not islands 
+ISLMID-CER: MID2821 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2821 3 -- not civil war 
+CIVWARMID-CER: MID2821 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2821 3 -- not civil war link
+CIVWARLINK-CER: MID2821 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2821 3 -- not coup 
+COUPMID-CER: MID2821 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2821 3 -- not coup link
+COUPLINK-CER: MID2821 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2558
+
+TERRMID: MID2558 3 -- not territory
+TERRMID-CER: MID2558 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2558 1 -- third party link to territorial MID 
+TERRLINK-CER: MID2558 3 -- uncertain
+TERRLINK-NOTES: MID2558 from Gibler, Miller, and Little 2016, in 1985 Iran seized and searched an Italian ship for approximately 5 hours. This was in connection with the Iran-Iraq War, a territorial war in which both Iran and Iraq attacked tankers trading with the other to harm their economy. It is therefore coded third party link to territorial MID. It is coded uncertain because GML recommend this case be dropped since seizures must be for at least 24 hours to be considered a MID. 
+
+MARITMID: MID2558 3 -- not maritime 
+MARITMID-CER: MID2558 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2558 3 -- not islands 
+ISLMID-CER: MID2558 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2558 3 -- not civil war 
+CIVWARMID-CER: MID2558 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2558 3 -- not civil war link
+CIVWARLINK-CER: MID2558 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2558 3 -- not coup 
+COUPMID-CER: MID2558 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2558 3 -- not coup link
+COUPLINK-CER: MID2558 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV861 deleted because MID2821 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. DATES (may not be accurate, see riv5.20all.cvs): 19850907 -19870915
+
+RIV861: MID2558 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler 2018; Gibler, Miller, and Little 2016 

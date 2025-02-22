@@ -1,0 +1,334 @@
+FILE: cm365732v11.0.txt
+DYAD: RUSSIA/USSR-S. KOREA
+RIVALRY: RIV1013
+DISPUTE(S): MID1709 MID611 MID2930 MID3008 MID3063 
+
+RIVNOTES: 
+
+PS: 19490629-19591227 0.25 19591228-19850310 0.00 19850311-19900929 -9 19900930-19950929 0.5
+
+PSNOTES: 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS-LAST-CHANGED: 20180920
+PS-LAST-CHECKED: 20180920
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1709 
+
+TERRMID: MID1709 3 -- not territory 
+TERRMID-CER: MID1709 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1709 3 -- not third party link to territory 
+TERRLINK-CER: MID1709 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1709 3 -- not maritime 
+MARITMID-CER: MID1709 1 -- certain 
+MARITMID-NOTES: MID1709 from Gibler 2018, a Soviet tanker was blown up, and the Soviet Union blamed South Korea. Evidence eventually showed that North Korea actually blew up the ship thinking it was a South Korean vessel. Nonetheless, Soviet Union threatened South Korea, triggering this MID. Coded not maritime because this was not connected to a maritime boundary dispute between these two states. 
+
+ISLMID: MID1709 3 -- not islands 
+ISLMID-CER: MID1709 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1709 3 -- not civil war 
+CIVWARMID-CER: MID1709 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1709 3 -- not civil war link 
+CIVWARLINK-CER: MID1709 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1709 3 -- not coup 
+COUPMID-CER: MID1709 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1709 3 -- not coup link
+COUPLINK-CER: MID1709 1 -- certain 
+COUPLINK-NOTES: 
+
+MID611 
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 from cm002365 narrative, this is the Vietnam War. Soviet Union supported North Vietnam against South Vietnam. South Korea fought alongside the South Vietnamese. The Vietnam War was both a territorial MID and a civil war MID. The territorial element comes from the fact each side claimed the entirety of the other's territory. This is coded as a third party link to territorial MID because Soviet Union and South Korea were involved in the North-South dispute by fighting for opposite sides. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: MID611 involved the disputation of maritime territory. Soviet Union and South Korea were connected to this as well, but coded not maritime here because neither state was a claimant to the maritime territory. 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: MID611 involved the disputation of islands off the coast of South Vietnam. Soviet Union and South Korea connected to this as well, but coded not islands here because neither state was a claimant to the islands. 
+
+CIVWARMID: MID611 3 -- not civil war 
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 the Vietnam War is also considered a civil war MID because North Vietnamese communist guerrillas were present in the South, fighting against the government as part of the war effort. Coded civil war link because North and South Vietnam are outside this dyad and civil conflict events there contributed to this MID. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2930 
+
+TERRMID: MID2930 3 -- not territory 
+TERRMID-CER: MID2930 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2930 3 -- not third party link to territory 
+TERRLINK-CER: MID2930 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2930 3 -- not maritime 
+MARITMID-CER: MID2930 1 -- certain 
+MARITMID-NOTES: MID2930 from cm narrative, occurred in May of 1967. The US conducted naval exercises with Japan and South Korea, within a few hundred miles of Soviet territory. USSR ships and warplanes responded by conducting simultaneous exercises, and Soviet ships got so close to US warships that collisions occurred. Coded not maritime because, although a naval flare-up, South Korea and USSR do not have a maritime border to dispute. This was connected only to military exercises and Cold War tensions. 
+
+ISLMID: MID2930 3 -- not islands 
+ISLMID-CER: MID2930 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2930 3 -- not civil war 
+CIVWARMID-CER: MID2930 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2930 3 -- not civil war link 
+CIVWARLINK-CER: MID2930 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2930 3 -- not coup 
+COUPMID-CER: MID2930 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2930 3 -- not coup link
+COUPLINK-CER: MID2930 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3008 
+
+TERRMID: MID3008 3 -- not territory 
+TERRMID-CER: MID3008 3 -- uncertain 
+TERRMID-NOTES: MID3008 from Gibler, Little, and Miller 2016, the Soviet Union forced down a South Korean airliner after it entered Soviet airspace. Coded not territory because this was not connected to a territorial dispute, and coded uncertain because GML recommend the case be dropped due to no protest by South Korea. 
+
+TERRLINK: MID3008 3 -- not third party link to territory 
+TERRLINK-CER: MID3008 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3008 3 -- not maritime 
+MARITMID-CER: MID3008 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3008 3 -- not islands 
+ISLMID-CER: MID3008 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3008 3 -- not civil war 
+CIVWARMID-CER: MID3008 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3008 3 -- not civil war link 
+CIVWARLINK-CER: MID3008 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3008 3 -- not coup 
+COUPMID-CER: MID3008 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3008 3 -- not coup link
+COUPLINK-CER: MID3008 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3063 
+
+TERRMID: MID3063 3 -- not territory 
+TERRMID-CER: MID3063 1 -- certain 
+TERRMID-NOTES: MID3063 from Gibler 2018, the Soviet Union shot down a South Korean airliner that entered Soviet airspace, killing everyone aboard. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID3063 3 -- not third party link to territory 
+TERRLINK-CER: MID3063 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3063 3 -- not maritime 
+MARITMID-CER: MID3063 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3063 3 -- not islands 
+ISLMID-CER: MID3063 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3063 3 -- not civil war 
+CIVWARMID-CER: MID3063 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3063 3 -- not civil war link 
+CIVWARLINK-CER: MID3063 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3063 3 -- not coup 
+COUPMID-CER: MID3063 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3063 3 -- not coup link
+COUPLINK-CER: MID3063 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+South Korea naval ships attacked the Soviet survey ship *Ungo* on December 28, 1959, resulting in the death of one Russian. South Korea denied the incident on December 31, 1959. 
+
+Soviet military forces forced a South Korean civilian aircraft to land near Murmansk on April 20, 1978, resulting in the deaths of two individuals. The Soviet Union released the passengers and crew on April 23-29, 1978. 
+
+Soviet military aircraft shot down a South Korean civilian aircraft (KAL-007) over the Soviet territory of Sakhalin on August 31-September 1, 1983, resulting in the deaths of 269 individuals. South Korea referred the matter to the *United Nations *(UN) Security Council on September 2, 1983. The UN Security Council approved a resolution condemning the Soviet Union, but the Soviet Union vetoed the resolution on September 9, 1983. The *European Community *(EC) parliament condemned the Soviet Union on September 15, 1983.
+
+SOURCES-CM: 
+Ference, 1994, 337-391; *Keesing*, January 30-February 6, 1960, November 1983.
+
+NARRATIVE-CR:
+The rivalry between the USSR and South Korea is a product of their opposing Cold War ideologies and close proximity. The disputes that occur between the countries begin in the post Korean War period, at the beginning of the Cold War, and end just prior to the end of the Cold War in 1983. 
+
+MID1709 took place in late December of 1959. South Korea naval ships attacked the Soviet survey ship *Ungo* on December 28, 1959, resulting in the death of one Russian. South Korea denied the incident on December 31, 1959. 
+
+MID611 is the Vietnam war. South Korea participated in the Vietnam War as an ally of the United States in the conflict from 1965 until 1973. The South Koreans participated significantly in support of the US sustaining over 1,000 battle related deaths. 
+
+MID2930 occurred in May of 1967. Here the United States was conducting naval training operations in the Sea of Japan with the Japanese and the South Koreans. These operations were conducted within a few hundred miles of Soviet territory. Soviet ships and war planes shadowed these exercises and on two occasions got so close to the American ships that the ships collided. The Americans claimed that the Soviets intentionally collided with the US ships but the Soviets claimed it was an accident. 
+
+MID3008 took place in April of 1978. Soviet military forces forced a South Korean civilian aircraft to land near Murmansk on April 20, 1978, resulting in the deaths of two individuals. The Soviet Union released the passengers and crew on April 23-29, 1978. 
+
+MID3063 took place on August 31, 1983. Soviet military aircraft shot down a South Korean civilian aircraft (KAL-007) over the Soviet territory of Sakhalin on August 31-September 1, 1983, resulting in the deaths of 269 individuals. South Korea referred the matter to the *United Nations *(UN) Security Council on September 2, 1983. The UN Security Council approved a resolution condemning the Soviet Union, but the Soviet Union vetoed the resolution on September 9, 1983. The *European Community *(EC) parliament condemned the Soviet Union on September 15, 1983.
+
+The last MID of RIV1013, MID3063 ended on September 1st, 1983. South Korea will ''wait and see'' whether to continue its policy of seeking official ties with the Soviet Union, Foreign Minister Lee Bum Suk said after the downing of the South Korean airliner Aug. 31, 1983. Impotent rage and frustration have built up in South Korea because of what is seen as the Soviet Union's escape from proper punishment for shooting down a South Korean airliner.
+
+The Government of President Chun Doo Hwan, helped by close allies such as the United States, has mounted a major publicity campaign at the United Nations and other international bodies over the shooting down of the airliner with 269 people aboard. But there is almost nothing that South Korea can do to retaliate directly against Moscow. Seoul has no diplomatic relations with the Soviet Union, which backed Korea's north in its war with the south, and the Government has ruled out direct military or other sanctions against the Soviet Union. For more than a week after the Boeing 747 was shot down while over Soviet airspace on Sept. 1, anti-Soviet demonstrations went on throughout South Korea.
+
+The Korean parliament unanimously adopted a resolution denouncing 'this barbaric, inhuman mid-air massacre by the Soviet Union, which is unprecedented in human history.' Kwon Ik-Hyun, secretary-general of the ruling Democratic Justice Party, called the Soviet action 'a deliberate act of treason against human conscience . . . betraying the inhuman nature of the Kremlin authorities.' It was not merely a challenge to the 15 states whose nationals lost their lives aboard the airliner, but 'an act of destruction against world peace,' Mr. Kwon said. But when some members of parliament demanded that South Korea should bar Soviet vessels from the strait between South Korea and Japan, Foreign Minister Lee Bum-Suk pointed out the dangers of such action in view of South Korea's own limited military capability.
+
+While Mr. Chun and other South Korean leaders welcomed U.S. President Ronald Reagan's sanctions against Moscow so far, some South Korean newspapers have called the U.S. response 'lukewarm.' Mr. Reagan has announced measures against the Soviet airline Aeroflot and otherwise relatively mild reprisals, including redoubled efforts to halt strategic exports to the Soviet Union and the suspension of talks on improving U.S.-Soviet contacts.
+
+Despite its outrage over the reported Soviet downing of its passenger jet, South Korea is attempting to keep on track its policy of opening up more diplomatic relations with the Soviet Union.
+
+Out of the shock of the disaster have come two seemingly contradictory reactions.
+
+On the one hand, the government is orchestrating large-scale, anti-Russian demonstrations at home and waging a major campaign abroad to encourage friendly countries to condemn the Soviet missile attack on a Korean Air Lines jet last Thursday morning Seoul time.
+
+But it is also hoping to keep the door open for more Soviet contacts, a policy that had begun to bear fruit in the past two years.
+
+"Our open-door policy has a long history and there is good reason to continue that policy," Foreign Minister Lee Bum Suk told reporters here today.
+
+At a news conference on September 6, 1983, he virtually ruled out independent retaliatory action against the Soviet Union and considerably softened language he had used earlier hinting at a possible revision of the open-door policy.
+
+In the aftermath of the 1983 incident Seoul has pursued a policy of seeking trade and official ties with South Korea's two giant communist neighbors to the north, China and the Soviet Union, which has been dubbed its ''northward policy.'' Foreign Minister Lee also said that no retaliatory action will be taken against the Soviet Union, although a South Korean delegation's trip to Tashkent last weekend to attend a UNESCO conference was canceled. He said he would ''wait and see'' the Kremlin's final reaction and the results of the current United Nations Security Council session before taking a definite decision on South Korea's future relations with the Soviet Union. ''I am trying to find the ways and means to end the recurrence of this kind of tragedy'' through the UN Security Council and other international forums, he said. Lee was pleased that China condemned the Soviet Union's ''intolerable deed.'' Japan has assured President Chun that it would do everything possible to assist South Korea in investigating the downing. At the same time, many South Korean and Japanese military analysts feel that the time has come for Washington, Tokyo, and Seoul to join forces to strengthen their defense posture in northeast Asia.
+
+The end of the rivalry between the USSR and South Korea is closely associated with the implementation of new approaches by new leaders in both countries: Roh and Gorbachev. Roh's policy of Nordpolitik and Gorbachev's Glasnost were attempts to reverse their nations' history. Their efforts, while supported by popular longings, still confronted serious resistance from conservative and powerful bureaucracies. In a fundamental sense, the Soviet economic crisis appeared responsible for Moscow's improved relations with Seoul. Politically, Gorbachev had signaled Soviet interest in improving relations with all countries in the Asia-Pacific region irrespective of sociopolitical system, including South Korea, as were spelled out in speeches in July 1986 in Vladivostok and in August 1988 in Krasnoyarsk. 
+
+Improved Seoul-Moscow relations appear to have been carefully and systematically planned in three related stages: sports, trade, and political relations. The Seoul Olympics was a major catalyst. The Soviets were eager to participate in the games, if only for the sake of the athletic competition. More than any other country-including the United States-Seoul's honored guests were from the Soviet Union. Moscow sent more than 6,000 Soviets to South Korea. Soviet tourist ships came to Pusan and Inch'on and Aeroflot planes landed in Seoul. And when the Soviet team headed for home, it also took along thirty-six South Korean television sets, seven minibuses, four large buses, four cars, and one copy machine-all gifts from Daewoo. 
+
+Economically, Seoul and Moscow were natural partners. South Korea had been seeking to trade with the Soviet Union even before Gorbachev came to power. Gorbachev desired foreign capital and high technology, as well as Seoul's help in alleviating the Soviet economic crisis through direct investment, joint ventures, and trade. Moreover, with the advantage of geographic proximity, South Korea was an ideal source of badly needed consumer goods and managerial skills. As early as May 1979, during a visit to Helsinki, then South Korean minister of foreign affairs Pak Tongjin signed an agreement obtaining Finnish assistance in exporting South Korean products to the Soviet Union and Eastern Europe. 
+
+Seoul welcomed trade opportunities with Moscow and considered the Soviet Union a significant part of the global market. Moreover, the natural resources Seoul increasingly needed-oil, metals, timber, and fish-were abundant in the Soviet Far East. Trade with the Soviet Union, Eastern Europe, and China was hoped also alleviate South Korea's apprehension over the United States' increasing trade protectionism. Moreover, South Korea's expanding trade with Eastern Europe and the Soviet Union initially was encouraged by the United States, although Washington later became increasingly concerned over possible high-technology transfers. 
+
+Because of the lack of diplomatic relations, most South Korean-Soviet trade initially was indirect; Eastern Europe, Hong Kong, Japan, and Singapore served as intermediaries. With an increasing volume of trade, Seoul and Moscow began trading directly, using facilities near Vladivostok and Pusan. Several major South Korean businesses including Daewoo, Sunkyong, and Lucky-Goldstar traded directly with the Soviet Union in 1990. 
+
+Based on mutual economic interests, the Korean Trade Promotion Corporation (KOTRA) and the Soviet Chamber of Commerce and Industry exchanged a trade memorandum in 1988 pledging mutual assistance in establishing trade offices in 1989. During a six-day visit to Seoul in October 1988, Vladimir Golanov, deputy chairman of the Soviet Chamber of Commerce and Industry, was received by officials of South Korea's major multinationals. KOTRA president Yi Sun-gi signed the trade memorandum in Moscow in December 1988. Seoul's trade office in Moscow opened in July 1989; Moscow's trade office in Seoul opened in April 1989. In December 1989, Seoul invited Soviet officials to attend a trade exhibition where members of the Soviet state-run Tekhsnabeksport displayed impressive high-technology items. 
+
+Political relations developed gradually. South Korea's wealth and technological prowess had been attracting the interest of a growing number of socialist nations. In initiating Nordpolitik, its chief architect Pak Ch'or-on-Roh's confidential foreign policy adviser-was rumored to have visited Moscow to consult with Soviet policymakers. Kim Young Sam visited Moscow from June 2 to June 10, 1989, with the apparent approval of the Roh administration. Selected from among several other South Korean politicians (including Kim Dae Jung, who had reportedly been invited to Moscow) to make certain that the newly emerging Seoul-Moscow relationship would proceed steadily, Kim Young Sam was received as a guest of the Soviet Institute of World Economy and International Relations (IMEMO). He participated in talks with various Soviet officials, including the newly elected chairman of the Supreme Soviet, academician Yevgeni Primakov. In a joint statement, the Reunification Democratic Party (RDP) and IMEMO pledged to promote closer trade and cultural ties between the two nations. While Kim Young Sam was in Moscow, the Kremlin announced that it would allow some 300,000 Soviet-Koreans who had been on the Soviet island of Sahkalin since the end of World War II to return permanently to South Korea-clearly a reflection of the continuing improvement in Seoul-Moscow relations. 
+
+Moscow even arranged a Seoul-P'yongyang meeting. Planned by IMEMO, Kim Young Sam, with Roh's prior approval, met with the North Korean ambassador to the Soviet Union, Kwon Hui-gyong, who reportedly proposed a regular exchange between the RDP and the Workers' Party of Korea (WPK), as well as a North-South summit meeting. Kim also met with Ho Tam, chairman of the Committee for Peaceful Reunification of the Fatherland (CPRF), who came to Moscow from P'yongyang. 
+
+SOURCES-CR:
+Ference, 1994, 337-391; *Keesing*, January 30-February 6, 1960, November 1983.
+New York Times, May 10-17, 1967; Savada and Shaw, 1990.
+
+PS-NARRATIVE: 
+
+19490629-19591227 0.25
+
+South Korea (or as it is officially known as the Republic of Korea) was officially recognized as a state by the United Nations on December 12, 1948. On March 16, 1949, Korean Premier Lee Bum Suk said that Soviet Union is helping with weapons anti-government guerillas in South Korea. Throughout the Korean War (1950-1953) Soviet Union provided military trainers for North Korean Communist rebels as well as weapons and diplomatic support for the insurgents against the South Korean forces. After the war Soviet Union always advocated for a united Korea, hoping that the Communist ideology would spread to the Southern provinces of Korea, too. South Korea naval ships attacked the Soviet survey ship *Ungo* on December 28, 1959, resulting in the death of one Russian. South Korea denied the incident on December 31, 1959. 
+
+19850311-19900929 Transition 
+
+The last MID of RIV1013, MID3063 ended on September 1st, 1983. South Korea will ''wait and see'' whether to continue its policy of seeking official ties with the Soviet Union, Foreign Minister Lee Bum Suk said this week after the downing of the South Korean airliner Aug. 31, 1983. Impotent rage and frustration have built up in South Korea because of what is seen as the Soviet Union's escape from proper punishment for shooting down a South Korean airliner. 
+
+Seoul-Moscow relations entered a new era in the 1980s with Gorbachev's coming to power on March 11, 1985 and Roh Taw-Woo's presidency started on February 25, 1988. The warm relationship between the Soviet Union and North Korea throughout the 1980s did not seem to be a problem for a rapprochement between the Soviet Union and South Korea. If anything, North Korea's decision to balance its major ally, the Soviet Union, by creating an alliance with China in 1987, allowed for an improved Soviet-South Korean relationship. In many ways, Roh's Nordpolitik and Mikhail Gorbachev's "New Thinking" had something in common-they were attempts to reverse their nations' recent histories. Their efforts, while supported by popular longings, still confronted serious resistance from conservative and powerful bureaucracies. In a fundamental sense, the Soviet economic crisis appeared responsible for Moscow's improved relations with Seoul. Politically, Gorbachev had signaled Soviet interest in improving relations with all countries in the Asia-Pacific region irrespective of sociopolitical system, including South Korea, as was clearly spelled out in his July 1986 Vladivostok and August 1988 Krasnoyarsk speeches. Improved Seoul-Moscow relations appear to have been carefully and systematically planned in three related stages: sports, trade, and political relations. The Seoul Olympics was a major catalyst. The Soviets were eager to participate in the games, if only for the sake of the athletic competition. More than any other country-including the United States-Seoul's honored guests were from the Soviet Union. Moscow sent more than 6,000 Soviets to South Korea. Soviet tourist ships came to Pusan and Inch'on and Aeroflot planes landed in Seoul. And when the Soviet team headed for home, it also took along thirty-six South Korean television sets, seven minibuses, four large buses, four cars, and one copy machine-all gifts from Daewoo. Economically, Seoul and Moscow were natural partners. South Korea had been seeking to trade with the Soviet Union even before Gorbachev came to power. Gorbachev desired foreign capital and high technology, as well as Seoul's help in alleviating the Soviet economic crisis through direct investment, joint ventures, and trade. Moreover, with the advantage of geographic proximity, South Korea was an ideal source of badly needed consumer goods and managerial skills. As early as May 1979, during a visit to Helsinki, then South Korean minister of foreign affairs Pak Tongjin signed an agreement obtaining Finnish assistance in exporting South Korean products to the Soviet Union and Eastern Europe. Seoul has welcomed trade opportunities with Moscow and considers the Soviet Union a significant part of the global market. Moreover, the natural resources Seoul increasingly needs-oil, metals, timber, and fish-are abundant in the Soviet Far East. Trade with the Soviet Union, Eastern Europe, and China would also alleviate South Korea's apprehension over the United States' increasing trade protectionism. Moreover, South Korea's expanding trade with Eastern Europe and the Soviet Union initially was encouraged by the United States, although Washington later became increasingly concerned over possible high-technology transfers. Because of the lack of diplomatic relations, most South Korean-Soviet trade initially was indirect; Eastern Europe, Hong Kong, Japan, and Singapore served as intermediaries. With an increasing volume of trade, Seoul and Moscow began trading directly, using facilities near Vladivostok and Pusan. Several major South Korean businesses including Daewoo, Sunkyong, and Lucky-Goldstar traded directly with the Soviet Union in 1990. Based on mutual economic interests, the Korean Trade Promotion Corporation (KOTRA) and the Soviet Chamber of Commerce and Industry exchanged a trade memorandum in 1988 pledging mutual assistance in establishing trade offices in 1989. During a six-day visit to Seoul in October 1988, Vladimir Golanov, deputy chairman of the Soviet Chamber of Commerce and Industry, was received by officials of South Korea's major multinationals. KOTRA president Yi Sun-gi signed the trade memorandum in Moscow in December 1988. Seoul's trade office in Moscow opened in July 1989; Moscow's trade office in Seoul opened in April 1989. In December 1989, Seoul invited Soviet officials to attend a trade exhibition where members of the Soviet state-run Tekhsnabeksport displayed impressive high-technology items. Political relations were developing gradually. South Korea's new-found wealth and technological prowess had been attracting the interest of a growing number of socialist nations. In initiating Nordpolitik, its chief architect Pak Ch'or-on-Roh's confidential foreign policy adviser-was rumored to have visited Moscow to consult with Soviet policymakers. Kim Young Sam visited Moscow from June 2 to June 10, 1989, with the apparent approval of the Roh administration. Selected from among several other South Korean politicians (including Kim Dae Jung, who had reportedly been invited to Moscow) to make certain that the newly emerging Seoul-Moscow relationship would proceed steadily, Kim Young Sam was received as a guest of the Soviet Institute of World Economy and International Relations (IMEMO). He participated in talks with various Soviet officials, including the newly elected chairman of the Supreme Soviet, academician Yevgeni Primakov. In a joint statement, the Reunification Democratic Party (RDP) and IMEMO pledged to promote closer trade and cultural ties between the two nations. While Kim Young Sam was in Moscow, the Kremlin announced that it would allow some 300,000 Soviet-Koreans who had been on the Soviet island of Sahkalin since the end of World War II to return permanently to South Korea-clearly a reflection of the continuing improvement in Seoul-Moscow relations. 
+
+Moscow even arranged a Seoul-P'yongyang meeting. Planned by IMEMO, Kim Young Sam, with Roh's prior approval, met with the North Korean ambassador to the Soviet Union, Kwon Hui-gyong, who reportedly proposed a regular exchange between the RDP and the Workers' Party of Korea (WPK), as well as a North-South summit meeting. Kim also met with Ho Tam, chairman of the Committee for Peaceful Reunification of the Fatherland (CPRF), who came to Moscow from P'yongyang. The progress in Seoul-Moscow relations was extraordinary. Given the complementary and parallel interests between Seoul and Moscow, their relations were likely to proceed even if there were temporary setbacks. A highly experienced South Korean diplomat, Kong No-myong, was assigned to the Moscow consulate; an equally experienced Soviet diplomat was posted to Seoul. 
+
+Igor Golembiovsky, deputy editor of Izvestia, said on April 4, 1990 in Tokyo that the Soviet Union and South Korea will establish diplomatic relations sometime next year. Golembiovsky added that reports from Seoul earlier this week about full diplomatic ties between the two countries within the year were unrealistic, mainly because the Soviet Union is anxious to avoid offending North Korea. But, he said, "Even if the economic ties grow between the Soviet Union and South Korea, the Soviet Union still needs cooperation from Japan, both financial and technical, particularly for the development of Siberia." Golembiovsky confirmed that a planned visit to Japan by Soviet President Mikhail Gorbachev will take place early next year. Golembiovsky said Gorbachev's visit may provide new impetus in settling the "northern territories" issue. Japan is demanding the return of four islands northeast of Hokkaido that the Soviets seized at the end of World War II.
+
+On June 5th, 1990, Roh held his first summit with President Gorbachev in San Francisco. The Soviet Union and South Korea have not yet established diplomatic relations. However, the heads of two countries without formal diplomatic relations have held talks in a third country directly to discuss matters concerning the establishment of diplomatic relations and economic co-operation. This event itself is a rara avis. It's influence on the structure of the cold war and confrontation between the USA and the Soviet Union on the Korean peninsula, will be hard to estimate. It may become a starting point for ''cross recognition'', that is, the USA, Japan and other countries will recognise North Korea, and the Soviet Union and other east European countries will recognise South Korea.
+
+Moscow's "Seoul Rush" may be regarded as an effort to reconcile (and possibly to terminate) its past political-military obligations to P'yongyang with the new economic and strategic opportunities in Seoul. Seoul's "Moscow Rush" had been conceived primarily as a way to utilize its growing economic power for political purposes, particularly in its relations with P'yongyang. On the other hand, if indeed the final destination of Nordpolitik was P'yongyang, Seoul had thus far proved to be less successful than Moscow.
+
+A South Korean businessman on 24th July, 1989, urged the Soviet government to offer guarantees for South Korean investment in the Soviet Union, irrespective of North Korea. Despite the need for economic co-operation between the Soviet Union and South Korea, South Korean businessmen face uncertainty in investing in the Soviet Union because there are not enough guarantees for redemption of profits, said Chong Chu-yong, founder of the Hyundai group. For there to be guarantees, the re must first be diplomatic relations with the Soviet Union, said Chong. ''South Korea has enough construction experience from the Middle East and applied technology, while the Soviet Union can supply energy toSouth Korea due to its massive resources of gas and coal and world famous basic scientific technology,'' he said. ''Meanwhile, it is desirable for South Korean businessmen to give confidence to the Soviet government and people that they can help the Soviet Union in driving towards openness,'' Chong said. ''The communist country wants to establish good economic ties with South Korea rather than political relations.
+
+19900930-20159999 0.5
+
+Soviet Union and South Korea established diplomatic ties on September 30, 1990. 
+
+Igor Rogachev, Soviet First Deputy Foreign Minister for Asian and Pacific Affairs, arrived in Seoul on 6th January,1991, at the head of a 12-member delegation to attend the first policy consultation meeting since South Korea and the Soviet Union established diplomatic relations last year.
+
+On arrival, Rogachev said ''Soviet policy towards the Korean Peninsula is to continue to develop dialogue between South and North Korea. We don't believe we should take up a mediatory role for South and North Korea, as there is a direct channel for dialogue between the two sides. But if such a role is needed, we will always answer to that.'' On 7th January,1991, Rogachev delivered a personal letter from President Gorbachev to South Korean President No Tae-u. In his letter Gorbachev explained the economic difficulties facing the Soviet Union. He said that many countries had extended their cooperation and he requested ''the prompt cooperation'' of the ROK.
+
+Gorbachev told No Tae-u he hopes economic cooperation with Korea will improve and he will send Deputy Premier Yuriy Maslyukov to Seoul later in the month for consultations. In the letter handed to No by Rogachev Gorbachev said that the future of the Soviet economy and the interests of the international community were directly linked. No Tae-u told Rogachev that his government would give Moscow ''the greatest possible support'' in the economic sector as ''the success of perestroyka is crucial not only for the Soviet Union but for the peace of the world as a whole''. South Korea has decided to ask the Soviet Union for an official explanation of a report that it long ago recovered the remains of all 269 people aboard a Korean jumbo jet shot down by a Soviet fighter in 1983 and secretly burned them, a government official said. Rogachev was told of the decision on 7th January and urged to confirm the report. ''It will be a critical issue between Korea and the Soviet Union if the report is true,'' the government spokesman said. In the first round of the ROK-USSR policy consultative meeting, held on 7th January, Korea called on the Soviet side to conduct another investigation into the KAL aeroplane incident. In response, Rogachev said he would inform the Soviet institutions concerned but it was ''undesirable to talk about a matter of principles based on reports in the press'', and that it was ''undesirable'' to approach this issue ''too emotionally'', as that would not be favourable for relations.
+
+South Korea will begin ship-ping footwear and other consumer goods to the Soviet Union in early October, 1991, under a newly signed Dollars 3billion loan package. The first shipment of products will include 5m pairs of sports shoes, 10,000 tons of synthetic cleaning powder and 250,000 color television sets. Under the deal, South Korea will provide the credits between 1991-93. Up to Dollars 500m in cash has already been provided. In recent negotiations, South Korea agreed to provide another dollars 500m in cash and Dollars 800m in credits for consumer goods it will ship to the Soviet Union by the end of the year. The loan was instrumental in opening diplomatic ties between both countries last September. 
+
+On May 19, 1995, the Russian Defence Minister Pavel Grachev arrived in the South Korean capital Friday for three-day talks. Diplomatic sources said Russia would like to strengthen military relations with South Korea, which was a political foe of the former communist Soviet Union, whose collapse in 1991 led to North Korea losing its biggest supporter and arms supplier. Russia has been trying for some time to sell sophisticated military hardware to South Korea, which until now has depended for its equipment on the United States. The former Soviet Union owed South Korea 1.4 billion dollars, which Moscow would now like to pay off with tanks, artillery and other weapons systems.
+
+Russia is supplying South Korea with arms such as tanks and anti-aircraft weapons against the debts of the former Soviet Union, ITAR-TASS news agency reported from Seoul.The agency said it was told this on 24th October, 1996 by the first deputy managing director of the Russian state arms trading company Rosvooruzheniye, Oleg Belaventsev, who is heading a company delegation to the Seoul air show.
+
+"Belaventsev confirmed that following the delivery of ten BMP-3 armoured personnel carriers to South Korea, six T-80U tanks and a consignment of Igla portable anti-aircraft missile units were delivered to the port of Pusan on Tuesday [22nd October]" , the agency said. South Korean government plans to enter negotiations with Russia next month on collection of its loan to the then Soviet Union back in 1991, according to an official at the Ministry of Foreign Affairs and Trade Sunday 24th May, 1998. A delegation, comprising of officials from the finance-economy ministry and the foreign affairs-trade ministry, will discuss with its Russian counterpart the details of a debt servicing scheme next month, he said. Seoul wants Moscow to make payment in materials, including aluminium and steel, but Moscow wishes to provide Seoul with defense industry products instead of repaying its borrowings from Seoul. South Korea will hardly entertain the Russian proposal because its weaponry system is different from that of Russia, the official added. South Korea, which has abstained from dunning Russia for the repayment of the debt to maintain good relations with Russia, reportedly is stepping up its efforts to collect its loans to Russia due to the shortages of foreign exchange and materials. It provided the then Soviet Union with loans totaling 1 .47bn US dollars to the Soviet Union in 1991. Russia, in arrears with its repayment of the debt carried over from the Soviet Union, has so far repaid some 300m dollars in goods to the country.
+
+Russian president Vladimir Putin visited Seoul in February 2001. 
+
+Russian and South Korean delegations finished on Friday 1 February, 2002, another round of consultations of Russia's debt to South Korea. A spokesman at the South Korean embassy in Moscow told ITAR-TASS the negotiations at the level of department chiefs of the two countries' finance ministries continued since the beginning of this week. South Korea's governmental sources said South Korea hopes to get from Russia fishery quotas in exchange for a partial write-off of the debt. Moscow's diplomatic quarters do not deny such option. "The quotas for fish resources are a 'hard currency', and such formula is quite possible," a Russian expert told ITAR-TASS. However, Moscow's diplomatic sources made clear that "specific accords have not been reached " at the latest round of the consultations. The South Korean embassy withheld comment on the week-long consultation, only saying that the "sides agreed to continue the working consultations in Seoul". A regular round is likely in the nearest months, a South Korean diplomat said. The former Soviet Union got 1.47billion dollars in loans from South Korea in 1990.A total of 3bn dollars was earmarked, but the rest never came after the Soviet Union's collapse. Post-Soviet Russia's debt to South Korea, with interest, is an estimated 1.95 bn dollars.
+
+On August 13, 2002, Russia and South Korea have signed a number of agreements stipulating the payment of 534m dollars' worth of Russian arms supplies to South Korea for part of the debt Russia inherited from the Soviet Union, a senior Russian official close to the deal told Prime-TASS.
+
+Russia is expected to supply its T-80 tanks, Ka-32 transport helicopters, BMP-3 armored personnel vehicles and other military equipment. But the source also said that the two sides failed to agree on the total amount of Soviet debt to South Korea because their calculations of interest payments differ. The source said that the Russian Finance Ministry had proposed to hold a new round of talks on the debt this month but no reply has been received from the South Korean side yet. While the Russian Finance Ministry sees the figure at 1.6bn dollars, the South Korean side says the calculations of the current Russian debt should be based on the 1.95billion-dollar figure, which includes the overdue interest payments.
+
+South Korean president Roh Muhyeon visited Moscow in September 2004.
+
+PS-SOURCES: New York Times March 17, 1949; BBC August 7, 1989; June 8, 1990; October 6, 1990; January 10, 1991; March 9, 1994; October 25, 1996; May 24, 1998; February 1, 2002; August 13, 2002; Christian Science Monitor September 9, 1983; Llyods' List September 24, 1991; Globe and Mail September 12, 1983; May 30, 1995; Washington Post September 6, 1983.
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID1709 MID2930 not considered maritime MID 
+
+MARITIME-DISPUTE: MID1709
+ DYAD: RUSSIA/USSR S. KOREA 365732
+ DATES: 19591228 19591230
+ HOSTILITYA: 2 FATALITYA: 1
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID1709 took place in late December of 1959. South Korea naval ships attacked the Soviet survey ship *Ungo* on December 28, 1959, resulting in the death of one Russian. South Korea denied the incident on December 31, 1959. 
+
+MARITIME-DISPUTE: MID2930
+ DYAD: RUSSIA/USSR S. KOREA 365732
+ DATES: 19670510 19670517
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2930 occurred in May of 1967. Here the United States was conducting naval training operations in the Sea of Japan with the Japanese and the South Koreans. These operations were conducted within a few hundred miles of Soviet territory. Soviet ships and war planes shadowed these exercises and on two occasions got so close to the American ships that the ships collided. The Americans claimed that the Soviets intentionally collided with the US ships but the Soviets claimed it was an accident. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

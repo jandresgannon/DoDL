@@ -1,0 +1,93 @@
+FILE: cm540600v11.0.txt
+DYAD: ANGOLA - MOROCCO
+RIVALRY: RIV1151
+DISPUTE(S): MID2150 MID3012 
+
+PS-LAST-CHANGED: 20190218
+PS-LAST-CHECKED: 20190218
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2150 
+
+TERRMID: MID2150 3 -- not territory
+TERRMID-CER: MID2150 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2150 3 -- not third party link to territory 
+TERRLINK-CER: MID2150 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2150 3 -- not maritime 
+MARITMID-CER: MID2150 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2150 3 -- not islands 
+ISLMID-CER: MID2150 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2150 3 -- not civil war 
+CIVWARMID-CER: MID2150 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2150 1 -- civil war link
+CIVWARLINK-CER: MID2150 1 -- certain
+CIVWARLINK-NOTES: MID2150 from NYT 4/5/1977 and 5/12/1977, Zaire was facing an ongoing civil war. The government was, at one point, in danger of falling to rebels who were fighting near the capital. Cuba was supplying arms and personnel to help the rebels fight against the government, and Zaire suspended diplomatic relations with Cuba for doing so in April 1977. Angola wanted the rebels to succeed and warned other countries not to interfere in the civil war or Angola would respond militarily. Angola had also been providing refuge to the rebels themselves. Morocco offered military assistance to the Zairean government, pulling them into this MID against the supporters of the rebels (i.e., Angola here). Coded civil war link because this was connected to the civil war in Zaire/DRC, outside this dyad. 
+
+COUPMID: MID2150 3 -- not coup 
+COUPMID-CER: MID2150 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2150 3 -- not coup link
+COUPLINK-CER: MID2150 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3012
+
+TERRMID: MID3012 3 -- not territory
+TERRMID-CER: MID3012 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3012 3 -- not third party link to territory 
+TERRLINK-CER: MID3012 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3012 3 -- not maritime 
+MARITMID-CER: MID3012 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3012 3 -- not islands 
+ISLMID-CER: MID3012 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3012 1 -- civil war MID
+CIVWARMID-CER: MID3012 3 -- uncertain
+CIVWARMID-NOTES: MID3012 from Washington Post 2/1/1978, Angola accused French and Moroccan nationals of raiding targets inside Angola from Zairean territory on the day of this MID. Coded civil war MID because this also involved conflict inside Angola, although the main events of this MID occurred in Zaire. Coded uncertain because GML 2016 recommend this MID be dropped since Angolan forces were not involved in this MID. 
+
+CIVWARLINK: MID3012 1 -- civil war link
+CIVWARLINK-CER: MID3012 3 -- uncertain
+CIVWARLINK-NOTES: MID3012 from Gibler, Miller, and Little 2016, Moroccan troops assisted Zairean troops to fight rebels who were attacking from Angola. Coded civil war link becaue this was connected to militarized rebel activity (i.e., fighting) in Zaire, outside this dyad, but coded uncertain because GML recommend this case be dropped as no Angolan forces were involved in this MID. 
+
+COUPMID: MID3012 3 -- not coup 
+COUPMID-CER: MID3012 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3012 3 -- not coup link
+COUPLINK-CER: MID3012 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Washington Post (1978). Angola Charges Raids. February 1 1978, A13. 

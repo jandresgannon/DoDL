@@ -1,0 +1,178 @@
+FILE: cm235750v11.0.txt
+DYAD: PORTUGAL-INDIA
+RIVALRY: RIV649
+DISPUTE(S): MID1073 MID2842 MID1074 
+RIVNOTES: 
+
+PS: 19470815-19540714 0.25 19540715-19611220 0.00 19611221-19741231 0.25 19750101-19791231 0.5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS-LAST-CHANGED: 20220305
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1073 
+
+TERRMID: MID1073 1 -- territorial MID
+TERRMID-CER: MID1073 1 -- certain 
+TERRMID-NOTES: MID1073 from cm narrative, Portugal and India disputed sovereignty over several colonial holdings in India, including Goa. From Gibler, Miller, and Little (2016), Portugal put its forces on high alert and threatened force if India attempted to annex Goa. Angry crowds in India were appearing to prepare to storm Goa. Coded territorial MID because this MID is centered on the disputed territory of Goa. 
+
+TERRLINK: MID1073 3 -- not third party link to territory 
+TERRLINK-CER: MID1073 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1073 3 -- not maritime 
+MARITMID-CER: MID1073 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1073 3 -- not islands 
+ISLMID-CER: MID1073 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1073 3 -- not civil war 
+CIVWARMID-CER: MID1073 1 -- certain 
+CIVWARMID-NOTES: MID1073 there is no indication that the domestic protests in India that threatened Portuguese Goa involved militarized rebel groups. 
+
+CIVWARLINK: MID1073 3 -- not civil war link 
+CIVWARLINK-CER: MID1073 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1073 3 -- not coup 
+COUPMID-CER: MID1073 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1073 3 -- not coup link
+COUPLINK-CER: MID1073 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2842 
+
+TERRMID: MID2842 1 -- territorial MID
+TERRMID-CER: MID2842 3 -- uncertain 
+TERRMID-NOTES: MID2842 from Gibler, Miller, and Little (2016), Portuguese aircraft violated Indian airspace, and India warned that "actions would be taken" if planes continued violating Indian airspace. Coded territorial MID because this was centered on disputed Goa (the airspace was just outside of Goa), but coded uncertain because GML argue this is not a MID, as the threat by India was vague and Portugal denied the accusations. 
+
+TERRLINK: MID2842 3 -- not third party link to territory 
+TERRLINK-CER: MID2842 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2842 3 -- not maritime 
+MARITMID-CER: MID2842 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2842 3 -- not islands 
+ISLMID-CER: MID2842 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2842 3 -- not civil war 
+CIVWARMID-CER: MID2842 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2842 3 -- not civil war link 
+CIVWARLINK-CER: MID2842 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2842 3 -- not coup 
+COUPMID-CER: MID2842 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2842 3 -- not coup link
+COUPLINK-CER: MID2842 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1074 
+
+TERRMID: MID1074 1 -- territorial MID
+TERRMID-CER: MID1074 1 -- certain 
+TERRMID-NOTES: MID1074 from Gibler (2018), India attacked Portuguese forces in Goa in 1961 to try and expel the Portuguese from India. India succeeded. Coded territorial MID because this was a battle over possession of Goa. 
+
+TERRLINK: MID1074 3 -- not third party link to territory 
+TERRLINK-CER: MID1074 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1074 3 -- not maritime 
+MARITMID-CER: MID1074 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1074 3 -- not islands 
+ISLMID-CER: MID1074 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1074 3 -- not civil war 
+CIVWARMID-CER: MID1074 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1074 3 -- not civil war link 
+CIVWARLINK-CER: MID1074 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1074 3 -- not coup 
+COUPMID-CER: MID1074 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1074 3 -- not coup link
+COUPLINK-CER: MID1074 1 -- certain 
+COUPLINK-NOTES: 
+
+
+NARRATIVE-CM:
+India and Portugal disputed the status of several Portuguese colonies, including Gao, Damao, Diu, Nagar-Aveli, and Dadra, on the Indian subcontinent beginning in 1950. On July 15, 1954, 40 Indian nationalist custom officers armed with shotguns and pistols took over the Portuguese island of Angediva, off-shore from Goa. Indian nationalists and Portuguese troops clashed between July 22, 1954 and August 15, 1955. India refused to allow Portuguese troops to move from Damao to Nagar-Aveli and Dadra across Indian territory in July 1954. Prime Minister Nikita Khrushchev of the Soviet Union expressed support for India in November 1954, and Secretary-of-State John F. Dulles of the United States expressed support for Portugal in December 1954. On July 25, 1955, the Indian government ordered the closure of the Portuguese legation in New Delhi because of Portugal's unwillingness to negotiate the status of the colonies. Some 3,000 Indian demonstrators marched on Goa and Damoa on August 15, 1955. Portuguese troops and police fired on the demonstrators near the border, resulting in the deaths of 21 individuals. Portugal issued a protest to India on August 17, 1955. India severed diplomatic relations with Portugal on August 19, 1955. Portugal referred the "right of passage" matter to the *International Court of Justice* (ICJ) on December 22, 1955. The ICJ began hearings on the "right of passage" matter on September 23, 1957. The ICJ issued a decision on the "right of passge" matter on April 12, 1960, which suggested that Portugal did not have the right to cross Indian territory. India formally incorporated Naga Haveli and Dadra on August 16, 1961. Portuguese military artillery fired on Indian ships near Goa on November 17 and November 24, 1961, resulting in the death of one individual. India mobilized troops near the border with Gao beginning on November 30, 1961. Portugal referred the matter to the *United Nations *(UN) Security Council on December 9, 1961. Prime Minister Jawarharlal Nehru of India demanded a Portuguese withdrawal from the colonies on December 11, 1961. United Nations Secretary-General U Thant offered to mediate the dispute on December 15, 1961, but India refused the mediation offer on December 15, 1961. Britain appealed for peaceful negotiations on December 17, 1961. Some 30,000 Indian troops seized Goa, Damao, and Diu on December 18-19, 1961. Pakistan condemned India's "naked militarism" on December 18, 1961. Portugal called for an urgent meeting of the UN Security Council. The UN Security Council approved a resolution appealing for a ceasefire, but the Soviet Union vetoed the resolution on December 19, 1961. China expressed support for India on December 19, 1961. Portuguese troops surrendered to Indian troops on December 20, 1961. Twenty Indian soldiers, two Portuguese soldiers, and 45 civilians were killed during the crisis. India and Portugal signed an agreement in New Delhi on December 31, 1974, which provided for the established of diplomatic relations between the countries and for Portuguese recognition of Indian sovereignty over Goa, Damao, and Diu. India lifted the trade ban against Portugal on January 2, 1975.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 547-548, 549-550; Donelan and Grieve, 1973, 215-219; *Facts on File*, December 14-20, 1961, December 21-27, 1961; *Keesing*, November 19-26, 1960, November 4-10, 1974, January 20-26, 1975; Tillema, 1991, 230-231; Weisburd, 1997, 35-37; Wright, 1962, 617-632; Zacher, 1979, 243-244.
+
+NARRATIVE-CR:
+The rivalry between India and Portugal which included disputes that occurred between 1954 until 1961 concerned the status of several small colonial enclaves on the Arabian Sea. These included Goa, Damao, and Diu. These colonial possessions had been ruled by Portugal for more than 450 years. India gained its independence from the United Kingdom in 1947, but there were remaining territorial issues with Kashmir and the Portuguese and French enclaves. In 1950, India formerly requested that Portugal hand the colonies over to India. 
+
+From August of 1954 until June of 1955 MID1073 occurred. A group called the Free Goan volunteers infiltrated and seized control of Dadra and Nagar Haveli, other Portuguese enclaves on the northwestern coast of India. The Portuguese attempted to transport troops to the areas but the Indians refused them passage. In 1955, a large number of nonviolent Indian protestors crossed the border into Goa and began a passive resistance campaign. Portuguese police fired on the crowd killing between 15 and 30 while Portuguese soldiers stood by and did not intervene. The demonstrators withdrew. This outraged Indian public opinion towards Portugal. 
+
+For the next couple of years tensions subsided for the most part. There was a relatively minor incident on December 12, 1956 MID2842. Here India reported that Portuguese aircraft flying into Goa had violated Indian airspace forty times in 1956. India warned Portugal that should violations of Indian airspace continue that India would respond. The reports do not indicate the nature of the response India had in mind but the threat was clear. 
+
+In 1957, Portugal brought a case before the ICJ demanding the right of unrestricted passage of food, supplies, and personnel through Indian Territory to the port enclaves of Goa, Damao and Diu. In 1960, the ICJ ruled that India had acted within its rights in denying free passage through its territory earlier in 1955. 
+
+Several events brought the incident to a head in 1961. At the Belgrade Conference of Nonaligned Nations in September of 1961, India was criticized for tolerating Portugal's continued presence on the subcontinent. An international meeting in New Dehli in October also generated pressure on India to eliminate the Portuguese presence. At the same time domestic pressure was being brought to bear on the Nehru administration for the manner in which it was handling border incidents with the PRC that took place from 1954 until 1962. 
+
+From August 1961 until December 1961 MID1074 occurred. India passed legislation in parliament to annex former Portuguese enclaves that India had occupied since 1954. Portugal increased her military presence in the area, as did India. ON December 11 India's Prime Minister Jawarharlal Nehru demanded that Portugal withdraw from Goa. UN Secretary General U Thant attempted to mediate, Portugal agreed but India refused. On December 17, Nehru sent three Indian army divisions into Goa against 3,500 Portuguese. The Portuguese offered little resistance. A Portuguese frigate fought several Indian destroyers and frigates until it was damaged and ran aground. The invasion and occupation was completed in 36 hours with 22 India KIA and 45 KIA Portuguese. 
+
+This ends the militarized aspect of the rivalry between India and Portugal. However bitterness over these events continued for the next 13 years. The event that triggers the ending of the rivalry is the Carnation revolution in Portugal April 25, 1974 that ended the dictatorial regime and brought in a democratic process to the country. After the revolution the government in Lisbon formally dropped its claims to the former colonies. On 30 December 1974 an announcement was made that the two countries would renew diplomatic relations and that a treaty conceding India's sovereignty over Goa, Damao, Diu and several other small colonies would be signed in New Dehli. The treaty re-establishing diplomatic relations was signed in New Delhi on December 31, 1974. The Embassies of the two countries were re-opened-the Indian Embassy in Lisbon in June, 1975, and the Portuguese Embassy in New Delhi in July 1975. Portugal opened a Consulate General in Panajim in April 1994.
+
+From 1975-1987 a period relative political and economic instability existed in Portugal after the revolution. During this period, the Indo-Portuguese bilateral interactions remained at a low level. Nevertheless, a bilateral Agreement on Trade, Economic, Industrial, and Technical Cooperation was signed in 1977. A Joint Committee established under this Agreement had its first and only meeting in November 1981.
+
+SOURCES-CR: 
+Butterworth, 1976, 197-198;Donelan and Grieve, 1973, 215-219; Tillema, 1991, 230-231; Weisburd, 1997, 35-37; Wright, 1962, 617-632; Zacher, 1979, 243-244; Indian Ministry of External Affairs website: http://meadev.nic.in/foreign/portugal.htm
+
+PS-NARRATIVE:
+
+19470815-19540714 0.25
+
+Ever since its independence on August 15, 1947 India tried to get back all the small-pockets of colonial territories on the subcontinent. Especially India tried to get back the Portuguese (Goa, Daman, Diu, Dadra and Nagar Haveli) and French colonies. On August 14, 1950 Portugal has declined India's request to discuss and settle the future of Portuguese possessions in this country on the ground that the possessions formed an `integral part of Portugal'. India answered that it `will not accept this as the final disposition of the question, nor can we in any way acquiesce in the continuance of the present unsatisfactory position.' In March 1951 Nehru, India's Prime Minister made it clear that it considered the Portuguese colonies in India as part of Indian territory and that only a solution that will accept the return of those lands to India shall be accepted.
+
+Jawaharlal Nehru declared in June 1952 that `Goa is geographically and culturally part of India, and must inevitably be part of the Indian Union politically also. Any other arrangement or use of Goa in any way hostile or detrimental to the Indian Union can only lead to continuous friction and discord.' On November 1, 1952 India informed the U.N. for first time that it will not tolerate for much longer the French and Portuguese colonies in India. On June 10th, 1953 the Indian Government announced that it decided to withdraw its diplomatic mission from Lisbon as a protest against the Portuguese Government's refusal to discuss the question of the transfer of its Indian colonies to India. On June 11th, 1953, India closed its legation in Lisbon but made it clear that this did not amount to a break of diplomatic relations because it did not ask the Portuguese diplomats to leave New Delhi. On July 15, 1954, 40 Indian nationalist custom officers armed with shotguns and pistols took over the Portuguese island of Angediva, off-shore from Goa. From August of 1954 until June of 1955 MID1073, the first MID of RIV649, occurred.
+
+19611221-19741231 0.25
+
+Prime Minister Jawarharlal Nehru of India demanded a Portuguese withdrawal from the colonies on December 11, 1961. United Nations Secretary-General U Thant offered to mediate the dispute on December 15, 1961, but India refused the mediation offer on December 15, 1961. Britain appealed for peaceful negotiations on December 17, 1961. Some 30,000 Indian troops seized Goa, Damao, and Diu on December 18-19, 1961. Pakistan condemned India's "naked militarism" on December 18, 1961. Portugal called for an urgent meeting of the UN Security Council. The UN Security Council approved a resolution appealing for a ceasefire, but the Soviet Union vetoed the resolution on December 19, 1961. China expressed support for India on December 19, 1961. Portuguese troops surrendered to Indian troops on December 20, 1961. Twenty Indian soldiers, two Portuguese soldiers, and 45 civilians were killed during the crisis.
+
+Post-1961, however, Portugal continued to consider Goa as part of Portugal and did not recognize the Indian take-over until after the Carnation Revolution changed the regime in Portugal. The relations between 1961 and 1974 were minimal. On 30 December 1974 an announcement was made that the two countries would renew diplomatic relations and that a treaty conceding India's sovereignty over Goa, Damao, Diu and several other small colonies would be signed in New Dehli. The treaty re-establishing diplomatic relations was signed in New Delhi on December 31, 1974.
+
+19750101-20159999 0.5
+
+The last MID of RIV649, MID1074, ended on December 19, 1961. However, Portugal continued to consider Goa as part of Portugal and did not recognize the Indian take-over until after the Carnation Revolution changed the regime in Portugal. On 30 December 1974 an announcement was made that the two countries would renew diplomatic relations and that a treaty conceding India's sovereignty over Goa, Damao, Diu and several other small colonies would be signed in New Dehli. The treaty re-establishing diplomatic relations was signed in New Delhi on December 31, 1974. The Embassies of the two countries were re-opened in 1975-the Indian Embassy in Lisbon in June, 1975, and the Portuguese Embassy in New Delhi in July 1975. On July 21, 1976 Portugal upgraded its diplomatic presence in New Delhi to the level of ambassador. From 1975-1987 a period relative political and economic instability existed in Portugal after the revolution. During this period, the Indo-Portuguese bilateral interactions remained at a low level. Nevertheless, a bilateral Agreement on Trade, Economic, Industrial, and Technical Cooperation was signed in 1977. The Foreign Minister of Portugal, Andre Goncalves Pereira arrived in New Delhi on 30th October, 1981 for an official visit. He was accompanied by members of the Secretariat of State of Culture, the Director General of Sports and officials from the state departments dealing with foreign affairs and social communication. The officials make up a commission which will discuss aspects of co-operation between India and Portugal. Portugal has proposed to India that the two nations should co-operate in the sphere of shipbuilding. The proposal was made by Pereira, when he called on President Reddy and Prime Minister Indira Gandhi. Pereira said Portugal could assist India in the construction of shipyards and in the development of tourism along India's coastline. On November 12, 1981, India and Portugal have signed their first ever agreement on cultural exchange program lasting for two years from January 1st 1982. It covers wide-ranging activities in education, science, art, culture, mass media, sports and public health. In a speech in front of the Portuguese Parliament in June 1983, the Foreign Minister Jaime Gama declared that enhancing the relations with India are one of the major foreign policy objectives during his tenure as Foreign Minister. In July 1991, India and Portugal have ''amicably resolved'' a 30-year-old contentious issue between them as Portugal has agreed to return the gold known as ''The Jewels of India'' which had been removed in 1961 during the liberation of Goa from Portuguese colonial rule. The Portuguese President, Dr Mario Soares, made an official visit to India on January 25th, 1992, during which he met with Indian President Venkataraman as well as with the Prime Minister and Minister of Foreign Affairs. In June 1992, India and Portugal have decided to strengthen their cultural and economic ties. Portugal, which is the current president of the European Community, is to continue to work for upgrading India's relationship with the community. These issues figured at the Indian Prime Minister, Mr Narasimha Rao's wide-ranging talks with President Mario Soares in Lisbon on June 15, 1992. A FICCI [Federation of Indian Chambers of Commerce and Industry] team visited Portugal shortly after this official visit by the Indian Prime Minister, in order to try and set up stronger relations. Portugal opened a Consulate General in Panajim, Goa in April 1994. In April 1995, Portugal offered India financial packages including credits to set up joint ventures with local firms. Portuguese Minister of State for Trade Luis Palha said in New Delhi that Lisbon was prepared to guarantee an amount of 100 million dollars to support the export of his country's goods to India. "We expect this amount to be used by our mutual companies within the credit lines which will be agreed and sanctioned by the Portuguese and Indian banks," he said while addressing the second meeting of India-Portuguese joint business council. Palha also indicated that his government and the European Union will be committing special funds in order to make trade and cooperation relations with India stronger. In July 1995, the Indian External Affairs Minister, Mr Pranab Mukherjee, met in Lisbon with the Portuguese President, Mr Mario Soares, and the Foreign Minister, Mr. Barroso. The Portuguese side welcomed New Delhi' s efforts to revive the political process in the state of Kashmir and said Portugal has always regarded Kashmir as an integral part of India. The Portuguese President stressed the need for strengthening bilateral relations. Both the sides decided to hold negotiations in September 1995 for agreements on avoidance of double taxation and air services. India and Portugal signed on February 6th, 1997, an agreement to establish air links between New Delhi and Lisbon. The agreement was signed in New Delhi by the visiting Portuguese Foreign Minister Jamie Gama and his Indian counterpart, Inder Kumar Gujral. In December 1998, Portugal invited India to be part of the Eureka' program of the European Union countries, which aimed at promoting transnational research projects. The invitation was extended by the Science and Technology Minister of Portugal, Prof. Jose Mariano Gago, who was on a four-day visit to India. Prof. Gago said India could be the second Asian nation to join the program. China has already joined it, after the program was extended to include Asian countries in April 1997. The Portuguese Minister said his country was interested in collaborating with India in tropical research, biotechnology, health, oceanography and information technology. Prof. Gago and the Union Minister for Science and Technology and Human Resource Development, Dr. Murli Manohar Joshi, signed an agreement for setting up a joint committee to enhance cooperation between the two countries in the field of science and technology. In February 2000, India and the European Union (EU) have decided to hold their first ever summit level meeting in Lisbon, at the initiative of the Portuguese foreign policy agenda. The summit, taking place at the initiative of Portugal (which held the Presidency of the EU for the first half of 2000), is expected to plug a big gap in bilateral relations between India and the Union. The EU is the largest trade partner of India. But political dialogue between the two has lagged way behind. On June 29, 2000, Indian Prime Minister Atal Behari Vajpayee concluded a three-day visit to Portugal, the first partly official one by an Indian premier since 1961. The visit, which also included Vajpayee's participation in a joint summit between India and the European Union, was described as "historic". The relations between Delhi and Lisbon had long been soured by Portugal's history as a colonial power in Asia, and Indians did not appreciate gestures such as the celebrations of the 500th anniversary of the arrival of Portuguese explorer Vasco da Gama in India in 1998, Portuguese analysts explained. Vajpayee met Prime Minister Antonio Guterres and President Jorge Sampaio, and Portuguese press reports stressed that he was given the "highest honors". The two countries signed an agreement to protect investments, and agreed to promote joint ventures in electronics and information technology. They also agreed to exchange information in the fields of science and technology, an area of interest for Portugal given India's emergence as an international high-tech player. In September 2003 Interpol caught in Lisbon a most wanted underworld `don' who was accused for a 1993 Mumbai-blast, Abu Salem, and extradited him to India. He was standing several charges and the Indian authorities were adamant at getting hold of him. Portugal agreed to extradite him to India.
+
+PS-SOURCES: Ministerio dos Negocios Estrangeiros (1967), New York Times 08/15/1950, 03/13/1951, 06/05/1952, 11/02/1952, 06/11/1953, 07/27/1954, 07/21/1976, 01/31/1992, BBC 11/12/1981, 07/29/1991, 01/27/1992, 01/29/1992, 06/18/1992, 07/18/1995, 09/20/2002, 12/14/2002, 09/07/2003, Xinhua 06/25/1983, Deutsche Presse-Agentur 04/05/1995, 02/06/1997, 06/29/2000, Hindu 12/04/1998, 02/17/2000, Business India 10/30/2000, The Times of India 04/30/2000, 06/13/2000, Financial Times 07/18/1996
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

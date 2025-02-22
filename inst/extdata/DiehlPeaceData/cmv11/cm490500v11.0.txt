@@ -1,0 +1,408 @@
+FILE: cm490500v11.0.txt
+DYAD: ZAIRE-UGANDA
+RIVALRY: RIV1099
+DISPUTE(S): MID1319 
+RIVALRY: RIV1100
+DISPUTE(S): MID2150 MID2805 MID4170 MID4339 
+RIVNOTES: 
+
+PS: 19621009-19651125 0.25 19651126-19870531 0.5 19870601-20020905 0.00 20020906-20209999 .25
+
+PS-UPDATE2020: The end of the severe rivalry is now designated as the date of the signing of the Luanda Agreement, which provided for withdrawal of Ugandan troops from the DRC and normalization of relations between the countries. A lesser rivaly continues over continued Ugandan support of DRC rebels and previous looting of DRC resources (see ICJ caase in 2005). These two countries began working together in 2021 to defeat a common enemy: https://theowp.org/the-congo-and-uganda-working-together-to-stop-adf-history-increases-tensions/ See this also for info about improved relations: https://www.theafricareport.com/92653/uganda-drc-kampala-offers-security-and-roads-for-minerals/
+
+PSNOTES: 
+PS-LAST-CHANGED: 20220314
+PS-LAST-CHECKED: 20220314
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1319
+
+TERRMID: MID1319 3 -- not territory
+TERRMID-CER: MID1319 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1319 3 -- not third party link to territory 
+TERRLINK-CER: MID1319 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1319 3 -- not maritime 
+MARITMID-CER: MID1319 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1319 3 -- not islands 
+ISLMID-CER: MID1319 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1319 1 -- civil war MID
+CIVWARMID-CER: MID1319 1 -- certain
+CIVWARMID-NOTES: MID1319 from Gibler 2018, Uganda attacked DRC troops in support of rebels in DRC fighting against their government, triggering this MID. Coded civil war MID because this was connected to militarized rebels fighting in DRC. 
+
+CIVWARLINK: MID1319 3 -- not civil war link
+CIVWARLINK-CER: MID1319 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1319 3 -- not coup 
+COUPMID-CER: MID1319 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1319 3 -- not coup link
+COUPLINK-CER: MID1319 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2150 
+
+TERRMID: MID2150 3 -- not territory
+TERRMID-CER: MID2150 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2150 3 -- not third party link to territory 
+TERRLINK-CER: MID2150 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2150 3 -- not maritime 
+MARITMID-CER: MID2150 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2150 3 -- not islands 
+ISLMID-CER: MID2150 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2150 1 -- civil war MID
+CIVWARMID-CER: MID2150 3 -- uncertain
+CIVWARMID-NOTES: MID2150 from NYT 4/5/1977 and 5/12/1977, Zaire was facing an ongoing civil war. The government was, at one point, in danger of falling to rebels who were fighting near the capital. Cuba was supplying arms and personnel to fight with the rebels against the government, and Zaire suspended diplomatic relations with Cuba for doing so in April 1977. Angola wanted the rebels to succeed and warned other countries not to interfere in the civil war or Angola would respond militarily, and Angola had been providing refuge to the rebels themselves. Coded civil war MID because this was connected to the civil war in DRC, and coded uncertain because Gibler 2018 has Zaire and Uganda on the same side in this MID. 
+
+CIVWARLINK: MID2150 3 -- not civil war link
+CIVWARLINK-CER: MID2150 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2150 3 -- not coup 
+COUPMID-CER: MID2150 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2150 3 -- not coup link
+COUPLINK-CER: MID2150 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2805 
+
+TERRMID: MID2805 3 -- not territory
+TERRMID-CER: MID2805 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2805 3 -- not third party link to territory 
+TERRLINK-CER: MID2805 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2805 3 -- not maritime 
+MARITMID-CER: MID2805 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2805 3 -- not islands 
+ISLMID-CER: MID2805 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2805 3 -- not civil war 
+CIVWARMID-CER: MID2805 1 -- certain
+CIVWARMID-NOTES: MID2805 from Gibler 2018, Zaire attacked Uganda after Ugandan troops killed a local chief. Coded not civil war because although there was militarized rebel activity happening in Zaire at the time, there is no indication that the assassination of the village chief that led to this attack was connected to militarized rebels. 
+
+CIVWARLINK: MID2805 3 -- not civil war link
+CIVWARLINK-CER: MID2805 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2805 3 -- not coup 
+COUPMID-CER: MID2805 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2805 3 -- not coup link
+COUPLINK-CER: MID2805 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4170 
+
+TERRMID: MID4170 3 -- not territory
+TERRMID-CER: MID4170 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4170 3 -- not third party link to territory 
+TERRLINK-CER: MID4170 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4170 3 -- not maritime 
+MARITMID-CER: MID4170 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4170 3 -- not islands 
+ISLMID-CER: MID4170 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4170 1 -- civil war MID
+CIVWARMID-CER: MID4170 1 -- certain
+CIVWARMID-NOTES: MID4170 from Gibler 2018, a series of cross-border rebel attacks led to Zaire fortifying its border and Uganda invading Zairean territory to support rebels fighting against the Zairean government. Coded civil war MID because this was connected to militarized rebels in Zaire. 
+
+CIVWARLINK: MID4170 3 -- not civil war link
+CIVWARLINK-CER: MID4170 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4170 3 -- not coup 
+COUPMID-CER: MID4170 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4170 3 -- not coup link
+COUPLINK-CER: MID4170 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4339
+
+TERRMID: MID4339 3 -- not territory
+TERRMID-CER: MID4339 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4339 3 -- not third party link to territory 
+TERRLINK-CER: MID4339 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4339 3 -- not maritime 
+MARITMID-CER: MID4339 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4339 3 -- not islands 
+ISLMID-CER: MID4339 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4339 1 -- civil war MID
+CIVWARMID-CER: MID4339 1 -- certain
+CIVWARMID-NOTES: MID4339 from Gibler 2018, this is the Second Congo War from 1998-2001, in which Uganda provided aid to rebels fighting against the DRC government and Rwanda also invaded part of DRC to assist. Coded civil war MID because this was connected to civil war in DRC. 
+
+CIVWARLINK: MID4339 3 -- not civil war link
+CIVWARLINK-CER: MID4339 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4339 3 -- not coup 
+COUPMID-CER: MID4339 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4339 3 -- not coup link
+COUPLINK-CER: MID4339 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4381 
+
+TERRMID: MID4381 3 -- not territory
+TERRMID-CER: MID4381 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4381 3 -- not third party link to territory 
+TERRLINK-CER: MID4381 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4381 3 -- not maritime 
+MARITMID-CER: MID4381 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4381 3 -- not islands 
+ISLMID-CER: MID4381 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4381 1 -- civil war MID
+CIVWARMID-CER: MID4381 1 -- certain
+CIVWARMID-NOTES: MID4381 from Gibler 2018, Rebels targeted Uganda and sought refuge in DRC. Uganda threatened the DRC with war if the DRC did not disband the rebels. Coded civil war MID because this was connected to militarized rebels fighting Uganda, which is within this dyad. 
+
+CIVWARLINK: MID4381 3 -- not civil war link
+CIVWARLINK-CER: MID4381 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4381 3 -- not coup 
+COUPMID-CER: MID4381 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4381 3 -- not coup link
+COUPLINK-CER: MID4381 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4386 
+
+TERRMID: MID4386 3 -- not territory
+TERRMID-CER: MID4386 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4386 3 -- not third party link to territory 
+TERRLINK-CER: MID4386 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4386 3 -- not maritime 
+MARITMID-CER: MID4386 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4386 3 -- not islands 
+ISLMID-CER: MID4386 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4386 1 -- civil war MID
+CIVWARMID-CER: MID4386 1 -- certain
+CIVWARMID-NOTES: MID4386 from Gibler 2018, Uganda chased rebels from the Lord's Resistance Army into the DRC and exchanged fire with DRC troops. Coded civil war MID because this was connected to militarized rebel activity in Uganda/DRC, which are within this dyad. 
+
+CIVWARLINK: MID4386 3 -- not civil war link
+CIVWARLINK-CER: MID4386 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4386 3 -- not coup 
+COUPMID-CER: MID4386 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4386 3 -- not coup link
+COUPLINK-CER: MID4386 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4392 
+
+TERRMID: MID4392 3 -- not territory
+TERRMID-CER: MID4392 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4392 3 -- not third party link to territory 
+TERRLINK-CER: MID4392 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4392 3 -- not maritime 
+MARITMID-CER: MID4392 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4392 3 -- not islands 
+ISLMID-CER: MID4392 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4392 3 -- not civil war 
+CIVWARMID-CER: MID4392 1 -- certain
+CIVWARMID-NOTES: MID4392 from Gibler 2018, forces from DRC detained soldiers from Uganda who were conducting a border survey. A border fortification followed, triggering this MID. Coded not civil war because although tensions between the countries were generally high due to previous disputes involving rebel group activity, this particular incident was not connected to militarized rebel activity. 
+
+CIVWARLINK: MID4392 3 -- not civil war link
+CIVWARLINK-CER: MID4392 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4392 3 -- not coup 
+COUPMID-CER: MID4392 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4392 3 -- not coup link
+COUPLINK-CER: MID4392 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4356
+rivalry=490517 nationa=RWANDA nationb=DRC/ZAIRE MID4356 20020904-20030930 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Following the incidents of MID4347, Rwanda engaged in a series of occupations of DRC territory in violation of the July 31, 2002 peace agreement. These occupations occurred due to what Rwanda claimed were the formation of alliances between Ugandan military forces and anti- Rwandan rebels based in DRC. It remains largely unclear for how long the occupations of DRC territory occurred.
+
+MID4381
+rivalry=490500 nationa=UGANDA nationb=DRC/ZAIRE MID4381 20050929-20050929 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Uganda threatened to deploy troops into eastern DRC to combat rebels there if the DRC did not do more to disarm the rebels based in eastern DRC. First day of dispute was on 9/29/2005 and last day of dispute was on 9/29/2005. 
+
+MID4386
+rivalry=490500 nationa=UGANDA nationb=DRC/ZAIRE MID4386 20060428-20060428 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+On April 28, 2006, Ugandan soldiers in machine-gun mounted trucks crossed over into neighboring DRC in pursuit of LRA rebels. The Ugandan troops came across a detachment of DRC soldiers, and a firefight ensued, resulting in the death of one Ugandan soldier before the Ugandan troops retreated to Ugandan territory. First day of dispute therefore was on 4/28/2006 and last day of dispute was on 4/28/2006. 
+
+MID4392
+rivalry=490500 nationa=UGANDA nationb=DRC/ZAIRE MID4392 20070728-20071219 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=1-25 DEATHS fatalpb=2 lhostb=
+USE OF FORCE 
+
+The underlying issue of this MID is the ongoing contestation of the border between Uganda and the DRC in and around Lake Albert. On July 28, 2007 4 Ugandan soldiers were detained by DRC troops while conducting a border survey. The soldiers were detained until August 6. During this period, Uganda deployed additional troops to its border with DRC. On September 25, a clash occurred between Ugandan and DRC troops on Lake Albert when a Ugandan military boat came into contact with a DRC boat, onboard of which were two DRC soldiers. The clash killed one of the DRC soldiers. In December of 2007 two Congolese soldiers were shot and killed on Ugandan territory by Ugandan soldiers for resisting arrest for the suspected rape of Ugandan women. First day of dispute was on 7/28/2007 and last day of dispute was on 12/19/2007.
+
+MID3 1993-2001:
+
+MID4170
+rivalry=490500 nationa=DRC/ZAIRE nationb=UGANDA MID4170 19961117-19961210 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+Due to border closures, rebel incursions, tensions between Uganda and Zaire are already high. Rebels from Zaire reportedly attacked Ugandan soldiers leading to a military build-up along the border by Uganda. When rebels attacked again, Ugandan troops pursued them back into Zairean territory. Zaire protested this as an attack on Zaire. First day of dispute was on 11/17/1996 and last day of dispute was on 12/10/1996.
+
+NARRATIVE-CM:
+Congolese troops and Ugandan troops clashed near the border on February 16-19, 1965. The Democratic Republic of Congo (DRC) accused Uganda of armed aggression and human rights abuses, and submitted the dispute to the *International Court of Justice *(ICJ) in 1999. The *United Nations *(UN) Security Council appealed for the withdrawal of Ugandan troops from Congolese territory on June 16, 2000. The ICJ issued an interim decision on July 1, 2000, which urged the parties to comply with international law and UN resolutions.
+
+SOURCES-CM: 
+*Facts on File*, February 25-March 3, 1965; *Reuters, *June 19, 2000, June 28, 2000, July 1, 2000.
+
+NARRATIVE-CR:
+
+Throughout the early part of 1965, rebel groups fought against the government of Premier Moise Tshombe in Congo-Kinshasa MID1319. These rebel forces were successful in that they were able to attack and then retreat to the bases that they had in Uganda, with the Ugandan government's permission. On March 20, 1965, shots were fired at mercenary troops on the Ugandan border in Congo-Kinshasa. They were thought to be communist rebel forces. Ugandan border guards, accused that they were being shot at, fired back. The reason for the insurgency to remove Tshombe from power was removed in November of that year when Sese Seko Mobutu took control of the government. He would remain in power until 1997. This is listed as the first rivalry between these two countries, and appears to revolve around the initial turmoil of the First Republic in Congo-Kinshasa that lasted from 1960 until 1965 after its independence from Belgium. Its basis ended when Mobutu came to power.
+
+The second rivalry between (now) Zaire and Uganda is designated to last in May of 1977-MID2150. In March of that year, rebel groups in Zaire had taken control of the Shaba Province. In early May, President Mobutu of Zaire retook the area with the backing of Moroccan forces. Ugandan President Idi Amin sent a "suicide striking force" to assist Mobutu in the effort, as they believed that the rebel forces were Communists, backed by the Soviet Union and Cuba. There was substantial fighting in this effort throughout May, 1977, and several other countries became involved (including Congo-Brazzaville, the Central African Republic, Egypt, Angola, and France). Given the narrative that exists from v5.1 and the good relations between Mobutu Sese Seko and Idi Amin's regimes in D.R.Congo and Uganda, respectively, I strongly believe that this MID is coded wrong. Statements by Idi Amin in the aftermath of this intervention show that Uganda acted as an ally of D.R.Congo rather than as an enemy. Ugandan president Idi Amin said in Kampala on February 1, 1978, that the people of Uganda will be always with the people of Zaire both in time of peace and war and will assist Zaire in case of foreign invasion, according to Uganda broadcasting corporation. Ugandan President Idi Amin said on April 3, 1978, that any enemy of Zaire is Uganda's enemy. Zaire's problems are Uganda's, he stressed. President Amin made these remarks at a meeting with the Zaireans living in Uganda. He said that he cannot sit by and see the enemies of President Mobutu destroy Zaire. That was why he had sent Ugandan striking force to Zaire last year when the Shaba province of Zaire was invaded, he added. He said that Uganda can not fall asleep when the enemies of Zaire are at work. President Amin also urged all Zaireans living in Uganda to do their best to bring about good understanding between the two countries. Maoz Dyadic MIDs Dataset 2.0 also codes this incident as a MID between Uganda and Zaire. 
+
+The main basis for this rivalry though, occurred after Yoweri Museveni took over as president of Uganda on January 29, 1986. He provided support for rebels who were fighting against the Zairean government of Mobutu. On June 1, 1987, Zaire struck at bases of these rebels, which were inside Uganda. Five rebels were killed, and five taken prisoner. On June 3, Ugandan and Zairean troops fought in northwest Uganda. One Ugandan soldier was killed. This was MID2805. 
+
+In 1996, Laurent Kabila led these rebels (loyal to the memory of Lumumba) in an effort to overthrow the Mobutu government. The rebels were predominantly backed by Uganda and Rwanda MID4170. By May 17, 1997, Kabila had gained control of Kinshasa and most of Zaire, and Mobutu had fled. This placed a friendly regime toward Museveni's Uganda into Zaire.
+
+This friendly relationship was short-lived though, as Kabila began to distance himself from his former supporters in an effort to gain domestic support. In 1998, Kabila unilaterally announced an end to military cooperation with Uganda and Rwanda. These two countries orchestrated another attempted rebellion in that same year. By August, the rebels had captured a large area of the now Democratic Republic of Congo. In response, Kabila formed alliances with Zimbabwe, Namibia, and Angola to fight against the insurgents. This war continued on through 2002, killing over 2 million people. It is MID4339. Each of the countries has fought some political reasons, but mainly in an effort to plunder valuable resources from Congo such as gold, diamonds, and copper. The money from these resources has mainly gone to the personal accounts of the respective leaders of each of the countries. Much of the fighting has been rationalized along ethnic conflicts.
+
+On January 16, 2001, Laurent Kabila was assassinated (possibly by Angola backed plotters). His son Joseph Kabila replaced him. 
+
+On April 10, 2003, Uganda has denied any involvement in last week's massacre of nearly 1,000 civilians in DR Congo's eastern province of Ituri, saying its troops are not based in the area of the killing. The rebel Union for Patriots of Congo backed by Rwanda has reportedly accused former ally Uganda of being responsible for the massacre. But Brigadier Kale Kaihura, a Commander of Ugandan forces in DR Congo said Thursday the massacre took place some 25-km away from Uganda's "security interest". "We (Uganda) should not be held responsible for any massacres in Ituri. The Congolese population in the area we occupy can bear witness that (the area) is peaceful)," the officer said from his Bunia base in Ituri province. The UN Security Council has since launched an investigation into the massacre and demanded the withdrawal of Ugandan troops from Ituri to allow for a full-scale inquiry. Security Council President Adolf Aguilar Zinser said in a statement that "so long as Ugandan forces are deployed on the ground, Uganda has the responsibility for the safety of the civilian population." Meanwhile, the US Ambassador to Kampala, Jimmy Kolker has also called on Uganda to stop military operations and withdraw its troops from DR Congo so as to ease tension in the eastern region of the war-torn country. "We (US) request Uganda to withdraw its troops from DR Congo in an effort to reduce the tension and volatility in Ituri region. "We find that foreign forces from both Uganda and Rwanda are a destabilizing lot in many social terms among the various ethnic groups fighting each other," Kolker told a Ugandan parliamentary committee. Kampala says its troops in eastern DR Congo have been deployed for security reasons, especially to prevent dissidents allegedly backed by Rwanda from destabilizing Ugandan territory. 
+
+On April 3, 2004, the Ugandan army has dismissed allegations that its troops were still present in eastern DR Congo, insisting it made a complete pullout in April 2003 and this, to the knowledge of the international community. The military authorities in Kampala were reacting to a claim last Wednesday by Peter Swarbrick, director of the disarmament and repatriation program of the UN Mission in Congo (MONUC), that 2,000 Ugandan fighters were still holed-up in the vast country. Swarbrick further alleged that there were up to 8,000 Rwandans and 1,500 Burundi former fighters still in DR Congo. Army spokesman Major Shaban Bantarinza described the allegations against Uganda as "blind," adding "if they have seen any of them (ex-Ugandan fighters), let them (the MONUC) bring them back to us." He noted, though, that ex-Ugandan fighters could have returned to DR Congo on their own and not as soldiers, since many of them had in the course time established relationships in eastern DR Congo. "Most of the ex-fighters live in desperate conditions, and many have families with them," Swarbrick was quoted as saying. Uganda is was among several African countries that got entangled in the Congolese civil war between 1998 and 2003, on the side of rebel movements that sought to topple the government in Kinshasa. 
+
+On September 16, 2004, despite a recent thawing in relations, Kinshasa is demanding compensation. Uganda has been asked to pay $ 6bn for the plunder committed by the Uganda People's Defence Forces (UPDF) during the war in which they fought alongside DRC rebels, leading to the ousting of the late President Mobutu Sese Seko, sources told The East African. Rwanda, which also fought alongside the rebels, has been asked to pay $ 10bn in compensation for similar war crimes. Rwanda was accused of having looted and plundered more DRC resources than Uganda. Uganda is, in turn, demanding $ 6.3bn from DR Congo in compensation for property plundered by DRC troops when they attacked the Ugandan embassy in Kinshasa in 1998. The demand note to Uganda is almost equivalent to its gross domestic product, which currently stands at just over $ 6bn and, if settled, would worsen the country's current foreign debt of $ 4.3bn. The demand note from Kinshasa came as Uganda was preparing to reopen its embassy in DR Congo. However, the three countries in late September signed a pact in New York pledging to resolve their differences peacefully. The Permanent Secretary in Uganda's Ministry of Foreign Affairs, J. B. Onen, said Kigali and Kampala had acknowledged some responsibility for the killings, plunder and looting the DR Congo suffered at the hands of their troops when they were involved in the country two years ago. But the two countries are unlikely to meet the DRC demands soon, as the money demanded was "colossal". Two years before, DRC President Joseph Kabila took the two countries to the International Court of Justice in The Hague, Netherlands. However, Uganda managed to persuade the DR Congo officially to withdraw the case from the court to allow for an out-of-court settlement. In spite of the fact that Uganda and Rwanda went to DR Congo as allies, their troops clashed on more than two occasions in Kisangani, during which several DRC nationals and troops from the two rival armies lost their lives and extensive damage was inflicted on state and private property. At the height of armed conflict in Congo, Kabila also invited Angola and Zimbabwe to send troops to his country. Although their troops were also accused of having plundered the country, no complaint has been brought against them. The UN accused DRC rebels assisted by Rwandan and Ugandan troops of committing massacres and excessive human-rights violations in Congo. The UN body appointed a commission to inquire into the looting of Congolese resources by Ugandan and Rwandan troops. The International Court of Justice also carried out investigations to verify accusations made by Congo against its two neighbours. The UN panel of experts found that some Ugandan senior army officers had indeed participated in the plunder of minerals. 
+
+On December 23, 2005, Ugandan President Yoweri Museveni has said he is not shaken by the International Court of Justice (ICJ) ruling that condemned Uganda's invasion, looting and abuse of human rights in the Democratic Republic of Congo. The ICJ, the principal judicial organ of the United Nations, ruled that Uganda violated the sovereignty of the Democratic Republic of Congo (DRC) and was responsible for human rights abuses there. Speaking at his inaugural election campaign rally at Semuto, Nakaseke district, Museveni said the invasion helped wipe out Uganda's enemies in Congo. He said if Uganda is to pay reparations to DR Congo, that country should also do the same for the lives of Ugandans killed by (Ugandan) insurgents using her territory. "Being a leader, I could not let the killers use the DR Congo to terrorize our people. Despite the condemnation and the (International Court of Justice) ruling, I am not scared because we sent our soldiers into DR Congo to protect the property and lives of Ugandans," he told the gathering at Semuto. "When you exterminate a killer, it is the dust that remains and that killer is no more," he said adding, "And that is what we exactly did. For the cases and other arguments we decided to settle them later." The court found that Uganda was responsible for acts of massive plunder in the DRC by failing to ensure that its soldiers respected the country's natural resources. However Museveni only addressed himself to the reason why his troops went to DR Congo but did not talk about their acts while in Congo-which formed the basis for the court's verdict. The court ruled that Uganda had been found guilty of notably "occupation of the Ituri region in the DRC, violations of sovereignty, illegal use of force, violations of international human rights laws and looting and plunder" between August 1997 and June 2003. The court said the objectives of operation "Safe Haven", as stated in a Ugandan High Command document issued on September 11, 1998, were not consonant with the concept of self-defense as understood in international law. Kinshasa wants up to $10 billion (about Shs18 trillion) in compensation from Uganda. According to the court, Kinshasa and Kampala have a chance to negotiate an agreeable compensation but judges noted the amount sought by the DRC "was appropriate." Kinshasa is expected to petition the UN for sanctions against Uganda if Kampala does not present a program to pay the reparations. President Museveni did not hint on whether the government was going to negotiate with DR Congo over the fine. He instead likened Uganda's invasion of DR Congo to the 1979 invasion of Uganda by Tanzania to get rid of Amin. "Tanzania was condemned but at the end of it, Ugandans got rid of dictatorship," he said. President Museveni also castigated some opposition leaders who have criticized the invasion of Congo. "For (John) Ssebaana (Democratic Party presidential candidate) to have criticized the invasion is a sign of a weak leader and a coward," he said. Museveni also said that his main election opponent Dr Kizza Besigye will have to face the law. Dr. Besigye who is facing charges of treason, and rape in the High Court was given temporary bail but remains detained in Luzira prison. He is also charged with terrorism and illegal possession of firearms before the General Court Martial. But the High Court halted the proceedings in the army court until Besigye's application challenging the court martial's jurisdiction to try him is disposed of. Museveni's visit to Luweero, the cradle of the five-year bush war that brought him to power in 1986, was characterised by several stopovers at different trading centres to greet the locals. Museveni is the second presidential candidate to launch his campaign in Luweero.
+
+On May 3, 2006, the UN monitoring force in the DR Congo, MONUC, has said Ugandan forces that had illegally entered DR Congo had pulled out by the end of the weekend. However, Uganda has denied these allegations by MONUC and therefore never clashed with units of the Congolese Army Forces. The Spokesman for the UN peace keeping mission in Congo, Mr Kemal Saiki, told BBC Focus on Africa program on Monday that between April 25 and 27 there were groups of soldiers who came inside Congo. "We have credible information that it was the UPDF of Uganda," said Saiki. "We deployed in Aba after those reports. But they (UPDF) are reported to have left (for the Sudanese side). It is likely they were conducting military operations against some armed groups. But we have not got any reports of the presence of the Lords Resistance Army in Aba,"said Saiki. Thousands of UPDF soldiers are deployed in Southern Sudan pursuing Ugandan rebels of the LRA who reportedly crossed to DR Congo. During the same program, UPDF Spokesman, Maj. Felix Kulayigye, said the UN mistook SPLA for UPDF. "We are not in Congo ever since our ministers went to New York. We have been waiting for response from the UN and the Congo government," Kulayigye said. "We are not in Congo and the moment we enter Congo every one will know we are not yet desperate. We are a patient nation," he added. Congo, which has kept its grievances out of the media, has accused Ugandan troops of illegally crossing onto its territory. DR Congo said one Ugandan soldier had been killed after clashing with Congolese soldiers in pursuit of Ugandan LRA rebels. Earlier this month, Uganda asked for permission to pursue the notorious LRA rebels in DR Congo. Uganda withdrew its troops from DR Congo in 2003 after a five-year war. Last year, the World Court ordered Uganda to pay compensation for looting DR Congo's resources during the conflict, which involved several African armies. The LRA has been waging a war with no clear agenda against Uganda's government for 20 years.
+
+SOURCES-CR: 
+Clark, 2002; Gondola, 2002; Leslie, 1993; Reno, 2002.
+
+PS-NARRATIVE: 
+
+19621009-19651125 0.25 
+
+Uganda became independent on October 9, 1962. Throughout the early part of 1965, rebel groups fought against the government of Premier Moise Tshombe in Congo-Kinshasa MID1319. These rebel forces were successful in that they were able to attack and then retreat to the bases that they had in Uganda, with the Ugandan government's permission. On February 19, 1965, Zaire's Prime Minister Moise Tshombe threatened Uganda of `carefully premeditated' violations of Congolese territory, and demanded the immediate withdrawal of Ugandan troops from Congo's sovereign territory. On March 20, 1965, shots were fired at mercenary troops on the Ugandan border in Congo-Kinshasa. They were thought to be communist rebel forces. Ugandan border guards, accused that they were being shot at, fired back. The reason for the insurgency to remove Tshombe from power disappeared in November of that year when Sese Seko Mobutu took control of the government on November 25, 1965. He would remain in power until 1997. This is listed as the first rivalry between these two countries, and appears to revolve around the initial turmoil of the First Republic in Congo-Kinshasa that lasted from 1960 until 1965 after its independence from Belgium. Its basis ended when Mobutu came to power.
+
+19651126-19870531 0.5 
+
+With Mobutu's rise to power in Zaire, the relationship with Uganda improved significantly, especially once Idi Amin became president of Uganda. Uganda and Zaire's dictators, Idi Amin and Mobutu Sese Seko had an official meeting on June 29, 1975 during which issues of common concern were discussed. On March 26, 1977, the Ugandan government has decided to donate a quantity of foodstuffs to Zaire to help her people overcome the difficulties brought about by the armed invasion of Zaire by mercenaries, reported the "Voice of Uganda". President Idi Amin of Uganda personally went to inspect the loading of foodstuffs onto Ugandan planes for Zaire. He said at the airport that the Ugandan people regard the Zairians as their brothers and sisters and will always help them in time of difficulty. The Zairian people too have always helped the Ugandan people when in difficulty, he said. The Ugandan government will send more foodstuffs to the people of Zaire, he added. During Idi Amin's rule (1971-1977) the relations between Uganda and Zaire were very close and this relationship of friendship lasted well into the 1980s. 
+
+Ugandan president Idi Amin said in Kampala on February 1, 1978, that the people of Uganda will be always with the people of Zaire both in time of peace and war and will assist Zaire in case of foreign invasion, according to Uganda broadcasting corporation. Ugandan President Idi Amin said on April 3, 1978, that any enemy of Zaire is Uganda's enemy. Zaire's problems are Uganda's, he stressed. President Amin made these remarks at a meeting with the Zaireans living in Uganda. He said that he cannot sit by and see the enemies of President Mobutu destroy Zaire. That was why he had sent Ugandan striking force to Zaire last year when the Shaba province of Zaire was invaded, he added. He said that Uganda can not fall asleep when the enemies of Zaire are at work. President Amin also urged all Zaireans living in Uganda to do their best to bring about good understanding between the two countries. The Zairean Executive Council met on 17th August, 1979 under the chairmanship of the First State Commissioner, Citizen Bo-Boliko Lokonga. It considered that the broadcast statement made in Nairobi on 10th August by the Ugandan Foreign Minister, according to which Sudan and Zaire are training 30,000 men ready to invade Uganda, in order to restore, Field Marshal Idi Amin Dada to power, as devoid of all foundation. Thus Zaire denies in the most formal manner the gratuitous accusation made against it and which can only upset and annoy it, the State Commissioner for National Guidance, Culture and Art, Citizen Umba-di Lutete, stressed in his report on the meeting of the Excecutive Council, of which he is spokesman.
+
+Uganda and Zaire have agreed to work together to combat smuggling along their common border, reported "Uganda Times" on April 17, 1980. The decision was made after discussion between Ugandan president Lukongwa Binaisa and Lengama Dulia Yubasa Makanga, Zairean president's envoy, who delivered a special message to president Binaisa. During their talks, Makanga expressed concern about the smuggling at the common border of cash crops, especially coffee. Both sides agreed to make concerted efforts to combat smuggling in border areas. They also agreed to improve border security to ensure that Zaire's transit goods through Uganda are not diverted. Uganda and Zaire have a long common boundary. According to reports, big amounts of coffee and daily necessities have been smuggled out of Uganda to Zaire with ivory and gold out of Zaire to Uganda.
+
+On October 15, 1980, Zairese secretary of state for foreign affairs told the Ugandan ambassador accredited in Kinshasa that Zaire would preserve and reinforce its friendly and fraternal relations with Uganda. Secretary Idzumbuir Bolumbu Asal made this remark after Ugandan minister and vice-minister of foreign affairs met the Zairese ambassador to Uganda on October 6 and 10 respectively. Before this, Uganda lodged a protest with Zaire against its support of the pro-Idi Amin opposition party. However the Zairese national executive council denied it and indicated that it pursues a neighborly policy and there are no any subversive centers in Zaire against its neighbors.
+
+Zaire and Uganda stressed on April 6, 1981, in a joint communique the need for greater security along their border and better cooperation between them, says a Zaire news agency report. The communique issued in Gbadolite, capital city of Zaire's nord-ubangi sous-region at the end of a 24-hour visit there by Ugandan president Milton Obote, says that president Obote and president Mobutu Sese Seko of Zaire discussed the matters of security along their border which they consider is an indispensable guarantee for the stability of the two countries. The two presidents agreed to revive the grand mixed Zaire-Uganda commission and set up a number of technical sub-committees to cover transport, communications, trade and mining research. Observers here believe that border security was the most important subject discussed at the talks between the two heads of state. There are now 150,000 Ugandan refugees in Zaire, some of them opposed to the president Obote's government. Proper resettlement and control of those refugees will go a long way to stabilizing the Ugandan situation. In Uganda, on the other hand, there are some elements of Zaire's former recalcitrant Katanga gendarmerie and the Zairean government is concerned about their activities. On August 24, 1981 it was announced that Uganda and Zaire will strengthen cooperation in transport, trade and exploration of minerals to aid both countries' economic development, according to a report on Radio Uganda. At the Uganda-Zaire joint meeting, which convened late last week in Mbale, east Uganda, both countries agreed to increase cooperation in a wide range of economic fields. Several sub-commissions of experts will be formed to ensure the implementation of all the agreed measures. Uganda, Zaire and Sudan established three commissions in June 1980 to deal with problems such as border security, refugees and economics. The commission on border security and another on refugees have met several times and have taken measures to improve the present situation. The third commission on economic affairs is scheduled to hold a series of talks among the three countries. Since Uganda and Zaire have a long common border, their present economic and political ties are similar, and border trade between them is active. Zaire's imports and exports pass Kenya's Mombasa seaport via Ugandan territory so it is necessary to strengthen cooperation between the two countries.
+
+On August 22, 1981, the joint Uganda-Zaire technical commission which has been meeting in Mbale has decided to create technical sub-commissions of experts who will study in detail questions related to transport and communications, trade, exploration of minerals, and customs. The commission also agreed on immediate follow-up of the decision taken earlier by the Heads of State concerning the return of Uganda property in Zaire and also the need to open up consulates in the two countries.
+
+Ugandan rebels charged on January 20, 1986, that army troops from Zaire had crossed into Uganda to help wipe out guerrilla strongholds. New clashes also erupted between rebels and the Ugandan army, who signed a truce last month. The charges of Zairean involvement could not be confirmed, and a senior Ugandan army commander denied Zairean troops were aiding the Ugandan forces. But Western diplomats in the Ugandan capital Kampala noted that Ugandan military leader Gen. Tito Okello visited Zaire last week seeking President Mobutu Sese Seko's support.
+
+In a related development, Radio Uganda said the government has banned the night movement of boat traffic on the Albert, Victoria and Kyoga lakes in western Uganda to prevent deployment of National Resistance Army rebel forces. In a statement issued in Nairobi, NRA external affairs coordinator Sam Kisekka said Zairean troops crossed into western Uganda at Bundibugyo, about 200 miles northwest of Kampala and 20 miles west of the rebel-held town of Fort Portal. The NRA said it did not know the number of Zairean soldiers involved, but added they were backed by soldiers loyal to former Ugandan dictator Idi Amin. Amin loyalists fled to eastern Zaire after Amin was overthrown in 1979. The rebels have avoided direct contact with the invasion force, Kisekka said. ''We wish to inform the whole world that Zairean troops and Amin's troops entered Uganda at Bundibugyo, western Uganda, and penetrated 5 miles inside, which is a serious violation of Uganda's sovereignty,'' the NRA said. 
+
+On August 20, 1986, Uganda and Zaire signed two agreements on cooperation in the economic, cultural, scientific and technological sectors. The two sides, which began negotiations on August 18, 1986, also formed a permanent joint ministerial Commission. Uganda's minister for regional cooperation John Ssebaana Kizito and Zaire's secretary of state for foreign affairs Citoyen Kabala Kiseka-Saka signed the agreements. According to the agreements, Uganda will supply Zaire with beans and maize and other produce in exchange for cloth, blankets and industrial goods from Zaire. The two countries also agreed to cooperate in securing their common border where a lot of smuggling, especially of Ugandan coffee, paraffin and ivory, is on the increase. Official sources said the two sides regard the maintenance of security as a primary condition for the realization of development and progress in the economic, social, political and technical fields. In addition, they called for more joint efforts in the spirit of the Lagos plan of action, in which African countries agreed to indentify all areas of cooperation which would help raise the economic welfare of the African people. At the next joint ministerial commission meeting in Zaire, the two sides will discuss and possibly finalize an extradition treaty and deal with Ugandan assets in Zaire, including vehicles taken there by former soldiers of Idi Amin's army in 1979.
+
+Yoweri Museveni took over as president of Uganda on January 29, 1986. He provided support for rebels who were fighting against the Zairean government of Mobutu. On February 23, 1987, Uganda and Zaire have agreed to strengthen the spirit of good neighborliness and establish security control and normal trade on both sides of the common border so as to ensure that no dissident activity and illegal trade are carried out. In a joint communique issued at the end of the meeting held in Kasese [south-western Uganda], the two delegations agreed to ensure easy movement of the people on the common border. On the issue of Ugandan vehicles in Zaire, it was agreed that they would be returned to Uganda. On customs, trade and smuggling, the two sides agreed on necessary co-operation between the border authorities and to effect legal trade and stamp out smuggling. Speaking at the signing of the communique, the Minister of State for Internal Affairs, Dr Kiiza Besigye, reiterated the importance of regular meetings in establishing permanent peace and security along the common border. He dismissed as unfounded rumors that there are Zaire dissidents on the border carrying out acts of sabotage against Zaire. Dr Besigye appealed for co-operation and unity along the common border. The leader of Zaire delegation, Col. Langelo Gogo, assured his counterpart that what has been discussed in Kasese and in other previous meetings in Kinshasa and Bukavu will be implemented.
+
+On June 1, 1987, Zaire struck at bases of these rebels, which were inside Uganda. Five rebels were killed, and five taken prisoner. On June 3, Ugandan and Zairean troops fought in northwest Uganda. One Ugandan soldier was killed. This was MID2805. This was the start of RIV1100. 
+
+PS-SOURCES: Xinhua March 27, 1977; February 2, 1978; April 5, 1978; April 18, 1980; October 15, 1980; April 8, 1981; August 25, 1981; August 20, 1986; BBC August 20, 1979; October 31, 1980; August 24, 1981; February 26, 1987; New York Times September 8, 1981; United Press International January 20, 1986; The Monitor December 23, 2005; May 3, 2006; Africa Research Bulletin September 16, 2004; Panafrican News Agency April 10, 2003; October 20, 2003; April 3, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+NYT 4/5/1977, NYT 5/12/1977 

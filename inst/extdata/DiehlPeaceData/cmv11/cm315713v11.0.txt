@@ -1,0 +1,56 @@
+FILE: cm315713v11.0.txt
+DYAD: CZECHOSLOVAKIA - TAIWAN
+RIVALRY: RIV830
+DISPUTE(S): MID3203 
+
+PS-LAST-CHANGED: 20180410
+PS-LAST-CHECKED: 20180722
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3203 
+
+TERRMID: MID3203 3 -- not territory 
+TERRMID-CER: MID3203 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3203 1 -- third party link to territorial MID
+TERRLINK-CER: MID3203 1 -- certain 
+TERRLINK-NOTES: MID3203 see CIVWARMID-NOTES for this MID for full description of event. Coded third party link to territorial MID because this is connected to the Chinese Civil War, which has a territorial dispute element as nationalists and communists were fighting to control all of China but were each in control of territorially distinct states (China and Taiwan) at this point. 
+
+MARITMID: MID3203 3 -- not maritime 
+MARITMID-CER: MID3203 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3203 3 -- not islands 
+ISLMID-CER: MID3203 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3203 1 -- civil war MID
+CIVWARMID-CER: MID3203 1 -- certain 
+CIVWARMID-NOTES: MID3203 from Gibler 2018, Czechoslovakia protested the seizure of one of their merchant ships by nationalist forces. The ship was transporting goods purchased from Communist China. Coded civil war link because this was connected to the Chinese Civil War (nationalists vs. communists), which featured regular seizures of transported goods as a way of inflicting economic harm during the war. 
+
+CIVWARLINK: MID3203 1 -- civil war link 
+CIVWARLINK-CER: MID3203 1 -- certain 
+CIVWARLINK-NOTES: MID3203 also coded civil war link because the civil war element of this was includes China, outside of this dyad. 
+
+COUPMID: MID3203 3 -- not coup 
+COUPMID-CER: MID3203 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3203 3 -- not coup link
+COUPLINK-CER: MID3203 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler 2018 

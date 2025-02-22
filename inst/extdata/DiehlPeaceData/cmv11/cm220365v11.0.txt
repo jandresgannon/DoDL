@@ -1,0 +1,467 @@
+FILE: cm220365v11.0.txt
+DYAD: FRANCE-RUSSIA/USSR
+RIVALRY: RIV556
+DISPUTE(S): MID153 MID217 MID236 MID57 
+RIVALRY: RIV557
+DISPUTE(S): MID197 MID2606 MID2366 MID2365 
+RIVALRY: RIV10559
+DISPUTE(S): MID26 MID200 MID608 MID27 
+RIVALRY: RIV2003
+DISPUTE(S): MID4342 
+
+PS: 19009999-19170103 .5 19170104-19200815 0.0 19200816-19480320 0.5 19480321-19611028 0.0 19611029-19660630 -9 19660701-19891108 0.25 19891109-19901029 -9 19901030-19951029 0.5
+
+PS-NOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20220301
+PS-LAST-CHECKED: 20220301
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+Pre-1900 MIDs: MID153 MID217 MID236 MID57 
+
+WWI MIDs: MID197 MID2606 MID2366 
+
+
+MID2365 
+
+TERRMID: MID2365 3 -- not territory 
+TERRMID-CER: MID2365 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2365 3 -- not third party link to territory 
+TERRLINK-CER: MID2365 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2365 3 -- not maritime 
+MARITMID-CER: MID2365 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2365 3 -- not islands 
+ISLMID-CER: MID2365 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2365 1 -- civil war MID
+CIVWARMID-CER: MID2365 3 -- uncertain 
+CIVWARMID-NOTES: MID2365 from Gibler, Miller, and Little (2016), this is the Allied Powers' involvement in the Russian Civil War. France intervened to fight the Bolsheviks and support the White Army. Coded uncertain because GML recommend this case be dropped because it is essentially a duplicate of MID197, except with a later start date so as not to overlap with WWI. 
+
+CIVWARLINK: MID2365 3 -- not civil war link 
+CIVWARLINK-CER: MID2365 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2365 3 -- not coup 
+COUPMID-CER: MID2365 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2365 3 -- not coup link
+COUPLINK-CER: MID2365 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID26 
+
+TERRMID: MID26 3 -- not territory 
+TERRMID-CER: MID26 1 -- certain 
+TERRMID-NOTES: MID26 from cm002365 narrative, this MID is the Berlin blockade crisis. Russia blockaded West Berlin after the US' plans for economic recovery and independence for a West German state became known. The US/UK/France responded to the blockade by airlifting supplies into West Berlin. The US/UK/France and Russia had repeated exchanges of shows of force. Coded not territorial because France and Russia were not disputing territory between them. 
+
+TERRLINK: MID26 3 -- not third party link to territory 
+TERRLINK-CER: MID26 1 -- certain 
+TERRLINK-NOTES: MID26 coded not third party link to territory because although this MID involved the territory that would become West Germany (Federal Republic of Germany), a) the East/West claim was not active yet (they were not independent states), and b) USSR blockade did not involve a demand for Berlin territory. The blockade was a Soviet diplomatic strategy in protest to the unification of the Western-controlled areas of Germany (including in Berlin). See Richardson (1994). 
+
+MARITMID: MID26 3 -- not maritime 
+MARITMID-CER: MID26 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID26 3 -- not islands 
+ISLMID-CER: MID26 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID26 3 -- not civil war 
+CIVWARMID-CER: MID26 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID26 3 -- not civil war link 
+CIVWARLINK-CER: MID26 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID26 3 -- not coup 
+COUPMID-CER: MID26 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID26 3 -- not coup link
+COUPLINK-CER: MID26 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm002365 narrative, MID200 is the Sinai War between Israel and Egypt and a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. France is involved in this MID due to its support for Israel. Russia is invovled in this MID due to its support of Egypt/opposition of Israel, and its support for Czechoslovakia, who made a large arms deal with Israel shortly before the invasion. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because France and USSR did not dispute territory here. See TERRLINK: Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm002365 narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and France and Russia were pulled in to the dispute due to their support of opposing sides of the dispute. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war 
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 from cm002365 narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war link because Egypt sponsored a militarized rebel group against Israel, outside of this dyad, which led to events that contributed to this MID. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID608 
+
+TERRMID: MID608 3 -- not territory 
+TERRMID-CER: MID608 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID608 1 -- third party link to territorial MID
+TERRLINK-CER: MID608 1 -- certain 
+TERRLINK-NOTES: MID608 from cm002365 narrative, this is a multilateral MID involving the US, UK, and France against USSR. Soviet Premier Khrushchev issued an ultimatum for the Western powers to vacate Berlin and withdraw all military resources from there, making West Berlin a sovereign city. Khrushchev also said Russia would turn all lines of communication with West Berlin to East Germany, so the West would only have access to West Berlin through East Germany's permission. The Western powers responded by firmly asserting their determination to remain in West Berlin. Coded third party link to territorial MID because this was connected to the East Germany-West Germany territorial dispute. 
+
+MARITMID: MID608 3 -- not maritime 
+MARITMID-CER: MID608 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID608 3 -- not islands 
+ISLMID-CER: MID608 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID608 3 -- not civil war 
+CIVWARMID-CER: MID608 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID608 3 -- not civil war link 
+CIVWARLINK-CER: MID608 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID608 3 -- not coup 
+COUPMID-CER: MID608 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID608 3 -- not coup link
+COUPLINK-CER: MID608 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded third party link to territorial MID because West Germany (Federal Republic of Germany) claimed the territory of East Germany (German Democratic Republic) as rightfully its own (territorial dispute), and, the US, UK, and France provided diplomatic and military support to West Germany here. The USSR, Czechoslovakia, and Poland backed East Germany's position in the territorial dispute. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler (2018), this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because France, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler (2018), this involves France (as part of NATO) war activity in Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and Yugoslavia is outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3 1993-2001:
+
+MID4342
+rivalry=220365 nationa=RUSSIA/USSR nationb=FRANCE MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV10558 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. DATES: 19390917-19611028
+
+RIV2003: new rivalry because MID4342 was added by MID3.02
+
+RIV556: MID3.02 removes Russia from MID370 (1830)
+
+RIV10558 is coded separately since it only involves the French participation in World War~II. (It was removed from riv5.10 version).
+
+
+NARRATIVE-CM:
+On March 25, 1923, the Soviet Union protested the French plan to sell Russian ships detained during the Russian civil war, and France replied on June 20, 1923 that it would only deliver the ships to a legitimate Russian government. France formally recognized the Soviet government on October 28, 1924. France announced on November 18, 1924 that it would return detained Russian ships to the Soviet Union. France and the Soviet Union signed a non-aggression pact on November 29, 1932.
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1925 (supplement), 104-105, 1932, 597.
+
+NARRATIVE-CR:
+The Dutch King William's government did not pay adequate attention to the interests of his Belgian subjects; the barrier between the French speaking Belgians and the Dutch Belgians was too great to be overcome by the House of Orange. Led primarily by residents of the country's French-speaking south in response to an economic downturn, a revolt began in 26 August 1830. 
+
+In early September, William invited UK, Austria, Prussia, and Russia to advise him about the demands made by the Belgians. Once William determined that he had little outside support, he sent his son and 14000 troops to end the Belgian bid for independence. By 27 September 1830, Dutch forces were compelled to retreat, and William asked for outside assistance.
+
+Within Belgium, on 26 September 1830 a provisional government was established. This government summoned a national congress to draw up a constitution on 4 October 1830. This declaration of independence, combined with William's plea caused other states in Europe to intervene.
+
+The 4 November 1830 London Conference was an attempt by other European states to settle the issue. This conference lasted for several months and offered several proposals that were designed to allow for the establishment of an independent Belgium which were acceptable to both the Belgians and the Netherlands. After it is evident that there is no simple resolution to the impasse, France and the United Kingdom take the lead in 20 December 1830 by declaring the dissolution of The United Netherlands and thus essentially recognizing the independence of Belgium. This was followed by a proposal to settle the dispute on 20 and again 27 Jan 1931. The Dutch accepted, but the Belgians rejected these two peace initiatives. The final treaty was signed eight years later.
+
+In 1831 crisis re-emerged in the near east. Egypt again rebelled; this time Ali's son Ibrahim led a victorious army through Syria in 1831. The Ottoman Sultan declared both Ali and Ibrahim rebels. Determined to regain their titles, Ali ordered his son to march forward and attack Ottoman forces in Anatolia to force the Sultan to reinstate his status as Pasha. The attack commenced on 21 December 1832, and was successful; the Ottoman Empire was in danger of collapse.
+
+Europe reacted slowly. France urged a joint Franco-British mediation, to preserve the Ottoman Empire, French influence in Egypt, and good relations with the UK. Austria was not sanguine about French attempts to forge an agreement. Austria warned the UK that Egypt was a French puppet and a means that the French could employ to convert the Mediterranean into a French lake. British policy was split at home; some favored saving Turkey, others thought it best to leave Turkey to collapse, and others debated what cost that Britain should pay in any attempt to stabilize the Ottoman Empire. Effectively the British policy drifted to keeping the other powers outside of Turkey.
+
+Russia sided with Turkey and condemned Ali (which also worked to limit French influence in the Far East), while trying to maintain the support of Austria. Russia offered the Sultan military assistance, but fear of Russian motives and pressure from France paralyzed the Sultan. Egyptian forces forced the Sultan's hand. An Egyptian advance in December 1832 and January 1833 caused the Sultan to call for Russian aid. A Russian fleet arrived in Constantinople on 20 February 1833 and despite the Sultan's request that Russia withdraw the fleet (due to French diplomatic pressure), the Russians stayed. France tried to force a settlement on the Sultan that would have given Ali Syria, but the Sultan waited for Russian troops to reinforce his position. Tensions between France and UK on one side and Russia on the other were rising, and British and French fleets at Smyrna were alerted [MID153].
+
+The rest of Europe now scrambled to end the conflict to preserve Turkey and remove Russian troops from the region. British, French, and Austrian diplomats labored to find a solution, but were ineffective. This was largely because the Sultan did not believe French and British promises of assistance, and Ali did not believe in the threats of naval intervention.
+
+Eqypt and Turkey came to their own terms in May of 1833. Turkey restored Ali's title and extended his holdings to include Syria, Cyprus, and Anatolia. These Turkish concessions were made possible by Egyptian battlefield successes and a growing Russian military presence-an additional Russian army had moved into the capital at the Sultan's request in March. Russia was very pleased; Turkey was insecure and completely dependent on Russian patronage. Russia exploited its position by signing a treaty with Turkey (Unikar-Skelessi) that provided for mutual defense and Russian control of the Straits of Constantinople, although the Straits convention was a secret clause. 
+
+Britain tried to weaken the Russian position in Turkey in the 1830s, while Austria found itself torn between wanting Russian support in Central Europe and wanting to restrain Russia in the Near East. Metternich signed the Munchengratz agreement, where both Austria and Russia agreed to sustain the Ottoman Empire. Metternich tried to expand Munchengratz to encompass all of the European powers, but Britain refused. Palmerston (in Britain) spoke of a potential confrontation while other diplomats thought to contain Russia with an English-Turkish alliance and the British fleet in the Black Sea.
+
+The fate of the Ottoman Empire again concerned all of Europe nine years later. Russia threatened the autonomy of Turkey, while the insurrection in Egypt that was orchestrated by Mohamed endangered the very existence of the Ottoman Empire. France was primarily concerned that Russia would ultimately control the Ottoman Empire, and thus was sympathetic to the Egyptian insurgents. The United Kingdom was also concerned about the health of Turkey and initially sided with France on the issue. However, Russia was aware of French suspicions and courted the British by asserting that Syria, which Mohamed had taken from the Porte, should be returned to the Ottoman Empire. This would weaken Mohamed, strengthen the Porte, however it did little to limit Russian influence in the region as Russia still controlled the Black Sea. France, which had supported Egyptian control in Syria, disagreed. 
+
+This disagreement led to a rapid shift in British policy away from France and towards Russia. In the fall of 1839, Britain moved away from supporting France and "by mid-September... [Palmerston] discussed how Britain and Russia could force France into line, with or without the help of the German powers, just as in June and July he had spoken about an Anglo-French or Anglo-French-Austrian coalition to stop Russia" (Schroeder 739). This falling out with France led to a secret conference between Russia, Britain, Austria, and Prussia where the four powers sign an agreement to settle the Egyptian-Ottoman dispute. France was outraged at being left out of the conference and being notified of the agreement after it was signed. The settlement called for Mohamed to cease attacking Turkey; the terms of the agreement stated that the sooner that Mohamed complied, the more territory that he would be allowed to retain. Seeking French aid, and getting little, Mohamed tried to resist, but was ultimately forced to retreat after British ships shelled Beirut in September 1840, and Turkish troops which were reinforced with Austrian and British marines then landed and pushed Mohamed back to he Egyptian border. In early October France resisted strongly, even going so far as to threaten war if Mohamed were removed from Egypt. However the Thiers ministry in France was replaced in late October and the new ministry was far less bellicose. Approximately five weeks later, on 27 November 1840, Mohamed surrendered to the Ottoman Empire and lost Syria. All of the great powers, save France, had imposed their will on France in settling the second Syrian dispute.
+
+As revolutions spread across Europe in 1848 radicals in Hungary became emboldened to challenge Hapsburg rule. An imperial manifesto was passed on 15 March that promised a constitutional assembly to Hungary, but on the same day the Hungarian table of deputies passed the March Laws which essentially declared Hungary an independent state. The Hapsburg emperor granted Hungary a constitution on 25 April, but it was not enough to appease the radicals. Uprisings continued in Hungary and on 12 June the Princess of Windischgratz was shot during a confrontation between the rebels and government forces. The Prince of Windischgratz (commander of Hapsburg troops in Hungary and an Austrian field marshal) called up reinforcements and prepared to put down the revolution.
+
+Windischgratz's forces bombarded Prague and crushed the anti-Hapsburg revolution among the Czechs by 17 June. Austria gained additional ground against the revolution in late July when Radetzky reclaimed Lombardy. By September, the governor of Croatia, Jellachich, who had been out of favor with Austria saw his chance to regain imperial favor by turning against Hungary. As Austria still faced a powerful resistance in Hungary, Jellachich was reinstated and supported in his efforts against Hungary. 
+
+In early October radicals seized the assembly in Vienna; the rest of the assembly moved to Kremiser in Morovia. Windischgratz and Jellachich took Vienna from the radicals, most of which were executed. Emperor Ferdinand of Austria, who had such difficulty facing the revolution, was replaced by Francis Joseph I on 2 December 1848. The new emperor declared that he was not bound by the agreements signed by his predecessor. Francis Joseph I ordered Windischgratz to move on Hungary.
+
+Hungary had declared itself the Hungarian Republic on 13 April 1849. Windischgratz moved against Hungary, but was not immediately successful. Francis Joseph I accepted the Russian offer for assistance in putting down the Hungarian revolution. On 17 June 1849, Russian troops join the effort and within two months the revolution was crushed. On 13 August 1849, the Hungarian revolutionaries were forced to surrender. 
+
+After the end of the revolution, Russia and Austria demanded that Turkey extradite Hungarians who were involved in the 1849 rebellion. Turkey resisted the Russian demand and asked for British assistance in resisting Russia. Palmerston promised to help Turkey, and England and France made a joint naval demonstration in October of 1849. (MID236) British ships actually entered the Straights to avoid inclement weather, but were recalled after Russia protested.
+
+The next four years were relatively peaceful for Russia and France, but the Crimean War shattered the relative calm. The Crimean war essentially began as a competition between France and Russia for influence over the holy places in the Middle East. Russia vied to be the protector of the Orthodox Christians while France tried to assert its right to protect Latin Christians. Throughout the conflict, Russia on one side and France and Britain on the other sought to include Austria and Prussia on their side. Prussia remained neutral, and Austria managed to commit relatively little effort in the conflict. This left Russia to fight Britain and France to a terribly expensive but not terribly conclusive end. 
+
+Turkey initially sided with France. Russia felt that Turkey was acceptable as an independent buffer state if Turkey feared Russia more than any other power. By yielding to France, Turkey had demonstrated that it was more concerned with French demands than Russian. The Russians sent a diplomatic mission to Turkey, led by Menshikov, to redress the problem. His forceful diplomatic maneuvers solidified British resistance to Russian action in Turkey. To protect an allegedly independent Turkey (which really was not capable of standing on its own) the United Kingdom ordered a fleet sent to Besika Bay on 2 June 1853; the British fleet arrived along with a French fleet on 13 June.
+
+The tsar was confident that Austria and Prussia would side with him against the Western powers, or at least remain neutral. Thus the tsar escalated the conflict by occupying the Danubian principalities (present day Bulgaria and parts of surrounding states) on 2 July. France tried a diplomatic solution to solve the crisis by appealing to Prussia and Austria. Prussia had no interest in getting involved, and Austria feared Russia on one side and French action in northern Italy on the other. Austria tried to find a way out where Russia would drop its demands in the Holy Places without losing honor. This was essentially impossible.
+
+On 1 August, diplomats from France, Britain, Prussia, and Austria signed the Vienna Note. The agreement stipulated what the four powers felt Turkey could yield to Russia without Turkey losing its independence. Russia accepted the note on 5 August as a solution to the crisis, but Turkey asked for revisions on 19 August. The four powers were surprised that their attempt to save Turkey was spurned, but the Turkish rejection was vindicated on 7 September when Nesselrode (the Russian foreign minister) announced that Russia interpreted the note to mean that Russia would be the protector of all Orthodox people in Turkey. This effectively ended the possibility of diplomatic success.
+
+Following the diplomatic collapse, British and French vessels passed the Dardanelles. The tsar moved away from Nesselrode's interpretation of the Vienna Note in a meeting with Francis Joseph I of Austria. Russia's attempt to get Austrian and Prussian support was a failure. The Russian offer to partition Turkey was unacceptable to Austria, as the proposed Russian gains would threaten Austria's access to the Danube and therefore shipping. Prussia simply had no interest in becoming involved in the conflict.
+
+The Russian diplomatic effort was successful in splitting the Western powers. France was willing to try a revised Vienna Note, but UK resisted and sent the fleet to Constantinople on 23 September. France decided to side with the British and sent the French fleet along to Constantinople. This Western support emboldened the Sultan, who declared war on Russia on 4 October 1853.
+
+Europe hoped foe a Russian victory that would leave Turkey intact. Prussia, Austria, Britain, and France signed the 5 December Protocol which was an attempt to coerce Russia into accepting a compromise. It called for the Sultan to make concessions to his Christian subjects and called for Russia not to absorb Ottoman holdings. However, it was clear to all powers involved that neither Prussia nor Austria was prepared to back these demands with military power at this time.
+
+The Protocol was undermined further by a Russian naval victory on 30 November. British and French fleets were allegedly in the area to protect the Turkish fleet. The Russian victory at Sinope caused a violent shift in English public opinion towards anti-Russian feeling; the naval action erased the memory of the Hungarian refugee crisis and its aftermath among the British masses. Thus once the French fleet moved through the Straits, the British fleet was ordered to follow. This action was just a step short of war. Palmerston resigned in the United Kingdom, as he felt that stronger measures should have been taken in the aftermath of the Russian naval victory. 
+
+Russia tried to maneuver to gain Austrian and Prussian neutrality in the event of hostilities with the western powers. However, Austria's demand that Russia evacuate the Balkans (especially the Danubian Principalities) and respect Turkey's prewar borders was more that the tsar would accept. Prussia simply tried to remain neutral.
+
+France tried a diplomatic solution on 29 January 1854 when Napoleon III wrote the tsar proposing direct Franco-Russian mediation over the issue of the Holy Places. There was no real Russian counter proposal, so the French offer of mediation was replaced by a joint Franco-British demand that Russia withdraw from the Danubian Principalities. 
+
+Following the failed Russian attempt to gain Austrian neutrality, Boul (the Austrian foreign minister) favored an alliance with the western powers, but his generals argued that any conflict would largely be fought in Austria and therefore be hugely expensive for Austria and rather cheap for the western powers. Boul was persuaded to by these arguments to avoid an alliance with the west unless Prussia was also a signatory to any such agreement. The Prussian determination to remain neutral prevented such an outcome.
+
+On 31 March 1854 France and England joined the Turkish war against Russia. The Crimean War began. Austria and Prussia sign a mutual neutrality pact so that Prussia could avoid fighting altogether and Austria could gain freedom to maneuver in northern Italy and along the Danube River. With this agreement in place, Austria demanded that Russia evacuate the principalities on 3 June.
+
+Russia was concerned that Austria could join the western powers. On 3 June Austria and Prussia met to discuss sanctions against Russia if the Austrian demand was not met. This realization, combined with the advice of Prussia to accept the demand for evacuation, convinced the tsar to withdraw. Therefore on 29 June, the tsar announced that Russia would respect the Austrian demand of 3 June and vacate the principalities if Austria would prevent British and French troops from entering them. This was unacceptable to Austria, which began preparations for war.
+
+Once preparations were initiated, Austria met with France and Britain to form a set of war aims. The three powers settled on the following four demands: Europe would be the new guarantor of the principalities; the Danube would be opened; rights in the straits would revert to the convention of 1841, which adhered more closely to European interests; and finally Europe would be the new protector of Christians in Turkey. The fourth point had already been conceded by the 'less hostile' interpretation of the 1853 Vienna Note by Russia. By August the first two points were met by the Russian withdrawal from the principalities. The Crimean War was basically fought over the Straights and Russian nava power in the Black Sea.
+
+On 29 July the British parliament ratified these war aims. However, once news of British ratification reached Vienna, the Austrians knew that Russia was going to exit the principalities. Thus Boul refused to sign the treaty on 8 August. Within days, Austria had gained Turkish acquiescence and occupied the principalities.
+
+France and Britain were left to fight the war; in mid-September 50,000 western troops landed near Sevastopol. Russian troops were routed initially, but were later able to stymie western troops and force a siege of Sevastopol. Diplomacy began anew, with France and the UK again trying to bring in Austria support. Again Austria tried to remain in the middle. Boul courted the west and tried to get Russia to accept the four points. However, on 26 August Russia rejected the four points and even spoke of war with Austria. Austria responded by mobilizing on 22 October, although this was largely a diplomatic gesture as the campaigning period had already passed for the year. Any new fighting would have to wait for spring. Prussia became concerned that its policy of neutrality would not be sustainable. Fredrick William wrote to the tsar and expressed his concerns and urged Russia again to accept the four points. 
+
+In early November, Russia considered accepting the demands of France, the UK, and Austria. As Austria saw a potential for the Crimean War to end and Boul became concerned about Austria's position in northern Italy vis-ý-vis France. Russia did accept the four points on 20 November, and one day later Austria revoked their mobilization. Now France and the UK had to decide whether they should continue to prosecute the war or accept the terms to which Russia had agreed.
+
+France was aware of Austrian security concerns in northern Italy and worked to gain Austrian confidence. France moved to contain Sardinia, as Cavour (Prime Minister of Sardinia) had considered moving against Austria when it was preoccupied in the Near East. Sardinia needed French support if there ever would be a unified Italy. Cavour felt that if Austria and France were too closely aligned that Austrian desires would win the day and prevent unification. Thus he courted the French and tolerated the Austrians. Sardinia agreed to assist France in the war and not to agitate the Austrians. 
+
+Now that Austria is satisfied, but still not providing troops, Britain looks to settle the Crimean War with diplomacy. England proposes that the war will end when the Russian naval presence in the Black Sea is destroyed. Austria balked at this interpretation of the third point, but did agree to ending Russian dominance in the Black Sea. On 7 January 1855, Russia accepted the Austrian interpretation of the third point and agreed to talks to end the war. Again, western attempts to bring Austria to bear against Russia led not to war but to the negotiating table.
+
+France bristled at the proposed conference; on 16 February 1855, Napoleon III announced that he would go the battlefield and take command himself. British policy in early 1855 was less coherent, as first there was a peace overture made towards Russia and then there was a hostile approach as the parties in government stabilized. Perhaps the most important event that made peace possible was the death of Nicholas I on 2 March 1855 in Russia. His successor, Alexander II, was more interested in Russian concerns rather than being a leading force for conservatism in Europe.
+
+The Vienna Conference was held on 15 March 1855. The western powers quickly realized that Russia would not voluntarily reduce its naval strength, so the delegates took the unusual step of asking the Russians to draft their own plan to reduce their naval dominance in he Black Sea. On 2 April the conference was suspended to allow Russia to form this proposal. Once it became clear that Austria would not fight, nor would Russia reduce its naval power, Britain and France proposed that their respective vessels be allowed into the Black Sea as a counter to Russian power. The French and British diplomats, acting against the orders of their governments, accepted this plan as the basis for an agreement.
+
+Back in London, the British parliament considered the peace plan and seemed about to approve it, but Napoleon III could not be convinced. The conference resumed on 4 June and Russia refused to further limit its navy. The western powers walked out and the French-Austrian agreements about northern Italy of one month earlier crumbled. Hostilities resumed on 8 September and Sevastopol fell to the French and British. 
+
+Austria, fearful of a French-Russian arrangement, agreed to cooperate with France and Britain to dictate terms to Russia. On 14 November, France and Austria (after France had clandestinely determined what terms Russia would accept) concluded an agreement between themselves that established the demands that they would make of Russia. Then France and Austria presented the agreement to Britain, claiming that these were the only terms that Austria would accept, when they were in fact the terms that France had already determined would be acceptable to Russia. This proposed agreement called for the neutralization of the Black Sea. Russia accepted largely because their fleet was in ruins and the Turkish fleet was to be dismantled. 
+
+The peace preliminaries were signed on 1 February 1856. The Congress of Paris, which ran from 25 February to 16 April 1856, finalized the treaty. Essentially the four points were adhered to by all parties. Some small territorial changes were made, most notably the Danubian principalities were freed and formed into Rumania, a buffer state between Austria and Russia. 
+
+The first series of MIDs in the 20th century ended in October of 1920. This is approximately the date of the conclusion to the French involvement in the Soviet Civil War (MID2606). French involvement in the Soviet Civil War began as anti-Bolshevik policy in an attempt to re-establish the former Russian government. France was concerned that the new Bolshevik government wouldn't uphold prior Russian obligations and treaties (Such as the Pact of London and the Sykes-Picot Agreement). France took a hard-line policy against the Bolsheviks when they asked to be released from the pact of London in November of 1917 (Bradley 68). 
+
+Disputes MID197 MID2366 and MID2366 are involve interventions in the civil war.
+
+In August of 1918, Allied troops (French and British) landed in the town of Archangel with the intention of reinforcing Czech forces combating the Bolsheviks (Bradley 68). A revolt among the Czech forces prevented any reinforcement and the Allied troops were evacuated in the fall of 1919. As a response to consistent failure in the anti-Bolshevik policies France had been employing the Prime Minister, Clemenceau resigned and Millerand replaced him on January 1st of 1920. 
+
+Millerand continued supporting anti-Bolshevik policies but shifted support from an aggressive stance to containment. France encouraged Poland to seek a peace treaty with the new Bolshevik government as soon as possible. In the event of a Soviet invasion of Poland, France pledged to provide whatever assistance may be needed (Bradley 68). While France backed Poland in the North, it was also supporting the volunteer army in Crimea. France refused to recognize the Bolshevik government as legitimate and instead backed the Wrangler government in Crimea. 
+
+By October of 1920 it was clear that the volunteer army was near defeat and the Bolshevik victory was guaranteed. Millerand resigned as Prime Minister as he took his seat in the Presidency; this provided a possible change in policy towards the Bolsheviks. Leygues took over as Prime Minister and ordered the evacuation of the volunteer army to Istanbul. By October 12th a peace treaty was drafted between Poland and the new Soviet government and by April 18th it was concluded (Bradley 68). 
+
+By Mid-October all of France's supported campaigns against the Bolshevik government had come to a close and a new period of relations began, one in which France was forced to recognize the Bolsheviks as the de facto government of Russia. France was so impressed with Poland's resistance to the Bolsheviks that a treaty of Alliance was signed six months after the Russia-Poland peace treat was concluded (Bradley 68). 
+
+The final MID to occur between France and Russia was the Berlin Wall Crisis (MID27) which is coded as beginning on July 25th, 1961 and ending on October 28th, 1961. However, much of the information needed to understand the resolution to the final mid extends back as far as November of 1958 and as far past the termination date as December 1961. The actors remained constant throughout the mid. Russia, France, Great Britain and the US were all initiators in the Berlin Wall Crisis. The Leadership of France and the Soviet Union remained constant throughout the crisis and the crisis coincided with the first four years of de Gaulle's first term as France's president. The narrative will proceed with an introductory summary of the events surrounding the Berlin Wall Crisis, the process of negotiations and events that led up to the termination of the mid and the conditions in which hostilities ceased between the two nations. 
+
+France, the US, Britain and the Soviet Union reached a four-power agreement in 1944 and 1945 which divided Germany into four zones of administration each to be governed by one power (Slusser 1973). In addition to the division of Germany, Berlin was also divided into four zones of control despite the fact that the city of Berlin was entirely surrounded by the Soviet occupied portion of Germany (East Germany). By November of 1958 the Soviet leader Nikita Krushchev began to make demands for a western peace treaty with East Germany with the purpose of ending western occupation of West Berlin (Slusser). Over the following three years Krushchev's demands grew in strength and posture. By April 25th of 1960 the Soviet Union began to make specific threats directed at the western powers (Camp 1971). On April 25th the Soviet Union issued a warning to France and the other two powers that insisted that if a peace treaty was not signed with East Germany which included the withdrawal of occupying military forces then it would be forced to sign a unilateral peace treat with East Germany and the Western Powers would lose the right of entry into Berlin (by air, water or land). 
+
+MID26 is the 1948 Berlin Blockade.
+
+MID200 is the 1956 Sinai War.
+
+MID608 is the 1958 Berlin Deadline Crisis.
+
+MID27 is the 1961 Berlin Wall Crisis.
+
+On June 8th of 1961 the USSR began a more aggressive strategy to cut off West Berlin from West Germany. When the West German government had announced that it intended to hold its Bundesrat (the upper house of the legislature) session in West Berlin it brought formal Soviet complaint (Camp; Also see Gearson 1998 and Slusser). France supported the West German insistence that it was a meeting of elected officials for the purpose of peacefully conducting business and not an affront to the four-power division of Berlin. Responding to demands placed by Krushchev the session never occurred in Berlin. 
+
+On July 2nd 1961 the Krushchev announced that any Western aggressions in Berlin would be met with swift response including the nuclear destruction of both France and Britain (Slusser). France gave a formal reply to the Soviets by July 12th of 1961 in the form of a refusal of all demands. Charles de Gaulle insisted that the Soviet Union renounce all former threats it had issued and only once these conditions had been met would France consider negotiations. Five days later France publicly reiterated these conditions. On July 25th the Western Powers placed an ultimatum before Khrushchev (Slusser). The US President, J. Kennedy told Khrushchev that he must decide between pursing the Soviet goal of an East German treaty which included the ousting of Western military forces from Berlin and the minimal goal of sealing off the escape route for East Germans who were fleeing into West Berlin. 
+
+France took the hard-line position of the West German government opposed giving the Soviet Union any concessions. When the barricade separating East and West Berlin was erected on August 13th 1961, France condemned this as a violation of the post WWII agreement on four-power division of Berlin. On October 17th at the 22nd session of the Soviet Congress, Krushchev announced that the Soviet Union would relax its demands for a peace treat with East Germany if the West continued to show a willingness to cooperate (Gearson; Also see Slusser). By October 24th 1961 France stated that until the Soviet Union withdrew its threats of nuclear attack it would not participate in any negotiations and would not consider any Soviet proposals. French refusal for discussions with the USSR persisted despite Soviet claims of French violation of international law in its occupation of a Tunisian naval base. On October 28th 1961 French, British and American troops and tanks violated the Soviet imposed 100-meter no troop zone around the wall in a show of protest to the East German use of tanks to prevent Western officials from entering East Berlin without the new Soviet permits. The East Germans stood down and removed their tanks from checkpoint Charlie, the gateway between East and West Berlin (Slusser).
+
+By December 9th de Gaulle publicly announced France's policy and stated that it would no longer participate in discussion with the Soviet Union unless something constructive occurred (Camp). Following this announcement, no formal agreements were made pertaining to the Crisis on behalf of France with Britain, the US or Soviet Russia. 
+
+SOURCES-CR:
+Bradley, John. 1968. Allied Intervention in Russia. Basic Books inc, New York, NY. Camp Jr, Glen D. 1971. Berlin in the East-West Struggle 1958-61. Facts on File Publishing, NY, NY. Gearson, John. 1998. Harold Macmillan and the Berlin Wall Crisis 1958-62. Macmillan Press, London, GB. Slusser, Robert M. 1971. The Berlin Crisis of 1961. Johns Hopkins Press, Baltimore, Md. 
+
+PS-NARRATIVE: 
+
+19459999-19480320 0.5
+
+France and Russia were allies during the last year of World War II, when France re-entered the international system (19440825). However, their different political systems put them at odds especially over the control of Germany. On January 17, 1945, France made it clear that it supported Russia’s claim regarding the border between Russia and Poland. On March 21, 1946, France’s Foreign Minister said that if US doesn’t provide foreign aid than France will have to ask for aid from Russia. On May 19, 1946, Russia said that it already sends a significant amount of grains to European countries including France. Russia said that it cannot send any more than it already has. MID26 is the 1948 Berlin Blockade which starts RIV10559.
+
+19611029-19660630 Transition
+
+The last MID of RIV10559, MID27 ended on October 28th, 1961. On March 21st 1963, Soviet Union condemned France for re-starting nuclear tests in the Algerian Sahara. On October 27, 1964, the two leading newspapers in Soviet Union (both controlled by the government), Izvestia and Pravda published editorials in which they were praising the current good relations between France and Soviet Union and the good negotiations taking place on trade.Stability and a large measure of mutual understanding and trust-such have for many years been the distinguishing features of Soviet-French relations, beginning with the memorable visit to the Soviet Union by General de Gaulle in 1966, from June 20th to July 1st. 
+
+19660701-19891108 0.25
+
+In February 1970 the French Communist party congress removed its leader R. Garaudy from the Central Committee and Politburo for his criticism of Soviet Union and its invasion of Czechoslovakia. They also reaffirmed their intent to strengthen ties with the Soviet Communist party. The main aim of co-operation between the USSR and France in the international arena is "to promote the consolidation of peace, the strengthening of detente, the elimination of seats of tension and the achievement of real progress on the road towards disarmament". This is emphasized in the "Program for the further development of co-operation between the Soviet Union and France in promoting detente and peace", which was signed in Moscow on April 30,1979, by Leonid Brezhnev, General Secretary of the CPSU Central Committee and Chairman of the Presidium of the USSR Supreme Soviet, and President Valery Giscard d'Estaing. The USSR and France, the document says, worked it out "fully determined to enhance the role of Soviet-French co-operation in strengthening detente and ending the arms race". "The Soviet Union and France note with satisfaction", the programme says, that their relations are characterized by a constant and close political dialogue and active co-operation in various spheres on a stable foundation, which has brought considerable benefit to each country and has strengthened the trust and mutual understanding between them". The deepening of political consultations and co-operation between the USSR and France will be effected, in particular, by means of regular, in principle annual, summit meetings, the continuation of confidential contacts through the exchange of personal messages, the improvement of the established mechanism of co-operation in the spheres of the economy, trade, science and technology, and through cultural exchanges and contacts between Soviet and French citizens.
+
+A routine meeting between members of the Foreign Affairs Commissions of the Soviet of the Union and Soviet of Nationalities of the USSR Supreme Soviet and a delegation of the Foreign Affairs Commission of the French National Assembly, led by its Chairman, Couve de Murville, began in the Kremlin on 10th July, 1979. The meeting was opened by Boris Ponomarev, Chairman of the Foreign Affairs Commission of the Soviet of Nationalities of the USSR Supreme Soviet, candidate member of the Politburo of the CPSU Central Committee and Secretary of the CPSU Central Committee. 
+
+On April 26, 1980, Andrey Gromyko had two conversations with President Valery Giscard d'Estaing. During the conversations, which took place in a friendly atmosphere, they discussed topical international problems and questions of the further development of relations between the Soviet Union and France. It was noted that in present-day conditions the importance of the coordinated efforts of the Soviet Union and France to strengthen international and European security was growing. In this connection, the Soviet side stressed the importance of further action in accordance with the program for the further development of co-operation between the Soviet Union and France for the benefit of detente and peace, which was signed during the talks in Moscow between Leonid Brezhnev and President Valery Giscard d'Estaing In April 1979. The French President gave a luncheon in honor of the Soviet Foreign Minister. Talks were completed the same day between Andrey Gromyko and Jean Francois-Poncet, the French Foreign Minister. They exchanged views on the issues of arms limitation and disarmament, the situation in the Near East, the preparations for the Madrid meeting and certain other matters. The talks with President Valery Giscard d'Estaing of France were rich in content and useful. I should like to believe that these conversations will make a contribution to the further development of Soviet-French relations, which, in our opinion, must be in accord with the interests not only of the peoples of France and the Soviet Union but also of the entire world. Andrey Gromyko said this to journalists at the end of the luncheon given in his honor by President V. Giscard d'Estaing. The Soviet Union, Andrey Gromyko continued, firmly believes that relaxation of tension in the world should be continued and that the difficulties which have been encountered in the development of the international situation should be overcome. For our part, we are working in this direction, but, as you know, not everything depends on us. We express the hope that France, too, will also act in this direction, said Andrey Gromyko.
+
+On December 11, 1981, the French Minister of External Relations, Claude Cheysson, stated in an interview for the Paris 'Le Monde': ''We want to maintain the closest and most cordial relations with the Soviet Union. Very shortly we will sign the most important contract ever concluded between the two countries. It provides for the delivery of 8,000 million cubic meters of gas in exchange for deliveries of equipment.'' Then, as if disavowing the wish he himself expressed for closer and more cordial relations with our country, Claude Cheysson stated that Paris would not be able to have regular meetings with the Soviet leaders and would not resume the ordinary calendar of French-Soviet meetings, because, he said, of the Soviet presence in Afghanistan. Further on in his interview the Minister specified some sort of Soviet arms upgrading in Europe as the main point of French-Soviet difference.
+
+On February 24, 1983, Claude Cheysson, the French Minister of External Relations, has paid an official visit to the Soviet Union. As the guest of the Soviet government, he was received by Yuriy Andropov, General Secretary of the CPSU Central Committee and member of the Presidium of the USSR Supreme Soviet. He had detailed talks with Andrey Gromyko, member of the Political Bureau of the CPSU Central Committee and USSR Minister of Foreign Affairs. On both sides it was considered that the negotiations between the Soviet leaders and the French minister had taken place in a beneficial working atmosphere. Their results are useful to the USSR and France. On both sides, the desire was expressed to go on improving bilateral relations between the USSR and France. Much has already been accomplished in this respect. Mutually profitable commercial, economic, scientific and technical co-operation is developing successfully. A new programme of expanding co-operation in the field of science and technology for the period 1983-93 was signed in Moscow during Claude Cheysson's visit. It will contribute to the promotion of bilateral exchanges, which should not come up against any obstacles.
+
+It does not appear likely that a substantive agreement has been reached between France and the Soviet Union on the question of arms control during the 3-day visit of French President Francois Mitterrand to Moscow in July 1986. Mitterrand concluded his visit on July 11, 1986, after three rounds of talks with Soviet leader Mikhail Gorbachev on east-west relations, arms control and bilateral relations. Details of their talks have not been revealed. It is known, however, that the two leaders placed special emphasis on arms reduction, especially nuclear arms control. The Soviet side had hoped that France would make a "parallel", if not "joint", effort with the Soviet Union on the issue of arms control.
+
+In May 1987, French Prime Minister Jacques Chirac made a three-day official visit to the Soviet Union during which he discussed disarmament with Soviet leaders. Chirac talked with Soviet leader Mikhail Gorbachev, and Soviet Premier Nikolai Ryzhkov on bilateral relations and international issues, particularly nuclear disarmament. A Soviet spokesman told a news briefing that divergences between the two countries on nuclear disarmament still remain. Chirac said France hopes the Soviet Union and the United States will reach an agreement on eliminating medium-range missiles on a global basis, but opposes the Soviet proposal that the two superpowers also eliminate shorter-range missiles in Europe.
+
+After three days of talks, the Foreign Ministers of France and the Soviet Union announced on October 12, 1988, a thawing of relations between the two nations and said negotiations on cutting conventional forces in Europe would start by the end of the year.
+
+The Soviet Foreign Minister, Eduard A. Shevardnadze, said at a news conference, ''For a certain time, the Soviet Union and France went on different paths, but now we have overcome this anomaly.'' France's criticisms of Soviet human rights policies have soured its relations with the Soviet Union since Francois Mitterrand became President in 1981, but in recent weeks France has moved to patch up relations with Eastern Europe. After meetings with Mr. Mitterrand and Foreign Minister Roland Dumas, Mr. Shevardnadze said the French Government supported establishing areas where face-to-face stationing of conventional forces could be reduced. Mr. Shevardnadze, who was making the first visit of a Soviet Foreign Minister to Paris since 1980, said this approach was similar to the view of the Soviet Union and some other Communist nations. In the 1960's and 70's, France and the Soviet Union maintained close relations. But relations grew distant under Mr. Mitterrand, who although a Socialist has made no secret of his mistrust of the Soviet Union and Communist states in general. But Mr. Gorbachev has sought to improve relations with the West, and France is eager to expand its trade ties with Eastern Europe and follow West Germany's lead in improving ties. On October 12, 1988 France announced that it had approved a Soviet plan to hold a European human rights conference in Moscow in 1991. Some Western nations have opposed holding the conference in Moscow, saying it would be a propaganda showcase for the Soviets, while other Western nations have said such a conference could encourage improvements in human rights in the Soviet Union. The decision on where to hold the conference was an obstacle to concluding the 35-nation European Security Conference in Vienna and opening the way to negotiations on reducing conventional forces.
+
+19891109-19901029 Transition
+
+On November 9, 1989, the Berlin Wall came down and the end of the Cold War occurred.France and Soviet Union were not in rival alliances anymore, and France became a strong supporter of the Soviet Union's reforms and movement away from Communism. The development of relations with the Soviet Union is a fixed foreign policy of the French government, the French President's diplomatic adviser, Hubert Vedrine, said on October 26, 1990. This declaration came as a preview to the Mitterand-Gorbachev summit scheduled for October 28-29th, 1990. 
+
+19901030-20051030 RIV2003-0.5
+
+The Mitterand-Gorbachev summit took place on October 28-29th, 1990. In May 1991, President Mikhail Gorbachev assured visiting French President Francois Mitterrand that the Soviet reform process will continue despite the current crisis in the country and the Kremlin's perceived conservative shift. Gorbachev and Mitterrand, briefing reporters at the end of a half-day summit in Moscow, also said they were in general agreement on the Middle East peace process and added the Soviet Union and France still support the idea of an international peace conference. But much of the time during Mitterrand's brief visit was taken up with discussions of the current situation in the Soviet Union and the process of economic and political reform, Gorbachev said. ''I presented much data on the scale, nature and complexity ... of the reform process,'' Gorbachev said. He also criticized ''some media and politicians'' both inside and outside the Soviet Union who ''jumped to hasty conclusions'' after the bloody Soviet crackdown in the Baltics and other actions seen as evidence of a slowdown of reform. ''We still have to sort out all that has happened here for quite awhile,'' Gorbachev said, ''But we have to say that what is happening now is necessary for us, for Europe and the entire world. And what is happening now cannot happen easily and smoothly.'' Mitterrand said he realized that ''it is impossible to complete this in-depth revolution without certain risks and consequences,'' adding, ''I would like to help President Gorbachev and perestroika.'' The French president downplayed his meeting in Paris last month with Russian republic leader Boris Yeltsin, Gorbachev's chief critic, and said it did not imply any lack of confidence in the central government and its reform program. Gorbachev, asked what his advice would be to foreign leaders on dealing with opposition leaders in the increasingly fractious Soviet Union, said the world should remember that his central government still heads a country to be reckoned with. ''The Soviet Union does exist, it will continue to exist, it is a powerful state and it will stay that way,'' Gorbachev said. The two leaders said they discussed the current economic problems in the Soviet Union and the country's needs and Mitterrand added that he was leaving ''with the feeling of the need to further our (economic) relations,'' but there was no announcement of new assistance from France for the crippled Soviet economy. Mitterrand said in addition to the internal Soviet situation and economic cooperation, the two sides discussed ''Europe in connection with the CSCE (Conference on Security and Cooperation in Europe) structures ... and other multinational and bilateral issues'' including disarmament. The two leaders also focused on the aftermath of the Persian Gulf War and the need for a comprehensive Middle East peace settlement, they said. Mitterrand arrived Monday afternoon and left Monday night during the brief visit. He and Gorbachev have met regularly since Gorbachev took power in 1985, with their last meeting during the Soviet leader's visit to Paris six months ago for the European summit. Traveling with Mitterrand was French Foreign Minister Roland Dumas, who met separately with his Soviet counterpart Alexander Bessmertnykh and then joined the two leaders for talks. 
+
+French Foreign Minister Roland Dumas told Japanese Foreign Minister Taro Nakayama in Paris on June 5, 1991 that an undesirable situation would result unless Western countries quickly extend assistance to the Soviet Union. Nakayama, dining with Dumas at the French Foreign Ministry, showed a reserved attitude. Dumas said both domestic politics and the economic situation in the Soviet Union would continue to worsen, and the next five or six months would be a crucial period for the administration of President Mikhail Gorbachev. Nakayama replied that Japanese sentiment toward the Soviet Union had improved as a result of Gorbachev's visit to Japan. The Japanese, however, were disappointed at the failure to find even a hint of a solution to the territorial dispute between the two nations, Nakayama said, adding that any improvement in Japan-Soviet relations depends on the Soviet Union. France and the Soviet Union on October 31, 1991 agreed to exchange $ 285 million worth of French agricultural food products for Soviet gas and petroleum. Under the accord, signed by French and Soviet officials, the French products including cereals and 100,000 tons of meat will be sent to the Soviet Union over 21 months. The aid will go toward helping the Soviet Union through what is expected to be a tough winter, French officials said.
+
+On May 24, 1994, during the French Foreign Minister's visit to Moscow, Russia and France have come to terms on the problem of Russian uranium export to Europe. It his view, this opens the way to signing the draft agreement on partnership and cooperation between Russia and the CEC which was mainly obstructed by France. 
+
+The paper quotes Georgy Gabunia, head of the Russian delegation, as saying that during the bilateral consultations (he stresses the word "consultations" as the official talks are conducted by Moscow with the CEC, not France), most of the outstanding questions were resolved. As Gabunia put it, "this is enough not to return to these problems any more" in the future. France insisted on a "mechanism of protective measures," that is, export quotas, but Moscow said that was unacceptable. At the same time, Moscow admitted in principle that this question might arise in the future, but not a priori. According to the paper, the sides will finally settle all the problems relating to uranium export after 1997, as, incidentally, is provided for by the draft agreement. Gabunia adds that Russia and France have managed to come to terms on a number of issues "without going out of the frameworks of the [May 2] package of accords" discussed by CEC deputy chairman Leon Britten and Russian Vice Premier Alexander Shokhin. In the next few days, the CEC would return to the discussion of the draft agreement.
+
+MID4342 occurred from April 8 to 19, 1999. This incident was over Kosovo.
+Acting Russian President Vladimir Putin said on February 4th, 2000, that Russia and France intend to renew and improve bilateral relations and develop a strategic partnership. Welcoming visiting French Foreign Minister Hubert Vedrine to the Kremlin, Putin said he had recently discussed the need to improve relations in a telephone conversation with French President Jacques Chirac. Foreign Minister Igor Ivanov said Putin and Vedrine had discussed ''the political determination of Moscow and Paris to develop a strategic partnership,'' the Interfax news agency said. Ivanov noted that ''there has been a certain decline in bilateral relations lately, which cannot benefit either Russia or France or European stability,'' and that both Putin and Chirac understand the need to straighten out relations and advance them. ''Now it is our task as foreign ministers to carry out the presidents' orders,'' he said. Vedrine gave Putin an invitation from Chirac to visit France. Ivanov said a date for the visit would be set after the Russian presidential elections on March 26, 2000.
+
+On January 11, 2002 France and Russia have formed relations of "strategic partnership. They are of a "particularly warm character", French Foreign Ministry spokesman Francois Rivasseau said. France is looking forward to the oncoming working visit of Russian President Vladimir Putin so as to continue an "active and exceptionally useful" dialogue between the two countries at the highest level on the whole spectrum of international and bilateral issues, the spokesman stressed. The Russian president will arrive in Paris on January 15, 2002. The main themes to be discussed during Vladimir Putin's visit to France will be the development of relations between the European Union and Russia, as well as between Russia and NATO in the format of "20". Problems of the fight against international terrorism will be also examined. During the latest summit of the European Union in Lacken France assumed the initiative and called for the strengthening of partnership relations between the European Union and Russia, Catherine Colonna noted. The two presidents will discuss prospects for the development of such relations, she added. The leaders of France and Russia will also discuss the issue of making the dialogue on strategic problems more active and concrete. This concerns first of all the new framework of relations between Russia and NATO in the format "19+1" or in the format "20". Such a framework of cooperation Russia-NATO was determined in the official communique of the latest French-British summit. 
+
+On July 22, 2002, the results of the talks between Vladimir Putin and Jacques Chirac evidence that the relations between Russia and France have entered a new stage. Chirac's visit to Russia became his first international trip since re-election to the President's post. Thus Chirac infringed on the old tradition, according to which all France's presidents paid their first visit after elections to Germany, in order to indicate the main vector of France's foreign policy. Now this vector seems to be changing. France is interested in strengthening its influence in Europe, and Chirac intends to create the new balance of powers on the international scene through developing relations with Russia. The main proof of the French President's wish to help Russia strengthen its international position is his viewpoint on the problem of Kaliningrad enclave. Chirac said that no decisions which can humiliate Russia must be made. "The use of visas for Kaliningrad's citizens is inadmissible," Chirac said, "Other technical methods to solve this problem should be found." The other proof of the positive changes in the relations between the two countries is Chirac's statement concerning Chechnya. Earlier France was among the harshest critics of the Russia's policies in Chechnya. After being asked during the news conference about violations of human rights in Chechnya Chirac approved of Russia's activities in this region and said: "These problems must be solved through political means, which is exactly what Vladimir Putin does". France is also Russia's important economic partner. The two countries' leaders confirmed the intentions to develop cooperation in the fields of hi-tech, aerospace and oil-and-gas. The results of talks in Sochi evidence that Russia has got a serious strategic partner in Europe, who can also advocate this country's interests in the European Union. Three meeting of Chirac and Putin are planned for the next year, including Putin's state visit to France.
+
+On February 11, 2003, Russia and France have signed a bilateral statement on cooperation in the energy sector. The two countries voice their satisfaction with the relations they have developed in the fuels and energy industries and indicate that the sector has priority in terms of cooperation at the moment. The statement notes the mutual compatibility of Russian and French economies. "Russia and France believe that their bilateral efforts in the energy sector are part and parcel of larger cooperative efforts, taken by Russia and the European Union in general," the document says. The two countries fully acknowledge the importance of projects presenting mutual interest for Russia and for the Europeans. "The sides state that Russia is willing to ensure reliable supplies of crude oil and natural gas to Europe, including France, and reiterate their commitment to long-term projects in the gas industry," the statement says. "Russia and France plan to develop cooperation in energy sector management," the document goes on to say. "They regard consulting on restructuring projects, privatization, reorganization, and management of industrial units as possible forms of cooperative ties. "The sides support the idea of equitable conditions for Russian and French companies participation in joint projects and will hail closer ties between their fuel and energy companies as a way of building real partnership. "Russia pledges to do its best and create lucrative environment for foreign investors and for other forms of foreign companies' involvement in its energy sector. "The sides affirm their interest in making Russian upstream oil and gas units attractive for French investors. "France confirms that the French energy companies, manufacturers of oil and gas equipment and service companies will take part in this process of investment. "Russia and France are satisfied with continuing development of oil and gas deposits in the Yamal-Nenets autonomous area on the terms of production-sharing. "Russia takes due account of France's wishes to continue ratification of the Energy Charter," the document says. The statement stresses the shared conviction that nuclear energy is a vital element of energy strategy in the two countries and emphasizes its key role in meeting the global demand for energy in the context of Kyoto protocol demands. "Russia and France pledge to continue cooperation in nuclear reactor technologies, development of closed nuclear cycle and radiation safety technologies," the statement says. It reflects the two countries' satisfaction with a decision by the Group of Eight Industrialized Nations to set up a workgroup on nuclear security issues and nuclear technologies improvement. Russia and France confirm their plans to cooperate on radiation safety and ecological issues, on safe storage of fissionable materials and radioactive waste. The sides stress the importance of joint efforts in energy saving technologies and resource efficiency and confirm their willingness to deepen integration processes in the power industry, as well as to facilitate emergence of a united technological energy system in Europe. "One of the best ways of achieving unity of Europe's energy systems is to introduce a parallel mode of operations in the European electricity transmissions system ISTE and the United Energy Systems of Russia," the statement says. Russia and France say they are ready to consider joint projects in reconstruction of Russia's power generating facilities and building of energy sector installations on Russian territory.
+
+On April 25, 2003, Russia and France pledged to boost military cooperation, developing an alliance born out of their joint opposition to the US-led war in Iraq. "Defense relations between Russia and France are old and excellent-but considering the global situation and the new risks in the world, they must be further reinforced," visiting French Defense Minister Michele Alliot-Marie said at the start of talks with her Russian counterpart Sergei Ivanov. France and Russia spearheaded outspoken opposition to the US-led war and are leading efforts to ensure the United Nations plays a central role in Iraq's reconstruction. "Military relations between Russia and France are a very important element for stability in Europe," Ivanov said. "We have a lot of things to say to each other," he said, adding that "lately, military-technical cooperation has received a very energetic impulse." Alliot-Marie arrived in Moscow late yesterday and was also due to hold talks on Iraq with Foreign Minister Igor Ivanov before leaving later today for Oman and India. The French defense minister said the Moscow talks would also touch on Russian-French cooperation in joint military missions, including peacekeeping in Afghanistan and Kosovo.
+
+Starting on June 30, 2003, France will support Russia's efforts to enter into the WorldTrade Organization (WTO). Russia can count on France's assistance, as it is interested in Russia's membership in the WTO, FrenchPrime Minister Jean-Pierre Raffarin told French businessmen working in St. Petersburg. 
+
+The trade turnover between Russia and France went up by 27 percent to the level of 5,784 billion dollars in 2003, was reported on March 29, 2004, with reference to the Russian State Customs Committee in connection with the coming visit to Russia by French President Jacques Chirac who is arriving on April 1, 2004. Russia's exports to France increased by 30.3 percent, closing at 3.465 billion dollars, and Russia's imports from France last year totaled 2.319 billion dollars. France is one of Russia' s main trade partners. France has Russia on the list of its priority partners in trade and economic relations, including countries from Latin America and Southeast Asia. Oil, metal, chemical goods and timber products account for around 70 percent of the Russian exports to France, while Russia's imports are mostly consumer goods such as cosmetics, perfume, household appliances, clothes, furniture, crockery. Industrial equipment and transport facilities account for 34 percent of the overall French exports to Russia.
+
+Presidents Jacques Chirac of France and Vladimir Putin of Russia will discuss the development of relations between Russia and the European Union in "a common space" when they meet in Moscow at the beginning of April, a deputy spokesperson for the Elysee Palace said. According to the source, the program of the "working talks" between the two presidents in Moscow will be announced in the immediate future. On March 22, 2004, the Kremlin press office and the Elysee Palace said in press releases that the French leader would pay a working visit to Russia at Vladimir Putin's invitation on April 1 and 2, 2004.
+
+France has taken steps to organize the French president's trip to Moscow, the spokesperson said. "Discussion of the development of relations between the European Union and Russia in the so-called "common space" and the continuation of the dialogue on the issues, which were touched upon during numerous telephone conversations lately," was regarded as the key task for the preparation for the forthcoming talks." In Moscow, Chirac and Putin will hold "working talks" intended to identify "the next immediate steps" in the development of bilateral relations. Putin and Chirac have maintained regular contacts and exchanged regular visits. Their previous meeting took place in Paris in November 2003.
+
+PS-SOURCES: New York Times March 21, 1963; October 28, 1964; November 4, 1969; February 9, 1970; October 13, 1988; BBC February 14, 1979; April 30, 1979; July 13, 1979; April 26, 1980; July 22, 1980; December 11, 1981; December 15, 1981; September 20, 1982; February 24, 1983; May 23, 1983; October 27, 1984; Xinhua January 12, 1977; July 11, 1986; May 16, 1987; United Press International May 7, 1991; TASS October 26, 1990; April 19, 1991; January 11, 2002; February 11, 2003; January 27, 2004; March 23, 2004; March 29, 2004; Associated Press October 31, 1991; February 4, 2000; July 20, 2002; Russian Press Digest May 24, 1994; July 22, 2002; AFX European Focus April 25, 2003; World News Connection June 30, 2003; New York Times January 17, 1945, March 22, 1946, May 19, 1946.
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Richardson, J.L. 1994. Crisis Diplomacy. Cambridge.

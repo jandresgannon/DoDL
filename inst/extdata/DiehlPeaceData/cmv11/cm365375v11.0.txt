@@ -1,0 +1,183 @@
+FILE: cm365375v11.0.txt
+DYAD: RUSSIA/USSR - FINLAND
+RIVALRY: RIV985
+DISPUTE(S): MID1723 
+RIVALRY: RIV986
+DISPUTE(S): MID258 MID179 
+RIVALRY: RIV987
+DISPUTE(S): MID3210 MID2896 
+
+PS: 19171206-19230723 .25 19230724-19391011 .5 19391012-19440919 .25 19440920-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+The 1939 war is coded as .25 because the intense fighting was less than 2 years, there was a lull in the fighting from 41-44 and Germany did a lot of the fighting there against the USSR. There was a tangent to WWII, and in my view not exactly something that qualifies as 1.0 because of length and focus
+
+PS-LAST-CHANGED: 20220303 
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258 MID179 
+
+MID1723 
+
+TERRMID: MID1723 1 -- territorial MID
+TERRMID-CER: MID1723 1 -- certain 
+TERRMID-NOTES: MID1723 from Gibler 2018, Finland and Russia disputed the territory of the Keralin region and fought against each other here. A peace treaty eventually divided the territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1723 3 -- not third party link to territory 
+TERRLINK-CER: MID1723 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1723 3 -- not maritime 
+MARITMID-CER: MID1723 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1723 3 -- not islands 
+ISLMID-CER: MID1723 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1723 1 -- civil war MID
+CIVWARMID-CER: MID1723 1 -- certain 
+CIVWARMID-NOTES: MID1732 from New York Times 5/27/1919, the Bolshevik forces' fighting at Keralin was influenced by the Russian civil war, especially fighting in Moscow and Petrograd. 
+
+CIVWARLINK: MID1723 3 -- not civil war link 
+CIVWARLINK-CER: MID1723 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1723 3 -- not coup 
+COUPMID-CER: MID1723 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1723 3 -- not coup link
+COUPLINK-CER: MID1723 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3210 
+
+TERRMID: MID3210 3 -- not territory 
+TERRMID-CER: MID3210 1 -- certain 
+TERRMID-NOTES: MID3210 from Gibler 2018, Soviet planes violated Finnish airspace, triggering protest from Finland and this MID. Coded not territory because no boundary was being disputed. 
+
+TERRLINK: MID3210 3 -- not third party link to territory 
+TERRLINK-CER: MID3210 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3210 3 -- not maritime 
+MARITMID-CER: MID3210 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3210 3 -- not islands 
+ISLMID-CER: MID3210 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3210 3 -- not civil war 
+CIVWARMID-CER: MID3210 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3210 3 -- not civil war link 
+CIVWARLINK-CER: MID3210 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3210 3 -- not coup 
+COUPMID-CER: MID3210 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3210 3 -- not coup link
+COUPLINK-CER: MID3210 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4437 
+
+TERRMID: MID4437 3 -- not territory 
+TERRMID-CER: MID4437 1 -- certain 
+TERRMID-NOTES: MID4437 from Gibler 2018, Russia violated Finland's airspace on several occasions from 2007 to 2008. Coded not territory because this was not connected to a boundary dispute. 
+
+TERRLINK: MID4437 3 -- not third party link to territory 
+TERRLINK-CER: MID4437 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4437 3 -- not maritime 
+MARITMID-CER: MID4437 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4437 3 -- not islands 
+ISLMID-CER: MID4437 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4437 3 -- not civil war 
+CIVWARMID-CER: MID4437 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4437 3 -- not civil war link 
+CIVWARLINK-CER: MID4437 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4437 3 -- not coup 
+COUPMID-CER: MID4437 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4437 3 -- not coup link
+COUPLINK-CER: MID4437 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2896 
+
+TERRMID: MID2896 3 -- not territory 
+TERRMID-CER: MID2896 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2896 3 -- not third party link to territory 
+TERRLINK-CER: MID2896 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2896 3 -- not maritime 
+MARITMID-CER: MID2896 3 -- uncertain 
+MARITMID-NOTES: MID2896 from Gibler, Miller, and Little 2016, Russia seized a Finnish trawler on suspicion of smuggling. From New York Times 8/28/1963, the vessel was seized in international waters and there is no indication that either country claimed the waters in which the vessel was seized. It seems that the Soviets suspected the ship of carrying illegal alcohol and were trying to prevent it from smuggling it into USSR. Coded not maritime because this was not connected to a maritime boundary dispute, although the countries did have undelimited maritime boundaries in the Baltic Sea. Coded uncertain because GML recommend this case be dropped due to no protest from Finland. 
+
+ISLMID: MID2896 3 -- not islands 
+ISLMID-CER: MID2896 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2896 3 -- not civil war 
+CIVWARMID-CER: MID2896 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2896 3 -- not civil war link 
+CIVWARLINK-CER: MID2896 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2896 3 -- not coup 
+COUPMID-CER: MID2896 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2896 3 -- not coup link
+COUPLINK-CER: MID2896 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The Finnish parliament declared Finland's independence from Russia on December 6, 1917. Finnish troops occupied territory in East Karelia in Russia on April 20, 1919. Britain and the United States recognized the independence of Finland on May 6, 1919. Finnish troops and Russian troops clashed near the border on May 17-18, 1919. Finland and the Soviet Union signed the *Treaty of Dorpat* on October 15, 1920, which provided for Soviet recognition of the independence of Finland. Finland accused the Soviet Union of violating certain obligations under the *Treaty of Dorpat*, and Finland referred the matter to the *League of Nations (LON) Council on November 26, 1921. The LON Council requested the *Permanent Court of International Justice* (PCIJ) to issue an advisory opinion regarding the dispute on April 21, 1923, but the Soviet Union refused to agree to the PCIJ proceedings on June 8, 1923. The PCIJ decided on July 23, 1923 that it lacked the jurisdiction to give an advisory opinion on the dispute. Finland and the Soviet Union signed a non-aggression pact on January 21, 1932. The Soviet Union demanded that Finland's government allow its military to occupy Finnish territory on October 12-14, 1939. Finland requested military assistance from Sweden on October 27, 1939, but Sweden rejected the request for military assistance on October 28, 1939. Finland formally rejected the demand on November 26, 1939. Soviet troops invaded Finland on November 30, 1939. Finland referred the matter to the LON Council on December 2, 1939. The LON Assembly appealed for a ceasefire on December 11, 1939, but the Soviet Union rejected the appeal on December 12, 1939. The LON Assembly condemned the Soviet Union on December 14, 1939. The LON Council imposed diplomatic sanctions (expulsion) against the Soviet Union on December 14, 1939. Finnish and Soviet representatives signed a ceasefire agreement facilitated by Sweden on March 12, 1940, which provided for transfer of the Karelian Isthmus, Viipuri, a naval base at Hangoe, and 16,173 square miles of Finnish territory to the Soviet Union. Some 50,000 Russian soldiers and 25,000 Finnish soldiers were killed during the conflict. Finnish troops attacked the Soviet Union on June 22, 1941. Britain appealed for a ceasefire on September 22, 1941, and the United States appealed for a ceasefire on October 3, 1941. Finland rejected the ceasefire appeals. Finnish and Soviet representatives signed ceasefire agreement in Moscow on September 19, 1944. Finnish and Soviet representatives signed a peace agreement in Paris on February 10, 1947, which provided for the Soviet acquisition of the Petsamo territory and a 50-year lease of a naval base in Porkkala. On February 22, 1948, the Soviet Union requested a meeting of Finnish and Soviet representative to discuss the drafting of a treaty of friendship and non-aggression between the countries. Finnish and Soviet representatives signed a treaty of friendship, cooperation, and mutual assistance on April 6, 1948. Finnish and Soviet representatives signed an agreement on September 19, 1955, which provided for the return to Finland of the Porkkala naval base. Soviet troops completed their withdrawal from the Porkkala naval base on January 26, 1956. Finnish and Russian representatives signed a treaty of mutual cooperation on January 20, 1992.
+
+SOURCES-CM: 
+Allock et al., 1992, 69-74; Brecher and Wilkenfeld, 1997, 231-236; Burton, 1941, 348-357; Clodfelter, 1992, 790-791; Langer, 1972, 1223-1225; *Survey of International Affairs *(SIA), 1925 (supplement), 94, 1932, 596.
+
+NARRATIVE-CR:
+The first rivalry between Finland and Russia was over Finlandian independence and territorial claims. Hostilities between Finland and Russia really began with Finland's formal declaration of independence from Russia on December 6th of 1917. Russia recognized this independence in January of 1918. There remained a dispute between Finland and Russia over the port of Petsamo and the Aland Islands (MID1723). In October of 1920 Russia and Finland resolved the dispute in a treaty, awarding the disputed port and islands to Finland (www.worldstatesman.org 2003).
+
+The second rivalry between the two states began with the Russo-Finish War in 1939 (MID179). Aggressions began between the two states at the opening of the Second World War (MID258) after the conclusion of the German-Soviet non-aggression pact which was signed in August of 1939 (www.onwar.com 2003). Finland refused to grant use of a naval base in the fall of 1939, prompting a Soviet, multi-pronged attack. By March of 1940 the Finns negotiated a peace treaty agreeing to give western Karelia and the Hanko Peninsula to Soviet Russia (www.onwar.com 2003). This entire dispute was related to the larger issue of WWII. Finland, aided by the German army backed the axis powers in the Second World War. Russia opposed Finn forces along with the other Allied Powers. In 1941 Finland sided with Germany and declared war on the USSR, occupying the territories lost to Russia in 1940 as well as large parts of Soviet Karelia (Clodfelter 1992). After a large Soviet, offensive Finland signed a truce and agreed to expel all German forces out of the north. In addition, Finland granted the use of the port of Porkkala to the USSR as well as granting permission for a British-Soviet force to use Finn territory. These terms settled the dispute between Finland and Russia over WWII and excused Finland from having to pay reparations following the war. 
+
+The last two disputes between Russia and Finland are both single day events (MID3210 and MID2896) of which there are no records of any important disputes. however, on both dates there are political events of note in the Aland Islands. In September of 1954 the political autonomy of the islands were formally recognized by Finland. In 1963 there was a treaty signed regarding Aland territorial waters. These are most likely the two events and do not really constitute a separate rivalry, rather they are hold over effects from the Finn acquisition of the islands in 1918.
+
+SOURCES-CR:
+Clodfelter 1992; www.onwar.com; www.worldstatesman.org
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1919). “Drive Bolsheviki From Two Towns”. New York Times May 27: 4.
+New Yok Times (1963). “Finland Awaits Explanation of Ships’ Seizure by Soviet”. New York Times August 28: 11.

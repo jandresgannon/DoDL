@@ -1,0 +1,108 @@
+FILE: cm343345v11.0.txt
+DYAD: MACEDONIA - YUGOSLAVIA
+RIVALRY: RIV890
+DISPUTE(S): MID4046 MID4137 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180216
+PS-LAST-CHECKED: 20180217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4046 
+
+TERRMID: MID4046 1 -- territorial MID
+TERRMID-CER: MID4046 1 -- certain 
+TERRMID-NOTES: MID4046 from cm narrative, Macedonia and Serbia had a territorial dispute during this MID. When Macedonia declared independence in 1991, it defined its borders as those delineated by Yugoslavia when Macedonia was a Yugoslav republic. Yugoslavia has claimed that the true border is further south and that a section of Macedonia's territory really belongs to Yugoslavia. There were numerous incidents on the border between Yugoslavia and Macedonia, some of them involving US troops that were sent there as peacekeepers. First day of dispute was on 5/00/1994 and last day of dispute was on 6/13/1994. Coded territorial MID because the violence here involved a territorial dispute among this dyad's members. 
+
+TERRLINK: MID4046 3 -- not third party link to territory
+TERRLINK-CER: MID4046 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID4046 3 -- not maritime 
+MARITMID-CER: MID4046 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4046 3 -- not islands 
+ISLMID-CER: MID4046 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4046 1 -- civil war MID
+CIVWARMID-CER: MID4046 1 -- certain 
+CIVWARMID-NOTES: MID4046 this MID is both territorial and civil war in nature. From cm002345v11.0 narrative, UN/NATO forces were intervening, attempting to stop the political violence in Yugoslavia and the former republics. In this MID, UN/NATO forces bombed Serbia on several occasions. This MID is partly civil war in nature because villagers throughout Yugoslavia had been armed along ethnic lines, giving rise to several ethnic insurgencies throughout the Yugoslavian Wars. Coded civil war MID because of militarized insurgencies in Serbia and Macedonia contributing to the dispute between these countries. Serbia (Yugoslavia) was attempting to advance its territorial claim against Macedonia by protecting ethnic Serbians in Macedonia and arming villagers there.
+
+CIVWARLINK: MID4046 1 -- civil war link 
+CIVWARLINK-CER: MID4046 1 -- certain 
+CIVWARLINK-NOTES: MID4046 this MID is both territorial and civil war in nature. From cm002345v11.0 narrative, UN/NATO forces were intervening, attempting to stop the political violence in Yugoslavia and the former republics. In this multilateral MID, UN/NATO forces bombed Serbia on several occasions. This MID is partly civil war in nature because villagers throughout Yugoslavia had been armed along ethnic lines, giving rise to several ethnic insurgencies throughout the Yugoslavian Wars. Coded civil war link because it is a multilateral civil war MID coded civil war MID in other dyads. 
+
+COUPMID: MID4046 3 -- not coup 
+COUPMID-CER: MID4046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4046 3 -- not coup link
+COUPLINK-CER: MID4046 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: MID4137 Macedonia and Serbia/Yugoslavia had a territorial dispute during this MID, but this does not seem to contribute to this MID. This MID is the Kosovo conflict and involved Yugoslavia vs. Albania and NATO forces. Macedonia's involvement comes from its policy of protecting refugees from Kosovo, not from any direct conflict with Serbia. The disputed border was not connected to the refugee policy; that policy by Macedonia came from the forced migration of Albanians into Macedonia and from political pressure from NATO countries to help the refugees reach safety.
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this multilateral MID. Macedonia's involvement comes mainly from refugees fleeing Kosovo. Many ethnic Albanians were deported or forced into Macedonia, and due to political pressures, the Macedonian government airlifted tens of thousands of refugees into 29 other countries to protect them from the violence. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of protecting the ethnic Serbs there, contributing to this MID. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID 
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslav Wars featured fighting inside several states by militarized rebel groups organized along ethnic lines. In Yugoslavia, ethnic Serb and Albanian militias were fighting against each other, and ethnic Albanian militias were also fighting against Yugoslavian forces. 
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 from cm002345v11.0 narrative, part of the Kosovo conflict involved fighting between ethnic Albanian and Serbian civilians. Insurgencies formed along ethnic lines and took part in the fighting. Coded civil war link because this civil war activity was connected to Macedonia's involvement in Kosovo, bringing them into this MID. Macedonia's involvement is connected to their assistance with Albanian refugees, providing them safety and transport from the ethnic violence and violence from the Serbian military. This MID is also coded civil war MID in other dyads. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4046
+rivalry=343345 nationa=YUGOSLAVIA-SERBIA nationb=MACEDONIA MID4046 19940500-19940613 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=THREAT TO USE FORCE 
+
+Yugoslavia (Serbia) has a territorial dispute with Macedonia. When Macedonia declared independence in 1991, it defined its borders as those delineated by Yugoslavia when Macedonia was a Yugoslav republic. Yugoslavia has claimed that the true border is further south and that a section of Macedonia's territory really belongs to Yugoslavia. There were numerous incidents on the border between Yugoslavia and Macedonia, some of them involving US troops that were sent there as peacekeepers. First day of dispute was on 5/00/1994 and last day of dispute was on 6/13/1994.
+
+MID4137
+rivalry=343345 nationa=MACEDONIA nationb=YUGOSLAVIA-SERBIA MID4137 19980301-19980300 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+501-999 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 3/1/1998 and last day of dispute was on 3/00/1998.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

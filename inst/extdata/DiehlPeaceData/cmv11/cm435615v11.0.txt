@@ -1,0 +1,57 @@
+FILE: cm435615v11.0.txt
+DYAD: MAURITANIA - ALGERIA
+RIVALRY: RIV1059
+DISPUTE(S): MID1331 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190216
+PS-LAST-CHECKED: 20190216
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1331 
+
+TERRMID: MID1331 3 -- not territory 
+TERRMID-CER: MID1331 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1331 1 -- third party link to territorial MID
+TERRLINK-CER: MID1331 1 -- certain 
+TERRLINK-NOTES: MID1331 from Gibler 2018, Western Sahara was claimed by Spain (at this time), Morocco, and Mauritania. Algeria did not claim a part of the territory, but backed the SADR (rebel) government in the territory. In October 1975, Morocco and Spain amassed troops on the Western Sahara border, and Algeria threatened Morocco with war if they crossed into the territory. Morocco and Mauritania reached a secret agreement to divide the territory, putting them on the same side of this MID, with Algeria opposing both of them. Coded third party link to territorial MID because this was connected to a territorial dispute outside this dyad. 
+
+MARITMID: MID1331 3 -- not maritime 
+MARITMID-CER: MID1331 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1331 3 -- not islands 
+ISLMID-CER: MID1331 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1331 3 -- not civil war 
+CIVWARMID-CER: MID1331 1 -- certain 
+CIVWARMID-NOTES: MID1331 there is no indication in Gibler 2018 or news coverage of this incident that suggests militarized rebel violence was occurring in Mauritania or Algeria in connection to this MID. 
+
+CIVWARLINK: MID1331 1 -- civil war link 
+CIVWARLINK-CER: MID1331 1 -- certain 
+CIVWARLINK-NOTES: MID1331 Algeria is pulled into this MID because it supported militarized separatist rebels in Western Sahara who were fighting against the Moroccan and Mauritanian governments. Coded civil war link because this was connected to militarized rebels outside this dyad. 
+
+COUPMID: MID1331 3 -- not coup 
+COUPMID-CER: MID1331 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1331 3 -- not coup link
+COUPLINK-CER: MID1331 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

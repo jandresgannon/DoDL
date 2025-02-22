@@ -1,0 +1,189 @@
+FILE: cm290368v11.0.txt
+DYAD: POLAND - LITHUANIA
+RIVALRY: RIV1076
+DISPUTE(S): MID3500 MID1272 MID3501 MID1243 
+
+PS: 19181103-19271210 .25 19271211-19400615 .5 19910906-20040430 .5 20040501-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: Joint European Union membership.
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3500
+
+TERRMID: MID3500 1 -- territorial MID
+TERRMID-CER: MID3500 3 -- uncertain 
+TERRMID-NOTES: MID3500 from Gibler, Miller, and Little (2016), this is a territorial dispute between Poland and Lithuania in which Lithuania's entire territory is claimed by Poland. GML argue this case should be merged with MID1272, so coded uncertain. See MID1272 for MID description. 
+
+TERRLINK: MID3500 3 -- not third party link to territory 
+TERRLINK-CER: MID3500 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3500 3 -- not maritime 
+MARITMID-CER: MID3500 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3500 3 -- not islands 
+ISLMID-CER: MID3500 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3500 1 -- civil war MID
+CIVWARMID-CER: MID3500 3 -- uncertain
+CIVWARMID-NOTES: MID3500 from Gibler, Miller, and Little (2016), this MID should be merged with MID1272, so coded uncertain. See MID1272 for MID description; this MID involves a militarized rebel group attempting to overthrow the Lithuanian government. 
+
+CIVWARLINK: MID3500 3 -- not civil war link
+CIVWARLINK-CER: MID3500 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3500 3 -- not coup 
+COUPMID-CER: MID3500 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3500 3 -- not coup link
+COUPLINK-CER: MID3500 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1272
+
+TERRMID: MID1272 1 -- territorial MID
+TERRMID-CER: MID1272 1 -- certain 
+TERRMID-NOTES: MID1272 from Gibler (2018), Poland wished to unify with Lithuania after WWI, but Lithuania did not want to do so. Poland tried to unify them by force and began occupying parts of Lithuania. This MID features many clashes and shows of force between Poland and Lithuania. Eventually, in 1922, Poland successfully annexed Lithuania until WWII. Coded territorial MID because this was centered on Poland's claim on Lithuania.
+
+TERRLINK: MID1272 3 -- not third party link to territory
+TERRLINK-CER: MID1272 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1272 3 -- not maritime 
+MARITMID-CER: MID1272 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1272 3 -- not islands 
+ISLMID-CER: MID1272 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1272 1 -- civil war MID
+CIVWARMID-CER: MID1272 1 -- certain
+CIVWARMID-NOTES: MID1272 Gibler (2018) describes an attempted coup in Lithuania by a Polish cell, but according to our coding scheme, this was a militarized rebel group and not a coup, since no military or government personnel were involved in the plot. The Lithuanian government discovered the small group of conspirators who were militarized and armed. Coded civil war MID because the rebel group was in Lithuania (within this dyad) and were planning to overthrow the government and unify with Poland. 
+
+CIVWARLINK: MID1272 3 -- not civil war link 
+CIVWARLINK-CER: MID1272 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1272 3 -- not coup
+COUPMID-CER: MID1272 1 -- certain 
+COUPMID-NOTES: MID1272 Gibler (2018) describes an attempted coup in Lithuania in 1919, but this was not a coup by our coding scheme, as there were no military or government personnel involved. 
+
+COUPLINK: MID1272 3 -- not coup link
+COUPLINK-CER: MID1272 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3501
+
+TERRMID: MID3501 1 -- territorial MID
+TERRMID-CER: MID3501 3 -- uncertain 
+TERRMID-NOTES: MID3501 from Gibler, Miller, and Little (2016), this is a territorial dispute between Poland and Lithuania in which Lithuania's entire territory is claimed by Poland. GML argue this case should be merged with MID1272, so coded uncertain. See MID1272 for MID description. 
+
+TERRLINK: MID3501 3 -- not third party link to territory 
+TERRLINK-CER: MID3501 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3501 3 -- not maritime 
+MARITMID-CER: MID3501 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3501 3 -- not islands 
+ISLMID-CER: MID3501 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3501 1 -- civil war MID
+CIVWARMID-CER: MID3501 3 -- uncertain
+CIVWARMID-NOTES: MID3501 from Gibler, Miller, and Little (2016), this MID should be merged with MID1272, so coded uncertain. See MID1272 for MID description; this MID involves a militarized rebel group attempting to overthrow the Lithuanian government. 
+
+CIVWARLINK: MID3501 3 -- not civil war link
+CIVWARLINK-CER: MID3501 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3501 3 -- not coup 
+COUPMID-CER: MID3501 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3501 3 -- not coup link
+COUPLINK-CER: MID3501 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1243
+
+TERRMID: MID1243 1 -- territorial MID
+TERRMID-CER: MID1243 1 -- certain 
+TERRMID-NOTES: MID1243 from Gibler (2018), Poland had invaded and occupied Vilna, the historic Lithuanian capital, prompting Lithuania to sever diplomatic relations. Tensions escalated when a Lithuanian border guard shot and killed a Polish guard. Poland demanded Lithuania reopen diplomatic relations, which would amount to Lithuania accepting Poland annexing Vilna, or face military action. Lithuania complied. Coded territorial MID because this involved Poland annexing Lithuanian territory and Poland coercing Lithuania into accepting the annexation. 
+
+TERRLINK: MID1243 3 -- not third party link to territory 
+TERRLINK-CER: MID1243 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1243 3 -- not maritime 
+MARITMID-CER: MID1243 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1243 3 -- not islands 
+ISLMID-CER: MID1243 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1243 3 -- not civil war 
+CIVWARMID-CER: MID1243 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1243 3 -- not civil war link
+CIVWARLINK-CER: MID1243 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1243 3 -- not coup 
+COUPMID-CER: MID1243 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1243 3 -- not coup link
+COUPLINK-CER: MID1243 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10768 was originally coded as two separate rivalries (RIV768 and RIV769). Yet these were combined because all of the disputes in both rivalries concerned the same issue: control over Vilna/Vilnius.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY, RIV769
+
+NARRATIVE-CM:
+Lithuania proclaimed its independence from Russia on December 11, 1917, and Poland achieved its independence from Austria-Hungary and Russia on November 11, 1918. Polish troops occupied Vilna on April 19-20, 1919, and Polish troops occupied Grodno on April 28, 1919. Lithuanian troops and Polish troops clashed in the Suwalki province on July 7, 1919. The *Allied Supreme Council* (ASC), which consisted of representatives from Britain, France, Italy, and the United States, established a provisional border in the Vilna (Vilnius) region (*Curzon Line*) on December 8, 1919. 
+
+Lithuania requested assistance from Soviet Russia on March 31, 1920, and Russia recognized Lithuanian sovereignty over Vilna and Grodno on July 12, 1920. Soviet Russian troops occupied Vilna in July 1920, and Lithuanian troops entered Vilna on August 26, 1920. Polish troops entered the Suwalki province on August 28, 1920, and Lithuanian troops launched a military offensive against Polish troops in the Suwalki province on September 5, 1920. Poland referred the matter to the *League of Nations* (LON) Council on September 5, 1920. The LON Council appealed for a ceasefire on September 20, 1920, and established a five-member military commission (Britain, France, Italy, Japan, Spain) headed by Colonel Auguste Pierre Chardigny of France to supervise the withdrawal of Lithuanian and Polish troops from the disputed region. On October 7, 1920, Lithuania and Poland agreed to move their troops four miles from a provisional boundary. Some 20,000 Polish troops commanded by General Zeligowski attacked Lithuanian troops at Orany and captured Vilna on October 7-9, 1920. Lithuania referred the matter to the LON Council on October 9, 1920, and the LON Council convened to discuss the matter on October 20, 1920. On October 28, 1920, the LON Council decided that a plebiscite should be held in the Vilna region under LON supervision. Lithuania and Poland accepted the LON Council decision on November 8, 1920. The LON military commission negotiated an armistice on November 29, 1920, and established a neutral zone between the two disputants on November 30, 1920. The LON Council established a plebiscite commission (Belgium, France, Britain, Italy, and Spain) in December 1920. The LON Council authorized the establishment of a peacekeeping force, which consisted of some 1,500 soldiers from eight countries commanded by General Ferdinand Foch of France, in December 1920. 
+
+Russia objected to the deployment of LON peacekeeping troops in Vilna in February 1921. The LON Council dissolved the plebiscite commission and appealed for peaceful negotiations between Lithuanian and Polish representatives on March 3, 1921. The LON Council facilitated negotiations between the countries beginning on April 20, 1921. 
+
+Poland held a referendum in Vilna, and a majority of Vilna residents voted for union with Poland on January 8, 1922. Lithuania disputed the results of the plebiscite and severed diplomatic relations with Poland. The LON Council decided to end its involvement in negotiations between Lithuanian and Polish representatives on January 13, 1922. The LON military commission was withdrawn from the neutral zone in Vilna on February 17, 1922. The LON Council appointed the Spanish consul-general in Brussels to head a fact-finding mission to investigate the situation in Vilna from August 27 to October 18, 1922 (a report was submitted to the LON Council on December 9, 1922, which proposed a provisional line of demarcation in the Vilna region). The LON Council accepted the Spanish proposal on February 3, 1923, but the proposal was rejected by Lithuania. Poland referred the matter to the *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Belgium, Britain, France, Italy, and Japan, on February 15, 1923. The ACA* *decided on a border between Lithuania and Poland on March 15, 1923, but Lithuania rejected the decision on April 6, 1923. Lithuania claimed that the ACA did not have jurisdiction since it had not signed the *Treaty of Versailles*. Lithuania and Poland had disputed the status of the port of Memel beginning in January 1919 (Memel served as a commercial outlet for Lithuanian and Polish products.) The ACA proposed that Lithuania would gain control of the port, but Poland would be given a role in its administration. Lithuanian troops occupied Memel on January 15, 1923. The ACA established a commission of inquiry on Janaury 17, 1923. The ACA agreed to transfer sovereignty over Memel to Lithuania on February 16, 1923, but Poland retained protections for its interests in Memel. Lithuania agreed to the ACA proposal on March 14, 1923. The ACA submitted a disagreement concerning the statute for Memel to the *League of Nations* (LON) Council on September 28, 1923. The LON Council established a three-member commission of inquiry (Netherlands, Sweden, and United States) on December 19, 1923. The LON commission of inquiry, which was chaired by the US, issued its report on March 12, 1924 (the report proposed that the port of Memel would be part of an autonomous region within Lithuania and would be administered by a three-member harbor board that would represent the interests of Lithuania and Poland). The LON Council approved the commission of inquiry report on March 15, 1924. Lithuania and Poland agreed to the proposal on May 8, 1924. On December 10, 1927, Poland and Lithuania formally ended the state-of-war between the countries. Lithuania protested Polish agression to the LON Council on July 11, 1929. Lithuanian and Polish troops clashed near Dmitrauka on May 18, 1930, and Lithuania referred the matter to the LON Council on May 20, 1930. The LON Council appealed for peaceful negotiations on September 18, 1930. Lithuania and Poland held bilateral negotiations beginning on December 15, 1930. Lithuanian troops and Polish troops clashed on March 7, 1938, resulting in the death of one Polish soldier. Poland demanded the resumption of diplomatic relations with Lithuania on March 17, 1938, and Lithuania accepted the ultimatum on March 19, 1938. Lithuania and Poland resumed diplomatic relations on March 31, 1938.
+
+SOURCES-CM: 
+*American Journal of International Law* (AJIL), 1926, 483-501; Brecher and Wilkenfeld, 1997, 252-256; Cienciala and Komarnicki, 1984, 113-149; Ference, 1994, 255-300; Langer, 1972, 1040-1041; *Survey of International Affairs (SIA), 1925 (supplement), 187-188, 1929, 509, 1930, 567-568, 1938, 342-357; Windass, 1970, 43-53.
+
+NARRATIVE-CR:
+During the reign of Empress Catherine the Great (1762-96), Russia intensified its manipulation in Polish affairs. Prussia and Austria, the other powers surrounding the republic, also took advantage of internal religious and political bickering to divide the country in three partition stages. The third partition in 1795 wiped Poland-Lithuania from the map of Europe. World War I results in collapse of all partition powers and rise of independent Second Polish Republic at war's end. 
+
+The rivalry between Poland and Lithuania is primarily about settling the Eastern border. All four of the disputes occurred specifically over the city of Vilna/Vilnius. Thus this should be one rivalry as it is centered around one issue: control of Vilna/Vilnius. 
+
+MID3500 occurred from April through September of 1919. Lithuania proclaimed its independence from Russia on December 11, 1917, and Poland achieved its independence from Austria-Hungary and Russia on November 11, 1918. Polish troops occupied Vilna on April 19-20, 1919, and Polish troops occupied Grodno on April 28, 1919. Lithuanian troops and Polish troops clashed in the Suwalki province on July 7, 1919. The primary issue here was one of demarcating the border between the two newly independent states. The countries had competing claims regarding Grodno and Suwalki and engaged in combat to resolve their differences. The *Allied Supreme Council* (ASC), which consisted of representatives from Britain, France, Italy, and the United States, established a provisional border in the Vilna (Vilnius) region (*Curzon Line*) on December 8, 1919. 
+
+MID1272 or the Lithuanian War of Independence occurred from October 15 through November 5, 1920. This dispute pitted Latvia and Lithuania versus Poland. This issue was also one of territorial claims as there was much to sort out after over a century of foreign rule of both Poland and Lithuania. The city of Vilnius was claimed by both Poland and Lithuania. On October 9, 1920, the Poles attempted to settle this issue by force. The Poles seized the city by force and fought with Lithuanian forces. The Poles eventually gained control of the city after a long arbitration period. 
+
+MID3501 occurred from January through April of 1921. Here again the Polish and Lithuanian forces clashed over control of Vilnius. 
+
+MID1243 occurred in March of 1938. The conflict stems from a territorial dispute over Vilna, which, eight years earlier, resulted in Poland annexing the disputed territory. The disgruntled Lithuanians began massing troops on the border on March 11, 1938. On the same day, a clash occurred at the border in which a Polish guard was killed. The Poles brought additional troops to the border, and refused to allow an impartial investigation of the incident.
+
+Instead, on the 16th of March, Poland issued an ultimatum to Lithuania, demanding the reestablishment of diplomatic relations, opening of the Polish-Lithuanian border to all traffic, and a cessation of the Lithuanian repression of the Polish minority within Lithuania. The Poles also demanded full recompense for the incident on March 11th, as well as a renounciation of the Lithuanian claim to Vilna. The consequence of the Lithuanian failure to meet these demands would be war. The rest of the European powers then stepped in to urge Polish moderation, and the Poles issued more moderate demands on the 18th. The Lithuanians complies with the demands on the 19th of March, at the request of the European powers. Diplomatic relations between the two countries were restored on March 31, 1938.
+
+SOURCES-CR: American Journal of International Law (AJIL), 1926, 483-501; Brecher and Wilkenfeld, 1997, 252-256; Cienciala and Komarnicki, 1984, 113-149; Ference, 1994, 255-300; Langer, 1972, 1040-1041; Onwar.com; Survey of International Affairs (SIA), 1925 (supplement), 187-188, 1929, 509, 1930, 567-568, 1938, 342-357; Windass, 1970, 43-53
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

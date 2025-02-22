@@ -1,0 +1,64 @@
+FILE: cm002640v11.0.txt
+DYAD: USA - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV86
+DISPUTE(S): MID4516 
+
+PS-LAST-CHANGED: 20170703
+PS-LAST-CHECKED: 20170706
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4516 
+
+TERRMID: MID4516 3 -- not territory 
+TERRMID-CER: MID4516 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4516 3 -- not third party link to territory 
+TERRLINK-CER: MID4516 1 -- certain 
+TERRLINK-NOTES: MID4516 from cm narrative, this MID occurred when US arrested 11 Turkish soldiers who were allegedly planning to attack a Kurdish governor in northern Iraq. The soldiers were released to the Turkish military the next day. First day of dispute was on 7/5/2003 and the last day of dispute was on 7/6/2003. Coded not third party link to territory because although the US was occupying Iraq at the time, their dispute was one of political leadership/regime change and not a territorial one. 
+
+MARITMID: MID4516 3 -- not maritime 
+MARITMID-CER: MID4516 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4516 3 -- not islands 
+ISLMID-CER: MID4516 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4516 1 -- civil war MID
+CIVWARMID-CER: MID4516 1 -- certain 
+CIVWARMID-NOTES: MID4516 this MID involved the Kurds, an minority ethnic group in Turkey which includes a separatist rebel group (BBC 3/14/2016). Coded civil war MID because the US initiated a MID against Turkey to prevent Turkish soldiers from attacking someone connected to the separatist rebel group, and the civil conflict activity is in Turkey, within this dyad. 
+
+CIVWARLINK: MID4516 3 -- not civil war link 
+CIVWARLINK-CER: MID4516 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4516 3 -- not coup 
+COUPMID-CER: MID4516 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4516 3 -- not coup link
+COUPLINK-CER: MID4516 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4516
+rivalry=2640 nationa=USA nationb=TURKEY/OTTOMAN EMPIRE MID4516 20030705-20030706 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+USA arrested 11 Turkish soldiers who were allegedly planning to attack a Kurdish governor in northern Iraq. The soldiers were released to the Turkish military the next day. First day of dispute was on 7/5/2003 and the last day of dispute was on 7/6/2003.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+"Who are the Kurds?" BBC 3/14/2016. http://www.bbc.com/news/world-middle-east-29702440 Accessed 7/3/2017. 

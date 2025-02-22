@@ -1,0 +1,378 @@
+FILE: cm651663v11.0.txt
+DYAD: EGYPT-JORDAN
+RIVALRY: RIV1244
+DISPUTE(S): MID1042 MID607 MID3150 MID2999 MID3162 MID1108 
+
+PS: 19460322-19631221 0.00 19631222-19670529 -9 19670530-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1042
+
+TERRMID: MID1042 3 -- not territory
+TERRMID-CER: MID1042 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1042 1 -- third party link to territorial MID
+TERRLINK-CER: MID1042 1 -- certain
+TERRLINK-NOTES: MID1042 from Gibler, Miller, and Little 2016, this is coded as a clash between Egyptian and Jordanian forces during the 1948 war, in which both sides were fighting against Israel. According to the original coding, their forces clashed with each other essentially out of frustration with Israel routing their forces; Egypt and Jordan blamed each other for their loss. GML recommend this case be dropped (hence this MID being coded uncertain) because there is no evidence that the Egyptian/Jordanian forces actually clashed; Jordan's forces were nowhere near Egypt's at the time of this MID. Coded third party link to territorial MID because this was connected to their war against Israel, in which they were disputing Israel's claim to the land on which Israel now lies. 
+
+MARITMID: MID1042 3 -- not maritime 
+MARITMID-CER: MID1042 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1042 3 -- not islands 
+ISLMID-CER: MID1042 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1042 3 -- not civil war 
+CIVWARMID-CER: MID1042 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1042 3 -- not civil war link
+CIVWARLINK-CER: MID1042 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1042 3 -- not coup 
+COUPMID-CER: MID1042 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1042 3 -- not coup link
+COUPLINK-CER: MID1042 1 -- certain 
+COUPLINK-NOTES: 
+
+MID607
+
+TERRMID: MID607 1 -- territorial MID
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: MID607 from Gibler 2018, the Baghdad Pact countries (Iraq, Turkey, Iran, and Pakistan) had a series of disputes with the Soviet-backed countries of Syria and Egypt from 1956-1958. In 1956, Iraq warned Syria that it would use force to defend itself if Syria continued to (allegedly) lie about Iraq sending arms into Syria to foment unrest. The Baghdad pact members were also concerned about Soviet support for Syria. Also in 1956, Syria protested that Turkey was threatening to attack and amassing troops at the border with Syria. Jordan warned that aggression to Syria would be seen as aggression to Jordan. In 1957, the Baghdad Pact members and the Soviet-backed countries disputed the future of Jordan, as the Baghdad Pact countries feared that the Soviet Union, Egypt, and Syria were preparing to split Jordan amongst themselves. Iraq threatened force if Jordan was split. Turkey deployed troops to the border with Syria, and NATO countries conducted shows of force. Syrian and Turkish forces clashed on the border. Coded territorial MID because this was connected to a dispute over Jordan, within this dyad. Although Turkey did not claim any of Jordan's territory, it did dispute Egypt's right to split Jordan and control part of Jordanian territory. 
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain
+TERRLINK-NOTES: MID607 coded third party link to territorial MID because this is also connected to a territorial dispute between Syria and Jordan, as Syria was also planning to split up Jordan and take some territory. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID607 3 -- not civil war link
+CIVWARLINK-CER: MID607 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3150
+
+TERRMID: MID3150 3 -- not territory
+TERRMID-CER: MID3150 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3150 3 -- not third party link to territory 
+TERRLINK-CER: MID3150 1 -- certain
+TERRLINK-NOTES: MID3150 there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this was connected to any territorial issue. See CIVWARMID-NOTES.
+
+MARITMID: MID3150 3 -- not maritime 
+MARITMID-CER: MID3150 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3150 3 -- not islands 
+ISLMID-CER: MID3150 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3150 1 -- civil war MID
+CIVWARMID-CER: MID3150 1 -- certain
+CIVWARMID-NOTES: MID3150 from Gibler 2018, Jordan protested in 1959 that Egypt entered Jordan with militarized rebels and attacked civilians. Egypt accused Jordan of attacking a village in Syria. Coded civil war MID because this was connected to militarized rebels attacking Jordan from Egypt, both within this dyad. 
+
+CIVWARLINK: MID3150 3 -- not civil war link
+CIVWARLINK-CER: MID3150 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3150 3 -- not coup 
+COUPMID-CER: MID3150 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3150 3 -- not coup link
+COUPLINK-CER: MID3150 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2999
+
+TERRMID: MID2999 3 -- not territory
+TERRMID-CER: MID2999 1 -- certain 
+TERRMID-NOTES: MID2999 from Gibler 2018, planes from Egypt crossed into Jordanian airspace and were attacked by Jordanian fighter planes. From NYT 12/16/1959, an air clash at the border lasted for about ten minutes. Coded not territory because per Huth and Allee 2002, Egypt and Jordan were not disputing a border. Egypt was at one point planning to split Jordan up with Syria which led to one past MID (MID607), but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this was connected to that dispute. 
+
+TERRLINK: MID2999 3 -- not third party link to territory
+TERRLINK-CER: MID2999 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2999 3 -- not maritime 
+MARITMID-CER: MID2999 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2999 3 -- not islands 
+ISLMID-CER: MID2999 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2999 3 -- not civil war 
+CIVWARMID-CER: MID2999 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2999 3 -- not civil war link
+CIVWARLINK-CER: MID2999 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2999 3 -- not coup 
+COUPMID-CER: MID2999 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2999 3 -- not coup link
+COUPLINK-CER: MID2999 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3162
+
+TERRMID: MID3162 3 -- not territory
+TERRMID-CER: MID3162 1 -- certain 
+TERRMID-NOTES: MID3162 from Gibler 2018, in 1960 Egypt accused Jordan of amassing troops on the border and of attacking troops/civilians in Egypt. Coded not territory because they were not disputing a border per Huth and Allee 2002; tensions were generally high between the countries due to disagreements over Pan-Arabism. 
+
+TERRLINK: MID3162 3 -- not third party link to territory 
+TERRLINK-CER: MID3162 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3162 3 -- not maritime 
+MARITMID-CER: MID3162 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3162 3 -- not islands 
+ISLMID-CER: MID3162 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3162 3 -- not civil war 
+CIVWARMID-CER: MID3162 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3162 3 -- not civil war link
+CIVWARLINK-CER: MID3162 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3162 3 -- not coup 
+COUPMID-CER: MID3162 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3162 3 -- not coup link
+COUPLINK-CER: MID3162 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1108
+
+TERRMID: MID1108 3 -- not territory
+TERRMID-CER: MID1108 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1108 3 -- not third party link to territory 
+TERRLINK-CER: MID1108 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1108 3 -- not maritime 
+MARITMID-CER: MID1108 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1108 3 -- not islands 
+ISLMID-CER: MID1108 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1108 3 -- not civil war 
+CIVWARMID-CER: MID1108 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1108 1 -- civil war link
+CIVWARLINK-CER: MID1108 1 -- certain
+CIVWARLINK-NOTES: MID1108 from Gibler 2018, the Royalists were armed and received arms support from the UK, making them a militarized rebel group (as opposed to simply an opposition party in Yemen). The Royalists operate outside the states that comprise this dyad, so coded civwarlink, not civwar. See COUPLINK-NOTES. 
+
+COUPMID: MID1108 3 -- not coup 
+COUPMID-CER: MID1108 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1108 1 -- coup link
+COUPLINK-CER: MID1108 1 -- certain 
+COUPLINK-NOTES: MID1108 from Gibler 2018, the leader of Yemen died in 1962, leaving his son Mohammad al-Badr in charge of the country. A military leader staged a coup, al-Badr fled the country, and USSR, China, and Egypt recognized the new government. The exiled Royalists established a government-in-exile, supported by Saudi Arabia. Jordan also supported the Royalists. Saudi troops clashed with Yemeni troops in Yemen, and Egypt attacked Saudi Arabia. Jordanian troops also clashed with Yemeni troops. Egypt and Jordan's opposing support place them opposite each other in this MID. Egypt recognized the new government while Jordan recognized the deposed one, and Jordan clashed with Yemeni troops while Egypt supplied troops and military supplies. Coded coup link because this was connected to a coup in Yemen. 
+
+RIVNOTES: 
+RIV1245 deleted because MID3957 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Jordan became a member of the international system on March 22, 1946. Jordan accused Egypt (United Arab Republic) of interference in its internal affairs, and referred the matter to the *United Nations *(UN) Security Council on July 17, 1958. Jordan severed diplomatic relations with Egypt on July 20, 1958. Egyptian and Jordanian representatives signed a mutual defense agreement in Cairo on May 30, 1967. Jordan severed diplomatic relations with Egypt after the signing of the Egyptian-Israeli peace agreement in Washington DC on March 26, 1979. Jordan agreed to resume diplomatic relations with Egypt on September 25, 1984.
+
+SOURCES-CM: 
+*Facts on File*, June 1-7, 1967.
+
+NARRATIVE-CR:
+The issue that unites the disputes between Egypt and Jordan seems to be the notion of pan Arabism supported by Nasser and Jordanian opposition to elements of this concept that interfered with Jordanian sovereignty. For example, in MID607, MID3150, MID2999, and MID3162, Egypt was either interfering (or attempting to interfere) in Jordanian internal affairs. In MID1108, Nasser was attempting to assert an Egyptian influence in Yemen in opposition to the monarchy. Jordan supported the monarchy and opposed the republicans out of fear of undermining support for their own regime. 
+
+MID1042 was an incident of military engagement between Egypt and Jordan that took place during the Palestine War. In June of 1948, there were reports that units of Egyptian soldiers and the Jordanian army engaged in sporadic fighting in the southern part of Palestine. 
+
+MID607 is called the Turkey/Syria dispute and occurred from April through November of 1957. It involved Jordan, Iraq, the US, and Turkey versus Syria, Egypt, and the USSR. Some 5,000 Syrian troops entered northern Jordan on April 13, 1957. Jordan closed the border with Syria on April 24, 1957. Syrian troops completed their withdrawal from northern Jordan on May 26, 1957. Foreign Minister Samir al-Rifai of Jordan condemned Syria for anti-Jordanian propaganda on July 6, 1957. The US airlifted military assistance (weapons and ammunition) to Jordan from September 9 to October 6, 1957. The Jordanian government accused Syria of interfering in its domestic affairs on September 19, 1957. Jordan re-opened the border with Syria on October 27, 1957. 
+
+For a variety of conflicting reasons, the political leaders of Syria in January 1958 asked Nasser for a union between their two countries. Nasser was skeptical at first and then insisted on strict conditions for union, including a complete union rather than a federal state and the abolition of the Baath (Arab Socialist Resurrection) Party, then in power, and all other Syrian political parties. Because the Syrians believed that Nasser's ideas represented their own goals and that they would play a large role in the union, they agreed to the conditions. A plebiscite was held in both countries in 1958, and Nasser was elected president. Cairo was designated the capital of the United Arab Republic. Nasser then visited Damascus, where he received a tumultuous welcome. Arabs everywhere felt a new sense of pride. 
+
+Several Arab governments viewed Nasser with less enthusiasm, however. The conservative monarchies of Saudi Arabia and Jordan saw his ideas as a potential threat to their own power. Nasser regarded these monarchs as reactionaries and as obstacles to Arab unity. The United States moved to strengthen these regimes as well as the government of Lebanon in an effort to offset the influence of Egypt. 
+
+In 1959, tensions between the UAR (Egypt and Syria) and Jordan heightened over the Palestinian issues. Jordan claimed to represent the Palestinian concerns since the majority of Palestinians lived in Jordan and that no other organization could speak for the Palestinians. The UAR argued that this issue was one of general concern for all Arabs and that a separate organization should be set up to deal with this issue. Jordan captured an infiltrator (from Egypt-an ex-Jordanian who was working with the Egyptians) who they charged with plotting to over throw the regime. In August of 1960, the Jordanian Prime Minister was assassinated. Jordan blamed the UAR and concentrated its forces on the Syrian border. Egyptian propaganda praised the assassination. This series of events is captured by MID3150, MID2999, and MID3162. These events occurred from April of 1959 until September of 1960. 
+
+MID1108 took place throughout 1962 and 1963. It took place in the context of the Yemeni Civil War. The Yemeni Civil War lasted from 1962 until 1970. The Iman Muhammad Badr of North Yemen was deposed in a military/republican coup led by Colonel Abdullah Sallal on September 26, 1962. Colonel Sallal proclaimed the Yemen Arab Republic (YAR) on September 27, 1962, and the Revolutionary Council headed by Colonel Sallal took control of the government on September 28, 1962. Imam Mohammed Badr fled to Saudi Arabia in October 1962, where he established a government-in-exile on October 5, 1962. The Egyptians quickly supported the Republican side while the Saudis and the Jordanians supported the Royalists. Therefore, in this mid the Jordanians and the Egyptians were not the principal combatants but were on opposite sides of another conflict in which they were secondary actors. 
+
+There is one more MID (discussed below-the Persian Gulf War) between Jordan and Egypt, however it is at this point (the early 1960s) that the rivalry ends and there is a change in the relationship. 
+
+During the late 1950s and early 1960s, the question of Israel became more vexing for the Arab states. In 1964, in spite of the problems that existed among the various Arab states, Nasser initiated Arab summit meetings that were held in January, March, and September in Cairo and Casablanca. The immediate reason for the summits was to find a way to block Israel's plan to divert the waters of the Jordan River to irrigate the Negev Desert, a plan that would deprive the lower Jordan River valley of water. The Arab states drew up a plan that called for diverting the Jordan River in Syria and Lebanon but did not implement it. 
+
+The Arab summit meetings also took up other matters. League members agreed to created a unified military command, the United Arab Command, with headquarters in Cairo, but this plan, like that of diverting the Jordan River, remained on paper. The Arab leaders did implement a plan to create the Palestine Liberation Organization (PLO) to be the primary organization of Palestinians. The Arab governments, especially Egypt, were becoming increasingly uneasy about the growing activities of Palestinian guerrillas, and they wanted to create an organization through which they could control such operations. They created the Palestine Liberation Army, whose units would be stationed and controlled by Egypt, Syria, and Iraq. By 1965, Jordan agreed to participate in a joint Arab defense force and to the establishment of the PLO to represent Palestinian refugees. Egypt exercised control of the PLO until 1969 when Yasir Arafat, the leader of the guerrilla organization called Al Fatah, took control of the organization from Ahmad Shukairy, the choice of the Arab League governments. 
+
+The most significant event to alter the course of Egyptian Jordanian relations was the June 1967 War. On the morning of June 5, Israel launched a full-scale attack on Egypt, Jordan, and Syria. In three hours, at least 300 of Egypt's 430 combat aircraft were destroyed, many on the ground as the pilots did not have time to take off. Israeli ground forces started a lightning strike into Sinai and by June 8 had reached the Suez Canal. On that day, both sides accepted a UN Security Council call for a cease-fire. By June 11, the Arab defeat was total; Israel now held all of historic Palestine, including the Old City of Jerusalem, the West Bank, and the Gaza Strip, as well as Sinai and part of the Golan Heights of Syria. 
+
+The mutual frustration led to the outbreak of the so-called War of Attrition from March 1969 to August 1970. Hoping to use Egypt's superiority in artillery to cause unacceptable casualties to Israeli forces dug in along the canal, Nasser ordered Egyptian guns to begin a steady pounding of the Israeli positions. Israel responded by constructing the Bar-Lev Line, a series of fortifications along the canal, and by using the one weapon in which it had absolute superiority, its air force, to silence the Egyptian artillery. Having accomplished this with minimal aircraft losses, Israel embarked on a series of deep penetration raids into the heartland of Egypt with its newly acquired American-made Phantom bombers. By January 1970, Israeli planes were flying at will over eastern Egypt.
+
+Many plans for peace were formulated and rejected, but on June 25, 1970, the Rogers Plan, put forth by United States secretary of state William Rogers, started a dialogue that eventually led to the long-awaited cease-fire in the War of Attrition along the Suez Canal. Shortly after the plan was announced, from June 29 to July 17, Nasser visited Moscow. Discussions were held on the Rogers Plan, a newly formed Moscow peace plan, and the future of Soviet-Egyptian relations. 
+
+After his return to Egypt, Nasser declared a major policy shift based on his assertion that Egypt must be respected for doing what it could on its own because the other Arab states were not prepared to wage war with Israel. This policy shift set the stage for Egypt's acceptance of the Rogers Plan in July, to the surprise of Israel and the consternation of many Arab states that feared Egypt would sign a separate peace agreement with Israel. Jordan, however, followed Egypt's lead and accepted the plan. Israel accepted the plan in August. 
+
+Egyptian-Israeli fighting halted along the Suez Canal on August 7, 1970, in accordance with the first phase of the plan, and a ninety-day truce began. Palestinian guerrilla groups in opposition to the cease-fire continued to engage in small-scale actions on the Jordanian-Syrian-Lebanese fronts. 
+
+PLO leader Arafat's open criticism of the parties accepting the truce led Nasser to close down the Voice of Palestine radio station in Cairo and to terminate most of the material support Egypt provided to the PLO. In addition, many PLO activists were expelled from Egypt. Within a month, the guerrillas had effectively undermined progress on the Rogers Plan by a series of acts, including the hijacking of five international airplanes in early September 1970, thus triggering the Jordanian civil war that month. 
+
+King Hussein launched a major Jordanian military drive against the Jordan-based Palestinian guerrilla groups on September 14, partly out of fear that their attacks on Israel would sabotage the truce, but primarily because the guerrillas were becoming powerful enough to challenge his government. Nasser's position on these events, as in the preceding year when hostilities broke out between the Palestinians and Lebanese, was based on a desire to stop any form of intra-Arab conflict. He was extremely angry when Syria sent an armored force into Jordan to support the guerrillas. The United States and Israel offered assistance to the beleaguered King Hussein. 
+
+Nasser called for a meeting in Cairo to stop the civil war. The Arab summit finally came about on September 26 after bloody military engagements in which Jordan decisively repulsed the Syrians and seemed to be defeating the PLO, although PLO forces were not pushed out of Jordan until July 1971. On September 27, 1970, Hussein and Arafat agreed to a fourteen-point cease-fire under Nasser's mediation, officially ending the war. 
+
+The effort by Nasser to bring about this unlikely reconciliation between two bitter enemies was enormous. He was by then a tired and sick man. He had been suffering from diabetes since 1958 and from arteriosclerosis of the leg. He had treatment in the Soviet Union, and his doctors had warned him to avoid physical and emotional strain. He had ignored their advice and suffered a heart attack in September 1969. The strain of the summit was too much. He felt ill at the airport on September 28 when bidding good-bye to Arab leaders and returned home to bed. He had another heart attack and died that afternoon. 
+
+Relations between the Jordan and Egypt further improved following the death of Nasser and the assumption of power of Sadat in 1970. The ascendance of Sadat and the attendant shift in policy he brought is one of the most important elements in the improvement of Jordanian-Egyptian relations. 
+
+Sadat took control of a country in need of economic reform. As Sadat's rule progressed, it became clear that his priority was solving Egypt's pressing economic problems by encouraging Western financial investment. Sadat realized, however, that Western investment would not be forthcoming until there was peace between Egypt and Israel, Soviet influence was eliminated, and the climate became more favorable to Western capitalism. 
+
+Sadat dismissed a number of government officials that were considered to be left-leaning and pro-Soviet. This action, which became known as the Corrective Revolution, began Sadat's move away from Nasser's policies. The armed forces pledged their support for Sadat on May 15. There were also some popular demonstrations in the streets in support of Sadat's moves. 
+
+After signing the Camp David Peace Accords in an effort to attract Western investment Egypt was ostracized from the Arab League. In 1984, Jordan became the first Arab state to reestablish diplomatic relations with Egypt. Hussein had begun advocating Egypt's reintegration into the Arab community of nations as early as 1981. The king perceived Egypt as an effective bulwark against the spread of radical Islamic political movements that he believed were being engendered by the Iran-Iraq War. Following the 1982 Israeli invasion of Lebanon and the expulsion of the PLO from that country, unofficial consultations with Egypt on regional security issues became routine. PLO chief Arafat's trip to Egypt in December 1983-the first by an Arab leader since the Baghdad Summit of November 1978-paved the way for Jordan's resumption of official relations without fear of being branded a traitor to Arab nationalism. 
+
+Following the reestablishment of diplomatic relations, Jordan and Egypt became extremely close allies. Hussein frequently praised Egyptian president Hosni Mubarak as one of the Arab world's great leaders. Mubarak supported Hussein's pro-Iraq policy, his efforts to involve moderate Palestinians in the peace process, and his call for an international peace conference. Hussein and Arafat met several times on "neutral" Egyptian territory; when their personal relations were tense, such as in 1986-87, Mubarak mediated and kept them on civil terms. Hussein reciprocated Mubarak's diplomatic support by trying to persuade other Arab heads of state that Egypt should be readmitted to the League of Arab States (Arab League). In February 1989 Egypt and Jordan joined with Iraq and the Yemen Arab Republic (North Yemen) to form a new Arab Cooperation Council, a regional organization modeled after the Gulf Cooperation Council. 
+
+There is one additional MID in the rivalry between Egypt and Jordan, the Persian Gulf War MID3957. Jordan and Yemen were the only countries to support Iraq in the Gulf War as did the PLO. While the participation of Egypt along with a number of other Arab states was significant in the Gulf War, this dispute did not pit Jordan directly against Egypt and did not jeopardize their generally good relations in the 1990s or after. Therefore discussion about the termination of the rivalry between Egypt and Jordan is best approached from the cessation of hostilities in the 1960s. Jordan and Iraq had close relations prior to the war and this relationship motivated Jordanian support for Iraq. Jordan's close relations with Iraq developed as a result of Hussein's strong support for President Saddam Hussein during the latter's eight-year war with Iran (1980-88). 
+
+SOURCES-CR:
+Brecher and Wilkenfeld, 1997; *Facts on File*, June 1-7, 1967; Metz, 1989 and 1990; Tillema, 1991. 
+
+PS-NARRATIVE:
+
+19631222-19670529 Transition
+
+The last MID of RIV1244, MID1108, took place throughout 1962 and 1963. It ended on December 22, 1963. It took place in the context of the Yemeni Civil War. The Yemeni Civil War lasted from 1962 until 1970. The Iman Muhammad Badr of North Yemen was deposed in a military/republican coup led by Colonel Abdullah Sallal on September 26, 1962. Colonel Sallal proclaimed the Yemen Arab Republic (YAR) on September 27, 1962, and the Revolutionary Council headed by Colonel Sallal took control of the government on September 28, 1962. Imam Mohammed Badr fled to Saudi Arabia in October 1962, where he established a government-in-exile on October 5, 1962. The Egyptians quickly supported the Republican side while the Saudis and the Jordanians supported the Royalists. Therefore, in this MID the Jordanians and the Egyptians were not the principal combatants but were on opposite sides of another conflict in which they were secondary actors. 
+
+During the late 1950s and early 1960s, the question of Israel became more vexing for the Arab states. In 1964, in spite of the problems that existed among the various Arab states, Nasser initiated Arab summit meetings that were held in January, March, and September in Cairo and Casablanca. The immediate reason for the summits was to find a way to block Israel's plan to divert the waters of the Jordan River to irrigate the Negev Desert, a plan that would deprive the lower Jordan River valley of water. The Arab states drew up a plan that called for diverting the Jordan River in Syria and Lebanon but did not implement it. 
+
+The Arab summit meetings also took up other matters. League members agreed to created a unified military command, the United Arab Command, with headquarters in Cairo, but this plan, like that of diverting the Jordan River, remained on paper. The Arab leaders did implement a plan to create the Palestine Liberation Organization (PLO) to be the primary organization of Palestinians. The Arab governments, especially Egypt, were becoming increasingly uneasy about the growing activities of Palestinian guerrillas, and they wanted to create an organization through which they could control such operations. They created the Palestine Liberation Army, whose units would be stationed and controlled by Egypt, Syria, and Iraq. By 1965, Jordan agreed to participate in a joint Arab defense force and to the establishment of the PLO to represent Palestinian refugees. 
+
+19670530-20159999 0.5 
+
+Egyptian and Jordanian representatives signed a mutual defense agreement in Cairo on May 30, 1967. Jordan severed diplomatic relations with Egypt after the signing of the Egyptian-Israeli peace agreement in Washington DC on March 26, 1979. Jordan agreed to resume diplomatic relations with Egypt on September 25, 1984.
+
+During the late 1950s and early 1960s, the question of Israel became more vexing for the Arab states. In 1964, in spite of the problems that existed among the various Arab states, Nasser initiated Arab summit meetings that were held in January, March, and September in Cairo and Casablanca. The immediate reason for the summits was to find a way to block Israel's plan to divert the waters of the Jordan River to irrigate the Negev Desert, a plan that would deprive the lower Jordan River valley of water. The Arab states drew up a plan that called for diverting the Jordan River in Syria and Lebanon but did not implement it. 
+
+The Arab summit meetings also took up other matters. League members agreed to created a unified military command, the United Arab Command, with headquarters in Cairo, but this plan, like that of diverting the Jordan River, remained on paper. The Arab leaders did implement a plan to create the Palestine Liberation Organization (PLO) to be the primary organization of Palestinians. The Arab governments, especially Egypt, were becoming increasingly uneasy about the growing activities of Palestinian guerrillas, and they wanted to create an organization through which they could control such operations. They created the Palestine Liberation Army, whose units would be stationed and controlled by Egypt, Syria, and Iraq. By 1965, Jordan agreed to participate in a joint Arab defense force and to the establishment of the PLO to represent Palestinian refugees. Egypt exercised control of the PLO until 1969 when Yasir Arafat, the leader of the guerrilla organization called Al Fatah, took control of the organization from Ahmad Shukairy, the choice of the Arab League governments. 
+
+The most significant event to alter the course of Egyptian Jordanian relations was the June 1967 War. On the morning of June 5, Israel launched a full-scale attack on Egypt, Jordan, and Syria. In three hours, at least 300 of Egypt's 430 combat aircraft were destroyed, many on the ground as the pilots did not have time to take off. Israeli ground forces started a lightning strike into Sinai and by June 8 had reached the Suez Canal. On that day, both sides accepted a UN Security Council call for a cease-fire. By June 11, the Arab defeat was total; Israel now held all of historic Palestine, including the Old City of Jerusalem, the West Bank, and the Gaza Strip, as well as Sinai and part of the Golan Heights of Syria. 
+
+The mutual frustration led to the outbreak of the so-called War of Attrition from March 1969 to August 1970. Hoping to use Egypt's superiority in artillery to cause unacceptable casualties to Israeli forces dug in along the canal, Nasser ordered Egyptian guns to begin a steady pounding of the Israeli positions. Israel responded by constructing the Bar-Lev Line, a series of fortifications along the canal, and by using the one weapon in which it had absolute superiority, its air force, to silence the Egyptian artillery. Having accomplished this with minimal aircraft losses, Israel embarked on a series of deep penetration raids into the heartland of Egypt with its newly acquired American-made Phantom bombers. By January 1970, Israeli planes were flying at will over eastern Egypt.
+
+Many plans for peace were formulated and rejected, but on June 25, 1970, the Rogers Plan, put forth by United States secretary of state William Rogers, started a dialogue that eventually led to the long-awaited cease-fire in the War of Attrition along the Suez Canal. Shortly after the plan was announced, from June 29 to July 17, Nasser visited Moscow. Discussions were held on the Rogers Plan, a newly formed Moscow peace plan, and the future of Soviet-Egyptian relations. 
+
+After his return to Egypt, Nasser declared a major policy shift based on his assertion that Egypt must be respected for doing what it could on its own because the other Arab states were not prepared to wage war with Israel. This policy shift set the stage for Egypt's acceptance of the Rogers Plan in July, to the surprise of Israel and the consternation of many Arab states that feared Egypt would sign a separate peace agreement with Israel. Jordan, however, followed Egypt's lead and accepted the plan. Israel accepted the plan in August. 
+
+Egyptian-Israeli fighting halted along the Suez Canal on August 7, 1970, in accordance with the first phase of the plan, and a ninety-day truce began. Palestinian guerrilla groups in opposition to the cease-fire continued to engage in small-scale actions on the Jordanian-Syrian-Lebanese fronts. 
+
+PLO leader Arafat's open criticism of the parties accepting the truce led Nasser to close down the Voice of Palestine radio station in Cairo and to terminate most of the material support Egypt provided to the PLO. In addition, many PLO activists were expelled from Egypt. Within a month, the guerrillas had effectively undermined progress on the Rogers Plan by a series of acts, including the hijacking of five international airplanes in early September 1970, thus triggering the Jordanian civil war that month. 
+
+King Hussein launched a major Jordanian military drive against the Jordan-based Palestinian guerrilla groups on September 14, partly out of fear that their attacks on Israel would sabotage the truce, but primarily because the guerrillas were becoming powerful enough to challenge his government. Nasser's position on these events, as in the preceding year when hostilities broke out between the Palestinians and Lebanese, was based on a desire to stop any form of intra-Arab conflict. He was extremely angry when Syria sent an armored force into Jordan to support the guerrillas. The United States and Israel offered assistance to the beleaguered King Hussein. 
+
+Nasser called for a meeting in Cairo to stop the civil war. The Arab summit finally came about on September 26 after bloody military engagements in which Jordan decisively repulsed the Syrians and seemed to be defeating the PLO, although PLO forces were not pushed out of Jordan until July 1971. On September 27, 1970, Hussein and Arafat agreed to a fourteen-point cease-fire under Nasser's mediation, officially ending the war. 
+
+The effort by Nasser to bring about this unlikely reconciliation between two bitter enemies was enormous. He was by then a tired and sick man. He had been suffering from diabetes since 1958 and from arteriosclerosis of the leg. He had treatment in the Soviet Union, and his doctors had warned him to avoid physical and emotional strain. He had ignored their advice and suffered a heart attack in September 1969. The strain of the summit was too much. He felt ill at the airport on September 28 when bidding good-bye to Arab leaders and returned home to bed. He had another heart attack and died that afternoon. 
+
+Relations between the Jordan and Egypt further improved following the death of Nasser and the assumption of power of Sadat in 1970. The ascendance of Sadat and the attendant shift in policy he brought is one of the most important elements in the improvement of Jordanian-Egyptian relations. 
+
+Sadat took control of a country in need of economic reform. As Sadat's rule progressed, it became clear that his priority was solving Egypt's pressing economic problems by encouraging Western financial investment. Sadat realized, however, that Western investment would not be forthcoming until there was peace between Egypt and Israel, Soviet influence was eliminated, and the climate became more favorable to Western capitalism. 
+
+Sadat dismissed a number of government officials that were considered to be left-leaning and pro-Soviet. This action, which became known as the Corrective Revolution, began Sadat's move away from Nasser's policies. The armed forces pledged their support for Sadat on May 15. There were also some popular demonstrations in the streets in support of Sadat's moves. 
+
+After signing the Camp David Peace Accords in an effort to attract Western investment Egypt was ostracized from the Arab League. In 1984, Jordan became the first Arab state to reestablish diplomatic relations with Egypt. Hussein had begun advocating Egypt's reintegration into the Arab community of nations as early as 1981. The king perceived Egypt as an effective bulwark against the spread of radical Islamic political movements that he believed were being engendered by the Iran-Iraq War. Following the 1982 Israeli invasion of Lebanon and the expulsion of the PLO from that country, unofficial consultations with Egypt on regional security issues became routine. PLO chief Arafat's trip to Egypt in December 1983-the first by an Arab leader since the Baghdad Summit of November 1978-paved the way for Jordan's resumption of official relations without fear of being branded a traitor to Arab nationalism. 
+
+Following the reestablishment of diplomatic relations, Jordan and Egypt became extremely close allies. Hussein frequently praised Egyptian president Hosni Mubarak as one of the Arab world's great leaders. Mubarak supported Hussein's pro-Iraq policy, his efforts to involve moderate Palestinians in the peace process, and his call for an international peace conference. Hussein and Arafat met several times on "neutral" Egyptian territory; when their personal relations were tense, such as in 1986-87, Mubarak mediated and kept them on civil terms. Hussein reciprocated Mubarak's diplomatic support by trying to persuade other Arab heads of state that Egypt should be readmitted to the League of Arab States (Arab League). In February 1989 Egypt and Jordan joined with Iraq and the Yemen Arab Republic (North Yemen) to form a new Arab Cooperation Council, a regional organization modeled after the Gulf Cooperation Council. 
+
+There is one additional MID in the rivalry between Egypt and Jordan, the Persian Gulf War MID3957. Jordan and Yemen were the only countries to support Iraq in the Gulf War as did the PLO. While the participation of Egypt along with a number of other Arab states was significant in the Gulf War, this dispute did not pit Jordan directly against Egypt and did not jeopardize their generally good relations in the 1990s or after. Therefore discussion about the termination of the rivalry between Egypt and Jordan is best approached from the cessation of hostilities in the 1960s. Jordan and Iraq had close relations prior to the war and this relationship motivated Jordanian support for Iraq. Jordan's close relations with Iraq developed as a result of Hussein's strong support for President Saddam Hussein during the latter's eight-year war with Iran (1980-88). 
+
+The Egyptian President Hosni Mubarak arrived on January 21, 1995, in the Red Sea city of Aqaba on his first visit to Jordan since the 1991 Gulf War, when Egypt and Jordan backed opposing sides. His scheduled meeting with King Hussein could herald a series of meetings between the king and Muslim heads of state, which would aim to relieve Jordan's isolation in the Arab world, Foreign Ministry officials said. Speaking on condition of anonymity, they said Mubarak's visit would serve both Jordan and Egypt, the only Arab countries that have signed peace treaties and established diplomatic ties with Israel. Jordan's relations have chilled with Muslim nations who joined the U. S.-led coalition that fought Iraq after its 1990 invasion of Kuwait. King Hussein supported Iraq through the crisis. ''We are obviously looking to get out of the isolation that has characterized our Arab relations since the Gulf War,'' one Foreign Ministry official said. Jordanian officials also hoped improving relations with Egypt would ''plug us in'' to the regional power axis between Syria and Egypt, the official said. King Hussein and Mubarak, who last met in July in the Egyptian city of Alexandria, are scheduled to discuss Egypt-Jordan relations, the Middle East peace process and efforts to heal inter-Arab differences, the sources said. Egypt recently criticized Jordan for signing its peace treaty with Israel on Oct. 26 before Syria and Lebanon could reach similar agreements. Relations were strained further when Egypt played a key role in excluding reference to Jordan's custodianship over Muslim holy sites in Arab East Jerusalem-but referred instead to Saudi Arabia-in a resolution adopted by the Organization of Islamic Conference in Morocco in December 1994. Jordan's treaty with Israel endorsed Jordan's role as the custodian of the holy sites, angering Palestinians who regard Jerusalem as the future capital of a Palestinian state. The king's meeting with Mubarak comes amid increasing calls from various Muslim countries to unify their ranks as the Middle East slowly moves toward Arab-Israeli peace. Mubarak had been scheduled to visit Amman on Feb. 1. Jordanian officials said they were pleased that he decided to move up his visit. ''It gives a positive signal of Egyptian interests in mending fences with Jordan,'' a Foreign Ministry diplomat said. Foreign Minister Abdul Karim al-Kabariti met the previous week with Mubarak in Cairo to ease tensions and prepare for the president's visit.
+
+On January 21, 1995, Jordan's King Hussein and Egyptian President Hosni Mubarak said they hoped to restore "normal relations" between their countries after meeting behind closed doors for several hours at the Jordanian port city of Aqaba. "We hope our relations will go back to what they were and even stronger," said King Hussein at a brief press conference capping the Egyptian president's first visit to Jordan since the Gulf crisis. In their meeting, the two sides discussed bilateral relations, the Middle East peace process and inter-Arab ties. On inter-Arab relations, King Hussein said that "there was never 100 per cent solidarity (in the Arab world)", adding that he hoped that the rift in Arab-Arab relations would end in light of the need for cooperation amidst Arabs in the path towards attaining peace in the region. On Syrian-Israeli negotiations, Mubarak said that the Syrian track of the Middle East peace process "knows its direction" and hoped that Syria would "continue the peace process and end it on a just and comprehensive basis". Mubarak's visit to the kingdom came after Jordanian efforts to restore ties with Arab countries that boycotted Jordan during and after the 1991 Gulf war as a punishment for the kingdom's perceived sympathy for Iraq. Despite Jordanian fears that a summit in Alexandria, Egypt, last month has created a Syrian-Egyptian-Saudi axis to counter Jordan's aspired major role in the region now heading towards signing peace agreements with Israel, Jordanian efforts to join Arab ranks and avoid alienation seem to be paying off, officials say. "The brief Mubarak-Hussein meeting today is a very important indication that Jordan is getting out of its imposed cocoon," one government official said Jordan is the second Arab country to sign a peace deal with Israel, as Egypt did in 1979. But unlike Egypt, Jordan pledged to make a "warm peace" with the Jewish state. Diplomats here say that Jordan's "successful attempts" at mending ties with Arab states, especially Egypt which, after 14 years of making peace with Israel, still resists normalizing ties with the Jewish state, is causing "Israeli anxiety" that such diplomatic moves by the kingdom would have a negative impact on Jordanian-Israeli relations. Mubarak said that a "wider (Arab) meeting" would take place soon in order to achieve Arab reconciliation on a broader scale. 
+
+An economic panel headed by the prime ministers of Egypt and Jordan resumed talks on March 17, 1995, on a proposal to jointly develop a Red Sea port and other trade issues, Egyptian government sources said. The talks began Thursday in the Egyptian capital with the aim of strengthening cooperation on trade and economic projects. Atef Sedki, Egypt's prime minister, expressed hope that the meetings would create closer ties between Egypt and Jordan to help them face international economic and political challenges. Zaid Ben Shaker, Jordan's prime minister, affirmed the importance of supporting Egyptian-Jordanian ''joint work'' in trade, tourism, agriculture, transport, electricity and energy, as well as in customs, financial and security affairs. The panel is discussing development of a joint Red Sea Aqaba-Newabaa port and ''establishing joint Egyptian-Jordanian companies in the fields of agriculture, ready-made garments and some petrochemical industries,'' Cairo's state-run al-Ahram daily newspaper said Friday. The Egyptian-Jordanian Joint Committee is also expected to discuss an accord to avoid double taxation for businesses operating in both countries, cooperation in transportation and the oil sector and ways to expand telephone contact between the countries, the newspaper said. The panel also plans follow-up talks on a project to connect the electrical grids of Egypt, Jordan, Syria, Iraq and Turkey, the newspaper said. Al-Ahram said the meetings aim mainly to increase Egypt-Jordan trade, which fell to $42 million in 1993 from $51 million in 1992. It reached an estimated $21 million in the first six months of 1994. Egypt exports to Jordan include sugar, leather, steel and iron products. It imports oil products, mineral fuel, transport equipment, food and animal materials from the kingdom. Sedki described Egyptian-Jordanian relations as ''excellent. ''
+
+Jordan's King Hussein and President Hosni Mubarak of Egypt held a meeting together the week of May 5, 1996, and on March 15, 1996 they reconvened along with Palestinian leader Yasser Arafat. This was another step to improving relations all around since the frosty days of the Gulf War. Although the two leaders decided to activate some joint committees for mutual cooperation, relations between them remain complicated. So too with Arafat. Much more effort will be needed to avoid potentially dangerous developments in relations between these three leaders who have concluded peace treaties with Israel. At the bottom of Cairo's problematic relationship with Jordan lies Egyptian apprehension that the Hashemites have ambitions to regain a pivotal role in the Middle East at its expense. Cairo, Riyadh and Damascus all harbor doubts that the Hashemite dynasty is satisfied with its modest share of the eastern bank of the Jordan. It was instructive to note how the leaders in their statement again denounced any idea of partitioning Iraq. This was to reassure Egypt which fears that King Hussein is working on plans to help topple Saddam Hussein's regime, leading to the breakup of Iraq between Sunnis, Kurds and Shi'ites. Egypt suspects this could lead to the Iraqi Sunnis calling on the Hashemites to restore their rule in Baghdad. Arab leaders remember how, after Saddam conquered Kuwait, King Hussein resumed using the ancient title Sharif, which his ancestors used when they ruled the Hejaz. The Palestinian problem also continues to haunt Amman's relations with Cairo, since Egypt has taken over the old Jordanian role as the "custodian" of the Palestinian cause. It is noticeable that most meetings between Israeli and Palestinian delegations have been held in Egyptian venues, like Taba never in Amman or Aqaba. Even an initiative by Faisal Husseini to meet Hamas leaders in Amman was aborted by Mubarak's ally, Arafat. For Egypt to steal Jordan's former role as external guardian of Palestinian interests dovetails with Egypt's desire to preserve its own role as the dominant Arab country of the Middle East. Without a legitimate role in Palestinian affairs, Egypt might have no leading role at all. The corollary is that if Jordan regained its "Palestinian role," it would become the dominant country of the fertile crescent. On the other hand, the Jordanians fear that if a hostile Palestinian regime should be established on the West Bank, it might start to subvert the east bank. These conflicts of interest are imposing themselves on the interested parties because of the anticipated IDF withdrawals from the West Bank and the expansion of Palestinian Authority rule there. So now is regarded as the time for action to clarify the demarcation of influence between Egypt, Jordan and the PA and hopefully prevent any deterioration in relations between the three of them. It is logical to assume Jordan and Egypt may decide to carve up spheres of interest for Egypt, special status in Gaza; for Jordan, in the West Bank. However, there is every indication Cairo is not likely to be satisfied with Gaza, and would work to limit Jordan's role in the West Bank. These worries have no doubt been addressed by the Mubarak-Hussein talks the previous week, and expanded in this week's tripartite meeting with Arafat.
+
+On December 11, 1998, Jordan and Egypt agreed to enter into a free trade agreement. The move followed meetings of the Egyptian-Jordanian Higher Commission on cooperation, which was co-chaired by Prime Minister Fayiz al-Tarawinah and his Egyptian counterpart Kamal al-Janzuri. Later in the day, Dr Tarawinah and the Egyptian prime minister signed minutes of the commission's working session, which included the signing of 13 agreements. Concerning political issues, both sides reaffirmed commitment to a just and comprehensive peace in the Middle East that guarantees an Israeli withdrawal from Arab lands and restoration of Palestinian rights. Speaking at a press conference after the session, the Egyptian prime minister said his talks focused on expanding bilateral relations with Jordan. Prime Minister Tarawinah told reporters discussions also focused on imports of Egyptian natural gas. He also said that recent measures adopted by the government that required non-Jordanians to obtain permits were designed to regulate the labor market. Susan Afanah asked the Egyptian prime minister about the decrease of trade between Jordan and Egypt. He had this to say. 
+
+Jordan and Egypt have agreed to abolish customs duties on their trade within two years as the first step toward creating a free-trade zone for Arab states, Jordanian newspapers reported on February 28, 2000. Jordanian Prime Minister Abdur-Ra'uf S. Rawabdeh said Jordan and Egypt would be the nucleus of the trade zone and they would work to expand it, The Jordan Times reported. The two states aim to build an Arab economic bloc that could deal with the challenges posed by the creation of other world economic blocs, the paper quoted the prime minister as saying. Rawabdeh said Jordan and Egypt had agreed to remove their customs duties gradually and to double their trade volume to $300 million a year.
+
+Jordan's information minister, due in Cairo on September 24, 2000, at the invitation of his Egyptian counterpart, termed the relationship between the two countries' leaderships as distinguished. King Abdullah of Jordan boards on his plane at any time to land in Cairo or Alexandria and picks up the telephone at any moment to talk to President Hosni Mubarak and vice versa, Taleb al Refai told MENA in an interview. Jordan regards Egypt its big sister, the backbone and the source of strength to the Arab world, he said. "We in Jordan are very well aware of this and deal with Egypt with all the respect and appreciation of its role in the past, now and in the future," he added. His three-day official visit to Egypt aims as activating the various facets of cooperation in the media domain, he said. Jordan can draw on Egypt's media experience, an advanced and exceptional one, especially now as Jordan is transforming part of this sector from public to private, he added. He expressed hope the two countries enhance cooperation in the radio, television and satellite fields. Jordan's information minister said he was mainly interested in studying Egypt's exceptional and rich experience in the press, radio and television fields. Among his other interests during his three-day visit is to promote the relationship between the two countries news agencies, MENA and Petra, he added. Jordan wants to promote the news sector on Egypt, to obtain the news on Egypt through Egypt rather than through the western news agencies, especially now that the Jordanian newspapers are publishing special sections on Egypt, and in this respect, Petra has made great strides within the past two years to promote its performance, he said.
+
+Egypt and Jordan signed on May 30, 2001 an agreement to build a pipeline to convey Egyptian natural gas to Jordan in the first stage of a regional distribution project, the government newspaper Al-Ahram reported. The accord, signed by Egyptian Oil Minister Sameh Fahmi and Jordanian Energy Minister Wael Sabri, covers the laying of a line from the north-eastern Egyptian city of El Arish to the Jordanian Red Sea port of Aqaba, the paper said. The work would be completed within 18 months, it added. The aim is to transport 12 million cubic metres of Egyptian gas per day to Jordan, Syria, Lebanon and possibly other countries, including Turkey and parts of Europe. Fahmi said in March that the cost of the pipeline would be some 200 million US dollars.
+
+On June 9, 2001, Jordan and Egypt signed the minutes of co-operation during the 17th session of the two countries' joint Higher Committee. The Jordanian Minister of Industry and Trade Wasif Azar and Egyptian Minister of Planning and International Co-operation Dr Ahmad Dirsh signed the minutes and said that all obstacles facing trade exchange between the two countries were handled to reach full exemption from tariffs on goods in 2004. The volume of tariff exemptions for exchanged goods between the two countries reaches 55 per cent. Azar said that one of the main issues is the implementation of providing Jordan with Egyptian gas and then to reach Syria and Lebanon and the possibility of connecting Sinai with Aqaba through a bridge or a rail road. Azar pointed said 9 co-operation agreements were signed during the meeting of the Higher Jordanian-Egyptian Committee, Tuesday. Prime Minister Ali Abul Ragheb, who co-chaired the meeting with Egyptian Prime Minister Atef Obeid, said the signing of the deal was "proof of the qualitative bilateral co-operation ties" between the two countries. The Egyptian cabinet approved a plan to export Egyptian gas via the pipeline for 30 years starting from 2003, Egypt's Information Minister Safwat Al Sherif said in Cairo.
+
+Egypt and Jordan have said that they would take steps to prevent Israel from deporting Palestinians across their borders, Secretary General of the Arab League Amr Mussa said on March 31, 2002. Mussa notified the governments of Egypt and Jordan of a message he received from Palestinian leader Yasser Arafat regarding "the intention the government of Israel to carry out ethnic cleansing and transfer Palestinian citizens to Egypt and Jordan," Mussa told reporters. Egypt and Jordan said they would take steps to prevent these activities, he added. Earlier Israeli MP and former Arafat advisor Ahmed Tibi told AFP in Ramallah that the Palestinian leader informed him Israel intends to deport hundreds of Palestinian civilians to Jordan and Egypt. Tibi said the alleged move would involve Palestinians arrested in the West Bank town, adding that he would intervene with the Israeli government to block their exile. Jordan's government spokesman said on state television Sunday that the kingdom would reject the "forced exile of the Palestinian people." Egyptian security sources meanwhile told AFP that they are monitoring border crossings, particularly in central Sinai, to prevent any forced expulsions of Palestinians.
+
+On May 15, 2003, Jordan and Egypt inaugurated a plant at the Jordanian Red Sea port of Aqaba that will serve as a major link in a joint pipeline to carry Egyptian gas northward to various parts of the Hashemite Kingdom and later to Syria and Lebanon. When finished, the 500-million-dollar project "will represent the largest pan-Arab energy connection", Jordanian Minister Mohammad Batayneh said at a ceremony attended by his Egyptian counterpart Samih Fahy and more than 120 Egyptian deputies and senior oil industry executives. "The second stage of the venture provides for the building of a 370-kilometre pipeline from Aqaba to northern Jordan," he added. Batayneh pointed out that his country stood to save more than 500 million dollars annually by using gas to generate electricity. The Egyptian oil minister described the pipeline as "a strategic project that will help promote joint Arab action and economic integration". The inauguration of the Aqaba plant heralds the end of the maritime portion of the gas pipeline, officials said. 
+
+Egyptian President Hosny Mubarak is to visit Jordan on October 23, 2004, for talks with King Abdullah on the international conference on Iraq expected at the end of November, local media reported. The official Middle East News Agency (MENA) said Mubarak, who will stay in Red Sea port Aqaba for a few hours, was also expected to discuss the situation in occupied Palestinian territories. Egypt is organizing an international conference on Iraq on November 22-23, 2004, in the Red Sea resort of Sharm el-Sheikh. Participants at the conference are to include Iraq, its six neighbors, the Group of Eight leading industrialized countries plus China, the European Union, the United Nations, the Arab League and the Organization of the Islamic Conference. Egyptian Foreign Minister Ahmad Abul Gheit, who began delivering invitations to the conference Saturday, said the conference should underline the unity and sovereignty of Iraq and stressed the pivotal role of the U.N. in Iraq's political process. 
+
+On December 29, 2004, the President of the Jordan Chamber of Commerce, Senator Haydar Murad discussed with the Egyptian ambassador to Jordan Ahmad Riziq and Minister Plenipotentiary at the embassy Ahmad Al Faqih, means of promoting economic, trade and investment ties between Jordan and Egypt as well as activating cooperation and coordination between the private sector and businessmen from both countries. Senator Murad affirmed the strong Jordanian-Egyptian ties as well as keenness of the leadership of both countries to promote relations and cooperation in the political, economic and social fields. "Both Jordan and Egypt are bound by the Greater Arab Free Trade Agreement," he said, noting that trade exchange between the two countries will be exempted from customs fees. He called for increasing Egyptian imports from Jordan once all customs and administrative obstacles are removed. Murad noted the substantial increase in Jordan's imports from Egypt over the recent years, indicating that they reached JD80 million last year and JD111 million in the first 10 months of 2004. Jordan's exports to Egypt totaled JD17 million last year and JD16 million in the first 10 months of this year. The Egyptian ambassador for his part described relations between the two countries as distinguished, noting the high level of coordination between them.
+
+Jordan's King Abdullah visited Egypt on June 4, 2005, for talks with Egyptian President Hosni Mubarak on current regional issues, royal sources said. They said high on the agenda would be the latest developments in Iraq and the planned Israeli withdrawal from the Gaza Strip as part of the Israeli-Palestinian peace plan. The peace plan, which was worked out two years ago by the world's leading powers, envisages a settlement between the two sides that includes the creation of a viable Palestinian state alongside Israel. 
+
+The leaders of Egypt and Jordan reiterated calls for more progress to be made in the Israeli-Palestinian peace process during talks on June 6, 2005, at the Red Sea resort of Sharm el-Sheikh, a spokesman for the Egyptian president confirmed. Following the meeting, presidential spokesman Soleiman Awad said the two leaders welcomed last week's release of 400 Palestinian prisoners from Israeli jails. However, he urged Israel to limit its demands on Palestinian President Mahmoud Abbas. Jordan's King Abdullah met with Egyptian President Hosny Mubarak during a brief visit to Egypt to discuss developments in the Arab world and bilateral relations. A statement from the royal court in Amman carried by Egyptian news agency MENA, said the two leaders had reaffirmed the necessity of pushing forward the Mideast roadmap peace plan and of implementing the Sharm al-Sheikh understandings. Concerning Iraq, the statement said Jordan and Egypt agreed on the importance of supporting the steps taken by the new government to include all Iraqis in the political process. On the bilateral front, Jordan said talks dealt with cooperation in power generation projects. 
+
+PS-SOURCES: Africa News February 28, 2000; The Star June 9, 2001; United Press International January 21, 1995; March 17, 1995; Agence France Presse March 31, 2002; BBC December 11, 1998; September 25, 2000; AFX European Focus May 30, 2001; The Jerusalem Post May 15, 1996; Deutsche Presse Agentur January 21, 1995; May 15, 2003; October 23, 2004; June 4, 2005; June 6, 2005; Jordanian News Agency December 29, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+line 38, 81, 89
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+New York Times (1959). Arab Air Due Reported. New York Times December 16: 3.

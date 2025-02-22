@@ -1,0 +1,54 @@
+FILE: cm040482v11.0.txt
+DYAD: CUBA - CENTRAL AFRICAN REPUBLIC
+RIVALRY: RIV149
+DISPUTE(S): MID2150 
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2150 
+
+TERRMID: MID2150 3 -- not territory
+TERRMID-CER: MID2150 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2150 3 -- not third party link to territory 
+TERRLINK-CER: MID2150 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2150 3 -- not maritime 
+MARITMID-CER: MID2150 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2150 3 -- not islands 
+ISLMID-CER: MID2150 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2150 3 -- not civil war 
+CIVWARMID-CER: MID2150 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2150 1 -- civil war link
+CIVWARLINK-CER: MID2150 3 -- uncertain
+CIVWARLINK-NOTES: MID2150 is a multilateral civil war MID centered on civil conflict in Zaire, which featured much external intervention both for and against the Zaire government. The CAF is in this MID against Cuba, as well as many other countries, in the dataset. It is not clear what side CAF was supporting in the Zaire civil conflict, as MIDs appear between CAF and both supporters and opposers of the Zaire government. No information about the nature of CAF's involvement in the conflcit could be found in the New York Times; Gibler, Little, and Miller (2016), Schultz data, LexisNexis, or a general web search. Coded civil war link because this MID certainly involves civil conflict in Zaire, outside of this dayd, but coded uncertain because information on CAF's involvement could not be found. 
+
+COUPMID: MID2150 3 -- not coup 
+COUPMID-CER: MID2150 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2150 3 -- not coup link
+COUPLINK-CER: MID2150 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

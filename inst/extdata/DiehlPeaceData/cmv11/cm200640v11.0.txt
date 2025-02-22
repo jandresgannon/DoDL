@@ -1,0 +1,265 @@
+FILE: cm200640v8.1.txt
+DYAD: UNITED KINGDOM - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV45
+DISPUTE(S): MID146 MID153 
+RIVALRY:10460
+DISPUTE(S): MID1750 MID141 MID14 MID56 MID391 MID128 MID156 MID257 MID327 MID328 MID3185 MID3157 
+
+PS: 19009999-19260604 0.0 19260605-19450814 .5
+
+PSNOTES: 
+
+For period 19260605-20159999, begin date was changed from 19230321 to 19260605 because Turkey and Britain signed an agreement on June 5, 1926, which provided for Turkish recognition of the British mandate of Iraq and acceptance of the decision of the LON Council in regard to Mosul. Therefore, for period 19009999-19260604, end date is changed from 19260320 to 19260604 because it is the day before the signing of the treaty. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20180211
+PS-LAST-CHECKED: 20180211
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID146 MID153 MID1750 MID141 MID14 MID56 MID391 
+
+WWI MIDs: MID257
+
+MID128 
+
+TERRMID: MID128 3 -- not territory 
+TERRMID-CER: MID128 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID128 3 -- not third party link to territory 
+TERRLINK-CER: MID128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID128 3 -- not maritime 
+MARITMID-CER: MID128 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID128 3 -- not islands 
+ISLMID-CER: MID128 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID128 3 -- not civil war 
+CIVWARMID-CER: MID128 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID128 1 -- civil war link 
+CIVWARLINK-CER: MID128 1 -- certain 
+CIVWARLINK-NOTES: MID128 from Gibler (2018), Macedonia was officially under Ottoman control, but had descended into lawlessness and anarchy. From Gibas-Krzak (2013), this included a revolutionary movement made up of militarized rebels. Several countries, including UK, Russia, and Austria-Hungary, proposed intervening to restore order by implementing several reforms, including direct military intervention. The Ottomans resisted this and kept its troops in Macedonia, while the UK further instigated the turmoil, issued threats to intervene, and several countries deployed ships to the waters close to Macedonia, triggering this MID. Coded civil war link because the militarized rebels in Macedonia were outside of this dyad and connected to the events of this MID.
+
+COUPMID: MID128 3 -- not coup 
+COUPMID-CER: MID128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID128 3 -- not coup link
+COUPLINK-CER: MID128 1 -- certain 
+COUPLINK-NOTES: 
+
+MID156 
+
+TERRMID: MID156 1 -- territorial MID
+TERRMID-CER: MID156 1 -- certain 
+TERRMID-NOTES: MID156 from Gibler (2018), Turkey invaded Taba, a UK-controlled port in the Sinai Peninsula. The UK, backed by Russia and France, demanded that Turkey withdraw, which they eventually did. Coded territorial MID because this was a territorial dispute involving a port in the Sinai. 
+
+TERRLINK: MID156 3 -- not third party link to territory 
+TERRLINK-CER: MID156 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID156 3 -- not maritime 
+MARITMID-CER: MID156 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID156 3 -- not islands 
+ISLMID-CER: MID156 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID156 3 -- not civil war 
+CIVWARMID-CER: MID156 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID156 3 -- not civil war link 
+CIVWARLINK-CER: MID156 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID156 3 -- not coup 
+COUPMID-CER: MID156 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID156 3 -- not coup link
+COUPLINK-CER: MID156 1 -- certain 
+COUPLINK-NOTES: 
+
+MID327 
+
+TERRMID: MID327 3 -- not territory 
+TERRMID-CER: MID327 1 -- certain 
+TERRMID-NOTES: MID327 from Gibler (2018), in 1920, Turkey had recently achieved independence after WWI, and Mustafa Kemal and his followers were able to gain a majority in Parliament. However, The UK, France, and Italy did not want Kemal to be Turkey's leader, and they subsequently invaded Constantinople in 1920 to install a puppet government. Coded not territory because no territory was disputed between the involved parties, and this was a regime leadership issue. Separately, UK had control of the territory of Mosul after WWI; Turkey claimed sovereignty over it, constituting a territorial dispute, but Mosul was unconnected to the events of this MID.
+
+TERRLINK: MID327 3 -- not third party link to territory 
+TERRLINK-CER: MID327 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID327 3 -- not maritime 
+MARITMID-CER: MID327 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID327 3 -- not islands 
+ISLMID-CER: MID327 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID327 3 -- not civil war 
+CIVWARMID-CER: MID327 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID327 3 -- not civil war link 
+CIVWARLINK-CER: MID327 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID327 3 -- not coup 
+COUPMID-CER: MID327 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID327 3 -- not coup link
+COUPLINK-CER: MID327 1 -- certain 
+COUPLINK-NOTES: 
+
+MID328 
+
+TERRMID: MID328 3 -- not territory 
+TERRMID-CER: MID328 1 -- certain 
+TERRMID-NOTES: MID328 UK had control of Mosul after WWI. Turkey claimed sovereignty over it, constituting a territorial dispute, but Mosul was unconnected to the events of this MID.
+
+TERRLINK: MID328 3 -- not third party link to territory 
+TERRLINK-CER: MID328 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID328 2 -- somewhat connected to maritime MID
+MARITMID-CER: MID328 1 -- certain 
+MARITMID-NOTES: MID328 from Gibler (2018), the UK had assumed that the newly independent Turkish government would consider the straits within Turkey's territorial waters to be neutral territory. As Turkey's power grew, the UK no longer believed that Turkey would grant UK access to the straits in times of war. In 1922, the UK landed forces at Chanakkale (in the straits) to coerce the Turkish government to agree to consider them neutral territory. Coded somewhat connected to maritime MID because, while the UK did not claim sovereignty over the straits, they did dispute Turkey's complete sovereignty over the straits and wanted them to be considered neutral territory. 
+
+ISLMID: MID328 3 -- not islands 
+ISLMID-CER: MID328 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID328 3 -- not civil war 
+CIVWARMID-CER: MID328 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID328 3 -- not civil war link 
+CIVWARLINK-CER: MID328 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID328 3 -- not coup 
+COUPMID-CER: MID328 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID328 3 -- not coup link
+COUPLINK-CER: MID328 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3185 
+
+TERRMID: MID3185 1 -- territorial MID
+TERRMID-CER: MID3185 1 -- certain 
+TERRMID-NOTES: MID3185 from Gibler (2018), UK had control of the territory of Mosul, while Turkey claimed sovereignty over it. In 1924, they referred the territorial dispute to the League of Nations. The LoN recommended that Mosul remain with Mesopotamia, which UK controlled at the time. Turkey rejected the decision, and war nearly erupted when UK and Turkish troops amassed on opposite sides of the border. Conflict did not occur. Coded territorial MID because this MID was triggered by a territorial dispute between UK and Turkey. 
+
+TERRLINK: MID3185 3 -- not third party link to territory 
+TERRLINK-CER: MID3185 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3185 3 -- not maritime 
+MARITMID-CER: MID3185 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3185 3 -- not islands 
+ISLMID-CER: MID3185 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3185 3 -- not civil war 
+CIVWARMID-CER: MID3185 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3185 3 -- not civil war link 
+CIVWARLINK-CER: MID3185 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3185 3 -- not coup 
+COUPMID-CER: MID3185 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3185 3 -- not coup link
+COUPLINK-CER: MID3185 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3157 
+
+TERRMID: MID3157 3 -- not territory 
+TERRMID-CER: MID3157 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3157 3 -- not third party link to territory 
+TERRLINK-CER: MID3157 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3157 3 -- not maritime 
+MARITMID-CER: MID3157 1 -- certain 
+MARITMID-NOTES: MID3157 from Gibler (2018), Turkey fired on a UK rowboat owned by a UK warship. Turkey later agreed to pay restitution. Coded not maritime because this MID as not connected to a maritime boundary dispute. 
+
+ISLMID: MID3157 3 -- not islands 
+ISLMID-CER: MID3157 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3157 3 -- not civil war 
+CIVWARMID-CER: MID3157 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3157 3 -- not civil war link 
+CIVWARLINK-CER: MID3157 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3157 3 -- not coup 
+COUPMID-CER: MID3157 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3157 3 -- not coup link
+COUPLINK-CER: MID3157 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10460 was formerly coded as two separate rivalries (RIV460 and RIV461), but then were combined because there was only 14 years between disputes and the first two disputes are related to later disputes, all involving the decline of the Ottoman Empire.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY: RIV461
+DISPUTE(S): 
+
+NARRATIVE-CM:
+Turkey and Britain disputed the border between Egypt and Palestine in May 1906. The Sultan was forced to yield to a British ultimatum. Britain and Turkey disputed the status of the Mosul district in northern Iraq following the signing of a ceasefire agreement on October 30, 1918. The Mosul district was inhabited by some 800,000 Kurds, Turks, Arabs, Christians, and Jews. British troops occupied the Mosul district on November 8, 1918. The Turkish government declared in the *National Pact* on January 28, 1920 that it claimed sovereignty over all non-Arab territories of the former Ottoman Empire, including the Mosul district. Britain and Turkey signed the *Treaty of Lausanne *on July 24, 1923, which stipulated that the countries should bilaterally negotiate a resolution to the Mosul dispute, but that if such negotiations failed the matter should be referred to the *League of Nations* (LON) Council. Britain referred the dispute to the LON Council on August 6, 1924. The LON Council appointed a three-member commission of inquiry (Sweden, Belgium, Hungary) on September 30, 1924. Britain issued an ultimatum to Turkey on October 9, 1924, which demanded that Turkish troops be removed from Mosul. Turkey referred the matter to the LON Council. The LON Council established a provisional boundary (*Brussels Line*) in the Mosul district on October 29, 1924. The LON commission of inquiry issued a report on August 7, 1925, which recommended the *Brussels Line* as the border in the Mosul district and recommended that Mosul remain under a British mandate for twenty-five years. Turkey disputed the LON Council decision to accept the recommendations of the commission of inquiry. On September 20, 1925, the LON Council asked the *Permanent Court of International Justice* (PCIJ) for an advisory opinion on whether it had the authority to make a binding decision regarding the Mosul district. The PCIJ ruled on November 21, 1925 that the LON Council was within its authority to resolve the dispute without the approval of the parties to the dispute. The LON Council re-issued its final decision regarding the Mosul district on December 16, 1925. Turkey and Britain signed an agreement on June 5, 1926, which provided for Turkish recognition of the British mandate of Iraq and acceptance of the decision of the LON Council in regard to Mosul. The treaty also provided Turkey with a lump sum of 500,000 British pounds.
+
+SOURCES-CM: 
+*American Journal of International Law* (AJIL), 1926 (vol.20), 453-464; Shore, 1970, 38-39; *Survey of International Affairs *(SIA), 1925 (supplement), 157-158; Windass, 1970, 53-60.
+
+NARRATIVE-CR:
+Two separate issues exist between Britain and the Ottoman Empire throughout the 19th and 20th Century. Prior to the First World War Britain and France supported maintaining the existence of the Ottoman Empire in the face of growing Russian power. However, following Turkey's entrance to WWI on the side of Germany Britain and France began to more actively engage Turkey on issues that they had previously overlooked. Prior to the WWI the main issue between Britain and Turkey revolved around Turkish territorial disputes with Greece and to a lesser degree, with Egypt. Territorial disputes continued following WWI as well. The underlying pressure during this time was the struggle of Turkey to maintain its hold on an Empire while still keeping its Western European allies satisfied. The second issue between Britain and Turkey involves Turkish strife with its Christian citizens, which culminated in the First World War.
+
+On October 20th, 1827 British, French and Russian forces engaged and defeated a Turkish fleet in the Bay of Navarino (MID146). Greece had requested aid from the Western Powers to assist in Turkish repression in the Peloponnese. The Western Powers were obligated to response because of terms stated in armistice of London between Turkey and Greece. The Turkish fleet was completely destroyed and relations between Russia and Turkey began to escalate beginning with this incident (Davis 1998). The second dispute MID153 of this first rivalry involved Allied support of Mohammed Ali against the Ottoman Sultan regarding a dispute over territorial claims between the two powers. Under pressure from Britain and France Turkey agreed to sign the Kutahya Peace Treaty in May of 1833, which awarded the disputed land to Ali (Clodfelter 1992). 
+
+Relations between Britain and the Ottomans would not be strained again until 1876 with the Turkish campaign against Bulgarians in Ottoman controlled territories (MID1750). Several raids were conducted in various towns by the Turkish army killing thousands of Bulgarian Christians (www.onwar.com 2003). The raids were in response to a growing Bulgarian movement for independence from the Ottoman Empire. In April of 1876 a revolt occurred but suffered from poor planning and the Ottoman Empire responded by locating and destroying many local groups of revolutionaries before unified action was possible (Bartleby). During an international conference in Constantinople Western Powers pressured Turkey to find a solution to the problem without engaging in any more military operations (Bartleby). When the Sultan rejected the allied demands Russia used the issue as an opportunity to declare war and seized the Balkan region from Ottoman control, giving Bulgaria its independence, effectively ending the issue over Bulgarians in particular. The second dispute in this rivalry was over the Treaty of Berlin (MID141). Growing antagonism between Turkey and Greece prompted British and French intervention. In 1881 the Western Powers granted Thessaly and Arta to Greece in response to the discontent of the Treaty of Berlin, which served mainly to benefit the Ottoman Empire (MID141). Thessaly and Arta were given to Greece while the rest of the territories were returned to Turkey (Stavrianos 2000).
+
+MID14 and MID257 (The Armenian Massacres and the First World War) both concerned in part, the Turkish treatment of Armenians within its empire. Beginning in October of 1885 to the 1915 Armenian Genocide the Turkish state policy towards Christians was a source of tension between Britain and Turkey. The massacres began under the rule of Sultan Abdul Hamid II. Under pressure from the Allied countries the Sultan accepted the program of reforms for Armenia established on October 17th of 1885. In 1915 under the rule of the new government known as the Young Turks nearly 300,000 Armenians were killed or converted. The actions were swift and efficient leaving Britain no recourse but public condemnation as it was occupied with the Germany in the First World War. Turkey hoping for a chance to obtain some lost pieces of its former Empire entered the World War on the side of the Axis Powers. The issue over Turkish treatment of Armenians was effectively made moot by through the conversion, extermination and forced exodus of the Armenian population.
+
+A related but separate dispute arose over Turkish occupation of Crete. The Allied Powers intervened in 1897 (MID56) and demanded Turkish withdrawal (MID391). The Ottoman Empire/Turkey had claimed rights over Crete insisting that the island was Muslim and not Christian and therefore not rightly the property of Greece (Danopoulos 1997). By 1897 Greece began sending troops to Crete and began hostilities with Turkey. Allied intervention in 1897 forced an Armistice and then a Peace Treaty between Greece and Turkey. December 4th the Treaty was concluded and Crete was made an international protectorate in exchange for Greece granting Turkey some land in Thessaly and a tribute. Another dispute regarding territorial claims between Greece and Turkey in the region of Macedonia led to conflict in 1905 (MID128). Ultimately, these disputes would lead to the First Balkan War. Following the First Balkan War (MID1250), Crete was awarded to Greece in the Treaty of London in 1913 (Stavrianos 2000). The Allied support of Turkey in the issue of Crete and Macedonia ended with the entrance of Turkey into WWI on the side of Germany (Praeger 1966). 
+
+On October 1st 1906 the Ottoman Empire/Turkey attempted to redraw Egypt's eastern boundary by reassigning most of the Sinai to Turkish control (Macfie 1998). Because Egypt was under British rule at the time the United Kingdom sent forces to occupy Taba (MID156) and other points on the Gulf in an attempt to assert their territorial claims. Long-standing resolution of this issue would not be made until treaty negotiation following the First World War.
+
+MID257 (WWI), MID327 and MID328 (Allied Occupation of Istanbul) are related to the surrender and settlement between Turkey and the Allied Powers. Following WWI the Ottoman Empire was divided up and most of its territory lost. In August of 1920 Allied Powers imposed the Treaty of Sevres on the defeated Turks. The treaty yielded the formally Turkish Dardenelle Straits to international control and divided up the Anatolia region into Greek Italian, French, Armenian and Kurdish zones. However, because of a nationalist revolution led by Kemal Ataturk the treaty of Sevres was never implemented. Following the nationalist occupation (MID328) the Lausanne Treaty was negotiated which specified all of Turkey's boundaries except one, the disputed border in the Mosul area. 
+
+Britain claimed that all of the territory claimed by Turkey in fact belonged to Iraq. Both Turks and the British threatened armed confrontation and sent occupying forces to the region in 1925 (MID3185). A treaty was eventually signed in July of 1926 that gave the region to Iraq and effectively ended the dispute until resent interest in the region by Turkey following the second Gulf War (see Evans 1982; Zhvkova 1976). The last dispute appears to be unrelated to the issues involved in the rest of the rivalry. MID3157 involved British support of the French in a dispute of the Smyrna region and is not related to the territory disputes or the treatment of Christians that was at the heart of the previous disputes (Clodfelter 1992). The Rivalry can therefore be considered complete with the treaty signed in 1926. 
+
+SOURCES-CR: 
+Bartleby 2002; Clodfelter 1992; Danopoulos 1997; Evans 1982; Macfie 1998; Praeger 1966; Stavrianos 2000; Zhvkova 1976 
+
+SB-CR:
+UK / Ottoman Empire-Turkey Years: 1876-1926 Issues at stake: British influence in North Africa and the Near East; in particular, access rights to the Constantinople straits and disputes over the location of the Turkish/Iraqi border near Mosul. End Coding: A 1926 agreement settled the *Mosul question* between Britain, Turkey, and Iraq; this agreement marked acceptance by Britain and Turkey of a League of Nations decision about the border and the status of Mosul. The 1923 Straits Convention had previously settled a dispute about access to the Black Sea. Number of militarized disputes: 12. Number of 30 day reciprocated militarized disputes: 5. Last militarized dispute: 1923. Wars: 1914-1918. Summary: Some conflict between Britain and Turkey in the 1820s was followed by a long period without disputes. Beginning in 1876, Britain began to be more assertive toward Turkey about Turkish policy. The rivalry is coded as beginning in May 1876 when Britain engaged in naval maneuvers which were apparently intended to force a change in Turkish expansionist policies; Abdul Aziz (the Turkish ruler with expansionist ideas) was eventually disposed. Britain made several shows and uses of force against Turkey in the 1890s, first in 1895 in protest over massacres in Armenia. In 1897-1898 Britain and allies became involved in the Greco-Turkish conflict, occupying Crete to prevent further conflict there, and enforcing an order to Turkey to evacuate Crete. In 1905 Britain joined France and Russia in a confrontation against Turkey over Macedonia, while in 1906 Turkey occupied Taba in the Sinai, then a British territory. Turkish support for Germany in World War I was followed by Allied intervention in the Greco-Turkish war, general British support for aggressive Greek actions, Allied occupation of Constantinople from 1920 to 1923, and British occupation of Chanakkale to prevent a Turkish takeover of the Straits. The 1923 Treaty of Lausanne settled Turkey's European land borders, and the related Straits Convention established legal control of the Straits of Constantinople and access to the Black Sea. The dispute over the Turkish Iraqi border and the status of Mosul was left unresolved in the treaty; it was submitted to the League of Nations for resolution in 1924. In 1926 Turkey and Britain signed a treaty accepting the League of Nations settlement of the Mosul issues. Notes: The COW new dispute data set contains a dispute in 1925-1926. It appears that British involvement in this dispute involves British support for the French in the French-Turkish dispute over Syria's border with Turkey, which remained unresolved after the Turkish-Iraqi border had been settled. The new dispute data set also has a dispute between Britain and Turkey in 1934. This dispute again appears to involve British support for the French in their conflict with Turkey over access to the Gulf of Smyrna near Syria. There does not appear to be a new issue of dispute there between Britain and Turkey, and British involvement seems quite peripheral. Sources: Langer (1972).
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibas-Krzak, Danuta. 2013. "Contemporary Terrorism in the Balkans: A Real Threat to Security in Europe." The Journal of Slavic Military Studies 26(2): 203-218. 

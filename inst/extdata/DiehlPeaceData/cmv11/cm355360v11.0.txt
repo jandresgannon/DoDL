@@ -1,0 +1,118 @@
+FILE: cm355360v11.0.txt
+DYAD: BULGARIA-ROMANIA
+RIVALRY: RIV943
+DISPUTE(S): MID1251 MID257 MID3184 
+RIVALRY: RIV944
+DISPUTE(S): MID3858 
+
+PS: 19081005-19130709 .5 19130710-19450908 0.00 19450909-19490107 0.5 19490108-19910629 .75 19910630-20061231 0.5 20070101-20209999 1.0
+
+PS-UPDATE2020:
+
+PSNOTES: BOTH JOIN EU ON JANUARY 1, 2007.
+
+Romania joined the Second Balkan War on July 10, 1913 and invaded Bulgaria. The territories of Dobrudja was disputed between the two countries all throughout the inter-war period + heavy discrimination against and killing of Bulgarian ethnics in Southern Dobrudja and Caliacra county (now part of Bulgaria). The territory of Caliacra was finally solved with WWII and its return to Bulgaria.
+
+September 9, 1945 - new pro-Soviet/Communist government in place in Bulgaria. Romania had this change on August 23, 1944.
+
+With no territorial disputes and joint Communist/NATO/EU membership paths it makes sense to have the relationships at 0.25 since 1945 until 20069999.
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 
+
+WWII MIDs: MID3858 
+
+MID1251 
+
+TERRMID: MID1251 1 -- territorial MID
+TERRMID-CER: MID1251 1 -- certain 
+TERRMID-NOTES: MID1251 from Gibler 2018, after the Second Balkan War, there were still outstanding territorial disputes among the Balkan countries. Serbia (Yugoslavia) and Bulgaria both claimed Macedonia, and after Bulgaria refused to cede parts of Macedonia to Serbia, Bulgaria attacked Serbia, Greece, and Romania to control the territory. Coded territorial MID because this was connected to the countries' claim on Macedonian territory. 
+
+TERRLINK: MID1251 3 -- not third party link to territory
+TERRLINK-CER: MID1251 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1251 3 -- not maritime 
+MARITMID-CER: MID1251 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1251 3 -- not islands 
+ISLMID-CER: MID1251 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1251 3 -- not civil war 
+CIVWARMID-CER: MID1251 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1251 3 -- not civil war link 
+CIVWARLINK-CER: MID1251 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1251 3 -- not coup 
+COUPMID-CER: MID1251 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1251 3 -- not coup link
+COUPLINK-CER: MID1251 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3184 
+
+TERRMID: MID3184 3 -- not territory 
+TERRMID-CER: MID3184 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3184 3 -- not third party link to territory 
+TERRLINK-CER: MID3184 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3184 3 -- not maritime 
+MARITMID-CER: MID3184 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3184 3 -- not islands 
+ISLMID-CER: MID3184 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3184 1 -- civil war MID
+CIVWARMID-CER: MID3184 1 -- certain 
+CIVWARMID-NOTES: MID3184 from Gibler 2018, in 1926, Bulgarian rebels (Comitadjis) crossed into Romania and raided a village. Romanian forces pursued the rebels across the border into Bulgaria, prompting protest from Bulgaria. Coded civil war MID because this was connected to militarized rebels in Bulgaria who attacked Romanians. 
+
+CIVWARLINK: MID3184 3 -- not civil war link 
+CIVWARLINK-CER: MID3184 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3184 3 -- not coup 
+COUPMID-CER: MID3184 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3184 3 -- not coup link
+COUPLINK-CER: MID3184 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV944: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+MID3.02 has recoded MID1251 as Bulgaria against everyone else in the Second Balkan War (1913).
+
+NARRATIVE-CM:
+Romania declared war against Bulgaria during the *Second Balkan War* on July 10, 1913, and Romanian troops entered southern Dobrudja on July 11, 1913. Bulgaria and Romania agreed to a cessation of military hostilities on July 31, 1913. Some 20,000 Bulgarians and 1,500 Romanians were killed during the conflict. Bulgarian and Romanian representatives signed the *Treaty of Bucharest* on August 10, 1913, which provided for Romanian acquisition of southern Dobrudja. Bulgaria declared war against Romania during the *First World War *on September 1, 1916 (Romania had declared war against Austria-Hungary on August 27, 1916), and Bulgarian troops captured southern Dobrudja. Bulgarian troops, and other *Central Powers* troops, occupied Bucharest on December 6, 1916. Romania and the *Central Powers* agreed to a cessation of military hostilities on December 6, 1917. Bulgarian and Romanian representatives signed the *Treaty of Bucharest* on May 7, 1918, which provided for the cessation of Dobrudja to the *Central Powers*. Bulgaria and the Allied countries signed the *Treaty of Neuilly* on November 27, 1919, which provided for the return of southern Dobrudja to Romania. Romania refused to sign the *Treaty of Neuilly *because it wanted more territory, but Romania agreed to sign the treaty on December 9, 1919. Bulgaria and Romania resumed diplomatic relations on June 29, 1923. Bulgaria demanded the return of southern Dobrudja from Romania on June 18, 1940. As a result of diplomatic pressure from Germany and Italy, Romania agreed to cede southern Dobrudja to Bulgaria on September 7, 1940. Bulgaria and the Allied countries signed a peace treaty in Paris on February 10, 1947, which provided for Bulgarian retention of control over southern Dobrudja.
+
+SOURCES-CM: 
+Clodfelter, 1992, 614, 766; Ference, 1994, 61-102, 301-336; Langer, 1972, 1025-1028, 1211-1214; *Survey of International Affairs *(SIA), 1925 (supplement), 29.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

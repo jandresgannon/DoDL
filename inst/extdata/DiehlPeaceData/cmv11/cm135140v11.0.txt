@@ -1,0 +1,179 @@
+FILE: cm135140v11.0.txt
+DYAD: PERU - BRAZIL
+RIVALRY: RIV297
+DISPUTE(S): MID1163 
+RIVALRY: RIV298
+DISPUTE(S): MID1164 
+RIVALRY: RIV299
+DISPUTE(S): MID2050 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20170729
+PS-LAST-CHECKED: 20170729
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1163 
+
+TERRMID: MID1163 1 -- territorial MID 
+TERRMID-CER: MID1163 1 -- certain 
+TERRMID-NOTES: MID1163 from cm narrative, In 1902, Brazil invaded the area of Acre, a piece of territory that was already being disputed by Bolivia and Peru, beginning a Brazilian claim to the territory. Negotiations with Bolivia soon took place. Peru protested the negotiations, pulling them into this MID as well (see TERRLINK). Coded territorial MID because this was an invasion that marked the onset of a territorial dispute between Brazil and Peru. The disputed region became settled in 1909. 
+
+TERRLINK: MID1163 1 -- third party link to territorial MID
+TERRLINK-CER: MID1163 1 -- certain
+TERRLINK-NOTES: MID1163 from cm narrative, Brazil invaded a piece of territory that was being disputed by Peru and Bolivia. Peru protested the negotiations that took place between Brazil and Bolivia over this territory. Coded third party link because this MID was connected to a territorial dispute in another dyad, Bolivia-Peru. 
+
+MARITMID: MID1163 3 -- not maritime 
+MARITMID-CER: MID1163 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1163 3 -- not islands 
+ISLMID-CER: MID1163 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1163 3 -- not civil war 
+CIVWARMID-CER: MID1163 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1163 3 -- not civil war link
+CIVWARLINK-CER: MID1163 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1163 3 -- not coup 
+COUPMID-CER: MID1163 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1163 3 -- not coup link
+COUPLINK-CER: MID1163 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1164 
+
+TERRMID: MID1164 3 -- not territory
+TERRMID-CER: MID1164 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1164 3 -- not third party link to territory 
+TERRLINK-CER: MID1164 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1164 3 -- not maritime 
+MARITMID-CER: MID1164 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1164 3 -- not islands 
+ISLMID-CER: MID1164 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1164 1 -- civil war MID
+CIVWARMID-CER: MID1164 1 -- certain
+CIVWARMID-NOTES: MID1164 from cm narrative, in August 1918, Peruvian troops mutinied, causing a small rebellion. Members of the rebellion crossed into Brazilian territory, triggering this MID. Coded civil war MID because a militarized rebellion in Peru contributed to this MID. 
+
+CIVWARLINK: MID1164 3 -- not civil war link
+CIVWARLINK-CER: MID1164 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1164 3 -- not coup 
+COUPMID-CER: MID1164 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1164 3 -- not coup link
+COUPLINK-CER: MID1164 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2050 
+
+TERRMID: MID2050 3 -- not territory
+TERRMID-CER: MID2050 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2050 1 -- third party link to territorial MID
+TERRLINK-CER: MID2050 1 -- certain
+TERRLINK-NOTES: MID2050 from cm narrative, from September 1932 to May 1933, Peruvian troops passed through Brazilian territory in order to fight Colombia in the dispute over the port of Leticia, triggering this MID between Peru and Brazil. Coded third party link to territory because that dispute between Colombia and Peru was a territorial dispute. 
+
+MARITMID: MID2050 3 -- not maritime 
+MARITMID-CER: MID2050 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2050 3 -- not islands 
+ISLMID-CER: MID2050 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2050 3 -- not civil war 
+CIVWARMID-CER: MID2050 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2050 3 -- not civil war link
+CIVWARLINK-CER: MID2050 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2050 3 -- not coup 
+COUPMID-CER: MID2050 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2050 3 -- not coup link
+COUPLINK-CER: MID2050 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4496 
+
+TERRMID: MID4496 3 -- not territory
+TERRMID-CER: MID4496 1 -- certain 
+TERRMID-NOTES: MID4496 from cm narrative, on 7/15/2003, Brazilian troops, backed by military helicopters, attacked a Peruvian village near the shared BRA-PER border. While it is unclear why the attack occurred, local Peruvian sources stated that the cause of the incident was an ongoing timber dispute between locals on either side of the border. Coded not territory because the border between Brazil and Peru was not disputed. 
+
+TERRLINK: MID4496 3 -- not third party link to territory 
+TERRLINK-CER: MID4496 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4496 3 -- not maritime 
+MARITMID-CER: MID4496 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4496 3 -- not islands 
+ISLMID-CER: MID4496 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4496 3 -- not civil war 
+CIVWARMID-CER: MID4496 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4496 3 -- not civil war link
+CIVWARLINK-CER: MID4496 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4496 3 -- not coup 
+COUPMID-CER: MID4496 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4496 3 -- not coup link
+COUPLINK-CER: MID4496 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4496
+rivalry=135140 nationa=BRAZIL nationb=PERU MID4496 20030715-20030715 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+About 100 Brazilian troops, backed by military helicopters, attacked a Peruvian village near the shared BRA-PER border. While it is unclear why the attack occurred, local Peruvian sources stated that the cause of the incident was an ongoing timber dispute between locals on either side of the border. First day of dispute is listed on 7/15/2003 and last day of dispute is listed on 7/15/2003.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+Peru and Brazil experienced three isolated disputes in the 20th century. All three disputes involved separate issues and do not constitute a rivalry. A brief description of the disputes follows below.
+
+On October 27, 1902 Brazil invaded the territory of Acre, claimed by both Boliva and Peru, MID1163. In December 1902, Brazil began negotiations with Bolivia over the disputed territory of Acre. Peru also claimed this territory and protested against any bilateral negotiations between Brazil and Bolivia. In 1903 Brazil and Bolivia signed the Treaty of Petropolis which ceded the territory to Brazil despite protests from Peru. In 1904, Brazil and Peru signed a treaty to end the conflict. Continued negotiations over the territory led to a treaty defining the boundaries on September 8, 1909 with the principle of uti possidetis determining Brazilian ownership of Acre.
+
+In August 1918, Peruvian troops mutinied, causing a small rebellion. Members of the rebellion crossed into Brazilian territory, MID1164. 
+
+From September 1932 to May 1933, Peruvian troops passed through Brazilian territory in order to fight Colombia in the dispute over the port of Leticia, MID2050.
+
+SOURCES-CR:
+London Times 10/30/1902; Burns 1970; New York Times 8/25/1918

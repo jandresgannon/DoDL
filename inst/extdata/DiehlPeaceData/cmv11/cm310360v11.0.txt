@@ -1,0 +1,221 @@
+FILE: cm310360v11.0.txt
+DYAD: HUNGARY-ROMANIA
+RIVALRY: RIv11.0
+DISPUTE(S): MID1265 MID3182 MID3181 
+RIVALRY: RIV10816 ISOLATED
+DISPUTE(S): MID1247 MID3823 MID3870 MID3826 
+RIVALRY: RIV817
+DISPUTE(S): MID1718 
+
+PS: 19181116-19230131 .25 19230201-19390314 .5 19390315-19450120 0.0 19450121-19480123 .25 19480124-19490107 -9 19490108-19910628 0.75 19910629-20061231 .5 20070101-20209999 1.0
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm310360 ,19180000 ,19470000. Joint EU membership starting on January 1, 2007.
+
+PS-LAST-CHANGED: 20220228
+PS-LAST-CHECKED: 20220228
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3823 MID3870 MID3826 MID258 
+
+MID1265 
+
+TERRMID: MID1265 1 -- territorial MID
+TERRMID-CER: MID1265 1 -- certain 
+TERRMID-NOTES: MID1265 from Gibler 2018, after WWI, several countries, including Romania, Czechoslovakia, and Yugoslavia, pressed territorial claims against Hungary, recently broken away from Austria-Hungary. Here, Romania attacked Hungary to claim territory from Hungary, and the Allies allowed this to happen and facilitated the Hungarian surrender of territory to Romania. Coded territorial MID because Romania and Hungary had a territorial dispute which ended with the forceful transfer of territory from Hungary to Romania. 
+
+TERRLINK: MID1265 3 -- not third party link to territory
+TERRLINK-CER: MID1265 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1265 3 -- not maritime 
+MARITMID-CER: MID1265 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1265 3 -- not islands 
+ISLMID-CER: MID1265 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1265 3 -- not civil war 
+CIVWARMID-CER: MID1265 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1265 3 -- not civil war link 
+CIVWARLINK-CER: MID1265 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1265 3 -- not coup 
+COUPMID-CER: MID1265 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1265 3 -- not coup link
+COUPLINK-CER: MID1265 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3182
+
+TERRMID: MID3182 1 -- territorial MID
+TERRMID-CER: MID3182 1 -- certain 
+TERRMID-NOTES: MID3182 from Gibler 2018, Romania and Hungary had a territorial dispute after WWI, and a boundary commission was ongoing in 1923. Romania protested several Hungarian incursions into the disputed territory, and minor clashes occurred. Coded territorial MID because Romania and Hungary clashed over disputed territory here. 
+
+TERRLINK: MID3182 3 -- not third party link to territory
+TERRLINK-CER: MID3182 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3182 3 -- not maritime 
+MARITMID-CER: MID3182 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3182 3 -- not islands 
+ISLMID-CER: MID3182 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3182 3 -- not civil war 
+CIVWARMID-CER: MID3182 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3182 3 -- not civil war link
+CIVWARLINK-CER: MID3182 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3182 3 -- not coup 
+COUPMID-CER: MID3182 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3182 3 -- not coup link
+COUPLINK-CER: MID3182 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3181
+
+TERRMID: MID3181 3 -- not territory
+TERRMID-CER: MID3181 3 -- uncertain 
+TERRMID-NOTES: MID3181 from Gibler 2018, Austria's economy was crippled after WWI. It was looking to unify with either Germany or the Little Entente (Romania, Czechoslovakia, and Yugoslavia), but Italy declared that this would be a cause for war. Italy and Yugoslavia amassed troops on their Austrian borders as a show of force to prevent Austria from joining Germany or the Little Entente. The League of Nations and the US eventually negotiated a solution. Coded not territory because no states were disputing territory here, although Austria was intending to voluntarily unify with another country (other countries) to solve its economic crisis. Coded uncertain because Gibler (2018) drops Hungary from this dispute, as they seem to have no part in it. 
+
+TERRLINK: MID3181 3 -- not third party link to territory 
+TERRLINK-CER: MID3181 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3181 3 -- not maritime 
+MARITMID-CER: MID3181 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3181 3 -- not islands 
+ISLMID-CER: MID3181 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3181 3 -- not civil war 
+CIVWARMID-CER: MID3181 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3181 3 -- not civil war link
+CIVWARLINK-CER: MID3181 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3181 3 -- not coup 
+COUPMID-CER: MID3181 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3181 3 -- not coup link
+COUPLINK-CER: MID3181 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1247 
+
+TERRMID: MID1247 1 -- territorial MID 
+TERRMID-CER: MID1247 1 -- certain 
+TERRMID-NOTES: MID1247 from Gibler 2018, this MID occurred in the lead-up to WWII. Romania claimed the Czech territory of Carpatho-Ukraine, which was also claimed by Hungary. There was some lack of clarity about where precisely the border was in some areas of Carpatho-Ukraine. Germany signalled to Hungary that Hungary could annex all of the territory, but there was a growing domestic unrest in Carpatho-Ukraine that wanted independence. In March 1939, Romania suddenly invaded to prevent Hungary from doing so, expelling the Czechs as well. Clashes occurred between Romania and Hungary, and Hungary seized the territory the following day. Romania soon thereafter abandoned its claim on the territory. Coded territroial MID because an invasion and exchange of fire occurred over the disputed territory. 
+
+TERRLINK: MID1247 3 -- not third party link to territory 
+TERRLINK-CER: MID1247 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1247 3 -- not maritime 
+MARITMID-CER: MID1247 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1247 3 -- not islands 
+ISLMID-CER: MID1247 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1247 3 -- not civil war 
+CIVWARMID-CER: MID1247 1 -- certain 
+CIVWARMID-NOTES: MID1247 this MID involved domestic unrest in the disputed territory of Carpatho-Ukraine, but that unrest did not involve militarized rebel groups. 
+
+CIVWARLINK: MID1247 3 -- not civil war link 
+CIVWARLINK-CER: MID1247 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1247 3 -- not coup 
+COUPMID-CER: MID1247 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1247 3 -- not coup link
+COUPLINK-CER: MID1247 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1718 
+
+TERRMID: MID1718 3 -- not territory 
+TERRMID-CER: MID1718 1 -- certain 
+TERRMID-NOTES: MID1718 from Gibler 2018, Romania noticed that China and the USSR became distant and began strengthening its own ties with China. The USSR took this as an insult and coordinated military exercises with Hungary and Czechoslovakia along Romania's border, but tensions died down soon thereafter. Coded not terriory because no territory was being disputed. This was an attempt to deter strengthening diplomatic ties between Romania and China. 
+
+TERRLINK: MID1718 3 -- not third party link to territory 
+TERRLINK-CER: MID1718 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1718 3 -- not maritime 
+MARITMID-CER: MID1718 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1718 3 -- not islands 
+ISLMID-CER: MID1718 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1718 3 -- not civil war 
+CIVWARMID-CER: MID1718 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1718 3 -- not civil war link 
+CIVWARLINK-CER: MID1718 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1718 3 -- not coup 
+COUPMID-CER: MID1718 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1718 3 -- not coup link
+COUPLINK-CER: MID1718 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10816: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10816 is coded as isolated because all disputes are related to WWII.
+
+NARRATIVE-CM:
+Romania declared war on Austria-Hungary on August 27, 1916. Romanian troops invaded Transylvania on August 28, 1916, but Central Powers troops counter-attacked on September 18, 1916. Central Powers troops occupied Bucharest on December 6, 1916. Romania re-entered the conflict on November 8, 1918, and Romanian troops occupied Transylvania on December 1, 1918. The Romanian National Assembly declared the unification of Transylvania with Moldavia and Wallachia on December 1, 1918. Romanian troops invaded Hungary on April 10, 1919. The *Allied Supreme Council* (ASC), which consisted of representatives from Britain, France, Italy, and the United States, appealed to Romania for a cessation of military hostilities on May 8, 1919. Romanian troops occupied Budapest on August 4, 1919. The ASC appealed to Romania to withdraw its troops from Hungary on August 6, 1919, but Romania rejected the troop withdrawal appeal. The ASC appealed to Romania to withdraw its troops from Hungary on November 7, 1919. Romanian troops withdrew from Budapest on November 14, 1919, and Romanian troops completed their withdrawal from Hungary on February 25, 1920. Hungary and Romania signed the *Treaty of Trianon* on June 4, 1920, which provided for Hungarian recognition of Romanian sovereignty over Transylvania. The Treaty of Trianon went into effect on July 26, 1921. The Romanian government approved an agrarian law in Transylvania on July 30, 1921, which provided for the expropriation of lands owned by Hungarians. Hungary referred the matter to the *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Britain, France, Italy, Japan, and the US, on August 16, 1922, but the ACA suggested that Hungary refer the matter to the *League of Nations* (LON). Hungarian and Romanian troops clashed near Lokoshaza on January 10, 1923. Hungary referred the matter of the Romanian agrarian law to the LON Council on March 15, 1923. Hungary and Romania signed a border agreement on June 29, 1925. Hungary and Romania disagreed on the competence of the Mixed Arbitral Tribunal to decide on claims "arising out of the application of the Romanian Agrarian Law" to Hungarian nationals. Romania referred the matter to the LON Council on February 24, 1927. The LON Council established a three-member conciliation commission (Britain, Chile, Japan) chaired by Sir Austen Chamberlain of Britain on March 7, 1927. The LON conciliation commission submitted a report to the LON Council on September 17, 1927. The LON Council approved a resolution on September 19, 1927, which recommended the report to the governments of Hungary and Romania for consideration. Romania accepted the LON conciliation commission report on November 25, 1927, but Hungary rejected the report on November 29, 1927. Hungary resubmitted the matter to the LON Council on August 25, 1928. On July 1, 1940, Hungary accused Romania of evicting ethnic Hungarians from Transylvania. Romania agreed to negotiations with Hungary on July 27, 1940. Hungarian and Romanian troops clashed after bilateral negotiations collapsed on August 24, 1940. Germany coerced Romania to cede northern Transylvania to Hungary on August 30, 1940. Romanian troops invaded Transylvania on September 6, 1944. Hungary declared war on Romania on September 6, 1944, and Romania declared war on Hungary on September 8, 1944. Soviet troops occupied northern Transylvania on November 13, 1944, but the Soviet Union restored the sovereignty of northern Transylvania to Romania on March 9, 1945. Romania's sovereignty over Transylvania was confirmed by the 1947 peace treaty. Hungarian and Romanian representatives signed a *Treaty of Friendship, Cooperation, and Mutual Assistance* on January 24, 1948. Hungary's communist party criticized Romania's treatment of ethnic Hungarians in Transylvania on June 24, 1971. Hungary and Romania renewed the 1948 Treaty of Friendship, Cooperation, and Assistance for twenty years on February 24, 1972. The Romanian government declared a state-of-emergency in Transylvania on March 20, 1990 after clashes between Romanian nationalists and ethnic Hungarians in Tirgu Mures on March 17-20, 1990. Eight individuals were killed in the clashes. Some 70,000 ethnic Hungarians demonstrated against the government in Bucharest on March 20, 1990. Prime Minister Miklos Nemeth of Hungary protested to the Romanian government and referred the matter to the *United Nations *(UN) Security Council on March 21, 1990. Hungary and Romania signed an agreement in Timisoara, Romania on September 16, 1996, which provided for the settlement of the Transylvania dispute.
+
+SOURCES-CM: 
+Allock et al., 1992, 109-120; Brecher and Wilkenfeld, 1997, 597-599; Clodfelter, 1992, 766; Ference, 301-336; *Keesing*, March 25-April 1, 1972, June 23, 1978, March 1990; Stuyt, 1990, 423; *Survey of International Affairs *(SIA), 1928, 168-182.
+
+NARRATIVE-CR:
+
+Romania supported the Allied powers against Austria-Hungary and Germany in the First World War and declared war against Austria-Hungary in 1916 (Clodfelter 1992). Romanian troops invaded Hungary in 1919 (MID1265) as part of WWI. In 1920 Hungary and Romania provided for reparations over WWI with the treaty of Trianon (Grenville 1980). The treaty settled the issue of expropriation of lands owned by Hungarians and gave Romania the territory of Transylvania. Lands were redistributed from wealthy Hungarians to Romanian peasants which radically changed the distribution of power in Romania. In September and October of 1922 conflict arose over the Romanian adoption of a new constitution (MID3181) which prohibited the ownership of land by foreigners and allowed citizenship of Jews (Clodfelter 1992). These reforms ended the ownership of land by Hungarian citizens and resolved the source of tension following WWI. 
+
+The second rivalry between Romania and Hungary are all related to the Second World War (MID258). Hungary, backed by Germany relit the flames regarding Transylvania and the treatment of ethnic Hungarians within Romania. German pressure forced Romania to give Transylvania to Hungary in 1940, ending the first two disputes over the border (MID1247 and MID2823). MID3870 was a small, one day dispute regarding troops in Transylvania and was resolved with the entrance of Romania into the war on the side of Germany against Russia. In 1944 Russian forces invaded and occupied Romania. In October of 1944 Russian/Romanian forces entered and liberated Transylvania from Hungarian forces (Clodfelter 1992). Russia officially returned Transylvania to Romania in March of 1945 (Clodfelter 1992). Defeat of Hungary and return of control over Transylvania ended the rivalry between Romania and Hungary. 
+
+A final, isolated border dispute MID1718 came about as the result of the Warsaw pact conducting military exercises along Hungary's border with Romania in August of 1971 (www.1upinfo.com 2003). This was an isolated incident that was resolved through diplomacy between the USSR and Hungary. 
+
+SOURCES-CR:
+Clodfelter 1992; Grenville 1980; www.1upinfo.com 2003
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

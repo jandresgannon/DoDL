@@ -1,0 +1,175 @@
+FILE: cm438452v11.0.txt
+DYAD: GUINEA-GHANA
+RIVALRY: RIV1069
+DISPUTE(S): MID1409 MID1351 MID1408 
+
+RIVNOTES: 
+PS: 19660310-19661104 0.25 19661105-19730113 -9 19730114-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: thompson rivalry cm483625 ,19640000 ,19690000 
+Relationship begins with the three MIDs and enters a transition period in which relations gradually improve. The 15 year post rivalry rule is obviated by joint membership in ECOWAS in 1975, which continues the relationship to the present
+
+On December 24, 1960, a union was announced between Guinea, Ghana and Mali. The Presidents of the three countries announced also a common economic and monetary policy. This represents a new step to establish a closer union of West African states. This common economic and monetary policy never took off the ground, though. Given the many initiatives that were never translated into facts, the coding for the period 19601224-19660309 is kept at 0.5 instead of a 0.75. It was just an idea for an economic and monetary union that was never implemented and therefore no formal REI. 
+
+PS-LAST-CHANGED: 20220312
+PS-LAST-CHECKED: 20220312
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1409
+
+TERRMID: MID1409 3 -- not territory
+TERRMID-CER: MID1409 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1409 3 -- not third party link to territory 
+TERRLINK-CER: MID1409 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1409 3 -- not maritime 
+MARITMID-CER: MID1409 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1409 3 -- not islands 
+ISLMID-CER: MID1409 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1409 3 -- civil war MID
+CIVWARMID-CER: MID1409 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1409 3 -- not civil war link
+CIVWARLINK-CER: MID1409 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1409 1 -- coup MID
+COUPMID-CER: MID1409 3 -- uncertain 
+COUPMID-NOTES: MID1409 from Gibler, Miller, and Little 2016, Guinea housed the ousted Ghanian leader. The new leader of Ghana issued a private statement that the Guinean leader was planning on invading Ghana to restore the old leader. Coded coup MID because the conflict in question resulted from the leader of Ghana being ousted, and coded uncertain because GML recommend the case be dropped since this was a private statement, not a public threat.
+
+COUPLINK: MID1409 3 -- not coup link
+COUPLINK-CER: MID1409 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1351
+
+TERRMID: MID1351 3 -- not territory
+TERRMID-CER: MID1351 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1351 3 -- not third party link to territory 
+TERRLINK-CER: MID1351 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1351 3 -- not maritime 
+MARITMID-CER: MID1351 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1351 3 -- not islands 
+ISLMID-CER: MID1351 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1351 3 -- not civil war 
+CIVWARMID-CER: MID1351 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1351 3 -- not civil war link
+CIVWARLINK-CER: MID1351 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1351 1 -- coup MID
+COUPMID-CER: MID1351 1 -- certain 
+COUPMID-NOTES: MID 1351 from Gibler 2018, Guinea wanted to send troops to Ghana to restore Ghana's deposed leader. Ivory Coast moved troops to their border to prevent Guinea from using its territory to get to Ghana, pulling Ivory Coast into this MID on the side of Ghana. A border incident killed one Guinean soldier. Coded coup MID because this was related to the deposed leader of Ghana, within this dyad. 
+
+COUPLINK: MID1351 3 -- not coup link
+COUPLINK-CER: MID1351 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1408
+
+TERRMID: MID1408 3 -- not territory
+TERRMID-CER: MID1408 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1408 3 -- not third party link to territory 
+TERRLINK-CER: MID1408 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1408 3 -- not maritime 
+MARITMID-CER: MID1408 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1408 3 -- not islands 
+ISLMID-CER: MID1408 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1408 3 -- not civil war 
+CIVWARMID-CER: MID1408 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1408 3 -- not civil war link
+CIVWARLINK-CER: MID1408 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1408 1 -- coup MID
+COUPMID-CER: MID1408 1 -- certain 
+COUPMID-NOTES: MID 1408 from Gibler 2018, Ghana claimed that Guinea detained a number of students and officials against their will and responded by detaining Guinea's foreign minister as well as fifteen students. This occurred in the aftermath of a coup in Ghana, in which the military deposed the president. Guinea sought to re-impose the Ghanian president. Ethiopia, Algeria, the UAR, Tanzania, and China protested. The UN Secretary General requested Ghana release the Guineans they had detained. Coded coup MID because tensions arose between these two countries over the deposed leader of Ghana. 
+
+COUPLINK: MID1408 3 -- not coup link
+COUPLINK-CER: MID1408 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Diplomatic relations between Ghana and Guinea were strained following the overthrow of Prime Minister Kwama Nkrumah of Ghana on February 24, 1966. Prime Minister Nkrumah took refuge in Guinea, where he was named co-president. Ghanaian authorities arrested 19 Guineans, including four government officials, aboard a flight from Guinea to Nigeria that had stopped in Accra on October 29, 1966. President Sekou Toure of Guinea protested the arrests. Algeria, Tanzania, and China condemned Ghana on October 31, 1966. Egypt offered to mediate negotiations between the parties on October 31, 1966. Mammo Tadesse, special envoy of Emperor Haile Selassie of Ethiopia, attempted to facilitate a resolution of the crisis on October 31, 1966. *Organization of African Unity* (OAU) foreign ministers established a three-member conciliation commission (Congo-Kinshasa, Kenya, Sierra Leone) on October 31, 1966. The OAU conciliation commission mediated a resolution of the crisis in Addis Ababa on November 5, 1966, which provided for the released of the Guineans on November 5, 1966. Ghana and Guinea resumed diplomatic relations on January 3, 1973.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), January 1-31, 1973; *Keesing*, November 26-December 3, 1966; Skurnik, 1967, 369-384.
+
+NARRATIVE-CR:
+Diplomatic relations between Ghana and Guinea were strained following the overthrow of Prime Minister Kwama Nkrumah of Ghana on February 24, 1966. Prime Minister Nkrumah took refuge in Guinea, where he was named co-president. Several of his supporters fled to Guinea as well, increasing tensions between the two countries for a short period.
+
+On March 10, 1966, Guinean President Sekou Toure pledged to send Guinean troops to Ghana in order to restore Kwame Nkrumah as president. This was MID1409. MID1351 was the continued statement of these threats until on March 17, troops from the Ivory Coast mobilized on the Guinean border to prevent any such action.
+
+Ghanaian authorities arrested 19 Guineans, including four government officials, aboard a flight from Guinea to Nigeria that had stopped in Accra on October 29, 1966. President Sekou Toure of Guinea protested the arrests. Algeria, Tanzania, and China condemned Ghana on October 31, 1966. Egypt offered to mediate negotiations between the parties on October 31, 1966. Mammo Tadesse, special envoy of Emperor Haile Selassie of Ethiopia, attempted to facilitate a resolution of the crisis on October 31, 1966. *Organization of African Unity* (OAU) foreign ministers established a three-member conciliation commission (Congo-Kinshasa, Kenya, Sierra Leone) on October 31, 1966. The OAU conciliation commission mediated a resolution of the crisis in Addis Ababa on November 5, 1966, which provided for the release of the Guineans on November 5, 1966. This was MID1408.
+
+There was no renewal of MIDs after this time. Nor did Nkrumah regain power in Ghana. So it appears as if there was a period of instability after the coup, but that this did not last long to become a real contentious rivalry between the two states.
+
+SOURCES-CR: 
+Facts on File, March 31-April 6, 1966; New York Times, March 18, 1966; Pellow, Deborah and Naomi Chazan, 1986; Petchenkine, Youry, 1993.
+
+PS-NARRATIVE: 
+
+19581002-19660309 0.5 
+
+Ghana became independent on March 6, 1957. Guinea became independent on October 2, 1958. Ghana recognized Guinea's independence on October 2, 1958. On October 5th, 1958 Ghana announced that it will sponsor Guinea to become a member of the United Nations. The Guinean Prime Minister, Sekou Toure received a warm welcome in Accra on November 20, 1958 where he was received by Ghana's Prime Minister, Kwame Nkrumah. On May 1, 1959, Ghanaian and Guinea signed an agreement to form an Union of Independent African States. The document was signed in Conakry were Dr. Nkrumah made an official visit. This was to represent the beginning of the Casablanca group and later on of the OAU. On December 24, 1960, a union was announced between Guinea, Ghana and Mali. The Presidents of the three countries announced also a common economic and monetary policy. This represents a new step to establish a closer union of West African states. This common economic and monetary policy never took off the ground, though. On July 1, 1963 in a joint effort at the United Nations, Ghana and Guinea called for an increased representation of Africans in the structures of the United Nations, which until then were not represented according to the number and weight of the African countries within the world body. On March 2, 1966, Kwame Nkrumah had to flee Ghana and Guinea's Sekou Toure offered him asylum. 
+
+19660310-19661104 RIV1069-0.25 
+
+On March 10, 1966, Guinean President Sekou Toure pledged to send Guinean troops to Ghana in order to restore Kwame Nkrumah as president. This was MID1409. MID1351 was the continued statement of these threats until on March 17, troops from the Ivory Coast mobilized on the Guinean border to prevent any such action.
+
+Ghanaian authorities arrested 19 Guineans, including four government officials, aboard a flight from Guinea to Nigeria that had stopped in Accra on October 29, 1966. President Sekou Toure of Guinea protested the arrests. Algeria, Tanzania, and China condemned Ghana on October 31, 1966. Egypt offered to mediate negotiations between the parties on October 31, 1966. Mammo Tadesse, special envoy of Emperor Haile Selassie of Ethiopia, attempted to facilitate a resolution of the crisis on October 31, 1966. *Organization of African Unity* (OAU) foreign ministers established a three-member conciliation commission (Congo-Kinshasa, Kenya, Sierra Leone) on October 31, 1966. The OAU conciliation commission mediated a resolution of the crisis in Addis Ababa on November 5, 1966, which provided for the release of the Guineans on November 5, 1966. This was MID1408.
+
+There was no renewal of MIDs after this time. Nor did Nkrumah regain power in Ghana. So it appears as if there was a period of instability after the coup, but that this did not last long to become a real contentious rivalry between the two states.
+
+19661105-19730113 Transition
+
+From 1966, the year of the last MID and the coup against Nkrumah, to 1973, when the two countries re-established diplomatic relations, there is no indication of significant contacts between the two countries. The body of the late Ghanaian President Nkrumah who died in Guinea on April 27, 1972, was flown to Ghana on July 7th, 1972, after long negotiations between Guinea's President Sekou Toure who wanted to make sure Nkrumah a leader of African independence will be buried with all the rights reserved to former heads of state in Ghana.
+
+19730114-20159999 0.5 
+
+On January 14, 1973 Ghana re-established diplomatic relations with Guinea. President Sekou Toure of Guinea paid a brief visit to Ghana on June 8, 1978. The Ghanaian head of state and chairman of the supreme military council I.K. Acheampong welcomed to Guinean president at the airport. Speaking at a luncheon held in honour of the guest, Acheampong recalled the fruitful relations between the two countries in the past and stressed the consolidation of the existing warm relations between Ghana and West African states as a basis for strengthening the links between all African countries. In reply, president Toure promised that the government and people of Guinea would work in concert with the government and people of Ghana in seeking solutions to African problems. The two state leaders had a closed-door discussion before the luncheon. Present were members of the Ghanaian Supreme Military Council and Guinean prime minister Lansana Beavogui who accompanied president Toure in his visit. On March 11, 1980, Ghana's President made an official visit to Conakry where he met with Guinea's President Sekou Toure. Ghana and Guinea have agreed to take concrete measures to implement existing agreements in the areas of trade, transport and communications, science and technology, as well as in education, the arts and culture, and health. The two countries are also to establish joint ventures in fishing and animal husbandry. A joint communique issued in Accra on 30th July, 1986, at the end of the three-day meeting of the Ghana-Guinea permanent joint commission for co-operation stressed the importance of co-operation for the prosperity and well-being of the peoples of the two countries. It also emphasized the important part played by co-operation in the success of ECOWAS [Economic Community of West African States] and in realizing Africa's aspirations for continental integration, as enshrined in the Lagos plan of action. Guinean president Brigadier-General Lanzana Conte arrived to Accra on December 9, 1986 for a three-day official visit. The visit is a return one. In 1984, the Chairman of the provisional national defense council J.J. Rawlings visited Guinea. Speaking to reporters upon his arrival, Conte said the silence between the two countries since he assumed power in April 1984 did not mean a break in Ghana-Guinea-Mali relations. Mutual cooperation has existed between the two nations since 1950s when Ghana, Guinea and Mali formed a political union under the joint leadership of the late presidents Kwame Nkrumah of Ghana, Sekou Toure of Guinea and Modibo Keita of Mali. He stressed that his visit is to consolidate friendship between Guinea and Ghana. Talking about his country's open door policy, he said it has a considerable impact on the economy and has attracted foreign investment and financial assistance. He said that his government has worked for a program of economic recovery and restructuring of administrative machinery. Conte will meet with Rawlings on December 10, 1986.
+
+On November 3, 1987, Ghana Airways started its service to the Conakry Gbessia international airport on a daily basis with two flights per day. The co-operation between Ghana and Guinea can be described as very good. On March 22, 1991, Ghana and Guinea pledged to strengthen bilateral co-operation in the areas of information, trade and culture, according to a joint communique issued in Accra. The communique was signed here today by Mr. Vincent Bangoura, visiting Guinean minister of culture, information and tourism, and dr. Mohammed Abdallah, chairman of the Ghana national commission on culture, at the end of a five-day official visit by the Guinean minister. The communique said the current world information order seeks to perpetuate the situation whereby Africans consume things they do not produce and produce things they do not consume and this trend of affairs should be reversed. The two sides agreed that attempts should be made to call a meeting of all information ministers in the West African region to work out a framework for co-operation. Ghana also plans to send a trade delegation to guinea to explore bilateral trade possibilities. On March 14, 1996, Guinea's President General Lansana Conte granted an audience to Ghana's deputy foreign minister, Mohamed Ibn Chambas. Mr Chambas extended warm greetings from the government and people of Ghana to the government and people of Guinea. He seized the opportunity that this occasion offered to reiterate the message of support which President Rawlings and Ghanaians had sent to President Conte and the government and people of Guinea following the events of 2nd and 3rd February in Conakry. President Rawlings had been badly shaken by the mutiny, which had been organized by people intent on changing the course of history. Mr Chambas insisted that his condemnation of the mutiny should be seen against the backdrop of the progress made by Guineans under Gen Conte and he expressed the hope that President Conte would continue his work for peace in the subregion, particularly in Sierra Leone and Liberia. In response, Gen Conte thanked the Ghanaian special envoy and reassured him that he, the government and the people of Guinea were ever ready to work towards improving cooperation between the two countries. President Conte noted that Ghana and Guinea had always expressed identical views and he assured the envoy of his determination to pursue, despite existing difficulties, the process of democratization in Guinea, which was in the interest of all Guineans. On October 14, 1997,an envoy from Guinea's President Lansana Conte handed a message to President Jerry Rawlings of Ghana, indicating Conakry might close its embassy in Accra as a cost-saving measure. The envoy Almany Diaby, Minister of Technical Education, said his country is undertaking a tough Structural Adjustment Programme which calls for a drastic cut in public expenditure. Measures taken so far include reduction in number of employees on government pay-roll and cutting down on the government's diplomatic representation is the other measure being contemplated. "But Guinea cannot do it without consulting its friends including Ghana. The message contains proposals with regards to its embassy in Accra. Whatever decisions we arrive at will take into Guinea's long-standing relations with Ghana", Diaby said. President Rawlings was visibly not pleased with the proposal and said Guinea should take into account its solid relations with Ghana which dates back to the period immediately after independence. When Guinea gained independence from France and chosed to cut off its links with Paris, France reacted by cutting off aid to Guinea, thus impoverishing the new independent state under late President Sekou Toure. Ghana under late President Kwame Nkrumah moved swiftly to the rescue of Guinea, granting it aid which it never paid back. Nkrumah then proposed a union between Ghana, Guinea and Mali as a nucleus for continental unity. Rawlings said " the new global order will not make things easier for us if we do not play our part to ensure that information is directly exchanged between us instead of through third parties". He reminded the Guinean government that developed countries "who are massively present in our countries are waiting to take advantage of the vacuums we create". Rawlings, who enjoys good relations with Guinea, Guinea plays key roles with Ghana and Nigeria in resolving conflicts in the West African sub-region, mentioning the Liberian conflict as an example. "We have been able to solve the Liberian civil war but we need to consolidate. Now, we have another conflict on our hands-Sierra Leone", he said. On June 20, 1999, Air Guinea restarted its flights to Accra, Ghana. The two countries were linked by regular flights before their independence in 1952 and 1953 but that was stopped in 1953. On November 3, 2003, A Ghana-Guinea Friendship Association has been formed in Accra and its focus on integration and development between the two countries. Speaking at the inauguration, the Vice Chairman of the Association, Mr. Iddrisu Mumuni Dimbie said the two countries have agreed to work together as a step towards involving similar organisations in the sub-region in their activities. He said the main objective of the association is to strengthen the age-old friendship between the two countries and other ECOWAS nations to open avenues for the promotion of economic, political, sporting and cultural ties. He commended the leaders in the subregion for the implementation of the ECOWAS protocols of trade and the free movement of goods and peoples. He said, "a classic example of this is the use of the Tema and Takoradi ports by landlocked countries like Burkina Faso, Mali and Niger among other nations." He said but for such cooperation among the leaders many Francophone students would not be able to study in English speaking countries like Ghana. He said other achievements of the leaders of ECOWAS nations led by Ghana, Guinea and Nigeria is their collective effort at ending civil wars in Sierra Leone, Liberia and the quick solutions to the problems emanating from the coups and attempted ones in Guinea Bissau and Cote d'Ivoire. "We wish therefore to doff our hats to salute our current leaders of the subregion for their achievements so far in peace building and development," he said. He said the association is in support of the peer review mechanism of NEPAD and said such an act would facilitate the rules of good governance and rule of law. As part of the activities of the association, he said, they would engage in agriculture, industry and educational projects among others adding that similar arrangements would be made between Guinea and other countries.
+
+PS-SOURCES: New York Times October 2, 1958; October 6, 1958; November 21, 1958; May 2, 1959; March 3, 1966; May 7, 1972; May 14, 1972; July 8, 1972; January 14, 1973; BBC March 11, 1980; August 12, 1980; November 17, 1987; March 14, 1996; Xinhua June 10, 1978; December 9, 1986; September 12, 1988; March 22, 1991; June 20, 1999; Africa News October 14, 1997; November 3, 2003; Deutsche Presse-Agentur September 2, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

@@ -1,0 +1,304 @@
+FILE: cm290365v11.0.txt
+DYAD: POLAND-RUSSIA/USSR
+RIVALRY: RIV762
+DISPUTE(S): MID2603 MID1219 MID2604 
+RIVALRY: RIV763
+DISPUTE(S): MID410 MID169 
+RIVALRY: RIV764
+DISPUTE(S): MID185 
+RIVALRY: RIV765
+DISPUTE(S): MID4106 MID4107 
+
+PS: 19181103-19190831 .5 19190901-19210320 0.0 19210321-19380922 .5 19380923-19450420 .25 19450421-19910224 0.75 19910225-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 19450421 - Polish-Soviet friendship treaty
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID169 
+
+MID2603
+
+TERRMID: MID2603 3 -- not territory
+TERRMID-CER: MID2603 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2603 1 -- third party link to territorial MID
+TERRLINK-CER: MID2603 1 -- certain
+TERRLINK-NOTES: MID2603 from Gibler (2018), USSR was claiming Lithuania since WWI, but Lithuania declared independence in 1918. The Soviets refused to relinquish their claim on Lithuania and invaded, but Lithuania and Poland pushed the Soviets back out of Lithuania. Coded third party link to territorial MID because Poland is connected to this territorial clash between Lithuania and USSR when they helped the Lithuanians expel the Soviets. 
+
+MARITMID: MID2603 3 -- not maritime 
+MARITMID-CER: MID2603 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2603 3 -- not islands 
+ISLMID-CER: MID2603 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2603 3 -- not civil war 
+CIVWARMID-CER: MID2603 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2603 3 -- not civil war link
+CIVWARLINK-CER: MID2603 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2603 3 -- not coup 
+COUPMID-CER: MID2603 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2603 3 -- not coup link
+COUPLINK-CER: MID2603 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1219
+
+TERRMID: MID1219 1 -- territorial MID
+TERRMID-CER: MID1219 1 -- certain 
+TERRMID-NOTES: MID1219 from Gibler (2018), Poland sought to reclaim its former territory from Russia. Poland began invading and reclaiming Soviet territory that once belonged to Poland in 1919 and continued until Poland and Russia delimited their boundary in 1920. Coded territorial MID because Poland claimed, pursued, and won its former territory via force. 
+
+TERRLINK: MID1219 3 -- not third party link to territory 
+TERRLINK-CER: MID1219 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1219 3 -- not maritime 
+MARITMID-CER: MID1219 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1219 3 -- not islands 
+ISLMID-CER: MID1219 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1219 3 -- not civil war 
+CIVWARMID-CER: MID1219 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1219 3 -- not civil war link
+CIVWARLINK-CER: MID1219 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1219 3 -- not coup 
+COUPMID-CER: MID1219 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1219 3 -- not coup link
+COUPLINK-CER: MID1219 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2604
+
+TERRMID: MID2604 3 -- not territory
+TERRMID-CER: MID2604 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2604 1 -- third party link to territorial MID
+TERRLINK-CER: MID2604 1 -- certain
+TERRLINK-NOTES: MID2604 from Gibler (2018), Latvia had been occupied by Russia during WWI and began pushing for independence in 1918. In 1919, the Soviets invaded and occupied Latvia, wanting it to be part of the Soviet Union, but Latvia fought back, and Germany and Poland intervened militarily to push the Soviets back. Coded third party link to territorial MID because Poland helped Latvia expel the Soviets in this territorial dispute between Latvia and USSR. 
+
+MARITMID: MID2604 3 -- not maritime 
+MARITMID-CER: MID2604 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2604 3 -- not islands 
+ISLMID-CER: MID2604 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2604 3 -- not civil war 
+CIVWARMID-CER: MID2604 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2604 3 -- not civil war link
+CIVWARLINK-CER: MID2604 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2604 3 -- not coup 
+COUPMID-CER: MID2604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2604 3 -- not coup link
+COUPLINK-CER: MID2604 1 -- certain 
+COUPLINK-NOTES: 
+
+MID410
+
+TERRMID: MID410 3 -- not territory
+TERRMID-CER: MID410 1 -- certain 
+TERRMID-NOTES: MID410 from NYT 11/28/1938, Russia and Poland had been at odds over the Soviets supporting communist political parties in Poland (not militarized). Poland warned Russia to not interfere in its affairs. The warning by Poland to Russia appears to be the trigger for this MID, and the situation eventually died down after Russia agreed to stop funding communist organizations as long as Poland ensured that anti-Soviet activity did not grow in Poland. Coded not territory because there was no territorial dispute active; this was a regime type issue, as USSR was initially attempting to encourage communist groups in Poland. 
+
+TERRLINK: MID410 3 -- not third party link to territory 
+TERRLINK-CER: MID410 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID410 3 -- not maritime 
+MARITMID-CER: MID410 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID410 3 -- not islands 
+ISLMID-CER: MID410 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID410 3 -- not civil war 
+CIVWARMID-CER: MID410 1 -- certain
+CIVWARMID-NOTES: MID410 the communist groups in Poland were not armed or militarized. 
+
+CIVWARLINK: MID410 3 -- not civil war link
+CIVWARLINK-CER: MID410 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID410 3 -- not coup 
+COUPMID-CER: MID410 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID410 3 -- not coup link
+COUPLINK-CER: MID410 1 -- certain 
+COUPLINK-NOTES: 
+
+MID185
+
+TERRMID: MID185 3 -- not territory
+TERRMID-CER: MID185 1 -- certain 
+TERRMID-NOTES: MID185 from Gibler (2018), USSR worried that an unfriendly government could come to power in Poland. The Soviets attended the Polish Union Worker's Party conference in Poland and sent troops into Warsaw, triggering this MID. Soviet and Polish troops clashed outside of Warsaw. The Soviets withdrew their forces when Poland convinced them that anti-Soviet leadership was not a threat. Coded not territory because this was a regime type issue, and no territory was being disputed. 
+
+TERRLINK: MID185 3 -- not third party link to territory 
+TERRLINK-CER: MID185 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID185 3 -- not maritime 
+MARITMID-CER: MID185 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID185 3 -- not islands 
+ISLMID-CER: MID185 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID185 3 -- not civil war 
+CIVWARMID-CER: MID185 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID185 3 -- not civil war link
+CIVWARLINK-CER: MID185 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID185 3 -- not coup 
+COUPMID-CER: MID185 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID185 3 -- not coup link
+COUPLINK-CER: MID185 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4106
+
+TERRMID: MID4106 3 -- not territory
+TERRMID-CER: MID4106 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4106 3 -- not third party link to territory 
+TERRLINK-CER: MID4106 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4106 3 -- not maritime 
+MARITMID-CER: MID4106 1 -- certain
+MARITMID-NOTES: MID4106 from Gibler (2018), Poland forced a Russian warship to turn away when it approached a Polish fishing vessel in an area where Russian military exercises were planned. Coded not maritime because there was no maritime boundary being disputed. 
+
+ISLMID: MID4106 3 -- not islands 
+ISLMID-CER: MID4106 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4106 3 -- not civil war 
+CIVWARMID-CER: MID4106 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4106 3 -- not civil war link
+CIVWARLINK-CER: MID4106 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4106 3 -- not coup 
+COUPMID-CER: MID4106 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4106 3 -- not coup link
+COUPLINK-CER: MID4106 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4107
+
+TERRMID: MID4107 3 -- not territory
+TERRMID-CER: MID4107 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4107 3 -- not third party link to territory 
+TERRLINK-CER: MID4107 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4107 3 -- not maritime 
+MARITMID-CER: MID4107 1 -- certain
+MARITMID-NOTES: MID4107 from Gibler (2018), Russia seized a Polish fishing vessel for not having a valid fishing license. Coded not maritime because this was a fishing dipute and no maritime border was being disputed. 
+
+ISLMID: MID4107 3 -- not islands 
+ISLMID-CER: MID4107 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4107 3 -- not civil war 
+CIVWARMID-CER: MID4107 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4107 3 -- not civil war link
+CIVWARLINK-CER: MID4107 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4107 3 -- not coup 
+COUPMID-CER: MID4107 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4107 3 -- not coup link
+COUPLINK-CER: MID4107 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4106
+rivalry=290365 nationa=RUSSIA/USSR nationb=POLAND MID4106 19930620-19930620 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russian warship sailed up to a Polish fishing boat in international waters where Russian maneuvers would be taking place and demanded that they leave immediately. First and last day of dispute was on 6/20/1993.
+
+MID4107
+rivalry=290365 nationa=RUSSIA/USSR nationb=POLAND MID4107 19970226-19970321 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+On February 26, 1997, the Russian coast guard seized a Polish fishing trawler, the Aquarius in the Sea of Okhotsk. There were questions about the validity of the boat's fishing permit. An accord was signed between the vessel's owner and the Russian Environmental Protection Committee, and the boat was allowed to leave on March 21. After picking up the crew, the boat was allowed to return to the fishing grounds in the Sea of Okhotsk. Coder: Ric Stoll. Date: 7/22/02. First day of dispute was on 2/26/1997 and last day of dispute was on 3/21/1997.
+
+RIVNOTES: 
+RIV763: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The first rivalry between Poland and Russia was over the attempt by the Bolsheviks to extend the Russian revolution westward. Several disputes occurred over boundary lines between Russia, Poland and Lithuania in 1919. Poland seized Wilno (MID2603) from Lithuania and regained Warsaw from Russia (www.onwar.com 2003). Polish forces engaged and defeated Russian troops in Latvia in 1920 (MID2604). Direct conflict between Poland and Russia continued until the end of the Russo-Polish War (MID1219) in 1920. Allied involvement was limited until the Russian advance on Warsaw in 1920, for most of the conflict Poland fought in isolation. In October of 1920 an armistice was signed and later in March of 1921 both Russia and Poland signed the Treaty of Riga (www.onwar.com 2003). The treaty gave the bulk of the Ukraine to the Soviet Republic while retaining portions of Belarus and some of the Ukraine for Poland. 
+
+The next three disputes all pertain to the Second World War (MID258) and the Russian invasion of Poland following German occupation. In 1938 several incidents occurred where Russia arrested over a 100,000 poles, some being relocated and others being executed (MID410). In 1939 Hitler's Germany and Stalin's Russia divided Poland between them with both nations engaging Poland in periodic disputes until full scale Russian invasion occurred in September of 1939 (MID169). Under the post-war Yalta agreement parts of Poland were given to Russia (Clodfelter 1992). To compensate, parts of Germany were given to Poland. In 1952 Poland became the People's Republic and fell under the influence of Russia until 1991. Unsurprisingly there were few disputes during that time. The only dispute occurred in 1956 (MID185) and was a revolt by 15,000 Polish workers that was put down by Soviet forces. However, following the dispute Poland was given more leeway by Russia and another dispute would not occur until the fall of the communist regime in Russia. 
+
+The final two disputes between Russia and Poland (MID4106 and MID4107) were over illegal immigration from Russia into Poland and policy changes in 1997 that made it more difficult for Poland to return those caught. There is no clear resolution to this issue. 
+
+SOURCES-CR: 
+Clodfelter 1992; www.onwar.com
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

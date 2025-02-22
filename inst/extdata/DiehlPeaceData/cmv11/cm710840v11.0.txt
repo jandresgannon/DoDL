@@ -1,0 +1,434 @@
+FILE: cm710840v11.0.txt
+DYAD: CHINA-PHILIPPINES
+RIVALRY: RIV1309
+DISPUTE(S): MID51 MID611 MID3084 MID4027 MID4028 MID4128 MID4279 
+
+RIVNOTES: 
+RIV1309: MID1452 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19460704-19490930 0.5 19491001-20209999 0.25 
+
+PS-UPDATE2020: "The Philippines was handed a victory in 2016 when an international tribunal in the Hague dismissed China’s claims in the South China Sea, which contains the world’s busiest shipping lanes. The judges ruled that specific portion of the sea claimed by both countries belonged to the Philippines alone. China rejected the ruling:" https://www.cnbc.com/2021/12/27/philippine-president-dutertes-china-pivot-hasnt-reduced-south-china-sea-tensions.html See also: https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220324
+PS-LAST-CHECKED: 20220324
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 narrative, this MID is the Korean War. The US and UN forces fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and NATO's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this multilateral MID opposite each other. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and Philippines did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because Philippines and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 3 -- not civil war 
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Like China, Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because the Korean civil war is outside of this dyad, and the UN forces and China fought here due to their opposing support in that war. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES:
+
+MID611
+
+TERRMID: MID611 3 -- not territory
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain
+TERRLINK-NOTES: MID611 from Gibler 2018, this is the Vietnam War, an internationalized civil war that has a territorial dispute element between North and South Vietnam. The US, South Korea, Thailand, Cambodia, Philippines, Australia, and New Zealand supported South Vietnam, and USSR and China supported North Vietnam. Philippines's and China's opposing support pulls them into this MID against each other. Coded third party link to territorial MID because this was connected to a territorial dispute between North and South Vietnam. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 3 -- not civil war
+CIVWARMID-CER: MID611 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID611 1 -- civil war link
+CIVWARLINK-CER: MID611 1 -- certain
+CIVWARLINK-NOTES: MID611 coded civil war link because the Vietnam War is an internationalized civil war occurring outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3084 
+
+TERRMID: MID3084 3 -- not territory 
+TERRMID-CER: MID3084 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3084 3 -- not third party link to territory 
+TERRLINK-CER: MID3084 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3084 1 -- maritime MID
+MARITMID-CER: MID3084 3 -- uncertain 
+MARITMID-NOTES: MID3084 coded maritime MID because the Spratly Islands are disputed due to maritime boundary implications. Coded uncertain because GML recommend the case be dropped since Philippines's statement is not a threat. 
+
+ISLMID: MID3084 1 -- islands MID
+ISLMID-CER: MID3084 3 -- uncertain 
+ISLMID-NOTES: MID3084 from Gibler, Miller, and Little 2016, Philippines declared that they would not allow China to encroach on the Spratly Islands, which they disputed with China. Coded islands MID because this was connected to an islands dispute, and coded uncertain because GML recommend the case be dropped since Philippines's statement is not a threat. 
+
+CIVWARMID: MID3084 3 -- not civil war 
+CIVWARMID-CER: MID3084 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3084 3 -- not civil war link 
+CIVWARLINK-CER: MID3084 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3084 3 -- not coup 
+COUPMID-CER: MID3084 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3084 3 -- not coup link
+COUPLINK-CER: MID3084 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4027 
+
+TERRMID: MID4027 3 -- not territory 
+TERRMID-CER: MID4027 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4027 3 -- not third party link to territory 
+TERRLINK-CER: MID4027 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4027 1 -- maritime MID
+MARITMID-CER: MID4027 1 -- certain 
+MARITMID-NOTES: MID4027 from Gibler 2018, in 1995 Chinese naval vessels seized Philippines fishing boats in disputed waters near the Spratly Islands. Philippines later seized Chinese vessels. A mutual show of force followed. Coded maritime MID because this was connected to a maritime dispute.
+
+ISLMID: MID4027 1 -- islands MID
+ISLMID-CER: MID4027 1 -- certain 
+ISLMID-NOTES: MID4027 from Gibler 2018, in 1995 Philippines found a Chinese structure built on a disputed island in the Spratlys and sent naval vessels and aircraft in response. Coded islands MID because this was connected to an islands dispute. 
+
+CIVWARMID: MID4027 3 -- not civil war 
+CIVWARMID-CER: MID4027 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4027 3 -- not civil war link 
+CIVWARLINK-CER: MID4027 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4027 3 -- not coup 
+COUPMID-CER: MID4027 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4027 3 -- not coup link
+COUPLINK-CER: MID4027 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4028 
+
+TERRMID: MID4028 3 -- not territory 
+TERRMID-CER: MID4028 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4028 3 -- not third party link to territory 
+TERRLINK-CER: MID4028 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4028 1 -- maritime MID
+MARITMID-CER: MID4028 1 -- certain 
+MARITMID-NOTES: MID4028 from Gibler 2018, in 1996-1997 Philippines arrested Chinese fishermen in disputed waters, and later seized other Chinese fishermen in the disputed waters. Coded maritime MID because this was connectee to a maritime dispute. 
+
+ISLMID: MID4028 1 -- islands MID
+ISLMID-CER: MID4028 1 -- certain 
+ISLMID-NOTES: MID4028 from Gibler 2018,this MID involves Philippines fortifying disputed islands in the Spratly archipelago, and Chinese vessles then sailed into the area. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID4028 3 -- not civil war 
+CIVWARMID-CER: MID4028 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4028 3 -- not civil war link 
+CIVWARLINK-CER: MID4028 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4028 3 -- not coup 
+COUPMID-CER: MID4028 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4028 3 -- not coup link
+COUPLINK-CER: MID4028 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4128 
+
+TERRMID: MID4128 3 -- not territory 
+TERRMID-CER: MID4128 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4128 3 -- not third party link to territory 
+TERRLINK-CER: MID4128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4128 1 -- maritime MID
+MARITMID-CER: MID4128 1 -- certain 
+MARITMID-NOTES: MID4128 from Gibler 2018, in 1998-2000 Philippines fired warning shots at Chinese fishing vessels on several occasions. Coded maritime MID because this was connected to disputed waters. 
+
+ISLMID: MID4128 3 -- not islands 
+ISLMID-CER: MID4128 1 -- certain 
+ISLMID-NOTES: MID4128 coded not islands because although this MID did occur near disputed islands, the events of this MID are confined to disputed maritime waters and no islands are actually involved. The islands in the area are disputed because of maritime boundary implications. 
+
+CIVWARMID: MID4128 3 -- not civil war 
+CIVWARMID-CER: MID4128 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4128 3 -- not civil war link 
+CIVWARLINK-CER: MID4128 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4128 3 -- not coup 
+COUPMID-CER: MID4128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4128 3 -- not coup link
+COUPLINK-CER: MID4128 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4279 
+
+TERRMID: MID4279 3 -- not territory 
+TERRMID-CER: MID4279 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4279 3 -- not third party link to territory 
+TERRLINK-CER: MID4279 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4279 1 -- maritime MID
+MARITMID-CER: MID4279 1 -- certain 
+MARITMID-NOTES: MID4279 from Gibler 2018, China sent several vessels into disputed waters at the Scarborough Shoal in 2001. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4279 3 -- not islands
+ISLMID-CER: MID4279 1 -- certain 
+ISLMID-NOTES: MID4279 the Scarborough Shoal is in the maritime waters associated with one (or several) of the Spratly Islands, a disputed archipelago in the South China Sea to which both China and Philippines have a claim (Washington Times 2001). Coded not islands. The dispute over the Spratlys is connected to a maritime dispute, as the claimants to the Spratlys and other disputed islands in the South China Sea desire natural resource reserves within the territorial waters granted to the owner of the islands. The islands issue is therefore motivated by the maritime issue; nonetheless, since this MID did not involve the disputed islands, this is coded not islands (ie, an islands MID would activate the maritime issue, but not vice versa [as here]).
+
+CIVWARMID: MID4279 3 -- not civil war 
+CIVWARMID-CER: MID4279 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4279 3 -- not civil war link 
+CIVWARLINK-CER: MID4279 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4279 3 -- not coup 
+COUPMID-CER: MID4279 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4279 3 -- not coup link
+COUPLINK-CER: MID4279 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4448 
+
+TERRMID: MID4448 3 -- not territory 
+TERRMID-CER: MID4448 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4448 3 -- not third party link to territory 
+TERRLINK-CER: MID4448 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4448 1 -- maritime MID 
+MARITMID-CER: MID4448 1 -- certain 
+MARITMID-NOTES: MID4448 from Gibler 2018, Philippines seized Chinese fishing vessels in disputed waters. China protested the seizure. Coded maritime MID because this was connected to a maritime dispute in the South China Sea. 
+
+ISLMID: MID4448 3 -- not islands 
+ISLMID-CER: MID4448 1 -- certain 
+ISLMID-NOTES: MID4448 the boat seizure occurred near the disputed Luzon islands (per cm narrative). These islands are disputed because sovereignty over them grants maritime boundary access to natural resources. Coded not islands because this MID occurred in disputed waters (not on an island), and the nearby islands are disputed because of maritime boundary implications, so the maritime issue is connected to this MID. 
+
+CIVWARMID: MID4448 3 -- not civil war 
+CIVWARMID-CER: MID4448 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4448 3 -- not civil war link 
+CIVWARLINK-CER: MID4448 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4448 3 -- not coup 
+COUPMID-CER: MID4448 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4448 3 -- not coup link
+COUPLINK-CER: MID4448 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1452 
+
+TERRMID: MID1452 3 -- not territory 
+TERRMID-CER: MID1452 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1452 3 -- not third party link to territory 
+TERRLINK-CER: MID1452 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1452 1 -- maritime MID
+MARITMID-CER: MID1452 1 -- certain 
+MARITMID-NOTES: MID1452 coded maritime MID because the Spratly Islands are disputed due to the implications of the maritime boundaries associated with sovereignty over the islands. Several states (including China and Vietnam here) claim the islands because they want to control the waters which contain natural resources and strategic value. The maritime claim gives rise to the islands claim, so this is coded maritime MID. See ISLMID-NOTES. 
+
+ISLMID: MID1452 1 -- islands MID
+ISLMID-CER: MID1452 1 -- certain 
+ISLMID-NOTES: MID1452 from Gibler 2018, in 1956 a Filipino man and several armed men sailed to the disputed Spratly Islands, removed the Taiwanese flag from one of the rocks, and claimed it for Philippines. China, Taiwan, and Vietnam reiterated their claims in response to this. China and Philippines landed on other rocks to claim them, and Chinese nationalists seized a Philippines boat. Coded islands MID because this was connected to the disputed Spratly Islands. 
+
+CIVWARMID: MID1452 3 -- not civil war 
+CIVWARMID-CER: MID1452 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1452 3 -- not civil war link 
+CIVWARLINK-CER: MID1452 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1452 3 -- not coup 
+COUPMID-CER: MID1452 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1452 3 -- not coup link
+COUPLINK-CER: MID1452 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4448
+rivalry=710840 nationa=PHILIPPINES nationb=CHINA MID4448 20020716-20020719 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The Philippine navy seized two Chinese fishing vessels in an area of the South China Sea near the Luzon Islands, ownership of which is disputed with China. The Chinese government protested the seizure. First day of dispute was on 7/16/2002 and last day of dispute was on 7/19/2002.
+
+MID3 1993-2001:
+
+MID4027
+rivalry=710840 nationa=CHINA nationb=PHILIPPINES MID4027 19950100-19950513 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+This dispute is based on a series of militarized incidents between Philippines and China, related to control over the disputed Spratly Islands. In January 1995, China detained Philippine fishermen and Philippines filed an official protest against China. On February 22, 1995, Philippines dispatched naval vessels and aircraft to the Spratlys in response to the discovery of Chinese structures there. The naval craft closed within "half a mile" of Chinese vessels and fighter jets conducted renaissance flights in the area. On March 25, 1995, Philippines seized four Chinese fishing vessels sailing near an island claimed by Philippines. Philippines sentenced the new crew to 10 months in jail. China demanded the return of the crew and called the verdict "illegal." On May 13, 1995, China and Philippines engaged in mutual "show of force", in which Chinese vessels blocked a Philippine navy vessel sailing toward the Spratlys. Philippines sent a navy ship to the Spratly area and an airforce jet to the area when Chinese vessels approached the Philippine ship. First day of dispute wa son 1/00/1995 and last day of dispute was on 5/13/1995.
+
+MID4028
+rivalry=710840 nationa=PHILIPPINES nationb=CHINA MID4028 19961200-19970923 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute is based on a couple of consecutive militarized incidents between China and Philippines over control of the disputed Spratly Islands. In December 1996, Philippines upgraded its capabilities in the Spratlys to prepare for a possible conflict with China. Four months later, in April 1997, four armed Chinese vessels were spotted in the Spratly Islands and cruised near Kota and Panata Islands where Philippine troops are stationed. In response, Philippines scrambled fighter jets for patrol missions. Furthermore, they consequently deployed an additional company of marines (approximately 200 men). Philippine forces were also placed on alert in response to the sightings of Chinese warships. Philippines also deployed naval vessels to the disputed Scarsborough Shoal and blocked the entry of three non-governmental Chinese boats into the area in, again, April 1997. In May 1997, Philippines arrested 21 Chinese fishermen for poaching off the Scarsborough Shoal. In June 1997, Philippines blasted concrete slabs and pulled up buoys in an area of the Spratly Islands. In the same month, Philippine navy patrolmen fired warning shots at a Chinese fishing vessel near Kota Island and Spratly Islands. In the next month, Philippines arrested at least 23 Chinese and Hong Kong fishermen because of "illegal entry and illegal fishing." Chinese Embassy secretary said China would consider official protest. On September 23, 1997, the fishermen were released. First day of dispute was on 12/00/1996 and last day of dispute was on 9/23/1997.
+
+MID4128
+rivalry=710840 nationa=PHILIPPINES nationb=CHINA MID4128 19980800-20000200 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute is based on a series of bilateral incidents among China and Philippines, which occurred because of tensions about control over the disputed Spratly Islands by the claimant countries. In August 1998, Philippines engaged in a show of force by increasing patrols in the Spratly Islands as a result of the sighting of unspecified Chinese and Vietnamese vessels. Starting from October 28, 1998, Philippines protested against the intrusion of several armed Chinese vessels and cargo ships near a group of islands in the Spratlys. This incident is reported as China's show of force against Philippines and the end day is unclear. China was reported to be constructing structures on the area. In response to China's naval movements in the Spratlys, Philippines engaged in a counter show of force by increasing naval patrols in the area in order to prevent the entrance and exit of Chinese naval vessels (starting in November 1998). China protested the increase of Philippine patrols. On November 11, 1998, Philippines placed its forces on alert in the South China Sea in response to Chinese encroachment on one of the disputed reefs. The Philippine navy was ordered to "shoot across the bow" of any intruding Chinese ships. On November 29, 1998, Philippines arrested twenty Chinese fishermen fishing on the Spratly Islands and detained their boats. China protested the Philippine action. The reports state that the fishermen were still under detention as of December 21, 1998. On May 23, 1999, a Philippine navy vessel chased and collided with a Chinese fishing vessel near the Scarborough Shoal. The Chinese vessel sank as a result of the collision, which Philippines labeled as "accidental." China expressed "strong displeasure" for the incident. On July 19, 1999, a Philippine navy ship chased two Chinese fishing vessels in the Spratly Islands. The Philippine vessel fired warning shots at one of the fishing vessels before ramming the fishing boat. The Philippine side claimed that the ramming was accidental. China filed a protest in response to the Philippine show of force. On October 30, 1999, Vietnamese troops allegedly shot a Philippine air force plane flying over Pigeon Reef (a reef controlled by Vietnam). Vietnam accused Philippines of seriously violating Vietnam's sovereignty and reiterated its claim to sovereignty over all the Spratly Islands. In the first two months of 2000, Philippines navy boarded several Chinese fishing vessels and fired warning shots across the bows of two Chinese vessels near the Scarborough Shoal. The participants mentioned that they wanted to solve the Spratlys issue peacefully after the incidents. First day of dispute was on 8/00/1998 and last day of dispute was on 2/00/2000.
+
+MID4279
+rivalry=710840 nationa=CHINA nationb=PHILIPPINES MID4279 20010500-20010500 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute is based on a show of force by China against Philippines. China isreported to have increased its naval presence in the disputed Spratly Islands in May 2001, including conducting live fire exercises in the area. Furthermore, Chinese vessels were spotted in the Scarsborough Shoal area for the first time. This naval deployment occurred even though China assured to Philippines that China was not seeking a military presence in the area. First and last day of dispute was on 5/00/2001.
+
+NARRATIVE-CM:
+Chinese troops occupied Mischief Reef, a territory claimed by the Philippines in the South China Sea, on February 1, 1995. Philippines formally protested the occupation to the Chinese government on February 8, 1995. Philippines and Chinese representatives held negotiations in Beijing on March 20-22, 1995. Philippines naval ships fired warning shots near two Chinese fishing vessels in the South China Sea on February 2, 2000. Philippines naval ships fired on a Chinese fishing vessel near the island of Palawan in the South China Sea on May 26, 2000, resulting in the death of one Chinese fisherman and detention of seven Chinese fishermen.
+
+SOURCES-CM: 
+*Associated Press*, February 4, 2000; *Keesing,* February 1995, March 1995; *Kyodo News Service*, February 4, 2000; *Reuters*, February 4, 2000, May 27, 2000, May 29, 2000.
+
+NARRATIVE-CR:
+Two issues motivate the rivalry between China and the Philippines. The first is the position of the Philippines in the Cold War as an ally of the United States. The second issue is one of territory, specifically the recurring disputes over the Spratly Islands. Both the Philippines and China claim all or part of the South China Sea island chain. 
+
+MID51 is the Korean War. The Philippines sent troops as a part of the UN forces and in support of its ally the United States. 
+
+MID1452 is a multilateral MID involving the Philippines, the PRC, Taiwan, and South Vietnam. Each claims all or part of the Spratly Island chain. There were several incidents during this period including the South Vietnamese claim of one island, Taiwanese threats to South Vietnam, PRC warnings to South Vietnam, and a French claim to the islands. In October, a Philippine fishing vessel was boarded by a Taiwanese gunboat. The crew was disarmed and detained. Taiwanese naval personnel questioned, warned, and released the crew. 
+
+MID611 was the Vietnam War. The Philippines assisted the United States in the Vietnam War. Though there was much resistance to the deployment of military assistance in the Philippines, President Marcos supplied a 2,300-man combat engineer unit in support of the US in Vietnam. 
+
+On May 11, 1982 MID3084 occurred. Prime Minister Cesar Virata inspected some of the islands the Philippines occupied. Afterwards he claimed that the Philippines would defend these strategically important islands, with their rich resources and would not allow encroachment by China or any other government. 
+
+MID4027 occurred from January through May of 1995. Chinese troops occupied Mischief Reef, a territory claimed by the Philippines in the South China Sea, on February 1, 1995. Philippines formally protested the occupation to the Chinese government on February 8, 1995. Philippines and Chinese representatives negotiated in Beijing on March 20-22, 1995. 
+
+MID4028 occurred from December of 1996 through September of 1997. The Philippine navy orders a Chinese speedboat and two fishing boats to leave Scarborough Shoal in April; Philippine fishermen remove Chinese markers and raise their flag. China sends three warships to survey Philippine-occupied Panata and Kota Islands. 
+
+MID4128 occurred from August of 1998 until February of 2000. In August 4 Chinese ships, a Vietnamese vessel and two unidentified boats were sighted anchored near a group of islets claimed by the Philippines in the disputed Spratly Islands. Later in the month, the US and the Philippines held live fire naval exercise near the disputed Scarborough Shoal. 
+
+MID4279 occurred in May of 2001. A Philippine navy vessel fired warning shots at Chinese fishing vessel that were allegedly poaching off the coast of El Nido in Palawan on 1 May 2001. 
+
+SOURCES-CR: 
+Associated Press, February 4, 2000; BBC 5/10/2001 (Lexus Nexus); Deutsche Presse-Agentur, 8/4 8/61998; Keesing, February 1995, March, 1995; Kyodo News Service, February 4, 2000; New York Times, 6/10, 8/31, 9/2, 10/4/1956; Reuters, February 4, 2000, May 27, 2000, May 29, 2000.
+
+PS-NARRATIVE: 
+
+19460704-19490930 0.5
+
+The Philippines became independent on July 4, 1946. On April 11, 1947, negotiations between China and the Philippines for a friendship treaty were concluded in Baguio, Philippines. The treaty needs the approval of the Nanking's nationalist Chinese government. On February 6, 1949, the Filipino government was worried about the gains of the Communists in China. On July 12, 1949, the president of Philippines, Elpidio Quirinio, said that the Philippines are going to work together with the nationalist government of China to stop the advancement of Communism in Asia. Quirinio conferred with Chiang Kai-Shek to form a Pacific alliance against Communism. Communist China established the Peoples' Republic of China on October 1, 1949. Thus, the threat to the Philippines became even stronger, and the animosity between the PRC and the Philippines increased significantly from that moment on, as the two countries were on different alliances of the Cold War.
+
+The Philippines and China agreed on strengthening bilateral relations between the two countries at the conclusion of the 22nd Philippines-China Joint Trade Committee (JCT) meeting on July 29, 2002. "The leaders of both delegations agreed to strengthening bilateral relations by improving the current bilateral trade and investment structure through complementary product diversification and intensified two-way investment," said Trade and Industry Secretary Manuel A. Roxas II said. Trade and Industry Undersecretary Thomas G. Aquino and Vice Minister An Min of China's Ministry of Foreign Trade and Economic Cooperation led the respective delegations from the Philippines and the People's Republic of China (PROC). The 22nd JCT meeting was the first since China was admitted to the World Trade Organization (WTO). "Both countries reported significant development in their respective economies manifested by positive growth in 2001 and a forecast of continuous momentum towards moderate growth in 2002," Aquino reported. On the part of the Philippines, an air of optimism prevailed over China's further improvement of market access for Philippine products including copper cathodes, fertilizer and sulfuric acid. Increase in the proportion of electronics products and an enhanced cooperation in the field of information and communications technology were also considered. Further tariff reduction on the Philippines' carageenan from the current 12.5 percent level was also pushed. The Philippines also sought to be allowed to sell coconut coir and peat to prevent soil erosion as proposed by the Philippine Coir Industry Association of the Philippines. Also discussed were the preparations for the Philippine Solo Exhibition in Shanghai in March 2003 and the expeditious implementation of the cooperation agreements signed between the Philippines International Trading Corp. with China Non-Ferrous Metals Industry in October 2001. Philippines has also expressed interest to work with China for the harmonization of products standards. Both parties agreed to explore a Mutual Recognition Agreement to facilitate trade. But China said there could be some difficulty on the Philippines request for concessional loans for the Manila-Clark Railway System although gave assurance for technical assistance. China also pressed for access of its vegetables in the Philippine market, which is being hampered by quarantine issues. As China implements WTO commitments to liberalize, the Philippines sees it as an opportunity to cash in on such market opening and to take advantage in higher value and knowledge-intensive products since the Philippines may not be able to compete in the cheaply priced Chinese products. Shifting some of the Philippine exports to China will reduce the country's long dependence on U.S. as the country's biggest export market. Beijing was Manila's 11th biggest trading partner in 2001 accounting for 2.73 percent of total Philippine trade. Two-way trade grew by 8.5 percent in the last five years. While Manila's exports to Beijing grew by 35.17 percent for the last five years, imports have been down by 2.62 percent in the same period. This made China the country's 12th largest import supplier. The Philippines has been incurring trade deficit with China for the past several years but it managed to turn the table recently. In the first quarter this year, the Philippines managed to post a trade surplus of $36 million against China with imports reaching only $269 million as against exports of $333 million. "The Philippines has to take full advantage of China's own liberalization, deregulation, and reform measures. It is up to us to be able to supply China's increasing needs with our exports," Roxas said. Other issues being tackled at the meeting were the confiscation of China-made motorcycles by the National Bureau of Investigation (NBI), alleged unfair treatment of Chinese seamen in the Philippines, Beijing's hosting of Olympics 2008 and the Philippine participation to Olympic-related projects, the Philippines China Agricultural Technology Center, and the ASEAN-China Framework Agreement. "With the accession of China to the WTO last year, it is but prudent to assume that China will be figuring more prominently not only in Philippine bilateral trade but in the international trading arena as well," Roxas added.
+
+20021101-20159999 0.25
+
+The 10 members of ASEAN and China have made a major political breakthrough to prevent an escalation of tensions in the disputed South China Seas, officials said on November 1, 2002. Chem Widhya, spokesman for the Cambodian foreign ministry, said all members of the Association of South East Asian Nations (ASEAN) and China had reached a draft agreement on conduct in the region after marathon meetings. "The text stipulates the countries of ASEAN and China restrain from any activities that would escalate or that would complicate the relations among themselves... and also to help any person in distress," he said. Chem Widhya had chaired marathon meetings aimed at resolving long-running disputes in the area and this had resulted in the declaration on the conduct of parties in the South China Seas. He said four disputing ASEAN countries-Brunei, Malaysia, Philippines, and Vietnam-had reached an agreement on the common text on October 11, 2002. The remaining six ASEAN members-Cambodia, Indonesia, Laos, Myanmar, Singapore and Thailand-approved the text on October 31, 2002. China gave its agreement on November 1, 2002. Beijing's approval was signaled as Chinese Prime Minter Zhu Rongji arrived for the following week's annual ASEAN summit which will draw leaders from 15 countries.
+
+China and the Philippines, on the occasion of an official goodwill visit to the Philippines by China 's top legislator Wu Bangguo, issued in Manila, on August 31, 2003, a joint communique on relations between the two countries and a broad range of international issues of common concern. On bilateral relations, the communique says that leaders of the two countries expressed satisfaction with the sound and smooth development of relations between China and the Philippines. They agreed that the strengthening of the traditional friendship between the two sides and the development of a stable and lasting relationship of good-neighborliness, mutual trust and friendly cooperation not only serve the fundamental interests of the two countries, but also conduce to regional peace, stability and development, the communique says. The Philippine side reiterates its continued adherence to the one China policy, recognizing that there is only one China in the world and that Taiwan is an inalienable part of China, the communique says, "Neither the Philippine Government nor its Congress will enter into any official contacts with Taiwan in whatever form." Wu Bangguo, Chairman of the Standing Committee of the National People's Congress (NPC) of China, arrived in Manila for a four-day visit and to attend the Fourth General Assembly of the Association of Asian Parliaments for Peace (AAPP). During the visit, Wu met with Philippine President Gloria Macapagal Arroyo, and held talks with Jose de Venecia, Speaker of the Philippine House of Representatives, and Franklin M. Drilon, President of the Philippine Senate. Wu and de Venecia shared the view that China and the Philippines have contributed to regional stability through good communication and coordination on the question of South China Sea, the communique says, "They welcomed the signing of the Declaration on the Conduct of Parties in the South China Sea among China, the Philippines and other ASEAN countries and expressed their readiness to press ahead with the follow-up actions for continued progress." It says leaders of the two countries gave a positive assessment on the sound growth of trade and economic relations between China and the Philippines. Wu indicated that the Chinese Government would promote the growth of tourism and other bilateral personnel exchanges while the Philippine side expressed gratitude to the Chinese Government for its continued consideration of the welfare of the 250,000 Philippine contract workers in the Hong Kong and Macao Special Administrative Regions of China, according to the communique. It says the Philippine leaders expressed appreciation for China's assistance in infrastructure projects, including railway construction. On international issues of common concern, the communique says leaders of the two countries pledged continued support of the two countries for international anti-terrorism endeavor. The two sides expressed their readiness to actively explore ways of anti-terrorism cooperation between the Association of Southeast Asian Nations (ASEAN) and the Shanghai Cooperation Organization (SCO) grouping China, Russia and such Central Asian countries as Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan, according to the communique. It says the Philippine leaders showed appreciation for the unremitting efforts made by the Chinese Government for a peaceful settlement of the Democratic People's Republic of Korea (DPRK) nuclear issue. `The Philippine leaders highly appreciated China's active efforts towards the establishment of a China-ASEAN Free Trade Area, which will contribute to greater regional integration," the communique says, "The two sides agreed that the establishment of such a free trade area embodies the strong will of the Chinese and ASEAN leaders to strengthen the friendly cooperation of good-neighborliness and mutual trust between the two sides, and will surely exert positive influence on regional peace and development."
+
+A small group of protestors gathered at the Philippine embassy in Beijing on July 26, 2004, claiming Chinese sovereignty over disputed islets in the South China Sea. The group, consisting of nine men, a woman and her child, stood in front of the embassy with banners calling for islands occupied by the Philippines to be returned to China. The street in front of the Philippines embassy was cordoned off and protestors were outnumbered two to one by uniformed and undercover Chinese police. Protestors wore headbands saying, "Vow to protect Nansha" festooned with the mainland Chinese flag. Nansha is the Chinese name for the Spratly Islands, a group of about 100 coral reefs, islets, and sea mounts spread out over 158,000 square miles of the central South China Sea. The islands are claimed in their entirety by Vietnam, Taiwan, and China while the Philippines, Malaysia, and Brunei have partial claims.
+
+The President of China, Hu Jintao will pay a state visit to the Philippines on April 26-28, 2005, at the invitation of his Philippine counterpart, Gloria Macapagal Arroyo. The visit is made at a time when the Sino-Philippine relations of strategic cooperation are seeing a momentum of rapid development in both political and economic fields between China and the Philippines and between China and ASEAN countries. As former Philippine President Fidel Ramos has said, the Sino-Philippine relationship is now at its best in history and China has become an important partner of the Philippines in trade and investment for the first time in history. The friendship between Chinese and Filipino peoples dated centuries back with trade and exchanges in ancient times. In 1975, China and the Philippines established diplomatic relations and both official cooperation and people's understanding and friendship between the two countries have developed greatly since then. Over the past few years, the Sino-Philippine relations have been developing quickly with significant results in political, economic, cultural and other fields. The Philippines' president, Gloria Macapagal Arroyo paid a state visit to China in June 2004, followed by visits to Beijing by the Philippines Defense and Foreign Secretaries.
+
+The Philippine Department of Foreign Affairs announced on September 7, 2005, the resumption of direct air flights between Manila and Beijing, after a 15-year suspension, in view of the sharply growing tourism market in China. Foreign Affairs Secretary Alberto Romulo said at a press conference that the non-stop flights run by the Philippine Air Lines (PAL) between two capitals would start on November 11, 2005, and fly three times a week to serve Chinese visitors, who are expected to grow to 100 million by 2020. The PAL suspended these direct flights 15 years ago due to decreased revenues after the last fly to Beijing in 1989. "The re-opening of direct flights between the two capitals is symbolic and a fitting milestone as the Philippines and China continue to promote and expand our over-all ties in the 30th year of our diplomatic relations," Secretary Alberto Romulo said. "It is symbolic of the emergence of the new golden age of partnership envisioned by President Gloria Macapagal-Arroyo and President Hu Jintao during his state visit to the Philippines in April this year," Romulo added. The PAL's non-stop service between Manila and Beijing would save time of Filipino and Chinese tourists and business travelers, who now have to take one-stop flights or transfer connections, usually via Xiamen or Hong Kong. Romulo said that the resumption of Manila-Beijing non-stop flights is a major breakthrough in efforts of the Philippines to expand aviation links with China, which now include flights to Xiamen, Beijing (via Xiamen), Shanghai, and Guangzhou (charter service). In addition, Air Philippines is also preparing for the start in October of the regular charter flights between Manila and Chongqing city in central China via Guangzhou. According to the statistics of the Department of Tourism (DOT), a total of 45,789 tourist arrivals from China in the first six months were recorded, about 150 per cent higher than the same period of last year. The DOT has also projected that China could become the fourth largest source country for tourists to the Philippines by the end of the year, next to the United States, South Korea and Japan.
+
+China invited the Philippines to participate in planned multilateral maritime exercises focused primarily on maritime search and rescue operations, officials said on May 23, 2005. Chinese People's Liberation Army deputy chief of General Staff Gen. Xiong Guangkai said the Chinese proposal was put forward during the first defense and security dialogue-envisioned as an annual event-between China and the Philippines. 'The subject of this proposed exercise would be in the non-traditional security field, for example, search and rescue. The aim of this proposed exercise is to promote our ability; to enhance our capabilities to cope with the non-traditional security threats in the region and hopefully make the region a safer place,' Xiong told reporters after meeting with Philippine Defense Undersecretary Antonio Santos, Jr. The venue of the exercises has not been finalized because the activities will involve naval vessels from a number of countries, and China is still trying to coordinate with them, Xiong said. One Philippine official who refused to be named said the exercises are slated between October and November and invitations have also been extended to the other Southeast Asian countries. On the part of the Philippines, Santos said the Chinese offer has yet to be incorporated into the Philippines' program so the Philippines will be participating in another manner if it is unable to send a vessel to the exercises. Santos said China also proposed exchange visits among defense and military officials, and gave the Philippines five slots for training in China. The Philippines' specific training needs have yet to be determined and the Philippines will also try to ascertain what relevant training it may offer China, Santos said. The first Philippine-China security dialogue also touched on issues such as those concerning Taiwan and the South China Sea, where the two countries have competing land claims. Xiong's visit formalized China's donation of $1.2 million in engineering equipment to the Armed Forces of the Philippines. His trip comes as the result of re-energized relations between the Philippines and China. President Hu Jintao was in the Philippines last month to reciprocate a trip made by President Gloria Macapagal-Arroyo to China the previous September.
+
+The dispute over the Spratly Islands continued as of December 31, 2006 and no solution was in sight. This is the reason why the relationship is still coded at the 0.75 level as of 2006.
+
+PS-SOURCES: New York Times April 11, 1947, February 10, 1949, July 13, 1949, January 9, 1950, Asia Pulse July 29, 2002, April 21, 2005, September 7, 2005, Xinhua August 31, 2003, April 25, 2005, BBC July 29, 2002, Japan Economic Newswire May 23, 2005, United Press International July 26, 2004, Agence France Presse November 1, 2002 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+The Washington Times (2001). Chinese navy deploys warships to disputed Spratly island chain. The Washington Times June 25. LexisNexis: A1.

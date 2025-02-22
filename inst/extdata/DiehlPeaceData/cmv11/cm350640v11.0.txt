@@ -1,0 +1,1474 @@
+FILE: cm350640v11.0.txt
+DYAD: GREECE-TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV927
+DISPUTE(S): MID1579 
+RIVALRY: RIV928
+DISPUTE(S): MID2367 
+RIVALRY: RIV929
+DISPUTE(S): MID1576 MID1575 MID1574 MID1573 MID2835 MID141 MID1571 MID2836 MID1739 MID1569 MID1249 MID1250 MID257 MID3344 MID324 MID1270 MID3183 
+RIVALRY: RIV930
+DISPUTE(S): MID1278 MID1279 MID1280 MID1292 MID1293 MID2173 MID1290 MID1289 MID2174 MID2176 MID2177 MID2179 MID3909 MID4040 MID4092 MID4095 MID4323 MID4193 MID4133 MID4210 MID4233 MID4320 
+
+PS: 19009999-19250430 0.00 19250501-19340208 -9 19340209-19571231 0.5 19580101-20209999 0.00
+
+PS-UPDATE2020:
+
+PS1800: 18661000-18999999 0.0
+
+PSNOTES: thompson rivalry cm350640 ,19550000 ,20100000 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1579 MID2367 MID1576 MID1575 MID1574 MID1573 MID2835 MID141 MID1571 MID2836 MID1739 MID1569 
+
+WWI MIDs: MID257 MID3344 MID324 
+
+MID1249 
+
+TERRMID: MID1249 3 -- not territory 
+TERRMID-CER: MID1249 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1249 3 -- not third party link to territory 
+TERRLINK-CER: MID1249 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1249 1 -- maritime MID
+MARITMID-CER: MID1249 1 -- certain 
+MARITMID-NOTES: MID1249 Greece and the Ottomans disputed all of Crete, which includes Crete's territorial waters. 
+
+ISLMID: MID1249 1 -- islands MID
+ISLMID-CER: MID1249 1 -- certain 
+ISLMID-NOTES: MID1249 from Gibler 2018, in 1909, the islanders of Crete raised the Greek flag, and to deter Greece from annexing the island, Turkey mobilized troops and dispatched some forces near the island, triggering this MID. Coded islands MID because this was connected to sovereignty over the island of Crete. 
+
+CIVWARMID: MID1249 3 -- not civil war 
+CIVWARMID-CER: MID1249 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1249 3 -- not civil war link 
+CIVWARLINK-CER: MID1249 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1249 3 -- not coup 
+COUPMID-CER: MID1249 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1249 3 -- not coup link
+COUPLINK-CER: MID1249 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1250 
+
+TERRMID: MID1250 1 -- territorial MID
+TERRMID-CER: MID1250 1 -- certain 
+TERRMID-NOTES: MID1250 from Gibler 2018, Yugoslavia (Serbia), Greece, and Bulgaria were former parts of the Ottoman empire, but were pressing claims against the Ottomans in the lead-up to WWI. Here, all three countries were seeking to take pieces of Ottoman territory in the Balkan peninsula, and they declared war on the Ottomans. Coded territorial MID because this was connected to disputed territory in the Balkans. 
+
+TERRLINK: MID1250 3 -- not third party link to territory 
+TERRLINK-CER: MID1250 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1250 3 -- not maritime 
+MARITMID-CER: MID1250 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1250 3 -- not islands 
+ISLMID-CER: MID1250 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1250 3 -- not civil war 
+CIVWARMID-CER: MID1250 1 -- certain 
+CIVWARMID-NOTES: MID1250 although in the late 20th century, the Balkan Wars of Independence against Serbia/Yugoslavia involved many rebel groups fighting along ethnic lines, there is no indication in Gibler 2018, cm narrative, or a search on LexisNexis and NYT Archives that there were rebel groups operating at the time of this MID. 
+
+CIVWARLINK: MID1250 3 -- not civil war link 
+CIVWARLINK-CER: MID1250 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1250 3 -- not coup 
+COUPMID-CER: MID1250 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1250 3 -- not coup link
+COUPLINK-CER: MID1250 1 -- certain 
+COUPLINK-NOTES:
+
+MID1270 
+
+TERRMID: MID1270 1 -- territorial MID 
+TERRMID-CER: MID1270 1 -- certain 
+TERRMID-NOTES: MID1270 from Gibler 2018, after the collapse of the Ottoman Empire, the Greeks pressed longstanding territorial claims against Turkey and invaded several pieces of territory with large Greek populations, starting a war between Greece and Turkey. Coded territorial MID because this was connected to territorial disputes between Turkey and Greece. 
+
+TERRLINK: MID1270 3 -- not third party link to territory 
+TERRLINK-CER: MID1270 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1270 3 -- not maritime 
+MARITMID-CER: MID1270 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1270 3 -- not islands 
+ISLMID-CER: MID1270 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1270 3 -- not civil war 
+CIVWARMID-CER: MID1270 1 -- certain 
+CIVWARMID-NOTES: MID1270 although in the late 20th century, the Balkan Wars of Independence against Serbia/Yugoslavia involved many rebel groups fighting along ethnic lines, there is no indication in Gibler 2018, cm narrative, or a search on LexisNexis and NYT Archives that there were rebel groups operating at the time of this MID. 
+
+CIVWARLINK: MID1270 3 -- not civil war link 
+CIVWARLINK-CER: MID1270 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1270 3 -- not coup 
+COUPMID-CER: MID1270 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1270 3 -- not coup link
+COUPLINK-CER: MID1270 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3183 
+
+TERRMID: MID3183 3 -- not territory 
+TERRMID-CER: MID3183 1 -- certain 
+TERRMID-NOTES: MID3183 from cm narrative, this MID occurred after the Treaty of Lausanne in 1925. Greece protested Turkey's dismissal of a powerful religious authority figure who also had much influence in Greece, triggering this MID. Coded not territory because this was connected to a disagreement over a religious authority figure, not over territory. 
+
+TERRLINK: MID3183 3 -- not third party link to territory 
+TERRLINK-CER: MID3183 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3183 3 -- not maritime 
+MARITMID-CER: MID3183 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3183 3 -- not islands 
+ISLMID-CER: MID3183 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3183 3 -- not civil war 
+CIVWARMID-CER: MID3183 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3183 3 -- not civil war link 
+CIVWARLINK-CER: MID3183 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3183 3 -- not coup 
+COUPMID-CER: MID3183 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3183 3 -- not coup link
+COUPLINK-CER: MID3183 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1278 
+
+TERRMID: MID1278 3 -- not territory 
+TERRMID-CER: MID1278 3 -- uncertain 
+TERRMID-NOTES: MID1278 from Gibler, Miller, and Little 2016, Cypriots were rioting and clashing with British troops on the island. However, no threats were issued by any country involved. Coded not territory because this was not an attempt by any country to advance its territorial claim, and coded uncertain because GML argue this should not be considered a MID. 
+
+TERRLINK: MID1278 3 -- not third party link to territory 
+TERRLINK-CER: MID1278 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1278 3 -- not maritime 
+MARITMID-CER: MID1278 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1278 3 -- not islands 
+ISLMID-CER: MID1278 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1278 3 -- not civil war 
+CIVWARMID-CER: MID1278 1 -- certain 
+CIVWARMID-NOTES: MID1278 from GML 2016, this involved rioting citizens in Cyprus (domestic protests), but there is no indication of militarized rebel activity. 
+
+CIVWARLINK: MID1278 3 -- not civil war link 
+CIVWARLINK-CER: MID1278 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1278 3 -- not coup 
+COUPMID-CER: MID1278 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1278 3 -- not coup link
+COUPLINK-CER: MID1278 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1279 
+
+TERRMID: MID1279 3 -- not territory 
+TERRMID-CER: MID1279 1 -- certain 
+TERRMID-NOTES: MID1279 this MID occurred in Cyprus, but was connected to the outbreak of civil conflict, not (yet) to a territorial claim on Cyprus. 
+
+TERRLINK: MID1279 3 -- not third party link to territory 
+TERRLINK-CER: MID1279 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1279 3 -- not maritime 
+MARITMID-CER: MID1279 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1279 3 -- not islands 
+ISLMID-CER: MID1279 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1279 1 -- civil war 
+CIVWARMID-CER: MID1279 1 -- certain 
+CIVWARMID-NOTES: MID1279 from Gibler 2018, in 1963, tensions between Greek and Turkish Cypriots came to a boil in 1963. At that time, Cyprus (and its capital) was divided. Cyrpus operated under a system of government that guaranteed a Greek president and a Turkish vice persident, but this system was contributing to the tensions. Civil violence broke out, and Greek Cypriots came close to seizing the Turkish portion of the capital. Turkey threatened to deploy troops. Greece responded with a threat of troop deployment. UN peacekeepers eventually came to Cyprus. Coded civil war MID because this involved militarized civil conflict activity in which the Turkish part of the capital was nearly overrun. 
+
+CIVWARLINK: MID1279 3 -- not civil war link 
+CIVWARLINK-CER: MID1279 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1279 3 -- not coup 
+COUPMID-CER: MID1279 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1279 3 -- not coup link
+COUPLINK-CER: MID1279 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1280 
+
+TERRMID: MID1280 1 -- territorial MID
+TERRMID-CER: MID1280 1 -- certain 
+TERRMID-NOTES: MID1280 from Gibler 2018, in 1967, tensions over Cyprus escalated. Turkey amassed troops across the water from Cyprus and flew recon flights over the island. The UN successfully defused tensions before fighting broke out. Coded territorial MID because this was connected to the disputed territory of Cyprus. 
+
+TERRLINK: MID1280 1 -- third party link to territorial MID
+TERRLINK-CER: MID1280 1 -- certain 
+TERRLINK-NOTES: MID1280 this MID is also linked to the territorial dispute between Cyrpus and Turkey, outside this dyad. 
+
+MARITMID: MID1280 3 -- not maritime 
+MARITMID-CER: MID1280 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1280 3 -- not islands 
+ISLMID-CER: MID1280 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1280 3 -- not civil war
+CIVWARMID-CER: MID1280 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1280 1 -- civil war link 
+CIVWARLINK-CER: MID1280 1 -- certain 
+CIVWARLINK-NOTES: MID1280 from Gibler 2018, this MID was precipitated by Greek and Turkish armed civilian "patrols" clashing in Cyprus (outside this dyad), which led to the Turkish government amassing troops near Cyrpus. Coded civil war link because these patrols are considered militarized rebel groups. Both Greek Cypriot and Turkish Cypriot patrols existed and were armed, and each were organized to oppose the other government that was claiming Cyprus. 
+
+COUPMID: MID1280 3 -- not coup 
+COUPMID-CER: MID1280 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1280 3 -- not coup link
+COUPLINK-CER: MID1280 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1292 
+
+TERRMID: MID1292 3 -- not territory
+TERRMID-CER: MID1292 1 -- certain 
+TERRMID-NOTES: MID1292 while the territorial dispute over Cyprus was still active, per cm narrative, Turkey and Greece had a separate rivalry centered specifically on conflicting claims in the Aegean Sea, and this MID involves that dispute. 
+
+TERRLINK: MID1292 3 -- not third party link to territory 
+TERRLINK-CER: MID1292 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1292 1 -- maritime MID
+MARITMID-CER: MID1292 1 -- certain 
+MARITMID-NOTES: MID1292 from Gibler 2018, Turkey granted mineral exploration rights to a company, granting it permission to explore in the waters in the disputed East Aegean Sea. Greece had already granted exclusive rights to other countries in those waters. Turkey flew planes over Cyprus as a show of force, and both countries put their militaries on high alert. Coded maritime MID because this was connected to the disputed waters in the Aegean Sea. 
+
+ISLMID: MID1292 3 -- not islands 
+ISLMID-CER: MID1292 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1292 3 -- not civil war 
+CIVWARMID-CER: MID1292 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1292 3 -- not civil war link 
+CIVWARLINK-CER: MID1292 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1292 3 -- not coup 
+COUPMID-CER: MID1292 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1292 3 -- not coup link
+COUPLINK-CER: MID1292 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1293 
+
+TERRMID: MID1293 1 -- territorial MID
+TERRMID-CER: MID1293 1 -- certain 
+TERRMID-NOTES: MID1293 from Gibler 2018, this is the Turkish-Cypriot War in 1974. A coup in Greece led to a Turkish invasion of Cyprus and fighting between Turkey and Greece over Cyprus. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID1293 1 -- third party link to territorial MID
+TERRLINK-CER: MID1293 1 -- certain 
+TERRLINK-NOTES: MID1293 this MID is also linked to the territorial dispute between Cyrpus and Turkey, outside this dyad. 
+
+MARITMID: MID1293 3 -- not maritime 
+MARITMID-CER: MID1293 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1293 3 -- not islands 
+ISLMID-CER: MID1293 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1293 3 -- not civil war 
+CIVWARMID-CER: MID1293 1 -- certain 
+CIVWARMID-NOTES: MID1293 there is no indication in Gibler 2018, cm narrative, or news coverage of this MID that militarized rebels were involved. 
+
+CIVWARLINK: MID1293 3 -- not civil war link 
+CIVWARLINK-CER: MID1293 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1293 1 -- coup MID
+COUPMID-CER: MID1293 1 -- certain 
+COUPMID-NOTES: MID1293 this MID involved a coup in Greece in 1974. The man who led the coup demanded Greece forces vacate their military bases, but they did not. Turkey suspected that a conflict over Cyprus may erupt and invaded Cyprus. 
+
+COUPLINK: MID1293 3 -- not coup link
+COUPLINK-CER: MID1293 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2173 
+
+TERRMID: MID2173 3 -- not territory
+TERRMID-CER: MID2173 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2173 3 -- not third party link to territory 
+TERRLINK-CER: MID2173 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2173 1 -- maritime MID
+MARITMID-CER: MID2173 1 -- certain 
+MARITMID-NOTES: MID2173 from Gibler 2018, in 1974, Turkey announced that all aircraft that reached the Aegean median line must radio Turkey and report their flight plans, but Greece refused as the Aegean median line was far within their own territory. Turkey announced that the flight path was unsafe and Greece foritified its East Aegean islands. Coded maritime MID because this was connected to the active maritime dispute in the Aegean Sea, per cm narrative. 
+
+ISLMID: MID2173 3 -- not islands 
+ISLMID-CER: MID2173 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2173 3 -- not civil war 
+CIVWARMID-CER: MID2173 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2173 3 -- not civil war link 
+CIVWARLINK-CER: MID2173 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2173 3 -- not coup 
+COUPMID-CER: MID2173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2173 3 -- not coup link
+COUPLINK-CER: MID2173 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1290 
+
+TERRMID: MID1290 1 -- territorial MID
+TERRMID-CER: MID1290 1 -- certain 
+TERRMID-NOTES: MID1290 from Gibler 2018, Greece and Turkey were in negotiations over Cyprus when Greece threatened aggression in the Aegean Sea if provoked by Turkey. Coded territorial MID because this was connected to Cyprus and was probably connected to showing strength during negotiations. 
+
+TERRLINK: MID1290 1 -- third party link to territorial MID
+TERRLINK-CER: MID1290 1 -- certain 
+TERRLINK-NOTES: MID1290 this was also connected to the territorial dispute between Turkey and Cyrpus, outside this dyad. 
+
+MARITMID: MID1290 1 -- maritime MID
+MARITMID-CER: MID1290 1 -- certain 
+MARITMID-NOTES: MID1290 coded maritime MID because although this MID was directly connected to Cyprus, it also involved a threat of force in the Aegean Sea, a disputed maritime boundary. 
+
+ISLMID: MID1290 3 -- not islands 
+ISLMID-CER: MID1290 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1290 3 -- not civil war 
+CIVWARMID-CER: MID1290 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1290 3 -- not civil war link 
+CIVWARLINK-CER: MID1290 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1290 3 -- not coup 
+COUPMID-CER: MID1290 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1290 3 -- not coup link
+COUPLINK-CER: MID1290 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1289 
+
+TERRMID: MID1289 3 -- not territory 
+TERRMID-CER: MID1289 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1289 3 -- not third party link to territory 
+TERRLINK-CER: MID1289 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1289 1 -- maritime MID
+MARITMID-CER: MID1289 1 -- certain 
+MARITMID-NOTES: MID1289 from Gibler 2018, in 1976 Greece ordered naval mobilization in response to Turkish exercises in the Aegean. Greece protested and later conducted its own naval exercises. Coded maritime MID because this was connected to their disputed waters in the Aegean Sea. 
+
+ISLMID: MID1289 3 -- not islands 
+ISLMID-CER: MID1289 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1289 3 -- not civil war 
+CIVWARMID-CER: MID1289 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1289 3 -- not civil war link 
+CIVWARLINK-CER: MID1289 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1289 3 -- not coup 
+COUPMID-CER: MID1289 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1289 3 -- not coup link
+COUPLINK-CER: MID1289 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2174 
+
+TERRMID: MID2174 3 -- not territory 
+TERRMID-CER: MID2174 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2174 3 -- not third party link to territory 
+TERRLINK-CER: MID2174 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2174 1 -- maritime MID
+MARITMID-CER: MID2174 1 -- certain 
+MARITMID-NOTES: MID2174 from Gibler 2018, Turkey shot at and destroyed a Greek fishing boat that they claim was in Turkish waters. Coded maritime MID because per cm narrative, this MID occurred in the disputed Aegean waters. 
+
+ISLMID: MID2174 3 -- not islands 
+ISLMID-CER: MID2174 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2174 3 -- not civil war 
+CIVWARMID-CER: MID2174 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2174 3 -- not civil war link 
+CIVWARLINK-CER: MID2174 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2174 3 -- not coup 
+COUPMID-CER: MID2174 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2174 3 -- not coup link
+COUPLINK-CER: MID2174 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2176 
+
+TERRMID: MID2176 3 -- not territory 
+TERRMID-CER: MID2176 1 -- certain 
+TERRMID-NOTES: MID2176 from Gibler 2018, this was connected partially to conflicting airspace claims between Greece and Turkey. However, most violations that Greece protested were NATO exercises. Coded not territory because this was connected to NATO exercises and not Cyprus. 
+
+TERRLINK: MID2176 3 -- not third party link to territory 
+TERRLINK-CER: MID2176 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2176 3 -- not maritime 
+MARITMID-CER: MID2176 1 -- certain 
+MARITMID-NOTES: MID2176 from Gibler 2018, this MID also involved Greece protesting Turkey shelling Greek naval and fishing vessels, but this did not occur in disputed waters and the US explained that the shelling was likely just shrapnel from the naval exercises. 
+
+ISLMID: MID2176 3 -- not islands 
+ISLMID-CER: MID2176 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2176 3 -- not civil war 
+CIVWARMID-CER: MID2176 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2176 3 -- not civil war link 
+CIVWARLINK-CER: MID2176 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2176 3 -- not coup 
+COUPMID-CER: MID2176 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2176 3 -- not coup link
+COUPLINK-CER: MID2176 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2177 
+
+TERRMID: MID2177 1 -- territorial MID
+TERRMID-CER: MID2177 1 -- certain 
+TERRMID-NOTES: MID2177 from Gibler 2018, Greece and Turkey exchanged threats over claims over Cyprus and waters in the Aegean. 
+
+TERRLINK: MID2177 1 -- third party link to territorial MID
+TERRLINK-CER: MID2177 1 -- certain 
+TERRLINK-NOTES: MID2177 this MID is also connected to the territorial dispute between Turkey and Cyprus, outside this dyad. 
+
+MARITMID: MID2177 1 -- maritime MID
+MARITMID-CER: MID2177 1 -- certain 
+MARITMID-NOTES: MID2177 from Gibler 2018, Greece and Turkey exchanged threats over claims over Cyprus and waters in the Aegean. 
+
+ISLMID: MID2177 3 -- not islands 
+ISLMID-CER: MID2177 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2177 3 -- not civil war 
+CIVWARMID-CER: MID2177 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2177 3 -- not civil war link 
+CIVWARLINK-CER: MID2177 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2177 3 -- not coup 
+COUPMID-CER: MID2177 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2177 3 -- not coup link
+COUPLINK-CER: MID2177 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2179 
+
+TERRMID: MID2179 3 -- not territory 
+TERRMID-CER: MID2179 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2179 3 -- not third party link to territory 
+TERRLINK-CER: MID2179 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2179 1 -- maritime MID
+MARITMID-CER: MID2179 1 -- certain 
+MARITMID-NOTES: MID2179 from Gibler 2018, Greece protested a Turkish research vessel present in their territorial waters, but Turkey claimed the vessel was in international waters. Greece later complained that Turkish naval vessels fired shots near a Greek vessel in international waters. Later, a Greek vessel was intent on drilling in international waters and Turkey warned against doing so. Coded maritime MID because per cm narrative, this MID invovles waters that were disputed between Greece and Turkey. 
+
+ISLMID: MID2179 3 -- not islands 
+ISLMID-CER: MID2179 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2179 3 -- not civil war 
+CIVWARMID-CER: MID2179 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2179 3 -- not civil war link 
+CIVWARLINK-CER: MID2179 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2179 3 -- not coup 
+COUPMID-CER: MID2179 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2179 3 -- not coup link
+COUPLINK-CER: MID2179 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3909 
+
+TERRMID: MID3909 3 -- not territory 
+TERRMID-CER: MID3909 1 -- certain 
+TERRMID-NOTES: MID3909 from Gibler 2018, Turkish aircraft violated Greek airspace during military exercises. Coded not territory because there is no indication that this was connected to the dispute over Cyprus. It was not uncommon for both countries to conduct exercises in the area. 
+
+TERRLINK: MID3909 3 -- not third party link to territory 
+TERRLINK-CER: MID3909 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3909 3 -- not maritime 
+MARITMID-CER: MID3909 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3909 3 -- not islands 
+ISLMID-CER: MID3909 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3909 3 -- not civil war 
+CIVWARMID-CER: MID3909 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3909 3 -- not civil war link 
+CIVWARLINK-CER: MID3909 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3909 3 -- not coup 
+COUPMID-CER: MID3909 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3909 3 -- not coup link
+COUPLINK-CER: MID3909 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4040 
+
+TERRMID: MID4040 3 -- not territory 
+TERRMID-CER: MID4040 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4040 3 -- not third party link to territory 
+TERRLINK-CER: MID4040 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4040 1 -- maritime MID
+MARITMID-CER: MID4040 1 -- certain 
+MARITMID-NOTES: MID4040 from Gibler 2018, Greece signed a UN convention to expand its territorial waters which granted Greece much more territorial water in the Aegean, and Turkey protested and conducted military exercises. Greece eventually conceded and did not expand its waters. Coded maritime MID because this was connected to Greece's maritime boundary. 
+
+ISLMID: MID4040 3 -- not islands 
+ISLMID-CER: MID4040 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4040 3 -- not civil war 
+CIVWARMID-CER: MID4040 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4040 3 -- not civil war link 
+CIVWARLINK-CER: MID4040 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4040 3 -- not coup 
+COUPMID-CER: MID4040 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4040 3 -- not coup link
+COUPLINK-CER: MID4040 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4092 
+
+TERRMID: MID4092 3 -- not territory 
+TERRMID-CER: MID4092 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4092 3 -- not third party link to territory 
+TERRLINK-CER: MID4092 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4092 1 -- maritime MID
+MARITMID-CER: MID4092 1 -- certain 
+MARITMID-NOTES: MID4092 from Gibler 2018, this is a series of minor clashes over Greece and Turkey's claims in the Aegean Sea. The countries also committed airspace violations against each other. Coded maritime MID because this was connected to claims in the Aegean Sea. 
+
+ISLMID: MID4092 3 -- not islands 
+ISLMID-CER: MID4092 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4092 3 -- not civil war 
+CIVWARMID-CER: MID4092 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4092 3 -- not civil war link 
+CIVWARLINK-CER: MID4092 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4092 3 -- not coup 
+COUPMID-CER: MID4092 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4092 3 -- not coup link
+COUPLINK-CER: MID4092 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4095 
+
+TERRMID: MID4095 1 -- territorial MID
+TERRMID-CER: MID4095 1 -- certain 
+TERRMID-NOTES: MID4095 from Gibler 2018, Turkish troops killed a Greek Cypriot soldier in the buffer zone in Cyprus. Numerous threats, border violations, and shows of force followed. Coded territorial MID because this was connected to the territorial dispute over Cyprus. 
+
+TERRLINK: MID4095 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4095 1 -- certain 
+TERRLINK-NOTES: MID4095 this MID is also connected to the Turkey-Cyrpus territorial dispute, outside this dyad. 
+
+MARITMID: MID4095 3 -- not maritime 
+MARITMID-CER: MID4095 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4095 3 -- not islands 
+ISLMID-CER: MID4095 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4095 3 -- not civil war 
+CIVWARMID-CER: MID4095 1 -- certain 
+CIVWARMID-NOTES: MID4095 there is no indication in Gibler 2018, cm narrative, or news coverage that this MID involves militarized rebels. 
+
+CIVWARLINK: MID4095 3 -- not civil war link 
+CIVWARLINK-CER: MID4095 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4095 3 -- not coup 
+COUPMID-CER: MID4095 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4095 3 -- not coup link
+COUPLINK-CER: MID4095 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4323 
+
+TERRMID: MID4323 3 -- not territory 
+TERRMID-CER: MID4323 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4323 3 -- not third party link to territory 
+TERRLINK-CER: MID4323 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4323 1 -- maritime MID
+MARITMID-CER: MID4323 1 -- certain 
+MARITMID-NOTES: MID4323 from Gibler 2018, in 1977 Turkish planes violated Greek airspace, prompting protest. From cm narrative, this airspace was over the Aegean Sea, an area of disputed waters. Coded maritime MID because this was connected to disputed waters in the Aegean. 
+
+ISLMID: MID4323 3 -- not islands 
+ISLMID-CER: MID4323 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4323 3 -- not civil war 
+CIVWARMID-CER: MID4323 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4323 3 -- not civil war link 
+CIVWARLINK-CER: MID4323 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4323 3 -- not coup 
+COUPMID-CER: MID4323 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4323 3 -- not coup link
+COUPLINK-CER: MID4323 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4193 
+
+TERRMID: MID4193 3 -- not territory 
+TERRMID-CER: MID4193 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4193 3 -- not third party link to territory 
+TERRLINK-CER: MID4193 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4193 1 -- maritime MID
+MARITMID-CER: MID4193 1 -- certain 
+MARITMID-NOTES: MID4193 from Gibler 2018, in 1997 Turkish fighters engaged with Greek jets that were guarding the Greek defense minister on an overseas trip. Numerous airspace violations by both countries occurred. From cm narrative, these events occurred in the Aegean over disputed waters there. Coded maritime MID because this was connected to a maritime dispute in the Aegean Sea. 
+
+ISLMID: MID4193 3 -- not islands 
+ISLMID-CER: MID4193 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4193 3 -- not civil war 
+CIVWARMID-CER: MID4193 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4193 3 -- not civil war link 
+CIVWARLINK-CER: MID4193 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4193 3 -- not coup 
+COUPMID-CER: MID4193 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4193 3 -- not coup link
+COUPLINK-CER: MID4193 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4133 
+
+TERRMID: MID4133 1 -- territorial MID
+TERRMID-CER: MID4133 1 -- certain 
+TERRMID-NOTES: MID4133 from Gibler 2018, Greek and Turkish tensions escalated over Cyprus in 1999. Here, a series of airspace violations occurred. Coded territorial MID because this was connected to the Cyprus dispute. 
+
+TERRLINK: MID4133 1 -- third party link to territorial MID
+TERRLINK-CER: MID4133 1 -- certain 
+TERRLINK-NOTES: MID4133 this MID also involves the territorial dispute between Turkey and Cyprus, outside this dyad. 
+
+MARITMID: MID4133 1 -- maritime MID
+MARITMID-CER: MID4133 1 -- certain 
+MARITMID-NOTES: MID4133 although this MID occurred as a flare-up over Cyprus, per cm narrative and Gibler 2018, it also involves an airspace violation over disputed waters in the Aegean Sea. 
+
+ISLMID: MID4133 3 -- not islands 
+ISLMID-CER: MID4133 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4133 3 -- not civil war 
+CIVWARMID-CER: MID4133 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4133 3 -- not civil war link 
+CIVWARLINK-CER: MID4133 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4133 3 -- not coup 
+COUPMID-CER: MID4133 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4133 3 -- not coup link
+COUPLINK-CER: MID4133 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4210 
+
+TERRMID: MID4210 3 -- not territory 
+TERRMID-CER: MID4210 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4210 3 -- not third party link to territory 
+TERRLINK-CER: MID4210 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4210 1 -- maritime MID
+MARITMID-CER: MID4210 1 -- certain 
+MARITMID-NOTES: MID4210 from Gibler 2018, Turkey and Greece accused each other of airspace violations over the Aegean. Violations occurred repeatedly from 2000-2001. Coded maritime MID because per cm narrative, this was connected to disputed waters in the Aegean Sea. 
+
+ISLMID: MID4210 3 -- not islands 
+ISLMID-CER: MID4210 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4210 3 -- not civil war 
+CIVWARMID-CER: MID4210 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4210 3 -- not civil war link 
+CIVWARLINK-CER: MID4210 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4210 3 -- not coup 
+COUPMID-CER: MID4210 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4210 3 -- not coup link
+COUPLINK-CER: MID4210 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4233 
+
+TERRMID: MID4233 3 -- not territory 
+TERRMID-CER: MID4233 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4233 3 -- not third party link to territory 
+TERRLINK-CER: MID4233 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4233 1 -- maritime MID
+MARITMID-CER: MID4233 3 -- uncertain 
+MARITMID-NOTES: MID4233 from Gibler, miller, and Little 2016, this is an extension of MID4210 and is a part of the repeated airspace violations by each country. Coded maritime MID because this was connected to disputed waters in the Aegean, and coded uncertain because GML recommend this MID be dropped and merged with MID4210. 
+
+ISLMID: MID4233 3 -- not islands 
+ISLMID-CER: MID4233 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4233 3 -- not civil war 
+CIVWARMID-CER: MID4233 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4233 3 -- not civil war link 
+CIVWARLINK-CER: MID4233 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4233 3 -- not coup 
+COUPMID-CER: MID4233 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4233 3 -- not coup link
+COUPLINK-CER: MID4233 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4320 
+
+TERRMID: MID4320 2 -- somewhat connected to territory 
+TERRMID-CER: MID4320 1 -- certain 
+TERRMID-NOTES: MID4320 from Gibler 2018, Greece wanted a 12-mile airspace boundary from its shore but Turkey only accepted 6 miles. Numerous airspace violations occurred during this disagreement. Coded somewhat connected to territory because this was connected to a disagreement over airspace, an extension of the territory of Greece. 
+
+TERRLINK: MID4320 3 -- not third party link to territory 
+TERRLINK-CER: MID4320 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4320 3 -- not maritime 
+MARITMID-CER: MID4320 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4320 3 -- not islands 
+ISLMID-CER: MID4320 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4320 3 -- not civil war 
+CIVWARMID-CER: MID4320 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4320 3 -- not civil war link 
+CIVWARLINK-CER: MID4320 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4320 3 -- not coup 
+COUPMID-CER: MID4320 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4320 3 -- not coup link
+COUPLINK-CER: MID4320 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4410 
+
+TERRMID: MID4410 1 -- territorial MID
+TERRMID-CER: MID4410 1 -- certain 
+TERRMID-NOTES: MID4410 from cm narrative, Turkish fighter jets harassed Greek jets returning from joint military operations in Cyprus. The day prior, Turkish jets were accused of violating Cypriot airspace. The incidents are a manifestation of a long-standing dispute between Greece and Turkey over the status of Cyprus. First day of dispute was on 4/3/2002 and last day of dispute was on 4/3/2002. Coded territorial MID because this was connected to Cyprus. 
+
+TERRLINK: MID4410 1 -- third party link to territorial MID
+TERRLINK-CER: MID4410 1 -- certain 
+TERRLINK-NOTES: MID4410 this MID also involves the territorial dispute between Turkey and Cyrpus, outside this dyad. 
+
+MARITMID: MID4410 3 -- not maritime 
+MARITMID-CER: MID4410 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4410 3 -- not islands 
+ISLMID-CER: MID4410 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4410 3 -- not civil war 
+CIVWARMID-CER: MID4410 1 -- certain 
+CIVWARMID-NOTES: MID4410 there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that indicates any militarized rebel involvement. 
+
+CIVWARLINK: MID4410 3 -- not civil war link 
+CIVWARLINK-CER: MID4410 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4410 3 -- not coup 
+COUPMID-CER: MID4410 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4410 3 -- not coup link
+COUPLINK-CER: MID4410 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4415 
+
+TERRMID: MID4415 1 -- territorial MID
+TERRMID-CER: MID4415 1 -- certain 
+TERRMID-NOTES: MID4415 from cm narrative, On 11/08/2002, two Turkish fighter jets harass Greek civilian aircrafts in the air corridor connecting Cyprus to Greece. The Greek government protested the incident, which came preceding a peace plan on Cyprus that had been submitted to the UN. Given the location and timing of this dispute relative to the issuance of the peace plan, this action was coded as being part of the dispute over Cyprus and not the dispute over competing maritime claims in the Aegean. Coded territorial MID because this was connected to Cyprus. 
+
+TERRLINK: MID4415 3 -- not third party link to territory 
+TERRLINK-CER: MID4415 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4415 3 -- not maritime 
+MARITMID-CER: MID4415 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4415 3 -- not islands 
+ISLMID-CER: MID4415 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4415 3 -- not civil war 
+CIVWARMID-CER: MID4415 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4415 3 -- not civil war link 
+CIVWARLINK-CER: MID4415 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4415 3 -- not coup 
+COUPMID-CER: MID4415 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4415 3 -- not coup link
+COUPLINK-CER: MID4415 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4423 
+
+TERRMID: MID4423 3 -- not territory 
+TERRMID-CER: MID4423 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4423 3 -- not third party link to territory 
+TERRLINK-CER: MID4423 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4423 1 -- maritime MID
+MARITMID-CER: MID4423 1 -- certain 
+MARITMID-NOTES: MID4423 from cm narrative, this MID is comprised of a dispute between Greece and Turkey over their maritime boundaries in the Aegean Sea. Once again, the incidents of this MID are shows of force, with each state flying its aircraft into the disputed territory and 'harassing' the aircraft of the other state. First day of dispute was on 10/21/2004 and last day of dispute was on 3/30/2005.
+
+ISLMID: MID4423 3 -- not islands 
+ISLMID-CER: MID4423 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4423 3 -- not civil war 
+CIVWARMID-CER: MID4423 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4423 3 -- not civil war link 
+CIVWARLINK-CER: MID4423 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4423 3 -- not coup 
+COUPMID-CER: MID4423 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4423 3 -- not coup link
+COUPLINK-CER: MID4423 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4431 
+
+TERRMID: MID4431 3 -- not territory 
+TERRMID-CER: MID4431 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4431 3 -- not third party link to territory 
+TERRLINK-CER: MID4431 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4431 1 -- maritime MID
+MARITMID-CER: MID4431 1 -- certain 
+MARITMID-NOTES: MID4431 from Gibler 2018, this is another series of incidents in which Greece and Turkey were using shows of force to uphold their conflicting maritime claims in the Aegean. Coded maritime MID beacuse this was connected to maritime boundary disputes. 
+
+ISLMID: MID4431 3 -- not islands 
+ISLMID-CER: MID4431 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4431 3 -- not civil war 
+CIVWARMID-CER: MID4431 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4431 3 -- not civil war link 
+CIVWARLINK-CER: MID4431 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4431 3 -- not coup 
+COUPMID-CER: MID4431 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4431 3 -- not coup link
+COUPLINK-CER: MID4431 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4435 
+
+TERRMID: MID4435 3 -- not territory 
+TERRMID-CER: MID4435 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4435 3 -- not third party link to territory 
+TERRLINK-CER: MID4435 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4435 1 -- maritime MID
+MARITMID-CER: MID4435 1 -- certain 
+MARITMID-NOTES: MID4435 from Gibler 2018, this MID is multiple shows of force in the Aegean over maritime navigation rights in the disputed areas of the Aegean. Coded maritime MID because this is connected to a maritime dispute in the Aegean Sea. 
+
+ISLMID: MID4435 3 -- not islands 
+ISLMID-CER: MID4435 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4435 3 -- not civil war 
+CIVWARMID-CER: MID4435 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4435 3 -- not civil war link 
+CIVWARLINK-CER: MID4435 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4435 3 -- not coup 
+COUPMID-CER: MID4435 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4435 3 -- not coup link
+COUPLINK-CER: MID4435 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4443 
+
+TERRMID: MID4443 3 -- not territory 
+TERRMID-CER: MID4443 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4443 3 -- not third party link to territory 
+TERRLINK-CER: MID4443 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4443 3 -- not maritime 
+MARITMID-CER: MID4443 1 -- certain 
+MARITMID-NOTES: MID4443 from cm narrative, in 2010 Turkish military fly dangerously low over a Greek frigate. Greece protests the incident. The incident took place in international waters between Chios and Samos in the Aegean sea. Coded not maritime because this was in international waters and not connected to a maritime dispute. 
+
+ISLMID: MID4443 3 -- not islands 
+ISLMID-CER: MID4443 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4443 3 -- not civil war 
+CIVWARMID-CER: MID4443 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4443 3 -- not civil war link 
+CIVWARLINK-CER: MID4443 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4443 3 -- not coup 
+COUPMID-CER: MID4443 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4443 3 -- not coup link
+COUPLINK-CER: MID4443 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4320
+rivalry=350640 nationa=GREECE nationb=TURKEY/OTTOMAN EMPIRE MID4320 20001227-20030513 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This is a territorial issue as it follows the pattern of prior disputes where Turkey considers Greek airspace to extend only 6 miles into the Aegean rather than the internationally recognized 12 miles. Each state also holds competing claims over islands within the maritime region. The underlying issue has resulted in several shows of force resulting from airspace violations by each side over the disputed waters and islands.
+
+MID4410
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4410 20020403-20020403 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkish fighter jets harassed Greek jets returning from joint military operations in Cyprus. The day prior, Turkish jets were accused of violating Cypriot air space. The incidents are a manifestation of a long-standing dispute between Greece and Turkey over the status of Cyprus. First day of dispute was on 4/3/2002 and last day of dispute was on 4/3/2002.
+
+MID4415
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4415 20020811-20020811 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+On 11/08/2002, two Turkish fighter jets harass Greek civilian aircrafts in the air corridor connecting Cyprus to Greece. The Greek government protested the incident, which came preceding a peace plan on Cyprus that had been submitted to the UN. Given the location and timing of this dispute relative to the issuance of the peace plan, this action was coded as being part of the dispute over Cyprus and not the dispute over competing maritime claims in the Aegean. First day of dispute was on 11/8/2002 and last day of dispute was on 11/8/2002.
+
+MID4423
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4423 20041021-20050330 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+Like MID4320, this MID is comprised of a dispute between Greece and Turkey over their maritime boundaries and island holdings in the Aegean Sea. Once again, the incidents of this MID are shows of force, with each state flying its aircraft into the disputed territory and 'harassing' the aircraft of the other state. First day of dispute was on 10/21/2004 and last day of dispute was on 3/30/2005.
+
+MID4431
+rivalry=350640 nationa=GREECE nationb=TURKEY/OTTOMAN EMPIRE MID4431 20060523-20061016 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+Greece and Turkey again engage in a series of shows of force in the Aegean, including several airspace and maritime border violations. The two sides share competing maritime and territorial claims in the region. First day of dispute was on 5/23/2006 and last day of dispute was on 10/16/2006.
+
+MID4435
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4435 20070512-20070724 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+Greece and Turkey continue their conflict over the extent of their individual territorial boundaries and holdings in the Aegean Sea. Both countries continued to utilize their naval and aerial forces in displays of force over the maritime region. First day of dispute was on 5/12/2007 and last day of dispute was on 7/24/2007.
+
+MID4443
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4443 20100608-20100608 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkish military fly dangerously low over a Greek frigate. Greece protests the incident. The incident took place in international waters between Chios and Samos in the Aegean sea. First day of dispute was on 6/8/2010 and last day of dispute was on 6/8/2010.
+
+MID3 1993-2001:
+
+MID4040
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4040 19940608-19950608 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=USE OF FORCE 
+
+The dispute is about the disagreement between Turkey and Greece over the extent of territorial waters in the Aegean Sea. Turkey adopts 6 nautical miles rule whereas Greece favors 12 nautical miles. On 6/8/1994 Turkish prime minister, Tansu Ciller, stated that if Greece attempted to expand territorial water from 6 to 12 miles, Turkish troops would land on Greek islands in the Agean Sea. On 9/18/1994 Greek patrol boats fired upon Turkish fishing boats and Turkish authorities strongly protested the Greek action. Between 9/25/1994 and 10/1/1994 Turkish foreign minister, Mumtaz Soysal, threatened Greece with war if Athens extended its territorial waters in the Aegean Sea into Turkish territory. In an interview with Kanal-D television on 10/20/1994 Turkish defense minister, Mehmet Golhan, confirmed that Turkish troops in western Turkey had been on "high alert" in the event of Greek attempts to extend their territorial waters and threatened war if Greece extends its territorial waters in the Aegean Sea. On 11/10/1994 Greece held naval military exercises north of Crete and on 11/17/1994 Turkey also began naval exercises in proximity to concurrent Greek naval exercises. On 2/8/1995 the Greek defense ministry accused four Turkish F-16 fighters of violating Greek airspace. On 6/1/1995 Turkish prime minister, Tansu Ciller, reiterated threat of possible war in case Greece extended its territorial waters. On 6/8/1995 two Greek military vessels harass a Turkish boat and Turkey protested. First day of dispute was on 6/8/1994 and last day of dispute was on 6/8/1995.
+
+MID4092
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4092 19951228-19960709 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+Greece and Turkey clash over disputed territorial issues (mainly maritime) in the Aegean Sea. They also repeatedly violate each other's airspace, where one such confrontation results in the crash of a Turkish airplane. First day of dispute was on 12/28/1995 and last day of dispute was on 7/9/1996.
+
+MID4095
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4095 19960817-19981025 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This MID deals with the issues surrounding the island of Cyprus. Turkey, Greece, and Cyprus repeatedly violate each others territory and airspace. These violationsare interrupted by the occasional display and threat of force. It does not end with a settlement; rather, the tensions simply cool.First day of dispute was on 8/17/1996 and last day of dispute was on 10/25/1998.
+
+MID4095
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4095 19990721-19991007 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+This MID deals with the issues surrounding the island of Cyprus. Turkey, Greece, and Cyprus repeatedly violate each others territory and airspace. These violationsare interrupted by the occasional display and threat of force. It does not end with a settlement; rather, the tensions simply cool. First day of dispute was on 7/21/1999 and last day of dispute was on 10/7/1999.
+
+MID4095
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4095 20001020-20010426 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This MID deals with the issues surrounding the island of Cyprus. Turkey, Greece, and Cyprus repeatedly violate each others territory and airspace. These violations are interrupted by the occasional display and threat of force. It does not end with a settlement; rather, the tensions simply cool. First day of dispute was on 10/20/2000 and last day of dispute was on 4/26/2001.
+
+MID4323
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4323 19970317-19970403 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On two separate occasions Turkish fighters violate Greek airspace. 4324 Turkey enters into Iraq to battle the Kurds based in Northern Iraq. 4325 Turkey again invades northern Iraq to attack the Kurds. 4327 This incident occurred against the background of a longstanding disagreement over waters in the Gulf of Fonseca, which had generated numerous militarized incidents over the past decade. Honduras stationed four ships near the maritime border in the Gulf, one of which -- capable of carrying 20 troops -- was position on the frontier; the Honduran government stated that the ships were for use in patrolling Honduran waters. Nicaragua pulled its forces back slightly from the border, but indicated that it would act to repel any Honduran incursion into Nicaraguan waters. The status quo remained unchanged after this dispute. First day of dispute was on 3/17/1997 and last day of dispute was on 4/3/1997.
+
+MID4193
+rivalry=350640 nationa=GREECE nationb=TURKEY/OTTOMAN EMPIRE MID4193 19971010-19980729 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+Turkey and Greece have repeated clashes and violations of airspace in the Aegean Sea. Eventually, these clashes and violations stop without any settlement. First day of dispute was on 10/10/1997 and last day of dispute was on 7/29/1998.
+
+MID4133
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4133 19990312-19990506 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+First day of dispute was on 3/12/1999 and last day of dispute was on 5/6/1998.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4210
+rivalry=350640 nationa=TURKEY/OTTOMAN EMPIRE nationb=GREECE MID4210 20000209-20001021 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+On two separate occasions Turkish jets violate Greek airspace in the Aegean and are intercepted by Greek fighters. First day of dispute was on 2/9/2000 and last day of dispute was on 10/21/2001.
+
+MID4233
+rivalry=350640 nationa=GREECE nationb=TURKEY/OTTOMAN EMPIRE MID4233 20010131-20010131 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkish fighters came w/n 1 mile of a Greek costal town. Greece sent up fighters to intercept the Turkish fighters. First and last day of dispute was on 1/31/2001.
+
+RIVNOTES: 
+RIV930: MID2175 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Greece mobilized its troops near the border with the Ottoman Empire (Turkey) on September 30, 1912, and the Ottoman Empire mobilized its troops near the border on October 1, 1912. Greece issued an ultimatum to the Ottoman Empire on October 14, 1912, and declared war against the Ottoman Empire on October 18, 1912. Greek troops defeated Turkish troops at the battle of Elassona. Greek troops captured Salonica on November 8, 1912 and the fortress of Janina on March 5, 1913. Greece and the Ottoman Empire agreed to a cessation of military hostilities on April 16, 1913. Greek and Turkish representatives signed a peace treaty in London on May 30, 1913. Some 50,000 Greeks were deported from the Ottoman Empire from the coast to the interior of Asia Minor, and some 150,000 Greeks were expelled from the Ottoman Empire in 1914. Greece declared war on the Ottoman Empire on June 27, 1917. Greek troops landed near Smyrna on May 14, 1919. General Mustafa Kemal established a rival nationalist government in Ankara in April 1920. Greek troops launched a military offensive against Turkish nationalist troops in Anatolia on June 22, 1920, and defeated Turkish nationalist troops near Alashehr on June 24, 1920. Greek troops suspended the military offensive on July 9, 1920, but captured Adrianople on July 25, 1920. Britain provided military assistance to Greece. The Treaty of Sevres was imposed by the Allied countries (Britain, France, Italy, United States) on the Ottoman government in Constantinople on August 10, 1920. Greek troops launched a military offensive against Turkish nationalist troops on March 23, 1921. Britain and France offered to jointly mediate negotiations between the parties on June 21, 1921, but Greece rejected the mediation offer. Greek troops launched a military offensive against Turkish nationalist troops on July 10, 1921, and Greek troops captured Eski Shehir on July 19, 1921. The Allied Supreme Council (ASC), which consisted of representative from Britain, France, Italy, and the US, declared its neutrality in the conflict on August 10, 1921. Turkish nationalist troops launched a military offensive against Greek troops on September 5, 1921. Turkish nationalist troops defeated Greek troops near the Sakarya River on September 16, 1921, resulting in the deaths of some 3,900 Greek soldiers and 18,000 Turkish soldiers. The ASC attempted to mediate negotiations between the parties beginning on March 22, 1922, and proposed a peace agreement to Greece and the Turkish nationalists on March 26, 1922. Greece requested permission from the ASC to occupy Constantinople on July 29, 1922, but the ASC rejected the request on July 31, 1922. Turkish nationalist troops launched a military offensive against Greek troops on August 18, 1922, and Turkish troops captured Smyrna (Izmir) from the Greeks on September 11, 1922. Some 30,000 individuals were killed by Turkish troops following the captured of Smyrna. Greek troops completed their withdrawal from Anatolia on September 15, 1922. Greece and Turkey agreed to a cessation of military hostilities on October 14, 1922. Some 20,000 Turkish nationalist soldiers and 30,000 Greek solders were killed during the conflict. Some 1.5 million ethnic-Greeks, 400,000 ethnic-Turks, and 300,000 Armenians fled their homes as refugees between October 1922 and January 1925. During peace negotiations in Lausanne, Greek and Turkisk representatives agreed in a convention to exchange Greek and Turkish populations on January 30, 1923. Greek and Turkish representatives signed the Treaty of Lausanne on July 24, 1923, which provided for Greek recognition of Turkish sovereignty over Anatolia and Turkish recognition of Greek sovereignty over most of the islands in the Aegean Sea. Turkish police arrested some 3,500 ethnic Greeks in Constantinople on October 18-24, 1924. Greece protested the arrests as a violation of Article 2 of the Lausanne Convention, and referred the matter to the League of Nations (LON) Council on October 22, 1924. The LON Council asked the Permanent Court of International Justice (PCIJ) for an advisory opinion regarding Article 2 of the Lausanne Convention on December 13, 1924. The PCIJ delivered an advisory opinion in the dispute on February 20, 1925, which favored Greece's interpretation of Article 2. Greece and Turkey signed an agreement in Angora on June 21, 1925, which provided for Turkish acceptance of the Greek interpretation of Article 2 of the Lausanne Convention. Turkey expelled the Greek Orthodox Patriarch Constantine VI from the country on January 30, 1925. Greece protested the expulsion of the patriarch on February 1, 1925, and proposed that the dispute be submitted to the PCIJ. Turkey rejected the Greek proposal on February 4, 1925, and Greece referred the matter to the LON Council on February 11, 1925. Turkey rejected the competence of the LON Council to deal with the dispute on March 1, 1925. The LON Council asked the PCIJ for an advisory opinion concerning the explusion dispute on March 14, 1925. Patriarch VI announced his resignation on May 19, 1925, and Greece withdrew its appeal to the LON Council on June 1, 1925. The LON Council withdrew its request to the PCIJ on June 8, 1925. Greece and Turkey signed agreement in Athens on December 1, 1926, which provided for the purchase by the Greek government of Turkish property in Greece. The Greek parliament ratified the Athens Agreement on February 16, 1927, and the Turkish parliament ratified the agreement on March 5, 1927. Cyprus formally achieved its independence from Britain on August 16, 1960, and some 950 Greek troops and 650 Turkish troops were garrisoned in Cyprus to guarantee the protection of the ethnic Greek and Turkish communities. Greek and Turkish troops and aircraft mobilized in support of Greek and Turkish Cypriots in Nicosia and the surrounding area on December 24-29, 1963, but the parties agreed to a ceasefire on December 29, 1963 after several days of ethnic violence. On February 15, 1964, the United Kingdom and Cyprus requested the United Nations intervention. The UN Security Council established the UN Peacekeeping Force in Cyprus (UNFICYP) on March 4, 1964. UNFICYP became operative on March 27, 1964. UNFICYP consisted of some 4,500 peacekeeping troops from 9 countries (Argentina, Australia, Austria, Canada, Finland, Hungary, Ireland, South Korea, and the United Kingdom) . On March 12, 1964, Turkey threatened to use military force in Cyprus to protect Turkish Cypriots. President Lyndon Johnson of the United States warned Turkey on June 4, 1964 against militarily intervening in Cyprus, and ordered US naval ships into the area between Turkey and Cyprus. Turkey announced on June 5, 1964 that it had abandoned plans to intervene in Cyprus. Greece rejected negotiations with Turkey concerning Cyprus on June 11, 1964. Turkish air force planes attacked Greek Cypriot troops near Kokkina on August 7-8, 1964, and Greece issued a threat to Turkey on August 9, 1964. The United Nations (UN) Security Council appealed for a ceasefire on August 9, 1964, and President Lyndon Johnson appealed for peaceful negotiations. The crisis ended on August 10, 1964 when Turkey and Cyprus agreed to a cessation of military hostilities. Two Greek soldiers and one Turkish soldier were killed during the military hostilities. Turkey expelled Greek nationals from the country on September 16, 1964. Greece and Turkey began negotiations concerning Cyprus on May 17, 1966. Greek Cypriots and Turkish Cypriots clashed near the villages of Ayios Theodoros and Kophinou from July 20 to August 6, 1967, resulting in the deaths of ten individuals. Greek Cypriot police clashed with Turkish Cypriots near the villages of Ayios Theodoros and Kophinou on November 15-16, 1967, resulting in the deaths of 24 Turkish Cypriots and four Greek Cypriots. Turkey sent an ultimatum to Greece on November 17, 1967, which called for the immediate withdrawal of some 20,000 Greek troops from Cyprus. Greece recalled the Greek general in command of the Cyptiote National Guard on November 18, 1967, but it rejected the Turkish ultimatum on November 22, 1967. On the same date the American, British, and Canadian ambassadors to Greece called on Greece in a joint effort to find a preaceful solution to the crisis. The UN secretary-general appealed for peaceful negotiations on November 22 and November 24, 1967. President Lyndon Johnson appointed Cyrus Vance as mediator in the dispute on November 22, 1967. UN Secretary General's envoy Jose Rolz-Bennet, of Guatemala, began a mediation effort on November 23, 1967. He returned to New York on November 30, 1967. The UN Security Council appealed for peaceful negotiations on November 25, 1967. Cyrus Vance mediated a troops withdrawal (demobilization) agreement between Greece and Turkey on December 1, 1967. North Atlantic Treaty Organization (NATO) Secretary-General Manlio Brosio attempted to mediate between Greek and Turkish representatives on November 23-28, 1967. Greece began the withdrawal of its troops from Cyprus on December 8, 1967, and Greece completed the troop withdrawal on January 16, 1968. On July 20, 1974, Turkish troops invaded Cyprus after the overthrow of the government of President Makarios on July 15, 1974 (Nikos Sampson was installed as president on July 16, 1974). The UN Security Council appealed for a ceasefire and withdrawal of foreign troops from Cyprus on July 20, 1974. Greece and Turkey agreed to a temporary ceasefire on July 22, 1974 after the collapse of the government of President Sampson, but military hostilities resumed on July 23, 1974. The UN Security Council appealed for a ceasefire on July 23, 1974. James Callaghan, foreign secretary of Britain, mediated a first round of negotiations between the Greek and Turkish representatives in Geneva from July 25 to August 14, 1974. Greece and Turkey signed a formal ceasefire agreement on July 30, 1974. Greek and Turkish foreign ministers held a second round of British-mediated negotiations in Geneva on August 8-14, 1974. Turkish troops resumed military hostilities on August 14, 1974, and the UN Security Council appealed for a ceasefire on August 14, 1974. Turkey announced a unilateral cessation of military hostilities on August 16, 1974, and the UN Security Council appealed for peaceful negotiations between Greece and Turkey on August 16, 1974. UNFICYP monitored the ceasefire beginning on August 17, 1974 (the UN Security Council had authorized UNFICYP to monitor the ceasefire on August 1, 1974). Some 1,000 Turkish soldiers were killed during the conflict. The UN General Assembly appealed for the withdrawal of foreign troops from Cyprus on November 1, 1974 and November 10, 1978. The US imposed military sanctions (suspension of military assistance) against Turkey on December 10, 1974. The US imposed additional military sanctions (arms embargo) against Turkey in February 1975 (Turkey closed US military bases in Turkey on July 26, 1975). Britain attempted to mediate negotiations between Greek and Turkish representatives in Geneva in June 1975. On November 1, 1973, the Turkish government decided to permit the Turkish Petroleum Corporation (TPAO) to explore for oil on the continental shelf in the Aegean Sea, although Greece claimed sovereignty over the continental shelf in the Aegean Sea. Turkey offered to negotiate with the Greek government on the issue of sovereignty on February 27, 1974. On April 7, 1974, Greece and Turkey placed their military forces on alert after a Turkish military aircraft violated Greek airspace on March 28, 1974. Greece agreed to bilateral negotiations with Turkey on May 25, 1974, but negotiations failed to resolve the Aegean Sea dispute. Greece threatened to use military force to protect its sovereignty over the Aegean Sea, and Turkey responded by ordering a military alert on July 29, 1976. The TPAO vessel Sismik-I began an oil exploration mission in the Aegean Sea on August 6, 1976. On August 7, 1976, the Greek government protested the Turkish violation of its continental shelf, and the Greek government declared a state-of-alert on August 12, 1976. Greece requested an emergency meeting of the UN Security Council on August 10, 1976, and Greece petitioned the International Court of Justice (ICJ) on August 10, 1976 to ban Turkish exploration of the Aegean Sea. Turkey offered to resume negotiations with Greece on August 15, 1976, and Turkey ordered an end to its military alert on August 22, 1976. The UN Security Council appealed for peaceful negotiations on August 25, 1976. The US and Soviet Union governments also appealed for peaceful negotiations on August 25, 1976. The US facilitated negotiations between Greece and Turkey beginning on August 26, 1976. Greece placed its naval forces in the Aegean Sea on alert on September 1, 1976. The ICJ rejected the Greek petition on September 11, 1976. The Sismik-I returned to Turkish territorial waters on September 25, 1976. Greece and Turkey agreed on October 3, 1976 to establish a temporary demarcation line in the Aegean Sea. Greece filed its arguments in the Aegean Sea dispute to the ICJ on July 18, 1977, but Turkey refused to recognize the jurisdiction of the ICJ in the dispute. On December 19, 1978, the ICJ ruled that it did not have jurisdiction in the dispute. The US lifted military sanctions (arms embargo) against Turkey on September 26, 1979. Greek troops and Turkish troops clashed near the Greek border town of Ferrai on December 19, 1986, resulting in the deaths of one Greek soldier and two Turkish soldiers. Turkey accused the Greek military of violating Turkish airspace on several occassion from January 29 to February 9, 1987, but the Greek government denied the accusation on February 15, 1987. The Turkish government again decided to allow the TPAO to explore for oil in the Aegean Sea on March 25, 1987, and Greece threatened military action against Turkey on March 27, 1987. Lord Carrington, Secretary-General of NATO, offered to mediate on March 27, 1987. Turkey and Greece agreed on March 27, 1987 to not allow oil exploration by either country in the disputed waters of the Aegean Sea. Prime Minister Andreas Papandreou of Greece and Prime Minister Turgut Ozal of Turkey held bilateral negotiations in Davos, Switzerland on January 30-31, 1988 and Athens on June 13-15, 1988. Prime Minister Konstantinos Mitsotakis of Greece and Prime Minister Suleyman Demirel of Turkey held bilateral talks in Davos, Switzerland on February 1, 1992. Greece claimed sovereignty over Imia (Kardak) island in the Aegean Sea on January 25, 1996, and deployed troops on the island on January 29, 1996. Prime Minister Tansu Ciller of Turkey disputed Greece's claim, and demanded that Greek troops withdraw from the island on January 30, 1996. NATO envoy, Richard Holbrooke of the United States, mediated in the crisis on January 29-30, 1996. UN Secretary-General Boutros Boutros-Ghali appealed for peaceful negotiations on January 30, 1996. President Bill Clinton mediated in the crisis on January 30-31, 1996. Greece withdrew its troops from Imia (Kardak) island on January 31, 1996. A Turkish coast guard ship and a Greek patrol ship collided near the Imia (Kardak) island on February 29, 1996, and Turkey protested to the Greek government regarding the incident on March 1, 1996. Greek military aircraft intercepted 14 Turkish military aircraft on the islands of Chios and Lesvos on December 16, 1999. Greece accused Turkey of violating its airspace on December 28, 1999, when six Turkish military aircraft entered Greek airspace near the Aegean Sea islands of Rhodes and Samos. UNFICYP has suffered 170 casualties as of December 31, 2001.
+
+SOURCES-CM:
+Allock et al., 1992, 98-109; Brecher and Wilkenfeld, 1997, 361-374; Clodfelter, 1992, 621-622; Facts on File, September 21-27, 1967, November 23-29, 1967, December 7-13, 1967; Foreign Broadcast Information Service (FBIS), November 13, 1978, January 26, 1996, January 30, 1996, January 31, 1996, February 1, 1996, March 5, 1996; Gross, 1977, 31-59; Jessup, 1998, 143-144, 247-249, 759-764; Keesing, December 30, 1967-January 6, 1968, August 12-18, 1974, September 9-15, 1974, January 1-5, 1975, January 1996, February 1996; Langer, 1972, 776-777, 1085-1088, 1210-1211, 1295-1298; Middle East Journal (MEJ), Spring 1987, Summer 1988; New York Times (NYT), August 11, 1976, August 13, 1976, August 15, 1976, August 16, 1976, August 17, 1976, August 30, 1976, September 12, 1976, September 27, 1976, November 28, 1976; Reuters, December 29, 1999; Simpson, 1939, 11-28; Survey of International Affairs (SIA), 1925, 257-266, 1925 (supplement), 146-147, 228-232; Tillema, 1991, 51-53, 55-56; Weisburd, 1997, 128-131, 152-155; Zurcher 1993.]
+
+NARRATIVE-CR:
+The first two rivalries in the 19th century revolved around Greek attempts to gain independence from the Ottoman Empire. MID1579 (18290924) marks the end of Greek War of Independence where Greek forces acquired holdings in Peloponnese, Sterea Ellada, and the Cyclades and Sporades Islands (www.zum.de 2003). British, French and Russian forces intervened returning control of disputed territories to the Ottomans and stabilizing the region temporarily. MID2367 (18540101) is the result of British and French forces trying to prevent Greek support of Russia's conflict with the Ottoman Empire (www.zum.de 2003). During the Crimean War a joint British-French force occupied the port of Piraeus in order to apply pressure to the Greek government and prevent an alliance with Russia. 
+
+The third rivalry of the 19th century began over an uprising on the island of Crete (MID1576). At the time Crete was under Turkish rule but a large amount of the population was Christian. Christian insurgents from Greece rose up in 1866 and forced the surrender of a Turkish army. Greece reiforced the insurgents in December and Turkey formally threatened Greece with a blockade if they continued to interfere on December 11th, 1968 MID1575 (Stavrianos 2000). Greece complied with Turkish demands but the Allied powers met in Paris in 1869 and awarded Crete rule by self-government. 
+
+Continued strife between Greece and Turkey occurred against the backdrop of Russian aggression against the Ottoman Empire. MID1574, MID1573, and MID2835 are all related to the Turkish War with Russia. Specifically the issue at hand was the Turkish treatment of Albanians and the borders drawn by the Treaty of San Stefano, which broke up the Balkan region into independent states (Stavrianos 2000). In August of 1878 the Congress of Berlin ordered Greece and Turkey to resolve all border disputes. In 1881 the Powers granted Thessaly and Arta to Greece in response to the discontent of the Treaty of Berlin, which served mainly to benefit the Ottoman Empire (MID141). Thessaly and Arta were given to Greece while the rest of the Albanian areas were returned to Turkey. 
+
+Conflict over territorial rights in Macedonia and Crete became a source of strife in MID1571, MID1739, MID1569 and MID1249. The Greco-Turkish War of 1897 (MID1569) began over Greek concern of Turkish treatment of Christians in Crete. A rebellion occurred in 1896, which was assisted by Greek insurgents (www.onwar.com 2003). By 1897 Greece began sending troops to Crete and began hostilities with Turkey. Allied intervention in 1897 forced an Armistice and then a Peace Treaty between Greece and Turkey. December 4th the Treaty was concluded and Crete was made an international protectorate in exchange for Greece granting Turkey some land in Thessaly and a tribute. MID1249 and MID1250 would involve the same dispute between Turkey and Greece over Crete. Following the First Balkan War (MID1250), Crete was awarded to Greece in the Treaty of London in 1913 (Stavrianos 2000). The Allied support of Turkey in the issue of Crete and Macedonia ended with the entrance of Turkey into WWI on the side of Germany (Praeger 1966). 
+
+MID257, MID3344, MID324 are all related to the First World War. Settlement of WWI issues came in the form of the Treaty of Sevres, which granted independence to an Armenian Republic, Kurdistan and remaining Turkish territory in Europe was awarded to Greece. Turkey's army was reduced and placed under Allied control (Praeger 1966). MID1270 came as a direct result of the forced weakening of Turkey after WWI. The Greek Turkish war of 1919 began as a Greek invasion force in Smyrna on September 9th, 1919. Turkish resistance exceeded Greece's expectations and an Armistice was made in Anatolia in October of 1922. A peace treaty was signed in Lausanne in 1923. The accord called for the exchange of citizens between the two countries and a great number of Greek and Turkish populations were exchanged (Stavrianos 2000). The last dispute of the rivalry, MID3183, came about as a result of the Treaty of Lausanne. Following the beginning of peaceful relations between Greece and Turkey the influence of the Patriarch as an authority figure. Greece protested the dismissal of the Patriarch by Turkey in 1925. The issue of Turkish dominance of Crete became secondary to the shared concern of both nations regarding the growing Soviet Union. Because of a diminished Turkish military and a common external threat and shared military alliance Turkish aggression towards Christian inhabitants of Crete lessoned.
+
+The final rivalry between Greece and Turkey began in 1958 as a territorial dispute regarding the Aegean Sea. There are really two issues in this rivalry, the issue of national control of the Aegean by Turkey and Greece and the related but much more specific control of Cyprus. MID1278, MID1280, MID1292, MID2173, MID1289, MID2174, MID2175, MID2176, MID2177, MID2179, MID3909, MID4040, MID4092, MID4095, MID4323, MID4193, MID4133, MID4210, MID4233, MID4320 all relate to Turkish claims on waters in the Aegean that are also claimed by Greece. The 1958 Geneva Convention had allocated the continental shelf to Greece but Turkey was not a signatory and therefore did not recognize Greece's claims. Turkey rejected the Greek claim that they controlled 12 nautical miles instead of the 6 nautical miles that Turkey recognized. Several disputes came as the result of a Turkey survey ship named Siznik conducting seizmalogical studies (MID1289 and MID2179). Several of the other disputes came about as the result of flyovers by Turkish planes over the disputed waters (Constas 1991). This dispute is ongoing and is likely to continue as there have been no clear decisions regarding control over the Aegean.
+
+The other issue at dispute between the two nations was over Cyprus. Turkey claimed that it has the right to install military forces on several Greek islands, including Cyprus, under the Treaty of Lausanne, which only required partial demilitarization (Constas 1991). MID1279 touched off a series of escalations between Turkey and Greece over the treatment of Turks in Cyprus. In 1958 Britain, Turkey and Greece came to a consensus on the establishment of a republic in Cyprus. The agreement was rejected by a Greek/Cyprus faction because it allowed the formation of a Turk based government, splitting Cyprus in half. On December 21st of 1963 Christian militants initiated a massacre of the Turkish inhabitants of Cyprus. On December 30th the British intervened to protect the Turkish citizens of Cyprus. In 1964 the UN dispatched a Peacekeeping force, which is still deployed today. Part of the forced peace involved a division of the island into a Christian dominated half and a Turk dominated half. 
+
+In 1974 the Cyprus issue flared back up again with a Greek invasion of the Turk part of the island in an attempt to remove Makarios as president of the Republic (MID1293). Turkey replied by sending troops to Cyprus in July of 1974. The issue went to the UN over which international laws were violated and who had the right to leave a military presence. In April of 1991 the issue was revisited by the US Ambassador, who concluded it was effectively dead, as there had been no complaints by either side in over 2 years (www.turkishebassy.org 2003). 
+
+Greek Prime Minister Costas Simitis said in Istanbul on November 18, 1999 that Greece supported Turkey's membership to the European Union. Following a meeting with his Turkish counterpart Bulent Ecevit, Simitis said Greek government wanted all the European governments to be included in the EU. Simitis who came to Istanbul for the Organization for Security and Cooperation in Europe Summit on November 18-19 said that the meeting between him and Ecevit had focused on the Cyprus issue, the Aegean dispute and regional problems within the scope of the international law. A lasting peace in the region should be instituted between Turkey and Greece, said Simitis. He also stressed the importance of cooperation between Turkey and Greece against natural disaster, hoping that the two countries will continue to make cooperation in coming days. The recent devastating earthquakes in the two countries, however, have provided an opportunity for them to improve their strained ties. 
+
+Greece will not veto Turkey's being named a candidate for membership at the European Union at the bloc's summit in Helsinki, Finland, local media reported on December 10,1999. According to reports, Foreign Ministry spokesman Panos Beglitis told Greek journalists covering the summit that Greece would not veto Turkey's candidacy. Reports said that Greece's 14 EU partners had reached an agreement over some of Athens' demands. Greece was seeking a pledge from the EU to guarantee Cyprus will enter the body if it meets all criteria, regardless of whether or not the division of the island is resolved. Another main demand is for the text of the Helsinki summit's conclusions to include that candidate countries would refer territorial disputes with other European nations to the International Court of Justice at The Hague. For decades, Turkey did not recognize the court's jurisdiction, and has refused to refer any territorial disputes with Greece to the body.
+
+Turkish President Suleyman Demmirel on December 12, 1999 expressed satisfaction at Greece's position in the just-concluded EU summit, which offered Turkey with candidacy to the EU 15 members bloc. `This positive atmosphere should be maintained between Turkey and Greece. It will lead to better relations between the two countries', Demirel said. 
+
+Trade volume between Greece and Turkey increased from $ 250 million in 1990-1994 to $ 410 million in 1995 and $ 729 million in 1997. However, the current level of trade between the two countries is far from what it could be Turkish Industry and Trade Minister Ahmet Kenan Tanrikulu said on April 21, 2000, that the recent rapprochement between Turkey and Greece would prove a good basis for establishing a permanent peace in southeastern Europe. Tanrikulu made these remarks at a speech given at the opening ceremony of the "Turco-Greek Friendship and Cooperation Fair" and the "Turkish-Greek Businessmen's Convention" in Athens yesterday. He said that Turkey wants to develop positive relations with Greece, and that the large number of Turkish firms attending the fair (99) proves that the Turkish business community also wants better ties with its western neighbor. Greek Foreign Minister Yorgo Papandreu's written message to the opening ceremony was read aloud by Greece's Ambassador to Turkey Joannis Korantis. It said that the futile tensions between the countries should be put aside. "We have more points in common than differences," Papandreu wrote. Papandreu stated that no one would have expected the two neighbors to have gotten so close before the tragic earthquakes which hit both countries. "We have to respond to the necessities and imperatives of a global economy," the statement continued. "We have to use economic conditions to benefit our peoples. They want to live in peace. As Europeans, we have to respond to the necessities of a new era."
+
+Greece withdrew most of its forces from a NATO exercise based in Turkey on October 22, 2000, after a heated dispute with its neighbor over military boundaries in the Aegean Sea. The move is a direct blow to efforts to build friendship between longtime rivals Turkey and Greece, which agreed last year to set aside long-standing differences. Defense Minister Akis Tsochadzopoulos said Greece would immediately pull out of the multinational maneuvers, Destined Glory, after NATO failed to respond to a Greek request to cut the exercise short. Remaining forces were to be withdrawn Monday. The dispute began Saturday, when Turkey blocked Greek jets from participating in the exercise and warned of "undesired results" if Greece persisted in flying over two Aegean islands. Turkey insists NATO planes in the exercise cannot fly over the Greek islands, Lemnos and Ikaria, which it says are "demilitarized zones" under past agreements. Greece, which maintains a strong military presence on Lemnos, says the islands were included in the exercise flight plans. Tsochadzopoulos said the exclusion of the islands violated Greek sovereign rights and added that he had conveyed his complaints to NATO Secretary-General Lord Robertson. "We cannot tolerate this effort by Turkey to (use) NATO to promote its illegal designs," Tsochadzopoulos said during a visit to Cyprus. "Greece does not negotiate its sovereign rights." There was no immediate comment from Turkey or NATO, although a NATO official, speaking on condition of anonymity, has said the alliance was trying to resolve the dispute. Greece and Turkey have come close to war three times in the last 26 years over war-divided Cyprus and a number of boundary disputes in the Aegean. But the two countries began confidence-building talks last year and agreed to focus on secondary issues. Turkey was accepted as a candidate to join the European Union after Greece lifted objections. Greek Foreign Minister George Papandreou on Sunday said the latest dispute could ultimately hurt Turkey's integration with the EU. "I think Greece has shown that, toward Turkey, it is a country that wants cooperation and peace-but under certain conditions," Papandreou told state-run NET television.
+
+Greece and Turkey will discuss Cyprus and illegal immigration among other disputes obstructing their efforts to improve relations during a two-day visit to Athens by Turkish Foreign Minister Ismail Cem, the government said on November 6,2001. Turkey's efforts to eventually join the European Union will also be discussed during Cem's visit, which begins Wednesday, government spokesman Christos Protopappas said. Greece solidly supports Turkey's bid, although it has expressed concern about the country's human rights record and its opposition to Cyprus' likely entry into the EU. The EU is negotiating with Cyprus and 11 prospective members that could join the Union as early as 2004. Turkey also is a candidate, but no negotiations are planned. Cyprus has been split into a Greek Cypriot-controlled south and a Turkish-occupied north since Turkey invaded in 1974 in the wake of a short-lived coup by supporters of union with Greece. The breakaway state is recognized only by Turkey. Turkish leaders have recently stopped short of saying that Turkey might even annex the breakaway state if the EU admits Cyprus. Such a move could harm, or stop, Turkey's bid to join the EU. "The issue connected with the prospect of Cyprus' entry into the EU and the problems caused by related statements made by the Turkish side are clear and will be pointed out to Mr. Cem," Protopappas said. Relations between Greece and Turkey, two NATO allies, have been steadily improving over the past three years, bolstered by a mutual outpouring of help following killer earthquakes that struck both countries in 1999.
+
+The last MID of RIV930, MID4320 ended in December 2001. The latter MIDs in the Greek-Turkish rivalry tend to be violations of the air space of one or the other country, given that the major issues of concern between the two countries: the border in the Aegean and the Cyprus issue have not been solved yet. However, the increased cooperation between the two countries generated by Greece's support to Turkey's EU membership since 1999, placed their unresolved disputes on a lower level of importance. Premier Costas Simitis said on January 12, 2002 that Greece will work toward improving relations with Turkey, but his government ruled out any negotiations over the territorial disputes that nearly caused a war six years ago. Simitis' statement came as his defense minister, Yannos Papantoniou, warned that Turkey was "systematically casting doubt" over Greece's national interests in the Aegean Sea and said the country's armed forces were in a state of "readiness." Greece and Turkey have been working for three years to better relations, but a series or core disputes, including the division of Cyprus, have stymied efforts to establish a normal relationship between the neighboring rivals. In 1996, the United States intervened at the last minute to prevent a war between the two countries over an uninhabited Aegean islet know in Greece as Imia and by Turkey as Kardak. "We are working to improve our relations with Turkey, pressuring her to quickly stop any negative climate," Simitis said. Greek officials have in recent weeks accused Turkey of numerous airspace violations in the Aegean Sea, although Greece has issued no official announcement about the alleged incidents. Turkey, on the other hand, has openly complained about Greek violations of its airspace. The two NATO allies have longstanding disputes over Aegean airspace, territorial waters and seabed mineral rights. They have nearly fought three wars over the Aegean and Cyprus in the past quarter century. Turkey wants to hold talks on solving the Aegean disputes while Greece has said it must take any problems to the International Court of Justice. Foreign Minister George Papandreou said Greece would keep forging ahead with talks on secondary issues, but would not negotiate Aegean issues with Turkey or its Prime Minister, Bulent Ecevit. "Mr. Ecevit may consider that a solution to Greek-Turkish issues are political, but we consider them to be legal. We negotiate with no one about our sovereign rights," Papandreou said. The two neighbors have in the past two years signed agreements to work together to develop cultural and economic ties, promote tourism and prevent illegal migration.
+
+On May 31, 2002, Turkish Deputy Prime Minister Mesut Yilmaz has told a meeting of the Greece-Turkey Business Council that his government backs efforts to improve ties and boost trade with Greece. He said that the two countries should look to the future rather than the past, and that a continuation of Turkey's EU "process" was important for resolving its problems with Greece. Greek Culture Minister Evangelos Venizelos said his country would be pleased if Turkey joined the EU. Venizelos told the business council meeting that Cyprus's EU entry would not be an act against Turkey, but instead would be beneficial for Turkey's economy, its EU accession process and ties between Greece and Turkey. Speaking at the annual meeting of Turkey-Greece Business Council, Yilmaz said: "1999's Helsinki Summit Meeting was a turning point in relations between Turkey and Greece. Unfortunately, friendly relations which started between Turkey and Greece in 1980s during the term in office of Turgut Ozal could not be protected in a stable way. We observed that a more sound and sincere ground has been created in relations between our neighbouring countries following the Helsinki summit meeting." Yilmaz pointed out that the natural gas agreement signed in the previous weeks was an important development. "When Turkish and Greek businessmen join their efforts and possibilities, they will be advantageous in opening to Middle Eastern, Asian and East European markets. It is a reality that Turkish and Greek businessmen behave more willingly and rapidly each day to search cooperation opportunities and implement projects. However, I find the trade volume between Turkey and Greece around 800m-900m million dollars as insufficient," Yilmaz said. Yilmaz noted, "I would once more state that the government supports the efforts to further improve relations and increase trade volume. Rapprochement of Turkey and Greece is very suitable for EU philosophy, of which Greece is a member and we are a candidate." At the end of the meetings between Turkish and Greek delegations at the Energy and Natural Resources Ministry, Ankara-Alexandroupolis Natural Gas Pipeline Protocol was signed on 28 March, 2002. Two projects were developed for the pipeline route that will transport natural gas from Turkey to Greece. One of these projects will reach Greece by beginning from Karacabey and via Canakkale Strait and Ipsala. The other project envisages instalment of pipeline from Tekirdag to Greece.
+
+Greece expressed hope on July 11, 2002 that Turkey's political crisis will not harm warming relations between the traditional rivals. Greece has been closely watching the slow dissolution of Turkey's governing coalition and the resignation of eight Cabinet members. Most worrying in Athens was the resignation of Turkish Foreign Minister Ismail Cem, a key architect in a three-year effort to improve relations between the neighboring countries. Cem's personal friendship with Greek Foreign Minister George Papandreou has been considered instrumental in improving relations. Greece and Turkey have been holding a series of talks since 1999 in an effort to edge away from decades of mutual mistrust that almost led to three wars between the NATO allies in the past 28 years. "The contacts, the communication, the dialogue on all levels over the past few years between Greece and Turkey are moves and procedures based on principles," said Greek foreign ministry spokesman Panos Beglitis. "We want to believe that they cannot be affected by the current developments. We want to believe that the contacts and communication between the two sides will continue in the same constructive way they have until today," he said, adding his "wish for a quick end to the crisis." Despite improving relations, the two countries remain at odds over a series of issues, including efforts to create a European Union defense force which will have access to NATO facilities. Greece had objected to a deal giving Turkey-which is a member of NATO but not of the EU-rights to veto EU military deployment in its region. Turkey objects to a recent agreement Greece reached with its EU partners meant to end the stalemate. Athens is prepared to hold direct talks with Ankara to discuss the issue, Beglitis said, although the current political crisis in Turkey could affect this. "It is a period which is particularly fluid in Turkey. Nevertheless, these issues remain, they are issues which must be resolved," he said. Beglitis added that Greece was ready to continue negotiations, "but this fluidity is an issue. Of course it affects all internal procedures, and of course decision-making procedures." The EU wants to resolve the deadlock in time to deploy its new force later this year in Macedonia, where it will take over a peacekeeping operation currently run by NATO.
+
+The Greek defense minister said on February 3, 2003, that the key to Turkey's EU full membership was in the hands of Greece. Defense Minister Yiannos Papantoniou said Turkey should mend its relations with Greece, because they held the key to Turkey's membership. "Greece has strengthened its position in the region and in the international area by integrating with the EU. This has paved the way to a new dimension in Turkey-Greece relations," said Papantoniou. Turkey's wish to be a member of the EU is declared by all political powers in Turkey explicitly, "But Turkey needs Greece's help to realize this goal," said Papantoniou. "Turkey's wish created positive expectations regarding its relations with Greece. Turkey should mend its relations with Greece, should contribute to a solution in the Cyprus issue, and should give up its sovereignty demands in the Aegean Sea," said Papantoniou. "If Turkey makes all of these moves, the two states will turn a new page in relations. For this reason, Greece is supporting Turkey's EU membership perspective in the long term. But, it is up to Turkey to answer Greece's peaceful views," concluded Papantoniou. 
+
+Greece and Turkey agreed on May 26, 2003, on a series of high-level military exchange visits in an effort to end a recent escalation of tension between the two uneasy neighbors. The friendship measures were announced at talks between Foreign Ministers George Papandreou of Greece and Turkey's Abdullah Gul. The deal follows a sudden rise in tension between the NATO countries which have been trying to end decades of rivalry over disputed boundaries in the Aegean Sea and the war-divided island of Cyprus. Fighter jets from Greece and Turkey were engaged in scores of mock dogfights over the Aegean earlier this month. Athens had warned that the incidents could affect Turkey's bid to join the EU. "These (friendship) measures are particularly important because they are not directly military, but they do involve the militaries of our two countries," Papandreou told reporters. Papandreou, whose country holds the EU presidency, met Gul in the margins of a meeting of foreign ministers from European Union and Mediterranean countries. Under the agreement, Greek and Turkish armed forces chiefs, as well as cadets from military academies, will hold regular exchange visits and set up an Internet-based information sharing system between military hospitals. "These measures with the military ... are the best confidence building measures between Turkey and Greece," Gul told reporters. Greece and Turkey began a process of confidence-building measures-military and civil-four years ago following years of tension and a large arms build up on both sides of the Aegean. Greek and Turkish top brass have held frequent meetings in the past as part of their NATO contacts.
+
+On May 6, 2005, Greece accused Turkey of carrying out a record number of airspace violations in the Aegean. According to media reports, as many as 60 Turkish fighter jets allegedly entered Greek airspace over the eastern Aegean Sea before they were intercepted by an equal number of Greek jets.
+
+Turkey and Greece agreed on April 12, 2005 to establish direct communications lines between the two air bases the traditional rivals use to control the Aegean Sea, a step aimed at building confidence between the neighbors. Greece and Turkey, which have come to the brink of war three times since 1974, routinely accuse each other's military jets of harassment over the Aegean and mock dogfights are not unusual. The announcement came during a visit by Greek Foreign Minister Petros Molyviatis aimed at building on recent improvements in relations. Turkish Foreign Minister Abdullah Gul said Athens and Ankara agreed to establish a direct communications line between Larissa air base in Greece and Eskisehir air base in central Turkey. The two countries use the bases to control the Aegean, and planes patrolling the area generally take off from there. "We believe that our improving relations should also be reflected in military activities," Molyviatis said. Greece says its national airspace extends to 10 miles (16 kilometers), but Turkey recognizes only six miles (10 kilometers)-the same distance as for territorial waters. Territorial disputes have nearly led to three wars between the two NATO allies since 1974, when Turkey invaded Cyprus after an abortive coup by supporters of union with Greece. Relations began dramatically improving in 1999, and diplomatic exchanges between EU member Greece and EU candidate Turkey are now routine. There are, however, still serious areas of contention. Athens has expressed disappointment at Turkey's failure to recognize Cyprus, despite the island's membership in the EU and Greek support for Turkey's EU aspirations. A breakaway Turkish Cypriot state in the north of the island is only recognized by Ankara, which maintains 40,000 troops there and does not recognize the Greek Cypriot government in the south. Turkey, which is preparing to start membership negotiations with the EU, recently said it would sign a protocol expanding its customs agreement with the European Union to cover Cyprus and nine other countries that joined the bloc last year. But Turkey insists the agreement will not amount to recognition of Cyprus. Cyprus joined the EU last year, but EU laws and benefits will not apply to the Turkish-occupied north until the island is unified. Gul and Molyviatis said their countries were aiming for close cooperation in energy, transportation and tourism. Other confidence building measures the two sides agreed on were to conduct joint maneuvers by their military search and rescue units and to hold sports competitions between Turkish and Greek military academies, Gul said.
+
+On June 8, 2005, Greece and Turkey have signed a justice cooperation protocol aimed at transferring skills and administering justice between the two traditional foes, during a visit to Greece Wednesday by Turkish Justice Minister Cemil Cicek. Cicek and his Greek counterpart Anastasios Papaligouras said it was the first ever cooperation protocol between the two ministries. "The relationship established by the Greek and Turkish prime ministers has substantially contributed to the creation of the conditions for consolidating a climate of frank cooperation between the two countries, and for further strengthening the mutual climate of confidence," said Papaligouras. Aside from transferring knowledge in matters of justice, the protocol also foresees the setting up of special training programs for Turkish candidate judges in the Greek northern port city of Thessaloniki. Athens and Ankara are currently in discussions over transferring Turkish citizens in Greek prisons to Turkey to complete their incarceration period. Both countries said they will also sign an agreement to cooperate on copyright matters with the European Centre for Public Law. NATO allies Greece and Turkey, which have come to the brink of war three times since 1974, have long-standing disputes over airspace and territorial rights in the Aegean despite recently improved relations. 
+
+Traditional foes Greece and Turkey share a common goal of advancing economic and trade relations despite continued tensions in the Aegean Sea, Greek Deputy foreign Evripidis Stilianidis said on June 29, 2005. "There are important possibilities for Greek businesses to have a stronger presence in Turkey," he said on the sidelines of the third Greece-Turkey ministerial economic committee meeting with Turkish Deputy Trade Minister Tuncer Kayalar. Greek exports to Turkey in 2004 totaled 690 million dollars while Athens received imports worth 1.2 billion dollars from Turkey. Stilianids said efforts were already being made to develop relations in the area of energy between the two countries. Greece and Turkey are to build a natural gas pipeline to transport Caspian and Central Asian natural gas to Europe by the end of 2006. Construction on the 300-kilometre pipeline, which will run from Bursa, Turkey to Komotini in Greece will start at the beginning of July after Greek Prime Minister Kostas Karamanlis and Turkish Prime Minister Tayyip Recep Erdogan inaugurate the project. The pipeline will initially transport 3.5 billion cubic meters of gas a year but capacity will eventually increase to 11.5 billion cubic meters a year once it is connected to two other planned gas pipelines. The first pipeline will run for 600 kilometers across northern Greece from Komotini to the northwest Greek port of Stavrolimena where it will connect with a 220-kilometre-long pipeline which will run under the Ionion sea with Italy. The underwater pipeline will be constructed by Greece's natural gas supplier Depa and Italy's Edison and is expected to be completed by 2010. Kayalar said the possibilities of long-term investments between the traditional foes were high, adding that he hoped Turkey to one day connect its electricity supply with the Balkans via Greece. NATO allies Greece and Turkey, which have come to the brink of war three times since 1974, have long-standing disputes over airspace and territorial rights in the Aegean, despite recently improved relations. Greece has repeatedly accused Turkey of carrying out a record number of airspace violations in the Aegean. Greece says its national airspace extends to 10 miles (16 kilometers), but Turkey recognizes only 6 miles (10 kilometers), the same distance as territorial waters.
+
+Greece on July 30, 2005 urged Turkey to end its "legal paradox" of refusing to recognize the government of Cyprus, a European Union nation. The Turkish government signed a key protocol on July 30, 2005, extending a customs union with the EU to new EU member states-Cyprus, Malta and eight eastern European nations-but Ankara said its signature did not mean it recognizes the Greek Cypriot government. "Turkey insists on not recognizing an EU member state when, at the same time, accession talks for its entry to the EU are about to open," Greece's Foreign Ministry said in a statement. Turkey is due to open membership talks with the EU on Oct. 3., 2005. "This paradox must end, the sooner the better ... the signing of the protocol must be a substantial step toward the normalization of relations between Turkey and the Cyprus Republic." Cyprus was partitioned into Greek and Turkish sectors when Turkey invaded the island in 1974 in response to an abortive coup by supporters of union with Greece. The internationally recognized Greek Cypriot-led government, which joined the EU in 2004, does not have diplomatic relations with Turkey and its authority is in effect confined to the south of a cease-fire line splitting the island into two. Turkish Cyprus-a republic created by Turkey after it invaded the island-is recognized only by Ankara, which maintains large numbers of troops there. Traditionally hostile relations between Greece and Turkey-over Cyprus and disputes in the Aegean Sea-have thawed in recent years, and Athens has become one of the most vocal supporters of Ankara's bid to join the EU. Greece believes that relations between the two can only improve as Turkey becomes more attuned to European norms.
+
+Greece's foreign minister accused neighboring Turkey on April 25, 2006, of failing to match Greek goodwill gestures, and hinted Turkish "provocations" could hinder the country's European Union aspirations. Dora Bakoyannis said Greece "has taken courageous political and economic decisions" to improve relations with longtime rival Turkey. `We look to the response of our neighboring country, and note that so far that response has not been what it should be," Bakoyannis said after meeting visiting U.S. Secretary of State Condoleezza Rice. "Quite to the contrary, unfortunately, we very often face provocations that are not in tune with the spirit of good neighborship nor with Turkey's desire to become a full member of the European Union." Bakoyannis did not specify what provocations she meant. Greece regularly accuses NATO ally Turkey of violating its airspace with military aircraft, and the two countries came close to war in 1996 over two disputed Aegean Sea rocks. Bakoyannis said she and Rice also discussed predominantly Muslim Turkey's stance toward the Ecumenical Patriarchate in Istanbul where the spiritual leader of the world's 250 million orthodox Christians has his headquarters. Greece wants Turkey's Islamic government to allow the reopening of a theological seminary that is crucial to the 1,700-year-old patriarchate's survival. The patriarchate dates from the Orthodox Greek Byzantine Empire, which collapsed when the Muslim Ottoman Turks captured the city, then called Constantinople, in 1453. Bartholomew is considered the "first among equals" of the world's Orthodox patriarchs. Turkey recognizes him only as the religious leader of its small Greek Orthodox minority.
+
+SOURCES-CR:
+Constas 1991; Praeger 1966; Stavrianos 2000; BBC March 29, 2002; June 1, 2002; June 29, 2005; Turkish Daily News February 3, 2003; Associated Press December 10, 1999; October 22, 2000; November 6,2001; January 18, 2002; April, 12 2005; May 6, 2005; July 11, 2002; May 26, 2003; July 30, 2005; April 25, 2006; Deutsche Presse-Agentur June 8, 2005; Xinhua November 18, 1999; December 12, 1999; September 22, 2000; Turkish Daily News April 21, 2000;
+
+SB-CR:
+Greece / Ottoman Empire (Turkey) Years: 1829-1923. Issues at stake: Greek independence; Crete; eastern border of Greece. End coding: The 1923 Treaty of Lausanne set final European borders between Greece and Turkey. Number of reciprocated 30 day militarized disputes: 12. Last militarized dispute: 1922. Wars: 1897, 1917-1918, 1919-1922. Summary: The Greek-Ottoman rivalry began with the Greek struggle to obtain independence from the Ottoman Empire. The 1821-1828 Greek War of Independence established that independence, but did not resolve either the exact European border between Greece and Turkey or the ownership of several islands, most notably Crete. Greece claimed Crete as part of its historical territory, and disputes relating to Crete began in the mid-1850s. The 1866 Cretan revolt, in which the Greeks aided the Cretans against the Ottomans, failed, and Greece was not able to formally annex Crete until 1908. In a series of disputes in the 1870s and 1880s, the Greeks intervened against the Ottomans in their conflicts with Serbia (1877), Russia (1878), and Bulgaria (1885). Greece gained control over Thessaly in the early 1880s, but lost that control during the Greek-Turkish War of 1897. Greece gained control of Macedonia during the Balkan Wars of 1912-1914. Following WWI, Greece intervened (with Britain, France, and Italy) in Asian Turkey, but was forced out in 1922; the war also resulted in the loss of some Greek territory in eastern Thrace. In 1923 the Greek monarchy was replaced by a republic; this coincided with the Treaty of Lausanne, which set final European borders between Turkey and Greece, recognized Crete as being under Greek control, and recognized continued British control of Cyprus. No disputes followed between Greece and Turkey until the 1950s, and in 1930, the Greeks and Turks actually signed a treaty of friendship. Since borders were accepted by both states with the Lausanne treaty, I code 1923 as the end of the rivalry. Notes: The dispute over Cyprus does not begin until closer to the time of Cyprus' independence (1960). Sources: Grenville (1974), Kinder and Hilgemann (1978).
+
+Greece / Ottoman Empire (Turkey) Years: 1958-Present. Issues at stake: Control over/partition of Cyprus; control of oil fields and islands in the Aegean Sea. End coding: Continuing as of 1988, no settlement regarding Cyprus, only partition (some island claims have been settled). Number of reciprocated 30 day militarized disputes: 6. Last militarized dispute: As recent as 1988. Wars: None. Summary: Britain had formally acquired Cyprus in the 1878 Treaty of Berlin, an acquisition formally agreed to by the Ottoman Empire. In 1925 Cyprus became a British Crown Colony. During the period of decolonization following WWII, Britain made a number of proposals (from 1946 to 1949) to unify Crete (which was 3/4 Greek Orthodox and 1/4 Turkish Muslim) with Greece. However, despite a series of direct talks between Greece, Turkey, and Britain, no resolution was reached. Beginning in the 1950s, there was an increasingly violent movement among Greek Cypriots for enosis with Greece. In 1959 Greece and Turkey both agreed with Britain that Cyprus would be independent, signing a series of three treaties in 1960, and Cyprus was granted its independence. However, the agreements did not hold, and a number of disputes followed; UN peace-keeping forces were deployed on Cyprus in 1964. In 1974 Turkey invaded Cyprus ostensibly to protect the Turkish minority, resulting in the continuing partition of the island. No resolution of the Turkish occupation or the enosis of Cyprus with Greece has been reached. A secondary issue of contention between Turkey and Greece in the post-WWII period related to control of oil fields and minor islands in the Aegean sea. A large number of the post-war disputes involve threats about having vessels and military forces in disputed areas, and the movement of forces in those areas. The 1958 rivalry start date, the first direct post-WWII militarized dispute between Greece and Turkey, involves a threat in the Aegean. Disputes over sea control were more frequent, but generally less serious, than disputes over Cyprus. In 1976 Greece and Turkey signed an agreement on procedures for negotiation of the Aegean continental shelf issue, but seizures of vessels and conflicting claims continued. Sources: Information Please Almanac (1991).
+
+PS-NARRATIVE: 
+
+19250501-19340208 Transition
+
+Patriarch VI announced his resignation on May 19, 1925, and Greece withdrew its appeal to the LON Council on June 1, 1925. The LON Council withdrew its request to the PCIJ on June 8, 1925. Greece and Turkey signed an agreement in Athens on December 1, 1926, which provided for the purchase by the Greek government of Turkish property in Greece. The Greek parliament ratified the Athens Agreement on February 16, 1927, and the Turkish parliament ratified the agreement on March 5, 1927. In December 1929, Greece and Turkey got closer to ending the dispute over the properties of Greeks in Turkey and Turks in Greece that were moved from one country to the other in the aftermath of the Lausanne Treaty of 1924. On October 5, 1931, Turkish Foreign Minister Tewfik Rushi Bey, Turkish Prime Minister, Ismet Pasha and Greek Prime Minister Venizelos signed the Angora Agreement which was negotiated in 1930. The Turkish Foreign Minister paid a flying visit to Athens, Greece on May 31, 1933 during which he discussed ways of improving the relations between the two countries. 
+
+19340209-19571231 0.5 
+
+On February 9, 1934 a pact of no aggression was signed between the Balkan states of Greece, Turkey, Romania and Yugoslavia. In 1938 Greece and Turkey signed an agreement which stipulated that in case one of them is the subject of aggression from a third country, the other will help out military the aggressed ally. On October 30, 1940 Greece was attacked by Italy. Turkey made it clear that besides holding the Bulgarians out at bay in the north of Greece, due to the massive Turkish military presence on the European shores of Turkey, it would also be willing to fight for Greece against Italy.On August 17, 1943, Turkey made it clear that it considered Greece the lawful owner of the Dodecanese islands, which are occupied by Italy and have a small Turkish population. Secondly, Turkey's politicians emphatically added that they want to create a close alliance with Greece as Turkey wants to help Greece out of the German occupation. oN February 12, 1952, Greece and Turkey joined NATO. On November 7, 1953, Greece and Turkey (together with Luxembourg) signed a military agreement and established a permanent secretariat to the tripartite treaty of Ankara, through which they will cooperate even closer in the framework of military activities. On August 9, 1954, the treaty between the three countries mentioned above was enlarged for a 20 years period and it included help in case of aggression on one of the signatories. Greece and Turkey were very close allies during this period. On May 22, 1958, Turkey asked Greece to agree to the partition of Cyprus. Turkish opposition is directed to the fact that Cypru's 120,000 Turks may one day find themselves under the rule of 400,000 Greeks. The first MID of RIV930, MID1278 occurred in January 1958 and it was over the territorial sea limit in the Aegean. This was the start of a long line of MIDs over the territorial delimitation of the Aegean Sea. The 1958 Geneva Convention had allocated the continental shelf to Greece but Turkey was not a signatory and therefore did not recognize Greece's claims. Turkey rejected the Greek claim that they controlled 12 nautical miles instead of the 6 nautical miles that Turkey recognized. Several disputes came as the result of a Turkey survey ship named Siznik conducting seismological studies (MID1289 and MID2179). Several of the other disputes came about as the result of flyovers by Turkish planes over the disputed waters (Constas 1991). This dispute is ongoing and is likely to continue as there have been no clear decisions regarding control over the Aegean.
+
+PS-SOURCES: New York Times October 6, 1931; April 2, 1933; February 10, 1934; October 30, 1940; August 17, 1943; November 8, 1953; May 22, 1958
+
+MARITIME-MIDS: MID1278 MID1280 MID1292 MID2173 MID1289 MID2174 MID2176 MID2177 MID2179 MID3909 MID4040 MID4092 MID4095 MID4323 MID4193 MID4133 MID4210 MID4233 MID4320
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID1278
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19580101 19580131
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 2 FATALITYB: 0
+
+MARITIME-DISPUTE: MID1280
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19671116 19671201
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID1292
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19740329 19740529
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID2173
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19740913 19741031
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID1289
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19760603 19760901
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID2174
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19781101 19781101
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID2176
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19821201 19840310
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID2177
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19841017 19850313
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 2 FATALITYB: 0
+
+MARITIME-DISPUTE: MID2179
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19860627 19870731
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID3909
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19890112 19890112
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4040
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19940608 19950608
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4092
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19951228 19960709
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4095
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19960817 19981025
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 1
+
+MARITIME-DISPUTE: MID4095
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19960817 20010426
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4323
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19970317 19970403
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4193
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19971010 19980729
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4133
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 19990312 19990506
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4210
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 20000209 20001021
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4233
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 20010131 20010131
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4320
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 20011227 20011200
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4320
+ DYAD: GREECE TURKEY/OTTOMAN EMPIRE 350640
+ DATES: 20011227 20011231
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+The issue of national control of the Aegean by Turkey and Greece began in 1958. MID1278, MID1280, MID1292, MID2173, MID1289, MID2174, MID2176, MID2177, MID2179, MID3909, MID4040, MID4092, MID4095, MID4323, MID4193, MID4133, MID4210, MID4233, MID4320 all relate to Turkish claims on waters in the Aegean that are also claimed by Greece. The first MID MID1278 occurred in January 1958 and it was over the territorial sea limit in the Aegean. This was the start of a long line of MIDs over the territorial delimitation of the Aegean Sea. The 1958 Geneva Convention had allocated the continental shelf to Greece but Turkey was not a signatory and therefore did not recognize Greece's claims. Turkey rejected the Greek claim that they controlled 12 nautical miles instead of the 6 nautical miles that Turkey recognized. Several disputes came as the result of a Turkey survey ship named Siznik conducting seizmalogical studies (MID1289 and MID2179). This dispute is ongoing and is likely to continue as there have been no clear decisions regarding control over the Aegean.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

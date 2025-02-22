@@ -1,0 +1,23 @@
+INSTRUCTIONS FOR REPLICATING:
+Roseanne W. McManus and Nieman, Mark David. "Identifying the level of major power support signaled
+for proteges: A latent measure approach" Journal of Peace Research. (Forthcoming).
+
+FILES INCLUDED
+1. Individual Signal Dataset: CSV with the variables used as input to generate the latent variable.
+2. Generate US Support: R script used to generate US latent signaling support.
+3. Generate Russia Support: R script used to generate Russia latent signaling support. 
+4. Generate China Support: R script used to generate China latent signaling support.
+5. Generate UK Support: R script used to generate UK latent signaling support.
+6. Generate France Support: R script used to generate France latent signaling support.
+7. Major Protege Dataset: Stata dta file with summary data and 5 random draws from posterior of major power-protege signaling support.
+8. MID Intervention Prediction Dataset: Stata dta file used in the application predicting major power MID intervention.
+9. MID Intervention Prediction Code: Stata do file that produces the results for MID intervention shown in the applications section.
+10. Signal Level Prediction Dataset: Stata dta file used in the application predicting the level of major power support signaled.
+11. Signal Level Prediction Code: State do file that produces the results for the application predicting the level of major power support signaled.
+
+INSTRUCTIONS FOR USING THE LATENT VARIABLE
+
+1. To examine or use the major power-protege data, use Major Protege Dataset (file 7). The five random draws can be used with Rubin's formula to account for uncertainty in the estimate when the variable is used in regression analysis.
+2. To generate the latent variable summarized in Table I, open Generate US Support (file 2) in R and run the script. Repeat for files 3-6.
+3. To replicate Table II, open Signal Level Prediction Code (file 11) in Stata and run the do file.
+4. To replicate Table III, open MID Intervention Prediction Code (file 9) in Stata and run the do file.

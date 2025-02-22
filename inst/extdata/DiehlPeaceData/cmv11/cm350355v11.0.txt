@@ -1,0 +1,264 @@
+FILE: cm350355v11.0.txt
+DYAD: GREECE-BULGARIA
+RIVALRY: RIV923
+DISPUTE(S): MID257 MID3343 MID324 MID1241 MID3187 MID3186 MID3856 MID3197 MID1295 MID1251 
+
+PS: 19081005-19130628 .25 19130629-19530709 0.0 19530710-20061231 .5 20070101-20209999 1.00
+
+PS-UPDATE2020:
+
+PS-NOTES: Joint EU membership when BULGARIA joins on January 1, 2007.
+
+Last MID, MID1251 starts on 19130629, not 19130729. The treaty in 1953 should be the end of the RIV.
+
+regarding version 1.0, Diplomatic relations were established in 1908. I am not sure why the first part ends in 1910. Is it a typo, and it was meant to be 1913 actually?
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 MID3343 MID324 
+
+WWII MIDs: MID3856 
+
+MID1241 
+
+TERRMID: MID1241 1 -- territorial MID
+TERRMID-CER: MID1241 1 -- certain 
+TERRMID-NOTES: MID1241 from Gibler 2018, Bulgarian troops killed a Greek officer in 1925, leading to escalations and a Greek invasion of Bulgarian territory. An agreement was eventually reached, and the Greeks left the territory. Coded territorial MID because this was connected to a border dispute, and the officer killed was patrolling the disputed border, per NYT 7/19/1928. 
+
+TERRLINK: MID1241 3 -- not third party link to territory 
+TERRLINK-CER: MID1241 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1241 3 -- not maritime 
+MARITMID-CER: MID1241 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1241 3 -- not islands 
+ISLMID-CER: MID1241 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1241 3 -- not civil war 
+CIVWARMID-CER: MID1241 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1241 3 -- not civil war link 
+CIVWARLINK-CER: MID1241 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1241 3 -- not coup 
+COUPMID-CER: MID1241 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1241 3 -- not coup link
+COUPLINK-CER: MID1241 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3187 
+
+TERRMID: MID3187 1 -- territorial MID
+TERRMID-CER: MID3187 1 -- certain 
+TERRMID-NOTES: MID3187 from cm narrative, the border between Bulgaria and Greece was disputed largely because Bulgaria resented its territorial losses from the Balkan Wars and desired access to the Aegean Sea. These issues persisted up until WWII. Here (1925), per Gibler 2018, Greek soldiers killed a Bulgarian border guard who was inspecting a border outpost on the disputed border. Coded territorial MID because this was connected to the disputed border between the countries. Per NYT 7/19/1928, the officer killed was patrolling the disputed border. 
+
+TERRLINK: MID3187 3 -- not third party link to territory 
+TERRLINK-CER: MID3187 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3187 3 -- not maritime 
+MARITMID-CER: MID3187 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3187 3 -- not islands 
+ISLMID-CER: MID3187 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3187 3 -- not civil war 
+CIVWARMID-CER: MID3187 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3187 3 -- not civil war link 
+CIVWARLINK-CER: MID3187 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3187 3 -- not coup 
+COUPMID-CER: MID3187 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3187 3 -- not coup link
+COUPLINK-CER: MID3187 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3186 
+
+TERRMID: MID3186 1 -- territorial MID
+TERRMID-CER: MID3186 1 -- certain 
+TERRMID-NOTES: MID3186 from cm narrative, the border between Bulgaria and Greece was disputed largely because Bulgaria resented its territorial losses from the Balkan Wars and desired access to the Aegean Sea. These issues persisted up until WWII. From Gibler 2018, this MID occurred when a Greek soldier approached the disputed border. Bulgarian soldiers shot him dead because they thought he was committing a hostile action on the border. A border clash ensued. Coded territorial MID because although Greece was not actually attempting to attack Bulgaria, Bulgaria perceived a threat connected to the disputed border and used deadly force. 
+
+TERRLINK: MID3186 3 -- not third party link to territory 
+TERRLINK-CER: MID3186 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3186 3 -- not maritime 
+MARITMID-CER: MID3186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3186 3 -- not islands 
+ISLMID-CER: MID3186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3186 3 -- not civil war 
+CIVWARMID-CER: MID3186 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3186 3 -- not civil war link 
+CIVWARLINK-CER: MID3186 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3186 3 -- not coup 
+COUPMID-CER: MID3186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3186 3 -- not coup link
+COUPLINK-CER: MID3186 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3197 
+
+TERRMID: MID3197 3 -- not territory 
+TERRMID-CER: MID3197 1 -- certain 
+TERRMID-NOTES: MID3197 from Gibler 2018, this MID occurred in 1950 when Bulgaria protested Greek soldiers attempting to kidnap a Bulgarian farmer. Coded not territory because per cm narrative, the border was no longer being disputed, and this was an isolated incident. 
+
+TERRLINK: MID3197 3 -- not third party link to territory 
+TERRLINK-CER: MID3197 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3197 3 -- not maritime 
+MARITMID-CER: MID3197 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3197 3 -- not islands 
+ISLMID-CER: MID3197 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3197 3 -- not civil war 
+CIVWARMID-CER: MID3197 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3197 3 -- not civil war link 
+CIVWARLINK-CER: MID3197 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3197 3 -- not coup 
+COUPMID-CER: MID3197 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3197 3 -- not coup link
+COUPLINK-CER: MID3197 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1295 
+
+TERRMID: MID1295 3 -- not territory 
+TERRMID-CER: MID1295 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1295 3 -- not third party link to territory 
+TERRLINK-CER: MID1295 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1295 3 -- not maritime 
+MARITMID-CER: MID1295 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1295 1 -- islands MID
+ISLMID-CER: MID1295 1 -- certain 
+ISLMID-NOTES: MID1295 from cm narrative, in 1952, a minor dispute between Bulgaria and Greece arose over Gamma island, which belonged to Greece. This new claim was not part of the previously existing territorial claim which had been resolved in the WWII settlement. Per Gibler 2018, Bulgaria invaded and occupied Gamma until Greece fired on the islands to force them out. Meanwhile the UN affirmed that the islands belonged to Greece. Coded islands MID because this was connected to a brief dispute over Gamma island. 
+
+CIVWARMID: MID1295 3 -- not civil war 
+CIVWARMID-CER: MID1295 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1295 3 -- not civil war link 
+CIVWARLINK-CER: MID1295 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1295 3 -- not coup 
+COUPMID-CER: MID1295 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1295 3 -- not coup link
+COUPLINK-CER: MID1295 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1251 
+
+TERRMID: MID1251 1 -- territorial MID
+TERRMID-CER: MID1251 1 -- certain 
+TERRMID-NOTES: MID1251 from Gibler 2018, after the Second Balkan War, there were still outstanding territorial disputes among the Balkan countries. Serbia (Yugoslavia) and Bulgaria both claimed Macedonia, and after Bulgaria refused to cede parts of Macedonia to Serbia, Bulgaria attacked Serbia, Greece, and Romania to control the territory. Coded territorial MID because this was connected to the countries' claim on Macedonian territory. 
+
+TERRLINK: MID1251 3 -- not third party link to territory
+TERRLINK-CER: MID1251 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1251 3 -- not maritime 
+MARITMID-CER: MID1251 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1251 3 -- not islands 
+ISLMID-CER: MID1251 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1251 3 -- not civil war 
+CIVWARMID-CER: MID1251 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1251 3 -- not civil war link 
+CIVWARLINK-CER: MID1251 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1251 3 -- not coup 
+COUPMID-CER: MID1251 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1251 3 -- not coup link
+COUPLINK-CER: MID1251 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV923: MID3.02 has recoded MID1251 as Bulgaria against everyone else in the Second Balkan War (1913).
+
+NARRATIVE-CM:
+Bulgarian troops launched a military offensive against Greece on June 29, 1913, but the military offensive was defeated by Greek troops on July 15, 1913. Bulgaria and Greece agreed to a ceasefire on July 31, 1913. Some 20,000 Bulgarians and 2,500 Greeks were killed during the *Second Balkan War*. Bulgaria and Greece signed the *Treaty of Bucharest* on August 10, 1913, which provided for the Bulgarian cessation of Saloniki and Kavalla to Greece. On September 6, 1915, Bulgaria agreed to join Germany and Austria-Hungary against the Allied countries in the *First World War*. Bulgarian troops invaded Greek territory on May 26, 1916. Bulgarian troops launched a military offensive against Allied troops in Salonika on August 17, 1916, but Allied troops launched a counter-offensive against Bulgarian troops on September 10, 1916. Greece entered the *First World War *on the side of the Allied countries on June 27, 1917. Greek troops entered Bulgaria on September 25, 1918, and Bulgaria agreed to a ceasefire on September 29, 1918. Bulgaria and Greece signed the *Treaty of Neuilly *on November 27, 1919, which provided for the Bulgarian cessation of Western Thrace to Greece. Bulgaria accused Greece of mistreating ethnic Bulgarians in Western Thrace. Bulgaria referred the matter to the *League of Nations* (LON) Council on March 31, 1923. Bulgaria and Greece disputed the interpretation of Article 179 of the *Treaty of Neuilly*. Bulgaria and Greece signed an agreement in Sofia on March 18, 1924, which provided for the submission of the dispute to the *Permanent Court of International Justice* (PCIJ). Greek troops killed thirteen ethnic Bulgarians near Tarlis, Greece on July 27, 1924. The PCIJ issued a decision concerning Article 179 of the *Treaty of Neuilly* on September 12, 1924. Gilbert Murray, a British delegate to the LON Assembly, facilitated the signing of two protocols by Bulgarian and Greek diplomats on September 29, 1924. Greece requested an interpretation of the PCIJ decision on November 26, 1924, but the PCIJ denied the request on March 26, 1925. Greek troops and Bulgarian troops clashed in the Demir-Kapu border region on October 19-21, 1925, resulting in the deaths of one Bulgarian and four Greek soldiers. Greek troops invaded and occupied 70 square miles of Bulgarian territory on October 22-23, 1925. Bulgaria referred the matter to the LON secretary-general on October 23, 1925. Aristide Briand, president of the LON Council, appealed for a ceasefire and troop withdrawal on October 23, 1925. Bulgaria and Greece agreed to a ceasefire on October 24, 1925. The LON Council appealed for a troop withdrawal from the Demir-Kapu region on October 26, 1925, and authorized Britain, France, and Italy to monitor the troop withdrawal. Romania and Turkey offered to mediate a cessation of the crisis, but the offer was rejected by Bulgaria. Greek troops completed their withdrawal from Bulgarian territory on October 28, 1925. The LON Council established a five-member commission of inquiry (Britain, France, Italy, Netherlands, Sweden) headed by Sir Horace Rumbold of Britain and three staff personnel on October 29, 1925. The LON commission of inquiry submitted their report to the LON Council on December 10, 1925, which suggested that Greece's occupation of Bulgarian territory was a violation of the Covenant of the LON and recommended that Greece pay the Bulgarian government an indemnity of 45,000 British pounds. The LON Council adopted the commission of inquiry's report on December 14, 1925, and Greece accepted the LON Council's decision on December 15, 1925. On February 6, 1926, Bulgaria and Greece agreed to allow two Swedish military personnel to observe to Bulgarian-Greek border. Greece completed payment of the indemnity to Bulgaria on March 1, 1926. Bulgaria and Greece signed the *Kaphandaris-Molov Agreement *on December 9, 1927. Greece claimed that Bulgaria violated the property rights of five Greek nationals in Central Rhodopia (Bulgaria) by seizing forests owned by the Greek nationals in February 1913. The countries referred the matter to the LON Council in September 1930 (Bulgaria had notified the Greek government on January 10, 1925 that the Bulgarian government had taken possession of the forests under Article 4 of the *Bulgarian Forest Law*.) The LON Council approved a resolution on October 2, 1930, which provided for arbitration of the property rights dispute. Greece suspended payments due to Bulgaria under the *Kaphandaris-Molov* agreement on July 14, 1931. Bulgaria referred the matter to the LON secretary-general on August 7, 1931. The LON Council requested an advisory opinion from the PCIJ, and appealed for peaceful negotiations on September 19, 1931. The PCIJ issued its advisory opinion on March 8, 1932. Bulgaria informed Greece on May 29, 1932 that it would not be able to make its payments to Greece due under the *Kaphandaris-Molov* agreement. The LON completed arbitration of the property rights dispute on March 29, 1933, when it awarded an indemnity to the Greek government. Bulgarian and Greek representatives signed an agreement in Thessaloniki on July 31, 1938, which provided for Greek recognition of the right of Bulgaria to rearm. On March 1, 1941, Bulgaria agreed to join Germany, Italy, and Japan against the Allied countries in the *Second World War*. Greece severed diplomatic relations with Bulgaria. German troops attacked Greece from Bulgarian territory on April 6, 1941, and Greek troops were defeated on April 23, 1941. Some 58,000 *British Commonwealth* troops were deployed in support of Greece, but were evacuated from Greece on April 27, 1941. Some 1,200 German troops were killed during the conflict. Bulgaria annexed Western Thrace and Greek Macedonia on May 14, 1941. Bulgaria proclaimed martial law in the annexed territories on September 20, 1941, eventually resulting in the deaths of some 50,000 ethnic Greeks and deportation of 250,000 ethnic Greeks. Greece alleged that Bulgaria was providing military assistance to communist rebels in Greece, but Bulgaria denied the allegation on November 28, 1946. Greece referred the matter to the *United Nations *(UN) Security Council on December 4, 1946. The UN Security Council established an eleven-member commission of inquiry (Australia, Belgium, Brazil, Republic of China, Colombia, France, Poland, Soviet Union, Syria, United Kingdom, United States) on December 19, 1946. Bulgaria signed a peace treaty with the Allied countries on February 10, 1947, which required that Bulgaria pay $50 million in reparations to Greece. The UN commission of inquiry, which was assisted by a staff of twenty-seven personnel, issued a report on May 27, 1947 that substantiated Greece's accusations against Bulgaria. UN Security Council resolutions pertaining to the report of the UN commission of inquiry were vetoed by the Soviet Union, and the dispute was referred to the UN General Assembly. The UN General Assembly established the *United Nations Special Committee on the Balkans* (UNSCOB) on October 21, 1947. UNSCOB consisted of eleven representatives and 23 staff personnel from Australia, Brazil, Republic of China, France, Mexico, Netherlands, Pakistan, Poland, Soviet Union, United Kingdom, and the United States. UNSCOB deployed some 35 military observers from Brazil, Republic of China, France, Mexico, the Netherlands, UK, and the US to monitor the border region. The UN General Assembly appealed for peaceful negotiations between Greece and Bulgaria on October 21, 1947. Bulgarian troops and Greek troops clashed near the border in May 1948. Bulgaria referred the matter to the UN Security Council on May 21, 1948. The UN General Assembly demanded that Bulgaria terminate military assistance to communist rebels in Greece on November 27, 1948. Two UNSCOB military observers were killed in a plane crash on February 17, 1949. The UN General Assembly disbanded UNSCOB on December 7, 1951. The UN General Assembly established a military observation mission, which consisted of six military observers (Colombia, France, Pakistan, Sweden, UK, US) headed by General H. W. D. McDonald of Britain, to monitor the Bulgaria-Greece border from December 8, 1951 to July 31, 1954. Bulgarians and Greeks clashed near the Evros River on July 26-27, 1952, resulting in the deaths of four Greek citizens. Bulgarian troops occupied Gamma island in the Evros River on July 27, 1952, and Greek troops fired on the Bulgarian troops on August August 7-9, 1952. Bulgarian and Greek troops clashed in the Belles mountains on August 12, 1952, resulting in the deaths of two Greek soldiers. Bulgarian and Greek troops clashed near the border on April 4, 1953, resulting in the death of one Greek soldier. Bulgarian troops landed on Gamma island on May 4, 1953, and Greek troops fired on the Bulgarian troops on May 4-5, 1953. Bulgaria and Greece signed an agreement on July 10, 1953, which provided for the withdrawal of Bulgarian troops from Gamma island. Bulgaria and Greece resumed diplomatic relations on May 24, 1954. Greece requested $18 million in reparations from Bulgaria for damages during the *Second World War *on May 15, 1959. Bulgaria and Greece signed an agreement on June 28, 1964, which resolved the reparations dispute. Bulgaria and Greece signed a non-aggression pact on September 11, 1986.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 584-586; Clodfelter, 1992, 812; Conwell-Evans, 1929, 102-105, 137, 144, 155-160; Ference, 61-102; Langer, 1972, 1024-1026, 1210-1213; Northedge, 1986, 111-112; Shore, 1970, 39-40; Stuyt, 1990, 339; *Survey of International Affairs *(SIA), 1925, 288-309, 1925 (supplement), 30-32, 1926, 517, 1931, 511, 1934, 773-807, 1932, 589; *United Nations Review*, August 1954; *United Nations Yearbook*, 1952, 291, 1953, 248-249; Wainhouse, 1966, 48-53.
+
+NARRATIVE-CR:
+Many of the important issues that continued to drive the series of conflict between Greece and Bulgaria must be traced back to a rivalry begun during the Balkan Wars. Most importantly for the 20th century rivalry, the issues that led to conflict during the Second Balkan War of 1913 (Coded as MID1251). Both Greece and Bulgaria laid a claim of possession of Macedonia. Both the Greek and the Bulgarian governments insisted that Macedonia was not an independent state and that those people who claimed to be Macedonians were in fact Greeks/Bulgarians in actuality. This historical rivalry extends back to 1878 with the treaty of San Stephano (March 1878). Russian defeat over the Turks allowed reapportionment of the Balkan region. Greece expected a region of pan Slavism but the boundries specified in ther treaty of San Stefano gave Bulgaria control over territory from the Danube to the Augean and included Trace and most of Macedonia (Danopoulos 1997 p197). Tensions increased when Bulgaria attempted to incorporate the rest of Macedonia into their territory, thus freeing their "unredeemed bothers" from Turkish rule (Stavrianos 2000 p425). Greece and Serbia also felt a sense of ownership over Macedonia and a growing displeasure of the terms set forth in 1878 as well as the growing ambitions of Bulgaria in the Balkan region.
+
+The second Balkan War came from a disagreement over Serbian/Greek ownership in Macedonia because of territory that was assigned to Serbia (In the Serbo-Bulgarian Treaty signed at the end of the first Balkan war) The Balkan allies had effectively ousted the Turks from Eastern Europe but with the outside threat gone, they were now free to fight over the spoils of war. Land that was promised to Serbia was given to form the new Albania and thus Serbia (an ally of the Greeks) demanded a larger share of Macedonia (The Saloniki area), which the Bulgarian's refused (Stavrianos 2000 p537). In response to what Bulgarians saw as Serbian belligerence, the Bulgarian government (headed by Stoyan Danev and King Ferdinand) now insisted that Bulgaria should control the whole of Macedonia, thus shifting Greek support almost entirely to the side of Serbia. On June 28 King Ferdinand ordered Bulgarian troops to attack Greek and Serbian forces in Macedonia. 
+
+The Bulgarian forces were routed and a ceasefire was declared between Greece and Bulgaria on July 31, 1913. Later all parties involved signed the treat of Bucharest which granted the contested land (Saloniki area) to Greece. This loss of Bulgarian controlled land to the Greeks and the attempted re-expansion of Bulgarian forces into Macedonia is at the heart of conflict between the two states throughout the First and Second World War (Coded as MID257 and MID258 respectively). Adding insult to injury was the concessions Bulgaria was forced to make following WWI under the Neuilly Treaty. However, even before Bulgaria's final defeat in WWI King Ferdinand was forced to make some substantial changes in the Bulgarian governmental structure which heavily influenced foreign politics.
+
+In response to growing displeasure over Bulgarian defeats in 1918 Ferdinand dismissed the ministry of Radoslavov and brought in a cabinet of Democrats and Liberals headed by Malinov (this occurred in September of 1918). In November further changes came as the result of an election and the Agrarian and Socialist party gained power. To satiate the Allies following WWI Bulgaria was forced to yield those territories that would enable her to launch an offensive war as specified by the Neuilly Treaty of November 27th of 1919 (Stayrianos 2000 p579). Dobruju was given to Rumania, land was given to Yugoslavia and Western Thrace was given to Greece. This loss was key because it was Bulgaria's only access to the Aegean Sea. Bulgaria's previous two ports were lost during the first two Balkan Wars (Saloniki and Kavalla). Although Greece made an offer to allow Bulgaria use of the ports Bulgaria felt the situation was unacceptable to be completely dependent on Greece for sea access.
+
+Question over Bulgarian access to the Aegean Sea became a constant theme in Greece-Bulgarian relations leading up the Second World War. Bulgaria demanded that a neutral zone be created that would allow access to a port rather than Bulgaria being dependent on Greece or Turkish permission. In response Greece created a free zone port in October of 1925. This port was open to all Balkan states but was deemed inadequate by the Bulgarians (Stayrianos 2000 649). Bulgaria never having fully accepted the Neuilly Treaty as a final settlement to the question of Bulgarian ownership of Macedonian lands and most importantly ownership of the ports led to the formation of the Balkan Entente of 1934. All Balkan nations excepting Bulgaria pledged security alliance to each other in the event of future Bulgarian aggression. The Entente would be short lived with World War II coming in the not too distant future. 
+
+Ferdinand's son Boris was King of Bulgaria by the time of Bulgarian alliance with the Axis powers. Boris hoped that by allying with the potentially dominant Germany they would have a free hand in re-taking land from Greece and Serbia. Also, Bulgaria's alliance with Germany would potentially keep the advancing Russian army from taking Bulgaria. However, once again Bulgaria sided on the wrong team. By October of 1944 the Balkans were to be divided up amongst the Allied powers, with the Soviet army wanted control over Rumania, Bulgaria and 50% control over Yugoslavia and Hungary (as specified during the Moscow Conference of October 9th 1944). 
+
+The terms of Bulgaria's reparations were set during the Yalta conference and during the Potsdam convention. The official peace treaties were signed in Paris on February 10th of 1947. Bulgaria was forced to restore all territories to Greece and Yugoslavia it had occupied during WWII. However, Bulgaria was given southern Dobruja (which it has lost to Rumania in 1919) giving it access to the sea. Greece requested additional reparations in the amount of $20million but this was not settled in the post-war treaties, nor at the conferences and eventually the issue was dropped. Some additional confrontations between the two nations occurred in 1952 but were all minor border disputes and were not related to the previous Macedonian question. Part of what might have contributed to the change in patter of Bulgarian/Greek relations in 1952 is the entry of Greece into the North Atlantic Treaty Organization. A similar turn around of Bulgarian defiance can be observed with Bulgarian/Turkish relations the same year. Turkey also had joined NATO and had the backing of Central and Western Europe. Officially Greece and Bulgaria resumed diplomatic status in the summer of 1954 (Stayrianos 2000). 
+
+SOURCES-CR:
+Danopoulos 1997; Stayrianos 2000
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times 7/19/1928. "Kill Bulgar Guard." 

@@ -1,0 +1,97 @@
+FILE: cm359369v11.0.txt
+DYAD: MOLDOVA-UKRAINE
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190316
+LS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4419 
+
+TERRMID: MID4419 1 -- territorial MID
+TERRMID-CER: MID4419 1 -- certain 
+TERRMID-NOTES: MID4419 from cm narrative, A few days before 7/24/2003, Moldovan border guards captured a Ukrainian hydro-engineering facility at gunpoint. The facility is located in the middle of the Dniester River on the Moldova-Ukraine border. Moldova and Ukraine lack a border demarcation agreement. Moldova claimed that the facility was in its territory. It insisted that any demarcation be along the Dniester River, an arrangement that again would place the facility in Moldovan territory. Coded territorial MID because this was connected to a boundary dispute. 
+
+TERRLINK: MID4419 3 -- not third party link to territory 
+TERRLINK-CER: MID4419 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4419 3 -- not maritime 
+MARITMID-CER: MID4419 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4419 3 -- not islands 
+ISLMID-CER: MID4419 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4419 3 -- not civil war 
+CIVWARMID-CER: MID4419 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4419 3 -- not civil war link 
+CIVWARLINK-CER: MID4419 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4419 3 -- not coup 
+COUPMID-CER: MID4419 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4419 3 -- not coup link
+COUPLINK-CER: MID4419 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4441 
+
+TERRMID: MID4441 3 -- not territory 
+TERRMID-CER: MID4441 1 -- certain 
+TERRMID-NOTES: MID4441 there was an active territorial dispute at this time, but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that suggests the territorial dispute factored into this MID. 
+
+TERRLINK: MID4441 3 -- not third party link to territory 
+TERRLINK-CER: MID4441 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4441 3 -- not maritime 
+MARITMID-CER: MID4441 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4441 3 -- not islands 
+ISLMID-CER: MID4441 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4441 1 -- civil war MID
+CIVWARMID-CER: MID4441 1 -- certain 
+CIVWARMID-NOTES: MID4441 from cm narrative, Ukraine fortified sections of its border with Moldova with additional troops to prevent incursions by extremist groups from the neighboring country. Coded civil war MID because this was connected to militarized rebels in Moldova. 
+
+CIVWARLINK: MID4441 3 -- not civil war link 
+CIVWARLINK-CER: MID4441 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4441 3 -- not coup 
+COUPMID-CER: MID4441 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4441 3 -- not coup link
+COUPLINK-CER: MID4441 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4419
+rivalry=359369 nationa=MOLDOVA nationb=UKRAINE MID4419 20030700-20040100 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+A few days before 7/24/2003, Moldovan border guards captured at gunpoint a Ukrainian hydro-engineering facility. The facility is located in the middle of the Dniester River on the Moldova-Ukraine border. Moldova and Ukraine lack a border demarcation agreement. Moldova claimed that the facility was in its territory. It insisted that any demarcation be along the Dniester River, an arrangement that again would place the facility in Moldovan territory. First day of dispute is listed on 7/00/2003 and last day of dispute is listed on 1/00/2004.
+
+MID4441
+rivalry=359369 nationa=UKRAINE nationb=MOLDOVA MID4441 20090409-20090409 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Ukraine fortified sections of its border with Moldova with additional troops to prevent incursions by extremist groups from the neighboring country. First day of dispute was on 4/9/2009 and last day of dispute was on 4/9/2009.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

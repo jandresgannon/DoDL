@@ -1,0 +1,57 @@
+FILE: cm732816v11.0.txt
+DYAD: S. KOREA - N. VIETNAM
+RIVALRY: RIV1332
+DISPUTE(S): MID611 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190317
+PS-LAST-CHECKED: 20190317
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID611
+
+TERRMID: MID611 3 -- not territory
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain
+TERRLINK-NOTES: MID611 from Gibler 2018, this is the Vietnam War, an internationalized civil war that has a territorial dispute element between North and South Vietnam. The US, South Korea, Thailand, Cambodia, Philippines, Australia, and New Zealand supported South Vietnam, and USSR and China supported North Vietnam. China's support for North Vietnam pulls them into this MID against South Vietnam. Coded third party link to territorial MID because this was connected to a territorial dispute between North and South Vietnam. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 1 -- civil war MID
+CIVWARMID-CER: MID611 1 -- certain
+CIVWARMID-NOTES: MID611 coded civil war MID because the Vietnam War is an internationalized civil war. Communist rebels were fighting in South Vietnam against that regime, and were supported by China. Coded civil war MID because this was connected to civil war in South Vietnam, within this dyad. 
+
+CIVWARLINK: MID611 1 -- civil war link
+CIVWARLINK-CER: MID611 1 -- certain
+CIVWARLINK-NOTES: MID611 coded civil war link because the Vietnam War is an internationalized civil war partly occurring in North Vietnam, outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

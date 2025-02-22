@@ -1,0 +1,208 @@
+FILE: cm200740v11.0.txt
+DYAD: UNITED KINGDOM-JAPAN
+RIVALRY: RIV479
+DISPUTE(S): MID13 MID239 MID224
+RIVALRY: RIV480
+DISPUTE(S): MID1488 
+RIVALRY: RIV481
+DISPUTE(S): MID248 MID1825 MID337 MID258 MID3808 MID1749
+
+RIVNOTES: 
+
+PS: 19009999-19320130 0.5 19320131-19450814 0.00 19450815-19520427 -9 19520428-19570427 .5 
+
+PSNOTES: 
+
+PS-UPDATE2020: 
+Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20220228
+PS-LAST-CHECKED: 20220228
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+Pre-1900 MIDs: MID13 MID239 MID224 MID1488
+
+WWII MIDs: MID337 MID258 MID3808 MID1749
+
+
+MID248 
+
+TERRMID: MID248 3 -- not territory
+TERRMID-CER: MID248 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID248 1 -- third party link to territorial MID
+TERRLINK-CER: MID248 1 -- certain
+TERRLINK-NOTES: MID248 from cm002740, occurred from January 31-February 13, 1932. Here the US Navy landed in China to protect American interests during Japanese occupation of Shanghai, and UK also used their troops to protect their interests, bringing them into this MID. Japan had attacked Shanghai in order to repress protesters there. Japan was occupying Manchuria at the time and installed a puppet state. Coded third party link to territory because while Japan was not attempting to annex the territory of Manchuria, Japan was asserting its right to exert absolute administration over the area due to its lease of the Manchurian Railway. This amounts to Japan claiming sovereignty over the territory, making that a territorial claim and this a third party link to that claim. 
+
+MARITMID: MID248 3 -- not maritime 
+MARITMID-CER: MID248 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID248 3 -- not islands 
+ISLMID-CER: MID248 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID248 3 -- not civil war 
+CIVWARMID-CER: MID248 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID248 3 -- not civil war link
+CIVWARLINK-CER: MID248 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID248 3 -- not coup 
+COUPMID-CER: MID248 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID248 3 -- not coup link
+COUPLINK-CER: MID248 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1825 
+
+TERRMID: MID1825 3 -- not territory
+TERRMID-CER: MID1825 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1825 1 -- third party link to territorial MID
+TERRLINK-CER: MID1825 3 -- uncertain
+TERRLINK-NOTES: MID1825 from cm002740 narrative, this MID (1937) involved a clash in China due to Japanese invasion in China. Japan was intending to extract resources, not claim Chinese territory as its own. However, Japan was effectively asserting sovereignty over the Chinese territory by occupying it, monopolizing the use of force within that territory, and extracting its resources. This MID is therefore coded third party link to territorial MID. Coded uncertain because Gibler 2018 does not see UK as party to this dispute. 
+
+MARITMID: MID1825 3 -- not maritime 
+MARITMID-CER: MID1825 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1825 3 -- not islands 
+ISLMID-CER: MID1825 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1825 3 -- not civil war 
+CIVWARMID-CER: MID1825 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1825 1 -- civil war link
+CIVWARLINK-CER: MID1825 3 -- uncertain
+CIVWARLINK-NOTES: MID1825 from cm002740 narrative, occurred December 1937. The Chinese Civil War was ongoing and the Japanese had invaded China in order to extract resources for Japan's domestic and international trade. Coded civil war linked MID because the Japanese presence in China was connected to the ongoing Chinese Civil War, which is outside of this dyad, and the US gunboats were attacked by Japan in this context. Coded uncertain because Gibler 2017 does not see Japan as party to this dispute. 
+
+COUPMID: MID1825 3 -- not coup 
+COUPMID-CER: MID1825 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1825 3 -- not coup link
+COUPLINK-CER: MID1825 1 -- certain 
+COUPLINK-NOTES:
+
+
+
+
+
+NARRATIVE-CM:
+Japan issued a statement to the League of Nations arguing that chaos and banditry in Manchuria required Japanese military intervention on December 29, 1931. The United States and the United Kingdom protested this action in separate notes on January 7, 1932. Japan agreed on January 7, 1932 to adhere to the open door principle in Manchuria. On February 18, 1932, Japan declared that Manchuria was now an independent state, renamed 
+Manchukuo. Japanese military aircraft attacked several British ships in the Chinese port of Wuhu on December 5, 1937, resulting in the death of one individual. Japan apologized to Britain for the attacks on December 14, 1937. On Dec 14, 1938 Japan imposed barrier restrictions on the French and British concession of Tientsin. Japanese official media began an anti-British propaganda campaign in occupied China in March 1939. On May 24, 1939 the Japanese foreign Ministry issued a statement threatening the treaty rights of the European powers. On June 14, 1939 Japan began a full blockade of the British and French concessions in Tientsin. During the period from June 19-23, 1939, Japanese military forces stopped and searched all British and French citizens attempting to leave Tientsin. On 
+July 15, 1939 The United Kingdom opened negotiations with Japan to relieve the situation at Tientsin. On July 24, 1939 British Prime Minister Chamberlain accepted Japanese conditions for the British concessions in China, including the continued blockage. Japan and the UK justified the continued blockade as necessary due to the ongoing Sino-Japanese war. Japan ended the blockade of Tientsin on June 20, 1940. Japan commenced attacks on 
+British forces in Asia on December 7, 1941. The United Kingdom declared war on Japan on December 8, 1941. Japan unconditionally surrendered on August 14, 1945.
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1937 (vol. 1), 257-317. Annual Register 1932, p 285-286; Annual Register 1939, 69-71, 295; Annual Register 1940, 266
+
+NARRATIVE-CR:
+Tension between Japan and Western states occurred subsequent to the opening of Japan. There were a series of disputes between the UK and Japan in the 1860s and again in 1885 related to foreign presence in or near Japan. The rivaly subsides until the early 1930s when Japan's expansionism causes heightened tension between Japan and the UK. The rivalry culminates in World War II. The British fought the Japanese in Thailand, Burma, Singapore, Hong Kong, the Dutch East Indies and in various naval engagements. The rivalry ends with the Japanese unconditional surrender to the Allied forces at the close of World War II and the American occupation of Japan. 
+
+It is during this period (1863-4) that the US and Japan engaged in their first militarized conflict: MID13 and MID239. On July 16, 1863 the USS Wyoming retaliated against a firing on the American vessel Pembroke at Shimonoseki (MID13). From July 14 through August 3, 1864 naval forces protected the United States Minister to Japan when he visited Yedo to negotiate concerning some American claims against Japan, and to make his negotiations easier by impressing the Japanese with American power. MID239 occurred in September of 1864 (4-14). Naval forces of the United States, Great Britain, France, and the Netherlands compelled Japan and the Prince of Nagato in particular to permit the Straits of Shimonoseki to be used by foreign shipping in accordance with treaties already signed. A similar incident occurred in November of 1865. This was MID224. Here the French, British and Dutch compelled Japan to abide by the terms of the treaty of Shimoneseki. 
+
+MID1488 `Korean Invasion Rumor' is coded as occurring from October through November of 1885. Korea requested American officers to train its troops, but states that this request was never granted. There was naval action by the British and Russians in April 1885, in an effort to deter the Japanese from invading. 
+
+MID248 occurred from January 31-February 13, 1932. Here the US and British Navies landed in China to protect their interests during Japanese occupation of Shanghai
+
+MID1825 `U.S.S. Panay' occurred on December 12, 1937. The USS Panay, was a U.S. gunboat on patrol in China. It was one of several vessels built for the Yangtze River patrol to protect U.S. interests during the Chinese civil war. Japanese forces invaded China in July 1937, and on December 11, the last officials at the U.S. Embassy in Nanking were evacuated aboard Panay. The Panay and the Socony-Vacuum Oil Company tankers Mei Ping, Mei Hsia, and Mei An and two British gunboats and a few other British craft followed the same course. For two miles this little flotilla was fired upon repeatedly by a shore battery. Japanese dive-bombers attacked the clearly marked American flotilla about 27 miles from Nanking. Panay was abandoned after an hour and sank with the loss of 2 killed and 48 wounded. Mei An was sunk with the loss of her skipper, Captain Carl H. Carlson, and several dozen of her crew. The United States lodged a formal protest. The Roosevelt administration considered economic sanctions against Japan, but decided to do nothing after the Japanese apologized and offered compensation. 
+
+MID337 occurred from December of 1938 until June of 1940. Here the Japanese blockaded international settlements in China in Tienstin. This blockade almost lead to open clashes of troops on several occasions. The blockade was directed at British and French presence in China. 
+
+MID3808 is coded as a bilateral mid occurring on December 2, 1939. This appears to be a mistake as there is no mention of direct conflict between the two states on or near this date. There is a Japanese threat that takes place here. The British initiated a policy in which they seized all German exports. This angered several nations especially Japan who threatened the British directly. The Japanese threatened to sieze British and French cargo in Asian waters. 
+
+MID1749 occurred January 21-3, 1940. A British war ship stopped a Japanese cruiser off the Japanese coast and arrested 21 German naval officers that were being transported to Japan. 
+
+MID258 is World War II. In their final actions of the war, substantial British naval forces took part in Operation Iceberg, the invasion of Okinawa, and the final naval strikes on Japan. The British Pacific Fleet operated as a separate unit from the American task forces in the Okinawa operation. Its job was to strike at airfields on the chain of islands between Formosa and Okinawa, in order to prevent the Japanese reinforcing the defenses of Okinawa from that direction. The British forces were built around four large fleet carriers. They were a significant contribution to the success of the invasion was made by British forces.
+
+The Japanese formally surrendered to the Allied forces on September 2, 1945. Territory conquered from the British throughout Asia was returned to British control. Among the territories returned were: Hong Kong, Singapore, Mandalay, and portions of Burma and India. Allied forces occupied the Japanese islands following the surrender. The involvement of the UK in the occupation of the Japanese home islands was limited. The United Kingdom and 46 other non-communist Allied states signed a peace treaty with Japan on September 8, 1951 in San Francisco. This treaty set no amount on Japanese reparations and set no limits on future Japanese armaments. The treaty specified that US troops would remain in Japan for an undetermined period following the implementation of the peace accord. (see US-Japan) Japan and the UK were both members of a variety of international organizations created in the wake of World War Two. These include the United Nations, the General Agreement on Tariffs and Trade, the International Bank for Reconstruction and Development, and the International Monetary Fund. 
+
+SOURCES-CR:
+Facts on File 1945, 1951; New York Times 12/3/1939; http://en.wikipedia.org/wiki/
+
+SB-CR:
+UK / Japan Years: 1932-1952 Issues at stake: Japanese policies and influence in the Pacific region. End Coding: 1951 is the Treaty of San Francisco in which Japan recognized and accepted its post-war borders. In 1952, Japan signed a treaty with Britain regarding claims and reparations. Number of militarized disputes: 6. Number of 30 day reciprocated militarized disputes: 1. Last militarized dispute: 1945. Wars: 1940-1945. Summary: Occasional tension between Japan and foreign states dates back to the mid 1800s when European states began to push Japan to open up to foreigners. Conflicts through the last four decades of the 1800s were followed a period of cooperation between Japan and Britain lasting through WWI. Japanese expansionist policies beginning in the late 1920s increased friction between Japan and both Britain and the United States. The first militarized dispute in the rivalry occurred in 1932 when the British and Americans conducted naval maneuvers as part of a protest against Japanese expansionist policies in the Pacific. Several clashes occurred in the late 1930s between Japan and Britain over the Japanese policy of expansionism and imperialism; once WWII began, Japanese and British forces fought in Thailand, Burma, Singapore, Hong Kong, the Dutch East Indies, and eventually India. After the Japanese defeat in 1945, it took until 1951 for the final peace treaty to be signed, and only in 1952 was a final claims treaty signed with the British. Notes: The COW militarized dispute data set lists a 1954 incident between Japan and Britain. Apparently, however, this is an error. In 1954, on the same date as listed in the dispute data set, China downed a British aircraft. Facts on File and the New York Times verify that this is the only international incident in the region around that time; the COW dispute data set does not list a dispute between China and Britain at that time. Apparently an error is present, and China (COW country code 710) was mistakenly coded as Japan (COW country code 740). As a result, this dispute does not really exist, let alone indicate a further dispute in the rivalry. Sources: Dolan (1992), Langer (1972).
+
+PS-NARRATIVE:
+
+19450815-19520427 Transition 
+
+The last MID of RIV481, MID1749, ended on January 23, 1940. In September 1951, Japan and Great Britain signed the peace treaty that would end Allied occupation of Japan and in 1952 that peace treaty came into force. 
+
+19520428-19600814 .5 
+
+1952 also marks the year that normal diplomatic relations are restored between the two nations. During the 1950s there are high levels of negative feelings and distrust in Great Britain toward Japan. This is largely a product of British accusations against Japan for war atrocities and unfair trade practices. Initially, Britain opposed Japan's entry into the GATT in 1952. Japan was eventually granted admission to GATT in 1955 but Britain refused to grant `most favored nations' status and demanded that Japan reform certain unfair trade practices. 
+
+There was also a fair amount of concern that Japan would revert to hyper nationalist policies because of highly contentious domestic politics. In addition, Britain had major concerns about Japan rearming. During this time, there were ongoing discussions between the United States and Japan about rearming to assist western nations fight communism. In fact, in 1956 there was a push in Japan domestically to alter the constitution in favor of rearmament and a greater commitment by Japan toward self-defense. 
+
+Three main issues dominated the relationship of Great Britain and Japan during the 1950s: cold war alignment, unfair trade practices, and post-war issues such as British POWs and treatment of supposed war criminals. Although Great Britain harbored intense resentment against Japan for unfair trade practices and military adventures prior to World War II that the British believed hurt the British economy and ushered in the decline of their colonial empire, Britain also did not want to push Japan into alliance with the Soviet Union. 
+
+The two countries also clashed over British policy regarding nuclear weapons. Because of their World War II experiences, Japan was deeply opposed to the testing of nuclear weapons. Japan issued a formal complaint against Great Britain in May of 1957 over British nuclear tests on Christmas Island. In September of 1957 the two countries held talks over nuclear weapons, trade issues, and investment by the west in Asia. They disagreed on all issues but deemed the talks a success in opening channels of communication. In 1958, Japan briefly attempted to improve relations with China in hopes of opening new economic markets. When these talks failed, Japan began to view closer relations with Great Britain as necessary for a prosperous Japan. On July 15, 1959, they held another round of talks on trade, nuclear weapons and policy toward China. By this juncture, Great Britain viewed engagement with Japan as necessary for keeping Japan democratic and peaceful.
+
+On November 14, 1962, the two countries signed the Anglo-Japanese Commercial Treaty. Japan viewed the treaty as a powerful signal that they were no longer a defeated nations in the eyes of the international world but an equal partner. The treaty finally granted Japan most favored nation status denied them in 1955 and marked true normalization in relation between the two countries. In the aftermath of the treaty, British officials began trying to reform public opinion of Japan. In particular, they commissioned an academic appraisal of history texts to remove all inaccuracies regarding Japan. 
+
+In the late 1960s and 1970s, economic problems arose as Japan's economic prosperity began to negatively affect Great Britain. Japan acted quickly to ease the tensions, however, by putting limits on exports to Great Britain. In 1971, the Emperor and Empress of Japan visited Britain. This is considered a watershed moment, as Japan is recognized as an equal. Protests in Britain over the visit, however, demonstrated that war time hatreds had not yet disappeared. In September of 1972, British Prime Minister Edward Heath visited Japan marking the first time a British Prime Minister had visited Japan. In 1975, the Queen of England became the first British sovereign to visit Japan.
+
+Trade, investment, cultural, and educational exchanges continued to increase throughout the 1970s and 1980s. In 1982 Great Britain expressed displeasure at the Japanese government taking a pro-Argentina stance during the Falklands War. After the war, however, there were no lasting negative effects. Japanese investment in Britain continued to increase throughout the 1980s. By 1987, there were fifty Japanese companies operating in Britain and by 1988 that number reached eighty-two. Japanese investment in Britain between 1972 and 1988 is estimated at one billion pounds sterling. 
+
+In 1991, Great Britain held the Japan Festival to celebrate Japanese society and is viewed as one of the high points of their relationship. This event was repeated in Great Britain in 2001. In 1998, the UK Festival was held to celebrate British culture and sports in Japan. These types of cultural exchanges and celebrations seem to be growing in popularity and frequency. Despite this, POW compensation from the war still taints public opinion in Great Britain toward Japan. On November 7, 2000, however, the British government announced that a single payment would be made to the surviving POWs held captive by the Japanese during World War II and declared that this issue was settled. 
+
+Investment in Britain by Japan declined in the early 1990s but this was a product of a declining economy in Japan and not of degrading relations. Even more, Japan is the largest export market for Great Britain after Europe and the United States. Britain is Japan's 9th largest export market.
+
+For all intents and purposes, the rivalry terminates when Japan is defeated at the end of World War II. The period of 1945 until the peace treaty takes affect in 1952 marks a period of transition. From 1952 to 1962 there is a high degree of tension between the two countries. Great Britain refuses to grant most favored nation status, is fearful of a nationalist resurgence in Japan, as well as rearmament. In addition, the British government accuses Japan of unfair trade practices and of committing atrocities during the war. Further, they disagree on a host of policy issues, most notably nuclear testing. Tensions do not ease until the signing of the 1962 Commercial Treaty. 
+
+The next period is characterized by deeper economic integration and cooperation. There are, however, many disagreements regarding trade practices and uneven benefits of trade. As well, greater diplomatic exchanges are coupled with protests against Japanese diplomatic visits in England. There was also a brief moment of tension when Japan spoke in favor of Argentina during the Falklands War. 
+
+By the late 1980's increased economic integration and diplomatic exchanges have moved the two countries, for the most part, beyond old hostilities and into a period of friendship. The beginning of the period is marked by the Japanese festival held in 1991 in the UK to celebrate Japanese culture in Britain. As well, Japan has begun working more with NATO in developing a joint security policy with the organization. Japan and the organization hold the NATO-Japan Security Conference every two years and, most recently, Japan has been providing substantial assistance in Afghanistan. Lastly, Japan and UK are members of the G8 organization, and thus enjoy very close cooperation in the fields of economics, trade, and finances. 
+
+PS-SOURCES: Braddick 2000; Lowe 2000; NATO.int; Takahiko 2000; Toru 2000
+
+
+MARITIME-MIDS: 
+
+MID13 MID239 MID224 not considered maritime MIDs 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID13
+ DYAD: UNITED KINGDOM JAPAN 200740
+ DATES: 18630406 18630817
+ HOSTILITYA: 4 FATALITYA: -9
+ HOSTILITYB: 1 FATALITYB: -9
+
+Discussion:
+On July 16, 1863 the USS Wyoming retaliated against a firing on the American vessel Pembroke at Shimonoseki (MID13).
+
+MARITIME-DISPUTE: MID239
+ DYAD: UNITED KINGDOM JAPAN 200740
+ DATES: 18640722 18640914
+ HOSTILITYA: 4 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Discussion:
+MID239 occurred in September of 1864 (4-14). Naval forces of the United States, Great Britain, France, and the Netherlands compelled Japan and the Prince of Nagato in particular to permit the Straits of Shimonoseki to be used by foreign shipping in accordance with treaties already signed. 
+
+MARITIME-DISPUTE: MID224
+ DYAD: UNITED KINGDOM JAPAN 200740
+ DATES: 18651104 18651124
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+A similar incident occurred in November of 1865. This was MID224. Here the French, British and Dutch compelled Japan to abide by the terms of the treaty of Shimoneseki. 

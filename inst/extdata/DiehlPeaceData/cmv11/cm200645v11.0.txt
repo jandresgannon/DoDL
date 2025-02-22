@@ -1,0 +1,627 @@
+FILE: cm200645v11.0.txt
+DYAD: UNITED KINGDOM-IRAQ
+RIVALRY: RIV462
+DISPUTE(S): MID420 
+RIVALRY: RIV463
+DISPUTE(S): MID125 MID2331 MID122 MID3052 MID3039 MID2767 MID3957 MID3974 MID3552 MID3568 MID4269 MID4271 MID4273 
+
+RIVNOTES: 
+RIV463: MID1039 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19321003-19400330 .5 19400331-19410601 .25 19410602-19471002 .5 19580715-20030319 0.00 20030320-20080319 0.5 
+
+PS-UPDATE2020:15 year post-colonial period rule applied after initial independence 
+
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220218
+PS-LAST-CHECKED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID420 
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 3 -- not civil war 
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 from Gibler (2018), Lebanon requested military aid from US due to a political crisis which threatened to lead to civil war. The US and UK sent troops into the region (UK sent troops to Jordan). Several Arab countries, including Iraq, protested. Coded civil war link because there were armed, militarized domestic groups in Lebanon threatening to throw the state into civil war, causing this MID, and Lebanon is outside of this dyad. 
+
+COUPMID: MID125 3 -- not coup 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID125 3 -- not coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2331 
+
+TERRMID: MID2331 3 -- not territory 
+TERRMID-CER: MID2331 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2331 3 -- not third party link to territory 
+TERRLINK-CER: MID2331 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2331 3 -- not maritime 
+MARITMID-CER: MID2331 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2331 3 -- not islands 
+ISLMID-CER: MID2331 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2331 3 -- not civil war 
+CIVWARMID-CER: MID2331 1 -- certain 
+CIVWARMID-NOTES: MID2331 coded not civil war because, although there were extensive domestic protests and domestic turmoil in Iraq, there were no militarized rebel groups. See Coup MID. 
+
+CIVWARLINK: MID2331 3 -- not civil war link 
+CIVWARLINK-CER: MID2331 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2331 1 -- coup MID
+COUPMID-CER: MID2331 1 -- certain 
+COUPMID-NOTES: MID2331 from Gibler (2018), Jordan requested UK troops be sent to its territory to protect it from possible spillover of conflict from Iraq's domestic unrest and coup. Meanwhile, in Iraq, angry crowds damaged the UK embassy (per cm narrative). Coded coup MID because this MID was connected to the 1958 coup in Iraq. 
+
+COUPLINK: MID2331 3 -- not coup link
+COUPLINK-CER: MID2331 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID122 
+
+TERRMID: MID122 3 -- not territory 
+TERRMID-CER: MID122 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID122 1 -- third party link to territorial MID
+TERRLINK-CER: MID122 1 -- certain 
+TERRLINK-NOTES: MID122 from Gibler (2018), UK granted independence to Kuwait in 1961, prompting Iraq to renew its claim to the entirety of Kuwait's territory. Iraq was threatening to invade Kuwait, and the UK buildup of troops in Kuwait to deter Iraqi aggression pulls them into this MID. Coded territorial link because the Iraq-Kuwait MID here is territorial, and the UK was supporting Kuwait against Iraq. 
+
+MARITMID: MID122 3 -- not maritime 
+MARITMID-CER: MID122 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID122 3 -- not islands 
+ISLMID-CER: MID122 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID122 3 -- not civil war 
+CIVWARMID-CER: MID122 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID122 3 -- not civil war link 
+CIVWARLINK-CER: MID122 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID122 3 -- not coup 
+COUPMID-CER: MID122 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID122 3 -- not coup link
+COUPLINK-CER: MID122 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3052 
+
+TERRMID: MID3052 3 -- not territory 
+TERRMID-CER: MID3052 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3052 1 -- third party link to territorial MID
+TERRLINK-CER: MID3052 1 -- certain 
+TERRLINK-NOTES: MID3052 from Gibler (2018), Iraq attacked a UK tanker during the Iran-Iraq War. This MID occurred in 1984. Coded third party link to territorial MID because the Iran-Iraq War was a territorial MID, and UK is pulled in here because Iraq attacked it as part of its war strategy to disrupt Iran's oil exports. 
+
+MARITMID: MID3052 3 -- not maritime 
+MARITMID-CER: MID3052 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3052 3 -- not islands 
+ISLMID-CER: MID3052 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3052 3 -- not civil war 
+CIVWARMID-CER: MID3052 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3052 3 -- not civil war link 
+CIVWARLINK-CER: MID3052 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3052 3 -- not coup 
+COUPMID-CER: MID3052 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3052 3 -- not coup link
+COUPLINK-CER: MID3052 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3039 
+
+TERRMID: MID3039 3 -- not territory 
+TERRMID-CER: MID3039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3039 1 -- third party link to territorial MID
+TERRLINK-CER: MID3039 3 -- uncertain 
+TERRLINK-NOTES: MID3039 from Gibler, Little, and Miller 2016, this is an Iraqi attack on a Liberian oil tanker during the Iran-Iraq War. British officers were on board the tanker, pulling UK into this MID when UK protested. Coded third party link to territory because this is connected to the Iran-Iraq War, a territorial MID. Coded uncertain because GLM recommend this MID be dropped and merged with MID3046, which is the same incident between Liberia and Iraq. 
+
+MARITMID: MID3039 3 -- not maritime 
+MARITMID-CER: MID3039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3039 3 -- not islands 
+ISLMID-CER: MID3039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3039 3 -- not civil war 
+CIVWARMID-CER: MID3039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3039 3 -- not civil war link 
+CIVWARLINK-CER: MID3039 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3039 3 -- not coup 
+COUPMID-CER: MID3039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3039 3 -- not coup link
+COUPLINK-CER: MID3039 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2767 
+
+TERRMID: MID2767 3 -- not territory 
+TERRMID-CER: MID2767 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2767 1 -- third party link to territorial MID
+TERRLINK-CER: MID2767 1 -- certain 
+TERRLINK-NOTES: MID2767 from Gibler (2018), Iraq attacked a UK tanker during the Iran-Iraq War as part of its strategy to harm Iran's oil exports. Coded third party link to territorial MID because the Iran-Iraq War was a territorial MID, and this was connected to that war. 
+
+MARITMID: MID2767 3 -- not maritime 
+MARITMID-CER: MID2767 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2767 3 -- not islands 
+ISLMID-CER: MID2767 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2767 3 -- not civil war 
+CIVWARMID-CER: MID2767 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2767 3 -- not civil war link 
+CIVWARLINK-CER: MID2767 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2767 3 -- not coup 
+COUPMID-CER: MID2767 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2767 3 -- not coup link
+COUPLINK-CER: MID2767 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler (2018), this is the Iraqi invasion of Kuwait. The UK, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and the UK became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3974 
+
+TERRMID: MID3974 3 -- not territory 
+TERRMID-CER: MID3974 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3974 3 -- not third party link to territory 
+TERRLINK-CER: MID3974 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3974 3 -- not maritime 
+MARITMID-CER: MID3974 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3974 3 -- not islands 
+ISLMID-CER: MID3974 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3974 1 -- civil war MID
+CIVWARMID-CER: MID3974 1 -- certain 
+CIVWARMID-NOTES: MID3974 from cm narrative, this MID is connected to the enforcement of no-fly zones over Iraq, and is multilateral. The US, UK, and France enforced the no-fly zone over Iraq, who consistently fired at patrol jets. Saddam Hussein had been trying to wipe out opposition groups, including militarized rebel groups, who were trying to overthrow the regime. Bush Sr. also called for revolution in the country. Coded civil war MID because the civil war activity in Iraq drove events of this MID, as the US, UK, and France were trying to prevent Saddam Hussein from attacking rebel groups. 
+
+CIVWARLINK: MID3974 3 -- not civil war link 
+CIVWARLINK-CER: MID3974 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3974 3 -- not coup 
+COUPMID-CER: MID3974 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3974 3 -- not coup link
+COUPLINK-CER: MID3974 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3552 
+
+TERRMID: MID3552 3 -- not territory 
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain 
+CIVWARMID-NOTES: MID3552 from cm narrative, this is a multilateral MID involving Iraq vs. the US, UK, France, Kuwait, Saudi Arabia, and Russia. Iraq denied UN weapons inspectors entrance to various sites in Iraq, receiving protests in response, contributing to this MID. Also, Iraq threatened the safety of planes enforcing the no fly zone. In January 1993, the US, UK, and France raided several anti-aircraft missile sites. In June 1993, Iraq again refused UN access to a weapons plant. In June 1993, the US launched a cruise missile at an Iraqi intelligence headquarters building in response to an assassination attempt on Bush Sr as he was visiting Kuwait. Coded civil war MID because some of the events of this MID are connected to the no fly zone over Iraq, which was being enforced due to Saddam Hussein's attempts to conduct politicide against militarized rebel groups and civilians in parts of Iraq. 
+
+CIVWARLINK: MID3552 3 -- not civil war link 
+CIVWARLINK-CER: MID3552 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3568 
+
+TERRMID: MID3568 3 -- not territory 
+TERRMID-CER: MID3568 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3568 1 -- third party link to territorial MID
+TERRLINK-CER: MID3568 1 -- certain 
+TERRLINK-NOTES: MID3568 from cm narrative, this mid involved Iraq versus Kuwait, France, the UK, and the US. Iraq and Kuwait are the primary disputants, and the US, UK and France are also involved because of their defense of and support for Kuwait. (This occurred in August 1992, shortly after the Gulf War in which Saddam Hussein was expelled from Kuwait.) The border between Iraq and Kuwait was disputed; Iraq claimed Kuwait as its territory. Iraq set up border posts inside Kuwaiti territory, sparking border clashes and triggering this MID. Coded third party link to territorial MID because Iraq was attempting to encroach on Kuwaiti territory and the border was disputed, and the UK was pulled in by supporting Kuwait. 
+
+MARITMID: MID3568 3 -- not maritime 
+MARITMID-CER: MID3568 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3568 3 -- not islands 
+ISLMID-CER: MID3568 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3568 3 -- not civil war 
+CIVWARMID-CER: MID3568 1 -- certain 
+CIVWARMID-NOTES: MID3568 there was an ongoing no fly zone being enforced by the US, UK, and France. The no fly zone was in place to prevent Saddam from attacking rebel groups in Iraq, but this is not connected to the events of this MID. 
+
+CIVWARLINK: MID3568 3 -- not civil war link 
+CIVWARLINK-CER: MID3568 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3568 3 -- not coup 
+COUPMID-CER: MID3568 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3568 3 -- not coup link
+COUPLINK-CER: MID3568 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4269 
+
+TERRMID: MID4269 3 -- not territory 
+TERRMID-CER: MID4269 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4269 1 -- third party link to territorial MID
+TERRLINK-CER: MID4269 1 -- certain 
+TERRLINK-NOTES: MID4269 from cm narrative, MID4269 is another multilateral MID involving Iraq versus Bahrain, France, Kuwait, Oman, the UAE, the UK, and the US. This MID occurred from August of 1994 until October of 1995. In October 1994, Iraq threatened to stop cooperating with UNSCOM and the IAEA. Iraq then moved troops toward the Kuwaiti border, which was disputed (Iraq claimed all of Kuwait's territory as its own). The US, UK, France, Bahrain, Oman, and the UAE mobilized in return to deter Iraq. Coded third party link to territorial MID because this MID was partly triggered when Iraq threatened to invade Kuwait again and attempt to advance its territorial claim. 
+
+MARITMID: MID4269 3 -- not maritime 
+MARITMID-CER: MID4269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4269 3 -- not islands 
+ISLMID-CER: MID4269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4269 3 -- not civil war 
+CIVWARMID-CER: MID4269 1 -- certain 
+CIVWARMID-NOTES: MID4269 several of the countries in this multilateral MID were enforcing a no fly zone, which was connected to civil war activity in Iraq, but that was not connected to the events of this MID. 
+
+CIVWARLINK: MID4269 3 -- not civil war link 
+CIVWARLINK-CER: MID4269 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4269 3 -- not coup 
+COUPMID-CER: MID4269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4269 3 -- not coup link
+COUPLINK-CER: MID4269 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4271 
+
+TERRMID: MID4271 3 -- not territory 
+TERRMID-CER: MID4271 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4271 3 -- not third party link to territory 
+TERRLINK-CER: MID4271 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4271 3 -- not maritime 
+MARITMID-CER: MID4271 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4271 3 -- not islands 
+ISLMID-CER: MID4271 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4271 1 -- civil war MID
+CIVWARMID-CER: MID4271 1 -- certain 
+CIVWARMID-NOTES: MID4271 from cm narrative, this is a multilateral MID involving Iraq vs. several countries enforcing a no fly zone: US, UK, and Kuwait. The no fly zone was expanded to the 33rd parallel when Saddam Hussein moved into Kurdish-held territory. Coded civl war MID because the enforcement of the no fly zone was to prevent Saddam from attacking the militarized rebel groups in the north and south. 
+
+CIVWARLINK: MID4271 3 -- not civil war link 
+CIVWARLINK-CER: MID4271 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4271 3 -- not coup 
+COUPMID-CER: MID4271 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4271 3 -- not coup link
+COUPLINK-CER: MID4271 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4273 
+
+TERRMID: MID4273 3 -- not territory 
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain 
+TERRLINK-NOTES: MID4273 also featured some clashes along the Kuwait-Iraq border which was disputed, but this was not connected to the territorial dispute and was instead connected to the US/coalition invasion of Iraq, as Kuwait was friendly with western forces. 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain 
+CIVWARMID-NOTES: MID4273 from Gibler (2018), this is the lead-up and beginning of the US/coalition invasion and occupation of Iraq. The US, UK, and other coalition forces were attempting to coerce Iraq into complying with weapons inspections (1997-2003). Iraq also threatened the planes enforcing the no-fly zone over Iraq, who were keeping Iraq from attacking rebel groups within its borders. Coded civil war MID because this involved threats by Iraq to US and UK war planes involved in preventing civil war activity between the regime and rebel groups in Iraq. 
+
+CIVWARLINK: MID4273 3 -- not civil war link 
+CIVWARLINK-CER: MID4273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4273
+rivalry=200645 nationa=UNITED KINGDOM nationb=IRAQ MID4273 19971103-20030502 
+ revtype1a=POLICY revtype2a=REGIME/GOVERNMENT fatala=26-100 DEATHS fatalpa=33 lhosta=WAR 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. ver the course of 2002, US and UK planes bombed various Iraqi defense systems placed either in or near the US-imposed no-fly zones. During this time Iraq deployed ground forces to its border towns in a preemptive move against future US aggression. Beginning in March 2003, the US began deploying additional land, naval, and air forces to the the Middle East in a clear show of force and build-up to a future invasion of Iraq. In March 2003, just prior to the US-led invasion, several Middle Eastern countries deployed small numbers of troops to Kuwait in a symbolic show of defense for the neighbor of Iraq, which had been the historical target of Iraqi aggression. Later in March 2003, a US-led coalition, seeking to oust the regime of Saddam Hussein and dismantle alleged Iraqi weapons of mass destruction, invaded Iraq and engaged in major combat operations, ultimately resulting in war, against the country that lasted until May 1, 2003. 
+
+MID3 1993-2001:
+
+MID3552
+rivalry=200645 nationa=UNITED KINGDOM nationb=IRAQ MID3552 19920826-19930119 
+ revtype1a=NOT APPLICABLE revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 8/26/1992 and last day of dispute was on 1/19/1993.
+
+MID3568
+rivalry=200645 nationa=IRAQ nationb=UNITED KINGDOM MID3568 19930112-19930113 
+ revtype1a=TERRITORY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=THREAT TO USE FORCE
+
+MID3568 has three new participants: the United States, United Kingdom, and France. Deleted Dispute. First day of dispute was on 1/12/1993 and last day of dispute was on 1/13/1993.
+
+MID4269
+rivalry=200645 nationa=UNITED KINGDOM nationb=IRAQ MID4269 19941007-19941020 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated. Coder: Ric Stoll. Date: 8/2/02. First day of dispute was on 10/7/1994 and last day of dispute was on 10/20/1994.
+
+MID4271
+rivalry=200645 nationa=UNITED KINGDOM nationb=IRAQ MID4271 19961102-19961102 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+USE OF FORCE 
+
+The dispute began when Iraq amassed 30,000 to 40,000 troops a few miles south of Erbil, a village outside the Kurdish zone in northern Iraq. The Iraqi troops appeared to be supported by artillery, surface-to-air missiles, and other armored vehicles. Iraq moved into the northern flight exclusion zone in order to aid their Kurdish allies in attacking a rival Kurdish faction. The United States responded by putting its forces in the region on a heightened state of readiness. A few days later, Kuwait put its forces on alert, fearing an Iraqi attack. The United States launched several attacks on Iraqi military sites in the southern no-flight zone and increased its presence in the region. Over the following weeks, the United States and Iraq engaged in frequent clashes in the flight exclusion zones, while American planes patrolled these areas. On one occasion, British planes, which routinely participated in patrolling the flight exclusion zones, were involved with American planes in an attack on an Iraqi anti-aircraft battery. Iraq slowly withdrew its forces from the northern flight exclusion zone, largely in response to American pressure. Consequently, the dispute outcome was coded as a yield by Iraq. And, there were no formal or informal efforts to end the dispute. First and last day of dispute was on 11/2/1996.
+
+NARRATIVE-CM:
+Britain imposed economic sanctions and military sanctions (arms embargo) against the government of Iraq in December 1940. Prime Minister Taha al-Hashimi was overthrown in a military rebellion led by Colonel Fahmi Sa'id, Colonel Mahmud Salman, Colonel Kamil Shabib, and Colonel Salah al-Din al-Sabbagh on April 1, 1941. Britain refused to recognize the pro-Axis military government headed by former Prime Minister Rashid Ali Gaylani on April 12, 1941. Britain ordered the mobilization of their troops in the country on April 17, 1941. Iraqi troops attacked the British military base near Habbaniyah beginning on April 30, 1941. Iraqi troops and some 1,000 British troops clashed near Habbaniyah on May 2-7, 1941, resulting in the deaths of 500 government troops. Turkey offered to mediate negotiations between the parties on May 4, 1941, but Britain rejected the mediation offer on May 6, 1941. Iraq requested military assistance (military aircraft) from Germany on May 6, 1941, and Germany provided military assistance (arms and ammunition) to the government beginning on May 13, 1941. British troops captured Fallujah on May 19, 1941. German military aircraft arrived in Iraq on May 25, 1941, and German military aircraft attacked British troops on May 26-29, 1941. Prime Minister Rashid Ali Gaylani fled to Tehran, Iran on May 30, 1941, and the parties agreed to a cessation of military hostilities on May 31, 1941. Some 100 British soldiers and 500 Iraqi soldiers were killed during the conflict. British troops were withdrawn from Iraq on October 26, 1947. Iraq severed diplomatic relations with Britain in November 1971. Britain and Iraq resumed diplomatic relations on April 10, 1974. On October 1, 1999, the Soviet Union condemned Britain for bombing attacks against Iraqi sites in northern and southern Iraq. British military aircraft attacked Iraqi anti-aircraft artillery near an-Najaf on November 22, 1999. British military aircraft attacked Iraqi anti-aircaft artillery near Bashiqah on November 28, 1999.
+
+SOURCES-CM: *Associated Press *(AP), November 22, 1999; Clodfelter, 1992, 813-814; El-Solh, 1996, 101-135; *Keesing*, April 22-28, 1974; *Reuters*, October 1, 1999, November 28, 1999.
+
+NARRATIVE-CR:
+
+The rivalry between the United Kingdom and Iraq begins with events associated with World War II. This conflict is motivated by strategic concerns regarding Iraq's oil and Axis interest in the oil. In the years following WWII, Iraq exercised its influence in ways that ran counter to British interests and the UK intervened in support of those interests. For example, the UK intervened to ensure the independence of Kuwait in 1961. Further, Iraq was aligned with the Soviet Union for a time during the Cold War and the US along with the UK sought to counter Soviet influence in the Middle East. Three disputes between the UK and Iraq took place in the context of the Iran-Iraq War. As such, these disputes were not direct hostilities between the UK and Iraq but attacks designed to hurt Iran. The most recent phase of the rivalry is related to the Gulf War. In 1991, the UK was the most significant contributor of forces after the United States in ousting Iraq from Kuwait. In the decade that followed, the UK remained in strong support of the US in efforts to enforce no fly zones and compel Iraq to abide by UN sanctions. Finally, the UK again was a staunch US ally in the 2003-4 war with Iraq with the principal aim of removing Sadaam Hussein from power in Iraq. 
+
+World War II
+MID420 occurred in the context of World War II. By the end of the 1930s, pan-Arabism had become a powerful ideological force in the Iraqi military. The British role in quelling the Palestine revolt of 1936 to 1939 further intensified anti-British sentiments in the military and led a group of disgruntled officers to form the Free Officers' Movement, which aimed at overthrowing the monarchy. As World War II approached, Nazi Germany attempted to capitalize on the anti-British sentiments in Iraq and to woo Baghdad to the Axis cause. In 1939, Iraq severed diplomatic relations with Germany-as it was obliged to do because of treaty obligations with Britain. In 1940, however, the Iraqi nationalist and ardent Anglophobe Rashid Ali succeeded Nuri as Said as prime minister. The new prime minister was reluctant to break completely with the Axis powers, and he proposed restrictions on British troop movements in Iraq. 
+
+Abd al Ilah and Nuri as Said both were proponents of close cooperation with Britain. They opposed Rashid Ali's policies and pressed him to resign. In response, Rashid Ali and four generals led a military coup that ousted Nuri as Said and the regent, both of whom escaped to Transjordan. Shortly after seizing power in 1941, Rashid Ali appointed an ultranationalist civilian cabinet, which gave only conditional consent to British requests in April 1941 for troop landings in Iraq. The British quickly retaliated by landing forces at Basra, justifying this second occupation of Iraq by citing Rashid Ali's violation of the Anglo-Iraqi Treaty of 1930. Many Iraqis regarded the move as an attempt to restore British rule. They rallied to the support of the Iraqi army, which received a number of aircraft from the Axis powers. The Germans, however, were preoccupied with campaigns in Crete and with preparations for the invasion of the Soviet Union, and they could spare little assistance to Iraq. As the British steadily advanced, Rashid Ali and his government fled to Egypt. An armistice was signed on May 30. Abd al Ilah returned as regent, and Rashid Ali and the four generals were tried in absentia and were sentenced to death. The generals returned to Iraq and were subsequently executed, but Rashid Ali remained in exile. 
+
+The Cold War to the Present
+MID125 occurred in 1958. It is a multilateral mid involving the US and the UK v. the USSR, Iraq, and Egypt. Lebanon was in a civil war at the time. The state of turmoil increased when, in the early hours of July 14, 1958, a revolution overthrew the monarchy in Iraq and the entire royal family was killed. The revolution was received warmly in Lebanon in areas where the population was against the government of Shamun. Radio stations announced that the Shamun regime would be next. Shamun, realizing the gravity of his situation, summoned the ambassadors of the United States, Britain, and France on the morning of July 14. He requested immediate assistance, insisting that the independence of Lebanon was in jeopardy. The US and the UK landed troops in Lebanon in support of the Shamun regime. 
+
+MID2331 occurred from July through October of 1958 and involved Iraq and Egypt v. the UK. This mid is called the Iraqi revolution. In Iraq, General Abdul Karim Kassem led a successful army revolt (July 14), overthrowing the monarchy and killing King Faisal II. The Hashimite monarchy was overthrown on July 14, 1958, in a swift, predawn coup executed by officers of the Nineteenth Brigade under the leadership of Brigadier Abd al Karim Qasim and Colonel Abd as Salaam Arif. The coup was triggered when King Hussein, fearing that an anti-Western revolt in Lebanon might spread to Jordan, requested Iraqi assistance. Instead of moving toward Jordan, however, Colonel Arif led a battalion into Baghdad and immediately proclaimed a new republic and the end of the old regime. The July 14 Revolution met virtually no opposition and proclamations of the revolution brought crowds of people into the streets of Baghdad cheering for the deaths of Iraq's two "strong men," Nuri as Said and Abd al Ilah. King Faisal II and Abd al Ilah were executed, as were many others in the royal family. Nuri as Said also was killed after attempting to escape disguised as a veiled woman. In the ensuing mob demonstrations against the old order, angry crowds severely damaged the British embassy.
+
+MID122 occurred from June of 1961 until February of 1962. Iraq has had a long-standing claim to Kuwait based on Ottoman boundaries. Ottoman Turkey exercised a tenuous sovereignty over Kuwait in the late nineteenth century, but the area passed under British protection in 1899. In 1932, Iraq informally confirmed its border with Kuwait, which had previously been demarcated by the British. In 1961, after Kuwait's independence and the withdrawal of British troops, Iraq reasserted its claim to the territory. They based their claim on the idea that the Ottomans coupled the area with the Basra Province. British troops and aircraft were rushed back to Kuwait. A Saudi-led force of 3,000 from the League of Arab States (Arab League) that supported Kuwait against Iraqi pressure soon replaced them.
+
+MID1039 occurred from June through September of 1970. After the Six Day War, the PLO began to conduct operations against Israel from Jordan. Israel regularly responded with raids into Jordan. The Jordanians wanted to deescalate the tension with Israel and began to crack down on the PLO in 1970. The PLO responded by attempting to depose King Hussein of Jordan in September of 1970. Fierce fighting took place in Amman and the conflict escalated further when the Syrians intervened. The United States and the UK demonstrated their support for the Jordanian regime suggesting that they would not allow the regime to fall to the PLO or Syrians. 
+
+The Iran-Iraq Tanker War. 
+MID3052 occurred on March 8 1984. This dispute occurred during the Iran-Iraq War's Tanker War. Iraqi warplanes attacked a British merchant ship in the Persian Gulf that injured two crewmembers. British bulk carrier Charming was set ablaze and grounded after and Iraqi missile hit its superstructure. The 19,200-ton Charming, ship was traveling in a convoy when it was hit Thursday, and was extensively damaged.
+
+MID3039 occurred on October 8, 1984. Here Iraq attacked the Liberian super tanker World Knight with Exocet missiles 65 km south of Kharg Island. The ship sustained severe damage. Britain protested the tanker attack, which killed two Britons and five other people.
+
+MID2767 occurred on May 14, 1988. It is coded as a one-day use of force by Iraq against the UK. There is no record of this dispute in Lexis Nexus, the New York Times, Facts on File, or any other print source listed below. Given it is a use of force by Iraq against the UK and that Iraq was heavily committed in the war with Iran it is either a strike against a UK ship in the Persian Gulf or a mistake. 
+
+The Gulf War and its Aftermath
+MID3957 is the Persian Gulf War and is the most serious dispute between the two countries. This dispute marks a departure in the tone of the rivalry. From this point until the war with Iraq in 2003, the level of intensity escalated as the UK supported US attempts to eject Iraq from Kuwait and to isolate the country after the war. The Gulf War was a conflict between Iraq and a coalition force of 34 nations led by the United States in close cooperation with the United Kingdom. The result was a decisive victory of the coalition forces, which were able to drive Iraqi forces out of Kuwait quickly and with minimal coalition deaths. The main battles were aerial and ground combat within Iraq, Kuwait, and bordering areas of Saudi Arabia. 
+
+MID3974 occurred from April through December of 1991. Here coalition forces enter Northern Iraq to enforce the agreement the combatants agreed to at the close of the Gulf War. Up to 10,000 U.S., British, and French troops enter Northern Iraq in April to enforce the no fly zones. 
+
+MID3552 is similar to MID3974. It occurred from July through December of 1992. In this dispute coalition forces conducted military exercises in Kuwait and the Persian Gulf to get Iraqi compliance with weapons inspections. The United Kingdom, Kuwait, Iran, and France were involved in this dispute versus Iraq. These exercises were also conducted to enforce no fly zones in Southern Iraq. The first Iraqi plane was shot down on December 27. 
+
+MID3568 is another multilateral mid that occurred from August of 1992 until January of 1994. This dispute involved Iraq versus Kuwait, France, the UK, and the US. In this mid, Iraq's principal adversary is Kuwait. This dispute covers a period of lingering hostility towards Kuwait. Sadaam Hussein made a speech in Baghdad in which he threatens the Kuwaiti royal family. The Iraqis had established police posts inside the Kuwaiti border and Kuwait wanted them removed. Iraq did not remove them immediately after the Gulf War. In November of 1993, Iraq and Kuwait exchanged fire in Abdali a city that straddles the border. The border between the two countries is in dispute and in the aftermath of the Gulf War, this region was a point of contention as several Iraqis were forced to vacate their farms. 
+
+MID4269 occurred from August of 1994 until October of 1995. As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated.
+
+MID4271. The dispute began when Iraq amassed 30,000 to 40,000 troops a few miles south of Erbil, a village outside the Kurdish zone in northern Iraq. The Iraqi troops appeared to be supported by artillery, surface-to-air missiles, and other armored vehicles. Iraq moved into the northern flight exclusion zone in order to aid their Kurdish allies in attacking a rival Kurdish faction. The United States responded by putting its forces in the region on a heightened state of readiness. A few days later, Kuwait put its forces on alert, fearing an Iraqi attack. The United States launched several attacks on Iraqi military sites in the southern no-flight zone and increased its presence in the region. Over the following weeks, the United States and Iraq engaged in frequent clashes in the flight exclusion zones, while American planes patrolled these areas. On one occasion, British planes, which routinely participated in patrolling the flight exclusion zones, were involved with American planes in an attack on an Iraqi anti-aircraft battery. Iraq slowly withdrew its forces from the northern flight exclusion zone, largely in response to American pressure. Consequently, the dispute outcome was coded as a yield by Iraq. In addition, there were no formal or informal efforts to end the dispute. 
+
+MID4273 began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In mid November, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began `Operation Desert Fox,' a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized an unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. 
+
+The most recent dispute between the UK and Iraq is the 2003 invasion of Iraq. This dispute began on March 20, 2003, when a large force of US and British troops invaded Iraq. The Iraqi government collapsed in about three weeks. Subsequently the US and UK began the occupation of Iraq (along with minor contingents from other countries). Ground forces from Australia and Poland and naval forces from Denmark and Spain also took part. The international community was divided on the legitimacy of this invasion. Notably absent from George W. Bush's `Coalition of the Willing' were Germany and France. The start of hostilities came after the expiration of a 48-hour deadline that was set by U.S. President George W. Bush, demanding that Saddam Hussein and his two sons Uday and Qusay leave Iraq, ending the diplomatic Iraq disarmament crisis. 
+
+In closing, the rivalry between the UK and Iraq may end in close association with the 2003 Iraqi War. However, this remains to be seen as there continues to be protracted violence directed against the occupying UK and US troops from Iraqis. After the June handover of power to the Iraqis, the status of relations between the UK and Iraq will be more apparent. On March 20, 2003, coalition forces, included troops from Great Britain, invaded Iraq with the intention of overthrowing Iraqi President Saddam Hussein. Saddam Hussein was tried and hanged on December 30, 2006. Coalition forces still occupy the country and are now fighting insurgency activities and widespread sectarian violence. It is presently unclear what future relations hold for the two countries. For now, the dyad will be coded as a rivalry.
+
+SOURCES-CR:
+Associated Press (AP), March 8, 1984, November 22, 1999; Clodfelter, 1992, 813-814; Dispute Narratives-MID 3.0 dataset Correlates of War 2 project; El-Solh, 1996, 101-135; Facts on File 1991, 270; 1992, 549, 565, 1992, 614, 625, 641; Grimmett 1999, 22; *Keesing*, April 22-28, 1974; Keesing's Chronicle of World Events 4/91, 38127; 7/91, 38361, 7/92, 39026; 8/92, 39069; Manchester Guardian Weekly, 10/14/1984; Metz, 1988; New York Times 4/21/91, 7/27/92, 10/25/92, 8/28/92; Sreedhar, 1989; *Reuters*, October 1, 1999, November 28, 1999; UCSD History Department WWII Timeline (http://history.acusd.edu/gen/WW2Timeline/iraq.html); Washington Post 8/30/92; Wikipedia.org;
+
+PS-NARRATIVE: 
+
+19321003-19400330 .5 
+
+Iraq achieved independence from Britain in 1932. Under the terms of a treaty singed in 1930, Britain retained, even after independence, a considerable degree of control over Iraq to include rights to two air bases and freedom to move troops across Iraq. There were also provisions demanding that Iraqi keep British military advisors and purchase military equipment almost exclusively from the British. British influence in Iraq is controversial during this time period. 
+
+19400331-19410601 RIV462-.25 
+
+In 1940, Rashid Ali al-Gaylani assumed the office of prime minister. Rashid Ali was anti-British and wanted to restrict British troop movement in Iraq. Britain imposed economic sanctions and military sanctions (arms embargo) against the government of Iraq in December 1940.
+
+In 1941, Rashid Ali, along with four military officers, led a coup against the regent. They overthrew the pro-British regent, Prince Abd al-Ilah, expelling him from the country. The generals leading the revolt saw World War II as an opportunity to permanently end British influence from Iraq. It was believed at this time that Germany would win the war and that by revolting against Britain and declaring support for Germany, Iraq could set itself up as the dominant state in the Middle East. Rashid Ali al-Gaylani was installed as the figurehead prime minister with the Generals holding the real power.
+
+Prime Minister Taha al-Hashimi was overthrown in a military rebellion led by Colonel Fahmi Sa'id, Colonel Mahmud Salman, Colonel Kamil Shabib, and Colonel Salah al-Din al-Sabbagh on April 1, 1941. Britain refused to recognize the pro-Axis military government headed by former Prime Minister Rashid Ali Gaylani on April 12, 1941. Britain ordered the mobilization of their troops in the country on April 17, 1941. The British government attempted to send reinforcement troops to Iraq in April of 1941. Rashid Ali and the other generals were shaken by these developments, as the increase in British troops would leave the regime vulnerable to overthrow by the British government. Rashid Ali protested, arguing that the treaty of 1930 did not allow the British to land troops without the permission of the Iraq government. The British disagreed with this interpretation of the treaty and felt that they were working within the bounds of the treaty by sending more troops to Iraq.
+
+Iraqi troops attacked the British military base near Habbaniyah beginning on April 30, 1941. On April 29, British troopships docked at Basra and began disembarking. At the same time, Iraqi troops began surrounding Habbaniya where British troops and aircraft were housed and threatened to attach any British personnel attempting to leave the base. Iraq refused repeated British demands for the withdrawal of Iraqi troops. On May 2, 1941 war broke out as British aircraft from Habbaniya began attacking Iraqi troops. Iraqi troops and some 1,000 British troops clashed near Habbaniyah on May 2-7, 1941, resulting in the deaths of 500 government troops. Fighting lasted until May 30th, when British troops marched to the outskirts of Baghdad. Key Iraqi leadership fled the country and those that remained agreed to an armistice with Britain.
+
+Turkey offered to mediate negotiations between the parties on May 4, 1941, but Britain rejected the mediation offer on May 6, 1941. Iraq requested military assistance (military aircraft) from Germany on May 6, 1941, and Germany provided military assistance (arms and ammunition) to the government beginning on May 13, 1941. British troops captured Fallujah on May 19, 1941. German military aircraft arrived in Iraq on May 25, 1941, and German military aircraft attacked British troops on May 26-29, 1941. Prime Minister Rashid Ali Gaylani fled to Tehran, Iran on May 30, 1941, and the parties agreed to a cessation of military hostilities on May 31, 1941. Some 100 British soldiers and 500 Iraqi soldiers were killed during the conflict.
+
+19410602-19460602 0.5
+
+To help alleviate concerns about further uprisings, the British chose to establish a form of indirect rule during the war. Prince Adb al-Ilah, regent before the coup, was restored to this position. In June 1941, Jamil al-Midfai was chosen as prime minister; he immediately gave permission for Britain to house troops in Iraq for the duration of the war. In November 1941, Nuri al-Said succeed Midfai as prime minister and gave further power to the British military regarding Iraqi troop deployment. In January 1943, Iraq declared war on the Axis powers as a show of support for Britain.
+
+In the aftermath of World War II, Britain initially pushed hard for democratization in Iraq. These efforts, however, were quickly halted as efforts at liberalization only strengthened the opposition to the pro-British government and increased the strength of anti-British groups.
+
+After the war, the big issue of importance was the Treaty of 1930 giving Britain considerable control over Iraqi foreign and domestic affairs and considerable power and basing rights for the British military in Iraq. The treaty was set to expire in 1957 but Iraq wanted an early revision of the treaty in order to remove some of the sovereignty restriction of the treaty. Britain, feeling it needed to maintain the air bases in Iraq for security purposes but understanding that growing nationalism in Iraq could be a problem, agreed to talks in May of 1947. The most important issue for the Iraqi government was closing the two British airbases in Iraq. Iraq suggested several solution including having Britain build replacement bases in Kuwait and Jordan and giving Britain war time rights to the bases, all of which were rejected by the British government. 
+
+Eventually, on January 15, 1948, the two parties signed the Treat of Portsmouth, requiring the British to share the base with the Iraqi military but allowed Britain to retain most of the power it had in the original treaty. After the text of the treaty was revealed in Iraq, widespread protests broke out on January 16, 1948; these protests became violent and continued for several weeks. The controversial issue was that the treaty left open ended the date of withdrawal of British troops. The people of Iraq felt betrayed by their government and feared that the continued presence of British troops would mean considerable interference in Iraqi affairs by Great Britain. On February 4, 1948 the Iraqi government informed the British government that the treaty was inconsistent with the interest of Iraq. The collapse of the Treat of Portsmouth forced the two countries to revert back to the original threat signed in 1930. This treaty was set to expire in 1957. The whole incident illustrated for the British government the depth of resentment and opposition to British influence in Iraq and suggested that Britain long term ability to remain in Iraq and influence Iraqi affairs may be in question.
+
+In January 1948, and against the wishes of the British government, Iraq sent 900 volunteers into Syria to be outfitted and formed into what was known as the Arab Liberation Army. This force then moved into the Arab dominated Palestine. Britain was disturbed by Iraq moving troops into an area under their control and grew concerned that these troops would clash with British forces. Britain filed an official protest and demanded that the troops be withdrawn. Iraq argued that the troops were necessary to help maintain law and order, especially with British withdrawal imminent. Britain, although sympathetic to the argument, did not believe a large Arab force in the area would assist in keeping the peace in Palestine and they also had concerns of Arab troops moving into the Jewish portions of Palestine. In April of 1948 the Jews were increasing successful in the conflict and, reacting to increasing pressure for a greater Arab presence, Iraq began sending more troops to the area. 
+
+On May 15, 1948 Iraqi and other Arab troops moved into Jewish portions of Palestine. Iraq put pressure on Britain to assist in their efforts based on the treaty signed in 1931 but Britain refused. On May 29, 1948, the United Nations Security Council, with British support, passed a resolution calling for an immediate cease fire and an arms embargo on all involved states. Iraqi and other Arab leaders, fearing that the war was not going well, accepted the resolution on June 11, 1948. On July 9, 1948 fighting began again, with most of the battlefield success going to Israel; although, Iraq did enjoy small territorial gains in the fighting. On July 15, 1948 the United Nations Security Council again called for a cease fire. Despite refusing to accept the cease fire resolution, Iraq and other Arab leaders stopped all military operations against Israel on July 18. Fighting recommenced between Egypt and Israel in October and November. Iraq, suffering from low supplies due to the arms embargo, eventually withdrew Iraqi troops in April of 1949 rather than suffer military setbacks. The significant point regarding Iraq and the United Kingdom in relation to the Arab-Israeli conflict is that the incident created more tensions between the two nations. The Iraqi population resented Great Britain's attempt to restrict Iraqi activities during the conflict and for enforcing the arms embargo on Iraq. It was clear, however, that British influence over Iraqi policy was on the decline.
+
+In 1949, Iraqi leaders tried but failed to gain British support for a military intervention into Syria to overthrow the Syrian leader Adib Shishakli. Iraq was hoping to revive aspirations of creating a union with Syria. Later, in 1954, Iraq was successful in sponsoring a coup in Syria but the hopes of a union were never fulfilled. In 1955 Iraq signed the British sponsored Baghdad Pact, a military defense alliance with Turkey, Iran, and Pakistan. Sponsorship of the Syrian coup and signing of the Baghdad Pact helped to alienate Iraq from other Middle Eastern leaders, especially Egypt and spawned more anti-regime sentiments domestically.
+
+The relationship between Great Britain and Iraq from Iraqi independence to 1958 can be characterized as tense. Although Great Britain tried to maintain a strong hold over Iraqi policy based on the treaty signed in 1930, opposition groups and public opinion within Iraq constantly made the relationship tenuous at best. Issues such as the stationing of British troops in Iraq, the Palestinian policy, British arms sales to Iraq, the location of the Kuwaiti border, and the status of Iraqi foreign policy were constant sources of conflict between the two countries. Therefore, the pre-1958 relationship between the two countries is best characterized as negative peace (.5), except during the period of 1940 to 1941 (.75). Because of the coup and subsequent short militarized engagement between the two countries, this period is characterized by low-level conflict. 
+
+In addition to post independence tension between Iraq and Britain regarding policy autonomy, there was also significant disagreement regarding the disposition of Kuwait. At the time, Kuwait was a quasi-independent kingdom under the protection of Britain. Iraq, wanting power, unification of the Arab states, and greater access to the sea, began pushing, in the 1930s, to gain control over Kuwait. Kuwait, Iraq argued, was an autonomous part of the former Ottoman Empire. And, because Iraq was the successor state to the Ottoman Empire in the area, Kuwait, by default, fell under the control of the Iraqi government. Britain, bound to defend Kuwait but not wanting to unnecessarily alienate Iraq, tried to offer an alternative solution that would give Iraq greater access to the sea and allow for Kuwait to remain autonomous. This involved Kuwait ceding little used territory to Iraq; this solution, however, was unacceptable to Kuwait. Questions regarding the exact location of the Iraqi-Kuwait border, imprecisely defined by the Anglo-Ottoman Convention of 1913, also caused problems for resolving the situation. Britain, hoping to at least settle the border issue, offered, in 1940-41, a concrete demarcation of the boundary. Although Kuwait agreed to the location, Iraq refused; presumably, Iraq did so because agreeing to the border would recognize the legitimacy of Kuwait as an autonomous entity. Britain, in order to help resolve the issues, went as far as to start building a port at Umm Qasr. This project was never completed and, ultimately, was order dismantled by the British government. 
+
+Iraq, during this time, viewed Britain as unfairly protecting Kuwait and depriving Iraq of important economic resources. The issues of the Kuwaiti-Iraqi border continued to haunt British-Iraqi relations into the 1950s and 60s.
+
+In 1958, a military coup removed the Hashemite monarchy from power in Iraq and brought Brigadier General Abdul Karim Qassim to power. Qassim immediately pulled out of the Baghdad Pact and aligned Iraq with the Soviet Union. These events begin the period of rivalry between Iraq and Great Britain. The first MID of RIV463, MID125, started on May 14, 1958.
+
+20030320-20159999 0.5 
+
+On March 20, 2003 the United States and the United Kingdom invaded Iraq and on May 1, 2003 victory was declared by US President George W. Bush. The end of the war in May 2003, although representing the beginning of a long occupation (still ongoing as of 2010), it does signify the end of RIV89. The two states are now in a transition period, as there is much uncertainty regarding the length of the occupation and what relations will be like once the occupation has ended.
+
+PS-SOURCES: Silerfarb 1994; New York Times
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

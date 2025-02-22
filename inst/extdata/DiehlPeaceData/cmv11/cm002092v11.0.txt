@@ -1,0 +1,59 @@
+FILE: cm002092v11.0.txt
+DYAD: USA - EL SALVADOR
+RIVALRY: RIV21
+DISPUTE(S): MID1666 
+
+PS-LAST-CHANGED: 20170807
+PS-LAST-CHECKED: 20170807
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1666 
+
+TERRMID: MID1666 3 -- not territory
+TERRMID-CER: MID1666 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1666 1 -- third party link to territory 
+TERRLINK-CER: MID1666 3 -- uncertain
+TERRLINK-NOTES: MID1666 Honduras feared an invasion from El Salvador and requested that the US send a warship to assist its defense (Gibler 2018). The border remained unsettled at the time, but coded uncertain because it is unclear whether the issue concerned the border, ongoing attempts of Central American States to foment revolution in one another’s territory, or some combination of the two (Munro p. 122-3).
+
+MARITMID: MID1666 3 -- not maritime 
+MARITMID-CER: MID1666 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1666 3 -- not islands 
+ISLMID-CER: MID1666 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1666 3 -- not civil war 
+CIVWARMID-CER: MID1666 3 -- certain
+CIVWARMID-NOTES: MID1666 At the time of this MID, Honduras, El Salvador, and Nicaragua often each supported armed activities against the other Central American states’ governments. In this context, there were “frequent reports of impending invasions” — particularly between Nicaragua and Honduras (Munro p.123). Coded not civil war because there appears to be relative stability in Salvador (Gould and Lauria-Santiago 2008, p.35-36) around the time of this MID. Coded uncertain because it is not clear whether the threat of invasion concerned territory or the ongoing policy (at the time) of states interfering in one another’s rebellions. 
+
+CIVWARLINK: MID1666 1 -- not civil war link
+CIVWARLINK-CER: MID1666 3 -- uncertain
+CIVWARLINK-NOTES: At the time of this MID, Honduras, El Salvador, and Nicaragua are facing internal rebellion, supported by the activities of the other Central American states. In this context, there were “frequent reports of impending invasions” — particularly between Nicaragua and Honduras (Munro p.123). Coded civil war because Honduras repeatedly faced rebellions around this time, and Salvador appears to be involved (UCA.edu; Munro p. 118). Nicaragua, in contrast, seems stable around the time of the MID (Boot 2002). Coded uncertain because it is not clear whether the threat of invasion concerned territory or the ongoing policy (at the time) of states interfering in one another’s rebellions.
+
+COUPMID: MID1666 3 -- not coup 
+COUPMID-CER: MID1666 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1666 3 -- not coup link
+COUPLINK-CER: MID1666 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+Boot, Max. 2002. The Savage Wars of Peace. NY: Basic.
+Central Arkansas Univ. http://uca.edu/politicalscience/dadm-project/western-hemisphere-region/honduras-1902-present/
+Gibler, Douglas. 2018. Militarized Interstate Dispute Narratives, 1816-2010, Rowman and Littlefield.
+Gould, Jeffrey L., and ALdo A. Lauria-Santiago. 2008. To Rise in Darkness. Durham: Duke.
+Munro, Dana G. 1974 United States and the Caribbean Republics, 1921-1933. Princeton.
+Stanford. https://web.stanford.edu/group/arts/nicaragua/discovery_eng/timeline/

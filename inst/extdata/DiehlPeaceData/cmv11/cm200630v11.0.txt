@@ -1,0 +1,390 @@
+FILE: cm200630v11.0.txt
+DYAD: UNITED KINGDOM - IRAN
+RIVALRY: RIV455
+DISPUTE(S): MID8 
+RIVALRY: RIV456
+DISPUTE(S): MID313 
+RIVALRY: RIV457
+DISPUTE(S): MID603 MID3195 
+RIVALRY: RIV10458 ISOLATED
+DISPUTE(S): MID3042 MID2551 MID3625 MID2596 
+
+PS: 19009999-19450814 .5 19840710-19900915 .25 19900916-19950915 .5
+
+PSNOTES: 
+
+PS-UPDATE2020: 
+Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHECKED: 20220228
+PS-LAST-CHANGED: 20220228 
+
+Territorial-Maritime-Boundary Issues Variables 
+
+Pre-1900 MIDs: MID8 
+
+WWII MIDs: MID523
+
+MID313 
+
+TERRMID: MID313 3 -- not territory 
+TERRMID-CER: MID313 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID313 3 -- not third party link to territory 
+TERRLINK-CER: MID313 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID313 3 -- not maritime 
+MARITMID-CER: MID313 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID313 3 -- not islands 
+ISLMID-CER: MID313 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID313 3 -- not civil war 
+CIVWARMID-CER: MID313 1 -- certain 
+CIVWARMID-NOTES: MID313 from Gibler (2018), in 1910, domestic protests in Persia threatened UK nationals and business interests. The UK threatened to invade Persia to protect its interests, triggering this MID. No invasion occurred. Coded not civil war because, although domestic protests led to the UK threatening the Persian government in an attempt to coerce it into regaining control over the affected areas, there is no indication that the protests involved militarized rebel groups. 
+
+CIVWARLINK: MID313 3 -- not civil war link 
+CIVWARLINK-CER: MID313 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID313 3 -- not coup 
+COUPMID-CER: MID313 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID313 3 -- not coup link
+COUPLINK-CER: MID313 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID603 
+
+TERRMID: MID603 3 -- not territory 
+TERRMID-CER: MID603 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID603 3 -- not third party link to territory 
+TERRLINK-CER: MID603 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID603 3 -- not maritime 
+MARITMID-CER: MID603 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID603 3 -- not islands 
+ISLMID-CER: MID603 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID603 3 -- not civil war 
+CIVWARMID-CER: MID603 1 -- certain 
+CIVWARMID-NOTES: MID603 from Gibler (2018), UK moved troops to the Iranian border in 1946 in response to domestic protests in Iran threatening UK business interests, specifically oil fields. Coded not civil war because although the domestic protests triggered UK threat of force, there is no indication that the unrest involved militarized rebel groups. 
+
+CIVWARLINK: MID603 3 -- not civil war link 
+CIVWARLINK-CER: MID603 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID603 3 -- not coup 
+COUPMID-CER: MID603 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID603 3 -- not coup link
+COUPLINK-CER: MID603 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3195 
+
+TERRMID: MID3195 3 -- not territory 
+TERRMID-CER: MID3195 1 -- certain 
+TERRMID-NOTES: MID3195 from Gibler (2018), this MID occurred in 1951 and was connected to the Iranian government's threat to nationalize British oil interests. In response, the UK officially protested. Iran allowed Soviet troops to build up in Iran to deter possible UK aggression, and UK sent a cruiser to the Iranian coast, triggering this MID. Coded not territorial because this was connected to oil interests and no territorial boundary was in dispute. 
+
+TERRLINK: MID3195 3 -- not third party link to territory 
+TERRLINK-CER: MID3195 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3195 3 -- not maritime 
+MARITMID-CER: MID3195 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3195 3 -- not islands 
+ISLMID-CER: MID3195 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3195 3 -- not civil war 
+CIVWARMID-CER: MID3195 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3195 3 -- not civil war link 
+CIVWARLINK-CER: MID3195 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3195 3 -- not coup 
+COUPMID-CER: MID3195 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3195 3 -- not coup link
+COUPLINK-CER: MID3195 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3042 
+
+TERRMID: MID3042 3 -- not territory 
+TERRMID-CER: MID3042 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3042 1 -- third party link to territorial MID
+TERRLINK-CER: MID3042 1 -- certain 
+TERRLINK-NOTES: MID3042 from Gibler (2018), this occurred in 1984 and involved several Iranian attacks on UK ships. Coded third party link to territorial MID because this occurred during and because of the Iran-Iraq War, which was a territorial MID. During that war, both Iran and Iraq attacked oil tankers who were exporting oil from the other country; the UK exported Iraqi oil. 
+
+MARITMID: MID3042 3 -- not maritime 
+MARITMID-CER: MID3042 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3042 3 -- not islands 
+ISLMID-CER: MID3042 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3042 3 -- not civil war 
+CIVWARMID-CER: MID3042 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3042 3 -- not civil war link 
+CIVWARLINK-CER: MID3042 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3042 3 -- not coup 
+COUPMID-CER: MID3042 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3042 3 -- not coup link
+COUPLINK-CER: MID3042 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2551 
+
+TERRMID: MID2551 3 -- not territory 
+TERRMID-CER: MID2551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2551 1 -- third party link to territorial MID
+TERRLINK-CER: MID2551 1 -- certain 
+TERRLINK-NOTES: MID2551 from cm narrative, in 1985, Iran again attacked a UK tanker in the Persian Gulf. Coded third party link to territorial MID because this occurred during and because of the Iran-Iraq War, which was a territorial MID. During that war, both Iran and Iraq attacked oil tankers who were exporting oil from the other country. The UK exported Iraqi oil.
+
+MARITMID: MID2551 3 -- not maritime 
+MARITMID-CER: MID2551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2551 3 -- not islands 
+ISLMID-CER: MID2551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2551 3 -- not civil war 
+CIVWARMID-CER: MID2551 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2551 3 -- not civil war link 
+CIVWARLINK-CER: MID2551 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2551 3 -- not coup 
+COUPMID-CER: MID2551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2551 3 -- not coup link
+COUPLINK-CER: MID2551 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3625 
+
+TERRMID: MID3625 3 -- not territory 
+TERRMID-CER: MID3625 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3625 1 -- third party link to territorial MID
+TERRLINK-CER: MID3625 1 -- certain 
+TERRLINK-NOTES: MID3625 from cm002630 narrative, Iran threatened to expand the Iran-Iraq war into Kuwait and Saudi Arabia. The US & UK and Iran exchanged threats over this proposition by Iran, triggering this MID. Coded third party link to territorial MID because Iran and Iraq were at war in a territorial MID, and this MID is essentially a deterrence effort to keep Iran from intentionally spilling conflict over into other states. 
+
+MARITMID: MID3625 3 -- not maritime 
+MARITMID-CER: MID3625 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3625 3 -- not islands 
+ISLMID-CER: MID3625 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3625 3 -- not civil war 
+CIVWARMID-CER: MID3625 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3625 3 -- not civil war link 
+CIVWARLINK-CER: MID3625 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3625 3 -- not coup 
+COUPMID-CER: MID3625 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3625 3 -- not coup link
+COUPLINK-CER: MID3625 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2596 
+
+TERRMID: MID2596 3 -- not territory 
+TERRMID-CER: MID2596 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2596 1 -- third party link to territorial MID
+TERRLINK-CER: MID2596 1 -- certain 
+TERRLINK-NOTES: MID2596 from Gibler (2018), this occurred in 1986 and is another incident connected to Iran-Iraq War. Iran again attacked a UK tanker trading with Iraq. Coded third party link to territorial MID because this occurred during and because of the Iran-Iraq War, which was a territorial MID. During that war, both Iran and Iraq attacked oil tankers who were exporting oil from the other country. The UK exported Iraqi oil.
+
+MARITMID: MID2596 3 -- not maritime 
+MARITMID-CER: MID2596 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2596 3 -- not islands 
+ISLMID-CER: MID2596 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2596 3 -- not civil war 
+CIVWARMID-CER: MID2596 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2596 3 -- not civil war link 
+CIVWARLINK-CER: MID2596 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2596 3 -- not coup 
+COUPMID-CER: MID2596 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2596 3 -- not coup link
+COUPLINK-CER: MID2596 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4512 
+
+TERRMID: MID4512 3 -- not territory 
+TERRMID-CER: MID4512 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4512 3 -- not third party link to territory 
+TERRLINK-CER: MID4512 1 -- certain 
+TERRLINK-NOTES: MID4512 from cm narrative, this MID occurred 7/4/2003 and was during the USA-Iraq War. It is a multilateral MID involving US & UK against Iran. US missiles landed in Iranian territory and US planes violated Iranian airspace. On June 1, Iranian authorities detained 2 US boats overnight. The UK is pulled into this MID due to its military assistance to US. Coded not third party link to territory because, although this dispute is linked to the US-Iraq War, that was is not a territorial dispute, but a regime change dispute. 
+
+MARITMID: MID4512 3 -- not maritime 
+MARITMID-CER: MID4512 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4512 3 -- not islands 
+ISLMID-CER: MID4512 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4512 3 -- not civil war 
+CIVWARMID-CER: MID4512 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4512 3 -- not civil war link 
+CIVWARLINK-CER: MID4512 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4512 3 -- not coup 
+COUPMID-CER: MID4512 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4512 3 -- not coup link
+COUPLINK-CER: MID4512 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4 2002-2010:
+
+MID4512
+rivalry=200630 nationa=UNITED KINGDOM nationb=IRAN MID4512 20030701-20030704 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+During the USA-IRQ war of 2003 (MID4273), there was a concurrent MID between USA, UKG, and IRN. The MID began on 3/22 when two USA missiles landed in Iranian territory and US planes violated Iranian airspace while conducting combat operations. This was met with the Iranian response that it would use military force to repel any further incursions or transgressions against the state. Later, on June 1, Iranian authorities detained four US soldiers and 2 boats overnight. About a month later, US forces detained two Iranian reporters due to suspicious activity, which was protested by Iran. It is unclear when or if the reporters were released. First day of dispute is listed on 7/1/2003 and the last day of the dispute listed on 7/4/2003. 
+
+RIVNOTES: 
+RIV457: MID523 (1941) has UKG in name, but UKG does not appear in either participants or Actor/Target. USR and UKG had parallel interactions with Iran. Both states occupied parts of Iran. As a result UKG is entered as a participant in the MID. Enddate changed to reflect when the occupation is provided for by treaty. NOTE: this apparently was not entered into the MID3.02 dataset. Hence it is removed, removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10458 is coded isolated since all disputes are part of Iran-Iraq war.
+
+NARRATIVE-CM:
+Iran granted an oil concession to a British oil company in 1901, and the Anglo-Persian Oil Company took over the oil concession on April 14, 1909. Iran and Britain disputed the sovereignty of the Bahrain islands in the Persian Gulf (Britain had established a protectorate over Bahrain on March 13, 1892). On November 22, 1927, Iran protested a treaty signed by Britain and Saudi Arabia on May 20, 1927, which referred to the maintenance of "friendly and peaceful relations with the territories of Kuwait and Bahrain...who are in special treaty relations" with the British government. Britain rejected Iran's claim to the Bahrain islands on January 18, 1928. Iran renewed its claim of sovereignty over the Bahrain islands on August 2, 1928, and the government sent a letter to the secretary-general of the *League of Nations* (LON) outlining its claim to the islands. Iran protested to the British government regarding passport regulations covering Iranians visiting the Bahrain islands. Britain responded to the Iranian claim to the Bahrain island in a letter to the LON secretary-general on February 18, 1929. Iran protested to Britain and the LON Council regarding British oil concessions in Bahrain on July 23-24, 1930. Iran canceled the concession to the Anglo-Persian Oil Company on November 27, 1932. Britain referred the matter to the LON Council on December 14, 1932. The LON Council appointed Eduard Benes of Czechoslovakia to mediate in the dispute on January 24, 1933. Britain and Iran signed a provisional agreement on February 2, 1933, which provided for direct negotiations between Iran and the Anglo-Persian Oil Company. Iran and the Anglo-Persian Oil Company agreed on a new oil concession on April 30, 1933. The Iranian parliament (*Majlis*) ratified the agreement on May 28, 1933. Some 40,000 Soviet and 19,000 British troops invaded Iran on August 25, 1941. Some 22 British soldiers were killed during the invasion. 
+
+The Iranian government signed the *Supplemental Agreement* with the Anglo-Iranian Oil Company on July 17, 1949, which would have increased oil revenue to Iran. Prime Minister Razmara withdrew the *Supplemental Agreement* from Majlis ratification on December 26, 1950. Britain deployed naval forces in the Persian Gulf beginning on March 23, 1951. Iranians rioted in Abadan on April 12, 1951, resulting in the deaths of ten Iranians and two British nationals. The Majlis voted to nationalize the Anglo-Iranian Oil Company on April 30, 1951. Britain proposed the arbitration of the dispute on May 19, 1951, but Iran rejected the proposal on May 20, 1951. Britain submitted the dispute to the *International Court of Justice* (ICJ) on May 26, 1951, but Iran rejected ICJ jurisdiction in the dispute on May 28, 1951. President Harry Truman of the United States appealed for peaceful negotiations on June 1, 1951. The ICJ issued a preliminary ruling in the dispute on July 5, 1951, which requested the parties not to take action "which might prejudice the rights of the other party." Iran rejected the ICJ ruling as "an intervention in our internal affairs" on July 5, 1951. President Truman offered to appoint Averell Harriman as a special envoy for the dispute on July 8, 1951, and Iran accepted the offer on July 11, 1951. Averell Harriman facilitated negotiations between Britain and Iran from July 15 to September 15, 1951. Prime Minister Mossadegh issued an ultimatum to Britain on September 12, 1951, which called for Britain to withdraw from Abadan island in the Shatt-al-Arab waterway. Iranian troops occupied Abadan island on September 27, 1951. Britain referred the matter to the *United Nations *(UN) Security Council on September 29, 1951. Iran agreed to the submission of the oil nationalization dispute to the ICJ on December 10, 1951. The US imposed military sanctions (suspension of military assistance) against Iran in December 1951. Iran reiterated its claim to Bahrain and Kuwait on April 20, 1952, but Britain rejected the claim on April 29, 1952. The US lifted military sanctions against Iran on April 25, 1952. The ICJ held hearings on the oil nationalization dispute on June 9-28, 1952. The ICJ ruled on July 22, 1952 that it lacked jurisdiction in the oil nationalization dispute. Iran severed diplomatic relations with Britain on October 22, 1952 after Britain rejected its terms for settlement of the oil nationalization dispute. 
+Iran agreed to resume diplomatic relations with Britain on December 5, 1953. Britian and Iran signed an agreement on August 5, 1954, which provided for a consortium of western oil companies to operate Iran's nationalized oil industry. The Shah of Iran requested the United Nations secretary-general on March 9, 1970 to "exercise your good offices with a view to ascertaining the true wishes of the people of Bahrain." The UN secretary-general appointed Vittorio Guicciardi of Italy on March 20, 1970 to facilitate negotiations between Britain and Iran. Vittorio Guicciardi visited the Bahrain islands from March 30 to April 18, 1970. Vittorio Guicciardi submitted a report to the UN Security Council on May 2, 1970, which indicated that "the overwhelming majority of the people of Bahrain wish to gain recognition of their identity in a fully independent and sovereign state." The UN Security Council voted to endorsed the findings in the report on May 11, 1970. The *Majlis* formally renounced its claim to Bahrain on May 14, 1970. Iranian military aircraft attacked the British oil tanker *Renown* in the Persian Gulf on July 10, 1984. Britain protested against the oil tanker attack to the Iranian government on July 11, 1984. Iranian military aircraft attacked the British oil tanker *Pawnee* on September 23, 1986. British protested against the oil tanker attack to the Iranian government on September 24, 1986. Britain and Iran resumed diplomatic relations on November 10, 1988.
+
+SOURCES-CM: 
+*American Journal of International Law *(AJIL), October 1951, 631-647, July 1971, 560-568; Butterworth, 1976, 153-155; Clodfelter, 1992, 813; Donelan and Grieve, 1973, 88-93; *Foreign Broadcast Information Service *(FBIS), July 11, 1984, July 12, 1984, September 26, 1986; *Keesing*, February 24-March 3, 1951, March 31-April 7, 1951, May 5-12, 1951, July 7-14, 1951, July 21-28, 1951, November 10-17, 1951, January 19-26, 1952, March 29-April 5, 1952, July 5-12, 1952, August 9-16, 1952, August 30-September 6, 1952, September 20-27, 1952, October 18-25, 1952, December 5, 1953, August 7-14, 1954; Langer, 1972, 1309-1311; *Survey of International Affairs *(SIA), 1929, 513, 1930, 572, 1932, 607, 1933, 597, 1934, 224-247, 1951, 292-337.
+
+NARRATIVE-CR:
+
+The first portion of the rivalry between the UK and Iran takes place in the middle of the 19th century (1856-7). There is one mid - MID8 - that lasts for about 9 months. In this first portion of the rivalry the question or issue is one of influence in Afghanistan. Persian rulers occupy Heart in southern Afghanistan and the British seek to expel the Persians to restrict Persian influence in the country. 
+
+The independent rulers of Herat always turned to the Iranians for support against re-absorption into the Afghan kingdom. After complicated negotiations between Shah Nasr ed-Din and local Afghan provincial rulers, and despite British warning, Persian troops occupied Herat in October 1856. The British, whose policy it was to maintain the independence of this city, declared war against Iran. After three months the Iranians withdrew from Herat and committed themselves never again to interfere there or elsewhere in Afghanistan. This brief war convinced the British that they should bolster the strength of Dost Mohammad, the ruler of Afghanistan, in an attempt to enable him to meet future challenges by the Iranians. In 1857 an addendum was signed to the 1855 treaty that permitted a British military mission to go to Qandahar (but not to Kabul) and to provide a subsidy during conflict with the Iranians. Fraser-Tytler notes that as Dost Mohammad signed the document he proclaimed, "I have now made an alliance with the British Government and come what may I will keep it till death." 
+
+The British governor general of India at the time of the 1857 agreement with Afghanistan stated in a memorandum that the British would never again intervene in Afghan internal affairs or send an army across its borders unless Herat was besieged, and then only with Afghan consent. He went so far as to argue in favor of the Afghan absorption of Herat. In 1863 Dost Mohammad retook Herat with British acquiescence. 
+
+The second militarized portion of the rivalry occurs in 1910 and lasts for about seven months. In this portion of the rivalry the UK works to maintain its position in the country as Persia undergoes a constitutional crisis and its position of influence in the country is threatened. 
+
+MID313 occurred from March through October of 1910. This mid took place amid the constitutional crisis in Iran and its aftermath. Britain and Russia were vying for influence and control of the country at this point. The upheavals of the Constitutional Revolution and civil war had undermined stability and trade. In addition, the ex-shah, with Russian support, attempted to regain his throne, landing troops in July 1910. Most serious of all, the hope that the Constitutional Revolution would inaugurate a new era of independence from the great powers ended when, under the Anglo-Russian Agreement of 1907, Britain and Russia agreed to divide Iran into spheres of influence. The Russians were to enjoy exclusive right to pursue their interests in the northern sphere, the British in the south and east; both powers would be free to compete for economic and political advantage in a neutral sphere in the center. This mid relates to this issue as the British government successfully pressures the Persian government for continued influence in various areas within Persia. 
+
+The third portion of the rivalry between the countries occurs from 1946 until 1951. This portion of the rivalry between the two countries has two elements to it. The first is one of the first real encounters of the Cold War and the second is an issue of oil. In the first issue the UK is confronting elements within the fractured Iranian government that are sympathetic to the USSR. The second issue is the nationalization of the Anglo-Iranian Oil Company. 
+
+MID603 is the Azerbaijan Crisis which occurred in the late spring and summer of 1946. Following Germany's invasion of the USSR in June 1941, Britain and the Soviet Union became allies. Both turned their attention to Iran. In addition to their suspicions about the role of German technicians in Iran, Britain and the USSR saw the newly opened Trans-Iranian Railroad as an attractive route for transporting supplies from the Persian Gulf to the Soviet Caucasus region. However, Iran's neutrality ruled out this option. In August 1941, after Reza Shah again refused to expel all German nationals, Britain and the USSR invaded Iran. They swiftly defeated the Iranian army, arrested Reza Shah and sent him into exile, and took control of Iran's communications and coveted railroad. In 1942 the United States, an ally of Britain and the USSR during the war, sent a military force to Iran to help maintain and operate sections of the railroad.
+
+The British and Soviet authorities allowed Reza Shah's system of political and press repression to collapse and constitutional government to evolve with minimal interference. They permitted Reza Shah's son, Mohammad Reza Shah Pahlavi, to succeed to the throne after he promised to reign as a constitutional monarch. In January 1942 the two occupying powers signed an agreement with Iran to respect Iran's independence and to withdraw their troops from the country within six months of the war's end. A U.S.-sponsored agreement at the 1943 Tehran Conference reaffirmed this commitment. In late 1945, however, the USSR refused to announce a timetable for its withdrawal from Iran's northwestern provinces of East Azerbaijan and West Azerbaijan, where Soviet-supported autonomy movements had developed. Although the USSR withdrew its troops in May 1946, tensions continued for several months. The dispute, which became known as the Azerbaijan crisis, was the first case to be brought before the Security Council of the United Nations. This episode is considered one of the precipitating events of the emerging Cold War, the postwar rivalry between the United States and its allies and the USSR and its allies.
+
+MID3195 occurred from May through September of 1951. The Iranian government signed the *Supplemental Agreement with the Anglo-Iranian Oil Company on July 17, 1949, which would have increased oil revenue to Iran. Prime Minister Razmara withdrew the *Supplemental Agreement* from Majlis ratification on December 26, 1950. Britain deployed naval forces in the Persian Gulf beginning on March 23, 1951. Iranians rioted in Abadan on April 12, 1951, resulting in the deaths of ten Iranians and two British nationals. The Majlis voted to nationalize the Anglo-Iranian Oil Company on April 30, 1951. Britain proposed the arbitration of the dispute on May 19, 1951, but Iran rejected the proposal on May 20, 1951. Britain submitted the dispute to the *International Court of Justice* (ICJ) on May 26, 1951, but Iran rejected ICJ jurisdiction in the dispute on May 28, 1951. President Harry Truman of the United States appealed for peaceful negotiations on June 1, 1951. The ICJ issued a preliminary ruling in the dispute on July 5, 1951, which requested the parties not to take action "which might prejudice the rights of the other party." Iran rejected the ICJ ruling as "an intervention in our internal affairs" on July 5, 1951. President Truman offered to appoint Averell Harriman as a special envoy for the dispute on July 8, 1951, and Iran accepted the offer on July 11, 1951. Averell Harriman facilitated negotiations between Britain and Iran from July 15 to September 15, 1951. Prime Minister Mossadegh issued an ultimatum to Britain on September 12, 1951, which called for Britain to withdraw from Abadan island in the Shatt-al-Arab waterway. Iranian troops occupied Abadan island on September 27, 1951. Britain referred the matter to the *United Nations *(UN) Security Council on September 29, 1951. Iran agreed to the submission of the oil nationalization dispute to the ICJ on December 10, 1951. The US imposed military sanctions (suspension of military assistance) against Iran in December 1951. Iran reiterated its claim to Bahrain and Kuwait on April 20, 1952, but Britain rejected the claim on April 29, 1952. The US lifted military sanctions against Iran on April 25, 1952. The ICJ held hearings on the oil nationalization dispute on June 9-28, 1952. The ICJ ruled on July 22, 1952 that it lacked jurisdiction in the oil nationalization dispute. Iran severed diplomatic relations with Britain on October 22, 1952 after Britain rejected its terms for settlement of the oil nationalization dispute. 
+
+The final portion of the rivalry between the UK and Iran in the 1980s was a product of the Iran-Iraq War. All of the mids in this portion of the rivalry have to do with the policy of both Iran and Iraq to raise the stakes in the Iran Iraq War by targeting oil assets of the opponent or by targeting shipping assets of countries that dealt with the opponent. They are all one day or relatively short disputes and were intended to put pressure on Iraq. Iraq was being funded for the conflict with Iran by Kuwait, Saudi Arabia and several of the Gulf States. To put pressure on this funding and thus indirectly on Iraq, Iran targeted oil assets of the funding countries and Iraq itself. 
+
+Iranian military aircraft attacked the British oil tanker *Renown* in the Persian Gulf on July 10, 1984. Britain protested against the oil tanker attack to the Iranian government on July 11, 1984 (MID3042). Iranian aircraft also attacked a British tanker in the Persian Gulf in March of 1985 (MID2551). 
+
+MID3625 occurred from November of 1985 through March of 1986. In this dispute, Iran threatened to widen the Iran-Iraq War to include other Gulf States namely Kuwait and Saudi Arabia. There were some provocative displays of force by Iran towards Kuwait that were reciprocated. The United States and the United Kingdom threatened the Iranians with retaliation on behalf of Kuwait and Saudi Arabia if Iran brought the conflict to those countries. 
+
+MID2596 occurred from September through November of 1986. Iranian military aircraft attacked the British oil tanker *Pawnee* on September 23, 1986. British protested against the oil tanker attack to the Iranian government on September 24, 1986. Britain and Iran resumed diplomatic relations on November 10, 1988.
+
+Relations between the two countries remained tense for some time. In 1987, relations cooled further when a senior member of the British interest section in Tehren was detained and beaten up (an Iranian response to a shoplifting charge against a member of its Manchester consulate). Both countries expelled a number of diplomats from their countries. The UK urged itc citizens in Iran to leave the country. British support for US policy in the Gulf region also was a stumbling block to improving ties. In September of 1987, an Iranian war plane fired at a British tanker in the Gulf. The British then closed down the Iranian consulate in London. 
+
+In November of 1988, the UK and Iran renewed diplomatic relations. The step toward improvement was a result of internal disagreement within Iran as to the proper direction in foreign policy. There was a struggle between reformist leaders such as Rafsanjani and hard liners such as Musavi and Mohtashemi. 
+
+Prior to the Gulf crisis of 1990-1, there were signs of an improvement in the atmosphere between Iran and several Western countries particularly Britain. Iran was interested in improvement but the major obstacle was the Salmon Rushdie affair. The UK was also interested in resumption of normalcy in relations but needed a gesture of goodwill from Tehren such as the lifting of the death sentence on Rushdie. Britain's firm support of the US in the Gulf War also became an obstacle. Iran and the UK renewed relations in September of 1990. 
+
+In May of 1991, the countries began exchanging diplomatic visits among low level officials. 
+
+In 1991, regime officials in Iran began to approach their foreign policy somewhat differently. At its inceptions the Islamic Revolution in Iran sought to export that revolution with an ideological zeal. Practical matters began to influence the regime heavily by the early 1990s and the rhetoric started to shift. Though the regime continued to extol the virtues of Islamic unity as a foreign policy goal it also adapted a more conciliatory tone when communicating to other governments. 
+
+In May 1997, Mohammad Khatami, a reformer, became Iranian president, leading to efforts to normalize ties between the two countries. 
+
+In September 1998, relations were upgraded to ambassador level, after the Khatami government agreed to stop encouraging Muslims to carry out the death sentence against Salman Rushdie. 
+
+In January 2000, Iranian Foreign Minister Kamal Kharrazi visited London. 
+In September 2001, Jack Straw was the first UK foreign secretary to travel to Iran since 1979 - as part of efforts to forge a coalition against the Taleban in Afghanistan. 
+
+In February 2002, Britain's improving relations with Iran suffer a major setback when Tehran rejects David Reddaway as London's new ambassador, calling him a spy. 
+
+In June 2003, the UK urged Iran to open up its nuclear sites to tougher inspections, amid growing international concern that Tehran might be developing nuclear weapons. 
+
+In August 2003, UK authorities arrested Iranian diplomat Hade Soleimanpour, who was wanted by Argentina on terror charges, triggering a fresh row. Tehran demanded the immediate release of Soleimanpour and an apology from the British. Iranian Deputy Foreign Minister Ali Ahani traveled to London to meet Jack Straw, who said that he could not interfere with a judicial matter. Tehran threatened to withdraw ambassadors. In September of 2003, Iran recalled its ambassador to London "for consultations" and shots were fired at the UK embassy in Tehran. 
+
+Thus, while relations between the UK and Iran have improved markedly, there still is a considerable degree of animosity between the two countries and as yet it seems premature to code this rivalry as concluded. 
+
+SOURCES-CR:
+American Journal of International Law (AJIL), October 1951, 631-647, July 1971, 560-568; BBC; Butterworth, 1976, 153-155; Clodfelter, 1992, 813; Donelan and Grieve, 1973, 88-93; *Foreign Broadcast Information Service *(FBIS), July 11, 1984, July 12, 1984, September 26, 1986; *Keesing*, February 24-March 3, 1951, March 31-April 7, 1951, May 5-12, 1951, July 7-14, 1951, July 21-28, 1951, November 10-17, 1951, January 19-26, 1952, March 29-April 5, 1952, July 5-12, 1952, August 9-16, 1952, August 30-September 6, 1952, September 20-27, 1952, October 18-25, 1952, December 5, 1953, August 7-14, 1954; Langer, 1972, 1309-1311; MECS, 1987, 1988, 1990, 1991;*Survey of International Affairs *(SIA), 1929, 513, 1930, 572, 1932, 607, 1933, 597, 1934, 224-247, 1951, 292-337; Sreedhar, 1989; 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

@@ -1,0 +1,177 @@
+FILE: cm220630v11.0.txt
+DYAD: FRANCE-IRAN
+RIVALRY: RIV574
+DISPUTE(S): MID2560 MID2823 MID2766
+RIVNOTES: 
+
+PS: 19009999-19400622 0.5 19790211-19851017 0.25 19851018-19880615 0 19880616-19950501 0.25 19950502-20000501 0.5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20220301 
+PS-LAST-CHECKED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2560 
+
+TERRMID: MID2560 3 -- not territory 
+TERRMID-CER: MID2560 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2560 1 -- third party link to territorial MID
+TERRLINK-CER: MID2560 1 -- certain 
+TERRLINK-NOTES: MID2560 from Gibler (2018), a French warship chased off an Iranian frigate that was attempting to intercept a French cargo vessel. Iran regularly attacked ships from countries trading with Iraq during the Iran-Iraq War. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2560 3 -- not maritime 
+MARITMID-CER: MID2560 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2560 3 -- not islands 
+ISLMID-CER: MID2560 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2560 3 -- not civil war 
+CIVWARMID-CER: MID2560 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2560 3 -- not civil war link 
+CIVWARLINK-CER: MID2560 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2560 3 -- not coup 
+COUPMID-CER: MID2560 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2560 3 -- not coup link
+COUPLINK-CER: MID2560 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2823 
+
+TERRMID: MID2823 3 -- not territory 
+TERRMID-CER: MID2823 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2823 1 -- third party link to territorial MID
+TERRLINK-CER: MID2823 1 -- certain 
+TERRLINK-NOTES: MID2823 from Gibler (2018), Iran attacked two French ships, and France threatened to respond with force. Iran regularly attacked ships from countries trading with Iraq during the Iran-Iraq War. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2823 3 -- not maritime 
+MARITMID-CER: MID2823 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2823 3 -- not islands 
+ISLMID-CER: MID2823 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2823 3 -- not civil war 
+CIVWARMID-CER: MID2823 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2823 3 -- not civil war link 
+CIVWARLINK-CER: MID2823 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2823 3 -- not coup 
+COUPMID-CER: MID2823 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2823 3 -- not coup link
+COUPLINK-CER: MID2823 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2766 
+
+TERRMID: MID2766 3 -- not territory 
+TERRMID-CER: MID2766 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2766 1 -- third party link to territorial MID
+TERRLINK-CER: MID2766 3 -- uncertain 
+TERRLINK-NOTES: MID2766 from Gibler, Miller, and Little (2016), this is another incident connected to Iranian attacks on vessels trading with Iraq during the Iran-Iraq War. That war was a territorial dispute, so coded third party link to territorial MID; but coded uncertain because GML recommend this case be merged with MID2823.
+
+MARITMID: MID2766 3 -- not maritime 
+MARITMID-CER: MID2766 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2766 3 -- not islands 
+ISLMID-CER: MID2766 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2766 3 -- not civil war 
+CIVWARMID-CER: MID2766 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2766 3 -- not civil war link 
+CIVWARLINK-CER: MID2766 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2766 3 -- not coup 
+COUPMID-CER: MID2766 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2766 3 -- not coup link
+COUPLINK-CER: MID2766 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CR:
+The rivalry between France and Iran appears to be motivated by the Iran-Iraq War but also by a lengthy financial dispute dating to the time of the Shah. The Iranian government loaned the French nuclear energy authority $1 billion. There were disagreements as to the nature of reimbursement and this financial dispute lingered until after the Iran-Iraq War. The French provided military supplies and equipment to the Iraqis which therefore created tensions between the two countries. This tension boiled over on three separate occasions. The first involved threatening Iranian statements to the French; the second involved an Iranian diplomat in Paris; the third was the French intervention in a Iranian attack on a Liberian oil tanker. 
+
+MID2560 occurred in October of 1985. France provided military support to Iraq during the Iran-Iraq War. France also harbored Iranian opposition figures and owed Iran over 1 billion dollars. Both countries expressed interest in improving relations. However, France continued to deliver arms to Iraq which increased tensions again between the countries in October. During that month Rafsanjani warned France that it had pursued a `wicked, sly, and hostile policy towards Islam-to which Iran would respond at an appropriate time.' In 1986 there is a resumption of Franco-Iranian relations thanks to the initiative of the Prime Minister Jacques Chirac. On November 17th 1986, France and Iran sign a partial agreement calling for repayment of $330 million of a $1 billion loan made to France by the shah for a nuclear reprocessing scheme.
+
+MID2823 occurred from June through August of 1987. The dispute began over an Iranian diplomat who sought refuge in the Iranian embassy in Paris. The fugitive-Wahid Gordji-was sought for questioning by French official regarding a terrorist bombing in France in 1986. He went to the Iranian embassy where he was provided shelter and protection. This raised tensions between the two countries. Tensions were further heightened when Iranian gun boats attacked a French container ship the Ville d'Anvors in the Persian Gulf damaging the hull and engine room-with no casualties. This attack took place a day after Teheran charged that French customs officials at a Geneva airport had severely beaten an Iranian diplomat. Paris cut off diplomatic relations with Teheran over the incident and evacuated its embassy and diplomatic staff in Iran. On July 17, 1987 the diplomatic relations between the two countries are broken due to espionage charges made by France towards an Iranian citizen attached to the Iranian Embassy to Paris. Iran relates by creating a diplomatic row over a staff member of the French Embassy in Teheran. 
+
+MID2766 occurred on January 16, 1988; was reported by the French government on 20 January; it was reported in the New York Times on 21 January and was coded in the MID dataset as occurring on 21 January 1988. The French Navy on patrol in the Persian Gulf intervened to stop an attempted attack by Iranian gun boats on a Liberian tanker. Iranian gun boats attacked the Liberian tanker rainbow within sight of the French frigate Dupliex. The Iranian gun boats were shooting threatening shots at the Liberian tanker when the Dupliex moved within firing range and called on the gun boats to cease fire. The Iranians complied and moved away. The Rainbow sustained a rocket attack and was set afire. 
+
+In the early days of the Iranian revolution, the Ayatollah's ideology was fairly effectively implemented. However, beginning in about 1984, the Ayatollah and the clerics who followed him realized that the country could not be run following seventh century revolutionary slogans. Facing the realities of managing the state they became more pragmatic in their approach. Initial rhetoric stating that Iran did not need ties with other countries gave way to a realization that Iran needed contact with outside interests. This normalization process was evident in 1991. Following its long war with Iraq, Iran came to desire a renewed improvement of relations with Western Europe. 
+
+Improvement in Iranian French relations took place in the early 1990s. With the decline in power of the Soviet Union, Tehran realize that there was no alternative but to pursue western financial assistance and expertise to rebuild the country after the long war with Iraq. Iran specifically sought to improve ties with France. Signs of improvement in relations between the countries were visible in 1991. In 1991, the two states signed several agreements on cooperation over economic, oil, gas, petrochemicals and heavy industry. The French Central Bank placed a $2.6 billion credit at Iran's disposal. In May the countries concluded an agreement on the decade long financial dispute. 
+
+One key reason for the raproachment between Iran and many western states, including France was the election of Hashemi Rafsanjani to the presidency of Iran. Rafsanjani is a Shiite clergyman and was a supporter of Ayotallah Khomeini. Rafsanjani helped found the Islamic Republican party and built his political power base as speaker of the parliament (1980-89). From 1988 to 1989 he was also acting commander in chief of the armed forces. In 1989, Rafsanjani was elected president, receiving some 95% of the vote. A pragmatic conservative, he sought to revive Iran's badly flagging economy on free-market principles and moved to improve relations with the West, reestablish Iran as a regional power, and gradually reopen the country to foreign investment. He was reelected in 1993 with two thirds of the vote but was barred from seeking a third term in the 1997 elections. In 2000 he was narrowly elected to parliament, but he soon resigned his seat.
+
+SOURCES-CR:
+New York Times, 21 January 1988,7/13/1987; Middle East Contemporary Survey 1985 & 1991; Sreedhar, 1989
+
+PS-NARRATIVE
+
+19459999-19790210 0.5
+
+On August 1, 1948, Mohammad Reza Pahlavi visited Paris for the first time as the Shah of Iran. In the 50s, even though there is a significant cultural French presence in Iran, diplomatically France does not matter much. This is shown by the fact that only 6% of the former Anglo-Iranian Oil Company were given to the French Oil Company in 1953. 
+
+The bilateral relations were solid during the 5th republic, as proved by the visit by George Pompidou to Iran in 1971. However, President Pompidou did not take part in the festivals of the 2500th anniversary of the monarchism in Iran, which took place in 1971 causing bilateral relations to suffer strains. In 1974 the Shah of Iran pays an official to France at the time of President Giscard d'Estaing, and the two countries sign a number of bilateral economic agreements. On June, 28th 1974, France and Iran sign a contract through which France sells nuclear technology to Iran and engages to build five nuclear power plants in Iran. The contracts signed between the two countries in 1974 made France Iran's leading industrial trade partner. The contract was revoked in 1979.
+
+The historical arrival of Imam Khomeini in France in 1978 and the victory of the Islamic Revolution in Iran, and also the measure of agreement between the two nations caused the development of the bilateral relations in the late 1970s. 
+
+19790211-19851017 0.75
+
+However, there were already problems in these relations because most of the Iranian refugees in the aftermath of the Iranian Revolution left for France. On February 1st 1979, Ayatollah Ruhollah Khomeini, who had lived in exile in France, leaves Paris on a special Air France jet to lead his revolution in Iran. On February 11th 1979, Shahpour Bakhtiar, whom Shah Mohammed Reza Pahlavi made prime minister before leaving the country in January, goes into exile in Paris. The Franco-Iranian relations have undergone ups and downs, during the years following the Islamic revolution. After the Islamic Revolution, France refused to continue to provide Iran with enriched uranium, which it needed for its nuclear program. Tehran did not get either its investment back from the Eurodif joint stock company formed in 1973 by France, Belgium, Spain and Sweden. In 1975 Sweden's 10% share in Eurodif went to Iran as a result of an arrangement between France and Iran. The French government subsidiary company Cogema and Tehran established the Sofidif (Societe franco-iranienne pour l'enrichissement de l'uranium par diffusion gazeuse-Franco-Iranian Society for the Enriching of Uranium for the Diffusion of Gas) firm with 60% and 40% shares, respectively. In turn, Sofidif acquired a 25% share in EURODIF, which gave Iran its 10% share of Eurodif. Reza Shah Pahlavi lent 1 billion dollars (and another 180 million dollars in 1977) for the construction of the Eurodif factory, to have the right of buying 10% of the production of the site. In 1982, President François Mitterrand, who had been elected the year before, refused to give any uranium to Iran, which also claimed the $1 billion debt. Mitterand referred to Iran as the `dictature of the mullahs' and the relations were extremely negative in the early 80s. During the 1980-1988 Iran-Iraq War, France provided military and economic help to Iraq, rather than Iran. It evacuated all French citizens from Iran in August 1981. In 1982, France sold Iran $268 million worth of goods, down nearly 40 percent from $482 million in 1981. The relations between Iran and France hit a new low in March 1982 as the Iranian foreign ministry issued a statement accusing France of supporting Israel and disregarding the rights of the Palestinian people. This accusation came after a visit by French President Francois Mitterand to Israel. In October 1983, France lends to Iraq, five jet fighters used to destroy Iranian nuclear and oil installations. The response of Iran is to take French hostages in Lebanon and to support terrorist attacks on French soil. Iran has acted to sever all trade, banking and cultural ties with France, apparently in retaliation for the French sale of warplanes to Iraq, Government officials said. In November 1983, the French Foreign Ministry said it had shut down the commercial section of the French Embassy in Teheran at the request of the Iranian Government and was also closing the French Institute for Research in Iran, a century-old archeological organization. French officials said the Iranian Government had told its citizens not to buy French goods and had banned French banks from financing trade with Iran, including exports of Iranian oil. Iran observed a similar boycott against the United States. In March 1985, the speaker of the Iranian Parliament, Hashemi Rafsanjani, bitterly criticized France for selling warplanes and Exocet missiles to Iraq, for granting political asylum to Iranian dissidents and for freezing about $1 billion worth of Iranian assets in French banks. He considered France's foreign policy towards Iran far worse than United States' policy. The first MID of RIV574, MID2560 started on October 18, 1985.
+
+19880616-19950501 0.75
+
+The last MID of RIV574, MID2766 occurred on January 16, 1988; was reported by the French government on 20 January; it was reported in the New York Times on 21 January and was coded in the MID dataset as occurring on 21 January 1988. The diplomatic relations would not be totally resumed until June 16th 1988. France and Iran signed an agreement of cooperation on December 29th, 1991. This was meant to be a `behind the close doors' agreement, because it came in the aftermath of a diplomatic row, with Iran being behind the killing of the last PM of the Shah of Iran, in a Parisian residence. According to the terms of the agreement, France will pay Iran a 17-year-old debt of about $ 1 billion, frozen by France after the Iranian revolution. In return, Iran will open up its market to French business interests, notably France's largely state-owned arms industry. The $ 1-billion debt dates back to 1974, when the late shah's regime made the loan to a French consortium to build a nuclear reactor. The shah was planning to build a nuclear bomb. But when the project was dropped by the new Islamic leaders in 1979, France refused to repay the loan because of the huge losses to the French consortium. More than a decade later, France is seeking to renew diplomatic (and commercial) relations with Iran. An unidentified attacker tossed a grenade into the Air France office in downtown Teheran on November 9th, 1993. Almost simultaneously, two grenades exploded in the French embassy courtyard, 500 yards away. No one was hurt at the mission, where damage also was minimal, according to the French Foreign Ministry. In 1994, France was Iran's fourth largest import market and fifth largest export market. 
+
+19950502-20069999 0.5
+
+On May 2nd 1995, France rejected the U.S. call for leading industrialized nations to join Washington's trade embargo against Iran. ''At the moment, we can't see on what basis we could join the embargo,'' said Foreign Minister Alain Juppe. President Clinton previously announced a total ban on U.S. trade and investment with Iran, which Washington has accused of sponsoring terrorism. The United States appealed to its allies in the Group of Seven industrialized nations and to Russia to join the embargo. Juppe said that France ''shares the U.S. concerns about Iran, that is why we maintain a dialogue with Iran.'' We have taken note of this step by the United States and we will study developments.'' In 1995 it was reported that Paris wanted to approach either Iranian President Hashemi Rafsanjani or Hassan al-Turabi, a powerful, Iranian-favored Muslim leader in Sudan, to ask them to mediate an end to the Algerian crisis, which has claimed tens of thousands of lives. Paris has not publicly sought Iranian mediation in Algeria and it is not clear why it would, given Iran's public expressions of support for Muslim fundamentalists in Algeria. Later that year, ties between Paris and Tehran were boosted by a French court's acquittal earlier that year of an Iranian civil servant charged in connection with the assassination of former Iranian prime minister, Shahpour Bakhtiar. Iran said on July 16th, 1995, that its pact with the French company Total SA for developing the Sirri Island oil fields was the first oil deal with a major Western company since the 1979 Iranian revolution. Iranian ambassador to France, Hamid Reza Asefi, has said in September 1996 that Iran's trade with France reached "around 2bn dollars" for the previous year, and that Iran has become "the second largest provider of France's oil needs". The Iranian deputy foreign minister for Euro-American affairs, Mr Mahmud Va'ezi, made a two-day official visit to France in November 1996. The trip aimed at discussing Tehran-Paris political and economic ties and continuing the negotiations over the trend of establishing relations between Iran and the EU-member states. Iran-France ties, during the previous months and especially since Jacques Chirac's coming to power, have notably strengthened and a large politico-economic cooperation has been reached. One major reason for developing of ties between Tehran and Paris is, undoubtedly, the political independence of the two countries. Both France and the Islamic Republic of Iran, in facing important international and regional issues, have acted quite independently. The common perspectives of Iran and France on the Middle East issues, and Tehran' s insistence on Europe's actively participating in the Middle East peace talks, is indicative of the political cooperation between the two countries. French officials believe the expansion of Paris-Tehran ties to be significant lately. In this regard, the French foreign minister has time and again stated that his country wants Iran to have a tangible presence in international peace and security. On August 20th 1998, French Foreign Minister Hubert Vedrine made a visit to Tehran heading a high-level delegation accompanied by 34 reporters. The French official is to hold talks with Iranian officials over ways and means to promote bilateral ties between Paris and Tehran. The visit of Vedrine takes place at a time when the two countries are witnessing remarkable developments in mutual relations, especially since President Mohammad Khatami's "tension-free" policy was pronounced which is aimed at the promotion of ties with all countries, based on mutual respect and national interests. In April 1999, a French parliamentary friendship delegation arrived in Tehran. The French delegation was welcomed at Tehran's Mehrabad airport by Mahmud Jamali, head of the Irano-France parliamentary friendship group. The six-member delegation that has traveled to Iran at the invitation of the Iranian-Islamic Consultative Assembly Majlis will stay in Tehran for six days and will meet with the Speaker of the Islamic Consultative Assembly as well as a number of MPs, Foreign Ministry officials and university professors and students. The Islamic Republic of Iran and France enjoy acceptable economic and trade cooperation as well as friendly ties, and it seems that the adoption of a relatively independent stance by a number of French oil company such as Total and the broadening of the cooperation with the National Iranian Oil Company in conditions when the US threatened to impose sanctions on them, has created a more favorable atmosphere for the expansion of friendly ties between Iran and France. The Iranian president Mr Khatami's trip to France was also scheduled within this framework, and although the trip has been postponed due to a number of technical problems related to protocol, as was stated by the head of the French parliamentary delegation, Mr Michel Bucheron, there are no tensions between Iran and France and the trip will take place in the future with the two sides' agreement and with efforts by the two countries protocol departments. In October 1999, Iranian Deputy Foreign Minister for Euro-American Affairs Morteza Sarmadi made a visit to Paris and held talks with French officials on bilateral relations. Sarmadi said there is wide-range capacity for economic cooperation between Iran and France and in light of the background of cooperation between the two countries the French companies are expected to take part in Iran's third five-year economic development plan. The Iranian deputy foreign minister said the two countries are determined to explore ways for French investment in the Iranian infrastructural projects and for presence of Iranian businessmen on French market. French firms and other accords are under study to be signed between the two countries. Sarmadi said the French companies are serious in exploration and streamlining the Iranian oil and gas resources. The French government by entering into economic cooperation with the Islamic Republic of Iran has indicated its determination to cooperate with Iran and have active presence in the large market of the region, he said. On October 27th, 1999, Iranian President Mohammad Khatami made an official visit to France at the invitation of President Jacques Chirac-only the second trip to Western Europe by an Iranian leader since the country's 1979 Islamic revolution. Khatami met with President Chirac, Prime Minister Lionel Jospin and Christian Poncelet, the president of the French Senate, during the three-day visit. This historical visit by Iranian President Mohammad Khatami to France is regarded as a climax for the development of the bilateral relations. In December 2000, the Iranian Foreign Ministry spokesman Hamid Reza Asefi expressed regret over a decision by France to lower the level of a routine dialog between Iran and the European Union. "The French decision is not compatible with the development of Iran-France and Iran-EU relations," the spokesman told reporters at a press conference. France, current holder of the EU's six-month rotating presidency, has unilaterally made the decision to name a lower level representative-a foreign ministry deputy secretary-general instead of a deputy foreign minister-for the regular Iran-EU dialog. French Minister of Cooperation Charles Josselin in Tehran on November 24th, 2001, held talks with parliament Speaker Mehdi Karrubi on the latest international and regional developments. Karrubi said that Iran and France have long-standing constructive relations and called for boosting of cooperation in line with the large-scale capacities of the two countries. The French minister said that France is keen to further expand political, economic and cultural cooperation with the Islamic Republic of Iran and also willing to enter into joint venture projects in Iran. He said that France is in concord with Iran on the need to deal with the root-causes of terrorism and sees injustice as the root-cause of terrorism. France also shares Iran's views about many regional and international issues, he said. In October 2003, Iran moved to allay international concerns by concluding an agreement with the foreign ministers of the UK, France and Germany. Under the agreement Iran promised `full transparency' over its nuclear activities and consented to sign up to the additional protocol of the Nuclear Non-Proliferation Treaty (NPT), which entails a far more intrusive inspections regime by the International Atomic Energy Agency (IAEA), and to suspend the enrichment of uranium. In January 2004, with Iran embroiled in an internal political struggle, Hassan Rowhani, the head of its National Security Council, and Foreign Minister Dominique de Villepin of France clashed during a state visit of the former to Paris, over Iran's coming parliamentary elections and human rights. Rowhani even criticized the decision by France to pass a law banning the Islamic veil from public schools. In blunt language unusual in diplomacy, Villepin demanded that Iran's elections next month be free and fair and that people arrested for their political beliefs be released. "We are following with close attention and interest the parliamentary elections coming in Iran," Villepin said at a news conference after the two men met at the Foreign Ministry. He called the elections "an important marker of democracy," and urged the authorities to give Iranians freedom of choice, adding, "We hope that a page will be definitively turned with the coming legislative elections." Villepin also broached the sensitive issue of the ongoing arrests of student demonstrators and other political activists, saying, "I expressed our vigilance on the human rights situation in Iran, especially concerning prisoners of conscience, and I asked for a gesture of clemency." In October 2004, Iran and France signed an agreement for cultural cooperation in major fields of archaeology, research, history of art and exchange of art information. The agreement, signed by Head of Cultural Heritage and Tourism Organization Hoseyn Mar'ashi and Head of Louvre Museum Henry Loyrette, has underlined the need to promote cultural cooperation and hold joint research and scientific conferences by Iran and France. In October 2005, the French foreign affairs spokesman Jean-Baptiste Mattei said in Paris that "the international community is now waiting for constructive proposals by the Iranian authorities within the framework of its obligations in the matter of non-proliferation (of nuclear weapons)." France rejected Iran's request for more talks on the Islamic republic's nuclear program in January 2006, saying that Tehran first must suspend its atomic activities. Iran asked for a ministerial-level meeting with France, Germany, Britain and the European Union, but its decision to resume some uranium enrichment-related activities "means that it is not possible for us to meet under satisfactory conditions to pursue these discussions," French Foreign Ministry spokesman Denis Simonneau said in Paris. "Iran must return to a complete suspension of these activities." A top Iranian nuclear official proposed on October 3rd 2006 that France create a consortium to enrich Iran's uranium, saying that could satisfy international demands for outside oversight of Tehran's nuclear program. Mohammad Saeedi, deputy chief of Iran's Atomic Energy Agency, made the proposal in an interview with French radio in Tehran, suggesting that France's state-controlled nuclear company and one of its subsidiaries be partners in the consortium. He did not specify what form Iran believed its participation should take. A member of the French National Assembly, Xazier de Roux, said in November 2006 that Iran's role in maintaining regional peace and stability was "unique and inevitable." De Roux, who is also head of the Iran-France Parliamentary Friendship Group, made the remarks during a meeting with the chairman of the Majlis National Security and Foreign Policy Commission, Alaeddin Boroujerdi. He described Tehran-Paris ties as "good and deep-rooted" and said he was currently in Iran to explore avenues for consolidation of relations. 
+
+PS-SOURCES: Economist 1/15/1994, New York Times 06/28/1974, 11/11/1983, 06/21/1984, 07/20/1987, 06/16/1988, 08/25/1988, 07/04/1991, 10/26/1991, United Press International 08/07/1981, 01/16/1995, 05/02/1995, Associated Press 03/31/1985, 08/07/1981, 11/10/1983, 07/17/1987, 07/18/1987, 10/25/1991, 11/09/1993, 07/16/1995, 01/18/2006, 10/03/2006, Xinhua General News Service 03/11/1982, 12/04/2000, Financial Times 11/11/1983, BBC World Broadcasts 08/13/1981, 12/02/1987, 09/02/1996, 11/09/1996, 12/17/1996, 08/20/1998, 04/06/1999, 10/18/1999, 12/05/2000, 11/25/2001, 08/19/2002, 10/31/2004, 10/03/2006, The Gazette 01/06/1992, CNN 12/29/1994, The Independent 12/08/1994, NPR 11/17/1994, Deutsch Presse 10/12/2005, 10/28/2005, Agence France Presse 11/08/2006
+
+MARITIME-MIDS: 
+
+MID2766 not considered a maritime MID 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2766
+ DYAD: FRANCE IRAN 220630
+ DATES: 19880120 19880120
+ HOSTILITYA: 2 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2766 occurred on January 16, 1988; was reported by the French government on 20 January; it was reported in the New York Times on 21 January and was coded in the MID dataset as occurring on 21 January 1988. The French Navy on patrol in the Persian Gulf intervened to stop an attempted attack by Iranian gun boats on a Liberian tanker. Iranian gun boats attacked the Liberian tanker rainbow within sight of the French frigate Dupliex. The Iranian gun boats were shooting threatening shots at the Liberian tanker when the Dupliex moved within firing range and called on the gun boats to cease fire. The Iranians complied and moved away. The Rainbow sustained a rocket attack and was set afire. The diplomatic relations would not be totally resumed until June 16th 1988.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

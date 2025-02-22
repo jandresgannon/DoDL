@@ -1,0 +1,799 @@
+FILE: cm002630v11.0.txt
+DYAD: USA-IRAN
+RIVALRY: RIV85
+DISPUTE(S): MID3020 MID3071 MID3541 MID3625 MID2578 MID2740 MID2834 MID3903 MID3973 MID4216
+
+RIVNOTES: 
+
+PS: 19170417-19791103 .5 19791104-20209999 0.00
+
+PS-UPDATE2020:
+
+PS-NOTES: we consider the USA a world major power starting 19170417, regional major power before.
+
+PS-LAST-CHANGED: 20220209
+PS-LAST-CHECKED: 20220209 
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3020 
+
+TERRMID: MID3020 3 -- not territory 
+TERRMID-CER: MID3020 1 -- certain 
+TERRMID-NOTES: MID3020 from cm narrative, this is the Iran Hostage Crisis which lasted from November 1979 to January 1981. After the Iranian Revolution, Iran seized 66 Americans at the US embassy in Tehran. The US attempted to rescue the hostages in 1980, but the mission failed. Coded not territorial because the countries had no disputed territory. 
+
+TERRLINK: MID3020 3 -- not third party link to territory 
+TERRLINK-CER: MID3020 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3020 3 -- not maritime 
+MARITMID-CER: MID3020 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3020 3 -- not islands 
+ISLMID-CER: MID3020 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3020 3 -- not civil war 
+CIVWARMID-CER: MID3020 1 -- certain 
+CIVWARMID-NOTES: MID3020 This MID follows closely in the aftermath of the Iranian Revolution. Widespread domestic protests forced the Shah to flee the country. Khomeini is consolidating power as the Hostage Crisis begins. This is coded not civil war because the Iranian Revolution did not actually involve militaried rebel groups fighting against the government; the protests were made up of non-militarized social groups.
+
+CIVWARLINK: MID3020 3 -- not civil war link 
+CIVWARLINK-CER: MID3020 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3020 3 -- not coup 
+COUPMID-CER: MID3020 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3020 3 -- not coup link
+COUPLINK-CER: MID3020 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3071 
+
+TERRMID: MID3071 3 -- not territory 
+TERRMID-CER: MID3071 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3071 3 -- not third party link to territory 
+TERRLINK-CER: MID3071 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3071 3 -- not maritime 
+MARITMID-CER: MID3071 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3071 3 -- not islands 
+ISLMID-CER: MID3071 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3071 3 -- not civil war 
+CIVWARMID-CER: MID3071 1 -- certain 
+CIVWARMID-NOTES: MID3071 Iran is brought into this MID due to its funding of Hezbollah, a rebel group that attacked the US within Lebanon in this MID. The civil conflict is not within this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID3071 1 -- civil war link 
+CIVWARLINK-CER: MID3071 1 -- certain 
+CIVWARLINK-NOTES: MID3071 from cm narrative, Hezbollah militants, who received financial support from Iran, sent a suicide bomber into a US embassy in Lebanon, killing 63 people and 17 Americans. Coded civil war link because this was connected to rebel-associated violence in Lebanon, outside this dyad. 
+
+COUPMID: MID3071 3 -- not coup 
+COUPMID-CER: MID3071 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3071 3 -- not coup link
+COUPLINK-CER: MID3071 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3541 
+
+TERRMID: MID3541 3 -- not territory 
+TERRMID-CER: MID3541 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3541 3 -- not third party link to territory 
+TERRLINK-CER: MID3541 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3541 3 -- not maritime 
+MARITMID-CER: MID3541 1 -- certain 
+MARITMID-NOTES: MID3541 from cm narrative, the US increased its naval presence in the Persian/Arabian Gulf after Iran threatened to target Iraqi oil interests and to shut down the Strait of Hormuz, a vital strait for oil exports. There were several instances of hostile action between the navies of both countries. Coded not maritime because the countries were not disputing a maritime boundary, and this was triggered by threats to the world's oil supply. 
+
+ISLMID: MID3541 3 -- not islands 
+ISLMID-CER: MID3541 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3541 3 -- not civil war 
+CIVWARMID-CER: MID3541 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3541 3 -- not civil war link 
+CIVWARLINK-CER: MID3541 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3541 3 -- not coup 
+COUPMID-CER: MID3541 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3541 3 -- not coup link
+COUPLINK-CER: MID3541 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3625 
+
+TERRMID: MID3625 3 -- not territory 
+TERRMID-CER: MID3625 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3625 1 -- third party link to territorial MID
+TERRLINK-CER: MID3625 1 -- certain 
+TERRLINK-NOTES: MID3625 from cm narrative, Iran threatened to expand the Iran-Iraq war into Kuwait and Saudi Arabia. The US & UK and Iran exchanged threats over this proposition by Iran, triggering this MID. Coded third party link to territorial MID because Iran and Iraq were at war in a territorial MID, and this MID is essentially a deterrence effort to keep Iran from intentionally spilling conflict over into other states. 
+
+MARITMID: MID3625 3 -- not maritime 
+MARITMID-CER: MID3625 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3625 3 -- not islands 
+ISLMID-CER: MID3625 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3625 3 -- not civil war 
+CIVWARMID-CER: MID3625 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3625 3 -- not civil war link 
+CIVWARLINK-CER: MID3625 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3625 3 -- not coup 
+COUPMID-CER: MID3625 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3625 3 -- not coup link
+COUPLINK-CER: MID3625 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2578 
+
+TERRMID: MID2578 3 -- not territory 
+TERRMID-CER: MID2578 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2578 1 -- third party link to territorial MID 
+TERRLINK-CER: MID2578 1 -- certain 
+TERRLINK-NOTES: MID2578 from cm narrative, Iran stopped a US merchant ship carrying arms to Iraq on January 12, 1986. The US responded by deploying warships to the region where the ship was stopped. Coded third party link to territory because this was connected to the Iran-Iraq War, which was a territorial MID between those countries, as the US was attempting to get arms to Iraq. 
+
+MARITMID: MID2578 3 -- not maritime 
+MARITMID-CER: MID2578 1 -- certain 
+MARITMID-NOTES: MID2578 Even though the MID occurs in maritime space, it is coded not maritime because the countries were not disputing a maritime boundary/issues. 
+
+ISLMID: MID2578 3 -- not islands 
+ISLMID-CER: MID2578 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2578 3 -- not civil war 
+CIVWARMID-CER: MID2578 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2578 3 -- not civil war link 
+CIVWARLINK-CER: MID2578 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2578 3 -- not coup 
+COUPMID-CER: MID2578 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2578 3 -- not coup link
+COUPLINK-CER: MID2578 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2740 
+
+TERRMID: MID2740 3 -- not territory 
+TERRMID-CER: MID2740 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2740 1 -- third party link to territorial MID
+TERRLINK-CER: MID2740 1 -- certain 
+TERRLINK-NOTES: MID2740 from cm narrative, this MID occurred from January to July 1987. The US began escorting Kuwaiti oil ships to protect them from Iranian forces. The US also engaged in limited military action against Iranian targets in the Persian Gulf-including vessels and oil platforms-in reprisal for Iranian attacks on U.S.-flagged vessels transporting oil from Kuwait. Coded third party link to territory because Iran was in a territorial MID/war against (US-friendly) Iraq at the time, and this was connected to the events of the Iran-Iraq War. 
+
+MARITMID: MID2740 3 -- not maritime 
+MARITMID-CER: MID2740 1 -- certain 
+MARITMID-NOTES: MID2740 coded not maritime because the US and Iran did not have a maritime boundary dispute. 
+
+ISLMID: MID2740 3 -- not islands 
+ISLMID-CER: MID2740 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2740 3 -- not civil war 
+CIVWARMID-CER: MID2740 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2740 3 -- not civil war link 
+CIVWARLINK-CER: MID2740 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2740 3 -- not coup 
+COUPMID-CER: MID2740 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2740 3 -- not coup link
+COUPLINK-CER: MID2740 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2834 
+
+TERRMID: MID2834 3 -- not territory 
+TERRMID-CER: MID2834 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2834 1 -- third party link to territorial MID
+TERRLINK-CER: MID2834 1 -- certain 
+TERRLINK-NOTES: MID2834 from Gibler 2018, in 1987 Iran attacked six Danish ships during the Iran-Iraq War. Iran and Iraq routinely attacked ships trading with the enemy during the territorial war. Coded third party linke to territorial MID because this was connected to a territorial dispute between Iran and Iraq. The US is involved here because they accidentally attacked an Iranian airliner during this MID, which Iran took as evidence that they planned to intervene in the Iran-Iraq War. 
+
+MARITMID: MID2834 3 -- not maritime 
+MARITMID-CER: MID2834 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2834 3 -- not islands 
+ISLMID-CER: MID2834 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2834 3 -- not civil war 
+CIVWARMID-CER: MID2834 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2834 3 -- not civil war link 
+CIVWARLINK-CER: MID2834 2 -- somewhat certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2834 3 -- not coup 
+COUPMID-CER: MID2834 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2834 3 -- not coup link
+COUPLINK-CER: MID2834 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3903 
+
+TERRMID: MID3903 3 -- not territory 
+TERRMID-CER: MID3903 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3903 3 -- not third party link to territory 
+TERRLINK-CER: MID3903 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3903 3 -- not maritime 
+MARITMID-CER: MID3903 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3903 3 -- not islands 
+ISLMID-CER: MID3903 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3903 3 -- not civil war 
+CIVWARMID-CER: MID3903 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID3903 1 -- civil war link 
+CIVWARLINK-CER: MID3903 3 -- uncertain 
+CIVWARLINK-NOTES: MID3903 occurred on August 2, 1989. From cm narrative and Gibler, Miller, and Little 2016, A US Marine was held hostage by a group the US believed the Iranians sponsored. In response to the death, the United States warned the Iranians that the US would avenge this act. The US hostage was being held in Lebanon. Coded civil war link because this was connected to militarized rebels in Lebanon (who were sponsored by Iran) holding an American hostage. Coded uncertain because GML 2016 recommend this MID be dropped, as the US statement to Iran does not constitute a MID. 
+
+COUPMID: MID3903 3 -- not coup 
+COUPMID-CER: MID3903 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3903 3 -- not coup link
+COUPLINK-CER: MID3903 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3973 
+
+TERRMID: MID3973 3 -- not territory 
+TERRMID-CER: MID3973 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3973 3 -- not third party link to territory 
+TERRLINK-CER: MID3973 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3973 3 -- not maritime 
+MARITMID-CER: MID3973 1 -- certain 
+MARITMID-NOTES: MID3973 from cm narrative, MID3973 occurred on May 21, 1991. A patrol boat attacked the USS LaSalle in the Persian Gulf. The next day, a US Navy vessel attacked an Iranian patrol boat in the same region. The US Navy was in the Gulf to enforce an embargo against Iraq while Iran was conducting naval exercises in the region. Coded not maritime because the US and Iran did not have a maritime boundary dispute and this was connected to the enforcement of sanctions. 
+
+ISLMID: MID3973 3 -- not islands 
+ISLMID-CER: MID3973 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3973 3 -- not civil war 
+CIVWARMID-CER: MID3973 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3973 3 -- not civil war link 
+CIVWARLINK-CER: MID3973 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3973 3 -- not coup 
+COUPMID-CER: MID3973 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3973 3 -- not coup link
+COUPLINK-CER: MID3973 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4216 
+
+TERRMID: MID4216 3 -- not territory 
+TERRMID-CER: MID4216 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4216 3 -- not third party link to territory 
+TERRLINK-CER: MID4216 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4216 3 -- not maritime 
+MARITMID-CER: MID4216 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4216 3 -- not islands 
+ISLMID-CER: MID4216 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4216 3 -- not civil war 
+CIVWARMID-CER: MID4216 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4216 1 -- civil war link 
+CIVWARLINK-CER: MID4216 1 -- certain 
+CIVWARLINK-NOTES: MID4216 from cm narrative and Gibler 2018, Iranian jets attacked two Iraqi bases of an Iranian opposition group. The US responded by deploying a naval vessel to prevent any reprisal attacks by Iraq. Coded civil war link because this was connected to militarized rebels in Iraq, outside this dyad, and the US show of force is directed at Iran to prevent rebel-associated violence from occurring in Iraq. 
+
+COUPMID: MID4216 3 -- not coup 
+COUPMID-CER: MID4216 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4216 3 -- not coup link
+COUPLINK-CER: MID4216 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4512 
+
+TERRMID: MID4512 3 -- not territory 
+TERRMID-CER: MID4512 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4512 3 -- not third party link to territory 
+TERRLINK-CER: MID4512 1 -- certain 
+TERRLINK-NOTES: MID4512 from cm narrative, this MID occurred 7/4/2003 and was during the USA-Iraq War. It is a multilateral MID involving US & UK against Iran. US missiles landed in Iranian territory, and US planes violated Iranian airspace. On June 1, Iranian authorities detained 2 US boats overnight. The UK is pulled into this MID due to its military assistance to US. Coded not third party link to territory because although this dispute is linked to the US-Iraq War, that was is not a territorial dispute, but a regime change dispute. 
+
+MARITMID: MID4512 3 -- not maritime 
+MARITMID-CER: MID4512 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4512 3 -- not islands 
+ISLMID-CER: MID4512 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4512 3 -- not civil war 
+CIVWARMID-CER: MID4512 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4512 1 -- civil war link 
+CIVWARLINK-CER: MID4512 1 -- certain 
+CIVWARLINK-NOTES: MID4512 The Iraq War of 2003 involves civil conflict within Iraq. Fighting in the Iraqi theater prompted this MID.
+
+COUPMID: MID4512 3 -- not coup 
+COUPMID-CER: MID4512 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4512 3 -- not coup link
+COUPLINK-CER: MID4512 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4519 
+
+TERRMID: MID4519 3 -- not territory 
+TERRMID-CER: MID4519 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4519 3 -- not third party link to territory 
+TERRLINK-CER: MID4519 1 -- certain 
+TERRLINK-NOTES: MID4519 from cm narrative, US troops near Tikrit were fired on by Iranian border guards, and the US returned fire, killing one of the Iranian troops. Occurred 3/14/2004. Coded not third party link to territory because the Iraq-US War was a regime change dispute, not a territorial dispute.
+
+MARITMID: MID4519 3 -- not maritime 
+MARITMID-CER: MID4519 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4519 3 -- not islands 
+ISLMID-CER: MID4519 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4519 3 -- not civil war 
+CIVWARMID-CER: MID4519 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4519 1 -- civil war link 
+CIVWARLINK-CER: MID4519 1 -- certain 
+CIVWARLINK-NOTES: MID4519 The Iraq War of 2003 involves civil conflict within Iraq. Fighting in the Iraqi theater prompted this MID.
+
+COUPMID: MID4519 3 -- not coup 
+COUPMID-CER: MID4519 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4519 3 -- not coup link
+COUPLINK-CER: MID4519 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4524 
+
+TERRMID: MID4524 3 -- not territory 
+TERRMID-CER: MID4524 1 -- certain 
+TERRMID-NOTES: MID4524 from cm narrative, the series of events that comprise this MID are connected to tensions over Iran's nuclear program. In August 2004, US planes violated Iranian airspace, apparently to test Iran's anti-aircraft defense system. This happened again in November. Iran threatened retaliation if the US continued to violate its airspace. Coded not territorial because the countries did not dispute a boundary and this was connected to Iran's nuclear weapons program, which the US opposed. 
+
+TERRLINK: MID4524 3 -- not third party link to territory 
+TERRLINK-CER: MID4524 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4524 3 -- not maritime 
+MARITMID-CER: MID4524 1 -- certain 
+MARITMID-NOTES: MID4524 in November 2004, US warships violated Iranian territorial waters. Coded not maritime because the countries did not dispute the maritime boundary, and this was connected to a dispute over Iran's nuclear program. 
+
+ISLMID: MID4524 3 -- not islands 
+ISLMID-CER: MID4524 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4524 3 -- not civil war 
+CIVWARMID-CER: MID4524 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4524 3 -- not civil war link 
+CIVWARLINK-CER: MID4524 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4524 3 -- not coup 
+COUPMID-CER: MID4524 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4524 3 -- not coup link
+COUPLINK-CER: MID4524 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4535 
+
+TERRMID: MID4535 3 -- not territory 
+TERRMID-CER: MID4535 1 -- certain 
+TERRMID-NOTES: MID4535 from cm narrative, this is another MID connected to Iran's nuclear weapons program. In January 2007, US troops invaded the Iranian embassy in Iraq and held Iranian officials. In April 2007, US planes violated Iranian airspace. Coded not territorial because the countries did not dispute a boundary and this occurred due to tensions over Iran's nuclear program. 
+
+TERRLINK: MID4535 3 -- not third party link to territory 
+TERRLINK-CER: MID4535 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4535 3 -- not maritime 
+MARITMID-CER: MID4535 1 -- certain 
+MARITMID-NOTES: MID4535 from cm narrative, in March 2007, US conducted naval exercises in the Persian Gulf as a show of force. Coded not maritime because the countries did not dispute the maritime boundary, and this was connected to tensions over Iran's nuclear program. 
+
+ISLMID: MID4535 3 -- not islands 
+ISLMID-CER: MID4535 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4535 3 -- not civil war 
+CIVWARMID-CER: MID4535 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4535 3 -- not civil war link 
+CIVWARLINK-CER: MID4535 1 -- certain 
+CIVWARLINK-NOTES: MID4535 Although this occurs in Iraq during US military activity there (and an active Iraqi civil conflict), this MID appears disconnected from the civil conflict itself. Thus, there is no clear civil conflict link.
+
+COUPMID: MID4535 3 -- not coup 
+COUPMID-CER: MID4535 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4535 3 -- not coup link
+COUPLINK-CER: MID4535 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4538 
+
+TERRMID: MID4538 3 -- not territory 
+TERRMID-CER: MID4538 1 -- certain 
+TERRMID-NOTES: MID4538 from cm narrative, the US detained and questioned 8 Iranian men in Baghdad and confiscated their weapons. Iran protested this as a hostile act, triggering this MID. Occurred August 2007. Coded not territorial because the countries did not contest any border, and this was connected to the general poor relations between the US and Iran, especially over Iran's efforts to build a nuclear power plant. The Iranian men had been invited to Baghdad to discuss the building of a power plant. 
+
+TERRLINK: MID4538 3 -- not third party link to territory 
+TERRLINK-CER: MID4538 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4538 3 -- not maritime 
+MARITMID-CER: MID4538 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4538 3 -- not islands 
+ISLMID-CER: MID4538 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4538 3 -- not civil war 
+CIVWARMID-CER: MID4538 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4538 3 -- not civil war link 
+CIVWARLINK-CER: MID4538 1 -- certain 
+CIVWARLINK-NOTES: MID4538 Although this occurs in Iraq during US military activity there (and an active Iraqi civil conflict), this MID appears disconnected from the civil conflict itself. Thus, there is no clear civil conflict link.
+
+COUPMID: MID4538 3 -- not coup 
+COUPMID-CER: MID4538 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4538 3 -- not coup link
+COUPLINK-CER: MID4538 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4541 
+
+TERRMID: MID4541 3 -- not territory 
+TERRMID-CER: MID4541 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4541 3 -- not third party link to territory 
+TERRLINK-CER: MID4541 1 -- certain 
+TERRLINK-NOTES: MID4541 from cm narrative, on 11/5/2008, Iran threatened the US to keep US forces away from the border with Iraq and not to violate their airspace, triggering this MID. Coded not third party link to territory because the US-Iraq War was not a territorial MID, but a regime change issue. 
+
+MARITMID: MID4541 3 -- not maritime 
+MARITMID-CER: MID4541 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4541 3 -- not islands 
+ISLMID-CER: MID4541 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4541 3 -- not civil war 
+CIVWARMID-CER: MID4541 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4541 1 -- civil war link 
+CIVWARLINK-CER: MID4541 1 -- certain 
+CIVWARLINK-NOTES: MID4541 The Iraq War of 2003 involves civil conflict within Iraq. Fighting in the Iraqi theater affects this MID.
+
+COUPMID: MID4541 3 -- not coup 
+COUPMID-CER: MID4541 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4541 3 -- not coup link
+COUPLINK-CER: MID4541 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4543 
+
+TERRMID: MID4543 3 -- not territory 
+TERRMID-CER: MID4543 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4543 3 -- not third party link to territory 
+TERRLINK-CER: MID4543 1 -- certain 
+TERRLINK-NOTES: MID4543 from cm narrative, US forces in Iraq shot down an Iranian drone that violated Iraqi airspace for over an hour. Dispute was on 2/25/2009. Coded not third party link to territory because the US-Iraq War was not a territorial dispute, but a regime change issue. 
+
+MARITMID: MID4543 3 -- not maritime 
+MARITMID-CER: MID4543 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4543 3 -- not islands 
+ISLMID-CER: MID4543 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4543 3 -- not civil war 
+CIVWARMID-CER: MID4543 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4543 1 -- civil war link 
+CIVWARLINK-CER: MID4543 1 -- certain 
+CIVWARLINK-NOTES: MID4543 The Iraq War of 2003 involves civil conflict within Iraq. Fighting in the Iraqi theater prompted this MID.
+
+COUPMID: MID4543 3 -- not coup 
+COUPMID-CER: MID4543 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4543 3 -- not coup link
+COUPLINK-CER: MID4543 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4512
+rivalry=2630 nationa=USA nationb=IRAN MID4512 20030322-20030704 
+revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+During the USA-IRQ war of 2003 (MID 50202), there was a concurrent MID between USA, UKG, and IRN. The MID began on 3/22/2003 when two USA missiles landed in Iranian territory and US planes violated Iranian airspace while conducting combat operations. This was met with the Iranian response that it would use military force to repel any further incursions or transgressions against the state. Later, on June 1, Iranian authorities detained four US soldiers and 2 boats overnight. About a month later, US forces detained two Iranian reporters due to suspicious activity, which was protested by Iran. It is unclear when or if the reporters were released. Last day of dispute was on 7/4/2003.
+
+MID4519
+rivalry=2630 nationa=IRAN nationb=USA MID4519 20040314-20040314 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+While questioning potential smugglers near the Iraqi town of Tikrit, US forces were fired upon by Iranian border troops from Iranian territory. US forces returned fire, killing one of the Iranian troops. First day of dispute was on 3/14/2004 and the last day of dispute was on 3/14/2004. 
+
+MID4524
+rivalry=2630 nationa=USA nationb=IRAN MID4524 20040819-20050101 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The underlying issue of this MID is the increasing hostilities between the US and Iran over the Iranian nuclear program. In August 2004, US warplanes violated Iranian airspace, apparently to test the sensitivity of Iran’s anti- aircraft defense system. In November, both a US cruiser and US warplanes simultaneously violated Iranian territorial waters and airspace briefly. In January 2005, US warplanes violated Iranian airspace near Afghanistan, apparently spying on potential Iranian nuclear sites. This prompted the Iranian military to threaten force to repel all future incursions into Iranian territory. First day of dispute was on 8/19/2004 and last day of dispute was on 1/1/2005.
+
+MID4535
+rivalry=2630 nationa=USA nationb=IRAN MID4535 20070111-20070611 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This MID is largely comprised of a continuation of the underlying issue between the US and Iran over Iran’s proposed nuclear program. On January 11,2007 US forces raided the Iranian consulate in Iraq, seizing five of its staff and confiscating documents, which marks first day of dispute. It is unknown when or if the Iranian officials were released. Later, in March 2007, the US conducted combined troop, naval, and aerial operations in the Persian Gulf as a show of force against Iranian military operations in the area. A few days later, on April 1, two US planes flew over southwestern Iran at low altitudes. Last day of dispute was on 6/11/2007.
+
+MID4538
+rivalry=2630 nationa=USA nationb=IRAN MID4538 20070828-20070829 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+US forces in Iraq detained 8 Iranian men in Baghdad due to their possession of unauthorized weapons. The men were invited to Baghdad to discuss the building of a power plant. The weapons were confiscated by US forces and the men were released the next day following questioning. Iran protested the seizure as an act of US aggression toward Iran. First day of dispute was on 8/28/2007 and last day of dispute was on 8/29/2007.
+
+MID4541
+rivalry=2630 nationa=IRAN nationb=USA MID4541 20081105-20081105 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Iran threatened US forces in Iraq to stay away from the IRN-IRQ border and that it would shoot down any aircraft found violating Iranian airspace (see MID 50701 for reference). First day of dispute was on 11/05/2008 and last day of dispute was on 11/05/2008.
+
+MID4543
+rivalry=2630 nationa=IRAN nationb=USA MID4543 20090225-20090225 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+US forces in Iraq shot down an Iranian drone that violated Iraqi airspace for over an hour. First day of dispute was on 2/25/2009 and the last day of dispute was on 2/25/2009.
+
+MID3 1993-2001:
+
+MID4216
+rivalry=2630 nationa=USA nationb=IRAN MID4216 19971003 -19971003 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+With the hope of preventing an air war between Iraq and Iran, the United States ordered its aircraft carrier, Nimitz, to the Persian Gulf ahead of schedule. American officials described the order as a warning to Iran against launching another round of air attacks on Iraq in violation of the flight exclusion zones in northern and southern Iraq. Iranian aircraft violated the no-fly zone in southern Iraq when they attacked the bases of Iranian rebels who operated from Iraq. The action was also intended to deter Iraq from engaging an air war with Iran. Iran discontinued its attacks on targets in southern Iraq, although it did not indicate that it was acting in response to the United States' show of force. First and last day of dispute was on 10/03/1997.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Shah Reza Mohammad Pahlavi, who departed Iran for Egypt on January 16, 1979, entered the United States for medical treatment on October 22, 1979. The US embassy in Tehran was attacked and occupied by demonstrators on November 4, 1979, and 65 diplomats were taken hostage. The US suspended the shipment of military equipment to Iran on November 8, 1979, and ended oil imports from Iran on November 12, 1979. President Jimmy Carter of the US froze some $6 billion in Iranian assets in US banks on November 14, 1979. Thirteen American hostages were released on November 18, 1979. Venezuela offered to mediate the dispute on November 25, 1979, but the offer was not accepted by the parties. The US submitted the dispute to the *International Court of Justice* (ICJ) on November 29, 1979. The *United Nations *(UN) Security Council called for the release of American hostages held in Iran and the peaceful resolution of the dispute on December 4, 1979. Britain imposed economic sanctions (assets frozen) against Iran on December 4, 1979. West Germany imposed military sanctions (suspension of weapons and military equipment sales) against Iran on December 7, 1979. The Shah, who had been seeking medical treatment in New York, left for Panama on December 15, 1979. The UN Security Council condemned Iran on December 31, 1979 for the continued detention of US diplomats in Tehran. The Soviet Union vetoed a UN Security Council resolution on January 13, 1980, which would have imposed economic sanctions against Iran. UN Secretary-General Kurt Waldheim established a commission of inquiry (Algeria, France, Sri Lanka, Syria, Venezuela) headed by Aguilar Mawdsley of Venezuela and Mohammed Bedjaoui of Algeria on February 20, 1980. The UN commission of inquiry was suspended on March 11, 1980. The Shah arrived in Cairo, Egypt on March 24, 1980. The US severed diplomatic relations with Iran on April 7, 1980, and expanded economic sanctions (ban on exports of food and medicine) against Iran. The *European Community *(EC) foreign ministers and the *Council of Europe* (COE) condemned Iran for the detention of US diplomats in Tehran on April 10, 1980. Norway imposed economic sanctions (trade embargo) against Iran on April 24, 1980. US troops launched an unsuccessful military rescue operation in Iran on April 24-25, 1980, resulting in the deaths of eight US soldiers. The Soviet Union condemned the US for the attempted rescue mission on April 25, 1980. UN Secretary-General Kurt Waldheim appointed Adib Daoudy of Syria as his personal representative for the dispute on May 17, 1980. The EC foreign ministers imposed economic sanctions against Iran on May 18, 1980. Australia imposed economic sanctions (trade embargo) against Iran on May 20, 1980. Canada and Japan imposed economic sanctions (trade embargo) against Iran on May 22, 1980. The ICJ ruled on May 24, 1980 that Iran should immediately release the US hostages in Tehran and should pay reparations to the US for damages. Norway imposed economic sanctions (trade embargo) against Iran on June 20, 1980. The Shah died in Cairo on July 27, 1980. Iran requested that Algeria mediated negotiations with the US, and Algeria began mediation of negotiations on November 3, 1980. The US and Iran agreed to a resolution of the hostage crisis on January 19, 1981. The Iranian government released the US hostages on January 20, 1981 in exchange for a US commitment to release Iranian assets frozen in US banks. The countries agreed to establish the nine-member *Iran-United States Claims Tribunal* (Iran, US, France, Sweden) chaired by Gunnar Lagergren of Sweden on January 19, 1981. The US lifted economic sanctions against Iran on January 20, 1981. The EC lifted economic sanctions against Iran on January 20, 1981. Australia and Japan lifted economic sanctions against Iran on January 21, 1981. The US transferred Iranian funds to an escrow account in the Hague, Netherlands on August 18, 1981. The United States navy attacked and destroyed three Iranian offshore oil production complexes on October 19, 1987 and April 18, 1988. US warship *Vincennes* shot down an Iranian civilian plane over the Persian Gulf on July 3, 1988, resulting in the deaths of 286 individuals. Iran accused the US of aggression, and submitted the matter to the ICJ on May 17, 1989. On July 17, 1989, the US offered the pay between $100,000 and $250,000 for each of the 290 individuals killed in the *Vincennes* incident. The *Iran-United States Claims Tribunal* concluded negotiations on November 3, 1989, when the US agreed to release some $567 million in Iranian assets frozen in US banks. The US agreed on December 2, 1991 to pay Iran $260 million in compensation for military equipment withheld from Iran following the takeover of the US embassy in Tehran in November 1979. On February 22, 1996, the ICJ discontinued the case after the countries agreed to bilaterally resolve remaining disputes.
+
+SOURCES-CM: 
+Clodfelter, 1992, 1066-1068; *Foreign Broadcast Information Service *(FBIS), November 27, 1979; Jessup, 1998, 319-325; *Keesing*, April 25, 1980, October 24, 1980, September 18, 1981, July 1989, November 1989, December 1991; Stuyt, 1990, 457; Tillema, 1991, 153-154; Weisburd, 1997, 285-286.
+
+NARRATIVE-CR:
+The rivalry between the US and Iran is composed of eight mids five of which are bilateral. The rivalry begins just after the Iranian revolution in 1979 with the taking of the US embassy in Tehran and the hostage crisis. The tension and related militarized hostility between the two countries lasted until 1989. Since 1989, relations have warmed marginally. There have not been any militarized incidents between the two countries and the US has been hopeful of improved relations with the presence of Khatami and his reform policies. However, movement towards normalization has moved in fits and starts and has not materialized fully as yet. Below, I list the details of the militarized events between the two countries followed by a discussion of the highlights of events between the two countries in the years following the militarized disputes. 
+
+MID3020 is the Iran hostage crisis. This mid began in November of 1979 and lasted until January of 1981. In 1979, Iran seized 66 Americans at the American Embassy in Tehran and held 52 of them for 444 days, while the Iranian government won several concessions from the United States, in the process severely harming the prestige of the United States and the political career of President Jimmy Carter. The hostages were released on the day President Ronald Reagan took office on January 20, 1981. During the crisis, the US attempted to secure the release of the hostages in 1980. This was called Operation Desert One and failed as American aircraft collided with one another and crashed in the desert outside Tehran. 
+
+MID3071 is a bilateral mid that occurred from February through July of 1983. In April, a suicide bomber in a pickup truck loaded with explosives rammed into the U.S. Embassy in Beirut, Lebanon. Seventeen Americans are among the 63 people who are killed, eight of whom are employees of the CIA, including chief Middle East analyst Robert C. Ames and station chief Kenneth Haas. The Reagan administration blamed Hezbollah, which it suspects receives financial and logistical support from both Iran and Syria. In July, several men hijacked an Iran Air domestic flight and demanded passage to Paris. The Iranian government accused the US of orchestrating the hijacking and vowed to avenge the incident. 
+
+MID3541 is a bilateral mid that occurred from February through April of 1984. In this dispute, the US increased its naval presence in the Persian/Arabian Gulf in response to Iranian threats to target Iraqi oil interests and a threat to block access to shipping north of the Straits of Hormuz. This threat was a significant hazard to the world's oil supply. During this mid there were several instances of hostile action between the navies of both countries. 
+
+MID3625 occurred from November of 1985 through March of 1986. In this dispute, Iran threatened to widen the Iran-Iraq War to include other Gulf States namely Kuwait and Saudi Arabia. There were some provocative displays of force by Iran towards Kuwait that were reciprocated. The United States and the United Kingdom threatened the Iranians with retaliation on behalf of Kuwait and Saudi Arabia if Iran brought the conflict to those countries. 
+
+MID2578 is a bilateral mid that took place in mid January of 1986. On January 12 the Iranian navy stopped a US merchant ship in the Persian Gulf in an effort to seize arms headed for Iraq. The US acknowledged that the stopping of the vessel was permitted under international law but the US responded by sending two warships to the region where the ship was stopped. 
+
+MID2740 is a bilateral mid that took place from January until July of 1987. 
+Beginning in mid-July 1987 and continuing until the end of the Iran-Iraq War the following year, the United States began escorting Kuwaiti ships through the Persian Gulf to protect them against attack from Iranian forces. The United States also engaged in limited military action against Iranian targets in the Persian Gulf-including vessels and oil platforms-in reprisal for Iranian attacks on U.S.-flagged vessels transporting oil from Kuwait. 
+
+MID2834 is a multilateral mid that includes the US and Denmark v. Iran. The US involvement in the incident took place on July 2nd, 1988. In this incident the American Navy cruiser USS Vincennes mistakenly shot down an Iranian passenger plane in the Gulf, killing all 290 people aboard. Reagan announced that the U.S. deeply regreted the mistake, but Iran saw it as evidence that the U.S. planned to get involved in the war against Iraq.
+
+MID3903 occurred on August 2, 1989. Here a US Marine who was being held hostage by a group the US believed the Iranians sponsored. In response to the death the United States warned the Iranians that the US would avenge this act. 
+
+MID3973 occurred on May 21, 1991. Here a patrol boat attacked the USS LaSalle in the Persian Gulf. The next day, a US Navy vessel attacked an Iranian patrol boat in the same region. The US Navy was in the Gulf to enforce an embargo against Iraq while Iran was conducting naval exercises in the region. 
+
+MID4216 occurred on October 3, 1997. Iranian jets attacked two Iraqi bases of an Iranian opposition group. The US sent the USS Nimitz to the region to quell any potential reprisal attacks by Iraq. Iran claimed the US rushed the carrier to the region to foment a crisis that the US could then use to generate arms sales to Gulf and Arab states. 
+
+In 1989, Ayatollah Khomeini died and was replaced as the nation's spiritual leader by Ayatollah Ali Khamenei. The speaker of Iran's Parliament, Ali Akbar Hashemi Rafsanjani, was elected president. 
+
+In 1993, the Clinton administration started a campaign to isolate Iran, accusing it of supporting terrorism, seeking nuclear arms and trying to derail Middle East peace. 
+
+In 1996, President Clinton signed a law that imposed sanctions on foreign companies investing heavily in Iran or Libya. 
+
+In 1997, Mohammad Khatami, a moderate cleric, won Iran's presidential election. The Clinton Administration was hopeful about the election, but insisted that ties are not possible until Iran renounced terrorism, opposition to the Middle East peace effort and weapons of mass destruction. Clinton asked Khatami for help in solving the 1996 bombing of a Saudi building in which 19 American servicemen died and hundreds were wounded. The Clinton administration renewed an offer for talks "on the basis of equality and mutual respect." Iran rejects the offer two days later. The United States agreed to let Boeing provide Iran's national airline with parts to ensure the safety of its 747's. 
+
+In 1998, Khatami proposed cultural exchanges as a way to end mistrust, but ruled out a government-to-government dialogue. Secretary of State Madeleine K. Albright invited Iranians to join with the United States in drawing up "a road map leading to normal relations." Iran responded that such a step must be followed up by acts. 
+
+In 1999, the Clinton administration announced it would let American companies sell food and medical items to Iran, Libya and Sudan. All three of these countries had been identified as countries that supported terrorism.
+
+In 2000, Albright announced the lifting of a ban on American imports of Iranian luxury goods. She acknowledged America's role in the 1953 coup, coming closer to apologizing for it than any American official ever had. In 1953, American and British intelligence services overthrow Mossadegh. The coup consolidated power under the shah, ensuring cooperation on oil and discouraging Communist expansion. 
+
+In 2001, Saudi Arabia and Iran signed a security agreement. This signaled a thaw in relations between Iran and other Arab countries that suspected it of fomenting Shiite dissent.
+
+In 2001, Khatami was reelected On June 8, Khatami won the presidential election by a landslide, securing nearly 80 percent of the popular vote. His dominating victory added to the credibility of the reform movement and raised expectations. 
+A showdown between Supreme Leader Khamenei and Parliament delays Khatami's inauguration. In August, three days later than originally scheduled, Khatami was finally inaugurated. The New York Times described his inaugural address as "assertive." He acknowledged, briefly, the previous years' setbacks for the reform movement, and tries to stay above the political fray. 
+
+In June 2001, after a five-year investigation, U.S. Attorney General John Ashcroft released details of the 46-count indictment from the Khobar Towers case. Ashcroft said that unidentified Iranians "inspired, supported, and supervised" the suspects, who belonged to a group the indictment identified as Saudi Hezbollah. Iran flatly rejected the accusation that it was involved in the bombing.
+
+In July 2001, The U.S. Senate gave final congressional approval to legislation that extended the sanctions against Iran and Libya for five years. The Bush administration had pressed Congress to limit the sanctions to two years.
+
+In October 2001, Supreme Leader Khamenei condemned the U.S. strikes on Afghanistan, saying they are part of America's goal to "expand their power and domination." Meanwhile, news reports surfaced that Iran had agreed to perform search-and-rescue missions for U.S. pilots who crash on Iranian soil during the military strikes against the Taliban in Afghanistan.
+
+In November of 2001, in his first interview with an American publication, Khatami tells The New York Times in November that Osama bin Laden's version of Islam does not represent the majority view of the world's Muslims. 
+
+In November 2001, U.S. Secretary of State Colin Powell and Iranian Foreign Minister Kamal Kharrazi shook hands at U.N. headquarters in New York, where foreign ministers from Russia, the U.S., and Afghanistan's neighbors met to discuss a post-Taliban government. 
+
+In January of 2002, Israeli commandos seized the Karine A, a ship carrying 50 tons of arms that officials say were supplied by Iran and en route to the Palestinian Authority. Officials say that the delivery of weapons-which include powerful Katyusha rockets, antitank missiles, and plastic explosives-would escalate the Palestinian-Israeli conflict to a new level.
+
+In January of 2002, in his first State of the Union address, U.S. President George W. Bush said that Iran, Iraq, and North Korea are part of an "axis of evil." "Iran aggressively pursues these weapons [of mass destruction] and exports terror, while an unelected few repress the Iranian people's hope for freedom," Bush said. The speech outraged some in Iran, sparking protests. It was condemned both by the clerical establishment and the reformers. 
+
+In March of 2002, Iran's government spokesman said that Iran would not oppose direct talks with American legislators. It was in response to an offer made by Sen. Joseph Biden chairman of the Senate Foreign Relations Committee, to meet Iranian deputies. 
+
+In April of 2002, U.S. Secretary of Defense Donald Rumsfeld linked three countries-Iran, Iraq, and Libya-to suicide bombing attacks in Israel and said that the countries are "inspiring and financing a culture of political murder and suicide bombing." 
+
+In May of 2002, Iran's Supreme Leader, Ayatollah Ali Khamenei, denounced the U.S. and dismissed the idea of negotiations between the two countries, saying, "Negotiations will not solve any problem. Negotiations with America are beneficial to the American government." A report in Financial Times, however, indicated that reformist leaders continue to press for an opening up of relations, and that an internal debate persists over whether and how to engage the U.S. 
+
+Current Relations: Throughout the 2002-2006 periods, the US reiterates the belief that Iran is a state sponsor of terror, is actively pursuing nuclear weapons, has a chemical and biological weapons program, is attempting to interfere in the domestic politics of neighboring countries (particularly Iraq, Afghanistan) and is committed to impeding the Arab-Israeli peace process. The US reinforces policy goals of limiting Iran's international goals through sanctions, interdiction, law enforcement, diplomacy and international public opinion. Therefore, the U.S.-Iran dyad is coded as a continuing rivalry (1.0). 
+
+SOURCES-CR:
+Clodfelter, 1992, 1066-1068; *Foreign Broadcast Information Service *(FBIS), November 27, 1979; Jessup, 1998, 319-325; *Keesing*, April 25, 1980, October 24, 1980, September 18, 1981, July 1989, November 1989, December 1991; New York Times 4/18/1983; 1/13/1986; 7/3/1988; 10/4/1997S; OnWar.com; PBS/Frontline.org-`Terror and Tehran'; Stuyt, 1990, 457; Tillema, 1991, 153-154; TheAtlanticCouncil.org; Weisburd, 1997, 285-286.
+
+PS-NARRATIVE:
+
+18550101-19791103 .5 
+
+Relations between the United States and Iran can best be described as minimal from Iranian independence in 1855 until World War II. The two countries established diplomatic relations in 1856 but those relations were not elevated to the level of ambassador until 1944. The first real interactions between the two countries occurred during World War II as Iran becomes a primary supply route between the United States and the Soviet Union. British and Soviet troops invaded Iran in 1941 and in 1942 the first US troops arrived to secure the supply route. By 1944, roughly thirty-thousand US troops were stationed in Iran. The US does not get involved in the domestic affairs of Iran until the end of World War II when, at the request of the Iranian government, British and US officials begin pushing the Soviet Union to remove troops stationed in Iran. Iran subsequently becomes important for US foreign policy as they began vying with the Soviet Union for influence over Europe and the Middle East. After a period of tense confrontation, Soviet troops were removed from Iran in May of 1946. Iran began, at this time, to pressure the United States for generous aid packages. Between 1946 and 1949, the United States was reluctant to provide large aid packages to Iran and still viewed Iran as peripheral to US security interests. Although the US was initially reluctant to provide large aid packages to Iran, the two countries did begin to interact more in terms of economics and diplomatic exchanges. 
+
+In 1949-1950, the United States began to view Iran as more important in the global struggle against the Soviet Union. As well, domestic turmoil in Iran gave the United States concern regarding the stability of the country. In 1950, the two countries signed a Mutual Defense Assistance Agreement aimed at providing over twenty-million a year in military aid to Iran. In 1951, Mohammad Mosadeq becomes prime minister in Iran. The British controlled oil industry in Iran was subsequently nationalized, leading the British to make repeated attempts at removing Mosadeq from power. Mosadeq was removed by a United States sponsored coup in 1953. Fazlollah Zahedi, a former general, was installed as the new prime minister. The Shah, Reza Mohammad Pahlavi, returned from exile at this time. 
+
+Zahedi had little domestic support among the people and spent the next year, with the help of the United States, consolidating power through repression of the opposition. During the 1950s, Iran, due to its strategic proximity to the Soviet Union, became a critical component in the United States' Soviet containment policy. Of major concern during this period was domestic instability in Iran and the nationalist sentiments that were spreading across the Middle East. In the early 1960s, due to concern about the stability of Iran, the United States pressured the Shah to institute reforms and increase the regime's domestic support. By the mid-to late 1960s, attention to Iran began to wane as the US became more embroiled in the Vietnam War. US aid and assets in Iran declined considerably during this time. A strong oil market in the late 1960s and early 1970s also allowed Iran to become more independent of US influence and Iran used increased revenue to begin a military buildup, supplied mostly from the United States. By the late 1970s, US relations with Iran flowed almost exclusively through the Shah. US officials had very little contact or knowledge of opposition groups in Iran. This proved important as the Shah's health failed and the US had little intelligence or contacts to influence the direction of the government. 
+
+Serious unrest with the Shah's rule began in 1978, as violence broke out in the country followed by a severe crack down by the government. The Shah was forced to flee the country in 1979 and the Iranian Revolution followed that same year. This marks the beginning of the US-Iran rivalry. The first MID of RIV85, MID3020, started on November, 4, 1979. 
+
+PS-SOURCES: 
+
+Gasiorowski 1991; Goode 1997
+
+MARITIME-MIDS: 
+
+MID3541 MID2578 MID2740 MID3973 not considered maritime MIDs 
+
+MARITIME-DISPUTE: MID3541
+ DYAD: USA IRAN 2630
+ DATES: 19840219 19840430
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID3541 is a bilateral mid that occurred from February through April of 1984. In this dispute, the US increased its naval presence in the Persian/Arabian Gulf in response to Iranian threats to target Iraqi oil interests and a threat to block access to shipping north of the Straits of Hormuz. This threat was a significant hazard to the world's oil supply. During this mid there were several instances of hostile action between the navies of both countries. 
+
+MARITIME-DISPUTE: MID2578
+ DYAD: USA IRAN 2630
+ DATES: 19860113 19860114
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2578 is a bilateral mid that took place in mid January of 1986. On January 12 the Iranian navy stopped a US merchant ship in the Persian Gulf in an effort to seize arms headed for Iraq. The US acknowledged that the stopping of the vessel was permitted under international law but the US responded by sending two warships to the region where the ship was stopped. 
+
+MARITIME-DISPUTE: MID2740
+ DYAD: USA IRAN 2630
+ DATES: 19870127 19880703
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2740 is a bilateral mid that took place from January until July of 1987. Beginning in mid-July 1987 and continuing until the end of the Iran-Iraq War the following year, the United States began escorting Kuwaiti ships through the Persian Gulf to protect them against attack from Iranian forces. The United States also engaged in limited military action against Iranian targets in the Persian Gulf-including vessels and oil platforms-in reprisal for Iranian attacks on U.S.-flagged vessels transporting oil from Kuwait. 
+
+MARITIME-DISPUTE: MID3973
+ DYAD: USA IRAN 2630
+ DATES: 19910521 19910521
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3973 occurred on May 21, 1991. Here a patrol boat attacked the USS LaSalle in the Persian Gulf. The next day, a US Navy vessel attacked an Iranian patrol boat in the same region. The US Navy was in the Gulf to enforce an embargo against Iraq while Iran was conducting naval exercises in the region. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

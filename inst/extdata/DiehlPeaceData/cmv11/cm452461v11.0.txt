@@ -1,0 +1,448 @@
+FILE: cm452461v11.0.txt
+DYAD: GHANA-TOGO
+RIVALRY: RIV1079
+DISPUTE(S): MID1417 MID1418 MID1419 MID3125 MID3076 MID4066 MID4116 MID4163 
+
+RIVNOTES: 
+
+PS: 19600427-19941226 0.00 19941227-19990819 0.25 19990820-20209999 0.5
+
+PS-UPDATE2020: Negotiations to resolve a maritime dispute began in 2018: https://www.theafricareport.com/115211/ghana-togo-tense-negotiations-continue-between-presidents-akufo-addo-and-gnassingbe-over-their-maritime-border/ and https://www.modernghana.com/news/1089916/ghana-togo-maritime-boundary-negotiations-meeting.html
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220314
+PS-LAST-CHECKED: 20220314
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1417 
+
+TERRMID: MID1417 1 -- territorial MID
+TERRMID-CER: MID1417 3 -- uncertain 
+TERRMID-NOTES: MID1417 from Gibler, Miller, and Little 2016, Ghana wanted to unify with Togo into one country, effectively claiming all of Togo's territory. In 1961, the Ghanan president increased the pressure for unification and relations turned tense. Togo arrested two Ghanan police officers, and Ghana closed the border. Coded territorial MID because this was connected to a territorial dispute between Ghana and Togo, as Ghana claimed all of Togo. Coded uncertain because GML argue this case should be dropped since the border closure did not amount to a blockade of the border. 
+
+TERRLINK: MID1417 3 -- not third party link to territory 
+TERRLINK-CER: MID1417 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1417 1 -- maritime MID
+MARITMID-CER: MID1417 3 -- uncertain 
+MARITMID-NOTES: MID1417 coded maritime MID because Ghana claimed all of Togo, including Togo's maritime waters. Coded uncertain because GML argue this case should be dropped. 
+
+ISLMID: MID1417 3 -- not islands 
+ISLMID-CER: MID1417 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1417 3 -- not civil war 
+CIVWARMID-CER: MID1417 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1417 3 -- not civil war link 
+CIVWARLINK-CER: MID1417 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1417 3 -- not coup 
+COUPMID-CER: MID1417 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1417 3 -- not coup link
+COUPLINK-CER: MID1417 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1418
+
+TERRMID: MID1418 3 -- not territory
+TERRMID-CER: MID1418 1 -- certain 
+TERRMID-NOTES: MID1418 Togo and Ghana had an active territorial dispute, but that was not connected to this MID. 
+
+TERRLINK: MID1418 3 -- not third party link to territory 
+TERRLINK-CER: MID1418 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1418 3 -- not maritime 
+MARITMID-CER: MID1418 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1418 3 -- not islands 
+ISLMID-CER: MID1418 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1418 1 -- civil war MID
+CIVWARMID-CER: MID1418 1 -- certain
+CIVWARMID-NOTES: MID1418 from Gibler 2018, a failed rebellion in Ghana involved an attempted assassination of the Ghanan president. Ghana accused Togo of providing haven to the attempted assassins (rebels). Togo denied the allegation. Coded civil war MID because this was connected to organized rebels in Ghana attempting to assassinate the president. 
+
+CIVWARLINK: MID1418 3 -- not civil war link
+CIVWARLINK-CER: MID1418 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1418 3 -- not coup 
+COUPMID-CER: MID1418 1 -- certain 
+COUPMID-NOTES: MID1418 the failed assassins were not part of the political or government elite in Ghana, so this does not qualify as a coup under our coding rules. 
+
+COUPLINK: MID1418 3 -- not coup link
+COUPLINK-CER: MID1418 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1419
+
+TERRMID: MID1419 1 -- territorial MID
+TERRMID-CER: MID1419 1 -- certain 
+TERRMID-NOTES: MID1419 from Gibler 2018, Ghanan officials killed a Tongolese customs official, and both countries closed their border with each other. Coded territorial MID because this was connected to a territorial dispute, in which Ghana claimed the entirety of Togo's territory. 
+
+TERRLINK: MID1419 3 -- not third party link to territory 
+TERRLINK-CER: MID1419 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1419 1 -- maritime MID 
+MARITMID-CER: MID1419 1 -- certain
+MARITMID-NOTES: MID1419 Ghana claimed all of Togo's territory, including Togo's territorial waters. This MID is connected to that territorial dispute. 
+
+ISLMID: MID1419 3 -- not islands 
+ISLMID-CER: MID1419 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1419 3 -- not civil war 
+CIVWARMID-CER: MID1419 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1419 3 -- not civil war link
+CIVWARLINK-CER: MID1419 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1419 3 -- not coup 
+COUPMID-CER: MID1419 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1419 3 -- not coup link
+COUPLINK-CER: MID1419 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3125
+
+TERRMID: MID3125 1 -- territorial MID
+TERRMID-CER: MID3125 3 -- uncertain 
+TERRMID-NOTES: MID3125 from Gibler, Miller, and Little 2016, in 1977 Ghana made two vague statements about defending its territorial integrity, which COW coded as a MID. However, GML argue this case should be dropped since this does not amount to a MID (i.e., it was not directed at any country), so this is coded uncertain. Coded territorial MID because this was connected to the long-running territorial dispute between Togo and Ghana. 
+
+TERRLINK: MID3125 3 -- not third party link to territory 
+TERRLINK-CER: MID3125 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3125 1 -- maritime MID
+MARITMID-CER: MID3125 3 -- uncertain
+MARITMID-NOTES: MID3125 from Gibler, Miller, and Little 2016, Ghana claimed all of Togo, including Togo's territorial waters. Coded uncertain because GML argue this case should be dropped. 
+
+ISLMID: MID3125 3 -- not islands 
+ISLMID-CER: MID3125 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3125 3 -- not civil war 
+CIVWARMID-CER: MID3125 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3125 3 -- not civil war link
+CIVWARLINK-CER: MID3125 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3125 3 -- not coup 
+COUPMID-CER: MID3125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3125 3 -- not coup link
+COUPLINK-CER: MID3125 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3076
+
+TERRMID: MID3076 1 -- territorial MID
+TERRMID-CER: MID3076 1 -- certain 
+TERRMID-NOTES: MID3076 from Gibler 2018, Ghana and Togo committed border violations against each other, including Ghanan aircraft violating Togo's airspace. Ghana closed its border with Togo and shot citizens that tried to cross the border. Coded territorial MID because this was connected to a territorial dispute in which Ghana claimed all of Togo's territory. 
+
+TERRLINK: MID3076 3 -- not third party link to territory 
+TERRLINK-CER: MID3076 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3076 1 -- maritime MID
+MARITMID-CER: MID3076 1 -- certain
+MARITMID-NOTES: MID3076 Ghana claimed all of Togo's territory, including Togo's territorial waters. 
+
+ISLMID: MID3076 3 -- not islands 
+ISLMID-CER: MID3076 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3076 3 -- not civil war 
+CIVWARMID-CER: MID3076 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3076 3 -- not civil war link
+CIVWARLINK-CER: MID3076 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3076 3 -- not coup 
+COUPMID-CER: MID3076 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3076 3 -- not coup link
+COUPLINK-CER: MID3076 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4066
+
+TERRMID: MID4066 3 -- not territory
+TERRMID-CER: MID4066 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4066 3 -- not third party link to territory 
+TERRLINK-CER: MID4066 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4066 3 -- not maritime 
+MARITMID-CER: MID4066 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4066 3 -- not islands 
+ISLMID-CER: MID4066 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4066 3 -- not civil war 
+CIVWARMID-CER: MID4066 1 -- certain
+CIVWARMID-NOTES: MID4066 from Gibler 2018, Togo experienced domestic unrest and began to use state violence to repress the instability. In response, Ghana put their forces on high alert. Coded not civil war because there is no indication that the domestic protests in Togo involved militarized rebel activity. Neither the cm narrative nor Gibler 2018 mention rebels, and the news coverage of this event (e.g., New York Times 2/2/1993 and Globe and Mail 2/2/1993) describe this as Togo military forces firing on civilian protesters, creating a refugee crisis; they do not mention militarized rebel activity. 
+
+CIVWARLINK: MID4066 3 -- not civil war link
+CIVWARLINK-CER: MID4066 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4066 3 -- not coup 
+COUPMID-CER: MID4066 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4066 3 -- not coup link
+COUPLINK-CER: MID4066 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4116
+
+TERRMID: MID4116 3 -- not territory
+TERRMID-CER: MID4116 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4116 3 -- not third party link to territory 
+TERRLINK-CER: MID4116 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4116 3 -- not maritime 
+MARITMID-CER: MID4116 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4116 3 -- not islands 
+ISLMID-CER: MID4116 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4116 1 -- civil war MID
+CIVWARMID-CER: MID4116 1 -- certain
+CIVWARMID-NOTES: MID4116 from Gibler 2018, Togo claimed that rebels from Ghana entered their territory. Togo closed their border with Ghana in response, triggering this MID. Exchanges of fire between Ghanan rebels and Togolese forces also occurred. Coded civil war MID because this was connected to militarized rebel activity in Togo, within this dyad. 
+
+CIVWARLINK: MID4116 3 -- not civil war link
+CIVWARLINK-CER: MID4116 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4116 3 -- not coup 
+COUPMID-CER: MID4116 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4116 3 -- not coup link
+COUPLINK-CER: MID4116 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4378
+
+TERRMID: MID4378 3 -- not territory
+TERRMID-CER: MID4378 2 -- somewhat uncertain 
+TERRMID-NOTES: MID4378 from Gibler 2018, Togolese soldiers fired across the border into Ghana in 2005, triggering this MID. Coded not territory because although these countries had an active territorial dispute, there is no indication that this incident was connected to that dispute. Coded somewhat uncertain because it is unclear why the soldiers fired across the border; it is possible, although unlikely, that this small incident would be related to the territorial dispute.
+
+TERRLINK: MID4378 3 -- not third party link to territory 
+TERRLINK-CER: MID4378 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4378 3 -- not maritime 
+MARITMID-CER: MID4378 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4378 3 -- not islands 
+ISLMID-CER: MID4378 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4378 3 -- not civil war 
+CIVWARMID-CER: MID4378 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4378 3 -- not civil war link
+CIVWARLINK-CER: MID4378 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4378 3 -- not coup 
+COUPMID-CER: MID4378 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4378 3 -- not coup link
+COUPLINK-CER: MID4378 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4163
+
+TERRMID: MID4163 3 -- not territory
+TERRMID-CER: MID4163 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4163 3 -- not third party link to territory 
+TERRLINK-CER: MID4163 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4163 3 -- not maritime 
+MARITMID-CER: MID4163 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4163 3 -- not islands 
+ISLMID-CER: MID4163 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4163 1 -- civil war MID
+CIVWARMID-CER: MID4163 3 -- uncertain
+CIVWARMID-NOTES: MID4163 from Gibler, Miller, and Little 2016, this is a double-count of MID4116. From Gibler 2018, in MID4116 Togo claimed that rebels from Ghana entered their territory. Togo closed their border with Ghana in response, triggering this MID. Exchanges of fire between Ghanan rebels and Togolese forces also occurred. Coded civil war MID because this was connected to militarized rebel activity in Togo, within this dyad. Coded uncertain because GML argue this case should be dropped. 
+
+CIVWARLINK: MID4163 3 -- not civil war link
+CIVWARLINK-CER: MID4163 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4163 3 -- not coup 
+COUPMID-CER: MID4163 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4163 3 -- not coup link
+COUPLINK-CER: MID4163 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4378
+rivalry=452461 nationa=TOGO nationb=GHANA MID4378 20050426-20050426 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On April 26, 2005, Togolese soldiers fired across the border at a Ghanaian residence, injuring three people. First day of dispute was on 4/26/2005 and last day of dispute was on 4/26/2005.
+
+MID3 1993-2001:
+
+MID4066
+rivalry=452461 nationa=GHANA nationb=TOGO MID4066 19930201-19930204 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Ghana placed its military on 3rd degree high alert after Togolese troops killed two Ghanians in a rampage in Togo. Troops continued to loot and terrorize citizens, resulting in a refugee crisis in Ghana and Benin. Ghana's alert appears to have been a precautionary measure to avoid a spill over of the civil unrest and to deal with the large number of refugees. First day of dispute was on 2/1/1993 and last day of dispute was on 2/4/1993.
+
+MID4163
+rivalry=452461 nationa=TOGO nationb=GHANA MID4163 19940100-19941210 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Togo claims guerrilla activity along the border with Ghana. Togo seals border and deploys troops. First day of dispute was on 1/00/1994 and last day of dispute was on 12/10/1994.
+
+MID4116
+rivalry=452461 nationa=TOGO nationb=GHANA MID4116 19940106-19940100 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Togo claims an incursion of up to 100 fighters (irregulars) from Ghana on Jan. 5. This claim is unsubstantiated. However, Togo closes its border with Ghana based on this unsubstantiated claim. Gun battles between Togolese forces and rebels go on until the 7th in and around Lome, Togo. Togo accuses Ghana of supporting the rebels and closes its border. Ghana denies any involvement and accuses Togo of aggression. This MIDis the border closing by Togo. First day of dispute was on 1/6/1994 and last day of dispute was on 1/00/1994.
+
+NARRATIVE-CM:
+Togo disputed the integration of the former British Togoland with Ghana following Togo's independence on April 27, 1960. Ghana had territorial claims to Togo and called for a plebiscite in Togo on the issue of unification. The disputed territory contained some 200,000 members of the Ewe tribe. Some 700,000 Ewes lived in Togo which had a total population of 1,100,000 persons in 1960. The Togolese government suppressed an attempted rebellion on December 1-2, 1961. On January 8, 1962, the Togolese government accused Ghana of having supported the attempted rebellion. On December 7, 1962, Ghana accused Togo of supporting subversive political activities by Ghanian exiles. Ghana closed the border with Togo. Ghana demanded the extradition of several Ghanian exiles on January 6, 1963. Ghana deployed troops on its border with Togo on January 13, 1963 after President Sylvanus Olympio was assassinated in Lome. Ghana re-opened the border with Togo on February 1, 1963. Ghanian officials killed a Togolese customs official near the border on January 16, 1965. Ghana re-opened its border with Togo on March 23, 1965, and Togo announced that it would re-open its border with Ghana on July 27, 1965. Ghana arrested eight members of the Ewe tribe for allegely plotting a rebellion in July 1973. Five of the eight Ewes were executed following a trial that was held in Accra from May 19 to July 28, 1976. Ghana and Togo suspended diplomatic relations in 1982. Togo accused Ghana of involvement in a rebellion that occurred in Lome on September 23-24, 1986. Togo requested French military assistance on September 25, 1986. France deployed 150 paratroopers in the country, and Zaire deployed 350 troops on September 26, 1986. Some 15 individuals were killed in the violence. Ghana alledged that Togolese military ships and aircraft violated Ghana's territorial waters and airspace on September 26, 1986. French troops and Zairean troops were withdrawn on October 5, 1986. Ghana closed the border with Togo on October 9, 1986. Ide Oumarou, the secretary-general of the *Organization of African Unity* (OAU), attempted to mediate negotiations between the countries. The OAU established a five-member fact-finding mission to investigate the dispute. President Felix Houphouet-Boigny of Ivory Coast attempted to mediate in January 1987. Togo re-opened its border with Ghana on February 2, 1987, and Ghana re-opened its border with Togo on May 23, 1987. Togo dropped its accusations against Ghana on February 5, 1987. Ghana and Togo signed a communique on October 4, 1991, which provided for the promotion of "close and mutually beneficial cooperation" and the opening of the borders to land, sea, and air traffic on October 4, 1991. The government of Togo suppressed a rebellion in Lome on January 5-7, 1994, resulting in the deaths of some 100 individuals. Togo accused Ghana of involvement in the violence, and retaliated with limited shelling across the border with Ghana on January 7, 1994. Togolese troops killed 12 Ghanians at a border post on January 12, 1994, resulting in the closing of the border. Ghana and Togo resumed diplomatic relations on November 16, 1994. The border between Ghana and Togo was re-opened on December 26, 1994. Ghana and Togo signed a cooperation agreement in July 1995. Ghana and Togo signed a memorandum of understanding on economic, political, and security cooperation on May 13, 1998.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), October 15, 1986, November 15, 1986, January 15, 1987, March 15, 1987, April 15, 1987, June 15, 1987; Allock et al., 1992, 256-263; Banks and Muller, 1998, 356-361; Brecher and Wilkenfeld, 1997, 433-434, 488; Degenhardt, 371-372; *Foreign Broadcast Information Service *(FBIS), September 24, 1986, September 29, 1986, October 10, 1986; *Keesing*, February 17-24, 1962, February 16-23, 1963, August 7-14, 1965, May 1987, January 1994, November 1994; *Reuters*, May 13, 1998.
+
+NARRATIVE-CR:
+The basis of the dispute between Togo and Ghana has been an area of land called Togoland that was given to Ghana upon independence. In 1960, when Togo was decolonized, it claimed sovereignty over that region. 200,000 members of the Ewe tribe (the majority in Togo) lived at the time in Togoland.
+
+In December, 1961, there was an attempted rebellion in Togo which the Togolese government accused Ghana of supporting. This was classified as MID1417. The Togolese government suppressed the rebellion. One year later, Togo again accused Ghana of supporting subversive activities within Togolese territory, classified as MID1418. The border was closed between the two countries. These types of disagreements and accusations, as well as border skirmishes continued to occur every couple of years. Borders were opened and closed during this time.
+
+Ghanian officials killed a Togolese customs official near the border on January 16, 1965. Ghana re-opened its border with Togo on March 23, 1965, and Togo announced that it would re-open its border with Ghana on July 27, 1965. This was MID1419.
+
+I was unable to locate information on MID3125.
+
+Togo accused Ghana of involvement in a rebellion that occurred in Lome on September 23-24, 1986. Togo requested French military assistance on September 25, 1986. France deployed 150 paratroopers in the country, and Zaire deployed 350 troops on September 26, 1986. Some 15 individuals were killed in the violence. Ghana alledged that Togolese military ships and aircraft violated Ghana's territorial waters and airspace on September 26, 1986. French troops and Zairean troops were withdrawn on October 5, 1986. Ghana closed the border with Togo on October 9, 1986. This was MID3076. 
+
+The borders were opened in 1987, and an agreement signed on October 4,1991 which provided for the promotion of "close and mutually beneficial cooperation" and the opening of the borders to land, sea, and air traffic. 
+
+The relationship between the two states was made tense in early 1993 when thousands of refugees from Togo fled into Ghana to escape the massive killings of suspected political opposition by soldiers loyal to Togo's leader, General Eyadema. This was MID4066.
+
+There was however, another dispute on January 5-7, 1994 when Togo suppressed a rebellion in Lome and accused Ghana of involvement, resulting in the deaths of some 100 individuals. Togo accused Ghana of involvement in the violence, and retaliated with limited shelling across the border with Ghana on January 7, 1994. This was classified as MID4116.
+
+Togolese troops killed 12 Ghanians at a border post on January 12, 1994, resulting in the closing of the border. In February, thousands of Ghanan people fled to Togo amidst ethnic violence in Ghana. Refugee flows continued from Togo into Ghana as well throughout June of 1994. Ghana and Togo resumed diplomatic relations on November 16, 1994. The border between Ghana and Togo was re-opened on December 26, 1994. This ended MID4163. 
+
+Ghana and Togo signed a cooperation agreement in July, 1995. Ghana and Togo then signed a memorandum of understanding on economic, political, and security cooperation on May 13, 1998.
+
+While the agreement of 1998 is hopeful, it is not the first time that the two countries have attempted peaceful relations. It would be premature to consider this rivalry to be terminated. This is also so because what began as a rivalry over a disputed area of land evolved into a rivalry that was fueled by domestic instability and violence within each country that led to large flows of refugees. 
+
+SOURCES-CR: 
+Allock et al., 1992; Banks and Muller, 1998; Brecher and Wilkenfeld, 1997; New York Times, February 2 1993, February 10 1994, June 21 1994; Pellow and Chazan, 1986; Petchenkine, 1993.
+
+PS-NARRATIVE: 
+
+19941227-19990819 0.25 
+
+Togolese troops killed 12 Ghanaians at a border post on January 12, 1994, resulting in the closing of the border. In February, thousands of Ghanaian people fled to Togo amidst ethnic violence in Ghana. Refugee flows continued from Togo into Ghana as well throughout June of 1994. Ghana and Togo resumed diplomatic relations on November 16, 1994. The border between Ghana and Togo was re-opened on December 26, 1994. This ended RIV1079.
+
+Ghana and Togo signed a cooperation agreement in July 1995. Ghana and Togo have taken steps to put their relations on a new pedestal following Accra's repatriation of some alleged Togolese criminals to face justice in Togo on January 7, 1998. Police said the alleged criminals were handed over to the Togolese INTERPOL following a decision by an Accra High Court that it had no jurisdiction to try them because the alleged offences were committed in Togo. The Togolese, who were resident in Ghana, were accused of engaging in cross-border criminal activities in Togo. The decision to repatriate them was taken "in furtherance of sub-regional co-operation in matters of crime". Ghana and Togo had been accusing each other of engaging in subversive activities against each other's country and in 1993 when anti-government forces launched an attack in Togo to overthrow President Gnassingbe Eyadema, Togo accused Ghana of complicity. Togolese soldiers fired into Ghana, injuring a number of people and destroying property. The Ghana-Togo border remained closed for a long time, bringing to a total halt the booming trade between the two countries. Ghana threatened to retaliate but sanity prevailed and the two countries managed to resolved their differences without resorting to arms. However, relations between the two West African countries were marked by suspicion and mistrust. Thus, "the repatriation of the alleged criminals to face justice in Togo marks a turning point in Ghana-Togo relations", remarked a top official of Ghana's Foreign Ministry. The Police said the repatriation has drawn fire from several concerned persons, as well as human rights organizations and some foreign missions have expressed concern about the safety of the suspects. Their main concern revolves around the poor human rights record of the Togo government and the fear that the suspects could be murdered, having lived in Ghana for sometime.
+
+Ghana and Togo signed a memorandum of understanding on economic, political, and security cooperation on May 13, 1998 at the end of Togo President Gnassignbe Eyadema's first official visit to Ghana. The leaders of Ghana and Togo pledged to make direct contacts and exchange frequent visits at the highest level. This should minimize the mistrust and misunderstanding that had soured relations between the two neighbors for a very long time. Rawlings and Eyadema signed a communique that said they pledged to work towards "promoting good neighborliness, good relations, brotherliness, friendship, cooperation and solidarity". They held extensive bilateral talks and said their private sectors should seize business opportunities in each other's countries to boost bilateral cooperation. 
+
+Ghanaian government on August 17, 1998, expressed concern about a shooting incident on the Ghana/Togo border over the week-end and said it has no hand in the incident. And to buttress this point, President Jerry Rawlings dispatched Lt-Gen Ben Akafia, Chief of Defence, and Inspector-General of Police Peter Nanfuri, to Togo for talks with their Togolese counterparts on the shooting incident. A Foreign Ministry statement said "authorities of the two countries have been in consultation and have agreed on joint measures to contain the situation. The Ghana government reassured the Togolese authorities Ghana disassociates itself from any involvement in the development". Sources said there were no casualties and that the Togolese authorities have arrested four people who were allegedly involved in the shooting incident and that Ghana has also arrested two persons. It added "Ghana will not allow its territory to be used for any hostile activities against Togo". Ghana and Togo had accused each other in past of harboring dissidents operating along their common border. This in the past strained their relations leading to frequent closure of their common border. Relations between the countries warmed following visits to Togo by President Rawlings two years ago and a reciprocal one to Ghana to President Gnassingbe Eyadema early in 1998. Meanwhile, reports reaching Ghana from Lome, Togo, two houses belonging to two opposition politicians have been burnt by pro-government demonstrators. The political barometer in the West African country has been high since the July presidential elections which the opposition accused the government of rigging.
+
+19990820-20159999 0.5 
+
+On August 20, 1999, Ghana and Togo have affirmed their commitment to a peaceful resolution of their boundary problems based on respect for each others' territorial integrity. They have, therefore, called their citizens living in the border areas to desist from acts of provocation against each other and allow the governments to work out amicable solutions to their problems. Ghana's interior minister, Nii Okaidja Adamafio, and his Togolese counterpart, Gen. Sizing Walla, made the affirmation while addressing the chiefs and people of three border districts in Ghana and Togo. The tour was prompted by allegations of removal of some boundary pillars between the two countries and attacks on some Ghanaian border communities by their Togolese neighbors. Adamafio appealed to Ghanaian border communities to exercise restraint, saying "your ability to restrain yourselves from retaliating indicates your maturity and strength and not your weakness." He assured them that amicable solutions would be found to such boundary and land problems without making any of the communities involved worse-off. He called on peace loving members of the communities on both sides of the boundary to exercise positive influences on those bent on fomenting trouble in view of traditional, family and blood ties. Walla said it would be counter-productive for both Ghana and Togo to resort to arms in settling their border. He added that the peoples and governments of the two countries should take a cue from their colonial masters who no longer see the wisdom in allowing their territorial boundaries to limit their relations. Ghana is a former British colony while Togo is a former French colony. Walla said "there is now a positive atmosphere of friendship between our two heads of state and governments which should be made to reflect among our people." He, therefore, called on Togolese communities along the common border to be law abiding and maintain good neighborliness. It seems that the two countries decided to drop this territorial issue of dispute in their relations at least until 2006. But there is no indication if this is a resolution to the territorial dispute or not. Other research (Kornprobst, 2002) believes that the territorial dispute between Ghana and Togo became dormant long time ago. 
+
+On January 18, 2001, Ghana's new President, Mr. John Agyekum Kufuor's visit to the Republic of Togo is seen by many political analysts as a shift of the country's foreign policy that will create more business and economic opportunities for the citizens of the two West African states. In the past, relations between Ghana and Togo were very sour with pulsating cross border clashes and dissident activities that destabilized the two countries and destroyed the trading link and good neighborliness that existed in the early years of independence. In those years, Togo's President Gnassingbe Eyadema had to contend with dissident activities by Togolese exiles in Ghana. The Togolese authorities reciprocated the unwelcome gesture by harboring Ghanaian exiles, who also launched similar attacks on Ghanaian territory in a bid to take over power.
+
+The two countries have now changed their foreign policies from antagonism to friendship and mutual economic cooperation. This development effectively closes the dark pages of history and the bad blood of antagonism. President Eyadema set the stage for good neighborliness by honoring an invitation to attend the inauguration of President Kufuor. President Kufuor's political opponents and the Togolese opposition consider his visit last weekend to Togo as unacceptable in the face of the perceived political nature of the call. However, some economic analysts see the historic visit as a tactical political move that will bring considerable economic gains and the dividends of peace to Ghana and Togo in the spirit of Economic Community of West African States (ECOWAS). Incidentally, President Eyadema is the Chairman of OAU. The inclusion of Alhaji Asuma Banda and Mr. B.A Mensah, both business tycoons in President Kufuor's delegation stresses the willingness of the new government to lead a crusade to open a channel for business among the two neighbors. 
+
+Togo is rich in mineral resources. The country offers a strong mineral potential and has large reserves of phosphate, in addition to limestone and marble quarries. Its reserves of iron ore, manganese, limestone and pure dolomite are genuine assets for industrial and economic development. The leading manufactures include cement, flour, palm oil, cotton textiles, beverages, and soap.
+
+The country is a leading world producer of phosphate, which is by far its most significant mineral product. In the early 1990s, about 3.7 million metric tonnes of phosphate rock was mined annually. Togo's phosphate is of a high grade that allows making fertilizers highly concentrated in phosphoric compounds. This phosphate is very much appreciated for its production of phosphoric acid a chemical important for use in research laboratories and industry. Ghana's match factory at Kade may be revived if phosphate, which is the raw material for the production of matches, is imported from Togo. The iron ore reserves of Togo are estimated at more than 500 million tonnes. According to the latest research findings, there is a genuine ferruginous basin as well as substantial mixed mineral reserves including iron titanium. Togo also possesses large clinker reserves that have been exploited during the 1980s by Cements of West Africa jointly owned by Ghana, Togo, and Ghana's western neigbour, Cote d'Ivoire. Despite the large-scale exploitation of high-grade clinker for the manufacture of cement, important reserves remain to be exploited in the near future.
+
+The main manufacturer of cement in Togo is Company of Togo's Cements (CIMTOGO), which is operating in partnership with Norwegian interests. As Ghana and Togo enter partnership to broaden bilateral trade between them, Ghana Cement (GHACEM) could take advantage of the open doors and import cheap clinker for its manufacturing plant at Tema. The country's food industry revolves around the processing of local agricultural commodities. There is a sugar refinery named Anie Sugar Factor that has an annual capacity of 60,000 tonnes of refined sugar and 6,000 litres of medical alcohol per day. There is also a flourishing industry for palm oil and groundnut oil extraction, coffee roasting, and cassava processing. Togolese and Ghanaians along the two countries' border stand to benefit from increased cross-border trade in agricultural produce and this would have a positive impact on the Anglophone and Francophone economies who are foes-turned-friends. The large numbers of Ghanaian traders who shuttle between Accra and Lome hardly cross into Ghana without the usual cargo of wax prints and fine jewellery. The textile industry in Togo is much alive to the demand of customers beyond the borders of that country and this can be measured with ease when you consider the high value that Ghanaians place on such goods. This recent industry is controlled by Togotex International, which manages two privately owned factories at Kara and Dadja. As trade between Ghana and Togo increases, the Ghanaian textile industry will have to raise standards to be able to meet the challenges in the context of ECOWAS globalization. 
+
+Peace Air Togo, is to begin operations in Ghana from September 22, 2001 a senior official said in Accra on September 3, 2001. Mr. Pelssey Norman, Managing Director of the company, told the Ghana News Agency (GNA) that the airline would operate both passenger and cargo flights. He said they would operate a West Coast route four times a week using a Boeing 727 and BAC1-11 planes. It would also fly to Johannesburg and Las Palmas. Mr. Norman said Peace Air Togo would be the national carrier of Togo, which does not have a state airline. Togo and other French-speaking West African countries own the cash-strapped Air Afrique.
+
+On September 3, 2004, Mr Hackman Owusu-Agyemang, the Ghanaian minister of interior, has appealed to Ghanaian and Togolese security personnel at the Ghana-Togo border at Aflao to sustain the security cooperation between them at the frontier. He said the effective security collaboration between personnel of the two states along the frontier had reduced cross-border crimes. "You need to cooperate to fight human, drug and ammunition-trafficking as well as international terrorism." The minister said this in a brief interaction with officials of Togolese security agencies at Kodzoviakope in Lome when visited Aflao as part of his working tour of border posts and other town in the Volta Region. "It is in the spirit of ECOWAS Economic Community of West African States that we need to strengthen the existing security cooperation to ensure that terrorists, traffickers and criminals in general to no penetrate our frontiers" Mr Owusu-Agyemang said. Ghanaian President John Agyekum Kufuor left Accra on September 7, 2004, for Lome, Togo, on a one day official visit. The visit is to strengthen the bilateral relations between Ghana and Togo and deepen subregional consultation. He was seen off by the vice-president, Alhaji Aliu Mahama, and the IGP Inspector-general of police ,Nana Owusu Nsiah. In a closed door session on May 16, 2005, Ghana's President John Agyekum Kufuor kept up the pressure on Togo's disputed President Faure Gnassingbe on political developments in Togo. While details of the talks in Kumasi, Ghana's second largest city, were not disclosed, officials indicated it was likely Kufuor urged Gnassingbe to accept a government of national unity to defuse tensions in Ghana's eastern neighbor. A top Ghanaian official said the discussions centered on Togo's post-election crisis and were intended to prepare for reconciliation talks in Abuja, Nigeria. The official, Foreign Minister Nana Addo Dankwa Akufo-Addo, told reporters that Ghana had a major stake in the peace and stability of Togo and that the two presidents discussed a wide range of issues. He said that Kufuor favors the national unity idea. Togo has found itself under the international spotlight since the death in February of President Gnassingbe Eyadema after 38 years in power. Hours after his death, the army installed his son Faure in his place, prompting an outcry from the international community with the African Union calling it a military coup and suspending Togo.
+
+Gnassingbe consented to elections in April, and claimed to have won with 60 per cent. But the opposition and the international community questioned the results, and there was rioting after the vote. Since then, the 16-nation regional group, Economic Community Of West African States (ECOWAS), has been urging Gnassingbe to form a government of national unity. Nigerian President Olusegun Obasanjo has urged such a model. Thousands of refugees fled the violence in Togo across the border to Ghana, but the flow has been considerably reduced. Parliamentary elections are expected to be held in Togo within a few months, but the opposition has warned they may be rigged. 
+
+On April 29, 2005, the movement of refugees form Togo through bush paths at the Ghana-Togo border is reported to be on the increase. The Volta regional minister, Kofi Dzamesi, says the necessary preparations have been made to cater for the refugees. He said among them [new arrival of refugees] are, two Togolese soldiers who have handed over their weapons and are presently in the care of the police. At the moment, I've received reports from Menosu in Kadjebi District, [and] then another report from Dzodze, another report from Aflao were a lot of these [refugees] [are] coming in. In fact, let me say we have almost about 387 refugees who have camped at a town called Tsopana in Ghana and the situation is very terrible. But we are linked with NADMO [National Disaster Management Organization] and the UNHCR and we have three places where they have prepared, so that we can move them if it becomes necessary, we can move them to these sites. They are Adidome, Akikasa and Jasikan. There are other ones too like two soldiers who also ran away form Togo, came to Ghana handed over their weapons at Avelikebi and declared themselves as refugees.
+
+PS-SOURCES: Deutsche Presse-Agentur May 13, 1998; May 16, 2005; Africa News January 7, 1998; August 17, 1998; August 20, 1999; January 18, 2001; BBC September 3, 2001; September 3, 2004; September 7, 2004; April 29, 2005; Kornprobst, 2002
+
+MARITIME-MIDS: 
+
+MID3076 not considered maritime MID 
+
+MARITIME-DISPUTE: MID3076
+ DYAD: GHANA TOGO 452461
+ DATES: 19820821 19821029
+ HOSTILITYA: 4 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Discussion:
+Togo accused Ghana of involvement in a rebellion that occurred in Lome on September 23-24, 1986. Togo requested French military assistance on September 25, 1986. France deployed 150 paratroopers in the country, and Zaire deployed 350 troops on September 26, 1986. Some 15 individuals were killed in the violence. Ghana alledged that Togolese military ships and aircraft violated Ghana's territorial waters and airspace on September 26, 1986. French troops and Zairean troops were withdrawn on October 5, 1986. Ghana closed the border with Togo on October 9, 1986. This was MID3076. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1993). Thousands Are Fleeing Togo After New Spate of Killings. New York Times February 2. LexisNexis: A6.
+
+The Globe and Mail (1993). Tensions mount between Togo, Ghana after killing of civilians. The Globe and Mail February 2. LexisNexis.

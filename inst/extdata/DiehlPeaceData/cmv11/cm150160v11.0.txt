@@ -1,0 +1,237 @@
+FILE: cm150160v11.0.txt
+DYAD: PARAGUAY-ARGENTINA
+RIVALRY: RIV347
+DISPUTE(S): MID1586 MID2012 
+RIVALRY: RIV348
+DISPUTE(S): MID1590 
+RIVALRY: RIV349
+DISPUTE(S): MID2047 MID1095 
+RIVALRY: RIV350
+DISPUTE(S): MID2147 
+RIVALRY: RIV351
+DISPUTE(S): MID1208 MID1209 
+
+PS: 19009999-19210411 .25 19210412-19910325 0.5 19910326-20209999 0.75
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+MERCOSUR dyad 
+
+For the period 19210412-19910325, the begin date was changed from 19210411 to 19219412 because the beginning day of this period was transposed with the ending date of the last period. Therefore, for period 19000101-19210411, end date was changed from 19210412 to 19210411. This was verified as the countries formally demarcated the border on April 12, 1921. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20220218
+PS-LAST-CHECKED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1586 MID2012 MID1590 
+
+MID2047 
+
+TERRMID: MID2047 3 -- not territory 
+TERRMID-CER: MID2047 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2047 3 -- not third party link to territory 
+TERRLINK-CER: MID2047 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2047 3 -- not maritime 
+MARITMID-CER: MID2047 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2047 3 -- not islands 
+ISLMID-CER: MID2047 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2047 1 -- civil war MID
+CIVWARMID-CER: MID2047 1 -- certain 
+CIVWARMID-NOTES: MID2047 from cm narrative, this MID was triggered by Paraguayan attacks on Argentine shipping and property and Argentina's subsequent threat to intervene in the Paraguayan civil war. Coded civil war MID because Argentina threatened to intervene in the civil war in Paraguay, connecting that issue to this MID. It is unclear why the attacks on Argentine shipping occurred beyong general animosity between the two countries. 
+
+CIVWARLINK: MID2047 3 -- not civil war link 
+CIVWARLINK-CER: MID2047 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2047 3 -- not coup 
+COUPMID-CER: MID2047 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2047 3 -- not coup link
+COUPLINK-CER: MID2047 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1095 
+
+TERRMID: MID1095 3 -- not territory 
+TERRMID-CER: MID1095 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1095 3 -- not third party link to territory 
+TERRLINK-CER: MID1095 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1095 3 -- not maritime 
+MARITMID-CER: MID1095 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1095 3 -- not islands 
+ISLMID-CER: MID1095 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1095 1 -- civil war MID
+CIVWARMID-CER: MID1095 1 -- certain 
+CIVWARMID-NOTES: MID1095 from cm narrative, this is another dispute that occurred during the Paraguayan civil war. Paraguayan attacks on Argentine shipping led to Argentina again threatening to intervene in the Paraguayan civil war, and this time, Argentina severed its diplomatic relations with Paraguay. Coded civil war MID because Argentina's threat to intervene in the Paraguay civil war connects that issue to this MID. 
+
+CIVWARLINK: MID1095 3 -- not civil war link 
+CIVWARLINK-CER: MID1095 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1095 3 -- not coup 
+COUPMID-CER: MID1095 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1095 3 -- not coup link
+COUPLINK-CER: MID1095 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2147 
+
+TERRMID: MID2147 3 -- not territory 
+TERRMID-CER: MID2147 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2147 1 -- third party link to territorial MID
+TERRLINK-CER: MID2147 3 -- uncertain 
+TERRLINK-NOTES: MID2147 from Gibler, Little, and Miller (2016: IIB-22), Bolivia and Paraguay were threatening to go to war over a territorial dispute and Argentina informed them that it would not tolerate war, pulling Argentina into this MID via its threat. GLM argue that there was no threat and this should therefore be dropped. Coded third party link to territorial MID because this was connected to the Bolivia-Paraguay territorial dispute, but coded uncertain because GLM argue this was not a true MID. 
+
+MARITMID: MID2147 3 -- not maritime 
+MARITMID-CER: MID2147 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2147 3 -- not islands 
+ISLMID-CER: MID2147 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2147 3 -- not civil war 
+CIVWARMID-CER: MID2147 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2147 3 -- not civil war link 
+CIVWARLINK-CER: MID2147 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2147 3 -- not coup 
+COUPMID-CER: MID2147 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2147 3 -- not coup link
+COUPLINK-CER: MID2147 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1208 
+
+TERRMID: MID1208 3 -- not territory 
+TERRMID-CER: MID1208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1208 3 -- not third party link to territory 
+TERRLINK-CER: MID1208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1208 3 -- not maritime 
+MARITMID-CER: MID1208 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1208 3 -- not islands 
+ISLMID-CER: MID1208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1208 1 -- civil war MID
+CIVWARMID-CER: MID1208 1 -- certain 
+CIVWARMID-NOTES: MID1208 from cm narrative, on 12/28/1959, Argentine and Paraguayan forces clashed on the border as a Paraguayan army patrol was searching for rebels along the Parana River. Coded civil war MID because this was connected to militarized rebels fighting the Paraguayan government. 
+
+CIVWARLINK: MID1208 3 -- not civil war link 
+CIVWARLINK-CER: MID1208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1208 3 -- not coup 
+COUPMID-CER: MID1208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1208 3 -- not coup link
+COUPLINK-CER: MID1208 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1209 
+
+TERRMID: MID1209 3 -- not territory 
+TERRMID-CER: MID1209 1 -- certain 
+TERRMID-NOTES: MID1209 from cm narrative, this MID is a clash on the Pilcomayo River that occurred on 5/15/1962. Coded not territory because ,although the border that is marked by the Pilcomayo was previously disputed, this dispute was settled in the 1800s and there is no indication that this MID marked or was a product of the territorial issue being reignited. 
+
+TERRLINK: MID1209 3 -- not third party link to territory 
+TERRLINK-CER: MID1209 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1209 3 -- not maritime 
+MARITMID-CER: MID1209 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1209 3 -- not islands 
+ISLMID-CER: MID1209 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1209 3 -- not civil war 
+CIVWARMID-CER: MID1209 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1209 3 -- not civil war link 
+CIVWARLINK-CER: MID1209 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1209 3 -- not coup 
+COUPMID-CER: MID1209 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1209 3 -- not coup link
+COUPLINK-CER: MID1209 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Argentina and Paraguay disputed the border region of Misiones beginning in 1856. Argentine troops and Paraguayan troops engaged in military hostilities beginning on April 13, 1865. Argentine and Paraguayan representatives signed a preliminary peace agreement in Asuncion on June 20, 1870. Argentine and Paraguayan representatives signed a border agreement in Buenos Aires on February 3, 1876, which provided for the arbitration of the border dispute. The president of Paraguay requested arbitration by President Ulysses S. Grant of the United States on January 13, 1877, and the president of Argentina requested arbitration on January 25, 1877. President Rutherford B. Hayes of the US accepted the request by both countries to arbitrate the border dispute on March 28, 1877. President Hayes issued an award on November 12, 1878, which granted much of the disputed territory to Paraguay. Foreign Minister Carlos Rodriquez of Argentina and Jose Z. Caminos of Paraguay signed an agreement in Buenos Aires on September 11, 1905, which provided for the establishment of a mixed commission to demarcate the disputed border. The countries formally demarcated the border on April 12, 1921.
+
+SOURCES-CM:
+Sources: Ireland, 1938, 27-34.
+
+NARRATIVE-CR:
+The rivalry between Argentina and Paraguay seemed to involve several different issues that were very interconnected. Essentially the disputes occur over friction between dictators of the two countries and each one's animosity toward the other state. The background of this animosity was largely due to a territorial issue over the Rio Plata system of rivers (Pilcomayo, Rio de la Plata, and Parana) which served as fuel for both political and boundary disputes. Originally, Argentina and Paraguay disputed the Misiones region through which the Pilcomayo River crosses. The changing course of the river allowed each side to argue its case for a different boundary. Additionally, the issue of freedom of navigation along the river system remained in question. 
+
+In 1845, Manuel de Rosas of Argentina closed the Rio de la Plata to Paraguayan shipping as a response to Paraguay's signing of a commerical treaty with the rebellious Argentine province of Corrientes. On December 4, 1845 President Lopez of Paraguay declared war on Argentine dictator Manuel de Rosas, crossing the Parana River in January 1846 to fight Argentine troops, MID1586. Argentina at this point was in the middle of its own civil war but managed to turn back the Paraguayn troops. In December 1850, Paraguay signed an alliance with Brazil to fight Rosas, MID2012. Rosas was defeated in 1852, leading to a treaty between the two countries that fixed the border at the Parana River and ended Paraguay's claims to the Misiones region. 
+
+MID1590 was the War of the Triple Alliance. Paraguay declared war on Argentina in 1856 for its failure to allow Paraguay to cross the Corrientes region in Argentina to fight Brazil, denial of title to the Misiones region, its support of Paraguayan rebels and support of Brazil. On March 1, 1870, Paraguay was defeated and its dictator Lopez was killed. The war proved disastrous for Paraguay. Its population was reduced by 2/3 from 1,000,000 to approximately 330,000. Economically the state was also ruined as well. War indemnities alone were more than the country could pay. In addition, both Brazil and Argentina militarily occupied the country until 1876. 
+
+MID2047 and MID1095 from 1911 to 1912 involved Paraguayan attacks on Argentine shipping and property and Argentina's subsequent threat to intervene in the Paraguayan civil war. On January 25, 1912 Argentina suspended its diplomatic relations with Paraguay in protest of the attacks. On February 18, 1912 Paraguay and Argentina signed a protocol that led to the settlement of Argentine claims. On February 18, 1912 Argentina resumed diplomatic relations with Paraguay. These disputes should not be considered part of the rivalry. 
+
+MID2147 in 1928 concerned Argentina's involvement in the Paraguayan and Bolivan dispute over the Chaco and is not a part of the rivalry. 
+
+On December 28, 1959 Argentine and Paraguayan forces clashed on the border as a Paraguayan army patrol was searching for rebels along the Parana River, MID1208. On May 15, 1962 Argentine and Paraguayan troops clashed along the border of the Pilcomayo River, MID1209. 
+
+With the last two disputes between Argentina and Paraguay concerning the border, it is uncertain as to whether or not these fit within the context of the earlier rivalry between the two countries. The War of the Triple Alliance really seems to end the earlier rivalry with the final two mids in the 1959 and 1962 signifying a potential new rivalry over the border. That being stated, the two countries signed an agreement in 1985 to expedite the demarcation of the boundaries in an effort to facilitate joint hydroelectric projects. Since there have been no militarized conflicts between the two countries since 1962 it seems that even if the last two mids are considered part of the earlier rivalry, the rivalry has now been terminated.
+
+SOURCES-CR:
+Warren 1949; Rennie 1945; Day 1987; Lynch 1981; New York Times 3/19/1911, 1/26/1912, 2/19/1912, 12/29/1959, 5/16/1962
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+

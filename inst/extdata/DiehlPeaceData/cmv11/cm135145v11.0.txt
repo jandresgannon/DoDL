@@ -1,0 +1,105 @@
+FILE: cm135145v11.0.txt
+DYAD: PERU - BOLIVIA
+RIVALRY: RIV300
+DISPUTE(S): MID2320 
+RIVALRY: RIV301
+DISPUTE(S): MID2321 MID1180 
+
+ 
+
+PSNOTES: 
+PS-LAST-CHANGED: 20170729
+PS-LAST-CHECKED: 20170730
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID2320 
+
+MID2321 
+
+TERRMID: MID2321 1 -- territorial MID
+TERRMID-CER: MID2321 1 -- certain 
+TERRMID-NOTES: MID2321 from cm narrative, in 1906, Peru and Bolivia had an outstanding territorial dispute that was in the process of arbitration. Before the decision was handed down, a minor border incident occurred here. From Schultz data, Bolivia occupied part of the disputed territory claimed by Peru, triggering Peruvian protest and this MID. Coded territorial MID because this MID occurred before arbitration settled the outstanding border dispute and was caused by occupation of the disputed territory. 
+
+TERRLINK: MID2321 3 -- not third party link to territory 
+TERRLINK-CER: MID2321 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2321 3 -- not maritime 
+MARITMID-CER: MID2321 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2321 3 -- not islands 
+ISLMID-CER: MID2321 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2321 3 -- not civil war 
+CIVWARMID-CER: MID2321 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2321 3 -- not civil war link
+CIVWARLINK-CER: MID2321 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2321 3 -- not coup 
+COUPMID-CER: MID2321 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2321 3 -- not coup link
+COUPLINK-CER: MID2321 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1180 
+
+TERRMID: MID1180 1 -- territorial MID
+TERRMID-CER: MID1180 1 -- certain 
+TERRMID-NOTES: MID1180 from cm narrative, Peru and Bolivia had signed a protocol accepting the outcome of the arbitration decision in 1909. Despite this, in 1910, a border clash occurred. Both governments agreed afterward to de-escalate the situation. Coded territorial MID because although the border had recently become delimited by the arbitration decision, this dispute was connected to residual tensions over the border dispute. 
+
+TERRLINK: MID1180 3 -- not third party link to territory 
+TERRLINK-CER: MID1180 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1180 3 -- not maritime 
+MARITMID-CER: MID1180 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1180 3 -- not islands 
+ISLMID-CER: MID1180 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1180 3 -- not civil war 
+CIVWARMID-CER: MID1180 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1180 3 -- not civil war link
+CIVWARLINK-CER: MID1180 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1180 3 -- not coup 
+COUPMID-CER: MID1180 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1180 3 -- not coup link
+COUPLINK-CER: MID1180 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Bolivia and Peru disputed their border beginning in the 1820s. Bolivian and Peruvian representatives signed a preliminary peace agreement in Piquisa on July 6, 1828, and signed a Chilean-mediated peace agreement in Arequipa on November 8, 1831. Peruvian troops were defeated by Bolivian troops commanded by General Jose Ballivan near Ingavi on November 18, 1841. Chile mediated the signing of a peace agreement by Bolivian and Peruvian representatives in Puno on June 7, 1842, which provided for the withdrawal of Bolivian troops from Peruvian territory. Bolivian and Peruvian representatives signed an agreement on December 30, 1902, which provided for the submission of the border dispute to Argentina for arbitration. The countries asked the government of Argentina to arbitrate the border dispute on July 6, 1904, and President Julio A. Roca of Argentina agreed to arbitrate the dispute on July 13, 1904. President Jose Figueroa Alcorta of Argentina appointed a three-member arbitration commission, which awarded 22,000 square miles of the disputed territory to Bolivia and 33,000 square miles of the territory to Peru on July 9, 1909. Bolivians demonstrated against the Argentine and Peruvian embassies in La Paz on July 10-12, 1909. The countries signed a protocol on September 15, 1909, which provided for formal acceptance of the arbitration decision. Bolivian troops and Peruvian troops clashed in the Manuripi region on November 19, 1910. Bolivian and Peruvian representatives signed a protocol in Lima on March 30, 1911, which expressed regret for the military clashes in the Manuripi region. Bolivia and Peru signed a non-aggression pact on September 14, 1936.
+
+SOURCES-CM:
+Foreign Relations of the United States (FRUS), 1909, 502-507; Ireland, 1938, 95-109; Survey of International Affairs (SIA), 1936, 941.
+
+NARRATIVE-CR:
+Peru and Bolivia experienced three disputes from 1875 to 1911, MID2320 MID2321 and MID1180. While all three disputes involve the border, the first mid in 1875 does not involve an actual dispute over territory like the other two mids from 1906 to 1911. Peruvian troops mobilized near the border with Bolivia in 1875 to protect against a possible invasion from Peruvian exile and ex-President Pierola, living in asylum in Bolivia, MID2320. Pierola had taken asylum in Bolivia after being deposed in a rebellion. Because of the reason for the mobilization on the border, it seems reasonable to classify this first dispute as isolated and not involving the territorial claims evident in the final two disputes, MID2321 and MID1180.
+
+In an effort to solve the territorial dispute between the two countries, Bolivian and Peruvian representatives signed an agreement on December 30, 1902, which provided for the submission of the border dispute to Argentina for arbitration. The countries asked the government of Argentina to arbitrate the border dispute on July 6, 1904, and President Julio A. Roca of Argentina agreed to arbitrate the dispute on July 13, 1904. Peru and Bolivia experienced one mid over the border during the arbitration period in 1906, MID2321. President Jose Figueroa Alcorta of Argentina appointed a three-member arbitration commission, which awarded 22,000 square miles of the disputed territory to Bolivia and 33,000 square miles of the territory to Peru on July 9, 1909.
+
+The countries signed a protocol on September 15, 1909, which provided for formal acceptance of the arbitration decision. Despite the protocol, Bolivian and Peruvian troops clashed in the Manuripi region on November 19, 1910, MID1180. Bolivian and Peruvian representatives signed another protocol in Lima on March 30, 1911, which expressed regret for the military clashes in the Manuripi region. Bolivia and Peru signed a non-aggression pact on September 14, 1936 further solidifying the arbitration decision and the reluctance to engage in military hostilities to solve disputes between them.
+
+With only the final two disputes involving direct conflict over the border, it appears that Bolivia and Peru should not actually be classified as a rivalry. At any rate, the border issue between the two countries was settled with the arbitration decision by Argentina.
+
+SOURCES-CR:
+Ireland 1938; New York Times 5/27/1875; Hudson 1991
+

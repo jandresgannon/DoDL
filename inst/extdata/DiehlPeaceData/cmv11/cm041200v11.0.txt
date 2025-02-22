@@ -1,0 +1,215 @@
+FILE: cm041200v11.0.txt
+DYAD: HAITI - UNITED KINGDOM
+RIVALRY: RIV162
+DISPUTE(S): MID1683 MID2683 MID3136 
+RIVALRY: RIV163
+DISPUTE(S): MID1002 
+RIVALRY: RIV164
+DISPUTE(S): MID4016 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20170706
+PS-LAST-CHECKED: 20170706
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1683 
+
+TERRMID: MID1683 3 -- not territory
+TERRMID-CER: MID1683 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1683 3 -- not third party link to territory 
+TERRLINK-CER: MID1683 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1683 3 -- not maritime 
+MARITMID-CER: MID1683 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1683 3 -- not islands 
+ISLMID-CER: MID1683 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1683 1 -- civil war MID
+CIVWARMID-CER: MID1683 1 -- certain
+CIVWARMID-NOTES: MID1683 from cm narrative, this MID occurred when the UK participated in a naval blockade of Haiti and supplied arms to Haitian rebels in an 1883 rebellion. Coded civil war MID because the events of this MID include British intervention in a Haitian rebellion which featured militarized rebel groups. 
+
+CIVWARLINK: MID1683 3 -- not civil war link
+CIVWARLINK-CER: MID1683 1 -- certain
+CIVWARLINK-NOTES: MID1683 this is a bilateral civil war MID. 
+
+COUPMID: MID1683 3 -- not coup 
+COUPMID-CER: MID1683 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1683 3 -- not coup link
+COUPLINK-CER: MID1683 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2683 
+
+TERRMID: MID2683 3 -- not territory
+TERRMID-CER: MID2683 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2683 3 -- not third party link to territory 
+TERRLINK-CER: MID2683 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2683 3 -- not maritime 
+MARITMID-CER: MID2683 1 -- certain
+MARITMID-NOTES: MID2683 from cm narrative, occurred July 1886. This is one of two MIDs triggered when UK sent warships to free British nationals from jail and collect on financial claims. Coded not maritime because the countries were not disputing a maritime boundary. 
+
+ISLMID: MID2683 3 -- not islands 
+ISLMID-CER: MID2683 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2683 3 -- not civil war 
+CIVWARMID-CER: MID2683 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2683 3 -- not civil war link
+CIVWARLINK-CER: MID2683 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2683 3 -- not coup 
+COUPMID-CER: MID2683 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2683 3 -- not coup link
+COUPLINK-CER: MID2683 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3136 
+
+TERRMID: MID3136 3 -- not territory
+TERRMID-CER: MID3136 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3136 3 -- not third party link to territory 
+TERRLINK-CER: MID3136 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3136 3 -- not maritime 
+MARITMID-CER: MID3136 1 -- certain
+MARITMID-NOTES: MID3136 from cm narrative, occurred March 1887. This is one of two MIDs triggered when UK sent warships to free British nationals from jail and collect on financial claims. Coded not maritime because the countries were not disputing a maritime boundary. 
+
+ISLMID: MID3136 3 -- not islands 
+ISLMID-CER: MID3136 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3136 3 -- not civil war 
+CIVWARMID-CER: MID3136 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3136 3 -- not civil war link
+CIVWARLINK-CER: MID3136 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3136 3 -- not coup 
+COUPMID-CER: MID3136 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3136 3 -- not coup link
+COUPLINK-CER: MID3136 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1002 
+
+TERRMID: MID1002 3 -- not territory
+TERRMID-CER: MID1002 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1002 3 -- not third party link to territory 
+TERRLINK-CER: MID1002 1 -- certain
+TERRLINK-NOTES: MID1002 from cm narrative, this is a multilateral MID in which US, UK, and Canadian ships entered the Gulf of Gonave to coerce Haiti to leave Dominican territory. Haiti had occupied a chancery in DR to search for a former lieutenant who President Duvalier suspected of killing his children's limo driver and bodyguards. Coded not third party link to territory because this was not a claim on DR territory by Haiti, but was a search for someone Haiti suspected of hiding in DR territory. 
+
+MARITMID: MID1002 3 -- not maritime 
+MARITMID-CER: MID1002 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1002 3 -- not islands 
+ISLMID-CER: MID1002 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1002 3 -- not civil war 
+CIVWARMID-CER: MID1002 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1002 3 -- not civil war link
+CIVWARLINK-CER: MID1002 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1002 3 -- not coup 
+COUPMID-CER: MID1002 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1002 3 -- not coup link
+COUPLINK-CER: MID1002 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4016 
+
+TERRMID: MID4016 3 -- not territory
+TERRMID-CER: MID4016 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4016 3 -- not third party link to territory 
+TERRLINK-CER: MID4016 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4016 3 -- not maritime 
+MARITMID-CER: MID4016 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4016 3 -- not islands 
+ISLMID-CER: MID4016 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4016 3 -- not civil war 
+CIVWARMID-CER: MID4016 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4016 3 -- not civil war link
+CIVWARLINK-CER: MID4016 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4016 1 -- coup MID
+COUPMID-CER: MID4016 1 -- certain 
+COUPMID-NOTES: MID4016 from cm narrative, this is an attempt by the US, Argentina, Canada, the Dominican Republic, France, Haiti, the Netherlands, and the United Kingdom to restore the deposed President Aristide to power. the countries involved in this MID deployed warships off of Haiti's coast. Coded coup MID because a coup in Haiti led to the events of this MID. 
+
+COUPLINK: MID4016 3 -- not coup link
+COUPLINK-CER: MID4016 1 -- certain 
+COUPLINK-NOTES: MID4016 coup in Haiti does not appear in any other countries.
+
+MID3 1993-2001:
+
+MID4016
+rivalry=41200 nationa=UNITED KINGDOM nationb=HAITI MID4016 19931020-19940929 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute is comprised of a series of incidents generated by United States led efforts to restore the rule of Haitian President Aristide after he was deposed in a coup. The incidents begin with a naval blockade in October of 1993 where the United States was joined by a number of other nations (Argentina, Canada, the Dominican Republic, France, Haiti, the Netherlands, and the United Kingdom). As the blockade wore on, and the military junta led by General Cedras remained in place, the United States resorted to a number of threats of military action and displays of force. The dispute was resolved with the return of Aristide only after the intercession of US Special Envoy Jimmy Carter. An invasion force was in the air as the deal was brokered. First day of dispute was on 10/20/1993 and last day of dispute was on 9/29/1994.
+
+RIVNOTES:
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The rivalry between the UK and Haiti took place in the 19th century and resulted from British attempts to collect financial claims on the behalf of British nationals. In 1875, the UK sent a warship to La Tortue to collect a mahogany concession on behalf of a British national. This MID is not recorded in the MID 3.0 dataset. In 1883, the UK participated in a naval blockade of Haiti with France and Spain, along with supplying arms to liberal Haitian rebels and exiles in an 1883 rebellion, MID1683. This was mostly due to the fact that the Haitian government refused to recognize claims made by the British. In July 1886 and March 1887, the UK sent a naval ship to Haiti to secure the release of a British national from jail and collect further claims, MID2683 and MID3136. In 1887, Haiti agreed to settle the largest British claim, known as the *Maunder claim*, leading to the withdraw of the British ship from Haitian waters. 
+
+The rivalry ends in the 19th century probably because of increasing US intervention which sought to keep European powers out of Haiti while reconciling their claims. Beginning in 1881, the US had five interventions that serve to illustrate this point, eventually leading to the US occupation of Haiti. Further British claims thus became resolved through diplomacy with Haitian and US officials instead of through force or intimidation.
+
+In the 20th century, there were two disputes between the UK and Haiti, in 1963 and 1994, respectively. These are isolated and not part of the 19th century rivalry. 
+
+On April 26, 1963, Haitian troops entered a Dominican chancery in search of fromer Lieutenant Francois Benoit who President Duvalier suspected of murdering the driver and two bodyguards of his children's limosine. These murders came after a series of terror attacks by Duvalier to eliminate any rivals from elections that were to be held in February. These elections never occured. On the 28th of April, the Dominican Armed Forces went on alert as Juan Bosch demanded that the Haitians leave the chancery and withdraw its troops that had it surrounded. The British ship, H.M.S. Cavalier, along with Canadian and US ships entered the Gulf of Gonave in preparation for intervention, MID1002. On May 15, 1963 Duvalier declared the beginning of an unconstitutional second term, ending or at least limiting his terror attacks and ending any justifications for foreign intervention. On June 3, 1963, the British ship left the Gulf of Gonave along with the US. 
+
+In 1993, the UK sent a frigate to Haiti to participate in an international naval blockade against the country to enforce a UN embargo, MID4016. 
+
+SOURCES-CR: 
+Weinstein and Segal (1992); Heinl Jr. (1978); Heinl and Heinl (1996); Lloyd's List 10/20/93 

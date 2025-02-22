@@ -1,0 +1,661 @@
+FILE: cm200710v11.0.txt
+DYAD: UNITED KINGDOM-CHINA
+RIVALRY: RIV473
+DISPUTE(S): MID309 MID31
+RIVALRY: RIV474
+DISPUTE(S): MID2208 MID145
+RIVALRY: RIV475
+DISPUTE(S): MID51 MID2009 MID2991 MID2989 MID2984 MID2985 MID2034 MID2038 MID1353 MID2900 MID2926
+
+PS: 19009999-19450814 0.5 19500817-19681117 0.00 19681118-19721001 -9 19721002-19970701 .25 19970702-20020701 .5
+
+PSNOTES: 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-LAST-CHANGED: 20200531
+PS-LAST-CHECKED: 20290531
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID309
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention, including UK here. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2208 
+
+TERRMID: MID2208 3 -- not territory 
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 3 -- not third party link to territory 
+TERRLINK-CER: MID2208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain 
+MARITMID-NOTES: MID2208 from cm narrative, the Great Powers (Germany, Japan, France, UK, US, Italy, Russia) demanded that China remove mines it had placed in the Dagu Harbor, as that harbor provided access to a major Chinese river. Those countries jointly threatened China, triggering this MID. China exchanged naval fire with Japan as part of this incident. Coded not maritime because the maritime boundary was not disputed between China and UK. The UK was coercing China into allowing the UK to engage in trade via Chinese resources, but the UK was not making a claim on Chinese maritime boundaries. 
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2208 3 -- not civil war link 
+CIVWARLINK-CER: MID2208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID145 
+
+TERRMID: MID145 3 -- not territory 
+TERRMID-CER: MID145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID145 3 -- not third party link to territory 
+TERRLINK-CER: MID145 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID145 3 -- not maritime 
+MARITMID-CER: MID145 1 -- certain 
+MARITMID-NOTES: MID145 involved naval shelling, but was not connected to any maritime claims. See CIVWARMID. 
+
+ISLMID: MID145 3 -- not islands 
+ISLMID-CER: MID145 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID145 1 -- civil war MID
+CIVWARMID-CER: MID145 1 -- certain 
+CIVWARMID-NOTES: MID145 from cm002710 narrative, this is a naval incident involving US and UK vs. China that occurred February and March 1927. China had been divided along Communist and KMT (led by Chiang Kai-Shek, an anti-communist) fighting for years and would continue until 1949 as the Chinese Civil War. This MID occurred when fighting broke out in Shanghai and Nanking, causing US and UK naval and ground forces to be increased at those locations, and some shelling of Chinese territory occurred to protect US and UK interests. Coded civil war MID because militarized factions in China broke out into fighting, threatening US and UK interests and causing those countries to threaten and use force against China, triggering this MID. 
+
+CIVWARLINK: MID145 3 -- not civil war link 
+CIVWARLINK-CER: MID145 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID145 3 -- not coup 
+COUPMID-CER: MID145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID145 3 -- not coup link
+COUPLINK-CER: MID145 1 -- certain 
+COUPLINK-NOTES:
+
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 narrative, this MID is the Korean War. The UK fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and UK's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and UK did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because the UK and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 3 -- not civil war 
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Like China, Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because the Korean civil war is outside of this dyad, and the UK and China fought here due to their opposing support in that war. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2009 
+
+TERRMID: MID2009 3 -- not territory 
+TERRMID-CER: MID2009 1 -- certain 
+TERRMID-NOTES: MID2009 from Gibler 2018, China accused UK of border violations across the Hong Kong border. UK and Chinese ships exchanged fire near islands close to Hong Kong. Coded not territory because UK and China were not disputing Hong Kong. 
+
+TERRLINK: MID2009 3 -- not third party link to territory 
+TERRLINK-CER: MID2009 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2009 3 -- not maritime 
+MARITMID-CER: MID2009 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2009 3 -- not islands 
+ISLMID-CER: MID2009 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2009 3 -- not civil war 
+CIVWARMID-CER: MID2009 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2009 3 -- not civil war link 
+CIVWARLINK-CER: MID2009 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2009 3 -- not coup 
+COUPMID-CER: MID2009 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2009 3 -- not coup link
+COUPLINK-CER: MID2009 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2991 
+
+TERRMID: MID2991 3 -- not territory 
+TERRMID-CER: MID2991 1 -- certain 
+TERRMID-NOTES: MID2991 from Gibler 2018, UK and China again exchanged naval fire near Hong Kong. Coded not territory because Hong Kong was not disputed. 
+
+TERRLINK: MID2991 3 -- not third party link to territory 
+TERRLINK-CER: MID2991 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2991 3 -- not maritime 
+MARITMID-CER: MID2991 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2991 3 -- not islands 
+ISLMID-CER: MID2991 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2991 3 -- not civil war 
+CIVWARMID-CER: MID2991 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2991 3 -- not civil war link 
+CIVWARLINK-CER: MID2991 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2991 3 -- not coup 
+COUPMID-CER: MID2991 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2991 3 -- not coup link
+COUPLINK-CER: MID2991 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2989 
+
+TERRMID: MID2989 3 -- not territory 
+TERRMID-CER: MID2989 1 -- certain 
+TERRMID-NOTES: MID2989 from Gibler 2018, UK and China again exchanged naval fire near Hong Kong. Coded not territory because Hong Kong was not disputed. 
+
+TERRLINK: MID2989 3 -- not third party link to territory 
+TERRLINK-CER: MID2989 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2989 3 -- not maritime 
+MARITMID-CER: MID2989 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2989 3 -- not islands 
+ISLMID-CER: MID2989 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2989 3 -- not civil war 
+CIVWARMID-CER: MID2989 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2989 3 -- not civil war link 
+CIVWARLINK-CER: MID2989 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2989 3 -- not coup 
+COUPMID-CER: MID2989 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2989 3 -- not coup link
+COUPLINK-CER: MID2989 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2984 
+
+TERRMID: MID2984 3 -- not territory 
+TERRMID-CER: MID2984 1 -- certain 
+TERRMID-NOTES: MID2984 from Gibler 2018, UK and China again exchanged naval fire near Hong Kong. Coded not territory because Hong Kong was not disputed. 
+
+TERRLINK: MID2984 3 -- not third party link to territory 
+TERRLINK-CER: MID2984 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2984 3 -- not maritime 
+MARITMID-CER: MID2984 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2984 3 -- not islands 
+ISLMID-CER: MID2984 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2984 3 -- not civil war 
+CIVWARMID-CER: MID2984 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2984 3 -- not civil war link 
+CIVWARLINK-CER: MID2984 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2984 3 -- not coup 
+COUPMID-CER: MID2984 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2984 3 -- not coup link
+COUPLINK-CER: MID2984 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2985 
+
+TERRMID: MID2985 3 -- not territory 
+TERRMID-CER: MID2985 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2985 3 -- not third party link to territory 
+TERRLINK-CER: MID2985 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2985 3 -- not maritime 
+MARITMID-CER: MID2985 3 -- uncertain 
+MARITMID-NOTES: MID2985 from Gibler, Little, and Miller 2016, China seized a UK naval vessel and quickly released it and its crew. Coded not maritime because the countries were not disputing a maritime boundary. Coded uncertain because GLM argue that this case be dropped, as there is no evidence of UK protest.
+
+ISLMID: MID2985 3 -- not islands 
+ISLMID-CER: MID2985 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2985 3 -- not civil war 
+CIVWARMID-CER: MID2985 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2985 3 -- not civil war link 
+CIVWARLINK-CER: MID2985 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2985 3 -- not coup 
+COUPMID-CER: MID2985 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2985 3 -- not coup link
+COUPLINK-CER: MID2985 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2034 
+
+TERRMID: MID2034 3 -- not territory 
+TERRMID-CER: MID2034 1 -- certain 
+TERRMID-NOTES: MID2034 from Gibler 2018, China shot down a UK airliner near Hainan Island. Coded not territory because they were not disputing a boundary. 
+
+TERRLINK: MID2034 3 -- not third party link to territory 
+TERRLINK-CER: MID2034 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2034 3 -- not maritime 
+MARITMID-CER: MID2034 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2034 3 -- not islands 
+ISLMID-CER: MID2034 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2034 3 -- not civil war 
+CIVWARMID-CER: MID2034 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2034 3 -- not civil war link 
+CIVWARLINK-CER: MID2034 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2034 3 -- not coup 
+COUPMID-CER: MID2034 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2034 3 -- not coup link
+COUPLINK-CER: MID2034 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2038 
+
+TERRMID: MID2038 3 -- not territory 
+TERRMID-CER: MID2038 1 -- certain 
+TERRMID-NOTES: MID2038 from Gibler 2018, China protested two occasions of UK aircraft violating China's airspace. Coded not territory because they were not disputing territory. 
+
+TERRLINK: MID2038 3 -- not third party link to territory 
+TERRLINK-CER: MID2038 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2038 3 -- not maritime 
+MARITMID-CER: MID2038 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2038 3 -- not islands 
+ISLMID-CER: MID2038 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2038 3 -- not civil war 
+CIVWARMID-CER: MID2038 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2038 3 -- not civil war link 
+CIVWARLINK-CER: MID2038 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2038 3 -- not coup 
+COUPMID-CER: MID2038 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2038 3 -- not coup link
+COUPLINK-CER: MID2038 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: MID1353 this is connected to the Laotian Civil War, and China and UK's opposing support. That conflict did not have a territorial dispute element; it was purely civil war in nature. See CIVWARLINK.
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm002710 narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos, and the USSR provided less direct support to communist insurgents. The UK supported the Royal Laotian Government (RLG) forces. Chinese forces directly engaged in combat with RLG forces, triggering this MID due to the UK support for RLG forces and China's support for communist forces. Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2900 
+
+TERRMID: MID2900 3 -- not territory 
+TERRMID-CER: MID2900 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2900 3 -- not third party link to territory 
+TERRLINK-CER: MID2900 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2900 3 -- not maritime 
+MARITMID-CER: MID2900 3 -- uncertain 
+MARITMID-NOTES: MID2900 from Gibler, Little, and Miller 2016, a UK ship was seized when it strayed into Chinese waters. Coded not maritime because the UK and China were not disputing a maritime boundary. Coded uncertain because GLM recommend this case be dropped, as UK did not protest. 
+
+ISLMID: MID2900 3 -- not islands 
+ISLMID-CER: MID2900 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2900 3 -- not civil war 
+CIVWARMID-CER: MID2900 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2900 3 -- not civil war link 
+CIVWARLINK-CER: MID2900 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2900 3 -- not coup 
+COUPMID-CER: MID2900 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2900 3 -- not coup link
+COUPLINK-CER: MID2900 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2926 
+
+TERRMID: MID2926 3 -- not territory 
+TERRMID-CER: MID2926 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2926 3 -- not third party link to territory 
+TERRLINK-CER: MID2926 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2926 3 -- not maritime 
+MARITMID-CER: MID2926 1 -- certain 
+MARITMID-NOTES: MID2926 from Gibler 2018, a UK ship was seized when it strayed into Chinese waters. Coded not maritime because there was no maritime boundary dispute between the countries. 
+
+ISLMID: MID2926 3 -- not islands 
+ISLMID-CER: MID2926 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2926 3 -- not civil war 
+CIVWARMID-CER: MID2926 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2926 3 -- not civil war link 
+CIVWARLINK-CER: MID2926 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2926 3 -- not coup 
+COUPMID-CER: MID2926 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2926 3 -- not coup link
+COUPLINK-CER: MID2926 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+Hong Kong island was ceded to the British by the *Treaty of Nanking* in 1842, and the New Territories were leased from China to Britain in 1898. British troops intervened to protect its legation in Peking during the Boxer rebellion beginning on May 31, 1900, including some 3,000 British troops that entered Peking to relieve the foreign legations on August 15, 1900. China and Britain signed a peace agreement on September 12, 1901. 
+
+British and Chinese troops clashed in Wanshien on September 5, 1926, resulting in the deaths of eight British soldiers and some 300 Chinese nationals. 
+
+Japanese troops occupied Hong Kong from December 25, 1941 to August 30, 1945. Chinese troops fired on the British naval ship *Concord *near Hong Kong on August 17, 1950. A Chinese naval ship fired on a British patrol boat near Hong Kong on September 9, 1953, resulting in the deaths of seven individuals. Britain protested to the Chinese government on September 12, 1953, but the Chinese government rejected the protest on September 30, 1953. Chinese military aircraft shot down a British civilian aircraft over the South China Sea on July 23, 1954, resulting in the deaths of ten individuals. Britain formally protested the downing of the civilian aircraft on July 24, 1954. Chinese troops and Hong Kong police clashed in the village of Shataukok near the border on July 8, 1967, resulting in the deaths of five policemen. The Chinese representative to the United Nations announced his country's claim to Hong Kong on March 3, 1972. Britain and China signed an agreement on December 19, 1984, which provided for the return of Hong Kong to China. Britain formally returned Hong Kong to China on July 1, 1997.
+
+SOURCES-CM: Clodfelter, 1992, 643-644; Donelan and Grieve, 1973, 265-267; *Facts on File*, July 23-29, 1954; Jessup, 1998, 285-288; *Keesing*, September 2-9, 1950, October 24-31, 1953, July 15-22, 1967, September 23-30, 1967; *Survey of International Affairs *(SIA), 1926, 520.
+
+NARRATIVE-CR:
+
+The rivalry between the UK and the PRC was fought over a number of issues. The rivalry can be divided into two phases: the years prior to World War II and the years after. In the pre-WWII phase the UK sought to protect its interest in Asia/China and to assert its position in Asia as a Great Power. The UK took this course of action as did other great powers at the time such as the US, France, Russia, Italy, and Germany. In the years following World War II the Chinese Civil War and the PLA forces victory the issues at stake were different. They included: the status of the British territorial control over Hong Kong, the Korean War, and the British opposition to communism in the Cold War and her efforts toward this position. 
+
+MID309 or Chinese concessions III occurred from March 25 to April 1, 1898. The Chinese acceded to Russian demands and turned over sovereignty over Port Arthur, a strategic point and the permission to build a rail link to the Port. This was a threat to Great Britain. In response to the Russian/Chinese agreement the British Navy in the area prepared for war on China to pressure the Chinese into agreeing to demands that were favorable to the British. 
+
+MID31 is the Boxer Rebellion. Conservative opponents of reform in China gave clandestine backing to the anti-foreign and anti-Christian movement of secret societies known as Yihetuan (Society of Righteousness and Harmony). The movement has been better known in the West as the Boxers (from an earlier name-Yihequan, Righteousness and Harmony Boxers). In 1900, Boxer bands spread over the north China countryside, burning missionary facilities and killing Chinese Christians. Finally, in June 1900, the Boxers besieged the foreign concessions in Beijing and Tianjin, an action that provoked an allied relief expedition by the offended nations that included the United Kingdom. British troops intervened to protect its legation in Peking during the Boxer rebellion beginning on May 31, 1900, including some 3,000 British troops that entered Peking to relieve the foreign legations on August 15, 1900. The Qing declared war against the invaders, who easily crushed their opposition and occupied north China. Under the Protocol of 1901, the court was made to consent to the execution of ten high officials and the punishment of hundreds of others, expansion of the Legation Quarter, payment of war reparations, stationing of foreign troops in China, and razing of some Chinese fortifications.
+
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral mid involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+British and Chinese troops clashed in Wanshien on September 5, 1926, resulting in the deaths of eight British soldiers and some 300 Chinese nationals. 
+
+MID145 occurred in February and March of 1927. Fighting at Shanghai caused the Great Power's to increase their naval forces in the region. In March, a naval guard was stationed at American consulate at Nanking after Nationalist forces captured the city. American and British destroyers later used shell fire to protect Americans and other foreigners. Subsequently additional forces of marines and naval forces were stationed in the vicinity of Shanghai and Tientsin.
+
+MID51 is the Korean War. The United Kingdom fought as allies of the United States and South Korea in the Korean War. The PRC fought in support of North Korea against the US and the UK. 
+
+MID2009 occurred in the midst of the British decision to send troops stationed in Hong Kong to Korea to aid in the UN operation there. Reports vary depending on which government is reporting. It appears that both sides agree that a British war ship and a PRC shore based artillery unit exchanged rounds on and after August 17, 1950. The question is over who initiated the actions. 
+
+MID2991 occurred from February through June of 1951. This dispute reflects the tension between Hong Kong, a British territory at the time, and the PRC. The PRC restricted access to the mainland and this disrupted daily communting that previously took place. Hong Kong kept a couple of dozen planes 
+
+MID2989 occurred from September 25 through October 3, 1952. This mid is coded as a mutual use of force in this bilateral mid. I was not able to locate any record of a use of force during this period. 
+
+MID2984 occurred on September 9, 1953. A Chinese naval ship fired on a British patrol boat near Hong Kong on September 9, 1953, resulting in the deaths of seven individuals. Britain protested to the Chinese government on September 12, 1953, but the Chinese government rejected the protest on September 30, 1953. 
+
+MID2985 occurred on 6/16/1954. I was not able to locate information on this dispute. 
+
+MID2034 occurred on July 23, 1954. Chinese war planes attacked and shot down a British passenger plane flying near Hainan Island. 
+
+MID2038 occurred on August 27, 1958. This mid is coded as a display of PRC force against the UK. The only incidents found at this time is the closing of a pro-communist school in Hong Kong and PRC protests about the closing. The PRC also claimed that British war planes violated PRC airspace at this time. 
+
+MID1353 takes place during the second Laotian Civil War that occurs from 1963 until 1973. China is involved in direct support of the Pathet Lao from May of 1962 until July of 1964. China provided direct aid to the communist forces in Laos and conducted direct military operations in Northern Laos. Much of the activity China was involved in centered on completing a road network in Northern Laos that would connect North Vietnam, Laos and Thailand. The road network would provide access to supplies and troops for the communist groups in all three countries. Chinese forces were also involved in direct military confrontation with the Royal Laotian Government. Both the United States and the Soviet Union were involved in this dispute in support of their Cold War allies which included the United Kingdom. Five thousand US Marines were landed from May 17 through July 30, 1962.
+
+MID2900 occurred on November 30, 1964. In this dispute, 9 Britons went missing off the coast of China in a small boat from a British Carrier. The British suspected that the Chinese captured the small craft. 
+
+MID2926 occurred from June 30, 1968 until November, 17, 1968. The Chinese forced over a dozen British diplomats to remain in China for several months. This caused an increase in tension between the two countries. China also deported British diplomats it considered spies. 
+
+A number of events of considerable significance took place at roughly the same time as the last disputes between the UK and the PRC. Many of these events could have the significance to serve as a political distraction for one or both parties to the rivalry. Among those events was the Cultural Revolution that happened from 1966 until 1976. Between 1966 and 1969, Mao encouraged revolutionary committees containing Red Guards to take power from the Chinese Communist Party authorities of the state. In the chaos that ensued, many died and millions more were imprisoned. Although the period after 1969 was less chaotic, the leaders of the Cultural Revolution proper remained in power and this is now widely considered to be a period of economic stagnation. Amidst the Cultural Revolution there were serious struggles for power within China. These were especially contenscious in 1967. There were massive power struggles in local governments across the nation. Many purges took place among local governments, which stopped functioning altogether. 
+
+The PRC had a significant leadership changes in 1976 with Mao's death and the death of Foreign Minister Zhou Enlai. At this point the `Gang of Four' was arrested and eventually Deng Xiaoping took power in the PRC. 
+
+In Britain, the General Election was held in 1964. It resulted in a narrow Labour victory. Harold Wilson became Prime Minister. In 1967, France again vetoed Britain's application to join the European Economic Community (Common Market). French President Charles de Gaulle also blocked Britain from joining in 1963. Also in 1967, an economic crisis forced the government to devalue the pound by about 14 per cent to try to slow inflation. In 1969, the British Army took over security in Northern Ireland in August. British troops were deployed to stop sectarian fighting and rioting following a People's Democracy march. The Irish Republican Party (IRA) divided to form the Official and Provisional IRA. The latter became extremely militant and increased violence against civilian targets in Ireland and Britain. Also in 1969, Spain closed the border with the British overseas territory of Gibraltar. The Spanish leader General Franco hoped to cripple the peninsula's economy. The border was reopened in 1985. In 1970, the Conservatives won the June General Election and Edward Heath became Prime Minister. 
+
+Britain and China signed an agreement on December 19, 1984, which provided for the return of Hong Kong to China. Britain formally returned Hong Kong to China on July 1, 1997.
+
+SOURCES-CR:
+
+Clodfelter, 1992, 643-644; Donelan and Grieve, 1973, 265-267; *Facts on File*, July 23-29, 1954; http://en.wikipedia.org/wiki/; Jessup, 1998, 285-288; *Keesing*, September 2-9, 1950, October 24-31, 1953, July 15-22, 1967, September 23-30, 1967; New York Times 7/25/1954; 12/1/1964; Survey of International Affairs (SIA), 1926, 520; Times (London) 8,25,1950, 7/3-4/1968; Mar 25, 1898; Mar 28, 1898; Apr 05, 1898
+
+PS-NARRATIVE:
+
+19681118-19721001 Transition 
+
+The last dispute between Great Britain and China occurs in 1968 (MID2926). MID2926 ended on November 17, 1968. This is an incident involving the detention of British diplomats in China for several months. Following this incident, the major issue of contention between the two countries revolved around the status of Hong Kong. Great Britain viewed Hong Kong as a colonial possession and China viewed Hong Kong as a territory of China. During the post 1968 period, the two countries preferred to not directly and openly challenge the other on the issue. 
+
+In 1971, the two countries began talks aimed at normalizing diplomatic relations currently only at the Charge d' Affairs level. In March of 1972, the Chinese ambassador gave a speech at the United Nations requesting that Hong Kong be removed from the cases of colonial states seeking independence. Prior to this time, Hong Kong was considered a colony seeking independence. The United Nations monitored these cases closely, receiving yearly reports from the administering state-in this case Great Britain. Status as a colony seeking independence was a sore point, as China viewed Hong Kong as a territorial possession. Removing Hong Kong from this list would allow the status quo of British administration to continue without China having to relinquish their claim of sovereignty. In November of 1971 the United Nations voted in favor of removing Hong Kong from the list. This effectively removed the future of Hong Kong from the hands of the people and government of Hong Kong, allowing China and Great Britain to negotiate over its fate. Eliminating the possibility of Hong Kong declaring independence opened the door for the two countries to attempt normalization of relations.
+
+The next obstacle to normalizing relations was the status of Taiwan. Britain was forced to acknowledge that Taiwan was a province of the People's Republic and remove the official British representation in Taiwan. These two events opened the door for trade and cultural exchange talks in October of 1972. China and Great Britain also exchanged ambassadors in 1972, upgrading relations from the Charge d' Affairs level. Relations between Great Britain and China are also helped by improved relations between the United States and China. The period from 1968, the timing of the last MID, to 1972 can be viewed as a transition period out of rivalry. The two countries are able to move toward exchanging ambassadors and engaging in talks to settle differences. 
+
+19721002-19970701 .25 
+
+In the mid-1970s Hong Kong's long term status again became a problem. The prospect of Britain's lease of Hong Kong expiring in 1997 made long term business investors nervous. They were afraid that when control of Hong Kong reverted to China, capitalist interests in Hong Kong would lose all of their assets. In order to reassure investors, Great Britain suggested that Hong Kong vote to put aside the lease. This would allow the 1997 expiration date to pass without Great Britain laying permanent claim to the colony. In a 1979 meeting between Chinese leader Deng Xiaoping and the governor of Hong Kong, the subject was broached. Putting aside the lease and potentially lengthening Great Britain's control of Hong Kong was unacceptable to the Chinese government. Instead, Deng Xiaoping reassured the governor that, although all future negotiations between Hong Kong and China world work from the assumption that Hong Kong was China's sovereign territory, the region would be administered with special treatment and capitalism would be safeguarded. This allowed Hong Kong to reassure investors without altering the present status quo. 
+
+In 1981, Britain passed the British Nationality Act of 1981 aimed at preventing mass immigration from Hong Kong. This act sent a strong signal to Hong Kong that Britain was beginning to `shed obligation' for Hong Kong. Up until now, Great Britain and China had avoided direct negotiations over the fate of Hong Kong. In the 1980s it became increasing clear that this was no longer an option. About the time the two were preparing to begin negotiations, however, Margaret Thatcher was elected Prime Minister in Great Britain. In 1982, Prime Minister Thatcher took a hard line stance regarding British sovereignty over Hong Kong and the legality of the original lease. Not surprisingly, China rejected these statements and reiterated that their claim of sovereignty was non-negotiable.
+
+Negotiations over Hong Kong's future deadlocked until June of 1983 when Great Britain softened its stance. In 1984 the British government admitted that administration of Hong Kong beyond 1997 was not possible. Negotiations proceeded from this point over the means of power transfer. On September 26, 1984 the Sino-British Joint Declaration was signed. The agreement stipulated that on July 1, 1997 China would take over control of Hong Kong. Additionally, China agreed to treat Hong Kong as a Special Administrative Region and to not change the existing economic or political systems for fifty years. Because the Joint Declaration officially recognized Great Britain's right to administer Hong Kong until 1997, seemingly a major point of contention between the two countries was settled.
+
+From 1984-1986, Great Britain began working with Hong Kong to institute more democratic reforms. Great Britain and Hong Kong were working under the assumption that whatever form of government existing in 1997 when the lease expired would be maintained as the status quo by China. Initially, Beijing was quiet on the issue and set about drafting the Basic Law. The Basic Law was the document that would regulate governance of Hong Kong after 1997. China broke silence, however, in November of 1985 to express displeasure over the reforms. On November 21st, China made an official protest against Great Britain. China argued that democratic reforms were a violation of the Joint Declaration. From China's perspective, they were only committed to maintaining Hong Kong's government as it was in 1984 at the signing of the Joint Declaration. After initially resisting, Great Britain agreed in 1986 to involve China in the reform process in Hong Kong. This move dramatically slowed and in some cases completely halted the reform process and by 1987 it was widely believed that China was heavily involved in administering Hong Kong.
+
+Leading up to 1988, the biggest reform issue in Hong Kong was instituting direct elections. Great Britain was pushing to begin at least limited legislative elections by 1988. China, on the other hand, was deeply opposed and eventually Hong Kong yielded to pressure from the Chinese government. Legislative elections were postponed until 1991.
+
+On April 6, 1988, China issued the first draft of the Basic Law. The document was submitted to both Hong Kong and Great Britain for review. This first draft was highly criticized, leading to the drafting of a second draft in February 1989. Negotiations over the document were interrupted by the Tiananmen demonstrations in April and in June by the Tiananmen massacre. China's crackdown on demonstrators caused fear in Hong Kong regarding their future and deeply strained relations between China and the west. Because there were large scale protests in Hong Kong in response to China's actions, Beijing put tremendous pressure on Hong Kong to ban certain groups viewed as stirring up subversion against China. Britain reacted by trying to speed up democratic reforms in Hong Kong and by soliciting international support for Hong Kong. China publicly criticized Great Britain for internationalizing the Hong Kong problem.
+
+Great Britain used the Tiananmen massacre to put pressure on China to reform the Basic Law and a new round of negotiations began in November of 1989. Negotiations ended in February of 1990 and on February 16th the final draft of the Basic Law was released. Hong Kong immediately announced plans to hold partial direct elections in 1991, with more extensive election planned for 1995.
+
+In addition to democratic reforms, there were tensions between China and Great Britain regarding the citizenship of much of Hong Kong's population. In December of 1989 Britain passed a law granting 50,000 people in Hong Kong the status of British Nationals. China denounced the move, arguing that the act was a violation of the Joint Declaration. China subsequently amended the Basic Law to limit the number of people in Hong Kong who could hold foreign passports and those with the right to live in foreign countries to twenty percent of the population. 
+
+In June of 1991, the Hong Kong Bill of Rights Ordinance came into effect. This was a British initiative to guarantee rights and freedoms to Hong Kong's population after 1997. Initially Hong Kong claimed that the Bill of Rights would override all other laws. China immediately protested, arguing that nothing stood above the Basic Law and emphasized the right of Beijing to review and possibly overturn all laws after 1997. Tensions flared in October of 1992 when Great Britain initiated a new round of reforms. Despite this important transition out of rivalry, the period from 1972 to 1997 is characterized by considerable disagreement over administration of Hong Kong and the future of Hong Kong. For this reason, the period is coded as low-level conflict (.75). 
+
+19970702-20159999 .5
+
+In 1997, control of Hong Kong was passed from Great Britain to China. The passage of control of Hong Kong and the election of Tony Blair and the Labour Party in 1997 opened the door for a new era in relations between Great Britain and China. The new era was kicked off when in 1998 China's Prime Minister Zhu Rongji visited Britain. President of China Jiang Zemin visited in 1999; Queen Elizabeth II returned the visit that same year. Deputy Prime Minister John Prescott and Prime Minister Tony Blair visited China in May and October of 1998, respectively. 
+
+In recent years, Britain has become China's second most important trading partner in Europe. Britain is the largest European investor in China, with 261 investment projects in 2000 accounting for roughly US$834.18 million in investment capital. In 2000 there were 100 Chinese companies listed in Britain, accounting for the largest share of China's European investments. This deep level of economic interdependence has increased the need for Great Britain and China to foster good relations. As such, Britain has opened five diplomatic missions in China to keep up with growing bilateral relations.
+
+Expiration of Great Britain's lease of Hong Kong and the peaceful transition of Hong Kong to China ushers in a new era of closer diplomatic and economic ties between Great Britain and China. There are, however, lingering policy disagreements between the two countries over human rights and China's role in the global community. The period after 1997 is coded as negative peace (.5).
+
+PS-SOURCES: Ching 1994; Tang and Ching 1994; Young 1994; fco.uk.gov 
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID2208 MID2984 MID2900 are not considered maritime MIDs 
+
+MARITIME-DISPUTE: MID2208
+
+ DYAD: UNITED KINGDOM CHINA 200710
+
+ DATES: 19260315 19260315
+
+ HOSTILITYA: 2 FATALITYA: 0
+
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral mid involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+MARITIME-DISPUTE: MID2984
+
+ DYAD: UNITED KINGDOM CHINA 200710
+
+ DATES: 19530909 19530909
+
+ HOSTILITYA: 1 FATALITYA: 0
+
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion: 
+
+MID2984 occurred on September 9, 1953. A Chinese naval ship fired on a British patrol boat near Hong Kong on September 9, 1953, resulting in the deaths of seven individuals. Britain protested to the Chinese government on September 12, 1953, but the Chinese government rejected the protest on September 30, 1953.
+
+MARITIME-DISPUTE: MID2900
+
+ DYAD: UNITED KINGDOM CHINA 200710
+
+ DATES: 19641130 19641130
+
+ HOSTILITYA: 1 FATALITYA: 0
+
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+
+MID2900 occurred on November 30, 1964. In this dispute, 9 Britons went missing off the coast of China in a small boat from a British Carrier. The British suspected that the Chinese captured the small craft. 
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

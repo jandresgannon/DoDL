@@ -1,0 +1,182 @@
+FILE: cm145155v11.0.txt
+DYAD: BOLIVIA-CHILE
+RIVALRY: RIV10336
+DISPUTE(S): MID1500 MID1501 MID1502 MID1518 MID1516 
+RIVALRY: RIV338
+DISPUTE(S): MID1184 
+RIVALRY: RIV339
+DISPUTE(S): MID1187 
+RIVALRY: RIV340
+DISPUTE(S): MID3009 
+
+PS: 19009999-19041020 0.00 19041021-20130423 .25 20130424-20209999 0.5
+
+PS-UPDATE2020:The relationship transitions to negative peace with the application to the ICJ by the revisionist state Bolivia - the case sought to compell Chile to negotiate over the dispute about access to the sea, a key issue intertwined with a previous territorial dispute and transfer. Although Bolivia would lose the ICJ case, its application to force negotiations indicates a willingness to settle the dispute diplomatically rather than through military force. There is also evidece that the territorial dispute did not prevent improving economic and other (e.g., tourism) relations even as full diplomatic relations have not been restored.
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220615
+PS-LAST-CHECKED: 20220615
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1500 MID1501 MID1502 MID1518 MID1516 
+
+MID1184 
+
+TERRMID: MID1184 1 -- territorial MID 
+TERRMID-CER: MID1184 1 -- certain 
+TERRMID-NOTES: MID1184 from cm narrative, Bolivia and Chile had disputed part of the Atamaca desert due to its access to a port and a bay (the bay was also disputed; see MARITMID). This issue had been settled in 1904, but in 1920, a revolution in Bolivia led to the claim being renewed. Bolivia's provisional President wanted to reclaim the territory lost to Chile and regain access to the port and the bay (which was rich in resources). In 1920, Chile mobilized its forces on the border with Bolivia in response to learning that Bolivia was reclaiming the territory, and Chile sent naval forces to the port of Arica. Coded territorial MID because this dispute was connected to the renewed territorial claim of the Atamaca desert and the port of Arica. 
+
+TERRLINK: MID1184 3 -- not third party link to territory 
+TERRLINK-CER: MID1184 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1184 1 -- maritime MID
+MARITMID-CER: MID1184 1 -- certain 
+MARITMID-NOTES: MID1184 from cm narrative, this dispute involved a renewed claim by Bolivia on an old dispute, which involved a maritime dispute, a bay off the coast of both countries, close to the Atamaca desert. The bay was rich in exportable resources. Part of Chile's actions were sending naval vessels to the disputed waters. Coded maritime MID because the bay was disputed and was the location of the naval forces deployed by Chile to keep the waters. 
+
+ISLMID: MID1184 3 -- not islands 
+ISLMID-CER: MID1184 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1184 3 -- not civil war 
+CIVWARMID-CER: MID1184 1 -- certain 
+CIVWARMID-NOTES: MID1184 from cm narrative, the renewed claim on Atamaca desert and the bay adjacent to the resource-rich port of Arica was the result of a revolution in Bolivia. Bolivia's government was overthrown in 1920, and several months later, the provisional government renewed the claim on the territory, which had been settled in 1904. However, despite the temporal connection, this MID was not connected to any civil conflict activity (no rebels were involved in this MID), so this is coded not civil war.
+
+CIVWARLINK: MID1184 3 -- not civil war link 
+CIVWARLINK-CER: MID1184 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1184 3 -- not coup 
+COUPMID-CER: MID1184 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1184 3 -- not coup link
+COUPLINK-CER: MID1184 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1187 
+
+TERRMID: MID1187 3 -- not territory
+TERRMID-CER: MID1187 3 -- uncertain 
+TERRMID-NOTES: MID1187 from cm narrative, in 1962, Chile diverted the Lauca River, an inland river boundary that separates the two countries, to irrigate its crops, sparking protests by Bolivia. Bolivia claimed that the river belonged to both countries, so Chile did not have the right to unilaterally divert it for its own irrigation. Coded not territory because the dispute here was about use of the water in the river, not about the territorial boundary between the countries. Further, Gibler, Little, and Miller (2016) dispute this MID's legitimacy altogether, claiming that the threat by Bolivia, which triggered this MID, was quite vague and Chile never responded. GLM suggest deletion of this MID. Coded uncertain because this may not be a MID.
+
+TERRLINK: MID1187 3 -- not third party link to territory 
+TERRLINK-CER: MID1187 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1187 3 -- not maritime 
+MARITMID-CER: MID1187 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1187 3 -- not islands 
+ISLMID-CER: MID1187 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1187 3 -- not civil war 
+CIVWARMID-CER: MID1187 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1187 3 -- not civil war link 
+CIVWARLINK-CER: MID1187 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1187 3 -- not coup 
+COUPMID-CER: MID1187 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1187 3 -- not coup link
+COUPLINK-CER: MID1187 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3009 
+
+TERRMID: MID3009 2 -- somewhat territory 
+TERRMID-CER: MID3009 1 -- certain 
+TERRMID-NOTES: MID3009 from cm narrative, this MID was triggered on 3/17/1978 when Bolivia severed diplomatic relations with Chile. The two countries had been unable to reach an agreement on Bolivian access to the Pacific in the territory taken by Chile during the War of the Pacific. Coded somewhat territory because this was not a dispute over a border (no border was disputed), but was rather about the logistics of getting Bolivia access to the Pacific. Note that at this point, the border was no longer disputed (Bolivia did not claim the territory any longer). Bolivia was only trying to negotiate access to the sea through Chilean territory here. 
+
+TERRLINK: MID3009 3 -- not third party link to territory 
+TERRLINK-CER: MID3009 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3009 3 -- not maritime 
+MARITMID-CER: MID3009 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3009 3 -- not islands 
+ISLMID-CER: MID3009 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3009 3 -- not civil war 
+CIVWARMID-CER: MID3009 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3009 3 -- not civil war link 
+CIVWARLINK-CER: MID3009 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3009 3 -- not coup 
+COUPMID-CER: MID3009 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3009 3 -- not coup link
+COUPLINK-CER: MID3009 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+RIVNOTES: 
+RIV10336 was originally coded as two separate rivalries (RIV337), yet, all five disputes involved territorial disputes, and thus were combined into one rivalry 
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY: RIV337
+DATES (may not be accurate, see riv5.20all.cvs): 18781108 -18840404
+
+
+NARRATIVE-CM: 
+Bolivian troops and Chilean troops engaged in military hostilities from February 14 to December 27, 1879. Bolivia and Chile signed an agreement in Valparaiso on April 4, 1884, ending the state of war that had existed between the countries since 1879. Chile retained possession of the Bolivian territory of Atacama on the Pacific Ocean which had been captured during the war. Bolivia and Chile signed a peace treaty in Santiago on October 20, 1904. Under the terms of the peace treaty, Bolivia recognized Chilean sovereignty over the Atacama territory, and Chile was obligated to build a railroad from the port of Arica to the Bolivian capital of La Paz. In addition, Bolivia was granted free access to the Pacific Ocean through Chilean territory. The Chilean railroad from Arica to Viacha junction was completed and opened to traffic on May 13, 1913. Bolivia petitioned the League of Nations (LON) Assembly on November 1, 1920 to revise the 1904 peace treaty with Chile, particularly the sections in which Bolivia relinquished its access to the Pacific Ocean to Chile. The LON Assembly rejected Bolivia's petition on September 22, 1921. On April 16, 1962, Bolivia severed diplomatic relations with Chile after accusing Chile of reducing the flow of the Lauca River into Bolivia (Chile began building dams on the river on April 14, 1952). Bolivia referred the matter to the Organization of American States (OAS) Council on April 20, 1962. The OAS Council discussed the dispute from April 20 to May 11, 1962. The OAS Council appealed for peaceful negotiations and offered good offices on May 24, 1962. Bolivia proposed OAS mediation by Brazil, Coasta Rica, Ecuador, Uruguay, and Venezuela on May 25, 1962, but Chile rejected the proposal on June 27, 1962. On August 10, 1962, Bolivia appealed to the OAS Council to enforce its May 24, 1962 resolution calling for peaceful negotiations. Bolivia announced its withdrawal from the OAS Council on September 3, 1962. Bolivia rejoined the OAS Council in October 1962, but withdrew again on June 12, 1963. Bolivia rejoined the OAS Council in February 1965. Bolivia and Chile held bilateral negotiations in 1974. Peru expressed support for Bolivia's claim for access to the Pacific Ocean on December 7, 1974. Bolivia and Chile agreed to resume diplomatic relations on February 8, 1975. President Banzer of Bolivia suggested that Chile was unwilling to negotiate a secession of territory to Bolivia that would restore its access to the Pacific Ocean, and Bolivia severed diplomatic relations with Chile on March 17, 1978. Bolivia and Chile held bilateral negotiations concerning Bolivia's access to the Pacific Ocean from February 1986 to June 10, 1987. On October 13, 1991, Bolivia and Chile agreed to the establishment of a bilateral commission to deal with the dispute.
+
+SOURCES-CM:
+Sources: Butterworth, 1976, 1976, 335-336; Facts on File, April 12-18, 1962; Ireland 1938, 53-66; Keesing, March 10-16, 1975, October 1991; Langer, 1972, 1060-1061, 1062-1063, 1255-1256; Survey of International Affairs (SIA), 1925 (supplement), 26-27; Tomasek 1967, 351-366.
+
+NARRATIVE-CR:
+
+19009999-19041020 0.00
+
+The central issue of dispute in the rivalry between Bolivia and Chile was over the appropriate boundary of the two countries in the region of the Atacama desert. After independence from Spain in the early part of the 19th century, both countries claimed ownership of the region. The issue did not lead to military confrontation until the late 1850s when the region became important due to the guano and nitrate deposits located there. Both countries realized serious economic benefits from exploiting these deposits. In July 1842, President Bulnes of Chile sent an expedition into the region and declared the Chilean border to be at the 23rd parallel, giving Chile claim to the bay and port of Mejillones. Bolivia, however, had already laid claim to the area and controlled the port. Bolivia immediately protested the unilateral proclamation but was ignored by the Chilean government throughout the 1840s and 1850s. 
+
+During this period, Chile began to establish guano extraction stations in the area which led to frequent arrests of Chilean nationals by Bolivia. Chilean warships at the port forced the release of these nationals, causing the Bolivian government to increase its protests against the Chilean government. While evidence has proven difficult to find, it does seem that first two mids (MID1500 on 8/20/1857 and MID1501 on 5/15/1861) involve these incidents of incursion, arrest and subsequent forced release. 
+
+The dispute intensified with the occupation of Mejillones by Chilean troops in 1863 (MID1502 on 2/15/1863). On June 5, 1863, the Bolivian legislature authorized the president to declare war on Chile if the dispute could not be resolved diplomatically. This intensification was short-lived, however, due to Spanish threats in the region beginning with the conflict with Peru in 1864 over the Chincha islands and the conflict with Chile in 1865. The Spanish threat led to the formation of the Quadruple Alliance between Peru, Chile, Bolivia and Ecuador in 1866 and a war with Spain. Additionally it led to the Treaty of 1866 between Bolivia and Chile that called for the two countries to resolve the border issue through a division of the territory at the 24th parallel.
+
+Still concerned about Chilean encroachment on Bolivian territory, Bolivia signed a secret defensive pact with Peru in 1873. In August 1874, Bolivia and Chile signed a new treaty to resolve ambiguities in the Treaty of 1866. This treaty renounced Chile's claim to any territory above the 23rd parallel and any duties collected at the port of Mejillones in exchange for a freeze in the rate of duties for Chilean exports and capital in the region. In 1878, however, Bolivia increased duties on exports in the region, leading to Chilean companies refusal to pay the increases. Bolivia subsequently began jailing Chilean nationals and confiscating property. After immediate protests, the Chilean government issued an ultimatum on February 10, 1878, demanding international aribitration of the dispute. Bolivia did not comply to the ultimatium, leading to the cease of diplomatic relations on February 12 and the reoccupation of the territory by Chilean troops on February 14, 1878 and the beginning of the War of the Pacific (the war involved two mids, MID1518 on 11/8/1878 and MID1516 on 3/14/1884) that lasted until 1884 with the total defeat of Bolivia and Peru by Chilean forces (Peru was actually defeated in December, 1883 which accounts for the existence of two mids for the war instead of one). An armistice between Bolivia and Chile was signed on April 4, 1884. With Chile's victory, Bolivia recognized Chilean administration of the territory while gaining access to the ports of Arica and Antofagasta from which it could establish a customs house with 25% of its earnings going to Chile. Additionally, Bolivia was forced to return all Chilean property seized during the war and pay indemnities for damages. Thus, with respect to Chile, there was no further reason for the continued rivalry. 
+
+Bolivia, while having to accept Chilean terms for peace was able to only have to agree to an armistice in 1884. With the military's defeat, however, came civilian rule and in 1904 Bolivian President Isabel Montes was elected to office with a pledge to officially settle the border dispute with Chile, permanently. This pledge came at time when Bolivia also suffered a small defeat by Brazil in conflict over the disputed region of Acre in the Amazon. 
+
+In 1904, Bolivia and Chile signed a treaty of peace and re-established diplomatic relations. Bolivia formally recognized Chile's ownership of the Atacama in exchange for 300,000 pounds and 6 million pounds of debt forgiveness caused by the war. Additionally, Bolivia would have the right to have customs houses in the ports of Arica and Antofagasta, have dute-free goods at all Chilean ports and have a railroad built by Chile linking Arica and La Paz. The railroad was completed in 1913. 
+
+19041021-20159999 .25 
+
+While the rivalry dissipated after 1904, the leaders of Bolivia's revolution in July,1920 brought the issue of sea access back into dispute, particularly access through the port of Arica. Provisional President Bautista Savedra and his revisionist party had pressed for trying to reclaim some of its territory lost during the War of the Pacific. On July 14, 1920 Chile mobilized its forces on the border with Bolivia (MID1184). On July 19, Chile sent part of its naval fleet to the port of Arica. By August, the threat of any militarized action on the part of Bolivia had ended with the government declaring that it had no intention of destabilizing relations with Chile. 
+
+Lack of sea access forced it to look to Paraguay for a possible access to the Atlantic through the Paraguay River. With no chance of militarily engaging with Chile, Boliva increased its belligerence toward Paraguay in the Chaco region where the Paraguay River was located. This aggressive behavior would lead Bolivia to another disastrous war in 1938. The rivalry with Chile, however, thus came to an end. 
+
+There were two additional mids after 1920. The first was unrelated to the issues that led to the War of the Pacific. In March 1962, Bolivia severed relations with Chile after Chile diverted the Lauca River on the countries' mutual border to irrigate Chilean land. Bolivia claimed that the Lauca River belonged to both countries and had originally irrigated Bolivian territory (mid MID1187 on 3/22/1962). The original dispute over the Lauca began in 1939. In the months prior to the dispute, Chile had pledged not to redirect the river until an agreement could be reached. On April 20, Bolivia utilized the Inter-American Defense Treaty, claiming aggression by Chile. 
+
+The last mid between the two countries (MID3009 on 3/17/1978) did involved an issue related to the War of the Pacific, however. On March 17, 1978 Bolivia severed diplomatic relations with Chile because of the two countries' inability to negotiate Bolivian access to the Pacific in the territory taken from Chile during the War of the Pacific. Negotiations began in 1975 when the two countries reestablished diplomatic relations after the Lauca River incident. 
+
+Bolivia still wishes for an Atacama corridor, which Chile rejects, yet grants unrestricted traffic to all kinds of Bolivian merchandise through that territory. Today the territories ceded by Bolivia and Peru count for an important part of the Chilean state's income, as the state owned company CODELCO mines some of world's largest copper deposits located in that area.
+During the Bolivian Gas War the dispute rose again as most Bolivians, including Evo Morales (who would go on to become president), opposed the future export of Bolivian gas through Chilean territory, which the government and foreign companies wanted. In 2004, the anniversary of the 1904 treaty, Bolivian claims were reignited, and the words gas-for-sea became the slogan of those who opposed exportation. The dispute became evident when the Bolivian president Carlos Mesa in the Organization of American States engaged in a public spat with the Chilean president Ricardo Lagos. Mesa, who was under pressure to speak out on Bolivia's aspirations, put the topic in front of all the presidents of the Americas. The Chilean president reacted by mentioning Bolivia's refusal to have diplomatic relations with Chile, and with this on mind he offered diplomatic relationships between the two countries here and now.[7] The offer was hastily declined by Mesa who was not actually seeking an offer but intended to attract international interest to the situation.
+
+Recently, Bolivian president Evo Morales decided to break off all dialogue with Chile on the maritime issue and declared to pursue the issue in litigation via the international courts. He thus broke an OAS resolution in 2012 when the majority of countries in the OAS encouraged Bolivia to pursue the issue via bilateral dialogue with Chile. Former Chilean President Sebastian Pinera has pleaded with Evo Morales to continue with the dialogue but to no avail. The Bolivian government followed through with its determination to file a case with the International Court of Justice on April 24, 2013. Surprisingly, the case does not challenge the border treaties signed by both countries which Evo Morales has always been against. The basis of the case stems from two bilateral negotiations in the 1970s and 1950s where a sovereign route to the pacific was allegedly promised by Chile but never eventuated. Bolivia argues "the rights of expectations" for their case which is a legal commercial term that's never been used in the ICJ. The case is still in progress at the end of 2015.
+
+SOURCES-CR:
+Farcau (2000); Marett (1969); *New York Times* 7/15/1920, 7/26/1920, 4/17/1962, 4/21/1962; 3/16/1978
+

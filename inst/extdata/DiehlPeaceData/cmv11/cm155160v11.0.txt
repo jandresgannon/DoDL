@@ -1,0 +1,896 @@
+FILE: cm155160v11.0.txt
+DYAD: CHILE-ARGENTINA
+RIVALRY: RIV355
+DISPUTE(S): MID1507 
+RIVALRY: RIV356
+DISPUTE(S): MID1508 MID1633 MID1509 MID1510 MID1511 MID2076 MID1513 MID1093 MID2077 MID2078 
+RIVALRY: RIV357
+DISPUTE(S): MID1097 MID1098 MID1099 MID2079 MID1100 MID1101 MID1102 MID2080 MID1608 MID1609 MID2081 MID2082 MID2083 MID2084 MID2085 MID2086 MID2087 
+
+PS: 19009999-19090707 0.00 19090708-19520630 0.5 19520701-19841019 0.00 19841020-20209999 0.5
+
+PS-UPDATE2020: 
+
+PS1800: 18730315-18999999 0.0
+
+PSNOTES: thompson rivalry cm155160 ,18430000 ,19910000 
+
+PS-LAST CHANGED: 20220218
+PS-LAST CHECKED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1507 MID1508 MID1633 MID1509 MID1510 MID1511 MID2076 MID1513 
+
+MID1093 
+
+TERRMID: MID1093 1 -- territorial MID
+TERRMID-CER: MID1093 1 -- certain 
+TERRMID-NOTES: MID1093 from cm narrative, Chile and Argentina disputed land territory, maritime borders (straits), and islands. This MID is related to boundary disputes around the inlet of Ultima Esperanza. Police and military of both countries were mobilized near the disputed boundary in the disputed Patagonia region. Coded territorial MID because the border was disputed and troops were mobilized at the disputed border, triggering this MID.
+
+TERRLINK: MID1093 3 -- not third party link to territory 
+TERRLINK-CER: MID1093 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1093 1 -- maritime MID
+MARITMID-CER: MID1093 1 -- certain
+MARITMID-NOTES: MID1093 from cm narrative, this dispute was connected to both the disputed land boundary and part of the maritime dispute, specifically the inlet of Ultima Esperanza. Coded maritime MID because this MID involved disputed waters. In this area, the land and maritime boundary are both disputed, so MIDs may involve both at once. 
+
+ISLMID: MID1093 3 -- not islands 
+ISLMID-CER: MID1093 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1093 3 -- not civil war 
+CIVWARMID-CER: MID1093 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1093 3 -- not civil war link
+CIVWARLINK-CER: MID1093 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1093 3 -- not coup 
+COUPMID-CER: MID1093 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1093 3 -- not coup link
+COUPLINK-CER: MID1093 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2077 
+
+TERRMID: MID2077 3 -- not territory
+TERRMID-CER: MID2077 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2077 3 -- not third party link to territory 
+TERRLINK-CER: MID2077 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2077 1 -- maritime MID
+MARITMID-CER: MID2077 3 -- uncertain
+MARITMID-NOTES: MID2077 from Gibler, Little, and Miller (2016: IIB-18), Argentina secretly placed a naval buoy and shortly thereafter attempted to use that buoy to justify their interpretation of the disputed maritime boundary. Chile called the action absurd but did not respond with a threat. GLM suggest this case be dropped because it involves no threat or use of force. Coded maritime MID because this is connected to the disputed maritime border, and coded uncertain due to GLM's suggestion that the case is not actually a MID. 
+
+ISLMID: MID2077 1 -- islands MID
+ISLMID-CER: MID2077 3 -- uncertain
+ISLMID-NOTES: MID2077 from Gibler, Little, and Miller (2016: IIB-18), the buoy secretly placed by Argentina may have been on the disputed island of Navarino Island. It was certainly close to the island, suggesting the island was being used in defining the maritime boundary. GLM suggest this case be dropped because it involves no threat or use of force. Coded island MID because this involved a disputed island, and coded uncertain because GLM recommend the case be dropped. 
+
+CIVWARMID: MID2077 3 -- not civil war 
+CIVWARMID-CER: MID2077 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2077 3 -- not civil war link
+CIVWARLINK-CER: MID2077 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2077 3 -- not coup 
+COUPMID-CER: MID2077 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2077 3 -- not coup link
+COUPLINK-CER: MID2077 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2078 
+
+TERRMID: MID2078 3 -- not territory
+TERRMID-CER: MID2078 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2078 1 -- third party link to territorial MID
+TERRLINK-CER: MID2078 3 -- uncertain
+TERRLINK-NOTES: MID2078 from Gibler, Little, and Miller (2016: IIA-3), Bolivia and Peru were disputing the territory of Acre, and asked Argentina to arbitrate the dispute. Argentina awarded the land to Peru, and Chile, who had taken Bolivia's side in the dispute, advised Bolivia to mobilize its troops after it lost in the arbitration. However, Argentina had no role here besides acting as an arbitrator, and Chile explicitly did not want Argentina involved in the dispute in connection to Bolivia mobilizing its troops. For this reason, GLM suggest this case be dropped, as Argentina was not involved in any militarized incident. Coded third party link to territorial MID because this is connected to the disputed Acre region between Peru and Bolivia, but coded uncertain because GLM argue that this is not a MID. 
+
+MARITMID: MID2078 3 -- not maritime 
+MARITMID-CER: MID2078 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2078 3 -- not islands 
+ISLMID-CER: MID2078 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2078 3 -- not civil war 
+CIVWARMID-CER: MID2078 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2078 3 -- not civil war link
+CIVWARLINK-CER: MID2078 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2078 3 -- not coup 
+COUPMID-CER: MID2078 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2078 3 -- not coup link
+COUPLINK-CER: MID2078 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1097 
+
+TERRMID: MID1097 3 -- not territory
+TERRMID-CER: MID1097 1 -- certain 
+TERRMID-NOTES: MID1097 from cm narrative, in July-September 1952, Chilean authorities were displeased with the involvement of Argentina in the upcoming general elections in Chile. They seized materials from 2 Argentinian consuls that endorsed a Chilean general as a candidate in the elections. Coded not territory because this was not connected to the disputed territory, but was rather a political leadership issue. 
+
+TERRLINK: MID1097 3 -- not third party link to territory 
+TERRLINK-CER: MID1097 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1097 3 -- not maritime 
+MARITMID-CER: MID1097 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1097 3 -- not islands 
+ISLMID-CER: MID1097 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1097 3 -- not civil war 
+CIVWARMID-CER: MID1097 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1097 3 -- not civil war link
+CIVWARLINK-CER: MID1097 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1097 3 -- not coup 
+COUPMID-CER: MID1097 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1097 3 -- not coup link
+COUPLINK-CER: MID1097 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1098 
+
+TERRMID: MID1098 1 -- territorial MID
+TERRMID-CER: MID1098 1 -- certain 
+TERRMID-NOTES: MID1098 from cm narrative, this MID is connected to a remote piece of Antarctica disputed by Chile and Argentina. Coded territorial MID because this dispute is connected to a disputed piece of Antarctica.
+
+TERRLINK: MID1098 3 -- not third party link to territory 
+TERRLINK-CER: MID1098 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1098 1 -- maritime MID 
+MARITMID-CER: MID1098 1 -- certain
+MARITMID-NOTES: MID1098 from NYT 9/17/1955, Chile and Argentina disputed a remote piece of Antarctica and a large section of the Antarctic ocean. Here, tensions rose and vague threats were exchanged before a conference was held to attempt to settle the issues. Coded maritime MID because this is connected to disputed waters around the Antarctic. 
+
+ISLMID: MID1098 3 -- not islands 
+ISLMID-CER: MID1098 1 -- certain
+ISLMID-NOTES: MID1098 no indication that the disputed block of sea contains islands.
+
+CIVWARMID: MID1098 3 -- not civil war 
+CIVWARMID-CER: MID1098 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1098 3 -- not civil war link
+CIVWARLINK-CER: MID1098 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1098 3 -- not coup 
+COUPMID-CER: MID1098 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1098 3 -- not coup link
+COUPLINK-CER: MID1098 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1099 
+
+TERRMID: MID1099 3 -- not territory
+TERRMID-CER: MID1099 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1099 3 -- not third party link to territory 
+TERRLINK-CER: MID1099 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1099 1 -- maritime MID
+MARITMID-CER: MID1099 1 -- certain
+MARITMID-NOTES: MID1099 from cm narrative, this MID was a dispute over Snipe Island. The ownership of the island is disputed because of the implications for a maritime boundary in the Beagle Channel. Coded maritime MID because the maritime boundary is also disputed and sovereignty over the island is connected to the maritime dispute. 
+
+ISLMID: MID1099 1 -- islands MID 
+ISLMID-CER: MID1099 1 -- certain
+ISLMID-NOTES: MID1099 from cm narrative, this MID occurred from April 1958 to August 19, 1958. This was a dispute over the ownership of the Snipe Island near Cape Horn in the Beagle Channel. Coded islands MID because this was connected to a disputed island. 
+
+CIVWARMID: MID1099 3 -- not civil war 
+CIVWARMID-CER: MID1099 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1099 3 -- not civil war link
+CIVWARLINK-CER: MID1099 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1099 3 -- not coup 
+COUPMID-CER: MID1099 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1099 3 -- not coup link
+COUPLINK-CER: MID1099 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2079 
+
+TERRMID: MID2079 3 -- not territory
+TERRMID-CER: MID2079 1 -- certain 
+TERRMID-NOTES: MID2079 from Schultz data, on 11/3/1958, the Argentine military crossed the border into Chile on the eve of a Presidential election in Chile. Coded not territory because this part of the border was not disputed. 
+
+TERRLINK: MID2079 3 -- not third party link to territory 
+TERRLINK-CER: MID2079 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2079 3 -- not maritime 
+MARITMID-CER: MID2079 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2079 3 -- not islands 
+ISLMID-CER: MID2079 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2079 3 -- not civil war 
+CIVWARMID-CER: MID2079 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2079 3 -- not civil war link
+CIVWARLINK-CER: MID2079 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2079 3 -- not coup 
+COUPMID-CER: MID2079 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2079 3 -- not coup link
+COUPLINK-CER: MID2079 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1100 
+
+TERRMID: MID1100 3 -- not territory
+TERRMID-CER: MID1100 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1100 3 -- not third party link to territory 
+TERRLINK-CER: MID1100 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1100 1 -- maritime MID
+MARITMID-CER: MID1100 1 -- certain
+MARITMID-NOTES: MID1100 from cm narrative, from 8/16/1959-9/29/1959, Chile and Argentina exchanged protests over naval activity in territorial waters claimed by both countries near Picton Island in Beagle Channel. Coded maritime MID because this was connected to the disputed maritime border between Chile and Argentina. 
+
+ISLMID: MID1100 1 -- islands MID
+ISLMID-CER: MID1100 1 -- certain
+ISLMID-NOTES: MID1100 this MID also involved clashes near Picton island in the Beagle Channel. Picton Island and the maritime boundary in the Beagle Channel were both disputed by Chile and Argentina. The disputed island has implications for the location of the maritime boundary. 
+
+CIVWARMID: MID1100 3 -- not civil war 
+CIVWARMID-CER: MID1100 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1100 3 -- not civil war link
+CIVWARLINK-CER: MID1100 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1100 3 -- not coup 
+COUPMID-CER: MID1100 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1100 3 -- not coup link
+COUPLINK-CER: MID1100 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1101 
+
+TERRMID: MID1101 3 -- not territory
+TERRMID-CER: MID1101 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1101 3 -- not third party link to territory 
+TERRLINK-CER: MID1101 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1101 1 -- maritime MID
+MARITMID-CER: MID1101 3 -- uncertain
+MARITMID-NOTES: MID1101 from cm narrative, both countries announced on 3/23/1960 that the Beagle Channel dispute would be submitted for arbitration. The cm narrative reflects that this may not be a MID at all. Coded maritime MID because this is connected to the maritime dispute, but uncertain because it may not be a MID. 
+
+ISLMID: MID1101 1 -- islands MID
+ISLMID-CER: MID1101 3 -- uncertain
+ISLMID-NOTES: MID1101 the maritime dispute in the Beagle Channel involves disputed islands as well. Coded islands MID because the maritime boundary in the channel is connected to islands as well, but uncertain because the cm narrative suggests that this may not be a MID. 
+
+CIVWARMID: MID1101 3 -- not civil war 
+CIVWARMID-CER: MID1101 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1101 3 -- not civil war link
+CIVWARLINK-CER: MID1101 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1101 3 -- not coup 
+COUPMID-CER: MID1101 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1101 3 -- not coup link
+COUPLINK-CER: MID1101 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1102 
+
+TERRMID: MID1102 1 -- territorial MID
+TERRMID-CER: MID1102 1 -- certain 
+TERRMID-NOTES: MID1102 from Schultz data, on 9/17/1963, Chile became aware that Argentina was constructing fences in the Hondo and Horquetas valleys. It is not clear whether the Hondo valley lies in a piece of disputed territory, but the Horquetas Valley area is disputed. Coded territorial MID because this is connected to the disputed territory. 
+
+TERRLINK: MID1102 3 -- not third party link to territory 
+TERRLINK-CER: MID1102 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1102 3 -- not maritime 
+MARITMID-CER: MID1102 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1102 3 -- not islands 
+ISLMID-CER: MID1102 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1102 3 -- not civil war 
+CIVWARMID-CER: MID1102 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1102 3 -- not civil war link
+CIVWARLINK-CER: MID1102 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1102 3 -- not coup 
+COUPMID-CER: MID1102 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1102 3 -- not coup link
+COUPLINK-CER: MID1102 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2080 
+
+TERRMID: MID2080 1 -- territorial MID
+TERRMID-CER: MID2080 1 -- certain 
+TERRMID-NOTES: MID2080 from cm narrative, this MID occurred on July 25, 1964. This event is related to the movement of Argentinian troops in the Horquetas Valley, a snow-covered strip of land about 20 miles long in the disputed Palena zone in the southern Andes. Coded territorial MID because this is connected to the disputed territory. 
+
+TERRLINK: MID2080 3 -- not third party link to territory 
+TERRLINK-CER: MID2080 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2080 3 -- not maritime 
+MARITMID-CER: MID2080 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2080 3 -- not islands 
+ISLMID-CER: MID2080 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2080 3 -- not civil war 
+CIVWARMID-CER: MID2080 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2080 3 -- not civil war link
+CIVWARLINK-CER: MID2080 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2080 3 -- not coup 
+COUPMID-CER: MID2080 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2080 3 -- not coup link
+COUPLINK-CER: MID2080 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1608 
+
+TERRMID: MID1608 1 -- territorial MID
+TERRMID-CER: MID1608 1 -- certain 
+TERRMID-NOTES: MID1608 from Schultz data, this is a border clash that occurred across the disputed land border. Argentina troops shot at a Chilean outpost, sparking the clash. Coded territorial MID because this was connected to the disputed land boundary. 
+
+TERRLINK: MID1608 3 -- not third party link to territory 
+TERRLINK-CER: MID1608 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1608 3 -- not maritime 
+MARITMID-CER: MID1608 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1608 3 -- not islands 
+ISLMID-CER: MID1608 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1608 3 -- not civil war 
+CIVWARMID-CER: MID1608 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1608 3 -- not civil war link
+CIVWARLINK-CER: MID1608 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1608 3 -- not coup 
+COUPMID-CER: MID1608 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1608 3 -- not coup link
+COUPLINK-CER: MID1608 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1609 
+
+TERRMID: MID1609 3 -- not territory
+TERRMID-CER: MID1609 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1609 3 -- not third party link to territory 
+TERRLINK-CER: MID1609 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1609 1 -- maritime MID
+MARITMID-CER: MID1609 1 -- certain
+MARITMID-NOTES: MID1609 from cm narrative, this MID occurred from August 18, 1967 to May 7, 1968. This event is about the rising tensions between Chile and Argentina over the Beagle Channel. Both countries stationed warships near Usuhaia in Argentina. Coded maritime MID because this was connected to the disputed maritime boundary in the Beagle Channel. 
+
+ISLMID: MID1609 3 -- not islands 
+ISLMID-CER: MID1609 1 -- certain
+ISLMID-NOTES: MID1609 there were disputed islands in the Beagle as well, but they were disputed due to the implications of the maritime border. Nonetheless, this MID did not concern the disputed islands, but rather the maritime border in general. 
+
+CIVWARMID: MID1609 3 -- not civil war 
+CIVWARMID-CER: MID1609 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1609 3 -- not civil war link
+CIVWARLINK-CER: MID1609 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1609 3 -- not coup 
+COUPMID-CER: MID1609 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1609 3 -- not coup link
+COUPLINK-CER: MID1609 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2081 
+
+TERRMID: MID2081 3 -- not territory
+TERRMID-CER: MID2081 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2081 3 -- not third party link to territory 
+TERRLINK-CER: MID2081 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2081 1 -- maritime MID
+MARITMID-CER: MID2081 1 -- certain
+MARITMID-NOTES: MID2081 this MID was connected to the disputed islands in the beagle channel, but the islands are disputed because of the implications of the maritime boundary. 
+
+ISLMID: MID2081 1 -- islands MID
+ISLMID-CER: MID2081 1 -- certain
+ISLMID-NOTES: MID2081 from cm narrative, MID2081 occurred from July 14, 1977 to February 10, 1978. Argentina's military government refused the ruling of Queen Elizabeth II of the United Kingdom awarding 3 islands to Chile. A 1902 treaty made UK the arbiter of Chile-Argentina disputes. Chile and Argentina nearly went to war in 1978 over this dispute involving three islands in the Beagle Channel. Coded islands MID because this was connected to the disputed islands in the Beagle Channel. 
+
+CIVWARMID: MID2081 3 -- not civil war 
+CIVWARMID-CER: MID2081 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2081 3 -- not civil war link
+CIVWARLINK-CER: MID2081 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2081 3 -- not coup 
+COUPMID-CER: MID2081 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2081 3 -- not coup link
+COUPLINK-CER: MID2081 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2082 
+
+TERRMID: MID2082 3 -- not territory
+TERRMID-CER: MID2082 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2082 3 -- not third party link to territory 
+TERRLINK-CER: MID2082 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2082 1 -- maritime MID
+MARITMID-CER: MID2082 1 -- certain
+MARITMID-NOTES: MID2082 this dispute is over the disputed islands in the Beagle Channel. Those islands are disputed due to the implications of the maritime boundary in the channel, so they are part of the maritime dispute between these countries. 
+
+ISLMID: MID2082 1 -- islands MID
+ISLMID-CER: MID2082 1 -- certain
+ISLMID-NOTES: MID2082 from Schultz data, on 8/18/1978, failed attempts to set up negotiations over the disputed islands in the Beagle Channel led to this dispute, in which Chilean General Pinochet ordered his troops to be prepared to defend Chile's territorial sovereignty. Coded islands MID because this was connected to the disputed islands in the Beagle Channel. 
+
+CIVWARMID: MID2082 3 -- not civil war 
+CIVWARMID-CER: MID2082 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2082 3 -- not civil war link
+CIVWARLINK-CER: MID2082 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2082 3 -- not coup 
+COUPMID-CER: MID2082 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2082 3 -- not coup link
+COUPLINK-CER: MID2082 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2083 
+
+TERRMID: MID2083 3 -- not territory
+TERRMID-CER: MID2083 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2083 3 -- not third party link to territory 
+TERRLINK-CER: MID2083 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2083 1 -- maritime MID
+MARITMID-CER: MID2083 1 -- certain
+MARITMID-NOTES: MID2083 this dispute is over the disputed islands in the Beagle Channel. Those islands are disputed due to the implications of the maritime boundary in the channel, so they are part of the maritime dispute between these countries. 
+
+ISLMID: MID2083 1 -- islands 
+ISLMID-CER: MID2083 1 -- certain
+ISLMID-NOTES: MID2083 from cm narrative, occurred from September 7, 1980 to February 9, 1981. Argentina was not happy with the Vatican's proposal to award most of the islands in the Beagle Channel to Chile. Chile miners were expelled from Argentina and border trade disputes ensued. Coded islands MID because this was connected to disputed islands in the Beagle Channel. 
+
+CIVWARMID: MID2083 3 -- not civil war 
+CIVWARMID-CER: MID2083 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2083 3 -- not civil war link
+CIVWARLINK-CER: MID2083 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2083 3 -- not coup 
+COUPMID-CER: MID2083 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2083 3 -- not coup link
+COUPLINK-CER: MID2083 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2084 
+
+TERRMID: MID2084 3 -- not territory
+TERRMID-CER: MID2084 1 -- certain 
+TERRMID-NOTES: MID2084 from cm narrative, occurred from April 25, 1981 to April 29, 1981. Argentina closed its border with Chile after the imprisonment of 2 Argentinian military officials in Chile. Coded not territory because this is not connected to the outstanding border dispute, but was rather connected to the imprisonment of Argentinian military officials. 
+
+TERRLINK: MID2084 3 -- not third party link to territory 
+TERRLINK-CER: MID2084 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2084 3 -- not maritime 
+MARITMID-CER: MID2084 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2084 3 -- not islands 
+ISLMID-CER: MID2084 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2084 3 -- not civil war 
+CIVWARMID-CER: MID2084 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2084 3 -- not civil war link
+CIVWARLINK-CER: MID2084 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2084 3 -- not coup 
+COUPMID-CER: MID2084 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2084 3 -- not coup link
+COUPLINK-CER: MID2084 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2085 
+
+TERRMID: MID2085 3 -- not territory
+TERRMID-CER: MID2085 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2085 3 -- not third party link to territory 
+TERRLINK-CER: MID2085 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2085 1 -- maritime MID
+MARITMID-CER: MID2085 1 -- certain
+MARITMID-NOTES: MID2085 from cm narrative, on 9/21/1981, the Chilean government protested when Argentina sent a cruiser into the disputed waters in the Beagle Channel. Coded maritime MID because this was connected to the disputed maritime border. 
+
+ISLMID: MID2085 3 -- not islands 
+ISLMID-CER: MID2085 1 -- certain
+ISLMID-NOTES: MID2085 there were disputed islands in the Beagle Channel, but this MID was not connected to the islands, but rather to the overarching maritime border dispute. 
+
+CIVWARMID: MID2085 3 -- not civil war 
+CIVWARMID-CER: MID2085 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2085 3 -- not civil war link
+CIVWARLINK-CER: MID2085 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2085 3 -- not coup 
+COUPMID-CER: MID2085 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2085 3 -- not coup link
+COUPLINK-CER: MID2085 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2086 
+
+TERRMID: MID2086 3 -- not territory
+TERRMID-CER: MID2086 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2086 3 -- not third party link to territory 
+TERRLINK-CER: MID2086 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2086 1 -- maritime MID
+MARITMID-CER: MID2086 1 -- certain
+MARITMID-NOTES: MID2086 this dispute is over the disputed islands in the Beagle Channel. Those islands are disputed due to the implications of the maritime boundary in the channel, so they are part of the maritime dispute between these countries. 
+
+ISLMID: MID2086 1 -- islands MID
+ISLMID-CER: MID2086 1 -- certain
+ISLMID-NOTES: MID2086 from cm narrative, occurred on August 18, 1983. Chile said that on August 18, 1983, a group of Argentines landed on a Chilean island in the disputed Beagle Channel at the southern tip of South America but withdrew after about 20 minutes. A Defence Ministry communique said the incident occurred on the largest of the Hermanos islands, one kilometre northwest of Picton, one of the three islands at the centre of a dispute over territorial sovereignty between Chile and Argentina at the eastern entrance of the Beagle Channel. Coded islands MID because this was connected to the disputed islands in the Beagle Channel. 
+
+CIVWARMID: MID2086 3 -- not civil war 
+CIVWARMID-CER: MID2086 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2086 3 -- not civil war link
+CIVWARLINK-CER: MID2086 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2086 3 -- not coup 
+COUPMID-CER: MID2086 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2086 3 -- not coup link
+COUPLINK-CER: MID2086 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2087 
+
+TERRMID: MID2087 3 -- not territory
+TERRMID-CER: MID2087 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2087 3 -- not third party link to territory 
+TERRLINK-CER: MID2087 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2087 1 -- maritime MID
+MARITMID-CER: MID2087 3 -- uncertain
+MARITMID-NOTES: MID2087 from cm narrative, MID2087 occurred on October 19, 1984. This event is related to the public disclosure of the treaty between Chile and Argentina regarding the Beagle Channel to the larger public. Right-wing nationalist groups in both countries, but especially in Argentina, were not happy with the treaty. Gibler, Little, and Miller (2016: F-99) recommend this case be dropped, and I can find no reference to a militarized dispute here. Coded uncertain for this reason. 
+
+ISLMID: MID2087 1 -- islands MID
+ISLMID-CER: MID2087 3 -- uncertain
+ISLMID-NOTES: MID2087 the treaty signed by Argentina and Chile addressing the Beagle Channel dispute also involved the disputed islands in the channel. The ownership of the islands had implications for the maritime boundary. Coded islands MID because the islands were part of the treaty which triggered this MID, but coded uncertain because GLM recommend this case be dropped and I can find no evidence of an actual militarized dispute here. 
+
+CIVWARMID: MID2087 3 -- not civil war 
+CIVWARMID-CER: MID2087 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2087 3 -- not civil war link
+CIVWARLINK-CER: MID2087 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2087 3 -- not coup 
+COUPMID-CER: MID2087 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2087 3 -- not coup link
+COUPLINK-CER: MID2087 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Argentina and Chile disputed their border after the Argentine government formally protested the establishment of a Chilean settlement on the Brunswick Peninsula on December 15, 1847. The United States ministers to Argentina and Chile mediated an agreement signed by the countries in Buenos Aires on July 23, 1881, which provided for the demarcation of the border between the two countries. The agreement was ratified by the countries on October 22, 1881. Argentina and Chile signed a protocol on August 20, 1889, which provided for the appointment of a border demarcation commission, and the protocol was ratified by the countries on January 11, 1890. The border demarcation commission convene on April 20, 1890. Argentina and Chile signed a protocol on May 1, 1893, which reaffirmed and clarified the 1881 demarcation agreement. Argentina and Chile signed the *Guerrero-Quirno Costa Protocol* on April 17, 1896, which extended the border demarcation further north. The countries disagreed on the demarcation of four sections of the Patagonian border, and these disputes were submitted to Queen Victoria of Britain on November 23, 1898 for arbitration. Queen Victoria appointed a three-member arbitration tribunal. King Edward VII issued an award on November 20, 1902, which awarded approximately 15,000 square miles of the disputed territory to Argentina and 21,000 square miles to Chile. A five-member British commission formally demarcated the border from January 9 to March 31, 1903. Argentina and Chile also disputed the northern 300 miles of their border (Los Andes) beginning on May 10, 1889. The countries agreed on April 17, 1896 to bilaterally negotiate a resolution of the dispute, but the negotiations unsuccessfully ended on September 17, 1898. The countries asked the United States minister to Argentina, William Buchanan, to serve on a three-member mixed boundary commission to demarcate the northern section of the border. William Buchanan accepted the request on February 23, 1899, and the mixed commission issued an award on March 24, 1899. Argentina and Chile continued to dispute the sovereignty of several Beagle Channel islands (Picton, Lennox, and Nueva) near Tierra del Fuego, the Palena-Rio Escondido region in the southern Andes, and the Laguno del Desierto region following British arbitration and demarcation of the border. Argentina and Chile asked Britain on March 22, 1960 to arbitrate the border dispute in the Palena-Rio Escondido region. Argentina and Chile tentatively agreed on March 29, 1960 to submit the Palena-Rio Escondido dispute to Britain for arbitration, and the parties also agreed to submit the Beagle Channel islands dispute to the *International Court of Justice* (ICJ) for adjudication. Queen Elizabeth of Britain agreed in principle to arbitrate the Palena-Rio Escondido dispute on May 24, 1960. Chile formally protested the movement of Argentine border troops in the Horquetas Valley of the Palena-Rio Escondido region on July 23, 1964, but Argentina rejected the protest on July 27, 1964. Argentina and Chile submitted the Palena-Rio Escondido dispute to Queen Elizabeth II of Britain for arbitration on April 1, 1965. Argentine border troops killed a Chilean border guard in the Laguno del Desierto region on November 9, 1965, and the countries agreed on December 11, 1965 to establish a joint border commission to demarcate the Laguno del Desierto region. A British court of arbitration awarded most of the Palena-Rio Escondido region to Argentina on December 14, 1966, and a British commission completed the formal demarcation of the border in July 1967. Argentine planes and ships fired warning shots at a Chilean patrol boat in the Beagle Channel on November 28, 1967. Chile proposed that the Beagle Channel islands dispute be referred to a British arbitration tribunal on December 11, 1967, but Argentina rejected the proposal on December 23, 1967. Argentina and Chile agreed on July 22, 1971 to submit the Beagle Channel islands dispute to a five-member British arbitration tribunal. The foreign ministers of Argentina and Chile signed the *General Treaty on the Judicial Settlement of Disputes *on April 5, 1972, which provided for ICJ adjudication of future disputes concerning the Beagle Channel islands. The treaty had a ten-year limit at which time it could be renewed or terminated. The British arbitration tribunal decided on May 2, 1977 that Chile retained sovereignty over the Beagle Channel islands and that Argentina retained navigational rights to its naval base in the area. On August 8, 1977, Argentina protested Chile's publication of a map ncorporating the decision of the British arbitration tribunal. Argentina mobilized troops in the border region on December 5, 1977, and Chile mobilized troops in the region on January 5, 1978. The US offered to facilitate negotiations between the countries on January 10, 1978. Although President Jorge Videla of Argentina and President Augusto Pinochet of Chile met in Mendoza, Argentina on January 19, 1978 for bilateral negotiations, Foreign Minister Oscar Montes of Argentina formally rejected the arbitration decision on January 25, 1978. Argentine and Chilean representatives signed the *Act of Puerto Montt* on February 20, 1978, which provided for a six month period of peaceful negotiations*. *Chile mobilized 50,000 troops on October 16, 1978, which followed Argentina's call-up of 500,000 reserve troops on October 12, 1978. The Vatican appealed for a peaceful resolution of the dispute and offered to facilitate negotiations between the parties on December 11, 1978. Argentina and Chile accepted the good offices of the Vatican on December 12, 1978. President Jimmy Carter of the US appealed for peaceful negotiations between the countries on December 11, 1978. On December 21, 1978, Argentina protested to the *United Nations *(UN) Security Council that Chile had illegally deployed troops and artillery on the islands. Cardinal Antonio Samore, special envoy of the Vatican, arrived in the region on December 26, 1978, and he facilitated the signing of the *Declaration of Montevideo* on January 8, 1979. According to the terms of the declaration, the parties agreed to seek Vatican mediation to resolve the dispute peacefully. Pope John Paul II formally agreed to mediate the Beagle Channel Islands dispute on January 24, 1979. Cardinal Samore was appointed as Vatican mediator on April 23, 1979. Cardinal Samore presented proposals for the resolution of the territorial dispute to Argentina and Chile on December 12, 1980. Chile accepted the proposals on January 8, 1981, but Argentina rejected the proposals on March 25, 1981. Chilean and Argentinean representatives resumed negotiations in Rome on February 1, 1982. Cardinal Samore died on February 3, 1983, and he was replaced as mediator by Cardinal Agostino Casaroli. The foreign ministers of Argentina and Chile signed a draft peace treaty at the Vatican on January 23, 1984, and the parties signed the final peace treaty at the Vatican on November 29, 1984. Chile was awarded the disputed islands, but Argentina was awarded maritime rights in the Beagle Channel. The countries exchanged instruments of ratification at the Vatican on May 2, 1985. Argentina and Chile signed a border agreement in Buenos Aires on August 2, 1991, which provided for the demarcation of the border in the southern regions. Argentina and Chile agreed to submit the Laguna del Desierto dispute to a five-member *Organization of American States* (OAS) arbitration tribunal on August 3, 1991. The OAS arbitration tribunal issued a decision in favor of Argentina on October 28, 1994. The countries completed the demarcation of the Laguna del Desierto border on February 3, 1995. Argentinian and Chilean representatives signed a border agreement on December 16, 1998.
+
+MID1508 occurred from March 15, 1873 to May 22, 1873. This MID seems to be related to the signing of the Treaty of the Alliance between Peru and Bolivia in 1873. Argentina was invited to join this Treaty against Chile, and the President of Argentina agreed to this move, but the Argentinian Senate did not agree initially. 
+
+MID1633 occurred from April 27, 1876 to August 2, 1876. I could not find any specific data on this except that a Chilean warship sank a French warship off the coast of Punta Arenas in southern Chile because the French ship was getting guano without a Chilean license. 
+
+MID1509 occurred from September to December 1877. There is no specific information on this MID but it could be related to the Mutiny of the Artillerymen in Punta Arenas that started on November 12, 1877. Some of the mutineers went towards Argentina once the mutiny did not succeed.
+
+MID1510 occurred from October 15, 1878 to November 26, 1878.I could not find specific information on this MID.
+
+MID1511 occurred from May 1879 to June 16, 1879. I could not find specific information on this MID.
+
+MID2076 occurred from April 1891 to September 1891. I could not find specific information on this MID.
+
+MID1513 occurred from October 1897 to September 22, 1898. This MID is related to boundary disputes between Chile and Argentina. In response to these disputes Chile deployed a squadron of warships near the disputed territory and a regiment has been sent for exercise to the frontier. New customs officials were also sent to each Cordillera pass. The possibility of war was considered as low by the international media.
+
+MID1093 occurred from May 1900 to April 6, 1902. This MID is related to boundary disputes around the inlet of Ultima Esperanza. The media of the time talks about police from both countries deployed in the disputed territory and mobilization of the armies. On June 28, 1902 the Argentinian Senate approved a treaty with Chile which asks for arbitration of the disputed territory and agrees to put restrictions on armaments. 
+
+MID2077 occurred in March 1905. I could not find specific information on this MID.
+
+MID2078 occurred on July 7, 1909. This MID seems to be related to a border dispute between Argentina and Bolivia in which it was not clear if Chile would remain neutral, even though Chile stated that it would try to mediate. 
+
+MID1097 occurred from July to September 1952. Chilean authorities were displeased with the involvement of Argentina in the upcoming general elections in Chile. They seized materials from 2 Argentinian consuls that endorsed a Chilean general as a candidate in the elections. 
+
+MID1098 occurred from August 4, 1955 to September 1955. This dispute is related to maritime borders with Argentina and claims over the Antarctica by both countries. 
+
+MID1099 occurred from April 1958 to August 19, 1958. This was a dispute over the ownership of the Snipe Island near Cape Horn in the Beagle Channel
+.
+MID2079 occurred on November 3, 1958. I could not find specific information on this MID.
+
+MID1100 occurred from August 16, 1959 to September 29, 1959. On September 2, 1959 it was reported that Chile and Argentina exchanged protests over naval activity in territorial waters claimed by both countries near Picton Island in Beagle Channel.
+
+MID1101 occurred on March 24, 1960. This event deals with an announcement on March 23, 1960 that both countries agreed to submit their dispute over the Beagle Channel to international arbitration. I am not certain that this is a MID. 
+
+MID1102 occurred on September 17, 1963. I could not find specific information on this MID.
+
+MID2080 occurred on July 25, 1964. This event is related to the movement of Argentinian troops in the Horquetas Valley, a snow-covered strip of land about 20 miles long in the disputed Palena zone in the southern Andes. 
+
+MID1609 occurred from August 18, 1967 to May 7, 1968. This event is about the rising tensions between Chile and Argentina over the Beagle Channel. Both countries stationed warships near Usuhaia in Argentina. Argentina deployed a aircraft carrier, 3 cruisers, a submarine, and a patrol boat. Chile deployed torpedo boats, warships, and jetfighters. 
+
+MID2081 occurred from July 14, 1977 to February 10, 1978. Argentina's military government refused the ruling of Queen Elizabeth II of the United Kingdom awarding 3 islands to Chile. A 1902 treaty made UK the arbitrer of Chile-Argentina disputes. Chile and Argentina nearly went to war in 1978 over this territorial dispute involving three islands in the Beagle Channel.
+
+MID2082 occurred from August 18, 1978 to January 9, 1979.This dispute relates to the inability of the foreign ministers of the two countries to decide upon a mediator to their dispute. They finally agreed to a mediation by Vatican and Pope John Paul II. 
+
+MID2083 occurred from September 7, 1980 to February 9, 1981. Argentina was not happy with the Vatican's proposal to award most of the islands in the Beagle Channel to Chile. Chile miners were expelled from Argentina and border trade disputes ensued.
+
+MID2084 occurred from April 25, 1981 to April 29, 1981. Argentina closed its border with Chile after the imprisonment of 2 Argentinian military officials in Chile. 
+
+MID2085 occurred from September 21, 1981 to February 23, 1982. On September 22, 1981, the Chilean Government had submitted a formal and categorical protest to the Government of Argentina over the incursion into Chilean waters by the cruiser Belgrano. A Chilean official said the action was in violation of Article 2 of the undertak-ing given by the two countries in Montevideo to the Pope's representative that they would refrain from actions that might affect good bilateral relations. The Pope's representative was well-informed on all problems affecting relations between Chile and Argentina, particularly in the Beagle Channel area, the official had said.
+
+MID2086 occurred on August 18, 1983. Chile said that on August 18, 1983, a group of Argentines landed on a Chilean island in the disputed Beagle Channel at the southern tip of South America but withdrew after about 20 minutes. A Defence Ministry communique said the incident occurred on the largest of the Hermanos islands, one kilometre northwest of Picton, one of the three islands at the centre of a dispute over territorial sovereignty between Chile and Argentina at the eastern entrance of the Beagle Channel.
+
+MID2087 occurred on October 19, 1984. This event is related to the public disclosure of the treaty between Chile and Argentina regarding the Beagle Channel to the larger public. Right-wing nationalist groups in both countries, but especially in Argentina, were not happy with the treaty.
+
+SOURCES-CM: 
+Allock et al., 1992, 548-551; *Associated Press* (AP), December 16, 1998; Brecher and Wilkenfeld, 1997, 517-518, 520-521; Butterworth, 1976, 235-237; *Foreign Broadcast Information Service *(FBIS), January 12, 1978, January 16, 1978, October 6, 1978, November 6, 1978, December 26, 1978, December 27, 1978, December 28, 1978, January 2, 1979, January 3, 1979, January 4, 1979, December 15, 1980, January 12, 1981, October 5, 1984, October 18, 1984; Garrett, 1985, 81-109; Ireland, 1938, 17-27; *Keesing*, April 2-9, 1960, June 4-11, 1960, May 6-13, 1972, March 24, 1978, May 4, 1979, July 3, 1981, April 23, 1982, August 1991; *New York Times *(NYT)*, *March 26, 1960, March 30, 1960, May 25, 1960, July 25, 1964, July 30, 1964, December 6, 1965, December 12, 1965, December 12, 1967, December 24, 1967; Princen, 1992, 133-185; Rauch 1999; *Reuters*, December 16, 1998. 
+
+NARRATIVE-CR:
+The Argentine-Chilean rivalry is exclusively centered around territorial disputes near their border. The most important parts of territory under dispute have been the Magellan Straits, Patagonia and the Beagle Channel Islands. These claims date back to the first mid between the two countries (MID1507) in 1843 when Chile contested Argentine claims of sovereignty over the Straits of Magellan. The main reason for a lack of militarized disputes between Chile and Argentina from 1844 to 1873 was due to Argentina's preoccupation with England and France blockading Buenos Aires from 1845-1848 and political unrest that led to the overthrow of Manuel de Rosas in 1852 and then to further civil unrest to determine a successor that was resolved in 1862. At this point, Argentina found itself in the War of the Triple Alliance from 1864-1870, leaving little ability to pursue territorial claims against Chile. Thus in 1873, after Argentina was consolidated, militarized disputes with Chile over disputed territory resurfaced.
+
+The Argentine-Chilean dyad is coded as two distinct periods of rivalry, with the first ending in 1909 and the second beginning in 1952. The two countries did sign a series of treaties in 1902 to formerly resolve the territorial disputes, including a provision to arbitrate future disputes, militarized conflict continued between the two until 1909. In 1909 the disputes between the two stop not because there was official settlement of all the territorial issues but rather due to external factors. Both World Wars and the depression in-between put the territorial issues on hold for the two countries. After the war, political instabilities in both countries also made it difficult to resume their disputes, with both countries installing new post-war governments. After these governments stabilized their internal positions the militarized disputes continue, beginning in 1952. It should be noted that various areas of dispute are settled over time, ending conflict in a particular region. For example, disputes involving the Andean cordillera were settled as early as 1902. 
+
+The last major area of dispute between Argentina and Chile were over the Beagle Channel islands and the last mids between the two demonstrate this (MID2085 on 9/21/81, MID2086 on 8/18/83, and MID2087 on 10/19/84). The two sides had tried to peacefully resolve the dispute through third parties as early as July 22, 1971 with Argentina and Chile submitting the Beagle Channel islands dispute to a five-member British arbitration tribunal. The foreign ministers of Argentina and Chile signed the *General Treaty on the Judicial Settlement of Disputes *on April 5, 1972, which provided for ICJ adjudication of future disputes concerning the Beagle Channel islands. The treaty had a ten-year limit at which time it could be renewed or terminated. The British arbitration tribunal decided on May 2, 1977 that Chile retained sovereignty over the Beagle Channel islands and that Argentina retained navigational rights to its naval base in the area. Cardinal Antonio Samore, special envoy of the Vatican, arrived in the region on December 26, 1978, and he facilitated the signing of the *Declaration of Montevideo* on January 8, 1979. According to the terms of the declaration, the parties agreed to seek Vatican mediation to resolve the dispute peacefully. Pope John Paul II formally agreed to mediate the dispute on January 24, 1979 which led to a final peace treaty at the Vatican on November 29, 1984. Chile was awarded the disputed islands, but Argentina was awarded maritime rights in the Beagle Channel. The countries exchanged instruments of ratification at the Vatican on May 2, 1985. The treaty established a sea boundary between the two countries and also established patterns for navigation through Chilean waters while regulating the number of Argentine military ships in the area. 
+
+In terms of domestic factors that may have led to the end of the rivalry there are many possibilities. First, both countries were hit hard by the debt crisis in 1982. Economically, continuing militarized conflict could have proved too costly to pursue. In Chile, there was a series of bankruptcies and a strong tightening on credit. In 1982, the GNP fell by 14% and the peso lost 40% of its value. In May 1983, demonstrations began on a monthly basis against the Pinoche regime. This marked a cycle of protest and violence that continued for several years in Chile after negotiations with Argentina that settled the Beagle Channel dispute. Pinochet's military thus found itself in entangled in domestic concerns, giving it less time to pursue militarized conflict with Argentina in territorial disputes beyond the Beagle Channel that had yet to be resolved. From 1986 to 1988 there was an economic recovery in Chile although it was hardly an evenly distributed one. In 1988 Pinochet, confident that he would be chosen, decided to hold a plebiscite no later than January 1989 to determine the next president. On December 14, 1989 an opposition candidate, Patricio Aylwin, won the election. Aylwin took office in March 1990 and the process of democratic consolidation was underway. Economically, Chile continued its growth since the economy began to recover in 1986. To spread out the growth, Aylwin began increased spending on social programs to fight poverty. From 1991 to 1997, Chile experienced economic growth with its GDP increasing by about 8% a year. Despite recent setbacks in 1998 and 1999 due to a recessed global economy, Chile maintained strong financial institutions and in 2000 managed to reestablish its economic growth. On March 11, 2000 President Ricardo Escobar took office and has attempted to maintain these economic traditions. On November 29, 2000 Escobar announced that Chile would not join Mercosur and instead pursue a free trade agreement with the US. This announcement may have hurt relations with Argentina, Brazil, Paraguay and Uruguay. The free trade agreement with the US was finalized on December 11, 2002. This agreement was one of three free trade pacts finalized in 2002. The other two were with the European Union and South Korea. In sum, Chilean politics since the mid 1980s have been centered on domestic affairs, both political and economic, limiting both the opportunity and desire to pursue hostile relations with Argentina.
+
+In Argentina democratic consolidation began as early as 1983 with the inauguration of Raul Alfonsin as president. One of Alfonsin's priorities was to resolve the Beagle Channel dispute which occurred less than two years later. Alfonsin's administration was immediately hit with an economic crisis where the GDP of the country was the same to its GDP in 1974. In addition, the Argentine economy had one of the highest percentages of inflation in the world and was highly in debt. Plans to turn the economy around were unsuccessful in the short term, leading to general strikes by Argentine trade unions in 1985. By the end of 1985, however, the government was able to secure moderate successes with an increase in production and private investment. These successes were trumped by larger failures that resulted in the refusal of the IMF and World Bank to issue more credits to Argentina and the use of most of Argentina's foreign currency reserve by February 1989. These economic conditions destabilized the banking system and consumer prices, leading to food riots in May 1989, growing social disturbances and hyperinflation. Amid these growing concerns, Carlos Menem was elected to the presidency on May 14, 1989. Alfonsin resigned early in July 1989 although he was not due to leave office until December. Under the Menem administration, structural reforms were put in place to quell the crisis and while these achieved limited success, the economy still commanded most of the administration's and country's attention. In 1991, Menem joined with Brazil, Parguay, and Uruguay to form Mercosur, which established a common market between the four countries. The remainder of Menem's administration was relatively stable although the economy continued to be a difficult area to bring under control. In December 1999, Fernando de la Rua began his term as the next elected president of Argentina. Similar to the other presidents before him, de la Rua was forced to focus on economic issues due to continued inflation, debt, and capital flight. In only two years, de la Rua's administration found itself unable to control the economy, leading to riots in protest against increasingly declining economic situations. Unemployment was at 18.3% and the government was facing the possibility of defaulting on its $US 132 billion foreign debt. On December 5, 2001 the IMF froze its loan installment to Argentina. Riots on December 19, 2001 led to over 20 deaths and widespread looting. On December 19, 2001 de la Rua was forced to declare a state of seige to end the rioting. On December 20, 2001 de la Rua resigned from office leaving the National Congress to select President Eduardo Duhalde on January 2, 2002 to take the office. On January 3, 2002 Argentina defaulted on its international loans from the World Bank. On January 15, 2003 Argentina failed to make payment on its loan from the Inter-American Development Bank. On January 16, 2003 Argentina and the IMF reached an agreement that allowed the country to avoid defaulting on its loans. The IMF was the only major creditor with which it had not gone into default. In sum, Argentina even more than Chile has needed to focus its attentions on its economy and domestic conditions. 
+
+There are also several events that occurred between the two countries that helped to effectively end the rivalry. In 1990, the two governments increased their cooperative ventures, politically and economically. In August 1990, the two signed an agreement that allowed for the opening of border crossing, the construction of a tunnel through the Andes, coordination on energy policy and drug trafficking. In 1991 Argentina and Chile signed the *Agreement on Economic Complementariness* to help expand commerce and cooperation in energy, mining and tourism. On August 2, 1991 the two countries signed a border agreement demarcating the border in their southern regions. With regard to another disputed territory, the Laguna del Desierto (MID1608 in November 1965), Argentina and Chile agreed to a five-member *Organization of American States* (OAS) arbitration tribunal on August 3, 1991. MID1608 occurred from November 6, 1965 to December 11, 1965. In April 1992, the two countries signed the *Declaration of Punta *Arenas that called for enhancing the integration in the southern region.
+
+The OAS arbitration tribunal issued a decision in favor of Argentina on October 28, 1994 which led to a demarcation of the Laguna del Desierto border on February 3, 1995. Argentinian and Chilean representatives signed a border agreement on December 16, 1998, leaving only one remaining territorial claim to be settled and that involves a small group of icefields in Patagonia. 
+
+Finally, it should be noted that both countries in their democratic transitions were probably very reluctant to use the military due to both domestic and international recognition of the military governments' abuse of human rights during their reign. In both countries, military officials were brought to trial and jailed for human rights abuses in the 1990s for their previous actions in the 1970s and 80s. In 1983, President Alfonsin of Argentina ordered military trials for officers who were in charge of the military during 1976 to 1983 when the military takeover of the government sparked the Dirty War, a civil conflict designed by the military to eliminate subversive and opposition elements. In 1984, he created the Comision Nacional Sobre la Desaparacion de las Personas (CONADEP) to supervise the investigation of persons disappeared in Argentina's Dirty War. The commision implicated over 1,000 military and police involved. In Chile, President Aylwin immediately began to reconcile past negative historical political affairs in large part caused by the Chilean military government. In 1990 he established a Truth and Reconciliation commission to account for human rights abuses during the Pinochet regime. He also gave Salvador Allende a state funeral, compensated victims of repression and put the army back in the barracks. 
+
+SOURCES-CR:
+Bethell 1993; Angell 1993; de la Fuente 1997; Collier and Sater 1996; *Facts on File* 12/31/00, 2/26/02, 7/11/02, 12/26/02; 1/16/03; Lewis 2001
+
+SB-CR:
+Argentina / Chile Years: 1873-1984. Issues at stake: Border between Argentina and Chile, especially control over islands in the Beagle Channel late in the rivalry. End coding: In 1984 both countries accept the arbitration award of the Pope which was initially issued in December, 1980, and sign a Treaty of Peace and Friendship. This coincided with the last militarized dispute year. Number of reciprocated 30 day militarized disputes: 12. Last militarized dispute: 1984. Wars: None. Summary: Like several of the South American rivalries, that between Argentina and Chile has its roots in an inadequate demarcation of borders by the Spanish. Border conflicts occurred over three distinct areas, the north-south Andean border in the Palena region, Patagonia along the southern Andean border, and the Beagle Channel. Chile was informally given rights by the Spanish to Patagonia, the Straits of Magellan, and Tierra del Fuego. However, Chile never established outposts or settled those areas, and they were not recognized as part of Chile's national territory in the 1822 Chilean Constitution. Argentina voiced its opposition when Chile attempted to claim those territories in the 1830s, although the early disputes over the territories (1835, 1843) were neither frequent nor intense. In 1881 Argentina and Chile signed a border agreement, but the settlement did not last (disputes followed in 1891 and 1897), and in 1902 Britain was named as an arbitrator. After a 1905 hydrographic study of the Beagle channel, Britain awarded a number of islands to Chile, but Argentina successfully pressed for a reexamination. Several arbitration attempts through the early 1900s failed, although there appear to have been no militarized disputes (according to the COW dispute data set) between 1909 and 1952. A number of clashes occurred in the 1950s, 1960s, and 1970s, with efforts at arbitration by the Queen of England and the International court ongoing simultaneously. This arbitration settled the issues along the north-south border and in Patagonia, setting new border landmarks in Patagonia and dividing the disputed north-south border region of Palena between the two countries. However, various border incidents and claims regarding islands in the Beagle Channel and the rights to access oil continued. In 1972 both states agreed to submit future disputes to the International Court of Justice, which issued a ruling in 1977 in favor of Chile that was not accepted by Argentina. However, it was not until an arbitration award was issued by the Vatican that the Beagle Channel dispute was settled. The Vatican announced its award in December, 1980, but was not accepted by both sides until 1984. At that time, following the final militarized dispute between the states (in which Argentina shelled an island in the channel), Argentina and Chile signed a Treaty of Peace and Friendship accepting the Vatican's arbitrated border. Notes: 1) The Wayman and Jones (1991) coding splits the rivalry into two sections. The first ends in 1909. After 1909, another dispute does not occur until 1952, when the second part begins. Because the same issue remains unsettled through the 1909-1952 period, I consider the rivalry as one continuous series. An arbitration treaty was signed in 1910, but neither Argentina nor Chile accepted its rulings regarding their border. Because only 9 years have passed since the 1984 treaty, coding the case as ended now (1993) is a technical violation of the coding rule. However, there seems to be no sign of either side making new claims regarding the border, and relations between the two sides have continued to improve since 1984. The COW militarized dispute data set shows that there are at least two disputes before 1873 (1835, 1843). However, those disputes are much earlier in time and spaced quite separately from the set of disputes beginning in 1873.
+
+PS-NARRATIVE: 
+19090708-19520630 0.5 
+
+On February 10, 1915, the ambassadors of Chile and Argentina spoke about the desire to unite commercially the two countries. 
+
+On October 14, 1919, the two countries signed a treaty to establish police garrison on their border to protect the population against bandits stealing cattle. The convention authorizes the police of each country to pursue bandits into the other's territory until the local police of the specific country can intervene. 
+
+On May 13, 1923, Argentina criticized the position of Chile at the Pan-American Conference regarding the disarmament of South American countries. On November 11, 1923, officials from Argentina, Brazil, and Chile dispelled the idea of war just because Argentina and Brazil are enlarging their militaries. 
+
+On September 4, 1929 the first commercial airlink between Santiago de Chile and Buenos Aires was established. 
+
+On February 7, 1933, the Foreign Ministers of the two countries held a meeting in Mendoza, Argentina, at which they agreed to proceed with arbitration regarding the disputed 3 islands in the Beagle Channel-Picton, Lennox, and New Island. UK was chosen as the 3rd party for this dispute. 
+
+On June 3, 1933, Argentina and Chile signed a treaty that put an end to the trade dispute that caused a halt in commerce for the previous 6 months. 
+
+On December 20, 1940, the two countries agreed to specify their borders in the Antarctic regions. 
+
+On December 13, 1946, a plan for a `customs union' and all-out economic cooperation was signed between the two countries. The pact provides for economic and financial cooperation and it was considered to be one of the most far-reaching agreements between 2 states in the Americas. 
+
+On February 5, 1947, the Chilean consul in Argentina argued that, despite the belief of some Chileans, both countries stand to gain from the `customs union' signed in December 1946. This agreement is supposed to last for 5 years and will be renewable on a yearly basis after that. Both countries would benefit, with Argentina getting Chilean raw materials and Chile getting Argentinian capital to develop the extraction and production of materials and food. 
+
+On February 28, 1948, the two countries opened a Pan-Andean train route. This route is expected to help spur commercial links between the two countries. 
+
+On March 5, 1948 the two countries agreed to cooperate to delimitate each other's territory in the Antarctic regions and to work together in favor of the claims of South American states, and indirectly against the claims of UK. 
+
+MID1097 occurred from July to September 1952. Chilean authorities were displeased with the involvement of Argentina in the upcoming general elections in Chile. They seized materials from 2 Argentinian consuls that endorsed a Chilean general as a candidate in the elections.
+
+On February 22, 1953, the presidents of Chile (Gabriel Gonzalez Videla) and Argentina (Juan Peron) agreed to establish an economic union within 4 months between the two countries and to enforce the customs union agreed in 1946. Thus, it seems that even after the first MID of RIV357 (MID1097) the relations between the two countries were very close. However, it does seem that the customs union decided in 1946 was never fully implemented, as the desire for such a union and for an economic union are reiterated in 1953. It appears that 1955, the year when Juan Peron left power in Argentina (September 21, 1955) and the 2nd MID of RIV357, MID1098 occurred over territorial disputes in the Antarctic regions, represents the real escalation of hostilities.
+
+19841020-20159999 0.5 
+
+According to the terms of the declaration, the parties agreed to seek Vatican mediation to resolve the dispute peacefully. Pope John Paul II formally agreed to mediate the dispute on January 24, 1979 which led to a final peace treaty at the Vatican on November 29, 1984. Chile was awarded the disputed islands, but Argentina was awarded maritime rights in the Beagle Channel. The countries exchanged instruments of ratification at the Vatican on May 2, 1985. The treaty established a sea boundary between the two countries and also established patterns for navigation through Chilean waters while regulating the number of Argentine military ships in the area.
+
+There are also several events that occurred between the two countries that helped to effectively end the rivalry. In 1990, the two governments increased their cooperative ventures, politically and economically. In August 1990, the two signed an agreement that allowed for the opening of border crossing, the construction of a tunnel through the Andes, coordination on energy policy and drug trafficking. In 1991 Argentina and Chile signed the *Agreement on Economic Complementariness* to help expand commerce and cooperation in energy, mining and tourism. On August 2, 1991 the two countries signed a border agreement demarcating the border in their southern regions. With regard to another disputed territory, the Laguna del Desierto (MID1608 in November 1965), Argentina and Chile agreed to a five-member *Organization of American States* (OAS) arbitration tribunal on August 3, 1991. MID1608 occurred from November 6, 1965 to December 11, 1965. In April 1992, the two countries signed the *Declaration of Punta *Arenas that called for enhancing the integration in the southern region.
+
+The OAS arbitration tribunal issued a decision in favor of Argentina on October 28, 1994 which led to a demarcation of the Laguna del Desierto border on February 3, 1995. Argentinian and Chilean representatives signed a border agreement on December 16, 1998, leaving only one remaining territorial claim to be settled and that involves a small group of icefields in Patagonia. 
+
+On February 10, 1994, Chile has protested to Buenos Aires about the restrictions that the Argentine Health Institute has placed on imports of Chilean fruit and vegetables. Chilean government sources said Deputy Economy Minister Alvaro Briones had traveled to Buenos Aires to lodge a formal protest. The Argentine Health Institute said tighter quality controls on Chilean fruit put import standards in line with requirements made on Argentine products, but Briones said the restrictions contravened a bilateral accord to gradually dismantle trade obstacles.
+
+Chile and Argentina signed a treaty on December 21, 2000, to promote cooperation in mining exploration and production, local media reported. Chilean President Ricardo Lagos and his Argentine counterpart Fernando de La Rua signed the Mining Integration and Complementary treaty in San Pedro de Atacama, north of Chile.
+
+Chile and Argentina on November 12, 2003, condemned a spy incident in Chile's southern city of Punta Arenas and expressed their willingness to continue working to deepen bilateral relations. In a joint statement, the foreign ministries of the two countries said the actions of Chile's army personnel involved in the spy incident violated related law and regulations and were not in line with the friendly relations between the two peoples, especially the friendly relations between the two armies. Two intruders entered the Argentine consulate in Chile's southern city of Punta Arenas, which is located 2,180 kilometers south of Santiago, and were caught by an Argentine diplomat as they were photocopying documents from a safe. The Argentine diplomat struggled with one of the intruders. The intruders fled but left the photocopies behind. A Chilean army general has resigned and another high-ranking officer has been fired after the incident.
+
+Chile and Argentina started a second round of negotiations on July 29, 2004, to solve the natural gas crisis between them, the local newspaper El Mercurio reported. Executive Secretary of Chile's National Energy Commission Luis Sanchez and Argentine Energy Minister Daniel Cameron will try to finalize a settlement of the crisis at their meeting in Argentina's capital of Buenos Aires, the report said. Argentina has increased its gas export to Chile since the first round of negotiations in late May 2004. Chilean Economy and Energy Minister Jorge Rodriguez said the ongoing meeting will help to get "first-hand" knowledge of Argentina's gas supply to his country. Under the Gas Integration Treaty signed by the two countries in 1997, 90 percent of Chile's gas supply comes from Argentina. But Argentina, which is grappling with a serious energy crisis itself, has to buy fuel from Venezuela and cut gas export to Chile. In May and mid-June, Argentina reduced its daily gas supply to Chile from 15 million cubic meters to only 5 million cubic meters.
+
+On September 12, 2006, the Chilean President Bachelet spoke about the fact that it is high time to focus on integration with Argentina, during a meeting with Argentinian President Kirchner. The meeting took place in Mendoza, at the start of a bidding process for contracts to build the Trans-Andean Railroad. 
+
+PS-SOURCES: New York Times January 22, 1898; December 27, 1901; June 29, 1902; July 22, 1909; February 10, 1915; October 15, 1919; May 13, 1923; February 19, 1933; June 4, 1933; November 11, 1923; September 5, 1929; December 21, 1940; December 14, 1946; February 5, 1947; February 21, 1948; March 5, 1948; July 27, 1952; February 22, 1953; September 17, 1955; August 18, 1958; September 3, 1959; March 23, 1960; July 30, 1964; May 8, 1968; December 6, 1977; December 14, 1978; December 27, 1980; April 30, 1981; October 21, 1984; BBC September 24, 1981; The Globe and Mail May 3, 1985; Associated Press July 31, 1991; September 12, 2006; United Press International February 10, 1994; Xinhua December 21, 2000; November 12, 2003; March 27, 2004; July 29, 2004; October 7, 2004; US Fed News September 12, 2006. 
+
+
+MARITIME-MIDS: MID1098 MID1100 MID2085
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID1098
+ DYAD: CHILE ARGENTINA 155160
+ DATES: 19550804 19550931
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID1098 occurred from August 4, 1955 to September 1955. This dispute is related to maritime borders with Argentina and claims over the Antarctica by both countries. 
+
+MARITIME-DISPUTE: MID1100
+ DYAD: CHILE ARGENTINA 155160
+ DATES: 19590816 19590929
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID1100 occurred from August 16, 1959 to September 29, 1959. On September 2, 1959 it was reported that Chile and Argentina exchanged protests over naval activity in territorial waters claimed by both countries near Picton Island in Beagle Channel.
+
+MARITIME-DISPUTE: MID1609
+ DYAD: CHILE ARGENTINA 155160
+ DATES: 19670818 19680507
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID1609 occurred from August 18, 1967 to May 7, 1968. This event is about the rising tensions between Chile and Argentina over the Beagle Channel. Both countries stationed warships near Usuhaia in Argentina. Argentina deployed a aircraft carrier, 3 cruisers, a submarine, and a patrol boat. Chile deployed torpedo boats, warships, and jetfighters. 
+
+MARITIME-DISPUTE: MID2085
+ DYAD: CHILE ARGENTINA 155160
+ DATES: 19810921 19820223
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2085 occurred from September 21, 1981 to February 23, 1982. On September 22, 1981, the Chilean Government had submitted a formal and categorical protest to the Government of Argentina over the incursion into Chilean waters by the cruiser Belgrano. A Chilean official said the action was in violation of Article 2 of the undertak-ing given by the two countries in Montevideo to the Pope's representative that they would refrain from actions that might affect good bilateral relations. The Pope's representative was well-informed on all problems affecting relations between Chile and Argentina, particularly in the Beagle Channel area, the official had said.
+

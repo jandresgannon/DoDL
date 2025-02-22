@@ -1,0 +1,311 @@
+FILE: cm220710v11.0.txt
+DYAD: FRANCE-CHINA
+RIVALRY: RIV10588
+DISPUTE(S): MID220 MID506 MID507 MID202 MID379 MID31 MID2208 MID145 
+RIVALRY: RIV589
+DISPUTE(S): MID2021 MID51 MID2010 
+
+RIVNOTES: RIV10588 was originally coded as two separate rivalries (RIV587 and RIV588), but these were combined because the disputes in both rivalries involved the same unresolved issues-French influence and access in China.
+
+PS: 19009999-19491213 0.25 19491214-19540426 0.00 19540427-19640126 -9 19640127-19690126 0.5
+
+PSNOTES:
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20220601
+PS-LAST-CHECKED: 2022-601
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID220 MID506 MID507 MID202 MID379
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm002710 narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2208 
+
+TERRMID: MID2208 3 -- not territory 
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 3 -- not third party link to territory 
+TERRLINK-CER: MID2208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain 
+MARITMID-NOTES: MID2208 from cm002710 narrative, the Great Powers (Germany, Japan, France, UK, US, Italy, Russia) demanded that China remove mines it had placed in the Dagu Harbor, as that harbor provided access to a major Chinese river. Those countries jointly threatened China, triggering this MID. China exchanged naval fire with Japan as part of this incident. Coded not maritime because the maritime boundary was not disputed between China and France. The French had coerced the Qing dynasty into granting it concessions in the form of allowing France wide access to resources in parts of China, but the Qing government of China was left in place as independent, albeit coerced into granting many concessions to many powers, and France was not claiming Chinese territory or maritime areas as its own. 
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2208 3 -- not civil war link 
+CIVWARLINK-CER: MID2208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+MID145 
+
+TERRMID: MID145 3 -- not territory 
+TERRMID-CER: MID145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID145 3 -- not third party link to territory 
+TERRLINK-CER: MID145 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID145 3 -- not maritime 
+MARITMID-CER: MID145 1 -- certain 
+MARITMID-NOTES: MID145 involved naval shelling, but was not connected to any maritime claims. See CIVWARMID. 
+
+ISLMID: MID145 3 -- not islands 
+ISLMID-CER: MID145 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID145 1 -- civil war MID
+CIVWARMID-CER: MID145 1 -- certain 
+CIVWARMID-NOTES: MID145 from cm002710 narrative, this is a naval incident involving US, UK, France, Spain, Portugal, Italy, and Japan vs. China that occurred February and March 1927. China had been divided along Communist and KMT (led by Chiang Kai-Shek, an anti-communist) fighting for years and would continue until 1949 as the Chinese Civil War. This MID occurred when fighting broke out in Shanghai and Nanking, causing western naval and ground forces to be increased at those locations, and some shelling of Chinese territory occurred to protect western interests. Coded civil war MID because militarized factions in China broke out into fighting, threatening western interests and causing those countries to threaten and use force against China, triggering this MID. 
+
+CIVWARLINK: MID145 3 -- not civil war link 
+CIVWARLINK-CER: MID145 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID145 3 -- not coup 
+COUPMID-CER: MID145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID145 3 -- not coup link
+COUPLINK-CER: MID145 1 -- certain 
+COUPLINK-NOTES:
+
+MID2021 
+
+TERRMID: MID2021 3 -- not territory 
+TERRMID-CER: MID2021 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2021 3 -- not third party link to territory 
+TERRLINK-CER: MID2021 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2021 3 -- not maritime 
+MARITMID-CER: MID2021 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2021 3 -- not islands 
+ISLMID-CER: MID2021 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2021 1 -- civil war MID
+CIVWARMID-CER: MID2021 1 -- certain 
+CIVWARMID-NOTES: MID2021 from Gibler (2018), in 1949, France allowed several thousand Chinese nationalists to cross the border into Indochina, despite warnings by China. China protested, and France welcomed them as refugees. Coded civl war MID because the Chinese Civil War was winding down here as nationalists were fleeing the mainland, and France's assistance to nationalists fleeing China trigegred this MID. 
+
+CIVWARLINK: MID2021 3 -- not civil war link 
+CIVWARLINK-CER: MID2021 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2021 3 -- not coup 
+COUPMID-CER: MID2021 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2021 3 -- not coup link
+COUPLINK-CER: MID2021 1 -- certain 
+COUPLINK-NOTES: 
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 narrative, this MID is the Korean War. The US and UN forces fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and NATO's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this multilateral MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and UK did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because the UK and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 3 -- not civil war 
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Like China, Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because the Korean civil war is outside of this dyad, and the UN forces and China fought here due to their opposing support in that war. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2010 
+
+TERRMID: MID2010 3 -- not territory 
+TERRMID-CER: MID2010 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2010 3 -- not third party link to territory 
+TERRLINK-CER: MID2010 1 -- certain 
+TERRLINK-NOTES: MID2010 from Gibler (2018), China accused France of numerous border violations (across the border with French Indochina) and warned that further violations would be met with force. Coded not third party linked to territory because although France recently experienced MIDs with China over France's support for anti-communist forces in the Chinese Civil War, this MID is connected to France's bordering colonial possessions, not the Chinese Civil War.
+
+MARITMID: MID2010 3 -- not maritime 
+MARITMID-CER: MID2010 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2010 3 -- not islands 
+ISLMID-CER: MID2010 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2010 3 -- not civil war 
+CIVWARMID-CER: MID2010 1 -- certain 
+CIVWARMID-NOTES: MID2010 not connected to the Chinese Civil War. 
+
+CIVWARLINK: MID2010 3 -- not civil war link 
+CIVWARLINK-CER: MID2010 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2010 3 -- not coup 
+COUPMID-CER: MID2010 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2010 3 -- not coup link
+COUPLINK-CER: MID2010 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+French troops intervened to protect its legation in Peking during the Boxer rebellion beginning on May 31, 1900, including some 800 French troops that entered Peking to relieve the foreign legations on August 15, 1900. China and France signed a peace agreement on September 12, 1901. Seventeen French soldiers were killed during the intervention. China and France disputed the sovereignty of the Paracel and Spratly Islands in the South China Sea beginning in September 1932. France seized control of the disputed islands in 1933 and 1937. China sent four warships to the islands in November 1946, and France also sent warships into the area in late 1946. France withdrew its forces from the islands in 1948.
+
+SOURCES-CM: 
+Clodfelter, 1992, 643-644.
+
+NARRATIVE-CR:
+The rivalry between France and China has several periods but the unifying theme throughout the different periods is the French desire for influence in or near China (in the 19th century directly within China and in the 20th century in Indochina.) 
+
+MID220 Tientsin Massacre took place from August through October of 1870. Many Chinese scholars and followers of China's many religions resented the white Christian missionaries who had flocked to China in the mid-19th century, and to stir up the common people they frequently circulated rumors that the foreigners were sorcerers. The French Sisters of Charity at their orphanage in the city of Tientsin (Tianjin) used to give small cash rewards to people who brought in homeless or unwanted children, which gave rise to the rumor that children were being abused, kidnapped, and used for witchcraft. On June 21, 1870, and angry Chinese crowd led by a local magistrate stood outside the orphanage; the French consul ordered his guards to fire on the mob to disperse it. Enraged by this, the Chinese stormed and sacked the orphanage, killing in the process 18 foreigners, including the consul and 10 nuns. A storm of protest issued from both Paris and Rome, and Western naval ships including Italian, sailed to Tientsin. France demanded severe punishment for those responsible; 16 Chinese were executed, and China officially apologized to France.
+
+The French established colonial control Cochin China in South Vietnam (MID506 and MID507). In the early 1880's, the French stationed troops in Hanoi and Hue, brushing aside any resistance with ease. In 1883, they then forced the Vietnamese to declare the Annam (central Vietnam) and Tonkin provinces (north Vietnam) French protectorates, and set about consolidating their hold on the country. The Vietnamese Emperor, in desperation, appealed to his former masters in China, who sent troops to garrison north Vietnam. The French continued to expand northwards and set their sights on using Vietnam as a jumping-off point for a possible invasion of China. 
+
+MID202 is the Sino-French War that took place from 1883 until 1885. The French quickly defeated these Chinese reinforcements and, for a time, it looked as if the Chinese would sue for peace. However, the ëwar-party' in the Chinese court became dominant before any treaty could be agreed, and hostilities continued. 
+
+In early 1885, French forces attempted to advance into southern China, but were heavily defeated by a combined Chinese/Vietnamese army at Liangshan in northern Vietnam. This defeat led to the fall of the French cabinet, but the French retaliated by attacking Keelung in Taiwan; occupying the Pescadores Islands; blockading the port of Foochow, and there destroying the Chinese navy (11 Chinese steamers being sunk). 
+
+The Chinese sued for peace and, on June 9th 1885, the Treaty of Tientsin recognised France's rights over the twin protectorates of Annam and Tonkin, although the French had to put down serious revolts (the `Scholars Revolt') until around 1889. 
+
+Thereafter, French established the Indochinese Union in 1887, consisting of Kampuchea; Cochin China; Annam; Tonkin; and Laos. 
+
+MID379 or Chinese concessions II occurred from March 24 through April 10, 1898. Here the French, interested in establishing their sphere of influence in China in the great race for colonial control of Asia and in particular China militarily intimidated the Chinese into conceding territorial control over Kwangchowan. 
+
+MID31 is the Boxer rebellion which occurred from May 30, 1900 until August 16, 1900. Chinese conservatives gave clandestine backing to the antiforeign and anti-Christian movement of secret societies known as Yihetuan (Society of Righteousness and Harmony). The movement has been better known in the West as the Boxers (from an earlier name-Yihequan, Righteousness and Harmony Boxers). In 1900, Boxer bands spread over the north China countryside, burning missionary facilities and killing Chinese Christians. Finally, in June 1900, the Boxers besieged the foreign concessions in Beijing and Tianjin, an action that provoked an allied relief expedition by the offended nations. The Qing declared war against the invaders, who easily crushed their opposition and occupied north China. Boxer Movement rebels in Peking killed Baron von Ketteler, the German minister to China, on June 20, 1900. Allied troops, including some 100 German troops, relieved foreign legations under siege in Peking during the Boxer rebellion on August 15, 1900 (MID2314). Chinese and German representatives signed a peace agreement on September 12, 1901. Under the Protocol of 1901, the court was made to consent to the execution of ten high officials and the punishment of hundreds of others, expansion of the Legation Quarter, payment of war reparations, stationing of foreign troops in China, and razing of some Chinese fortifications. In the decade that followed, the court belatedly put into effect some reform measures. These included the abolition of the moribund Confucian-based examination, educational and military modernization patterned after the model of Japan, and an experiment, if half-hearted, in constitutional and parliamentary government. The suddenness and ambitiousness of the reform effort actually hindered its success. One effect, to be felt for decades to come, was the establishment of new armies, which, in turn, gave rise to warlordism.
+
+The next conflicts occur in 1926 and 1927, thus a quarter century lull takes place in disputes between the countries. However, the issues at stake remain the same. France is interested in access to China. 
+
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral mid involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+MID145 was another dispute involving China and a number of Great Powers (Italy, the UK, and the US.) In this dispute, Italy again wanted concessions regarding territory in China and access to trade in the Italian sphere of influence. This dispute had a similar character to previous disputes involving China at this time. China resisted Great Power interference; the Italians brought military power to bear and the Chinese conceded. 
+
+The final period of conflict between France and China took place between 1949 and 1953. During this period of the rivalry, the issues are related to the status of Korea and the French presence in Indochina. The Chinese lend support to the Communists in Vietnam during this period and seek to pressure the French who fight a war for control of Indochina from 1946 until 1954. 
+
+MID2021 occurred on 12/14/1949. Here, Chinese Nationalist forces crossed into Vietnam after the Communist forces in China took control of the country in their four year civil war. The Chinese charged that the French were going to use these troops in anti Communist operations in the Vietnamese Army. The Chinese government later claimed that the French had invaded Chinese territory numerous times beginning on this date in provocative ground and air incursions. The Chinese claimed that this activity had been ongoing since 
+
+MID51 is the Korean War. President Harry Truman of the United States ordered troops to South Korea on June 27, 1950 in support of the South Korean military after North Korea's invasion of South Korea on June 25, 1950. US military aircraft shot down six North Korean military aircraft on June 27, 1950. North Korean troops captured Seoul on June 28, 1950. US troops were airlifted to South Korea from Japan beginning on June 30, 1950, and US troops commanded by General William Dean joined South Korean troops near Osan on July 4, 1950. Some 25,000 US troops commanded by General Edward Almond landed at Inchon on September 15, 1950, and re-captured Seoul on September 27, 1950. Some 13,700 North Korean soldiers and 536 US soldiers were killed during the US military offensive. US troops crossed the 38th parallel into North Korea on October 7, 1950, but were pushed back into South Korea by Chinese and North Korean troops on December 26, 1950. US and North Korean representatives signed a ceasefire agreement on July 27, 1953. 
+
+France contributed forces to the UN operation in Korea. A French Battalion, consisting of 39 officers, 172 non-commissioned officers and more than 800 enlisted personnel was part of the operation. The battalion departed Marseilles on 25 September arriving at Pusan on 30 November. It was not entirely ashore until the fifth of December. Once equipped with US weapons and vehicles, it was attached the 23rd Infantry Regiment, 2nd US Army Division with whom it served until the end of hostilities 27 July 1953. During this period 3,421 French soldiers were involved in Korea. Of these, 287 were killed in action; 1,350 wounded in action; 7 missing in action; and 12 became prisoners of war.
+
+MID2010 occurred on 11/23/1950. The Chinese accussed the French of bombing and strafing the border between China and French Indo-China. 
+
+There are many events that are associated with the termination of the rivalry between France and China. One of the most significant was the French war in Indochina from 1946 until 1954. Two of the last three MIDs between the countries were a direct result of French presence in Indochina. When the French pulled out in 1954, this removed motivation and opportunity for Chinese interaction with French troops on that front. France also had a significant political distraction in the Algerian War from 1954 until 1958. Thus when the Korean War ended in 1953, French attention was drawn elsewhere and opportunities for direct conflict with the Chinese abated. Further, in the November 1958 elections de Gaulle and his supporters won a comfortable majority with 78% of the vote. He oversaw tough economic measures to revitalize the country, including the issuing of a new franc (worth 100 old francs). 
+
+China too experienced significant political distractions to the rivalry with France during this period. China was engaged in a civil war that took place form 1946 until 1949. The ending of the civil war ushered in the founding of the Peoples Republic of China with Chairman Mao Zedong taking over control of China. One of the significant domestic policy changes that Mao undertook during this time was the Great Leap Forward (1958). It was intended by Mao as an alternative model for economic growth which contradicted the Soviet model of heavy industry that was advocated by others in the party. Under this economic program Chinese agriculture was to be collectivized and rural small-scale industry was to be promoted. In the middle of the Great Leap, Khrushchev canceled Soviet technical support because Mao was too radical in pushing for world wide communist revolution. Severe droughts also occurred at this time, compounding the difficulties. The Great Leap ended in 1960, after severe food shortages. Both inside and outside China, the Great Leap Forward is now regarded as a disastrous policy contributing to the deaths of millions of people.
+
+SOURCES-CR:
+Clodfelter, 1992, 643-644; http://www.sirgarnet.com/; http://www.sirgarnet.com/; 
+http://www.korean-war.com/france.html; New York Times 11/24/1950, 12/15/1949; Onwar.com
+
+SB-CR:
+France / China Years: 1860-1922. Issues at stake: French control/influence in Asia; Chinese policies toward the French. End Coding: During the Washington Conference in 1922, France, China and others signed a *nine power treaty* agreeing to respect China's sovereignty, independence, territorial and administrative integrity, to maintain the open door, and to afford China the opportunity to develop a stable govt. Number of militarized disputes: 7. Number of 30 day reciprocated militarized disputes: 4. Last militarized dispute: 1915. Wars: 1883-1885. Summary: The mid-1800s saw efforts by European states to open China to economic interaction with Europe, on terms favorable to Europeans. Many of the disputes which followed involved Chinese reactions to those terms, forced agreements, and resulting interactions. The 1858 Treaty of Trentsin was one of the first formal agreements opening China to more trade with the outside. The first related militarized dispute between France and China occured in 1860, when British and French troops occupied Peking to punish the Chinese for holding envoys who were traveling under a flag of peace (Langer 1972:911). In 1870: French consul and missionaries were massacred by a Chinese mob. In 1881 conflict developed over French policy in Indo-China, especially the Tonkin Gulf; in the 1883 Treaty of Hue, China was forced to accept a French protectorate over Annam. Clashes developed into what has been described as an undeclared war between China and France over French influence in Asia in 1884. Again by wielding its greater power to grab concessions following the Sino-Japanese War, France in 1898 obtained a 99 year lease on Kwangchowan Bay and the surrounding area. The 1922 Treaty of Washington did not entirely end competition over China or Chinese resentment of Europeans' actions, but violence against the European states ended after that time with their recognition of at least some right to self-rule by the Chinese Notes: Later disputes from 1950-1953 involve French/Chinese conflict during the Korean war. Different issues are involved then, namely the status of Korea. Sources: Langer (1972), Worden (1988).
+
+PS-NARRATIVE:
+
+19270329-19491213 0.25
+
+China and France disputed the sovereignty of the Paracel and Spratly Islands in the South China Sea beginning in September 1932. In 1927, the French ship SS De Lanessan conducted a scientific survey of the Spratly Islands. In 1930 France launched a second expedition with the La Malicieuse, which raised the French flag on an island called Ile de la Tempete. Chinese fishermen were present on the island, but the French made no attempt to expel them. In 1932, the Republic of China sent the French government a memorandum contesting their sovereignty over the Spratlys, based on the Chinese interpretation of the 1887 treaty ending the Sino-French War. In 1933, three French ships had taken control of nine of the largest islands and declared French sovereignty over the archipelago. France seized control of the disputed islands in 1933 and again in 1937. In the 1933, France claimed the Spratly and Paracel Islands on behalf of its then-colony Vietnam. It occupied a number of the Spratly Islands, including Itu Aba, built weather stations on two, and administered them as part of French Indochina. This occupation was protested by the Republic of China government because France admitted finding Chinese fishermen there when French war ships visited nine islands. In 1935, the Chinese government also announced a sovereignty claim on the Spratly Islands. On July 4th, 1938 France landed police and customs officers on the tiny islands of Paracel, 250 miles off the coast of French Indo-China. China argued that they have sovereignty over these islands, but the French Foreign Office stated that China recognized the transfer of the islands to French protection as long ago as 1865. They argued that police was sent there to protect the marine establishments used by ships of all countries. China sent four warships to the islands in November 1946, and France also sent warships into the area in late 1946 but no attempts were made to evict Chinese forces. In 1947 France demanded the Chinese withdraw from the islands. France ceased maritime patrols near the islands in 1948 and China withdrew most of its troops. Unrelated to the Spratly Islands dispute, France adopted a policy of inclusion towards China. In May 1932, France insisted that China be invited to talks proposed by Japan about the establishment of neutral zones of influence for foreigners in China. Other measures to be discussed at this proposed summit would be related to the protection of foreigners and foreign trade in China. A commercial treaty was signed by China and French Indo-China in 1930. In 1935, the pact was renewed by strengthening the Chinese economic and political influence in Indo-China, were a lot of Chinese ethnics were doing business. In November 1939, France reduced its garrison from the Northern Provinces of China. However, the Chinese authorities remained confident that France will continue supporting it in its effort against Japanese interferences. In August 1945, China asked France to send troops to Indo-China as soon as possible. In the same time, France gave back to China its mandate on the port of Kwangchowwan, which was obtained on a 99 year lease in 1898. About 5,000-6,000 French colonials from Indo-China who have taken refuge and been re-equipped in southern China would be the first ones to return to Indo-China. In November 1946, negotiations to implement the Sino-French treaty abolishing extraterritoriality and to reach a commercial agreement were under way between the Chinese Foreign Ministry and a special French economic mission.
+
+19540427-19640126 Transition
+
+On April 27th, 1954, The Geneva Accords, signed by the governments of France and North Vietnam, recognized the independence of Indochina, and basically put an end to France's colonial rule in South-East Asia. This was significant for the relations between France and China because Communist China offered strong support to Ho Chi Min's North Vietnamese troops in the war against France. Thus, their conflicting interests over the future of Vietnam, being dealt with, the relations could go back to a peaceful pattern. In July 1955, the French Foreign Minister, Antoine Pinay, said that France considered recognizing Communist China as the official government of China since 1949, but that the latter's official recognition of the Communist Vietminh government with whom France was fighting in Indo-China as well as the persecution of French citizens in China, postponed the establishment of official ties. Since 1959, French President Charles de Gaulle aimed to improve the relations between the two countries. A strong diplomatic effort to officially recognize the Communist government of China was started in the summer of 1963. In December 1963, a French delegation led by former prominent diplomat Georges Picot visited Beijing to open the possibility of trade between Communist China and France, even though France still recognized the Nationalist China government from Taiwan as the official government of China. 
+
+19640127-20159999 0.5
+
+On January 27th, 1964, France established ambassadorial diplomatic relations with China, being the first Western country to do so. This was done with France's official recognition of the People's Republic of China. The link between the two countries was strong at the level of elites with numerous Chinese Communist leaders having studied in France. Deng Xiaoping completed his studies in Paris before ascending to power in China after Mao Tse Tung. In July 1972, French Foreign Minister Maurice Schumann, made a 5-days visit to China in which he met with Chairman Mao Tse-Tung. In September 1973, the French President Georges Pompidou made an official visit to China. The French and Chinese leaders agreed to explore various forms of commercial and political relations. In December 1978, China and France signed a seven-year trade agreement that calls for almost $14 billion in trade between the two countries, including the sale of two French-built nuclear power plants to China. The agreement was signed in Peking(Beijing) by French Foreign Trade Minister Jean Francois Deniau and Chinese Foreign Trade Minister Li Chiang in the presence of China's Vice Premier Teng Hsiao-ping. Teng told French reporters that China would buy two nuclear power stations worth an estimated $4.5 billion from France. In October, 1979, Chinese premier Hua Guofeng's visit to France yielded gratifying results. On October 15th, 1979, Premier Hua held the first round of talks with President Valery Giscard d'Estaing. In the following three days, the two sides held four more rounds of talks in an amicable atmosphere, touching on a wide range of subjects, including bilateral relations and important international issues. In September 1980, China and France signed a three-year, $360 million pact today under which France will sell China 550,000 to 770,000 tons of wheat a year. It is the biggest and longest-term wheat agreement the two countries have ever signed. France previously has sold wheat to China in smaller amounts on a yearly basis. President Valery Giscard d'Estaing made a four-day official visit to China in October 1980. This was the first visit by a French head of state to China since the late Georges Pompidou's visit in 1973, which was marked by considerable warmth. Relations have cooled since, principally because of China's hostility toward the Soviet Union. Mr. Giscard d'Estaing told reporters that the two main political themes of the talks were the need for a multipolar rather than a bipolar world and the importance of having a strong and independent Europe that is able to deal with the United States on an equal footing. France and China agreed substantially on Middle East and Asian topics when French President Valery Giscard d'Estaing held talks with Chinese leaders on the second day of his state visit. The most conspicuous agreement was the announcement that China would buy an 1,800-megawatt nuclear power plant from France. The cost is estimated at $1.5 billion to $1.75 billion. If the deal is completed-credit terms remain to be worked out-it will considerably help France's export position with China. France ranks seventh among China's trading partners. A delegation of the French Socialist Party led by the Party leader, Francois Mitterrand, left Paris for Peking (Beijing) on 8th February, 1981. The delegation included Lionel Jospin, First Secretary of the Socialist Party, and Gaston Defferre, President of the Socialist Party group in the National Assembly. On the afternoon of 9th February, Hu Yaobang, General Secretary of the CCP Central Committee, called on the delegation and welcomed the visit as being conducive to Sino-French friendship. In August 1982, Chinese Premier Zhao Ziyang met with Claude Cheysson, French Minister of Foreign Relations. Premier Zhao said that China has all along attached importance to developing its relations with France. He expressed satisfaction with the progress of Sino-French relations over the past year or so. He said: ''China and France have identical or similar views on many important international issues. Competition between France and Britain for a share of the $6 billion Guangdong nuclear power station is certain to increase following the signing in Peking in May 1983 of a memorandum of understanding ensuring a substantial participation by France in the Chinese project. President Francois Mitterrand, on a state visit to China, told a press conference that China appeared close to buying four nuclear reactors from France. Senior French officials added that negotiations indicated that contracts for non-nuclear sections of the power station would be shared between French and British companies. In May 1983, Deng Xiaoping, chairman of the Central Advisory Commission of the CCP, met with French President Francois Mitterrand at the great hall of the people in Beijing. He extended a welcome to President Mitterrand on his third visit to China. On bilateral relations, Deng said co-operation between the two countries should not be confined to trade. They should also broaden their economic and technological co-operation, and France can do more in transferring technology to China. Mitterrand said that French-Chinese co-operation, being reciprocal, has broad prospects. ''Our task in the future is to concretize the agreements already reached and make them more vigorous'', he added. Mitterrand said he fully agreed to Deng Xiaoping's evaluation of his present visit and Deng's views on the development of co-operation between the two countries. Through consultation, the countries have made positive progress in questions related to provision of equipment and transfer of technology by France for the reactors of the nuclear power stations China plans to build in Guangdong province and in East China. In April 1984, China and Taiwan have signed separate collaboration agreements with France in biotechnology on the eve of an official visit to Paris by Wu Xueqian, Beijing's Foreign Minister. France and China will also be stepping up co-operation in other scientific and technological areas, including nuclear business and computers, under a memorandum of understanding signed between M. Laurent Fabius, Industry Minister, and a visiting Chinese technical delegation. Wu Xueqian's two-day stay in Paris, during which he will be meeting President Francois Mitterrand and M Claude Cheysson, the Foreign Minister, is being hailed in the French capital as a sign of the quality of relations between the two countries. Following M Mitterrand's trip to China in May 1983, no less than nine Chinese Ministers visited France during the second half of 1983, and trade contacts have multiplied. In June 1984, Prime Minister Zhao Ziyang of China said during an official visit to Paris that France and China were close to agreement on a contract for the construction of a nuclear power plant in Canton and announced that the two countries had concluded accords designed to ease French investment in China. In July 1984, France was making a major effort to boost its presence on the Chinese agricultural market-the world's largest-and had high hopes of increasing sales of French agricultural and food processing equipment to China. The latest accords were signed at the end of a visit to France by He Kang, the Chinese Agriculture Minister. It was the first visit to France by a Chinese Agriculture Minister. As a sign of the strong relations between the two countries the number of exchange students is a good indicator. Nearly 4,000 Chinese went to study in France between 1973 and 1987, and among them, 1,500 have completed their studies and returned to China including 150 who gained their PhD in France. In December 1985, France reached an agreement in principle with China to supply the nuclear reactors and supervise the construction of China's first nuclear power station to be built at Guandong in Canton at an overall cost of about $4bn. French Prime Minister Jacques Chirac expressed on November 10th, 1987, France's willingness to cooperate closely with China in various fields. At a luncheon he hosted in honor of visiting Chinese President Li Xiannian, Chirac said France will make continued efforts to provide China with capital and more up-to-date equipment and technology. France, he said, will cooperate with China in technological transfer and personnel training. Noting that there are now 1,500 Chinese students in French colleges, and that 11 regions and a dozen big cities of France have established friendly ties with Chinese provinces and cities, Chirac said mutual understanding between the two peoples has been deepened through increasing contacts. On June 6th, 1989 the French Prime Minister Michel Rocard announced the freezing of diplomatic relations with China following the killings of demonstrators in the Tiananmen Square. France also applied economic sanctions to China. On September 29th,1989, the Chinese and French Foreign Ministers, Qian Qichen and Rolland Dumas, respectively, held informal meetings at the United Nations. Following them, France started gradually to eliminate the sanctions. In October 1990, the bilateral relations between the two countries are slowly re-started. In January 1991, China has formally protested the recent mission of a French cabinet minister, French Industry Minister Roger Fauroux, to Taiwan, accusing Paris of ''violating the principles'' of its relations with China. On April, 27th, 1991, French Foreign Minister Roland Dumas, the highest-ranking French official to visit China since the 1989 Tiananmen Square massacre, moved to repair strained bilateral ties by agreeing to open a consulate in southern Canton. Dumas, accompanied by a group of French business leaders, flew into Beijing and began talks with Chinese Foreign Minister Qian Qichen. The French executives met with State Planning Commission officials. The French foreign minister wasted little time in advancing Sino-French ties, signing an agreement in his first meeting with Qian to open a new consulate in Canton, the bustling southern Chinese city also known as Guangzhou. In exchange, China will open another consulate in an unspecified French city. The foreign minister was scheduled to meet later with Premier Li Peng and Communist Party General Secretary Jiang Zemin, and thus wrap up the three-day visit. Dumas is the highest-ranking French official to visit China since the government's violent crackdown on the pro-democracy movement in June 1989, after which France and other Western nations imposed political and economic sanctions against China. Relations with Beijing plummeted further after Paris became the headquarters in exile for prominent Chinese dissidents who fled the country, including several protest leaders the Chinese government calls ''wanted criminals.'' France give China a $370 million loan this year for five major projects, including a new Citroen automobile plant, according to an agreement signed on June 15th, 1991. The loan was the largest France has ever given China. In December 1991, France announced that will reduce its financial aid to China if Beijing fails to take steps to balance trade between the two countries, the French trade and industry minister, Strauss-Kahn told Prime Minister Li Peng. France says it has a trade deficit of around 10 billion francs (1.85 billion dollars) with China. Beijing maintains that it has a trade deficit with France, and France explains the discrepancy by saying China excludes exports shipped via Hong Kong from its figures. China is responsible for one third of France's entire trade deficit. Paris is to provide China with 2.14 billion francs (400 million dollars) this year, making it the second biggest provider of funds to the country. Strauss-Kahn is the sixth member of the French Government to visit China in 1991, even though relations have not been officially fully normalized since the suppression of the Beijing democracy movement. China ordered France in December 1992 to close its consulate in southern Canton within a month in retaliation for a French decision to sell advanced warplanes to Taiwan, saying the sale was ''absolutely unacceptable.'' In Paris, the French Foreign Ministry said it ''regretted'' China's decision but added it was not planning an immediate reprisal. Coming only one week after France and China signed a 640 million francs financial protocol, the decision is a particularly brutal slap in the face. Only two days ago, French officials were claiming the protocol showed their investments in China were unlikely to suffer much despite the cooling of relations over the Taiwan deal. Mainland cargo carrier New China Air has abandoned plans to buy aircraft from France's Airbus Industrie and switched loyalties to Boeing as a direct result of France's reported sale of 50 Mirage fighter planes to Taiwan in November 1992. In 1997, China and France, on the basis of the decision made by Chinese President Jiang Zemin and French President Chirac, established a partnership in all fields oriented towards the 21st century. That became a new landmark in the history of Sino-French relations. The mutual high-level visits and the increasingly frequent contacts between government departments, people of all social circles, and local provinces and cities over the years have been playing an important part in promoting friendly and mutually beneficial cooperation between the two countries. Economically, trade volume between China and France has been growing, investments in China from France have been increasing, and the business of some well-known large French enterprises has been very successful in China. The two countries' cooperation and exchange in cultural, scientific-technological, and educational spheres have also been fruitful. On October 12th, 1998, France opened a consulate general in Wuhan, the capital of central China's Hubei Province, its third in China following those in Shanghai and Guangzhou. This is also the first consulate ever established in Wuhan since 1949 when the People's Republic of China was founded. According to Consul General, Francois Sastourne, the consulate is the first set up by France this year, and it deals with consular affairs in three provinces: Hubei, Hunan and Jiangxi. French Ambassador to China Pierre Morel said at the opening ceremony that France is the largest source of Hubei's foreign investment, and the present move shows France's confidence in cooperating with China. Visiting Chinese Foreign Minister Tang Jiaxuan and French Foreign Minister Dominique de Villepin had talks at the French Ministry of Foreign Affairs in July 2002. The two sides had extensive and in-depth exchange of views on bilateral relations and international issues of the two countries' concern. The "China-France Culture Year" inaugurated in October 2003, in Paris marks the largest ever cultural exchange activity jointly hosted by China and a foreign country and an unprecedented cultural event in the history of Sino-French relations. The Year of China in France, from October 2003 to July 2004, will be followed by the Year of France in China from autumn 2004 to July 2005. In January 2004, President Hu Jintao made an official visit to France. During Hu's visit in January, Chirac spoke out against the Taiwan government's plan for a referendum on whether to reinforce the island's defenses. France's determination to boost ties with Beijing paid well when visiting Chinese officials signed orders for 20 Airbus jets and a satellite, plus cooperation agreements covering trains, helicopters and nuclear plants on June 11th, 2004. The visit by Deputy Prime Minister Zeng Peiyan and Chinese industry leaders builds on a new warming of bilateral ties after President Hu Jintao visited France earlier in the year. French exports in 2003-2004 to China increased 32 percent to 4.6 billion Euros (US$5.6 billion) from 2002-2003 while imports rose 16 percent to 13.3 billion Euros (US$16.1 billion). Jacques Chirac made a five-day visit to China starting on October 8th, 2004, netting over US $ 4 billion of industrial orders, as the European nation prepares to deepen its presence in the world's most promising emerging market. From selling aircraft and trains to co-operation in energy and telecommunications research, more than 20 big contracts were signed during Chirac's visit, which took him to Chengdu, Shanghai, Beijing and Hong Kong. The biggest orders have gone to Airbus and the train firm Alstom. According to prominent American-based scholars, no other European leader has been accorded such prominence in China lately, which is a sign of the close relations between France and China. In terms of direct investment in China in 2004, France ranks as the EU's third largest and the world's number 10 country. In April 2005, Chinese Vice-President Zeng Qinghong told visiting French Prime Minister Jean-Pierre Raffarin that China highly appreciates France's understanding and support in the Taiwan issue and the removal of European Union's (EU) arms embargo to China, and is ready to push China-France comprehensive strategic partnership to a new high. During their meeting, Zeng said China is quite satisfied with the sound growth momentum of the China-France comprehensive strategic partnership. When the two countries celebrated the 40th anniversary of their diplomatic ties last year, he added, the two heads of state realized mutual visits and decided to deepen their comprehensive partnership. In the same month, at the 11th Sino-French Economic Seminar that opened on 5 April, Wu Yi, vice-premier of the State Council, said that China hopes to continue to expand the exchanges and cooperation between the two countries of China and France in the area of technology. China needs French technology, France needs the Chinese market, and it is completely possible that both sides can achieve a win-win result and common development through cooperation in the area of technology trade and investment. In recent years, China-France trade has expanded steadily in scale, and the level of cooperation has grown constantly higher. In 2004, the China-France trade value reached 17.6 billion dollars, including 7.7 billion dollars in French exports to China, and France has become the EU's European Union second largest exporter to China. By the end of 2004, China and France had signed 2,313 technology import contracts with a total value of 12.2bn dollars. In October 2006, Jacques Chirac said that forging a France-China partnership is "at the heart of France's foreign affairs," as "everybody in this country knows that the world's future lies greatly with China." "China is also clear that it can always find in France its partner, who is independent and who is willing to work together with China in building a balanced world," said Chirac. "Never in the long history of France-China relations have our communications been so close, our mutual trust so much deepened and high-level contacts so frequent," said Chirac. Chirac said bilateral trade between France and China, which was developing with a strong momentum, had almost doubled since 2000. On October 26th, 2006, State President Hu Jintao held talks with French President Chirac, who was on a state visit to China. Hu Jintao said that China-France relations have become a typical example of friendly cooperation between countries with different historical backgrounds, cultural traditions and levels of development. Jacques Chirac said that France-China relations have developed very fast and very well in recent years. The two sides have carried out in-depth strategic dialogue, constantly expanded the areas of cooperation, achieved fruitful results in cooperation, carried out increasingly richer and more colorful exchanges, and closely coordinated in international affairs. The relations between the two countries today are closer than ever before. France firmly pursues a one-China policy and opposes "Taiwan independence" and there will be no change in this stance in the near future. 
+
+PS-SOURCES: New York Times 05/28/1932, 07/30/1933, 08/01/1933, 05/04/1935, 07/07/1938, 11/14/1939, 12/10/1939, 08/21/1945, 11/08/1946, 07/27/1955, 12/27/1963, 07/11/1972, 12/03/1972, 09/12/1973, 09/17/1973, 09/23/1973, 10/20/1980, 10/23/1980, 04/28/1982, 08/05/1982, 06/03/1984, 12/24/1992, Financial Times 05/05/1983, 05/06/1983, 04/05/1984, 06/16/1984, 12/16/1985, Washington Post 11/26/1978, 12/05/1978, BBC Summary of World Broadcasts 05/02/1979, 10/23/1979, 06/14/1980, 02/12/1981, 11/11/1981, 07/17/1982, 08/02/1982, 08/03/1982, 05/07/1983, 05/05/1983, 05/10/1983, 07/19/1983, 02/02/1984, 09/02/1985, 07/05/2002, 04/14/2005, 04/21/2005, 10/27/2006, Globe and Mail 10/17/1980, 08/03/1982, 07/23/1984, 09/08/1984, United Press International 01/23/1991, 04/29/1991, 12/23/1992, Xinhua 01/27/1984, 01/27/1984, 06/18/1986, 11/10/1987, 08/26/1988, 10/06/2003, 12/03/2005, 10/24/2006, South China Morning Post 12/24/1992, 02/27/1993, 05/26/1993, Agence France Presse 12/18/1991, 12/19/1991, 11/18/1993, 07/05/2004, The Economist 01/13/1990, Associated Press 06/25/1991, 01/26/2004, 06/11/2004, International Herald Tribune 10/11/2004
+
+MARITIME-MIDS: 
+
+MID2208 not considered a maritime MID 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID2208
+ DYAD: FRANCE CHINA 220710
+ DATES: 19260315 19260315
+ HOSTILITYA: 2 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral mid involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

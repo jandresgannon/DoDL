@@ -1,0 +1,290 @@
+FILE: cm365713v11.0.txt
+DYAD: RUSSIA/USSR-TAIWAN
+RIVALRY: RIV1011
+DISPUTE(S): MID3266 MID2036 MID1448 MID173 
+
+RIVNOTES: 
+RIV1011: MID50 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19491208-19900323 0.25 19900324-19920909 -9 19920910-19970909 0.5 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220707
+PS-LAST-CHECKED: 20220707
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3266 
+
+TERRMID: MID3266 3 -- not territory 
+TERRMID-CER: MID3266 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3266 1 -- third party link to territorial MID
+TERRLINK-CER: MID3266 3 -- uncertain 
+TERRLINK-NOTES: MID3266 from Gibler, Little, and Miller 2016, Taiwan asked the Soviet Union for assistance, and the Soviet Union obliged by sending military advisers. However, they worried that this would lead to war with the US over Taiwan, so they quickly withdrew the support. Coded third party link to territorial MID because this was connected to the China-Taiwan territorial dispute, and coded uncertain because GML recommend this case be dropped, since the events here do not constitute a MID. 
+
+MARITMID: MID3266 3 -- not maritime 
+MARITMID-CER: MID3266 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3266 3 -- not islands 
+ISLMID-CER: MID3266 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3266 1 -- civil war MID
+CIVWARMID-CER: MID3266 3 -- uncertain 
+CIVWARMID-NOTES: MID3266 coded civil war MID because this was connected to the China-Taiwan dispute, which had a civil war element, and Taiwan is within this dyad. The Chinese and Taiwanese forces fell along Nationalist and Communist lines, and all were ethnic Chinese fighting to control the government. Coded uncertain because GML recommend this case be dropped. 
+
+CIVWARLINK: MID3266 1 -- civil war link 
+CIVWARLINK-CER: MID3266 3 -- uncertain 
+CIVWARLINK-NOTES: MID3266 coded link to civil war MID because this was connected to the China-Taiwan dispute, which had a civil war element, and China is outside this dyad. The Chinese and Taiwanese forces fell along Nationalist and Communist lines, and all were ethnic Chinese fighting to control the government. Coded uncertain because GML recommend this case be dropped. 
+
+COUPMID: MID3266 3 -- not coup 
+COUPMID-CER: MID3266 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3266 3 -- not coup link
+COUPLINK-CER: MID3266 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2036 
+
+TERRMID: MID2036 3 -- not territory 
+TERRMID-CER: MID2036 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2036 1 -- third party link to territorial MID
+TERRLINK-CER: MID2036 1 -- certain 
+TERRLINK-NOTES: MID2036 from Gibler 2018, Taiwan seized a Soviet tanker because it was trading with China. Coded third party link to territorial MID because this was connected to the China-Taiwan dispute, which has a territorial dispute element. 
+
+MARITMID: MID2036 3 -- not maritime 
+MARITMID-CER: MID2036 1 -- certain 
+MARITMID-NOTES: MID2036 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because the Soviet Union and Taiwan have no maritime dispute here, although the Soviet Union is linked to the maritime dispute in its support for China. 
+
+ISLMID: MID2036 3 -- not islands 
+ISLMID-CER: MID2036 1 -- certain 
+ISLMID-NOTES: MID2036 As part of their dispute, Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea. Coded not islands because the Soviet Union and Taiwan did not dispute islands, although the Soviet Union is linked to the islands dispute through its support for China. 
+
+CIVWARMID: MID2036 1 -- civil war MID
+CIVWARMID-CER: MID2036 1 -- certain 
+CIVWARMID-NOTES: MID2036 coded civil war MID because this is connnected to the China-Taiwan dispute, which has a civil war element, and Taiwan is within this dyad. 
+
+CIVWARLINK: MID2036 1 -- civil war link 
+CIVWARLINK-CER: MID2036 1 -- certain 
+CIVWARLINK-NOTES: MID2036 coded civil war MID because this is connnected to the China-Taiwan dispute which has a civil war element, and China is outside this dyad. 
+
+COUPMID: MID2036 3 -- not coup 
+COUPMID-CER: MID2036 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2036 3 -- not coup link
+COUPLINK-CER: MID2036 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1448
+
+TERRMID: MID1448 3 -- not territory
+TERRMID-CER: MID1448 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1448 1 -- third party link to territorial MID
+TERRLINK-CER: MID1448 1 -- certain
+TERRLINK-NOTES: MID1448 from Gibler 2018, Taiwan seized Polish ships that were carrying goods to China. This is part of Taiwan's dispute against China. Taiwan was attempting to harm China economically by disrupting its trade. Coded third party link to territorial MID because this was connected to the China-Taiwan dispute, which was territorial in nature. 
+
+MARITMID: MID1448 3 -- not maritime 
+MARITMID-CER: MID1448 1 -- certain 
+MARITMID-NOTES: MID1448 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because the Soviet Union and Taiwan have no maritime dispute here, although the Soviet Union is linked to the maritime dispute in its support for China. 
+
+ISLMID: MID1448 3 -- not islands 
+ISLMID-CER: MID1448 1 -- certain
+ISLMID-NOTES: MID1448 As part of their dispute, Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea. Coded not islands because the Soviet Union and Taiwan did not dispute islands, although the Soviet Union is linked to the islands dispute through its support for China. 
+
+CIVWARMID: MID1448 1 -- civil war MID
+CIVWARMID-CER: MID1448 1 -- certain
+CIVWARMID-NOTES: MID1448 coded civil war MID because this is connected to the China-Taiwan dispute, which has a civil war element, and Taiwan is within this dyad. 
+
+CIVWARLINK: MID1448 1 -- civil war link
+CIVWARLINK-CER: MID1448 1 -- certain
+CIVWARLINK-NOTES: MID1448 coded civil war link because this is connected to the China-Taiwan dispute, which has a civil war element, and China is outside this dyad. 
+
+COUPMID: MID1448 3 -- not coup 
+COUPMID-CER: MID1448 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1448 3 -- not coup link
+COUPLINK-CER: MID1448 1 -- certain 
+COUPLINK-NOTES: 
+
+MID173 
+
+TERRMID: MID173 3 -- not territory 
+TERRMID-CER: MID173 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID173 1 -- third party link to territorial MID
+TERRLINK-CER: MID173 1 -- certain 
+TERRLINK-NOTES: MID173 from cm narrative, this MID was part of the China-Taiwan conflict and occurred from July through December of 1958. This incident involved the shelling of Quemoy-Matsu by the PRC. The United States intervened and escorted Taiwanese ships in the area. The Soviet Union is pulled into this MID due to its military support for China. Coded third party link to territorial MID because this was connected to the China-Taiwan dispute, which has a territorial element. 
+
+MARITMID: MID173 3 -- not maritime 
+MARITMID-CER: MID173 1 -- certain 
+MARITMID-NOTES: MID173 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because the Soviet Union and Taiwan have no maritime dispute here, although the Soviet Union was linked to the maritime dispute in its support for China. 
+
+ISLMID: MID173 3 -- not islands 
+ISLMID-CER: MID173 1 -- certain 
+ISLMID-NOTES: MID173 As part of their dispute, Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea. Coded not islands because the Soviet Union and Taiwan did not dispute islands, although the Soviet Union was linked to the islands dispute through its support for China. 
+
+CIVWARMID: MID173 1 -- civil war MID
+CIVWARMID-CER: MID173 1 -- certain 
+CIVWARMID-NOTES: coded civil war MID because this was connected to the Taiwan-China dispute, which has a civil war element, and Taiwan is within this dyad. 
+
+CIVWARLINK: MID173 1 -- civil war link 
+CIVWARLINK-CER: MID173 1 -- certain 
+CIVWARLINK-NOTES: MID173 this MID occurred due to tensions between China and Taiwan. The China-Taiwan dispute has a civil war element, and this is coded civil war link because the civil conflict is also present outside of this dyad (China). 
+
+COUPMID: MID173 3 -- not coup 
+COUPMID-CER: MID173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID173 3 -- not coup link
+COUPLINK-CER: MID173 1 -- certain 
+COUPLINK-NOTES: 
+
+MID50 
+
+TERRMID: MID50 3 -- not territory 
+TERRMID-CER: MID50 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID50 1 -- third party link to territorial MID
+TERRLINK-CER: MID50 1 -- certain 
+TERRLINK-NOTES: MID50 from Gibler 2018, in 1953-1956 Taiwanese troops attempted to reclaim mainland China. Taiwan invaded with the support of the US and large-scale fighting occurred. China was supported by USSR, and USSR had a tanker seized during this MID. Coded third party link to territorial MID because this was connected to a territorial dispute between China and Taiwan. 
+
+MARITMID: MID50 3 -- not maritime
+MARITMID-CER: MID50 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID50 3 -- not islands 
+ISLMID-CER: MID50 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID50 1 -- civil war MID
+CIVWARMID-CER: MID50 1 -- certain 
+CIVWARMID-NOTES: MID50 from Gibler 2018, this MID involves Chinese Nationalist forces (within this dyad) fighting in mainland China (outside this dyad) trying to reclaim China for the nationalists. Coded civil war MID because the China-Taiwan dispute still had a civil war element. The communists had taken control of mainland China and the nationalists had retreated to Taiwan (within this dyad). Although this MID has a territorial element since each was (or would go on to) exercising governance over the territory it controlled, claimed the other's territory, and were recognized by other states, the MID also has a civil war element as well since both parties were ethnic Chinese who were fighting for control over their country, divided along ideological lines. 
+
+CIVWARLINK: MID50 1 -- civil war link 
+CIVWARLINK-CER: MID50 1 -- certain 
+CIVWARLINK-NOTES: MID50 coded civil war link because this is connected to a conflict over mainland China (outside this dyad). See CIVWARMID-NOTES. 
+
+COUPMID: MID50 3 -- not coup 
+COUPMID-CER: MID50 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID50 3 -- not coup link
+COUPLINK-CER: MID50 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Taiwanese naval ships seized the Soviet oil tanker *Tuapse* near the island of Formosa on June 23, 1954.
+
+SOURCES-CM: 
+*Keesing*, June 25-July 1, 1954.
+
+NARRATIVE-CR:
+Taiwan became a member of the international system on December 8, 1949. The rivalry between the USSR and Taiwan is a product of the Cold War. At the beginning of the rivalry, 1949, the Chinese civil war was coming to a close. Mao Zedong's communist forces fought against the Nationalist forces of Chiang Kai-shek. The Soviets assisted the PRC on several occasions in the rivalry. Taiwan was heavily protected by the United States and at various times maintained a US troop presence. At times in the short rivalry, Soviet hostility was in response to this presence. 
+
+MID3266 occurred on July 21, 1949. This MID occurred at the close of the civil war in China that pitted Mao Zedong and his communist forces against the Nationalist forces under the direction of Chiang Kai-shek. Here the Soviet Union assisted the PRC by attacking Changshan Island in a naval raid. 
+
+MID50 occurred from February of 1953 through November of 1956. The primary combatants in this conflict were the PRC and Taiwan. Here the USSR assisted the PRC in a four day operation designed to show support for the PRC in hostilities toward Taiwan. 
+
+During the First Taiwan Straits Crisis the Peoples Liberation Army launched heavy artillery attacks on the offshore island of Quemoy after the US lifted its blockade of Taiwan, making possible Nationalist attacks on mainland China. The Truman Administration had resisted calls by hard-liners to "unleash Chiang Kai-shek." But shortly after his inauguration, on 02 February 1953 President Eisenhower lifted the US Navy blockade of Taiwan which had prevented Chiang's force from attacking mainland China. During August 1954 Chiang moved 58,000 troops to Quemoy & 15,000 to Matsu. Zhou En-lai declared on 11 August 1954 that Taiwan must be liberated. On 17 August 1954 the US warned China against action against Taiwan, but on 03 September 1954 the Communists began an artillery bombardment of Quemoy, and in November, PLA planes bombed the Tachen Islands. On 12 September 1954 the US Joint Chiefs of Staff (JCS) recommended the possibility of using nuclear weapons against China. And on 23 November 1954 China sentenced 13 US airmen shot down over China in the Korean War to long jail terms, prompting further consideration of nuclear strikes against China. Despite domestic political pressure, President Eisenhower refused to bomb mainland China or use of American troops to resolve the crisis. At the urging of Senator Knowland, the United States signed the Mutual Defense Treaty with the Nationalist government on Taiwan on 02 December 1954. 
+
+On 18 January 1955 mainland Chinese forces seized Yijiangshan [Ichiang] Island, 210 miles north of Formosa and, completely wiping out the ROC forces stationed there. The two sides continued fighting on Kinmen, Matsu, and along the mainland Chinese coast. The fighting even extended to mainland Chinese coastal ports. The US-Nationalist Chinese Mutual Security Pact, which did not apply to islands along the Chinese mainland, was ratified by the Senate on 09 February 1955. The Formosa Resolution passed both houses of Congress on 29 January 1955. The Resolution pledged the US to the defense of Taiwan, authorizing the president to employ American forces to defend Formosa and the Pescadores Island against armed attack, including such other territories as appropriate to defend them. 
+
+On 23 April 1995 China stated at the Afro-Asian Conference that it was ready to negotiate on Taiwan, and on 01 May 1955 shelling of Quemoy-Matsu ceased, ending the crisis. On 01 August 1955 China released the 11 captured US airmen previously sentenced to jail terms. 
+
+In the first Taiwan Strait crisis of 1954-55 the USSR had been quite ambiguous in its support for China's campaign to "liberate" Taiwan, whereas the United States had indicated that it was willing to use tactical nuclear weapons in defense of the island. During the crisis, it became evident that the USSR was not going to be drawn into a war with the United States that was not of its own choosing, and the PRC called off its military operations against Quemoy. The PRC could claim a limited victory because Chinese Nationalist troops had withdrawn from Tachen Island during the previous month. 
+
+Even as the crisis ended, however, the Nationalists began to reinforce Quemoy and Matsu, and the PRC began to build up its military capabilities across the strait.
+
+I was not able to locate information regarding MID2036. It is a one day bilateral dispute between the USSR and Taiwan that occurred on June 24, 1953. Taiwan is coded as having used force with no fatalities against the USSR. It could be that this mid is an error. Taiwan is reported to have seized a Soviet ship on June 23, 1954. This is covered in MID1448 however so I am not sure. 
+
+MID1448 occurred from May through November of 1954. The primary combatants in this conflict were the USSR and Taiwan. Polad was also a party to this dispute. In this dispute, Taiwanese naval ships seized the Soviet oil tanker *Tuapse* near the island of Formosa on June 23, 1954. The Soviets initially accused the US of seizing the ship. 
+
+MID173 occurred from July through December of 1958. This dispute was between the PRC and Taiwan. The USSR assisted the PRC while the US assisted Taiwan. On August 23, China again shelled the islands of Quemoy and Matsu. President Eisenhower responds by sending U.S. forces, including a large naval contingent, to the Taiwan Strait. The U.S. even explores the option of using nuclear weapons against China. The crisis is diffused when China suspends its bombing campaign after high-level talks with the U.S.
+
+The end of the Stalin era brought immediate liberalization in several aspects of Soviet life. Party leader Nikita S. Khrushchev denounced Stalin's tyrannical reign in 1956, signaling a sharp break with the past. Because Khrushchev lacked the all-encompassing power of Stalin, his time in office was marked by continuous maneuvering against political enemies much more real than Stalin's had been. Party control of cultural activity became much less restrictive with the onset of the first "thaw" in the mid-1950s. Khrushchev attempted reforms in both domestic and foreign policy, with mixed results. 
+
+Relations between China and the Soviet Union were cool and distrustful from the mid-1950s until the demise of the Soviet Union. Joseph V. Stalin (in office 1927-53) fostered an alliance when communists took over mainland China in 1949. When Khrushchev announced his de-Stalinization policy in 1956, Chinese leader Mao Zedong sharply disapproved, and the alliance was weakened. 
+
+During the second half of the 1950s, strains in the Sino-Soviet alliance gradually began to emerge over questions of ideology, security, and economic development. Chinese leaders were disturbed by the Soviet Union's moves under Nikita Khrushchev toward deStalinization and peaceful coexistence with the West. Moscow's successful earth satellite launch in 1957 strengthened Mao's belief that the world balance was in the communists' favor-or, in his words, "the east wind prevails over the west wind"-leading him to call for a more militant policy toward the noncommunist world in contrast to the more conciliatory policy of the Soviet Union. 
+
+Outside the Soviet sphere of control, China grew increasingly restive under Chinese Communist Party chairman Mao Zedong. Chinese discontent with the new Soviet leadership stemmed from low levels of Soviet aid, feeble Soviet support for China in its disputes with Taiwan and India, and the new Soviet doctrine of peaceful coexistence with the West, which Mao viewed as a betrayal of Marxism-Leninism. Against Khrushchev's wishes, China embarked on a nuclear arms program, declaring in 1960 that communism could defeat "imperialism" in a nuclear war. The dispute between militant China and the more moderate Soviet Union escalated into a schism in the world communist movement after 1960
+
+In 1959 and 1960, the Sino-Soviet rift came to full world attention with Khrushchev's renunciation of an agreement to provide nuclear technology to China, the Soviet withdrawal of all economic advisers, and mutual accusations of ideological impurity.
+
+Today, Russia and Taiwan have strong economic ties but it balances these ties with respect for the preferences of the PRC. Russia respects China's claim that Taiwan is part of its territory, although Russia's trade with Taiwan increased to nearly US$3 billion in 1995 and Russia planned to open trade offices on the island in 1996.
+
+SOURCES-CR: 
+Curtis, 1995; New York Times; On War.com; Savada, 1987
+
+PS-NARRATIVE: 
+
+1919491208-19900323 0.25
+
+The first MID of RIV1011, MID3266 occurred on July 21, 1949. This MID occurred at the close of the civil war in China that pitted Mao Zedong and his communist forces against the Nationalist forces under the direction of Chiang Kai-shek. Here the Soviet Union assisted the PRC by attacking Changshan Island in a naval raid. 
+
+The relations between Soviet Union and the Republic of China (Taiwan) broke up on October 3, 1949 two days after the Soviet Union became the first country in the world to recognize the existence of the People's Republic of China as the legitimate Chinese state. Although there have been some weak tendencies towards change in the status quo since the late 1950s, up to this day, the Russian Federation has had no official relations with Taiwan. It is worth mentioning that the USSR had always adhered to the policy of `one China' but insisted on a political solution to deal with the crisis, unlike some Beijing leaders who were considering military action in 1954 and 1958. In September 1950, the Soviet representative to the UN, Iakov Malik, demanded the inclusion of Taiwan's status into the Security Council discussions and the invitation of the People's Republic of China to take over the Security Council seat from Taiwan. 
+
+The last MID of RIV1011, MID173, ended on September 8, 1958. There were no more MIDs between the two countries since that date. However, the official position of the USSR remained the same-the PRC government is the representative of China in the international arena, not the Chiang Kaishek clique that took over Taiwan, lawfully belonging to
+the PRC.
+
+Unofficial contact between the USSR and Taiwan started at the end of the 1960s, after the tendency toward a US-PRC rapprochement had become obvious. In October 1968, there was a visit to Taiwan by Victor Louis, a KGB operative and Moscow-based freelance reporter for the London Evening Star. While in Taiwan, Louis met with Chiang Ching-kuo, the Generalissimo's son, and his advisors. With relations between the Soviet Union and mainland China worsening, Louis told the Taiwanese that the Soviet Union and the R.O.C. should explore ways to cooperate in order to bring down Mao Zedong, the leader of the Chinese Communist Party. Many analysts have framed the Chiangs' openness to Louis' message as an attempt to gain leverage over the United States, which too had noticed the Sino-Soviet split and was beginning to see China as a potential foil to be used against the Soviet Union.
+
+However, Kawashima, a scholar on Soviet-Taiwanese relations noted that in his diary, Chiang Kai-shek, did not mention leverage over the United States in his relations with Victor Louis. Instead, Chiang continually stressed that his priorities lay with opening up possibilities for an attack on China, and that the R.O.C. "must not lose this chance" to cooperate with the Soviets. There is no mention in Chiang's diary that he later leaked information about the Louis visit to the international media, despite the assertion of some scholars that coverage of the visit was an R.O.C. attempt to secure a better bargaining position vis-à-vis the United States. Also, messages to Chiang from the U.S. ambassador in Taipei suggest that Washington was fairly sanguine about the prospect of Taiwanese moves toward the Soviet Union. Nevertheless, nothing much came of the meetings with Louis, and when Chiang made the provision of Soviet weapons to the R.O.C. a condition for Taipei's cooperation with Moscow, he was rebuffed. Chiang subsequently rejected further offers from Louis to meet, which indicate that his thoughts did not necessarily lie in using the appearance of improved Soviet-R.O.C. relations as leverage against the United States. While Kawashima believes that an attempt to gain such leverage was probably a factor in Chiang's calculations, there is not enough evidence in the Generalissimo's diaries to say that it was the primary motivation in his exploration of more conciliatory relations with Moscow. Another contact between Soviet Union and Taiwan was in 1969 when the Taiwanese Deputy Minister of Education visited USSR.
+
+It is well-known that the visits by Richard Nixon and Henry Kissinger resulted in the signing of the so-called Shanghai communique in 1972 when it was declared that the US `acknowledges that all Chinese on either side of the Taiwan Strait maintain there is but one China and that Taiwan is a part of China.' Meanwhile, Republic of China hoped that a Soviet-Republic of China rapprochement would prevent the rising number of Sino-American contacts. It is possible that the USSR in its turn considered that restoration of relations with the ROC would help to slow down the aggravation in Soviet-PRC relations. Taiwan was eager to compromise since after the weakening of its relations with the US, it had little to lose. The Soviet Union, however, was very careful in its policy towards the ROC, trading with it via Hong Kong, Japan, West Germany, and its East European allies. The Soviet leadership was probably worried that a reestablishment of official relations with Taiwan would bring too many problems to its relations with the PRC and could undermine its image. Therefore, most of the contacts were conducted through third countries on a nongovernmental level. In 1980, the Communist party's Central Committee called for the establishment of commercial relations with Taiwan. At the beginning of the cooperation in 1987, the volume of trade between the USSR and Taiwan was a mere $7.6 million. Some years later, however, there was some improvement. 
+19900324-19920909 Transition 
+
+On March 24, 1990, Taiwan abolished restrictions on trade and investments in the Soviet Union, stimulating cooperation in the timber and fishery industries, while supporting cultural and technological exchanges. It also lowered the visa restrictions for Soviet citizens to enter Taiwan. In late January 1992, the Taiwanese Vice Foreign Minister, Chang Hsiao-Yen, made an `unofficial' visit to Russia, and he offered a donation of 100 tons of rice worth 20 million USD. 
+
+19920910-20159999 0.5 
+
+On September 10, 1992, Boris Yeltsin, the President of Russia, signed the `Relations between the Russian Federation and Taiwan' document which to this day is the basis of the bilateral relations. This lead to the establishment of the Taipei/Moscow Economic and Cultural Coordination Commissions in 1993 and 1996 in Moscow and Taipei, respectively. 
+
+In September 1997, Moscow and Taipei signed an agreement on air communication. In January 1998, a protocol for sea transport was signed, and in 2002, a protocol for cooperation in small and medium-sized businesses.
+
+The data prove the development of bilateral trade and economic relations, although the process is far from stable. For instance, there was some decrease in 1998, 2001, and 2005, but the overall trend is positive. The year 2004 proved to be a peak year in trade: $2.9 billion. In 2005, the trade volume was $2.7 billion, while Taiwan's export to Russia showed significant growth (19.3 percent). According to the statistics, the volume of trade in 2005 was 6.9 percent lower than in 2004. The decrease was mostly caused by a fall in steel prices on the world market. Taiwanese exports grew because of the increase in the trade of Taiwanese notebook PCs, cosmetics, etc. In total, the increase in Taiwanese exports to Russia in 2005 was $83 million. In the first quarter of 2006, the trade volume was $759.6 million, which is 29.2 percent less than in the same period in 2005.5 
+
+In 2002, seven Russian companies operated in Taiwan in the areas of international trade, information services, and sea freight. In 2003, the Taiwan-Russian Association was established on the island. The former Prime Minister Zhang Junxiong became the chairman of this organization, which proves the high level of interest of the Taiwanese in further developing cooperation with Russia.
+
+As for the future prospects of the relations, the Taiwanese side constantly brings up the subject of direct air flights, which would reduce the distance and make the contacts more intensive. Trade and economic relations between Russia and Taiwan can be greatly expanded. Taiwanese president Chen Shuibian considers that to achieve this, it is necessary to sign a number of bilateral agreements, such as an agreement on the protection of investments, a no double taxation agreement, and a customs clearance agreement. Taiwanese businessmen hope to have the same conditions in Russia as given to foreign investors in the PRC and Southeast Asia. Moreover, they hope for simpler 
+formalities in the Russian administration system.
+
+Taiwan has exported many iron-based materials to Russia in 2004-2005. In 2005, the total amount of the trade between the two countries (in US dollars) was 2,188,944,473. Russia also has a representative office in Taipei, and Taiwan has a representative office in Moscow. As can be seen from the data, Russia keeps a positive balance in its trade relations with Taiwan thanks to crude oil, cast iron and steel, nonferrous metals, petrochemical products, ferroalloys, coking coal, timber, and chemical fertilizers. Russia imports mostly electronics and electronic parts, computers and computer parts, and home appliances.
+
+The negative trade balance ($1.68 billion in 2005) issue is taken seriously in Taiwan. However, the prevalence of natural resources in Russian exports and industrial products in Taiwan are considered in Taiwan to be logical at the present stage of relations.6 To improve the situation, it is recommended to increase the export of Taiwanese products to Russia. The relatively low level of Taiwanese exports to Russia can be explained by several factors. Firstly, the price of Taiwanese products is still quite high for most Russian consumers, the rest prefer high-end European, American, or Japanese products. Secondly, there are difficulties and complexities involved in bank transfers, which are mostly conducted through third countries.7 Thirdly, there is insufficient guarantee from the government for foreign investors. Also, the high levels of organized crime in Russia, along with the low levels of security, further impede progress. As a result, foreign business, including the Taiwanese, prefers to invest in more stable and predictable regions.8 It is also worth mentioning that Russia imports many products from the PRC, some of which are in fact made at Taiwanese-owned operations. However, this trade is officially considered in the statistics as part of the Russian-PRC trade.
+
+PS-SOURCES: Sergey Vradiy (2007), Tubilewicz (2002). 
+
+MARITIME-MIDS: 
+
+MID1448 not considered maritime MID 
+
+MARITIME-DISPUTE: MID1448
+ DYAD: RUSSIA/USSR TAIWAN 365713
+ DATES: 19540502 19541120
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID1448 occurred from May through November of 1954. The primary combatants in this conflict were the USSR and Taiwan. Poland was also a party to this dispute. In this dispute, Taiwanese naval ships seized the Soviet oil tanker *Tuapse* near the island of Formosa on June 23, 1954. The Soviets initially accused the US of seizing the ship. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

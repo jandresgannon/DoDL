@@ -1,0 +1,1602 @@
+FILE: cm365710v11.0.txt
+DYAD: RUSSIA/USSR-CHINA
+RIVALRY: RIV1010
+DISPUTE(S): MID3245 MID3642 MID3247 MID104 MID3249 MID378 MID31 MID3250 MID2314 MID3645 MID3646 MID3647 MID3255 MID3254 MID3258 MID3256 MID2182 MID1142 MID2700 MID1143 MID3257 MID3259 MID1668 MID2208 MID1674 MID41 MID3655 MID3656 MID3263 MID3264 MID2703 MID2704 MID3265 MID2706 MID2707 MID2708 MID343 MID2709 MID2710 MID2711 MID349 MID2712 MID364 MID2713 MID2714 MID2715 MID3007 MID2716 MID2717 MID2718 MID4052 MID4104 
+
+RIVNOTES: 
+
+PS: 19009999-19520213 0.00 19520214-19630308 0.25 19630309-19971109 0.00 19971110-20041013 -9 20041014-20209999 0.5
+
+PS-UPDATE2020: 
+
+PS1800: 18620601-18999999 0.0
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220305
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID3245 MID3642 MID3247 MID104 MID3249 MID378
+
+WWI MIDs: MID3258 MID3256 MID2182 MID1142 
+
+WWII MIDs: MID3263 MID3264 
+
+MID2703 
+
+TERRMID: MID2703 1 -- territorial MID
+TERRMID-CER: MID2703 3 -- uncertain 
+TERRMID-NOTES: MID2703 from Gibler, Miller, and Little 2016, in 1945 China demanded that the USSR turn Manchuria over to them to uphold the treaty ending WWII. USSR commanders landed in China in military aircraft, but this was to discuss Manchuria. COW seemingly coded this and a later movement of USSR troops as a show of force against China, but GML argue that no show of force took place and that these troop movements were part of the process of turning Manchuria over to the Chinese government. Coded territorial MID because China was claiming Manchuria and demanding it from USSR. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID2703 3 -- not third party link to territory 
+TERRLINK-CER: MID2703 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2703 3 -- not maritime 
+MARITMID-CER: MID2703 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2703 3 -- not islands 
+ISLMID-CER: MID2703 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2703 3 -- not civil war 
+CIVWARMID-CER: MID2703 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2703 3 -- not civil war link 
+CIVWARLINK-CER: MID2703 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2703 3 -- not coup 
+COUPMID-CER: MID2703 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2703 3 -- not coup link
+COUPLINK-CER: MID2703 1 -- certain 
+COUPLINK-NOTES: 
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers and by Russia and Japan, who defeated China in a war. Russia is pulled in because they engaged rebels in response to the attacks. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Russian interests, which then led to Russian intervention. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3250 
+
+TERRMID: MID3250 1 -- territorial MID
+TERRMID-CER: MID3250 1 -- certain 
+TERRMID-NOTES: MID3250 from Gibler 2018, in the wake of the Boxer Rebellion, Russia responded to threats to its interests in China by occupying Manchuria and intending to use it for Russia's economic gain. Russia had extensive railroads in Manchuria. Russia then demanded that China repay all of the damages caused by the rebels and China conceded, granting Russia sovereignty over a portion of Manchuria. Coded territorial MID because this involved Russia claiming and being granted sovereignty in Manchuria. 
+
+TERRLINK: MID3250 3 -- not third party link to territory 
+TERRLINK-CER: MID3250 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3250 3 -- not maritime 
+MARITMID-CER: MID3250 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3250 3 -- not islands 
+ISLMID-CER: MID3250 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3250 1 -- civil war MID
+CIVWARMID-CER: MID3250 1 -- certain 
+CIVWARMID-NOTES: MID3250 from Gibler 2018, this was connected to the Boxer Rebellion. Militarized rebels destroyed a majority of Russia's railroads in Manchuria, leading to a dispute between China and Russia. Coded civil war MID because this was connected to militarized rebels in China. 
+
+CIVWARLINK: MID3250 3 -- not civil war link 
+CIVWARLINK-CER: MID3250 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3250 3 -- not coup 
+COUPMID-CER: MID3250 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3250 3 -- not coup link
+COUPLINK-CER: MID3250 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2314 
+
+TERRMID: MID2314 1 -- territorial MID
+TERRMID-CER: MID2314 3 -- uncertain 
+TERRMID-NOTES: MID2314 from Gibler, Miller, and Little 2016, this is another MID connected to the Boxer Rebellion, in which Russia claimed Manchuria. Coded uncertain because GML argue this case should be combined with MID31 due to temporal overlap.
+
+TERRLINK: MID2314 3 -- not third party link to territory
+TERRLINK-CER: MID2314 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2314 3 -- not maritime 
+MARITMID-CER: MID2314 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2314 3 -- not islands 
+ISLMID-CER: MID2314 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2314 1 -- civil war MID
+CIVWARMID-CER: MID2314 3 -- uncertain 
+CIVWARMID-NOTES: MID2314 from Gibler, Miller, and Little 2016, this is another MID connected to the Boxer Rebellion. Like the previous MIDs, this involved Russia engaging with Chinese rebels on Chinese territory. However, this is coded uncertain because GML argue this MID should be combined with MID31. 
+
+CIVWARLINK: MID2314 3 -- not civil war link 
+CIVWARLINK-CER: MID2314 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2314 3 -- not coup 
+COUPMID-CER: MID2314 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2314 3 -- not coup link
+COUPLINK-CER: MID2314 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3645 
+
+TERRMID: MID3645 1 -- territorial MID
+TERRMID-CER: MID3645 1 -- certain 
+TERRMID-NOTES: MID3645 from Gibler 2018, in 1903 Russia demanded an expansion of the area they controlled in Manchuria, and refused to remove their troops from Manchuria until China agreed. China eventually conceded. Coded territorial MID because this was connected to Russia's claim on Manchuria. 
+
+TERRLINK: MID3645 3 -- not third party link to territory 
+TERRLINK-CER: MID3645 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3645 3 -- not maritime 
+MARITMID-CER: MID3645 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3645 3 -- not islands 
+ISLMID-CER: MID3645 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3645 3 -- not civil war 
+CIVWARMID-CER: MID3645 1 -- certain 
+CIVWARMID-NOTES: MID3645 the Boxer Rebellion was over at this point, and there is no indication of continuing rebel activity. 
+
+CIVWARLINK: MID3645 3 -- not civil war link 
+CIVWARLINK-CER: MID3645 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3645 3 -- not coup 
+COUPMID-CER: MID3645 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3645 3 -- not coup link
+COUPLINK-CER: MID3645 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3646 
+
+TERRMID: MID3646 1 -- territorial MID 
+TERRMID-CER: MID3646 3 -- uncertain 
+TERRMID-NOTES: MID3646 from Gibler, Miller, and Little 2016, the border between Russia and China was not demarcated clearly, and this led to tensions between the countries. In 1911, Russia became increasingly aggressive over the issue and fortified the border for over a year, triggering this MID. Coded territorial MID because this was connected to a disputed border, and coded uncertain because GML argue this case should be combined with MID3647 due to temporal overlap. 
+
+TERRLINK: MID3646 3 -- not third party link to territory 
+TERRLINK-CER: MID3646 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3646 3 -- not maritime 
+MARITMID-CER: MID3646 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3646 3 -- not islands 
+ISLMID-CER: MID3646 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3646 3 -- not civil war 
+CIVWARMID-CER: MID3646 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3646 3 -- not civil war link 
+CIVWARLINK-CER: MID3646 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3646 3 -- not coup 
+COUPMID-CER: MID3646 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3646 3 -- not coup link
+COUPLINK-CER: MID3646 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3647 
+
+TERRMID: MID3647 1 -- territorial MID
+TERRMID-CER: MID3647 1 -- certain 
+TERRMID-NOTES: MID3647 from Gibler 2018, in 1910-1911, the undemarcated border between Russia and China led to tensions between the governments. Russia increased its belligerence and fortified their border with China for over a year, triggering this MID. Russia demanded numerous other concessions from China and threatened military action if the demands were not met. China eventually conceded. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3647 3 -- not third party link to territory 
+TERRLINK-CER: MID3647 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3647 3 -- not maritime 
+MARITMID-CER: MID3647 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3647 3 -- not islands 
+ISLMID-CER: MID3647 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3647 3 -- not civil war 
+CIVWARMID-CER: MID3647 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3647 3 -- not civil war link 
+CIVWARLINK-CER: MID3647 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3647 3 -- not coup 
+COUPMID-CER: MID3647 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3647 3 -- not coup link
+COUPLINK-CER: MID3647 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3255 
+
+TERRMID: MID3255 3 -- not territory 
+TERRMID-CER: MID3255 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3255 3 -- not third party link to territory 
+TERRLINK-CER: MID3255 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3255 3 -- not maritime 
+MARITMID-CER: MID3255 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3255 3 -- not islands 
+ISLMID-CER: MID3255 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3255 1 -- civil war MID
+CIVWARMID-CER: MID3255 3 -- uncertain 
+CIVWARMID-NOTES: MID3255 from Gibler, Miller, and Little 2016, rebels in Mongolia declared independence from China, and China sought to crush the rebellion. Russia trained the rebels, but neither supported them in any other way in their rebellion against China nor permitted the rebels to have access to Russian territory. Coded civil war MID because this was connected to separatist rebels in China, but coded uncertain because GML argue this case should be dropped, since Russia's training of the rebels did not amount to Russian involvement in a MID against China. 
+
+CIVWARLINK: MID3255 3 -- not civil war link 
+CIVWARLINK-CER: MID3255 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3255 3 -- not coup 
+COUPMID-CER: MID3255 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3255 3 -- not coup link
+COUPLINK-CER: MID3255 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3254 
+
+TERRMID: MID3254 3 -- not territory 
+TERRMID-CER: MID3254 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3254 3 -- not third party link to territory 
+TERRLINK-CER: MID3254 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3254 3 -- not maritime 
+MARITMID-CER: MID3254 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3254 3 -- not islands 
+ISLMID-CER: MID3254 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3254 1 -- civil war MID
+CIVWARMID-CER: MID3254 1 -- certain 
+CIVWARMID-NOTES: MID3254 from Gibler 2018, China was still trying to prevent Mongolia from being independent, but Mongolian separatist rebels declared independence and attempted to set up a government. Russia wanted Mongolia to become independent; they recognized the Mongolian government, concluded a treaty with them, and fought against Chinese forces in Mongolia. Coded civil war MID because this was connected to separatist rebels in China. 
+
+CIVWARLINK: MID3254 3 -- not civil war link 
+CIVWARLINK-CER: MID3254 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3254 3 -- not coup 
+COUPMID-CER: MID3254 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3254 3 -- not coup link
+COUPLINK-CER: MID3254 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2700 
+
+TERRMID: MID2700 1 -- territorial MID
+TERRMID-CER: MID2700 1 -- certain 
+TERRMID-NOTES: MID2700 from Gibler 2018, Russia and China disputed China's right to navigation in the Amur, an inland river that forms part of the border between those countries. In 1919, China sailed up the Amur, and Russia fired at the ships. Coded territorial MID because this was connected to a claim on the Amur, an inland river boundary that Russia claimed sovereignty over. 
+
+TERRLINK: MID2700 3 -- not third party link to territory 
+TERRLINK-CER: MID2700 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2700 3 -- not maritime 
+MARITMID-CER: MID2700 1 -- certain 
+MARITMID-NOTES: MID2700 This inland boundary did not concern maritime space.
+
+ISLMID: MID2700 3 -- not islands 
+ISLMID-CER: MID2700 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2700 3 -- not civil war 
+CIVWARMID-CER: MID2700 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2700 3 -- not civil war link 
+CIVWARLINK-CER: MID2700 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2700 3 -- not coup 
+COUPMID-CER: MID2700 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2700 3 -- not coup link
+COUPLINK-CER: MID2700 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1143 
+
+TERRMID: MID1143 3 -- not territory 
+TERRMID-CER: MID1143 3 -- uncertain 
+TERRMID-NOTES: MID1143 from Gibler, Miller, and Little 2016, there is insufficient information on this MID. COW says that this MID involves China seizing railroad property from Russia. GML argue this case is not supported by historical information, so this is coded uncertain. 
+
+TERRLINK: MID1143 3 -- not third party link to territory 
+TERRLINK-CER: MID1143 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1143 3 -- not maritime 
+MARITMID-CER: MID1143 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1143 3 -- not islands 
+ISLMID-CER: MID1143 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1143 3 -- not civil war 
+CIVWARMID-CER: MID1143 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1143 3 -- not civil war link 
+CIVWARLINK-CER: MID1143 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1143 3 -- not coup 
+COUPMID-CER: MID1143 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1143 3 -- not coup link
+COUPLINK-CER: MID1143 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3257 
+
+TERRMID: MID3257 3 -- not territory 
+TERRMID-CER: MID3257 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3257 3 -- not third party link to territory 
+TERRLINK-CER: MID3257 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3257 3 -- not maritime 
+MARITMID-CER: MID3257 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3257 3 -- not islands 
+ISLMID-CER: MID3257 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3257 1 -- civil war MID
+CIVWARMID-CER: MID3257 1 -- certain 
+CIVWARMID-NOTES: MID3257 from Gibler 2018, Mongolian rebels declared independence, but China did not want to cede sovereignty to them. In 1921, separatist rebels set up a revolutionary congress. Russia supported their bid to take power in Mongolia and declare an official, functioning government. Soviet forces helped the rebels take the capital and fought against Chinese forces, triggering this MID. Coded civil war MID because this was connected to militarized rebels in Chinese territory (Mongolia). 
+
+CIVWARLINK: MID3257 3 -- not civil war link 
+CIVWARLINK-CER: MID3257 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3257 3 -- not coup 
+COUPMID-CER: MID3257 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3257 3 -- not coup link
+COUPLINK-CER: MID3257 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3259 
+
+TERRMID: MID3259 1 -- territorial MID
+TERRMID-CER: MID3259 1 -- certain 
+TERRMID-NOTES: MID3259 from Gibler 2018, after the Russian Civil War, China and Russia disputed an area along their border. In 1919, both countries engaged in a show of force near the disputed area, and China later occupied the disputed territory. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3259 3 -- not third party link to territory 
+TERRLINK-CER: MID3259 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3259 3 -- not maritime 
+MARITMID-CER: MID3259 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3259 3 -- not islands 
+ISLMID-CER: MID3259 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3259 1 -- civil war MID
+CIVWARMID-CER: MID3259 1 -- certain 
+CIVWARMID-NOTES: MID3259 from Gibler 2018, the disputed territory was also occupied by White Army Russians who fled Russia after the civil war. Russia sent troops to the area due to these rebels, although there does not seem to be any direct fighting between Russian forces and rebels. Coded civil war MID because this MID involved Russia deploying troops to the disputed area partially in response to militarized rebels there. 
+
+CIVWARLINK: MID3259 3 -- not civil war link 
+CIVWARLINK-CER: MID3259 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3259 3 -- not coup 
+COUPMID-CER: MID3259 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3259 3 -- not coup link
+COUPLINK-CER: MID3259 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1668 
+
+TERRMID: MID1668 1 -- territorial MID
+TERRMID-CER: MID1668 1 -- certain 
+TERRMID-NOTES: MID1668 from Gibler 2018, this dispute is over the Amur river, an inland river boundary. Russia had controlled it for a long time but China began to assert sovereignty over it. China allowed merchants to freely navigate the river, and Russia responded with barricades along the river, amounting to a border fortification. Coded territorial MID because this was connected to a dispute over an inland river boundary. 
+
+TERRLINK: MID1668 3 -- not third party link to territory 
+TERRLINK-CER: MID1668 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1668 3 -- not maritime 
+MARITMID-CER: MID1668 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1668 3 -- not islands 
+ISLMID-CER: MID1668 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1668 3 -- not civil war 
+CIVWARMID-CER: MID1668 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1668 3 -- not civil war link 
+CIVWARLINK-CER: MID1668 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1668 3 -- not coup 
+COUPMID-CER: MID1668 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1668 3 -- not coup link
+COUPLINK-CER: MID1668 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2208 
+
+TERRMID: MID2208 3 -- not territory 
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 3 -- not third party link to territory 
+TERRLINK-CER: MID2208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain 
+MARITMID-NOTES: MID2208 from cm narrative, the Great Powers (Germany, Japan, France, UK, US, Italy, Russia) demanded that China remove mines it had placed in the Dagu Harbor, as that harbor provided access to a major Chinese river. Those countries jointly threatened China, triggering this MID. China exchanged naval fire with Japan as part of this incident. Coded not maritime because the maritime boundary was not being disputed between China and Russia.
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2208 3 -- not civil war link 
+CIVWARLINK-CER: MID2208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1674 
+
+TERRMID: MID1674 3 -- not territory 
+TERRMID-CER: MID1674 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1674 3 -- not third party link to territory 
+TERRLINK-CER: MID1674 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1674 3 -- not maritime 
+MARITMID-CER: MID1674 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1674 3 -- not islands 
+ISLMID-CER: MID1674 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1674 1 -- civil war MID
+CIVWARMID-CER: MID1674 1 -- certain 
+CIVWARMID-NOTES: MID1674 from Gibler 2018 and cm narrative, in 1927 China seized a Russian ship that they accused of carrying propaganda materials. This was connected to the ongoing Chinese civil war, and China sentenced the crew to death. Coded civil war MID because this was connected to the Chinese Civil War. 
+
+CIVWARLINK: MID1674 3 -- not civil war link 
+CIVWARLINK-CER: MID1674 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1674 3 -- not coup 
+COUPMID-CER: MID1674 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1674 3 -- not coup link
+COUPLINK-CER: MID1674 1 -- certain 
+COUPLINK-NOTES: 
+
+MID41 
+
+TERRMID: MID41 3 -- not territory 
+TERRMID-CER: MID41 1 -- certain 
+TERRMID-NOTES: MID41 from Gibler 2018, in 1929 China and Russia fought over control of railroads in Manchuria. This is the Sino-Soviet War. Coded not territory because this was connected to ownership of railroads, not sovereignty over territory, making this a financial issue. 
+
+TERRLINK: MID41 3 -- not third party link to territory 
+TERRLINK-CER: MID41 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID41 3 -- not maritime 
+MARITMID-CER: MID41 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID41 3 -- not islands 
+ISLMID-CER: MID41 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID41 3 -- not civil war 
+CIVWARMID-CER: MID41 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID41 3 -- not civil war link 
+CIVWARLINK-CER: MID41 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID41 3 -- not coup 
+COUPMID-CER: MID41 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID41 3 -- not coup link
+COUPLINK-CER: MID41 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3655 
+
+TERRMID: MID3655 3 -- not territory 
+TERRMID-CER: MID3655 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3655 3 -- not third party link to territory 
+TERRLINK-CER: MID3655 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3655 3 -- not maritime 
+MARITMID-CER: MID3655 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3655 3 -- not islands 
+ISLMID-CER: MID3655 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3655 1 -- civil war MID
+CIVWARMID-CER: MID3655 3 -- uncertain 
+CIVWARMID-NOTES: MID3655 from Gibler, Miller, and Little 2016, several Chinese warlords were feuding during the Chiense Civil War, and one of them asked Russia to intervene on their side. The Soviets did become involved to some extent. Coded civil war MID because this was connected to the Chinese Civil War, but coded uncertain because GML recommend this case be dropped as China did not protest Russia's involvement.
+
+CIVWARLINK: MID3655 3 -- not civil war link 
+CIVWARLINK-CER: MID3655 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3655 3 -- not coup 
+COUPMID-CER: MID3655 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3655 3 -- not coup link
+COUPLINK-CER: MID3655 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3656 
+
+TERRMID: MID3656 1 -- territorial MID
+TERRMID-CER: MID3656 1 -- certain 
+TERRMID-NOTES: MID3656 from Gibler 2018, this is during the Xinjiang Wars that were occurring in China. Russia backed rebels in the conflict and managed to take a piece of Chinese territory as a result. Coded territorial MID because this involved Russia taking territory away from China.
+
+TERRLINK: MID3656 3 -- not third party link to territory 
+TERRLINK-CER: MID3656 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3656 3 -- not maritime 
+MARITMID-CER: MID3656 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3656 3 -- not islands 
+ISLMID-CER: MID3656 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3656 1 -- civil war MID
+CIVWARMID-CER: MID3656 1 -- certain 
+CIVWARMID-NOTES: MID3656 coded civil war MID because this was connected to the Xinjiang Wars, a seried of civil conflicts in China in which militarized rebels were fighting against China. 
+
+CIVWARLINK: MID3656 3 -- not civil war link 
+CIVWARLINK-CER: MID3656 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3656 3 -- not coup 
+COUPMID-CER: MID3656 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3656 3 -- not coup link
+COUPLINK-CER: MID3656 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2704 
+
+TERRMID: MID2704 3 -- not territory 
+TERRMID-CER: MID2704 1 -- certain 
+TERRMID-NOTES: MID2704 Coded not territory because the USSR was not claiming Manchuria. It was using its presence there to leverage more favorable trade arrangements with China and to remove US influence in the area (Gibler 2018). USSR did not seek sovereignty over Manchuria.
+
+TERRLINK: MID2704 3 -- not third party link to territory 
+TERRLINK-CER: MID2704 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2704 3 -- not maritime 
+MARITMID-CER: MID2704 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2704 3 -- not islands 
+ISLMID-CER: MID2704 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2704 1 -- civil war MID
+CIVWARMID-CER: MID2704 1 -- certain 
+CIVWARMID-NOTES: MID2704 from Gibler 2018, after WWII, China was still dealing with rebels in Manchuria and although the Soviets were still occupying Manchuria, they agreed with China that they would leave shortly after the war. However, the Soviets did not leave as soon as the Chinese wanted them to and admitted to supporting rebels in the region. China and Russia escalated tensions over both this and economic issues, and Russia threatened to stay in Manchuria. The longer-than-promised Soviet occupation of Manchuria (against China's wishes) and the threat to remain trigger this MID. Coded civil war MID because this was connected to militarized rebels in Manchuria. 
+
+CIVWARLINK: MID2704 3 -- not civil war link 
+CIVWARLINK-CER: MID2704 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2704 3 -- not coup 
+COUPMID-CER: MID2704 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2704 3 -- not coup link
+COUPLINK-CER: MID2704 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3265 
+
+TERRMID: MID3265 1 -- territorial MID
+TERRMID-CER: MID3265 1 -- certain 
+TERRMID-NOTES: MID3265 from Benson 1990, China was still claiming part of Mongolia after WWII, although Mongolia was recognized as an independent state. This therefore amounts to a territorial MID.
+
+TERRLINK: MID3265 3 -- not third party link to territory 
+TERRLINK-CER: MID3265 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3265 3 -- not maritime 
+MARITMID-CER: MID3265 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3265 3 -- not islands 
+ISLMID-CER: MID3265 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3265 3 -- not civil war 
+CIVWARMID-CER: MID3265 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID3265 1 -- civil war link 
+CIVWARLINK-CER: MID3265 1 -- certain 
+CIVWARLINK-NOTES: MID3265 from Gibler 2018, Russia backed several attacks on China by Mongolian forces that were still fighting for independence from China. Coded civil war link because this was connected to militarized rebels in Mongolia, outside this dyad. Mongolia had become an independent state after wWII, so this becomes a civwarlink (rebels in Mongolia, outside the dyad), as opposed to a civwar (rebels in Chinese territory). 
+
+COUPMID: MID3265 3 -- not coup 
+COUPMID-CER: MID3265 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3265 3 -- not coup link
+COUPLINK-CER: MID3265 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2706 
+
+TERRMID: MID2706 3 -- not territory 
+TERRMID-CER: MID2706 3 -- uncertain 
+TERRMID-NOTES: MID2706 from Gibler, Miller, and Little 2016, there is no evidence that a MID occurred at all here. GML recommend this case be dropped,so coded uncertain. 
+
+TERRLINK: MID2706 3 -- not third party link to territory 
+TERRLINK-CER: MID2706 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2706 3 -- not maritime 
+MARITMID-CER: MID2706 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2706 3 -- not islands 
+ISLMID-CER: MID2706 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2706 3 -- not civil war 
+CIVWARMID-CER: MID2706 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2706 3 -- not civil war link 
+CIVWARLINK-CER: MID2706 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2706 3 -- not coup 
+COUPMID-CER: MID2706 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2706 3 -- not coup link
+COUPLINK-CER: MID2706 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2707 
+
+TERRMID: MID2707 1 -- territorial MID
+TERRMID-CER: MID2707 1 -- certain 
+TERRMID-NOTES: MID2707 from Gibler 2018, Mao accused the Soviets of amassing troops on their disputed border and planning to annex Chinese territory. Soviet Union accused China of border violations. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2707 3 -- not third party link to territory 
+TERRLINK-CER: MID2707 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2707 3 -- not maritime 
+MARITMID-CER: MID2707 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2707 3 -- not islands 
+ISLMID-CER: MID2707 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2707 3 -- not civil war 
+CIVWARMID-CER: MID2707 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2707 3 -- not civil war link 
+CIVWARLINK-CER: MID2707 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2707 3 -- not coup 
+COUPMID-CER: MID2707 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2707 3 -- not coup link
+COUPLINK-CER: MID2707 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2708 
+
+TERRMID: MID2708 1 -- territorial MID
+TERRMID-CER: MID2708 1 -- certain 
+TERRMID-NOTES: MID2708 from Gibler 2018, Soviet Union and China began amassing troops along their disputed border as their relations deteriorated, and China threatened to cut ties with the Soviet Union altogether. No fighting broke out, and the border build-up of troops triggers this MID. Coded territorial MID because this was connected to dipsuted territory. 
+
+TERRLINK: MID2708 3 -- not third party link to territory 
+TERRLINK-CER: MID2708 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2708 3 -- not maritime 
+MARITMID-CER: MID2708 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2708 3 -- not islands 
+ISLMID-CER: MID2708 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2708 3 -- not civil war 
+CIVWARMID-CER: MID2708 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2708 3 -- not civil war link 
+CIVWARLINK-CER: MID2708 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2708 3 -- not coup 
+COUPMID-CER: MID2708 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2708 3 -- not coup link
+COUPLINK-CER: MID2708 1 -- certain 
+COUPLINK-NOTES: 
+
+MID343 
+
+TERRMID: MID343 3 -- not territory 
+TERRMID-CER: MID343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID343 3 -- not third party link to territory 
+TERRLINK-CER: MID343 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID343 3 -- not maritime 
+MARITMID-CER: MID343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID343 3 -- not islands 
+ISLMID-CER: MID343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID343 3 -- not civil war 
+CIVWARMID-CER: MID343 1 -- certain 
+CIVWARMID-NOTES: MID343 from Gibler 2018, China-Soviet Union relations were deteriorating. China's Cultural Revolution was frowned upon by the Soviet Union as a false version of a proletariat revolution. Chinese refugees poured across the border fleeing the Cultural Revolution, and this led to minor clashes between China and the Soviet Union. Coded not civil war because this was connected to refugees pouring across the border, and they were not militarized. 
+
+CIVWARLINK: MID343 3 -- not civil war link 
+CIVWARLINK-CER: MID343 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID343 3 -- not coup 
+COUPMID-CER: MID343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID343 3 -- not coup link
+COUPLINK-CER: MID343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2709 
+
+TERRMID: MID2709 3 -- not territory 
+TERRMID-CER: MID2709 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2709 3 -- not third party link to territory 
+TERRLINK-CER: MID2709 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2709 3 -- not maritime 
+MARITMID-CER: MID2709 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2709 3 -- not islands 
+ISLMID-CER: MID2709 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2709 3 -- not civil war 
+CIVWARMID-CER: MID2709 1 -- certain 
+CIVWARMID-NOTES: MID2709 from cm narrative, MID2709 occurred from January 26th to February 12th, 1967. It seems to include several incidents: Chinese students beaten up in Moscow, followed by attacks on Soviet citizens in Beijing and an attack on the Chinese Embassy in Moscow during which 31 Chinese citizens, several of them diplomats, were injured. Coded not civil war because these eevents do not involve militarized rebels. 
+
+CIVWARLINK: MID2709 3 -- not civil war link 
+CIVWARLINK-CER: MID2709 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2709 3 -- not coup 
+COUPMID-CER: MID2709 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2709 3 -- not coup link
+COUPLINK-CER: MID2709 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2710 
+
+TERRMID: MID2710 3 -- not territory 
+TERRMID-CER: MID2710 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2710 3 -- not third party link to territory 
+TERRLINK-CER: MID2710 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2710 3 -- not maritime 
+MARITMID-CER: MID2710 1 -- certain 
+MARITMID-NOTES: MID2710 from cm narrative, MID2710 occurred from August 10th to 17th, 1967. From Gibler 2018, China detained a USSR ship for violating trading rights. The captain of the ship was arrested and both the captain and crew were beaten up by the Chinese Red Guards. The Russian Prime Minister, Kosygin made a formal complaint to his Chinese counterpart. Coded not maritime because this was not connected to a maritime dispute; rather, it was connected to a trade dispute.
+
+ISLMID: MID2710 3 -- not islands 
+ISLMID-CER: MID2710 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2710 3 -- not civil war 
+CIVWARMID-CER: MID2710 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2710 3 -- not civil war link 
+CIVWARLINK-CER: MID2710 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2710 3 -- not coup 
+COUPMID-CER: MID2710 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2710 3 -- not coup link
+COUPLINK-CER: MID2710 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2711 
+
+TERRMID: MID2711 3 -- not territory 
+TERRMID-CER: MID2711 1 -- certain 
+TERRMID-NOTES: MID2711 from cm narrative, MID2711 occurred from August 1968 to September 28, 1968. From Gibler 2018, this MID involved USSR violating Chinese airspace and amassing troops along the border. From New York Times 9/17/1968 and 9/30/1968, China claimed that this was part of USSR's strategy of containing China in much the same way that the US was doing to China and USSR. Coded not territory because USSR was not making a territorial claim here.
+
+TERRLINK: MID2711 3 -- not third party link to territory
+TERRLINK-CER: MID2711 1 -- certain 
+TERRLINK-NOTES: MID2711 from cm narrative, MID2711 occurred from August 1968 to September 28, 1968. It seems to have taken place over the security threat under which the Chinese Embassy in Prague found itself and its members during the Prague Spring (Russian intervention in Czechoslovakia). China accused Russia of unlawfully infringing on the territory of the embassy and firing several shots over it. Coded not third party link to territorial MID because the Prague Spring is not a territorial dispute, but rather about Russian influence in Czechoslovakia. 
+
+MARITMID: MID2711 3 -- not maritime 
+MARITMID-CER: MID2711 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2711 3 -- not islands 
+ISLMID-CER: MID2711 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2711 3 -- not civil war 
+CIVWARMID-CER: MID2711 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2711 3 -- not civil war link 
+CIVWARLINK-CER: MID2711 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2711 3 -- not coup 
+COUPMID-CER: MID2711 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2711 3 -- not coup link
+COUPLINK-CER: MID2711 1 -- certain 
+COUPLINK-NOTES: 
+
+MID349 
+
+TERRMID: MID349 1 -- territorial MID
+TERRMID-CER: MID349 1 -- certain 
+TERRMID-NOTES: MID349 from Gibler 2018, the Damansky Island is located in the inland river boundary between China and USSR. Coded territorial MID because this is connected to a territorial boundary dispute, as control over the island has implications for the inland land boundary.
+
+TERRLINK: MID349 3 -- not third party link to territory 
+TERRLINK-CER: MID349 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID349 3 -- not maritime 
+MARITMID-CER: MID349 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID349 1 -- islands MID
+ISLMID-CER: MID349 1 -- certain 
+ISLMID-NOTES: MID349 from Gibler 2018 and cm narrative, this was connected to a dispute over Darnasky Island, located in an inland river boundary between China and SU. Fighting broke out between China and SU in 1969. Coded islands MID because this was connected to sovereignty over Darnasky island. 
+
+CIVWARMID: MID349 3 -- not civil war 
+CIVWARMID-CER: MID349 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID349 3 -- not civil war link 
+CIVWARLINK-CER: MID349 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID349 3 -- not coup 
+COUPMID-CER: MID349 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID349 3 -- not coup link
+COUPLINK-CER: MID349 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2712 
+
+TERRMID: MID2712 3 -- not territory 
+TERRMID-CER: MID2712 3 -- uncertain 
+TERRMID-NOTES: MID2712 from Gibler, Miller, and Little 2016, the Soviet Union accused China of border violations, but it was later discovered that the Soviet Union likely fabricated the charge and there no evidence that border violations occurred. Coded uncertain because GML recommend this case be dropped.
+
+TERRLINK: MID2712 3 -- not third party link to territory 
+TERRLINK-CER: MID2712 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2712 3 -- not maritime 
+MARITMID-CER: MID2712 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2712 3 -- not islands 
+ISLMID-CER: MID2712 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2712 3 -- not civil war 
+CIVWARMID-CER: MID2712 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2712 3 -- not civil war link 
+CIVWARLINK-CER: MID2712 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2712 3 -- not coup 
+COUPMID-CER: MID2712 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2712 3 -- not coup link
+COUPLINK-CER: MID2712 1 -- certain 
+COUPLINK-NOTES: 
+
+MID364 
+
+TERRMID: MID364 3 -- not territory 
+TERRMID-CER: MID364 1 -- certain 
+TERRMID-NOTES: MID364 from Gibler 2018, China detained a Soviet helicopter that landed in China and accused the Soviet Union of espionage, triggering this MID. The Soviet Union denied the accusations. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID364 3 -- not third party link to territory 
+TERRLINK-CER: MID364 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID364 3 -- not maritime 
+MARITMID-CER: MID364 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID364 3 -- not islands 
+ISLMID-CER: MID364 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID364 3 -- not civil war 
+CIVWARMID-CER: MID364 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID364 3 -- not civil war link 
+CIVWARLINK-CER: MID364 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID364 3 -- not coup 
+COUPMID-CER: MID364 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID364 3 -- not coup link
+COUPLINK-CER: MID364 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2713 
+
+TERRMID: MID2713 1 -- territorial MID
+TERRMID-CER: MID2713 1 -- certain 
+TERRMID-NOTES: MID2713 from Gibler 2018, the London Daily Telegraph reported that Chinese and Soviet troops clashed near their Mongolian border. Both countries denied the incident. From cm narrative, USSR and China were disputing control of Mongolia at this time (although Mongolia was an independent state). Coded territorial MID because this was connected to a territorial dispute over Mongolia.
+
+TERRLINK: MID2713 3 -- not third party link to territory 
+TERRLINK-CER: MID2713 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2713 3 -- not maritime 
+MARITMID-CER: MID2713 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2713 3 -- not islands 
+ISLMID-CER: MID2713 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2713 3 -- not civil war 
+CIVWARMID-CER: MID2713 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2713 3 -- not civil war link 
+CIVWARLINK-CER: MID2713 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2713 3 -- not coup 
+COUPMID-CER: MID2713 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2713 3 -- not coup link
+COUPLINK-CER: MID2713 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2714 
+
+TERRMID: MID2714 1 -- territorial MID
+TERRMID-CER: MID2714 1 -- certain 
+TERRMID-NOTES: MID2714 from Gibler 2018, in 1977 Soviet spies crossed into China at the disputed border at Xinjiang and fought with a local Chinese militia, triggering this MID. Later, Soviet border guards crossed into Chinese territory and killed a villager. Coded territorial MID because per Huth and Allee 2002, the Xinjiang border was disputed at this time. 
+
+TERRLINK: MID2714 3 -- not third party link to territory 
+TERRLINK-CER: MID2714 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2714 3 -- not maritime 
+MARITMID-CER: MID2714 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2714 3 -- not islands 
+ISLMID-CER: MID2714 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2714 3 -- not civil war 
+CIVWARMID-CER: MID2714 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2714 3 -- not civil war link 
+CIVWARLINK-CER: MID2714 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2714 3 -- not coup 
+COUPMID-CER: MID2714 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2714 3 -- not coup link
+COUPLINK-CER: MID2714 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2715 
+
+TERRMID: MID2715 1 -- territorial MID
+TERRMID-CER: MID2715 1 -- certain 
+TERRMID-NOTES: MID2715 from cm narrative, MID2715 occurred between March 11 and May 9, 1978, as China refused several proposals from the Soviet Union to solve the issues of their disputed border. Chinese officials also made threatening statements saying that China would win a war against the Soviet Union any time. A military incident occurred in the Wusuli/Ussuri disputed region. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2715 3 -- not third party link to territory 
+TERRLINK-CER: MID2715 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2715 3 -- not maritime 
+MARITMID-CER: MID2715 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2715 3 -- not islands 
+ISLMID-CER: MID2715 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2715 3 -- not civil war 
+CIVWARMID-CER: MID2715 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2715 3 -- not civil war link 
+CIVWARLINK-CER: MID2715 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2715 3 -- not coup 
+COUPMID-CER: MID2715 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2715 3 -- not coup link
+COUPLINK-CER: MID2715 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3007 
+
+TERRMID: MID3007 3 -- not territory 
+TERRMID-CER: MID3007 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3007 1 -- third party link to territorial MID
+TERRLINK-CER: MID3007 1 -- certain 
+TERRLINK-NOTES: MID3007 from Gibler 2018 and cm narrative, this was connected to the Vietnamese War, a territorial dispute. The Soviet Union supported Vietnamese rebels, and this angered China because China suspected the Soviets of trying to encircle them in Asia. Soviet support for militarized rebels pulls them into this MID, and China is pulled in because they sent forces into Vietnam. Coded third party link to territorial MID because this was connected to the Vietnam War, a territorial dispute in Vietnam. 
+
+MARITMID: MID3007 3 -- not maritime 
+MARITMID-CER: MID3007 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3007 3 -- not islands 
+ISLMID-CER: MID3007 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3007 3 -- not civil war 
+CIVWARMID-CER: MID3007 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3007 1 -- civil war link 
+CIVWARLINK-CER: MID3007 1 -- certain 
+CIVWARLINK-NOTES: MID3007 coded civil war link because this was connected to the Vietnam War, which had a civil war element because militarized rebels were fighting in the war. Vietnam is outside this dyad. 
+
+COUPMID: MID3007 3 -- not coup 
+COUPMID-CER: MID3007 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3007 3 -- not coup link
+COUPLINK-CER: MID3007 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2716 
+
+TERRMID: MID2716 3 -- not territory 
+TERRMID-CER: MID2716 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2716 1 -- third party link to territorial MID 
+TERRLINK-CER: MID2716 1 -- certain 
+TERRLINK-NOTES: MID2716 from Gibler 2018, China invaded Vietnam in 1979, and the Soviets responded by supporting Vietnam with money and weapons. Soviet troops also clashed with Chinese forces. Coded third party link to territorial MID because this was connected to China's invasion of Vietnam, a terriorial dispute in part (Zhang 2005). 
+
+MARITMID: MID2716 3 -- not maritime 
+MARITMID-CER: MID2716 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2716 3 -- not islands 
+ISLMID-CER: MID2716 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2716 3 -- not civil war 
+CIVWARMID-CER: MID2716 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2716 1 -- civil war link 
+CIVWARLINK-CER: MID2716 1 -- certain 
+CIVWARLINK-NOTES: MID2716 coded civil war link because the Sino-Vietnam War (outside this dyad) also had a civil conflict element as guerillas were fighting in the conflict. Zhang (2005) also reports a connection between this war and the Cambodian civil war, with China trying to relieve Vietnamese pressure on the Khmer Rouge.
+
+COUPMID: MID2716 3 -- not coup 
+COUPMID-CER: MID2716 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2716 3 -- not coup link
+COUPLINK-CER: MID2716 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2717 
+
+TERRMID: MID2717 1 -- territorial MID
+TERRMID-CER: MID2717 1 -- certain 
+TERRMID-NOTES: MID2717 from Gibler 2018, Soviet border guards crossed the disputed border and attacked villagers, prompting protest from China. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2717 3 -- not third party link to territory 
+TERRLINK-CER: MID2717 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2717 3 -- not maritime 
+MARITMID-CER: MID2717 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2717 3 -- not islands 
+ISLMID-CER: MID2717 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2717 3 -- not civil war 
+CIVWARMID-CER: MID2717 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2717 3 -- not civil war link 
+CIVWARLINK-CER: MID2717 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2717 3 -- not coup 
+COUPMID-CER: MID2717 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2717 3 -- not coup link
+COUPLINK-CER: MID2717 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2718 
+
+TERRMID: MID2718 1 -- territorial MID
+TERRMID-CER: MID2718 1 -- certain 
+TERRMID-NOTES: MID2718 from Gibler 2018, Soviet and Chinese border guards exchanged fire across the dispute border in 1986. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2718 3 -- not third party link to territory 
+TERRLINK-CER: MID2718 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2718 3 -- not maritime 
+MARITMID-CER: MID2718 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2718 3 -- not islands 
+ISLMID-CER: MID2718 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2718 3 -- not civil war 
+CIVWARMID-CER: MID2718 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2718 3 -- not civil war link 
+CIVWARLINK-CER: MID2718 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2718 3 -- not coup 
+COUPMID-CER: MID2718 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2718 3 -- not coup link
+COUPLINK-CER: MID2718 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4052 
+
+TERRMID: MID4052 3 -- not territory 
+TERRMID-CER: MID4052 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4052 3 -- not third party link to territory 
+TERRLINK-CER: MID4052 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4052 3 -- not maritime 
+MARITMID-CER: MID4052 1 -- certain 
+MARITMID-NOTES: MID4052 from Gibler 2018, China seized a Russian trawler in 1993 because it suspected it of smuggling. Russia protested. Coded not maritime because this was not connected to a maritime dispute. 
+
+ISLMID: MID4052 3 -- not islands 
+ISLMID-CER: MID4052 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4052 3 -- not civil war 
+CIVWARMID-CER: MID4052 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4052 3 -- not civil war link 
+CIVWARLINK-CER: MID4052 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4052 3 -- not coup 
+COUPMID-CER: MID4052 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4052 3 -- not coup link
+COUPLINK-CER: MID4052 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4104 
+
+TERRMID: MID4104 1 -- territorial MID
+TERRMID-CER: MID4104 1 -- certain 
+TERRMID-NOTES: MID4104 from Gibler 2018, China opened fire on Russian fisherman near Chinese territorial waters. Russia protested. From Japanese Economic Newswire 6/16/1994, this occurred in an inland river boundary which was a disputed border and was connected to China asserting control over the disputed border. Coded territorial MID because this was connected to a territorial dispute (inland river boundary).
+
+TERRLINK: MID4104 3 -- not third party link to territory 
+TERRLINK-CER: MID4104 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4104 3 -- not maritime 
+MARITMID-CER: MID4104 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4104 3 -- not islands 
+ISLMID-CER: MID4104 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4104 3 -- not civil war 
+CIVWARMID-CER: MID4104 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4104 3 -- not civil war link 
+CIVWARLINK-CER: MID4104 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4104 3 -- not coup 
+COUPMID-CER: MID4104 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4104 3 -- not coup link
+COUPLINK-CER: MID4104 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4485 
+
+TERRMID: MID4485 3 -- not territory 
+TERRMID-CER: MID4485 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4485 3 -- not third party link to territory 
+TERRLINK-CER: MID4485 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4485 3 -- not maritime 
+MARITMID-CER: MID4485 1 -- certain 
+MARITMID-NOTES: MID4485 from Gibler 2018, Russian Coast Guard troops sank a Chinese merchant chip it suspected of trying to flee the port illegally. Coded not maritime because this was not connected to a maritime dispute. 
+
+ISLMID: MID4485 3 -- not islands 
+ISLMID-CER: MID4485 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4485 3 -- not civil war 
+CIVWARMID-CER: MID4485 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4485 3 -- not civil war link 
+CIVWARLINK-CER: MID4485 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4485 3 -- not coup 
+COUPMID-CER: MID4485 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4485 3 -- not coup link
+COUPLINK-CER: MID4485 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4485
+rivalry=365710 nationa=RUSSIA/USSR nationb=CHINA MID4485 20090219-20090219 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+The Russian coast guard sank a Chinese merchant ship that attempted to flee port after a dispute over the cargo contained in the ship. First day of dispute was on 2/19/2009 and last day of dispute was on 2/19/2009.
+
+MID3 1993-2001:
+
+MID4052
+rivalry=365710 nationa=CHINA nationb=RUSSIA/USSR MID4052 19930609-19930612 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+As part of an anti-smuggling patrol, Chinese naval forces conducted an armed boarding of a Russian trawler. The seizure occurred in international waters and was the only incident in the dispute. First day of dispute was on 6/9/1993 and last day of dispute was on 6/12/1993.
+
+MID4104
+rivalry=365710 nationa=CHINA nationb=RUSSIA/USSR MID4104 19940600-19940600 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Chinese military servicemen opened fire on Russian fishermen fishing on the Agur River on the border between Siberia and Manchuria. According to reports, a group of Chinese, including servicemen, gestured to the Russian fishermen to come to the Chinese bank of the river. As they approached, Chinese forces opened fire on the fishermen, searched the boat, and confiscated its nets. A Russian civilian was wounded. Russia protested the action. First and last day of dispute was on 6/00/1994.
+
+NARRATIVE-CM:
+
+MID3245 occurred from October 1862 to October 1864 and ended with the treaty of Chuguchak through which Russia and China delimitated their boundaries. The MID was related to boundary disputes between the two countries. 
+
+MID3247 occurred from July 1871 to January 1872. Russian Major General Kolpakovsky, the victor at Uzun-Agach, invaded the Chinese province of Ili. Fearing that the rebellion might spill over into the new Russian territories east of Tashkent and south of Zake Balk hash. Kaufman had dispatched a preemptive strike against the rebels. The Russians treated the occupation of Ili, or Kuldzha, as a temporary measure and reassured the Chinese and the Europeans that the Tsar's forces would remain only until the Chinese were capable of re-occupying that and other rebellious western provinces. The Russians finally returned Kuldzha to Chinese control in 1883 after much diplomatic wrangling and the obtaining of concessions elsewhere. 
+
+MID3249 occurred from July 1891 to October 1892 and involved a dispute over the ownership of Pamir-a region at the borders of Russia, Afghanistan and China. UK supported China in its claim against the Russians over this `no man's land' on the north-eastern fringes of Afghanistan. However, Russia already deployed troops in the area. 
+
+MID3255 occurred from June 1, 1912 to August 26, 1912 and is known as the `Cele Village Incident'. In 1912, when there was a disturbance in Kashgar, Russian Cossack troops were sent over the border to help put it down. However, the danger of Russian territorial encroachment into China was not the only threat that Xinjiang's neighbor posed. 
+
+MID3256 occurred from October 16th to the end of October, 1916 in Kashgar and involved the Muslim communities of Xinjiang province which always received the help of Russian troops. 
+
+MID3254 occurred from August 1912 to November 5, 1913. The Russians signed an agreement with the Mongolians, by which the latter (reluctantly) acknowledged their autonomy within the Chinese state; it also provided for Russian assistance in the training of a new Mongolian army and for Russian commercial privileges in Mongolia. In 1913 Russia agreed to provide Mongolia with arms and a two million ruble loan. This led to potential militarized conflict with China as Russia was helping militarily one autonomous region of China against Pekin's interests. 
+
+MID3258 occurred from June 1914 to December 1914 and involved the occupation of the Chinese region of Tangnuwulianghai by the Russian forces. 
+
+MID3259 occurred from October 1921 to March 1922 and involved the annexation of Tangnuwulianghai by the Russian forces. 
+
+MID2182 occurred on September 12, 1917 and involved the Chinese Eastern Railroad. 
+
+MID1142 occurred from December 5 to 26th, 1917. It was actually a power struggle in Harbin between the Bolsheviks and the `ancien regime' Russians who fled the Revolution. It ended up with Chinese troops disarming 2,000 Russian revolutionaries in the city of Harbin. 
+
+MID2700 occurred between July 1919 and October 25, 1919 and it was an attempt by China to navigate the Amur river inside Russian territory. 
+
+MID3257 occurred from July 6th, 1921 to November 5th, 1921 and it involves the independence declaration by Mongolia. Thus China's sovereignty over the territory of Mongolia which lasted from the 17th century onwards ended. Russia played a major role in helping Mongolia gain independence and there were several skirmishes in which Russian and Chinese troops were involved in on the other sides of the battle. 
+
+MID31 and MID3250 occurred in the context of the Boxers Rebellion. Some 177,000 Russian troops commanded by General Subotich invaded and occupied much of Manchuria from July 3-October 14, 1900, resulting in the deaths of some 242 Russian soldiers. Russian troops intervened to protect the foreign legations in Peking during the *Boxer Rebellion* beginning on June 11, 1900, and some 4,800 Russian troops entered Peking to relieve the foreign legations on August 15, 1900. Chinese and Russian representatives signed a peace agreement in Peking on September 12, 1901. Chinese and Russian representatives signed the *Treaty of Tsitsihar* on December 20, 1911, which provided for the delimitation of the border from Mongolia to the Argun River and the secession of 375 square miles of territory to Russia. On July 25, 1919, the Soviet Russian government declared null and void previous treaties concluded between Russia and China. Chinese and Soviet Russian representatives signed an agreement on May 31, 1924, which provided for the renegotiation of border treaties between the two countries. 
+
+MID41 occurred from May 27, 1929 to December 3, 1929. Chinese police arrested Soviet government officials near the Manchurian border on June 2, 1929, and China seized the *Chinese Eastern Railway* (CER) on July 10-11, 1929. The Soviet Union demanded the convening of a conference to deal with the CER matter and demanded the release of Soviet government officials on July 13, 1929. The Soviet Union severed diplomatic relations with China on July 19, 1929. France offered to mediate negotiations between the parties on July 19, 1929, but the Soviet Union rejected the mediation offer on July 23, 1929. Russia rejected an offer by Japan to facilitate negotiations between the parties on July 29, 1929. Chinese troops and Soviet troops clashed in Manchuria from August 13 to November 26, 1929, resulting in the deaths of some 200 Soviet soldiers and 3,000 Chinese soldiers. Chinese and Soviet representatives held negotiations in Nikolsk on December 1-3 and in Khabarovsk on December 16-22, 1929. The countries agreed to a disengagement of troops in Manchuria on December 22, 1929. Chinese and Soviet representatives signed a non-aggression pact on August 21, 1937.
+
+MID2704 occurred from October 6th, 1945 to May 3, 1946. Soviet Union's forces occupied Manchuria, a Chinese province. They controlled all the major cities in Manchuria during this period and several assassinations of Chinese officials occurred. 
+
+MID3265 occurred from May 12, 1947 to February 1948 and it seems to be over border clashes and intrusions from Soviet Union to China's Xinjiang province. The city of Peitashan, 50 km inside China's border was reportedly captured by Mongols with the help of Soviet troops. It is coded as the `Second Ili Rebellion'. 
+
+MID2706 occurred from April 22nd to September 1962 and is coded as the `Ili migration'. 60,000 Uighurs left China's Xinjiang province for the Soviet Union. Tense relations between the two countries persisted in the border areas. 
+
+MID2707 occurred from October 15, 1964 to April 15, 1965 and it seems to be over the breakdown of the border negotiations and an increasing tension over the disputed borderline. 
+
+MID2708 occurred from December 1965 to January 15, 1966 and seems to have taken place over China's allegations that Soviet Union is trying to split Xinjiang from China. Xinjiang is a province bordering Soviet Union with independence/autonomous goals fomented by the Uighurs. During this period the two year friendship treaty between China and Russia was also nullified signaling a cooling of relations. 
+
+MID2709 occurred from January 26th to February 12th, 1967. It seems to include several incidents: Chinese students beaten up in Moscow followed by attacks on Soviet citizens in Beijing and an attack on the Chinese Embassy in Moscow during which 31 Chinese citizens, several of them diplomats, were injured. 
+
+MID2710 occurred from August 10th to 17th, 1967. It seems to have taken place over a Russian vessel, Svirsk, that was held in custody by Chinese authorities in the port of Dairen (Chinese: Tailen). The captain of the ship was arrested and beaten up by the Chinese Red Guards and several of the crew members were beaten up. The Russian Prime Minister, Kosygin made a formal complain to his Chinese counterpart.
+
+MID2711 occurred from August 1968 to September 28, 1968. It seems to have taken place over the security threat under which the Chinese Embassy in Prague found itself and its members during the Russian invasion of Czechoslovakia. China accused Russia of unlawfully infringing on the territory of the embassy and firing several shots over it. 
+
+MID349 occurred from March 2, 1969 to December 13, 1969. It was a border incident which started on March 2nd when China accused Soviet Union of entering China's territory with troops and firing upon a number of Chinese. The clash occurred in northern Manchuria, at Chentanpao, on the Usuri River which is the border between China and Soviet Union. The Chinese said that a large number of Russian troops into armored cars and trucks entered Chinese territory. The respective area is under dispute between the two countries. 
+
+MID2712 occurred in September 1973 and it involved a border violation of the border with Mongolia. 
+
+MID2713 occurred in December 1974 and it involved border clashes at the Mongolian border between Russian and Chinese troops. 
+
+MID264 occurred between March 14th and September 14th, 1974. A Soviet Union helicopter with three men crew strayed over the border with China. Soviet Union said the helicopter lost fuel and made an emergency landing in China in a storm. 
+
+MID2715 occurred between March 11 and May 9, 1978, as China refused several proposals from Soviet Union to solve the issues of their disputed border. Chinese officials also made threatening statements saying that China would win a war against Soviet Union anytime. A military incident occurred in the Wusuli/Ussuri disputed region. 
+
+MID3007 lasted from December 7, 1978 to February 7, 1979. It seems to be related to threats Deng Xiaoping, the Chinese leader made, to the Soviet Union. He was quoted in Beijing saying that the threat for China comes from the "North", meaning Soviet Union. This was seen as highly aggressive rhetoric in Kremlin. Secondly and related, this declaration came in the context of the Sino-Vietnamese war during which it seemed that Russia helped the Vietnamese site in some sort of military capacity. 
+
+MID2716 could be about a Chinese civilian that was killed by Soviet troops in a border clash in July 1979. The period between January 27, 1979 and February 14, 1980 during which MID2716 occurred coincides with a negative turn in the Sino-Soviet relations which saw the end of the treaty of friendship between the two countries in April 1979. This is referred to as the Tersadi incident. 
+
+MID2717 occurred between October 5-29th, 1980. The Soviet Union accused China of deliberately provoking a border incident and demanded Chinese authorities punish those responsible, the official Soviet news agency Tass reported. Tass said the Soviet charges were contained in a protest note delivered Thursday to the Chinese Embassy. The Soviets said an unarmed Soviet civilian was killed in the incident, and such actions on a the part of the Chinese would only "stir further the enmity in China toward the Soviet Union, which consistently comes out for the normalization of relations between the two states. "On Monday, China's Foreign Ministry said in Peking that four Soviet soldiers had intruded into China's Inner Mongolia region, killed a herdsman and exchanged fire with Chinese frontier guards. According to the Chinese account, a Soviet soldier was killed and three others fled during the incident Sunday. The Soviet version said three Soviet citizens, all unarmed, were fishing on the Ergune River between the two countries when they heard a call for help from the Chinese side of the waterway. When they approached, they were fired on by "hiding" Chinese troops, and one of the three was killed, Tass quoted the Soviet protest note as saying. It was the first Chinese-Soviet border clash reported since China accused Soviet troops of killing one Chinese and wounding another in July 1979 as the two sides were preparing to begin talks on improving relations. The talks began in Moscow last October. A second round had been planned in Peking this year, but China postponed it following the Soviet military intervention in Afghanistan last December. China has called the Soviet Union "the main danger of war today" and said it is most important to oppose Soviet "hegemony. "The two sides signed a new trade agreement last June and Soviet sources said two-way trade this year would be slightly less than last year's $500 million. In March, the two countries held a meeting of their joint commission for boundary rivers and "reached agreement on some of the topics," China's press reported. 
+
+Communist troops defeated Nationalist troops on the Chinese mainland, and the *People's Republic of China* (PRC) was proclaimed on October 1, 1949. China and the Soviet Union signed a thirty-year treaty of friendship, alliance, and mutual assistance on February 14, 1950. Prime Minister Khrushchev held negotiations with Chairman Mao Zedong in Peking on July 31-August 3, 1958. On March 8, 1963, the Chinese government declared that it would no longer accept the legality of several "unequal" treaties that had been signed with Russia and other countries. The Soviet government denied that there had been any "unequal" treaties between China and Russia in the nineteenth century. China accused the Soviet Union of engaging in subversive activities in the Ili region of Sinkiang (Xinjiang) province on September 6, 1963, and the Soviet government denied the accusations on September 21, 1963. Chinese and Soviet representatives held negotiations in Beijing beginning on February 25, 1964, but the negotiations were suspended in May 1964. 
+
+MID343 Soviet troops evicted several Chinese citizens who had moved to some disputed islands in the Amur River on the northeast border of Manchuria in 1966. Chinese troops and Soviet troops clashed near the border on January 7-9, 1967. MID343 lasted from October 2, 1966 until June 7, 1968. MID349 started on March 2, 1969. Chinese troops and Soviet troops clashed on Damansky Island (Zhenbao Pao Island) in the Ussuri River on March 1-2, 1969, resulting in the deaths of 31 Soviet soldiers and 31 Chinese soldiers. Soviet troops attacked Chinese troops near Damansky Island (Zhenbao Island) on March 14-15, 1969, resulting in the deaths or wounding of some 800 Chinese soldiers and 60 Soviet soldiers. Chinese troops and Soviet troops clashed on the border on several occassions between April 16 and August 13, 1969. Prime Minister Zhou Enlai of China and Prime Minister Alexei Kosygin of the Soviet Union agreed to resume border negotiations on September 11, 1969. Chinese and Soviet representatives resumed negotiations in Beijing on October 20, 1969. China and the Soviet Union resumed negotiations in Beijing on January 13, 1970. The countries suspended border negotiations in February 1977. Chinese and Soviet representatives resumed border negotiations in Beijing on May 4, 1978, but the negotiations were suspended in June 1978. Soviet troops entered Chinese territory on May 9, 1978. China announced on April 3, 1979 that it would not extend the treaty of friendship with the Soviet Union. Chinese troops and Soviet troops clashed on July 16, 1979, resulting in the death of one Chinese soldier. China condemned the Soviet intervention in Afghanistan on December 31, 1979. Chinese troops and Soviet troops clashed near the Argun River on October 5, 1980, resulting in the deaths of one Chinese soldier and one Soviet soldier. The Soviet government proposed a resumption of border negotiations on September 25, 1981, and negotiations resumed in Beijing on October 5, 1982. 
+
+MID2718 started on July 12, 1986. Chinese troops and Soviet troops clashed near the border on July 12, 1986, resulting in the death of one Chinese soldier. Chinese and Soviet representatives signed a border agreement in Moscow on May 16, 1991, and the treaty was ratified by China's Congress of People's Deputies and the Russian Supreme Soviet in February 1992. 
+
+MID4052 A large Russian refrigerated trawler was seized by a Chinese Navy vessel in the East China Sea on June 9th, 1993. The Chinese naval patrol boat opened fire as it approached the Soyuz-4 and 20 sailors boarded the trawler, confining the 39 crew members to the hold, the press service of the Russian Navy said.The Soyuz-4, which belongs to the Kamchatka Ocean Fishing Base and was bound for Singapore from Nakhodka, was taken toward Putuo naval base south of Shanghai, the report said. 
+
+MID4104 occurred in July 1994. Chinese military servicemen opened fire on Russian fishermen fishing on the Agur River on the border between Siberia and Manchuria. According to reports, a group of Chinese, including servicemen, gestured to the Russian fishermen to come to the Chinese bank of the river. As they approached, Chinese forces opened fire on the fishermen, searched the boat, and confiscated its nets. A Russian civilian was wounded. Russia protested the action. President Boris Yeltsin of Russia and President Jiang Zemin of China signed a border agreement in Beijing on November 10, 1997, which demarcated the remaining sections of the Russian-Chinese border. China and Russia completed the demarcation of the border on April 26, 1999.
+
+SOURCES-CM: 
+Allock et al., 1992, 439-453; Chhabra, 2004; *Associated Press *(AP), April 27, 1999; Brecher and Wilkenfeld, 1997, 554-555; Christopher 1950; Clodfelter, 1992, 643-644, 1155-1156; *Facts on File*, March 13-19, 1969; Ginsburgs, 1993, 261-320; *Keesing*, June 25, 1982; *Survey of International Affairs *(SIA), 1929, 500-502; Tillema, 1991, 220-222; Japan Economic Newswire, June 10, 1993; Associated Press October 9, 1980; Globe and Mail January 15; 1979; Washington Post April 2, 1978; New York Times March 21, 1974; March 3, 1969; August 27, 1968; August 13, 1967; February 5,1967; December 9, 1965; June 12, 1947; February 12, 1946; www. onwar.com; 
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SB-CR:
+China (People's Republic of China) / Russia (USSR) Years: 1857-Present. Issues at stake: Border between China and Russia/USSR (especially Xinjiang province and Amur river); up to WWII, control over Manchuria, Port Arthur; influence over Mongolia. End coding: Continuing as of 1988 with no border settlement. Number of reciprocated 30 day militarized disputes: 16. Last militarized dispute: As recent as 1986. Wars: 1900, 1929. Summary: Russian-Chinese "rivalry" in a broad sense goes further back in time than 1857. In general, border shifts between the two sides have occurred frequently, whenever one state was in a powerful enough position to make a demand, and numerous border treaties were signed and abrogated. The 1857 start date for the "modern" period of rivalry is during the 2nd Opium War between Britain and France on one side and China on the other, when China is forced to cede the Amur province to Russia, followed in 1860 by Chinese session of a coastal province allowing Russia to establish Vladivostok. Disputes in the 1920s involve the Chinese gaining control over the Chinese Eastern Railway and outer Mongolia (until a Soviet supported revolution brings it back under Soviet influence). Border disputes continue through WWII, with large fluctuations in hostility over time as agreements are signed and then ignored. Following the defeat of Japan in WWII, the USSR signed a treaty of Peace, Friendship, and Alliance with the Nationalist Chinese government in 1945, but it lasted less than a year, with a series of militarized disputes breaking out related to rebellions in China's Xinjiang province and in Manchuria. Following the Chinese Communist victory over the Nationalist Chinese government in 1949, the USSR and the People's Republic of China signed a defense pact (1950). This treaty remained in effect until 1962, and there were no militarized disputes between the two states from 1950 to 1960. However, even during this period of friendly relations, border claims were not formally settled. Border violations (particularly in the form of nomadic peoples in Xinjiang (Sinkiang) province crossing into Soviet territory) occurred but were ignored by the central governments. In the 1960 dispute, the Chinese restated their claim that the ownership of the Buz-Aigyr pass in Xinjiang is questionable. More disputes followed throughout the 1960s, 1970s, and 1980s, regarding the Xinjiang border (borders with Khazakhstan, Kirghizia, and Tajikistan), control of the Amur and Ussuri rivers in the east (Manchuria/Eastern Siberia, and the China-Mongolia border and Soviet influence in Mongolia. Throughout, the Chinese have raised the issue of "unequal treaties" claiming that treaties concluded when China was weak should not be considered valid. No formal settlement of the border issues had been reached. However, Chinese-Soviet hostility has diminished significantly in the late 1980s. Since 1985 Sino-Soviet trade has increased and military forces have pulled back from the border. In 1986 Gorbachev made some concessions to China over the border issues, recognizing China's interpretation of the Amur river border. A summit meeting followed in 1989. It is quite possible that a formal settlement of the remaining border disputes will follow. 
+
+Even though Soviet Union and Communist China were both Communist with similar visions in the 1950s and even though there were no militarized disputes between the two states from 1950 to 1960. However, even during this period of friendly relations, border claims were not formally settled. Border violations (particularly in the form of nomadic peoples in Xinjiang (Sinkiang) province crossing into Soviet territory) occurred but were ignored by the central governments. In the 1960 dispute, the Chinese restated their claim that the ownership of the Buz-Aigyr pass in Xinjiang.
+Sources: Goldstein and Freeman (1990), Grenville (1974), Kinder and Hilgemann (1978).
+
+PS-NARRATIVE: 
+
+19500214-19630308 RIV1010-0.75 
+
+China and the Soviet Union signed a thirty-year treaty of friendship, alliance, and mutual assistance on February 14, 1950. Prime Minister Khrushchev held negotiations with Chairman Mao Zedong in Peking on July 31-August 3, 1958. On March 8, 1963, the Chinese government declared that it would no longer accept the legality of several "unequal" treaties that had been signed with Russia and other countries. The Soviet government denied that there had been any "unequal" treaties between China and Russia in the nineteenth century.
+
+19971110-20041013 Transition 
+
+President Boris Yeltsin of Russia and President Jiang Zemin of China signed a border agreement in Beijing on November 10, 1997, which demarcated the remaining sections of the Russian-Chinese border. "GOOD fences make good neighbours," said the poet, Robert Frost. China and Russia agree. The vast neighbours are busy marking out their 4,300-kilometre (2,700-mile) border. Though a few slivers of land remain controversial (a pugnacious regional governor in Russia's far east, Yevgeny Nazdratenko, is fiercely disputing a decision to give China a patch of 15 square kilometres), the job should be more or less finished this year, allowing both sides to reduce the crushing weight of troops and armaments they deploy along the frontier. A troop-reduction agreement was one of two main documents awaiting signature during this week's visit to Russia by China's president, Jiang Zemin. The other was a joint statement on foreign policy-platitudinous and vague, perhaps, but the first ever made by the two countries. As such, it suggests a growing intimacy. China and Russia completed the demarcation of the border on April 26, 1999.
+
+Russia is taking part in China's ambitious program to develop the vast western areas, said a Russian official in Chongqing on June 9, 2000. Vladimir Portyakov, counselor at the Russian embassy to China, said that Russia and China are now engaged in some trial development projects in China's Xinjiang Autonomous Region and Qinghai Province. Attending an international symposium on developing China's west, Portyakov said the cooperation projects, which will strengthen Sino-Russian ties, include building a modern plant to make power transmitting equipment in Urumqi, capital of Xinjiang. Russia and China are also negotiating on joint exploration of mineral resources, petroleum and natural gas in Qinghai and Xinjiang, he added. According to China's Ministry of Foreign Trade and Economic Cooperation, exchanges between Russia and the local governments and enterprises in western China are becoming more frequent, and the border trade volume between western China and localities in Russia is on the rise. In June 1999, the Chinese government launched its grand plan to develop China's western region, which covers 12 provinces, autonomous regions and a municipality. The ambitious move has attracted world attention, and now some Western transnational corporations have increased their presence in China's west. Portyakov said that Russia is now involved in power generating projects in China's Hebei, Hubei and Jiangsu provinces. Russia and China have successfully cooperated in some heavy industry and power generating projects, which have laid a sound basis for Russia to join in the greater development of China's west, he said. He announced that Russia is considering providing machinery and other equipment for a project to pipe gas from China's west to the east. Portyakov said that Russia's participation in the development of western China will not only promote economic and trade ties between the two countries, it will also enhance the bilateral relations. Li Jingwen, an economist at the Chinese Academy of Social Sciences, said that the cooperation between China and Russia has solid basis in terms of history, geography and industrial structure. He said much of Russia's experience and technology can be applied to the development of western China, stressing that from a long-term perspective, great potential exists for future cooperation between China and Russia in the region. The borderline between China and Russia and other countries of the Commonwealth of Independent States (CIS) stretches for more than 1,000 km. The Euro-Asian Bridge, an important passage linking the Orient to Central Asia and Europe, runs through China's west. The ancient "Silk Road" and Genghis Khan's westward expedition had immeasurable influence on the course of world history. Both Chinese and Russian authorities hold that the development of western China will benefit the economic development and social stability of China's neighboring countries. In his visit to Russia early this year, Chinese Foreign Minister Tang Jiaxuan informed the Russian side of China's strategy of developing and opening up its western areas and said that China invites Russia to take part in the mammoth program. Kanstandin Remchukov, vice chairman of the natural resources committee of Russian Duma, said that the Russian government has decided to place priority on the development of economic and trade relations with China. He noted that Russia's involvement in China's western development plan will push the two countries' relations to a new level.
+
+Trade between China and Russia jumped 18.1 per cent to US$9.84 billion during the first ten months of 2002, according to Chinese customs. In 2001 bilateral trade exceeded US$10 billion for the first time. Since the Sino-Russian Good-Neighborly Treaty of Friendship and Cooperation was signed in July 2001, economic and trade cooperation between the two countries witnessed rapid development, with robust trading and wider economic cooperation in many fields.
+
+China's President Hu Jintao has held informal talks with his Russian counterpart Vladimir Putin at the Russian leader's Novo-Ogarevo country residence west of Moscow at the start of a week-long visit to Russia in May 2003, his first foreign tour since becoming head of China in March 2003. "This is my first foreign trip since my election as president of China and Russia was my first stop. This shows how much importance we attach to the development of ties with Russia," Hu said. "I think this visit will definitely achieve important results," he added. Putin for his part remarked that Hu was an "experienced politician" who had strong feelings for Russia. "We are very happy to note that an experienced politician who has special feelings for Russia has become the leader of China," Putin said.
+
+Chinese Premier Wen Jiabao will seek more oil from Russia and discuss anti-terrorism cooperation when he travels to Moscow next week, a Foreign Ministry official said on September 17, 2004. Wen is scheduled to meet Russian President Vladimir Putin during his Sept. 23-25, 2004 visit. En route to Moscow, he is to discuss trade and security with Central Asian leaders at a Sept. 21-22, 2004 meeting of the six-nation Shanghai Cooperation Organization in Bishkek, Kyrgyzstan. In China's relations with Russia, "energy cooperation takes an exceptionally important position," Assistant Foreign Minister Li Hui said at news briefing. The two countries have spent more than a decade discussing a planned oil pipeline from Russia to China, but Moscow is still considering the best route, Li said. "So far, we have not heard any confirmation from the Russian side about the route," Li said. He said that in the meantime, China hopes to boost imports of Russian oil by train. China's energy needs are soaring as its economy booms, and shortages have become common. Its crude oil imports from Russia jumped 73 percent last year to 5.25 million tons (36.7 million barrels), according to state media.
+
+20041014-20069999 0.5 
+
+On 14 October, 2004, Chinese Foreign Minister Li Zhaoxing and Russian Foreign Minister Sergey Lavrov signed the "Supplementary Agreement on the Eastern Section of the Boundary Line Between China and Russia". Together with the "Agreement on the Eastern Section of the Boundary Line Between China and the former Soviet Union" and the "Agreement on the Western Section of the Boundary Line Between China and Russia", this agreement marks the complete delimitation of the 4,300 km-long China-Russia boundary line. After many years of negotiations using the relevant border treaties as a basis and acting in accordance with established principles of international law and in the spirit of equal negotiation and mutual understanding and concession, China and Russia signed the "Agreement on the Eastern Section of the Boundary Line Between China and the former Soviet Union" and the "Agreement on the Western Section of the Boundary Line between China and Russia" in 1991 and 1994 respectively, and ascertained the delimitation of 98 per cent of the China-Russia boundary line. Now, both sides have reached agreement on the boundary issue concerning the two areas of the Heixiazi Island in the middle reaches of the Heilongjiang River and the Abagaitu Islet in the upper reaches of the Eerguna River. By engaging in peaceful dialogue, both sides have successfully resolved the complex and sensitive boundary issue between the two countries and removed a major hidden danger in the comprehensive development of China-Russia ties in various fields. Li Zhaoxing said: By solving the China-Russia boundary issue, both sides have enhanced their mutual political trust and enriched the content of China-Russia strategic partnership of cooperation. The move has provided a reliable guarantee for generations after generations of friendship and good-neighborly cooperation between the peoples of the two countries. It has established a successful example for various countries in the world to peacefully settle border disputes through negotiations. From now onward, the China-Russia boundary line will become a link of peace, friendship, cooperation and development between the peoples of the two countries. The experiences of long-term negotiation between China and Russia show that the correct and effective way in solving complex and sensitive inter-state issues is using the principles of fairness, equal consultation, mutual understanding and concession and balance in interests of each side. Russian Foreign Minister Lavrov said: The negotiations and hard work on the Russia-China boundary issue over the past 40 years have finally come to an end today. For the first time in the more than 300 years of history of bilateral relations, both sides have completely delimited the boundary line and reached full consensus on the boundary line issue, making this a breakthrough.
+
+Chinese Assistant Foreign Minister Li Hui said on July 14, 2006, that the activities of the Year of Russia in China have achieved "initial results", adding it has helped deepen the China-Russia strategic partnership of cooperation. Li, also secretary general of the Chinese organizing committee of the "national year" between China and Russia, held online discussions with citizens on the official Year of Russia in China website. So far nearly 80 of the 207 planned activities have been held in China, he said. In the latter part of this year, a series of activities are scheduled to be held in China such as the China-Russia youth forum, students' summer camp, China-Russia investment promotion week and the closing ceremony of Year of Russia in China. "These activities have played an important role in strengthening understanding and friendship between the two peoples, expanding bilateral cooperation and deepening the China-Russia strategic partnership of cooperation," he said. When asked to comment on current China-Russia ties by citizens, Li said relations are in their "best ever period" in history. The two countries have thoroughly settled their border issues, he said. They support each other on major issues concerning national sovereignty and territorial integrity, and keep close contact on international issues such as the UN reform and the nuclear issues of the Democratic People's Republic of Korea and Iran. This year marks the fifth anniversary of the signing of the Good-neighborly Treaty of Friendship and Cooperation between China and Russia. Li said the treaty is a milestone in bilateral ties, and serves as an example of state-to-state relations in the new era. In July 2005, Chinese President Hu Jintao and Russian President Vladimir Putin jointly announced that the Year of Russia would be held in 2006 in China and the Year of China would be held in 2007 in Russia. 
+
+PS-SOURCES: Xinhua June 9, 2000; July 14, 2006; September 27, 2006; The Economist April 26, 1997; Asia Pulse December 2, 2002; Russian Press Digest April 18, 1996; April 25,1996; Associated Press September 17,2004; AFX-Asia May 26, 2003; BBC October 16, 2004. 
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID2710 MID4052 not considered maritime MID 
+
+MARITIME-DISPUTE: MID2710
+ DYAD: RUSSIA/USSR CHINA 365710
+ DATES: 19670810 19670817
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2710 occurred from August 10th to 17th, 1967. It seems to have taken place over a Russian vessel, Svirsk, that was held in custody by Chinese authorities in the port of Dairen (Chinese: Tailen). The captain of the ship was arrested and beaten up by the Chinese Red Guards and several of the crew members were beaten up. The Russian Prime Minister, Kosygin made a formal complain to his Chinese counterpart.
+
+MARITIME-DISPUTE: MID4052
+ DYAD: CHINA RUSSIA/USSR 710365
+ DATES: 19930609 19930612
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4052
+ DYAD: RUSSIA/USSR CHINA 365710
+ DATES: 19930609 19930612
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4052 A large Russian refrigerated trawler was seized by a Chinese Navy vessel in the East China Sea on June 9th, 1993. As part of an anti-smuggling patrol, Chinese naval forces conducted an armed boarding of a Russian trawler. The seizure occurred in international waters and was the only incident in the dispute. The Chinese naval patrol boat opened fire as it approached the Soyuz-4 and 20 sailors boarded the trawler, confining the 39 crew members to the hold, the press service of the Russian Navy said. The Soyuz-4, which belongs to the Kamchatka Ocean Fishing Base and was bound for Singapore from Nakhodka, was taken toward Putuo naval base south of Shanghai, the report said. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Japan Economic Newswire (1994). Russia protests to China over river border incident. Japan Economic Newswire June 16. LexisNexis.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+New York Times (1968a). Chinese Reds Charge Soviet Air Intrusions. New York Times September 17: 10.
+
+New York Times (1968b). Soviet Fortifying Border, Chou Says. New York Times September 30.
+
+Zhang, Xiaoming. (2005) China's 1979 War with Vietnam: A Reassessment. The China Quarterly 184:851-874.

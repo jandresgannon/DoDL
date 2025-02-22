@@ -1,0 +1,333 @@
+﻿FILE: cm220640v11.0.txt
+DYAD: FRANCE - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV575
+DISPUTE(S): MID146 MID367 MID153 
+RIVALRY: RIV576
+DISPUTE(S): MID377 
+RIVALRY: RIV10578
+DISPUTE(S): MID141 MID228 MID56 MID391 MID128 MID257 MID3134 MID327 MID328 MID3185 MID3156 MID3189 MID3190 
+
+PS: 19009999-19390623 0.0 19390624-19440623 .5 
+
+PSNOTES: 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS-LAST-CHANGED: 20220601
+PS-LAST-CHECKED: 20220601
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID146 MID367 MID153 MID377 MID141 MID228 MID56 MID391 
+
+WWI MIDs: MID257
+
+MID128 
+
+TERRMID: MID128 3 -- not territory 
+TERRMID-CER: MID128 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID128 3 -- not third party link to territory 
+TERRLINK-CER: MID128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID128 3 -- not maritime 
+MARITMID-CER: MID128 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID128 3 -- not islands 
+ISLMID-CER: MID128 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID128 1 -- civil war MID
+CIVWARMID-CER: MID128 1 -- certain 
+CIVWARMID-NOTES: MID128 from Gibler (2018), Macedonia was officially under Ottoman control but had descended into lawlessness and anarchy. From Gibas-Krzak (2013), this included a revolutionary movement made up of militarized rebels. Several countries, including UK, Russia, and Austria-Hungary, proposed intervening to restore order by implementing several reforms, including direct military intervention. The Ottomans resisted this and kept its troops in Macedonia, while the UK further instigated the turmoil, issued threats to intervene, and several countries including France) deployed ships to the waters close to Macedonia, triggering this MID between Turkey and UK, France, Austria-Hungary, Italy, and Russia. Coded civil war MID because the militarized rebels in Macedonia, which was under Ottoman control (within this dyad), were connected to the events of this MID. 
+
+CIVWARLINK: MID128 3 -- not civil war link 
+CIVWARLINK-CER: MID128 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID128 3 -- not coup 
+COUPMID-CER: MID128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID128 3 -- not coup link
+COUPLINK-CER: MID128 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3134 
+
+TERRMID: MID3134 1 -- territorial MID
+TERRMID-CER: MID3134 1 -- certain 
+TERRMID-NOTES: MID3134 from Gibler (2018), this is the Franco-Turkish War which was centered on control of Cicilia. Turkey did not recognize French sovereignty over Cicilia and attacked France in 1920. Coded territorial MID because this was centered on the disputed territory of Cicilia. 
+
+TERRLINK: MID3134 3 -- not third party link to territory 
+TERRLINK-CER: MID3134 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3134 3 -- not maritime 
+MARITMID-CER: MID3134 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3134 3 -- not islands 
+ISLMID-CER: MID3134 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3134 3 -- not civil war 
+CIVWARMID-CER: MID3134 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3134 3 -- not civil war link 
+CIVWARLINK-CER: MID3134 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3134 3 -- not coup 
+COUPMID-CER: MID3134 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3134 3 -- not coup link
+COUPLINK-CER: MID3134 1 -- certain 
+COUPLINK-NOTES: 
+
+MID327 
+
+TERRMID: MID327 3 -- not territory 
+TERRMID-CER: MID327 1 -- certain 
+TERRMID-NOTES: MID327 from Gibler (2018), in 1920, Turkey had recently achieved independence after WWI, and Mustafa Kemal and his followers were able to gain a majority in Parliament. However, The UK, France, and Italy did not want Kemal to be Turkey's leader, and they subsequently invaded Constantinople in 1920 to install a puppet government. Coded not territory because no territory was disputed between the involved parties, and this was a regime leadership issue. 
+
+TERRLINK: MID327 3 -- not third party link to territory 
+TERRLINK-CER: MID327 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID327 3 -- not maritime 
+MARITMID-CER: MID327 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID327 3 -- not islands 
+ISLMID-CER: MID327 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID327 3 -- not civil war 
+CIVWARMID-CER: MID327 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID327 3 -- not civil war link 
+CIVWARLINK-CER: MID327 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID327 3 -- not coup 
+COUPMID-CER: MID327 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID327 3 -- not coup link
+COUPLINK-CER: MID327 1 -- certain 
+COUPLINK-NOTES: 
+
+MID328 
+
+TERRMID: MID328 3 -- not territory 
+TERRMID-CER: MID328 1 -- certain 
+TERRMID-NOTES: MID328 UK had control of Mosul after WWI, while Turkey claimed sovereignty over it. This constitutes a territorial dispute, but Mosul was unconnected to the events of this MID.
+
+TERRLINK: MID328 3 -- not third party link to territory 
+TERRLINK-CER: MID328 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID328 3 -- not maritime 
+MARITMID-CER: MID328 1 -- certain 
+MARITMID-NOTES: MID328 from (Gibler 2018), the UK had assumed that the newly independent Turkish government would consider the straits within Turkey's territorial waters to be neutral territory. In 1921, Italy was still occupying Adalia (in Turkey) and France was still occupying Cilicia (in Turkey), but they abandoned these claims and began supplying arms to Turkey in 1921-1922. As Turkey's power grew, the UK no longer believed that Turkey would grant UK access to the straits in times of war. In 1922, the UK landed forces at Chanakkale (in the straits) to coerce the Turkish goverment to agree to consider them neutral territory. France and Italy supported UK's invasion and helped broker an armistice that provided for open access to the straits, pulling France and Italy into this MID with UK and against Turkey. Coded not maritime MID because although France is linked to this dispute, which is somewhat connected to a maritime issue between UK and Turkey, there is no maritime dispute between France and Turkey. See MID328 in UK-Turkey dyad; coded somewhat connected to maritime MID between UK and Turkey. 
+
+ISLMID: MID328 3 -- not islands 
+ISLMID-CER: MID328 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID328 3 -- not civil war 
+CIVWARMID-CER: MID328 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID328 3 -- not civil war link 
+CIVWARLINK-CER: MID328 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID328 3 -- not coup 
+COUPMID-CER: MID328 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID328 3 -- not coup link
+COUPLINK-CER: MID328 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3185 
+
+TERRMID: MID3185 3 -- not territory
+TERRMID-CER: MID3185 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3185 1 -- third party link to territorial MID
+TERRLINK-CER: MID3185 1 -- certain 
+TERRLINK-NOTES: MID3185 from Gibler (2018), UK had control of the territory of Mosul while Turkey claimed sovereignty over it. In 1924, they referred the territorial dispute to the League of Nations. The LoN recommended that Mosul remain with Mesopotamia, which UK controlled at the time. Turkey rejected the decision, and war nearly erupted when UK and Turkish troops amassed on opposite sides of the border. Conflict did not occur. France is pulled in because Turkey also moved troops to the border with French-occupied Syria, as France had financial interests in Mosul and were resisting Turkey's claim. Coded territorial link because this MID was triggered by a territorial dispute between UK and Turkey. 
+
+MARITMID: MID3185 3 -- not maritime 
+MARITMID-CER: MID3185 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3185 3 -- not islands 
+ISLMID-CER: MID3185 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3185 3 -- not civil war 
+CIVWARMID-CER: MID3185 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3185 3 -- not civil war link 
+CIVWARLINK-CER: MID3185 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3185 3 -- not coup 
+COUPMID-CER: MID3185 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3185 3 -- not coup link
+COUPLINK-CER: MID3185 1 -- certain 
+COUPLINK-NOTES:
+
+MID3156 
+
+TERRMID: MID3156 3 -- not territory 
+TERRMID-CER: MID3156 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3156 3 -- not third party link to territory 
+TERRLINK-CER: MID3156 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3156 3 -- not maritime 
+MARITMID-CER: MID3156 1 -- certain 
+MARITMID-NOTES: MID3156 from Gibler (2018), France had been given permission to enter Turlish waters, but strayed from the agreed-upon route and received warning shots from Turkish vessels. Coded not maritime because no border was being disputed. 
+
+ISLMID: MID3156 3 -- not islands 
+ISLMID-CER: MID3156 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3156 3 -- not civil war 
+CIVWARMID-CER: MID3156 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3156 3 -- not civil war link 
+CIVWARLINK-CER: MID3156 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3156 3 -- not coup 
+COUPMID-CER: MID3156 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3156 3 -- not coup link
+COUPLINK-CER: MID3156 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3189 
+
+TERRMID: MID3189 1 -- territorial MID
+TERRMID-CER: MID3189 1 -- certain 
+TERRMID-NOTES: MID3189 from Gibler (2018), France and Turkey were disputing the territory of Sanjak. France claimed it was part of French-controlled Syria. France and Turkey deployed troops to the border of the disputed area in 1937-1938. Coded territorial MID because this was centered on disputed territory. 
+
+TERRLINK: MID3189 3 -- not third party link to territory 
+TERRLINK-CER: MID3189 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3189 3 -- not maritime 
+MARITMID-CER: MID3189 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3189 3 -- not islands 
+ISLMID-CER: MID3189 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3189 3 -- not civil war 
+CIVWARMID-CER: MID3189 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3189 3 -- not civil war link 
+CIVWARLINK-CER: MID3189 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3189 3 -- not coup 
+COUPMID-CER: MID3189 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3189 3 -- not coup link
+COUPLINK-CER: MID3189 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3190 
+
+TERRMID: MID3190 1 -- territorial MID
+TERRMID-CER: MID3190 1 -- certain 
+TERRMID-NOTES: MID3190 from Gibler (2018), France and Turkey were disputing the territory of Sanjak. Turkey demanded France allow Turkey to have a role in the military control of Sanjak and moved troops to the border. The situation was de-escalated before any conflict occurred, and negotiations eventually led to Turkey dropping its claim in exchange for other concessions from France. Coded territorial MID because this was centered on the disputed territory of Sanjak. 
+
+TERRLINK: MID3190 3 -- not third party link to territory 
+TERRLINK-CER: MID3190 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3190 3 -- not maritime 
+MARITMID-CER: MID3190 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3190 3 -- not islands 
+ISLMID-CER: MID3190 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3190 3 -- not civil war 
+CIVWARMID-CER: MID3190 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3190 3 -- not civil war link 
+CIVWARLINK-CER: MID3190 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3190 3 -- not coup 
+COUPMID-CER: MID3190 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3190 3 -- not coup link
+COUPLINK-CER: MID3190 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10578 was originally coded as two separate rivalries (RIV577 and RIV578), but the temporal proximity of the disputes (<16 years) are the related issues led the rivalries to be considered one. Bennett makes a similar determination.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+
+NARRATIVE-CM:
+France and Turkey signed the *Convention of Friendship and Good Neighborly Relations* in Angora on March 30, 1926, which provided for the establishment of a border commission (Denmark, France, Turkey) to delimit the border between French Syria and Turkey. The French vessel *Lotus* collided with a Turkish vessel near Mitylene on August 2, 1926, resulting in the death of a Turkish individual. Turkish police arrested Lt. Desmons from the French vessel, and charged him with manslaughter. France protested the arrest, and Lt. Desmons was released on bail on September 13, 1926 (Lt. Desmons was sentenced to 80 days imprisonment on September 15, 1926). France argued that the Turkish proceedings against Lt. Desmons was in violation of international law. France and Turkey agreed on October 12, 1926 to submit the dispute to the *Permanent Court of International Justice* (PCIJ) on October 12, 1926. The PCIJ issued a decision in favor of Turkey on September 7, 1927. Turkey disputed a decision in favor of France regarding the French Syria-Turkey border, which had been made by the border commission on January 10, 1928. France and Turkey signed a border demarcation agreement on June 22, 1929, which established a border commission to demarcate the border. Turkey claimed the Sanjak of Alexandretta (Hatay province) in the French mandate of Syria. Turkey referred the matter to the secretary-general of the *League of Nations* (LON) on December 8, 1936. The LON Council discussed the dispute on December 14-16, 1936. The LON Council appointed three neutral observers (Netherlands, Norway, Switzerland) on December 22, 1936, which were sent to the Sanjak of Alexandretta in January 1937. The neutral observers returned to Geneva on March 8, 1937. The LON Council approved a resolution on May 29, 1937, which provided for internal autonomy of the Sanjak of Alexandretta within Syria. Elections for a legislation assembly for the Sanjak of Alexandretta were scheduled for 1938. The LON Council established a commission (Belgium, Netherlands, Norway, Switzerland, United States) chaired by T. Reid of the US on October 4, 1937 to organize and supervise the elections. The LON commission issued a report to the LON Council on December 10, 1937. Chairman Reid of the LON commission resigned in protest on March 19, 1938, and he was replaced by A. P. Nichol of Britain. The LON commission began the registration process on May 3, 1938. Turks and Arabs clashed in Antioch on May 30, 1938, resulting in the death of one Arab. France declared martial law in the Sanjak of Alexandretta on June 3, 1938. The LON commission withdrew from the Sanjak of Alexandretta on June 26, 1938. France and Turkey signed an agreement on July 3, 1938, which provided for the deployment of Turkish troops in the territory. France withdrew its troops from the Sanjak of Alexandretta in July 22, 1939, and formally ceded the territory to Turkey on July 23, 1939. Syria protested the cessation of the Sanjak of Alexandretta to Turkey.
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1926, 528-529, 1927, 570, 1928, 332-337, 1930, 314-316, 1936, 767-783, 1937 (vol. 1), 625, 1938 (vol. 1), 479-492.
+
+NARRATIVE-CR:
+On October 20th, 1827 British, French and Russian forces engaged and defeated a Turkish fleet in the Bay of Navarino (MID146). Greece had requested aid from the Western Powers to assist in Turkish repression in the Peloponnese. The Western Powers were obligated to response because of terms stated in armistice of London between Turkey and Greece. The Turkish fleet was completely destroyed and relations between Russia and Turkey began to escalate beginning with this incident (Davis 1998). The second dispute MID367 came about as the result of Mehmet Ali Pasha leading Turkish forces in Morea and Crete. Britain and France signed a protocol in order to drive Turkish forces from the Greek holdings. In August of 1828 Ali surrendered and France deployed forces and occupied Morea (www.turk-yunan.gen.tr). Following the Russian-Turkish war Greece was granted its independence in September of 1829 with the treaty of Edine and the initial question of the fight for Greek independence can be considered concluded.
+
+The third dispute of this first rivalry involved Allied support of Mohammed Ali against the Ottoman Sultan regarding a dispute over territorial claims between the two powers (MID153). Under pressure from Britain and France Turkey agreed to sign the Kutahya Peace Treaty in May of 1833, which awarded the disputed land to Ali (Clodfelter 1992). The third dispute can be considered separate from the first two and is similar to later disputes between Turkey and France over borders with Iraq and control over Syria. 
+
+The second rivalry (MID377) between France and Turkey in the 19th century is unrelated to any of the other disputes and emerged out of both the Sultan of Turkey and the governments of France and Russia laying claim to the Holy Sepulchre in Jerusalem. The sultan ruled that the status quo was sufficient and no change in ownership would occur and that order has stood since 1852 (www.njegos.org 2003). 
+
+In April of 1876 Bulgarian citizens within the Ottoman Empire planned a revolt which occurred but suffered from poor planning and the Ottoman Empire responded by locating and destroying many local groups of revolutionaries before unified action was possible (Bartleby). During an international conference in Constantinople Britain and France pressured Turkey to find a solution to the problem without engaging in any more military operations (Bartleby). When the Sultan rejected the allied demands Russia used the issue as an opportunity to declare war and seized the Balkan region from Ottoman control, giving Bulgaria its independence, effectively ending the issue over Bulgarians in particular. The issue was addressed in the Treaty of Berlin (MID141) in 1881. Growing antagonism between Turkey and Greece prompted British and French intervention. In 1881 the Western Powers granted Thessaly and Arta to Greece in response to the discontent of the Treaty of Berlin, which served mainly to benefit the Ottoman Empire (MID141). Thessaly and Arta were given to Greece while the rest of the territories were returned to Turkey (Stavrianos 2000). The subsequent disputes came about as a result of Turkish claims on territories held by Greece and clashes between the Ottoman Empire and French colonial holdings. 
+
+MID228 occurred in 1881 over Turkey challenged French ownership of Tunisia. Turkey conceded Tunisia to France, which became a protectorate thereafter. Also in 1881 Greek forces invaded Crete but were turned away by Turkish forces. Conflict would continue until Greece sought a peace treaty in 1897 and the Peace of Istanbul was signed. Crete was granted to Turkey under the agreement but France and Britain demanded that Crete be given autonomy (MID56). The Allied Powers again intervened in 1897 (MID56) and demanded Turkish withdrawal from Crete (MID391). The Ottoman Empire/Turkey had claimed rights over Crete insisting that the island was Muslim and not Christian and therefore not rightly the property of Greece (Danopoulos 1997). The Peace for Greece granting Turkey some land in Thessaly and a yearly tribute. Another dispute regarding territorial claims between Greece and Turkey in the region of Macedonia led to conflict in 1905 (MID128). Ultimately, these disputes would lead to the First Balkan War. Following the First Balkan War (MID1250), Crete was awarded to Greece in the Treaty of London in 1913 (Stavrianos 2000). The Allied support of Turkey in the issue of Crete and Macedonia ended with the entrance of Turkey into WWI on the side of Germany (Praeger 1966). 
+
+MID257 (WWI), MID3134, MID327 and MID328 (Allied Occupation of Istanbul) are related to the surrender and settlement between Turkey and the Allied Powers. Following WWI the Ottoman Empire was divided up and most of its territory lost. France occupied Cilicia at the end of the war which it did not return to Turkey until the establishment of a republic in 1923 (MID3134). In August of 1920 Allied Powers imposed the Treaty of Sevres on the defeated Turks. The treaty yielded the formally Turkish Dardenelle Straits to international control and divided up the Anatolia region into Greek Italian, French, Armenian and Kurdish zones. However, because of a nationalist revolution led by Kemal Ataturk the treaty of Sevres was never implemented. Following the nationalist occupation (MID328) the Lausanne Treaty was negotiated which specified all of Turkey's boundaries except one, the disputed border in the Mosul area. In 1922 nationalist powers came to the leadership of the government, which tried to extend Turkey's borders beyond those granted in the armistice. In response the Allied powers occupied Constantinople (MID327 and MID328), arrested deputies adn began military opposition to the nationalist forces. Civil war erupted and the Sultan was placed back in control until the establishment of a republic in 1923(www.onwar.com 2003). 
+
+MID3185 was primarily an issue between Britain and Turkey in which France sided with Britain. Britain claimed that all of the territory claimed by Turkey in fact belonged to Iraq. Both Turks and the British threatened armed confrontation and sent occupying forces to the region in 1925(MID3185). A treaty was eventually signed in July of 1926 that gave the region to Iraq and effectively ended the dispute until resent interest in the region by Turkey following the second Gulf War (see Evans 1982; Zhvkova 1976). MID3156, MID3189 and MID3190 all came about as the result of a dispute between France and Turkey over the Smyrna region. France sides with Syria in a dispute with Turkey in 1937, which ended with a decision to allow the people in the region to choose between France and Turkey (Howard 2001). Turkey won, and the region became a protectorate of Turkey until 1939 when it was incorporated into the Republic of Hatay. France and Turkey ended the dispute with a non-aggression pact.
+
+SOURCES-CR: 
+Clodfelter 1992; Evans 1982; Howard 2001; Praeger 1966; Stavrianos 2000; Zhvkova 1976
+
+SB-CR:
+France / Ottoman Empire-Turkey Years: 1880-1939 Issues at stake: French control of / influence in the Near East and North Africa; in particular conflicts developed over the Turkish-Syrian border and access to the Straits of Constantinople. End Date: 1939 treaty resolving territorial issues over Syria. Number of militarized disputes: 9. Number of 30 day reciprocated militarized disputes: 6. Last militarized dispute: 1923. Wars: 1914-1918. Summary: As the Ottoman Empire declined, both France and Britain sought to expand their colonies and influence in the Mediterranean region. Isolated conflictual incidents occured in the early 1800s, but became more frequent after the 1881 French occupation of Tunisia. France, Britain, Russia, and Italy all became involved to varying degrees in the Greco-Turkish rivalry: Crete was occupied by France and Britain in 1897 to prevent further Greco-Turkish conflict there; the Turks were ordered to evacuate Crete in 1898; and the Turks were confronted over the Macedonian region in 1905. Ottoman support for Germany in World War I further antagonized the allies, and Britain, France, and Italy supported Greece in its war against Turkey, occupying Constantinople following WWI. The allies did not leave Constantinople until 1923. While the 1923 Treaty of Lausanne set European borders between Greece and Turkey, and the related Straits Convention resolved questions of access to the Straits of Constantinople, conflict followed in 1925 in a dispute over the Turkish border with Iraq, a French region of control. In 1937 there was conflict over access to the Gulf of Smyrna, and in 1937 conflict developed over the Turkish-Syrian border. In 1937 Turkey denounced its treaty of friendship with Syria, and France threatened military involvement. Conflict in 1938 was resolved through a French-Turkish agreement to have elections in the disputed region. Turkey won the election and created the Republic of Hatay (also known as Alexandretta) as an autonomous state under the control of Turkey). By 1939 France had become willing to abandon Hatay, and in June 1939 agreed to the incorporation of the republic of Hatay into Turkey. In that same year, France and Turkey signed a non-aggression treaty. The French withdrawal of claims about the border region and the treaty signaled the end of the territorial dispute. Note: the conflicts discussed in Langer (1972) in 1925 and 1937 are not listed in the COW militarized dispute data set. However, there were military threats and interventions after 1920, clearly including the occupation of Constantinople through 1923, and mutual military threats in 1937 over the Syrian border. Sources: Langer (1972).
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibas-Krzak, Danuta. 2013. "Contemporary Terrorism in the Balkans: A Real Threat to Security in Europe." The Journal of Slavic Military Studies 26(2): 203-218. 

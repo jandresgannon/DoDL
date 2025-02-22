@@ -1,0 +1,428 @@
+FILE: cm002135v11.0.txt
+DYAD: USA-PERU
+RIVALRY: RIV34
+DISPUTE(S): MID1755 MID2322 
+RIVALRY: RIV35
+DISPUTE(S): MID3243 MID3244 MID350 MID601 MID2967
+RIVALRY: RIV10035
+DISPUTE(S): MID3550
+
+RIVNOTES:
+MID3550 is removed from RIV35 because it is not concerned with the same issue, fishing rights, as the other MIDs. This change was made after the release of riv5.10 dataset and so is not reflected in that dataset. As such we have a new isolated rivalry RIV10035.
+
+PS: 19009999-19520824 0.5 19520825-20001112 0.25 20001113-20209999 0.5
+
+PS-UPDATE2020: 
+
+PS-NOTES:
+LAST-CHANGED: 20220207
+LAST-CHECKED: 20220207
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1755 
+
+TERRMID: MID1755 3 -- not territory 
+TERRMID-CER: MID1755 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1755 3 -- not third party link to territory 
+TERRLINK-CER: MID1755 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1755 3 -- not maritime 
+MARITMID-CER: MID1755 1 -- certain 
+MARITMID-NOTES: MID1755 from cm narrative, Peru charged the US with illegally fishing 3 miles off the coast of Peru under the cover of night. Peru officially protested. Coded not maritime because the waters were not disputed and the fishing did not represent the US advancing a maritime claim.
+
+ISLMID: MID1755 3 -- not islands 
+ISLMID-CER: MID1755 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1755 3 -- not civil war 
+CIVWARMID-CER: MID1755 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1755 3 -- not civil war link 
+CIVWARLINK-CER: MID1755 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1755 3 -- not coup 
+COUPMID-CER: MID1755 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1755 3 -- not coup link
+COUPLINK-CER: MID1755 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2322 
+
+TERRMID: MID2322 3 -- not territory 
+TERRMID-CER: MID2322 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2322 3 -- not third party link to territory 
+TERRLINK-CER: MID2322 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2322 3 -- not maritime 
+MARITMID-CER: MID2322 1 -- certain 
+MARITMID-NOTES: MID2322 from cm narrative, Peru officially protested that US vessels were violating their territorial waters and engaging in "piracy against [Peru's] fishing wealth." Also, a US vessel as accused of ramming a Peruvian fishing boat. Coded not maritime because while the US later disputed that waters 12-200 miles from Peru's coast were not under Peru's sovereignty, this MID occurred in Peru's territorial waters (less than 12 miles from the coast) which were not disputed by the US. The US was not advancing a maritime claim. 
+
+ISLMID: MID2322 3 -- not islands 
+ISLMID-CER: MID2322 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2322 3 -- not civil war 
+CIVWARMID-CER: MID2322 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2322 3 -- not civil war link 
+CIVWARLINK-CER: MID2322 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2322 3 -- not coup 
+COUPMID-CER: MID2322 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2322 3 -- not coup link
+COUPLINK-CER: MID2322 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3243 
+
+TERRMID: MID3243 3 -- not territory 
+TERRMID-CER: MID3243 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3243 3 -- not third party link to territory 
+TERRLINK-CER: MID3243 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3243 3 -- not maritime
+MARITMID-CER: MID3243 1 -- certain 
+MARITMID-NOTES: MID3243 from cm narrative, Peru seized US shipping vessels who were passing through its territorial waters. Territorial waters extend 12 miles out from a country's coast, and although the US and Peru had later disputes that were triggered by disagreement over Peru's EEZ, the US did not dispute that Peru's territorial waters included the area in which the ship was seized. Coded not maritime because the waters were not disputed and the MID was not an advance of a maritime claim. 
+
+ISLMID: MID3243 3 -- not islands 
+ISLMID-CER: MID3243 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3243 3 -- not civil war 
+CIVWARMID-CER: MID3243 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3243 3 -- not civil war link 
+CIVWARLINK-CER: MID3243 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3243 3 -- not coup 
+COUPMID-CER: MID3243 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3243 3 -- not coup link
+COUPLINK-CER: MID3243 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3244 
+
+TERRMID: MID3244 3 -- not territory 
+TERRMID-CER: MID3244 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3244 3 -- not third party link to territory 
+TERRLINK-CER: MID3244 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3244 1 -- maritime MID
+MARITMID-CER: MID3244 1 -- certain 
+MARITMID-NOTES: MID3244 from cm narrative, this is one of several MIDs from 1962-1979 that were triggered by Peru seizing US fishing vessels and that result from US and Peru disagreeing over what waters Peru had sovereignty over. In the waters in which the fishing vessels in the MID are seized, Peru claimed sovereignty over them while the US claimed that they were international waters. In 1982, the United Nations Convention on the Law of the Sea established a 200 mile EEZ for countries. Coded maritime MID because the US and Peru disputed whether Peru had sovereignty over the waters, and the seizure was a direct result of this disagreement. 
+
+ISLMID: MID3244 3 -- not islands 
+ISLMID-CER: MID3244 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3244 3 -- not civil war 
+CIVWARMID-CER: MID3244 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3244 3 -- not civil war link 
+CIVWARLINK-CER: MID3244 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3244 3 -- not coup 
+COUPMID-CER: MID3244 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3244 3 -- not coup link
+COUPLINK-CER: MID3244 1 -- certain 
+COUPLINK-NOTES: 
+
+MID350 
+
+TERRMID: MID350 3 -- not territory 
+TERRMID-CER: MID350 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID350 3 -- not third party link to territory 
+TERRLINK-CER: MID350 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID350 1 -- maritime MID
+MARITMID-CER: MID350 1 -- certain 
+MARITMID-NOTES: MID350 from cm narrative, this is one of several MIDs from 1962-1979 that were triggered by Peru seizing US fishing vessels and that result from US and Peru disagreeing over what waters Peru had sovereignty over. In the waters in which the fishing vessels in the MID are seized, Peru claimed sovereignty over them while the US claimed that they were international waters. In 1982, the United Nations Convention on the Law of the Sea established a 200 mile EEZ for countries. Coded maritime MID because the US and Peru disputed whether Peru had sovereignty over the waters, and the seizure was a direct result of this disagreement. 
+
+ISLMID: MID350 3 -- not islands 
+ISLMID-CER: MID350 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID350 3 -- not civil war 
+CIVWARMID-CER: MID350 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID350 3 -- not civil war link 
+CIVWARLINK-CER: MID350 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID350 3 -- not coup 
+COUPMID-CER: MID350 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID350 3 -- not coup link
+COUPLINK-CER: MID350 1 -- certain 
+COUPLINK-NOTES: 
+
+MID601 
+
+TERRMID: MID601 3 -- not territory 
+TERRMID-CER: MID601 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID601 3 -- not third party link to territory 
+TERRLINK-CER: MID601 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID601 1 -- maritime MID
+MARITMID-CER: MID601 1 -- certain 
+MARITMID-NOTES: MID601 from cm narrative, this is one of several MIDs from 1962-1979 that were triggered by Peru seizing US fishing vessels and that result from US and Peru disagreeing over what waters Peru had sovereignty over. In the waters in which the fishing vessels in the MID are seized, Peru claimed sovereignty over them while the US claimed that they were international waters. In 1982, the United Nations Convention on the Law of the Sea established a 200 mile EEZ for countries. Coded maritime MID because the US and Peru disputed whether Peru had sovereignty over the waters, and the seizure was a direct result of this disagreement. 
+
+ISLMID: MID601 3 -- not islands 
+ISLMID-CER: MID601 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID601 3 -- not civil war 
+CIVWARMID-CER: MID601 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID601 3 -- not civil war link 
+CIVWARLINK-CER: MID601 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID601 3 -- not coup 
+COUPMID-CER: MID601 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID601 3 -- not coup link
+COUPLINK-CER: MID601 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2967 
+
+TERRMID: MID2967 3 -- not territory 
+TERRMID-CER: MID2967 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2967 3 -- not third party link to territory 
+TERRLINK-CER: MID2967 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2967 1 -- maritime MID
+MARITMID-CER: MID2967 1 -- certain 
+MARITMID-NOTES: MID2967 from cm narrative, this is one of several MIDs from 1962-1979 that were triggered by Peru seizing US fishing vessels and that result from US and Peru disagreeing over what waters Peru had sovereignty over. In the waters in which the fishing vessels in the MID are seized, Peru claimed sovereignty over them while the US claimed that they were international waters. In 1982, the United Nations Convention on the Law of the Sea established a 200 mile EEZ for countries. Coded maritime MID because the US and Peru disputed whether Peru had sovereignty over the waters, and the seizure was a direct result of this disagreement. 
+
+ISLMID: MID2967 3 -- not islands 
+ISLMID-CER: MID2967 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2967 3 -- not civil war 
+CIVWARMID-CER: MID2967 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2967 3 -- not civil war link 
+CIVWARLINK-CER: MID2967 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2967 3 -- not coup 
+COUPMID-CER: MID2967 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2967 3 -- not coup link
+COUPLINK-CER: MID2967 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3550 
+
+TERRMID: MID3550 3 -- not territory 
+TERRMID-CER: MID3550 1 -- certain 
+TERRMID-NOTES: MID3550 from cm narrative, the Peruvian government shot down an American intel aircraft that Peru claimed it could not identify. The plane had allegedly strayed far off its flight course and entered Peruvian airspace. Coded not territorial because no territorial dispute was present and Peru claimed no aggression. 
+
+TERRLINK: MID3550 3 -- not third party link to territory 
+TERRLINK-CER: MID3550 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3550 3 -- not maritime 
+MARITMID-CER: MID3550 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3550 3 -- not islands 
+ISLMID-CER: MID3550 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3550 3 -- not civil war 
+CIVWARMID-CER: MID3550 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3550 3 -- not civil war link 
+CIVWARLINK-CER: MID3550 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3550 3 -- not coup 
+COUPMID-CER: MID3550 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3550 3 -- not coup link
+COUPLINK-CER: MID3550 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+The United States suspended diplomatic relations with the military government of General Ricardo Perez Godoy on July 19, 1962. The US imposed military sanctions (suspension of military assistance) and economic sanctions (suspension of economic sanctions) against Peru on July 20, 1962. The US lifted the suspension of diplomatic relations with Peru on August 17, 1962. The US imposed economic sanctions (suspension of development assistance) against Peru on April 15, 1968 after Peru ordered military aircraft from France. Peruvian naval ships fired on two US fishing vessels near the Peruvian coast on February 14, 1969. The US imposed military sanctions (suspension of weapons sales) against Peru in February 1969. Argentina offered to facilitate negotiations between the parties on February 21, 1969. The countries agreed to hold negotiations on March 10, 1969. Peruvian naval ships seized two US fishing vessels near the Peruvian coast on March 19, 1969. Peru expelled the US military mission from the country on May 23, 1969. The US lifted military sanctions against Peru on July 3, 1969. Peruvian naval ships seized a US fishing vessel near the Peruvian coast in January 1973. Peruvian fighters shot down US C-130 plane gathering intelligence on drug trafficking in April 1992, killing one US crew member.
+
+SOURCES-CM: 
+Facts on File, February 13-19, 1969, March 13-19, 1969; Jessup, 1998, 581-584; Keesing, August 29-September 5, 1970.
+
+NARRATIVE-CR:
+
+The rivalry up until 1979, involved mainly US fishing vessels near the Peruvian coast and Peru's subsequent seizure of these vessels, beginning on January 28, 1955 with MID3243. On January 29, 1955, Harold Tittman, the U.S. Ambassador to Peru protested the detention of two U.S. ships by Peruvian authorities and their fine of $5,000 for shipping in Peru's territorial waters. MID3244 occurred from October 29 to November 1, 1962. MID350 occurred from February 14 to May 17, 1969. MID601 occurred on January 20, 1972 while MID2967 occurred on November 14, 1979. These are all fishing disputes. With the last seizure occurring in 1979, MID2967, it is uncertain as to whether the Law of the Sea Convention in 1982 was responsible for the termination of these incidents. The 1982 Convention set forth an exclusive economic zone for coastal countries of 200 miles which it seems the US abided by with regard to Peru after this period. Another possibility for the lack of further incidents could be due to the relations between the two countries in general. These seizures coincided with changes in the Peruvian government that resulted in the expropriation of US holdings in the country, prompting strong protests from the US.
+
+In 1974 the Peruvian government agreed to pay $76 million to US businesses whose holdings had been expropriated by the government. A 1974 New York Times survey suggested that Alvarado government lacked popular support and opposition. President Alvarado expels CIA agents and a US embassy official in addition to requesting that the US remove 137 Peace Corps members due to allegations of connections to US intelligence agencies and or political activities, on November 14, 1974. On February 5, 1975, Peruvian troops assaulted a police garrison in order to quell a strike that began at the end of December 1974. Constitutional guarantees were also suspended. Rioting and looting broke out in response to these assaults and lasted until February 7, 1975. During this month, the US suspended military assistance to Peru. Peruvian ambassador to the US, Vice Admiral Jose Acrc-Larco, implied that with the assistance of the Soviet Union, Peru was engaged in an arms race with Chile on April 15, 1975. On August 29, 1975, President Alvarado was ousted in a bloodless coup conducted by General Francisco Morales Bermudez. Civilians were appointed to cabinet for the first time since the 1968 coup, beginning with the appointment of Luis Barua Castenada as Economic and Finance Minister on September 3, 1975. In addition to this appointment, several changes in leadership positions were made entailing those of Army chief of staff, Industry Minister, Interior Minister, and Premier. A September 21, 1975 New York Times article suggested that the US quietly approved of the change of government. In February 1976, General Jorge Fernandez Maldonado was sworn in as the new Peruvian Prime Minister. On February 19, 1976, US Secretary of State Henry Kissinger spoke in Peru as part of Latin American tour. Also in 1976, Kissinger warned Peru that the US legislature might endorse an economic blockade against Peru if there was not an acceptable settlement reached with respect to Peruvian nationalization of the copper industry. The Bermudez regime declared a state of emergency on July 2, 1976 after protests against tax increases and public transportation rate hikes. On July 17, 1976 General Maldonado, Peruvian Prime Minister and Minister of War resigned amid differences of opinion with President Bermudez. In August, Peru began to substantially reduce its involvement in the Non-Aligned movement. Peru accepted an offer to purchase fighter-bomber aircraft from the USSR after failed attempts to purchase US aircraft on October 13, 1976. US private banks agreed to loan Peru $200 million in order to avoid defaults in foreign loan payments during October, 1976.
+
+The United States plans to grant Peru $20 million to fight the illicit cocaine trade, the United States Ambassador, Edwin Corr, has announced. He said the grant was part of an antinarcotics agreement to be signed by the two Governments in September 1981.
+
+Gunmen dressed like policemen sprayed the United States Embassy in downtown Lima with automatic weapons fire on September 29, 1984, shattering windows but causing no injuries, the authorities said.A United States Embassy official described the damage as limited. United States-Peruvian relations have nonetheless been crowded with frictions over the second half of 1985, starting with President Garcia's frequent references to American ''imperialism'' in his inaugural address July 28 and followed, just days later, by the suspension of new United States military aid to Peru.United States diplomats said that, under the Brooke-Alexander Amendment to the Foreign Assistance Act, Washington was required to order the suspension when payments on outstanding military assistance credits fell more than a year in arrears, but the move was immediately interpreted here as a United States reprisal.Since then, under a clause of the same act, known as 620Q, all new United States economic aid has also been suspended because servicing of existing ''soft loans'' is more than six months behind schedule. In both cases, while Peru has accused Washington of using ''legal gunboats,'' United States officials insist that payment of just $5 million would enable new loans to be negotiated.
+
+The United States temporarily suspended its cocaine eradication program in Peru in November 1984 after gunmen burst into a jungle campsite,The death toll of Peruvians working on the project rose from 2 to 19.At the same time, unconfirmed accounts suggested that the attack might have been carried out by members of Shining Path, the Maoist guerrilla movement. First police reports identified the attackers as narcotics terrorists. Government officials have said the guerrillas, active in the area since midsummer, were linked to narcotics traffickers.A spokesman for the State Department's Narcotics Assistance Unit said the program, begun in 1978, was halted temporarily ''until we get a clearer picture'' of the attack.He said the United States was spending $4.2 million this year to hire Peruvian workers to destroy coca plants. The paste of coca leaves is used in the manufacture of cocaine. The project also tries to replace the coca crops with legal but less lucrative crops such as soybeans and corn.
+
+Distrust between the two Governments arose again early in October 1985 when Secretary of State George P. Shultz personally protested against the ''anti-American'' language used by President Garcia in an address to the United Nations General Assembly. Peruvian officials said the two men smoothed over their differences after a ''very frank exchange'' in New York. In August 1988, Garcia told a small group of U.S. reporters who accompanied him to the central jungle region that he is prepared to travel to the United States to push for more vigorous efforts against Peru's cocaine industry.''Enough talking. Let's get into action now,'' he said. ''It is necessary to put more resources in this matter, and I think the decision must be worked out jointly by the United States and Peru.'' Washington has spent about $78 million on anti-narcotics programs in Peru in the last decade.
+
+The Peruvian government suspended joint operations with U.S. drug agents in the coca-growing Huallaga Valley apparently to protest the U.S. invasion of Panama, on December 22, 1989. Foreign Minister Guillermo Larco Cox said Peru was opening its embassy in Panama City to people seeking political asylum. In Lima, police used tear gas to break up a protest outside the U.S. Embassy and arrested 10 people. The demonstrators were members of the governing Aprista Party's youth wing. The announcement of the suspension of anti-drug operations came one day after President Alan Garcia said he would not attend the Feb. 15 drug summit with President Bush and the leaders of Colombia and Bolivia. "I cannot meet with the leader of an invading nation," Peruvian President Garcia said.The summit was to be held in Cartagena, Colombia, and include Presidents Virgilio Barco of Colombia and Jaime Paz Zamora of Bolivia.In an interview published in a Lima newspaper, U.S. Ambassador Anthony Quainton criticized Garcia's reaction to the U.S. decision to send troops to Panama.Garcia said that the United States "could seek to do the same in Peru if it should think the (Peruvian) government isn't doing enough to fight drug trafficking in the Huallaga Valley."
+
+The last dispute MID3550 is unrelated to the previous series of MIDs in the rivalry that seems to have been settled with the changes of government and increased US aid to Peru. It occurred in April of 1992 and was a result of the Peruvian government shooting down a US C-130 aircraft responsible for gathering drug trafficking intelligence off the Peruvian coast in part of a US-Peruvian multi-million dollar joint venture to reduce coca production in Peru. This venture included both military and financial aid to the Peruvian government. This dispute resulted in the killing of one US crewmember. The plane according to both Peruvian and US sources had strayed far off its flight path. The Peruvian government claims 200 miles of airspace off of its coast while the US recognizes only 12. Consequently, Peru claimed it was justified in taking action since they could not identify the aircraft. Also in April of 1992, Peruvian president Alberto Fujimori abolished congress and suspended the constitution of Peru, resulting in the US immediately cutting off all aid to the country except for humanitarian forms. In December of 1993, Peru paid more than $300,000 to the family of the US crewmember. Fujimori remained in power and the US resumed its aid with the help of Japan by securing a $1.4 billion dollar IMF loan to Peru in March of 1993. During this period, Peru's counterinsurgency tactics against the Shining Path seemed to be winding down the long period of internal conflict within the country. In July of 2000, the US again threatened Peru with economic sanctions due to the unfair elections held by the Fujimori government. In November of 2000, president Fujimori fled to exile in Japan and was replaced by president Valentin Panigua. In April 2001, the Peruvian government shot down a US missionary plane that was thought to be trafficking drugs. Since this time there have been no further incidents involving US or Peruvian military anti-drug operations.
+
+SOURCES-CR: 
+Buckman 1999; Times Index 1974-84; St. John, pp.199-207; Garcia and Insua, pp.495, 511, 587, 687; Cockburn et al., pp.766-91, 810-11,1086-91; Information Services of Latin America; New York Times 1/29/1955, 10/30/1962; Veliz 1968; Washington Post November 2000, April 2001, Xinhua General News 08/11/1980, New York Times 12/23/1985 11/20/1984, 08/27/1981, United Press International 08/03/1988
+
+PS-NARRATIVE:
+
+19459999-19520824 0.5 
+
+On November 27, 1945, William Pawley, U.S. Ambassador to Peru, said that he expected an early agreement on a settlement of Peru's indebtedness to U.S.'s bond holders. On November 13, 1947, the U.S. Ambassador to Peru, Prentice Cooper handed to the President of the Banco Central del Reserva de Peru a check worth $400,000, part of the U.S. payment for the cotton it imported from Peru during World War II. On November 24, 1947, the Peruvian Airways Company said that it increased its flights to Washington and New York due to higher demand. On December 20, 1947, Alfredo Ferreyros has been appointed Peruvian Ambassador to the United States. 
+
+On May 29, 1949, General Manuel Odria, whose military junta has controlled Peru since the October 1948 revolution, has made an invitation to U.S. funds to invest in his country. 
+
+On October 22, 1951, Peru's War Minister, Major General Zenon Noriega made a visit to U.S. to tour several military bases. Peru has been a constant buyer of U.S. military equipment throughout the 1940s and 1950s.
+
+On February 8, 1952, Peru and U.S. started talks about fishing rights in Peruvian waters. No mention was made in the Peruvian statement of retaliatory taxes on U.S. if the proposed higher tariffs are put in place by U.S. on imports of Peruvian tuna. On August 24, 1952, the National Fisheries Society of Peru charged that 22 U.S. `tuna-clippers' with a total tonnage of 6,600 tons of fish were operation off the coast of Peru. They accused the U.S. ships of violating the internationally recognized 3 miles territorial waters of Peru by night, even though they did not come within 12 to 20 miles off the coast of Peru by day. 
+
+On March 2, 1954, Peru declared itself among the nations that will support U.S. to bar Communists from Latin America. On March 22, 1954, Peru charged that U.S. vessels were invading Peruvian territorial waters and engaging in `piracy against our fishing wealth', in a complaint filed with the maritime authorities. The United States vessel Julia B was also accused of ramming a Peruvian fishing boat and not giving aid to it after the crash. On October 29, 1954, the Peruvian Ambassador the U.S. urged U.S. businessmen to buy more goods from Peru, such as sugar. 
+
+19520825-20001112 RIV35/RIV10035-0.25
+
+The initial stages of the rivalry involved mainly US fishing vessels near the Peruvian coast and Peru's subsequent seizure of these vessels, beginning on January 28, 1955 with MID3243. The latter stages of the rivalry involved issues of human rights abuses by the Peruvian government, and coca production eradication by the US counter-narcotics units. On January 29, 1955, Harold Tittman, the U.S. Ambassador to Peru protested the detention of two U.S. ships by Peruvian authorities and their fine of $5,000 for shipping in Peru's territorial waters. MID3244 occurred from October 29 to November 1, 1962. MID350 occurred from February 14 to May 17, 1969. MID601 occurred on January 20, 1972 while MID2967 occurred on November 14, 1979. These are all fishing disputes. With the last seizure occurring in 1979, MID2967, it is uncertain as to whether the Law of the Sea Convention in 1982 was responsible for the termination of these incidents. The 1982 Convention set forth an exclusive economic zone for coastal countries of 200 miles which it seems the US abided by with regard to Peru after this period. Another possibility for the lack of further incidents could be due to the relations between the two countries in general. These seizures coincided with changes in the Peruvian government that resulted in the expropriation of US holdings in the country, prompting strong protests from the US.
+
+In 1974 the Peruvian government agreed to pay $76 million to US businesses whose holdings had been expropriated by the government. A 1974 New York Times survey suggested that Alvarado government lacked popular support and opposition. President Alvarado expels CIA agents and a US embassy official in addition to requesting that the US remove 137 Peace Corps members due to allegations of connections to US intelligence agencies and or political activities, on November 14, 1974. On February 5, 1975, Peruvian troops assaulted a police garrison in order to quell a strike that began at the end of December 1974. Constitutional guarantees were also suspended. Rioting and looting broke out in response to these assaults and lasted until February 7, 1975. During this month, the US suspended military assistance to Peru. Peruvian ambassador to the US, Vice Admiral Jose Acrc-Larco, implied that with the assistance of the Soviet Union, Peru was engaged in an arms race with Chile on April 15, 1975. On August 29, 1975, President Alvarado was ousted in a bloodless coup conducted by General Francisco Morales Bermudez. Civilians were appointed to cabinet for the first time since the 1968 coup, beginning with the appointment of Luis Barua Castenada as Economic and Finance Minister on September 3, 1975. In addition to this appointment, several changes in leadership positions were made entailing those of Army chief of staff, Industry Minister, Interior Minister, and Premier. A September 21, 1975 New York Times article suggested that the US quietly approved of the change of government. In February 1976, General Jorge Fernandez Maldonado was sworn in as the new Peruvian Prime Minister. On February 19, 1976, US Secretary of State Henry Kissinger spoke in Peru as part of Latin American tour. Also in 1976, Kissinger warned Peru that the US legislature might endorse an economic blockade against Peru if there was not an acceptable settlement reached with respect to Peruvian nationalization of the copper industry. The Bermudez regime declared a state of emergency on July 2, 1976 after protests against tax increases and public transportation rate hikes. On July 17, 1976 General Maldonado, Peruvian Prime Minister and Minister of War resigned amid differences of opinion with President Bermudez. In August, Peru began to substantially reduce its involvement in the Non-Aligned movement. Peru accepted an offer to purchase fighter-bomber aircraft from the USSR after failed attempts to purchase US aircraft on October 13, 1976. US private banks agreed to loan Peru $200 million in order to avoid defaults in foreign loan payments during October, 1976.
+
+The United States plans to grant Peru $20 million to fight the illicit cocaine trade, the United States Ambassador, Edwin Corr, has announced. He said the grant was part of an antinarcotics agreement to be signed by the two Governments in September 1981.
+
+Gunmen dressed like policemen sprayed the United States Embassy in downtown Lima with automatic weapons fire on September 29, 1984, shattering windows but causing no injuries, the authorities said. A United States Embassy official described the damage as limited. United States-Peruvian relations have nonetheless been crowded with frictions over the second half of 1985, starting with President Garcia's frequent references to American ''imperialism'' in his inaugural address July 28 and followed, just days later, by the suspension of new United States military aid to Peru. United States diplomats said that, under the Brooke-Alexander Amendment to the Foreign Assistance Act, Washington was required to order the suspension when payments on outstanding military assistance credits fell more than a year in arrears, but the move was immediately interpreted here as a United States reprisal. Since then, under a clause of the same act, known as 620Q, all new United States economic aid has also been suspended because servicing of existing ''soft loans'' is more than six months behind schedule. In both cases, while Peru has accused Washington of using ''legal gunboats,'' United States officials insist that payment of just $5 million would enable new loans to be negotiated.
+
+The United States temporarily suspended its cocaine eradication program in Peru in November 1984 after gunmen burst into a jungle campsite. The death toll of Peruvians working on the project rose from 2 to 19.At the same time, unconfirmed accounts suggested that the attack might have been carried out by members of Shining Path, the Maoist guerrilla movement. First police reports identified the attackers as narcotics terrorists. Government officials have said the guerrillas, active in the area since midsummer, were linked to narcotics traffickers.A spokesman for the State Department's Narcotics Assistance Unit said the program, begun in 1978, was halted temporarily ''until we get a clearer picture'' of the attack. He said the United States was spending $4.2 million this year to hire Peruvian workers to destroy coca plants. The paste of coca leaves is used in the manufacture of cocaine. The project also tries to replace the coca crops with legal but less lucrative crops such as soybeans and corn.
+
+Distrust between the two Governments arose again early in October 1985 when Secretary of State George P. Shultz personally protested against the ''anti-American'' language used by President Garcia in an address to the United Nations General Assembly. Peruvian officials said the two men smoothed over their differences after a ''very frank exchange'' in New York. In August 1988, Garcia told a small group of U.S. reporters who accompanied him to the central jungle region that he is prepared to travel to the United States to push for more vigorous efforts against Peru's cocaine industry. ''Enough talking. Let's get into action now,'' he said. ''It is necessary to put more resources in this matter, and I think the decision must be worked out jointly by the United States and Peru.'' Washington has spent about $78 million on anti-narcotics programs in Peru in the last decade.
+
+The Peruvian government suspended joint operations with U.S. drug agents in the coca-growing Huallaga Valley apparently to protest the U.S. invasion of Panama, on December 22, 1989. Foreign Minister Guillermo Larco Cox said Peru was opening its embassy in Panama City to people seeking political asylum. In Lima, police used tear gas to break up a protest outside the U.S. Embassy and arrested 10 people. The demonstrators were members of the governing Aprista Party's youth wing. The announcement of the suspension of anti-drug operations came one day after President Alan Garcia said he would not attend the Feb. 15 drug summit with President Bush and the leaders of Colombia and Bolivia. "I cannot meet with the leader of an invading nation," Peruvian President Garcia said. The summit was to be held in Cartagena, Colombia, and include Presidents Virgilio Barco of Colombia and Jaime Paz Zamora of Bolivia. In an interview published in a Lima newspaper, U.S. Ambassador Anthony Quainton criticized Garcia's reaction to the U.S. decision to send troops to Panama. Garcia said that the United States "could seek to do the same in Peru if it should think the (Peruvian) government isn't doing enough to fight drug trafficking in the Huallaga Valley."
+
+The last MID of RIV35, MID2967, ended on November 14, 1979. Between 1980 and 1992, Peru held free and fair elections. The human rights record during this period, however, is constantly called into question. The United States plans to grant Peru $20 million to fight the illicit cocaine trade, the United States Ambassador, Edwin Corr, has announced. He said the grant was part of an antinarcotics agreement to be signed by the two Governments on August 27, 1981.
+
+Gunmen dressed like policemen sprayed the United States Embassy in downtown Lima with automatic weapons fire on September 29, 1984, shattering windows but causing no injuries, the authorities said. A United States Embassy official described the damage as limited. United States-Peruvian relations have nonetheless been crowded with frictions over the second half of 1985, starting with President Garcia's frequent references to American ''imperialism'' in his inaugural address July 28 and followed, just days later, by the suspension of new United States military aid to Peru. United States diplomats said that, under the Brooke-Alexander Amendment to the Foreign Assistance Act, Washington was required to order the suspension when payments on outstanding military assistance credits fell more than a year in arrears, but the move was immediately interpreted here as a United States reprisal. Since then, under a clause of the same act, known as 620Q, all new United States economic aid has also been suspended because servicing of existing ''soft loans'' is more than six months behind schedule. In both cases, while Peru has accused Washington of using ''legal gunboats,'' United States officials insist that payment of just $5 million would enable new loans to be negotiated.
+
+It is not until 1990-91, however, that the US begins to scrutinize Peru's human rights record as a condition of receiving aid packages. On April 5, 1992 Peruvian President Fujimori executed an autogolge (self-coup), suspending parts of the constitution and dissolving congress. On April 6, the US agreed to `suspended immediately all new assistance to Peru and to review all of its assistance to that country.' The US government froze economic and military aid approved in 1991 for disbursement to Peru. US Special Forces operating in Peru for the purpose of counternarcotics training were withdrawn. Along with the US government, the international community threatened the cessation of aid. 
+
+Working in Fujimori's favor, however, was the fact that Peruvian public opinion appeared to strongly support the autogolge. The US and OAS entered negotiations from April-May to determine the fate of both US and international aid packages. Pressure was placed upon Fujimori to hold congressional elections. On April 24th, Peru shot down a US drug-surveillance plane (MID3550), bringing pressure from both political parties in the US to deal with Peru. On May 18th, 1992, Fujimori yielded to pressure and agreed to hold congressional elections and allow the new legislature to draft a new constitution. 
+
+The last MID between US and Peru occurred on April 24, 1992, and it is an isolated incident and not part of the RIV35, but rather part of RIV10035-0.5. The Clinton Administration's assumption of power in 1993 brought with it a renewed interest in human rights. Pressure was placed on Peru to improve human rights as a condition of renewed aid. Peru, having met some of the demands of the Clinton Administration regarding human rights, becomes the second largest recipient of US aid in Latin America by 1993 and the largest recipient by 1994; military aid, however, was not renewed. On February 24, 1993, the U.S. agreed to participate in a financial-support plan for Peru after Peruvian ministers assured the U.S. that Peru would improve its human-rights record. The U.S. thereby joined Japan in funding a $2 billion loan program to help Peru become current on its debt to international financial institutions so that it could reestablish its creditworthiness. The decision by the administration of President Clinton marked the first U.S. financial support to Peru since the U.S. suspended all but humanitarian aid to that country following President Alberto K. Fujimori's seizure of near-dictatorial power in April 1992. It also signaled the new U.S. administration's intent to condition foreign aid on a recipient country's progress in the areas of human rights and democracy. U.S. officials, addressing Peru's recent human-rights performance, on February 24, 1993 pointed out that Fujimori had allowed elections for a constituent congress in November 1992. (Japan had unfrozen a $100 million loan to Peru immediately following those elections.) Peruvian Economy and Finance Minister Jorge Camet Dickman and Justice Minister Fernando Vega Santa Gadea had met with U.S. State Department and White House officials on February 23, 1993. The ministers reportedly affirmed their country's intention to permit the International Committee of the Red Cross access to all political prisoners, to refrain from impeding the efforts of international human-rights groups such as Americas Watch and Amnesty International, and to upgrade the Fujimori administration's relations with Peruvian rights organizations. (The Fujimori government had recently come under fire when tapes of a supposedly confidential meeting between the ICRC and Abimael Guzman Reynoso, the imprisoned leader of the Sendero Luminoso [Shining Path] guerrilla movement, were leaked to third parties, it was reported on February 23, 1993. The $2 billion support package was to be in the form of a short-term bridge loan that would enable Peru to meet the technical guidelines of international financial institutions. The U.S., Japan and other countries would together advance the loan to Peru, and Peru would in turn use the funds to clear its debt obligations with the International Monetary Fund and the World Bank. The IMF and the World Bank would then be in a position to lend additional funds to Peru, which Peru would use to repay the bridge loan. In December of 1993, Peru paid more than $300,000 to the family of the US crewmember. Fujimori remained in power and the US resumed its aid with the help of Japan by securing a $1.4 billion dollar IMF loan to Peru in March of 1993. During this period, Peru's counterinsurgency tactics against the Shining Path seemed to be winding down the long period of internal conflict within the country. In July of 2000, the US again threatened Peru with economic sanctions due to the unfair elections held by the Fujimori government. In November of 2000, president Fujimori fled to exile in Japan and was replaced by president Valentin Panigua. In April 2001, the Peruvian government shot down a US missionary plane that was thought to be trafficking drugs. Since this time there have been no further incidents involving US or Peruvian military anti-drug operations.
+
+Fujimori won, what the US considered, free and fair elections in 1995; however, the human rights record was still considered unacceptable. In 1996, Fujimori's legislature passed a law allowing him to run for another term in office. This was in violation of the term limits established in the 1993 constitution. With elections set for the spring of 2000, the US voted on March 29, 2000 to amend bilateral relations with Peru if the presidential election was not deemed free and fair. First round elections were held on April 9th and second round elections on May 28. Both rounds of elections were marred by accusations of fraud, with the OAS election officials refusing to monitor the second round. Unlike the 1992 autogolge, the US took no real action to suspend aid or sanction Peru. 
+
+20001113-20159999 0.5 
+
+On November 13, 2000 Fujimori left the country and resigned his post as president a few days later. With the resignation of Fujimori in November 2000 and the inauguration of Alejandro Toledo as Peru's democratically elected president on July 28, 2001, the bilateral relations between the two countries appeared primed for improvement. 
+
+US-Peru relations were somewhat limited during the 1990s. The Clinton Administration took only a passing interest in Latin America. The main goals were to open markets and expand trade with the region. The US military was involved in Peru in a limited manner for the purposes of drug interdiction. The US also provided CIA and military advisors to help put down the Shining Path insurgency and create a demilitarized zone in 1995 after the border war between Peru and Ecuador. 
+
+In regard to trade, in 1993 the US extended the 1991 Andean Trade Preference Act (ATPA) to include Peru; the act allowed goods from the Andean region to enter the US market tariff free. From 1989 to 1999 trade between the two countries doubled. From 1990 to 1999 US foreign direct investment in Peru grew from 600 million to 1.8 billion.
+
+The two countries have not experienced a militarized dispute since 1992. The main two issues between the two countries during the 1990s have been human rights abuses and preservation of legitimate democratic processes in Peru. Anti-democratic actions have increased tensions on a number of occasions; in particular the 1992 autogolpe and the 2000 fraudulent elections. 
+
+However, with the return of democratic elections in 2001 and 2006 and increasing trade activity, relations between the two countries appear to be significantly improved. Following the 2001 election of Alejandro Toledo, the US committed aid packages to help promote democratic principles and stabilize democratic institutions within Peru. Because of the underlying tensions over human rights and violation of democratic principles, the post-1992 period is best characterized by a negative peace. With the democratic election of Alejandro Toledo, the two countries enter a period where the prospect for significantly improved relations certainly exists. The second successful post-Fujimori democratic elections were held on June 4, 2006 with the election of Alan Garcia. On October 10th 2006, Garcia met with US President George W. Bush to discuss the future of bilateral relations and the disposition of trade negotiations initiated with the Toledo administration. The current relationship, however, is best characterized by a negative peace until the durability of democracy and a commitment to the protection of human rights has been established. 
+
+PS-SOURCES: US Department of State April 2001, October 2002, December 2003, August 2004, December 2005, May 2006; McClintock and Vallas 2003; New York Times June 3, 1949, November 28, 1945, December 21, 1947, November 25, 1947, November 14, 1947, August 25, 1952, March 3, 1954, March 23, 1954, February 9, 1952, October 30, 1954, October 23, 1951, Facts on File World News Digest, March 11, 1993.
+
+MARITIME-MIDS: MID3243 MID3244 MID350 MID601 MID2967
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID3243
+ DYAD: USA PERU 2135
+ DATES: 19550129 19550231
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3243 involved US fishing vessels near the Peruvian coast and Peru's subsequent seizure of these vessels, beginning on January 28, 1955. On January 29, 1955, Harold Tittman, the U.S. Ambassador to Peru protested the detention of two U.S. ships by Peruvian authorities and their fine of $5,000 for shipping in Peru's territorial waters. This is a fishing dispute.
+
+MARITIME-DISPUTE: MID3244
+ DYAD: USA PERU 2135
+ DATES: 19621029 19621101
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3244 occurred from October 29 to November 1, 1962 and involved Peru's seizure of US fishing vessels near the Peruvian coast. This is a fishing dispute.
+
+MARITIME-DISPUTE: MID350
+ DYAD: USA PERU 2135
+ DATES: 19690214 19690517
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID350 occurred from February 14 to May 17, 1969. This is a fishing dispute. Peruvian naval ships fired on two US fishing vessels near the Peruvian coast on February 14, 1969. The US imposed military sanctions (suspension of weapons sales) against Peru in February 1969. Argentina offered to facilitate negotiations between the parties on February 21, 1969. The countries agreed to hold negotiations on March 10, 1969. Peruvian naval ships seized two US fishing vessels near the Peruvian coast on March 19, 1969. Peru expelled the US military mission from the country on May 23, 1969. The US lifted military sanctions against Peru on July 3, 1969. 
+
+MARITIME-DISPUTE: MID601
+ DYAD: USA PERU 2135
+ DATES: 19720120 19720120
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID601 occurred on January 20, 1972 and involved Peru's seizure of US fishing vessels near the Peruvian coast. This is a fishing dispute.
+
+MARITIME-DISPUTE: MID2967
+ DYAD: USA PERU 2135
+ DATES: 19791114 19791114
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2967 occurred on November 14, 1979 and involved Peru's seizure of US fishing vessels near the Peruvian coast. This is a fishing dispute.
+
+Discussion:
+Peruvian naval ships seized a US fishing vessel near the Peruvian coast in January 1973.

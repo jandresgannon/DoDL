@@ -1,0 +1,325 @@
+FILE: cm365666v11.0.txt
+DYAD: RUSSIA/USSR-ISRAEL
+RIVALRY: RIV1006
+DISPUTE(S): MID200 MID345 MID1480 MID3659 MID353 MID3174 
+
+PS: 19480514-19561104 0.5 19561105-19790326 0.00 19790327-19870402 0.25 19870403-19911018 -9 19911019-19961018 0.5
+
+PSNOTES: 
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20220306
+PS-LAST-CHECKED: 20220306
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm002365 narrative, MID200 is the Sinai War between Israel and Egypt, a multilateral MID. Israel and Egypt were rivals, and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. Russia is involved in this MID due to its support for Egypt/opposition of Israel, and its support for Czechoslovakia, which made a large arms deal with Israel shortly before the invasion. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because Israel and the USSR did not dispute territory here. See TERRLINK. Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 coded third party link to territorial MID because this was connected to the Egypt-Israel territorial dispute over Sinai. See TERRMID-NOTES. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 1 -- civil war MID
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: MID200 from cm002365 narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war MID because Egypt sponsored a militarized rebel group against Israel, within this dyad, which led to events that contributed to this MID. 
+
+CIVWARLINK: MID200 3 -- not civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID345 
+
+TERRMID: MID345 3 -- not territory 
+TERRMID-CER: MID345 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID345 1 -- third party link to territorial MID
+TERRLINK-CER: MID345 1 -- certain 
+TERRLINK-NOTES: MID345 from cm narrative, this MID preceded the Arab-Israeli War in 1967 and is connected to the tensions that escalated to that war. The US and USSR exchanged displays of naval power (the US was supporting Israel and the USSR was supporting Syria), and the US deployed warships close to the Syrian coast to deter the USSR from intervening. Coded third party link to territorial MID because this activity was connected to the Israel vs. Egypt/Syria/Jordan territorial dispute in 1967, which ended with Israel occupying Sinai, Gaza, West Bank, East Jerusalem, and the Golan Heights. (Note that the parties were not disputing the entirety of the territory. The Golan Heights, Gaza, Sinai Peninsula, and Straits of Tiran were in dispute here.)
+
+MARITMID: MID345 3 -- not maritime 
+MARITMID-CER: MID345 1 -- certain 
+MARITMID-NOTES: MID345 includes USSR actions (with US) related to the Arab Israeli War in 1967. This multilateral MID is a show of ships involving the Soviet Union and Israel, June 10-19. President Johnson ordered the 6th Fleet to move within 50 miles of the Syrian coast in order to signal the Soviets not to intervene in the war. Coded not maritime because Israel and USSR were not disputing a maritime border here; rather, this was connected to opposing support of Israel (US) and Syria (USSR). See TERRLINK. Part of this dispute involved the Straits of Tiran, making this a maritime MID between Israel and Egypt. The US and USSR are linked to that maritime MID here.
+
+ISLMID: MID345 3 -- not islands 
+ISLMID-CER: MID345 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID345 3 -- not civil war 
+CIVWARMID-CER: MID345 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID345 3 -- not civil war link 
+CIVWARLINK-CER: MID345 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID345 3 -- not coup 
+COUPMID-CER: MID345 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID345 3 -- not coup link
+COUPLINK-CER: MID345 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1480 
+
+TERRMID: MID1480 3 -- not territory 
+TERRMID-CER: MID1480 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1480 1 -- third party link to territorial MID
+TERRLINK-CER: MID1480 1 -- certain 
+TERRLINK-NOTES: MID1480 from Gibler 2018, Egypt was resentful of losing Sinai to Israel in their previous war and was determined to regain the Sinai. Both Israel and Egypt kept troops concentrated near the Sinai. Russia assisted Egypt here with troops and technology. Fighting broke out in 1969-1970, and the Soviets flew aircraft in the fighting, several of which were shot down by Israel. Coded third party link to territorial MID because this was connected to a territorial dispute between Israel and Egypt. 
+
+MARITMID: MID1480 3 -- not maritime 
+MARITMID-CER: MID1480 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1480 3 -- not islands 
+ISLMID-CER: MID1480 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1480 3 -- not civil war 
+CIVWARMID-CER: MID1480 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1480 3 -- not civil war link 
+CIVWARLINK-CER: MID1480 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1480 3 -- not coup 
+COUPMID-CER: MID1480 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1480 3 -- not coup link
+COUPLINK-CER: MID1480 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3659 
+
+TERRMID: MID3659 3 -- not territory 
+TERRMID-CER: MID3659 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3659 1 -- third party link to territorial MID
+TERRLINK-CER: MID3659 1 -- certain 
+TERRLINK-NOTES: MID3659 from Gibler 2018, Israel protested that Soviets flew aircraft over Sinai in 1971, triggering this MID. Coded third party link to territorial MID because although this MID did not involve Egypt, this is connected to the Israel-Egypt territorial dispute over Sinai, in which the Soviets assisted the Egyptians militarily. 
+
+MARITMID: MID3659 3 -- not maritime 
+MARITMID-CER: MID3659 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3659 3 -- not islands 
+ISLMID-CER: MID3659 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3659 3 -- not civil war 
+CIVWARMID-CER: MID3659 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3659 3 -- not civil war link 
+CIVWARLINK-CER: MID3659 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3659 3 -- not coup 
+COUPMID-CER: MID3659 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3659 3 -- not coup link
+COUPLINK-CER: MID3659 1 -- certain 
+COUPLINK-NOTES: 
+
+MID353 
+
+TERRMID: MID353 3 -- not territory 
+TERRMID-CER: MID353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID353 1 -- third party link to territorial MID
+TERRLINK-CER: MID353 1 -- certain 
+TERRLINK-NOTES: MID353 from cm narrative, this MID is concurrent with the Yom Kippur War in October 1973. The US supported Israel, while the USSR supported Egypt and Syria. The US and USSR's opposing support during this territorial MID (specifically over Sinai and Golan Heights) between Israel and Egypt & Syria pulls them into this MID. Coded third party link to territory because the USSR is a third party to the territorial dispute between Israel and Egypt here. 
+
+MARITMID: MID353 3 -- not maritime 
+MARITMID-CER: MID353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID353 3 -- not islands 
+ISLMID-CER: MID353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID353 3 -- not civil war 
+CIVWARMID-CER: MID353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID353 3 -- not civil war link 
+CIVWARLINK-CER: MID353 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID353 3 -- not coup 
+COUPMID-CER: MID353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID353 3 -- not coup link
+COUPLINK-CER: MID353 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3174 
+
+TERRMID: MID3174 3 -- not territory 
+TERRMID-CER: MID3174 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3174 1 -- third party link to territorial MID
+TERRLINK-CER: MID3174 1 -- certain 
+TERRLINK-NOTES: MID3174 from Gibler 2018, in 1974 Israel discovered Soviet aircraft attempting to take recon photos of Israeli navy vessels in the Gulf of Suez, near the disputed Sinai. Israeli planes ran the Soviet planes off. Coded third party link to territorial MID because the Soviets were assisting the Egyptians here in the Israel-Egypt Sinai dispute. 
+
+MARITMID: MID3174 3 -- not maritime 
+MARITMID-CER: MID3174 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3174 3 -- not islands 
+ISLMID-CER: MID3174 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3174 3 -- not civil war 
+CIVWARMID-CER: MID3174 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3174 3 -- not civil war link 
+CIVWARLINK-CER: MID3174 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3174 3 -- not coup 
+COUPMID-CER: MID3174 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3174 3 -- not coup link
+COUPLINK-CER: MID3174 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1039 
+
+TERRMID: MID1039 3 -- not territory 
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link 
+CIVWARLINK-CER: MID1039 3 -- uncertain 
+CIVWARLINK-NOTES: MID1039 from Gibler 2018, in 1970 PLO terrorists hijacked an airplane headed to Jordan and held the passengers hostage. The terrorists intended to provoke fighting between Jordan and Palestinian rebels. Jordan did indeed attack Palestinian rebels and Syrian and Jordanian troops clashed in the aftermath, as Syria was sympathetic to the rebels. Israel and US threatened to bomb the Syrian troops. Coded civil war link because this was connected to militarized rebel activity in Palestine/Jordan, and the hijacking occurred outside of this dyad. Coded uncertain because Gibler 2018 does not consider Russia a party to this MID. 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV1006: MID1039 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV1006: MID3.02 adds Israel as participant in MID1039 (1970).
+
+NARRATIVE-CM:
+
+MID200 is the Sinai War and lasted from September 1, 1955 to November 6, 1956. MID345 occurred from May 23 to June 19, 1967 and it is the Six-Days War. Soviet Union offered support to the Arab states coalition against Israel initially, but later weighted in together with US to mediate the end of the conflict. Soviet Union broke off diplomatic relations with Israel in the aftermath of the 1967 war and sided with Egypt and the Palestinian forces during the War of Attrition period. MID3659 occurred on November 6th, 1971. MID353 occurred from October 6th to 31st, 1973 and it is known as the Yom Kippur War. Soviet Union sided with the Syrian and Egyptian forces that attacked Israel. MID3174 occurred from August 2 to 28th, 1974. MID1480 is the so-called War of Attrition and it lasted from June 26, 1967 to August 7, 1980. Soviet Union ended its involvement in MID1480 on July 30, 1970 but it remained an ally of Egypt throughout the 1973 Yom Kippur War. 
+
+SOURCES-CM: MID2.1 Narratives 
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+PS-NARRATIVE: 
+19480514-19561104 0.5
+
+Israel became independent on May 14, 1948. Soviet Union was the third state to recognize Israel's independence in 1948 after U.S. and Guatemala. Soviet Union hoped to influence Israel towards the Communist path but when this did not work the relations cooled again. The start of the cooling of Soviet Union-Israeli relations was the intense anti-semitism in the late 1940s behind the Iron Curtain. The Jews were seen as a possible Fifth Column by the Soviet Union in preparation for World War III. In April 1949 the signs of Soviet Union's turn against Israel were visible with the latter accusing Israel of disregarding the essential help it received from Communism during its early days and turning towards an alliance with the capitalist West. In 1951 Soviet Union refused entry for the Israeli Ambassador to Moscow, because he was accused of Zionism during Czarist Russia. Soviet Union broke off diplomatic relations with Israel on February 12, 1952 after a bomb attack on the Soviet legation to Tel Aviv which wounded three people. 
+
+19790327-19870402 0.25 
+
+President Carter mediated negotiations beginning on March 8, 1979, and Egypt and Israel signed a peace treaty in Washington DC on March 26, 1979. *Egypt and Israel exchanged instruments of ratification of the peace treaty in the Sinai Peninsula on April 25, 1979. *UNEF II personnel, which had suffered 55 fatalities, was disbanded on July 24, 1979. UNTSO-OGE remained in the Sinai peninsula. With the Camp David Accords brokered by the U.S., U.S. became a major supporter of Anwar al Sadat's regime and the influence of Soviet Union decreased significantly in the region, that ending the rivalry between Israel and Soviet Union. In 1981, Egypt and the Soviet Union broke their diplomatic relations-another sign that the USSR-Israel rivalry waned away. 
+
+Israeli Prime Minister Yitzhak Shamir said on March 13, 1984, the Soviet Union has not renewed diplomatic ties with Israel because of "irrational hatred for the Jewish people and its state." In a speech at a solidarity meeting for Soviet Jews in Jerusalem, excerpts of which were published by the government press office, Shamir said the Soviet Union had diplomatic relations even with the "most reactionary" countries, but has refused such ties with Israel. "No logical explanation has ever been given for this...and if the state of Israel is not on the Soviet Union's map of diplomatic relations, then it exists in the Soviet media as a target for attacks and very harsh slander," he said. The Soviet Union broke relations with Israel, which dated from the beginning of Israel's independence in 1948, during the 1967 Middle East war, and has said their renewal is conditional on Israel returning to its previous borders and finding a solution to the Palestinian problem.
+
+Israeli Foreign Minister Yitzhak Shamir met with Soviet Foreign Minister Andrei Gromyko on September 26, 1984, and appealed for Moscow to let "hundreds of thousands" of Soviet Jews emigrate to Israel. But Shamir said Gromyko "didn't promise anything" and insisted all the Jews who wanted to leave the Soviet Union have already left. The Shamir-Gromyko meeting was the first such meeting in three years. It lasted 90 minutes and was held at the Soviet Mission to the United Nations. The Soviet Union broke off formal diplomatic relations with Israel after the 1967 Arab-Israeli war. Shamir said he would welcome a resumption of relations, but didn't think it would happen soon.
+
+On August 5, 1986, the announcement of the forthcoming talks, to be held in Helsinki, Finland, was made by the Foreign Ministry spokesman, Gennadi Gerasimov. It was the first acknowledgment that the Soviet Union had been working toward a renewal of relations with Israel. The Soviet Union and its Eastern European allies, except Rumania, broke relations with Israel during the 1967 Arab-Israeli war. Moscow is the main arms supplier of Syria, Israel's chief antagonist in the Middle East. [In Jerusalem, Israeli officials, in confirming the announcement, said the meeting would set ground rules for discussing ''purely consular affairs.''] The Foreign Ministry spokesman said the Soviet Government was seeking consular relations in part to better oversee Soviet real estate holdings in Jerusalem. The Russian Orthodox Church owns properties in the Old City. Mr. Gerasimov insisted that the agreement to open consular discussions signified no basic change in policy toward Israel. Anyone interpreting the move as a step toward restoration of full diplomatic relations ''engages in wishful thinking,'' Mr. Gerasimov said. Despite the disclaimer, any improvement in relations is likely to affect the roles of the various players in the Middle East, where the Soviet Union has long sought more of a role in the peace process. Israel has said that it would not consider attending a Soviet-sponsored peace conference until the Soviet Union restores diplomatic relations. In diplomatic terms, consular contacts are considered a low rung on the ladder of formal relations between governments. At the moment, the Netherlands represents Israeli interests in the Soviet Union, and Finland represents Soviet interests in Israel. Soviet policy toward Israel has been built around the demand that Israel withdraw from Arab territories occupied during the 1967 war. The Soviet Union also favors the establishment of a Palestinian state. Both ideas are opposed by Israel. The announcement today may also affect Soviet attitudes towards the emigration of Jews, which reached a peak in 1979 and is now down to a trickle. Although emigration from the Soviet Union is generally restricted, Jews-along with ethnic Germans and Armenians-have been among groups that have been allowed to emigrate. The Soviet Foreign Ministry announcement came several days after reports from Israel quoted Government officials as having said that talks on consular relations would open in an unspecified European capital. The proposed Soviet-Israeli discussions may represent a demonstration of diplomatic flexibility on the part of Mikhail S. Gorbachev, the Soviet leader. Since he took office in March 1985, there have been quiet Soviet-Israeli contacts apparently building toward the latest announcement. In July 1985, a meeting of ambassadors in Paris prompted speculation about renewed relations, but the Soviet Union denied that any such proposals had been made. In October, Prime Minister Shimon Peres of Israel met at the United Nations with Foreign Minister Eduard A. Shevardnadze of the Soviet Union, raising new questions about a possible renewal of diplomatic relations and an easing of Soviet emigration policies. After reaching a high of more than 50,000 in 1979, the number of Jewish emigrants has fallen to an annual rate of a thousand or less. Israel's brief encounter with the Soviet Union in Helsinki seems to have left both sides feeling slightly bruised. In Jerusalem, Israeli officials tried to put the best face on August 20th, 1986, 90-minute meeting-the first of its kind between teams from both nations since Moscow severed ties with Israel during the 1967 Arab-Israeli war. An Israeli Foreign Ministry official said that, although the meeting did not constitute a ''revolution'' in Israeli-Soviet relations, the fact that it took place at all was seen as an encouraging sign by Israel. But another Foreign Ministry official, who spoke on condition he not be named, said that Israel's insistence on leading the talks with the issue of Soviet Jewish emigration infuriated the Russians and may have damaged chances for further progress toward restoring relations between the two nations. This official's assessment seemed to be born out by the statements of a Soviet Foreign Ministry official in Moscow. Gennady Gerasimov told a news conference that Israel should not have raised the issue of Soviet Jewry and should not have demanded that an Israeli consular delegation be allowed to visit the Soviet Union if Israel allowed a Soviet delegation to visit here. Mr. Gerasimov reportedly described the raising of the emigration issue by Israeli negotiators as ''arrogant interference in the internal affairs of the Soviet Union and totally unjustifiable.'' Speaking to reporters, a senior Israeli official predicted that contacts between the two nations would continue. But he said that they may be carried out in secret, and that any progress toward a restoration of diplomatic ties would be slow. Publicly, Israeli officials are trying to adopt an air of casual interest about an improvement of ties between the two nations.
+
+Israeli newspapers and politicians have attempted to point out the advantages such a restoration would give the Soviet Union. Restoring full diplomatic relations with Israel, the argument runs, could enable the Soviet Union to play a role in a Middle East peace process and improve its relations with the United States. Privately, officials here have said that the restoration of ties between Israel and the Soviet Union would go far toward rehabilitating Israel's standing in the third world and with East-bloc nations. ''It would make all the difference in the world if the Soviet Union restored ties,'' said one Israeli official. ''All the nations that are hesitating now, that are afraid to act, would feel free to resume full diplomatic relations with us.'' Israel has worked tirelessly-and with only mixed results-to repair its standing in the world community since most of the third world and the East bloc severed relations in the wake of either the 1967 or 1973 Arab-Israeli wars. In sub-Sahara Africa, Israel had 29 embassies before the June 1967 war erupted. Today it has six embassies in black African nations. Swaziland, Malawi, and Lesotho-all nations with diplomatic ties to Israel-are heavily influenced by South Africa. Israel conducts a great deal of trade with South Africa. The Israelis have long enjoyed trade and cultural relations with several black African nations, and have pushed hard recently for a full restoration of ties. Israeli Prime Minister Shimon Peres is scheduled to visit Cameroon next week to attend ceremonies marking the restoration of full diplomatic ties between Cameroon and Israel. Many Israeli officials contend, however, that the painful process of winning over individual nations could be speeded up if the Soviet Union restored full diplomatic relations. Many third-world and East-bloc nations would immediately follow the Soviet's lead, the Israelis reason. The problem for any Israeli government contemplating an improvement in ties with the Soviet Union is the fate of what Israel estimates to be 2 million Soviet Jews. There is a powerful lobby-both in Israel and in the US-for Soviet Jews seeking to emigrate. Israel cannot afford to be seen as ''soft'' on that issue. But one senior Foreign Ministry official expressed dismay over Israel's insistence on putting the issue of Soviet Jewry at the top of the agenda for the Helsinki talks. ''The extreme right wing in Israel forced the government to take a position that the Soviets didn't like,'' the diplomat said. ''And the Soviets, in turn, decided to teach Israel a lesson in manners.'' Whether the Soviet Union still intends to send a team here to inventory Soviet property and update files on Soviet citizens is unclear. The next move, according to the Israelis, is up to the Soviet Union. Despite a firm Soviet statement refusing reciprocity, an Israeli official said on July 15, 1987, that he expects an Israeli diplomatic delegation will be allowed to visit the Soviet Union. No Israeli diplomat has visited Moscow since the Soviet Union severed ties with the Jewish state at the time of the Six Day war in June 1967. But a visit this week by an eight-member Soviet consular delegation is seen as a sign of improving relations. ''When the decision will be made here in Israel to send a delegation to the Soviet Union, we believe the visas will be granted,'' a Foreign Ministry official said. He refused to elaborate or say when the Israelis might request the visas. The eight Soviet diplomats arrived to examine Soviet property and interview Soviet citizens living in Israel. It was the first Soviet diplomatic visit to Israel in 20 years. The head of the delegation, Yevgeny Antipov, chief of the consular department of the Soviet Foreign Ministry, said that a reciprocal visit by the Israelis is out of the question. ''You know there is no reciprocity because Israel does not have any property in the Soviet Union and no Israeli citizens live there,'' Antipov said. But the Israelis maintain they do have property in the Soviet Union, specifically an embassy building in Moscow held under a special diplomatic lease. The building, which has been vacant for 20 years, was renovated at Israeli expense two or three years ago, the Israeli official said. He refused to say how much rent the Israelis pay, or how much the renovations cost. Israel also lays claim to several hundred ''refusniks''-Jews who have been refused the right to emigrate from the Soviet Union-who have applied for and been granted Israeli visas as a way of pressuring the Soviets to let them go. The visas, which are not recognized by the Soviets, were granted under Israel's ''law-of-return,'' which gives any Jew the right to automatically claim Israeli citizenship on arrival in the Jewish state. In addition, several hundred Israeli Arabs live in the Soviet Union, almost all students. The Soviet delegation is in Israel on 90-day diplomatic visas issued through Israel's Soviet interest section at the Dutch Embassy in Moscow. They are living at a seaside Tel Aviv hotel and working out of the Finnish Embassy, which represents Soviet interests in Jerusalem. The delegation has been inspecting Soviet-owned property, mostly Russian Orthodox Church holdings, and meeting with Soviet passport holders living in Israel. Many are Soviet women married to Arab men they met while the men were studying in the Soviet Union. The visit is seen as a possible prelude to the resumption of normal relations between the two nations. But the Israeli Foreign Ministry official cautioned, ''I don't think here there will be any diplomatic or political breakthrough from the delegation.'' He added, however, ''It is a very good sign they are here.'' The visit has been met by sporadic protests by groups advocating free emigration rights for the Israeli-estimated 400,000 Soviet Jews who want to leave the Soviet Union.
+Organizers had planned to meet the delegation with a massive protest at Ben Gurion International Airport, but the group slipped into the country earlier. 
+
+19870403-19911018 Transition 
+
+Israeli officials said on April 2, 1987, that Israel and the Soviet Union had agreed to exchange visits by consular officials, in a move that could lead to an informal resumption of quasi-diplomatic relations. The Israeli officials said the Soviet Union would send officials of consular rank, probably within the next three weeks, to inspect Soviet-owned church properties in Jerusalem and to examine the status of the roughly 2,000 non-Jewish residents of Israel who hold Soviet passports. The officials said that an Israeli consular team would then travel to Moscow to examine the former Israeli Embassy building and to meet with Israeli passport holders, most of them Israeli Arabs studying in the Soviet Union. The key to the consular arrangement, an Israeli official said, is that the delegations would have diplomatic status. ''Once the Soviet delegation arrives in Israel, it might just decide to stay-who knows?'' the official said. ''The idea of a consular mission to check out property could just be the first step toward a resumption of relations.'' If the two missions were to become permanent, they could become a convenient way to resume diplomatic relations without going through the conditions that each side has set for a formal renewal of ties. The consular arrangement might also avert criticism by the Soviet Union's Arab allies, who would most likely protest a formal resumption of relations unless Israel agreed to Soviet demands that it first withdraw from all territories occupied in 1967 and recognize Palestinian rights. ''They could simply tell the Arabs that they have not resumed diplomatic relations, but are only dealing with outstanding consular matters,'' an Israeli official said. The arrangement was worked out mainly in Washington between the Israeli Ambassador, Meir Rosenne, and the Soviet charge d'affaires, Igor M. Sokolov, Israeli officials said.
+
+Israel's national airline made its first direct flight to the Soviet Union on June 27, 1989, and brought 66 survivors of the Armenian earthquake to Israel for treatment on June 27, 1989. The El Al jet landed at Tel Aviv's Ben Gurion airport at 10:30 p.m. The Armenians, many in wheelchairs or on crutches, came down the ramp to be greeted by Israeli officials and Archbishop Kerkin Kazanjian, head of the Armenian Church in Jerusalem. Israeli immigrants from Armenia brought flowers. Health Minister Yaakov Tzur told reporters at the airport, "This definitely shows we are experiencing a new relationship with the Soviet Union." Transport Minister Moshe Katzav, who nine hours earlier saw the flight off to Yerevan, the capital of the Soviet Armenian republic, described it as a new stage in the thawing relations between the two countries. "This operation has national significance," Katzav said. "It is primarily a humanitarian operation, but Israel is interested and is looking forward to a resumption of diplomatic relations with the Soviet Union."The El Al jet carried 46 doctors and nurses to treat the survivors and clothing for Armenians left homeless by the Dec. 7 earthquake. The quake killed about 25,000 Armenians and left about 500,000 homeless. It also brought to Israel two Armenian doctors and four nurses for six weeks of training, according to the New York-based American Jewish Joint Distribution Committee, which sponsored the mission. the Soviet Union." The Soviet Union has expressed interest in expanding economic and technological cooperation with Israel, a Foreign Ministry spokesman said on July 27, 1989. High-ranking officials in Moscow recently conveyed to Aryeh Levin, the head of Israel's consular delegation, an interest in purchasing agricultural produce from Israel, the spokesman said. The Soviet officials also told Levin they are interested in Israeli technology in food processing, solar energy and desert farming, he said. The spokesman said the potential for trade between the two countries was enormous. The Soviet Union severed ties with Israel following the 1967 Middle East war. For the past two years, the Soviet Union has gradually stepped up relations with Israel as it seeks a greater role in the Middle East.
+
+Indirect trade through Austria and other European countries began a year ago, followed by private transactions between Israeli and Soviet companies, the spokesman said. The previous year Israel and the Soviet Union exchanged low-level consular delegations as a possible first step toward restoring full diplomatic relations. On November 23, 1990, Israel opened a Chamber of Commerce Office in Moscow.
+
+On May 11, 1991, Soviet Union's Foreign Minister Alexander Bessmertnykh's six-hour visit to Israel was a stunning demonstration of how perestroika has managed to turn old certainties on their heads. For more than 30 years, the Soviet Union was Israel's Great Satan, the superpower that armed the Arabs, caged the Jews and fostered the slogan that Zionism equals Nazism. Yet on May 11, 1991, the Soviet foreign minister stepped onto the red carpet at Ben-Gurion Airport and said how pleased he was to be in "ancient Israel." And his Israeli counterpart, David Levy, insisted that the Soviet Union's intentions in the Middle East were entirely peaceful and that whoever claimed otherwise was "an enemy of peace." "None of us two years ago ever imagined that the Soviet Union would open the gates to Jewish emigration as well as come to the brink of renewing diplomatic ties, and also cooperate with the United States on peace efforts," marveled former Foreign Minister Abba Eban.
+
+19911019-20159999 0.5 
+
+A quarter-century of diplomatic estrangement ended on October 18, 1991, when the Soviet Union and Israel restored full relations and expressed hope that their renewed ties would help the cause of peace in the Middle East. On many practical levels, little will change just because ambassadors will again be exchanged after a 24-year lapse. The two countries established consular ties in 1987, and the political climate has steadily improved to a point where Soviet Jews are largely free to emigrate here after years of severe restrictions. Nearly 350,000, including many from the now-independent Baltic republics, have flocked to Israel in the last two years, making them the country's largest Jewish group by country of origin. But today's action carried great symbolic importance. For Israel, a young nation still craving world recognition, it means that it has finally regained approval from a superpower, albeit a diminished one. For the Soviet Union, it erases a diplomatic anomaly that helped shove it to the political sidelines in this region. "This brings us to a more open dialogue so that they will hear Israeli positions face-to-face," said Foreign Minister David Levy of Israel. "We will also hear their positions. We need not agree on everything." His Soviet counterpart, Boris D. Pankin, making only the second trip to this country by a Soviet Foreign Minister, suggested agreement with Mr. Levy that the long rupture in relations had been a "historic mistake." "In the past, the Soviet Union tended to sort of side with the Palestinians and the Arab states, while the United States sided with Israel," Mr. Pankin told a news conference. "This did not bring any tangible fruit." "The new approach now," he said, "is certainly not to have any proteges and support their positions no matter what they say and no matter how legitimate they may be." That remark was certainly welcome to Israel, which had chafed for years over Moscow's policy of favoring-and arming-Arab nations and the Palestine Liberation Organization at every turn. The Soviet Union was one of the first countries to formally recognize the nascent Israeli state in 1948, partly to gain a diplomatic foothold in the Middle East and partly to counter British dominance in the region. But relations soured in the late 1950's, when Moscow became the principal arms supplier to Egypt and Syria during their short-lived United Arab Republic. The Soviet Union severed all ties at the time of the 1967 Middle East War, which to Moscow's dismay was won by Israel on all fronts in six days. The rupture in relations led to virulent anti-Zionist campaigns in the Soviet Union, which prompted hundreds of thousands of Soviet Jews to seek to emigrate. Although the Soviet Union became a strident enemy of Israel after 1967, it started off as an enthusiastic supporter, having been the third country, after the United States and Guatemala, to recognize the new state after the British mandate ended on May 14, 1948.
+
+Israel and Russia signed a military cooperation agreement on December 1, 1995, under which they reportedly plan to cooperate in selling weapons to third countries. Both Israel and Russia have large arms industries that are suffering from declining world markets in the post-Cold War era, as well as insufficient domestic demand to keep them alive. An Israeli Defense Ministry statement gave no details of the agreement. But the Haaretz daily said it provides for the two countries to cooperate in selling arms to third countries, set up officer exchange programs and for Israel to buy Russian cargo planes at a cost of up to $ 25 million each.
+
+On November 2, 1998 Israel is marking the seventh anniversary of its resumption of diplomatic relations with the Soviet Union after a rupture of 24 years. It happened on the eve of the convening of the Madrid Peace Conference for the settlement of the Arab-Israeli conflict, which took place on 30 October 1991, under the sponsorship of the United States and the Soviet Union. The Soviet decision to sever relations with Israel, immediately after the Six Day War in June 1967, was the culmination of a 40-year hostile policy towards Israel played out against the backdrop of Israel's fight for Soviet Jewry's rights and Soviet pro-Arab policies in the Middle East, which gradually led to the Sinai Campaign in 1956 and then to the Six Day War in 1967. The resumption of diplomatic relations would not have taken place were it not for the political changes in the Soviet Union during the twilight of Gorbachev's era: the end of inter-power competition, the beginning of co-operation in the Middle East, the Soviet Union's positive change of attitude towards Israel's peace proposals and a more balanced attitude towards Israel and Soviet Jewry. On this basis Israel accepted Soviet sponsorship together with that of the US for the Madrid Peace Conference. At that stage the Soviet Union's international status was in sharp decline a few months before its dismemberment. It was Israel-whom the Soviet Union pushed into a corner for so many years-who accorded the Soviet Union the same status as that of the US, through the Madrid Conference. Russia did continue its sponsorship of the peace-making process but much less actively than the US, since it was still absorbed in the problems of transition from a centralised economy to a decentralised one, in addition to its permanent struggle to consolidate its leadership. The Soviet aid to the Arab States and the PLO prolonged the Arab-Israeli conflict. When that aid came to an end, in the twilight of Gorbachev's era, the peace process started in the Middle East. Even before that, Egypt under the rule of its late President Anwar Sadat came to the conclusion that the Soviet policy in the Middle East was damaging the cause of peace rather than serving it. It was at that point that the Israeli-Egyptian peace agreement encountered harsh Soviet opposition, which resulted in a negative UN vote. The Soviet Union had mobilised a majority of votes against it with the help of the Communist bloc (excluding Romania), the Arab States and the non-aligned nations. This only demonstrated that the Soviet Union's Middle East policy weakened the system of international relations more than it strengthened it. Moreover, the break of relations with Israel deprived the Soviet Union of any objective role in Middle East affairs. It is only now that Russia is trying to overcome its previous behavior by playing a more constructive role in this domain. The suspicion and shadow of the past have not entirely disappeared though. Russia's assistance to Iran in its production of non-conventional arms, and the setting up of Russian nuclear reactors in Iran-although the Russians say that they are under Russian full control-in view of Iran's open threats against Israel may justify Israel's present fears and suspicions. As Russia is currently benefiting from its co-operation with Israel in the agricultural, economic, tourist, scientific and technological domains, so too could the Soviet Union have benefited from its ties with Israel in these and other domains in the past, if it were not for the rupture of relations between both states, which lasted for more than 24 years. One could presume that such co-operation in the past could only have had a very positive effect on Russia's economic and social development. 
+
+On January 21, 1999, Israeli Foreign Minister Ariel Sharon said after his talks with Russian Prime Minister Yevgeniy Primakov that he believes there can be a "balanced" relationship between Russia, Israel and the Arab states. He said that there was now a better foundation for building good relations with Russia and that discussions would continue on issues that concerned Israel, such as Russian sales to the Middle East.
+
+Immigrants were flooding into Israel, with numbers rising 35 per cent on the year last year to almost 78,000, reports said on April 10, 2000, adding the overwhelming majority had come from the former Soviet Union. Since the beginning of the 1990s around one million people had migrated to Israel, the Jewish Agency, responsible for immigration, said, according to press reports. The Israeli population has risen by 20 per cent since the beginning of the 1990s to around six million. Israel admits anyone of Jewish faith or Jewish origin.
+
+On April 28, 2005 Russian President Vladimir Putin made an official visit to Israel. President Vladimir V. Putin of Russia became the first Kremlin leader to visit Israel, arriving for two days of talks on a series of disputes between the two countries that include a Russian arms deal with Syria, nuclear cooperation with Iran, and Putin's proposal to convene a Middle East peace conference in Moscow. The visit follows Putin's stop in Egypt, the first by a Russian leader in 40 years, and underscored Moscow's effort to expand its influence in the Middle East, according to Israeli officials and analysts. In an Israeli television interview before his arrival, Putin also said he wanted to check up on the more than 1 million people from the former Soviet Union who have settled in Israel since 1990. Putin is scheduled to hold talks with Prime Minister Ariel Sharon and other Israeli leaders before traveling tomorrow to the West Bank city of Ramallah, another first, for a meeting with Palestinian President Mahmoud Abbas. For decades, Moscow's interests and Israel's seemed deeply different, with the Soviet Union supporting its Arab neighbors and barring many Jews from emigrating. Diplomatic relations were broken off in 1967 and not fully restored until 1991, as the Soviet Union was breaking up. But the chaos that followed the Soviet collapse strengthened a wave of Jewish emigration that had begun under Soviet leader Mikhail Gorbachev in the late 1980s, and Russian-speakers now wield powerful political influence, making up about a fifth of the country's population. To some degree, the Russian-speaking community is self-contained. There are Russian shops, Russian television channels and Russian newspapers, and many immigrants from the former Soviet Union have mixed little with native Israelis. There is a measure of mistrust on either side-with some immigrants saying they have brought culture to Israel but some Israelis saying the newcomers have also brought crime and corruption. Russia is also connected to Israel by the Russian Orthodox religious community in the Holy Land, created by decree of Czar Nicholas I in the mid-19th century and centered at the Trinity Cathedral in Jerusalem.
+
+Ties between Israel and Russia have improved dramatically since the Cold War, when the Soviet Union backed Arab countries in their conflict with Israel and maintained no diplomatic ties with the Jewish state for decades. Trade between the two countries now runs into the billions of dollars per year, and Israel imports more than 70 percent of its oil from Russia, according to Israeli analysts. But some Israeli officials have expressed concern that relations have declined since Russia announced plans earlier this year to sell advanced antiaircraft missiles to Syria, a country officially at war with Israel. The United States has also expressed concern about the deal. `We definitely have problems with some of his policies when it comes to Russia's dealings not only with enemies of Israel but of the free world," said Yuli Edelstein, a member of Sharon's ruling Likud party who emigrated from the Soviet Union 17 years ago. "Our job is to discourage these dealings." Edelstein said Israel was worried that the missiles, Igla SA-18s, would end up in the hands of Hezbollah, an armed group in Lebanon. Israeli forces withdrew from southern Lebanon five years ago under fire from the group, which occasionally fires light weapons across Israel's northern border. If the contract goes through, it will mark the first substantial Russian arms deal with Damascus in 15 years. Syria is thought to want the missiles to deter Israeli airstrikes. Israeli leaders have also asked Russia to stop helping Iran build a nuclear reactor, which Israel believes will be used for military purposes. Iran says the reactor is for energy and research.
+
+On October 17, 2006 Israeli Prime Minister Ehud Olmert made an official three-days visit to Russia to discuss bilateral relations with Vladimir Putin, Russia's President. Annual trade turnover between Russia and Israel has grown 10 times since 1991 and is approaching $2US billion (euro1.6 billion), according to Russian official data. Olmert and Russian officials were to discuss the prospects for strengthening bilateral trade and other economic cooperation, Kremlin officials said.
+
+PS-SOURCES: Associated Press March 13, 1984; September 26, 1984; June 27, 1989; April 28, 2005; October 17, 2006; BBC May 12, 1979; January 12, 1983; December 1, 1995; January 22, 1999; New York Times April 19, 1949; February 12, 1953; February 15, 1953; October 20, 1982; August 5, 1986; August 20, 1986; April 2, 1987; October 19, 1991; Christian Science Monitor August 20, 1986; United Press International July 15, 1987; July 27, 1989; TASS November 23, 1990; The Independent November 2, 1998; Boston Globe April 28, 2005; Deutsche Presse-Agentur April 10, 2000; April 28, 2005; Xinhua September 1, 1989
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

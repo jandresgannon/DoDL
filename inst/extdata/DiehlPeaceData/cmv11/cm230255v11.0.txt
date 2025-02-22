@@ -1,0 +1,108 @@
+FILE: cm230255v11.0.txt
+DYAD: SPAIN - GERMANY/PRUSSIA
+RIVALRY: RIV608
+DISPUTE(S): MID89 
+RIVALRY: RIV609
+DISPUTE(S): MID3349 MID3340 
+RIVALRY: RIV61
+DISPUTE(S): MID210 MID3884 
+
+PS: 19009999-19450507 0.50 19860101-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad
+
+PS-LAST-CHANGED: 20220223
+PS-LAST-CHECKED: 20220223
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID89 
+
+WWI MIDs: MID3349 
+
+WWII MIDs: MID3884
+
+MID3340 
+
+TERRMID: MID3340 3 -- not territory 
+TERRMID-CER: MID3340 1 -- certain 
+TERRMID-NOTES: MID3340 from Gibler 2018, in 1919, a German U-boat entered Spanish waters and was sunk by Spain. Coded not territory because no boundary was being disputed. 
+
+TERRLINK: MID3340 3 -- not third party link to territory 
+TERRLINK-CER: MID3340 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3340 3 -- not maritime 
+MARITMID-CER: MID3340 1 -- certain 
+MARITMID-NOTES: MID3340 There is no maritime boundary dispute between the dyad members.
+
+ISLMID: MID3340 3 -- not islands 
+ISLMID-CER: MID3340 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3340 3 -- not civil war 
+CIVWARMID-CER: MID3340 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3340 3 -- not civil war link 
+CIVWARLINK-CER: MID3340 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3340 3 -- not coup 
+COUPMID-CER: MID3340 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3340 3 -- not coup link
+COUPLINK-CER: MID3340 1 -- certain 
+COUPLINK-NOTES: 
+
+MID210 
+
+TERRMID: MID210 3 -- not territory 
+TERRMID-CER: MID210 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID210 3 -- not third party link to territory 
+TERRLINK-CER: MID210 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID210 3 -- not maritime 
+MARITMID-CER: MID210 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID210 3 -- not islands 
+ISLMID-CER: MID210 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID210 1 -- civil war MID
+CIVWARMID-CER: MID210 1 -- certain 
+CIVWARMID-NOTES: MID210 from Gibler 2018, this is the Spanish Civil war. General Franco, leading the anti-government forces, received support from other fascist states (Portugal, Italy, and Germany). Coded civil war MID because this was connected to the Spanish Civil War. 
+
+CIVWARLINK: MID210 3 -- not civil war link 
+CIVWARLINK-CER: MID210 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID210 3 -- not coup 
+COUPMID-CER: MID210 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID210 3 -- not coup link
+COUPLINK-CER: MID210 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+A German submarine sank the Norwegian ship *Tiger* off the coast of Spain on May 7, 1917 during the *First World War*. Spain accused Germany of violating international law by sinking a neutral vessel in Spanish territorial waters. The countries agreed to submit the dispute to an ad hoc commission of inquiry based on Article 9 of the 1899 *Hague Convention for the Pacific Settlement of International Disputes*. The three-member commission of inquiry (Spain, Germany, Denmark), which was assisted by four staff personnel, met from November 1 to November 8, 1918. The commission of inquiry found that, while the *Tiger* had been seized within Spain's territorial waters, the ship was sunk outside those waters. Germany was required to pay damages. Spain protested against Germany's military assistance to nationalist rebels on September 15, 1936. Germany recognized the nationalist government headed by General Francisco Franco on November 18, 1936. Spain referred the matter of German intervention in the Spanish civil war to the *League of Nations* (LON) Council on November 27, 1936. The LON Council discussed the dispute on December 10-12, 1936. Spanish naval ships seized the German ship *Palos* on December 26, 1936. Spain announced its neutrality in the *Second World War* on September 3, 1939. In December 1940, Germany informed the Spanish government that would deploy German troops in Spain in January 1940. A few days later, Germany announced that it would not deploy troops in Spain. Spain severed diplomatic relations with Germany on May 8, 1945.
+
+SOURCES-CM: 
+Bar-Yaacov, 1974, 156-170; Langer, 1972, 1185-1186; *Survey of International Affairs *(SIA), 1936, 957-961.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

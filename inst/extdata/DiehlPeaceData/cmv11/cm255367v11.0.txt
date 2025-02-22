@@ -1,0 +1,71 @@
+FILE: cm255367v11.0.txt
+DYAD: GERMANY/PRUSSIA-LATVIA
+RIVALRY: RIV695
+DISPUTE(S): MID1269 
+RIVALRY: RIV696
+DISPUTE(S): MID3723 
+
+PS: 19181118-19400616 .5 20040501-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: ends when Latvia is absorbed by USSR Latvia became a member of the COW System on 19910906. 
+
+PS-LAST-CHANGED: 20220225 
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3723 
+
+MID1269 
+
+TERRMID: MID1269 1 -- territorial MID
+TERRMID-CER: MID1269 1 -- certain 
+TERRMID-NOTES: MID1269 from (Gibler 2018), in 1919, Germany invaded Latvia to establish a protectorate there, with intentions of moving on into Estonia (Germany did invade Estonia, but was pushed back by the Estonian army). The Allies eventually intervened and brokered an armistice between all parties. Coded territorial MID because this was connected to a territorial dispute between Germany and Latvia. 
+
+TERRLINK: MID1269 3 -- not third party link to territory
+TERRLINK-CER: MID1269 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1269 3 -- not maritime 
+MARITMID-CER: MID1269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1269 3 -- not islands 
+ISLMID-CER: MID1269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1269 3 -- not civil war 
+CIVWARMID-CER: MID1269 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1269 3 -- not civil war link 
+CIVWARLINK-CER: MID1269 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1269 3 -- not coup 
+COUPMID-CER: MID1269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1269 3 -- not coup link
+COUPLINK-CER: MID1269 1 -- certain 
+COUPLINK-NOTES: 
+
+ 
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

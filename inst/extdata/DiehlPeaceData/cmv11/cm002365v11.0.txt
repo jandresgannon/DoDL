@@ -1,0 +1,2425 @@
+FILE: cm002365v11.0.txt
+DYAD: USA-RUSSIA/USSR
+RIVALRY: RIV75
+DISPUTE(S): MID4241 
+RIVALRY: RIV76
+DISPUTE(S): MID197 MID2606 MID2366
+RIVALRY: RIV77
+DISPUTE(S): MID252 MID26 MID1286 MID50 MID208 MID200 MID607 MID125 MID2215 MID173 MID608 MID2216 MID246 MID253 MID1363 MID27 MID2217 MID2219 MID3361 MID1353 MID61 MID2899 MID2218 MID2220 MID2909 MID611 MID2901 MID2910 MID2921 MID2934 MID2931 MID2930 MID345 MID2928 MID2941 MID3241 MID2221 MID2949 MID353 MID2222 MID2223 MID2224 MID2225 MID2226 MID2227 MID2228 MID2229 MID2982 MID2231 MID2230 MID2232 MID3637 MID2233 MID4174 MID4213 MID4220 MID419 
+
+RIVNOTES: 
+
+PS: 19009999-19170103 .5 19170104-19230701 0.00 19230702-19410930 0.25 19411001-19470614 0.5 19470615-19891108 0.00 19891109-19920201 -9 19920202-20209999 .25
+
+PS-UPDATE2020:
+ 
+PS-NOTES: US aid in Greek civil war starts in June 1947 (19470615) and we consider this the beginning of the Cold War between the USA and USSR 
+
+PS-LAST-CHANGED: 20220208
+PS-LAST-CHECKED: 20220208
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID197 MID2606 MID2366
+
+MID197 
+
+TERRMID: MID197 3 -- not territory 
+TERRMID-CER: MID197 1 -- certain 
+TERRMID-NOTES: MID197 coded not territory because although the US invaded Russian cities and occupied some territory, they were attempting to influence the outcome of the civil war and were not advancing a territorial claim. No territorial dispute between these countries. 
+
+TERRLINK: MID197 3 -- not third party link to territory 
+TERRLINK-CER: MID197 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID197 3 -- not maritime 
+MARITMID-CER: MID197 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID197 3 -- not islands 
+ISLMID-CER: MID197 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID197 1 -- civil war MID
+CIVWARMID-CER: MID197 1 -- certain 
+CIVWARMID-NOTES: MID197 , MID2606, and MID2366 all occurred in connection with the US interventions into the Russian Revolution. The rivalry between the US and the USSR began with US intervention in the Russian Revolution. The US sent troops into several Russian cities on several occasions, sparking clashes with Russian troops and several MIDs between 1918 and 1920. The Allied powers were attempting to help the anti-Bolshevik forces in Russia prevent the Bolsheviks from taking power. Coded civil war MID because the Russian revolution and its associated civil conflict caused the US to intervene militarily in order to influence the outcome of the civil war.
+
+CIVWARLINK: MID197 3 -- not civil war link 
+CIVWARLINK-CER: MID197 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID197 3 -- not coup 
+COUPMID-CER: MID197 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID197 3 -- not coup link
+COUPLINK-CER: MID197 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2606 
+
+TERRMID: MID2606 3 -- not territory 
+TERRMID-CER: MID2606 1 -- certain 
+TERRMID-NOTES: MID2606 coded not territory because although the US invaded Russian cities and occupied some territory, they were attempting to influence the outcome of the civil war and were not advancing a territorial claim. No territorial dispute between these countries. 
+
+TERRLINK: MID2606 3 -- not third party link to territory 
+TERRLINK-CER: MID2606 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2606 3 -- not maritime 
+MARITMID-CER: MID2606 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2606 3 -- not islands 
+ISLMID-CER: MID2606 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2606 1 -- civil war MID
+CIVWARMID-CER: MID2606 1 -- certain 
+CIVWARMID-NOTES: MID2606 , MID197, and MID2366 all occurred in connection with the US interventions into the Russian Revolution. The rivalry between the US and the USSR began with US intervention in the Russian Revolution. The US sent troops into several Russian cities on several occasions, sparking clashes with Russian troops and several MIDs between 1918 and 1920. The Allied powers were attempting to help the anti-Bolshevik forces in Russia prevent the Bolsheviks from taking power. Coded civil war MID because the Russian revolution caused the US to intervene militarily in order to influence the outcome of the civil war.
+
+CIVWARLINK: MID2606 1 -- civil war link 
+CIVWARLINK-CER: MID2606 1 -- certain 
+CIVWARLINK-NOTES: MID2606 this is a multilateral MID coded as a civil war MID in multiple dyads. 
+
+COUPMID: MID2606 3 -- not coup 
+COUPMID-CER: MID2606 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2606 3 -- not coup link
+COUPLINK-CER: MID2606 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2366 
+
+TERRMID: MID2366 3 -- not territory 
+TERRMID-CER: MID2366 1 -- certain 
+TERRMID-NOTES: MID2366 coded not territory because although the US invaded Russian cities and occupied some territory, they were attempting to influence the outcome of the civil war and were not advancing a territorial claim. No territorial dispute between these countries. 
+
+TERRLINK: MID2366 3 -- not third party link to territory 
+TERRLINK-CER: MID2366 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2366 3 -- not maritime 
+MARITMID-CER: MID2366 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2366 3 -- not islands 
+ISLMID-CER: MID2366 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2366 1 -- civil war MID
+CIVWARMID-CER: MID2366 1 -- certain 
+CIVWARMID-NOTES: MID2366 , MID197, and MID2606 all occurred in connection with the US interventions into the Russian Revolution. The rivalry between the US and the USSR began with US intervention in the Russian Revolution. The US sent troops into several Russian cities on several occasions, sparking clashes with Russian troops and several MIDs between 1918 and 1920. The Allied powers were attempting to help the anti-Bolshevik forces in Russia prevent the Bolsheviks from taking power. Coded civil war MID because the Russian revolution caused the US to intervene militarily in order to influence the outcome of the civil war.
+
+CIVWARLINK: MID2366 3 -- not civil war link 
+CIVWARLINK-CER: MID2366 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2366 3 -- not coup 
+COUPMID-CER: MID2366 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2366 3 -- not coup link
+COUPLINK-CER: MID2366 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID252 
+
+TERRMID: MID252 3 -- not territory 
+TERRMID-CER: MID252 1 -- certain 
+TERRMID-NOTES: MID252 from cm365640v11.0 narrative, Russia threatened Turkey and warned them not to launch an attack into Syria after Russia accused Turkey of amassing troops on the Syrian border in preparation for an invasion. From cm002365v11.0, the US sent an aircraft carrier to Turkish waters to deter Russia from interfering in Turkey. Coded not territorial because there was no territorial dispute between the US and Russia, nor between either of these countries and Russia.
+
+TERRLINK: MID252 3 -- not third party link to territory 
+TERRLINK-CER: MID252 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID252 3 -- not maritime 
+MARITMID-CER: MID252 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID252 3 -- not islands 
+ISLMID-CER: MID252 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID252 3 -- not civil war
+CIVWARMID-CER: MID252 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID252 1 -- civil war link 
+CIVWARLINK-CER: MID252 1 -- certain 
+CIVWARLINK-NOTES: MID252 from cm365640v11.0 narrative, Russia accused and threatened Turkey of preparing an invasion into Syria to attack Armenians in Syria. Soviet Russia had been funding an Armenian resistance in Syria with the intention of annexing eastern Anatolia into the USSR. The Armenians in Syria were therefore a secessionist group, as they wanted an autonomous region and received the guarantee of autonomy from Russia if Eastern Anatolia became part of the USSR. Coded civil war link because the threat issued by Russia (and the response by the US) is connected to a militarized secessionist group in Syria (outside this dyad) being supported by Russia. 
+
+COUPMID: MID252 3 -- not coup 
+COUPMID-CER: MID252 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID252 3 -- not coup link
+COUPLINK-CER: MID252 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID26 
+
+TERRMID: MID26 3 -- not territory 
+TERRMID-CER: MID26 1 -- certain 
+TERRMID-NOTES: MID26 from cm narrative, this MID is the Berlin blockade crisis. Russia blockaded West Berlin after the US' plans for economic recovery and independence for a West German state became known. The US responded to the blockade by airlifting supplies into West Berlin. The US and Russia had repeated exchanges of shows of force. Coded not territorial because the US and Russia were not disputing territory between them. 
+
+TERRLINK: MID26 3 -- not third party link to territory 
+TERRLINK-CER: MID26 1 -- certain 
+TERRLINK-NOTES: MID26 coded not third party link to territory because although this MID was about the territory that would become West Germany (Federal Republic of Germany), and West and East Germany would later have a territorial dispute, neither East nor West Germany was yet a state, so no territorial claim was present yet, and the US and Russia were therefore not linked to a territorial dispute in this MID. 
+
+MARITMID: MID26 3 -- not maritime 
+MARITMID-CER: MID26 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID26 3 -- not islands 
+ISLMID-CER: MID26 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID26 3 -- not civil war 
+CIVWARMID-CER: MID26 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID26 3 -- not civil war link 
+CIVWARLINK-CER: MID26 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID26 3 -- not coup 
+COUPMID-CER: MID26 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID26 3 -- not coup link
+COUPLINK-CER: MID26 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1286 
+
+TERRMID: MID1286 3 -- not territory 
+TERRMID-CER: MID1286 1 -- certain 
+TERRMID-NOTES: MID1286 from cm narrative, this is a multilateral MID pitting US and Yugoslavia against USSR, Bulgaria, Hungary, and Romania. The tensions that led to this MID began when Yugoslavia and the USSR began to drift apart in terms of the ruling Yugoslavia Communist Party's willingness to acquiesce to Stalin's directives. The US observed the rift and tried to create an anti-Soviet state in the region by providing economic, food, and military assistance to Yugoslavia, and even attempted to bring Yugoslavia into NATO. Soviet troop mobilizations and border clashes occurred between Yugoslavia and Soviet-bloc states Hungary, Bulgaria, and Romania. The US and USSR are also included in this MID since they were rivals providing military assistance and/or orders, and the tension was tied to their rivalry. The US considered USSR's and its allies' behavior threatening during this MID, and the USSR found the US's intervention threatening. Coded not territorial because the US and Russia did not dispute any territory between them in this MID. 
+
+TERRLINK: MID1286 3 -- not third party link to territory 
+TERRLINK-CER: MID1286 1 -- certain 
+TERRLINK-NOTES: MID1286 coded not third party link to territory because this was not a territorial MID between USSR and Yugoslavia. The USSR was attempting to replace the government of Yugoslavia with a more friendly communist government, but the USSR was not making a territorial claim on Yugoslavia. This was a political leadership dispute between Yugoslavia and the USSR that involved the US and several Soviet bloc states. 
+
+MARITMID: MID1286 3 -- not maritime 
+MARITMID-CER: MID1286 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1286 3 -- not islands 
+ISLMID-CER: MID1286 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1286 3 -- not civil war 
+CIVWARMID-CER: MID1286 1 -- certain 
+CIVWARMID-NOTES: MID1286 from cm narrative, Stalin attempted to create domestic unrest that would result in an overthrow of the communist government in Yugoslavia and the replacement by a more USSR-friendly communist government. However, the domestic unrest did not result in violence or a militarized rebel group during this MID. Coded not civil war because no militarized anti-government group was present. 
+
+CIVWARLINK: MID1286 3 -- not civil war link 
+CIVWARLINK-CER: MID1286 1 -- certain 
+CIVWARLINK-NOTES: MID1286 coded not civil war link because although Stalin was attempting to foment domestic unrest in Yugoslavia, no militarized rebel group formed in this MID, and there are therefore no third party links to civil war in this multilateral dispute. 
+
+COUPMID: MID1286 3 -- not coup 
+COUPMID-CER: MID1286 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1286 3 -- not coup link
+COUPLINK-CER: MID1286 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID50 
+
+TERRMID: MID50 3 -- not territory 
+TERRMID-CER: MID50 1 -- certain 
+TERRMID-NOTES: MID50 from cm narrative, this MID occurred from 1953 to 1956. The primary combatants in this conflict were the PRC and Taiwan. Here the USSR assisted the PRC in a four-day operation designed to show support for the PRC in hostilities toward Taiwan. The US lifted its blockade of Taiwan, allowing Taiwan to attack mainland China. China shelled an island in response. Fighting between PRC and ROC forces ensued at several locations. The US is involved in this MID due to China seizing US airmen and the US in response threatening China, and because of US resolutions to defend Taiwan which included threats to China to not invade Taiwan. The USSR is involved in this MID because of its support for China. Coded not territorial because the US and Russia did not have a territorial claim involving China or Taiwan. See TERRLINK. 
+
+TERRLINK: MID50 1 -- third party link to territorial MID
+TERRLINK-CER: MID50 1 -- certain 
+TERRLINK-NOTES: MID50 from cm narrative, Taiwan and China (ROC and PRC) had an ongoing territorial dispute in this MID, leading to the clashes between them. (The disputed territory includes some islands.) The US and Russia supported Taiwan and China, respectively, and their support drew them into this MID. Coded third party link to territorial MID because the Taiwan-China territorial MID caused a MID between US and Russia here. 
+
+MARITMID: MID50 3 -- not maritime 
+MARITMID-CER: MID50 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID50 3 -- not islands 
+ISLMID-CER: MID50 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID50 3 -- not civil war 
+CIVWARMID-CER: MID50 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID50 1 -- civil war link 
+CIVWARLINK-CER: MID50 1 -- certain 
+CIVWARLINK-NOTES: MID50 coded civil war link because this is related to the China-Taiwan dispute, outside of this dyad, and that conflict has a civil war element. 
+
+COUPMID: MID50 3 -- not coup 
+COUPMID-CER: MID50 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID50 3 -- not coup link
+COUPLINK-CER: MID50 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID208 
+
+TERRMID: MID208 3 -- not territory 
+TERRMID-CER: MID208 1 -- certain 
+TERRMID-NOTES: MID208 occurred in March of 1953 and is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced a US reporter to prison for espionage. The US imposed economic sanctions, and Czechoslovakia shot down a US military aircraft over US-occupied Germany. Russia is involved in this MID because of its support for Czechoslovakia in this dispute. Coded not territorial because the US and Russia did not have a territorial dispute here. 
+
+TERRLINK: MID208 3 -- not third party link to territory 
+TERRLINK-CER: MID208 1 -- certain 
+TERRLINK-NOTES: MID208 from cm narrative, this is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. The US and USSR were third parties to territorial disputes, including East Germany vs West Germany (GDR vs FRG), but the US and USSR did not actually claim each other's sovereign territory. However, this MID is coded not third party link because although Czechoslovakia was a Soviet ally, this was not a MID about advancing a territorial claim. It was a diplomatic dispute. 
+
+MARITMID: MID208 3 -- not maritime 
+MARITMID-CER: MID208 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID208 3 -- not islands 
+ISLMID-CER: MID208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID208 3 -- not civil war 
+CIVWARMID-CER: MID208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID208 3 -- not civil war link 
+CIVWARLINK-CER: MID208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID208 3 -- not coup 
+COUPMID-CER: MID208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID208 3 -- not coup link
+COUPLINK-CER: MID208 1 -- certain 
+COUPLINK-NOTES:
+
+
+
+MID200 
+
+TERRMID: MID200 3 -- not territory
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from cm narrative, MID200 is the Sinai War between Israel and Egypt and a multilateral MID. Israel and Egypt were rivals and tensions between them had been escalating, including cross-border raids, opposing arms deals, and troop movements around the Sinai. The US is involved in this MID due to its support for Israel. Russia is involved in this MID due to its support of Egypt/opposition of Israel, and its support for Czechoslovakia, who made a large arms deal with Israel shortly before the invasion. In 1956, Israel invaded the Sinai Peninsula with the intention of reclaiming it for itself and its Western allies, namely France and Britain. Coded not territory because the US and USSR did not dispute territory here. See TERRLINK: Israel invaded Sinai with the intention of annexing the territory, although it abandoned this claim when its Western allies demanded it do so. 
+
+TERRLINK: MID200 1 -- third party link to territorial MID
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: MID200 from cm narrative, this is a multilateral MID involving allies of Israel and Egypt. Coded territorial link because Israel and Egypt were involved in a territorial MID here, and the US and Russia were pulled in to the dispute due to their support of opposing sides of the dispute. 
+
+MARITMID: MID200 3 -- not maritime 
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 3 -- not civil war 
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID200 1 -- civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: MID200 from cm narrative, part of the building tensions between Egypt and Israel came from Egypt sponsoring a rebel group, Fedayeen, to conduct attacks on Israel. In response, Israel conducted cross-border raids in Egypt, which were some of the events that this MID comprises. Coded civil war link because Egypt sponsored a militarized rebel group against Israel (outside of this dyad), which led to events that contributed to this MID. 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID607 
+
+TERRMID: MID607 3 -- not territory 
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: MID607 from cm narrative, this is a multilateral MID involving Turkey, allied with the US, Jordan, and Iraq, in a territorial dispute against Syria, allied with Egypt and the USSR. After border troop buildups by Turkey and Syria, clashes occurred along the disputed border. The Egyptians and the Americans were involved heavily in the MID, in the form of arms support and, in the case of Egypt, supplying troops to fight. Russia is involved in this MID due to its support for Syria. Coded not territory here because the US and Russia did not dispute territory. See TERRLINK.
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain 
+TERRLINK-NOTES: MID607 from cm narrative, the US and Russia were pulled into this MID due to their support for the primary disputants, Turkey and Syria. Turkey and Syria were disputing their border, and the tensions over the disputed border escalated into clashes along the disputed border. Coded link to territory because the territorial MID between Turkey and Syria caused a MID between US and Russia here. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID607 3 -- not civil war link 
+CIVWARLINK-CER: MID607 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 3 -- not civil war 
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES: MID125 from cm narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup, and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded not civil war MID because the civil war in Lebanon is outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 coded civil war link because the Lebanese civil war triggered a multilateral MID, including this MID between US and Russia, and since the Lebanese civil war is outside of this dyad, it is a civil war link MID. 
+
+COUPMID: MID125 3 -- not coup 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID125 1 -- coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: MID125 the coup in Iraq contributed to the civil war in Lebanon, and the new Iraqi regime supported the revolutionaries in Lebanon, contributing to this MID. Iraq is outside this dyad.
+
+
+
+MID2215 
+
+TERRMID: MID2215 3 -- not territory 
+TERRMID-CER: MID2215 1 -- certain 
+TERRMID-NOTES: MID2215 from cm narrative, Russian forces shot down a US transport plane. No further escalation resulted. Coded not territorial MID because the action was not advancing a territorial claim between US and Russia. The plane was shot down over Armenia, which was not the subject of a territorial dispute, in 1958.
+
+TERRLINK: MID2215 3 -- not third party link to territory 
+TERRLINK-CER: MID2215 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2215 3 -- not maritime 
+MARITMID-CER: MID2215 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2215 3 -- not islands 
+ISLMID-CER: MID2215 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2215 3 -- not civil war 
+CIVWARMID-CER: MID2215 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2215 3 -- not civil war link 
+CIVWARLINK-CER: MID2215 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2215 3 -- not coup 
+COUPMID-CER: MID2215 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2215 3 -- not coup link
+COUPLINK-CER: MID2215 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID173 
+
+TERRMID: MID173 3 -- not territory 
+TERRMID-CER: MID173 1 -- certain 
+TERRMID-NOTES: MID173 from cm narrative, this is another clash between China and Taiwan in which the US provides assistance to Taiwan while Russia helps China. China shelled islands in Taiwan, prompting the US to deploy troops and warships to the region. High-level talks defused the clashes. Coded not territorial because the US and Russia were not disputing territory here. See TERRLINK. 
+
+TERRLINK: MID173 1 -- third party link to territorial MID
+TERRLINK-CER: MID173 1 -- certain 
+TERRLINK-NOTES: MID173 coded third party link to territory because the China-Taiwan territorial dispute led to these clashes, which pulled their respective allies, Russia and the US, into the MID. US and Russia were both third parties in this territorial MID between China and Taiwan.
+
+MARITMID: MID173 3 -- not maritime 
+MARITMID-CER: MID173 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID173 3 -- not islands 
+ISLMID-CER: MID173 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID173 3 -- not civil war 
+CIVWARMID-CER: MID173 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID173 1 -- civil war link 
+CIVWARLINK-CER: MID173 1 -- certain 
+CIVWARLINK-NOTES: MID173 coded civil war link because the China-Taiwan dispute has a civil war element. 
+
+COUPMID: MID173 3 -- not coup 
+COUPMID-CER: MID173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID173 3 -- not coup link
+COUPLINK-CER: MID173 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID608 
+
+TERRMID: MID608 1 -- territory 
+TERRMID-CER: MID608 1 -- certain 
+TERRMID-NOTES: MID608 from cm narrative, this is a multilateral MID involving the US, UK, and France against USSR. Soviet Premier Khrushchev issued an ultimatum for the Western powers to vacate Berlin and withdraw all military resources from there, making West Berlin a sovereign city. Khrushchev also said Russia would turn all lines of communication with West Berlin to East Germany, so the West would only have access to West Berlin through East Germany's permission. The Western powers responded by firmly asserting their determination to remain in West Berlin. Coded somewhat related to territory because the US and USSR were disputing whether the US and others had the right to occupy West Berlin, which was then part of the post-WWII "Western Zone." The Western powers occupied and controlled the Western zone, but had the intention of creating a sovereign state, which they eventually did, the Federal Republic of Germany (West Germany). The US and other powers were therefore not claiming that territory as their own, but they were claiming the right to occupy and control it as they attempted to set up a state. Coded somewhat connected to territory because this was a dispute about who controlled that territory, but the US, UK, and France did not assert that the territory was theirs long-term. This can be thought of as a temporary territorial claim by the US, UK, and France. 
+
+TERRLINK: MID608 1 -- third party link to territory 
+TERRLINK-CER: MID608 1 -- certain 
+TERRLINK-NOTES: MID608 coded somewhat connected to third party link to territory to be consistent with TERRMID coding. The USSR also had a TERRMID==2 MID with UK and France in this MID. 
+
+MARITMID: MID608 3 -- not maritime 
+MARITMID-CER: MID608 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID608 3 -- not islands 
+ISLMID-CER: MID608 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID608 3 -- not civil war 
+CIVWARMID-CER: MID608 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID608 3 -- not civil war link 
+CIVWARLINK-CER: MID608 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID608 3 -- not coup 
+COUPMID-CER: MID608 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID608 3 -- not coup link
+COUPLINK-CER: MID608 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID246 
+
+TERRMID: MID246 3 -- not territory 
+TERRMID-CER: MID246 1 -- certain 
+TERRMID-NOTES: MID246 from cm narrative, MID246 is the Bay of Pigs invasion. The US sent US-trained Cuban exiles into Cuba in an attempt to overthrow the government. The Cuban government easily defeated them, and the attempted invasion caused increased hostilities between the US and Cuba and Russia. Coded not territory because the attempted invasion was intended to change political leadership in Cuba, and was not a claim on Cuban territory. There was no disputed territory here between the US and Russia. 
+
+TERRLINK: MID246 3 -- not third party link to territory 
+TERRLINK-CER: MID246 1 -- certain 
+TERRLINK-NOTES: MID246 The US-Cuba dispute triggered a MID between the US and Russia here as well, but this was not a territorial MID and thus not a link to territory between US and Russia. 
+
+MARITMID: MID246 3 -- not maritime 
+MARITMID-CER: MID246 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID246 3 -- not islands 
+ISLMID-CER: MID246 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID246 3 -- not civil war 
+CIVWARMID-CER: MID246 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID246 3 -- not civil war link 
+CIVWARLINK-CER: MID246 1 -- certain 
+CIVWARLINK-NOTES: MID246 coded not civil war link because this was a military invasion by US-trained soldiers who had become US citizens. (The US had a policy of granting citizenship to Cuban exiles and refugees.) This was not a militarized rebel group fighting from within Cuba against the government. 
+
+COUPMID: MID246 3 -- not coup 
+COUPMID-CER: MID246 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID246 3 -- not coup link
+COUPLINK-CER: MID246 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID253 
+
+TERRMID: MID253 3 -- not territory 
+TERRMID-CER: MID253 1 -- certain 
+TERRMID-NOTES: MID253 from cm narrative, Soviet forces shot down a US reconnaissance plane in Soviet airspace, capturing and imprisoning its pilot. Occurred May-July 1960. Coded not territorial because this was not connected to a territorial dispute.
+
+TERRLINK: MID253 3 -- not third party link to territory 
+TERRLINK-CER: MID253 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID253 3 -- not maritime 
+MARITMID-CER: MID253 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID253 3 -- not islands 
+ISLMID-CER: MID253 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID253 3 -- not civil war 
+CIVWARMID-CER: MID253 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID253 3 -- not civil war link 
+CIVWARLINK-CER: MID253 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID253 3 -- not coup 
+COUPMID-CER: MID253 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID253 3 -- not coup link
+COUPLINK-CER: MID253 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1363 
+
+TERRMID: MID1363 3 -- not territory 
+TERRMID-CER: MID1363 1 -- certain 
+TERRMID-NOTES: MID1363 from cm narrative, this MID is about the internationalized Laotian Civil War. The US and Thailand were supporting the Royal Laotian Government (incumbent), and the USSR, China, and North Vietnam were supporting the communist guerrillas (militarized rebel group). The US and USSR did not want that conflict to lead to a direct conflict between US and USSR, and there was a push to resolve the conflict via a Geneva Conference. China warned that it would intervene with direct military force if SEATO intervened. This threat constitutes MID1363. Coded not territorial because neither the US nor USSR were advancing a territorial claim here.
+
+TERRLINK: MID1363 3 -- not third party link to territory 
+TERRLINK-CER: MID1363 1 -- certain 
+TERRLINK-NOTES: MID1363 this is an internationalized civil war in which several countries supported the rebels or the regimes, but none of these countries were making a claim on Laotian territory. 
+
+MARITMID: MID1363 3 -- not maritime 
+MARITMID-CER: MID1363 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1363 3 -- not islands 
+ISLMID-CER: MID1363 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1363 3 -- not civil war 
+CIVWARMID-CER: MID1363 1 -- certain 
+CIVWARMID-NOTES: MID1363 coded not civil war because the civil war in Laos is outside of this dyad. See CIVWARLINK. 
+
+CIVWARLINK: MID1363 1 -- civil war link 
+CIVWARLINK-CER: MID1363 1 -- certain 
+CIVWARLINK-NOTES: MID1363 from cm narrative, this MID was an internationalized Laotian Civil War. The US and USSR supported opposite sides in the war. A threat by China, who was supporting the communist guerrillas as the USSR was, triggered this multilateral MID. Coded civil war link because the Laotian Civil War is outside of this dyad and caused a MID between US and USSR. 
+
+COUPMID: MID1363 3 -- not coup 
+COUPMID-CER: MID1363 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1363 3 -- not coup link
+COUPLINK-CER: MID1363 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: MID27 coded not territory because the territorial dispute involved here is between East and West Germany, outside of this dyad. See TERRLINK.
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 from cm narrative, this is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. See TERRMID-NOTES for an explanation of the territorial dispute. Coded third party link to territory because there are several dyads with territorial MIDs in this dispute. The US and Russia were third parties to the East Germany-West Germany territorial dispute. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2217 
+
+TERRMID: MID2217 3 -- not territory 
+TERRMID-CER: MID2217 1 -- certain 
+TERRMID-NOTES: MID2217 from cm narrative, is a bilateral mid that occurred July 25-September 7. The mid is called `Operation Mongoose.' This was a covert U.S. effort to overthrow Fidel Castro after the failure of the Bay of Pigs invasion. It continued throughout the Kennedy administration, but was not an overt use of force. Coded not territorial because the US was not making a territorial claim on Cuba. this was a political leadership issue that triggered a MID between the US and USSR. 
+
+TERRLINK: MID2217 3 -- not third party link to territory 
+TERRLINK-CER: MID2217 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2217 3 -- not maritime 
+MARITMID-CER: MID2217 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2217 3 -- not islands 
+ISLMID-CER: MID2217 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2217 1 -- civil war MID
+CIVWARMID-CER: MID2217 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2217 1 -- civil war link 
+CIVWARLINK-CER: MID2217 1 -- certain 
+CIVWARLINK-NOTES: MID2217 this MID resulted from US efforts to subvert the Cuban government in a variety of ways, including providing military and economic assistance to anti-government (anti-communist) insurgent groups in Cuba. Coded civil war link because this involved militarized rebel groups opposing the government in Cuba, outside of this dyad and this led to a MID between US and USSR. 
+
+COUPMID: MID2217 3 -- not coup 
+COUPMID-CER: MID2217 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2217 3 -- not coup link
+COUPLINK-CER: MID2217 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2219 
+
+TERRMID: MID2219 3 -- not territory 
+TERRMID-CER: MID2219 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2219 1 -- third party link to territorial MID
+TERRLINK-CER: MID2219 1 -- certain 
+TERRLINK-NOTES: MID2219 from cm narrative, this is a multilateral MID with the US and West Germany v. the USSR and East Germany that occurred from December of 1961 until October of 1962. This mid covers a period of several minor incidents that all served to increase hostilities. In December, the East Germans and the Soviets protested to the United States regarding hostile troop movements along the autobahn link connecting Berlin with West Germany. This was followed by the East German shooting of an American military vehicle that was part of the US mission in Potsdam. East Germany and West Germany had a territorial dispute, as West Germany claimed that East Germany's territory rightly belonged to the West as a united Germany. However, this MID is coded third party link to territorial MID because East and West Germany had a territorial dispute, and the US and USSR backed opposing sides in the territorial claim, leading to this MID between them.
+
+MARITMID: MID2219 3 -- not maritime 
+MARITMID-CER: MID2219 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2219 3 -- not islands 
+ISLMID-CER: MID2219 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2219 3 -- not civil war 
+CIVWARMID-CER: MID2219 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2219 3 -- not civil war link 
+CIVWARLINK-CER: MID2219 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2219 3 -- not coup 
+COUPMID-CER: MID2219 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2219 3 -- not coup link
+COUPLINK-CER: MID2219 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3361 
+
+TERRMID: MID3361 3 -- not territory 
+TERRMID-CER: MID3361 1 -- certain 
+TERRMID-NOTES: MID3361 from cm narrative, this is a multilateral MID in which China and the USSR threatened that the US was provoking war by building up its forces in South Vietnam. China and USSR were supporting North Vietnam. Coded not territory because the US and USSR were not disputing territory here. See TERRLINK.
+
+TERRLINK: MID3361 1 -- third party link to territorial MID
+TERRLINK-CER: MID3361 1 -- certain 
+TERRLINK-NOTES: MID3361 from cm narrative, the US' support of South Vietnam, and China and USSR's support of North Vietnam triggered this MID. The Vietnam War is a territorial MID because each was trying to control the entire territory of Vietnam. Coded third party link to territory because Vietnam War is a territorial MID and the US and USSR's opposing support triggered this MID.
+
+MARITMID: MID3361 3 -- not maritime 
+MARITMID-CER: MID3361 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3361 3 -- not islands 
+ISLMID-CER: MID3361 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3361 3 -- not civil war 
+CIVWARMID-CER: MID3361 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3361 1 -- civil war link 
+CIVWARLINK-CER: MID3361 1 -- certain 
+CIVWARLINK-NOTES: MID3361 the Vietnam War is also considered a civil war MID because North Vietnamese communist guerrillas were present in the South, fighting against the government as part of the war effort, and China and USSR were supporting these guerillas. Coded civil war link because this MID has a civil war element between North and South Vietnam, and US and USSR's opposing support triggered this MID. 
+
+COUPMID: MID3361 3 -- not coup 
+COUPMID-CER: MID3361 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3361 3 -- not coup link
+COUPLINK-CER: MID3361 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos, and the USSR provided less direct support to communist insurgents. The US supported the Royal Laotian Government (RLG) forces. Chinese forces directly engaged in combat with RLG forces, triggering this MID due to the US support for RLG forces and USSR's support for communist forces. Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2899 
+
+TERRMID: MID2899 3 -- not territory 
+TERRMID-CER: MID2899 1 -- certain 
+TERRMID-NOTES: MID2899 occurred on March 15, 1963. It is a bilateral one day mid. On this date, Soviet aircraft violated U.S. airspace over Alaska eliciting an American diplomatic protest but no military action. Coded not territory because the US and USSR were not disputing Alaska, and this is a general Cold War tensions MID. 
+
+TERRLINK: MID2899 3 -- not third party link to territory 
+TERRLINK-CER: MID2899 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2899 3 -- not maritime 
+MARITMID-CER: MID2899 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2899 3 -- not islands 
+ISLMID-CER: MID2899 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2899 3 -- not civil war 
+CIVWARMID-CER: MID2899 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2899 3 -- not civil war link 
+CIVWARLINK-CER: MID2899 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2899 3 -- not coup 
+COUPMID-CER: MID2899 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2899 3 -- not coup link
+COUPLINK-CER: MID2899 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2218 
+
+TERRMID: MID2218 3 -- not territory 
+TERRMID-CER: MID2218 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2218 1 -- third party link to territory 
+TERRLINK-CER: MID2218 3 -- uncertain 
+TERRLINK-NOTES: MID2218 from cm narrative, this is related to the security of Berlin and occurred on 4/2/1963. Coded uncertain because no additional historical information could be found on this specific dispute. Coded third party link to territory because West Germany, supported by US, and East Germany, supported by USSR, had a territorial dispute (West Germany claimed East Germany's territory as its own), and previous disputes involving Berlin were third party link to territorial MIDs. 
+
+MARITMID: MID2218 3 -- not maritime 
+MARITMID-CER: MID2218 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2218 3 -- not islands 
+ISLMID-CER: MID2218 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2218 3 -- not civil war 
+CIVWARMID-CER: MID2218 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2218 3 -- not civil war link 
+CIVWARLINK-CER: MID2218 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2218 3 -- not coup 
+COUPMID-CER: MID2218 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2218 3 -- not coup link
+COUPLINK-CER: MID2218 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2220 
+
+TERRMID: MID2220 3 -- not territory 
+TERRMID-CER: MID2220 1 -- certain 
+TERRMID-NOTES: MID2220 from cm narrative, is a border violation involving the Soviet Union, that occurred from January 28-March 27 of 1964. On January 28, an American training plane was shot down over East Germany. On March 10, an American reconnaissance aircraft was shot down under similar circumstances. The crew was returned on March 27. Coded not territory because the US and USSR were not disputing territory between them here. See TERRLINK.
+
+TERRLINK: MID2220 1 -- third party link to territory 
+TERRLINK-CER: MID2220 1 -- certain 
+TERRLINK-NOTES: MID2220 from cm narrative, this MID was triggered by the US support for West Germany and USSR support for East Germany. West and East Germany had an ongoing territorial dispute. Coded third party link to territory because the territorial dispute between East and West Germany contributed to this MID between the US and USSR when the USSR shot down a US airplane in East German airspace. 
+
+MARITMID: MID2220 3 -- not maritime 
+MARITMID-CER: MID2220 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2220 3 -- not islands 
+ISLMID-CER: MID2220 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2220 3 -- not civil war 
+CIVWARMID-CER: MID2220 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2220 3 -- not civil war link 
+CIVWARLINK-CER: MID2220 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2220 3 -- not coup 
+COUPMID-CER: MID2220 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2220 3 -- not coup link
+COUPLINK-CER: MID2220 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2909 
+
+TERRMID: MID2909 3 -- not territory 
+TERRMID-CER: MID2909 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2909 1 -- third party link to territorial MID
+TERRLINK-CER: MID2909 3 -- uncertain 
+TERRLINK-NOTES: MID2909 from Gibler, Little, and Miller (2016: IIb-31), this MID is a duplicate of MID2220 in which Soviet fighters shot down a US training plane over East Germany. The authors recommend this case be dropped, so this is coded uncertain. 
+
+MARITMID: MID2909 3 -- not maritime 
+MARITMID-CER: MID2909 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2909 3 -- not islands 
+ISLMID-CER: MID2909 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2909 3 -- not civil war 
+CIVWARMID-CER: MID2909 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2909 3 -- not civil war link 
+CIVWARLINK-CER: MID2909 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2909 3 -- not coup 
+COUPMID-CER: MID2909 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2909 3 -- not coup link 
+COUPLINK-CER: MID2909 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID611 
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: MID611 from cm narrative, this is the Vietnam War. The US was supporting South Vietnam, and China and USSR were supporting North Vietnam and communist guerrillas in South Vietnam. Coded not territorial because the US and USSR were not disputing territory between them, but were supporting opposite sides in a territorial dispute. See TERRLINK. 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 from cm narrative, this MID is triggered by the opposing support in the Vietnam War, with the US supporting South Vietnam, and China and USSR supporting North Vietnam and communist insurgents who were fighting in the South. Coded third party link to territory because North Vietnam and South Vietnam were in a territorial dispute, and the Us and USSR's opposing support triggered this MID between them. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 3 -- not civil war 
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 the Vietnam War is also considered a civil war MID because it involved communist insurgents in South Vietnam fighting against the government and against US forces. Coded civil war link because the civil war is outside of this dyad and contributed to this MID between US and USSR. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2901 
+
+TERRMID: MID2901 3 -- not territory 
+TERRMID-CER: MID2901 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2901 3 -- not third party link to territory 
+TERRLINK-CER: MID2901 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2901 3 -- not maritime 
+MARITMID-CER: MID2901 1 -- certain 
+MARITMID-NOTES: MID2901 from NYT 7/18/1964, Soviet vessels fired shots across the bow of a US grain ship. Coded not maritime because this was not connected to any maritime boundary dispute. The proximate cause was a disagreement over unloading fees in a Soviet port, but this may have been more generally caused by Cold War tensions. 
+
+ISLMID: MID2901 3 -- not islands 
+ISLMID-CER: MID2901 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2901 3 -- not civil war 
+CIVWARMID-CER: MID2901 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2901 3 -- not civil war link 
+CIVWARLINK-CER: MID2901 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2901 3 -- not coup 
+COUPMID-CER: MID2901 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2901 3 -- not coup link
+COUPLINK-CER: MID2901 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2910 
+
+TERRMID: MID2910 3 -- not territory 
+TERRMID-CER: MID2910 1 -- certain 
+TERRMID-NOTES: MID2910 from cm narrative, this MID was triggered by a display of force between US and USSR when both sides did a "show of planes," or a display of air power. Coded not territorial because the US and USSR were not disputing territory here and this MID occurred due to general Cold War tensions. 
+
+TERRLINK: MID2910 3 -- not third party link to territory 
+TERRLINK-CER: MID2910 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2910 3 -- not maritime 
+MARITMID-CER: MID2910 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2910 3 -- not islands 
+ISLMID-CER: MID2910 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2910 3 -- not civil war 
+CIVWARMID-CER: MID2910 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2910 3 -- not civil war link 
+CIVWARLINK-CER: MID2910 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2910 3 -- not coup 
+COUPMID-CER: MID2910 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2910 3 -- not coup link
+COUPLINK-CER: MID2910 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2921 
+
+TERRMID: MID2921 3 -- not territory 
+TERRMID-CER: MID2921 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2921 1 -- third party link to territorial MID
+TERRLINK-CER: MID2921 1 -- certain 
+TERRLINK-NOTES: MID2921 from NYT 7/16/1966 (from Gibler, Little, and Miller 2016: F-179), the US protested when the Soviets forced down a US helicopter over West German territory. The incident happened along the West Germany-East Germany border as both the US and USSR were patrolling the border. Coded third party link to territory because Eats and West Germany had a territorial dispute, as each claimed the entirety of the other's territory, and the US and USSR MID here was directly connected to that territorial dispute because they were enforcing the territory of their respective sides in the dispute. 
+
+MARITMID: MID2921 3 -- not maritime 
+MARITMID-CER: MID2921 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2921 3 -- not islands 
+ISLMID-CER: MID2921 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2921 3 -- not civil war 
+CIVWARMID-CER: MID2921 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2921 3 -- not civil war link 
+CIVWARLINK-CER: MID2921 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2921 3 -- not coup 
+COUPMID-CER: MID2921 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2921 3 -- not coup link
+COUPLINK-CER: MID2921 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2934 
+
+TERRMID: MID2934 3 -- not territory 
+TERRMID-CER: MID2934 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2934 3 -- not third party link to territory 
+TERRLINK-CER: MID2934 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2934 3 -- not maritime 
+MARITMID-CER: MID2934 1 -- certain 
+MARITMID-NOTES: MID2934 from cm narrative, occurred from March 2-22, 1967. A Soviet fishing vessel was fined for fishing in U.S. waters near Alaska. Coded not maritime because the US and USSR did not dispute a maritime boundary and this did not involve advancing any claim. 
+
+ISLMID: MID2934 3 -- not islands 
+ISLMID-CER: MID2934 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2934 3 -- not civil war 
+CIVWARMID-CER: MID2934 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2934 3 -- not civil war link 
+CIVWARLINK-CER: MID2934 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2934 3 -- not coup 
+COUPMID-CER: MID2934 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2934 3 -- not coup link
+COUPLINK-CER: MID2934 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2931 
+
+TERRMID: MID2931 3 -- not territory 
+TERRMID-CER: MID2931 1 -- certain 
+TERRMID-NOTES: MID2931 from cm narrative, occurred on April 28, 1967. The Soviets claimed two U.S. planes buzzed their aircraft off the Greek coast. Coded not territorial because this was a general display of power due to Cold War tensions, and was not connected to any territorial claim between the two countries. 
+
+TERRLINK: MID2931 3 -- not third party link to territory 
+TERRLINK-CER: MID2931 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2931 3 -- not maritime 
+MARITMID-CER: MID2931 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2931 3 -- not islands 
+ISLMID-CER: MID2931 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2931 3 -- not civil war 
+CIVWARMID-CER: MID2931 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2931 3 -- not civil war link 
+CIVWARLINK-CER: MID2931 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2931 3 -- not coup 
+COUPMID-CER: MID2931 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2931 3 -- not coup link
+COUPLINK-CER: MID2931 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2930 
+
+TERRMID: MID2930 3 -- not territory 
+TERRMID-CER: MID2930 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2930 3 -- not third party link to territory 
+TERRLINK-CER: MID2930 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2930 3 -- not maritime 
+MARITMID-CER: MID2930 1 -- certain 
+MARITMID-NOTES: MID2930 from cm narrative, occurred in May of 1967. The US was conducting naval exercises with Japan and South Korea within a few hundred miles of Soviet territory. USSR ships and warplanes responded by conducting simultaneous exercises, and Soviet ships got so close to Us warships that collisions occurred. Coded not maritime because although this was a naval flare-up, the US and USSR were not disputing maritime territory and this was connected only to military exercises and Cold War tensions. 
+
+ISLMID: MID2930 3 -- not islands 
+ISLMID-CER: MID2930 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2930 3 -- not civil war 
+CIVWARMID-CER: MID2930 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2930 3 -- not civil war link 
+CIVWARLINK-CER: MID2930 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2930 3 -- not coup 
+COUPMID-CER: MID2930 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2930 3 -- not coup link
+COUPLINK-CER: MID2930 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID345 
+
+TERRMID: MID345 3 -- not territory 
+TERRMID-CER: MID345 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID345 1 -- third party link to territorial MID
+TERRLINK-CER: MID345 1 -- certain 
+TERRLINK-NOTES: MID345 from cm narrative, this MID preceded the Arab-Israeli War in 1967 and is connected to the tensions that escalated to that war. The US and USSR exchanged displays of naval power (the US was supporting Israel and USSR was supporting Syria), and US deployed warships close to Syrian coast to deter USSR from intervening. Coded third party link to territorial MID because this activity was connected to the Israel vs. Egypt/Syria/Jordan territorial dispute in 1967, which wound up with Israel occupying Sinai, Gaza, West Bank, East Jerusalem, and the Golan Heights. (Note that the parties were not disputing the entirety of the territory. The Golan Heights, Gaza, Sinai Peninsula, and Straits of Tiran were in dispute here.)
+
+MARITMID: MID345 3 -- not maritime 
+MARITMID-CER: MID345 1 -- certain 
+MARITMID-NOTES: MID345 is the US and USSR interactions related to the Arab Israeli War in 1967. This multilateral MID is a show of ships involving the Soviet Union and Israel, June 10-19. President Johnson ordered the 6th Fleet to move within 50 miles of the Syrian coast in order to signal the Soviets not to intervene in the war. Coded not maritime because the US and USSR were not disputing a maritime border here, and this was connected to opposing support of Israel (US) and Syria (USSR). See TERRLINK. Part of this dispute involved the Straits of Tiran, so this is a maritime MID between Israel and Egypt, and the US and USSR are linked to this maritime MID.
+
+ISLMID: MID345 3 -- not islands 
+ISLMID-CER: MID345 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID345 3 -- not civil war 
+CIVWARMID-CER: MID345 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID345 3 -- not civil war link 
+CIVWARLINK-CER: MID345 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID345 3 -- not coup 
+COUPMID-CER: MID345 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID345 3 -- not coup link
+COUPLINK-CER: MID345 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2928 
+
+TERRMID: MID2928 3 -- not territory 
+TERRMID-CER: MID2928 1 -- certain 
+TERRMID-NOTES: MID2928 is a bilateral mid that occurred from June 30-July 2 1968. A U.S. airliner chartered by Military Airlift Command bound for Cambodia was intercepted by Soviet aircraft off the Kurile islands. No shots were fired. Coded not territory because the US and USSR were not disputing a boundary. See CIVWARLINK.
+
+TERRLINK: MID2928 3 -- not third party link to territory 
+TERRLINK-CER: MID2928 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2928 3 -- not maritime 
+MARITMID-CER: MID2928 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2928 3 -- not islands 
+ISLMID-CER: MID2928 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2928 3 -- not civil war 
+CIVWARMID-CER: MID2928 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2928 1 -- civil war link 
+CIVWARLINK-CER: MID2928 1 -- certain 
+CIVWARLINK-NOTES: MID2928 from cm narrative, this MID was triggered by USSR intercepting a US airliner on its way to Cambodia. This was during the US efforts in the Vietnam War, which also involved US intervention in the ongoing Cambodian Civil War. MIDs connected to the Cambodian Civil War are civil war MIDs.
+
+COUPMID: MID2928 3 -- not coup 
+COUPMID-CER: MID2928 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2928 3 -- not coup link
+COUPLINK-CER: MID2928 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2941 
+
+TERRMID: MID2941 3 -- not territory 
+TERRMID-CER: MID2941 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2941 3 -- not third party link to territory 
+TERRLINK-CER: MID2941 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2941 3 -- not maritime 
+MARITMID-CER: MID2941 1 -- certain 
+MARITMID-NOTES: MID2941 from cm narrative, North Korea shot down a US military airplane in April 1969. The US deployed warships to the Sea of Japan, prompting USSR protest and triggering this MID between US and USSR. The US withdrew warships on April 26, 1969. Coded not maritime because the US was not making a maritime claim against USSR, but was responding to an attack by North Korea. 
+
+ISLMID: MID2941 3 -- not islands 
+ISLMID-CER: MID2941 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2941 3 -- not civil war 
+CIVWARMID-CER: MID2941 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2941 3 -- not civil war link 
+CIVWARLINK-CER: MID2941 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2941 3 -- not coup 
+COUPMID-CER: MID2941 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2941 3 -- not coup link
+COUPLINK-CER: MID2941 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3241 
+
+TERRMID: MID3241 3 -- not territory 
+TERRMID-CER: MID3241 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3241 3 -- not third party link to territory 
+TERRLINK-CER: MID3241 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3241 3 -- not maritime 
+MARITMID-CER: MID3241 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3241 3 -- not islands 
+ISLMID-CER: MID3241 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3241 3 -- not civil war 
+CIVWARMID-CER: MID3241 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3241 1 -- civil war link 
+CIVWARLINK-CER: MID3241 1 -- certain 
+CIVWARLINK-NOTES: MID3241 is associated with events surrounding the Jordanian Civil War of 1970. This multilateral MID involved Jordan, Syria, Libya, Iraq, the US, the USSR and the UK. The U.S. ordered three aircraft carriers to the Middle East and alerted ground forces in order to warn the Syrians against intervening in the ongoing Jordanian civil strife. The USSR was providing support to Syria during this time, triggering this MID between US and USSR. Coded civil war link because the civil war in Jordan led to the US and USSR being involved in this MID due to opposing support. 
+
+COUPMID: MID3241 3 -- not coup 
+COUPMID-CER: MID3241 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3241 3 -- not coup link
+COUPLINK-CER: MID3241 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2221 
+
+TERRMID: MID2221 3 -- not territory 
+TERRMID-CER: MID2221 1 -- certain 
+TERRMID-NOTES: MID2221 from cm narrative, a US plane flying near Soviet airspace was forced down and 2 generals were detained October 10, 1970. They were released about one month later. Coded not territorial because this is a MID connected to general Cold War tensions; the US and USSR were not disputing territory here. 
+
+TERRLINK: MID2221 3 -- not third party link to territory 
+TERRLINK-CER: MID2221 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2221 3 -- not maritime 
+MARITMID-CER: MID2221 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2221 3 -- not islands 
+ISLMID-CER: MID2221 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2221 3 -- not civil war 
+CIVWARMID-CER: MID2221 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2221 3 -- not civil war link 
+CIVWARLINK-CER: MID2221 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2221 3 -- not coup 
+COUPMID-CER: MID2221 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2221 3 -- not coup link
+COUPLINK-CER: MID2221 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2949 
+
+TERRMID: MID2949 3 -- not territory 
+TERRMID-CER: MID2949 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2949 3 -- not third party link to territory 
+TERRLINK-CER: MID2949 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2949 3 -- not maritime 
+MARITMID-CER: MID2949 1 -- certain 
+MARITMID-NOTES: MID2949 occurred in 1972. This was a seizure involving the United States and the Soviet Union. The US Coast Guard seized a Soviet fishing vessel and arrested its captain for fishing illegally and attempting to flee. Coded not maritime because there was no maritime dispute here between US and USSR. 
+
+ISLMID: MID2949 3 -- not islands 
+ISLMID-CER: MID2949 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2949 3 -- not civil war 
+CIVWARMID-CER: MID2949 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2949 3 -- not civil war link 
+CIVWARLINK-CER: MID2949 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2949 3 -- not coup 
+COUPMID-CER: MID2949 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2949 3 -- not coup link
+COUPLINK-CER: MID2949 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID353 
+
+TERRMID: MID353 3 -- not territory 
+TERRMID-CER: MID353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID353 1 -- third party link to territorial MID
+TERRLINK-CER: MID353 1 -- certain 
+TERRLINK-NOTES: MID353 from cm narrative, this MID is concurrent with the Yom Kippur War in October 1973. The US supported Israel, while USSR supported Egypt and Syria. The US and USSR's opposing support during this territorial MID (specifically over Sinai and Golan Heights) between Israel and Egypt & Syria pulls them into this MID. Coded third party link to territory because the Us and USSR are third parties to the territorial dispute. 
+
+MARITMID: MID353 3 -- not maritime 
+MARITMID-CER: MID353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID353 3 -- not islands 
+ISLMID-CER: MID353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID353 3 -- not civil war 
+CIVWARMID-CER: MID353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID353 3 -- not civil war link 
+CIVWARLINK-CER: MID353 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID353 3 -- not coup 
+COUPMID-CER: MID353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID353 3 -- not coup link
+COUPLINK-CER: MID353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2222 
+
+TERRMID: MID2222 3 -- not territory 
+TERRMID-CER: MID2222 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2222 3 -- not third party link to territory 
+TERRLINK-CER: MID2222 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2222 3 -- not maritime 
+MARITMID-CER: MID2222 1 -- certain 
+MARITMID-NOTES: MID2222 from cm narrative, this is a seizure involving the Soviet Union, April 9-10 1977. Two Soviet fishing boats were seized off the New England coast for violating the 200-mile territorial waters limit. Coded not maritime because the US and USSR were not disputing the maritime boundary, and this seems to be a product of general Cold War tensions. 
+
+ISLMID: MID2222 3 -- not islands 
+ISLMID-CER: MID2222 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2222 3 -- not civil war 
+CIVWARMID-CER: MID2222 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2222 3 -- not civil war link 
+CIVWARLINK-CER: MID2222 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2222 3 -- not coup 
+COUPMID-CER: MID2222 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2222 3 -- not coup link
+COUPLINK-CER: MID2222 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2224 
+
+TERRMID: MID2224 3 -- not territory 
+TERRMID-CER: MID2224 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2224 3 -- not third party link to territory 
+TERRLINK-CER: MID2224 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2224 3 -- not maritime 
+MARITMID-CER: MID2224 1 -- certain 
+MARITMID-NOTES: MID2224 from cm narrative, this is the seizure of a US torpedo boat by the USSR in August 1979, resulting in a "show of ships," or a mutual display of naval power. Coded not maritime because the US and USSR were not disputing a maritime boundary, and this appears to be a product of general Cold War tensions. 
+
+ISLMID: MID2224 3 -- not islands 
+ISLMID-CER: MID2224 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2224 3 -- not civil war 
+CIVWARMID-CER: MID2224 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2224 3 -- not civil war link 
+CIVWARLINK-CER: MID2224 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2224 3 -- not coup 
+COUPMID-CER: MID2224 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2224 3 -- not coup link
+COUPLINK-CER: MID2224 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2225 
+
+TERRMID: MID2225 3 -- not territory 
+TERRMID-CER: MID2225 1 -- certain 
+TERRMID-NOTES: MID2225 from cm narrative, this was a show of troops in Cuba, occurring August 31 - November 20 1980. Soviet troops in Cuba engaged in military exercises as a display of force toward the US. Coded not territory because neither the USSR nor Cuba was making a claim on US territory here; this appears to be a product of general Cold War tensions. 
+
+TERRLINK: MID2225 3 -- not third party link to territory 
+TERRLINK-CER: MID2225 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2225 3 -- not maritime 
+MARITMID-CER: MID2225 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2225 3 -- not islands 
+ISLMID-CER: MID2225 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2225 3 -- not civil war 
+CIVWARMID-CER: MID2225 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2225 3 -- not civil war link 
+CIVWARLINK-CER: MID2225 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2225 3 -- not coup 
+COUPMID-CER: MID2225 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2225 3 -- not coup link
+COUPLINK-CER: MID2225 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2226 3 -- not maritime 
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: MID2226 from cm narrative, this involves a show of ships, or a mutual display of naval power, between USSR and several NATO countries, including the US. Coded not maritime because the Us and USSR were not disputing a maritime boundary here, and this seems to be a product of general Cold War tensions. 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2227 
+
+TERRMID: MID2227 3 -- not territory 
+TERRMID-CER: MID2227 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2227 3 -- not third party link to territory 
+TERRLINK-CER: MID2227 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2227 3 -- not maritime 
+MARITMID-CER: MID2227 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2227 3 -- not islands 
+ISLMID-CER: MID2227 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2227 3 -- not civil war 
+CIVWARMID-CER: MID2227 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2227 1 -- civil war link 
+CIVWARLINK-CER: MID2227 1 -- certain 
+CIVWARLINK-NOTES: MID2227 from cm narrative, this is considered a threat of force involving the Soviet Union on May 4. President Carter affirmed U.S. support for Yugoslavian independence on May 4, 1980, during a visit to the country. Carter had stated at a news conference on February 13 that the United States would assist Yugoslavia in resisting Soviet intimidation, triggering this MID. Coded civil war link because the events of Yugoslav Wars (outside of this dyad), including the US attempting to deter the USSR from intervening here, are connected to this MID. The Yugoslav Wars are considered civil war MID(s) because they involve ethnically-based separatist conflicts and insurgencies. 
+
+COUPMID: MID2227 3 -- not coup 
+COUPMID-CER: MID2227 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2227 3 -- not coup link
+COUPLINK-CER: MID2227 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2228 
+
+TERRMID: MID2228 3 -- not territory 
+TERRMID-CER: MID2228 1 -- certain 
+TERRMID-NOTES: MID2228 from cm narrative, this is a seizure initiated by the United States involving the Soviet Union, May 12-14. U.S. Customs inspectors held Soviet air cargo at Dulles airport until it was discovered that only minor paperwork violations could be found. The Soviets protested, but took no other action. Coded not territorial because there was no territorial dispute here (occurred on US mainland territory), and this seems to be a product of general Cold War tensions. 
+
+TERRLINK: MID2228 3 -- not third party link to territory 
+TERRLINK-CER: MID2228 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2228 3 -- not maritime 
+MARITMID-CER: MID2228 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2228 3 -- not islands 
+ISLMID-CER: MID2228 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2228 3 -- not civil war 
+CIVWARMID-CER: MID2228 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2228 3 -- not civil war link 
+CIVWARLINK-CER: MID2228 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2228 3 -- not coup 
+COUPMID-CER: MID2228 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2228 3 -- not coup link
+COUPLINK-CER: MID2228 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2229 
+
+TERRMID: MID2229 3 -- not territory 
+TERRMID-CER: MID2229 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2229 3 -- not third party link to territory 
+TERRLINK-CER: MID2229 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2229 3 -- not maritime 
+MARITMID-CER: MID2229 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2229 3 -- not islands 
+ISLMID-CER: MID2229 1 -- certain 
+ISLMID-NOTES: MID2229 this is a multilateral MID involving US and Japan vs. USSR. Japan and USSR disputed sovereignty over the Kuril Islands following WWII (Elleman, Nichols, and Ouimet 1998). From cm narrative, this MID is known as the "Militarization of Kuril Islands." This MID involves a show of planes between US and USSR and a public US commitment to deploy 50 planes to Honshu, a Japanese island, by 1985. USSR protested but took no action. Coded not islands because islands were not disputed between US and USSR, and this did not seem to come from the islands dispute itself, but rather from general Cold War tensions. The name of the MID seems misleading as well, since Honshu, where the US committed to deploying planes, is not part of the disputed Kuril Islands. 
+
+CIVWARMID: MID2229 3 -- not civil war 
+CIVWARMID-CER: MID2229 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2229 3 -- not civil war link 
+CIVWARLINK-CER: MID2229 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2229 3 -- not coup 
+COUPMID-CER: MID2229 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2229 3 -- not coup link
+COUPLINK-CER: MID2229 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2982 
+
+TERRMID: MID2982 3 -- not territory 
+TERRMID-CER: MID2982 1 -- certain 
+TERRMID-NOTES: MID2982 from cm narrative, this MID occurred on December 16, 1982. This is a bilateral dispute. On this date, the Soviets briefly detained two American journalists who had contacted Jewish dissidents, but the American embassy had no comment when asked about the incident. Coded not territorial because it was not connected to any territorial dispute between these countries. 
+
+TERRLINK: MID2982 3 -- not third party link to territory 
+TERRLINK-CER: MID2982 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2982 3 -- not maritime 
+MARITMID-CER: MID2982 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2982 3 -- not islands 
+ISLMID-CER: MID2982 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2982 3 -- not civil war 
+CIVWARMID-CER: MID2982 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2982 3 -- not civil war link 
+CIVWARLINK-CER: MID2982 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2982 3 -- not coup 
+COUPMID-CER: MID2982 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2982 3 -- not coup link
+COUPLINK-CER: MID2982 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2231 
+
+TERRMID: MID2231 3 -- not territory 
+TERRMID-CER: MID2231 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2231 3 -- not third party link to territory 
+TERRLINK-CER: MID2231 1 -- certain 
+TERRLINK-NOTES: MID2231 from cm narrative, this is a multilateral MID involving shows of force between the US with West Germany and USSR with Czechoslovakia. The US installed missiles in West Germany, and USSR did the same in Czechoslovakia. Threatening behavior using warplanes ensued. Coded not third party link to territory because although West Germany, a US ally, had a territorial dispute against East Germany, a USSR ally, this MID is not connected to that territorial dispute. East Germany is not involved in this MID and the threats here escalated from missile installations, which were themselves a part of routine Cold War behavior between US and USSR. 
+
+MARITMID: MID2231 3 -- not maritime 
+MARITMID-CER: MID2231 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2231 3 -- not islands 
+ISLMID-CER: MID2231 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2231 3 -- not civil war 
+CIVWARMID-CER: MID2231 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2231 3 -- not civil war link 
+CIVWARLINK-CER: MID2231 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2231 3 -- not coup 
+COUPMID-CER: MID2231 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2231 3 -- not coup link
+COUPLINK-CER: MID2231 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2230 
+
+TERRMID: MID2230 3 -- not territory 
+TERRMID-CER: MID2230 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2230 3 -- not third party link to territory 
+TERRLINK-CER: MID2230 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2230 3 -- not maritime 
+MARITMID-CER: MID2230 1 -- certain 
+MARITMID-NOTES: MID2230 is a bilateral dispute with the USSR that occurred September 12-19. The Soviets seized a U.S. commercial vessel that accidentally ventured into Soviet waters near Alaska. The ship was released after American protests. Coded not maritime because the maritime boundary was not disputed. This was likely the result of general Cold War tensions. There was no maritime boundary dispute between the US/USSR.
+
+ISLMID: MID2230 3 -- not islands 
+ISLMID-CER: MID2230 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2230 3 -- not civil war 
+CIVWARMID-CER: MID2230 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2230 3 -- not civil war link 
+CIVWARLINK-CER: MID2230 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2230 3 -- not coup 
+COUPMID-CER: MID2230 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2230 3 -- not coup link
+COUPLINK-CER: MID2230 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2232 
+
+TERRMID: MID2232 3 -- not territory 
+TERRMID-CER: MID2232 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2232 1 -- third party link to territorial MID
+TERRLINK-CER: MID2232 1 -- certain 
+TERRLINK-NOTES: MID2232 from cm narrative, this MID occurred when a US military officer was shot in East Germany by the Soviets. The US and USSR had agreed since 1947 that each side was permitted to observe the other's activities in East/West Germany (US could observe Soviet activities in the East, and vice versa). The US officer was shot while on one of these observations, prompting protest from the US but no retaliation. Coded third party link to territorial MID because this incident occurred in territory that was disputed by East and West Germany. The US and USSR presence in the area was tied to them backing opposing sides in the territorial dispute, and the tensions that led to this MID were partially because of the East/West dispute.
+
+MARITMID: MID2232 3 -- not maritime 
+MARITMID-CER: MID2232 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2232 3 -- not islands 
+ISLMID-CER: MID2232 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2232 3 -- not civil war 
+CIVWARMID-CER: MID2232 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2232 3 -- not civil war link 
+CIVWARLINK-CER: MID2232 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2232 3 -- not coup 
+COUPMID-CER: MID2232 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2232 3 -- not coup link
+COUPLINK-CER: MID2232 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3637 
+
+TERRMID: MID3637 3 -- not territory 
+TERRMID-CER: MID3637 1 -- certain 
+TERRMID-NOTES: MID3637 from NYT 1/15/1986, two Libyan fighter planes buzzed a US recon plane. The Libyan planes were being directed by a Soviet surveillance aircraft, pulling the USSR into this MID. Coded not territory because this is connected to general Cold War tensions, and no territorial boundary was being disputed here. 
+
+TERRLINK: MID3637 3 -- not third party link to territory 
+TERRLINK-CER: MID3637 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3637 3 -- not maritime 
+MARITMID-CER: MID3637 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3637 3 -- not islands 
+ISLMID-CER: MID3637 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3637 3 -- not civil war 
+CIVWARMID-CER: MID3637 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3637 3 -- not civil war link 
+CIVWARLINK-CER: MID3637 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3637 3 -- not coup 
+COUPMID-CER: MID3637 1 -- certain
+COUPMID-NOTES: 
+
+COUPLINK: MID3637 3 -- not coup link
+COUPLINK-CER: MID3637 1 -- certain
+COUPLINK-NOTES: 
+
+
+
+MID2233 
+
+TERRMID: MID2233 3 -- not territory 
+TERRMID-CER: MID2233 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2233 3 -- not third party link to territory 
+TERRLINK-CER: MID2233 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2233 3 -- not maritime 
+MARITMID-CER: MID2233 1 -- certain 
+MARITMID-NOTES: MID2233 from cm narrative, this MID occurred on 3/18/1986. Here a US guided missile cruiser and destroyer traveled near the Crimean coast to test right of innocent passage, prompting Soviet protests. Coded not maritime because the maritime boundary here was not disputed and the US was testing its ability to travel through the waters without incident. 
+
+ISLMID: MID2233 3 -- not islands 
+ISLMID-CER: MID2233 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2233 3 -- not civil war 
+CIVWARMID-CER: MID2233 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2233 3 -- not civil war link 
+CIVWARLINK-CER: MID2233 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2233 3 -- not coup 
+COUPMID-CER: MID2233 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2233 3 -- not coup link
+COUPLINK-CER: MID2233 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4174 
+
+TERRMID: MID4174 3 -- not territory 
+TERRMID-CER: MID4174 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4174 3 -- not third party link to territory 
+TERRLINK-CER: MID4174 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4174 3 -- not maritime 
+MARITMID-CER: MID4174 1 -- certain 
+MARITMID-NOTES: MID4174 from cm narrative, this MID occurred August 15, 1997. The US seized a Russian fishing vessel in the Bering Sea for illegally fishing in American waters, leading to Soviet protests. Coded not maritime because this maritime boundary was not disputed. 
+
+ISLMID: MID4174 3 -- not islands 
+ISLMID-CER: MID4174 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4174 3 -- not civil war 
+CIVWARMID-CER: MID4174 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4174 3 -- not civil war link 
+CIVWARLINK-CER: MID4174 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4174 3 -- not coup 
+COUPMID-CER: MID4174 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4174 3 -- not coup link
+COUPLINK-CER: MID4174 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4213 
+
+TERRMID: MID4213 3 -- not territory 
+TERRMID-CER: MID4213 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4213 3 -- not third party link to territory 
+TERRLINK-CER: MID4213 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4213 3 -- not maritime 
+MARITMID-CER: MID4213 1 -- certain 
+MARITMID-NOTES: MID4213 from cm narrative, this MID occurred when the US stopped and detained two Russian tankers suspected of transporting sanctioned Iraqi oil, leading to Rusian protests. Coded not maritime because these countries were not disputing their maritime boundary and this was about possible violation of international sanctions. 
+
+ISLMID: MID4213 3 -- not islands 
+ISLMID-CER: MID4213 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4213 3 -- not civil war 
+CIVWARMID-CER: MID4213 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4213 3 -- not civil war link 
+CIVWARLINK-CER: MID4213 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4213 3 -- not coup 
+COUPMID-CER: MID4213 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4213 3 -- not coup link
+COUPLINK-CER: MID4213 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4220 
+
+TERRMID: MID4220 3 -- not territory 
+TERRMID-CER: MID4220 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4220 3 -- not third party link to territory 
+TERRLINK-CER: MID4220 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4220 3 -- not maritime 
+MARITMID-CER: MID4220 1 -- certain 
+MARITMID-NOTES: MID4220 from cm narrative, on two separate occasions (10/17/2000 and 10/19/2000), two Russian jets fly over the USS Kitty Hawk on its way to, and then from, exercises in the Korean Straits. Both times the Russian jets were chased by American F-18s, triggering this MID. Coded not maritime because they were not disputing their maritime boundary and this was about US naval exercises near Russian territory. These naval exercises were not connected to advancing any claims of any type. 
+
+ISLMID: MID4220 3 -- not islands 
+ISLMID-CER: MID4220 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4220 3 -- not civil war 
+CIVWARMID-CER: MID4220 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4220 3 -- not civil war link 
+CIVWARLINK-CER: MID4220 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4220 3 -- not coup 
+COUPMID-CER: MID4220 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4220 3 -- not coup link
+COUPLINK-CER: MID4220 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4197 
+
+TERRMID: MID4197 3 -- not territory 
+TERRMID-CER: MID4197 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4197 3 -- not third party link to territory 
+TERRLINK-CER: MID4197 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4197 3 -- not maritime 
+MARITMID-CER: MID4197 1 -- certain 
+MARITMID-NOTES: MID4197 from cm narrative, Russia deployed 7 nuclear-capable bombers to its bases in the Arctic, prompting the US and Canada to deploy planes to the area, triggering this MID. Coded not maritime because the maritime boundary was not contested. 
+
+ISLMID: MID4197 3 -- not islands 
+ISLMID-CER: MID4197 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4197 3 -- not civil war 
+CIVWARMID-CER: MID4197 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4197 3 -- not civil war link 
+CIVWARLINK-CER: MID4197 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4197 3 -- not coup 
+COUPMID-CER: MID4197 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4197 3 -- not coup link
+COUPLINK-CER: MID4197 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4241 
+
+TERRMID: MID4241 3 -- not territory 
+TERRMID-CER: MID4241 3 -- uncertain 
+TERRMID-NOTES: MID4241 from cm narrative, MID4241 is a Russian display of force against the US in September of 2001. The US took no military action. No further information on this dispute could be found in NYT archives, Keesings, Facts on File, or a Lexis Nexis search, although it appears that the Russian parliament was debating offering some type of assistance to the US in attacking Afghanistan. At one point, Putin even offered to allow the US to use an air base in Tajikistan, a former USSR satellite, from which to bomb Afghanistan (Daily Star 9/15/2001). It therefore seems that the US and Russia were not particularly quarrelsome around the time of this MID and the Russian display of force which triggered this MID may be an isolated incident and not indicative of general US-Russian relations at the time. Coded uncertain because of lack of information on this particular MID. 
+
+TERRLINK: MID4241 3 -- not third party link to territory 
+TERRLINK-CER: MID4241 3 -- uncertain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4241 3 -- not maritime 
+MARITMID-CER: MID4241 3 -- uncertain 
+MARITMID-NOTES: 
+
+ISLMID: MID4241 3 -- not islands 
+ISLMID-CER: MID4241 3 -- uncertain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4241 3 -- not civil war 
+CIVWARMID-CER: MID4241 3 -- uncertain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4241 3 -- not civil war link 
+CIVWARLINK-CER: MID4241 3 -- uncertain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4241 3 -- not coup 
+COUPMID-CER: MID4241 3 -- uncertain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4241 3 -- not coup link
+COUPLINK-CER: MID4241 3 -- uncertain 
+COUPLINK-NOTES: 
+
+
+
+
+
+
+MID3 1993-2001:
+
+MID4174
+rivalry=2365 nationa=USA nationb=RUSSIA/USSR MID4174 19970815 -19970800 revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On August 15, 1997 the United States Coast Guard seized a Russian fishing boat in the Bering Sea for illegally fishing in American waters. The Russian Duma requested the ship be released in a statement on September 13. There is no indication that the boat was ever released, and some indication that the boat and its gear were confiscated by the United States. 19970815 -19970800 First day of dispute was on 8/15/1997 and last day of dispute is listed as 8/00/1997.
+
+MID4342
+rivalry=2365 nationa=RUSSIA/USSR nationb=USA MID4342 19990408 -19990419 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+MID4213
+rivalry=2365 nationa=USA nationb=RUSSIA/USSR MID4213 20000202 -20000400 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+USA patrol boats stopped and detained two Russian tankers suspected of carrying sanctioned Iraq oil from the Persian Gulf. Russian Foreign Minister demanded the immediate release of the tanker. First day of dispute was on 2/2/2000 and last day of dispute is listed as 4/00/2000.
+
+MID4220
+rivalry=2365 nationa=RUSSIA/USSR nationb=USA MID4220 20001017 -20001109 revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=DISPLAY OF FORCE 
+
+On two separate occasions (10/17/2000 and 10/19/2000) two Russian jets fly over the USS Kitty Hawk on its way to, and then from, exercises in the Korean Straits. Both times the Russian jets were chased by American F-18s. First day of dispute was on 10/17/2000 and last day of dispute was on 11/9/2000.
+
+MID4197
+rivalry=2365 nationa=RUSSIA/USSR nationb=USA MID4197 20001126 -20001200 revtype1a=OTHER revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+Russia deployed seven bombers capable of carrying nuclear weapons to bases in the Arctic as a "training exercise." These confrontations were routine during the Cold War but not at the time of this dispute. Canada and the United States responded by moving fighters and AWACS radar planes to northern bases to counter what NORAD described as a "potential threat." Pentagon spokesman, Kenneth Bacon stated, "We would anticipate that, in the next few days, they [the Russians] might fly one or several of these planes through the Bering Straits and close to Alaska." Russia deployed its planes sometime in late November - we assume November 26; the United States and Canada deployed their planes on November 30. It is not clear how long these deployments lasted. There is no evidence of future discussions among the participants regarding Russia's military presence in the Arctic. More specifically, it is not clear whether Russia removed its planes from the Arctic or whether Canada and United States decided to allow Russia to conduct future such training exercises in the Arctic. First day of dispute was on 11/26/2000 and last day of dispute was on 12/00/2000.
+
+NARRATIVE-CM:
+The Soviet Union and the US disputed the status of Germany after the end of the *Second World War*. On November 30, 1945, the Allied countries-the US, Soviet Union, France, and Britain-agreed to provide three air corridors to the US, France, and Britain through the Soviet zone of Germany (East Germany) to the non-Soviet zones of Berlin (West Berlin). The Soviet Union severed transportation links between West Germany and West Berlin on August 4, 1948, and the US responded by airlifting supplies to West Berlin. The US referred the matter to the *United Nations* (UN) Security Council in September 1948. The Soviet Union lifted the blockade on May 12, 1949. The *Federal Republic of Germany* (FRG) was established on September 21, 1949, and the *German Democratic Republic (GDR) was proclaimed on October 7, 1949. The Soviet Union shot down a US military aircraft over the Baltic Sea on April 8, 1950, resulting in the deaths of ten US personnel. The Soviet Union shot down a US military aircraft near Siberia on April 6, 1951, resulting in the deaths of 10 US personnel. The UN General Assembly approved a resolution on December 20, 1951 which established a commission of inquiry to investigate the possibility of German elections and reunification. The UN commission of inquiry disbanded in July 1952 after being denied access to East Germany. Soviet military aircraft shot down US military aircraft over Armenia on June 27, 1958, resulting in the detention of nine US military personnel. The Soviet Union release the nine US military personnel on July 7, 1958. Soviet military aircraft shot down US military aircraft over Armenia on September 2, 1958, resulting in the deaths of six US personnel. The Soviet Union demanded on November 27, 1958 that the US/British/French occupation of Berlin be ended, but the demand was rejected by those countries on December 31, 1958. Representatives of the four countries held negotiations concerning Berlin beginning on May 11, 1959. The countries signed an agreement on September 15, 1959, which provided for the banning of all nuclear weapons and missiles in Berlin. The Soviet Union shot down a US U-2 plane near Sverdlovsk on May 1, 1960, and protested against "aggressive acts" by the US on May 10, 1960. The Soviet Union referred the matter to the UN Security Council on May 20, 1960. East German troops and police erected a wall between East Berlin and West Berlin beginning on August 13, 1961. The US deployed an additional 1,500 troops in West Berlin on August 17-18, 1961. Soviet military aircraft shot down a US military aircraft near Erfurt, East Germany on January 28, 1964, resulting in the deaths of three US personnel. Soviet military aircraft shot down a US military aircraft near the West Germany-East Germany border on March 10, 1964, and Soviet officials released the three crew members of the military aircraft to US officials on March 21, 1964. 
+
+The Soviet Union and US disputed the status of the Korean peninsula at the end of the *Second World War*. Soviet troops occupied Korea north of the 38th parallel, and US troops occupied Korea south of the 38th parallel. On December 27, 1945, Britain, the Soviet Union, and US agreed to establish a joint US-Soviet commission to negotiate the independence of Korea. The Soviet Union and US disagreed over the terms of Korea independence. The US referred the disagreement to the UN General Assembly in September 1947. The UN General Assembly recognized Korea's claim to independence and made plans for the establishment of a democratically-elected government on November 14, 1947. The UN General Assembly established the *United Nations Temporary Commission on Korea* (UNTCOK) on November 14, 1947 to monitor democratic elections in Korea. UNTCOK consisted of eighteen personnel from Australia, Canada, China, El Salvador, France, India, Philippines, and Syria (including 12 staff personnel from the UN Secretariat). Elections for the National Assembly were held in southern Korea on May 10, 1948. The UNTCOK supervised the elections, and issued a report on June 30, 1948. The National Assembly adopted a constitution on July 17, 1948 and elected Syngman Rhee as president on July 20, 1948. The *Republic of Korea* (South Korea) was proclaimed on August 15, 1948. The *Democratic People's Republic of Korea* (North Korea) was proclaimed on September 10, 1948. UNTCOK was dissolved on December 12, 1948. US military aircraft shot down a Soviet military aircraft near Korea on September 4, 1950, resulting in the death of three Soviet military personnel. Soviet military aircraft shot down a US military aircraft near the coast of northern Japan on October 7, 1952, resulting in the deaths of eight US military personnel. Soviet military aircraft shot down a US military aircraft over the Sea of Japan on July 29, 1953, resulting in the deaths of 16 US military personnel. Soviet military aircraft shot down a US naval aircraft near Siberian coast on September 4, 1954, resulting in the death of one US naval personnel. The US referred the matter to the UN Security Council on September 9, 1954, but the UN Security Council did not take action on the matter. Soviet military aircraft shot down a US military aircraft near the coast of northern Japan on November 7, 1954, resulting in the death of one US military personnel. Soviet military aircraft and US military aircraft clashed near North Korean coast on May 10, 1955, resulting in the downing of two Soviet aircraft. Soviet military aircraft shot down a US navy patrol plane near St. Lawrence Island in the Bering Sea on June 22, 1955. The US submitted the dispute concerning the downing of a US naval aircraft near the Siberian coast on September 4, 1954 to the *International Court of Justice* (ICJ) on August 22, 1958, but the Soviet Union rejected ICJ jurisdiction over the matter.
+
+Prime Minister Nikita Khrushchev of the Soviet Union announced an agreement to supply arms and technical specialists to Cuba on September 2, 1962. On September 11, 1962, Prime Minister Khrushchev announced that the Soviet arms were being sent to Cuba "exclusively for defensive purposes." On October 22-23, 1962, President John Kennedy announced that the Soviet Union had deployed medium-range offensive missiles in Cuba, and ordered an air and naval blockade against all offensive military equipment being shipped to Cuba and air surveillance of Cuba beginning on October 24, 1962. On October 23, 1962, the *Organization of American States* (OAS) Council called on the Soviet Union to withdraw its offensive weapons from Cuba, and the OAS Council authorized the use of military force to ensure that "the government of Cuba cannot continue to receive from the Sino-Soviet powers military material and related supplies which may threaten the peace and stability of the continent and to prevent the missiles in Cuba with offensive capability from ever becoming an active threat to the peace and security of the continent." The Soviet Union rejected the US "quarantine" of Cuba and placed its military forces on alert on October 23, 1962. Twelve Latin American countries (Argentina, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Nicaragua, Panama, Venezuela) offered to provide military assistance and port facilities for military operations in the Cuban region. The UN Security Council met from October 23-24, 1962, but took no action concerning the crisis. Japan expressed support for the US on October 24, 1962. UN Secretary-General U Thant appealed for peaceful negotiations on October 24, 1963, and representaties of the Soviet Union and the US began negotiations on October 25, 1962. The Vatican appealed for peaceful negotiations on October 25, 1962. Prime Minister John Diefenbaker of Canada expressed support for the US, and Prime Minister Harold Macmillan of Britain expressed support for the US on October 25, 1962. Soviet troops shot down a US U-2 military aircraft over Cuba on October 27, 1962, resulting in the death of one US soldier. On October 28, 1962, Prime Minister Khrushchev agreed to dismantle and remove the missiles from Cuba under UN supervision, and the US agreed to lift the blockade against Cuba. The US suspended the naval blockade against on October 30-November 1, 1962, during which UN Secretary-General U Thant traveled to Cuba for negotiations with Fidel Castro concerning on-site inspections within Cuba. Fidel Castro refused to agree to US inspection of missile bases on November 1, 1962. On November 8, 1962, the US announced that all Soviet missiles had been removed from Cuba after inspecting Soviet ships departing from Cuba. The US formally lifted the naval blockade against Cuba on November 20, 1963. On January 7, 1963, the US and Soviet Union agreed that dispute had been resolved to their satisfactions and that it was unnecessary "for this item to occupy further attention of the Security Council at this time."
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 332-361; Butterworth, 1976, 182-183; Clodfelter, 1992, 615-618; Donelan and Grieve, 1973, 28-32, 56-61, 168-173, 179-181, 233-237; *Facts on File*, September 3-9, 1954, September 10-16, 1954, November 5-11, 1954, July 7-13, 1955, May 5-11, 1960, October 18-24, 1962, October 25-31, 1962, November 1-7, 1962, January 30-February 5, 1964, March 5-11, 1964, March 26-April 1, 1964; *Keesing, July 17-24, 1948, November 20-27, 1948, April 29-May 6, 1950, September 9-16, 1950, July 26-August 2, 1958, May 21-28, 1960, April 11-18, 1964, June 17-24, 1972, November 18-25, 1972.
+
+NARRATIVE-CR:
+
+Introduction:
+The rivalry between the United States and the USSR is perhaps the most intense of all the rivalries. Yet, the name given to the rivalry does not characterize it as such. The Cold War was the open yet restricted rivalry that developed after World War II between groups of nations practicing different ideologies and political systems. On one side were the Union of Soviet Socialist Republics (U.S.S.R.) and its allies, often referred to as the Eastern bloc. On the other side were the United States and its allies, usually referred to as the Western bloc. The rivalry was called the Cold War because it did not actually lead to fighting, or "hot" war, on a wide scale between the principal states. The primary issues the USA and the USSR (and their respective allies) fought over were influence in and the division of Europe; perceived threats to Western Europe (from USSR) and Eastern Europe (from allies) and US. At times, the conditions of extreme distrust between the two states increased the likelihood of a third world war (Cuban Missle Crisis, Berlin Blockade, etc). The United States accused the Soviet Union of seeking to expand their version of Communism throughout the world. The Soviets charged the United States with practicing imperialism and with attempting to stop revolutionary activity in other countries. 
+
+The Cold War continued from the end of World War II until the breakup of the Soviet Union in the early 1990s. The Korean War, the Vietnam War and the Soviet invasion of Afghanistan were some of the occasions when the tension between those two states and their competing ideologies took the form of an armed conflict. However, much of the rivalry was conducted by or against surrogates and through spies and traitors who were working undercover. Thus in many of the MIDs that occur between the states the principal combatants are surrogate or allied states. In those conflicts, the major powers operated in good part by arming or funding surrogates. Hence, that part of the war at least had lessened direct impact on the populations of the major powers. 
+
+MID197 MID2606 MID2366 all occurred in connection with the US interventions into the Russian Revolution. The rivalry between the US and the USSR began with US and Western Power intervention in the Russian Revolution. The U.S. sent troops to Archangel in September 1918, removing them in June 1919. Allied troops landed in Vladivostok in August 1918, remaining through January 1920. MID 197, `Allied intervention in Russian Civil War,' was a clash with the Soviet Union dated January 12, 1918-April 1, 1920 contains both MID 2606, `Soviet Civil-War-Intervention in Northern U.S.S.R.,' a clash dated June 28, 1918-October 12, 1919, and MID 2366, `Soviet civil war; intervention in Siberia,' an occupation of territory dated January 12, 1918-October 1, 1920. 
+
+During World War II, the US and the USSR were allies against Germany and Japan. In the months following WWII, the rivalry between the US and USSR resumed as the Cold War commenced in 1945. 
+
+MID252 occurred from April through October of 1945. The US sent a carrier and the battleship Missouri to Turkey. The US demonstrated resolve in support of Turkey against interference into Turkey by the USSR. 
+
+MID26 occurred from March of 1948 until July of 1949. The Berlin blockade crisis began with continuing Soviet protests over a US policy of promoting the economic recovery of Germany and, by February of 1948, plans for a West German state. The two primary precipitants to the blockade were the publication of these plans in June of that year followed two weeks later by the introduction of a new Western currency into the three Western sectors. The USSR instituted the blockade the day after the introduction of the new Deutschmark in the Western zones. The Western powers, led by the United States, responded with a massive airlift of supplies to the encircled Berliners. (The United Kingdom and France were also significant contributors and allies of the US in this MID.)The crisis intensified over the summer and early fall as the Soviets "buzzed" US transport planes in the air corridors over East Germany, and both sides engaged in several military demonstrations of their resolve. The Western position hardened as the airlift grew in size and became more successful. Negotiations began in late August and continued sporadically through the fall and winter. An Allied attempt at action through the United Nations was blocked by a Soviet veto of a Security Council compromise solution (October 25). In January, the Allies began a "counter-blockade" of restrictions on critical goods entering the Eastern sectors of Berlin. By February 2, 1949, Stalin agreed to lift the blockade if the Allies would end the counter-blockade. After the blockade was lifted on May 12, the two sides continued negotiations for some time, but with no success at resolving the deeper issues of the ultimate status of Berlin and Germany.
+
+MID1286 occurred from August of 1949 through November of 1951. This mid is titled `Yugoslavia vs. Cominform countries.' It is covers the rift in relations between the USSR and Yugoslavia. It pits Yugoslavia and the US v. the USSR, Bulgaria, Hungary, and Romania. The central combatants here were the USSR and Yugoslavia. This event is also described as the Yugoslav-Soviet Rift. 
+
+In this mid Stalin feared that he was losing his grip on Eastern Europe and in 1947 ordered creation of a Soviet-dominated socialist bloc. In 1947, the Soviet, East European, Italian, and French communist parties founded the Cominform (Communist Information Bureau). Stalin saw the independent Communists in Yugoslavia as a direct threat. There were other precursors to antagonism including Stalin's wartime objections to Yugoslavian Communist political initiative, his refusal to provide aid to the Communist movement in Yugoslavia, and Red Army looting and raping in Yugoslavia in 1944 and 1945. There were also issues regarding Yugoslavia resistance to participation in Soviet economic schemes that would have had a one way beneficiary relationship towards Moscow. After a series of escalatory steps the Cominform expelled Yugoslavia and called on Yugoslav communists to overthrow Tito. At first the Yugoslav communists and Tito responded in a conciliatory fashion. Yugoslavs supported Soviet foreign policy and implemented Stalinist economic measures. However, collectivization proved disastrous as agricultural output decreased and coercive tactics used by the regime eroded support for the government. Yugoslav relations with the West in 1949 were also in a poor state as there were lingering issues with Italy over Trieste and issues with various countries over nationalized property within Yugoslavia. The Soviet-bloc governments launched an economic blockade against Yugoslavia, excluding it from the Council for Mutual Economic Assistance (CEMA). The Soviets propagandized harshly against "Judas" Tito in Serbo-Croatian broadcasts, attempted to subvert Yugoslav party organizations, and sought to incite unrest among the Hungarian, Albanian, and Russian minorities in Yugoslavia. Troop movements and border incidents convinced Yugoslav leaders that a Soviet-bloc invasion was imminent, requiring fundamental changes in foreign policy. In July 1949, Tito closed the Yugoslav-Greek border and ceased supplying the pro-Cominform Greek communists, and in August Yugoslav votes in the United Nations began to stray from the Soviet line. Welcoming the Yugoslav-Soviet rift, the West commenced a flow of economic aid in 1949, saved the country from hunger in 1950, and covered much of Yugoslavia's trade deficit for the next decade. The United States began shipping weapons to Yugoslavia in 1951. A military security arrangement was concluded in 1953, but the Western powers were unable to bring Yugoslavia into the North Atlantic Treaty Organization (NATO). During the mid their were minor skirmishes on the border and a US cargo aircraft carrying supplies to Yugoslavia was forced to land in Hungary but subsequently allowed to proceed. 
+
+MID50 occurred from February of 1953 through November of 1956. The primary combatants in this conflict were the PRC and Taiwan. Here the USSR assisted the PRC in a four-day operation designed to show support for the PRC in hostilities toward Taiwan. During the First Taiwan Straits Crisis the Peoples Liberation Army launched heavy artillery attacks on the offshore island of Quemoy after the US lifted its blockade of Taiwan, making possible Nationalist attacks on mainland China. The Truman Administration had resisted calls by hard-liners to "unleash Chiang Kai-shek." However, shortly after his inauguration, on 02 February 1953 President Eisenhower lifted the US Navy blockade of Taiwan that had prevented Chiang's force from attacking mainland China. During August 1954, Chiang moved 58,000 troops to Quemoy & 15,000 to Matsu. Zhou En-lai declared on 11 August 1954 that Taiwan must be liberated. On 17 August 1954, the US warned China against action against Taiwan, but on 03 September 1954, the Communists began an artillery bombardment of Quemoy, and in November, PLA planes bombed the Tachen Islands. On 12 September 1954, the US Joint Chiefs of Staff (JCS) recommended the possibility of using nuclear weapons against China. Moreover, on 23 November 1954 China sentenced 13 US airmen shot down over China in the Korean War to long jail terms, prompting further consideration of nuclear strikes against China. Despite domestic political pressure, President Eisenhower refused to bomb mainland China or use of American troops to resolve the crisis. At the urging of Senator Knowland, the United States signed the Mutual Defense Treaty with the Nationalist government on Taiwan on 02 December 1954. On 18 January 1955 mainland Chinese forces seized Yijiangshan [Ichiang] Island, 210 miles north of Formosa and, completely wiping out the ROC forces stationed there. The two sides continued fighting on Kinmen, Matsu, and along the mainland Chinese coast. The fighting even extended to mainland Chinese coastal ports. The US-Nationalist Chinese Mutual Security Pact, which did not apply to islands along the Chinese mainland, was ratified by the Senate on 09 February 1955. The Formosa Resolution passed both houses of Congress on 29 January 1955. The Resolution pledged the US to the defense of Taiwan, authorizing the president to employ American forces to defend Formosa and the Pescadores Island against armed attack, including such other territories as appropriate to defend them. On 23 April 1995, China stated at the Afro-Asian Conference that it was ready to negotiate on Taiwan, and on 01 May 1955, shelling of Quemoy-Matsu ceased, ending the crisis. On 01 August 1955 China released the 11 captured US airmen previously sentenced to jail terms. In the first Taiwan Strait crisis of 1954-55 the USSR had been quite ambiguous in its support for China's campaign to "liberate" Taiwan, whereas the United States had indicated that it was willing to use tactical nuclear weapons in defense of the island. During the crisis, it became evident that the USSR was not going to be drawn into a war with the United States that was not of its own choosing, and the PRC called off its military operations against Quemoy. The PRC could claim a limited victory because Chinese Nationalist troops had withdrawn from Tachen Island during the previous month. Even as the crisis ended, however, the Nationalists began to reinforce Quemoy and Matsu, and the PRC began to build up its military capabilities across the strait.
+
+MID208 occurred in March of 1953. It is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced William Oatis, a press correspondent from the US, to a ten-year prison sentence for espionage on July 4, 1951. The US responded by imposing economic sanctions against Czechoslovakia. Czechoslovak military aircraft shot down a US military aircraft over the US occupation zone in Germany on March 10, 1953. Czechoslovakia released William Oatis from prison on May 15, 1953, and the US lifted economic sanctions against Czechoslovakia on May 16, 1953. 
+
+MID200. The next significant point of conflict between Israel and Egypt was the Sinai War MID200. `In early 1955, Egypt began sponsoring raids launched by fedayeen (Arab commandos or guerrillas) from the Sinai Peninsula, the Gaza Strip, and Jordan, into Israel. As the number and seriousness of these raids increased, Israel began launching reprisal raids against Arab villages in Gaza and the West Bank of the Jordan. These retaliatory measures, which cost the lives of Arab civilians and did little to discourage the fedayeen, became increasingly controversial both within Israel and abroad. Shortly thereafter Israeli reprisal raids were directed against military targets, frontier strongholds, police fortresses, and army camps.' `In addition to these incidents, that at times became confrontations between regular Israeli and Arab military forces, other developments contributed to the generally escalating tensions between Egypt and Israel and convinced Israeli military officials that Egypt was preparing for a new war. Under an arms agreement of 1955, Czechoslovakia supplied Egypt with a vast amount of arms, including fighter aircraft, tanks and other armored vehicles, destroyers, and submarines. The number of Egyptian troops deployed in Sinai along the Israeli border also increased dramatically in 1956. In July Egypt nationalized the Suez Canal; shortly thereafter Egypt closed the Strait of Tiran, at the southern tip of Sinai, and blockaded Israeli shipping. Fearing these actions to be signs of an imminent Egyptian invasion, Israel rapidly mobilized its reserves. On October 29, under Major General Moshe Dayan, the IDF launched a preemptive attack into Sinai. Israeli advances on the ground were rapid, and, supported by air cover, by November 2 they had routed the Egyptian forces and effectively controlled the entire peninsula. With Israeli troops on the east bank of the Suez Canal, British and French troops landed at Port Said and demanded withdrawal of both sides from the Canal. The UN met in an emergency session and demanded that the British and French leave Suez, which they did in December 1956 in response to both United States and UN pressure, and that Israel withdraw to the Armistice line of 1949, which it did somewhat reluctantly in March 1957 after the United Nations Emergency Force (UNEF) had been stationed in the Gaza Strip and at Sharm ash Shaykh on the Strait of Tiran. Israel's victory in the 1956 Sinai War thus afforded it a modicum of increased security by virtue of the UN presence. Far more important, however, was that it enhanced Israel's standing as a military power and as a viable nation. Although many Israelis felt that the military victory was nullified by the UN demand to withdraw from Sinai, Israel had achieved significant psychological gains at a cost of fewer than 170 lives.' 
+
+MID607 occurred from April through November of 1957. This is a multilateral mid whose principal combatants were Turkey and Syria. Also included in the mid were Jordan and Iraq allied with Turkey and the United States. The USSR and Egypt were allied with Syria. This was a border dispute between the two countries that spiraled to the point of open hostilities. In April of 1957, the Turks began to position troops near the Syrian border. This provoked a corresponding troop build up from the Syrians. Both sides alleged that they were conducting `normal' maneuvers. The Turks and the Syrians suffered dozens of casualties in the tension as minor flare ups occurred late in the mid. Both the Egyptians and the Americans were heavily involved in this mid. The Americans shipped arms in support of the Turks while the Egyptians supplied up to 15,000 troops to support the Syrians. 
+
+MID125 occurred in 1958. It is a multilateral mid involving the US and the UK v. the USSR, Iraq, and Egypt. Lebanon was in a civil war at the time. The state of turmoil increased when, in the early hours of July 14, 1958, a revolution overthrew the monarchy in Iraq and the entire royal family was killed. The revolution was received warmly in Lebanon in areas where the population was against the government of Shamun. Radio stations announced that the Shamun regime would be next. Shamun, realizing the gravity of his situation, summoned the ambassadors of the United States, Britain, and France on the morning of July 14. He requested immediate assistance, insisting that the independence of Lebanon was in jeopardy. The US and the UK landed troops in Lebanon in support of the Shamun regime. 
+
+MID2215 occurred from June 27-July 7 of 1958. It is titled `Soviet downing of a C-118 transport plane.' The plane was shot down over Soviet Armenia on June 27. The crew was released on July 7. This incident did not result in a change in the makeup of American forces. 
+
+MID173 occurred from July through December of 1958. This dispute was between the PRC and Taiwan. The USSR assisted the PRC while the US assisted Taiwan. On August 23, China again shelled the islands of Quemoy and Matsu. President Eisenhower responds by sending U.S. forces, including a large naval contingent, to the Taiwan Strait. The U.S. even explores the option of using nuclear weapons against China. The crisis is diffused when China suspends its bombing campaign after high-level talks with the U.S.
+
+MID608 November 7, 1958-June 23, 1959. This mid is closely related to MID2216 which occurred on November 7th 1958. These events are a show of troops also involving France, Britain, against the Soviet Union. The mid is titled `1958-1959 Berlin Deadline Crisis.' In November 1958, Soviet Premier Khrushchev issued an ultimatum giving the Western powers six months to agree to withdraw from Berlin and make it a free, demilitarized city. At the end of that period, Khrushchev declared, the Soviet Union would turn over to East Germany complete control of all lines of communication with West Berlin; the western powers then would have access to West Berlin only by permission of the East German government. The United States, Great Britain, and France replied to this ultimatum by firmly asserting their determination to remain in West Berlin and to maintain their legal right of free access to that city. In 1959 the Soviet Union withdrew its deadline and instead met with the Western powers in a Big Four foreign ministers' conference. Although the three-month-long sessions failed to reach any important agreements, they did open the door to further negotiations and led to Premier Khrushchev's visit to the United States in September of 1959. At the end of this visit, Khrushchev and President Eisenhower stated jointly that the most important issue in the world was general disarmament and that the problem of Berlin and "all outstanding international questions should be settled, not by the application of force, but by peaceful means through negotiations." 
+
+MID246 is the Bay of Pigs Invasion. The 1959 takeover of Cuba by Fidel Castro and his revolutionary followers prompted the exodus of many Cubans, especially to the United States. When Castro's communist-oriented regime confiscated private property and established close ties to the Soviet Union, the United States imposed an embargo on all exports to Cuba (except food and medicine) and broke diplomatic relations (1960-61). Anti-Castro Cuban exiles demanded that the United States back an invasion of their homeland to topple the government; as early as 1960, the American Central Intelligence Agency (CIA) began to train an exile army in Guatemala. On April 17, 1961, about 1,400 exiles invaded southern Cuba at the Bahia de los Cochinos (Bay of Pigs), but were totally defeated by the Cuban army by April 20; most of the invaders were killed or taken prisoner. Critics of this failure blamed the last-minute withdrawal of naval air support by US president John F. Kennedy, but closer investigation disclosed that the CIA scheme, meant to be secret but long a matter of public knowledge, had been based on faulty intelligence information, was poorly planned, and ultimately was poorly executed. The failed invasion aggravated already hostile US-Cuban relations and eventually required the expediture of $53 million in food and medicine (raised by private donors to meet Casto's ransom) to secure the release of the 1,113 surviving captive invaders.
+
+MID253 occurred from May through July of 1960. It is called U-2 and RB-47 incidents. Soviet forces shot down an American U-2 reconnaissance plane in Soviet airspace, capturing its pilot, Francis Gary powers (May 1). Powers was imprisoned as a spy and later exchanged for Soviet spy Rudolph Abel (February 1962).
+
+MID1363 occurred from December 29, 1960 until April 20, 1961. In 1961, there was an internationalized civil war within Laos. North Vietnam, the USSR, and the Peoples Republic of China supported the Communist forces in northern Laos. The Royal Laotian Government (RLG) was supported by the USA and Thailand. There was considerable direct support from both the USA and the USSR. The USSR was airlifting supplies to the Pathet Lao while the USA was flying reconnaissance missions in support of the RLG. Neither the USA nor the USSR wanted the conflict to break out into a direct conflict between them. There was a push to resolve the conflict with a conference in Geneva. While preliminary discussion about having the conference in Geneva were ongoing, the Kennedy administration discussed intervention by SEATO. China warned Washington and Laos that should SEATO intervene it would intervene with direct military force. This threat constitutes MID1363.
+
+MID27 is the Berlin Wall Crisis. This is a multilateral dispute involving many countries including the US in opposition to Czechoslovakia. The Berlin dispute had simmered ever since Khrushchev threatened (1958) to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.The Soviets, for their part, were particularly concerned with the growing military strength of West Germany, and, in particular, the installation of tactical nuclear weapons in West Germany. The East German government was increasingly concerned about the defection of East German citizens moving from East to West Berlin. On June 4, 1961, Khrushchev reissued his 1958 threat in ultimatum form, with a deadline of December 31, 1961. Kennedy responded (June 28, July 25) with a public statement of the US determination to defend the status of Berlin, including Western access rights, but with no mention of freedom of movement between East and West Berlin. This may have encouraged the Soviet and East German governments to begin construction of the Berlin Wall on August 13, 1961. That action produced an immediate heightening of tensions, including shows-of-strength and diplomatic sanctions by both sides. By the end of August Kennedy proposed negotiations which were arranged for September 21 in New York. Conciliatory letters between Kennedy and Khrushchev were exchanged in late September. When Kennedy assured Khrushchev that the US would not pursue the reunification of Germany, Khrushchev decided (October 17) to rescind the December 31 deadline for a settlement. Tentative agreement on a formula for a negotiated settlement regarding access right and recognition of the boundaries of the two Germanies was reached on November 9th, although it was to take more than a decade before a formal agreement was reached.
+
+MID2217 is a bilateral mid that occurred July 25-September 7. The mid is called `Operation Mongoose.' This was a covert U.S. effort to overthrow Fidel Castro after the failure of the Bay of Pigs invasion. It continued throughout the Kennedy administration but was not an overt use of force. 
+
+MID2219 is a multilateral mid with the US and West Germany v. the USSR and East Germany that occurred from December of 1961 until October of 1962. This mid covers a period of several minor incidents that all served to increase hostilities. In December, the East Germans and the Soviets protested to the United States regarding hostile troop movements along the autobahn link connecting Berlin with West Germany. This was followed by the East German shooting of an American military vehicle that was part of the US mission in Potsdam. 
+
+MID3361 occurs from December of 1961 until March of 1962. Here the United States built up its military force in South Vietnam in support of that nation. The PRC and the USSR threatened that the build up was precipitating war. The PRC and the USSR were supporting Hanoi at the time. The PRC noted that US military escalation in S. Vietnam threatened the security of North Vietnam, its ally in the region. 
+
+MID1353 takes place during the second Laotian Civil War that occurs from 1963 until 1973. China is involved in direct support of the Pathet Lao from May of 1962 until July of 1964. China provided direct aid to the communist forces in Laos and conducted direct military operations in Northern Laos. Much of the activity China was involved in centered on completing a road network in Northern Laos that would connect North Vietnam, Laos and Thailand. The road network would provide access of supplies and troops for the communist groups in all three countries. Chinese forces were also involved in direct military confrontation with the Royal Laotian Government. Both the United States and the Soviet Union were involved in this dispute though on a limited scale in support of there Cold War allies. 
+
+MID2899 occurred on March 15, 1963. It is a bilateral one day mid. On this date, Soviet aircraft violated U.S. airspace over Alaska eliciting an American diplomatic protest but no military action.
+
+MID2218 is a mid that relates to the security of Berlin. It occurred on April 2, 1963. 
+
+MID 2220 is a border violation involving the Soviet Union, that occurred from January 28-March 27 of 1964. On January 28, an American training plane was shot down over East Germany. On March 10, an American reconnaissance aircraft was shot down under similar circumstances. The crew was returned on March 27. 
+
+MID 2909 also involved the Soviet Union, took place January 28-March 10. There is no record of this dispute in the news sources or text sources cited below. 
+
+MID611 is the Vietnam War. Here the United States intervened to help South Vietnam resist subjugation by their northern neighbor, North Vietnam. North Vietnam was also receiving aid from China and the USSR during the conflict. The loss of Southeast Asia was defined as threatening the security of the United States and the collectivity of Western nations. `The sovereignties of Vietnam and other Southeast Asian countries were valued not on their own merit but rather as a test of U.S. global position and credibility perception that would have a profound impact on the nature on the decision to intervene. Vietnam became important for what its loss to the communists would portend.' US hostilities towards N. Vietnam ended in January of 1973. The last American troops left S. Vietnam in March of 1973. 
+
+MID2901 Dispute involving the United States and the Soviet Union. There is no mention of this incident in the news sources or text sources listed below. 
+
+MID2910 A show of planes initiated by the United States involving the Soviet Union, June 12. There is no mention of this incident in the news sources or text sources listed below. 
+
+MID2921 occurred on July 15, 1966. This is the US identification of a Soviet submarine base in Cuba. 
+
+MID2934 occurred from March 2-22, 1967. A Soviet fishing vessel was fined for fishing in U.S. waters near Alaska 
+
+MID2931 occurred on April 28, 1967. The Soviets claimed two U.S. planes buzzed their aircraft off the Greek coast on this date.
+
+MID2930 occurred in May of 1967. Here the United States was conducting naval training operations in the Sea of Japan with the Japanese and the South Koreans. These operations were conducted within a few hundred miles of Soviet territory. Soviet ships and warplanes shadowed these exercises and on two occasions got so close to the American ships that the ships collided. The Americans claimed that the Soviets intentionally collided with the US ships but the Soviets claimed it was an accident. 
+
+MID345 is the US and USSR interactions related to the Arab Israeli War in 1967. This event is a show of ships involving the Soviet Union and Israel, June 10-19. President Johnson ordered the 6th Fleet to move within 50 miles of the Syrian coast in order to signal the Soviets not to intervene in the war. 
+
+MID2928 is a bilateral mid that occurred from June 30-July 2 1968. A U.S. airliner chartered by Military Airlift Command bound for Cambodia was intercepted by Soviet aircraft off the Kurile islands. No shots were fired. 
+
+MID2941 occurred in April of 1969. North Korean military aircraft shot down a US military aircraft (US navy EC-121 reconnaissance plane) over the Sea of Japan on April 15, 1969, resulting in the deaths of 31 US military personnel. The US deployed 29 naval ships in the Sea of Japan beginning on April 21, 1969. The Soviet Union protested the deployment of US naval ships in the Sea of Japan on April 22, 1969, and the US withdrew its naval ships from the Sea of Japan on April 26, 1969. 
+
+MID3241 is associated with events surrounding the Jordanian Civil War of 1970. This event involved Jordan, Syria, Libya, Iraq, the US, the USSR and the UK. The U.S. ordered three aircraft carriers to the Middle East and alerted ground forces in order to warn the Syrians against intervention in ongoing Jordanian civil strife. MID 3241 involves many of the same Arab countries and also the USSR and is dated September 18-26. 
+
+MID 2221 is a border violation, October 10-November 10 of 1970. A plane flying near Soviet Armenia and Turkey was forced down in Armenia by Soviet intercept planes after it strayed into Soviet air space. The plane carried two US generals. The generals and two other were released unharmed on November 10, 1970. 
+
+MID2949 occurred in 1972. This was a seizure involving the United States and the Soviet Union. The US Coast Guard seized a Soviet fishing vessel and arrested its captain for fishing illegally and attempting to flee. 
+
+MID353 occurred in October of 1973. This was a multilateral mid with the US allied with Israel v Egypt, Syria, and the USSR. The principal combatants here were the US and the USSR both displaying force. All parties were involved in the dispute for the duration of the mid. This mid is concurrent with the Yom Kippur War. Essentially, this mid codes the moves of support that the US and the USSR make in support of their allies in the Yom Kippur War. Both the US and the USSR made unusually large shipments of armaments to their allies during the war. 
+
+MID2222 is called the `Seizure of two fishing boats.' It is a seizure involving the Soviet Union, April 9-10 1977. Two Soviet fishing boats were seized off the New England coast for violating the 200-mile territorial waters limit.
+
+MID2223 occurred from November 19, 1978-January 2, 1979 and is associated with the political crisis in Iran. In this crisis, the US sent war ships to the region as a show of force. 
+
+MID2224 is titled a `Capture of U.S. torpedo boat' that occurred on August of 9 and 10 1979. A show of ships involving the Soviet Union, August 9-
+10. There is no mention of this event in contemporary news sources or in the text sources cited below. 
+
+MID2225 Soviet troops in Cuba, October. Incident 17 (level 3) in Zelikow (1987). MID 2225 (`Soviet Combat Unit in Cuba') is a show of troops involving Cuba and the Soviet Union, August 31-November 20
+
+MID2226 `Baltic Sea maneuvers' coded as a show of ships involving the Soviet Union and several NATO countries, May 13-19. This incident is not mentioned in FF 1980 or KCA 1980.
+
+MID2227 is called `U.S. threat after Tito's death' is coded as a threat of force involving the Soviet Union on May 4. President Carter affirmed U.S. support for Yugoslavian independence on May 4, 1980, during a visit to the country. Carter had stated at a news conference on February 13 that the United States would assist Yugoslavia in resisting Soviet intimidation.
+
+MID2228 is called `U.S. seizure of Soviet cargo' is coded as a seizure initiated by the United States involving the Soviet Union, May 12-14. U.S. Customs inspectors held Soviet air cargo at Dulles airport until it was discovered that only minor paperwork violations could be found. The Soviets protested, but took no other action.
+
+MID 2229 (`Militarization of Kurile Islands') is a show of planes involving the United States and Japan, September 30, 1982-January 24, 1983. On September 30, 1982, the United States announced plans to deploy up to 50 F-16s to Honshu by 1985. Japan announced its intentions to increase military cooperation with the United States on January 18, 1983, prompting Soviet criticism. 
+
+MID2982 occurred on December 16, 1982. This is a bilateral dispute. On this date, the Soviets briefly detained two American journalists who had contacted Jewish dissidents, but the American embassy had no comment when asked about the incident. 
+
+MID2231 occurred from November 24, 1983-May 20, 1984. It is called the Deployment of Soviet SS-22 missiles and U.S. Pershing missiles.' In this mid the USSR, the USA, W. Germany and Czechoslovakia displayed threatening behavior toward one another in a show of their respective warplanes. 
+
+MID2230 is a bilateral dispute with the USSR that occurred September 12-19. The Soviets seized a U.S. commercial vessel that accidentally ventured into Soviet waters near Alaska. The ship was released after American protests
+
+MID2232 occurred in 1985. Here the Soviet military shot a US military officer. The officer was in East Germany at the time observing Soviet tank maneuvers. The Soviets and the Allied powers agreed to what amounted to sanctioned espionage in 1947. A limited number of intelligence troops from the United States were permitted to observe Soviet activities in East Germany and vice versa. Accounts over the incident are in dispute over the actual events of the shooting. The Soviets claimed that the major was in a restricted area when he was shot and ignored warning shots. The Americans claimed that the major was shot without warning and that he was not in a restricted area. Incidents involving these sanctioned espionage agents were frequent. American, French and British military officials occupied various cities in East Germany and the Soviets occupied several cities in West Germany. Americans reported being rammed in their cars, being harassed in person, and being variously harassed by the Soviet and East German troops. 
+
+MID3637 is a bilateral dispute that occurred on January 7 1986. In this MID the USSR took the action of displaying force. There is no mention of this incident in any of the news sources or text sources cited below. 
+
+MID2233 occurred on 3/18/1986. Here a US guided missile cruiser and destroyer traveled near the Crimean coast to test right of innocent passage, prompting Soviet protests.
+
+Termination Factors:
+
+Between November 1982 and March 1985, the Soviet Union had four general secretaries (Brezhnev, Andropov, Chernenko, and Gorbachev) while the United States had a single chief executive. The changes of leadership in the Soviet Union had a noticeable effect on Soviet-American relations. Until Gorbachev assumed power and partially consolidated his rule by 1986, the frequent changes in Soviet leadership resulted in the continuation of policies formulated during the late Brezhnev period. Soviet foreign policy toward the United States during this period increasingly took the form of vituperative propaganda attacks on Reagan, who, it was alleged, was personally responsible for derailing Soviet-American detente and increasing the danger of nuclear war. The low point in Soviet-American relations occurred in March 1983, when Reagan described the Soviet Union as an "evil empire . . . the focus of evil in the modern world," and Soviet spokesmen responded by attacking Reagan's "bellicose, lunatic anticommunism." The Soviet shoot-down of a civilian South Korean airliner in September 1983 near the Soviet island of Sakhalin shocked world public opinion and militated against any improvement in Soviet-American relations at that time. In 1983, the United States was increasingly concerned about Soviet activities in Grenada, finally directing the military operation in October 1983 that was denounced by the Soviet Union. In November 1983, the Soviet negotiators walked out of the arms control talks. 
+
+On the death of Konstantin Chernenko, Mikhail Gorbachev, at age 54, was elected General Secretary of the Communist Party on March 11, 1985. As the de facto ruler of the Soviet Union, he tried to reform the stagnating Communist Party rule by introducing glasnost ("openness") and perestroika ("restructuring") which were launched at the 27th Congress of CPSU in February 1986. 
+
+In August 1985, Gorbachev declared a unilateral moratorium on nuclear testing. The United States, in the midst of a nuclear warhead modernization program, refused to go along with the moratorium. Some Western analysts viewed Gorbachev's unilateral moratorium as a Soviet attempt to delay weapons modernization in the United States and, in the event that the United States refused to abide by the moratorium even unofficially, an attempt to depict the United States and the Reagan administration as militaristic. The Soviet Union ended the moratorium with an underground nuclear test in February 1987. 
+
+A general improvement in Soviet-American relations began soon after Gorbachev was selected general secretary in March 1985. Annual summit meetings between Reagan and Gorbachev were held at Geneva (November 1985); Reykjavik (October 1986); Washington (December 1987); and Moscow (May 1988). 
+
+During the mid-to late 1980s, the Soviet Union also stepped up media contacts. Soviet spokesmen appeared regularly on United States television, United States journalists were allowed unprecedented access to report on everyday life in the Soviet Union, and video conferences (termed "tele-bridges") were held between various United States groups and selected Soviet citizens. 
+
+In 1988, Gorbachev announced that the Soviet Union would abandon the Brezhnev Doctrine, and allow the Eastern European countries to turn to democracy, if they wished. He jokingly called his new doctrine the Sinatra Doctrine. By 1989 there was widespread unrest in Eastern Europe. Gorbachev did not intervene as these countries cut their ties with the Soviet Union. The Berlin Wall, the major symbol of communist oppression, was torn down in November. In less than a year, East and West Germany became one nation again. A few months after that, the Warsaw Pact was dissolved. With the exception of Romania, the collapses of Communist regimes in Eastern Europe were all peaceful. This effectively ended the Cold War, and for this, Gorbachev was awarded the Nobel peace prize on October 15, 1990. However, despite the end of the Cold War, there have been several mids between the US and Russia since 1989-1991. 
+
+MID4174 On August 15, 1997 the United States Coast Guard seized a Russian fishing boat in the Bering Sea for illegally fishing in American waters. The Russian Duma requested the ship be released in a statement on September 13. There is no indication that the boat was ever released, and some indication that the boat and its gear were confiscated by the United States. 
+
+MID4213 USA patrol boats stopped and detained two Russian tankers suspected of carrying sanctioned Iraq oil from the Persian Gulf. Russian Foreign Minister demanded the immediate release of the tanker.
+
+MID4220 On two separate occasions (10/17/2000 and 10/19/2000) two Russian jets fly over the USS Kitty Hawk on its way to, and then from, exercises in the Korean Straits. Both times the Russian jets were chased by American F-18s. 
+
+MID4197 Russia deployed seven bombers capable of carrying nuclear weapons to bases in the Arctic as a "training exercise." These confrontations were routine during the Cold War but not at the time of this dispute. Canada and the United States responded by moving fighters and AWACS radar planes to northern bases to counter what NORAD described as a "potential threat." Pentagon spokesman, Kenneth Bacon stated, "We would anticipate that, in the next few days, they [the Russians] might fly one or several of these planes through the Bering Straits and MID Number Storyclose to Alaska." Russia deployed its planes sometime in late November-we assume November 26; the United States and Canada deployed their planes on November 30. It is not clear how long these deployments lasted. There is no evidence of future discussions among the participants regarding Russia's military presence in the Arctic. More specifically, it is not clear whether Russia removed its planes from the Arctic or whether Canada and United States decided to allow Russia to conduct future such training exercises in the Arctic. 
+
+MID4241 is a Russian display of force against the US in September of 2001. The US took no military action. I was not able to locate reference to this incident in the news or text sources cited below. 
+
+SOURCES-CR:
+Beede 1994, 380-2; Berman and Routh, 2003; Brecher and Wilkenfeld, 1997, 332-361; Butterworth, 1976, 182-183; Clodfelter, 1992, 615-618; Donelan and Grieve, 1973, 28-32, 56-61, 168-173, 179-181, 233-237; Dunbabin 1994, 64, 211-5; Emerson 1974, 105-9; Facts on File 1946, 109, 1958, 217, 1963, 94-5, 1964, 33, 73, 97, 1967, 110, 208, 1970, 708, 670-1, 1972, 29, 1977, 269, 1980, 110, 1982, 754, 1983, 26, 1984, 727, 1986,183, September 3-9, 1954, September 10-16, 1954, November 5-11, 1954, July 7-13, 1955, May 5-11, 1960, October 18-24, 1962, October 25-31, 1962, November 1-7, 1962, January 30-February 5, 1964, March 5-11, 1964, March 26-April 1, 1964; Fursenko and Naftali 1997, 63-4; Globalsecurity.org; Grimmett 1999, 13; Kaplan and Blechman 1978; Keesings Contemporary Archive 1959, 16803; 1963/4 19890; 3/87, 35008; *Keesing, July 17-24, 1948, November 20-27, 1948, April 29-May 6, 1950, September 9-16, 1950, July 26-August 2, 1958, May 21-28, 1960, April 11-18, 1964, June 17-24, 1972, November 18-25, 1972; NYT 11/10/1970; 11/29/67; 12/17/82; 12/30/82; 7/1/68; Onwar.com; Prados 1996, 194-217
+
+SB-CR:
+United States / USSR Years: 1946-Present. Issues at stake: Influence in and the division of Europe; perceived threats to Western Europe (from USSR) and Eastern Europe (from US and allies). End coding: Continuing as of 1988. Number of reciprocated 30 day militarized disputes: 20. Last militarized dispute: As recent as 1986. Wars: None. Summary: At the end of WWII, growing US-Soviet hostility resulted in the maintenance by both superpowers of large numbers of troops facing each other across the German border. While most observers agree that Europe was the center of the confrontation, this hostility reflected itself in conflicts in several areas, including the Middle East, Southeast Asia, the Caribbean, and Africa, as any perceived "expansion" by either side was met with a response. Disputes were frequent, although none escalated to war (the dyad is quite unusual in the high number of disputes coupled with low number of wars). As of the late 1980s, tensions were still high and disputes continued. Notes: Although the rivalry is coded as continuing as of 1988, 1989 could be interpreted as the end of the rivalry when the USSR did not intervene in the revolutions in Eastern European, allowing changes in governments and the unification of Germany. This was followed by the beginning of Soviet troop withdrawal from Eastern Europe. Gorbachev's reform programs began in 1988 when the Communist party gave him broad powers to make reform, followed by his election within the Soviet Congress in a competitive race (perhaps marking the beginning of democratization). Sources: Goldstein and Freeman (1990), Huth, Bennett, and Gelpi (1992).
+
+NARRATIVE-PS:
+
+19891109-19920201 Transition
+
+On November 9, 1989 the Berlin Wall came down, marking, for many, the beginning of the end of the cold war era. In 1990-91 the Soviet Union/Russia supported sanction and operations during the Persian Gulf crisis. On July 1, 1991 Warsaw Pact, the alliance system established in 1951 to balance a perceived threat from the NATO alliance, ceased to exist as an organization. The Soviet Union officially dissolved on December 25, 1991 when President Gorbachev stepped down, declaring that the office of the president of the Soviet Union no longer existed.
+
+19920202-20159999 .25
+
+On February 1, 1992, during negotiations between US President G.H.W. Bush and Russian President B. Yeltsin, the two leaders announced a new level of bilateral relations and officially declared an end to the Cold War. The declaration begins a phase in US-Russian relations that enjoy a higher degree of peaceful and cooperative interaction. During the 1990s the two countries sign numerous agreements calling for greater cooperation in areas of economic policy, education, non-proliferation, and strategic military policy. In April of 1993 the two countries participate in the first post-Cold War joint military exercises. This is only the first of many joint military exercises between the new strategic partners carried out during the 1990s. On January 14, 1994 U.S. President B. Clinton and Russian President B. Yeltsin sign the Moscow Declaration; this declaration, put into effect on May 30, 1994, `discontinues the aiming of strategic nuclear weapons at US and Russian territories.' In May of 1997 Russia was invited to participate in a NATO conference in Paris. In the aftermath of the September 11th terrorist attacks, the NATO-Russian Council was established (NRC) to promote greater cooperation and consultation regarding military action and general security, especially in European security. The U.S. also views Russia as a strategic partner in maintaining peace and stability in Russia's border regions.
+
+Following the collapse of the Soviet Union in 1991, Russia began consulting with the G-7 group. In 1994 the group was unofficially referred to as the G-7 plus 1 to denote Russia's higher level of participation. By the 1997 meeting, Russia's greater involvement was marked by creation of the G-8. On January 1, 2006 Russia's president Putin assumed the rotating presidency of the group, with the 2006 meeting of the G-8 hosted by Russia in St. Petersburg.
+
+Relations between the two countries have improved considerably. The U.S. State Department declared in 2002 that the two countries are no longer rivals. Indeed, the Russian President Vladimir Putin suggested in February 2005 that the two countries' relations, despite disagreement on several important issues, have never been better. However, there are still lingering issues between the two countries. US abandonment of the 1972 ABM treaty caused considerable tension between the two countries in 2002 and prompted Russia to announce that is would no longer feel bound by the START-2 treaty. There are many unresolved issues in general regarding the disposition of nuclear weapons and proliferation. The two countries have also had considerable disagreement over the disposition of Iranian and North Korean nuclear programs, as well as the U.S. invasion of Iraq.
+
+The United States and Russia experienced four disputes during the post-Cold War era. These disputes, however, are not related to the Cold War rivalry. In addition, each dispute is an isolated incident unconnected to the other disputes during this period. In 1997 (mid 4174), a Russia fishing boat violated US territorial waters prompting the United States to seize and hold the vessel. The second mid (4213) involved the perceived violation of sanctions against Iraq by a Russian oil tanker. In 2000, on two occasions Russian fighter jets flew over a US naval vessel during exercise (mid 4220). Also in 2000, Russia deployed bombers capable of carrying nuclear weapons to the Artic for the first time in ten years. The action prompted the United States and Canada to deploy reconnaissance and fighter aircraft to bases in Alaska. Only the last event (mid 4220) seems connected to Cold War issues; the rest all are relatively low level incidents. Although the immediate threat of war and the overall hostility level have diminished, the persistence of periodic disputes suggests that there is much yet to resolve between these two countries.
+
+The first event of RIV77 is MID252 in 1945. The last recorded military event of RIV77 is MID2233 in March of 1986. The last recorded military event between the two states is MID4241 in September of 2001. The two countries clearly experience a transition between 1989 and 1992; RIV77 comes to an end in 1989. There are still post-cold war disputes, however, indicating that relations are still contentious. Therefore, post-1992 the dyad is coded as a .75.
+
+PS-SOURCES: 
+
+Mosnew.com February 1, 2005; US Embassy-Moscow, 2006; United States Department of State December 5, 2002 October 2004
+
+MARITIME-MIDS: MID2949 MID2222 MID4174 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID2934 MID2930 MID2941 MID2224 MID2230 MID4213 not considered maritime MIDs 
+
+MARITIME-DISPUTE: MID2934
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19670302 19670322
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2934 occurred from March 2-22, 1967. A Soviet fishing vessel was fined for fishing in U.S. waters near Alaska 
+
+MARITIME-DISPUTE: MID2930
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19670510 19670517
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2930 occurred in May of 1967. Here the United States was conducting naval training operations in the Sea of Japan with the Japanese and the South Koreans. These operations were conducted within a few hundred miles of Soviet territory. Soviet ships and warplanes shadowed these exercises and on two occasions got so close to the American ships that the ships collided. The Americans claimed that the Soviets intentionally collided with the US ships but the Soviets claimed it was an accident. 
+
+MARITIME-DISPUTE: MID2941
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19690418 19690427
+ HOSTILITYA: 3 FATALITYA: 2
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2941 occurred in April of 1969. North Korean military aircraft shot down a US military aircraft (US navy EC-121 reconnaissance plane) over the Sea of Japan on April 15, 1969, resulting in the deaths of 31 US military personnel. The US deployed 29 naval ships in the Sea of Japan beginning on April 21, 1969. The Soviet Union protested the deployment of US naval ships in the Sea of Japan on April 22, 1969, and the US withdrew its naval ships from the Sea of Japan on April 26, 1969. 
+
+MARITIME-DISPUTE: MID2949
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19720117 19720122
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2949 occurred in 1972. This was a seizure involving the United States and the Soviet Union. The US Coast Guard seized a Soviet fishing vessel and arrested its captain for fishing illegally and attempting to flee. 
+
+MARITIME-DISPUTE: MID2222
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19770409 19770410
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2222 is called the `Seizure of two fishing boats.' It is a seizure involving the Soviet Union, April 9-10 1977. Two Soviet fishing boats were seized off the New England coast for violating the 200-mile territorial waters limit.
+
+MARITIME-DISPUTE: MID2224
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19790809 19790810
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2224 is titled a `Capture of U.S. torpedo boat' that occurred on August of 9 and 10 1979. A show of ships involving the Soviet Union, August 9-10. There is no mention of this event in contemporary news sources or in the text sources cited below. 
+
+MARITIME-DISPUTE: MID2230
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19840912 19840919
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2230 is a bilateral dispute with the USSR that occurred September 12-19. The Soviets seized a U.S. commercial vessel that accidentally ventured into Soviet waters near Alaska. The ship was released after American protests
+
+MARITIME-DISPUTE: MID4174
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19970815 19980215
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4174
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 19970815 19970831
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4174 On August 15, 1997 the United States Coast Guard seized a Russian fishing boat in the Bering Sea for illegally fishing in American waters. The Russian Duma requested the ship be released in a statement on September 13. There is no indication that the boat was ever released, and some indication that the boat and its gear were confiscated by the United States. 
+In 1997 (mid 4174), a Russia fishing boat violated US territorial waters prompting the United States to seize and hold the vessel.
+
+MARITIME-DISPUTE: MID4213
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 20000202 20000426
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4213
+ DYAD: USA RUSSIA/USSR 2365
+ DATES: 20000202 20000430
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4213 USA patrol boats stopped and detained two Russian tankers suspected of carrying sanctioned Iraq oil from the Persian Gulf. Russian Foreign Minister demanded the immediate release of the tanker.
+MID4213 involved the perceived violation of sanctions against Iraq by a Russian oil tanker.

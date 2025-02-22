@@ -1,0 +1,91 @@
+FILE: cm160345v11.0.txt
+DYAD: ARGENTINA - YUGOSLAVIA
+RIVALRY: RIV378
+DISPUTE(S): MID4186 MID4343 
+
+PS-LAST-CHANGED: 20170729
+PS-LAST-CHECKED: 20170729
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm002345v11.0 narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 from cm002345v11.0 narrative, this MID is connected to Yugoslavia's withdrawal from Kosovo. The withdrawal involved clashes between Yugoslavia and other countries, and some clashes involved Yugoslavia and Albania against ethnic insurgencies in those countries. Ethnic Serbs were fighting in Albania, and ethnic Albanians were fighting in Yugoslavia, contributing to this MID. Coded civil war MID because this MID involved an ethnic Albanian insurgency in Yugoslavia, within this dyad. 
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 from cm002345v11.0 narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outside of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES:
+
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm002345v11.0 narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 from cm002345v11.0 narrative, this MID is connected to Yugoslavia's withdrawal from Kosovo. The withdrawal involved clashes between Yugoslavia and other countries, and some clashes involved Yugoslavia and Albania against ethnic insurgencies in those countries. Ethnic Serbs were fighting in Albania, and ethnic Albanians were fighting in Yugoslavia. contributing to this MID. Coded civil war MID because this MID involved an ethnic Albanian insurgency in Yugoslavia, within this dyad. 
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 from cm002345v11.0 narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic attempted to hold onto power in Serbia. Coded civil war link because civil war activity in Kosovo, outside of this dyad, contributed to the violence. Ethnic Serbs and ethnic Albanians fought throughout the conflict. UN/NATO military intervention pulls them into this MID.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

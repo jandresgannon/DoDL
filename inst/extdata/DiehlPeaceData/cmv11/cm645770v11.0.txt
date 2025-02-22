@@ -1,0 +1,95 @@
+FILE: cm645770v11.0.txt
+DYAD: IRAQ - PAKISTAN
+RIVALRY: RIV1239
+DISPUTE(S): MID1200 
+RIVALRY: RIV1240
+DISPUTE(S): MID3957 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190308
+PS-LAST-CHECKED: 20190308
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1200 
+
+TERRMID: MID1200 3 -- not territory 
+TERRMID-CER: MID1200 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1200 3 -- not third party link to territory 
+TERRLINK-CER: MID1200 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1200 3 -- not maritime 
+MARITMID-CER: MID1200 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1200 3 -- not islands 
+ISLMID-CER: MID1200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1200 1 -- civil war MID
+CIVWARMID-CER: MID1200 1 -- certain 
+CIVWARMID-NOTES: MID1200 from Gibler 2018 and NYT 2/11/1973, in 1973 Pakistan discovered that Iraq was smuggling weapons into Pakistan via their embassy. The weapons were intended for militarized rebels fighting in Pakistan. Coded civil war MID because this was connected to militarized rebels in Pakistan. 
+
+CIVWARLINK: MID1200 3 -- not civil war link 
+CIVWARLINK-CER: MID1200 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1200 3 -- not coup 
+COUPMID-CER: MID1200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1200 3 -- not coup link
+COUPLINK-CER: MID1200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Pakistan, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Pakistan became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times 2/11/1973. "Pakistan Reports Seizure of Arms." 

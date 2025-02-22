@@ -1,0 +1,555 @@
+FILE: cm002200v11.0.txt
+DYAD: USA-UNITED KINGDOM
+RIVALRY: RIV41
+DISPUTE(S): MID38 MID15 MID373 MID144 MID380 MID207 MID1631 MID225 
+RIVALRY: RIV42
+DISPUTE(S): MID1637 
+RIVALRY: RIV43
+DISPUTE(S): MID2 MID254 MID3301 
+RIVALRY: RIV44
+DISPUTE(S): MID3709 
+
+PS: 19009999-19020630 .5 19020701-19031020 .25 19031021-19411206 .5 19411207-20209999 .75
+
+PS-UPDATE2020: 
+
+
+PSNOTES: Venezuela disputes deserve .25
+
+PS-LAST-CHANGED: 20220207
+PS-LAST-CHECKED: 20220207
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID38 
+
+TERRMID: MID38 3 -- not territory 
+TERRMID-CER: MID38 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID38 3 -- not third party link to territory 
+TERRLINK-CER: MID38 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID38 3 -- not maritime 
+MARITMID-CER: MID38 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID38 3 -- not islands 
+ISLMID-CER: MID38 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID38 1 -- civil war MID
+CIVWARMID-CER: MID38 1 -- certain 
+CIVWARMID-NOTES: MID38 from cm narrative, in 1837, a group of Canadian rebels rebelled against the British in Canada, demanding a more democratic government. The group had US sympathy, and a steamboat owned by US citizens, the Caroline, transported men and supplies from the US to the rebels on Navy Island in Canada. A group of Brits and Canadians loyal to the Canadian government snuck across the border one night and set fire to the Caroline, killing one American. This stoked much anti-British tension in the US. Coded civil war MID because the US was supporting rebels in British-owned Canada, which led to cross-border violence and the death of an American. 
+
+CIVWARLINK: MID38 3 -- not civil war link 
+CIVWARLINK-CER: MID38 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID38 3 -- not coup 
+COUPMID-CER: MID38 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID38 3 -- not coup link
+COUPLINK-CER: MID38 1 -- certain 
+COUPLINK-NOTES: 
+
+MID15 
+
+TERRMID: MID15 1 -- territorial MID
+TERRMID-CER: MID15 1 -- certain 
+TERRMID-NOTES: MID15 occurred in 1838-1839 and was connected to the fact that the Treaty of Paris in 1783 had not satisfactorily delimited the border between Maine, USA, and New Brunswick, Canada. Tensions over the boundary dispute had been slowly building over years and worsened when Maine became a state in 1820 and, disregarding British claims, began granting land to settlers in the valley of the Aroostook River. In the winter of 1838-1839, lumberjacks from New Brunswick entered the disputed region to cut down trees and captured an American land agent who attempted to expel them. In response, both countries assembled militiamen and the US sent military troops into the region. The dispute ended without violence. Coded territorial MID because boundary was disputed and was the cause of the tension. 
+
+TERRLINK: MID15 3 -- not third party link to territory 
+TERRLINK-CER: MID15 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID15 3 -- not maritime 
+MARITMID-CER: MID15 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID15 3 -- not islands 
+ISLMID-CER: MID15 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID15 3 -- not civil war 
+CIVWARMID-CER: MID15 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID15 3 -- not civil war link 
+CIVWARLINK-CER: MID15 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID15 3 -- not coup 
+COUPMID-CER: MID15 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID15 3 -- not coup link
+COUPLINK-CER: MID15 1 -- certain 
+COUPLINK-NOTES: 
+
+MID373 
+
+TERRMID: MID373 1 -- territorial MID
+TERRMID-CER: MID373 1 -- certain 
+TERRMID-NOTES: MID373 from cm narrative, the US and Canada (Britain) disputed the boundary related to the Oregon Trail Territory. The two countries eventually agreed to a division of the disputed territory. The MID was triggered by tensions that resulted in threats made by both countries in 1846. Coded territorial MID because the conflict was due to the boundary dispute. 
+
+TERRLINK: MID373 3 -- not third party link to territory 
+TERRLINK-CER: MID373 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID373 3 -- not maritime 
+MARITMID-CER: MID373 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID373 1 -- islands MID
+ISLMID-CER: MID373 1 -- certain 
+ISLMID-NOTES: MID373 from cm narrative, part of the Oregon Territory dispute involved Vancouver Island, a large island just off the coast of Canada. The US agreed to cede the island to Canada in exchange for the land territory. Coded island MID because the island was also disputed during this MID and was also the subject of the conflict.
+
+CIVWARMID: MID373 3 -- not civil war 
+CIVWARMID-CER: MID373 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID373 3 -- not civil war link 
+CIVWARLINK-CER: MID373 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID373 3 -- not coup 
+COUPMID-CER: MID373 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID373 3 -- not coup link
+COUPLINK-CER: MID373 1 -- certain 
+COUPLINK-NOTES: 
+
+MID144 
+
+TERRMID: MID144 3 -- not territory 
+TERRMID-CER: MID144 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID144 3 -- not third party link to territory 
+TERRLINK-CER: MID144 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID144 3 -- not maritime 
+MARITMID-CER: MID144 1 -- certain 
+MARITMID-NOTES: MID144 from cm narrative, US Naval vessels bombarded a British-owned area in Nicaragua to avenge an insult to the American Minister to Nicaragua. Coded not maritime because no boundary dispute was present, and this was a diplomatic spat. 
+
+ISLMID: MID144 3 -- not islands 
+ISLMID-CER: MID144 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID144 3 -- not civil war 
+CIVWARMID-CER: MID144 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID144 3 -- not civil war link 
+CIVWARLINK-CER: MID144 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID144 3 -- not coup 
+COUPMID-CER: MID144 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID144 3 -- not coup link
+COUPLINK-CER: MID144 1 -- certain 
+COUPLINK-NOTES: 
+
+MID380 
+
+TERRMID: MID380 3 -- not territory 
+TERRMID-CER: MID380 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID380 3 -- not third party link to territory 
+TERRLINK-CER: MID380 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID380 3 -- not maritime 
+MARITMID-CER: MID380 1 -- certain 
+MARITMID-NOTES: MID380 from cm narrative, the US used a warship in 1856 to bombard a British-occupied town in Nicaragua in retaliation for insults to the U.S. minister and damage to U.S. property in Nicaragua. Coded not maritime because this was a diplomatic dispute, and there was no disputed boundary in the area between these two countries. 
+
+ISLMID: MID380 3 -- not islands 
+ISLMID-CER: MID380 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID380 3 -- not civil war 
+CIVWARMID-CER: MID380 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID380 3 -- not civil war link 
+CIVWARLINK-CER: MID380 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID380 3 -- not coup 
+COUPMID-CER: MID380 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID380 3 -- not coup link
+COUPLINK-CER: MID380 1 -- certain 
+COUPLINK-NOTES: 
+
+MID207 
+
+TERRMID: MID207 3 -- not territory 
+TERRMID-CER: MID207 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID207 3 -- not third party link to territory 
+TERRLINK-CER: MID207 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID207 3 -- not maritime 
+MARITMID-CER: MID207 1 -- certain 
+MARITMID-NOTES: MID207 from cm narrative, it is unclear whether this MID actually occurred. Allegedly, a British war ship fired on an American ship near Pensacola. Coded not maritime because even if this MID did occur, it was not in the area of a disputed boundary and was a display of force, not an attempt to advance a claim. 
+
+ISLMID: MID207 3 -- not islands 
+ISLMID-CER: MID207 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID207 3 -- not civil war 
+CIVWARMID-CER: MID207 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID207 3 -- not civil war link 
+CIVWARLINK-CER: MID207 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID207 3 -- not coup 
+COUPMID-CER: MID207 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID207 3 -- not coup link
+COUPLINK-CER: MID207 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1631 
+
+TERRMID: MID1631 3 -- not territory 
+TERRMID-CER: MID1631 1 -- certain 
+TERRMID-NOTES: MID1631 from cm narrative, Mexico declared a moratorium on all foreign debt payments, and the creditors, Britain, Spain, and France, made overtures to intervene in Mexico. The US threatened retaliation if the countries intervened, deterring them from doing so. Coded not territorial because the dispute was about debt default, and the US deterred foreign powers from intervening in Mexico. 
+
+TERRLINK: MID1631 3 -- not third party link to territory 
+TERRLINK-CER: MID1631 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1631 3 -- not maritime 
+MARITMID-CER: MID1631 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1631 3 -- not islands 
+ISLMID-CER: MID1631 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1631 3 -- not civil war 
+CIVWARMID-CER: MID1631 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1631 3 -- not civil war link 
+CIVWARLINK-CER: MID1631 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1631 3 -- not coup 
+COUPMID-CER: MID1631 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1631 3 -- not coup link
+COUPLINK-CER: MID1631 1 -- certain 
+COUPLINK-NOTES: 
+
+MID225 
+
+TERRMID: MID225 3 -- not territory 
+TERRMID-CER: MID225 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID225 3 -- not third party link to territory 
+TERRLINK-CER: MID225 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID225 3 -- not maritime 
+MARITMID-CER: MID225 1 -- certain 
+MARITMID-NOTES: MID225 from cm narrative, a US Navy vessel stopped a British vessel that was carrying confederate commissioners to London and Paris. This was during the US Civil War, prompting the US to want to stop those commissioners from going to Britain and France. The US arrested the men, and Britain protested and was infuriated. Eventually, war was averted by the US releasing the confederate commissioners. Coded not maritime because although it involved naval vessels, it did not involve a maritime boundary dispute.
+
+ISLMID: MID225 3 -- not islands 
+ISLMID-CER: MID225 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID225 1 -- civil war MID
+CIVWARMID-CER: MID225 1 -- certain 
+CIVWARMID-NOTES: MID225 from cm narrative, the US Civil War was ongoing at the time of this MID in 1861, and the US wanted to stop the confederate commissioners from making it to Britain and France, prompting the US to violate the previously accepted Laws of the Sea by stopping the British vessel and searching it. Coded civil war MID because the US Civil War led to it engaging in this dispute to stop the commissioners.
+
+CIVWARLINK: MID225 3 -- not civil war link 
+CIVWARLINK-CER: MID225 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID225 3 -- not coup 
+COUPMID-CER: MID225 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID225 3 -- not coup link
+COUPLINK-CER: MID225 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1637 
+
+TERRMID: MID1637 3 -- not territory 
+TERRMID-CER: MID1637 1 -- certain 
+TERRMID-NOTES: MID1637 from cm narrative, this is a multilateral dispute that also involves Venezuela. Britain sent warships to Venezuela when Venezuela defaulted on loans, and the US deployed warships to deter Britain from interfering in the region. Occurred in 1881. Coded not territory because US and Britain were not disputing territory here, and the US had a regular practice of deterring other major powers from interfering in the region. 
+
+TERRLINK: MID1637 3 -- not third party link to territory 
+TERRLINK-CER: MID1637 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1637 3 -- not maritime 
+MARITMID-CER: MID1637 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1637 3 -- not islands 
+ISLMID-CER: MID1637 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1637 3 -- not civil war 
+CIVWARMID-CER: MID1637 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1637 3 -- not civil war link 
+CIVWARLINK-CER: MID1637 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1637 3 -- not coup 
+COUPMID-CER: MID1637 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1637 3 -- not coup link
+COUPLINK-CER: MID1637 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2 
+
+TERRMID: MID2 1 -- territorial MID
+TERRMID-CER: MID2 1 -- certain 
+TERRMID-NOTES: MID2 from cm narrative, the US and Canada (Britain) disputed the boundary between the Alaskan panhandle and British Columbia, triggering two MIDs. Canada demanded control of the heads of certain fjords, which granted geographic access to the Yukon. The US rejected this demand and tensions built between the countries, causing turbulence diplomatically and among the citizenry. Coded territorial MID because an unresolved territorial dispute triggered this MID.
+
+TERRLINK: MID2 3 -- not third party link to territory 
+TERRLINK-CER: MID2 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2 3 -- not maritime 
+MARITMID-CER: MID2 1 -- certain 
+MARITMID-NOTES: MID2 Biger (1995: 144) describes the origin of this dispute as a result of the discovery of gold in the Yukon River Basin in Canada, which led to the disputation of the land boundary to give Canada access to the area. Arbitration followed and concluded in 1903 to delineate the land boundary. No indication in Biger or cm narrative that the disputed boundary involved maritime claims. 
+
+ISLMID: MID2 3 -- not islands 
+ISLMID-CER: MID2 1 -- certain 
+ISLMID-NOTES: MID2 Biger (1995: 144) describes the origin of this dispute as a result of the discovery of gold in the Yukon River Basin in Canada, which led to the disputation of the land boundary to give Canada access to the area. Arbitration followed and concluded in 1903 to delineate the land boundary. No indication in Biger or cm narrative that the disputed boundary involved islands. 
+
+CIVWARMID: MID2 3 -- not civil war 
+CIVWARMID-CER: MID2 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2 3 -- not civil war link 
+CIVWARLINK-CER: MID2 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2 3 -- not coup 
+COUPMID-CER: MID2 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2 3 -- not coup link
+COUPLINK-CER: MID2 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3301 
+
+TERRMID: MID3301 1 -- territorial MID
+TERRMID-CER: MID3301 1 -- certain 
+TERRMID-NOTES: MID3301 from cm narrative, the US and Canada (Britain) disputed the boundary between the Alaskan panhandle and British Columbia, triggering two MIDs. Canada demanded control of the heads of certain fjords, which granted geographic access to the Yukon. The US rejected this demand and tensions built between the countries, causing turbulence diplomatically and among the citizenry. Coded territorial MID because an unresolved territorial dispute triggered this MID.
+
+TERRLINK: MID3301 3 -- not third party link to territory 
+TERRLINK-CER: MID3301 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3301 3 -- not maritime 
+MARITMID-CER: MID3301 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3301 3 -- not islands 
+ISLMID-CER: MID3301 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3301 3 -- not civil war 
+CIVWARMID-CER: MID3301 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3301 3 -- not civil war link 
+CIVWARLINK-CER: MID3301 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3301 3 -- not coup 
+COUPMID-CER: MID3301 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3301 3 -- not coup link
+COUPLINK-CER: MID3301 1 -- certain 
+COUPLINK-NOTES: 
+
+MID254 
+
+TERRMID: MID254 3 -- not territory 
+TERRMID-CER: MID254 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID254 3 -- not third party link to territory 
+TERRLINK-CER: MID254 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID254 3 -- not maritime 
+MARITMID-CER: MID254 1 -- certain 
+MARITMID-NOTES: MID254 from cm narrative, it is doubtful that this MID actually took place. British and German ships blockaded several Venezuelan ports when Venezuela defaulted on its debt to those countries in 1902-1903. Roosevelt claimed he sent US ship into the area to deter the ships from taking further action, triggering this MID. Coded not maritime because even if it did occur, it did not involve a disputed maritime boundary and no one was advancing a maritime claim here. 
+
+ISLMID: MID254 3 -- not islands 
+ISLMID-CER: MID254 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID254 3 -- not civil war 
+CIVWARMID-CER: MID254 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID254 3 -- not civil war link 
+CIVWARLINK-CER: MID254 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID254 3 -- not coup 
+COUPMID-CER: MID254 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID254 3 -- not coup link
+COUPLINK-CER: MID254 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3709 
+
+TERRMID: MID3709 3 -- not territory 
+TERRMID-CER: MID3709 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3709 3 -- not third party link to territory 
+TERRLINK-CER: MID3709 1 -- certain 
+TERRLINK-NOTES: MID3709 this MID occurred during WWII, but it was not connected to that war. The US and Britain were allies in the war, and this involved US mail ships venturing into British waters after they were instructed not to by US leadership.
+
+MARITMID: MID3709 3 -- not maritime 
+MARITMID-CER: MID3709 1 -- certain 
+MARITMID-NOTES: MID3709 from cm narrative, this MID occurred from December 1939 to November 1940. Britain forced several American ships into control ports in areas President Roosevelt had forbidden American ships to go. They also seized and censored American mail. These seizures drew angry protests but no actual use of force in reply. Coded not maritime because this MID did not occur in disputed waters, and the US leadership had forbidden the US ships from entering these waters (indicating the US was not intending to violate any maritime territory). 
+
+ISLMID: MID3709 3 -- not islands 
+ISLMID-CER: MID3709 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3709 3 -- not civil war 
+CIVWARMID-CER: MID3709 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3709 3 -- not civil war link 
+CIVWARLINK-CER: MID3709 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3709 3 -- not coup 
+COUPMID-CER: MID3709 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3709 3 -- not coup link
+COUPLINK-CER: MID3709 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Britain and the United States disputed the border between Alaska and Canada following the US purchase of the Alaskan territory from Russia in 1867. The US maintained that the whole coastline was its territory, while the British argued that part of the border was the Pacific Ocean. Britain and the US signed an arbitration agreement in Washington DC on January 24, 1903, which provided for the submission of the dispute to an ad hoc arbitration tribunal composed of six members appointed by the two countries. The arbitration tribunal issued a decision in favor of the US on October 20, 1903. Britain and the US disputed fishing privileges off the Canadian coast after Newfoundland's parliament placed restrictions on the American fishing vessels in 1905. *Britain and the US signed an arbitration agreement in Washington DC on January 27, 1909, which provided for the submission of the dispute to the *Permanent Court of Arbitration* (PCA). On September 7, 1910, the PCA tribunal ruled that Britain could implement reasonable regulations on fishing off the coast of Newfoundland, but that American vessels could fish in the large bays if they remained three miles from the shore.
+
+SOURCES-CM: 
+*American Journal of International Law *(AJIL), 1910, 948-1000; *Foreign Relations of the United States *(FRUS), 1910, 544-569; Stuyt, 1990, 296.
+
+NARRATIVE-CR:
+There are several issues at stake in the rivalry between the US and the UK. There are general territorial issues between the US and Canada. Another issue is British support to the Confederate forces during the US Civil War. A third issue is British violation of the Monroe Doctrine and interference in affairs in Central and South America. 
+
+MID38 is the Caroline Affair that occurred from December 29, 1837 until January 5, 1838. In 1837 a group of men led by William Lyon Mackenzie rebelled in Upper Canada (now Ontario), demanding a more democratic government. There was much sympathy for their cause in the United States, and a small steamer, the Caroline, owned by U.S. citizens, carried men and supplies from the U.S. side of the Niagara river to the Canadian rebels on Navy Island just above Niagara Falls. On the night of Dec. 29, 1837, a small group of British and Canadians loyal to the Upper Canadian government crossed the river to the U.S. side where the Caroline was moored, loosed her, set fire to her, and sent her over the falls. One American was killed in the incident. Americans on the border were aroused to intense anti-British feeling, and soldiers under Gen. Winfield Scott were rushed to the scene to prevent violent American action. The Caroline Affair and the Aroostook War helped to make relations with Great Britain very tense in the years before the Webster-Ashburton Treaty.
+
+MID15 is called the Aroostools War in the MID dataset but this is a mistake. The incident is actually called the Aroostook War. This dispute occurred from January of 1839 until March 23, 1839. It was a bilateral dispute between the UK and US. The Aroostook War, also called the Pork and Beans War, or the Northeastern Boundary Dispute, was an undeclared, bloodless North American "war" that occurred in the winter of 1838 and early spring of 1839. The Treaty of Paris in 1783 had not satisfactorily determined the boundary between the British Province of New Brunswick (now New Brunswick, Canada) and the District of Maine (a part of Massachusetts at the time). The boundary dispute worsened after Maine became a state in 1820 and, disregarding British claims, began granting land to settlers in the valley of the Aroostook River (a tributary of the St. John River). King William I of the Netherlands was asked to arbitrate the dispute, but the U.S. Senate rejected his award in 1832, although the British accepted it. Lumberjacks from New Brunswick and Canada entered the Aroostook region, also known as the Madawaska territory, or the Madawaska district, to cut timber during the winter of 1838-1839, and in February, they seized the American land agent who had been dispatched to expel them. Maine and New Brunswick called out their militiamen, and the United States Congress, at the instigation of Maine, authorized a force of 50,000 men and appropriated $10 million to meet the emergency. Maine actually sent somewhere between 3,000 and 10,000 troops to the disputed area. President Martin Van Buren dispatched General Winfield Scott to the "war" zone, and Scott arranged an agreement in March of 1839 between officials of Maine and New Brunswick that averted actual fighting. Britain agreed to refer the dispute to a boundary commission, and the matter settled in 1842 by the Webster-Ashburton Treaty. After years of bickering over all the variances, the matter was settled with a simple straight line drawn with a ruler between two points on the map. 
+
+MID373 occurred from January to June of 1846. This period covers the increased tension between the two countries over the Oregon Trail Territory. By 1843, increased American immigration on the Oregon Trail to the Territory made the border issue a burning one in Congress, where jingoists raised the slogan of `54 degrees 40 minutes or fight.' President James Polk, a supporter of Manifest Destiny with an eye also on the Mexican Southwest and California, was eager to settle the boundary of the Oregon Territory and proposed a settlement on the 49-degree line to Great Britain. British Minister to Washington, Richard Pakenham, and Secretary of State James Buchanan, supported and encouraged by British Foreign Secretary Lord Aberdeen and Senator John C. Calhoun of South Carolina, worked out a compromise. With some minor modifications, which reserved the whole of Vancouver Island to Canada, Great Britain agreed to Polk's suggestion. The Senate ratified the treaty by a vote of 41-14 on June 18, 1846. A later controversy over the precise boundaries in the Juan de Fuca Strait was resolved by international arbitration in favor of the United States. 
+
+MID144 occurred from July through September of 1854. Here US Naval forces bombarded and burned San Juan del Norte (Greytown) in Nicaragua. The British occupied this area. The US took this action to avenge an insult to the American Minister to Nicaragua. This dispute is known as the Greytown incident as San Juan del Norte was referred to in English as Greytown. 
+
+MID380 or the Orizaba Incident, occurred in May of 1856. It was reported that the British military units present in Nicaragua interfered with US citizens traveling to San Juan del Norte, a small town on the Caribbean that was also called Greytown. This area was occupied by the British in 1848 to secure control of the Mosquito Coast and to check the U.S. efforts to build an inter-oceanic canal. In 1854 it was bombarded by the U.S. warship Cyane in retaliation for insults to the U.S. minister and damage to U.S. property in Nicaragua. 
+
+MID207 occurred from January through 6 June 1858. Here it was reported that a British war ship fired on an American ship near Pensacola. While this may be true, only brief mention of the incident was located. In a brief description of the incident in the New York Times, it is suggested that this incident may not have actually occurred. The incident is coded as a use of force by the UK against the US and a US display of force. 
+
+MID1631 is called the British Spanish French intervention plans in Mexico. It occurred on December 20, 1860 amidst the Mexican civil war, commonly known as the War of the Reform in Mexico between 1858 and 1861. During this period, trade was stagnant, and foreign creditors (the UK, Spain, and France) were demanding full repayment of Mexican debts. Mexican President Ju·rez proceeded to declare a moratorium on all foreign debt repayments. The creditor states made overtures to intervene and the United State threatened retaliation if that action took place. 
+
+MID225 is the Trent Affair that occurred in November of 1861 during the American Civil War. On Nov. 8, 1861, the British mail ship Trent, carrying James M. Mason and John Slidell, Confederate commissioners to London and Paris respectively, was halted in the Bahama Channel by the U.S. warship San Jacinto, commanded by Capt. Charles Wilkes. The commissioners and their secretaries were forcibly removed from the Trent and taken to Boston, where they were jailed in Fort Warren. This act was strictly opposed to the laws of the sea, as they had been previously upheld by the United States, since Wilkes did not seize the vessel and bring it in for admiralty adjudication but merely exercised search and seizure of the men. Nevertheless, Wilkes's action was greeted with wild acclaim and the U.S. House of Representatives thanked him. In Great Britain, the act aroused popular indignation. The British drafted a sharp note to the U.S. government, the terms of which were softened by Prince Albert; they demanded the release of the commissioners and an explanation. A seven-day limit was set for reply. It seemed for a time that Great Britain would not only recognize the Confederacy but also declare war against the Union. However, Lord Lyons, the British minister to the United States, delayed presentation of the note for several days, meanwhile notifying Secretary of State William H. Seward of its contents. The note was presented Dec. 23, 1861. By that time, popular feeling in the United States had died down, and the prospect of war with Britain was anything but welcome. A cabinet meeting on Dec. 26 led to a decision to send to Britain a note by Seward disavowing Wilkes's act and promising to release the prisoners. They were released in January 1862, and probable war with Great Britain was averted.
+
+MID1637 occurred from January until July of 1881. This dispute also involved Venezuela. British and American intervention in a border dispute between Venezuela and British Guiana in 1895 led to another war scare.
+
+Though there are continued disputes between the Americans and the British, some argue that the rivalry between the two countries ends subsequent to this dispute. For example, Russett (1963) argues that this point marks the end of the rivalry and the crisis in a manner aided in the purging of the thought of war between the two countries. After the dispute, Britain accepted the US demand for mediation. This acquiescence has been taken by some to mark the beginning of rapprochement between Britain and the US. As Bennett notes below this is argued by Kinder and Hilgemann 1978:117, Russett 1963, and Campbell 1974. Rock argues that the crisis in Venezuela served as a catalyst that initiated the full rapprochement. 
+
+Several notable events serve as potential political distractions for the rivalry at this point in the rivalry. During this period the United States is engaged with the Spanish in the Spanish American War (1898) and the Philippine American War (1899-1902). The United States also is considerably interested in constructing the Panama Canal and begins work on this project in 1903. In 1901, William McKinely was assassinated. 
+
+In 1893, Gladstone presented a Home Rule for Ireland Bill (following on from 1886) and it was passed in the Commons. When the Bill reached the Lords it was defeated. Gladstone resigned shortly after, ending a career of more than 60 years as a politician. Interestingly, it is in 1895 that the U.S. equals the U.K.'s industrial output. The British were also involved in the Second Boer War from 1899-1902. In 1901, Victoria died and Edward Prince of Wales succeeded her. 
+
+Despite the end of the consideration of the relationship as a rivalry by many the US and the UK experienced a number of disputes subsequent to this period. 
+
+MID2 and MID3301 are the Alaska Boundary Dispute's I and II. The first occurred from July 1902 until January 24, 1903. The second took place October 1-20 1903. The Alaska boundary dispute, took place between Canada (considered a British territory still) and the US over the boundary of the Alaska Panhandle running south to latitude 54 40' north on the coast of BC. When the US purchased Alaska from Russia in 1867, it inherited the Russian position on the boundary, first defined in the 1825 Anglo-Russian treaty. The US claimed a continuous stretch of coastline, unbroken by the deep fiords of the region. Canada demanded control of the heads of certain fiords, especially the Lynn Canal, which gave access to the Yukon. The KLONDIKE GOLD RUSH, which got underway in the autumn of 1897, brought the smouldering dispute to a head. When direct negotiations in the Joint High Commission of 1898-99 failed, the problem was referred in 1903 to an international tribunal, whose 3 American and 2 Canadian members (A.B. Aylesworth and Sir Louis Jette) were frankly partisan. The sixth, Lord Alverstone, Lord Chief Justice of England, supported the American claim for a boundary running behind the heads of the inlets, but agreed to the equal distribution of 4 islands at the mouth of Portland Canal. In protest the Canadian judges refused to sign the award, issued 20 October 1903, and violent anti-British feeling erupted in Canada. 
+
+Irritated at the decision, Prime Minister Sir Wilfrid Laurier asserted that Canada's lack of TREATY-MAKING POWER made it difficult to maintain its rights internationally, but he took no immediate action. Canadian anger gradually subsided, although suspicions of the US provoked by the award may have contributed to Canada's rejection of FREE TRADE in the 1911 "reciprocity election." Nevertheless, the Alaska settlement promoted better understanding between the US and Britain that worked to Canada's advantage in WWI. 
+
+MID254 is the Venezuelan Debt Crisis which occurred from July of 1902 until February of 1903. The South American nation of Venezuela became deeply indebted to several European states in the early years of the 20th century. The debt's amount was open to legitimate debate, but little effort had been made to resolve the dispute or establish meaningful repayment. 
+
+In late 1902, British and German ships blockaded several Venezuelan ports in an effort to force payment of the sums owing. President Roosevelt publicly said little, but maneuvered behind the scenes to arrange a solution that would not involve a continuing European presence in the area. The matter was submitted to the Hague Tribunal, where a decision was reached in the Venezuelans' favor. 
+From the American perspective, the crisis in Venezuela was especially troubling. Much progress had been made on the larger issue of a Central American canal; Britain had recently deferred to the U.S. for its construction. Roosevelt did not want European powers-particularly Germany-involved in the Caribbean, where they might become a threat to that grand American project. 
+
+Theodore Roosevelt claimed during the 1916 election campaign that he had ordered U.S. ships into the area to force German cooperation. Livermore (1946) reviews the documentary evidence, finds little corroboration for Roosevelt's claim and concludes that Roosevelt probably concocted the story for political reasons. DeConde (1963, 385), Langley (1985, 25-6) also doubt about that naval action actually took place.
+
+MID3709 occurred at the beginning of World War II from December of 1939 until November of 1940. The dispute is the `Seizure of U.S. Mail.' British forced several American ships into control ports in areas President Roosevelt had forbidden American ships to go. They also seized and censored American mail. These seizures drew angry protests but no actual use of force in reply. 
+
+SOURCES-CR:
+American Journal of International Law (AJIL), 1910, 948-1000; The Canadian Encyclopedia; Deconde 1963, 583;Foreign Relations of the United States (FRUS), 1910, 544-569; Stuyt, 1990, 296; ttp://www.state.gov/r/pa/ho/time/dwe/16335.htm; http://en.wikipedia.org; Onwar.com; Rock, 1989; Russett, 1963. 
+
+SB-CR:
+United Kingdom / United States Years: 1816-1903. Issues at stake: Northern US border; British support to the Confederate states; European influence in Central and South America ("Monroe Doctrine issues"). End coding: The final border issues concerning Alaska were settled by treaty in 1903. 1903 also marked the conclusion of the last militarized dispute between the US and UK over Venezuela; an agreement regarding South America agreed to submit further disputes to arbitration. Number of reciprocated 30 day militarized disputes: 8. Last militarized dispute: 1902-1903 (Venezuelan debt crisis). Wars: None (but 1812 before data set begins). Summary: The US-British rivalry involved a number of specific issues and conflicts, but these in general all relate to British attempts to retain influence in the "New World" and to limit US power. The war of 1812 was fought by the British to retain, and by the US to reduce, British influence in Canada. Somewhat later, the British resisted US expansion westward as they wanted bases at San Francisco, Puget Sound, Honolulu, and in Central America. The US was viewed generally as a "menace" to British North American, West Indian colonies, and even South and Central American colonies (Campbell 1974:34). The rivalry ended with the last border settlements and arbitration agreements regarding Central and South America which mark British acceptance of a secondary role in the Western Hemisphere. There were a number of confrontations between the US and Britain through the 1800s, over the course of which the specific issues in dispute were gradually settled. In the late 1830s disputes relating to minor Canadian rebellions near Maine were complicated by the aftermath of the Texan revolution of 1836, in which the British helped Texas, wanting it as an independent buffer between the US and Central America. Border problems left to a commission formed under the Treaty of Ghent after the War of 1812 dragged on through the 1820s and 1830s, finally being settled in 1842 under the Webster-Ashburton Treaty. The settlement of Oregon borders in the northwest finally took place in 1846, eliminating a major cause of Anglo-American friction. However, friction arose over Central America as US Presidents were pressured to obtain additional territory from Mexico and the US tried to expand its influence in Nicaragua, Panama, and Cuba. The British responded to an offer by New Granada (Colombia) to the US to build a canal there by expanding its control in Nicaragua to stop the US plan. However, by the late 1850s Britain gave Nicaragua sovereignty over its protectorate area, and recognized Honduran territorial claims, marking the end of substantial British efforts to restrain the US (Campbell 1974:93). This allowed the US to move ahead with canal plans subject to the Clayton-Bulwer treaty (signed in 1850) which essentially stated that neither side would solely control or fortify any canal. A short term improvement in relations was ended by disputes in the 1860s related to the US Civil War and European intervention in Mexico. In 1861 the British, French, and Spanish agreed to use force to obtain debt payments from Mexico, landing at Vera Cruz to US protests (the French took Mexico City; the British and Spanish withdrew in 1862). During the Civil War, the British built ships for the Confederate forces, which were manned at least partly with English crews (Campbell 1974:103). Claims against the British emerging from American naval deaths were only settled in the mid 1870s. Additionally, the British feared that Northern US might take military action in Canada during the war, and a war scare followed the seizure of a British ship by the US Navy. The 1871 Treaty of Washington, agreements in Geneva in 1872, and arbitration through the 1870s settled most of these issues, but questions of the northeastern borders of the US with Canada remained, and in the 1880s a series of economic disputes regarding seal hunting and fisheries in Halifax arose in which the US seized a number of Canadian ships and crews. British and American intervention in a border dispute between Venezuela and British Guiana in 1895 led to another war scare. In the aftermath of the dispute, Britain accepted the US demand for mediation, which has been taken as marking the beginning of rapprochement between Britain and the US (Kinder and Hilgemann 1978:117, Russett 1963, Campbell 1974). In 1897 a general arbitration agreement was agreed to by the US President and Britain, although it was narrowly defeated in the US senate. A commission established under the general guidelines of the arbitration accord in 1898 and 1899 reached agreement about the fisheries and seals issues, and established temporary borders between Alaska and Canada. A definitive settlement of the Alaskan border was finally reached in 1903. Notes: The Wayman and Jones (1991) rivalry operationalization codes the rivalry as ending in 1863, with the last open militarized dispute during the US Civil War. I code the rivalry as continuing after that because major issues remained unsettled. In 1872 some issues were settled in Geneva (particularly claims regarding British involvement in the US Civil War), but not all border issues were discussed. Sources: Campbell (1974), Kinder and Hilgemann (1978), Perkins (1968), Russett (1963).
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229
+
+GG: MID207 MID225 MID3709 are not considered maritime sovereignty. Note that discussion above indicates a maritime MID:
+Britain and the US disputed fishing privileges off the Canadian coast after Newfoundland's parliament placed restrictions on the American fishing vessels in 1905. *Britain and the US signed an arbitration agreement in Washington DC on January 27, 1909, which provided for the submission of the dispute to the *Permanent Court of Arbitration* (PCA). On September 7, 1910, the PCA tribunal ruled that Britain could implement reasonable regulations on fishing off the coast of Newfoundland, but that American vessels could fish in the large bays if they remained three miles from the shore.
+
+MARITIME-DISPUTE: MID207
+ DYAD: USA UNITED KINGDOM 2200
+ DATES: 18580101 18580608
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion: 
+MID207 occurred from January through 6 June 1858. Here it was reported that a British war ship fired on an American ship near Pensacola. While this may be true, only brief mention of the incident was located. In a brief description of the incident in the New York Times, it is suggested that this incident may not have actually occurred. The incident is coded as a use of force by the UK against the US and a US display of force. 
+
+MARITIME-DISPUTE: MID225
+ DYAD: USA UNITED KINGDOM 2200
+ DATES: 18611107 18611226
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion: 
+MID225 is the Trent Affair that occurred in November of 1861 during the American Civil War. On Nov. 8, 1861, the British mail ship Trent, carrying James M. Mason and John Slidell, Confederate commissioners to London and Paris respectively, was halted in the Bahama Channel by the U.S. warship San Jacinto, commanded by Capt. Charles Wilkes. The commissioners and their secretaries were forcibly removed from the Trent and taken to Boston, where they were jailed in Fort Warren. This act was strictly opposed to the laws of the sea, as they had been previously upheld by the United States, since Wilkes did not seize the vessel and bring it in for admiralty adjudication but merely exercised search and seizure of the men. Nevertheless, Wilkes's action was greeted with wild acclaim and the U.S. House of Representatives thanked him. In Great Britain, the act aroused popular indignation. The British drafted a sharp note to the U.S. government, the terms of which were softened by Prince Albert; they demanded the release of the commissioners and an explanation. A seven-day limit was set for reply. It seemed for a time that Great Britain would not only recognize the Confederacy but also declare war against the Union. However, Lord Lyons, the British minister to the United States, delayed presentation of the note for several days, meanwhile notifying Secretary of State William H. Seward of its contents. The note was presented Dec. 23, 1861. By that time, popular feeling in the United States had died down, and the prospect of war with Britain was anything but welcome. A cabinet meeting on Dec. 26 led to a decision to send to Britain a note by Seward disavowing Wilkes's act and promising to release the prisoners. They were released in January 1862, and probable war with Great Britain was averted.
+
+MARITIME-DISPUTE: MID3709
+ DYAD: USA UNITED KINGDOM 2200
+ DATES: 19391214 19401103
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion: 
+MID3709 occurred at the beginning of World War II from December of 1939 until November of 1940. The dispute is the `Seizure of U.S. Mail.' British forced several American ships into control ports in areas President Roosevelt had forbidden American ships to go. They also seized and censored American mail. These seizures drew angry protests but no actual use of force in reply. 
+

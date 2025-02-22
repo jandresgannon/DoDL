@@ -1,0 +1,91 @@
+FILE: cm560572v11.0.txt
+DYAD: SOUTH AFRICA - SWAZILAND
+RIVALRY: RIV1167
+DISPUTE(S): MID2599 MID2753 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190218
+PS-LAST-CHECKED: 20190218
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2599 
+
+TERRMID: MID2599 3 -- not territory 
+TERRMID-CER: MID2599 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2599 3 -- not third party link to territory 
+TERRLINK-CER: MID2599 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2599 3 -- not maritime 
+MARITMID-CER: MID2599 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2599 3 -- not islands 
+ISLMID-CER: MID2599 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2599 1 -- civil war MID
+CIVWARMID-CER: MID2599 1 -- certain 
+CIVWARMID-NOTES: MID2599 from Gibler 2018, South Africa conducted several raids into Swaziland in 1986. They were targeting members of the ANC, a militarized rebel group that attacked the South African government. Coded civil war MID because this was connected to militarized rebels in Swaziland targeting South Africa. 
+
+CIVWARLINK: MID2599 3 -- not civil war link 
+CIVWARLINK-CER: MID2599 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2599 3 -- not coup 
+COUPMID-CER: MID2599 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2599 3 -- not coup link
+COUPLINK-CER: MID2599 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2753 
+
+TERRMID: MID2753 3 -- not territory 
+TERRMID-CER: MID2753 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2753 3 -- not third party link to territory 
+TERRLINK-CER: MID2753 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2753 3 -- not maritime 
+MARITMID-CER: MID2753 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2753 3 -- not islands 
+ISLMID-CER: MID2753 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2753 3 -- not civil war 
+CIVWARMID-CER: MID2753 1 -- certain 
+CIVWARMID-NOTES: MID2753 from Gibler 2018, South African troops shot a Swazi man across the border when he tried to cross into South Africa. Swaziland protested. Coded not civil war because this was not connected to militarized rebel activity and was a border control issue. News coverage of the MID does not indicate that the civilian was associated with any rebel group. 
+
+CIVWARLINK: MID2753 3 -- not civil war link 
+CIVWARLINK-CER: MID2753 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2753 3 -- not coup 
+COUPMID-CER: MID2753 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2753 3 -- not coup link
+COUPLINK-CER: MID2753 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

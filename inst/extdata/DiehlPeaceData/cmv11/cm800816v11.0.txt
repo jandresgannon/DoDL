@@ -1,0 +1,317 @@
+FILE: cm800816v11.0.txt
+DYAD: THAILAND-N. VIETNAM
+RIVALRY: RIV1351
+DISPUTE(S): MID1363 MID611 MID1232 MID3603 MID3920 MID4008 
+
+RIVNOTES: 
+RIV1351: MID1353 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19540721-19610419 0.25 19610420-19890722 0.00 19890723-19910917 -9 19910918-20209999 0.5
+
+PS-UPDATE2020: The “strategic partnership” between Thailand and Vietnam was elevated to “strengthened strategic partnership” in 2019, moving our bilateral relations towards new heights with stronger strategic and economic components: http://ven.vn/vietnam-thailand-tighten-cooperation-as-strong-asean-partners-43364.html
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220324
+PS-LAST-CHECKED: 20220324
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1363
+
+TERRMID: MID1363 3 -- not territory 
+TERRMID-CER: MID1363 1 -- certain 
+TERRMID-NOTES: MID1363 coded non-territorial because from cm narrative, this MID was a result of an internationalized civil war in Laos, where the factions were getting assistance from numerous sources. In Laos, North Vietnam/China/USSR supported communist factions while Thailand/USA supported rightist factions. MID1363 constitutes a threat of force made by China, which was directed toward USA in response to USA's suggestion that SEATO should intervene in Laos. Since Thailand and North Vietnam did not threaten each other in this MID, and no land territory was in dispute between them here, coded as non-territorial. 
+
+TERRLINK: MID1363 1 -- third party linked to territorial MID
+TERRLINK-CER: MID1363 1 -- certain 
+TERRLINK-NOTES: MID1363 from cm narrative, Laos' civil war had two primary factions, communists vs RLG, and both sides had third party supporters. North Vietnam was one of the parties supporting the communists, and Thailand was one of the parties supporting the RLG. Coded TERRLINK MID since each member of this dyad was supporting factions competing for control of Laos territory. 
+
+MARITMID: MID1363 3 -- not maritime MID
+MARITMID-CER: MID1363 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1363 3 -- not islands 
+ISLMID-CER: MID1363 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID1363 3 -- not civil war 
+CIVWARMID-CER: MID1363 1 -- certain 
+CIVWARMID-NOTES: MID1363 from cm narrative, North Vietnam and Thailand were supporting opposing sides in the Laotian civil war. This MID was a threat of force by China if SEATO intervened in the Laotian civil war. Vietnam and Thailand's interstate dispute in this MID is due to their support of opposing sides of a civil war in Laos (a civil war outside of this dyad). This is coded not civil war because there was not a civil war in this dyad driving this dispute (see CIVWARLINK).
+
+CIVWARLINK: MID1363 1 -- civil war link
+CIVWARLINK-CER: MID1363 1 -- certain 
+CIVWARLINK-NOTES: MID1363 from cm narrative, this is a multilateral dispute, and Thailand and N Vietnam's involvement comes from their support of opposing sides in the Laotian civil war. Coded civil war link because a civil war drove this MID, but the civil war was outside of this dyad. No civil war within this dyad drove the dispute. 
+
+COUPMID: MID1363 3 -- not coup 
+COUPMID-CER: MID1363 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1363 3 -- not coup link
+COUPLINK-CER: MID1363 1 -- certain 
+COUPLINK-NOTES: 
+
+MID611
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: MID611 is the Vietnam War. Thailand was an ally of the US and South Vietnam, and supplied military bases and combat forces to oppose North Vietnam. Coded not territory because although Vietnam War was a war of territorial control and Thailand helped fight against North Vietnam, Thailand was not making a claim of its own on Vietnamese territory, but was rather on the side of S Vietnam in this N Vietnam-S Vietnam territorial dispute. See TERRLINK.
+
+TERRLINK: MID611 1 -- third party linked to territorial dispute 
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 although Thailand was not attempting to control North Vietnam, they did directly fight in the Vietnam war, thus making them a party linked to the territorial MID. Coded third party link because Thailand was involved in the Vietnam War territorial dispute, but was not advancing a claim of its own in the dispute. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES:
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID611 1 -- civil war MID
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: MID611 the Vietnam War was an interstate dispute between North and South Vietnam, and this dispute comes from Thailand's support of S Vietnam (and US) in the territorial dispute. Coded civil war MID because this was connected to the Vietnam War, and North Vietnam is within this dyad. 
+
+CIVWARLINK: MID611 1 -- civil war link
+CIVWARLINK-CER: MID611 1 -- certain
+CIVWARLINK-NOTES: MID611 coded civil war link because this was connected to the Vietnam War, and South Vietnam is outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1232
+
+TERRMID: MID1232 3 -- not territory
+TERRMID-CER: MID1232 1 -- certain 
+TERRMID-NOTES: MID1232 from cm narrative, this is a multilateral MID involving Cambodia, Thailand, and N Vietnam, which began after the Cambodian Civil War ended. MID1232 lasted from 1976 to 1987. Coded as not territory between Thailand and N Vietnam because, although this involved border crossings, neither country was making a claim on the territorial sovereignty of the other. 
+
+TERRLINK: MID1232 1 -- third party linked to territorial MID
+TERRLINK-CER: MID1232 1 -- certain 
+TERRLINK-NOTES: MID1232 coded as third party link because it is a multilateral MID that includes a full scale invasion of Cambodia by Vietnam. Thailand was involved in other events of MID1232 but not the invasion. The invasion of Cambodia constitutes a territorial MID between Vietnam and Cambodia, but in this Vietnam-Thailand dyad, this is coded as third party link due to Thailand's presence in the MID while not being a part of the territorial MID aspect of it. 
+
+MARITMID: MID1232 3 -- not maritime 
+MARITMID-CER: MID1232 1 -- certain 
+MARITMID-NOTES:
+
+ISLMID: MID1232 3 -- not islands 
+ISLMID-CER: MID1232 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID1232 1 -- civil war MID
+CIVWARMID-CER: MID1232 1 -- certain 
+CIVWARMID-NOTES: MID1232 coded civil war MID because this MID involved militarized rebels fleeing into Thailand and Cambodia attacking those rebels in Thailand, within this dyad. 
+
+CIVWARLINK: MID1232 1 -- civil war link
+CIVWARLINK-CER: MID1232 1 -- certain
+CIVWARLINK-NOTES: MID1232 coded link to civil war MID because events directly followed a civil war outside of the dyad, the Cambodian Civil War, and the hostilities stem directly from the fallout of that war, including the pursuit of rebels across international borders. Per the cm narrative, N Vietnam was aiding Cambodia by pursuing anti-Khmer guerillas across the border into Thailand. These actions were a direct fallout of the Cambodian Civil War, which the communists won, but this did not end all violence in Cambodia. 
+
+COUPMID: MID1232 3 -- not coup 
+COUPMID-CER: MID1232 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1232 3 -- not coup link
+COUPLINK-CER: MID1232 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3603
+
+TERRMID: MID3603 3 -- not territory
+TERRMID-CER: MID3603 1 -- certain 
+TERRMID-NOTES: MID3603 
+
+TERRLINK: MID3603 3 -- not third party linked to territory 
+TERRLINK-CER: MID3603 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID3603 1 -- maritime MID
+MARITMID-CER: MID3603 1 -- certain 
+MARITMID-NOTES: MID3603 from Gibler 2018, in 1977 Vietnam attacked several Thai fishing boats in the Gulf of Siam. From cm narrative, these waters were disputed and were one of the issues motivating the rivalry. Coded maritime MID becaus this was connected to a maritime dispute. 
+
+ISLMID: MID3603 3 -- not islands 
+ISLMID-CER: MID3603 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3603 3 -- not civil war 
+CIVWARMID-CER: MID3603 1 -- certain 
+CIVWARMID-NOTES: MID3603 no indication in cm narrative, Gibler 2018, or news coverage of this MID that this involved militarized rebels. 
+
+CIVWARLINK: MID3603 3 -- not civil war link 
+CIVWARLINK-CER: MID3603 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID3603 3 -- not coup 
+COUPMID-CER: MID3603 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3603 3 -- not coup link
+COUPLINK-CER: MID3603 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3920
+
+TERRMID: MID3920 3 -- not territory 
+TERRMID-CER: MID3920 1 -- certain 
+TERRMID-NOTES: MID3920 from cm narrative, Vietnam was accused of shelling Cambodian refugee camps and Khmer Rouge camps inside Thailand. Violation of Thailand's territorial sovereignty, but not a territorial dispute between these states. 
+
+TERRLINK: MID3920 3 -- not third party linked to territory 
+TERRLINK-CER: MID3920 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID3920 3 -- not maritime 
+MARITMID-CER: MID3920 1 -- certain 
+MARITMID-NOTES:
+
+ISLMID: MID3920 3 -- not islands 
+ISLMID-CER: MID3920 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID3920 1 -- civil war MID
+CIVWARMID-CER: MID3920 1 -- certain 
+CIVWARMID-NOTES: MID3920 although this occurred years after the Vietnam war, the regime left in place at that war's end led to ideologically opposed regimes in each country, contributing to repeated disputes, including this round of hostilities. Also, the civil conflict in Cambodia led to refugee camps being set up in Thailand, which were shelled by Vietnam. 
+
+CIVWARLINK: MID3920 3 -- not civil war link
+CIVWARLINK-CER: MID3920 1 -- certain
+CIVWARLINK-NOTES:
+
+COUPMID: MID3920 3 -- not coup 
+COUPMID-CER: MID3920 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3920 3 -- not coup link
+COUPLINK-CER: MID3920 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4008
+
+TERRMID: MID4008 3 -- not territory
+TERRMID-CER: MID4008 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4008 3 -- not third party linked to territory 
+TERRLINK-CER: MID4008 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID4008 1 -- maritime MID
+MARITMID-CER: MID4008 1 -- certain 
+MARITMID-NOTES: MID4008 from cm narrative, this MID occurred in waters claimed by both countries. Boats exchanged fire in the Gulf of Thailand, and Vietnamese patrol boats captured Thai fishing vessels. Occurred 5/31/1995.
+
+ISLMID: MID4008 3 -- not islands 
+ISLMID-CER: MID4008 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID4008 3 -- not civil war
+CIVWARMID-CER: MID4008 1 -- certain 
+CIVWARMID-NOTES: MID4008 from cm narrative, this MID does not fit coherently with the preceding MIDs' issues/causes. The rivalry between Thailand may have been over at the occurrence of MID4008, and this MID seems to be purely a result of disputed maritime territory. 
+
+CIVWARLINK: MID4008 3 -- not civil war link
+CIVWARLINK-CER: MID4008 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID4008 3 -- not coup 
+COUPMID-CER: MID4008 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4008 3 -- not coup link
+COUPLINK-CER: MID4008 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4008
+rivalry=800816 nationa=N. VIETNAM nationb=THAILAND MID4008 19950531-19950531 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=USE OF FORCE 
+
+Vietnamese patrol boats capture Thai fishing vessels while operating in waters claimed by both states. Subsequent to the approach of a Thai gunboat, an exchange of gunfire occurs between the Thai and Vietnamese naval vessels. The dispute occurs in the Gulf of Thailand, 138 nautical miles east of the southern Thai province of Songkhla. First and last day of dispute was on 5/31/1995.
+
+NARRATIVE-CM:
+Thailand established diplomatic relations with Vietnam on August 6, 1976. Vietnam mobilized troops along its border with Laos and Cambodia on December 1, 1978, Thailand placed its troops on alert on December 10, 1978. The United States sold F-5E/F military aircraft to Thailand on March 5, 1979. Some 2,000 Vietnamese troops attacked a Cambodian refugee camp in Thailand on June 23-24, 1980, resulting in the deaths or wounding of some 130 Thai soldiers. The Thai government issued a formal protest to Vietnam following the attack. *Association of Southeast Asian Nations* (ASEAN) foreign ministers condemned the attack at their annual meeting in Kuala Lumpur, Malaysia on June 25, 1980. The US airlifted military assistance (military equipment) to Thailand on July 5, 1980. Thai military aircraft attacked Vietnamese troops on Thai territory on April 4, 1983. Vietnamese troops entered Thai territory on March 25, 1984, and Thai troops captured 40 Vietnamese soldiers on March 29, 1984. ASEAN condemned Vietnam's violation of Thailand's border. The US offered military assistance to Thailand on April 15, 1984 (Thailand purchased 40 M-48 tanks from the US on April 17, 1984). Thai and Vietnamese representatives held negotiations concerning competing claims in the Gulf of Thailand in Ho Chi Minh City from May 30 to June 3, 1997. The countries signed a border delimitation agreement in Ho Chi Minh City on July 28, 1997.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 557-558; Jessup, 1998, 726-731; *The Nation* (Bangkok), July 28, 1997.
+
+NARRATIVE-CR:
+Three issues motivate the rivalry between Thailand and North Vietnam. Several MIDs take place in the context of the Cold War rivalries. Thailand supports rightist governments in the Laotian civil war and in Vietnam. Another set of MIDs involves Vietnamese pursuit of Khmer Rouge insurgents into Thai territory. A final MID is over territorial sovereignty in a dispute over the right to fishing waters. 
+
+From December 29, 1960 until April 20, 1961 MID1363 occurs. In 1961, there was an internationalized civil war within Laos. North Vietnam, the USSR, and the Peoples Republic of China supported the Communist forces in northern Laos. The Royal Laotian Government (RLG) was supported by the USA and Thailand. There was considerable direct support from both the USA and the USSR. The USSR was airlifting supplies to the Pathet Lao while the USA was flying reconnaissance missions in support of the RLG. Neither the USA nor the USSR wanted the conflict to break out into a direct conflict between them. There was a push to resolve the conflict with a conference in Geneva. While preliminary discussion about having the conference in Geneva were ongoing, the Kennedy administration discussed intervention by SEATO. China warned Washington and Laos that should SEATO intervene it would intervene with direct military force. This threat constitutes MID1363.
+
+MID1353 takes place during the second Laotian Civil War that occurs from 1963 until 1973. China is involved in direct support of the Pathet Lao from May of 1962 until July of 1964. China provided direct aid to the communist forces in Laos and conducted direct military operations in Northern Laos. Much of the activity China was involved in centered on completing a road network in Northern Laos that would connect North Vietnam, Laos and Thailand. The road network would provide access of supplies and troops for the communist groups in all three countries. Chinese forces were also involved in direct military confrontation with the Royal Laotian Government. Thailand was involved in the Second Laotian Civil War from 1962 until 1973. Thailand sent troops and equipment to the rightists in the country. 
+
+MID611 is the Vietnam War. China was the first country to recognize the communist insurgent group, National Liberation Front (NLF), in South Vietnam. From 1964 until 1971, China committed 320,000 troops to the Vietnam War in support of North Vietnam and the NLF. Thailand was a close ally of the United States during the Vietnam War. Thailand provided military bases and combat forces to assist South Vietnam. 
+
+MID1232 occurred from August of 1976 until June of 1987. This was a multilateral MID with North Vietnam aiding Cambodia after its invasion into Cambodia in 1980. This MID covers a series of hostile actions between the two regimes over a 9-year period. The Khmer Rouge under Pol Pot took power in Cambodia in 1975. The Khmer Rouge government began violent domestic repression in 1975, including forced evacuation of major cities. Khmer Rouge forces pursued refugees across the border into Thailand as early as November of 1976. In July of 1977, Thai aircraft began retaliatory strikes against Cambodia. Khmer Rouge units also raided villages within Vietnam in March of 1977. Vietnam responded by air strikes. Vietnam mounted a full-scale invasion in late 1978. Vietnamese troops and Cambodian forces began small raids on Khmer bases in Thailand and continued these operations until 1987. 
+
+MID3603 occurred within this period on June 25, 1977. This is a bilateral MID between N. Vietnam and Thailand. (I was not able to find specific reference to a specific dispute between N. Vietnam and Thailand on or near this date. J. Klein) 
+
+MID3920 occurred from January until July of 1989. The Vietnamese armed forces were accused of shelling Cambodian refugee camps and Khmer Rouge camps inside Thailand. 
+
+MID4008 occurred on 5/31/1995. A Thai naval ship exchanged gunfire with three armed Vietnamese ships which attacked Thai trawlers in disputed waters in the gulf of Thailand. The clash occurred off the east coast of Thailand's southern province of Songkhla. The two sides exchanged gunfire for half an hour. Two Vietnamese sailors were killed. 
+
+This final MID, MID4008, seems to be one that does not fit coherently with the other issues that motivate the rivalry between the two countries. It seems that the rivalry may indeed have ended in the period following MID3920. It is in the aftermath of MID3920 that the Vietnamese withdrew from Cambodia. Vietnamese occupation of Cambodia and its pursuit of Khmer Rouge forces in Thailand fueled much of the rivalry between Thailand and Vietnam. Additionally, Thailand surreptitiously supported the Khmer Rouge during the Vietnamese occupation. 
+
+In October of 1991, a peace plan was signed by the warring factions within Cambodia. Vietnam praised this agreement and made efforts to ensure that all of its troops had withdrawn from Cambodia. Vietnam was interested in seeking the approval of Washington at the end of the Cold War. It had lost its patron state, the USSR. Vietnam began to court the favor of Washington in an effort to do away with Washington's complete economic embargo against Vietnam. Additionally, UN peacekeeping efforts to stabilize Cambodia Thus, Vietnam turned away from a costly involvement in Cambodia towards liberalizing its economy
+
+In 1992, the United Nations assumed the government's administrative functions of Cambodia, while the Khmer Rouge withdrew from the peace process and resumed fighting. The following year the Khmer Rouge rejected the results of the UN-run elections that brought a coalition government to Cambodia. The guerrilla force lost about half to three quarters of its strength (3,000-4,000 soldiers) in a mass defection in 1996. Factional fighting within the Khmer Rouge in 1997 led to Pol Pot's ouster, trial, and imprisonment by the Khmer Rouge. The group continued to disintegrate, and factional fighting resumed in 1998. Pol Pot died in April, Khieu Samphan surrendered in Dec. 1998, and by 1999 most members had defected, surrendered, or been captured. 
+
+SOURCES-CR: 
+Arnold, 1995, 542-6; Associated Press, 10/24/1991; Butteworth, 1976, 240-6,345-8; Brecher and Wilkenfeld, 1997, 557-558; Dommen, 1971, 115, 150-153, 176, 195, 171-199; Fall, 1970, 133-156; Devillers, 1970, 45-6; Langer and Zasloff, 1970 Xinhua News Agency, 6/2/1995.
+
+PS-NARRATIVE: 
+
+19540721-19610419 0.25
+
+North Vietnam became a member of the international system on July 21, 1954. On April 26, 1955, Thailand decided to send 40,000 pro=Communist Vietnamese guerillas living in northern Thailand to North Vietnam. There was a significant threat of Communist infiltrations throughout Thailand, fomented by the Vietnamese groups. Given the different ideological sides during the Cold War for Thailand and North Vietnam, the threat of violent conflict was present in the 1950s and early 1960s in Indo-China between the two countries.
+
+19890723-19910917 Transition
+
+The last MID of RIV, MID3920 ended on July 22, 1989. A high-level Thai military delegation led by HE Gen Chawalit Yongchaiyut, Commander-in-Chief of the Thai army and acting Supreme Commander of the Royal Thai Armed Forces, arrived in Hanoi on the morning of 26th March 1990, for an official friendship visit to Vietnam. The delegation was accompanied by Thai scientists, businessmen and press correspondents. The delegation was officially welcomed at a grand ceremony held at the Defense Ministry's Guest House. Immediately after its arrival, the high-level Thai military delegation led by HE Gen Chawalit Yongchaiyut held talks with a high-level Vietnamese military delegation headed by Gen Doan Khue, Vice-Minister of National Defence and CGS of the VPA. Also taking part in the talks on the Thai side were HE Rangsan Phahonyothin, ambassador of the Kingdom of Thailand to the SRV. On the Vietnamese side were Vice-Minister of National Defence Senior Lt-Gen Tran Van Quang and Vice-Minister of Foreign Affairs Le Mai. Greeting the high-level Thai military delegation, Gen Doan Khue said Vietnam and Thailand are two South-East Asian countries bound by friendly traditional relations.
+
+Thailand and Vietnam agreed on October 29, 1990, to leave minor points in a proposed Cambodian peace settlement to the disputing Cambodian factions and turn their attention to economic development, officials said. ''Vietnam wants to expand economic cooperation with ASEAN (the Association of Southeast Asian Nations), particularly Thailand,'' Thai government spokesman Suvit Yodmanee said after about 90 minutes of talks between Thai leaders and Vietnamese Foreign Minister Nguyen Co Thach. Thach and Thai Prime Minister Chatichai Choonhavan agreed that both sides have carried out their obligations to help set up a Supreme National Council to represent Cambodia's sovereignty until U.N.-supervised election can be held, Suvit said. ''Vietnam's duty has already ended on the Cambodian issue, they (Cambodians) must negotiate by themselves,'' Suvit quoted Thach as saying. He said Thach proposed that Vietnam's Prime Minister Do Muoi meet with Chatichai in order to strengthen bilateral economic relations. ''Our premier doesn't object it and welcomes a meeting,'' Suvit said. Thach said Do Muoi would visit Thailand ''soon'' at Chatichai s invitation. Improvements in Thai-Vietnamese relations have been hampered by the Cambodian conflict which pits the Phnom Penh government installed by Vietnam's 1978 invasion against a three-party resistance coalition backed by Thailand. Both sides have accepted in principle a U.N. peace framework, but progress has bogged down over the details of implementation, including the leadership of the SNC.
+
+19910918-20159999 0.5
+
+Thai Foreign Minister Arsa Sarasin said in Hanoi on September 18, 1991, that his country was interested in major cooperative ventures with Vietnam, and hoped soon to sign agreements on fishing and natural gas exploitation. Arsa, on an official visit to Vietnam, also called in talks with Vietnamese Prime Minister Vo Van Kiet for the release of some 846 Thai fishermen detained for allegedly fishing in Vietnamese territorial waters. In addition to strengthening bilateral trade and economic relations, Arsa said his trip was aimed at paving the way for a visit to Thailand by the Vietnamese premier, for which no date has been fixed. During talks with Kiet, Arsa stressed Thailand's interest in cooperating with Vietnam in fishing and natural gas exploration. On joint exploration of natural gas in southern Vietnam, Arsa said Thailand wanted to buy gas from Vietnam which Hanoi does not currently have the means to directly deliver to Thailand. He said Thailand was prepared to build pipelines linking Vietnam's southern plateau to treatment facilities in Thailand, and he hoped the two countries would sign gas and fishing cooperation agreements during Kiet's. Relations between Thailand and Vietnam have improved over the last two years in line with progress toward resolving the 13-year-old civil war in neighboring Cambodia, where the two countries have backed opposing sides. The two sides also agreed that Vietnamese who fled to Thailand to escape the Indochina war should have the option of taking Thai nationality if they renounced Vietnamese citizenship, the communique said, adding that Bangkok would reduce "restrictions" in force for the Vietnamese community. Vietnam will also positively consider Thailand's desire to open a consulate in Ho Chi Minh City and the two sides agreed it would be desirable to have "regular exchanges between the military leaders of the two countries" and agreed to soon exchange military attaches.
+
+Thailand and Vietnam have agreed to encourage regional peace and stability and expand economic cooperation, Thai Prime Minister Anand Panyarachun said on October 28, 1991, following a meeting with his Vietnamese counterpart. ''The meeting was held under friendly and fraternal atmosphere between the two sides,'' Anand told reporters following a two-hour discussion with Vietnamese Prime Minister Vo Van Kiet. The visit to Bangkok was the first by a Vietnamese prime minister in 13 years. The last Vietnamese premier to visit Thailand was Pham Van Dong, who came just a few months before Vietnam invaded Cambodia in late 1978. The invasion sparked more than a decade of tension between Vietnam and Thailand, as well as with Bangkok's allies in the Association of Southeast Asian Nations. ''This friendship visit is aimed at consolidating and strengthening the relations of friendship and long-term cooperation in many fields between our two countries,'' Kiet said in a statement on his arrival. ''We are of the view that this visit is of great significance, ushering in a new era in our relationship, an era of friendship and cooperation for the prosperity of each country in the interests of peace, stability, friendship and cooperation in Southeast Asia,'' the statement said. ''Good relations between Thailand and Vietnam would encourage understanding and cooperation among neighboring countries in Southeast Asia,'' Anand said. Officials said Vietnam wanted Thailand to provide technical assistance in agriculture. ''They think that we have success in both agricultural production and marketing,'' one Thai official said. Kiet also planned to meet with Thai businessmen in Bangkok and has been granted an audience with King Bhumibol Adulyadej. Anand said the two countries agreed to adopt a compromise over a fisheries dispute in which Thailand and Vietnam frequently have arrested fishermen alleged to be fishing in each others' waters. The previous week, Vietnam released 312 Thai fishermen while Thailand returned 159 Vietnamese fishermen to Vietnam in a bid to create better ties.
+
+Vietnam's Prime Minister Vo Van Kiet arrived on July 28, 1992, in Thailand for high-level talks expected to focus on ways of enhancing economic cooperation between the two former Cold War rivals. Kiet flew in to Bangkok's airport and promptly departed again by plane for the eastern beach resort of Pattaya for a meeting with interim Prime Minister Anand Panyarachun. The two leaders are holding their third official meeting since Kiet first visited Thailand in October 1991. Thailand sent troops to fight with the U.S.-backed government in Saigon during the Vietnam War and provided bases from which U.S. warplanes bombed Vietnam. After the war, Thailand quickly recognized the communist government, but fell out with Hanoi over the 1978 Vietnamese invasion of Cambodia. The withdrawal of Vietnamese troops from Cambodia in 1989 and the signing of a peace agreement last year have markedly improved ties between the two countries. Anand visited Vietnam in January 1992, the first such trip by a Thai prime minister since the communist victory in 1975. Talks between the two leaders during Kiet's two-day visit are expected to focus on economic issues. Thailand's fast-growing economy needs Vietnam's natural resources, cheap labor force and potentially large market, while Vietnam needs the capital, managerial expertise and technical know-how of the Thais as it attempts to liberalize its economy. Business relations, however, have not always gone smoothly due to differences in the cultures and legal systems of the two countries. Analysts said Bangkok is also concerned that other Southeast Asian nations, such as Malaysia and Singapore, have overtaken Thailand in forging closer economic links with Hanoi. Disputes over fishing rights and differences over the development of the lower Mekong River basin have also clouded Thai-Vietnamese relations recently. Hundreds of Thai fishermen are currently in Vietnamese jails charged with fishing illegally, while Thai authorities are holding 30 Vietnamese fishermen on piracy charges.
+
+Once Hanoi's bitter enemy and now a growing trading partner, Thailand on February 4, 1994, welcomed the lifting of the U.S. embargo against Vietnam as a step toward regional peace and prosperity. Officials overseeing political relations, commerce and national security all praised the move. ''We congratulate the United States and Vietnam for having successfully come this far and we would like them to go on to normalize relations,'' said Foreign Ministry spokesman Suvidhya Simaskul. ''The lifting of the embargo will have lots of positive effects on Vietnam's economy and that in turn will be good for the economy of Southeast Asia and the prosperity of Thailand,'' he said. ''That in turn will bring peace. People will not turn back to war and conflicts again. The interests of all these countries will in one way or another be linked up.'' Thailand and its allies in the Association of Southeast Asian Nations consider past ideological conflicts with Vietnam to be over, said Thai government spokesman Abhisit Vejajjiva. ''Each of these countries will focus on economic matters,'' he said. ''We think it is in the not-too-distant future when the Indochinese countries will develop closer ties with the countries of this region and attain membership status in ASEAN,'' he said.
+
+Foreign Minister of Thailand Surin Phitsuwan expressed his firm belief in a bright prospect of bilateral economic cooperation between his country and Vietnam in an interview on 31st August, 1999. He pointed out that two-way trade value between Thailand and Vietnam in recent years has been on the rise despite the fact that both countries have been stricken by the regional economic crisis. Bilateral trade value was registered at 968m dollars last year, Surin Phitsuwan said, adding that both sides have been striving to raise the volume to 1bn dollars by the end of this year and 1.2bn dollars in the year 2000. Thailand has cooperated with Vietnam in several economic fields including fishery and energy. In the energy field, the Petroleum Authority of Thailand (PTT) wished to establish cooperative ties with the Vietnam Oil and Gas Corporation (PetroVietnam) in oil refinery activities. In addition, PTT was interested in setting up joint ventures with PetroVietnam in building a gas holder filling factory and a liquefied petroleum gas store in the central coastal city of Danang, the Thai Minister said. Thailand also showed interest in investing in fishery-related industries in Vietnam. Minister Surin Phitsuwan said that though facing economic difficulties caused by the regional crisis, Thai businesspeople invested 1.1bn dollars in Vietnam, ranking eleventh among foreign investors in the country. He attributed Thai businessmen's increasing investment in Vietnam to his government's clear-cut policy on encouraging the private sector to invest in Vietnam. Asked about the prospect of economic and investment cooperation between Vietnam and Thailand, the Thai Minister stressed that the prospect is bright with both sides being aware of the need for cooperation and not merely competition. He said both Vietnam and Thailand export rice, textiles, and ready-made clothes, which results in a limited two-way trade turnover between the two countries. However, Vietnam and Thailand can economically cooperate to boost their two-way trade turnover, the minister noted. He suggested that Vietnam export oil, gas, aquatic products, and ores to Thailand while Thailand sells industrial and construction materials to Vietnam. Regarding investment, he said Thailand could invest in Vietnam's small infrastructure projects, such as road and telecommunication network upgrades. He added that the two countries should continue cooperating in the development of cross-border transport and communication networks under the "East-West corridor" program.
+
+On February 20, 2004, Vietnam and Thailand were holding their first joint Cabinet meeting Friday, with the two sides expected to discuss trade, regional security and the devastating bird flu that has killed 22 people in the two nations. Prime Minister Phan Van Khai greeted his Thai counterpart, Thaksin Shinawatra, at Danang's airport to kick off the two-day talks, the first such gathering between the two countries. Vietnam and Thailand have been hardest hit by bird flu and are the only two places where it is known to have jumped to people, with 15 killed in Vietnam and seven in Thailand. The virus has prompted the slaughter of more than 80 million birds in 10 Asian countries and territories. Both Vietnam and Thailand have ordered mass slaughters of chickens and other measures to contain the disease. In recent days, both have said their bird flu outbreaks appear to be slowing down, although the World Health Organization has warned that it will be months, perhaps years, before bird flu is eliminated. The two countries have also pledged to help each other get through the outbreak. "There will be some discussion between the health ministers for future collaboration, including the exchange of information and joint research," Thaksin told reporters. Thailand, the world's fourth largest exporter of chicken, has sustained a major economic blow, while Vietnam's human toll has been the highest. "We will definitely be covering this in our talks," said Krit Kraichitti, Thai ambassador to Vietnam. "It has had a big impact on both of us." Officials from both countries, however, said bird flu won't be the meeting's main topic. The two countries are expected to sign cooperation agreements on economic issues, science and technology, education, border crime control and visa exemptions, the Vietnam News Agency said. "We would like to increase our relations throughout every sector with ministers and their counterparts, having close collaboration and contact so we will together build the future of the region," Thaksin said. Trade between Thailand and Vietnam rose to US$1.55 billion in 2003. Vietnam exports mainly seafood, leather, minerals and rice, while Thailand exports motorbikes, steel, electronics and consumer goods. Thailand is Vietnam's ninth largest foreign investor, with projects mainly in seafood, minerals, banking and food processing worth US$1.4 billion. The meeting Friday was being held at a resort on the white sands of China Beach. On Saturday, the meeting moves to Thailand's Nakhon Phanom town, 610 kilometers (380 miles) northeast of Bangkok. Thaksin in late 2002 initiated the idea of joint Cabinet meetings with Thailand's regional neighbors to discuss bilateral issues and foster closer relations. At the first such meeting, with Malaysia in December 2002, the two Cabinets discussed fighting terrorism, drug trafficking and smuggling.
+
+On August 6, 2006, Thailand and Vietnam celebrate the 30th anniversary of the establishment of diplomatic relations. Over the past 30 years, the two countries have enjoyed a close relationship and good neighborliness. Thailand and Vietnam established diplomatic relations on 6 August 1976. Both nations have agreed to celebrate the 30th anniversary of their diplomatic ties throughout this year until August 2007.
+
+On September 28, 2006, Vietnam and Thailand were taking a significant step to boost their friendship and people-to-people contact. The Vietnam-Thailand Friendship Association has played a vital role in promoting better understanding between the peoples of the two countries. A group of five officials from the Government Public Relations Department of Thailand paid a visit to the Vietnam-Thailand Friendship Association in Hanoi for coverage of the 30th anniversary of Thai-Vietnamese diplomatic relations. They held discussions with Mr. Bui Hoan, Standing Vice-Chairman of the Vietnam-Thailand Friendship Association, and other executives. Mr. Hoan stated that Vietnam has a lot to learn from Thailand in terms of development. Instead of competing with each other, the two countries should cooperate closely. For example, Thailand and Vietnam should share more experience in rice production and distribution, as the two countries are the world's major rice producers and exporters. Both should also help each other in fighting protectionism and unfair treatment, which would adversely affect their exports to Europe. Established in August 1996, the Vietnam-Thailand Friendship Association is among 50 organizations forming part of the Vietnam Union of Friendship Organizations. One year later, the Thailand-Vietnam Friendship Association was set up, and the two organizations have contributed greatly to bilateral ties and cooperation through people-to-people diplomacy. The Vietnam-Thailand Friendship Association cited the granting of Thai nationality to the Vietnamese living in Thailand as a major factor in the strengthening of bilateral relations. In promoting people-to-people contact, the Association places emphasis on the northeastern provinces of Thailand, which have mutual interests and close ties, such as Nakhon Phanom, Sakon Nakhon, Nong Khai, Mukdahan, and Udon Thani. After the second Thai-Lao Friendship Bridge across the Mekong River, in Mukdahan, is completed in December this year, both Thai and Vietnamese people can travel to each other's country over this new bridge. The Association will offer a helping hand in solving traffic, legal, and border problems that may arise. Aware of the importance of broadening Vietnamese people's knowledge and understanding about Thai people, it has used all kinds of media to inform the Vietnamese about Thailand. For instance, the Association has issued publications to provide information and knowledge about Thailand in various areas. On special occasions, such as the celebration of the 30th anniversary of Thai-Vietnamese diplomatic relations this year, quizzes about Thailand are arranged with prizes to be offered to the winners. The objective is to encourage the Vietnamese to seek more knowledge about Thailand and its people. Both Vietnam and Thailand are members of the Association of Southeast Asian Nations (ASEAN). The Vietnam-Thailand Friendship Association also wants ASEAN to be better known in the world at large.
+
+PS-SOURCES: New York Times April 26, 1955, BBC March 29, 1990, September 2, 1999, Thai Press Reports August 9, 2006, September 28, 2006, Associated Press February 4, 1994, February 20, 2004, United Press International October 28, 1991, October 29, 1991, October 30, 1991, July 28, 1992, Agence France Presse September 18, 1991
+
+MARITIME-MIDS: MID4008
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID4008
+ DYAD: N. VIETNAM THAILAND 816800
+ DATES: 19950531 19950531
+ HOSTILITYA: 4 FATALITYA: 1
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4008
+ DYAD: THAILAND N. VIETNAM 800816
+ DATES: 19950531 19950531
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+MID4008 occurred on 5/31/1995. A Thai naval ship exchanged gunfire with three armed Vietnamese ships which attacked Thai trawlers in disputed waters in the gulf of Thailand. The clash occurred 138 nautical miles off the east coast of Thailand's southern province of Songkhla. The two sides exchanged gunfire for half an hour. Two Vietnamese sailors were killed. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

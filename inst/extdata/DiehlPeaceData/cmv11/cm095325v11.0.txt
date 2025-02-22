@@ -1,0 +1,62 @@
+FILE: cm095325v11.0.txt
+DYAD: PANAMA - ITALY
+RIVALRY: RIV10252 
+DISPUTE(S): MID2306 
+RIVALRY: RIV10253
+DISPUTE(S): MID3854 MID3525 
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID3854 MID3525 
+
+MID2306 
+
+TERRMID: MID2306 3 -- not territory
+TERRMID-CER: MID2306 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2306 3 -- not third party link to territory 
+TERRLINK-CER: MID2306 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2306 3 -- not maritime 
+MARITMID-CER: MID2306 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2306 3 -- not islands 
+ISLMID-CER: MID2306 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2306 3 -- not civil war 
+CIVWARMID-CER: MID2306 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2306 1 -- civil war link
+CIVWARLINK-CER: MID2306 1 -- certain
+CIVWARLINK-NOTES: MID2306 from cm narrative, this MID is related to Italy attacking Panamanian shipping vessels going to Spain during the Spanish Civil War and occurred on 8/14/1937. Great Britain, France, Italy, and Germany regularly attacked neutral countries' ships trading with Spain. Coded civil war link because this MID was connected to the Spanish Civil War, outside of this dyad. 
+
+COUPMID: MID2306 3 -- not coup 
+COUPMID-CER: MID2306 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2306 3 -- not coup link
+COUPLINK-CER: MID2306 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: RIV10252 is split off from the World War~II-related RIV10253.
+
+NARRATIVE-CM:
+Panama declared war against Italy on December 12, 1941.
+
+SOURCES-CM: 
+*New York Times* 12/13/1941
+
+NARRATIVE-CR:
+The disputes between Italy and Panama from 1937 to 1942 do not seem to qualify as a rivalry. There are three militarized disputes during this period. The first one is related to the protection of Panamanian shipping to Spain during the Spanish Civil War (MID2306 on 8/14/1937). This dispute was part of a larger one between Great Britain, France, Italy and Germany in which case the latter two countries were accused of committing pirate submarine attacks on neutral ships conducting trade in Spain. The last two disputes involve World War II, with the last mid (MID3525 on 12/7/1941) being a formal declaration of war against Italy and the Axis powers. On December 10, 1941, Panama sent 773 aliens to the Canal Zone for internment. They included Japanese, Germans, Italians, Austrians, Czechs, Rumanians, Hungarians, Poles and Norwegians. Panama, Honduras, Haiti and El Salvador declared war on Germany and Italy after having declared war on Japan, December 8, 1941. Thus it appears that this dyad is really one isolated dispute during the Spanish Civil War along with two from World War II, one of which stems from a general declaration of war against the Axis powers and not against Italy specifically.
+
+SOURCES-CR:
+*New York Times* 12/11/1941; 12/13/1941; *Facts on File* 12/9/1941 
+
+

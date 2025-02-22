@@ -1,0 +1,204 @@
+FILE: cm235438v11.0.txt
+DYAD: PORTUGAL-GUINEA
+RIVALRY: RIV639
+DISPUTE(S): MID2890 MID1385 MID3640 MID1386 
+
+PS: 19581002-19620310 0.25 19620311-19740825 0.00 19740826-19790825 0.5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+RIVNOTES: 
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2890 
+
+TERRMID: MID2890 3 -- not territory
+TERRMID-CER: MID2890 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2890 3 -- not third party link to territory 
+TERRLINK-CER: MID2890 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2890 3 -- not maritime 
+MARITMID-CER: MID2890 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2890 3 -- not islands 
+ISLMID-CER: MID2890 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2890 3 -- not civil war 
+CIVWARMID-CER: MID2890 3 -- uncertain 
+CIVWARMID-NOTES: MID2890 from Gibler 2018, Portuguese military aircraft violated Guinea's airspace along the Portuguese Guinea-Guinea border. Guinea protested. NYT 3/12/1962 reports this event in a 2-sentence article, Only reporting that Guinea protested a Portuguese aircraft violating its airspace. Coded not civil war because although there was a militarized rebel group in Guinea that was targeting Portugal, there is no indication that this particular MID is connected to the rebels, beyond the fact that this occurred across the border. Coded uncertain because other MIDs in this dyad are civil war MIDs that involve rebel group activity, so it is possible that Portugal was attacking rebels here, but little information on this MID exists. Not found in Facts on File or Keesings. 
+
+CIVWARLINK: MID2890 3 -- not civil war link 
+CIVWARLINK-CER: MID2890 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2890 3 -- not coup 
+COUPMID-CER: MID2890 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2890 3 -- not coup link
+COUPLINK-CER: MID2890 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1385 
+
+TERRMID: MID1385 3 -- not territory 
+TERRMID-CER: MID1385 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1385 3 -- not third party link to territory 
+TERRLINK-CER: MID1385 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1385 3 -- not maritime 
+MARITMID-CER: MID1385 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1385 3 -- not islands 
+ISLMID-CER: MID1385 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1385 3 -- not civil war 
+CIVWARMID-CER: MID1385 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1385 1 -- civil war link 
+CIVWARLINK-CER: MID1385 1 -- certain 
+CIVWARLINK-NOTES: MID1385 from cm narrative, Portugal attacked rebels hiding across the Portuguese Guinea border into Senegal. Both countries mobilized their border troops, and small clashes occurred. Portugal also attacked Guinean refugees and mobilized on the border with Guinea. Senegal also mobilized on the border with Guinea. Coded civil war link because Portugal attacking a rebel group in Senegal (outside this dyad) triggered this MID between Portugal, Guinea, and Senegal. 
+
+COUPMID: MID1385 3 -- not coup 
+COUPMID-CER: MID1385 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1385 3 -- not coup link
+COUPLINK-CER: MID1385 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3640 
+
+TERRMID: MID3640 3 -- not territory 
+TERRMID-CER: MID3640 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3640 3 -- not third party link to territory 
+TERRLINK-CER: MID3640 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3640 3 -- not maritime 
+MARITMID-CER: MID3640 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3640 3 -- not islands 
+ISLMID-CER: MID3640 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3640 1 -- civil war MID
+CIVWARMID-CER: MID3640 3 -- uncertain 
+CIVWARMID-NOTES: MID3640 from Gibler, Miller, and Little 2016, Guinean exiles and mercenaries attacked Guinea from Portuguese Guinea. Portugal denied involvement; GLM argue that this did not involve two state actors and, thus, is not a MID. Coded uncertain because GML recommend it be deleted.
+
+CIVWARLINK: MID3640 3 -- not civil war link 
+CIVWARLINK-CER: MID3640 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3640 3 -- not coup 
+COUPMID-CER: MID3640 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3640 3 -- not coup link
+COUPLINK-CER: MID3640 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1386 
+
+TERRMID: MID1386 3 -- not territory 
+TERRMID-CER: MID1386 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1386 3 -- not third party link to territory 
+TERRLINK-CER: MID1386 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1386 3 -- not maritime 
+MARITMID-CER: MID1386 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1386 3 -- not islands 
+ISLMID-CER: MID1386 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1386 1 -- civil war MID 
+CIVWARMID-CER: MID1386 1 -- certain 
+CIVWARMID-NOTES: MID1386 from Gibler 2018, Portugual sent a small group of troops to assassinate the leader of the Guinea-Bassau independence movement PAIGC, an armed rebel group in Guinea. The sending in of Portuguese troops triggers this MID. Coded civil war MID because this MID occurred when Portugal sent troops into Guinea to attack a rebel group that was targeting Portugal. 
+
+CIVWARLINK: MID1386 3 -- not civil war link 
+CIVWARLINK-CER: MID1386 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1386 3 -- not coup 
+COUPMID-CER: MID1386 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1386 3 -- not coup link
+COUPLINK-CER: MID1386 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Portuguese military aircraft bombed Katoli in Guinea on June 4, 1969, resulting in the deaths of three individuals. Portuguese naval ships attacked and seized a Guinean boat on August 27, 1969, resulting in the deaths of one Guinean. Some 350 European and African mercenaries attacked Conakry, Guinea on November 22-23, 1970, resulting in the deaths of some 100 individuals. Guinean troops captured 100 mercenaries. Guinea accused Portugal of involvement in the attack, and referred the matter to the *United Nations *(UN) Security Council on November 22, 1970. The UN Security Council appealed for a cessation of military hostilities and established a five-member commission of inquiry on November 23, 1970. Algeria, China, President Anwar Sadat of Egypt, Gambia, Ivory Coast, Mauritania, Morocco, Senegal, South Yemen, Sudan, and Tanzania expressed support for Guinea. China, Libya, Nigeria, and Somalia offered military assistance to the government of Guinea. The Council of Ministers of the *Organization of Senegal River States *(OSRS), which includes Guinea, Mali, Mauritania, and Senegal, condemned Portugal on November 24, 1970. The UN commission of inquiry (Colombia, Finland, Nepal, Poland, Zambia) arrived in Conakry on November 25, 1970. Foreign Minister Patricio of Portugal denied involvement in the attack on November 26, 1970. The Soviet Union condemned Portuguese aggression against Guinea on November 26, 1970. Portuguese troops attacked rebel targets in northern Guinea on November 27-28, 1970. President Sekou Toure of Guinea referred the matter to UN Secretary-General U Thant on November 28, 1970. The UN commission of inquiry issued a report on December 4, 1970, which suggested that Portugal was directly responsible for the mercenary attack against Guinea. The UN Security Council condemned Portuguese aggression against Guinea, and requested that Portugal provide compensation to Guinea on December 8, 1970. Portugal rejected the UN Security Council resolution on December 9, 1970. *Organization of African Unity *(OAU) foreign ministers condemned Portuguese aggression against Guinea on December 11, 1970. The *Organization of the Islamic Conference *(OIC) condemned Portuguese aggression against Guinea on December 28, 1970. The OAU established a seven-member conciliation commission to mediate negotiations between the parties. The OAU conciliation commission met from June 15, 1971 to May 30, 1972. President Sekou Toure suggested that another mercenary invasion was imminent, and referred the matter to the UN Security Council in August 1971. *The UN Security Council established a commission of inquiry on August 3, 1971. The UN commission of inquiry issued a report on September 25, 1971. OIC foreign ministers condemned Portuguese aggression against Guinea on March 5, 1972.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), July 1-31, 1969, September 1-30, 1969, November 1-30, 1970, December 1-31, 1970, March 1-31, 1972; *Keesing*, March 6-13, 1971.
+
+NARRATIVE-CR:
+The rivalry between Portugal and Guinea revolved around the continued colonization of Portuguese Guinea by Portugal through the 1960s and early 1970s. While this was a rather low-intensity rivalry, Portugal clearly made attempts to root out rebel groups and leaders who found refuge in Guinea.
+
+Guinea protested that Portuguese military aircraft had violated its airspace along the border with Portuguese Guinea on March 11, 1962. This is MID2890.
+
+Portuguese military aircraft bombed Katoli in Guinea on June 4, 1969, resulting in the deaths of three individuals. Portuguese naval ships attacked and seized a Guinean boat on August 27, 1969, resulting in the deaths of one Guinean. 
+
+There was a demonstration in Lisbon, Portugal against the occupation of African territories on February 21, 1970 in which several opposition supporters were arrested. This is the only event that I could find dealing with hostilities between the two countries in the month of February, 1970 which is listed as having MID1385.
+
+Some 350 European and African mercenaries attacked Conakry, Guinea on November 22-23, 1970, resulting in the deaths of some 100 individuals. Guinean troops captured 100 mercenaries. Guinea accused Portugal of involvement in the attack. The Portuguese plan according to one of Spinola's closest aides, Fabiao, also involved the assassinations of the Guinean President, Sekou Toure and of the President of the African Independence Party for the Independence of Guine and Cabo Verde (PAIGC: Partido Africano para a Independencia da Guine e Cabo Verde), Amilcar Cabral. The operation was a total failure. Foreign Minister Patricio of Portugal denied involvement in the attack on November 26, 1970. Portuguese troops attacked rebel targets in northern Guinea on November 27-28, 1970. This is MID3640.
+
+Amilcar Cabral, a leading activist for the removal of White colonists in Western Africa was assassinated in Conakry, the capital of Guinea on January 20, 1973. Cabral's rebel group had by this time claimed half of the territory in Portuguese Guinea from Portuguese control. This is MID1386.
+
+In July of 1974, Portugal began to talk seriously about granting Portuguese Guinea independence in the near future. On August 25, 1974, Portuguese officials signed an agreement granting the country independence from Portuguese colonial control. The end of Portuguese control of Portuguese Guinea ended any reason for a rivalry between Portugal and Guinea. The exit of Portugal is the reason for the termination of the rivalry.
+
+SOURCES-CR: 
+Facts on File, March 12-18 1970; New York Times, March 11 1962, January 21 1973, July 2 1974, July 13 1974, August 5 1974, August 25 1974
+
+PS-NARRATIVE:
+
+19581002-19620310 0.25
+
+Guinea became independent on October 2, 1958. In 1960, the African Independence Party for the Independence of Guine and Cabo Verde (PAIGC: Partido Africano para a Independencia da Guine e Cabo Verde) had to go into exile to Conakry, Guinea. The same happened to the second group fighting for Portuguese Guinea's independence, the Frente Revolucionaria para a Independencia Nacional das Colonias Portuguesesa (FRAIN). The first MID of RIV639, MID2890 started on March 11, 1962. This 1958-1962 period is coded as 0.75 because of continued Guinean support to the people of Cabo Verde against Portugal's colonialism. By accepting the anti-colonialist parties of Cape Verde in Conakry, the Guinean government started a direct conflict with Portugal who was also the colonizer of neighboring Guinea-Bissau (Portuguese Guinea). 
+
+19740826-20159999 0.5
+
+The last MID of RIV639, MID1386 ended on January 20, 1973. On August 25, 1974, Portuguese officials signed an agreement granting the country independence from Portuguese colonial control. The end of Portuguese control of Portuguese Guinea ended any reason for a rivalry between Portugal and Guinea. The exit of Portugal is the reason for the termination of the rivalry. On January 5, 1979, the special envoy sent by Guinean President Sekou Toure to Lisbon in order to sign the protocol for establishing diplomatic relations between Portugal and the Republic of Guinea-Conakry told the media at the news conference held in Lisbon's Necessidades Palace that his country's Government has decided to dispense with the compensation due to be paid by the Portuguese-in accordance with a UN resolution-to Guinea-Conakry following the Portuguese attack against Conakry in 1970. Portugal has an honorary consulate in Conakry. There is no diplomatic representation of Guinea in Portugal mentioned in 2008. 
+
+PS-SOURCES: BBC 01/05/1979, Anglin (1970)
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+None of the MIDs listed under this rivalry are attached to the following incident:
+Portuguese military aircraft bombed Katoli in Guinea on June 4, 1969, resulting in the deaths of three individuals. Portuguese naval ships attacked and seized a Guinean boat on August 27, 1969, resulting in the deaths of one Guinean.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times 3/12/1962 "Guinea Protests to Portugal"

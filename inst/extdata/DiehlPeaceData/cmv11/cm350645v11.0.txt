@@ -1,0 +1,249 @@
+FILE: cm350645v11.0.txt
+DYAD: GREECE - IRAQ
+RIVALRY: RIV931
+DISPUTE(S): MID3079 MID3957 MID4273 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20191115
+PS-LAST-CHECKED: 20191115
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3079 
+
+TERRMID: MID3079 3 -- not territory 
+TERRMID-CER: MID3079 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3079 1 -- third party link to territorial MID
+TERRLINK-CER: MID3079 1 -- certain 
+TERRLINK-NOTES: MID3079 from Gibler 2018, Iraq destroyed a Greek freighter in 1982. Coded territorial MID because this was linked to the Iran-Iraq War (a territorial dispute), as both Iran and Iraq regularly attacked shhips doing business with the other country as a way of damaging the other's economy. 
+
+MARITMID: MID3079 3 -- not maritime 
+MARITMID-CER: MID3079 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3079 3 -- not islands 
+ISLMID-CER: MID3079 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3079 3 -- not civil war 
+CIVWARMID-CER: MID3079 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3079 3 -- not civil war link 
+CIVWARLINK-CER: MID3079 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3079 3 -- not coup 
+COUPMID-CER: MID3079 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3079 3 -- not coup link
+COUPLINK-CER: MID3079 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Greece, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Greece became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273 
+
+TERRMID: MID4273 3 -- not territory 
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain 
+TERRLINK-NOTES: MID4273 features some clashes along the Kuwait-Iraq border, which was disputed. This MID is not connected to the territorial dispute, however. It was instead connected to the US/coalition invasion of Iraq. Kuwait is friendly with western forces, which aggravates Iraq and leads to the actions that trigger this MID. 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain 
+CIVWARMID-NOTES: MID4273 from Gibler 2018, this is the leadup and beginning of the US/coalition invasion and occupation of Iraq. The US, UK, France, and other coalition forces (including Greece here) were attempting to coerce Iraq into complying with weapons inspections. Iraq also threatened the planes enforcing the no-fly zone over Iraq, who were keeping Iraq from attacking rebel groups within its borders. Coded civil war MID because this concerns Iraqi threats to US and UK war planes that are involved in preventing civil war activity between the regime and rebel groups in Iraq. Greece is involved because of its role in the coalition forces. 
+
+CIVWARLINK: MID4273 3 -- not civil war link 
+CIVWARLINK-CER: MID4273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3057 
+
+TERRMID: MID3057 3 -- not territory 
+TERRMID-CER: MID3057 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3057 1 -- third party link to territorial MID
+TERRLINK-CER: MID3057 1 -- certain 
+TERRLINK-NOTES: MID3057 from Gibler 2018, from 1983-1985 Iraq routinely attacked Greek ships in the Persian Gulf. Iraq regularly targeted tankers from other countries trading with Iran as a way of harming Iran's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial MID. 
+
+MARITMID: MID3057 3 -- not maritime 
+MARITMID-CER: MID3057 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3057 3 -- not islands 
+ISLMID-CER: MID3057 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3057 3 -- not civil war 
+CIVWARMID-CER: MID3057 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3057 3 -- not civil war link 
+CIVWARLINK-CER: MID3057 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3057 3 -- not coup 
+COUPMID-CER: MID3057 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3057 3 -- not coup link
+COUPLINK-CER: MID3057 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2568 
+
+TERRMID: MID2568 3 -- not territory 
+TERRMID-CER: MID2568 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2568 1 -- third party link to territorial MID
+TERRLINK-CER: MID2568 1 -- certain 
+TERRLINK-NOTES: MID2568 from cm narrative, this is another instance of Iraq attacking Greek ships in the Persian Gulf during the Iran-Iraq War. Iraq routinely targeted ships from other countries trading with Iran as a means of harming Iran's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2568 3 -- not maritime 
+MARITMID-CER: MID2568 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2568 3 -- not islands 
+ISLMID-CER: MID2568 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2568 3 -- not civil war 
+CIVWARMID-CER: MID2568 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2568 3 -- not civil war link 
+CIVWARLINK-CER: MID2568 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2568 3 -- not coup 
+COUPMID-CER: MID2568 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2568 3 -- not coup link
+COUPLINK-CER: MID2568 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2819 
+
+TERRMID: MID2819 3 -- not territory 
+TERRMID-CER: MID2819 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2819 1 -- third party link to territorial MID
+TERRLINK-CER: MID2819 1 -- certain 
+TERRLINK-NOTES: MID2819 from Gibler 2018, this MID occurred in 1987 and is another instance of Iraq attacking Greek ships in the Persian Gulf during the Iran-Iraq War. Iraq routinely targeted ships from other countries trading with Iran as a means of harming Iran's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2819 3 -- not maritime 
+MARITMID-CER: MID2819 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2819 3 -- not islands 
+ISLMID-CER: MID2819 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2819 3 -- not civil war 
+CIVWARMID-CER: MID2819 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2819 3 -- not civil war link 
+CIVWARLINK-CER: MID2819 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2819 3 -- not coup 
+COUPMID-CER: MID2819 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2819 3 -- not coup link
+COUPLINK-CER: MID2819 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4273
+rivalry=350645 nationa=GREECE nationb=IRAQ MID4273 19991022-19991022 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Greece, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First and last day of dispute was on 10/22/19999.
+
+NOTE THAT GREECE IS ONLY INVOLVED FOR ONE DAY OF NATO EXERCISES
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The rivalry between Greece and Iraq has two issues. The first is the sinking or damage to several Greek ships during the tanker war portion of the Iran-Iraq War. This portion involves four mids. The second portion of the rivalry is the Greek participation in the Persian Gulf War and the Greek participation in a follow up incident of coalition forces versus Iraq. The rivalry is coded as ongoing as of October of 1999, however with recent developments in Iraq to include the US overthrow of that regime the rivalry may now be coded as over pending the outcome of the current occupation and the development of events within Iraq in the coming years. The details of the hostilities between the two countries are listed below. 
+
+MID3079, MID3057, MID2568, and MID2819 are all events of hostile action by the Iraqis toward Greek shipping in the Persian Gulf. The tanker war had two phases. The relatively obscure first phase began in 1981, and the well-publicized second phase began in 1984. As early as May 1981, Baghdad had unilaterally declared a war zone and had officially warned all ships heading to or returning from Iranian ports in the northern zone of the Gulf to stay away or, if they entered, to proceed at their own risk. 
+
+In March 1984, the tanker war entered its second phase when an Iraqi Super Etendard fired an Exocet missile at a Greek tanker south of Khark Island. Until the March assault, Iran had not intentionally attacked civilian ships in the Gulf. The new wave of Iraqi assaults, however, led Iran to reciprocate. In April 1984, Tehran launched its first attack against civilian commercial shipping by shelling an Indian freighter. Most observers considered that Iraqi attacks, however, outnumbered Iranian assaults by three to one. 
+
+MID3957 is the Persian Gulf War. Beginning in January of 1991, armed conflict occurred between Iraq and a coalition of 32 nations including the United States, Britain, Egypt, France, Saudi Arabia and Greece. It originated with Iraq's invasion of Kuwait on Aug. 2, 1990; Iraq then annexed Kuwait, which it had long claimed. Iraqi president Saddam Hussein declared that the invasion was a response to overproduction of oil in Kuwait, which had cost Iraq over $14 million when oil prices fell. Saddam Hussein also accused Kuwait of illegally pumping oil from Iraq's Rumaila oil field.
+
+MID4273 is a multilateral mid involving Iraq v. a number of coalition nations including Greece. In late 1996, Iraq began to violate the Coalition imposed Southern No Fly Zone. This mid takes place from 1997 until 2001. During this mid there were hundreds of incidents between Iraq and the coalition aircraft. Generally, the Iraqis would lock on to a coalition aircraft with surface to air missiles. The aircraft would then shoot at and damage or destroy the missile sites. 
+
+SOURCES-CR:
+Metz, 1987; WWW.fas.org; Sreedhar, 1989.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

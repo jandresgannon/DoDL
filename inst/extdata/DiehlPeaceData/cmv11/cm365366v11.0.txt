@@ -1,0 +1,174 @@
+FILE: cm365366v11.0.txt
+DYAD: RUSSIA/USSR - ESTONIA
+RIVALRY: RIV973
+DISPUTE(S): MID2605 MID1234 
+RIVALRY: RIV974
+DISPUTE(S): MID23 MID505 
+RIVALRY: RIV975
+DISPUTE(S): MID3560 
+
+PS: 19180224-19211125 .25 19211126-19390314 .5 19390315-19400616 .25 19910906-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID505 
+
+MID2605 
+
+TERRMID: MID2605 1 -- territorial MID
+TERRMID-CER: MID2605 1 -- certain 
+TERRMID-NOTES: MID2605 from Gibler 2018, this is Estonia's war for independence from Russia beginning in 1918. Estonia had declared independence from its colonizer, Russia, during Russia's civil war. After Russia exited WWI, it re-focused on its civil war, including attempting to regain control over Estonia. UK assisted Estonia in its war against Russia and eventually they drove the Soviets out of Estonia. Coded territorial MID because this was connected to Russia's claim on Estonia'a territory. 
+
+TERRLINK: MID2605 3 -- not third party link to territory
+TERRLINK-CER: MID2605 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2605 1 -- maritime MID
+MARITMID-CER: MID2605 1 -- certain 
+MARITMID-NOTES: MID2605 coded maritime MID because Russia's claim on all of Estonia's territory included a claim on Estonia's maritime possessions. 
+
+ISLMID: MID2605 1 -- islands MID
+ISLMID-CER: MID2605 1 -- certain 
+ISLMID-NOTES: MID2605 coded islands MID because Russia's claim on all of Estonia included a claim on numerous offshore islands Estonia had control over. 
+
+CIVWARMID: MID2605 1 -- civil war MID
+CIVWARMID-CER: MID2605 1 -- certain 
+CIVWARMID-NOTES: MID2605 from Gibler 2018, this was connected to events of the Russian Civil War, which involved Estonia's fight for independence. Estonia took advantage of the civil war in Russia to assert their independence, per Gibler 2018. Coded civil war MID because this was connected to the Russian civil war. 
+
+CIVWARLINK: MID2605 3 -- not civil war link 
+CIVWARLINK-CER: MID2605 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2605 3 -- not coup 
+COUPMID-CER: MID2605 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2605 3 -- not coup link
+COUPLINK-CER: MID2605 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1234 
+
+TERRMID: MID1234 3 -- not territory 
+TERRMID-CER: MID1234 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1234 3 -- not third party link to territory 
+TERRLINK-CER: MID1234 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1234 3 -- not maritime 
+MARITMID-CER: MID1234 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1234 3 -- not islands 
+ISLMID-CER: MID1234 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1234 3 -- not civil war 
+CIVWARMID-CER: MID1234 1 -- certain 
+CIVWARMID-NOTES: MID1234 from Gibler 2018, Russia planned to march troops into Estonia and Latvia in 1922 to stop them from prosecuting communist activists. Threats and an exchange of fire occurred. Coded not civil war because Estonia and Latvia had domestic protests/turmoil from communist groups, but there is no indication from Gibler 2018, cm narrative, or news coverage of this MID that they were militarized rebels. 
+
+CIVWARLINK: MID1234 3 -- not civil war link 
+CIVWARLINK-CER: MID1234 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1234 3 -- not coup 
+COUPMID-CER: MID1234 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1234 3 -- not coup link
+COUPLINK-CER: MID1234 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3560 
+
+TERRMID: MID3560 3 -- not territory 
+TERRMID-CER: MID3560 1 -- certain 
+TERRMID-NOTES: MID3560 from Gibler 2018, Estonian and Russian soldiers exchanged fire in 1992 as the Estonians were trying to capture a Russian navy building in their capital. Coded not territory because although the Estonians were trying to capture this building from Russia, there was no land boundary being disputed. 
+
+TERRLINK: MID3560 3 -- not third party link to territory 
+TERRLINK-CER: MID3560 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3560 3 -- not maritime 
+MARITMID-CER: MID3560 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3560 3 -- not islands 
+ISLMID-CER: MID3560 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3560 3 -- not civil war 
+CIVWARMID-CER: MID3560 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3560 3 -- not civil war link 
+CIVWARLINK-CER: MID3560 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3560 3 -- not coup 
+COUPMID-CER: MID3560 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3560 3 -- not coup link
+COUPLINK-CER: MID3560 1 -- certain 
+COUPLINK-NOTES: 
+
+MID23 
+
+TERRMID: MID23 3 -- not territory 
+TERRMID-CER: MID23 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID23 3 -- not third party link to territory 
+TERRLINK-CER: MID23 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID23 1 -- maritime MID
+MARITMID-CER: MID23 1 -- certain 
+MARITMID-NOTES: MID23 coded maritime MID because this MID involved USSR also coercing Estonia into ceding sovereignty over territorial waters in the Baltic. See ISLMID-NOTES. 
+
+ISLMID: MID23 1 -- islands MID
+ISLMID-CER: MID23 1 -- certain 
+ISLMID-NOTES: MID23 from Gibler 2018, in the lead-up to WWII, Estonia was caught in the middle of Germany and Russia's plans for Europe. The Soviets were attempting to bring Estonia under their influence, but the Estonians had a policy of neutrality. Eventually the USSR coerced Estonia into negotiating away sovereignty over several islands for their port access, and later did the same with waters in the Baltic that the Soviets wanted for security purposes. Coded islands MID because this involved the sovereignty of several small islands. 
+
+CIVWARMID: MID23 3 -- not civil war 
+CIVWARMID-CER: MID23 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID23 3 -- not civil war link 
+CIVWARLINK-CER: MID23 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID23 3 -- not coup 
+COUPMID-CER: MID23 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID23 3 -- not coup link
+COUPLINK-CER: MID23 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+Estonia declared its independence from Russia on November 28, 1917. German and Russian troops intervened, but the troops withdrew from Estonia in January 1919. Russia recognized Estonia's independence with the signing of the *Treaty of Dorpat *on February 2, 1920. Estonia achieved its independence from Russia on February 2, 1920. Estonia and the Soviet Union signed a non-aggression pact on May 4, 1932. The Soviet Union annexed the *Republic of Estonia on July 21, 1940. Several thousand individuals protested the 1940 Russian annexation of Estonia in Tallinn on July 23, 1988. The Estonian parliament approved legislature making Estonian the official language of the republic on January 18, 1989, and the Estonian Supreme Soviet annulled the 1940 Russian annexation of Estonia on November 12, 1989. Parliamentary elections were held on March 18, 1990, and the *Estonian Popular Front* (EPF) led by Edgar Savisaar won a majority of seats. The Estonian Supreme Council called for the independence of Estonia from the Soviet Union on March 30, 1990. Edgar Savisaar was named prime minister on April 3, 1990. The *Estonian Soviet Socialist Republic* changed its name to the *Republic of Estonia* on May 9, 1990. Some 78 percent of Estonians voted for independence in a referendum on March 3, 1991. Estonia declared its independence from the Soviet Union on August 20, 1991, and the Soviet Union *State Council* accepted the independence of Estonia on September 6, 1991.
+
+SOURCES-CM: 
+
+Banks and Muller, 1998, 298-302; Ference, 337-391; *Survey of International Affairs *(SIA), 1932, 596.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

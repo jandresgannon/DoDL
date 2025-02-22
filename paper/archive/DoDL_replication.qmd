@@ -1,0 +1,407 @@
+---
+title: '\singlespace Complementarity in Alliances - logfile'
+author:
+  - name: J Andrés Gannon
+format:
+  pdf:
+    fig-format: png
+    number-sections: false
+    code-line-numbers: true
+    fontsize: "12"
+    fig-dpi: 600
+    fig-pos: "H"
+    keep-tex: true
+    include-in-header: 
+     text: |
+       \usepackage{fvextra}
+       \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+       \DefineVerbatimEnvironment{OutputCode}{Verbatim}{breaklines,commandchars=\\\{\}}
+editor: source
+execute:
+  echo: true
+  warning: true
+  message: true
+  error: true
+  cache: true
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=newest}
+- \usetikzlibrary{plotmarks}
+- \usetikzlibrary{arrows.meta}
+- \usepgfplotslibrary{patchplots}
+- \usepackage{grffile}
+- \usepackage{caption}
+- \usepackage[utf8]{inputenc}
+- \usepackage[doublespacing]{setspace}
+- \AtBeginEnvironment{tabular}{\singlespacing}
+- \usepackage{float}
+- \usepackage{multirow}
+- \usepackage{tablefootnote}
+- \usepackage{pifont}
+- \usepackage{newunicodechar}
+- \usepackage{booktabs}
+- \usepackage{siunitx}
+- \newcolumntype{d}{
+    S[input-open-uncertainty=,
+    input-close-uncertainty=,
+    parse-numbers = false,
+    table-align-text-pre=false,
+    table-align-text-post=false]}
+- \usepackage{tabularx}
+- \newunicodechar{✓}{\ding{51}}
+- \usepackage{longtable}
+- \usepackage{array}
+- \usepackage{wrapfig}
+- \usepackage{colortbl}
+- \usepackage{pdflscape}
+- \usepackage{tabu}
+- \usepackage{threeparttable}
+- \usepackage{threeparttablex}
+- \usepackage[normalem]{ulem}
+- \usepackage{makecell}
+- \usepackage{xcolor}
+- \usepackage{graphicx}
+bibliography: rDMC-bib.bib
+---
+
+This log file was last compiled on `r Sys.Date()` using the following system:
+
+```{r}
+Sys.info()
+sessionInfo()
+```
+
+```{r knitr_options}
+library(knitr)
+library(kableExtra)
+library(ggplot2)
+library(ggtext)
+library(magrittr)
+library(rstan)
+```
+
+## Load data
+
+```{r loaddata}
+df <- readRDS(file = paste0(here::here(), "/data/03_df-full.rds"))
+
+df_m1 <- df |>
+  dplyr::rename(dv = dol_nicheolap,
+                strcomp = strcomp_cinc_total_scaled,
+                hier = hier_laplace_scaled)
+```
+
+\newpage
+
+## Figure 1
+
+```{r fig1}
+#| class-output: OutputCode
+
+# ANZUS = 3215 and CSTO = 4220
+
+df |>
+  ggplot(aes(x = dol_nicheolap)) +
+  geom_histogram(bins = 30, color = "black", fill = "gray") +
+  geom_vline(aes(xintercept = mean(dol_nicheolap, na.rm = TRUE)), 
+             linetype = "dashed", linewidth = 1) +
+  annotate("text",
+           x = mean(df$dol_nicheolap, na.rm = TRUE) + 0.075,
+           y = 200,
+           size = 2,
+           label = paste("Mean =", round(mean(df$dol_nicheolap, na.rm = TRUE), 2))) +
+  geomtextpath::geom_labelvline(xintercept = 0.57, label = "ANZUS (2002)", linetype = 3, hjust = 0.55, size = 2) +
+  geomtextpath::geom_labelvline(xintercept = 0.063, label = "CSTO (2002)", linetype = 3, hjust = 0.55, size = 2) +
+  scale_x_continuous(breaks = scales::pretty_breaks()) +
+  labs(title = "",
+       x = "\nDivision of labor",
+       y = "Number of observations\n") +
+  theme_classic() +
+  theme(text = element_text(size = 10),
+        axis.text = element_text(color = "black"))
+```
+
+\newpage
+
+## Figure 2
+
+```{r fig2}
+#| class-output: OutputCode
+
+# US-Japan (3375)
+
+df |>
+  dplyr::filter(atopid == 3375) |>
+  dplyr::select(year, dol_nicheolap, strcomp_cinc_total) |>
+  ggplot(aes(y = strcomp_cinc_total, x = year)) +
+  geom_line() +
+  scale_x_continuous(breaks = seq(1970, 2015, 5), minor_breaks = NULL) +
+  theme_classic() +
+  labs(y = "Strategic compatibility\n",
+       x = "",
+       title = "") +
+  theme(text = element_text(size = 10),
+        axis.text = element_text(color = "black"))
+
+shared <- readRDS(file = paste0(here::here(), '/data/dyad_threat.rds')) |>
+  dplyr::filter(year == 1995 & ccode1 %in% c(2, 740) & threatenviro == 1) |>
+  dplyr::select(ccode1, rival, threatenviro, cinc2) |>
+  dplyr::mutate(threat_ccode1 = dplyr::if_else(ccode1 == 2 & threatenviro == 1, cinc2, 0),
+                threat_ccode2 = dplyr::if_else(ccode1 == 740 & threatenviro == 1, cinc2, 0)) |>
+  dplyr::filter(threat_ccode1 > 0 | threat_ccode2 > 0) |>
+  dplyr::select(-ccode1, -threatenviro) |>
+  tidyr::pivot_longer(cols = c(threat_ccode1, threat_ccode2)) |>
+  dplyr::filter(value > 0) |>
+  tidyr::pivot_wider(id_cols = rival, names_from = name) |>
+  dplyr::mutate(threat_shared = dplyr::if_else(threat_ccode1 > 0 & threat_ccode2 > 0, 1, 0),
+                dplyr::across(dplyr::everything(), ~tidyr::replace_na(.x, 0)))
+```
+
+\newpage
+
+## Figure 3
+
+```{r fig3}
+#| class-output: OutputCode
+#| layout-ncol: 2
+
+network <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+  dplyr::filter(year == 1975) |>
+  dplyr::select(ccode1, ccode2, value)
+
+sipri <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+  dplyr::filter(year == 1975) |>
+  dplyr::select(ccode1, ccode2, value) |>
+  dplyr::rename(weight = value) |>
+  igraph::graph_from_data_frame(directed = TRUE) |>
+  centiserve::laplacian(mode = "out") |>
+  as.data.frame() |>
+  dplyr::rename(laplace = 1) |>
+  tibble::rownames_to_column(var = "ccode") |>
+  dplyr::mutate(ccode = as.integer(ccode))
+
+nato <- rio::import(paste0(here::here(), "/inst/extdata/ATOP/atop5_1m.csv")) |>
+  dplyr::filter(yrexit > 1970 |
+                  yrexit == 0) |>
+  dplyr::mutate(yrexit = dplyr::if_else(yrexit == 0,
+                                        2023,
+                                        yrexit)) |>
+  dplyr::select(atopid, member, yrent, yrexit) |>
+  dplyr::distinct() |>
+  dplyr::mutate(row = dplyr::row_number()) |>
+  dplyr::group_by(row, atopid, member) |>
+  dplyr::reframe(year = seq(yrent, yrexit)) |>
+  dplyr::ungroup() |>
+  dplyr::select(-row) |>
+  dplyr::rename(ccode = 'member') |>
+  dplyr::filter(year == 1975 & atopid == 3180) |>
+  dplyr::distinct() |>
+  dplyr::select(-atopid, -year) |>
+  dplyr::mutate(nato = 1)
+
+## Network plot
+library(igraph)
+library(ggraph)
+library(tidygraph)
+
+edgelist <- dplyr::left_join(network, nato, by = c("ccode1" = "ccode")) |>
+  dplyr::rename(nato_sender = nato) %>%
+  dplyr::left_join(., nato, by = c("ccode2" = "ccode")) |>
+  dplyr::rename(nato_receiver = nato) |>
+  dplyr::filter(nato_sender == 1 & nato_receiver == 1) |>
+  dplyr::select(!dplyr::starts_with("nato_")) |>
+  dplyr::mutate(cown1 = countrycode::countrycode(ccode1, origin = "cown", destination = "cowc"),
+                cown1 = dplyr::if_else(ccode1 == 260, "GFR", cown1),
+                cown2 = countrycode::countrycode(ccode2, origin = "cown", destination = "cowc"),
+                cown2 = dplyr::if_else(ccode2 == 260, "GFR", cown2)) |>
+  dplyr::select(cown1, cown2, value)
+
+network <- igraph::graph_from_data_frame(edgelist, directed = TRUE)
+tbl_graph <- tidygraph::as_tbl_graph(network)
+
+ggraph(tbl_graph,
+       layout = 'linear',
+       circular = TRUE) +
+  geom_edge_fan(aes(edge_alpha = log(value + 1),
+                    edge_width = value), 
+                arrow = arrow(length = unit(2, "mm")), 
+                start_cap = circle(4, 'mm'),
+                end_cap = circle(8, 'mm'),
+                show.legend = FALSE,) +
+  geom_node_label(aes(label = name),
+                 size = 5,
+                 repel = FALSE,
+                 color = 'dodgerblue') +
+  scale_edge_width(range = c(0.5, 1.5)) +
+  scale_edge_alpha('Edge direction',
+                   guide = 'edge_direction') +
+  scale_x_continuous(expand = expansion(mult = .1)) +
+  theme_void()
+
+## Bar plot
+dplyr::left_join(nato, sipri) |>
+  dplyr::select(-nato) |>
+  dplyr::mutate(cname = countrycode::countrycode(ccode, origin = "cown", destination = "country.name"),
+                cname = dplyr::if_else(ccode == 260, "West Germany", cname)) |>
+  dplyr::arrange(laplace) |>
+  dplyr::mutate(cname = factor(cname, levels = cname)) |>
+  ggplot(aes(x = laplace,
+             y = cname)) +
+  geom_segment(aes(xend = 0, yend = cname)) +
+  geom_point(size = 3, color = "dodgerblue") +
+  labs(title = "",
+       x = "\nLaplacian entropy",
+       y = "") +
+  scale_x_continuous(labels = scales::label_comma()) +
+  theme_classic() +
+  theme(text = element_text(size = 14),
+        axis.text = element_text(color = "black"))
+```
+
+\newpage
+
+## Table 1
+
+```{r tbl1}
+#| class-output: OutputCode
+
+df_m1 <- df |>
+  dplyr::rename(dv = dol_nicheolap,
+                strcomp = strcomp_cinc_total_scaled,
+                hier = hier_laplace_scaled)
+
+models <- list(fixest::feols(dv ~ strcomp + hier + 
+                               year_norm + year_sq + year_cube, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier + milinst + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg + 
+                               year_norm + year_sq + year_cube, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier 
+                             | year_norm, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               fixest::feols(dv ~ strcomp + hier + milinst + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg 
+                             | year_norm, 
+                             cluster = "atopid", 
+                             data = df_m1),
+               lmerTest::lmer(dv ~ strcomp + hier +
+                                (1 | year_norm),
+                              data = df_m1),
+               lmerTest::lmer(dv ~ strcomp + hier + milinst + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg +
+                                (1 | year_norm),
+                              data = df_m1))
+
+coefs <- c("strcomp" = "Strategic compatibility",
+           "hier" = "Hierarchy",
+           "milinst" = "Alliance institutionalization",
+           "demo_polityprop" = "Democracy ratio",
+           "dist_contigprop" = "Contiguity ratio",
+           "dist_maxlog" = "Maximum distance (log)",
+           "rivals_log" = "Number of rivals (log)",
+           "members_log" = "Number of members (log)",
+           "allianceage_avg" = "Alliance age (average)")
+
+modelsummary::modelsummary(models, 
+                           stars = c('+' = .10, '*' = .05, '**' = .01),
+                           coef_map = coefs,
+                           coef_omit = "Intercept",
+                           gof_map = c("nobs", "r.squared", 'adj.r.squared', 'r2.marginal', 'r2.conditional', 'aic', 'bic', 'rmse'),
+                           output = "tinytable") |>
+  tinytable::group_tt(j = list("Year polynomials" = 2:3, "Year fixed effects" = 4:5, "Multilevel model" = 6:7)) |>
+  tinytable::theme_tt("resize")
+```
+
+\newpage
+
+## Figure 4 (in-text results)
+
+```{r fig4intext}
+#| class-output: OutputCode
+
+m1_obr <- ordbetareg::ordbetareg(dv ~ 
+                                   strcomp + hier + 
+                                   milinst + latent.depth.mean + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg +
+                                   (1 | year_norm),
+                                 data = df_m1,
+                                 cores = 6,
+                                 chains = 6,
+                                 iter = 2000,
+                                 backend = "cmdstanr",
+                                 refresh = 0,
+                                 file = "ordbeta",
+                                 file_refit = "on_change")
+
+ordpred_strcomp <- brms::conditional_effects(m1_obr)[[1]]
+ordpred_hier <- brms::conditional_effects(m1_obr)[[2]]
+
+# Figure 4(a) in-text description
+marginaleffects::avg_comparisons(m1_obr, variables = list(strcomp = "sd")) |> broom::tidy() |> dplyr::pull(estimate) |> round(3)
+
+# Figure 4(b) in-text description
+marginaleffects::avg_comparisons(m1_obr, variables = list(hier = "sd")) |> broom::tidy() |> dplyr::pull(estimate) |> round(3)
+```
+
+\newpage
+
+## Figure 4
+
+```{r fig4}
+#| class-output: OutputCode
+
+# Strategic compatibility predicted values with example
+ex_strcomp <- df |>
+  dplyr::filter(year %in% c(1992, 2011), atopid == 3375) |>
+  dplyr::select(year, atopid, dol_nicheolap, strcomp_cinc_total_scaled) |>
+  dplyr::mutate(year = dplyr::recode(year, "1992" = "US-Philippines (1992)", "2011" = "US-Philippines (2011)"))
+
+ordpred_strcomp |>  
+  ggplot(aes(y = estimate__, x = strcomp)) +
+  geom_ribbon(aes(ymin = lower__,
+                  ymax = upper__), fill="blue",
+              alpha = 0.5) +
+  geom_hline(yintercept = 1, linetype = 2) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  geom_line() +
+  geom_point(data = ex_strcomp, 
+             aes(x = strcomp_cinc_total_scaled, y = dol_nicheolap), 
+             size = 1) +
+  geom_text(data = ex_strcomp, 
+            aes(x = strcomp_cinc_total_scaled - 0.1, y = dol_nicheolap, label = year), 
+            vjust = -1) +
+  theme_classic() +
+  theme(text = element_text(size = 15),
+        axis.text = element_text(color = "black")) +
+  labs(y = "Division of labor\n",
+       x = "\nStrategic compatibility")
+
+# Hierarchy predicted values with example
+ex_hier <- df |>
+  dplyr::filter(year %in% c(1975, 2000) & atopid == 3180) |>
+  dplyr::select(year, dol_nicheolap, hier_laplace_scaled) |>
+  dplyr::mutate(year = dplyr::recode(year,
+                                       "1975" = "NATO (1975)",
+                                       "2000" = "NATO (2000)"))
+
+ordpred_hier |>
+  ggplot(aes(y = estimate__, x = hier)) +
+  geom_ribbon(aes(ymin = lower__,
+                  ymax = upper__), fill="blue",
+              alpha = 0.5) +
+  geom_hline(yintercept = 1, linetype = 2) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  geom_line() +
+  geom_point(data = ex_hier, 
+             aes(x = hier_laplace_scaled, y = dol_nicheolap), 
+             size = 1) +
+  geom_text(data = ex_hier, 
+            aes(x = hier_laplace_scaled, y = dol_nicheolap, label = year), 
+            vjust = 2) +
+  theme_classic() +
+  theme(text = element_text(size = 15),
+        axis.text = element_text(color = "black")) +
+  labs(y = "Division of labor\n",
+       x = "\nHierarchy")
+```

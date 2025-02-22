@@ -1,0 +1,108 @@
+FILE: cm235484v11.0.txt
+DYAD: PORTUGAL - CONGO BRAZZAVILLE
+RIVALRY: RIV640
+DATES (may not be accurate, see riv5.20all.cvs): 19670408 -19690700
+DISPUTE(S): MID3271 MID1326 
+
+PS-LAST-CHANGED: 20180215
+PS-LAST-CHECKED: 20180215
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID3271 
+
+TERRMID: MID3271 3 -- not territory 
+TERRMID-CER: MID3271 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3271 3 -- not third party link to territory 
+TERRLINK-CER: MID3271 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3271 3 -- not maritime 
+MARITMID-CER: MID3271 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3271 3 -- not islands 
+ISLMID-CER: MID3271 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3271 1 -- civil war MID
+CIVWARMID-CER: MID3271 3 -- uncertain 
+CIVWARMID-NOTES: MID3271 from Gibler, Miller, and Little 2016, Portugal issued a warning to the Congo and Zambia to restrain rebel groups in their countries from attacking Portugal's railway. Coded civil war MID because this incident is connected to militarized rebel groups in Congo, but coded uncertain because GML argue this case should be dropped due to no threat being made.
+
+CIVWARLINK: MID3271 1 -- civil war link 
+CIVWARLINK-CER: MID3271 3 -- uncertain 
+CIVWARLINK-NOTES: MID3271 from Gibler, Little, and Miller 2016, Portugal also warned Zambia, outside of this dyad, to restrain rebel groups within their borders from attacking Portuguese targets. Coded civil war link because Zambia is outside this dyad and coded uncertain because GLM recommend this case be dropped, as this did not involve a threat of force. 
+
+COUPMID: MID3271 3 -- not coup 
+COUPMID-CER: MID3271 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3271 3 -- not coup link
+COUPLINK-CER: MID3271 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1326 
+
+TERRMID: MID1326 3 -- not territory 
+TERRMID-CER: MID1326 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1326 3 -- not third party link to territory 
+TERRLINK-CER: MID1326 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1326 3 -- not maritime 
+MARITMID-CER: MID1326 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1326 3 -- not islands 
+ISLMID-CER: MID1326 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1326 1 -- civil war MID
+CIVWARMID-CER: MID1326 1 -- certain 
+CIVWARMID-NOTES: MID1326 from Gibler 2018, a Portuguese passenger plane was hijacked and forced to land in Congo Brazzaville in 1969. Coded civil war MID because a rebel group in Congo hijacked a Portuguese plane and triggered a MID between these states. Anti-Portugal rebels had bases on Congo's territory. 
+
+CIVWARLINK: MID1326 3 -- not civil war link 
+CIVWARLINK-CER: MID1326 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1326 3 -- not coup 
+COUPMID-CER: MID1326 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1326 3 -- not coup link
+COUPLINK-CER: MID1326 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+Congo-Brazzaville troops shot down a Portuguese military helicopter near Pointe Noire, and captured the crew of the helicopter on June 5, 1972.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), June 1-30, 1972.
+
+
+
+NARRATIVE-CR:
+I could find no record of a dispute, MID3271, between Portugal and Congo-Brazzaville on April 8, 1967. This leaves only one MID, which is questionable in terms of it being between these two countries rather than between Angola and Portugal. I think that it is perhaps a stretch to call this a rivalry.
+
+On June 9, 1969, a Portuguese passenger airliner was hijacked over Angola by members of the Popular Movement for the Liberation of Angola and forced to land in the Congo Republic. Portugal had to negotiate the release of the crew and passengers who were held as hostages. This is MID1336
+
+Congo-Brazzaville troops shot down a Portuguese military helicopter near Pointe Noire, and captured the crew of the helicopter on June 5, 1972.
+
+SOURCES-CR: 
+*Africa Research Bulletin* (ARB), June 1-30, 1972; New York Times, June 9 1969.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

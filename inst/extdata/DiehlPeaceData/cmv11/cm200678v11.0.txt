@@ -1,0 +1,248 @@
+FILE: cm200678v11.0.txt
+DYAD: UNITED KINGDOM-YEMEN ARAB REPUBLIC (N.)/ YEMEN
+RIVALRY: RIV471
+DISPUTE(S): MID604 MID259 MID610 MID2157 MID2155 
+
+RIVNOTES: 
+
+PS: 19260902-19490630 0.25 19490701-19670422 0.00 19670423-19720422 0.5
+
+PSNOTES: Yemen (679) is considered to inherit the relations of Yemen Arab Republic (678) starting with 1990, when the unification between Yemen Arab Republic and Southern Yemen occurred. 
+
+PS-UPDATE2020: 
+Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+PS-LAST-CHANGED: 20220228
+PS-LAST-CHECKED: 20220228
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID604 
+
+TERRMID: MID604 1 -- territorial MID
+TERRMID-CER: MID604 1 -- certain 
+TERRMID-NOTES: MID604 from Gibler (2018), in 1949, Yemeni forces crossed into a piece of territory being administered by UK and constructed a fort. The UK destroyed the fort, killing one Yemeni. Coded territorial MID because Yemen entered UK territory and claimed a piece of it by constructing a fort it intended to hold. 
+
+TERRLINK: MID604 3 -- not third party link to territory 
+TERRLINK-CER: MID604 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID604 3 -- not maritime 
+MARITMID-CER: MID604 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID604 3 -- not islands 
+ISLMID-CER: MID604 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID604 3 -- not civil war 
+CIVWARMID-CER: MID604 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID604 3 -- not civil war link 
+CIVWARLINK-CER: MID604 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID604 3 -- not coup 
+COUPMID-CER: MID604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID604 3 -- not coup link
+COUPLINK-CER: MID604 1 -- certain 
+COUPLINK-NOTES: 
+
+MID259 
+
+TERRMID: MID259 3 -- not territory 
+TERRMID-CER: MID259 1 -- certain 
+TERRMID-NOTES: MID259 from Gibler (2018), UK bombed a Yemeni customs house as part of its policy to cause turmoil in neighboring countries to defend its protectorate at Aden. Coded not territory because, although the UK and Yemen were disputing a boundary, this was an attack to cause instability in Yemen and was not an advancement of the claim. 
+
+TERRLINK: MID259 3 -- not third party link to territory 
+TERRLINK-CER: MID259 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID259 3 -- not maritime 
+MARITMID-CER: MID259 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID259 3 -- not islands 
+ISLMID-CER: MID259 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID259 3 -- not civil war 
+CIVWARMID-CER: MID259 1 -- certain 
+CIVWARMID-NOTES: MID259 there is no indication of rebel activity in Aden at this time, nor any indication that the specific events of this MID involve rebels in the area attacked by the British. Gibler 2018 does not make any mention of rebel activity, and NYT 11/9/1956, 6/9/1956, 1/30/1957, 5/21/1957, 9/17/1957, 4/16/1958, and 7/9/1958 describe the events of this MID as UK bombing civilian territory, Yemeni army barracks, and/or a customs house, but none mention any rebel activity. 
+
+CIVWARLINK: MID259 3 -- not civil war link 
+CIVWARLINK-CER: MID259 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID259 3 -- not coup 
+COUPMID-CER: MID259 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID259 3 -- not coup link
+COUPLINK-CER: MID259 1 -- certain 
+COUPLINK-NOTES: 
+
+MID610 
+
+TERRMID: MID610 1 -- territorial MID
+TERRMID-CER: MID610 1 -- certain 
+TERRMID-NOTES: MID610 from Gibler (2018), Arab nationalism was sweeping Yemen, and the Yemeni government began engaging in clashes against UK troops in Aden, as Yemen tried to regain sovereignty over Aden. Aden was a British protectorate that was claimed by both Britain and Yemen. Yemeni forces engaged British troops across the disputed border in an effort to drive the British out of Aden. Coded territorial MID because this was connected to the disputed territory of Aden.
+
+TERRLINK: MID610 3 -- not third party link to territory 
+TERRLINK-CER: MID610 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID610 3 -- not maritime 
+MARITMID-CER: MID610 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID610 3 -- not islands 
+ISLMID-CER: MID610 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID610 1 -- civil war MID
+CIVWARMID-CER: MID610 1 -- certain 
+CIVWARMID-NOTES: MID610 from Gibler (2018), this dispute also involved militarized rebel groups (terrorists) conducting attacks against UK targets in Aden, as citizens in Yemen demanded they gain control over Aden and expel the UK. Coded civil war MID because militarized rebel groups, who were militarized with the goal of expelling UK from Aden, in Yemen were attacking UK.
+
+CIVWARLINK: MID610 3 -- not civil war link 
+CIVWARLINK-CER: MID610 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID610 3 -- not coup 
+COUPMID-CER: MID610 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID610 3 -- not coup link
+COUPLINK-CER: MID610 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2157 
+
+TERRMID: MID2157 1 -- territorial MID
+TERRMID-CER: MID2157 1 -- certain 
+TERRMID-NOTES: MID2157 from Gibler (2018), Yemen tried to gain control over part of the British protectorate of Aden, which Yemen and UK disputed. Coded territorial MID because this was centered on the disputed territory of Aden. 
+
+TERRLINK: MID2157 3 -- not third party link to territory 
+TERRLINK-CER: MID2157 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2157 3 -- not maritime 
+MARITMID-CER: MID2157 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2157 3 -- not islands 
+ISLMID-CER: MID2157 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2157 3 -- not civil war 
+CIVWARMID-CER: MID2157 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2157 3 -- not civil war link 
+CIVWARLINK-CER: MID2157 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2157 3 -- not coup 
+COUPMID-CER: MID2157 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2157 3 -- not coup link
+COUPLINK-CER: MID2157 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2155 
+
+TERRMID: MID2155 1 -- territorial MID
+TERRMID-CER: MID2155 1 -- certain 
+TERRMID-NOTES: MID2155 from Gibler (2018), UK was planning to leave the territory of Aden as an independent state, but was still administering it when Yemen attacked again, trying to gain control of the territory. At this point, the UK and Yemen still both claimed Aden, so this was still considered a territorial dispute. Coded territorial MID because this was centered on the disputed Aden territory and involved British and Yemeni troops exchanging fire.
+
+TERRLINK: MID2155 3 -- not third party link to territory 
+TERRLINK-CER: MID2155 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2155 3 -- not maritime 
+MARITMID-CER: MID2155 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2155 3 -- not islands 
+ISLMID-CER: MID2155 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2155 1 -- civil war MID
+CIVWARMID-CER: MID2155 1 -- certain 
+CIVWARMID-NOTES: MID2155 from Gibler (2018), the exchange of hostilities here involved militarized rebel groups in Yemen attacking UK troops. rebel groups were militarized with the goal of expelling UK from Aden, and sought refuge in Yemen.
+
+CIVWARLINK: MID2155 3 -- not civil war link 
+CIVWARLINK-CER: MID2155 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2155 3 -- not coup 
+COUPMID-CER: MID2155 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2155 3 -- not coup link
+COUPLINK-CER: MID2155 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Iman Yahya of North Yemen (Yemen Arab Republic) refused to recognize the British protectorate over Aden in November 1918 (when North Yemen formally achieved its independence from the Ottoman Empire). British and North Yemeni representatives signed the *Anglo-Yemeni Treaty of Friendship* in 1934, which provided for the maintenance of the* status quo* in the border region. British military aircraft attacked targets in North Yemen in March 1949, resulting in the death of one British military personnel. 
+
+British and North Yemeni representatives signed an agreement on January 20, 1951, which provided for the establishment of a joint commission to demarcate the border between the Aden protectorate and North Yemen. On January 2, 1957, North Yemen protested the bombing of its territory by British military aircraft, but Britain rejected the protest on January 8, 1957. North Yemeni troops occupied territory in the Aden Protectorate on January 12, 1957, and British troops attacked Yemeni territory on January 14-15, 1957. The United States appealed for a ceasefire on January 17, 1957. British troops and North Yemeni troops clashed near the border on January 27, 1957, resulting in the deaths of 30 North Yemeni soldiers. Yemen claimed sovereignty over the Aden protectorate on January 30, 1957. British military aircraft attacked North Yemeni troops in the border region on February 1-2, 1957. British troops and military aircraft clashed with North Yemeni troops near the border on January 30, 1958. North Yemen accused Britain of aggression, and referred the matter to the *United Nations *(UN) Security Council on February 27, 1958. Britain rejected the accusations on March 6, 1958. North Yemeni troops shot down a British military aircraft on July 8, 1958. 
+
+British troops and North Yemeni tribesmen clashed near the border on June 22-23, 1963, resulting in the deaths of four British soldiers and three tribesmen. North Yemen referred the matter to the UN Security Council on June 24, 1963. North Yemen military aircraft attacked targets in the South Arabian Federation on March 27, 1964. British military aircraft retaliated by attacking Harib fort in North Yemen on March 28, 1964, resulting in the deaths of 25 individuals. North Yemen referred the matter to the UN Security Council on April 1, 1964, and the UN Security Council condemned Britain for the attack against Harib on April 9, 1964.
+
+SOURCES-CM: 
+Butterworth, 1976, 113-115; *Facts on File*, January 17-23, 1957, January 30-February 5, 1958, June 27-July 3, 1963; *Keesing*, April 20-27, 1957, January 10-17, 1959, March 19-26, 1966; Tillema, 1991, 187-189.
+
+NARRATIVE-CR:
+British influence increased in the south and eastern portion of Yemen after the British captured the port of Aden in 1839. It was ruled as part of British India until 1937, when Aden was made a crown colony with the remaining land designated as east Aden and west Aden protectorates. By 1965, most of the tribal states within the protectorates and the Aden colony proper had joined to form the British-sponsored federation of south Arabia.
+
+The issue between Yemen and the UK stems from the British possession of Aden, a protectorate within the British Empire until 1967 and Yemeni interest in British withdrawal from Yemen. British military aircraft attacked targets in North Yemen in March 1949, resulting in the death of one British military personnel (MID604). The British attacked a border post that was established within British controlled area. 
+
+MID259 occurred from June of 1956 until September of 1958. British and North Yemeni representatives signed an agreement on January 20, 1951, which provided for the establishment of a joint commission to demarcate the border between the Aden protectorate and North Yemen. On January 2, 1957, North Yemen protested the bombing of its territory by British military aircraft, but Britain rejected the protest on January 8, 1957. North Yemeni troops occupied territory in the Aden Protectorate on January 12, 1957, and British troops attacked Yemeni territory on January 14-15, 1957. The United States appealed for a ceasefire on January 17, 1957. British troops and North Yemeni troops clashed near the border on January 27, 1957, resulting in the deaths of 30 North Yemeni soldiers. Yemen claimed sovereignty over the Aden protectorate on January 30, 1957. British military aircraft attacked North Yemeni troops in the border region on February 1-2, 1957. British troops and military aircraft clashed with North Yemeni troops near the border on January 30, 1958. North Yemen accused Britain of aggression, and referred the matter to the United Nations (UN) Security Council on February 27, 1958. Britain rejected the accusations on March 6, 1958. North Yemeni troops shot down a British military aircraft on July 8, 1958. 
+
+British troops and North Yemeni tribesmen clashed near the border on June 22-23, 1963, resulting in the deaths of four British soldiers and three tribesmen. North Yemen referred the matter to the UN Security Council on June 24, 1963. North Yemen military aircraft attacked targets in the South Arabian Federation on March 27, 1964. British military aircraft retaliated by attacking Harib fort in North Yemen on March 28, 1964, resulting in the deaths of 25 individuals. North Yemen referred the matter to the UN Security Council on April 1, 1964, and the UN Security Council condemned Britain for the attack against Harib on April 9, 1964. These incidents constitute MID610 and MID2157. 
+
+MID2155 occurred in December of 1966 until April of 1967. This mid is the last days of the dispute between N. Yemen and the UK as Britain made its final withdrawals from the protectorate of Aden in South Yemen. There were various low level incidents during this period between the British and the N. Yemenis. 
+
+By the late 1950s, an earlier proposal to federate some of the smaller states had grown into a much broader scheme to include all of the principalities and sheikhdoms into a larger political entity that would eventually achieve independence from the British. 
+
+Britain's insistence that Aden be a part of the new entity created the anomaly that eventually killed the plan. The sophisticated business community, the activist trade unions, and other similarly modern political and social organizations in Aden feared for their future at the hands of what they perceived to be a group of largely illiterate and parochial tribal leaders from the rural areas of the protectorates. The tribal leaders, on the other hand, feared at worst their overthrow, or at best a degree of political and economic participation severely limited by an Adeni population that included many non-Muslims and non-Arabs.
+
+An acceleration of violence in Aden and the surrounding areas occurred in the early 1960s. Several groups worked together and independently to oust the British. They used a number of tactics including bombings of civilian British and strikes. In October of 1964, a Labor government was elected in Britain. They favored talks with one of the primary opposition groups the AUTC. The violence continued. More and more soldiers were required to ensure the security of Aden which at the time was seen as a vital link to the Indian Ocean and the Persian Gulf. Aden was seen as ensuring the security of British passage to the Indian Ocean. At some point in the early 1960s, after the Labor government came to power it was decided that the security provided by the basing at Aden was not worth the naval security it produced. Thus in February of 1966, London announced that the British would leave by 1968 and no defense agreement would be established to protect the post independence government. This announcement unleashed the violent political conflict that prevailed in Aden and the protectorates for the next two years as assorted organizations fought for control of the destiny of South Yemen. 
+
+The establishment of a republic in North Yemen provided a tremendous incentive to the elements in the south that sought to eliminate the British presence there. Furthermore, the Egyptians agreed to provide support for some of the organizations campaigning for southern independence-e.g., the Front for the Liberation of South Yemen (FLOSY). However, not all elements in either of the two Yemens were sympathetic to Egyptian policies, much less to the dominant role that Egypt had begun to play in southwestern Arabia. An emergent alternative movement, the National Liberation Front (NLF), drew its support primarily from indigenous sources. As the time for independence drew near, the conflict between the various groups, and especially the NLF and FLOSY, escalated into open warfare for the right to govern the state after British withdrawal. By late 1967, the NLF clearly had the upper hand; the British finally accepted the inevitable and arranged the transfer of sovereignty to the NLF on Nov. 30, 1967 and evacuated the country. 
+
+SOURCES-CR:
+Butterworth, 1976, 113-115; Dresch, 2000; 
+*Facts on File*, January 17-23, 1957, January 30-February 5, 1958, June 27-July 3, 1963; *Keesing*, April 20-27, 1957, January 10-17, 1959, March 19-26, 1966; New York Times 9/10-14, 1949; On War.com; Tillema, 1991, 187-189.
+
+PS-NARRATIVE:
+
+19260902-19490630 0.25
+
+The Kingdom of Yemen gained independence from the Ottoman Empire on November 1st, 1918. It became a member of the system according to COW dataset on September 2, 1926. It was admitted to the United Nations on September 30, 1947. On September 26, 1962, the Yemen Arab Republic (North Yemen) was established. On May 20, 1990, unification with South Yemen lead to the creation of the state of Yemen. 
+
+The issue between Yemen and the UK stems from the British possession of Aden, a protectorate within the British Empire until 1967 and Yemeni interest in British withdrawal from Yemen. British influence increased in the south and eastern portion of Yemen after the British captured the port of Aden in 1839. It was ruled as part of British India until 1937, when Aden was made a crown colony with the remaining land designated as east Aden and west Aden protectorates. Iman Yahya of North Yemen (Yemen Arab Republic) refused to recognize the British protectorate over Aden in November 1918 (when North Yemen formally achieved its independence from the Ottoman Empire). On January 31, 1921, the British troops had withdrawn from the city of Hodeidah and handed it over to the Yemeni ruler Al-Edreasi. On September 19 ,1926, the UK had dispatched the diplomatic mission of (Clyton) to Yemen for negotiation with the Imam Yahyah in a bid to reach a solution over the Yemeni protectorates , but that mission had come to nothing. On February11,1934, the UK and Imam Yahya had signed on a 40-year treaty between the two sides. Thereat, the UK had recognized the Imam as a ruler of the Yemeni independent state in the north part of Yemen. British and North Yemeni representatives signed the *Anglo-Yemeni Treaty of Friendship* on September 4, 1934, which provided for the maintenance of the* status quo* in the border region.The first MID of RIV471, MID604 started at the beginning of July 1949 and ended on July 9th, 1949. 
+
+19670423-20159999 0.5
+
+The last MID of RIV471, MID2155 occurred from December of 1966 until April of 1967. This MID represents the last days of the dispute between N. Yemen and the UK as Britain made its final withdrawals from the protectorate of Aden in South Yemen. MID2155 is the last MID of RIV471, which ended on April 22, 1967 with the British withdrawal from Aden. On November 30, 1967, the independence day of southern part of Yemen was declared and the last British troops left the city of Aden. On July 29, 1970, the UK recognized the Yemen Arab Republic in the northern part of Yemen. On October 22, 1970, the Yemeni prime minister, Mohsen al-Ainy, held talks with his British counter part Edward Hineth in New York for establishing diplomatic relations between the countries. With the British withdrawal from Aden the reason of their rivalry vanished and cooperation started in many fields.
+
+In September 1971, the UK established its embassy in Sana'a, the capital of Yemen. On May 8, 1975, an agreement signed between the ministry of telecommunication in Yemen and the British Company of Telegraph and Unwire Ltd. On November 11, 1975, signing an agreement with the British Ministry of Public Works, thereupon the British side had carried out the required surveys for designing the topographic maps. On August 19,1983, the two countries signing a protocol of cultural cooperation. On August 30,1984, signing an agreement for economical and technical cooperation between Yemen and Britain. On May19, 1988, signing a-five-years agreement for mutual cooperation between Yemen and Britain in the field of veterinary services. On May 22, 1990, the British foreign ministry had issued a communique-in less than two hours-following the announcement of the establishment of the republic of Yemen. The communique had included the UK `s recognizing the republic of Yemen and its congratulation on the establishment the Yemeni single state-to be the first one of western Europe states which blessed the unity of Yemen. On February 6,1991, the deputy of British secretary of state for the Middle East and Africa conducted talks in Sana'a with the Yemeni officials aimed at developing the economical and commercial ties between the two countries. On December 9, 1991, the director of the Middle East Department in the British foreign ministry, Patrick Neckson discussed in Sana'a the developments in the region and the peace conference in the Middle East. On February 6, 1992, the foreign minister Dr Abdul-Kareem al-Iryani had paid a visit to Britain where he conducted talks and consultations with his British counterpart Douglas Herd, said to be dealt with the bilateral relations and common interests. On December 8,1992, British commercial delegation included British businessmen had been to Yemen and held conversations in Aden with the head and members of the Chamber of Commerce. On December 9,1992, the British Secretary of state Douglas Herd had made a trip to Yemen aimed at getting an idea about the democracy experiment in the Yemeni single state. On March 24,1992, signing the contracts with the British Clyde Company for petroleum investments in Yemen. On April 8,1993, signing the contracts with the two British companies (Mypher and EnsanWefex) for the investments in the domain of oil. On April11, 1993, a forum themed ` Prospects and Future of Trade and Investments between Britain and Republic of Yemen' was organized. The forum was organized by the Union of South England Exporters with a participation of officials and experts in the field of investment and marketing. On March 29,1995, Dr Abdul-Kareem al-Iryani, deputy prime minister and foreign minister held talks with the British Secretary of State Douglas Herd who had welcomed the memorandum of understanding signed on February 26,1990 between the republic of Yemen and the Kingdom of Saudi Arabia with respect to the borders between the two sides. On July 18,1995, the Yemeni president Ali Abdullah Saleh received a message from the British primer John Major. The message dealt with British government support to democracy and development drive in Yemen. On November 27,1995, the British prime minister had paid a visit to Yemen and held talks with the president Ali Abdullah Saleh in Aden. On November 5, 1996, the British Secretary of State made an official visit to Yemen. In January 1997, deputy of British foreign ministry, Sir John Cole had paid a visit to Yemen. Between February 7-9, 1997, a seminar was organized entitled ` Invest with us In Yemen' . The event brought together Yemeni businessmen , industrialists and Briton businessmen. More than 29 of British businessmen had taken part in that seminar. On October 8, 1997, the president of the Yemeni republic honored the British ambassador in Yemen the Unity Decoration (The 22 of May). On October 22,1997, a memo of understanding was signed in Sana'a , thereat the UK provides Yemen with financial donation up to (950,000) pounds to hold up the process of taxation adjustment in the context of the economical , financial and administrative reform program. From September through October 1997, London and five other British cities had witnessed the activities of (Yemen's Carnival In Britain) which took place throughout six weeks. The project was a great demonstration aimed at introducing Yemen : the land, human and civilization to the British people. On April 30, 1998, Yemen signed a contract with the British Bularice company in the field of oil exploration in Shabbwa. On July16, 1998, Yemen signed a contract with the British company of Oil, Gas and Mining for exploring oil in the west of Mukkala and south of Houd regions in Hudhramout governorate. On the 21st of September 1998, a memo of understanding was signed in Sana'a between the Yemeni National Center of Documents and the Bureau of the General Registries in the UK. On November1, 1998, an agreement was signed to carry out the study of the project of cultural and tourist heritage. The agreement was signed with the British Gratch Kee company. The project's total cost came up to $US25 million dollar funded by the IDA and other donor countries. On June 27-30,1999, the British government provided Yemen with the needed support to hold the Forum of Emergencies Democracies, what eventually had push up the relations between the two sides. On the 4th of September 2000, the president of the Yemeni republic Ali Abdullah Saleh paid a visit to the UK. During his trip bilateral ties between the two countries had been reviewed. In October 2000, the British minister of state for foreign affairs visited Yemen and signed on a memorandum of understanding between the governments of the two countries, thereupon the UK shared in (3.5 million pound) for financing the third phase of enhancing the financial and economical management program. On April 30,2002, an agreement was signed between the Yemeni ministry of culture and the British Museum with the purpose of further increasing the cultural cooperation between the two countries. On the 8th of August,2002, a loan agreement was signed in London with a total amount up to ($US38.110) million , one hundred and ten thousand dollar. The loan used to finance the project of enlarging, re-equipping and re-habilitation the AL-Gumhoryah Educational Hospital in Aden. On January 14,2003, two agreements were signed in Aden between the University of Aden and the two British universities of Liverpool and Kent.On January 28,2003, a memorandum of understanding was singed between the ministry of oil and minerals and the British Kepetle Oil and Gas Co. The memo aimed at exploring oil in the governorate of Al-Maharah. On April 4, 2004, the republic of Yemen and the UK had signed on a memo of understanding , thereat the British government extends developmental assistance for backing up the programs of social and economical development in Yemen. On May 4,2004, the president of Yemen received a delegation of the British House of Commons. On June28, 2004, the Yemeni and British governments had signed an agreement of financing the project of household budgetary survey, thereupon the UK decided to share in ($US1.1) million dollar.
+
+PS-SOURCES: http://www.sabanews.net/en/news77131.htm
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times 11/9/1956 "Yemen Accuses Britain"; 6/9/1956 "Yemen Accuses RAF"; 1/30/1957 "Barrage of Charges is Hurled by Yemen"; 5/21/1957 "Yemen Accuses Britain Again"; 9/17/1957 "Yemen Accuses Britain Anew"; 4/16/1958 "British Accuse Yemen"; 7/9/1958 "Yemen Downs a Jet"

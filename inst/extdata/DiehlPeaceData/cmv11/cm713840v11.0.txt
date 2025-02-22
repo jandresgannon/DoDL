@@ -1,0 +1,181 @@
+FILE: cm713840v11.0.txt
+DYAD: TAIWAN - PHILIPPINES
+RIVALRY: RIV1320
+DISPUTE(S): MID1452 MID2027 
+RIVALRY: RIV1321
+DISPUTE(S): MID4024 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190318
+PS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1452 
+
+TERRMID: MID1452 3 -- not territory 
+TERRMID-CER: MID1452 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1452 3 -- not third party link to territory 
+TERRLINK-CER: MID1452 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1452 1 -- maritime MID
+MARITMID-CER: MID1452 1 -- certain 
+MARITMID-NOTES: MID1452 coded maritime MID because the Spratly islands are disputed due to implications for the maritime boundaries around them. 
+
+ISLMID: MID1452 1 -- islands MID
+ISLMID-CER: MID1452 1 -- certain 
+ISLMID-NOTES: MID1452 from Gibler 2018, in 1956 a Filipino man landed with armed men at one of the Spratly Islands, an archipelago in the South China Sea that is disputed by six different states. The man removed a Taiwanese flag from one of the islands. South Vietnam landed troops at another island in response. Chinese troops then seized a Philippine fishing boat in the disputed waters around the islands. Coded islands MID because this was linked to an islands dispute between China, Taiwan, and South Vietnam/Philippines (among others). 
+
+CIVWARMID: MID1452 3 -- not civil war 
+CIVWARMID-CER: MID1452 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1452 3 -- not civil war link 
+CIVWARLINK-CER: MID1452 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1452 3 -- not coup 
+COUPMID-CER: MID1452 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1452 3 -- not coup link
+COUPLINK-CER: MID1452 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2027 
+
+TERRMID: MID2027 3 -- not territory 
+TERRMID-CER: MID2027 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2027 3 -- not third party link to territory 
+TERRLINK-CER: MID2027 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2027 3 -- not maritime 
+MARITMID-CER: MID2027 3 -- uncertain 
+MARITMID-NOTES: MID2027 from Gibler, Miller, and Little 2016, Philippines detained Taiwanese fishermen in the Sulu Sea. Coded not maritime because although Taiwan and Philippines have a maritime dispute in the Spratly Islands waters, this MID did not occur in disputed waters. Coded uncertain because GML recommend the case be dropped since Taiwan did not protest. 
+
+ISLMID: MID2027 3 -- not islands 
+ISLMID-CER: MID2027 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2027 3 -- not civil war 
+CIVWARMID-CER: MID2027 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2027 3 -- not civil war link 
+CIVWARLINK-CER: MID2027 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2027 3 -- not coup 
+COUPMID-CER: MID2027 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2027 3 -- not coup link
+COUPLINK-CER: MID2027 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4024 
+
+TERRMID: MID4024 3 -- not territory 
+TERRMID-CER: MID4024 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4024 3 -- not third party link to territory 
+TERRLINK-CER: MID4024 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4024 1 -- maritime MID
+MARITMID-CER: MID4024 1 -- certain 
+MARITMID-NOTES: MID4024 coded maritime MID because the Spratly Islands are disputed due to maritime boundary implications associated with controlling the islands.
+
+ISLMID: MID4024 1 -- islands MID
+ISLMID-CER: MID4024 1 -- certain 
+ISLMID-NOTES: MID4024 from Gibler 2018, in 1994 Taiwan sent armed patrol boats to the disputed Spratly Islands and stated that the boats were there to defend Taiwan's territory (the islands). Coded islands MID because this was connected to a disputed over islands. 
+
+CIVWARMID: MID4024 3 -- not civil war 
+CIVWARMID-CER: MID4024 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4024 3 -- not civil war link 
+CIVWARLINK-CER: MID4024 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4024 3 -- not coup 
+COUPMID-CER: MID4024 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4024 3 -- not coup link
+COUPLINK-CER: MID4024 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4461 
+
+TERRMID: MID4461 3 -- not territory 
+TERRMID-CER: MID4461 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4461 3 -- not third party link to territory 
+TERRLINK-CER: MID4461 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4461 1 -- maritime MID
+MARITMID-CER: MID4461 1 -- certain 
+MARITMID-NOTES: MID4461 from cm narrative and Gibler 2018, the Bashi Channel was disputed between Taiwan and Philippines due to fishing resources in the waters. In 2003, Taiwan increased naval patrols of the area after Philippines increased its enforcement against fishermen in the waters. Coded maritime MID because this was connected to a maritime dispute. 
+
+ISLMID: MID4461 3 -- not islands 
+ISLMID-CER: MID4461 1 -- certain 
+ISLMID-NOTES: MID4461 coded not islands because while Taiwan and Philippines were disputing islands in the Spratlys, those islands were not connected to this fishing rights dispute. 
+
+CIVWARMID: MID4461 3 -- not civil war 
+CIVWARMID-CER: MID4461 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4461 3 -- not civil war link 
+CIVWARLINK-CER: MID4461 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4461 3 -- not coup 
+COUPMID-CER: MID4461 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4461 3 -- not coup link
+COUPLINK-CER: MID4461 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4461
+rivalry=713840 nationa=TAIWAN nationb=PHILIPPINES MID4461 20030730-20030730 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Taiwan increased patrols in the Bashi Channel, an area of disputed fishing rights with the Philippines, following what they claimed to be Filipino aggression toward Taiwanese fishermen in the region. First day of dispute was on 7/30/2003 and last day of dispute was on 7/30/2003.
+
+MID3 1993-2001:
+
+MID4024
+rivalry=713840 nationa=TAIWAN nationb=PHILIPPINES MID4024 19940416-19940428 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+The dispute OC00024 is based on the show of force by Taiwan against Philippines. Taiwan has dispatched a pair of police patrol boats to the Spratly Islands in the South China Sea to "protect Taiwanese fishing vessels and reassert its claim over the disputed islands" (According to Taiwan's United Daily News report). "The dispatch aimed at of checking the safety of a route to the island in the wake of seizure of Taiwanese vessels by Philippines and Vietnam", Taiwan police said. First day of dispute was on 4/16/1994 and last day of dispute was on 4/28/1994.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

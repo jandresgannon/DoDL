@@ -1,0 +1,59 @@
+FILE: cm365730v11.0.txt
+DYAD: RUSSIA/USSR - KOREA
+RIVALRY: RIV1012
+DISPUTE(S): MID131 MID180 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20180529
+PS-LAST-CHECKED: 20180920
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID131 
+
+MID180 
+
+TERRMID: MID180 1 -- territorial MID
+TERRMID-CER: MID180 1 -- certain 
+TERRMID-NOTES: MID180 from Gibler 2018, this is the Russo-Japanese War in the early 20th century. Russia and Japan had claims in Manchuria and Korea. Russia began to push further into Korea, angering Japan. Japan demanded that Russia evacuate Manchuria and later declared war on Russia. Coded territorial MID because this was connected to territorial disputes in Manchuria and Japan, and Korea had a territorial dispute against Russia in Korea. 
+
+TERRLINK: MID180 1 -- third party link to territorial MID
+TERRLINK-CER: MID180 1 -- certain 
+TERRLINK-NOTES: MID180 the Russo-Japanese War also involved a territorial dispute between Russia and Japan, outside this dyad. 
+
+MARITMID: MID180 3 -- not maritime 
+MARITMID-CER: MID180 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID180 3 -- not islands 
+ISLMID-CER: MID180 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID180 3 -- not civil war 
+CIVWARMID-CER: MID180 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID180 3 -- not civil war link 
+CIVWARLINK-CER: MID180 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID180 3 -- not coup 
+COUPMID-CER: MID180 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID180 3 -- not coup link
+COUPLINK-CER: MID180 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

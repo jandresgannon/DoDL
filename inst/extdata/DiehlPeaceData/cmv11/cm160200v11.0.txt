@@ -1,0 +1,293 @@
+FILE: cm160200v11.0.txt
+DYAD: ARGENTINA-UNITED KINGDOM
+RIVALRY: RIV370
+DISPUTE(S): MID371 MID2055 MID123
+RIVALRY: RIV371
+DISPUTE(S): MID1763
+RIVALRY: RIV372
+DISPUTE(S): MID1698 MID2840
+RIVALRY: RIV373
+DISPUTE(S): MID363 MID3630 MID3077 MID3064
+
+RIVNOTES: 
+
+PS: 19009999-19760203 0.25 19760204-19891019 0.00 19891020-19910301 -9 19910302-19960301 0.5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PSNOTES: thompson rivalry cm160200 ,19650000 ,20100000 
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID371 MID2055 MID123 MID1763
+
+MID1698 
+
+TERRMID: MID1698 3 -- not territory 
+TERRMID-CER: MID1698 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1698 3 -- not third party link to territory 
+TERRLINK-CER: MID1698 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1698 1 -- maritime MID
+MARITMID-CER: MID1698 1 -- certain 
+MARITMID-NOTES: MID1698 this dispute was connected directly to Graham Island, but the island was part of the maritime dispute in the Antarctic. Ownership of the island had implications for the disputed maritime border. Coded maritime MID because the island on which this MID is centered was connected to the maritime dispute. 
+
+ISLMID: MID1698 1 -- islands MID
+ISLMID-CER: MID1698 1 -- certain 
+ISLMID-NOTES: MID1698 from cm narrative, Argentina and UK disputed Graham Island in the Antarctic because sovereignty over the uninhabitable island had implications for a maritime dispute in the Antarctic. Here, UK and Argentina sent Naval expeditions to Graham Island from February to April 1947 to stake their claim. Coded islands MID because Graham island was disputed here and connected to this MID. 
+
+CIVWARMID: MID1698 3 -- not civil war 
+CIVWARMID-CER: MID1698 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1698 3 -- not civil war link 
+CIVWARLINK-CER: MID1698 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1698 3 -- not coup 
+COUPMID-CER: MID1698 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1698 3 -- not coup link
+COUPLINK-CER: MID1698 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2840 
+
+TERRMID: MID2840 3 -- not territory 
+TERRMID-CER: MID2840 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2840 3 -- not third party link to territory 
+TERRLINK-CER: MID2840 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2840 1 -- maritime MID
+MARITMID-CER: MID2840 1 -- certain 
+MARITMID-NOTES: MID2840 from cm narrative, this involved a maritime boundary in the Antarctic that was disputed by Argentina, Chile, and UK. In January 1948, all 3 countries deployed naval and army units to the area in an effort to demonstrate a show of force to back up claims to the Antarctic region. Coded maritime MID because this involved a disputed maritime boundary. 
+
+ISLMID: MID2840 1 -- islands MID
+ISLMID-CER: MID2840 1 -- certain 
+ISLMID-NOTES: MID2840 this MID involved countries deploying troops to the area around Graham Island, an uninhabitable island disputed by Chile, Argentina, and UK due to its implications for the maritime boundary. Coded islands MID because this involved the disputed Graham Island. 
+
+CIVWARMID: MID2840 3 -- not civil war 
+CIVWARMID-CER: MID2840 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2840 3 -- not civil war link 
+CIVWARLINK-CER: MID2840 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2840 3 -- not coup 
+COUPMID-CER: MID2840 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2840 3 -- not coup link
+COUPLINK-CER: MID2840 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID363 
+
+TERRMID: MID363 3 -- not territory 
+TERRMID-CER: MID363 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID363 3 -- not third party link to territory 
+TERRLINK-CER: MID363 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID363 3 -- not maritime
+MARITMID-CER: MID363 1 -- certain 
+MARITMID-NOTES: MID363 the Falkland Islands dispute has implications for the territorial waters around the Falklands, but this is coded not maritime because the dispute is connected to sovereignty over the islands, not to sovereignty over the surrounding territorial waters. 
+
+ISLMID: MID363 1 -- islands MID
+ISLMID-CER: MID363 1 -- certain 
+ISLMID-NOTES: MID363 from cm narrative, occurred in 1976. This MID was another dispute over the disputed sovereignty over the Falkland/Malvinas Islands. Coded islands MID because this was connected to the disputed Falkland Islands. 
+
+CIVWARMID: MID363 3 -- not civil war 
+CIVWARMID-CER: MID363 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID363 3 -- not civil war link 
+CIVWARLINK-CER: MID363 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID363 3 -- not coup 
+COUPMID-CER: MID363 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID363 3 -- not coup link
+COUPLINK-CER: MID363 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3630 
+
+TERRMID: MID3630 3 -- not territory 
+TERRMID-CER: MID3630 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3630 3 -- not third party link to territory 
+TERRLINK-CER: MID3630 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3630 3 -- not maritime
+MARITMID-CER: MID3630 1 -- certain 
+MARITMID-NOTES: MID3630 the Falkland Islands dispute has implications for the territorial waters around the Falklands, but this is coded not maritime because the dispute is connected to sovereignty over the islands, not to sovereignty over the surrounding territorial waters. 
+
+ISLMID: MID3630 1 -- islands MID
+ISLMID-CER: MID3630 1 -- certain 
+ISLMID-NOTES: MID3630 from cm narrative, this is the Argentine of the Falkland Islands which resulted in the Falkland/Malvinas War that began on 3/1/1982. Coded islands MID because this was a war over the Falkland Islands, which was disputed by Argentina and UK. 
+
+CIVWARMID: MID3630 3 -- not civil war 
+CIVWARMID-CER: MID3630 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3630 3 -- not civil war link 
+CIVWARLINK-CER: MID3630 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3630 3 -- not coup 
+COUPMID-CER: MID3630 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3630 3 -- not coup link
+COUPLINK-CER: MID3630 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3077 
+
+TERRMID: MID3077 3 -- not territory 
+TERRMID-CER: MID3077 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3077 3 -- not third party link to territory 
+TERRLINK-CER: MID3077 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3077 3 -- not maritime 
+MARITMID-CER: MID3077 3 -- uncertain 
+MARITMID-NOTES: MID3077 the Falkland Islands dispute has implications for the territorial waters around the Falklands, but this is coded not maritime because the dispute is connected to sovereignty over the islands, not to sovereignty over the surrounding territorial waters. Coded uncertain because GLM suggest this case be dropped. 
+
+ISLMID: MID3077 1 -- islands MID
+ISLMID-CER: MID3077 3 -- uncertain 
+ISLMID-NOTES: MID3077 from Gibler, Little, and Miller (2016: IIB-34), three Argentinean fishing vessels were intercepted by British warships near the Falkland Islands and told to leave the area. The vessels complied and there was no violence, and there was no threat to begin with. GLM argue that this case should be dropped since no militarized dispute took place. Coded islands MID because this was connected to the disputed Falkland islands, but uncertain because GLM recommend this case be dropped. 
+
+CIVWARMID: MID3077 3 -- not civil war 
+CIVWARMID-CER: MID3077 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3077 3 -- not civil war link 
+CIVWARLINK-CER: MID3077 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3077 3 -- not coup 
+COUPMID-CER: MID3077 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3077 3 -- not coup link
+COUPLINK-CER: MID3077 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3064 
+
+TERRMID: MID3064 3 -- not territory 
+TERRMID-CER: MID3064 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3064 3 -- not third party link to territory 
+TERRLINK-CER: MID3064 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3064 3 -- not maritime 
+MARITMID-CER: MID3064 1 -- certain 
+MARITMID-NOTES: MID3064 the Falkland Islands dispute has implications for the territorial waters around the Falklands, but this is coded not maritime because the dispute is connected to sovereignty over the islands, not to sovereignty over the surrounding territorial waters. 
+
+ISLMID: MID3064 1 -- islands MID
+ISLMID-CER: MID3064 1 -- certain 
+ISLMID-NOTES: MID3064 from cm narrative, in 1983, UK and Argentina had another dispute over the Falkland Islands. At this time, the US was softening its stance against Argentina due to anticipation that Argentina was transitioning to democracy, and the UK was not happy with the shifting US position. From Gibler, Little, and Miller (2016: F-203), the /British issued a warning to Argentina over the Falkland, probably connected to a proposed arms sale to Argentina by the US. Coded islands MID because this MID was connected to the disputed Falkland Islands. 
+
+CIVWARMID: MID3064 3 -- not civil war 
+CIVWARMID-CER: MID3064 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3064 3 -- not civil war link 
+CIVWARLINK-CER: MID3064 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3064 3 -- not coup 
+COUPMID-CER: MID3064 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3064 3 -- not coup link
+COUPLINK-CER: MID3064 1 -- certain 
+COUPLINK-NOTES: 
+
+
+NARRATIVE-CM:
+Argentina and Britain disputed the sovereignty of the Falkland Islands (*Las Malvinas*) in the southern Pacific Ocean after Britain took control of the islands on January 3, 1833. Argentina claimed sovereignty over South Georgia island in 1927. The *United Nations *(UN) General Assembly appealed for peaceful negotiations on December 16, 1965. Argentina and Britain held negotiations in London beginning on July 18, 1966. Argentina and Britain signed travel and communications agreements on July 1, 1971. The UN General Assembly appealed for peaceful negotiations on December 14, 1973. An Argentine warship fired upon a British research ship in the south Atlantic Ocean on February 5, 1976, and Britain referred the matter to the UN Security Council on February 11, 1976. The UN General Assembly passed a resolution on December 1, 1976 urging Argentina and Britain to "expedite the negotiations concerning the dispute over sovereignty." Britain and Argentina resumed bilateral negotiations on February 22, 1977. Argentine scrap-metal merchant raised the Argentine flag on the island of South Georgia on March 19, 1982, and Argentine commandos landed on the island on March 25, 1982. Britain referred the matter to the UN Security Council on April 1, 1982. Argentine troops invaded and occupied the Falkland islands on April 2, 1982, resulting in the deaths of five Argentine soldiers. Argentine troops invaded and occupied South Georgia island on April 3, 1982, resulting in the deaths of four Argentine soldiers. Prime Minister Margaret Thatcher of Britain responded by ordering the deployment of some 25,000 troops and 60 naval ships to the region. Bolivia expressed support for Argentina on April 2, 1982 and April 13, 1982. El Salvador, Guatemala, and Honduras expressed support for Argentina on April 2, 1982. President Aristides Royo expressed support for Argentina on April 2, 1982. The UN Security Council approved a resolution on April 3, 1982, which demanded an immediate ceasefire, demanded the withdrawal of Argentinean troops from the islands, and appealed for peaceful negotiations. Britain severed diplomatic relations with Argentina on April 3, 1982. The US State Department appealed for the withdrawal of Argentine troops from the Falklands on April 3, 1982. The *European Community* (EC) foreign ministers condemned Argentina on April 3, 1982, and appealed for the withdrawal of Argentine troops from the Falklands. Argentina rejected the UN Security Council resolution on April 4, 1982. The US State Department offered to facilitate negotiations for a ceasefire agreement between Argentina and Britain on April 5, 1982, and Secretary of State Al Haig met with the Argentine and British ambassadors to the US in Washington DC on April 5-6, 1982. Several countries imposed diplomatic, economic, and military sanctions against Argentina. New Zealand imposed diplomatic sanctions (suspension of diplomatic relations) against Argentina on April 5, 1982, and imposed economic sanctions (trade embargo) against Argentina on April 13, 1982. Austria imposed military sanctions (suspension of arms shipments) against Argentina on April 5, 1982. Canada imposed economic sanctions (imports ban) and military sanctions (arms shipments ban) against Argentina on April 5, 1982. Britain imposed economic sanctions (imports ban) against Argentina on April 6, 1982, and requested that the EC impose economic sanctions against Argentina. Australia imposed economic sanctions (imports ban) against Argentina on April 6, 1982. Brazil appealed for peaceful negotiations on April 6, 1982. Nicaragua expressed support for Argentina on April 6, 1982. West Germany and France imposed military sanctions (arms embargo) against Argentina on April 7, 1982. The EC imposed military sanctions (arms embargo) against Argentina on April 9, 1982, and imposed economic sanctions (trade embargo) against Argentina on April 10, 1982. President Belaunde Terry of Peru attempted to mediate a peaceful resolution of the dispute from April 12 to May 20, 1982. Panama expressed support for Argentina on April 14, 1982. Norway imposed economic sanctions (imports ban) against Argentina on April 19, 1982. Argentina requested a special meeting of the *Organization of American States* (OAS) Permanent Council on April 20, 1982. The *European Parliament* condemned Argentina on April 22, 1982, and appealed for the withdrawal of Argentine troops from the Falklands. British troops recaptured South Georgia islands on April 25, 1982. The foreign minister of Japan appealed for peaceful negotiations on April 26, 1982. The OAS Meeting of Foreign Ministers (MFM) recognized Argentine sovereignty over the Falkland islands on April 28, 1982, and appealed to Britain to cease military hostilities against Argentina. The UN Security Council approved a resolution on April 29, 1982, calling on UN Secretary-General Perez de Cuellar to renewed his offer of good offices to the parties. The US ended its efforts to facilitate negotiations between Argentina and Britain on April 30, 1982. The US imposed economic sanctions and military sanctions (suspension of military assistance and arms shipments) against Argentina on April 30, 1982. Japan imposed economic sanctions against Argentina on May 4, 1982. The *North Atlantic Treaty Organization* (NATO) condemned the Argentine invasion of the Falklands on May 6, 1982, and NATO foreign minister condemned Argentina on May 18, 1982. Britain rejected the peace proposal of the UN secretary-general on May 18, 1982. British troops landed on the Falkland islands on May 21, 1982. The Vatican appealed for a ceasefire on May 22, 1982. The OAS MFM condemned British military aggression against Argentina on May 29, 1982. The UN secretary-general ended his efforts to facilitate negotiations on June 2, 1982. Britain and the US vetoed a UN Security Council resolution on June 4, 1982, which would have called for a cessation of military hostilities. Argentine troops on the Falkland islands surrendered to British troops on June 14, 1982, and Britain declared a cessation of military hostilities against Argentina on June 20, 1982. Some 277 British soldiers, which included 22 soldiers who died of injuries incurred during the conflict, and 746 Argentine soldiers were killed during the conflict. The EC and Canada lifted economic sanctions against Argentina on June 22, 1982, and Japan lifted economic sanctions against Argentina on June 23, 1982. The US lifted economic sanctions against Argentina on July 12, 1982. France lifted military sanctions against Argentina on August 10, 1982. Argentina resubmitted the territorial dispute to the UN General Assembly on August 16, 1982. The US, West Germany, Italy, and Belgium lifted military sanctions against Argentina on September 25, 1982. The UN General Assembly approved a resolution on November 4, 1982 calling on the parties to resume peaceful negotiations. The UN General Assembly appealed for peaceful negotiations on November 16, 1983. Switzerland facilitated negotiations between Argentina and British representatives from December 1983 to July 18, 1984. The UN General Assembly appealed for peaceful negotiations on November 1, 1984. Britain lifted economic sanctions against Argentina on July 9, 1985. Argentina's foreign minister offered on July 10, 1985 to declare a formal end to military hostilities if Britain agreed to resume bilateral talks, including the sovereignty issue, within 60 days. The offer was rejected by the British foreign secretary on July 12, 1985. The UN General Assembly appealed for peaceful negotiations on November 27, 1985. The UN secretary-general attempted to mediate negotiations between Argentina and Britain from April to May 1986. The UN General Assembly appealed for peaceful negotiations on November 25, 1986 and November 17, 1987. Argentina and Britain held bilateral negotiations in Madrid from October 17-19, 1989, and an agreement was reached to formally end hostilities and to resume consular relations. Argentina and Britain agreed to resume diplomatic relations on February 15, 1990. President Fidel Castro of Cuba expressed support for Argentina in the Falklands Islands dispute on November 18, 1999.
+
+SOURCES-CM: 
+Acevedo, 323-344; Allock et al., 1992, 551-561; Brecher and Wilkenfeld, 1997, 524-526; Butterworth, 1976, 405-406; Clodfelter, 1992, 1190-1194; *Foreign Broadcast Information Service *(FBIS), April 2, 1982, April 15, 1982, April 22, 1982, May 6, 1982; Ireland, 1938, 254-260; Jessup, 1998, 199-203; *Keesing*, June 11, 1982, September 24, 1982, November 19, 1982, February 1990; *Latin America and Caribbean Contemporary Record *(LACCR), 1982-1983, 12-33; *North Atlantic Treaty Organization *(NATO) press release, May 18, 1982; *New York Times*, May 1, 1982; *Reuters, November 18, 1999; Tillema, 1991, 42-43; *UN Chronicle*, May 1982, June 1982, July 1982; *United Nations Yearbook*, 1965, 576-578, 1973, 697-699; Weisburd, 1997, 52-55.
+
+NARRATIVE-CR:
+Argentina and the United Kingdom have two separate periods of militarized rivalry involving different substantive issues. The first involved interventions by the United Kingdom in an effort to protect economic interests in the 19th century. The second involved the dispute over the Falklands/Malvinas islands. In between these two periods of rivalry there are two disputes that seem to be isolated and not involving either of the two rivalry issues.
+
+In 1947 and 1948, two disputes involved early claims over islands near the Antarctic prior to the Treaty of Antarctica in 1959. Chile, Argentina and the United Kingdom disputed claims to Graham Land, a group of Antarctic islands in 1947, each sending naval expeditionary forces to stake claim to the island from February to April 1947, MID1698. In January 1948, the three countries ordered naval and army units to the area in an effort to demonstrate a show of force to back up claims to the Antarctic regions, MID2840.
+
+In the 19th century, the rivalry between Argentina and the United Kingdom was largely due to British intervention in Argentinian affairs, brought about by its need to protect economic interests in the region. This protection was necessary largely due to the foreign policy of Argentinian dictator Juan Manuel de Rosas who sought to consolidate and expand Argentina's power internally and in neighboring Uruguay.
+
+In Uruguay, Rosas' ally, President Manuel Oribe had been ousted from power by Fructuoso Rivera with assistance by General Lavalle, a rival of Rosas. With French support, Lavalle also had initiated a rebellion against Rosas in Argentina. The rebellion in Argentina failed by 1841 but led to a series of terror campaigns by the Rosas' administration. In January 1842, France and Great Britain sent naval ships to Argentina to monitor these terror campaigns and protect their citizens against possible attacks, MID371. Oribe, did assist Rosas in defeating the rebellion and his efforts led to an opportunity to take back power in Uruguay by 1843. Rosas and Oribe together began a siege on Montevideo in 1843 to accomplish this task, imposing a blockade on the city as well.
+
+This siege on Montevideo led to both French and British intervention to break the blockade in 1843 (MID2055). In addition, the British and French began naval operations to open all Argentine and Uruguayan rivers to free navigation. In September 1845, both French and naval forces imposed a blockade on Buenos Aires (MID123). Both naval efforts failed, leaving Rosas even more powerful by 1846 when the blockade ended. This status for Rosas was very temporary, however, as pro-European groups within Buenos Aires in addition to provencial adversaries began rebelling against his regime. Justo Urquiza, a rival caudillo, led the revolt against Rosas which proved successful by 1852. Thus, a new regime was implemented that was sympathetic to European interests.
+
+After Rosas' fall, the new regime began economic reform, stipulating its policy of economic liberalism in its new constitution written in 1853. This constitution also provided for presidential elections the same year which Urquiza won. Immediately Urquiza signed commerical treaties were with France, Great Britain and the United States and began encouraging foreign investment. Additionally Urquiza opened up Argentine rivers to free navigation for foreign trade. These policies led to expansion of British commerical ventures such as railroad building and exploration of the Chaco. This regime change then seem to end the first rivalry between Great Britain and Argentina due to the new regime's openness to British economic interests which had been the cause of initial British intervention in the country. It should be noted, however, that Urquiza lost power after a civil conflict with rival Bartolome Miter in 1861. Instability again led to civil conflict in 1880, resulting in another need for the British navy to enter Argentina, MID1763. After 1880, Argentine political affairs did not further threaten foreign commerical interests. Instead Argentina strengthened its relations with Europe both politically, socially and economically.
+
+The rivalry between Argentina and the United Kingdom in the 20th century is over the sovereign rights to the Falkland/Malvinas Islands. Ownership of the islands has been in dispute by Argentina since the British took control of them in 1833. The MIDs that characterize the rivalry take place within a relatively short period of time, from 1976 to 1983 (MID363 in 1976, MID3630 and MID3077 in 1982 and MID3064 in 1983) with the height of the dispute culminating in the Falkland/Malvinas War that began on March 1, 1982 (MID3630).
+
+On the Argentine side, the dispute over the Malvinas is one of many territorial disputes Argentina had with its neighbors, particularly Chile. The invasion of the Falklands is generally attributed to the presence of a military government in Argentina that needed a nationalist diversion in the midst of domestic troubles. President Alfonsin's election in October 1983, restored democracy to the country after governance by military junta. Immediately efforts were made by Britain to restore relations with the new government, excluding discussions of sovereignty over the Falklands. In February 1984, President Alfonsin suggested that negotiations on sovereignty be resumed under the auspices of the United Nations, suggesting that while the Argentine position on the Malvinas did not change, the possibilities of resorting to force did seem to decrease with a democratically elected government. This claim is also substantiated by the Argentine pursuit of peaceful negotiations over the Beagle Channel islands dispute with Chile during the same period.
+
+From the British perspective, the Argentine threat appears to be unlikely. Shortly after the war, measures were taken to deter any further militarized incidents. In May 1985, the British secured their commitment to protecting the island by building an all-weather airport designed to allow a permanent capability to rapidly deploy forces in the event of aggressive Argentine action. Added to the permanent garrison the British provided to the island immediately after the war, these two factors certainly presented a much more difficult decision to any government in Argentina contemplating further militarized actions in an effort to resolve the dispute.
+
+Aside from the issues of democratization and British deterence, Argentina would be unlikely to pursue further militarized conflict due to the domestic concerns of its economy along with improved relations with the United Kingdom in all other areas. In terms of its economy, President Alfonsin's administration in 1983 was immediately hit with an economic crisis where the GDP of the country was the same as its GDP in 1974. In addition, the Argentine economy had one of the highest percentages of inflation in the world and was highly in debt. Plans to turn the economy around were unsuccessful in the short term, leading to general strikes by Argentine trade unions in 1985. By the end of 1985, however, the government was able to secure moderate successes with an increase in production and private investment. These successes were trumped by larger failures that resulted in the refusal of the IMF and World Bank to issue more credits to Argentina and the use of most of Argentina's foreign currency reserve by February 1989. These economic conditions destabilized the banking system and consumer prices, leading to food riots in May 1989, growing social disturbances and hyperinflation. Amid these growing concerns, Carlos Menem was elected to the presidency on May 14, 1989. Alfonsin resigned early in July 1989 although he was not due to leave office until December. Under the Menem administration, structural reforms were put in place to quell the crisis and while these achieved limited success, the economy still commanded most of the administration's and country's attention. In 1991, Menem joined with Brazil, Parguay, and Uruguay to form Mercosur, which established a common market between the four countries. The remainder of Menem's administration was relatively stable although the economy continued to be a difficult area to bring under control. In December 1999, Fernando de la Rua began his term as the next elected president of Argentina. Similar to the other presidents before him, de la Rua was forced to focus on economic issues due to continued inflation, debt, and capital flight. In only two years, de la Rua's administration found itself unable to control the economy, leading to riots in protest against increasingly declining economic situations. Unemployment was at 18.3% and the government was facing the possibility of defaulting on its $US 132 billion foreign debt. On December 5, 2001 the IMF froze its loan installment to Argentina. Riots on December 19, 2001 led to over 20 deaths and widespread looting. On December 19, 2001 de la Rua was forced to declare a state of seige to end the rioting. On December 20, 2001 de la Rua resigned from office leaving the National Congress to select President Eduardo Duhalde on January 2, 2002 to take the office. On January 3, 2002 Argentina defaulted on its international loans from the World Bank. On January 15, 2003 Argentina failed to make payment on its loan from the Inter-American Development Bank. On January 16, 2003 Argentina and the IMF reached an agreement that allowed the country to avoid defaulting on its loans. The IMF was the only major creditor with which it had not gone into default. In sum, Argentina lacked the resources to realistically pursue a militarized dispute over the Falklands with the UK even if the desire was there to do so.
+
+After the militarized conflict between the two ended, several years of constant accusations of sovereignty violations were the norm with regard to the relations between the two countries. Upon his inauguration in 1989, Argentine President Carlos Menem immediately tried to get each side to discuss normalizing relations while at the same time expressing a pledge to recover the Malvinas for Argentina. Meetings between the two countries occured in August 1989 in New York and October in Madrid. On February 19, 1990 the two countries agreed to resume diplomatic and full economic relations, further claiming that all hostilities between them no longer existed. This action facilitated discussion on economic cooperation between the two countries with regard to fisheries, communications and energy source exploration in the area. While relations have been restored, the question over sovereignty remains an issue. Public opinion in both Argentina and the United Kingdom is strongly against formally handing over the island to either side, making it a potentially difficult political problem for the two countries to enter into negotiations over sovereignty. Although this makes resolution of the dispute unlikely for the immediate future, the Menem government did acknowledge in 1990 that a resort to force was a mistake in 1982 and that only a peaceful solution was appropriate. On August 27, 1998 Carlos Menem visited the United Kingdom. This was the first official visit by an Argentine leader since 1960. The trip was an effort to further strengthen relations between the two countries. During his visit Menem reasserted the Argentine claim to the Falklands but pledged that the country would never again resort to force to gain control over the islands. On July 14, 1999 the two governments agreed to reinstate Argentine flights between the Falklands and Argentina for the first time since 1982. In Britain, the issue seems to be one where the status quo is preferred compared to any formal changes. Since the end of the war, a lack of Argentine aggression and a dramatic drop in defense spending have seemingly made the issue much less important for the British to formally resolve. The Argentine acknowledgment and British content with the status quo suggests that in terms of militarized conflict the dispute and thus the rivalry has reached a conclusion.
+
+SOURCES-CR:
+Bethell (1993); Smith (1991); *Facts on File* 11/5/98, 8/12/99, 12/31/00, 2/26/02, 7/11/02, 12/26/02; 1/16/03; Lewis (2001); Whitaker (1964); Bethell (1993)
+
+NARRATIVE-PS
+
+19450101-19760204 RIV372-0.25
+
+In 1943 UK suggested to Argentina to bring the dispute over the islands near the Antarctic in front of the International Court of Justice. Argentine refuses this proposal in 1948 and then again in 1951 and 1953. In 1954 UK suggests to set up an ad hoc tribunal to deal with these issues. On September 17, 1946 a trade agreement was negotiated between the two countries. In 1947 and 1948, two disputes involved early claims over islands near the Antarctic prior to the Treaty of Antarctica in 1959. Chile, Argentina and the United Kingdom disputed claims to Graham Land, a group of Antarctic islands in 1947, each sending naval expeditionary forces to stake claim to the island from February to April 1947, MID1698. In January 1948, the three countries ordered naval and army units to the area in an effort to demonstrate a show of force to back up claims to the Antarctic regions, MID2840. On May 4, 1955 UK brings the issue in front of the International Court of Justice. The *United Nations *(UN) General Assembly appealed for peaceful negotiations on December 16, 1965. Argentina and Britain held negotiations in London beginning on July 18, 1966. Argentina and Britain signed travel and communications agreements improving the links between Argentina and the Falkland Islands on July 1, 1971. In April 1973 Britain refused to negotiate the question of sovereignty, arguing that it cannot give up the islands without the consent of the inhabitants. The negotiations ceased. The UN General Assembly appealed for peaceful negotiations on December 14, 1973. From 1965 to 1975 there were three attempted invasions of the Malvines/Falklands Islands from Argentina, none of them sanctioned directly by the government, but rather privately financed. In October 1975 a mission is sent by Britain to investigate the possibilities of exploiting the natural resources of the Falklands. Argentina protests declaring that it has not given official permission. In January 1976 Argentina and Britain withdraw their ambassadors to London and respectively, Buenos Aires. 
+
+19891020-19910301 Transition
+
+Argentina and Britain held bilateral negotiations in Madrid from October 17-19, 1989, and an agreement was reached to formally end hostilities and to resume consular relations. On February 15, 1990 the two countries agreed to resume diplomatic and full economic relations, further claiming that all hostilities between them no longer existed. This action facilitated discussion on economic cooperation between the two countries with regard to fisheries, communications and energy source exploration in the area. While relations have been restored, the question over sovereignty remains an issue. Public opinion in both Argentina and the United Kingdom is strongly against formally handing over the island to either side, making it a potentially difficult political problem for the two countries to enter into negotiations over sovereignty. Although this makes resolution of the dispute unlikely for the immediate future, the Menem government did acknowledge in 1990 that a resort to force was a mistake in 1982 and that only a peaceful solution was appropriate. In various statements on March 1st, 1991 and then again in 1992 and 1993 the Argentine Ministry of Foreign Affairs made it clear that Argentina considers the recovery of the South Atlantic islands through peaceful means a foreign policy priority. 
+
+19910302-20159999 0.5
+
+In 1993 there were diplomatic exchanges over the fishing rights around the islands under dispute. In September 1995, Argentina and UK signed an agreement regarding the extraction of oil near the Falklands/Malvines Islands under dispute. Under the agreement, Britain would obtain 66.6 percent of earnings on any oil or gas discovered in waters to the east of the Falklands, and that Argentina would receive 33.3 percent of the remaining earnings.
+
+In 1997 a treaty of cooperation in the fields of oil extraction and fishing was signed between the two countries. On August 27, 1998 Carlos Menem visited the United Kingdom. This was the first official visit by an Argentine leader since 1960. The trip was an effort to further strengthen relations between the two countries. During his visit Menem reasserted the Argentine claim to the Falklands but pledged that the country would never again resort to force to gain control over the islands. However, the business relations between the two countries strengthen during the visit. Secondly, UK lifted the arms embargo set on Argentina. On July 14, 1999 the two governments agreed to reinstate Argentine flights between the Falklands and Argentina for the first time since 1982 and allowed Argentines to come on Falkland Islands. In November 1999 joint military exercises were held by the two nations in South Atlantic. In 2001, Tony Blair became the first British Prime Minister to make an official visit to Buenos Aires. In March 2002, during a visit by British Defense Secretary Geoffrey Hoon to Argentina, the two countries agreed to enhance military cooperation and to continue their close joint work in peacekeeping missions in Bosnia and Cyprus. In late 2003 Argentina banned flights to the Falklands/Malvines Islands, over its territory, until Britain allows Argentine carriers to fly there, too. In 2006, Argentina has given a warning of "a drastic change" in its quest for sovereignty over the Falklands. It has also accused Britain of bad faith for failing to enter substantive talks on the future of the islands over which the two countries went to war 24 years ago. In 2007, on the anniversary of 25 years since the war over the Falklands/Malvines Islands, the Argentine Vice-President, Daniel Scioli, said that Argentina hopes to regain the islands through peaceful, diplomatic channels. In January 2007, In January, Kirchner sent Foreign Minister Jorge Taiana to lobby U.N. Secretary-General Ban Ki-moon to support new sovereignty talks. Taiana said that Argentina would continue pressing "in all international forums for our rights." In Britain, the issue seems to be one where the status quo is preferred compared to any formal changes. Since the end of the war, a lack of Argentine aggression and a dramatic drop in defense spending have seemingly made the issue much less important for the British to formally resolve. The Argentine acknowledgment and British content with the status quo suggests that in terms of militarized conflict, the possibility of a dispute is inexistent. However, even though only a negotiated peaceful resolution of the issue is envisioned, the issue of conflict, over the sovereignty of Falklands/Malvines Islands is not solved yet.
+
+PS-SOURCES: The Economist (1975), Fitte(1968), Smith(1991), United Press International 07/10/1985, Latin American Markets 08/11/1989, The Independent 10/18/1989, New York Times 07/29/1989, 09/20/1995, The Associated Press 08/16/1989, 02/16/1990, Financial Times 01/08/1993, 10/24/1998, EFE News Service 02/23/2001, Xinhua 03/15/2002, The Hindu 08/23/1999, Agence France Presse 02/15/2004, 03/28/2007, Associated Press Worldstrean 04/02/2007, The Times 06/27/2006
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+

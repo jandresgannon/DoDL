@@ -1,0 +1,53 @@
+FILE: cm020235v11.0.txt
+DYAD: CANADA-PORTUGAL
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20170726
+PS-LAST-CHECKED: 20170726
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4550 
+
+TERRMID: MID4550 3 -- not territory
+TERRMID-CER: MID4550 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4550 3 -- not third party link to territory 
+TERRLINK-CER: MID4550 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4550 3 -- not maritime 
+MARITMID-CER: MID4550 1 -- certain
+MARITMID-NOTES: MID4450 from cm narrative, a Canadian patrol boat seized a Portuguese fishing vessel, claiming that the boat was fishing in Canadian waters. Portugal protested, claiming the boat was in international waters. Occurred 5/29/2005-6/1/2005. Coded not maritime because Canada and Portugal did not dispute the maritime boundary, and this was an issue of whether the Portuguese vessel was located in the waters that both agreed Canada owned. 
+
+ISLMID: MID4550 3 -- not islands 
+ISLMID-CER: MID4550 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4550 3 -- not civil war 
+CIVWARMID-CER: MID4550 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4550 3 -- not civil war link
+CIVWARLINK-CER: MID4550 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4550 3 -- not coup 
+COUPMID-CER: MID4550 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4550 3 -- not coup link
+COUPLINK-CER: MID4550 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4550
+rivalry=20235 nationa=CANADA nationb=PORTUGAL MID4550 20050529-20050601 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+A Canadian patrol boat seized a Portuguese fishing vessel, claiming that the boat was fishing in Canadian waters. Portugal protested, claiming the boat was in international waters. First day of dispute was on 5/29/2005 and last day of dispute was on 6/1/2005.

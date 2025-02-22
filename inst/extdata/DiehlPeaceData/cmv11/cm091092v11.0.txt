@@ -1,0 +1,320 @@
+FILE: cm091092v11.0.txt
+DYAD: HONDURAS-EL SALVADOR
+RIVALRY: RIV10216
+DISPUTE(S): MID1204 MID1176
+RIVALRY: RIV218
+DISPUTE(S): MID1206 MID1190 MID2352 MID3904 MID4010
+RIVNOTES: 
+
+PS: 19009999-19671231 .25 19680101-19690623 -9 19690624-19980119 0.00 19980120-20060418 0.25 20060419-20209999 .50
+
+PS-UPDATE2020:
+
+PS NOTES: this is a thompson rivalry, cm091092 ,18400000 ,19920000 
+
+PS-LAST-CHANGED: 20220217
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1204 
+
+TERRMID: MID1204 3 -- not territory
+TERRMID-CER: MID1204 1 -- certain 
+TERRMID-NOTES: MID1204 Honduras and El Salvador later dispute their border, meaning that the border is unsettled at this time. Nonetheless, this MID does not concern the border, but rather El Salvadorian support for rebel groups with Honduras. 
+
+TERRLINK: MID1204 3 -- not third party link to territory 
+TERRLINK-CER: MID1204 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1204 3 -- not maritime 
+MARITMID-CER: MID1204 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1204 3 -- not islands 
+ISLMID-CER: MID1204 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1204 1 -- civil war MID
+CIVWARMID-CER: MID1204 1 -- certain
+CIVWARMID-NOTES: MID1204 from cm narrative, this MID was triggered by El Salvadorian forces entering Honduras to help fight against liberal rebels fighting against the Honduran government. Coded civil war MID because civil conflict in Honduras led to El Salvador crossing the border and fighting the rebels. 
+
+CIVWARLINK: MID1204 1 -- civil war link
+CIVWARLINK-CER: MID1204 1 -- certain
+CIVWARLINK-NOTES: MID1204 coded civil war link because this MID also involves insurgent forces fighting in Guatemala and Nicaragua, outside of this dyad. 
+
+COUPMID: MID1204 3 -- not coup 
+COUPMID-CER: MID1204 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1204 3 -- not coup link
+COUPLINK-CER: MID1204 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1176 
+
+TERRMID: MID1176 3 -- not territory
+TERRMID-CER: MID1176 1 -- certain 
+TERRMID-NOTES: MID1176 this MID occurred in 1920, two years after the countries began disputing their border. However, this is coded not territorial because it is not connected to that dispute. El Salvador intervened in Honduras when the Honduran President solicited assistance in fighting against an opposition force led by General Rafael Gutierrez. See CIVWARMID and COUPMID. 
+
+TERRLINK: MID1176 3 -- not third party link to territory 
+TERRLINK-CER: MID1176 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1176 3 -- not maritime 
+MARITMID-CER: MID1176 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1176 3 -- not islands 
+ISLMID-CER: MID1176 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1176 1 -- civil war MID
+CIVWARMID-CER: MID1176 1 -- certain
+CIVWARMID-NOTES: MID1176 from cm narrative, this MID was triggered when El Salvador intervened in Honduras after the Honduran President solicited assistance in fighting against an opposition force led by General Rafael Gutierrez. Coded civil war MID because civil conflict in Honduras led to El Salvador intervening, triggering this MID. 
+
+CIVWARLINK: MID1176 3 -- not civil war link
+CIVWARLINK-CER: MID1176 1 -- certain
+CIVWARLINK-NOTES: MID1176 no civil conflict outside of this dyad is connected to this MID. 
+
+COUPMID: MID1176 1 -- coup MID
+COUPMID-CER: MID1176 1 -- certain 
+COUPMID-NOTES: MID1176 unlike civil conflicts in Central America in the early 20th century, this civil conflict in Honduras was not fought by conservative/liberal rebel groups, but was rather led by a Honduran military elite, General Rafael Gutierrez. Coded coup MID because a military elite was attempting to overthrow the government. The military is also leading an armed militarized group against the government, creating civil conflict.
+
+COUPLINK: MID1176 3 -- not coup link
+COUPLINK-CER: MID1176 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1206 
+
+TERRMID: MID1206 1 -- territorial MID
+TERRMID-CER: MID1206 1 -- certain 
+TERRMID-NOTES: MID1206 from cm narrative, Honduras expelled 300,000 Salvadorians from Honduran territory in 1969. This was connected to tensions over the disputed border and caused a diplomatic crisis between the countries, leading first to border skirmishes and then to war. Coded territorial MID because the fighting was connected to the border dispute.
+
+TERRLINK: MID1206 3 -- not third party link to territory 
+TERRLINK-CER: MID1206 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1206 3 -- not maritime 
+MARITMID-CER: MID1206 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1206 3 -- not islands 
+ISLMID-CER: MID1206 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1206 3 -- not civil war 
+CIVWARMID-CER: MID1206 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1206 3 -- not civil war link
+CIVWARLINK-CER: MID1206 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1206 3 -- not coup 
+COUPMID-CER: MID1206 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1206 3 -- not coup link
+COUPLINK-CER: MID1206 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1190 
+
+TERRMID: MID1190 1 -- territorial MID
+TERRMID-CER: MID1190 1 -- certain 
+TERRMID-NOTES: MID1190 from cm narrative, this is a series of border skirmishes that occurred in 1976. Coded territorial MID because the border skirmishes directly result from their inability to delimit the border. 
+
+TERRLINK: MID1190 3 -- not third party link to territory 
+TERRLINK-CER: MID1190 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1190 3 -- not maritime 
+MARITMID-CER: MID1190 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1190 3 -- not islands 
+ISLMID-CER: MID1190 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1190 3 -- not civil war 
+CIVWARMID-CER: MID1190 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1190 3 -- not civil war link
+CIVWARLINK-CER: MID1190 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1190 3 -- not coup 
+COUPMID-CER: MID1190 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1190 3 -- not coup link
+COUPLINK-CER: MID1190 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2352 
+
+TERRMID: MID2352 1 -- territorial MID
+TERRMID-CER: MID2352 1 -- certain 
+TERRMID-NOTES: MID2352 from cm narrative, Honduras and El Salvador agreed to submit their border dispute to the ICJ for arbitration. While the case was at the ICJ, two MIDs occurred at the disputed border. This is one of those MIDs and occurred 7/10/1985. Coded territorial MID because the border was not yet delimited and the clash occurred because of tensions about the disputed border.
+
+TERRLINK: MID2352 3 -- not third party link to territory 
+TERRLINK-CER: MID2352 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2352 3 -- not maritime 
+MARITMID-CER: MID2352 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2352 3 -- not islands 
+ISLMID-CER: MID2352 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2352 3 -- not civil war 
+CIVWARMID-CER: MID2352 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2352 3 -- not civil war link
+CIVWARLINK-CER: MID2352 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2352 3 -- not coup 
+COUPMID-CER: MID2352 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2352 3 -- not coup link
+COUPLINK-CER: MID2352 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3904 
+
+TERRMID: MID3904 1 -- territorial MID
+TERRMID-CER: MID3904 1 -- certain 
+TERRMID-NOTES: MID3904 from cm narrative, Honduras and El Salvador agreed to submit their border dispute to the ICJ for arbitration. While the case was at the ICJ, two MIDs occurred at the disputed border. This is one of those MIDs and occurred 5/23/1989. Coded territorial MID because the border was not yet delimited and the clash occurred because of tensions about the disputed border.
+
+TERRLINK: MID3904 3 -- not third party link to territory 
+TERRLINK-CER: MID3904 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3904 3 -- not maritime 
+MARITMID-CER: MID3904 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3904 3 -- not islands 
+ISLMID-CER: MID3904 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3904 3 -- not civil war 
+CIVWARMID-CER: MID3904 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3904 3 -- not civil war link
+CIVWARLINK-CER: MID3904 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3904 3 -- not coup 
+COUPMID-CER: MID3904 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3904 3 -- not coup link
+COUPLINK-CER: MID3904 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4010 
+
+TERRMID: MID4010 1 -- territorial MID
+TERRMID-CER: MID4010 1 -- certain 
+TERRMID-NOTES: MID4010 from cm narrative, this MID occurred after the ICJ decision settled the border delimitation dispute in 1992. On 1/26/1993, the Honduran army began a deployment in part of the (formerly) disputed territory and set up military checkpoints, prompting protests from El Salvador who claimed that Honduras' actions violated the ICJ decision. Coded territorial MID because, although the border had become recently delimited via the ICJ, this MID occurred due to the territory that had been disputed. It seems that not enough time had passed to ease the tensions over the border. 
+
+TERRLINK: MID4010 3 -- not third party link to territory 
+TERRLINK-CER: MID4010 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4010 3 -- not maritime 
+MARITMID-CER: MID4010 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4010 3 -- not islands 
+ISLMID-CER: MID4010 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4010 3 -- not civil war 
+CIVWARMID-CER: MID4010 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4010 3 -- not civil war link
+CIVWARLINK-CER: MID4010 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4010 3 -- not coup 
+COUPMID-CER: MID4010 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4010 3 -- not coup link
+COUPLINK-CER: MID4010 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4010
+rivalry=91092 nationa=HONDURAS nationb=EL SALVADOR MID4010 19930126-19930220 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Honduras and El Salvador had a long-running territorial claim that was submitted to the World Court. Following the Court's 1992 that awarded Honduras some of the disputed territory, Honduras agreed not to militarize the area due to its predominantly Salvadoran population. In January of 1993, the Honduran army was reported to be militarizing the territory and setting up checkpoints by the residents of Nahuaterique. El Salvador sent a protest note to Honduras in February. A year later, on September 10, 1994, the Presidents of Honduras and El Salvador met to draw up a new border based on the 1992 World Court ruling. The negotiations ended with the creation of a commission. By November 1994 the Honduran Defense Minister announced that tensions on the border had decreased significantly. In December 1994, both countries agreed to complete the demarcation of some 50 kilometers of their border by February 1995. During the process El Salvador continued patrols on the border to prevent incidents. First day of dispute was on 1/26/1993 and last day of dispute was on 2/20/1993.
+
+NARRATIVE-CM:
+El Salvador and Honduras disputed their territorial border and maritime border in the Gulf of Fonseca beginning in June 1861. Honduran and Salvadoran representatives signed a border agreement on July 1, 1861, which provided for the appointed of two commissioners to settle the dispute. Honduran and Salvadoran representatives signed a peace treaty in Santa Rosa, El Salvador on March 25, 1862. Honduras declared itself in a "state of defensive war" against El Salvador on March 25, 1872, and El Salvador responded by declaring war against Honduras on April 25, 1872. Honduran and Salvadoran representatives signed a peace treaty in Tegucigalpa on March 31, 1878. Honduran and Salvadoran representatives signed a border convention in Tegucigalpa on December 18, 1880, which provided for the submission of the dispute to the president of Nicaragua for arbitration. Honduran and Salvadoran representatives signed a maritime border demarcation agreement on April 10, 1884, but the agreement was rejected by the Honduran Congress on February 7, 1885. The countries signed a border convention in Tegucigalpa on September 28, 1886, which provided for the establishment of a mixed commisson to demarcate the border. Honduran and Salvadoran representatives signed a border convention in San Salvador on January 19, 1895, but the convention was not ratified by the countries. The mixed border commission expired on September 24, 1916. Honduran and Salvadoran representatives signed a border convention in Tegucigalpa on April 5, 1918, which provided for the establishment of a mixed border commission to resolve the "pending doubts and difficulties as to the common land frontier" and to demarcate the "dividing line which indicates the frontier boundary of the two Republics." Honduras decided to deport Salvadoran migrants to El Salvador as a result of a land reform program in Honduras beginning on April 30, 1969. El Salvador accused Honduras of human rights abuses after some 14,000 Salvadorans had been deported from Honduras, and declared a state-of-siege on June 24, 1969. El Salvador severed diplomatic relations with Honduras on June 26, 1969, and Honduras severed diplomatic relations with El Salvador on June 27, 1969. The OAS *Inter-American Commission on Human Rights *(IACHR) sent a fact-finding mission, including Manual Bianchi of Chile and Justino Jimenez of Uruguay, to the region on June 27, 1969. Costa Rica, Guatemala, and Nicaragua, representing the *Central American Common Market *(CACM), offered to mediate negotiations between the parties on June 27, 1969, and the countries accepted the mediation offer on June 28, 1969. El Salvador accused Honduran military aircraft of violating Salvadoran airspace on July 3, 1969, and Honduras referred the matter to the *Organization of American States* (OAS) on July 4, 1969. Colombia offered to mediate the dispute on July 7, 1969. Honduran troops and Salvadoran troops clashed near the border on July 11, 1969, resulting in the deaths of four Salvadoran soldiers. Some 2,500 Salvadoran troops invaded Honduras beginning on July 14, 1969. The OAS Permanent Council established a seven-member conciliation committee (Argentina, Costa Rica, Dominican Republic, Ecuador, Guatemala, Nicaragua, United States) headed by Guillermo Sevilla Sacasa of Nicaragua on July 14, 1969. The Vatican (Pope Paul VI) appealed for a ceasefire on July 15 and July 18, 1969. The OAS Permanent Council appealed for a ceasefire and the withdrawal of Salvadoran troops from Honduras on July 18, 1969. A ceasefire went into effect on July 20, 1969, but El Salvador refused to withdraw its troops from Honduras. OAS foreign ministers threatened El Salvador with diplomatic and economic sanctions on July 23, 1969. The OAS IACHR issued a report on July 24, 1969, which charged Honduras with a "wave of acts of aggression and unrestrained violence against Salvadorans" residing in Honduras. The OAS conciliation commission ended its efforts on July 26, 1969, and OAS foreign ministers appointed the foreign ministers of Colombia, Paraguay, and Peru as mediators on July 27, 1969. El Salvador agreed to withdraw its troops from Honduras on July 30, 1969, and completed its troop withdrawal from Honduras on August 4, 1969. Some 2,000 individuals, including 250 Honduran and Salvadoran soldiers, were killed during the conflict, and some 40,000 Salvadorans fled as refugees from Honduras during the conflict. The OAS deployed thirty-two military observers from the Argentina, Costa Rica, Dominican Republic, Ecuador, Guatemala, Nicaragua, and the US in the region on July 18, 1969. Some 20,000 Salvadorans fled as refugees from Honduras between September 8 and November 1, 1969. CACM representative, Jose Antonio Mora, facilitated negotiations between Honduran and Salvadoran representatives in San Jose, Costa Rica beginning on January 26, 1970. Honduran troops and Salvadoran troops clashed near the border between January 29 and February 5, 1970, resulting in the deaths of four Salvadoran soldiers. Honduran and Salvadoran representatives signed the *Pact of San Jose* in San Jose, Costa Rica on June 4, 1970, which provided for a three-kilometer wide demilitarization zone on each side of the border. Honduran troops and Salvadoran troops clashed near the border on April 30, 1971, resulting in the death of one Honduran soldier. The OAS military observation mission was withdrawn from the region in December 1971. Salvadoran and Honduran troops resumed military hostilities on July 13, 1976. ODECA representatives mediated a ceasefire agreement in August 1976. Honduran and Salvadoran representatives signed the* Act and Protocol of Managua* on August 9, 1976, which provided for the peaceful resolution of the dispute and the deployment of OAS military observers in the region. The OAS deployed 28 military observers from twelve countries on the border in August 1976. Honduran and Salvadoran representatives signed a convention in Washington DC on October 6, 1976, which provided for the appointment of a mediator. Honduran and Salvadoran representatives held negotiations in Lima, Peru beginning on January 18, 1978, and Jose Luis Bustamante Rivero of Peru was appointed as mediator in the dispute. Jose Luis Bustamante Rivero began his mediation efforts on April 3, 1978. Foreign Minister Fidel Chavez Mena of El Salvador and Foreign Minister Cesar Elvir Sierra of Honduras signed a peace agreement in Lima, Peru on October 30, 1980, which called for the demarcation of the border by a joint border commission and for the submission of remaining border disagreements to the *International Court of Justice* (ICJ). The OAS military observation mission was withdrawn from the region in November 1980, and the countries re-opened the border on December 11, 1980. A joint border commission convened on July 20, 1982. The presidents of El Salvador and Honduras agreed to submit the border dispute to the ICJ on May 24, 1985, and the countries formally submitted the dispute to the ICJ on December 11, 1986. Honduran troops and Salvadoran troops clashed near the border on May 23-29, 1989. The ICJ constituted a five-judge chamber on May 8, 1987, and issued a decision in the case on September 11, 1992. In September 1995 another incident occurred in a border area, in which the Salvadorian police arrested two nationals of Honduras on the pretenses that the town of Cayaguanca is part of El Salvador and not of Honduras. However, the biggest obstacle the two countries were facing in the mid-1990s was the issue of dual nationality, which El Salvador requests for the Salvadorans who remained in Honduran territory after the ICJ ruling which gave about two-thirds of the contested territory to Honduras. In 1995 a Binational Judicial Commission was set up to deal with the issue of the Salvadorian residents in the territory the ICJ gave to Honduras. In the meantime the Binational Demarcation Commission continued its work to set the border as specified by the ICJ. The border problems continued in the following years with a deployment of Honduran troops to the border in February 1997, when there was an issue with the rights to cut logs in the area. The countries agreed to complete the demarcation of the border on January 19, 1998. 
+
+SOURCES-CM: 
+Allock, et al, 1992, 591-595; Anderson 1981; Brecher and Wilkenfeld, 1997, 514-515; Butterworth, 1976, 438-441; Cable, 1969, 658-671; Clodfelter, 1992, 1168; *Facts on File*, July 10-16, 1969, July 17-23, 1969, July 24-30, 1969, July 31-August 6, 1969, February 5-11, 1970; *Foreign Broadcast Information Service *(FBIS), January 4, 1978, January 25, 1978, October 29, 1980, October 31, 1980; Ireland, 1941, 144-159; *Keesing*, January 23, 1981; *New York Times* (NYT), June 28, 1969, July 15, 1969, July 16, 1969, July 17, 1969, July 18, 1969, July 19, 1969, July 20, 1969, July 21, 1969, July 22, 1969, July 23, 1969, July 24, 1969, July 27, 1969, July 28, 1969, July 30, 1969, November 14, 1969, January 31, 1970, January 20, 1998; Nye, 1971, 146-147; Reid-Martz 1978; Schooley, 1987, 38-40; Tillema, 1991, 27-28; Weisburd, 1997, 269-270.
+
+NARRATIVE-CR:
+The rivalry between Honduras and El Salvador has been over disputed territory, with both countries unable to agree to a border delineation since 1918. The first two mids between them in 1907 and 1920, MID1204 and MID1176, respectively, do not fall within the context of the rivalry. In 1907, El Salvadoran troops entered Honduras to assist the Bonila government in fighting a liberal rebellion. The effort was unsuccessful. In 1920, El Salvador also attempted to intervene in Honduras when Honduran President, Francisco Bertrand solicited assistance in fighting an opposition force led by General Rafael Gutierrez. This intervention was also unsuccessful. 
+
+The current rivalry between Honduras and El Salvador began in 1969 after Honduras created a large scale refugee problem for El Salvador when it expelled over 300,000 Salvadoreans living in territory claimed by Honduras. This caused an immediate break of diplomatic relations between the countries and border skirmishes that led to war, MID1206. Since 1969, the two countries have been unable to halt these skirmishes because of their inability to delimit their border, MID1190.
+
+In 1980, the two countries signed the Lima Peace Treaty that supposedly settled the border dispute, calling for the demarcation of the border by a joint border commission and for the submission of remaining border disagreements to the *International Court of Justice* (ICJ). The presidents of El Salvador and Honduras agreed to submit the border dispute to the ICJ on May 24, 1985, and the countries formally submitted the dispute to the ICJ on December 11, 1986. In the interim period, Honduran and Salvadoran troops clashed near the border on July 10, 1985 and May 23,1989, MID2352, MID3904. The ICJ constituted a five-judge chamber on May 8, 1987, and issued a decision in the case on September 11, 1992 that favored Honduras. Both countries agreed to abide by the decision. On January 26, 1993 the Honduran army began a deployment in Nahuaterique, part of the disputed territory given to Honduras in the ICJ decision, MID4010. In doing so, the military established border checkpoints as well. El Salvador protested the militarization of the region, claiming it violated the spirit of the ICJ decision. In September 1995 another incident occurred in a border area, in which the Salvadorian police arrested two nationals of Honduras on the pretenses that the town of Cayaguanca is part of El Salvador and not of Honduras. However, the biggest obstacle the two countries were facing in the mid-1990s was the issue of dual nationality, which El Salvador requests for the Salvadorans who remained in Honduran territory after the ICJ ruling which gave about two-thirds of the contested territory to Honduras. In 1995 a Binational Judicial Commission was set up to deal with the issue of the Salvadorian residents in the territory the ICJ gave to Honduras. In the meantime the Binational Demarcation Commission continued its work to set the border as specified by the ICJ. The border problems continued in the following years with a deployment of Honduran troops to the border in February 1997, when there was an issue with the rights to cut logs in the area. The countries agreed to complete the demarcation of the border on January 19, 1998. This incident does not seem to be of major significance, however, with both countries still having pledged to abide by the ruling. The countries agreed to complete the demarcation of the border on January 19, 1998. Despite the agreement to complete the demarcation, it has not taken place as of June 2003. El Salvador and Honduras have made an effort at cooperative initiatives on the border. Both signed an accord in 1999 covering the treatment of their nationals in the others' territory. The accord included a creation of a joint monitoring commission for accountability. This was followed, however, with another border incident on November 29, 2000 that both countries downplayed as isolated. This incident is not included in the MID 3.0 dataset. The two countries also signed an accord in July 2001 that provided $31 million to improve the quality of life on the border between the countries. Nonetheless, tensions between the two countries flared shortly therafter in August 2001 when Honduras expelled two El Salvadorean army officers for spying. On January 11, 2003 Honduras threatened to call for UN intervention if El Salvador continued to delay the demarcation. Although it does appear as if the two countries are close to settling their border dispute, given their history and the fact that both countries are additionally involved in a three party dispute to claims of the Gulf of Fonseca, there is no guarantee that this rivalry is going to whither and remain free of military conflict. 
+
+SOURCES-CR: 
+Allock et al (1992);*Facts on File* July 7-10, 1969, July 17-23, 1969, July 24-30, 1969, July 31-August 6, 1969, February 5-11, 1970, ; Xinhua News Service 1/12/03; *Financial Times* 7/21/01; Associated Press 8/16/01; *Latin America Regional Reports* 12/5/00; *New York Times* 7/11/85, 5/24/89; Merrill 1993; BBC 2/25/93
+
+NARRATIVE-PS
+
+19180405-19671231 0.5
+
+The rivalry between Honduras and El Salvador has been over disputed territory. However the first two MIDs between them, in 1907 and 1920, MID1204 and MID1176, respectively, do not fall within the context of the rivalry. In 1907, El Salvadoran troops entered Honduras to assist the Bonila government in fighting a liberal rebellion. The effort was unsuccessful. In 1920, El Salvador also attempted to intervene in Honduras when Honduran President, Francisco Bertrand solicited assistance in fighting an opposition force led by General Rafael Gutierrez. This intervention was also unsuccessful. 
+
+On the border dispute, the mixed border commission, set up in 1886, expired on September 24, 1916. Honduran and Salvadoran representatives signed a border convention in Tegucigalpa on April 5, 1918, which provided for the establishment of a mixed border commission to resolve the "pending doubts and difficulties as to the common land frontier" and to demarcate the "dividing line which indicates the frontier boundary of the two Republics." Both countries were unable to agree to a border delineation ever since.
+
+In December 1949 the border dispute was still present on the agenda, with El Salvador stopping an attempt by Honduras to build border monuments, on the claim that part of the territory belongs to El Salvador as do some of the islands in the Gulf of Fonseca. In 1951, the two countries were part of 5 Central American states that established the Organization of Central American States. In 1953 a trade agreement was signed between El Salvador and Honduras which allowed for duty-free exports between the two countries under certain conditions. In the following two years cordial relations developed between the two countries with a high number of ministerial visits and very close diplomatic relations as shown by the statements of friendship and cooperation towards one another. However, in 1955 a number of trade disputes over cotton and shoes erupted. In July 1965 a mixed commission was set up to deal with the deportation issue of the illegal immigrants who travel and work between the two countries. 
+
+19680131-19690623 Transition
+
+During January 1968, the political situation deteriorated, the Honduran government and some private groups came increasingly to place blame for the nation's economic problems on the approximately 300,000 undocumented Salvadoran immigrants in Honduras. Honduras began to associate Salvadoran immigrants with illegal land invasions, and in January 1969, the 1967 Bilateral Treaty on Immigration with El Salvador was not renewed. This treaty was designed to regulate the flow of individuals across the border. Even though there are not many accounts of the border dispute between El Salvador and Honduras for the period 1945-mid 1969, the dispute continued to be an underlying issue of contention and was always present on the foreign relations agenda between the two countries. El Salvador accused Honduras of human rights abuses after some 14,000 Salvadorans had been deported from Honduras, and declared a state-of-siege on June 24, 1969. The first MID of RIV218, MID1206, started on 19690624.
+
+19980120-20060418 0.25
+
+The last MID of RIV218, MID4010, ended on 19930220. However, the problems with the border demarcation continued until 1998 when the two countries agreed to complete the demarcation of the border on January 19, 1998. During hurricane Mitch in January 1998 in Honduras and in 2001 during the earthquake that caused chaos in El Salvador, both countries offered humanitarian help to each other. El Salvador and Honduras have made an effort at cooperative initiatives on the border. Both signed an accord in 1999 covering the treatment of their nationals in the others' territory. The accord included a creation of a joint monitoring commission for accountability. This was followed, however, with another border incident on November 29, 2000 that both countries downplayed as isolated. This incident is not included in the MID 3.0 dataset. In 2001 another incident in the long-standing dispute the two countries, in which two Salvadorian diplomats were expulsed out of the country on grounds of espionage. Despite the agreement to complete the border demarcation, it has not taken place as of June 2003. The two countries also signed an accord in July 2001 that provided $31 million to improve the quality of life on the border between the countries. Nonetheless, tensions between the two countries flared shortly thereafter in August 2001 when Honduras expelled two Salvadorian army officers for spying. On January 11, 2003 Honduras threatened to call for UN intervention if El Salvador continued to delay the demarcation. On 16 April 2006 the border demarcation between El Salvador and Honduras was finished however the dispute still lingers because of the decision of the two presidents to build a dam on the Lempa River which is a natural border between the countries. 
+
+PS-SOURCES: BBC, 09/13/1995; BBC 02/16/1996; Miami Herald 02/23/1997; BBC 03/06/1997; EFE News Service, 01/15/2001; Xinhua 08/16/2001; Xinhua 08/21/2001; New York Times 12/5/1949; 12/13/1951; 05/17/1955; 08/01/1965; Asia Water Wire, 2006; Narrative-CR; Narrative-CM, Presidency of El Salvador (1955)
+
+20060419-20159999 .50
+
+After ruling by ICJ in 2003 requesting review of boundaries established by 1992 decision, Honduran President Manuel Zelaya and El Salvadoran President Tony Saca settle the delineation of the last four miles of the 145 mile border in a meeting on April 18, 2006. 
+
+PS-SOURCES: https://www.cia.gov/library/publications/the-world-factbook/fields/2070.html; http://news.bbc.co.uk/2/hi/americas/1220818.stm; https://books.google.com/books?id=UmNCDgAAQBAJ&pg=PA638&lpg=PA638&dq=honduras+el+salvador+2006+border+dispute&source=bl&ots=tGlMjsxD8y&sig=zyx2sPpp4u9tLJl5D-dNlkaVgNo&hl=en&sa=X&ved=0ahUKEwiPpKDlvJLTAhUEyGMKHW_UAa0Q6AEIUjAN#v=onepage&q&f=false
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

@@ -1,0 +1,697 @@
+FILE: cm365385v11.0.txt
+DYAD: RUSSIA/USSR-NORWAY
+RIVALRY: RIV991
+DISPUTE(S): MID3225 MID3223 MID2848 MID253 MID2939 MID3606 MID2226 MID3067 MID2827 MID4321 MID4335 MID4238 MID4342 
+
+PS: 19050607-19450506 0.5 19450507-19891108 0.25 19891109-19911226 -9 19911227-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220305 
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3225 
+
+TERRMID: MID3225 3 -- not territory 
+TERRMID-CER: MID3225 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3225 3 -- not third party link to territory 
+TERRLINK-CER: MID3225 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3225 1 -- maritime MID
+MARITMID-CER: MID3225 1 -- certain 
+MARITMID-NOTES: MID3225 from Gibler 2018, Norway seized several Soviet fishing boats in Norwegian territorial waters in 1956. Coded maritime MID because, as noted in a 1957 Norway-USSR Treaty, their maritime boundary had not yet been delimited. They therefore had a maritime dispute. Per cm narrative, this resulted in numerous fishing-related incidents.
+
+ISLMID: MID3225 3 -- not islands 
+ISLMID-CER: MID3225 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3225 3 -- not civil war 
+CIVWARMID-CER: MID3225 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3225 3 -- not civil war link 
+CIVWARLINK-CER: MID3225 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3225 3 -- not coup 
+COUPMID-CER: MID3225 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3225 3 -- not coup link
+COUPLINK-CER: MID3225 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3223 
+
+TERRMID: MID3223 3 -- not territory 
+TERRMID-CER: MID3223 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3223 3 -- not third party link to territory 
+TERRLINK-CER: MID3223 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3223 1 -- maritime MID
+MARITMID-CER: MID3223 3 -- uncertain 
+MARITMID-NOTES: MID3223 From Gibler, Miller, and Little 2016, a Norwegian ship fired at Soviet trawlers illegally fishing in Norwegian waters. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. Coded uncertain because GML argue this case should be dropped since the Soviets did not protest. 
+
+ISLMID: MID3223 3 -- not islands 
+ISLMID-CER: MID3223 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3223 3 -- not civil war 
+CIVWARMID-CER: MID3223 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3223 3 -- not civil war link 
+CIVWARLINK-CER: MID3223 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3223 3 -- not coup 
+COUPMID-CER: MID3223 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3223 3 -- not coup link
+COUPLINK-CER: MID3223 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2848 
+
+TERRMID: MID2848 3 -- not territory 
+TERRMID-CER: MID2848 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2848 3 -- not third party link to territory 
+TERRLINK-CER: MID2848 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2848 1 -- maritime MID
+MARITMID-CER: MID2848 3 -- uncertain 
+MARITMID-NOTES: MID2848 from Gibler, Miller, and Little 2016, the Norwegian navy seized a Soviet trawler in Norwegian territorial waters. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. Coded uncertain because GML argue this case should be dropped since the Soviets did not protest. 
+
+ISLMID: MID2848 3 -- not islands 
+ISLMID-CER: MID2848 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2848 3 -- not civil war 
+CIVWARMID-CER: MID2848 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2848 3 -- not civil war link 
+CIVWARLINK-CER: MID2848 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2848 3 -- not coup 
+COUPMID-CER: MID2848 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2848 3 -- not coup link
+COUPLINK-CER: MID2848 1 -- certain 
+COUPLINK-NOTES: 
+
+MID253 
+
+TERRMID: MID253 3 -- not territory 
+TERRMID-CER: MID253 1 -- certain 
+TERRMID-NOTES: MID253 from Gibler 2018, in 1960 the Soviets downed a US recon plane and detained the 4 crew members. The Soviets protested US actions in Soviet airspace and attempted to pursue a solution through the UN. They were, however, blocked from doing so. Norway is pulled into this MID because they supported the US and allowed the US to use their territory for bases from which to fly the recon flights. Coded not territory because they were not disputing territory. 
+
+TERRLINK: MID253 3 -- not third party link to territory 
+TERRLINK-CER: MID253 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID253 3 -- not maritime 
+MARITMID-CER: MID253 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID253 3 -- not islands 
+ISLMID-CER: MID253 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID253 3 -- not civil war 
+CIVWARMID-CER: MID253 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID253 3 -- not civil war link 
+CIVWARLINK-CER: MID253 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID253 3 -- not coup 
+COUPMID-CER: MID253 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID253 3 -- not coup link
+COUPLINK-CER: MID253 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2939 
+
+TERRMID: MID2939 3 -- not territory 
+TERRMID-CER: MID2939 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2939 3 -- not third party link to territory 
+TERRLINK-CER: MID2939 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2939 1 -- maritime MID
+MARITMID-CER: MID2939 3 -- uncertain 
+MARITMID-NOTES: MID2939 from Gibler, Miller, and Little 2016, Norway seized Soviet trawlers illegally fishing in Norwegian waters. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. Coded uncertain because GML argue this case should be dropped since the Soviets did not protest. 
+
+ISLMID: MID2939 3 -- not islands 
+ISLMID-CER: MID2939 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2939 3 -- not civil war 
+CIVWARMID-CER: MID2939 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2939 3 -- not civil war link 
+CIVWARLINK-CER: MID2939 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2939 3 -- not coup 
+COUPMID-CER: MID2939 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2939 3 -- not coup link
+COUPLINK-CER: MID2939 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3606 
+
+TERRMID: MID3606 3 -- not territory 
+TERRMID-CER: MID3606 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3606 3 -- not third party link to territory 
+TERRLINK-CER: MID3606 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3606 1 -- maritime MID
+MARITMID-CER: MID3606 1 -- certain 
+MARITMID-NOTES: MID3606 from Gibler 2018, Norway protested many violations of their territorial waters by the Soviet Union in 1978, and later deployed more ships to guard against further violations. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. 
+
+ISLMID: MID3606 3 -- not islands 
+ISLMID-CER: MID3606 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3606 3 -- not civil war 
+CIVWARMID-CER: MID3606 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3606 3 -- not civil war link 
+CIVWARLINK-CER: MID3606 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3606 3 -- not coup 
+COUPMID-CER: MID3606 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3606 3 -- not coup link
+COUPLINK-CER: MID3606 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2226 3 -- not maritime
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: MID2226 from cm narrative, this involves a show of ships, or a mutual display of naval power, between the USSR and several NATO countries, including Norway. Coded not maritime because, although Norway and USSR did have an undelimited maritime boundary, this MID is not connected to that boundary, but rather to Norway's alliance with the US during the Cold War and a US-orchestrated show of force against the USSR. 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3067 
+
+TERRMID: MID3067 3 -- not territory 
+TERRMID-CER: MID3067 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3067 3 -- not third party link to territory 
+TERRLINK-CER: MID3067 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3067 1 -- maritime MID
+MARITMID-CER: MID3067 1 -- certain 
+MARITMID-NOTES: MID3067 from Gibler 2018, Norway attacked a Soviet submarine in its territorial waters. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. 
+
+ISLMID: MID3067 3 -- not islands 
+ISLMID-CER: MID3067 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3067 3 -- not civil war 
+CIVWARMID-CER: MID3067 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3067 3 -- not civil war link 
+CIVWARLINK-CER: MID3067 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3067 3 -- not coup 
+COUPMID-CER: MID3067 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3067 3 -- not coup link
+COUPLINK-CER: MID3067 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2827 
+
+TERRMID: MID2827 3 -- not territory 
+TERRMID-CER: MID2827 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2827 3 -- not third party link to territory 
+TERRLINK-CER: MID2827 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2827 1 -- maritime MID
+MARITMID-CER: MID2827 1 -- certain 
+MARITMID-NOTES: MID2827 from Gibler 2018, in 1987 a Soviet plane collided with a Norwegian plane in Norwegian airspace, and Norway protested. The Soviet Union denied they were intentionally in Norwegian airspace. Coded maritime MID because, per 2007 and 2010 Norway-Russia maritime treaties, Norway and the USSR had maritime disputes active at the time of this MID. One of those disputes lay in the Barents Sea, and per cm narrative, this MID occurred over the Barents Sea. 
+
+ISLMID: MID2827 3 -- not islands 
+ISLMID-CER: MID2827 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2827 3 -- not civil war 
+CIVWARMID-CER: MID2827 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2827 3 -- not civil war link 
+CIVWARLINK-CER: MID2827 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2827 3 -- not coup 
+COUPMID-CER: MID2827 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2827 3 -- not coup link
+COUPLINK-CER: MID2827 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4321 
+
+TERRMID: MID4321 3 -- not territory 
+TERRMID-CER: MID4321 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4321 3 -- not third party link to territory 
+TERRLINK-CER: MID4321 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4321 1 -- maritime MID
+MARITMID-CER: MID4321 1 -- certain 
+MARITMID-NOTES: MID4321 from Gibler 2018, in 1998 Norway seized a Russian fishing vessel, prompting protest from Russia. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. 
+
+ISLMID: MID4321 3 -- not islands 
+ISLMID-CER: MID4321 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4321 3 -- not civil war 
+CIVWARMID-CER: MID4321 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4321 3 -- not civil war link 
+CIVWARLINK-CER: MID4321 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4321 3 -- not coup 
+COUPMID-CER: MID4321 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4321 3 -- not coup link
+COUPLINK-CER: MID4321 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4335 
+
+TERRMID: MID4335 3 -- not territory 
+TERRMID-CER: MID4335 1 -- certain 
+TERRMID-NOTES: MID4335 from Gibler 2018, Russian bombers approached Norwegian, Icelandic, and American borders in apparent military exercises. The US and Norway scrambled planes in response. Coded not territory because no boundary dispute was present. This was connected to Norway's alliance with the US during the Cold War. 
+
+TERRLINK: MID4335 3 -- not third party link to territory 
+TERRLINK-CER: MID4335 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4335 3 -- not maritime 
+MARITMID-CER: MID4335 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4335 3 -- not islands 
+ISLMID-CER: MID4335 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4335 3 -- not civil war 
+CIVWARMID-CER: MID4335 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4335 3 -- not civil war link 
+CIVWARLINK-CER: MID4335 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4335 3 -- not coup 
+COUPMID-CER: MID4335 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4335 3 -- not coup link
+COUPLINK-CER: MID4335 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4238 
+
+TERRMID: MID4238 3 -- not territory 
+TERRMID-CER: MID4238 1 -- certain 
+TERRMID-NOTES: MID4238 from Gibler 2018, Norwegian planes intercepted Russian planes that violated Norwegian airspace in 2001. Coded not territory because this was not connected to a border dispute. 
+
+TERRLINK: MID4238 3 -- not third party link to territory 
+TERRLINK-CER: MID4238 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4238 3 -- not maritime 
+MARITMID-CER: MID4238 1 -- certain 
+MARITMID-NOTES: MID4238 there is no indication in cm narrative, Gibler 2018, or news coverage that suggests this was connected to the active maritime boundary disputes between Norway and the USSR.
+
+ISLMID: MID4238 3 -- not islands 
+ISLMID-CER: MID4238 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4238 3 -- not civil war 
+CIVWARMID-CER: MID4238 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4238 3 -- not civil war link 
+CIVWARLINK-CER: MID4238 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4238 3 -- not coup 
+COUPMID-CER: MID4238 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4238 3 -- not coup link
+COUPLINK-CER: MID4238 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial MID
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler 2018, this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because Norway, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler 2018, this involves Norway in NATO war activity against Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and the various states experiencing this violence all lie outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4429 
+
+TERRMID: MID4429 3 -- not territory 
+TERRMID-CER: MID4429 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4429 3 -- not third party link to territory 
+TERRLINK-CER: MID4429 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4429 1 -- maritime MID
+MARITMID-CER: MID4429 1 -- certain 
+MARITMID-NOTES: MID4429 from cm narrative, Norway detained two Russian fishing boats that it cited as illegally fishing in Norway's territorial waters. Russian officials protested the seizure. It is unclear if or when the boats were released. Coded maritime MID because, per 2007 and 2010 maritime treaties, USSR and Norway had not delimited their maritime boundary at the time of this MID. They therefore had a maritime boundary dispute. From cm narrative, this led to numerous fishing-related MIDs. 
+
+ISLMID: MID4429 3 -- not islands 
+ISLMID-CER: MID4429 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4429 3 -- not civil war 
+CIVWARMID-CER: MID4429 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4429 3 -- not civil war link 
+CIVWARLINK-CER: MID4429 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4429 3 -- not coup 
+COUPMID-CER: MID4429 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4429 3 -- not coup link
+COUPLINK-CER: MID4429 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4440 
+
+TERRMID: MID4440 3 -- not territory 
+TERRMID-CER: MID4440 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4440 3 -- not third party link to territory 
+TERRLINK-CER: MID4440 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4440 1 -- maritime MID
+MARITMID-CER: MID4440 1 -- certain 
+MARITMID-NOTES: MID4440 from Gibler 2018, Russia sent naval forces near the Spitsbergen islands, which Norway owns. Norway and Russia dispute the exclusive economic rights to the waters around the islands. Coded maritime MID because Russia and Norway dispute who has the exclusive economic rights in the waters involved in this MID. Per the 2010 Norway-Russia maritime boundary treaty, they had an active maritime dispute in the Barents Sea at the time of this MID, where the islands are located. 
+
+ISLMID: MID4440 3 -- not islands 
+ISLMID-CER: MID4440 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4440 3 -- not civil war 
+CIVWARMID-CER: MID4440 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4440 3 -- not civil war link 
+CIVWARLINK-CER: MID4440 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4440 3 -- not coup 
+COUPMID-CER: MID4440 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4440 3 -- not coup link
+COUPLINK-CER: MID4440 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4429
+rivalry=365385 nationa=NORWAY nationb=RUSSIA/USSR MID4429 20051024-20051027 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Norway detained two Russian fishing boats that it cited as illegally fishing in Norways territorial waters. Russian officials protested the seizure. It is unclear if or when the boats were released. First day of dispute was on 10/24/2005 and last day of dispute was on 10/27/2005.
+
+MID4440
+rivalry=365385 nationa=RUSSIA/USSR nationb=NORWAY MID4440 20080714-20080714 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russia increased its naval presence near the Spitsbergen islands. While Norway maintains sovereignty over the islands, the two states hold a dispute over which side has the right to operate within the 200-mile economic zone that surrounds them. First day of dispute was on 7/14/2008 and last day of dispute was on 7/14/2008.
+
+MID3 1993-2001:
+
+MID4321
+rivalry=365385 nationa=NORWAY nationb=RUSSIA/USSR MID4321 19980712-19980717 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Norway seized a Russian fishing boat in a "joint fishing zone" two days after NOR ordered that all Russian ships leave. Russia protested the seizure and Norway eventually released the ship on 7-17-98. First day of dispute was on 7/12/1998 and last day of dispute was on 7/17/1998.
+
+MID4342
+rivalry=365385 nationa=RUSSIA/USSR nationb=NORWAY MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4335
+rivalry=365385 nationa=NORWAY nationb=RUSSIA/USSR MID4335 19990624-19990624 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+During military exercises Russian bombers flew down the Norwegian coast. In response, Norway sent up fighters to intercept the bombers. When the Norwegian fighters arrived the bombers were no longer in the area. First and last day of dispute was on 6/24/1999.
+
+MID4238
+rivalry=365385 nationa=NORWAY nationb=RUSSIA/USSR MID4238 20010214-20010219 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russian planes were violating Norwegian airspace. Norway puts its planes in the air to intercept the Russians. Russia claims to have done nothing wrong. Then on 2/19/2001 Norway held military exercises close to its border with Russia. First day of dispute was on 2/14/2001 and last day of dispute was on 2/19/2001.
+
+RIVNOTES: 
+RIV991: MID4342 (1999) was added by MID3.02
+
+NARRATIVE-CM:
+Norway signed an agreement in Paris on February 9, 1920, which provided for Norwegian sovereignty over Spitzbergen (Svalbard). The Soviet Union announced the recognition of Norwegian sovereignty over Spitzbergen on February 16, 1924. Norway re-entered the international system on May 7, 1945. The Soviet Union asked Norway for a revision of the 1920 agreement in January 1947. The Norwegian government rejected the Soviet request for military basing rights on Spitzbergen on March 3, 1947. Norway and the Soviet Union began negotiations in Oslo regarding border incidents on December 1, 1949. The countries signed an agreement on December 29, 1949. Norwegian naval ships seized three Soviet fishing vessels near Flekkefjord on January 6, 1969. Norway released the Soviet fishing vessels on January 9, 1969. Norwegian and Soviet representatives held negotiations concerning the delimitation of the Barents Sea on Moscow and Oslo between November 25 and December 5, 1974. Norwegian and Soviet representatives signed an agreement on November 16, 1977, which provided for the partition of the Barents Sea.
+
+SOURCES-CM: 
+*Facts on File*, January 23-29, 1969; Jessup, 1998, 537-538; *Keesing*, February 8-15, 1947, April 5-12, 1947, January 7-14, 1950, February 27, 1976; Langer, 1972, 1222-1223; *Survey of International Affairs (SIA), 1925 (supplement), 197-198.
+
+NARRATIVE-CR:
+The long running dispute between Russia and Norway is almost entirely the result of the Cold War and a shared border. Many of the disputes are the result of Russia entering Norway's territorial waters. In January of 1956 several Russian Trawlers entered Norway's waters (MID3225) and Russia issued a formal apology a few days later and explained their presence (London Times; February 2nd, 1956). MID2939 was also a Russian Trawler incident. MID3067 involved Russian submarines being discovered and tracked in the Baltic Sea by Norwegian forces (London Times). Another group of disputes involves Norway's participation in NATO military plans. In April of 1957 (MID2848) Russia warned Norway from allowing NATO forces to use bases. Russia announced that it would amount to an aggressive action by Norway and Russia would defend itself (London Times April 14, 1957). MID253 concerned the capture of U2 spy planes that were using Norwegian bases. Roles reversed with the crash of a Soviet spy plane on Norwegian territory (MID3606). Russia protested the recovery of a black box by Norway and Norway protested the installation of several surveillance units in Norwegian territory by Russia (World Digest News). Large-scale NATO maneuvers in Northern Norway caused a dispute in March of 1980 (MID2226). It was a joint operation and involved over 18,000 troops (World Digest News). MID3223 occured on September 1, 1956. MID2827 occured on September 13th 1987, when a Soviet fighter plane collided with a Norwegian surveillance aircraft over the Barents Sea.
+
+In 1989 the Cold War. Norway is concerned about the Soviet Union's transfer of warplanes from former East European allies northward in what may be move to sidestep limits in a proposed disarmament treaty, the Norwegian foreign minister said on September 26, 1990.Kjell Magne Bondevik, Norway's minister of foreign affairs, said his government is worried about the transfer of 78 Soviet warplanes from the former Soviet bloc nations of Hungary and Czechoslovakia to the Kola peninsula opposite Norway.It is ''a matter of great concern to us,'' Bondevik told reporters following a meeting of the Norwegian American Chamber of Commerce.
+
+Accusing them of spying, the Norwegian government has ordered three Soviet diplomats expelled on October 22, 1991, and barred the return of five others who left the country over the summer. The group ordered expelled includes Lev S. Koshlyakov, a man Norwegian newspapers identified as the KGB's chief representative in Norway. A Norwegian Foreign Ministry statement Monday said the eight "behaved in a manner incompatible with their diplomatic status," a euphemism for espionage. Foreign Ministry spokesman Bjoern Blokhus said most events leading to the expulsions occurred before the Cold War ended.Mikhail Butkov, an Oslo-based Soviet journalist and KGB agent who defected in June, confirmed Norwegian intelligence agency suspicions that the diplomats were spying, said the newspaper Aftenposten said.
+
+On December 16, 1991, Norway joined a handful of countries that have recognized the Russian Federation as an independent nation.Foreign Minister Thorvald Stoltenberg said his government will also maintain diplomatic relations with the Soviet Union. He said Norway already has been dealing with the Soviet Union and the Russian Federation, making the recognition of Russia "a formalizing of a reality." Norway, a member of the North Atlantic Treaty Organization, may also recognize other republics of the crumbling Soviet Union, probably starting with Ukraine, Byelorussia and Kazakhstan, Stoltenberg said."There was no political motivation in recognizing Russia first," he told a news conference. "It was simply a question of our capacity to review the questions involved ... and Russia is our neighbor state."The Foreign Ministry spokesman, Bjoern Blokhus, said only Hungary, Estonia, Latvia, Lithuania and Ukraine have recognized Russian independence.
+
+The post-Cold War disputes involved similar issues to the previous set of disputes. MID4321 involved Russian protests of Norwegian expulsion of 5 individuals classified as Russian spies in July 1998(NY Times).
+
+Norway's King Harald V and Queen Sonia began a five-day visit to Russia on May 25, 1998, with an official Kremlin welcoming ceremony led by President Boris Yeltsin and his wife, Naina.The four subsequently retired for a private chat, and the presidential couple was scheduled to give a gala dinner in honour of their royal guests in the evening, ITAR-TASS news agency reported.Yeltsin and Harald V, whose visit to Russia was the first by a Norwegian king since the restoration of Norway's independence in 1905, were to meet again. The king was being accompanied by a delegation of Norwegian businessmen hoping to boost the 1 billion dollars in annual trade between the northern neighbours. Also on the agenda were bilateral relations, regional cooperation, environmental problems and international issues. The royal couple was expected to visit St. Petersburg and Murmansk during their visit. Relations between Russia and NATO-member Norway, which share a short Arctic border, were strained in March 1998 when Norway expelled five Russian diplomats for alleged espionage and Russia responded by declaring two Norwegian diplomats personae non grata.Norway also postponed a scheduled visit to Moscow by Prime Minister Kjell Magne Bondevik.
+
+MID4342 occurred from April 4th to 19th, 1999. The dispute is over the Kosovo air strikes by NATO troops. Russia in retaliation froze its relations with the 19 members of NATO, including Norway. MID4335 (June 1999) was related to the incident when during military exercises Russian bombers flew down the Norwegian coast. In response, Norway sent up fighters to intercept the bombers. When the Norwegian fighters arrived the bombers were no longer in the area.
+
+The most recent dispute (MID4238) involved Russian missile tests near the Norwegian border (World Digest News) from February 14th to 19th, 2001. 
+The Russian Defense Ministry denied on February 14th, reports that the Russian bombers had violated Norway's airspace, the Itar-tass reported. Russian Air Force Spokesman Alexander Drobyshevsky also said on the same day that "Russian Air Force planes did not violate Norway 's airspace." "If needed, we are ready to give the Norwegian side materials on objective control," he said. 
+On February 20, 2001, Moscow has expressed concerns over a military exercise at the Halkavarre training range close to the Russian border with Norway, while Norway dismissed Russia's concerns. The military attache of the Norwegian Embassy to Russia, Jorn Bye, said on Tuesday that it was difficult to find any other place suitable for maneuvers with the use of aviation but Halkavarre. Military sources said that it was not absolutely clear for Russia "why Norway had retreated from its unilateral commitments to restrict military activity in northern regions". "Such steps can be qualified as disregard for Russia's bid to strengthen stability in the northern part of Europe, which serves as an example for the entire European continent as concerns political stability," Russian military sources believe. Meanwhile, Bye said that although Russia had criticized the holding of the exercise, Norway had no another opinion.
+
+SOURCES-CR: 
+London Times; New York Times; World Digest News
+
+PS-NARRATIVE: 
+
+19450507-19891108 0.25
+
+Norway re-entered the international system on May 7, 1945. On January 10th, 1947, Russia asked Norway to let it build military bases on the Spitzbergen Islands, which were disputed by the two countries in the 1920s. The Norwegian government rejected the Soviet request for military basing rights on Spitzbergen on March 3, 1947. Norway and the Soviet Union began negotiations in Oslo regarding border incidents on December 1, 1949. The countries signed an agreement on December 29, 1949.
+
+On October 16th, 1951 Norway rejected a note from the Soviet Union that it tried to rearm the Spitzbergen Islands in violation of the 1920s agreement. Norway made it clear that no military bases will be built on the Spitzbergen and Bear Islands by NATO troops. On April 22nd 1952 Russia turned down a 3-years trade offer from Norway. Soviet Union would prefer a 12 months barter type of trade agreement. On November 7th 1954 no agreement on trade was reached but Norway showed more interest on the barter pact favored by Soviet Union. The first MID of RIV991, MID3225 lasted from January 30th to February 7th, 1956. 
+
+19891109-19911226 Transition 
+
+On November 9, 1989 the Cold War ended. This brings the rivalry between Norway (a member of NATO) and Soviet Union/Russia to an end, because the main motivation for their previous militarized disputes-the West-East divide-disappeared. Norway was still concerned about the Soviet Union's transfer of warplanes from former East European allies northward in what may be move to sidestep limits in a proposed disarmament treaty, the Norwegian foreign minister said on September 26, 1990.Kjell Magne Bondevik, Norway's minister of foreign affairs, said his government is worried about the transfer of 78 Soviet warplanes from the former Soviet bloc nations of Hungary and Czechoslovakia to the Kola peninsula opposite Norway. It is ''a matter of great concern to us,'' Bondevik told reporters following a meeting of the Norwegian American Chamber of Commerce.
+
+Accusing them of spying, the Norwegian government has ordered three Soviet diplomats expelled on October 22, 1991, and barred the return of five others who left the country over the summer. The group ordered expelled includes Lev S. Koshlyakov, a man Norwegian newspapers identified as the KGB's chief representative in Norway. A Norwegian Foreign Ministry statement Monday said the eight "behaved in a manner incompatible with their diplomatic status," a euphemism for espionage. Foreign Ministry spokesman Bjoern Blokhus said most events leading to the expulsions occurred before the Cold War ended.Mikhail Butkov, an Oslo-based Soviet journalist and KGB agent who defected in June, confirmed Norwegian intelligence agency suspicions that the diplomats were spying, said the newspaper Aftenposten said.
+
+19911227-20159999 0.5
+
+On December 16, 1991, Norway joined a handful of countries that have recognized the Russian Federation as an independent nation. Foreign Minister Thorvald Stoltenberg said his government will also maintain diplomatic relations with the Soviet Union. He said Norway already has been dealing with the Soviet Union and the Russian Federation, making the recognition of Russia "a formalizing of a reality." Norway, a member of the North Atlantic Treaty Organization, may also recognize other republics of the crumbling Soviet Union, probably starting with Ukraine, Byelorussia and Kazakhstan, Stoltenberg said. "There was no political motivation in recognizing Russia first," he told a news conference. "It was simply a question of our capacity to review the questions involved ... and Russia is our neighbor state. "The Foreign Ministry spokesman, Bjoern Blokhus, said only Hungary, Estonia, Latvia, Lithuania and Ukraine have recognized Russian independence.
+
+On January 10, 1993 a Russian-Norwegian Agreement on prompt announcement of nuclear accidents and exchange of information on nuclear installations was signed. The two countries signed in Moscow on April 22, 1993 the second protocol on a working program for developing contacts and cooperation between Russia and Norway and a protocol on the inventory of the contractual-legal basis of the Russian-Norwegian relations. Norwegian Prime Minister Gro Harlem Brundtland attended the celebrations of the 50th anniversary of the victory over Fascist Germany in Moscow on May 9-10, 1995. She met Russian Prime Minister Viktor Chernomyrdin and first Vice-Premier Oleg Soskovets. An agreement on military cooperation was signed in December 1995 during Norwegian Defense Minister Jorgen Kosmo's visit to Russia. 
+
+The post-Cold War disputes involved similar issues to the previous set of disputes. MID4321 involved Russian protests of Norwegian expulsion of 5 individuals classified as Russian spies in July 1998(NY Times).
+
+Norway's King Harald V and Queen Sonia began a five-day visit to Russia on May 25, 1998, with an official Kremlin welcoming ceremony led by President Boris Yeltsin and his wife, Naina. The four subsequently retired for a private chat, and the presidential couple was scheduled to give a gala dinner in honor of their royal guests in the evening, ITAR-TASS news agency reported. Yeltsin and Harald V, whose visit to Russia was the first by a Norwegian king since the restoration of Norway's independence in 1905, were to meet again. The king was being accompanied by a delegation of Norwegian businessmen hoping to boost the 1 billion dollars in annual trade between the northern neighbors. Also on the agenda were bilateral relations, regional cooperation, environmental problems and international issues. The royal couple was expected to visit St. Petersburg and Murmansk during their visit. Relations between Russia and NATO-member Norway, which share a short Arctic border, were strained in March 1998 when Norway expelled five Russian diplomats for alleged espionage and Russia responded by declaring two Norwegian diplomats personae non grata. Norway also postponed a scheduled visit to Moscow by Prime Minister Kjell Magne Bondevik.
+
+MID4342 occurred from April 4th to 19th, 1999. The dispute is over the Kosovo air strikes by NATO troops. Russia in retaliation froze its relations with the 19 members of NATO, including Norway. MID4335 (June 1999) was related to the incident when during military exercises Russian bombers flew down the Norwegian coast. In response, Norway sent up fighters to intercept the bombers. When the Norwegian fighters arrived the bombers were no longer in the area. The most recent dispute (MID4238) involved Russian missile tests near the Norwegian border (World Digest News) from February 14th to 19th, 2001. 
+
+"Trust between Russia and Norway is becoming stronger in the political domain and reciprocal penetration of businessmen into the economies of the two countries is growing," Russian Premier Mikhail Kasyanov stated in Moscow on June 19,2001, opening the talks with Norwegian Premier Jens Stoltenberg, which were held in broad format. According to Kasyanov, trade turnover between Russia and Norway has reached one billion U.S. dollars, topping by sixteen per cent the figure for the corresponding period of 2000."Russia appreciates the present level of cooperation with Norway, the more so since our dialogue is expanding and we are cooperating as it befits good neighbors," the Russian prime minister stressed. The Norwegian premier noted, in turn, the importance of personal contacts between the premiers of the two countries for the further development of the Russia-Norway relations. Stoltenberg said he regularly contacted Kasyanov by telephone to discuss current matters. "Norway and Russia have lived in peace next to each other for many centuries. The cold war interfered with the development of good neighborly contacts and cooperation, but now the relations between our two countries are becoming deeper and broader than ever before," the Norwegian premier stated. Russia is satisfied with the level of political interaction with Norway, Sergei Prikhodko, Deputy Head of the Presidential Administration, has told in November 2001. In recent months Russian Prime Minister Mikhail Kasyanov met his Norwegian counterpart Kjell Magne Bundevik twice, Prikhodko emphasized. The two Premiers met in Russia in June and in Johannesburg in September, 2001. 
+
+Russian Minister of Defence Sergei Ivanov, Minister of Communications and Information Leonid Reiman, and Tax Minister Gennady Bukayev visited Norway earlier in 2002. Harald V, the King of Norway, paid a State visit to Russia in 1998. Vladimir Putin met with the Norwegian King in 1999 in his capacity as Russia's Prime Minister. Trade-and-economic cooperation between Russia and Norway will be a subject of discussion during Vladimir Putin's working visit to Norway. Trade between Russia and Norway in 2002 has topped $1,000 million, with fish products and metal accounting for 60 percent of trade turnover. The two countries' cooperation in the petroleum sector develops actively. The sides are to discuss matters concerning joint management and harvesting of the Barents Sea bio-resources, cooperation in the Arctic and the development of oil and gas deposits on the Barents Sea shelf. Russia and Norway also actively develop regional cooperation. A Russian delegation currently visiting Norway includes the Governors of Murmansk and Arkhangelsk Regions.
+
+On November 12, 2002, Russian President Putin made an official visit to Norway. Russian President Vladimir Putin expressed satisfaction with successful development of relations between Russia and Norway. He said this at a meeting with Norwegian Prime Minister Kjell Magne Bundevik. "We have good contacts at every level", Putin said. The Russian president thanked the Norwegian premier for solidarity with Russia, for his words of support in connection with the tragic events in Moscow. "We appreciate these sympathies of Norway, of the Norwegian people over the hostage-taking", he said. "Without this solidarity, without the pooling of efforts" that problem could not have been resolved. Terrorism must be fought by joint efforts, the president said. Putin also expressed gratitude to the prime minister for the invitation to Norway and recalled their previous meetings in Russia. Bundevik said that Norway "has long been waiting" for the Russian president's visit. The two countries have good, close relations, relations of good neighbors, he said.
+
+The relations between Norway and Russia have been developing constructively, the Norwegian embassy declared on October 27, 2003, in connection with a working visit to Russia by heir to the Norwegian throne Prince Haakon. Good contacts have been established between the leadership of the two countries, the embassy said. President Putin visited Norway in November, 2002. The last visit at the level of prime ministers was paid by Russian Prime Minister Mikhail Kasyanov, who visited Kirkenes in January, 2003 in connection with the tenth anniversary of Barents cooperation.
+
+Russia, Norway maintain good-neighborly relations for a long time. The two states had never been at war, that is rather a rare thing in the history of neighboring states in Europe. Norway and Russia had been allies during World War II. Russia was one of the first countries to recognize Norwegian sovereignty when Norway regained its independence in 1905 and broke off its union with Sweden, the embassy said. For its part, Norway was one of the first countries to recognize Russia's independence in October, 1991, the embassy said. In 2002, the trade turnover between Russia and Norway totaled around one billion dollars. Economic relations between the two countries have a positive dynamics, the embassy said. Russia and Norway are connected by the possibilities of cooperation in the field of electric power engineering. Russia is showing an interest in the Norwegian experience in the development of natural resources on the continental shelf, in particular, deep under the surface under difficult climatic and ecological conditions, the embassy said.
+
+Moscow, Oslo have been cooperating in the field of radiation security, implementing joint projects on scrapping multi-purpose submarines and resolving problems connected with used-up nuclear fuel and radioactive waste. The two countries have established good contacts in the field of fisheries. Russia and Norway maintain joint control over common fishing resources in the Barents Sea are responsible for ecology and environment in the whole of the Northern region. Thanks to joint activities for modernization of the Pechenga Nickel plant its harmful discharge into the atmosphere is expected to be reduced by more than 90 percent. Norway has allocated 35 million dollars for this purpose, the Norwegian embassy said. Trade turnover between Russia and Norway increased by 36 percent in 2004, President Vladimir Putin said. In his meeting with Norwegian Prime Minister Kjell Magne Bondevik on Monday, Putin said, "I believe we'll agree that relations between Russia and Norway are developing in its best way." "It seems to me that our interaction may be named an example of good-neighborliness and partnership. Last year trade turnover increased by 36 percent." Bondevik stressed, "Economic relations between our countries are developing dynamically. In the last two years our trade turnover increased by 60 percent. "The Norwegian prime minister noted the growth of investments into Russia's economy. "Norway's direct investments into Russia's economy also continue to grow and exceeded four billion Norwegian crowns," he said.
+
+Bondevik emphasized that Norway lauds Russia's investments into Norway's economy. The Norwegian government "put forth a plan on northern regions that is now being considered by our parliament," he said. Bondevik agreed that Russia and Norway "have huge opportunities to improve cooperation, primarily in the energy sector." Putin noted the positive development of political contacts. "I want to stress that we end the talks on Russia's accession to the WTO," the Russian president said. They "were accompanied by rather positive development of political contacts," he added. Russia is interested in cooperation with Norway in the area of natural resources and advanced technologies for their extraction, Yuri Trutnev, the Russian minister of natural resources, on a working visit in Norway, told a news conference in Oslo on February 2nd, 2005. "Russia and Norway are leading for export of hydrocarbons, but there are distinctions between us", the minister said. "Russia develops deposits on land, while Norway works on the shelf", Trutnev said. "Development of the shelf is the next stage for us", he said. "Legislation is changing in Russia, and the adoption of the law on natural resources will enable us to work in a more convenient legislative medium", the minister said. Norway's Minister of Petroleum and Energy Torild Widvey came out for the further development of the dialogue between Russia and Norway in the north, pointing out that the two countries have "many opportunities for the exchange of experience in this area".
+
+Trade and economic relations between Norway and Russia are very intensive, Norwegian Ambassador to Russia Oyvind Nordsletten told Itar-Tass on September 27, 2005. He said the cooperation is centered on energy, because Norway and Russia are on the top-three list of countries with vast oil and gas reserves. The sides are considering joint projects in the Barents Sea, he said. Norway plans to open a liquified natural gas terminal in a year. The project costs $10 billion. Russia has plenty of natural gas in its part of the Barents Sea shelf, so Gazprom is discussing possible cooperation with Norway's Statoil and Norsk Hydro. Exchanges between Norway and Russia will intensify in mid-October after the formation of the new Norwegian government, he said. Norway has the right to resolutely react to violations of fishing rules in the Barents Sea, be they made by a Norwegian, Russian or any other ship, Norway's Prime Minister Jens Stoltenberg said on November 2, 2005, commenting on the recent incident with Russia's trawler Elektron. Norway and Russia have been interacting in the protection of biological resources of the Barents Sea for decades, and both countries benefit from this cooperation, as fish resources are kept at a stable level, he said in an interview with Itar-Tass. The management of these resources must be such that generations to come could use them. Both countries have a common interest in combating the illegal fishing, Stoltenberg stressed. If Norway and Russia do not actively oppose the violations of fishing rules, they will suffer losses, and exhaustion of the most part of biological resources will occur, the prime minister said. Norwegian Foreign Minister Jonas Gahr Stoere said in an interview with Itar-Tass that the recent detention of Russia's fishing boats by Norwegian coast guard ships "will not affect cooperation of Russia and Norway". Norway and Russia share the view about the need for stable regulation of biological resources of the Barents Sea, Stoere said, adding that this had been confirmed at a meeting of the Russian-Norwegian fisheries commission in Kaliningrad at the end of October. Norway looked to investment in Russia's natural gas sector on February 17, 2006, as its Foreign Minister Jonas Gahr Stoere wrapped up a visit to Russia aimed at boosting ties between the two global energy majors. Norway looked forward to "developing a strategic partnership in the energy sphere", the Norwegian embassy in Moscow said in a statement ahead of Stoere's meeting with his Russian counterpart Sergei Lavrov on Friday. "Cooperation in the sphere of oil and gas exploration in the Barents Sea" was key, the statement said in reference to the Arctic waters where Norway's Statoil and Hydro energy majors are bidding to develop Russia's vast Shtokman gas field.
+
+Following the meeting, Lavrov raised the prospect of closer energy ties between Russia and Norway, the world's second and third-biggest oil exporters. "There are perspectives for cooperation in the Barents Sea," Lavrov said. "The companies of our two countries are looking at profitable projects in the fields of energy, communications and high technology," he continued. In an interview with the Kommersant daily, Stoere urged Russia to choose the Norwegian companies to develop the Shtokman field in partnership with Russian gas giant Gazprom, a decision expected in March or April. "We believe that a choice in favor of Statoil will be a catalyst for the development of Russian-Norwegian relations in the energy sphere," Stoere said. Negotiations between Russia and Norway over the Shtokman field, which has proven reserves of 3.2 trillion cubic meters of gas and 31 million tons of gas condensate, have been complicated by disagreements over their maritime border and fishing areas in the Barents Sea. Norway has been chasing Russian trawlers out of disputed fisheries in the Barents Sea and clamping down on Russian vessels suspected of fishing above allowed quotas. In January, Russia, which is Norway's biggest market for fish, banned all imports of fresh fish from the Nordic country. Veterinary officials said they found high lead and cadmium levels in the fish, although Russian media said the real reason was retaliation against Norway. Stoere travelled to Murmansk in northwestern Russia, the largest population center on the Barents Sea, where Norwegian and Russian officials signed agreements on industrial and environmental cooperation. "Both Statoil and the Murmansk region have a shared interest in strengthening the level of activity in the north," Henrik Carlsen, a Statoil official, was quoted by the company as saying, in a written statement. After meeting the governor of the city of Saint Petersburg, Stoere said Norway had been invited to contribute to discussions of the G8 group of industrialized countries that will include a meeting of energy ministers to be held in Moscow next month. "Strategic cooperation in the oil and gas sectors will be discussed in the context of the G8 and Russia has invited Norway to express its thoughts on this question," Stoere said. Russia and Norway both have economies that depend heavily on revenues from oil and gas sales. In 1996, Norway set up a fund to save some of the oil income, an idea that has been emulated by other oil-producing nations, including Russia. The current relation is still tensioned over the delimitation of the Arctic Ocean seabed as well as maritime boundaries. 
+
+PS-SOURCES: New York Times January 10, 1947; April 23, 1952; October 17, 1951; November 7, 1954; TASS March 25, 1996; November 12, 2002; October 27, 2003; August 16, 2004; February 2, 2005; June 20, 2005; September 27, 2005; November 2, 2005; Washington Times June 22, 2001; Agence France Presse February 17, 2006; Xinhua February 14,2001; Associated Press September 28, 2000
+
+MARITIME-MIDS: MID3225 MID2939 MID3067
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID3225
+ DYAD: RUSSIA/USSR NORWAY 365385
+ DATES: 19560130 19560207
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+The long running dispute between Russia and Norway is almost entirely the result of the Cold War and a shared border (disagreements over their maritime border and fishing areas in the Barents Sea). Many of the disputes are the result of Russia entering Norway's territorial waters. In January of 1956 several Russian Trawlers entered Norway's waters (MID3225) and Russia issued a formal apology a few days later and explained their presence (London Times; February 2nd, 1956). 
+
+MARITIME-DISPUTE: MID2939
+ DYAD: RUSSIA/USSR NORWAY 365385
+ DATES: 19690109 19690109
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+The long running dispute between Russia and Norway is almost entirely the result of the Cold War and a shared border (disagreements over their maritime border and fishing areas in the Barents Sea). Many of the disputes are the result of Russia entering Norway's territorial waters. MID2939 was also a Russian Trawler incident. Norwegian naval ships seized three Soviet fishing vessels near Flekkefjord on January 6, 1969. Norway released the Soviet fishing vessels on January 9, 1969.
+
+MARITIME-DISPUTE: MID3067
+ DYAD: RUSSIA/USSR NORWAY 365385
+ DATES: 19830427 19830508
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+The long running dispute between Russia and Norway is almost entirely the result of the Cold War and a shared border (disagreements over their maritime border and fishing areas in the Barents Sea). Many of the disputes are the result of Russia entering Norway's territorial waters. MID3067 involved Russian submarines being discovered and tracked in the Baltic Sea by Norwegian forces (London Times).
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+"Treaty between the Kingdom of Norway and the Russian Federation concerning Maritime Delimitation and Cooperation in the Barents Sea and the Arctic Ocean." 2010.
+
+"Agreement between the Kingdom of Norway and the Russian Federation on the Maritime Delimitation in the Varangerfjord area." 2007. 
+
+"Agreement between Norway and the Soviet Union Concerning the Sea Frontier in the Varangerfjord of 15 February 1957 and Protocol of 29 November 1957." 1957. 

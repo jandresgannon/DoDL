@@ -1,0 +1,95 @@
+FILE: cm140145v11.0.txt
+DYAD: BRAZIL - BOLIVIA
+RIVALRY: RIV309
+DISPUTE(S): MID1178 
+RIVALRY: RIV310
+DISPUTE(S): MID2145 
+
+ 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20170721
+PS-LAST-CHECKED: 20170729
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1178 
+
+TERRMID: MID1178 1 -- territorial MID
+TERRMID-CER: MID1178 1 -- certain 
+TERRMID-NOTES: MID1178 from Schultz data, Brazil and Bolivia were disputing the area of Acre. In 1902-1903, Brazilians living in the disputed area rose up against Bolivian authorities, leading both Brazil and Bolivia to dispatch troops to the area and triggering this MID. Coded territorial MID because this was connected to the disputed area of Acre. 
+
+TERRLINK: MID1178 3 -- not third party link to territory 
+TERRLINK-CER: MID1178 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1178 3 -- not maritime 
+MARITMID-CER: MID1178 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1178 3 -- not islands 
+ISLMID-CER: MID1178 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1178 3 -- not civil war 
+CIVWARMID-CER: MID1178 1 -- certain
+CIVWARMID-NOTES: MID1178 the uprising in Acre did not involve a militarized rebel group, but was rather domestic protests. 
+
+CIVWARLINK: MID1178 3 -- not civil war link
+CIVWARLINK-CER: MID1178 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1178 3 -- not coup 
+COUPMID-CER: MID1178 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1178 3 -- not coup link
+COUPLINK-CER: MID1178 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2145 
+
+TERRMID: MID2145 3 -- not territory
+TERRMID-CER: MID2145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2145 1 -- third party link to territorial MID
+TERRLINK-CER: MID2145 3 -- uncertain
+TERRLINK-NOTES: MID2145 from MID-B data, this MID has date 10/31/1928. From Gibler, Little, and Miller (2016: IIB-21), this was actually a territorial dispute between Paraguay and Bolivia. Brazil is pulled into this MID because the clash took place on Brazilian territory, but Brazil never protested the incident and was not the target or issuer of any threat or clash. GLM argue this case should be dropped, so this is coded uncertain. 
+
+MARITMID: MID2145 3 -- not maritime 
+MARITMID-CER: MID2145 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2145 3 -- not islands 
+ISLMID-CER: MID2145 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2145 3 -- not civil war 
+CIVWARMID-CER: MID2145 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2145 3 -- not civil war link
+CIVWARLINK-CER: MID2145 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2145 3 -- not coup 
+COUPMID-CER: MID2145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2145 3 -- not coup link
+COUPLINK-CER: MID2145 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

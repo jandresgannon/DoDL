@@ -1,0 +1,66 @@
+FILE: cm230615v11.0.txt
+DYAD: SPAIN - ALGERIA
+RIVALRY: RIV622
+DISPUTE(S): MID1331 
+
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20171224
+PS-LAST-CHECKED: 20171224
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID1331 
+
+TERRMID: MID1331 1 -- territorial MID
+TERRMID-CER: MID1331 1 -- certain 
+TERRMID-NOTES: MID1331 from Gibler (2018), Morocco announced plans to invade the Spanish-administered disputed territory of Western Sahara, and both Spain and Morocco amassed troops to their border with Western Sahara. Algeria was also claiming the territory and threatened war if Morocco invaded. Coded territorial MID because Spain and Algeria were disputing the Western Sahara here. 
+
+TERRLINK: MID1331 1 -- third party link to territorial MID
+TERRLINK-CER: MID1331 1 -- certain 
+TERRLINK-NOTES: MID1331 from Gibler (2018), Mauritania and Algeria are also involved in this MID and those countries are disputing the Western Sahara, so this is also coded third party link to territorial MID — because this MID appears as disputed territory in other dyads (Algeria-Mauritania, Algeria-Morocco). 
+
+MARITMID: MID1331 3 -- not maritime 
+MARITMID-CER: MID1331 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1331 3 -- not islands 
+ISLMID-CER: MID1331 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1331 3 -- not civil war 
+CIVWARMID-CER: MID1331 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1331 3 -- not civil war link 
+CIVWARLINK-CER: MID1331 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1331 3 -- not coup 
+COUPMID-CER: MID1331 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1331 3 -- not coup link
+COUPLINK-CER: MID1331 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+
+
+SOURCES-CM:
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

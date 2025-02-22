@@ -1,0 +1,142 @@
+FILE: cm305310v11.0.txt
+DYAD: AUSTRIA-HUNGARY
+RIVALRY: RIV797
+DISPUTE(S): MID1233 MID3181 
+RIVALRY: RIV798
+DISPUTE(S): MID2878 
+
+PS: 19190910-19210827 .5 19210828-19230226 .25 19230227-19280226 .5 19450509-20040430 0.5 20040501-20209999 1.00
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PSNOTES: EU dyad 
+
+AUS,305,Austria,19190910 19380313
+AUS,305,Austria,19450509 
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1233
+
+TERRMID: MID1233 1 -- territorial MID
+TERRMID-CER: MID1233 1 -- certain 
+TERRMID-NOTES: MID1233 from Gibler (2018), West Hungary was scheduled to be transferred to Austria, but in 1921, Hungarian forces invaded to prevent the transfer. Austria sent in forces and clashes ensued. The sides eventually agreed to a plebiscite over part of the land, and Austria taking a majority of it. Coded territorial MID because this is centered on a territorial dispute. 
+
+TERRLINK: MID1233 3 -- not third party link to territory 
+TERRLINK-CER: MID1233 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1233 3 -- not maritime 
+MARITMID-CER: MID1233 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1233 3 -- not islands 
+ISLMID-CER: MID1233 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1233 3 -- not civil war 
+CIVWARMID-CER: MID1233 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1233 3 -- not civil war link 
+CIVWARLINK-CER: MID1233 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1233 3 -- not coup 
+COUPMID-CER: MID1233 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1233 3 -- not coup link 
+COUPLINK-CER: MID1233 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3181
+
+TERRMID: MID3181 3 -- not territory
+TERRMID-CER: MID3181 3 -- uncertain 
+TERRMID-NOTES: MID3181 from Gibler (2018), Austria's economy was crippled after WWI. It was looking to unify with either Germany or the Little Entente, but Italy declared that this would be a cause for war. Italy and Yugoslavia amassed troops on their Austrian borders as a show of force to prevent Austria from joining Germany or the Little Entente. The League of Nations and the US eventually negotiated a solution. Coded not territory because no states were disputing territory here, although Austria was intending to voluntarily unify with another country (other countries) to solve its economic crisis. Coded uncertain because Gibler (2018) drops Hungary from this dispute, as they seem to have no part in it. 
+
+TERRLINK: MID3181 3 -- not third party link to territory 
+TERRLINK-CER: MID3181 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3181 3 -- not maritime 
+MARITMID-CER: MID3181 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3181 3 -- not islands 
+ISLMID-CER: MID3181 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3181 3 -- not civil war 
+CIVWARMID-CER: MID3181 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3181 3 -- not civil war link
+CIVWARLINK-CER: MID3181 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3181 3 -- not coup 
+COUPMID-CER: MID3181 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3181 3 -- not coup link
+COUPLINK-CER: MID3181 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2878
+
+TERRMID: MID2878 3 -- not territory
+TERRMID-CER: MID2878 1 -- certain 
+TERRMID-NOTES: MID2878 from Gibler (2018), in 1960, Austria and Hungary accused each other of airspace and border violations, and of espionage activities. Coded not territory because they were not disputing a boundary, and this was likely tied to the Cold War. 
+
+TERRLINK: MID2878 3 -- not third party link to territory 
+TERRLINK-CER: MID2878 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2878 3 -- not maritime 
+MARITMID-CER: MID2878 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2878 3 -- not islands 
+ISLMID-CER: MID2878 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2878 3 -- not civil war 
+CIVWARMID-CER: MID2878 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2878 3 -- not civil war link
+CIVWARLINK-CER: MID2878 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2878 3 -- not coup 
+COUPMID-CER: MID2878 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2878 3 -- not coup link
+COUPLINK-CER: MID2878 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Ethnic-Germans in Burgenland (western Hungary) demanded self-determination on December 4, 1918, and the Hungarian government granted Burgenland (Westungarn province) full autonomy on January 27, 1919. On June 25, 1919, the Austrian delegation to the Paris Peace Conference formally requested that the Allied countries grant it sovereignty over Burgenland. On July 11, 1919, the Allied countries decided to give Austria sovereignty over Burgenland. Hungary and the Allied countries signed the *Treaty of Trianon *on June 4, 1920, which provided for the transfer of Burgenland to Austria on August 20, 1921. The *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Belgium, Britain, France, Italy, and Japan, appointed a military observation commission to supervise the transfer of Burgenland to Austria. Austrian troops began to occupy Burgenland on August 28, 1921, but Hungarian troops resisted the Austrian military occupation. Czechoslovakia offered to mediate a resolution of the dispute on September 23, 1921, but Austria rejected the mediation offer. The Italian foreign minister mediated the signing of a protocol in Venice on October 13, 1921, which provided for a plebiscite in the city of Sopron (Odenburg). The ACA approved the *Venice Protocol* on October 27, 1921. Austrian troops completed its occupation of Burgenland on December 4, 1921, and announced that it would not abide by the results of the plebiscite. A plebiscite supervised by an ACA commission headed by General C. H. Ferrario was held in the Sopron area on December 14-15, 1921, and the voters chose to remain in Hungary. The ACA approved the results of the plebiscite on December 23, 1921. Austria ratified the *Venice Protocol* on December 28, 1921. The ACA formally awarded the Sopron area to Hungary on January 1, 1922, and Austria agreed to recognize the cession of the Sopron area to Hungary on February 25, 1922. The ACA referred the Burgenland dispute to the *League of Nations* (LON) Council on June 2, 1922. The LON Council made a decision concerning the Burgenland dispute on September 19, 1922. The ACA border commission completed the delimitation of the Austria-Hungary border on January 29, 1923. Austria and Hungary agreed to a resolution of the Burgenland dispute on February 27, 1923.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 582-583; Burghardt 1958, 61-75; Burghardt 1962, 165-188; Ference, 1994, 213-253; *Survey of International Affairs *(SIA), 1925 (supplement), 12-13.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

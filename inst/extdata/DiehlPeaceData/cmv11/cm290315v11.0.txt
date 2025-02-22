@@ -1,0 +1,139 @@
+FILE: cm290315v11.0.txt
+DYAD: POLAND-CZECHOSLOVAKIA
+RIVALRY: RIV758
+DISPUTE(S): MID1268 
+RIVALRY: RIV759
+DISPUTE(S): MID1244 
+RIVALRY: RIV760
+DISPUTE(S): MID346 
+
+PS: 19181103-19240904 .25 19240905-19380920 .5 19380921-19381101 .25 19381102-19490107 .5 19490108-19680509 0.75 19680510-19681112 0.25 19681113-19910628 0.75 19910629-19921231 .5
+
+PSNOTES: Czech Republic (316)and Slovakia (317) are considered separate states from Czechoslovakia (315) after secession although the narrative for Czechoslovakia is given below as if there were continuation. 
+
+PS-LAST-CHANGED: 20180211 
+PS-LAST-CHECKED: 20180211
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1268
+
+TERRMID: MID1268 1 -- territorial MID 
+TERRMID-CER: MID1268 1 -- certain 
+TERRMID-NOTES: MID1268 from Gibler (2018), this is the Seven Day War between Poland and Czechoslovakia which occurred post-WWI. The territorial dispute over Cieszyn Silesia arose at the end of the war, and fighting broke out here over the territory. Coded territorial MID because this clash was centered on disputed (border) territory. 
+
+TERRLINK: MID1268 3 -- not third party link to territory 
+TERRLINK-CER: MID1268 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1268 3 -- not maritime 
+MARITMID-CER: MID1268 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1268 3 -- not islands 
+ISLMID-CER: MID1268 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1268 3 -- not civil war 
+CIVWARMID-CER: MID1268 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1268 3 -- not civil war link
+CIVWARLINK-CER: MID1268 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1268 3 -- not coup 
+COUPMID-CER: MID1268 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1268 3 -- not coup link
+COUPLINK-CER: MID1268 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1244
+
+TERRMID: MID1244 1 -- territorial MID
+TERRMID-CER: MID1244 1 -- certain 
+TERRMID-NOTES: MID1244 from Gibler (2018), Poland was still upset about its loss of Silesia to Czechoslovakia in 1919. Poland took advantage of Czechoslovakia's perceived weakness after Sudetenland. Poland made a demand for the territory in September 1938; they did not see the Soviet response as a credible threat of intervention. After further Polish threats, the Czechs abandoned the territory and surrendered it to Poland. Coded territorial MID because this involved the revival of the dispute over Silesia and Poland taking it via threat of force. 
+
+TERRLINK: MID1244 3 -- not third party link to territory 
+TERRLINK-CER: MID1244 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1244 3 -- not maritime 
+MARITMID-CER: MID1244 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1244 3 -- not islands 
+ISLMID-CER: MID1244 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1244 3 -- not civil war 
+CIVWARMID-CER: MID1244 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1244 3 -- not civil war link
+CIVWARLINK-CER: MID1244 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1244 3 -- not coup 
+COUPMID-CER: MID1244 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1244 3 -- not coup link
+COUPLINK-CER: MID1244 1 -- certain 
+COUPLINK-NOTES: 
+
+MID346 
+
+TERRMID: MID346 3 -- not territory 
+TERRMID-CER: MID346 1 -- certain 
+TERRMID-NOTES: MID346 from Gibler (2018), Czechoslovakia threatened to walk out of the World Communist meeting in Budapest in 1968 if Russia did not stop interfering in Czech international affairs. Czechoslovakia's leader had been embracing a more international position, which worried communists in the Soviet Union and in other Soviet-controlled/allied states. The Soviets had been supporting the opposition political party in Czechoslovakia who held a more hard-line, pro-Soviet stance. In June 1968, the opposition party lost in the parliamentary elections, and Soviet tanks arrived in Czechoslovakia and soon thereafter detained the Czech leader. In November, the Soviets forced Czechoslovakia to reorganize their regime and become more closely aligned with Soviet communism. Coded not territory because althuogh this MID involved Soviet occupation of Czechoslovakia, this was a regime type issue, not a territorial issue, as the Soviets were ensuring a friendly regime remained in place. Poland is pulled in here due to its alliance with and diplomatic support for Russia. 
+
+TERRLINK: MID346 3 -- not third party link to territory 
+TERRLINK-CER: MID346 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID346 3 -- not maritime 
+MARITMID-CER: MID346 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID346 3 -- not islands 
+ISLMID-CER: MID346 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID346 3 -- not civil war 
+CIVWARMID-CER: MID346 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID346 3 -- not civil war link 
+CIVWARLINK-CER: MID346 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID346 3 -- not coup 
+COUPMID-CER: MID346 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID346 3 -- not coup link
+COUPLINK-CER: MID346 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Czechoslovakia and Poland disputed the sovereignty of the Teschen (Cieszyn) area in Silesia and the Jaworzina district following the establishment of the *Republic of Poland* on November 11, 1918. Some 15,000 Czech troops occupied the Teschen area on January 23, 1919. The *Allied Supreme Council *(ASC), which consisted of representatives of Britain, France, Italy, and the United States, established a fact-finding mission on January 31, 1919. On September 27, 1919, the ASC decided on that the dispute should be settled by a plebiscite. The ASC plebiscite commission arrived in the Teschen area on January 30, 1920. Czech and Polish representatives signed a ceasefire agreement on February 19, 1920, but the countries resumed military hostilities on March 7, 1920. Czech and Polish representatived signed a ceasefire agreement in Paris on June 28, 1920. On July 10, 1920, Czechoslovakia and Poland agreed to suspend the plebiscite and to accept a settlement of the dispute by the ASC. On July 11, 1920, the ASC asked the *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Britain, France, Italy, Japan, and the US to make a decision regarding the Teschen area. The ACA decided to give most of the Teschen area to Czechoslovakia on July 28, 1920. The ACA appointed a delimitation commission to established the border between the countries. Czech and Polish representatives signed an agreement concerning the Teschen area on November 6, 1921, and the ACA decided to award the Jaworzina district to Czechoslovakia on December 6, 1921. Czech and Polish representatives signed a border agreement on February 4, 1922. The ACA delimitation commission established a border in the Jaworzina district on September 25, 1922, which divided the disputed territory between between the two countries. Czechoslovakia protested the delimitation to the ACA on September 26, 1922. The ACA referred the matter to the *League of Nations* (LON) Council on August 18, 1923. On September 27, 1923, the LON Council asked the *Permanent Court of International Justice* (PCIJ) for an advisory opinion on whether or not the delimitation of the border in the Jaworzina district was still open. The PCIJ issued an advisory opinion on December 6, 1923, which suggested that the delimitation of the border in the Jaworzina district was not open. The LON Council formally approved the delimitation of the Jaworzina district on March 12, 1924. Czechoslovakia and Poland signed a protocol in Prague on May 6, 1924, which provided for adjustment of economic issues relating to the border delimitation in the Jaworzina district. The ACA approved the protocol on September 5, 1924. Poland issued an ultimatum to the Czech government on September 21, 1938, which demanded the cession of Teschen and Frysztat from Czechoslovakia to Poland. Czechoslovakia agreed to the ultimatum on October 1, 1938, and ceded the territories to Poland on October 12, 1938. Poland demanded some 167 square kilometers of territory in northern Slovakia on October 31, 1938, and Czechoslovakia agreed to the demand on November 1, 1938. 
+
+SOURCES-CM: 
+Clodfelter, 1992, 619; Fachiri, 1925, 198-202; Ference, 1994, 103-164, 255-300; *Survey of International Affairs *(SIA), 1925 (supplement), 67, 1938 (vol. 3), 45-68.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

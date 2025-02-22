@@ -1,0 +1,65 @@
+FILE: cm002625v11.0.txt
+DYAD: USA - SUDAN
+RIVALRY: RIV84
+DISPUTE(S): MID4217 
+
+PS-LAST-CHANGED: 20190526
+PS-LAST-CHECKED: 20190526
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID4217 
+
+TERRMID: MID4217 3 -- not territory 
+TERRMID-CER: MID4217 1 -- certain 
+TERRMID-NOTES: MID4217 from cm narrative, the US bombed a suspected chemical weapons plant in Khartoum, killing one individual. Sudan protested, and subsequent investigations cast doubt on the US asserting that this was a chemical weapons plant. Occurred 8/20/1998. Coded not territorial because the US and Sudan did not contest a boundary.
+
+TERRLINK: MID4217 3 -- not third party link to territory 
+TERRLINK-CER: MID4217 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4217 3 -- not maritime 
+MARITMID-CER: MID4217 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4217 3 -- not islands 
+ISLMID-CER: MID4217 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4217 3 -- not civil war 
+CIVWARMID-CER: MID4217 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID4217 1 -- civil war link 
+CIVWARLINK-CER: MID4217 1 -- certain 
+CIVWARLINK-NOTES: MID4217 This MID concerns US retaliation for embassy bombings. From cm narrative and Gibler 2018, al Qaeda bombed US embassies in Kenya and Tanzania. In response, the US bombed a factory in Sudan and a target in Afghanistan. Coded civil war link because this was connected to rebel-associated violence (the al Qaeda bombing in Kenya and Tanzania) outside this dyad. 
+
+COUPMID: MID4217 3 -- not coup 
+COUPMID-CER: MID4217 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4217 3 -- not coup link
+COUPLINK-CER: MID4217 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4217
+rivalry=2625 nationa=USA nationb=SUDAN MID4217 19980820 -19980820 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+On August 20, 1998 the United States launched a cruise missile attack against a suspected chemical weapons plant in Khartoum, Sudan. This attack was in retaliation for the August 7 bombings of US embassies in Tanzania and Keyna. The Sudanese protested the attack, and subsequent investigation cast doubt on the assertion that this was a chemical weapons plant. First day and last day of dispute was on 8/20/1998.
+
+NARRATIVE-CM:
+Sudan and the US resumed diplomatic relations on July 25, 1972. US military forces attacked and destroyed a pharmaceutical factory in Khartoum on August 20, 1998, resulting in the death of one individual.
+
+SOURCES-CM: 
+*Associated Press* (AP), August 26, 1998; *Keesing*, August 12-19, 1972.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

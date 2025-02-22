@@ -1,0 +1,246 @@
+FILE: cm093100v11.0.txt
+DYAD: NICARAGUA-COLOMBIA
+RIVALRY: RIV235
+DISPUTE(S): MID1196 
+RIVALRY: RIV236
+DISPUTE(S): MID3120 
+RIVALRY: RIV237
+DISPUTE(S): MID4145 MID4263 
+
+PS: 19000101-19280323 .25 19280324-19791211 .5 19791212-19900425 .25 19900426-20209999 0.5
+
+PS-UPDATE2020: 
+
+PSNOTES: Even though this information is not for 2015-2020 per se, this website indicates that in 2008, Nicaragua broke diplomatic ties with Colombia (https://www.nbcnews.com/id/wbna23481949), and this website further mentions that diplomatic relations between the two nations have suffered over maritime disputes (https://www.reuters.com/article/us-nicaragua-colombia-border/world-court-to-draw-up-nicaragua-colombia-maritime-boundary-idUSKCN0WJ2F2).
+
+thompson rivalry 19790000-19920000 
+
+For the period 19900426-20069999, the end date was changed from 2006999 to 20069999 because of a missing digit in the date. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 202200704
+PS-LAST-CHECKED: 20220704
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1196 
+
+TERRMID: MID1196 3 -- not territory
+TERRMID-CER: MID1196 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1196 3 -- not third party link to territory 
+TERRLINK-CER: MID1196 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1196 1 -- maritime MID
+MARITMID-CER: MID1196 1 -- certain
+MARITMID-NOTES: MID1196 from cm narrative, this MID occurred in 1913. Nicaragua and Colombia disputed parts of the Caribbean Sea, leading to this clash. Coded maritime MID because this dispute is connected to a maritime claim between the countries. 
+
+ISLMID: MID1196 1 -- islands MID
+ISLMID-CER: MID1196 1 -- certain
+ISLMID-NOTES: MID1196 from cm narrative, Nicaragua and Colombia also disputed several islands in the Caribbean that were located in the disputed waters. Coded islands MID because the islands claim was part of the maritime dispute that triggered this MID. 
+
+CIVWARMID: MID1196 3 -- not civil war 
+CIVWARMID-CER: MID1196 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1196 3 -- not civil war link
+CIVWARLINK-CER: MID1196 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1196 3 -- not coup 
+COUPMID-CER: MID1196 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1196 3 -- not coup link
+COUPLINK-CER: MID1196 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3120 
+
+TERRMID: MID3120 3 -- not territory
+TERRMID-CER: MID3120 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3120 3 -- not third party link to territory 
+TERRLINK-CER: MID3120 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3120 1 -- maritime MID
+MARITMID-CER: MID3120 1 -- certain
+MARITMID-NOTES: MID3120 from cm narrative, the maritime/islands dispute was seemingly settled in 1928, but Nicaragua reasserted the claim in 1979, reigniting the conflicting claims. Colombia rejected Nicaragua’s 1979 claim, and a clash involving the Colombian Navy making threatening gestures toward Nicaraguan fishing boats in 1980 triggered this MID. Coded maritime MID because the maritime claim was renewed and this dispute occurred in the disputed waters shortly thereafter. 
+
+ISLMID: MID3120 1 -- islands MID
+ISLMID-CER: MID3120 1 -- certain
+ISLMID-NOTES: MID3120 the San Andres and Providencia Islands were also disputed, as they were located in the disputed waters. Nicaragua retracted its recognition of Colombia's sovereignty over these islands when it re-asserted its maritime claim. Coded islands MID because the islands claim also contributed to tensions that led to this MID. 
+
+CIVWARMID: MID3120 3 -- not civil war 
+CIVWARMID-CER: MID3120 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3120 3 -- not civil war link
+CIVWARLINK-CER: MID3120 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3120 3 -- not coup 
+COUPMID-CER: MID3120 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3120 3 -- not coup link
+COUPLINK-CER: MID3120 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4145 
+
+TERRMID: MID4145 3 -- not territory
+TERRMID-CER: MID4145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4145 3 -- not third party link to territory 
+TERRLINK-CER: MID4145 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4145 3 -- not maritime 
+MARITMID-CER: MID4145 1 -- certain
+MARITMID-NOTES: MID4145 from cm narrative, this MID occurred 4/23/1994. Nicaraguan police captured a Colombian boat it suspected of being used to traffic drugs. Coded not maritime because, although the maritime boundary was disputed, this was an anti-trafficking issue and is explicitly isolated from the MIDs occurring because of the disputed maritime boundary.
+
+ISLMID: MID4145 3 -- not islands 
+ISLMID-CER: MID4145 1 -- certain
+ISLMID-NOTES: MID4145 this was a drug trafficking issue, not one involving the disputed islands. 
+
+CIVWARMID: MID4145 3 -- not civil war 
+CIVWARMID-CER: MID4145 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4145 3 -- not civil war link
+CIVWARLINK-CER: MID4145 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4145 3 -- not coup 
+COUPMID-CER: MID4145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4145 3 -- not coup link
+COUPLINK-CER: MID4145 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4263 
+
+TERRMID: MID4263 3 -- not territory
+TERRMID-CER: MID4263 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4263 3 -- not third party link to territory 
+TERRLINK-CER: MID4263 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4263 1 -- maritime MID
+MARITMID-CER: MID4263 1 -- certain
+MARITMID-NOTES: MID4263 from cm narrative, in 1999, after Honduras and Colombia signed a treaty that dismissed Nicaragua's claim to 52,000 square miles of the Caribbean Sea, Nicaragua filed a lawsuit with regional and world courts. This eventually led to clashes between the Colombian Navy and Nicaraguan fishing boats in 2001. Coded maritime MID because the maritime border was disputed between Nicaragua, Honduras, and Colombia, and while a treaty between Honduras and Colombia attempted to settle the dispute between those countries, it did not eliminate the maritime dispute between Nicaragua and Colombia and actually contributed to the MID here. 
+
+ISLMID: MID4263 1 -- islands MID
+ISLMID-CER: MID4263 1 -- certain
+ISLMID-NOTES: MID4263 coded islands MID because the disputed islands are part of the ongoing tensions that produced this MID. The captured Nicaraguan fishermen were taken to the disputed islands by Colombia and fined. 
+
+CIVWARMID: MID4263 3 -- not civil war 
+CIVWARMID-CER: MID4263 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4263 3 -- not civil war link
+CIVWARLINK-CER: MID4263 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4263 3 -- not coup 
+COUPMID-CER: MID4263 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4263 3 -- not coup link
+COUPLINK-CER: MID4263 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4145
+rivalry=93100 nationa=NICARAGUA nationb=COLOMBIA MID4145 19940400-19940400 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Nicaragua and Colombia were involved in a disagreement over territorial waters and fishing rights in the Caribbean Sea. This disagreement focused around the archipelago of San Andres and Providencia, which Colombia had obtained in a 1928 treaty. In April 1994, Nicaragua detained two Colombian fishing boats in the area, claiming that they were on Nicaraguan territorial waters for an undetermined period of time. Even though there do not appear to be any other related incidents, this was described as causing "a diplomatic conflict." Despite Nicaraguan authorities announcing their willingness to solve the conflict peacefully, incidents continued to take place in the region. First and last day of dispute is listed on 4/00/1994.
+
+MID4263
+rivalry=93100 nationa=COLOMBIA nationb=NICARAGUA MID4263 20011024-20011100 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=TERRITORY fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+In 1999, after Honduras and Colombia signed a treaty that dismissed Nicaragua's claim to 52,000 square miles of the Caribbean Sea, Nicaragua filed a lawsuit with regional and world courts. When Honduras countersued at the regional court, Nicaragua imposed a 35 percent duty on imports from Honduras. These moves led to a number of incidents in the Caribbean involving Nicaragua and either Colombia or Honduras. In one of those incidents, the maritime border between Nicaragua and Colombia witnessed a new incident sometime in late October or early November 2001. Colombian navy boarded the Nicaraguan fishing boat "Danny Junior" and arrested 11 Nicaraguan fishermen, claiming that they had entered Colombian territorial waters. The arrested fishermen were taken to San Andres Island and a fine of $8,000 was demanded for their release. Nicaraguan officials sent a "firm note of protest" to Colombia and claimed that the incident took place in their own territorial waters. First day of dispute was on 10/24/2001 and last day of dispute was on 11/00/2001.
+
+RIVNOTES: 
+Nicaragua and Columbia have sporadically disputed over the same territory. However, given the long periods between these disputes we code them as separate rivalries.
+
+NARRATIVE-CM:
+Colombia and Nicaragua disputed the sovereignty of the Mangles islands (Great Corn Island and Little Corn Island) in the Caribbean Sea beginning in 1853. Nicaragua and the United States signed a convention on February 8, 1913, which provided for the leasing of the disputed islands to the US in order to protect the Panama Canal. Colombia protested against the convention to the Nicaraguan government on August 9, 1913. Colombia and Nicaragua began bilateral negotiations in Bogota in September 1924. The countries signed the Barcenas Meneses-Esguerra Treaty in Managua on March 24, 1928, which provided for Colombian recognition of Nicaraguan sovereignty over the Mangles islands. Nicaragua also agreed to recognize Colombian sovereignty over the San Andres and Providencia islands in the Caribbean Sea. Nicaragua ratified the Barcenas Meneses-Esguerra Treaty on March 6, 1930. Colombia and the US signed the Vasquez-Saccio Treaty on September 8, 1972, which provided for US recognition of Colombian sovereignty over the San Andres and Providencia islands. Nicaragua claimed sovereignty over its 200-mile continental shelf, including the San Andres and Providencia islands, on December 12, 1979. Colombia rejected Nicaragua's claim on December 20, 1979. Nicaragua unilaterally nullified the 1928 agreement recognizing Colombian sovereignty over the San Andres and Providencia islands on February 5, 1980. The US Senate ratified the Vasquez-Saccio Treaty on July 7, 1981.
+
+SOURCES-CM:
+Allock et al., 1992, 577-579; Brecher and Wilkenfeld, 1997, 521-522; Foreign Relations of the United States (FRUS), 1913, 1032-1034; Ireland 1941, 164-169; Keesing, June 27, 1980.
+
+NARRATIVE-CR:
+Three of the four militarized disputes between Nicaragua and Colombia involve territorial claims to various parts of the Caribbean Sea. The first dispute over the claims occured in 1913, MID1196. The countries signed the Barcenas Meneses-Esguerra Treaty in Managua on March 24, 1928, which provided for Colombian recognition of Nicaraguan sovereignty over the Mangles islands. Nicaragua also agreed to recognize Colombian sovereignty over the San Andres and Providencia islands in the Caribbean Sea. Nicaragua ratified the Barcenas Meneses-Esguerra Treaty on March 6, 1930.
+
+While the 1928 treaty seemed to settle the dispute, Nicaragua claimed sovereignty over its 200-mile continental shelf, including the San Andres and Providencia islands, on December 12, 1979. Colombia rejected Nicaragua's claim on December 20, 1979. On January 22, 1980 Nicaragua formally protested the Colombian navy's forced movement of Nicaraguan fishing boats 120 miles from the port of Puerto Cabezas in Nicaraguan territorial waters, MID3120. Nicaragua unilaterally nullified the 1928 agreement recognizing Colombian sovereignty over the San Andres and Providencia islands on February 5, 1980, leading to the recall of Colombia's envoy to Nicaragua on February 15. On October 24, 2001 Colombian naval forces arrested eleven Nicaraguan fishermen and seized their boat for illegally fishing in Colombian territorial waters, MID4263. Nicaragua claimed the fishermen were in Nicaraguan territory.
+
+Since the territorial boundaries continue to remain in dispute, this dyad could be classified as a rivalry. The first dispute is quite separated from the last two disputes and even the last two are separated by 22 years, however. Thus, there is the question of whether these are really isolated incidents and not really serious issues of contention between the two states.
+
+In a final note, on April 23, 1994 the Nicaraguan police antidrug force captured a Colombian boat involved in drug trafficking in Nicaraguan territorial waters, MID4145. This dispute appears to be isolated from the ones involving territorial claims.
+
+SOURCES-CR:
+Latin America Weekly Report 1/25/1980, 2/15/1980; Xinhua News Agency 4/23/1994; Financial Times 11/14/2001
+
+MARITIME-MIDS: MID3120 MID4145 MID4263
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID3120
+ DYAD: NICARAGUA COLOMBIA 93100
+ DATES: 19800207 19800207
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+Nicaragua claimed sovereignty over its 200-mile continental shelf, including the San Andres and Providencia islands, on December 12, 1979. Colombia rejected Nicaragua's claim on December 20, 1979. On January 22, 1980 Nicaragua formally protested the Colombian navy's forced movement of Nicaraguan fishing boats 120 miles from the port of Puerto Cabezas in Nicaraguan territorial waters, MID3120. Nicaragua unilaterally nullified the 1928 agreement recognizing Colombian sovereignty over the San Andres and Providencia islands on February 5, 1980, leading to the recall of Colombia's envoy to Nicaragua on February 15.
+
+MARITIME-DISPUTE: MID4145
+ DYAD: NICARAGUA COLOMBIA 93100
+ DATES: 19940400 19940400
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4145
+ DYAD: NICARAGUA COLOMBIA 93100
+ DATES: 19940401 19940430
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4145 Nicaragua and Colombia were involved in a disagreement over territorial waters and fishing rights in the Caribbean Sea. This disagreement focused around the archipelago of San Andres and Providencia, which Colombia had obtained in a 1928 treaty. In April 1994, Nicaragua detained two Colombian fishing boats in the area, claiming that they were on Nicaraguan territorial waters for an undetermined period of time. Even though there do not appear to be any other related incidents, this was described as causing "a diplomatic conflict." Despite Nicaraguan authorities announcing their willingness to solve the conflict peacefully, incidents continued to take place in the region. 
+On April 23, 1994 the Nicaraguan police antidrug force captured a Colombian boat involved in drug trafficking in Nicaraguan territorial waters, MID4145. This dispute appears to be isolated from the ones involving territorial claims.
+
+DISPUTE: MID4263
+ DYAD: COLOMBIA NICARAGUA 100093
+ DATES: 20011024 20011100
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+DISPUTE: MID4263
+ DYAD: NICARAGUA COLOMBIA 93100
+ DATES: 20011024 20011130
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4263 In 1999, after Honduras and Colombia signed a treaty that dismissed Nicaragua's claim to 52,000 square miles of the Caribbean Sea, Nicaragua filed a lawsuit with regional and world courts. When Honduras countersued at the regional court, Nicaragua imposed a 35 percent duty on imports from Honduras. These moves led to a number of incidents in the Caribbean involving Nicaragua and either Colombia or Honduras. In one of those incidents, the maritime border between Nicaragua and Colombia witnessed a new incident sometime in late October or early November 2001. Colombian navy boarded the Nicaraguan fishing boat "Danny Junior" and arrested 11 Nicaraguan fishermen, claiming that they had entered Colombian territorial waters. The arrested fishermen were taken to San Andres Island and a fine of $8,000 was demanded for their release. Nicaraguan officials sent a "firm note of protest" to Colombia and claimed that the incident took place in their own territorial waters. 
+On October 24, 2001 Colombian naval forces arrested eleven Nicaraguan fishermen and seized their boat for illegally fishing in Colombian territorial waters, MID4263. Nicaragua claimed the fishermen were in Nicaraguan territory.

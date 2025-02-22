@@ -1,0 +1,196 @@
+FILE: cm325365v11.0.txt
+DYAD: ITALY - RUSSIA/USSR
+RIVALRY: RIV848
+DISPUTE(S): MID57 
+RIVALRY: RIV849
+DISPUTE(S): MID197 MID2606 MID2366 
+RIVALRY: RIV850
+DISPUTE(S): MID336 
+RIVALRY: RIV851
+DISPUTE(S): MID2226 MID3089 
+RIVALRY: RIV2005
+DISPUTE(S): MID4342 
+
+PSNOTES: 
+We kept the USSR-Italy at .5 throughout - there is not much direct engagement in WWII or in the post-WWI activities against the USSR by the allies
+
+PS-LAST-CHANGED: 20190108
+PS-LAST-CHECKED: 20190108
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID57
+
+WWI MIDs: MID197 MID2606 MID2366 
+
+MID336 
+
+TERRMID: MID336 3 -- not territory 
+TERRMID-CER: MID336 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID336 3 -- not third party link to territory 
+TERRLINK-CER: MID336 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID336 3 -- not maritime 
+MARITMID-CER: MID336 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID336 3 -- not islands 
+ISLMID-CER: MID336 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID336 3 -- not civil war 
+CIVWARMID-CER: MID336 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID336 1 -- civil war link 
+CIVWARLINK-CER: MID336 1 -- certain 
+CIVWARLINK-NOTES: MID336 from Gibler 2018, in 1937, Italy sunk a Soviet vessel off the coast of Algeria during their support for Franco's fascist forces in the Spanish Civil War. Coded civil war link because this was connected to the civil war in Spain, outside of this dyad. 
+
+COUPMID: MID336 3 -- not coup 
+COUPMID-CER: MID336 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID336 3 -- not coup link
+COUPLINK-CER: MID336 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2226 3 -- not maritime 
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: MID2226 from cm002365 narrative, this involves a show of ships, or a mutual display of naval power, between USSR and several NATO countries, including Italy here. Coded not maritime because Italy and USSR were not disputing a maritime boundary here, and this seems to be a product of general Cold War tensions. 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3089 
+
+TERRMID: MID3089 3 -- not territory 
+TERRMID-CER: MID3089 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3089 3 -- not third party link to territory 
+TERRLINK-CER: MID3089 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3089 3 -- not maritime 
+MARITMID-CER: MID3089 1 -- certain 
+MARITMID-NOTES: MID3089 from Gibler 2018, on 2/24/1982, a Soviet submarine entered Italian waters, and Italy chased it away. Coded not maritime because there was no maritime boundary being disputed, and this was likely connected to the Cold War. 
+
+ISLMID: MID3089 3 -- not islands 
+ISLMID-CER: MID3089 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3089 3 -- not civil war 
+CIVWARMID-CER: MID3089 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3089 3 -- not civil war link 
+CIVWARLINK-CER: MID3089 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3089 3 -- not coup 
+COUPMID-CER: MID3089 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3089 3 -- not coup link
+COUPLINK-CER: MID3089 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial MID
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler 2018, this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because Italy, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler 2018, this involves Italian (as part of NATO) war activity in Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and the various states experiencing this violence all lie outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4342
+rivalry=325365 nationa=RUSSIA/USSR nationb=ITALY MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV850: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV2005: new rivalry because MID4342 was added by MID3.02
+
+NARRATIVE-CM:
+Italian troops participated in the German invasion of the Soviet Union beginning on June 22, 1941.
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+Aggressions began between Italy and Russia with the onset of the Crimean War (MID57) in which the Allied Powers of France, Britain and Italy sought to protect their interests in the Near East and defend Turkey against Russia (Clodfelter 1992). Hostilities began after war was declared on October 4th of 1853 when a Turkish army crossed the Danube to engage Russian forces occupying the Ottoman territory of Romania. Preliminary peace terms were agreed upon by all sides on February 1st of 1856, ending the first rivalry between the two states.
+
+A new rivalry began with the Allied Intervention (including Italy) in the Russian revolution (MID197). It was an attempt to prevent the Bolshevik government from securing supplies given to the Tsarist armies, assist the White Armies in overthrowing the Bolsheviks and prevent Japan from securing an empire in Asia (Bradley 68). In January of 1918 the Allied forces entered Siberia and Eastern Russia (MID2606) with the intent of repelling Japanese forces at Vladivostok (Bradley 68). In June of 1918 the Allied forces landed troops in Northern Russia (MID2366) at Murmansk (Bradley 68) The interventions ended with the withdrawal of the Allied blockade and the British evacuation of the White Army from Crimea in November of 1920. However, the Allied forces would not recognize the USSR until 1924. 
+
+In 1937 Italy would again contribute forces to a joint operation against Russia in the Spanish Civil War (MID336). Along with Germany, Italy committed more than 50,000 troops to support the Nationalists trying to seize control of the Spanish government. Russia, along with France contributed forces to aid the Spanish Republican party. The nationalists headed by General Franco eventually won, establishing a fascist government and forcing the Republicans out of Spain and into France (www.onwar.com 2003). Italy, guided by the foreign policy direction of Mussolini entered the Second World War (MID258) on the side of Germany. Russia entered the war against Germany and Italy in September of 1939. Allied forces entered Italy and forced an armistice. During the signing of the armistice Churchill made it clear that if Italy wanted to retain a level of autonomy then it would have to substantively contribute to the ousting of German forces (Willis 1971). In November of 1944 the Protocols of Rome were drafted and signed which promised that after victory over fascism in Italy was achieved in totality then Britain would return all control to the Italian Badoglio government as well as return territory held by Allied troops in Northern Italy (Willis 1971). Finally after the signing of the peace treaty of 1947 foreign and domestic holdings were returned and complete control over policy was returned to Italy. The conclusion of WWII ended aggressions between Russia and Italy for 35 years
+
+The last two disputes between Russia and Italy both concern NATO maneuvers near Russia. MID2226 involves NATO maneuvers in northern Norway held from March 14-19, 1980. The USSR protested the maneuvers as unfriendly acts and as offensive gestures directed at the Soviet Union (Facts on File). The second dispute (MID3089) involved Soviet detection of an Italian submarine in Soviet waters. There are no specific details available in either the London or New York Times. It was a single day event and concluded the hostilities between the two states. 
+
+SOURCES-CR: 
+Bradley 1968; Clodfelter 1992; Willis 1971
+
+SOURCES: 
+Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

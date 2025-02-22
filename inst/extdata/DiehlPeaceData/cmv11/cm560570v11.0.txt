@@ -1,0 +1,178 @@
+FILE: cm560570v11.0.txt
+DYAD: SOUTH AFRICA - LESOTHO
+RIVALRY: RIV1164
+DISPUTE(S): MID3073 
+RIVALRY: RIV1165
+DISPUTE(S): MID4162 MID4237 
+
+PS: 19661004-19790508 .50 19790509-19941216 .25 19941217-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES: The .25 period begins on May 9, 1979 when Lesotho Liberation Army (backed by South Africa) conducted a series of terrorist attacks on Lesotho. Period is ended on last day of their last MID4237, which is in the same year as the end of apartheid and the end of other South Africanm rivalries
+
+PS-LAST-CHANGED: 20220320
+PS-LAST-CHECKED: 20220320
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID3073 
+
+TERRMID: MID3073 3 -- not territory 
+TERRMID-CER: MID3073 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3073 3 -- not third party link to territory 
+TERRLINK-CER: MID3073 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3073 3 -- not maritime 
+MARITMID-CER: MID3073 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3073 3 -- not islands 
+ISLMID-CER: MID3073 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3073 1 -- civil war MID
+CIVWARMID-CER: MID3073 1 -- certain 
+CIVWARMID-NOTES: MID3073 from Gibler 2018, from 1982-1983 a series of incidents occurred in which South African forces entered Lesotho and attacked rebels there who were targeting the South African government. Coded civil war MID because this MIDs events were motivated by civil conflict occurring within the states in this dyad.
+
+CIVWARLINK: MID3073 3 -- not civil war link 
+CIVWARLINK-CER: MID3073 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3073 3 -- not coup 
+COUPMID-CER: MID3073 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3073 3 -- not coup link
+COUPLINK-CER: MID3073 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4162 
+
+TERRMID: MID4162 3 -- not territory 
+TERRMID-CER: MID4162 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4162 3 -- not third party link to territory 
+TERRLINK-CER: MID4162 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4162 3 -- not maritime 
+MARITMID-CER: MID4162 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4162 3 -- not islands 
+ISLMID-CER: MID4162 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4162 3 -- not civil war 
+CIVWARMID-CER: MID4162 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4162 3 -- not civil war link 
+CIVWARLINK-CER: MID4162 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4162 1 -- coup MID
+COUPMID-CER: MID4162 1 -- certain 
+COUPMID-NOTES: MID4162 from cm narrative, Lesotho's king Lutsie III ousted Prime Minister Ntsu Mokhekle (8/17/94) with force. South Africa (along with Zimbabwe and Botswana) urged the reinstatement of the Prime Minister (8/25/94). During 9/7-9/9/94, South Africa takes escalatory action against Lesotho, including (repeatedly) massing troops at the border, threatening blockade, and flying fighters over a Lesotho military base. Lesotho responds by fortifying its border. Coded coup MID because a political elite (King Lutsie) ousted the Prime Minister in Lesotho, triggering this MID. 
+
+COUPLINK: MID4162 3 -- not coup link
+COUPLINK-CER: MID4162 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4237 
+
+TERRMID: MID4237 3 -- not territory 
+TERRMID-CER: MID4237 1 -- certain 
+TERRMID-NOTES: MID4237 from cm narrative, Lesotho reinforces its border by deploying troops to maintain security. Lesotho accuses South African farmers of stealing cattle in Lesotho with the help of South African army members. South Africa denies any involvement. Coded not territory because the dyad members were not disputing a boundary. This is an issue of crime/banditry.
+
+TERRLINK: MID4237 3 -- not third party link to territory 
+TERRLINK-CER: MID4237 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4237 3 -- not maritime 
+MARITMID-CER: MID4237 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4237 3 -- not islands 
+ISLMID-CER: MID4237 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4237 3 -- not civil war 
+CIVWARMID-CER: MID4237 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4237 3 -- not civil war link 
+CIVWARLINK-CER: MID4237 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4237 3 -- not coup 
+COUPMID-CER: MID4237 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4237 3 -- not coup link
+COUPLINK-CER: MID4237 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3 1993-2001:
+
+MID4162
+rivalry=560570 nationa=SOUTH AFRICA nationb=LESOTHO MID4162 19940907-19940914 
+ revtype1a=REGIME/GOVERNMENT revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+Lesotho's king Lutsie III ousted Prime Minister Ntsu Mokhekle (8/17/94) with force. South Africa (along with Zimbabwe and Botswana) urged the reinstatement of the Prime Minister (8/25/94). During 9/7-9/9/94, South Africa takes escalatory action against Lesotho, including (repeatedly) massing troops at the border, threatening blockade, and flying fighters over a Lesotho military base. Lesotho responds by fortifying its border. First day of dispute was on 9/7/1994 and last day of dispute was on 9/14/1994.
+
+MID4237
+rivalry=560570 nationa=LESOTHO nationb=SOUTH AFRICA MID4237 19941216-19941216 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Lesotho reinforces its border by deploying troops to maintain security. Lesotho accuses South African farmers of stealing cattle in Lesotho with the help of South African army members. South Africa denies any involvement. First and last day of dispute was on 12/16/1994.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Lesotho supported the anti-apartheid *African National Congress* (ANC) and provided a safe haven for South African political refugees in the late-1970s. South Africa began supporting *Lesotho Liberation Army* (LLA), which sought to overthrow the government of Prime Minister Leabua Jonathan, in May 1979. The LLA established bases in South Africa and launched several attacks against Lesotho from these bases. South African troops attacked ANC targets in Maseru, Lesotho on December 9, 1982, resulting in the deaths of 42 individuals. Prime Minister Jonathan of Lesotho protested the attack, and referred the matter to the *United Nations *(UN) Security Council on December 10, 1982. The UN General Assembly condemned South Africa on December 14, 1982, and the UN Security Council condemned South Africa on December 15, 1982. The South African foreign minister formally rejected the UN Security Council condemnation on February 9, 1983. *Non-Aligned Movement* (NAM) heads of state condemned South Africa's aggression against Lesotho and expressed support for Lesotho on March 12, 1983. The *Organization of African Unity *(OAU) heads-of-state condemned the South African blockade of Lesotho on June 12, 1983. SADF troops attacked ANC targets in Maseru on December 20, 1985, resulting in the deaths of nine individuals. UN Secretary-General Javier Perez de Cuellar condemned South African aggression against Lesotho on December 20, 1985. Lesotho referred the matter to the UN Security Council on December 23, 1985. The UN Security Council condemned South Africa's aggression against Lesotho on December 30, 1985. South Africa imposed a blockade of Lesotho on January 1, 1986. Lesotho referred the matter to the UN Security Council on January 14, 1986. UN Secretary-General Javier Perez de Cuellar appointed Rune Wrangdahl of Sweden as special representative to Lesotho on January 17, 1986. Prime Minister Jonathan was deposed in a military coup led by General Lekhanya on January 20, 1986, and General Lekhanya ended Lesotho's support for the ANC on January 21, 1986. South Africa lifted the blockade of Lesotho on January 25, 1986.
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1983-1984; *Africa Research Bulletin *(ARB), February 1-28, 1979, December 1-31, 1982, June 1-30, 1983; Allock et al., 1992, 270-274; Brecher and Wilkenfeld, 1997, 464-465, 474-475; Degenhardt, 1988, 326-337; *Keesing*, April 1983, December 1986; *UN Chronicle*, February 1986.
+
+NARRATIVE-CR:
+Lesotho supported the anti-apartheid *African National Congress* (ANC) and provided a safe haven for South African political refugees in the late-1970s. South Africa began supporting *Lesotho Liberation Army* (LLA), which sought to overthrow the government of Prime Minister Leabua Jonathan, in May 1979. The LLA established bases in South Africa and launched several attacks against Lesotho from these bases. Much like other rivalries in which South Africa was involved during this period, these factors were the main causes.
+
+South African troops attacked ANC targets in Maseru, Lesotho on December 9, 1982, resulting in the deaths of 42 individuals. This was MID3073.
+
+SADF troops attacked ANC targets in Maseru on December 20, 1985, resulting in the deaths of nine individuals. 
+
+South Africa imposed a blockade of Lesotho on January 1, 1986. South Africa lifted the blockade of Lesotho on January 25, 1986.
+
+The late 1980s brought about dramatic changes in the South African government, which changed the nature of relations between the two states. In 1989, Pretoria abandoned its policy of regional destabilization, which lessened the strains between the two countries. The ANC as well as 59 other previously illegal organizations were legalized on February 2, 1990. Over the next several months, the South African government saw the institution of a new constitution and an end to apartheid. Nelson Mandela, who had been a prisoner for nearly 30 years for his leadership in opposition to the South African government, was freed and became president. 
+
+Because of these changes in the domestic system of South Africa, the basis for this rivalry ended. 
+
+Another rivalry is listed between the two countries though, beginning in 1994. During this year, there are two MIDs listed, although there are none listed afterward.
+
+In 1994, the king of Lesotho ousted the elected government, but agreed due to threats of imposed sanctions by President Mandela of South Africa to reinstate democracy. However, he was opposed in this by his military. This is MID4162. COW narrative: MID4162 Lesotho's king Lutsie III ousted Prime Minister Ntsu Mokhekle (8/17/94) with force. South Africa (along with Zimbabwe and Botswana) urged the reinstatement of the Prime Minister (8/25/94). During 9/7-9/9/94, South Africa takes escalatory action against Lesotho, including (repeatedly) massing troops at the border, threatening blockade, and flying fighters over a Lesotho military base. Lesotho responds by fortifying its border. 
+
+I was unable to find information on the one day MID4237 on December 16, 1994, and I am not sure anyway that this rises to the level of an actual rivalry between the two countries considering no disputes have occurred since. COW narrative is: MID4237 Lesotho reinforces its border by deploying troops to maintain security. Lesotho accuses South African farmers of stealing cattle in Lesotho with the help of South African army members. South Africa denies any involvement. 
+
+SOURCES-CR: 
+Allock et al., 1992; Barber and Barrett, 1990; Brecher and Wilkenfeld, 1997; Burford, and Freer, 2001; Degenhardt, 1988; Dzimba, 1998; Keesing's, September 1994; New York Times, September 12 1994.
+
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,894 @@
+FILE: cm091093v11.0.txt
+DYAD: HONDURAS-NICARAGUA
+RIVALRY: RIV219
+DISPUTE(S): MID1202 MID1203 MID1195 MID2040 MID1168 MID1170
+RIVALRY: RIV10220
+DISPUTE(S): MID1173 MID2344 MID2325 MID2347 MID2353 MID2771 MID3905 MID3988 MID4011 MID4012 MID4171 MID4140 MID4141 MID4259 MID4327
+
+PS: 19009999-19070104 .5 19070105-19290709 0.00 19290710-19570418 .50 19570419-20010316 0.00 20010317-20071007 0.25 20071008-20209999 0.50
+
+PS-UPDATE2020:
+
+PS NOTES: 
+
+PS-LAST-CHANGED: 20220217
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1202 
+
+TERRMID: MID1202 3 -- not territory
+TERRMID-CER: MID1202 3 -- uncertain 
+TERRMID-NOTES: MID1202 from cm narrative, the border between Honduras and Nicaragua has been disputed since 1858 and remains unsettled. From Gibler, Miller, and Little (2016: IIC-2), Nicaragua and Honduras were actually on the same side in this dispute, which involved Guatemala and El Salvador supporting an uprising in Honduras. Coded not territory because although the territory was disputed between Honduras and Nicaragua, this was not connected to that dispute, and the two were actually on the same side in this dispute. Coded uncertain because if on the same side, this may not be a MID.
+
+TERRLINK: MID1202 3 -- not third party link to territory 
+TERRLINK-CER: MID1202 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1202 3 -- not maritime 
+MARITMID-CER: MID1202 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1202 3 -- not islands 
+ISLMID-CER: MID1202 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1202 1 -- civil war MID
+CIVWARMID-CER: MID1202 1 -- certain
+CIVWARMID-NOTES: MID1202 from Gibler, Miller, and Little (2016), this multilateral MID is connected to an ongoing revolution in Honduras. Honduras and Nicaragua were actually on the same side in this dispute against Guatemala and El Salvador, both of whom were supporting revolutionaries in Honduras. Coded civil war MID because an ongoing revolution in Honduras contributed to this MID, although it should be noted that Honduras and Nicaragua were on the same side in this dispute. 
+
+CIVWARLINK: MID1202 1 -- civil war link
+CIVWARLINK-CER: MID1202 1 -- certain
+CIVWARLINK-NOTES: MID1202 this multilateral civil war MID involves Central American states supporting insurgencies in each other's countries, along Conservative vs. Liberal lines. In this MID, Guatemala and El Salvador (outside of this dyad) were also supporting insurgencies, and other states were supporting insurgencies within those countries. Coded civil war link because this MID involves militarized rebel groups in Guatemala and El Salvador, outside of this dyad. 
+
+COUPMID: MID1202 3 -- not coup 
+COUPMID-CER: MID1202 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1202 3 -- not coup link
+COUPLINK-CER: MID1202 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1203 
+
+TERRMID: MID1203 3 -- not territory
+TERRMID-CER: MID1203 1 -- certain 
+TERRMID-NOTES: MID1203 Honduras and Nicaragua had an ongoing territorial dispute, but this MID was not connected to the border, but was rather connected to Honduras supporting revolutionaries in Nicaragua. See CIVWARMID. 
+
+TERRLINK: MID1203 3 -- not third party link to territory 
+TERRLINK-CER: MID1203 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1203 3 -- not maritime 
+MARITMID-CER: MID1203 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1203 3 -- not islands 
+ISLMID-CER: MID1203 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1203 1 -- civil war MID
+CIVWARMID-CER: MID1203 1 -- certain
+CIVWARMID-NOTES: MID1203 from cm002093v11.0 narrative, this dispute involves the US and Honduras supporting a rebellion against President Zelaya of Nicaragua. Zelaya was a liberal, and Honduras had a conservative government at the time that was helping conservative rebel forces fight against Zelaya's government. Coded civil war MID because a rebellion in Nicaragua contributed to the events of this MID. 
+
+CIVWARLINK: MID1203 1 -- civil war link
+CIVWARLINK-CER: MID1203 1 -- certain
+CIVWARLINK-NOTES: MID1203 this is a multilateral civil war MID that also involves Nicaragua and El Salvador funding rebel groups against each other's government. El Salvador supported conservative rebels against Nicaragua's government, and Nicaragua supported liberal rebels against El Salvador's government. Coded civil war link because this MID involves civil conflict in El Salvador, outside this dyad. 
+
+COUPMID: MID1203 3 -- not coup 
+COUPMID-CER: MID1203 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1203 3 -- not coup link
+COUPLINK-CER: MID1203 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1195 
+
+TERRMID: MID1195 1 -- territorial MID
+TERRMID-CER: MID1195 1 -- certain 
+TERRMID-NOTES: MID1195 from Schultz data, Nicaragua sent troops into the disputed territory, and Honduras responded by deploying its own troops to the disputed region. The tensions were de-escalated when the US offered to arbitrate the dispute. Coded territorial MID because this MID occurred in and because of the disputed territory.
+
+TERRLINK: MID1195 3 -- not third party link to territory 
+TERRLINK-CER: MID1195 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1195 3 -- not maritime 
+MARITMID-CER: MID1195 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1195 3 -- not islands 
+ISLMID-CER: MID1195 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1195 3 -- not civil war 
+CIVWARMID-CER: MID1195 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1195 3 -- not civil war link
+CIVWARLINK-CER: MID1195 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1195 3 -- not coup 
+COUPMID-CER: MID1195 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1195 3 -- not coup link
+COUPLINK-CER: MID1195 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2040 
+
+TERRMID: MID2040 1 -- territorial MID
+TERRMID-CER: MID2040 1 -- certain 
+TERRMID-NOTES: MID2040 from MID-B data, this MID occurred February 1920. Fenwick (1957) describes the Honduras-Nicaragua border dispute and how it eventually led to the submission of the dispute to the ICJ. From Fenwick (2017), Honduras asserted the boundary was marked by the Rio Coco/Segovia, an inland river boundary. Nicaragua responded by occupying the disputed area, contesting that claim by Honduras. Coded territorial MID because this occurred in disputed territory and was triggered by Honduras asserting the location of the boundary and Nicaragua's response. 
+
+TERRLINK: MID2040 3 -- not third party link to territory 
+TERRLINK-CER: MID2040 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2040 3 -- not maritime 
+MARITMID-CER: MID2040 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2040 3 -- not islands 
+ISLMID-CER: MID2040 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2040 3 -- not civil war 
+CIVWARMID-CER: MID2040 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2040 3 -- not civil war link
+CIVWARLINK-CER: MID2040 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2040 3 -- not coup 
+COUPMID-CER: MID2040 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2040 3 -- not coup link
+COUPLINK-CER: MID2040 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1168 
+
+TERRMID: MID1168 3 -- not territory
+TERRMID-CER: MID1168 3 -- uncertain 
+TERRMID-NOTES: MID1168 from MID-B data, this MID has data range 2/1922-8/22/1922. No information on this MID could be found from cm narrative; Schultz data; Gibler, Little, and Miller (2016); or the New York Times. Honduras and Nicaragua disputed both a land and maritime boundary. Coded uncertain because of lack of info on dispute. 
+
+TERRLINK: MID1168 3 -- not third party link to territory 
+TERRLINK-CER: MID1168 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1168 3 -- not maritime 
+MARITMID-CER: MID1168 3 -- uncertain
+MARITMID-NOTES: MID1168 from MID-B data, this MID has data range 2/1922-8/22/1922. no informaion on this MID could be found from cm narrative; Schultz data; Gibler, Little, and Miller (2016); or the New York Times. Honduras and Nicaragua disputed both a land and maritime boundary. Coded uncertain because of lack of info on dispute. 
+
+ISLMID: MID1168 3 -- not islands 
+ISLMID-CER: MID1168 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1168 3 -- not civil war 
+CIVWARMID-CER: MID1168 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1168 3 -- not civil war link
+CIVWARLINK-CER: MID1168 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1168 3 -- not coup 
+COUPMID-CER: MID1168 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1168 3 -- not coup link
+COUPLINK-CER: MID1168 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1170 
+
+TERRMID: MID1170 3 -- not territory
+TERRMID-CER: MID1170 1 -- certain 
+TERRMID-NOTES: MID1170 from NYT 4/10/1929, the US bombed the disputed territory between Nicaragua and Honduras, intending to kill bandits who were prevalent in that area. Although the territory was being disputed, this MID was not connected to the territorial dispute, and Nicaraguan and Honduran troops were actually in the area cooperating together to police the bandits. Coded not territory because although the territory was disputed, this was not connected to the territorial dispute and the troops of both countries were actually cooperating during this MID.
+
+TERRLINK: MID1170 3 -- not third party link to territory 
+TERRLINK-CER: MID1170 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1170 3 -- not maritime 
+MARITMID-CER: MID1170 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1170 3 -- not islands 
+ISLMID-CER: MID1170 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1170 3 -- not civil war
+CIVWARMID-CER: MID1170 1 -- certain
+CIVWARMID-NOTES: MID1170 from NYT 4/11/1929, Honduran troops patrolling the disputed border were there to prevent raids by bandits and Nicaraguan rebels. Nicaragua also had troops near the border to prevent raiding by bandits. This MID was triggered when the US bombed that disputed territory, and Honduras protested partially because its troops were in the area. From NYT 4/10/1929, the US had bombed that area because one of its planes had been fired on by bandits (not rebels), and the US responded by bombing the town. Coded not civil war because this MID was triggered by bandit activity in the area; the US bombed bandits in response to those bandits firing on their plane. Not connected to the civil conflict in Honduras. 
+
+CIVWARLINK: MID1170 3 -- not civil war link
+CIVWARLINK-CER: MID1170 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1170 3 -- not coup 
+COUPMID-CER: MID1170 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1170 3 -- not coup link
+COUPLINK-CER: MID1170 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1173 
+
+TERRMID: MID1173 1 -- territorial MID
+TERRMID-CER: MID1173 1 -- certain 
+TERRMID-NOTES: MID1173 from cm narrative, the territorial dispute between Nicaragua and Honduras had been relatively dormant until this MID occurred in 1957. Here, Honduran troops entered the disputed territory in an attempt to assert control over it, effectively reigniting the tensions over this area. Nicaragua deployed its own troops, and a border clash ensued. Coded territorial MID because this clash happened in and because of the disputed territory. 
+
+TERRLINK: MID1173 3 -- not third party link to territory 
+TERRLINK-CER: MID1173 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1173 3 -- not maritime 
+MARITMID-CER: MID1173 1 -- certain
+MARITMID-NOTES: MID1173 clash not connected to the maritime dispute. 
+
+ISLMID: MID1173 3 -- not islands 
+ISLMID-CER: MID1173 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1173 3 -- not civil war 
+CIVWARMID-CER: MID1173 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1173 3 -- not civil war link
+CIVWARLINK-CER: MID1173 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1173 3 -- not coup 
+COUPMID-CER: MID1173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1173 3 -- not coup link
+COUPLINK-CER: MID1173 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2344 
+
+TERRMID: MID2344 1 -- territorial MID
+TERRMID-CER: MID2344 1 -- certain 
+TERRMID-NOTES: MID2344 from cm narrative, this is another clash that occurred after Honduras reignited the tensions over the land boundary. In 1957 (MID1173), Honduras had entered the disputed territory and caused a border clash, renewing the tension over the disputed region. Here, in 1962, another border clash broke out as a result of these renewed tensions. Coded territorial MID because this clash occurred in and because of the disputed territory. 
+
+TERRLINK: MID2344 3 -- not third party link to territory 
+TERRLINK-CER: MID2344 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2344 3 -- not maritime 
+MARITMID-CER: MID2344 1 -- certain
+MARITMID-NOTES: MID2344 not connected to the maritime boundary dispute. 
+
+ISLMID: MID2344 3 -- not islands 
+ISLMID-CER: MID2344 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2344 3 -- not civil war 
+CIVWARMID-CER: MID2344 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2344 3 -- not civil war link
+CIVWARLINK-CER: MID2344 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2344 3 -- not coup 
+COUPMID-CER: MID2344 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2344 3 -- not coup link
+COUPLINK-CER: MID2344 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2325 
+
+TERRMID: MID2325 3 -- not territory
+TERRMID-CER: MID2325 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2325 3 -- not third party link to territory 
+TERRLINK-CER: MID2325 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2325 1 -- maritime MID
+MARITMID-CER: MID2325 1 -- certain
+MARITMID-NOTES: MID2325 from cm narrative, this MID occurred 11/1/1979 and consisted of Honduran vessels being seized by Nicaraguan naval ships in 1979. The countries were disputing the maritime border in addition to the land border, and this MID occurred in the disputed waters. Coded maritime MID because this fishing dispute occurred because of the disputed waters; Honduras believed the vessels were in its own waters. 
+
+ISLMID: MID2325 3 -- not islands 
+ISLMID-CER: MID2325 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2325 3 -- not civil war 
+CIVWARMID-CER: MID2325 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2325 3 -- not civil war link
+CIVWARLINK-CER: MID2325 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2325 3 -- not coup 
+COUPMID-CER: MID2325 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2325 3 -- not coup link
+COUPLINK-CER: MID2325 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2347 
+
+TERRMID: MID2347 3 -- not territory
+TERRMID-CER: MID2347 1 -- certain 
+TERRMID-NOTES: MID2347 the two countries were disputing their border at this time, but this MID was not connected to the territorial dispute. See CIVWARMID. 
+
+TERRLINK: MID2347 3 -- not third party link to territory 
+TERRLINK-CER: MID2347 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2347 3 -- not maritime 
+MARITMID-CER: MID2347 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2347 3 -- not islands 
+ISLMID-CER: MID2347 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2347 1 -- civil war MID
+CIVWARMID-CER: MID2347 1 -- certain
+CIVWARMID-NOTES: MID2347 from NYT 4/30/1981, Nicaragua and Honduras closed their border after minor border clashes occurred. Nicaraguan exiles were fighting against the Nicaraguan Sandanista government (the Sandinistas had just overthrown the Somoza regime in Nicaragua) and were hiding out in Honduras. Coded civil war MID because this MID was driven by the Nicaraguan revolution, in which the Sandanistas overthrew the Somoza government in Nicaragua and then fought against Nicaraguan rebels/exiles. Honduras allowed these rebels to operate in its territory, which led to Nicaragua deploying troops to the border, triggering this MID. 
+
+CIVWARLINK: MID2347 3 -- not civil war link
+CIVWARLINK-CER: MID2347 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2347 3 -- not coup 
+COUPMID-CER: MID2347 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2347 3 -- not coup link
+COUPLINK-CER: MID2347 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2353 
+
+TERRMID: MID2353 3 -- not territory
+TERRMID-CER: MID2353 1 -- certain 
+TERRMID-NOTES: MID2353 the border was disputed between these countries, but this MID was connected to civil war activity in Nicaragua. See CIVWARMID.
+
+TERRLINK: MID2353 3 -- not third party link to territory 
+TERRLINK-CER: MID2353 1 -- certain
+TERRLINK-MID2353 
+
+MARITMID: MID2353 3 -- not maritime 
+MARITMID-CER: MID2353 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2353 3 -- not islands 
+ISLMID-CER: MID2353 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2353 1 -- civil war MID
+CIVWARMID-CER: MID2353 1 -- certain
+CIVWARMID-NOTES: MID2353 from NYT 4/25/1988, Nicaraguan troops destroyed a village in Honduras in a raid by the Sandanista government with the intention of taking out rebel bases. The rebels were mostly Nicaraguan exiles who were taking refuge in Honduras and periodically crossing the border to attack the Nicaraguan government. Coded civil war MID because this was connected to rebels fighting against the Nicaraguan government. 
+
+CIVWARLINK: MID2353 3 -- not civil war link
+CIVWARLINK-CER: MID2353 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2353 3 -- not coup 
+COUPMID-CER: MID2353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2353 3 -- not coup link
+COUPLINK-CER: MID2353 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2771 
+
+TERRMID: MID2771 3 -- not territory
+TERRMID-CER: MID2771 1 -- certain 
+TERRMID-NOTES: MID2771 from Associated Press 9/30/1988 and Washington Post 9/30/1988, Honduran aircraft violated Nicaraguan airspace, and Nicaragua fired on the aircraft. The aircraft was not hit. Coded not territory because although the countries were disputing their land border, there is no indication that Honduras was attempting to challenge Nicaragua over the border dispute and it is not clear that this occurred anywhere near the disputed border. This seemed to be an isolated event.
+
+TERRLINK: MID2771 3 -- not third party link to territory 
+TERRLINK-CER: MID2771 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2771 3 -- not maritime 
+MARITMID-CER: MID2771 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2771 3 -- not islands 
+ISLMID-CER: MID2771 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2771 3 -- not civil war 
+CIVWARMID-CER: MID2771 1 -- certain
+CIVWARMID-NOTES: MID2771 Honduras and Nicaragua did have tensions when the Sandanista government came to power in Nicaragua, but there is no indication that this MID was connected to the civil war in Nicaragua or any rebel group activity in either country. Here, Honduras violated Nicaraguan airspace, whereas in previous civil war MIDs, it is Nicaragua searching for rebels in Honduras. There is no clear reason why Honduras would be violating Nicaraguan airspace in a way that is connected to civil war activity. 
+
+CIVWARLINK: MID2771 3 -- not civil war link
+CIVWARLINK-CER: MID2771 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2771 3 -- not coup 
+COUPMID-CER: MID2771 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2771 3 -- not coup link
+COUPLINK-CER: MID2771 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3905 
+
+TERRMID: MID3905 3 -- not territory
+TERRMID-CER: MID3905 1 -- certain 
+TERRMID-NOTES: MID3905 no indication that this was connected to the land border dispute. 
+
+TERRLINK: MID3905 3 -- not third party link to territory 
+TERRLINK-CER: MID3905 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3905 3 -- not maritime 
+MARITMID-CER: MID3905 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3905 3 -- not islands 
+ISLMID-CER: MID3905 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3905 1 -- civil war MID
+CIVWARMID-CER: MID3905 3 -- uncertain
+CIVWARMID-NOTES: MID3905 no info on a specific dispute could be found from cm narrative; Gibler, Little, and Miller (2016); Schultz data; or the New York Times. This MID has date range 4/1989-9/1989, per the MID-B data. The stories that appear in the New York Times during this date range all discuss Central American States unanimously and officially agreeing, in a conference, that the Contra rebels must disarm and end their struggle against the Sandinista government in Nicaragua. See NT 8/8/1989 for example. The Contras were seeking refuge in Honduras, which is perhaps why Honduras is pulled into this MID. Coded civil war MID because the tensions at this time seem to be connected to Contra rebels, some of whom were in Honduras, but coded uncertain because it is unclear what triggered a MID here.
+
+CIVWARLINK: MID3905 3 -- not civil war link
+CIVWARLINK-CER: MID3905 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3905 3 -- not coup 
+COUPMID-CER: MID3905 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3905 3 -- not coup link
+COUPLINK-CER: MID3905 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3988 
+
+TERRMID: MID3988 3 -- not territory
+TERRMID-CER: MID3988 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3988 3 -- not third party link to territory 
+TERRLINK-CER: MID3988 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3988 1 -- maritime MID
+MARITMID-CER: MID3988 1 -- certain
+MARITMID-NOTES: MID3988 from cm narrative, the maritime border between Nicaragua and Honduras was disputed. Here, Honduran naval ships and Nicaraguan naval ships clashed in the Fonseca Gulf on February 1, 1991, resulting in the deaths of one Nicaraguan soldier. The Fonseca Gulf was part of the disputed waters between Nicaragua and Honduras. Coded maritime MID because this was a naval clash in disputed waters that occurred due to the maritime dispute between the countries. 
+
+ISLMID: MID3988 3 -- not islands 
+ISLMID-CER: MID3988 1 -- certain
+ISLMID-NOTES: MID3988 the maritime dispute includes disputed islands of Bobel Cay, Savanna Cay, Port Royal Cay and South Cay (collectively considered an archipelago in dispute). Ownership of these islands had implications for the maritime boundary. This is coded not islands because this MID is connected to the maritime boundary itself, not the islands directly. Naval ships clashed in the disputed waters after tensions rose over offshore drilling rights. 
+
+CIVWARMID: MID3988 3 -- not civil war 
+CIVWARMID-CER: MID3988 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3988 3 -- not civil war link
+CIVWARLINK-CER: MID3988 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3988 3 -- not coup 
+COUPMID-CER: MID3988 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3988 3 -- not coup link
+COUPLINK-CER: MID3988 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4011 
+
+TERRMID: MID4011 3 -- not territory
+TERRMID-CER: MID4011 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4011 3 -- not third party link to territory 
+TERRLINK-CER: MID4011 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4011 1 -- maritime MID
+MARITMID-CER: MID4011 1 -- certain
+MARITMID-NOTES: MID4011 from cm narrative, in April 1995, in the Gulf of Fonseca, Nicaraguan armed forces captured four Honduran fishing boats and eight fishermen; each side claimed that the Honduran fishermen were in its own territorial waters when arrested. The boats were brought to a nearby island by Nicaraguan authorities, followed by Honduran police and naval authorities. An armed skirmish took place, as Nicaragua initiated the fire and Honduras responded. Another naval clash occurred on May 31 as Honduran armed forces tried to prevent Nicaraguan armed forces from arresting Honduran fishermen in the Gulf of Fonseca, who were allegedly fishing in Nicaraguan waters. Coded maritime MID because these clashes occurred because of the disputed border; each claimed the fishing vessels were in their own territory. 
+
+ISLMID: MID4011 3 -- not islands 
+ISLMID-CER: MID4011 1 -- certain
+ISLMID-NOTES: MID4011 the disputed waters (the Gulf of Fonseca) included a disputed archipelago, as sovereignty over the islands had implications for the maritime boundary. However, this MID only includes naval clashes due to fishing in the disputed waters. A series of incidents occurred here involving the seizure or defense against the seizure of fishing vessels. Coded not islands because the events of this MID are not directly connected to the islands. 
+
+CIVWARMID: MID4011 3 -- not civil war 
+CIVWARMID-CER: MID4011 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4011 3 -- not civil war link
+CIVWARLINK-CER: MID4011 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4011 3 -- not coup 
+COUPMID-CER: MID4011 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4011 3 -- not coup link
+COUPLINK-CER: MID4011 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4012 
+
+TERRMID: MID4012 3 -- not territory
+TERRMID-CER: MID4012 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4012 3 -- not third party link to territory 
+TERRLINK-CER: MID4012 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4012 1 -- maritime MID
+MARITMID-CER: MID4012 1 -- certain
+MARITMID-NOTES: MID4012 from cm narrative, this was connected to ongoing conflict between Honduras and Nicaragua over maritime zones in the Caribbean Sea. During the weekend of December 16-17, 1995, a Nicaraguan coast guard cutter boarded four Honduran fishing boats and arrested 106 crewmen. In a shootout, which Nicaragua claimed that Hondurans initiated, a Nicaraguan sailor and a Honduran fisherman were wounded. On December 22, 1995, Honduras threatened to open fire on any Nicaraguan patrol boats in the disputed waters. Coded maritime MID because this incident was connected to the disputed maritime border. 
+
+ISLMID: MID4012 3 -- not islands 
+ISLMID-CER: MID4012 1 -- certain
+ISLMID-NOTES: MID4012 the disputed waters (the Gulf of Fonseca) included a disputed archipelago, as sovereignty over the islands had implications for the maritime boundary. However, this MID only includes naval clashes due to fishing in the disputed waters. Coded not islands because this was not tied to the islands themselves, only to fishing in the disputed waters. 
+
+CIVWARMID: MID4012 3 -- not civil war 
+CIVWARMID-CER: MID4012 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4012 3 -- not civil war link
+CIVWARLINK-CER: MID4012 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4012 3 -- not coup 
+COUPMID-CER: MID4012 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4012 3 -- not coup link
+COUPLINK-CER: MID4012 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4171 
+
+TERRMID: MID4171 3 -- not territory
+TERRMID-CER: MID4171 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4171 3 -- not third party link to territory 
+TERRLINK-CER: MID4171 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4171 1 -- maritime MID 
+MARITMID-CER: MID4171 1 -- certain
+MARITMID-NOTES: MID4171 from cm narrative, as a part of a longstanding dispute over fishing rights and territorial waters in the Gulf of Fonseca, Honduras claimed that Nicaraguan boats shot at Honduran fishermen in Honduran waters on January 9, 1997, and arrested fourteen of them. Nicaragua claimed that the incident took place in their territorial waters, and released the fishermen two days later but kept their eleven fishing boats. Coded maritime MID because this MID occurred as a result of Nicaraguan boats that Nicaraguans claimed to be in their own territory, while Honduras claimed they were in Honduran territory. 
+
+ISLMID: MID4171 3 -- not islands 
+ISLMID-CER: MID4171 1 -- certain
+ISLMID-NOTES: MID4171 the disputed waters (the Gulf of Fonseca) included a disputed archipelago, as sovereignty over the islands had implications for the maritime boundary. However, this MID only includes naval clashes due to fishing in the disputed waters. Coded not islands because this was not tied to the islands themselves, only to fishing in the disputed waters. 
+
+CIVWARMID: MID4171 3 -- not civil war 
+CIVWARMID-CER: MID4171 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4171 3 -- not civil war link
+CIVWARLINK-CER: MID4171 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4171 3 -- not coup 
+COUPMID-CER: MID4171 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4171 3 -- not coup link
+COUPLINK-CER: MID4171 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4140 
+
+TERRMID: MID4140 3 -- not territory
+TERRMID-CER: MID4140 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4140 3 -- not third party link to territory 
+TERRLINK-CER: MID4140 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4140 1 -- maritime MID
+MARITMID-CER: MID4140 1 -- certain
+MARITMID-NOTES: MID4140 from cm narrative, Honduras signed a maritime treaty with Colombia, and that treaty recognized the San Andres Archipelago, also claimed by Nicaragua, as Colombian territory. On December 1, 1999, Nicaragua put its military forces on alert. Threats between Nicaragua and Honduras ensued. Coded maritime MID because the threats here occurred when Honduras made a claim on the maritime boundary it disputed with Nicaragua. 
+
+ISLMID: MID4140 1 -- islands MID
+ISLMID-CER: MID4140 1 -- certain
+ISLMID-NOTES: MID4140 from cm narrative, this MID is connected to the dispute over the archipelago in the Gulf of Fonseca. When Honduras signed a treaty with Colombia that stated the archipelago belonged to Colombia, Nicaragua (who claimed the archipelago in the dispute with Honduras) responded by placing its armed forces on high alert. Later, Nicaragua deployed troops to the Honduran border and performed military exercises elsewhere near the Honduran border, prompting protest from Honduras and an offer of OAS mediation. Coded islands MID because this MID was directly connected to the disputed islands, as Honduras recognizing the islands as Colombian territory led to Nicaragua engaging in actions that comprise this MID. 
+
+CIVWARMID: MID4140 3 -- not civil war 
+CIVWARMID-CER: MID4140 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4140 3 -- not civil war link
+CIVWARLINK-CER: MID4140 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4140 3 -- not coup 
+COUPMID-CER: MID4140 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4140 3 -- not coup link
+COUPLINK-CER: MID4140 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4141 
+
+TERRMID: MID4141 3 -- not territory
+TERRMID-CER: MID4141 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4141 3 -- not third party link to territory 
+TERRLINK-CER: MID4141 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4141 1 -- maritime MID
+MARITMID-CER: MID4141 1 -- certain
+MARITMID-NOTES: MID4141 from cm narrative, this is another MID triggered between Nicaragua and Honduras when Honduras signed a treaty with Colombia that dismissed Nicaragua's maritime claim. On February 19, 2000, Nicaraguan and Honduran speed boats clashed in the Gulf of Fonseca. Both countries blamed each other for initiating the incident. This was followed by a second incident on February 25, 2000. Nicaragua claimed that a Honduran navy vessel entered Nicaraguan territorial waters and opened fire on two Nicaraguan patrol boats that had been stationed in the area to prevent illegal fishing. Coded maritime MID because this was connected to Honduras dismissing Nicaraguan claims to the maritime border and the clashes occurred in the disputed waters. 
+
+ISLMID: MID4141 3 -- not islands 
+ISLMID-CER: MID4141 1 -- certain
+ISLMID-NOTES: MID4141 the maritime dispute between Honduras and Nicaragua involved the disputation of several islands, but this MID does not involve the islands directly. Sovereignty over the islands had implications for the maritime boundary. Here, a naval fire exchange occurred when Honduras deployed a warship to the disputed waters to prevent illegal fishing. Coded not islands because this MID involved the dispute over the waters in the Gulf of Fonseca, not the islands themselves. 
+
+CIVWARMID: MID4141 3 -- not civil war 
+CIVWARMID-CER: MID4141 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4141 3 -- not civil war link
+CIVWARLINK-CER: MID4141 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4141 3 -- not coup 
+COUPMID-CER: MID4141 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4141 3 -- not coup link
+COUPLINK-CER: MID4141 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4259 
+
+TERRMID: MID4259 3 -- not territory
+TERRMID-CER: MID4259 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4259 3 -- not third party link to territory 
+TERRLINK-CER: MID4259 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4259 1 -- maritime MID
+MARITMID-CER: MID4259 1 -- certain
+MARITMID-NOTES: MID4259 from cm narrative, this is another MID connected to Nicaraguan anger after Honduras dismissed Nicaragua's claims to a section of the Caribbean Sea by signing a maritime treaty with Colombia. In response to that treaty, a series of militarized incidents occurred. Here, Honduras increased border patrols and deployed more troops close to the border, sparking Nicaraguan protest. Coded maritime MID because although this involved land troop deployments, that activity is explicitly tied to tensions over the disputed maritime border. 
+
+ISLMID: MID4259 1 -- islands MID
+ISLMID-CER: MID4259 1 -- certain
+ISLMID-NOTES: MID4259 from cm narrative, this MID is connected to tensions over Honduras recognizing the sovereignty of the disputed archipelago as belonging to Colombia. Honduras signed a treaty with Colombia awarding the islands (disputed by Honduras and Nicaragua) to Colombia. Here, a series of militarized incidents occurred, including Nicaraguan troops being deployed along the Honduran border. Coded islands MID because this was directly connected to the disputed islands after Honduras claimed that the islands belonged to Colombia. 
+
+CIVWARMID: MID4259 3 -- not civil war 
+CIVWARMID-CER: MID4259 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4259 3 -- not civil war link
+CIVWARLINK-CER: MID4259 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4259 3 -- not coup 
+COUPMID-CER: MID4259 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4259 3 -- not coup link
+COUPLINK-CER: MID4259 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4327 
+
+TERRMID: MID4327 3 -- not territory
+TERRMID-CER: MID4327 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4327 3 -- not third party link to territory 
+TERRLINK-CER: MID4327 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4327 1 -- maritime MID
+MARITMID-CER: MID4327 1 -- certain
+MARITMID-NOTES: MID4327 from cm narrative, this incident occurred against the background of a longstanding disagreement over waters in the Gulf of Fonseca, which had generated numerous militarized incidents over the past decade. Honduras stationed four ships near the maritime border in the Gulf. The Honduran government stated that the ships were for use in patrolling Honduran waters. Nicaragua pulled its forces back slightly from the border, but indicated that it would act to repel any Honduran incursion into Nicaraguan waters. Coded maritime MID because this was explicitly tied to the disputed maritime border.
+
+ISLMID: MID4327 3 -- not islands 
+ISLMID-CER: MID4327 1 -- certain
+ISLMID-NOTES: MID4327 from cm narrative, this MID was connected to the disputed waters in the Gulf of Fonseca, not the disputed islands themselves. The islands in the gulf were disputed because sovereignty over them had implications for the maritime boundary. Coded not islands because this dispute was relate to the disputed waters, not the islands themselves. 
+
+CIVWARMID: MID4327 3 -- not civil war 
+CIVWARMID-CER: MID4327 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4327 3 -- not civil war link
+CIVWARLINK-CER: MID4327 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4327 3 -- not coup 
+COUPMID-CER: MID4327 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4327 3 -- not coup link
+COUPLINK-CER: MID4327 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10220 is a combination of two rivalries that did not meet the time density criterion-MID1173 MID2344 and MID2325 MID2347 MID2353 MID2771 MID3905 MID3988 MID4011 MID4012 MID4171 MID4140 MID4141 MID4259 MID4327. The same issues are involved in the two rivalries. This is also true of RIV219, but there is an almost 30 year period without disputes between RIV219 and RIV10220, and it is evident from the narrative that the two states decided to manage their disagreements through diplomatic means rather than military action during that period. Thus, although the rivalry issues were unresolved, the militarized rivalry ended.
+
+NARRATIVE-CM:
+Honduras and Nicaragua disputed their border beginning in November 1858. Honduran and Nicaraguan representatives signed a border demarcation agreement in Managua on September 1, 1870, but the Honduran Congress rejected the agreement on October 1, 1870. Nicaragua claimed territory near the border on October 12, 1875 and August 25, 1887, but these claims were rejected by the Honduran government. Honduran and Nicaraguan representatives signed border demarcation agreements on February 11, 1888 and January 24, 1889, but the agreements were not ratified by the Honduran Congress. Honduran and Nicaraguan representatives held negotiations in Tegucigalpa, and signed the *Gamez-Bonilla Treaty* on October 7, 1894. The countries agreed to establish a four-member border commission to demarcate the border, and agreed to agreed to seek arbitration should the border commission fail to agree on the demarcation of a section of the border. The border commission began its work in San Marcos de Colon on February 24, 1900. The border commission issued a report on August 29, 1904, which indicated that it was unable to resolve all of the border disputes. Honduras and Nicaragua agreed on October 2, 1904 to requested the arbitration of King Alfonso XIII of Spain. King Alfonso XIII, who accepted the arbitration request on October 17, 1904, issued a decision in favor of Honduras on December 23, 1906. Honduran troops and Nicaraguan troops engaged in military hostilities near the border beginning on January 8, 1907. President Franklin Roosevelt of the US appealed for peaceful negotiations on February 11, 1907. The United States and Mexico offered to facilitate negotiations between the countries in February 1907. Nicaraguan troops defeated Honduran and Salvadoran troops near Namasigue on March 18, 1907. US troops were deployed to maintain order in Trujillo, Ceiba, Puerto Cortez, San Pedro Laguna, and Choloma in Honduras from March 18 to June 8, 1907. Nicaraguan troops entered Tegucigalpa on March 27, 1907. Honduran troops surrendered to Nicaraguan troops on Amapala island on April 12, 1907. Some 400 Nicaraguan troops and 300 Honduran troops were killed during the conflict. Nicaraguan troops withdrew from Tegucigalpa on April 17, 1907. Honduran and Nicaraguan representatives signed a peace agreement facilitated by the US and Mexico on April 23, 1907. Nicaragua challenged the 1906 arbitration decision on March 19, 1912, claiming that the arbitration decision came after the ten year period established by the *Gamez-Bonilla Treaty*. Nicaragua challenged the validity of the 1906 arbitration decision on March 19, 1912. Honduras requested US facilitation of negotiations concerning the 1906 arbitration decision on October 11, 1913. The US offered to facilitate negotiations between the parties on August 21, 1918, and the US facilitated negotiations in Washington DC through September 29, 1920. Honduran troops occupied disputed border territory near Las Trojes and Potrerillos on August 23, 1918. Honduran and Nicaraguan presidents held negotiations in Ampala on November 16-17, 1920, and the parties agreed to accept the mediation of the secretary-of-state of the US. Some 500 rebels led by Policarpo Sanchez and Concepcion Peralta invaded Nicaragua from Honduran territory on August 21, 1921. At the request of the Nicaraguan government, the US deployed the USS *Ashville* to Bluefields on September 3, 1921. On September 29, 1921, Secretary-of-State Sumner Welles proposed that the dispute concerning the validity of the Spanish arbitration decision be submitted to the chief justice of the US Supreme Court, but the proposal was rejected by the Honduran government. Honduran troops and Nicaraguan troops clashed on several occassions between February 15, 1922 and August 20, 1922. Honduran and Nicaraguan representatives resumed negotiations in 1930, and the parties signed a protocol in Managua on January 21, 1931, which provided for the establishment of a three-member technical commission to demarcate the border as decided in the 1906 arbitration decision. The Nicaraguan Congress rejected the protocol on June 25, 1931. El Salvador offered to mediate the dispute on August 24, 1933, but the offer was rejected by Honduras and Nicaragua. On August 25, 1937, Honduras protested the issuance of a Nicaraguan stamp that contained a map with the disputed territory within the borders of Nicaragua. Honduran troops were mobilized near the border on August 30, 1937. Nicaragua rejected the Honduran protest on September 3, 1937. Costa Rica, Venezuela, and the US offered to mediate negotiations between the parties on October 21, 1937. Honduras and Nicaragua accepted the mediation offer on October 22, 1937. Costa Rica, Venezuela, and the US established a three-member conciliation commission headed by Frank Corrigan of the US. Honduran and Nicaraguan representatives signed the *Pact of Reciprocal Agreement *in San Jose, Costa Rica on December 10, 1937, which obligated the parties to avoid the use of force and to peacefully resolve the dispute. Nicaraguan troops withdrew from the border region on January 2, 1938. The conciliation commission was dissolved after the *Pact of Reciprocal Agreement* expired on December 10, 1939. Honduras attempted to administer the disputed territory beginning on February 26, 1957. Nicaraguan troops occupied the Honduran border town of Mocoron near the Segovia river on April 18-25, 1957. Honduran troops recaptured Mocoron on May 1, 1957, resulting in the deaths of 35 Nicaraguans. Honduras and Nicaragua referred the matter to the *Organization of American States* (OAS) Permanent Council on April 30, 1957. The OAS Permanent Council established a five-member commission of inquiry (Argentina, Bolivia, Mexico, Panama, US) chaired by Ricardo Arias Espinosa of Panama on May 2, 1957. Honduras and Nicaragua agreed to a cessation of military hostilities on May 5, 1957. The OAS Permanent Council established a military observation commission consisting of 17 personnel from Argentina, Bolivia, Chile, Ecuador, Mexico, Panama, Paraguay, US, and Venezuela on May 6, 1957. The OAS military observation commission, which was headed by Colonel Alphonse Greene of the US, monitored the border region from May 9 to June 27, 1957. Honduras and Nicaragua agreed to withdraw their troops from the border region on May 10, 1957. The OAS commission of inquiry issued a report on May 16, 1957, and the commission of inquiry was disbanded on May 17, 1957. The OAS Permanent Council established a five-member conciliation commission (Argentina, Bolivia, Mexico, Panama, US) chaired by Ricardo Arias Espinosa of Panama on May 17, 1957. The OAS conciliation commission mediated the signing of an agreement between Honduran and Nicaraguan representatives in Washington DC on July 21, 1957, which provided for the submission of the dispute to the *International Court of Justice (ICJ) for adjudication. The ICJ upheld the validity of the 1906 arbitration decision by a vote of 14 to 1 on November 18, 1960. On February 15, 1961, Nicaragua requested the assistance of the *Inter-American Peace Committee (IAPC) regarding the transfer of disputed territory to Honduras. The IAPC mediated negotiations between the parties between February 15 and March 21, 1961. Honduran and Nicaraguan representatives agreed to establish a three-member border commission (Honduras, Nicaragua, Mexico) chaired by Ambassador Sanchez Gavito of Mexico on March 21, 1961. The border commission ended its activities on August 5, 1961. Honduran troops and Nicaraguan troops clashed on August 14, 1962, resulting in the deaths of four Nicaraguan soldiers. Two Honduran fishing vessels were seized by Nicaraguan naval ships in November 1979. Honduran troops and Nicaraguan tropps clashed near the border on December 4, 1979, resulting in the death of one Nicaraguan soldier. Honduras referred the matter to OAS Secretary-General Alejandro Orfila on December 6, 1979. Honduran troops and Nicaraguan troops clashed near the border on December 7, 1979. Honduran and Nicaraguan foreign ministers agreed to withdraw troops from the border region on December 12, 1979. The US provided military assistance (220 military training personnel) to the Honduran government from October 1980 to 1990. Honduran troops shot down a Nicaraguan military helicopter over its airspace on November 9, 1980, and Honduras protested the violation of its airspace on November 11, 1980. Honduran troops and Nicaraguan troops clashed on several occasions near the border between April 24 and May 6, 1981. Honduras and Nicaragua placed their troops on alert near the border on April 28, 1981. President Policarpo Paz Garcia of Honduras and Daneil Ortega Saavedra of Nicaragua met at the Guasaule border post, and agreed to withdraw their troops from the border region on May 13, 1981. Honduran naval ships and Nicaraguan naval ships clashed in the Fonseca Gulf on August 13, 1981. Nicaraguan troops attacked rebels in Honduran territory on March 18, 1982, resulting in the deaths of 11 rebels and three Nicaraguan soldiers. The US mobilized some 16,000 naval personnel and 5,600 troops in the region (*Big Pine *military excercises) between February 1, 1983 and April 1985. Nicaragua threatened to use military force against Honduras on March 21, 1983. Nicaraguan troops shot down a Honduran military helicopter near the border on May 8, 1984. Nicaragua protested the violation of its airspace by military helicopters from Honduran territories on June 3, 1985, but Honduras rejected the protest on June 3, 1985. Honduran troops and Nicaraguan troops clashed near the border between December 28, 1985 and January 4, 1986. Nicaraguan troops attacked a rebel base in Honduras on December 4, 1986, resulting in the capture of two Honduran soldiers. President Azcona del Hoyo of Honduras requested military assistance from the US on December 6, 1986. Honduran military aircraft attacked Nicaraguan troops near the border on December 6, 1986, resulting in the deaths of seven Nicaraguan soldiers and two civilians. US military helicopters transported 1,000 Honduran troops to the border region on December 7-8, 1986. Nicaragua referred the matter to the *United Nations *(UN) Security Council on December 9, 1986. President Oscar Arias Sanchez of Costa Rica mediated negotiations between Honduran and Nicaragan representatives beginning on August 7, 1987. Nicaraguan troops attacked rebel bases in Honduras on March 6, 1988, and President Azcona del Hoyo appealed for US military assistance on March 15, 1988. The US deployed 3,200 troops in Honduras on March 16, 1988. Honduran military aircraft attacked Nicaraguan troops near the border, and Nicaraguan troops withdrew from Honduran territory on March 17, 1988. As a result of mediation by President Arias Sanchez of Costa Rica, Nicaragua agreed to end its attacks against rebels in Honduran territory on March 20, 1988. The US completed the withdrawal of troops from Honduras on March 30, 1988. Honduran troops and Nicaraguan troops clashed near the border on April 3-9, 1989, resulting in the death of one Nicaraguan. Nicaraguan troops attacked several Honduran military bases on September 9, 1989. The Honduran foreign minister called on the UN secretary-general to established a peacekeeping mission for the Nicaragua-Honduras border. The UN Security Council established the *United Nations Observer Group in Central America* (ONUCA) on November 7, 1989. ONUCA was responsible for verifying the terms of the *Esquipulas II Agreement,* which had been signed by the five Central American countries. ONUCA-which consisted of 260 military observers and peacekeeping troops from Brazil, Canada, Colombia, Ecuador, India, Ireland, Spain, Sweden, and Venezuela-demobilized more than 22,000 members of the Nicaragua resistance. Honduran naval ships and Nicaraguan naval ships clashed in the Fonseca Gulf on February 1, 1991, resulting in the deaths of one Nicaraguan soldier. ONUCA was disbanded on January 17, 1992. Nicaragua accused Honduras of interfering with its fishing vessels in the Caribbean Sea (the countries disputed the delimitation of the maritime border). Honduras and Nicaragua referred the matter to the OAS Permanent Council on December 6, 1999. Nicaragua submitted the dispute to the ICJ on December 8, 1999. OAS Secretary-General Cesar Gaviria appointed Luigi Einaudi of the US as special representative for the dispute between Honduras and Nicaragua on December 9, 1999. The *European Union* EU) president appealed for peaceful negotiations on December 14, 1999. Nicaragua banned Honduran fishing vessels from its territorial waters on December 16, 1999. OAS special envoy, Luigi Einaudi, facilitated an agrement between Hoduran and Nicaraguan foreign ministers in San Salvador, El Salvador on February 8, 2000, which provided for the demobilization of troops in the disputed region. Honduran and Nicaraguan foreign ministers signed a memorandum-of-understanding mediated by the OAS special envoy in Washington DC on March 7, 2000.
+
+SOURCES-CM: 
+*Annual Report of the Secretary-General of the Organization of American States*, 1956-1957, 6-17; *Annals of the Organization of American States, *1957, 264-270; Brecher and Wilkenfeld, 1997, 140-146; Butterworth, 1976, 225; Clodfelter, 1992, 676; *European Union *(EU) press release, December 14, 1999; *Facts on File*, June 1-8, 1957; *Foreign Broadcast Information Service* (FBIS), December 5, 1979, December 6, 1979, December 7, 1979, December 10, 1979, December 11, 1979, December 12, 1979, December 13, 1979, April 29, 1981, April 30, 1981, May 1, 1981, May 7, 1981, May 14, 1981, June 5, 1985, January 6, 1986, January 7, 1986, January 9, 1986, April 10, 1989, April 11, 1989, February 4, 1991, February 5, 1991, February 6, 1991; *Foreign Relations of the United States *(FRUS), 1907, 606-665, 1921, 554-570; *Hispanic American Report (HAR), May 1957, June 1957; *International Court of Justice *(ICJ) press release, December 8, 1999; Ireland, 1941, 128-144; James, 1990, 50-52; Jessup, 1998, 282-284; Johnson, 1961, 328-337; *Keesing*, June 1-8, 1957; Munro, 1964, 146-159; Nye, 1971, 140-141;*Organization of American States *(OAS) press release, December 7, 1999, December 9, 1999, January 19, 2000, February 8, 2000, March 7, 2000; *Reuters*, December 9, 1999, December 16, 1999, December 30, 1999, February 8, 2000; Schooley, 1987, 195-198, 241-242; Shore, 1970, 44-45; Stuart, 1943, 338-375; *Survey of International Affairs *(SIA), 1937 (vol. 1), 618; Tillema, 1991, 24, 26, 31-32; Wainhouse, 1966, 135-141, 200-202; Weisburg, 1997, 227-232, 259-260.
+
+NARRATIVE-CR:
+At first glance there seem to be three periods of rivalry between Nicaragua and Honduras: from 1907 to 1929, MID1202 MID1203 MID1195 MID2040 MID1168 MID1170, from 1957 to 1962, MID1173 MID2344, and from1979 to 2001, MID2325 MID2347 MID2353 MID2771 MID3905 MID3988 MID4011 MID4012 MID4171 MID4140 MID4141 MID4259 MID4327. While there is a lull in the disputes between Nicaragua and Honduras between 1929 and 1957 and 1962 and 1979, the territorial issue of which the rivalry is composed is the same throughout the entire period from the first dispute in 1907, MID1202 to the two countries' most recent dispute in 2001, MID4327. Because of this constant territorial issue it seems reasonable to claim that this rivalry is a censored single one as of 2003. 
+
+While there have been various arbitration commissions established to officially demarcate the border, either Nicaragua or Honduras has failed to accept the decision as binding. Twenty-seven peace years between the countries beginning in 1929, MID1170 and ending in 1957, MID1173 were not because of the US military occupation of Nicaragua from 1912-1933 but more likely because of Honduras' election of Tiburcio Carias Andino in 1932 which provided stability to the country until 1948. During this period Carias Andino achieved domestic success by balancing the budget, getting opponents to withold from revolutionary and conspiratorial activities and providing programs such as road development. Also important during these peace years was the withdraw of the US military in Nicaragua in 1933 and the coming to power of General Anastasio Somoza Garcia. From 1933 to 1956, General Somoza either controlled the office of the presidency through his leadership of the National Liberal Party (PLN) or through the National Guard. 
+
+With two stable leaders in both countries, both Nicaragua and Honduras were able to allow their border claims to be resolved through diplomacy with Honduran and Nicaraguan representatives negotiating in 1930 and signing a protocol in Managua on January 21, 1931, which provided for the establishment of a three-member technical commission to demarcate the border between them. The Nicaraguan Congress rejected the protocol on June 25, 1931 and both rejected an offer by El Salvador to mediate the dispute in August 1933. During this period as well, Nicaragua suffered a serious economic disaster brought about in part by an earthquake in 1931 in Managua that managed to destroy all of the government's buildings. Even the securing of several emergency loans from 1932 to 1934 did not stop GDP per capita from falling 32.9 percent during an already depressed period, making Nicaragua one of the poorest countries in Latin America. Costa Rica, Venezuela, and the US offered to mediate negotiations between the parties on October 21, 1937 and established a three-member conciliation commission headed by Frank Corrigan of the US. Honduran and Nicaraguan representatives signed the *Pact of Reciprocal Agreement *in San Jose, Costa Rica on December 10, 1937, which obligated the parties to avoid the use of force and to peacefully resolve the dispute. Nicaraguan troops withdrew from the border region on January 2, 1938. The conciliation commission was dissolved after the *Pact of Reciprocal Agreement* expired on December 10, 1939. Thus, even though the militarized conflict temporarily ceased, the two countries could not resolve their dispute throughout this period. 
+
+The disputed territorial issue did not arise again until 1957 when Honduras attempted to take control of the territory in 1957. Two disputes arise from this period during which Nicaraguan troops clash with Honduran troops to reclaim the territory in addition to occupying Honduran territory, MID1173 and MID2344 in 1957 and 1962. While it seems that these two disputes link unresolved issues from the earlier period to subsequent disputes from 1979 through 2001, perhaps the length of peace and stability that had passed is enough to constitute two separate rivalries with two isolated disputes in between. 
+
+Regardless, the conflicts from 1979 to 2001 over disputed territory definitely makes it clear that the rivalry is far from over although actions by both countries at peaceful conflict resolution seems to indicate a possible end to any serious military hostilities over the territories with both Honduras and Nicaragua referring the matter to the OAS Permanent Council on December 6, 1999 and Nicaragua submitting the dispute to the ICJ on December 8, 1999. While Nicaragua banned Honduran fishing vessels from its territorial waters on December 16, 1999, the two countries signed an agreement under the facilitation of OAS special envoy Luigi Einaudi in San Salvador, El Salvador on February 8, 2000, providing for the demobilization of troops in the disputed region in addition to signing a memorandum-of-understanding mediated by Einaudi in Washington DC on March 7, 2000. In March 2001, however, this memorandum had been violated, leading to further hostilities, because Honduras sent more troops and armored carriers to the land border in addition to sailing ships into Nicaraguan territorial waters, MID4327. These incidents have not led to more serious militarized disputes but the possibility still remains for this rivalry to intensify in the near future. 
+
+SOURCES-CR: 
+Scholley (1987), pp. 32-; Bulmer-Thomas (1991); *Annual Report of the Secretary-General of the Organization of American States*, 1956-1957, 6-17; *Annals of the Organization of American States, *1957, 264-270; *Organization of American States *(OAS) press release, December 7, 1999, December 9, 1999, January 19, 2000, February 8, 2000, March 7, 2000; *Reuters*, December 9, 1999, December 16, 1999, December 30, 1999, February 8, 2000; Financial Times 3/7/2001, 3/15/2001 
+
+PS-NARRATIVE:
+19290710-19570418 0.50
+
+Twenty-seven peace years between the countries beginning in July 1929, MID1170 and ending in 1957, MID1173, were not because of the US military occupation of Nicaragua from 1912-1933 but more likely because of Honduras' election of Tiburcio Carias Andino in 1932 which provided stability to the country until 1948. Also important during these peace years was the withdrawal of the US military in Nicaragua in 1933 and the coming to power of General Anastasio Somoza Garcia. With two stable leaders in both countries, both Nicaragua and Honduras were able to allow their border claims to be resolved through diplomacy with Honduran and Nicaraguan representatives negotiating in 1930 and signing a protocol in Managua on January 21, 1931, which provided for the establishment of a three-member technical commission to demarcate the border between as decided in the 1906 arbitration decision. The Nicaraguan Congress rejected the protocol on June 25, 1931. El Salvador offered to mediate the dispute on August 24, 1933, but the offer was rejected by Honduras and Nicaragua. On August 25, 1937, Honduras protested the issuance of a Nicaraguan stamp that contained a map with the disputed territory within the borders of Nicaragua. Honduran troops were mobilized near the border on August 30, 1937. Nicaragua rejected the Honduran protest on September 3, 1937. Costa Rica, Venezuela, and the US offered to mediate negotiations between the parties on October 21, 1937. Honduras and Nicaragua accepted the mediation offer on October 22, 1937. Costa Rica, Venezuela, and the US established a three-member conciliation commission headed by Frank Corrigan of the US. Honduran and Nicaraguan representatives signed the *Pact of Reciprocal Agreement *in San Jose, Costa Rica on December 10, 1937, which obligated the parties to avoid the use of force and to peacefully resolve the dispute. Nicaraguan troops withdrew from the border region on January 2, 1938. The conciliation commission was dissolved after the *Pact of Reciprocal Agreement* expired on December 10, 1939.Thus, even though the militarized conflict temporarily ceased, the two countries could not resolve their dispute throughout this period. In 1953 there were a number of diplomatic letters exchanged between the Honduran Ambassador and the Nicaraguan Ministry of Foreign Affairs, in which the Ambassador was complaining over a number of maps which contained the debated border area as part of Nicaragua. On May 13, 1955 the Minister of Foreign Affairs of Nicaragua denied that Nicaraguan troops entered Honduras illegally. On November 25, 1955, Honduras accused Nicaraguan troops of firing on a party of Honduran civilians inspecting the frontier near the town of San Marcos de Colon and wounding several of them. Nicaraguan troops occupied the Honduran border town of Mocoron near the Segovia river on April 18-25, 1957. The first MID of the RIV10220, MID1173, started on April 19, 1957.
+
+20010317-20071007 0.25
+
+The last MID of RIV10220, MID4327, ended on March 16, 2001. On March 17, 2001, vice foreign ministers from both countries signed a new agreement to ease tensions between their countries, under the auspices of the OAS. Relations between the two countries continued to be tense after the March 2001 Honduran mobilization at the border with Nicaragua. The Organization of American States mediated an agreement between the two countries early in 2001 under which each side agreed to conduct at least four joint military patrols per year in the Caribbean and in the Gulf of Fonseca in the Pacific; to freeze the number of troops on the border; and to exchange information on military positions. However, Nicaragua claimed that Honduras is arming itself for conflict and has accused Honduran troops of opening fire on a Nicaraguan border post. Both countries continued to seek an amicable settlement in accordance with arbitration by the International Court of Justice in The Hague. In July 2001 the Central American Court of Justice ruled in Honduras's favor on the illegality of Nicaragua's 35% surcharge tax imposed on Honduran exports. The Organization of American States sent a four-member observer mission to the Honduras-Nicaragua border in late July 2001 to monitor troop movements by the two nations. A second monitoring mission was scheduled for August and a third in October. Tensions have been heightened in 2002 by Nicaragua's efforts to sell drilling rights for oil in the waters. The Honduran government will ask the ICJ to impose an injunction on any sale of rights from Nicaragua. In August 2002 Mr Maduro, the Honduran president, refused to join the Nicaraguan president, Enrique Bolaos, at a ceremony on the two countries' common border to inaugurate the Guasuale bridge, which was destroyed in 1998 by Hurricane Mitch. The Honduran government announced in March 2002 that the military restarted its patrols of the Caribbean and Pacific coasts and the Gulf of Fonseca to protect Honduran fisherman who it says are frequently detained by Nicaraguan authorities. However, the Honduran Defense Minister made it clear that the three nations "are in agreement about avoiding incidents in shared waters." Relations with Nicaragua remain strained, despite the Nicaraguan government's decision in February 2003 to lift a 35% punitive tax on Honduran exports, which was imposed in 1999 when Honduras ratified a treaty with Colombia on the division of maritime territory in the Caribbean to which Nicaragua lays claim. In early 2004 the two countries signed a bilateral customs union agreement. In 2005, Honduras and Nicaragua asked the Organization of American States (OAS) for technical and financial assistance for a binational border project that would help promote better relations between the two countries in an area of the border disputed by them, which was devastated by Hurricane Mitch in 1998. In March 2007, the International Court of Justice started the first hearings in the border dispute case submitted by Nicaragua in 1999.
+
+PS-SOURCES: New York Times, 05/15/1955, 11/26/1955, Memoria (1953), State Department 01/28/2005, Associated Press Worldstream 03/05/2007, The Economist Intelligence Unit Country Report Honduras (2001-2006), Narrative-CM, Narrative-CR, Xinhua 03/20/2001
+
+20071008-20159999 0.50
+
+International Court of Justice settles Territorial and Maritime Dispute between Nicaragua and Honduras in the Caribbean Sea (Nicaragua v. Honduras) on October 8, 2007.
+
+PS-SOURCES: http://www.icj-cij.org/docket/files/120/14077.pdf
+
+MARITIME-MIDS: MID4011 MID4012 MID4140 MID4141 MID4171 MID4259 MID4327 MID2325 MID3988
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID4011
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19950408 19950613
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4011 In April 1995, following an agreement on their ongoing conflict over the territorial MID. Storywaters in the Gulf of Fonseca, Nicaraguan armed forces captured four Honduran fishing boats and eight fishermen; each side claimed that the Honduran fishermen were in its own territorial waters when arrested. The boats were brought to a nearby island by Nicaraguan authorities, followed by Honduran police and naval authorities. An armed skirmish took place, as Nicaragua initiated the fire and Honduras responded. Another naval clash occurred on May 31 as Honduran armed forces tried to prevent Nicaraguan armed forces from arresting Honduran fishermen in the Gulf of Fonseca, who were allegedly fishing in Nicaraguan waters. Nicaragua asked Honduras to intervene to prevent "future incidents." Following this incident, a Nicaraguan officer was detained by Honduras while he was either standing guard over a captured Honduran fishing boat or trying to tow a captured fishing boat to port (reports vary). He was returned to Nicaragua on June 2, 1995, when Nicaragua released the fishermen they had arrested. In order to prevent armed Honduran fishermen from coming to their territorial waters, on June 13, 1995, the Nicaraguan navy reinforced its forces patrolling its territorial waters in the Gulf of Fonseca by transferring additional boats to the area and intensifying patrol operations. Later in the month (June 16), Honduras and Nicaragua agreed to start demarcating the waters of the Gulf of Fonseca with buoys, starting in the first week of July. In April 1995, following an agreement on their ongoing conflict over the territorial waters in the Gulf of Fonseca, Nicaraguan armed forces captured four Honduran fishing boats and eight fishermen; each side claimed that the Honduran fishermen were in its own territorial waters when arrested. The boats were brought to a nearby island by Nicaraguan authorities, followed by Honduran police and naval authorities. An armed skirmish took place, as Nicaragua initiated the fire and Honduras responded. Another naval clash occurred on May 31 as Honduran armed forces tried to prevent Nicaraguan armed forces from arresting Honduran fishermen in the Gulf of Fonseca, who were allegedly fishing in Nicaraguan waters. Nicaragua asked Honduras to intervene to prevent "future incidents." Following this incident, a Nicaraguan officer was detained by Honduras while he was either standing guard over a captured Honduran fishing boat or trying to tow a captured fishing boat to port (reports vary). He was returned to Nicaragua on June 2, 1995, when Nicaragua released the fishermen they had arrested. In order to prevent armed Honduran fishermen from coming to their territorial waters, on June 13, 1995, the Nicaraguan navy reinforced its forces patrolling its territorial waters in the Gulf of Fonseca by transferring additional boats to the area and intensifying patrol operations. Later in the month (June 16), Honduras and Nicaragua agreed to start demarcating the waters of the Gulf of Fonseca with buoys, starting in the first week of July.
+
+MARITIME-DISPUTE: MID4012
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19951222 19951222
+ HOSTILITYA: 2 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4012 The ongoing conflict between Honduras and Nicaragua over maritime zones in the Caribbean Sea once again led to militarized incidents. During the weekend of December 16-17, 1995, a Nicaraguan coast guard cutter boarded four Honduran fishing boats and arrested 106 crewmen. In a shootout, which Nicaragua claimed that Hondurans initiated, a Nicaraguan sailor and a Honduran fisherman were wounded. Nicaragua released 94 of the fishermen few days later, but held twelve fishermen and eight Nicaraguan sailors for questioning. They also promised to investigate the incident and apologized to Honduran authorities (this apology is why this activity was not coded as a militarized incident). On December 22, 1995, Honduras threatened to open fire on any Nicaraguan patrol boats in the disputed waters. Nicaragua announced that it would continue patrols off Cape Gracias a Dios on Nicaragua's northern Atlantic coast, and warned that its navy boats would fire back (this Nicaraguan warning is not coded as a separate incident because of the coding guideline covering threats to defend oneself if attacked).
+
+MARITIME-DISPUTE: MID4140
+ DYAD: NICARAGUA HONDURAS 93091
+ DATES: 19991201 20000700
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4140
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19991201 20000731
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4140 On November 30, 1999, the Honduran parliament ratified a maritime treaty with Colombia that had been signed in 1986. The treaty covered the Caribbean Sea and recognized the San Andres Archipelago, also claimed by Nicaragua, as Colombian territory. On December 1, 1999, Nicaragua put its military forces on alert. The treaty covered the Caribbean Sea recognizing San Andres Archipelago, claimed by Nicaragua, as Colombian territory. Nicaraguan President Aleman also announced that they would break the preferential trade relations with Honduras by imposing a 35 percent "patriotic tax" on imports from Honduras. On December 3, 1999, Honduran Defense Minister alleged that following the ratification of their treaty with Colombia, about 60 Nicaraguan soldiers were deployed on the border near Honduran town of Trojes. Honduran citizens also claimed that they saw Nicaraguan soldiers near Gausaule. Nicaragua denied the allegations. Honduras asked neutral observers from UN or OAS to monitor the border, and the UN announced that it was ready to provide assistance, but by December 6 the Nicaraguans appeared to be withdrawn. Also on December 3, 1999, Nicaragua protested Honduran troop movements in the Platano River Biosphere area that had begun on November 29 to combat drug smuggling and illegal logging. Honduras called off the exercises called "Operation Jaguar." On December 7, both sides pledged to the UN that they would solve their problems diplomatically, and the OAS became involved in mediating the dispute. On December 30, 1999, OAS mediator Einaudi announced that, pending a World Court decision, Nicaragua and Honduras had agreed on an immediate separation of their forces on the border. Later on January 13, the Central American Court of Justice asked the suspension of the Nicaraguan tariff, which Nicaragua did in less than a month. A military buffer zone was also set up, and both countries agreed on 8 February 2000 to reduce the number of troops on the border. Additional incidents continued, though. Nicaragua's ambassador to the WTO accused Honduras of moving troops to the border in April - a charge that Honduras denied - and warned Honduras and Colombia of "unforeseen consequences" of their naval presence in disputed Caribbean waters. In July 2000, Nicaragua twice protested the Honduran occupation of four islets (Sur, Robel, Arrecife Alargado, and Media Luna) in the Caribbean Sea, claiming Nicaraguan ownership. The Honduran Foreign Ministry responded by claiming that the islets were Honduran property, and there is no further information on the islets afterward.
+Nicaragua accused Honduras of interfering with its fishing vessels in the Caribbean Sea (the countries disputed the delimitation of the maritime border). Honduras and Nicaragua referred the matter to the OAS Permanent Council on December 6, 1999. Nicaragua submitted the dispute to the ICJ on December 8, 1999. OAS Secretary-General Cesar Gaviria appointed Luigi Einaudi of the US as special representative for the dispute between Honduras and Nicaragua on December 9, 1999. The *European Union* EU) president appealed for peaceful negotiations on December 14, 1999. Nicaragua banned Honduran fishing vessels from its territorial waters on December 16, 1999. OAS special envoy, Luigi Einaudi, facilitated an agreement between Hoduran and Nicaraguan foreign ministers in San Salvador, El Salvador on February 8, 2000, which provided for the demobilization of troops in the disputed region. Honduran and Nicaraguan foreign ministers signed a memorandum-of-understanding mediated by the OAS special envoy (Einaudi) in Washington DC on March 7, 2000.
+
+DISPUTE: MID4141
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20000225 20000225
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+DISPUTE: MID4141
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20000219 20000225
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4141 Following the 1999 ratification of a 1986 maritime treaty between Honduras and Colombia, Nicaragua and Honduras experienced a series of disputes on their territorial waters. On February 15, 2000, Nicaragua's Vice Foreign Ministerrequested Honduras to fulfill its promise to dismantle the army camp on the Cayo Sur islet in the Caribbean, which was set up after the ratification. He also pointed out that their forces knew "how to fight" and had the modern technology to do so. The Honduran government reacted by calling this appeal "hostile and warlike." Four days later, on February 19, 2000, Nicaraguan and Honduran speed boats clashed in the Gulf of Fonseca. Both countries blamed each other for initiating the incident. This was followed by a second incident on February 25, 2000. Nicaragua claimed that a Honduran navy vessel entered Nicaraguan territorial waters and opened fire on two Nicaraguan patrol boats that had been stationed in the area to prevent illegal fishing. Nicaraguan boats pursued the Honduran vessel until it reached Honduran waters. Honduran officials claimed that Nicaraguan boats initiated the fire. On March 7, tensions started to decrease with a Nicaragua-Honduras border accord sponsored by the OAS. According to the accord, until the International Court of Justice rules on the case, the two countries agreed to conduct joint patrols in the area. Later in April, Nicaragua continued to seize Honduran fishing boats in the Gulf of Fonseca, claiming they were fishing in Nicaraguan territorial waters. Finally, in May, the two countries agreed to mark their maritime border. 
+Nicaragua accused Honduras of interfering with its fishing vessels in the Caribbean Sea (the countries disputed the delimitation of the maritime border). Honduras and Nicaragua referred the matter to the OAS Permanent Council on December 6, 1999. Nicaragua submitted the dispute to the ICJ on December 8, 1999. OAS Secretary-General Cesar Gaviria appointed Luigi Einaudi of the US as special representative for the dispute between Honduras and Nicaragua on December 9, 1999. The *European Union* EU) president appealed for peaceful negotiations on December 14, 1999. Nicaragua banned Honduran fishing vessels from its territorial waters on December 16, 1999. OAS special envoy, Luigi Einaudi, facilitated an agreement between Hoduran and Nicaraguan foreign ministers in San Salvador, El Salvador on February 8, 2000, which provided for the demobilization of troops in the disputed region. Honduran and Nicaraguan foreign ministers signed a memorandum-of-understanding mediated by the OAS special envoy (Einaudi) in Washington DC on March 7, 2000.
+
+MARITIME-DISPUTE: MID4171
+ DYAD: NICARAGUA HONDURAS 93091
+ DATES: 19970109 19970800
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4171
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19970109 19970831
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID4171 As a part of a longstanding dispute over fishing rights and territorial waters in the Gulf of Fonseca, Honduras claimed that Nicaraguan boats shot at Honduran fishermen in Honduran waters on January 9, 1997, and arrested fourteen of them. Nicaragua claimed that the incident took place in their territorial waters, and released the fishermen two days later but kept their eleven fishing boats. According to our sources two other seizures by Nicaragua took place in December 1996 and December 1997, but these did not draw protests from Honduras and were not coded. In mid-April, Nicaraguan navy boats seized several Honduran fishermen. This followed the arrest of four fishermen on April 17 and preceded the arrest of another eight on April 23. The Honduran Foreign Minister claimed that these arrests took place in Honduran territorial waters near the border. Later, on April 24, a Honduran naval force captured four Nicaraguan fishermen. On April 30 Nicaragua and Honduras agreed to exchange the arrested fishermen. Three Nicaraguan speedboats intercepted and confiscated a Honduran fishing boat on May 22. Honduran government claimed that the incident took place in their territorial waters. The Nicaraguan navy confiscated another 11 Honduran fishing boats on May 29, although Honduran naval forces intercepted and freed six of the boats. Around this same time, Nicaraguan boats fired at Honduran patrols. Claiming that the incidents took place in Nicaraguan waters, Nicaraguans called the Honduran protest "absurd." Six of the 14 fishermen who were captured escaped shortly afterwards, and some of the remaining boats were returned by Nicaraguan authorities. Additional incidents took place in early August, when Nicaraguans several times seized Honduran fishing boats. By the end of September 1997 there was still no settlement in place. 
+
+MARITIME-DISPUTE: MID4259
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20010200 20010316
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4259
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20010201 20010331
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4259 Nicaragua and Honduras had been experiencing tensions since Honduras' November 1999 ratification of a 1986 treaty with Colombia covering maritime delimitation in the Caribbean Sea. Nicaragua objected because this treaty gave away waters that were also claimed by Nicaragua, and demanded that the treaty be rejected. This led to a series of militarized incidents, and Nicaragua submitted the case to the International Court of Justice in December 1999. In February 2001, Nicaragua expressed concern over Honduran troop deployments on their common border. They claimed that the number of Honduran border posts increased from six to 21 and the number of soldiers deployed on the border increased from thirty to 300. Nicaragua also claimed that Honduras was upgrading its F-5 fighters and constantly recruiting more troops in the states bordering Nicaragua. Concerned that Honduras was preparing to take over the Nicaraguan city of Somotillo, the Nicaraguan government asked the Organization of American States to monitor the border. In March, Nicaragua also claimed Honduras was conducting military maneuvers near its borders without advance notice; Honduras rejected this allegation. Honduras claimed its forces were in the area to take over reconstruction tasks after hurricane Mitch's destruction in 1998. They invited Nicaraguan officials to the border to evaluate the situation. Nicaragua rejected a Honduran invitation to demarcate their border. On March 13, Honduras welcomed an OAS mission to verify that they did not send troops to the border with belligerent intent. On March 16th, Nicaragua and Honduras signed an agreement with the OAS help to ease the tension. The agreement required two countries to conduct at least four combined patrols per year in the Caribbean Sea; freeze the number of troops on their border; exchange information on their military positions; conduct parallel border patrols; and inform the OAS about arms imports and exports. 
+
+MARITIME-DISPUTE: MID4327
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20010300 20010300
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4327
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 20010301 20010331
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+The memorandum-of-understanding signed by the Honduran and Nicaraguan foreign ministers and mediated by Einaudi in Washington DC on March 7, 2000 was violated in March 2001, leading to further hostilities, because Honduras sent more troops and armored carriers to the land border in addition to sailing ships into Nicaraguan territorial waters, MID4327.
+MID4327 This incident occurred against the background of a longstanding disagreement over waters in the Gulf of Fonseca, which had generated numerous militarized incidents over the past decade. Honduras stationed four ships near the maritime border in the Gulf, one of which - capable of carrying 20 troops - was position on the frontier; the Honduran government stated that the ships were for use in patrolling Honduran waters. Nicaragua pulled its forces back slightly from the border, but indicated that it would act to repel any Honduran incursion into Nicaraguan waters. The status quo remained unchanged after this dispute.
+
+DISPUTE: MID2325
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19791101 19791231
+ HOSTILITYA: 4 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Two Honduran fishing vessels were seized by Nicaraguan naval ships in November 1979.
+
+DISPUTE: MID3988
+ DYAD: HONDURAS NICARAGUA 91093
+ DATES: 19910202 19910202
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Honduran naval ships and Nicaraguan naval ships clashed in the Fonseca Gulf on February 1, 1991, resulting in the deaths of one Nicaraguan soldier. 
+
+Discussion:
+
+Honduran naval ships and Nicaraguan naval ships clashed in the Fonseca Gulf on August 13, 1981.
+
+Tensions have been heightened in 2002 by Nicaragua's efforts to sell drilling rights for oil in the waters. The Honduran government will ask the ICJ to impose an injunction on any sale of rights from Nicaragua.
+The Honduran government announced in March 2002 that the military restarted its patrols of the Caribbean and Pacific coasts and the Gulf of Fonseca to protect Honduran fisherman who it says are frequently detained by Nicaraguan authorities. However, the Honduran Defense Minister made it clear that the three nations "are in agreement about avoiding incidents in shared waters." Relations with Nicaragua remain strained, despite the Nicaraguan government's decision in February 2003 to lift a 35% punitive tax on Honduran exports, which was imposed in 1999 when Honduras ratified a treaty with Colombia on the division of maritime territory in the Caribbean to which Nicaragua lays claim.

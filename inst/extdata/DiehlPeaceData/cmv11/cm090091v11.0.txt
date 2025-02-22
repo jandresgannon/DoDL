@@ -1,0 +1,175 @@
+FILE: cm090091v11.0.txt
+DYAD: GUATEMALA - HONDURAS
+RIVALRY: RIV10203
+DISPUTE(S): MID1205 MID1204 
+RIVALRY: RIV11203
+DISPUTE(S): MID1175 MID1169 
+
+PS: 19009999-19330123 0.25 19330124-20209999 0.50 
+
+PS-UPDATE2020: The Government of Guatemala, the Government of Honduras, and the Secretariat of Economic Integration in Central America (SIECA) launched a “Customs Union” initiative in 2015, but this is not enough for a REI or .75 relationship as trade is not enough. See the following links: https://blogs.worldbank.org/latinamerica/customs-union-between-guatemala-and-honduras-10-hours-15-minutes and https://theglobalamericans.org/2017/08/guatemala-honduras-customs-union-paradigm-shift-regionalism/
+
+PSNOTES: http://legal.un.org/riaa/cases/vol_II/1307-1366.pdf
+
+PS-LAST-CHANGED: 20220217 
+PS-LAST-CHECKED: 20220217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1205 
+
+TERRMID: MID1205 1 -- territorial MID
+TERRMID-CER: MID1205 1 -- certain 
+TERRMID-NOTES: MID1205 from cm narrative, the border between Honduras and Guatemala was disputed during this MID. Honduras interfered in the domestic politics (a civil war) in Guatemala. Coded territorial MID because the ongoing dispute between Guatemala and Honduras led Honduras to interfere in the civil war in Guatemala to replace the regime. 
+
+TERRLINK: MID1205 3 -- not third party link to territory 
+TERRLINK-CER: MID1205 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1205 3 -- not maritime 
+MARITMID-CER: MID1205 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1205 3 -- not islands 
+ISLMID-CER: MID1205 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1205 1 -- civil war MID
+CIVWARMID-CER: MID1205 1 -- certain
+CIVWARMID-NOTES: MID1205 from cm narrative, this MID is the Second Central American War that occurred 3/15/1906-7/1906. El Salvador was assisting exiled Guatemalans overthrow the Guatemalan government in an ongoing revolution, and Honduras joined El Salvador's efforts in supporting the overthrow of the Guatemalan government, leading to this multilateral MID. Coded civil war MID because a civil war was ongoing in this dyad (Guatemala), and that civil war contributed to the events of this MID. 
+
+CIVWARLINK: MID1205 3 -- not civil war link
+CIVWARLINK-CER: MID1205 1 -- certain
+CIVWARLINK-NOTES: MID1205 El Salvador, outside of this dyad, was involved in this MID, but there was no civil conflict in El Salvador. 
+
+COUPMID: MID1205 3 -- not coup 
+COUPMID-CER: MID1205 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1205 3 -- not coup link
+COUPLINK-CER: MID1205 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1204 
+
+TERRMID: MID1204 3 -- not territory
+TERRMID-CER: MID1204 1 -- certain 
+TERRMID-NOTES: MID1204 from cm narrative, this is actually a MID between Guatemala and Nicaragua. President Zelaya of Nicaragua had been supporting liberal forces throughout Latin America, prompting El Salvador, Guatemala, Honduras (with Liberal President Bonilla - an adversary of Zelaya) and exiled Nicaraguan conservatives to try and force Zelaya from power. In that month, Nicaragua had taken over Honduras and threatened to invade Guatemala from Honduras. On June 27, 1907 Guatemala joined with El Salvador and Honduras to force Nicaragua from Honduran territory with the threat of invasion. Coded not territorial because while the border between Guatemala and Honduras was disputed, they were actually working together in this MID to fight Nicaragua. It seems that this MID was triggered between Guatemala and Honduras because Nicaragua was occupying Honduras at the time. 
+
+TERRLINK: MID1204 3 -- not third party link to territory 
+TERRLINK-CER: MID1204 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1204 3 -- not maritime 
+MARITMID-CER: MID1204 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1204 3 -- not islands 
+ISLMID-CER: MID1204 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1204 1 -- civil war MID
+CIVWARMID-CER: MID1204 1 -- certain
+CIVWARMID-NOTES: MID1204 coded civil war MID because this was connected to Nicaraguan support for liberal forces (rebel groups) in both Guatemala and Honduras, which prompted direct conflict between those countries and Nicaragua. 
+
+CIVWARLINK: MID1204 1 -- civil war link
+CIVWARLINK-CER: MID1204 1 -- certain
+CIVWARLINK-NOTES: MID1204 coded civil war link because this also involved liberal forces (rebel groups) fighting in El Salvador (outside of this dyad), who also participated in this MID against Nicaragua. 
+
+COUPMID: MID1204 3 -- not coup 
+COUPMID-CER: MID1204 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1204 3 -- not coup link
+COUPLINK-CER: MID1204 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1175 
+
+TERRMID: MID1175 1 -- territorial MID
+TERRMID-CER: MID1175 2 -- somewhat certain 
+TERRMID-NOTES: MID1175 the cm narrative indicates that this MID involved a territorial dispute and occurred on 2/19/1917. Coded territorial MID because the cm narrative indicates that this is a territorial MID, but coded somewhat certain because the events of this MID are unspecified. 
+
+TERRLINK: MID1175 3 -- not third party link to territory 
+TERRLINK-CER: MID1175 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1175 3 -- not maritime 
+MARITMID-CER: MID1175 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1175 3 -- not islands 
+ISLMID-CER: MID1175 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1175 3 -- not civil war 
+CIVWARMID-CER: MID1175 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1175 3 -- not civil war link
+CIVWARLINK-CER: MID1175 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1175 3 -- not coup 
+COUPMID-CER: MID1175 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1175 3 -- not coup link
+COUPLINK-CER: MID1175 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1169 
+
+TERRMID: MID1169 1 -- territorial MID
+TERRMID-CER: MID1169 2 -- somewhat certain 
+TERRMID-NOTES: MID1169 the cm narrative indicates that this MID involved a territorial dispute and occurred on 10/15/1927. Coded territorial MID because the cm narrative indicates that this is a territorial MID, but coded somewhat certain because the events of this MID are unspecified. 
+
+TERRLINK: MID1169 3 -- not third party link to territory 
+TERRLINK-CER: MID1169 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1169 3 -- not maritime 
+MARITMID-CER: MID1169 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1169 3 -- not islands 
+ISLMID-CER: MID1169 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1169 3 -- not civil war 
+CIVWARMID-CER: MID1169 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1169 3 -- not civil war link
+CIVWARLINK-CER: MID1169 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1169 3 -- not coup 
+COUPMID-CER: MID1169 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1169 3 -- not coup link
+COUPLINK-CER: MID1169 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: RIV10203 only includes MID1205 and MID1204 which is split from RIV11203 which were originally classified as one, but were divided because of the 10 year distance between the disputes and the completely different issues involved.
+
+NARRATIVE-CM:
+Guatemala and Honduras disputed their border since 1842 following dissolution of the *Federation of Central America* (FCA). The countries signed a boundary convention in Guatemala City on March 1, 1895, which provided for the establishment of a mixed demarcation commission. The border commission met from June 1, 1908 to July 1, 1910, but was unable to complete demarcation of the border. Guatemala claimed territory within Honduras in February 1917. Honduran troops entered the disputed territory on March 2, 1917. Honduras requested that the United States mediate negotiations with Guatemala on March 5, 1917. Guatemala requested that the United States mediate negotiations with Honduras on November 11, 1917. The United States offered to mediate negotiations between Guatemala and Honduras on November 12, 1917, and Honduras accepted the mediation offer on November 16, 1917. Guatemala deployed some 60 troops commanded by Manuel Calderon on December 11, 1917. Secretary of State Robert Lansing of the US mediated negotiations between Guatemalan and Honduran representatives in Washington DC from May 20, 1918 to Janaury 3, 1921, when Guatemala withdrew its representatives from Washington DC. Guatemala and Honduras agreed to establish a border commission (Guatemala, Honduras, US ) on April 12, 1928, but the commission was disbanded on June 5, 1928. The US secretary of state suggested the submission of the dispute to arbitration on June 5, 1928, but Honduras rejected the suggestion on July 27, 1928. The US secretary-of-state offered to facilitate negotiations, and the parties agreed to the offer on November 12, 1929. Deputy Secretary-of-State Francis White of the US facilitated negotiations between Guatemalan and Honduran representatives in Washington DC from January 20 to July 16, 1930. The parties agreed to submit the dispute to a three-member arbitration tribunal (Chile, Costa Rica, US) headed by Charles Evans Hughes of the US on July 16, 1930. The arbitration tribunal issued a decision on January 23, 1933, which divided the disputed territory between the parties. Guatemala and Honduras established a demarcation commission (Guatemala, Honduras, US), which marked the border from April 24, 1933 to September 7, 1936.
+
+SOURCES-CM: 
+Fisher, 1933, 403-427; *Foreign Relations of the United States *(FRUS), 1917, 760-801; Ireland 1941, 86-94; Stuyt, 1990, 407; *Survey of International Affairs *(SIA), 1928, 464.
+
+NARRATIVE-CR:
+The first mid, MID1205 that begins on March 15, 1906 is actually a dispute between Guatemala and El Salvador that culminates into the so-called Second Central American War. Honduras joins the mid on the side of El Salvador but not until July 13, 1906, one week before the dispute ended. On July 14, 1906 Honduras did officially declare war on Guatemala. Regardless of the fact that Honduras entered the war particularly late, this conflict pertains to the Liberal-Conservative conflict in Central America and to the general problem of the Central American states' persistent interference in the domestic political affairs of other Central American states. Exiled Guatemalan Liberals were assisted by El Salvador to overthrow the Conservative Guatemalan President Cabrera. 
+
+In June 1907, the dispute between Guatemala and Honduras, MID1204 on 6/11/1907 was actually between Guatemala and Nicaragua. This was a result of Nicaraguan President Zelaya's attempt to support liberal forces in other Central American countries. This support prompted El Salvador, Guatemala, Honduras (with Liberal President Bonilla - an adversary of Zelaya) and exiled Nicaraguan conservatives to try and force Zelaya from power. In that month, Nicaragua had taken over Honduras and threatened to invade Guatemala from Honduras. On June 27, 1907 Guatemala joined with El Salvador and Honduras to force Nicaragua from Honduran territory with the threat of invasion. 
+
+The last two mids, MID1175 on 2/19/1917 and MID1169 on 10/15/1927, involved a territorial dispute between the two countries that originated in 1842. This territorial issue was brought to an end through an arbitration tribunal and demarcation commission that resolved the matter in 1933. 
+
+SOURCES-CR:
+Fisher (1933), 403-427; *New York Times* July 15,1906, July 3, 1907; Schooley (1987); Bulmer-Thomas (1991); Dunkerley (1991). 

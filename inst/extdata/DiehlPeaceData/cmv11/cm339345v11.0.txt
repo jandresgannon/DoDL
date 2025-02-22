@@ -1,0 +1,516 @@
+FILE: cm339345v11.0.txt
+DYAD: ALBANIA-YUGOSLAVIA
+RIVALRY: RIV882
+DISPUTE(S): MID1255 MID1262 MID1235
+RIVALRY: RIV883
+DISPUTE(S): MID2328 MID2372
+RIVALRY: RIV884
+DISPUTE(S): MID1720
+RIVALRY: RIv11.0
+DISPUTE(S): MID3554 MID4043 MID4045 MID4136 MID4137 MID4229
+
+PS: 19140101-19150611 .5 19150612-19260729 .25 19260730-19480727 .5 19480728-19921208 0.25 19921209-20010331 0.00 20010401-20209999 .25
+
+PS-UPDATE2020: One potential element of improved relations? https://balkaninsight.com/2020/11/09/serbia-and-albania-sign-deal-on-freedom-of-movement/
+
+PSNOTES: 
+
+For the period 19150612-19260729, the end date was changed from 1926029 to 19260729 because of a missing digit in the date and for period 19260730-19480727 the begin date was changed from 19260630 to 19260730. These changed are made because Greece and Yugoslavia all signed a formal agreement fixing Albania's borders on July 30th of 1926. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20220301
+PS-LAST-CHECKED: 20220301
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1255 MID1262 
+
+MID1235 
+
+TERRMID: MID1235 1 -- territorial MID
+TERRMID-CER: MID1235 1 -- certain 
+TERRMID-NOTES: MID1235 from Gibler 2018, Albania's borders were still unsettled after WWI, and Yugoslavia sought to take advantage by claiming some of Albania's territory in 1921. In September 1921, Yugoslavia ordered Albanian guards to abandon a post in the disputed territory. When Albania refused, Yugoslavia attacked and occupied the area. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID1235 3 -- not third party link to territory 
+TERRLINK-CER: MID1235 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1235 3 -- not maritime 
+MARITMID-CER: MID1235 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1235 3 -- not islands 
+ISLMID-CER: MID1235 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1235 1 -- civil war MID
+CIVWARMID-CER: MID1235 1 -- certain 
+CIVWARMID-NOTES: MID1235 from Gibler 2018, Albania's borders were still unsettled after WWI, and Yugoslavia sought to take advantage by claiming some of Albania's claimed territory in 1921. Yugoslavia gave money and weapons to an Albanian group to fight against the Albanian government, but they were unsuccessful. The Albanian rebels were soundly defeated. Coded civil war MID because Yugoslavia funded Albanian rebels who fought against the Albanian government during this MID. 
+
+CIVWARLINK: MID1235 3 -- not civil war link 
+CIVWARLINK-CER: MID1235 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1235 3 -- not coup 
+COUPMID-CER: MID1235 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1235 3 -- not coup link
+COUPLINK-CER: MID1235 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2328 
+
+TERRMID: MID2328 1 -- territorial MID 
+TERRMID-CER: MID2328 1 -- certain 
+TERRMID-NOTES: MID2328 from Gibler 2018, this MID occurred from 1949-1951. Yugoslavia wanted to incorporate Albania into its territory since the end of WWII, which Albania opposed. In 1949, Albania accused Yugoslavia of border violations, and Yugoslavia accused Albania of the same. A series of seizures of people and vehicles followed. Yugoslavia blockaded Albania. Coded territorial MID because Yugoslavia was claiming all of Albania as part of its own territory. 
+
+TERRLINK: MID2328 3 -- not third party link to territory 
+TERRLINK-CER: MID2328 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2328 1 -- maritime MID
+MARITMID-CER: MID2328 1 -- certain 
+MARITMID-NOTES: MID2328 from Gibler 2018, this MID involved Yugoslavia sending ships into Albanian waters and blockading Albania. Coded maritime MID because Yugoslavia was claiming all of Albania, which included its territorial waters. 
+
+ISLMID: MID2328 3 -- not islands 
+ISLMID-CER: MID2328 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2328 3 -- not civil war 
+CIVWARMID-CER: MID2328 1 -- certain 
+CIVWARMID-NOTES: MID2328 Albania accused Yugoslavia of using spies and terrorists against their government, but there is no indication that rebel group activity occurred in this specific MID. 
+
+CIVWARLINK: MID2328 3 -- not civil war link 
+CIVWARLINK-CER: MID2328 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2328 3 -- not coup 
+COUPMID-CER: MID2328 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2328 3 -- not coup link
+COUPLINK-CER: MID2328 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2372 
+
+TERRMID: MID2372 1 -- territorial MID
+TERRMID-CER: MID2372 1 -- certain 
+TERRMID-NOTES: MID2372 MID2372 from Gibler 2018, Albania accused Yugoslavia of border violations in 1952. Yugoslavia was claiming all of Albania at this time and seeking to coerce Albania into becoming part of the Yugoslav republic. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2372 3 -- not third party link to territory 
+TERRLINK-CER: MID2372 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2372 1 -- maritime MID
+MARITMID-CER: MID2372 1 -- certain 
+MARITMID-NOTES: MID2372 Yugoslavia claimed the entirety of Albania, including Albania's territorial waters. Coded maritime MID because this was also motivated by Yugoslavia's desire for Albania's waters. 
+
+ISLMID: MID2372 3 -- not islands 
+ISLMID-CER: MID2372 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2372 3 -- not civil war 
+CIVWARMID-CER: MID2372 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2372 3 -- not civil war link 
+CIVWARLINK-CER: MID2372 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2372 3 -- not coup 
+COUPMID-CER: MID2372 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2372 3 -- not coup link
+COUPLINK-CER: MID2372 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1720 
+
+TERRMID: MID1720 3 -- not territory 
+TERRMID-CER: MID1720 1 -- certain 
+TERRMID-NOTES: MID1720 from Gibler 2018, Yugoslavia attacked an Albanian fishing vessel for fishing in their territorial waters. From cm narrative, Yugoslavia by this time had dropped its insistence that Albania become part of Yugoslavia; tensions between the countries were high due to Albania's warm relations with the Soviets, but no territorial or maritime dispute was present at this time. 
+
+TERRLINK: MID1720 3 -- not third party link to territory 
+TERRLINK-CER: MID1720 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1720 3 -- not maritime 
+MARITMID-CER: MID1720 1 -- certain 
+MARITMID-NOTES: MID1720 Albania claimed the boats were in Albanian waters, not Yugoslavian waters, but they were disputing the location of the boats and not the location of the maritime border. There was no active maritime dispute at this time. 
+
+ISLMID: MID1720 3 -- not islands 
+ISLMID-CER: MID1720 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1720 3 -- not civil war 
+CIVWARMID-CER: MID1720 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1720 3 -- not civil war link 
+CIVWARLINK-CER: MID1720 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1720 3 -- not coup 
+COUPMID-CER: MID1720 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1720 3 -- not coup link
+COUPLINK-CER: MID1720 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3554 
+
+TERRMID: MID3554 3 -- not territory 
+TERRMID-CER: MID3554 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3554 1 -- third party link to territorial MID
+TERRLINK-CER: MID3554 1 -- certain 
+TERRLINK-NOTES: MID3554 see CIVWARMID for description of this MID. The Yugoslav War also had a territorial element as Yugoslavia was claiming the territory of several countries. 
+
+MARITMID: MID3554 3 -- not maritime 
+MARITMID-CER: MID3554 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3554 3 -- not islands 
+ISLMID-CER: MID3554 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3554 1 -- civil war MID
+CIVWARMID-CER: MID3554 1 -- certain 
+CIVWARMID-NOTES: MID3554 from Gibler 2018, Albania fortified its border with Yugoslavia to prevet spillover of the war in Yugoslavia from coming into its borders. Exchanges of threats occurred, and Serbia attacked Albanian soldiers at the border. Coded civil war MID because the civil war in Yugoslavia (within this dyad) contributed to this MID. 
+
+CIVWARLINK: MID3554 3 -- not civil war link 
+CIVWARLINK-CER: MID3554 1 -- certain 
+CIVWARLINK-NOTES: MID3554 fighting in the Yugoslav Wars was also occurring in states outside this dyad, but only the fighting in Yugoslavia led to Albania fortifying its border with Yugoslavia, so the fighting elsewhere is unconnected to this bilateral MID. 
+
+COUPMID: MID3554 3 -- not coup 
+COUPMID-CER: MID3554 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3554 3 -- not coup link
+COUPLINK-CER: MID3554 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4045 
+
+TERRMID: MID4045 3 -- not territory 
+TERRMID-CER: MID4045 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4045 1 -- third party link to territorial MID
+TERRLINK-CER: MID4045 1 -- certain 
+TERRLINK-NOTES: MID4045 see CIVWARMID for full description of MID. Coded third party link to territorial MID because the Yugoslav Wars included Yugoslavia claiming the territory of other countries, and this MID is connected to the Yugoslav Wars. 
+
+MARITMID: MID4045 3 -- not maritime 
+MARITMID-CER: MID4045 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4045 3 -- not islands 
+ISLMID-CER: MID4045 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4045 1 -- civil war MID
+CIVWARMID-CER: MID4045 1 -- certain 
+CIVWARMID-NOTES: MID4045 from Gibler 2018, Serbian (Yugoslavian) troops moved toward the border of Albania and triggered fears of an invasion. The troops amassing on the border of Albania trigger this MID. Coded civil war MID because this was connected to the Yugoslav Wars, as Yugoslavia was fighting against militarized rebels who were ethnically Albanian, and as part of this fight they deployed to the border of Albania. Coded civil war MID because the Yugoslav Wars had a civil war element as there were ethnic insurgent groups fighting in the belligerents, including ethnic Albanian rebel groups fighting in Serbia. 
+
+CIVWARLINK: MID4045 3 -- not civil war link 
+CIVWARLINK-CER: MID4045 1 -- certain 
+CIVWARLINK-NOTES: MID4045 this MID occurred during the Yugoslav Wars, and during this time other countries in former Yugoslavia also experienced ethnic insurgencies, but they are unconnected to this bilateral MID. Only the militarized action in Serbia triggered this MID. 
+
+COUPMID: MID4045 3 -- not coup 
+COUPMID-CER: MID4045 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4045 3 -- not coup link
+COUPLINK-CER: MID4045 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. Albania was not party to the claim on Kosovo. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 coded civil war link because this MID involved ethnic insurgents fighting inside Kosovo, outside of this dyad. Serbian guerrillas and troops fought Albanian guerrillas within Kosovo. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4229 
+
+TERRMID: MID4229 3 -- not territory 
+TERRMID-CER: MID4229 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4229 3 -- not third party link to territory 
+TERRLINK-CER: MID4229 1 -- certain 
+TERRLINK-NOTES: MID4229 this did not involve the various territorial disputes in the Yugoslav Wars, which was winding down at this time.
+
+MARITMID: MID4229 3 -- not maritime 
+MARITMID-CER: MID4229 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4229 3 -- not islands 
+ISLMID-CER: MID4229 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4229 3 -- not civil war 
+CIVWARMID-CER: MID4229 1 -- certain 
+CIVWARMID-NOTES: MID4229 from Gibler 2018, Albania fortified its border with Yugoslavia because it was concerned about infighting between forces loyal to Milosevic and forces loyal to the Montenegran president. Coded not civil war because this was not connected to any actual domestic conflict, but was triggered by fears of the outbreak of fighting between former Yugoslavia troops. The troops were still part of the military and were not rebels. 
+
+CIVWARLINK: MID4229 3 -- not civil war link 
+CIVWARLINK-CER: MID4229 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4229 3 -- not coup 
+COUPMID-CER: MID4229 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4229 3 -- not coup link
+COUPLINK-CER: MID4229 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4136 
+
+TERRMID: MID4136 3 -- not territory 
+TERRMID-CER: MID4136 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4136 1 -- third party link to territorial MID
+TERRLINK-CER: MID4136 1 -- certain 
+TERRLINK-NOTES: MID4136 see CIVWARMID for full description of MID. Coded third party link to territorial MID because the Yugoslav Wars included Yugoslavia claiming the territory of other countries, and this MID is connected to the Yugoslav Wars. 
+
+MARITMID: MID4136 3 -- not maritime 
+MARITMID-CER: MID4136 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4136 3 -- not islands 
+ISLMID-CER: MID4136 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4136 1 -- civil war MID
+CIVWARMID-CER: MID4136 1 -- certain 
+CIVWARMID-NOTES: MID4136 from Gibler 2018, in 1997, Yugoslavia closed its border with Albania and placed its forces on alert, triggering this MID. Yugoslavia was uneasy about the domestic conflict occurring in Albania; ethnic Serbs and Albanian rebel groups were fighting in Albania and in Yugoslavia. 
+
+CIVWARLINK: MID4136 3 -- not civil war link 
+CIVWARLINK-CER: MID4136 1 -- certain 
+CIVWARLINK-NOTES: MID4136 this MID occurred during the Yugoslav Wars, and during this time other countries in former Yugoslavia also experienced ethnic insurgencies, but they are unconnected to this bilateral MID. 
+
+COUPMID: MID4136 3 -- not coup 
+COUPMID-CER: MID4136 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4136 3 -- not coup link
+COUPLINK-CER: MID4136 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4043
+rivalry=339345 nationa=ALBANIA nationb=YUGOSLAVIA-SERBIA MID4043 19930701-19940814 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+1-25 DEATHS fatalpb=1 lhostb=USE OF FORCE 
+
+There has been general hostility between Yugoslavia (Serbia) and Albania over Kosovo, the Albanian-populated province in southern Yugoslavia. This hostility erupted into a series of incidents between the summer of 1993 and the summer of 1994. First day of dispute was on 7/1/1993 and last day of dispute was on 8/14/1994.
+
+MID4045
+rivalry=339345 nationa=YUGOSLAVIA-SERBIA nationb=ALBANIA MID4045 19950310-19950315 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Tensions mounted between Yugoslavia (Serbia) and Albania because of troop movements in Kosovo near the Albanian border. Start and ending dates are estimated. First day of dispute was on 3/10/1995 and last day of dispute was on 3/15/1995.
+
+MID4136
+rivalry=339345 nationa=YUGOSLAVIA-SERBIA nationb=ALBANIA MID4136 19970303-19970913 
+ revtype1a=OTHER revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Yugoslavia fortified border with Albania and showed force in response to civil unrest in Albania involving the legitimacy of the government and the situation in Kosovo. First day of dispute was on 3/3/1997 and last day of dispute was on 9/13/1997.
+
+MID4137
+rivalry=339345 nationa=ALBANIA nationb=YUGOSLAVIA-SERBIA MID4137 19980200-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+501-999 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 2/00/1998 and last day of dispute was on 6/10/1999.
+
+MID4229
+rivalry=339345 nationa=ALBANIA nationb=YUGOSLAVIA-SERBIA MID4229 20000808-20010208 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Albania started to reinforce its border with Montenegro to prepare for a possible war with Yugoslavia. First day of dispute was on 8/8/2000 and last day of dispute was on 2/8/2001.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Yugoslav troops invaded the Dibra, Mati, and Skutari districts in northern Albania beginning on July 16, 1920, resulting in the deaths of some 738 Albanians. Albania was formally admitted to the *League of Nations* (LON) on December 17, 1920. Albania referred the matter of Yugoslav aggression to LON Secretary-General Sir Eric Drummond on April 29, 1921. The LON Council deferred to the *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Belgium, Britain, France, Italy, and Japan, on June 25, 1921. Yugoslav troops occupied the Gashi and Krasnitch districts in northern Albania on July 6-7, 1921, and Albania referred the matter to the LON Council on July 7, 1921. Yugoslavia supported Albanian rebels in northern Albania beginning on July 17, 1921, and Albania referred the matter to the LON Council on August 6, 1921. Albanian troops occupied territory in Yugoslavia on August 9, 1921. The LON Council referred the matter to the LON Assembly on September 2, 1921. Albanian troops and Yugoslav troops clashed in northern Albania on September 18-23, 1921, resulting in the deaths of 61 Yugoslav soldiers. The LON Assembly approved a resolution on October 2, 1921, which recommended that Albania accept the forthcoming decision of the ACA regarding the border. The LON Council established a three-member commission of inquiry (Finland, Luxembourg, Norway) on October 6, 1921. Yugoslav troops launched a military offensive against Albanian troops in northern Albania on October 26, 1921, and Albania referred the matter to LON Secretary-General Drummond. The ACA issued a decision regarding the Albanian-Yugoslav border on November 9, 1921, and appointed a four-member delimitation commission (Britain, France, Italy) to the region to survey the border. Yugoslavia accepted the decision of the ACA, and agreed to withdraw its troops from Albania on November 14, 1921. The ACA established a neutral zone on the Albanian-Yugoslav border on November 18, 1921. The LON Council approved a resolution on November 21, 1921, which authorized the commission of inquiry to monitor the withdrawal of Yugoslav troops from Albanian territory. Yugoslav troops began their withdrawal from Albanian territory on December 10, 1921, and the LON commission of inquiry reported that Yugoslav troops had completed their withdrawal from Albania on December 20, 1921. Yugoslavia recognized the independence of Albania on March 4, 1922. The ACA delimitation commission agreed to award Albania sovereignty over St. Naoum monastery on December 6, 1922. The ACA decided to abolish the neutral zone on the Albania-Yugoslavia border on January 14, 1923. On April 6, 1923, Yugoslavia asked the ACA to reconsider the St. Naoum monastery decision. The LON commission of inquiry issued its final report on April 6, 1923. The ACA referred the matter of St. Naoum monastery to the LON Council on June 5, 1924, and the LON Council asked the *Permanent Court of International Justice* (PCIJ) for an advisory opinion on June 17, 1924. The PCIJ issued an advisory opinion regarding St. Naoum monastery on September 4, 1924, which upheld the decision of the ACA to award the monastery to Albania. Albania accused Yugoslavia of supporting Albanian rebels, and Albania referred the matter to the LON Council on December 20, 1924. Albanian rebels led by Ahmed Bey Zogolli invaded Albania from Yugoslav territory on December 13, 1924, and overthrew the government of Prime Minister Fan Noli on December 24, 1924. The ACA decided to award St. Naoum monastery to Yugoslavia and the village of Piskopeja to Albania on August 6, 1925. Albania accepted the decision on August 13, 1925, and Yugoslavia accepted the decision on October 15, 1925. The ACA formally approved a border line between Albania and Yugoslavia on November 6, 1925. Albania and Yugoslavia signed agreements on December 14, 1953, which provided for the demarcation of the border and the prevention of border incidents. The countries resumed diplomatic relations on December 23, 1953. Serbian troops shelled ethnic-Albanian rebels near the Kosovo-Albania border on July 18, 1998, resulting in the deaths of 19 Albanian civilians.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 245-247; Conwell-Evans, 1929, 105-107; Fachiri, 1925, 213-216; Ference, 1-60, 393-436; *Keesing*, December 26, 1953-January 2, 1954, July 1998; Luard, 1970, 60-68; Northedge, 1986, 103-105; *Survey of International Affairs *(SIA), 1925 (supplement), 2-4; Swire, 1971, 327-385.
+
+NARRATIVE-CR:
+Conflict between Yugoslavia and Albania predates that actual statehood of either country. Primarily the source of bad relations between the two countries comes as a result over disputed territory (Albania was interested in parts of what became Yugoslavia) and ethnic conflicts (between the Muslim and Christian populations). The rivalry is coded as having started in June of 1915, which coincides with the Serbian invasion of Albania at the outset of the First World War (coded as MID257). Serbians began occupation of the Albanian territories of Elbasen and Tirana (central Albania) without first gaining the permission of the Allied forces. 
+
+Although the Allied forces had granted the independence and neutrality of Albania in 1912 they agreed to allowing Greece, Serbia and others divide it up for the purpose of furthering the Allied war effort (Stavrianos 2000 p710). Albania might have been completely conquered had it not been for the intervention of the Bulgarian's in September of 1915. The Central Powers subsequently forced the Serbians out of northern Albania. MID1255 occurred from June 12, 1915 to February 1916. MID1262 occurred from September 15, 1918 to November 5, 1918. No specific information could be found on these two MIDs. They occurred in the context of World War I. 
+Following the conclusion of WWI the occupation of Albania was decided during the Paris Peace Conference. On December 25th of 1918 Albania had installed a provisional government, which appointed delegates to attend the conference. The goal of Albania was to recapture all of the lost territory that had been granted in 1913 by the Conference of Ambassadors (Stavrianos 2000 p710). 
+
+President Wilson on March 6th of 1920 stated that he opposed letting Yugoslavia keep any of Albania's land in compensation for their losses during WWI. Furthermore he called for the complete restoration of Albanian territory. By May of that same year Italy fully withdrew from Albania excepting Valona, which it returned in August in an agreement that it signed with the Albanian provisional government. On December 17th of 1920 Albania was accepted into the League of Nations, which quickly reversed its fortunes in regards to dealing with the Serbians from Yugoslavia (Stavrianos 2000 p714).
+
+MID1235 occurred from August 6, 1921 to October 18, 1921. In this act of aggression Yugoslavia moved troops into Albania in October of 1921 in an attempt to expand its borders. On November 9th of 1921 the Conference of Ambassadors reaffirmed the 1913 borders and by 1922 all Yugoslavian and Greek troops had been removed. Albania, Greece and Yugoslavia all signed a formal agreement fixing Albania's borders on July 30th of 1926 (Stavrianos 2000 p714). 
+
+RIv11.0
+
+RIv11.0 begins in December of 1992 with MID3554 and ends February 2001 with MID4229. The primary issue underlying the rivalry is the status of Kosovo. In 1990, changes to the Yugoslavian constitutions limited the rights of Albanians in Kosovo. Riots erupted in protest and Serbia, in response to the riots, declared a state of emergency and increased military and policy presence in the republic. In 1992, Kosovo held elections and elected a president of The Republic of Kosovo. These elections were not recognized as legitimate by Yugoslavia. The breakup of Yugoslavia occurs in 1992, resulting in the outbreak of war. After the breakup of Yugoslavia, Serbia and Albania experience a series of disputes revolving around the status of Kosovo. These disputes culminated in the NATO action against Yugoslavia between 1998 and 1999 (MID4137). 
+
+MID3554 Bilateral dispute between Albania and Yugoslavia (Serbia). The dispute lasts from December 9, 1992 to December 31, 1992.
+
+MID4043 There has been general hostility between Yugoslavia (Serbia) and Albania over Kosovo, the Albanian-populated province in southern Yugoslavia. This hostility erupted into a series of incidents between the summer of 1993 and the summer of 1994 (July 1993 to August 1994).
+
+MID4045 Tensions mounted between Yugoslavia (Serbia) and Albania because of troop movements in Kosovo near the Albanian border. Start and ending dates are estimated (March 10-15 1995). 
+
+MID4136 Bilateral dispute that takes place from March 3, 1997 to September 13, 1997. Yugoslavia fortified border with Albania and showed force in response to civil unrest in Albania involving the legitimacy of the government and the situation in Kosovo. 
+
+MID4137 In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99.
+
+On March 15, 2000, the Albanian government urged Albanians in Southern Serbia to put an end to extremist activities, stating that violence was not in the interest of anyone. Further, the Albanian government argued that Albanian extremism in Serbia only created obstacles for international efforts to bring stability. The comments were aimed at Albanians in Serbia exacting what appeared to be acts of revenge against the minority Serbian population in Southern Serbia. Violence against these minorities, argued the Albanian government, were inconsistent with efforts at democracy in Kosovo. 
+
+On August 7, 2000, Yugoslavia filed ``the strongest protest'' in response to Albania's establishment of a Liaison Office in Kosovo. Belgrade argued that such an act violated the U.N. Charter and Yugoslavia's sovereignty. Yugoslavia fears this is a first step toward Albanian assistance for Kosovo's aims at independence from Belgrade. Belgrade filed the complaint with the president of the UN Security Council and referenced a resolution adopted by the Security Council the previous year calling for all member states to respect the sovereignty of Yugoslavia and Kosovo as a part of Yugoslavia.
+
+On October 7th, 2000, Slobodan Milosevic resigned, after losing the elections. This is a turning point in the Albanian-Serb relations as Milosevic was perceived as the guilty part for the killing of Albanian Kosovars. On October 24, 2000, Albanian Parliament expressed skepticism toward the new government in Serbia. Albanian Foreign Minister Paskal Milo said that any future relations with Serbia would depend on how the new leadership in Serbia dealt with the crimes of past leaders and the Kosovo situation. The statement by Albanian officials were in reaction to a speech by Yugoslavian President Vojislav Kostunica, who insisted that Kosovo's future was as part of Serbia.
+
+MID4229 Bilateral dispute that takes place from August 8, 2000 to February 2001. Albania started to reinforce its border with Montenegro to prepare for a possible war with Yugoslavia. 
+
+SOURCES-CR:
+Stavrianos 2000
+19441117-19480727 .5
+
+Italy invaded Albania on April 7, 1939. On April 16, 1939 Victor Emmanuel III, King of Italy, was officially given the title ``King of Albania.'' At a convention held on April 20, 1939, Italy and Albania were officially integrated into one territory; integration of the economies of both nations quickly followed. 
+
+In June 1940, Italy entered World War II on the side of Germany. Efforts were made by Italy to rally support inside of Albania for the war effort. As a means of gaining support for the war in Albania, the King of Italy promised to unify all territories with Albanian populations, including Kosova and Cameria. On October 28, 1940 Italian troops began the invasion of Greece. Although the Italian installed government of Albania sent Albania troops to support the Italian invasion, their forces refused to fight. They sympathized with the independence movement in Greece and refused to support Italy in the war. 
+
+In April of 1941, Germany invaded Yugoslavia and began the process of partitioning the state. They also began a plan, based on German-Italian agreement of Vienna, to create a ``Greater Albania'' by integrating Albanian regions of Kosova and Cameria in Yugoslavia and Greece, respectively. Although territorially unified by these acts, Albanians within the country were divided. The Albanian Communist Party (ACP) established a resistance against the Fascist forces occupying the country. As well, there were nationalist groups vying for power and independence within Albanian. Various anti-communist groups formed into a group called the Balli Kombetar (BK National Front) to both seek Albanian independence and counter the growing power of the communist party. After the invasion of Italy and the overthrow of Mussolini in July of 1943, the factions within Albania tried to come together to coordinate against the Fascists and to bring about an independent Albania. These efforts broke down, however, when the ACP felt that the BK was more interested in maintaining a hold on power within Albania than fighting against Fascist forces. 
+
+The fall of Italy led to the occupation of Albania by German forces in September of 1943. The Albanian National Liberation Army (NLA) fought against German forces and pro-Fascist Albanian nationalists during this time. By October of 1944, the NLA had liberated most of Albania from German and pro-facist Albanian forces. 
+
+In a decisive battle with German forces, the capital city of Tirane was freed on November 17, 1944; this date marks the reemergence of Albania as an independent, sovereign state. Although parts of Kosovo were integrated into Albania under Italian occupation, Kosovo was integrated into Yugoslavia at the end of the war. All Albanian troops were ordered out of Kosovo by the leaders of Yugoslavia and Kosovo was placed under military rule in February of 1945. The communist party, attempting to establish a legitimate post-war government decided not to press the Kosovo issue with Yugoslavia. Yugoslavia become the first country to recognize the post-war Albanian government on April 28, 1945. The Soviet Union was the first great power to recognize Albania after the war. Great Britain and the United States withheld recognition, choosing instead to wait for free elections to emerge in the state. Albania held elections on December 8, 1945; the communist party won power with 90 percent of the vote. The opposition boycotted the election as unfair. Both the United States and Great Britain pulled their military missions from Albania after Albania held trials against anti-communist members of parliament. In May of the following year, the Albanian coastguard fired on two British ships. In October of 1946, Albania refused to grant Great Britain permission to remove mines from Albanian waters after two British ships struck seabed mines in the area. It is believed that Yugoslavian leaders were advising Albania to not cooperate with the western states during this time period.
+
+In the early months after the war, it was believed by leaders in both Albania and Yugoslavia that the two countries were destined for close economic and cooperative relations. Yugoslavia made numerous public statements regarding a commitment to an independent Albania. The Yugoslavian leader Tito agreed to speak internationally on behalf of Albania and Stalin, leader of the Soviet Union, agreed to refer all communications regarding Albania through Yugoslavia during a meeting in May 1946. According to Tito, the Soviet Union had little interest in Albania and was more than willing to allow Yugoslavia to handle Albania affairs. 
+
+Albania and Yugoslavia signed the Treaty of Friendship and Mutual Assistance on July 9, 1946; this marked the first agreements signed by the new Albania government with another state. The head of the Albanian government, Enver Hoxha, visited Belgrade on June 1946, at the request of Marshall Tito, head of Yugoslavia. It was during this meeting that the two leaders negotiated the friendship treaty. Among other provisions, the treaty included a clause calling for a ``joint response to a military attack on any of the contracting parties.'' 
+The friendship treaty was followed by a treaty of economic cooperation signed on November 27, 1946 called the ``Economic Convention.'' The purpose of the agreement was to integrate the two economies through joint planning of economic activities and by removing obstacles to trade between the two states; there was a stipulation in the agreement that economic activity between the states would be governed by the Yugoslavian legislation. Further, Yugoslavia agreed to provide Albania with assistance necessary to abide by the agreement. Following the agreement, Yugoslavia sent experts to Albania to help establish the necessary infrastructure for integrating the two economies. In addition, Hoxha asked Yugoslavia to help help equip and train the small Albanian Army. In ``Memorandum on the Albanian Armed Forces in the Post-War Period,'' Albanian officials outlined their concern that the Albanian military was not sufficient to defend the country and would require assistance from Yugoslavia. 
+
+Yugoslavia represented Albania in official international forums during this period. Albania had not been invited to the initial meetings of the United Nations and was denied membership in 1946 at the urging of the United States and Great Britain. The United States listed as reasons for rejecting Albanian membership: lack of relations with Great Britain, ongoing war with Greece, and Albania's suspected support for Greek communists. Although Yugoslavia acted as Albania's representative in the United Nations, they were also publicly pushing for Albania's admittance. Yugoslavia also acted as Albania's voice at a peace conference in October 1946 aimed at determining the status of five states defeated in the war: Italy, Romania, Bulgaria, Hungary, and Finland. Yugoslavia argued for Albania's participation, especially given that Albania was the first state invaded by Italy, but the major powers refused to allow Albania's participation. 
+
+In 1947, Yugoslavia issued an official protest against Albanian officials. Albania had sent an official delegation to Moscow without having first received permission from Yugoslavia, something Belgrade felt was required in their agreement to have Yugoslavia represent Albanian in foreign affairs. In July of 1947, Soviet leaders emphasized this point to Albanian head of state Hoxha. Stalin suggested that all communications between the Soviet Union and Albania, should, in the future, go through Belgrade. 
+
+In 1946, Marshall Tito began to push forward with plans to create a Balkan federation that would include Bulgaria and Albania. The plan for a Yugoslavia-Bulgaria federation was endorsed by the Soviet Union, with plans to later add Albania to the group. Bulgaria, however, initially in support began to stall ratification of the merge. As a result, Yugoslavia decided to focus on forming a federation with Albania. 
+
+Despite the cooperation, tensions began to arise between the two states in 1947. In May 1947, Yugoslavia requested permission to deploy military forces in Albania against what they called an imminent attack by Greek forces. When Albania appeared to delay in granting the request, Yugoslavia accused Albania of having anti-Yugoslaivan factions in the government, of failing to implement key portions of cooperative agreements, and seeking agreements with the Soviet Union. Albanian head of state Enver Hoxha opening rejected all of the accusations. Rising tensions between the Soviet Union and Yugoslavia gave Yugoslavia reasons to fear a rift forming between Belgrade and Albania. Indeed, Yugoslavia accused Albania of violating their cooperative agreement when Albania signed a trade agreement with the Soviet Union that same year. 
+
+Yugoslavia began to push hard for Albania to publicly declare a desire to join a federation with Albania. Albania was divided politically over what to do, as there were some anti-Yugoslavia factions in government but others that supported the union and believed that Albania could not survive on its own. Outwardly, however, Albania leaders reiterated their desire to join the federation with Yugoslavia. Indeed, Hoxha affirmed his desire to join the union on March 14, 1948. During this time, Yugoslavia continued to push Albania for permission to deploy troops against an invasion by Greece and Italy. In March of 1948, Albania officially finally agreed as long as the operation was a joint effort between Yugoslavia and Albania forces. Yugoslavia never deployed the troopers, however, because the Soviet Union refused to grant permission for the action; the Soviet Union said there was no evidence that Albania was in trouble. 
+
+19480728-19921208 RIV883/RIV884-0.25
+
+The situation between the two countries changed dramatically in late March 1948. Yugoslavia withdrew its offer to form a federation with Albania. Instead, Belgrade said a reevaluation of the relations between the two countries was necessary. Yugoslavia went on to again accuse Albania of anti-Yugoslavian actions and to call for a reevaluation of all efforts to integrate the two countries. Yugoslavia's decision to end plans for a federation with Albania were due in part to the rising tensions between Yugoslavia and the Soviet Union. 
+
+Once Albania learned that Yugoslavia's decision to stop plans for a federation were influenced by Yugoslavia's break with the Soviet Union, Albanian leaders were emboldened to separate their future from Yugoslavia's. On June 28, 1948, Albania voted to abrogate all treats and agreements with Yugoslavia, expect the Treaty of Friendship. The friendship treaty was later canceled by the Yugoslavian government. A strong anti-Yugoslavian movement began to form with the leadership in Albania. Clashes between Yugoslavian and Albania border officials became common place during the period of July-Decemeber of 1948. During 1949, the Albanian government held a series of anti-Yugoslavian trials, aimed at purging pro-Yugoslavian elements from the government and the political party. 
+
+The Soviet Union immediately filled the void left by the severing of relations between Yugoslavia and Albania. In September 1948, Albania and the Soviet Union signed their first economic agreement. In February 1949, the Council of Mutual Economic Assistance (CMEA) was established. Experts from the Soviet Union immediately started arriving in Albania. Albania head of state Hoxha also began removing any suspected pro-Yugoslavian elements from the government. 
+
+The rift between Albania and Yugoslavia became official in 1950, when Yugoslavia closed the Yugoslavian embassy in Tirana and demanded that Albania close its embassy in Belgrade. 
+
+1950s: This period witnessed a series of verbal attacks by Albanian leaders on Yugoslavia regarding the treatment of Albanians in Yugoslavia. During the 1950, Yugoslavian leaders began a series of actions aimed at seizing weapons from Albanians in Kosovo and took steps to deport large numbers of Albanians from the country. Estimates suggest that as many as 250,000 Albanians may have been forced to leave Kosovo between 1953-1972. Albanian leader Hoxha condemned these actions throughout the period but was pressured by both Stalin and, later, Khrushchev to stay out of the domestic affairs of Yugoslavia. 
+
+Tito also instituted a series of constitutional reforms during this period, with the goal to equalize power between the constituent parts of the Federation. This included reforms on how Kosovo was to be treated. The 1953 Federal Constitution included protections for the autonomous units of Kosovo and Vojvodina, although Kosovo was still designated as a region, rather than a province and did not have some government institutions, such as a Supreme Court, that were afforded to Vojvodina. This was partially rectified in the 1963 constitution, where Kosovo was elevated to ``province'' status and given autonomy rights on par with Vojvodina. 
+
+Tensions remained high between Yugoslavia and Albania during this time. They experienced MID2328 and MID2372 in 1949 and 1952, respectively. Albania viewed Yugoslavia as a constant threat to independence and relied heavily on the Soviet Union for protection. The decision by Khrushchev in 1954-1955 to invalidate the Soviet Union's decision to break with Yugoslavia was quite disturbing to Albania. Khrushchev's decision to attempt reconciliation with Yugoslavia was promoted, at least in part, by the decision of Yugoslavia to sign an accord with Greece and Turkey, two NATO allies, in 1953. The pact was aimed at maintaining peace and stability between equal states in the region. The Soviet Union and Albania viewed the pact as a threat to Albania's independence. Krushchev revised the Cominform decision to oust Yugoslaiva; Albania strongly protested the decision. Following Krushchev's trip to Belgrade to further mend fences with Yugoslavia, Albania leader Hoxha visited Moscow to protest the reconciliation. Moscow responded by demanding that Albania release those tried and arrested as anti-Yugoslavian factions. The actions of the Soviet government put Albania at risk of being isolated from the Soviet Union and, in their mind, at risk to threats from Yugoslavia. 
+
+In 1960, Albania joined China in challenging the Soviet Union's right to set policy for International Communism. At a speech in Moscow in November of 1960, Albanian leader went further in challenging the Soviet Union by speaking out against Khrushchev's attempts at detente with the West, reestablishment of relations with Yugoslavia, and for criticisms against Stalin. Subsequently, Hoxha demanded that the Soviet Union withdraw their ambassador from Tirana. In April of 1961, the Soviet Union withdrew personnel from Albania. Albania stated that friendship with the Soviet Union was a priority but condemned the actions of Khrushchev. By the end of the year, aid from the Soviet Union to Albania was cut off. Further, both the Soviet Union and Albania recalled their ambassadors from the respective countries. 
+
+Albania was thus isolated in the region from both the Soviet Union and Yugoslavia. The west made little to no effort to reach out to Albania, and China was too far away to be of much assistance. Albania feared the Soviet Union would attempt to forcibly return them to the sphere of influence, similar to what had happened to Hungary. This feeling of isolation led, in part, to the rapprochement that began between Yugoslavia and Albania in 1968. An offer was made by Albanian officials toward Yugoslavia to improve relations, if for no other reason than to protect their sovereignty against the Soviet threat. Tito reciprocated this request in August of 1970. In 1971, diplomatic relations between the two countries were raised to the ambassador level. 
+
+January 10, 1979: Yugoslavian officials, after a recent trip to Albania, expressed a desire for continued improved relations with Albania. Officials noted that cooperative relations had steadily improved since the reestablishment of formal diplomatic relations in 1971. By 1974, trade had improved from around 5 million dollars annually to 18 million. Currently trade had reach over 53 million annually. Further, officials stressed that Albania and Yugoslavia had mutual interest in cooperative relations, maintaining independence, and preventing interference in internal affairs. 
+
+December 18, 1979: Albanian and Yugoslavian leaders made statements in agreement that the future of the states in the Balkan states and co-operative relations between Albania and Yugoslavia should be dictated not by outside powers but by the states in the region. Note was made of the improvement in relations that occurred between the two states during the past decade. 
+
+May 20, 1981: Yugoslavian leaders accuse Albania of fostering rebellion of Albanians inside of Yugoslavia against the Yugoslavian government. This statement was in reaction to articles written by the Albanian press in support of the student protesters in Kosovo. in March of 1981, students at the University of Pristina began a series of protests aimed at achieving republic status within Yugoslavia and greater human rights protections. The protests were harshly suppressed by the Yugoslavian government. Yugoslavia accused the government of orchestrating the printing of the articles by the press and promoting instability in Yugoslavia.
+
+May 21, 1982: Albania and Yugoslavia briefly put aside the differences that led to tensions the previous year over Albanian student protests in Kosovo to begin building a rail road that would connect the two states. The rail line would help facilitate greater travel and economic cooperation.
+
+January 21, 1983: Yugoslavia submitted an official protest note to Albanian Ambassador Lika Seiti, accusing Albania of ``openly threatening to use force'' against Yugoslavia. The note went on to suggest that Albania was supporting Albanian dissent in Kosovo and calling for the ``overthrow of the constitutional order of Yugoslavia.''
+
+September 1983: Yugoslavia and Albania exchange tense statements regarding a Yugoslavian military exercise that took place in Macedonia, along the border with Albania. Albania condemned the exercise as a threat to Yugoslavia's neighbors. Yugoslavia responded by stating that the exercises were annual events, advance notice was given to the Albanian government, and by pointing out that Albania regularly held military exercises along the border with no protests from the Yugoslavian government.
+
+December 1983: Yugoslavian leaders reiterated the existence of a good neighbor policy toward Albania and recognize the right of its neighbors to have an interest in ethnic groups that reside inside of Yugoslavia. Yugoslavia, however, drew the line at any ``interest'' that might lead to interference in the internal affairs of Yugoslavia.
+
+November 22, 1986: The Yugoslavian government protests against what it perceived to be anti-Yugoslavian statements made at a recent meeting of the Albanian Congress. Statements at the Albanian Congress accused Yugoslavia of refusing to recognize Albania and their right to independence and trying to control Albania's policies. The Congress reiterated that, although they did not want to interfere in the internal affairs of other states, improved relations with Yugoslavia would be contingent on the proper treatment of Albanians in Yugoslavia. 
+
+June 30, 1987: Yugoslavian leaders again protest what they perceive to be interference in the internal affairs of the state. The protest was issued in the wake of statements by Albanian officials in support of Albanian separatists in Kosovo. Yugoslavian leaders also claim to have made gestures of mutual cooperation between the two states in the areas of border travel, tourism, and economic activity that have all been ignored by the Albanian government. 
+
+October 27, 1987: Albania protested the decision by Yugoslavia to send special police into Kosovo, an action that placed the province under federal control. Albanian officials stated that the action threatened relations between the tow countries. 
+
+The period from 1948 to 1992 is best characterized as low-level conflict. The two states experience three isolated disputes (MID2328 MID2372 MID1720) during this period, periodic breaks in diplomatic relations, and repeated exchange hostile rhetoric. Both in March of 1949 (MID2328) and July of 1952 (MID2372), military force was used by Yugoslavia against Albania. This occurred again in February of 1976 (MID1720). The underlying issues during this period are repeated accusations by both countries of interfering in the domestic politics of the other. Although the two countries do attempt to reengage in 1970s and 1980s, there are still deep levels of distrust and disagreements over the status and treatment of Albanians in Kosovo. 
+
+In 1992, the two countries move from low-level conflict to rivalry. RIv11.0 commences in 1992 with the breakup of Yugoslavia and the subsequent disagreements over the status of Kosovo and the treatment of ethnic Albanians in Serbia. 
+
+20010401-20159999 .25
+
+RIv11.0 is effectively over with the end of the Kosovo war and the arrest of Milosovic, the Serbian leader that was perceived by Albania as the war criminal that killed Albanian Kosovars. On November 29, 2000, the Albanian President Rexhep Meidani announced his belief that ``Albania, Serbia, and the Albanian communities in Serbia and Montenegro will make progress.'' He declared that Albania is interested in having good relations with all of its neighbors but that Serbia need to take clear steps for that to happen. These steps included meeting demands of the international community and moving forward with the process of democratization. On April 1, 2001, Milosovic was arrested on charges of abuse of power and corruption. On June 28, 2001 he was extradited to the United Nations International Criminal Tribunal for the Former Yugoslavia. His trial on charges of genocide in Bosnia and war crimes in Croatia and Kosovo began at The Hague on February 12, 2002. On April 11, the Yugoslav parliament passed a law allowing extradition of all persons charged with war crimes by the International Criminal Tribunal. In March 2002, the Governments of Serbia and Montenegro agreed to dissolve FRY in favor of a new, much weaker form of cooperation called "Serbia and Montenegro". By order of Yugoslav Federal Parliament on February 4, 2003, Yugoslavia ceased to exist.
+
+On March 10, 2004, the Albanian Prime Minister Fatos Nano visited the border region between Kosovo and The Republic of Albania. Officially, the region represents the border between Serbia-Montenegro and Albania. But, the Albanian Prime Minister's visit to the Kosovo border region without any coordination with the Serbia-Montenegro government suggests a view that relations between Albania and the Kosovo province are taking on an independent character, if only symbolically.
+
+On May 24, 2004, the Serbia-Montenegro finally reestablished diplomatic relations with Albania by sending Ambassador Marko Canaj to Tirana, the capital of Albania, to present his credentials. Although Serbia-Montenegro did not have an ambassador in Albania, Albania had always maintained an ambassador in Belgrade. President Alfred Moisiu emphasized the importance of bilateral relations and that the region must first achieve integration within itself before it could achieve greater goals of greater integration with the rest of Europe. 
+
+On August 8, 2004, the Albanian Defense Minister Pandeli Majko declared a need to begin ``constructing patters of coexistence in the region'' and urged an ``intensification of relations between Albania and Serbia.'' The Albanian Defense Minister also pressured Serbia-Montenegro to close military bases in the southern Serbian ares of Presheva and Presevo as means of establishing greater trust in the region.
+
+On December 27, 2004, the Serbia-Montenegro Foreign Minister Vuk Draskovic ignited tensions by giving a speech in the Albanian capital re-emphasizing a desire for Kosovo to remain under Serbia-Montenegro's sovereignty. Albanian officials restated their desire for a solution that maintained stability and, at the same time, honored the preferences of the people of Kosovo. 
+
+On April 22, 2005, Albania's Foreign Minister Kastriot Islami tried to calm fears in Serbia that Albania was out to create a ``Greater Albania.'' The Albanian official stated that neither division of Kosovo or the merging of Kosovo into Albania were viable options for Albania. Serbia is fearful that the close relationship between Kosovo and Albania will result in the unification of the two into one country.
+
+On May 12, 2005, officials from Albania, Macedonia, and Montenegro held talks on the future of Kosovo. All agreed that resolving the status of Kosovo was key for the future stability of the region. Montenegrin Prime Minister Milo Djukanovic expressed a desire that the Kosovo question be resolved through international mediation. He also assured those present that the ``future of Serbia-Montenegro Union does not pose any risk to stability.'' Albania officials dispelled the myth that Albania had interests in a Greater Albania, and also said all efforts at creating Greater Serbia, Greater Bulgaria, or a Greater Albania should be eliminated by all states in the region.
+
+On January 2, 2006, the Republic of Albania filed a protest against Serbia after explosives caused limited damage to their Embassy in Belgrade. Albanian officials called the act criminal and demanded that Belgrade take greater action to ensure the safety of Albanian officials. The protest suggested that future acts of this nature could represent an obstacle to the ``enhancement of relations between both countries.''
+
+The period from 2001 to present can best be characterized as negative peace. Even with the regime change in Serbia, following NATO airstrikes and occupation of Kosovo, there are still unresolved issues between the two countries. The status of Kosovo remains a strong source of disagreement for the two countries. Yugoslavia opposes independence for Kosovo, while Albania supports an independent state. In the absence of a resolution to this disagreement, it would be difficult for these two countries to resume normal relations, although that outcome has been stated as a goal for both. Until such time, this dyad is coded as a negative peace. 
+
+PS-SOURCES: NY Times, BBC, The Economist 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

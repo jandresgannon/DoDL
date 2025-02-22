@@ -1,0 +1,94 @@
+FILE: cm210630v11.0.txt
+DYAD: NETHERLANDS - IRAN
+RIVALRY: RIV496
+DISPUTE(S): MID2585 MID2814 
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20180217
+PS-LAST-CHECKED: 20180217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2585 
+
+TERRMID: MID2585 3 -- not territory 
+TERRMID-CER: MID2585 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2585 1 -- third party link to territorial MID
+TERRLINK-CER: MID2585 2 -- somewhat certain 
+TERRLINK-NOTES: MID2585 coded third party link to territorial MID because this MID occurred during the Iran-Iraq War, a territorial dispute between Iran and Iraq. Iran regularly attacked ships it suspected of trading with Iraq. Coded somewhat certain because there is no direct indication that this was connected to the Iran-Iraq War, but it did occur within a time period of Iran attacking other countries' ships, and Netherlands and Iran experience no conflict outside of the Iran-Iraq War timeframe. 
+
+MARITMID: MID2585 3 -- not maritime 
+MARITMID-CER: MID2585 1 -- certain 
+MARITMID-NOTES: MID2585 from Gibler (2018), Iran seized a Dutch ship in 1985, and later attacked another vessel. Coded not maritime because the countries were not disputing a boundary.
+
+ISLMID: MID2585 3 -- not islands 
+ISLMID-CER: MID2585 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2585 3 -- not civil war 
+CIVWARMID-CER: MID2585 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2585 3 -- not civil war link 
+CIVWARLINK-CER: MID2585 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2585 3 -- not coup 
+COUPMID-CER: MID2585 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2585 3 -- not coup link
+COUPLINK-CER: MID2585 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2814 
+
+TERRMID: MID2814 3 -- not territory 
+TERRMID-CER: MID2814 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2814 1 -- third party link to territorial MID
+TERRLINK-CER: MID2814 3 -- uncertain 
+TERRLINK-NOTES: MID2814 from Gibler, Miller, and Little (2016), this MID occurred in 1987, while the Iran-Iraq War was still ongoing. During that war, Iran laid mines in the Persian Gulf as part of its strategy of controlling the gulf and damaging ships exporting oil from Iraq. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute, and coded uncertain because GLM recommend this case be dropped since it was not a show of force and Iran did not protest. 
+
+MARITMID: MID2814 3 -- not maritime 
+MARITMID-CER: MID2814 3 -- uncertain 
+MARITMID-NOTES: MID2814 From Gibler, Miller, and Little (2016), Netherlands and Belgium swept the Persian Gulf for mines. Coded not maritime because no border was disputed, and coded uncertain because GLM recommend this case be dropped since this was not a show of force and thus not a MID. 
+
+ISLMID: MID2814 3 -- not islands 
+ISLMID-CER: MID2814 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2814 3 -- not civil war 
+CIVWARMID-CER: MID2814 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2814 3 -- not civil war link 
+CIVWARLINK-CER: MID2814 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2814 3 -- not coup 
+COUPMID-CER: MID2814 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2814 3 -- not coup link
+COUPLINK-CER: MID2814 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+

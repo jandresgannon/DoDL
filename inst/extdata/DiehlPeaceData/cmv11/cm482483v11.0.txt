@@ -1,0 +1,105 @@
+FILE: cm482483v11.0.txt
+DYAD: CENTRAL AFRICAN REPUBLIC - CHAD
+RIVALRY: RIV1086
+DISPUTE(S): MID1323 
+RIVALRY: RIV1087
+DISPUTE(S): MID4284 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180707
+PS-LAST-CHECKED: 20181001
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1323
+
+TERRMID: MID1323 3 -- not territory
+TERRMID-CER: MID1323 1 -- certain 
+TERRMID-NOTES: MID1323 from Gibler 2018, a disagreement over which African international economic organization Chad would belong to led to CAR closing its border with Chad as well as imposing tariffs in an attempt to coerce Chad into re-joining the organization that it had recently withdrawn from. This amounted to a blockade, triggering this MID. Coded not territory because no border disagreement drove this MID. It was an economic disagreement. 
+
+TERRLINK: MID1323 3 -- not third party link to territory 
+TERRLINK-CER: MID1323 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1323 3 -- not maritime 
+MARITMID-CER: MID1323 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1323 3 -- not islands 
+ISLMID-CER: MID1323 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1323 3 -- not civil war 
+CIVWARMID-CER: MID1323 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1323 3 -- not civil war link
+CIVWARLINK-CER: MID1323 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1323 3 -- not coup 
+COUPMID-CER: MID1323 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1323 3 -- not coup link
+COUPLINK-CER: MID1323 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4284
+
+TERRMID: MID4284 3 -- not territory
+TERRMID-CER: MID4284 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4284 3 -- not third party link to territory 
+TERRLINK-CER: MID4284 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4284 3 -- not maritime 
+MARITMID-CER: MID4284 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4284 3 -- not islands 
+ISLMID-CER: MID4284 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4284 1 -- civil war MID
+CIVWARMID-CER: MID4284 1 -- certain
+CIVWARMID-NOTES: MID4284 from cm narrative, Central African Republic closed its border with Chad and sent troop reinforcements to the area in protest of Chad's granting of asylum to rebel leaders from Central African Republic. Coded civil war MID because this was connected to militarized rebels targeting CAR (a state within this dyad). 
+
+CIVWARLINK: MID4284 3 -- not civil war link
+CIVWARLINK-CER: MID4284 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4284 3 -- not coup 
+COUPMID-CER: MID4284 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4284 3 -- not coup link
+COUPLINK-CER: MID4284 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4284
+rivalry=482483 nationa=CENTRAL AFRICAN REPUBLIC nationb=CHAD MID4284 20011221-20011221 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Central African Republic closed its border with Chad and sent troop reinforcements to the area in protest of Chad's granting of asylum to rebel leaders from Central African Republic. First and last day of dispute was on 12/21/2001.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The Central African Republic (CAR) closed its border with Chad on January 1, 1969 after Chad imposed customs duties on products from CAR. Chad accused the CAR of violating the border on January 10, 1969. President Mobutu of Congo-Kinshasa, who was visiting Chad, threatened the CAR with retaliation on January 10, 1969. The *Common African, Malagasy, and Mauritanian Organization* (*Organisation Commune Africaine et Malgache *- OCAM) mediated negotiations between representatives of Chad and the CAR. CAR re-opened its border with Chad in February 1969.
+
+SOURCES-CM:
+*Keesing*, May 17-24, 1969.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

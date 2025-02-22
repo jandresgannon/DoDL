@@ -1,0 +1,106 @@
+FILE: cm678680v11.0.txt
+DYAD: YEMEN ARAB REPUBLIC(N.)-YEMEN PEOPLES REPUBLIC(S.)
+RIVALRY: RIV1276
+DATES: 19711025-19790317
+DISPUTE(S): MID1107 MID2357 
+
+PS: 19671130-19900521 .75 
+
+PSNOTES: 
+
+thompson rivalry cm678680 ,19670000 ,19900000, so we use these dates and code it .75 otherwise it is .50, note that because thompson does not give year and month we start it on jan 1 and end on 31 dec. Yemen Arab Republic enters system 19260902, 680,Yemen People's Republic, enters system19671130, they merge to form yemen 19900521 and hence exit the international system as a relationship dyad.
+
+For the period 19671130-19900521, the end date was changed from 1990521 to 19900521 because of a missing digit in the date. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20190430 
+PS-LAST-CHECKED: 20190430
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1107
+
+TERRMID: MID1107 1 -- territorial MID
+TERRMID-CER: MID1107 1 -- certain 
+TERRMID-NOTES: MID1107 from cm narrative, North and South Yemen disputed their border, but that dispute was not connected to this MID. 
+
+TERRLINK: MID1107 3 -- not third party link to territory 
+TERRLINK-CER: MID1107 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1107 3 -- not maritime 
+MARITMID-CER: MID1107 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1107 3 -- not islands 
+ISLMID-CER: MID1107 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1107 1 -- civil war MID
+CIVWARMID-CER: MID1107 1 -- certain
+CIVWARMID-NOTES: MID1107 from Gibler 2018, North Yemen had been attempting to overthrow the government of South Yemen by supporting militarized rebels targeting that regime. South Yemen crossed into North Yemen several times to attack the rebels, and eventually occupied part of North Yemen to fight the rebels. Coded civil war MID because this was connected to militarized rebel activity within this dyad. 
+
+CIVWARLINK: MID1107 3 -- not civil war link
+CIVWARLINK-CER: MID1107 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1107 3 -- not coup 
+COUPMID-CER: MID1107 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1107 3 -- not coup link
+COUPLINK-CER: MID1107 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2357
+
+TERRMID: MID2357 1 -- territorial MID
+TERRMID-CER: MID2357 1 -- certain 
+TERRMID-NOTES: MID2357 from Gibler 2018, in 1978 a South Yemeni official assassinated North Yemen's president, and North Yemen successfully lobbied the Arab League for an embargo on South Yemen. South Yemen accused North Yemen of violating their airspace and border clashes occurred. The countries eventually accepted mediation. Coded territorial MID because, per cm narrative, they were disputing their border, and a series of border incidents occurred during this MID. 
+
+TERRLINK: MID2357 3 -- not third party link to territory 
+TERRLINK-CER: MID2357 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2357 3 -- not maritime 
+MARITMID-CER: MID2357 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2357 3 -- not islands 
+ISLMID-CER: MID2357 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2357 3 -- not civil war 
+CIVWARMID-CER: MID2357 1 -- certain
+CIVWARMID-NOTES: MID2357 there were militarized rebels in North Yemen targeting South Yemen, but these rebels were not connected to this dispute. 
+
+CIVWARLINK: MID2357 3 -- not civil war link
+CIVWARLINK-CER: MID2357 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2357 3 -- not coup 
+COUPMID-CER: MID2357 1 -- certain 
+COUPMID-NOTES: MID2357 Because this is an assassination conducted by a single foreign official (via suitcase bomb), it is not considered a coup under our coding rules.
+
+COUPLINK: MID2357 3 -- not coup link
+COUPLINK-CER: MID2357 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+North Yemen and South Yemen disputed their border following the independence of the South Yemen from Britain on November 30, 1967. South Yemen troops clashed with mercenaries from North Yemen on February 21-22, 1972. The countries accused each other of mobilizing troops along the border on March 12, 1972. North Yemen troops and South Yemen troops clashed near the border on May 9, 1972. The Soviet Union provided military assistance (weapons and military advisors) to North Yemen and South Yemen. Foreign Minister Sheikh Sabah Ahmad Jabir of Kuwait mediated negotiations between North Yemen and South Yemen on September 4-5, 1972. North Yemen troops and South Yemen troops clashed near the border beginning on September 26, 1972. North Yemen military aircraft attacked two villages in South Yemen on October 4, 1972. The *League of Arab *States (LAS) secretary-general and a five-member conciliation commission (Algeria, Egypt, Kuwait, Libya, Syria) mediated negotiations between the parties beginning on October 4, 1972, and the LAS conciliation commission mediated a ceasefire agreement on October 13, 1972. *North Yemen and South Yemen resumed military hostilities on October 16, 1972, but the LAS conciliation commission mediated a second ceasefire on October 19, 1972. North Yemen and South Yemen representatives signed a disengagement agreement in Cairo on October 28, 1972. The LAS established a military observation commission, which consisted of military personnel from five countries, to monitor the ceasefire from November 7 to December 31, 1972. Colonel Muammar Qaddafi of Libya facilitated the signing of a merger agreement by North Yemen and South Yemen in Tripoli on November 27-28, 1972. North Yemen severed diplomatic relations with South Yemen on June 24, 1978 following the assassination of President Ahmed Hussein Ghashmi of North Yemen. North Yemen accused South Yemen of involvement in the assassination of President Ghashmi, and referred the matter to the LAS Council on June 27, 1978. LAS foreign ministers imposed diplomatic sanctions (suspension of diplomatic relations with South Yemen) on July 2, 1978. North Yemen troops attacked positions in South Yemen on July 2-4, 1978. Yassir Arafat of the *Palestinian Liberation Organization* (PLO) attempted to mediate negotiations between the countries in September 1978. South Yemen troops invaded North Yemen on February 24, 1979. North Yemen referred the matter to the LAS Council, and requested military assistance from the United States on February 24, 1979. Saudi Arabia appealed for a ceasefire and troop withdrawal on February 27, 1979, and placed its armed forces on a state-of-alert in support of North Yemen on February 28, 1979. On February 28, 1978, the United States government announced the emergency delivery of $100 million in weapons to North Yemen. Saudi Arabia agreed to finance $390 million in additional weapons sales to North Yemen from the United States on February 28, 1979, and the US approved the emergency delivery of these weapons on March 9, 1978. North Yemen and South Yemen agreed to a ceasefire mediated by Iraq, Jordan, and Syria on March 2, 1979, but the parties continued military hostilities on March 3, 1979. The US deployed a naval task force to the region in support of North Yemen on March 6, 1978. LAS foreign ministers demanded the withdrawal of troops, and established a seven-member conciliation commission (Algeria, Iraq, Jordan, Kuwait, PLO, Syria, United Arab Emirates) on March 6, 1979. LAS foreign ministers established a seven-member military observation commission (Algeria, Iraq, Jordan, Kuwait, PLO, Syria, United Arab Emirates) headed by Major-General Ibrahim Yunis of Syria to supervise the ceasefire and troop withdrawal on March 6, 1979. North Yemen and South Yemen agreed to a LAS-mediated ceasefire and troop withdrawal on March 16, 1979. North Yemen troops and South Yemen troops completed their withdrawal from the border region under the supervision of the LAS military observation commission on March 19, 1979. The presidents of North Yemen and South Yemen held negotiations in Kuwait beginning on March 28, 1979. The Amir of Kuwait facilitated the signing of a provisional agreement between the countries on March 30, 1979, which provided for the eventual merger of North Yemen and South Yemen. The presidents of North Yemen and South Yemen held negotiations in Taiz, North Yemen on September 14, 1981 and Aden on November 30-December 2, 1981, when the countries agreed to established the *Yemen Council* and the *Joint Ministerial Committee* (JMC). The presidents of North Yemen and South Yemen held negotiations in Taiz on May 5-7, 1982. The first session of the JMC was held in Aden on November 29-December 1, 1982, and the first session of the Yemen Council was held in Sana'a on August 15-20, 1983. North Yemen and South Yemen merged on May 22, 1990.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 329-331; Butterworth, 1976, 434-436; Clodfelter, 1992, 1050-1051; Jessup, 1998, 816-819; *Keesing*, January 1-7, 1973, November 3, 1978, April 18, 1980, March 12, 1982, March 1983, May 1984; *Middle East Journal *(MEJ), Winter 1972, Spring 1973; Weisburd, 1997, 271, 284.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

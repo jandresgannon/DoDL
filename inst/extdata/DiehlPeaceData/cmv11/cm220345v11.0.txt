@@ -1,0 +1,261 @@
+FILE: cm220345v11.0.txt
+DYAD: FRANCE-YUGOSLAVIA
+RIVALRY: RIV550
+DISPUTE(S): MID3551 MID4137 MID4186 MID4343 
+
+PS: 19009999-19400622 0.5 19920716-20001128 0.00 20051128-20151129 0.5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180217
+PS-LAST-CHECKED: 20180217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Yugoslavia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. They therefore refused to recognize the independence of states that declared independence from Yugoslavia, still claiming their territory as part of Yugoslavia. Coded third party link to territorial MID because France (as part of UN/NATO) became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Coded civil war MID because civil war within Yugoslavia eventually convinced NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 coded civil war link because this also involved insurgent forces fighting outside of this dyad, especially in Albania and Croatia. 
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 coded civil war link because this MID involved ethnic insurgents fighting inside Kosovo, outside of this dyad. Serbian guerrillas and troops fought Albanian guerrillas within Kosovo. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. These MIDs are coded separately due to the temporal separation between them. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3551
+rivalry=220345 nationa=FRANCE nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19961002 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=USE OF FORCE 
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade. First day of dispute was on 7/16/1992 and last day of dispute was on 10/2/1996.
+
+MID4137
+rivalry=220345 nationa=FRANCE nationb=YUGOSLAVIA-SERBIA MID4137 19980611-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=501-999 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 6/11/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=220345 nationa=FRANCE nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4343
+rivalry=220345 nationa=YUGOSLAVIA-SERBIA nationb=FRANCE MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV549 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV550: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+NARRATIVE-CM:
+MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MID due to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade 
+
+MID4137 In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99.
+
+MID4186 This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. 
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+France and Yugoslavia were allies during the inter-war period. After the end of WWII, because they were part of different alliance groups the relations were not very close, but France was still Yugoslavia's closest Western ally. They remained so throughout the second half of the 20th century. 
+
+Josip Broz Tito, President of of Yugoslavia, concluded his three-day official visit in France on October 16, 1977. Tito held three talks with French President Giscard d'Estaing on important international problems and on the development of cooperation between the two countries.A joint communique said that, "the talks confirmed identity or proximity of views of the two countries on numerous important questions."
+
+A session of the Yugoslavian-French joint committee for economic, scientific and technical co-operation was held in Belgrade on 8th and 9th February, 1979, attended by the co-chairman S. Andov, member of the Federal Executive Council; and Jean-Francois Deniau, the French Minister of Foreign Trade. It was agreed that Yugoslavia's deficit which totaled about 370,000,000 dollars in 1978 could be decreased and that a list of products which she could offer would be submitted. Deniau said that France was buying certain products which could be obtained from Yugoslavia from countries with which she had a deficit; they included machine tools and many chemical products. The French representatives expressed interest in extending industrial co-operation, at present limited to the motor industry, to the chemical, power and aluminium industries. Deniau mentioned the possibility of French tourists visiting Yugoslavia in greater numbers: about 400,000 go there every year, whereas about 8,000,000 visit Spain annually. 
+
+On March 29, 1979, the French Foreign Minister gave a formal luncheon in honour of the Yugoslav Foreign Secretary, Josip Vrhovec and his delegation. The luncheon took place in a very friendly atmosphere. In his speech Jean Francois-Poncet said that only complete respect for the principles of independence and sovereignty could impart full significance to the policy of detente. He stressed that the observance of the principles and regulations agreed at Helsinki had to be watched over and that a great deal remained to be done. He voiced France's support for a joint quest for disarmament and for the introduction of a more equitable economic system; in this respect, he said, the proposals of France and Yugoslavia were complementary. He said that dialogue between France and Yugoslavia was easy because it was channelled into the joint preoccupation of maintaining their identity and independence, because they had the same objectives, and because it was based on their excellent relations. He concluded by emphasizing the usefulness of the foreign ministerial talks which had "unfolded in the spirit of warm friendship and deep respect which is traditional for the French and the Yugoslavs". 
+
+In reply, Josip Vrhovec said that Yugoslavia believed the progress of European co-operation to include economic co-operation. To this end, obstacles fostered by isolationist economic groupings should be abolished. He said that Yugoslavia wanted to develop useful and equitable relations with the EEC and expected positive co-operation with france in connection with this. On foreign relations, he expressed regret that the principles of the UN Charter were trampled on so often, saying: "Often there is resort to the use of force in order to impose on others one's own interests and dictate one's own way of life to them. This leads to the deepening of existing crises and the creation of new hotbeds of tension." He said that Yugoslavia felt obliged to speak out decisively against the use of force, threats and foreign intervention, regardless of the pretexts given and regardless of the quarters from which attempts were made to introduce such factors into the system of international relations. Vrhovec also spoke about the importance of detente, non-alignment, the need for disarmament and for the establishment of a new economic order allowing the developing countries to share in the world's material progress.
+
+During friendly talks on 20th March, 1980 between Couve de Murville, leader of a French delegation of parliamentarians, and Yugoslav Federal Secretary of Foreign Affairs Josip Vrhovec views were exchanged on current international questions, the need to strive to settle the existing world crises, and the promotion of universal detente and international co-operation on the principles of the UN Charter and peaceful active coexistence. The further development of comprehensive and friendly relations and co-operation between Yugoslavia and France was also discussed. The same day Dragoslav Markovic, President of the Assembly of Yugoslavia, received the delegation led by Couve de Murville. During a friendly talks of some length certain vital aspects of Yugoslavia's socio-political system were discussed. Markovic also informed the visitors about the delegate system and especially the work of the Assembly of Yugoslavia. The talks also covered the policy of economic stabilization and preparations for the adoption of Yugoslavia's plan for the next medium-term period. The level of friendly relations between Yugoslavia and France to date was assessed by both sides as very favorable. The delegation was also received by Cvijetin Mijatovic, member of the Presidency of Yugoslavia. During the extensive friendly talks views were exchanged on current international questions and the successful development of Yugoslav-French relations. Both sides noted with pleasure that the two countries have indentical or close views on many identical questions.
+
+Yugoslavia's Foreign Secretary, Lazar Mojsov arrived in Paris on 5th January, 1983, on an official visit to France at the invitation of his opposite number Claude Cheysson. The two Foreign Ministers began talks later in the day. They emphasized the indispensability of new initiatives, especially on the part of the big powers, for establishing a construction dialogue which would lead to the easing of tensions and halting the arms race. On the 6th, Lazar Mojsov was received by President Mitterrand. They exchanged views on their countries' domestic policies and international activities, and also discussed trends in the non-aligned movement and its coming summit. Speaking at a luncheon at the Quai d'Orsay later on 6th January, Mojsov said Yugoslavia highly appreciated its friendship with France and noted with satisfaction that the two countries' bilateral co-operation had recently been developing successfully in every sphere. Yugoslavia particularly valued the understanding and support which France was giving to its economic stabilization. The two Foreign Ministers ended their talks in the evening of the 6th. Speaking later at a joint press conference, Mojsov said he was pleased with his meeting with President Mitterrand, to whom he had handed a message from the President of the SFRY Presidency, Petar Stambolic, renewing an invitation to Mitterrand to visit Yugoslavia. The French President's reaction had been very favourable and Yugoslavia hoped to be able to offer him its hospitality this year. Asked about the activity of the extremist anti-Yugolsav political emigration, Mojsov recalled that the origins and ideology of the hostile forces acting against Yugoslavia from abroad were the same as those of the people who had helped the fascist invaders and been defeated in the war. That was why Yugoslavs reacted sharply to any attempt to fan up the old divisions and enmities in their midst and to jeopardize their unity and brother-hood, he added. Noting that France's hospitality and tradition of asylum were well known, Mojsov warned that France, too, should not lose sight of what the extremist anti-Yugoslav emigration was up to, and what its aims were. Our contacts with the representatives of French diplomacy are continuing, and we hope that they will understand why we are sensitive to such activities which are always stepped up at times of broader tensions and crises in the world, Mojsov said. Mojsov and Cheysson were asked whether France would be invited to attend the seventh non-aligned summit as an observer. The Yugoslav Foreign Secretary replied that the non-aligned movement was not an organization and that no formal status was required to support its policy. Therefore, France too needed no formal status in order to contribute to the cause of the non-aligned countries and their commitments. Mojsov added that France was ''an ally of the non-aligned in the world of the aligned''. 
+
+French President Francois Mitterrand arrived in Belgrade on December 15, 1983, for an official goodwill visit to Yugoslavia. The two sides held talks on bilateral relations, particularly on the economic ties and current international issues. France, one of the major trade partners of Yugoslavia, ranks fourth in Yugoslavia's exports to the west and fifth in its imports. Yugoslavia' exports to France in the first nine months of this year accounted for 184 million US dollars, 47 percent up from the same period of last year; its imports from France stood at 283 million US dollars, 24 percent less than that of last year. Yugoslavia's trade deficit with France was reduced to 100 million US dollars in the first nine months of this year from 500 million US dollars in 1980. On the relations between the two countries, Yugoslav President Mika Spiljak said recently that the bilateral economic relations have been unsatisfactory and Yugoslavia has special reasons to express concern about the trade deficit with France. The Yugoslavian-French mixed economic committee for co-operation predicted after its recent meeting that the economic co-operation between the two countries will be further strengthened in 1984.
+
+Milka Planinc, President of the Yugloslav Federal Executive Council, began a three-day official friendly visit to France on 15th January, 1985. She is accompanied by Spasoje Medenica, member of the Federal Executive Council, and Budimir Loncar, Deputy Federal Secretary of Foreign Affairs. On the 16th January,1985, the Yugoslav Premier had very cordial talks with the President of the National Assembly, Louis Mermaz, during which reference was made especially to French-Yugoslav economic co-operation, which will be one of the main topics of her talks with her host, Premier Laurent Fabius. The Yugoslav side believes that there are no objective reasons to prevent the two countries' economic co-operation from being raised to a substantially higher level so that among other things, the still considerable Yugoslav deficit in trade with France could be reduced. Yugoslav premier Branko Mikulic and Foreign Secretary Raif Dizdarevic, respectively, met with visiting French Foreign Minister Jean Bernard Raimon on October 11, 1986. 
+
+The two foreign ministers discussed questions relating to the economic, cultural and educational cooperation between the two countries, and the situation of Yugoslav workers temporarily employed in France. The Yugoslav side noted that the French government decision to suspend the agreement on the system of visas between the two countries created problems for Yugoslavs visiting France. Their hope is that the decision will be provisional and the former practice will be resumed. 
+
+Embattled Yugoslav Prime Minister Ante Markovic departed on May 23, 1991, on a two-day visit to France for talks with his newly appointed French counterpart, Edith Cresson, and President Francois Mitterrand. Markovic was to meet Cresson after his arrival for their first discussions, which were expected to focus on the ethnic and political crisis that is pushing Yugoslavia toward violent dissolution. The two leaders were also expected to explore Yugoslavia's need for foreign loans and assistance, which have been drying up as the dispute between the country's six republics over the Balkan federation's future shape has worsened.
+
+French Foreign Minister Roland Dumas appealed to his European Community colleagues on July 5, 1991, "not to pour oil on the fire" in Yugoslavia, and to approach the crisis there with prudence and wisdom. Addressing a press conference during a meeting of EC foreign ministers, he said the Yugoslav federal presidency should be given the chance to prove its legitimacy.But Mr. Dumas added that the country's breakaway republics had the right to independence if the presidency could not prove it was generally acceptable.
+
+France said on September 16, 1991, that it will ask for a European peacekeeping force to separate the warring forces in Yugoslavia when European foreign ministers meet at The Hague the same day. French Foreign Minister Roland Dumas conferred twice on the escalating Yugoslav fighting with German counterpart Hans-Dietrich Genscher, the current head of the Western European Union, whose foreign ministers are meeting at The Hague together with European Community counterparts. Dumas called for a meeting of the Western European Union as soon as possible to discuss the crisis. Paris already said at the start of the month it favors a European ''force of interposition'' in Yugoslavia under the auspices of the Western European Union, which is the only solely European forum for a common defense policy.
+
+On July 20, 1992, Milan Panic, Yugoslavia's Prime Minister expressed satisfaction with the talks he held with President Mitterrand in the Elysee Palace. After his almost 90-minute talks with the host in the Elysee Palace, Panic addressed reporters. He was very brief. He categorically stated that he hoped that he could achieve a breakthrough towards peace within 100 days. At the same time he said that Yugoslavia unconditionally accepts the new idea of President Mitterrand on an international conference on Yugoslavia. Panic also addressed the French via television. He said in an interview on television that he is ready to do everything to restore peace in Yugoslavia. He is calling on all sides to lay down their arms and is offering to do everything to disarm paramilitary forces on all sides. He respects the borders that have been established and holds the view that the conditions for peace exist.One could say that the arrival of Panic in Paris was interpreted here as support for the new efforts of the new Prime Minister and a virtual recognition of the new Yugoslavia, even though it was stressed after the meeting between Mitterrand and Panic that France is making the recognition of the new Yugoslavia conditional upon Belgrade's recognition of the new states on our territory. This is certainly not an insurmountable problem. One could also say that Paris is satisfied to have a new partner for talks in Belgrade and that Panic's first visit abroad, which began in Paris, can in fact be interpreted to mean that France is attaching new significance to Belgrade's efforts, and that Belgrade is equally giving the prime role to France and Mitterrand in new efforts for the settlement of the crisis with only political means. On August 8, 1992, France has formally recommended to the United Nations Security Council that there be a bigger UN peacekeeping presence in Yugoslavia so as to protect the delivery route for humanitarian aid. 
+
+The first MID of RIV510, MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, Belgium, France, Germany, Greece, Turkey, Spain and Italy. 
+
+20001129-20151129 0.5
+
+The last MID of RIV493, MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces.
+
+Yugoslav President Vojislav Kostunica arrived in Paris on December 21,2000, for talks with French leaders that were expected to focus on the situation in the Balkans and the European Union's support for democratic changes in Yugoslavia. Kostunica, in Paris for a one-day visit, met with Foreign Minister Hubert Vedrine and was holding talks later in the day with Prime Minister Lionel Jospin and President Jacques Chirac. ''These meetings will allow French authorities to reaffirm their support for the process of democratization taking place in the Federal Republic of Yugoslavia since the election of President Kostunica,'' the Foreign Ministry said in a statement prior to the leader's arrival. A moderate nationalist, Kostunica came to power in October after disputed national elections and a popular uprising toppled the regime of Slobodan Milosevic. He has urged European leaders to increase their role in the Balkans, where the United States has been dominant. France's leaders would reiterate in the talks a message conveyed at a recent summit in Zagreb, Croatia that ''democracy, reconciliation and regional cooperation'' were needed in the Balkans, as were ''closer bonds between nearby countries and the European Union,'' the ministry said. President Chirac initiated last month's summit between the EU and Balkan leaders in Zagreb. France currently holds the rotating presidency of the 15-nation EU. France pledged about $7 million in aid to Yugoslavia as part of a wider EU package of nearly $200 million. The aid money is seen as a sign of support for the new leadership, which inherited a devastated economy from Milosevic, who held power for more than a decade and led Yugoslavia into four wars.
+
+On August 23, 2001, France will ask the U.N. Security Council to consider lifting the 3-year-old arms embargo imposed against Yugoslavia for launching a violent crackdown on ethnic Albanians. "France feels that the conditions have now been met for the lifting of the arms embargo on the Federal Republic of Yugoslavia," the French Foreign Ministry said in a brief statement. France-one of five permanent members on the Security Council-has traditionally been closer to the Serbs than any other major Western power. The arms embargo against Yugoslavia was imposed in March 1998, almost a year before NATO began 78 days of bombing to end then-President Slobodan Milosevic's crackdown on ethnic Albanians in the Yugoslav province of Kosovo. The airstrikes eventually forced the Yugoslav army and the Serb police to withdraw from the province. It called for a ban on the sale and supply of arms and established a committee to monitor the embargo. The ban on arms sales is a United Nations measure that can only be rescinded by the U.N. Security Council. The Foreign Ministry statement said that instructions had been given to the French mission of the United Nations to open talks on the subject with the other 14 members of the Security Council. The United States and European nations imposed their own economic sanctions against Yugoslavia but began to lift those once Milosevic was voted out of power in October 2000 elections.
+
+On December 7, 2001, French President Jacques Chirac, the first Western head of state to visit Yugoslavia since the fall of Slobodan Milosevic, urged the country's new leadership to cooperate with the U.N. war crimes tribunal and strengthen ties with the European Union. Chirac, on a two-day visit to the trouble-prone Balkan federation of Serbia and Montenegro, met first with President Vojislav Kostunica. Kostunica is a key opponent of international demands that more than a dozen Serbs indicted for their role in Milosevic's war campaigns be handed over to the Netherlands-based tribunal. "President Kostunica knows perfectly well the position of France ... cooperation with The Hague tribunal is necessary," Chirac said after the meeting. "All who committed war crimes must answer for what they did." Kostunica expressed "readiness that Yugoslavia meets its international obligations." However, the president, who has often denounced the U.N. court for "anti-Serb bias," reiterated that a law must be adopted first to define rules and procedures on possible extradition of Yugoslavs to The Hague. Chirac later met the second most-powerful figure in Yugoslavia, Serbian Prime Minister Zoran Djindjic, who was instrumental in extraditing Milosevic to the U.N. court in June 2001 to stand trial for alleged war crimes in Kosovo, Croatia and Bosnia.
+
+On December 7, 2001, French President Jacques Chirac called on Montenegro and Kosovo to put aside their secessionist aspirations and work to renew Yugoslavia, which he said could become a member of the EU. Praising Belgrade's new reformist leaders, Chirac outlined steps to bring Yugoslavia into the EU and complete the drive to cast off years of isolation under former president Slobodan Milosevic. "The collapse of countries cannot be a peaceful and stable solution in the modern world," Chirac said in his keynote speech at Belgrade University. "The solution cannot reside in a policy of secession, in an approach which, turning its back on others, is based on confrontation," he said in remarks that were directed at Montenegro and ethnic Albanians in Kosovo.
+
+The relations between France and Serbia remained close with France being a spokesperson within the EU advocating for Serbia to be placed on a membership track for the EU throughout the first decade of the 21st century. 
+
+PS-SOURCES: BBC February 22, 1979; March 22, 1979; February 8, 1980; March 22, 1980; November 24, 1981; January 10, 1983; January 21, 1985; July 20, 1992; Xinhua October 16, 1977; December 15, 1983; October 11, 1986; August 8, 1992; United Press International December 15, 1983; May 23, 1991; September 16, 1991; Agence France Presse July 5, 1991; December 7, 2001; Associated Press December 21, 2000; August 23, 2001; November 16, 2001; December 7, 2001; 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

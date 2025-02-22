@@ -1,0 +1,93 @@
+FILE: cm220350v11.0.txt 
+DYAD: FRANCE-GREECE 
+RIVALRY: RIV551 
+DISPUTE(S): MID2367 
+RIVALRY: RIV552 
+DISPUTE(S): MID2837 MID56 
+RIVALRY: RIV553 
+DISPUTE(S): MID2648 MID323 MID625 
+
+PS: 19009999-19400622 .5 19810101-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad 
+
+PS-LAST-CHANGED: 20220222 
+PS-LAST-CHECKED: 20220222
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+Pre-1900 MIDs: MID2367 MID2837 MID56 
+
+WWI MIDs: MID2648 MID323 
+
+
+MID625
+
+TERRMID: MID625 1 -- territorial MID
+TERRMID-CER: MID625 1 -- certain 
+TERRMID-NOTES: MID625 from Gibler 2018, this MID occurred when France (as part of the Allies) warned Greece not to march on Constantinople, which the Greeks claimed. This amounted to a threat of force. Coded territorial MID because the Allies (France, UK) were occupying Constantinople and had divided it up into their respective administrative divisions, and they warned Greece against marching on territory occupied by them. 
+
+TERRLINK: MID625 3 -- not third party link to territory 
+TERRLINK-CER: MID625 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID625 3 -- not maritime 
+MARITMID-CER: MID625 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID625 3 -- not islands 
+ISLMID-CER: MID625 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID625 3 -- not civil war 
+CIVWARMID-CER: MID625 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID625 3 -- not civil war link
+CIVWARLINK-CER: MID625 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID625 3 -- not coup 
+COUPMID-CER: MID625 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID625 3 -- not coup link
+COUPLINK-CER: MID625 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+
+RIVNOTES: 
+RIV554 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. DATES (may not be accurate, see current version of MID dataset): 19401025-19410423 
+
+NARRATIVE-CM: 
+France and Greece disputed a Turkish government concession regarding lighthouses. The countries referred the dispute to the *Permanent Court of International Justice* (PCIJ) on March 23, 1933. The PCIJ issued a decision in favor of France on March 17, 1934. France and Greece submitted a dispute concerning the management of the lighthouses in Crete and Samos to the PCIJ on October 27, 1936. The PCIJ issued a decision in favor of France on October 8, 1937. 
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1933, 587, 1934, 699, 1936, 947, 1937, 616. 
+
+NARRATIVE-CR: 
+The first dispute between France and Greece in the 19th century came about as a result of the Crimean War. The Allied Powers in an attempt to combat Russia, lent support to the Ottoman Empire. Greece took advantage of the position that the Ottoman Empire was in by supporting a revolutionary uprising in Macedonia. Greek soldiers captured several Turkish cities, however under pressure from a much larger Ottoman army and sanctions imposed by Britain and France the Greek army ceased hostilities in June of 1854 (Clodfelter 1992). France applied additional pressure with the arrival of naval forces in the port of Piraeus in April of 1854 (MID2367). Greece ended its activities in the Ottoman Empire under pressure from the Allies following the Piraeus blockade.
+
+The second rivalry in the 19th century between France and Greece also came about as the result of Greek-Turkish relations. The Cretean insurrection of 1896 (MID2837) was a precusor to the Greek-Turkish War of 1897 (Clodfelter 1992). Greece sponsored a rebellion on the island of Crete in February of 1986, which was suppressed by the Turks. Major power intervention came in 1897 (MID56) in an attempt to suppress the elevating hostilities between Turkish and Greek troops. Allied forces were landed in Crete turning it into an international protectorate (Clodfelter 1992). Crete eventually became a part of Greece as a result of the First Balkan War in 1913. 
+
+In 1916 France occupied Corfu in order to use it as a refuge for Serbian troops (MID2648). Greece had refused the French request but France landed the troops nevertheless. The Allied Powers told the Greek government that it is the international duty to extend a hand to the Serbian troops (NY Times 1/12/1916). The Allied Powers stated that Greece had no reason to refuse the favor to Serbia (an ally of Greece) and that they would not respect the decision of Greece to deny landing privileges. Allied pressure was again applied in order to force Greece to enter the First World War against the central powers (MID323). Greece eventually agreed, in part because Turkey entered on the side of Germany. The final dispute in this rivalry between France and Greece came about in response to the Greek occupation of Constantinople in July or 1922. An ultimatum was issued calling for Greek troop withdrawal (Clodfelter 1992). The issue was settled with Treaty of Lausanne in July of 1923, which specified territorial issues in the Macedonian region. The final dispute between Greece and France was the result of the Second World War (MID258) and was mostly unrelated to the previous issues of Crete and Greek involvement in the Ottoman Empire. 
+
+SOURCES-CR: 
+Clodfelter 1992; New York Times
+
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

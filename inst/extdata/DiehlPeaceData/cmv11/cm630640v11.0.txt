@@ -1,0 +1,484 @@
+FILE: cm630640v11.0.txt
+DYAD: IRAN-TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV1186
+DISPUTE(S): MID3132 MID1131 
+RIVALRY: RIV1187
+DISPUTE(S): MID3097 MID2575 MID2566 MID2799 MID4337 MID4289 MID4290 MID4191 
+
+PS: 19009999-19070804 .5 19070805-19181029 0.00 19181030-19790213 0.5 19790214-19810920 -9 19810921-20010825 0.00 20010826-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: Iran and Turkey are largely on opposite sides of the Syrian Civil war and support different Islamic sects in the Middle East. Nevertheless, there are not direct military confrontations, both support suppression of Kurdish movements, and there is extensive trade between the two countries
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1131 
+
+MID3132
+
+TERRMID: MID3132 1 -- territorial MID
+TERRMID-CER: MID3132 1 -- certain 
+TERRMID-NOTES: MID3132 from Gibler 2018 and NYT 8/8/1907, in 1907-1908 the Ottomans invaded and occupied Persian territory, claiming it as their own. They later withdrew in response to a threat by Russia before later returning and withdrawing again. Coded territorial MID because this was connected to a territorial dispute, as the Ottomans were attempting to control Persian territory. 
+
+TERRLINK: MID3132 3 -- not third party link to territory 
+TERRLINK-CER: MID3132 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3132 3 -- not maritime 
+MARITMID-CER: MID3132 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3132 3 -- not islands 
+ISLMID-CER: MID3132 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3132 3 -- not civil war 
+CIVWARMID-CER: MID3132 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3132 3 -- not civil war link
+CIVWARLINK-CER: MID3132 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3132 3 -- not coup 
+COUPMID-CER: MID3132 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3132 3 -- not coup link
+COUPLINK-CER: MID3132 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3097
+
+TERRMID: MID3097 3 -- not territory
+TERRMID-CER: MID3097 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3097 3 -- not third party link to territory 
+TERRLINK-CER: MID3097 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3097 3 -- not maritime 
+MARITMID-CER: MID3097 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3097 3 -- not islands 
+ISLMID-CER: MID3097 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3097 1 -- civil war MID
+CIVWARMID-CER: MID3097 1 -- certain
+CIVWARMID-NOTES: MID3097 from Gibler 2018, in 1981 two Turkish soldiers were killed when trying to stop a clash between Iranian troops and Iranian Kurdish militarized rebels. The clash occurred in southeast Turkey. Coded civil war MID because this was connected to militarized rebel activity in Iran/Turkey (i.e., in this dyad). 
+
+CIVWARLINK: MID3097 3 -- not civil war link
+CIVWARLINK-CER: MID3097 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3097 3 -- not coup 
+COUPMID-CER: MID3097 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3097 3 -- not coup link
+COUPLINK-CER: MID3097 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2575
+
+TERRMID: MID2575 3 -- not territory
+TERRMID-CER: MID2575 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2575 1 -- third party link to territorial MID
+TERRLINK-CER: MID2575 1 -- certain
+TERRLINK-NOTES: MID2575 from Gibler 2018, in 1986 Iran attacked a Turkish oil tanker it suspected of carrying oil from Iraq. Iran routinely attacked oil tankers that were carrying Iraqi oil during the Iran-Iraq War as a way of harming Iraq's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2575 3 -- not maritime 
+MARITMID-CER: MID2575 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2575 3 -- not islands 
+ISLMID-CER: MID2575 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2575 3 -- not civil war 
+CIVWARMID-CER: MID2575 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2575 3 -- not civil war link
+CIVWARLINK-CER: MID2575 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2575 3 -- not coup 
+COUPMID-CER: MID2575 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2575 3 -- not coup link
+COUPLINK-CER: MID2575 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2566
+
+TERRMID: MID2566 3 -- not territory
+TERRMID-CER: MID2566 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2566 1 -- third party link to territorial MID
+TERRLINK-CER: MID2566 1 -- certain
+TERRLINK-NOTES: MID2566 from Gibler 2018, in 1986 the Turkish foreign minister visited Tehran in the midst of the Iran-Iraq War. Iran warned Turkey to remain neutral in the war, and Turkey warned Iran that if Saddam Hussein was deposed, Turkey would invade Iraq and take control of the northern oil fields. This is considered an exchange of threats, which constitute the MID. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2566 3 -- not maritime 
+MARITMID-CER: MID2566 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2566 3 -- not islands 
+ISLMID-CER: MID2566 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2566 3 -- not civil war 
+CIVWARMID-CER: MID2566 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2566 3 -- not civil war link
+CIVWARLINK-CER: MID2566 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2566 3 -- not coup 
+COUPMID-CER: MID2566 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2566 3 -- not coup link
+COUPLINK-CER: MID2566 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2799
+
+TERRMID: MID2799 3 -- not territory
+TERRMID-CER: MID2799 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2799 3 -- not third party link to territory 
+TERRLINK-CER: MID2799 1 -- certain
+TERRLINK-NOTES: MID2799 This MID occurred during the Iran-Iraq War, a territorial dispute, but this was connected to Kurdish militarized rebels and not the war itself. 
+
+MARITMID: MID2799 3 -- not maritime 
+MARITMID-CER: MID2799 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2799 3 -- not islands 
+ISLMID-CER: MID2799 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2799 1 -- civil war MID
+CIVWARMID-CER: MID2799 1 -- certain
+CIVWARMID-NOTES: MID2799 from Gibler 2018, in 1986 a Turkish citizen was killed when Iranian troops crossed into Turkey to attack Kurdish rebels. Later, Iran bombed the rebels inside Turkey, and Turkey arrested the Iranian troops it found inside Turkish borders. Coded civil war MID because this was connected to militarized rebels in Turkey targeting Iran. 
+
+CIVWARLINK: MID2799 3 -- not civil war link
+CIVWARLINK-CER: MID2799 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2799 3 -- not coup 
+COUPMID-CER: MID2799 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2799 3 -- not coup link
+COUPLINK-CER: MID2799 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4525
+
+TERRMID: MID4525 3 -- not territory
+TERRMID-CER: MID4525 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4525 3 -- not third party link to territory 
+TERRLINK-CER: MID4525 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4525 3 -- not maritime 
+MARITMID-CER: MID4525 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4525 3 -- not islands 
+ISLMID-CER: MID4525 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4525 1 -- civil war MID
+CIVWARMID-CER: MID4525 1 -- certain
+CIVWARMID-NOTES: MID4525 from cm narrative, On September 23, 2004, two Turkish helicopters briefly violated Iranian territory in search of PKK elements. After taking fire from Iranian border troops, the helicopters returned to Turkey. Later, on September 29, Iranian border units fired on Turkish troops (across the border) while searching the border area for PKK terrorists. Coded civil war MID because this was connected to militarized rebels in Iran, who were targeting Turkey. 
+
+CIVWARLINK: MID4525 3 -- not civil war link
+CIVWARLINK-CER: MID4525 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4525 3 -- not coup 
+COUPMID-CER: MID4525 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4525 3 -- not coup link
+COUPLINK-CER: MID4525 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4191
+
+TERRMID: MID4191 3 -- not territory
+TERRMID-CER: MID4191 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4191 3 -- not third party link to territory 
+TERRLINK-CER: MID4191 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4191 3 -- not maritime 
+MARITMID-CER: MID4191 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4191 3 -- not islands 
+ISLMID-CER: MID4191 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4191 1 -- civil war MID
+CIVWARMID-CER: MID4191 1 -- certain
+CIVWARMID-NOTES: MID4191 from Gibler 2018, in 1996 Turkey launched an attack on a Kurdish village in Iran to attack militarized rebels there that were targeting Turkey. Coded civil war MID because this was connected to militarized rebels in Iran/Turkey. 
+
+CIVWARLINK: MID4191 3 -- not civil war link
+CIVWARLINK-CER: MID4191 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4191 3 -- not coup 
+COUPMID-CER: MID4191 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4191 3 -- not coup link
+COUPLINK-CER: MID4191 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4337
+
+TERRMID: MID4337 3 -- not territory
+TERRMID-CER: MID4337 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4337 3 -- not third party link to territory 
+TERRLINK-CER: MID4337 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4337 3 -- not maritime 
+MARITMID-CER: MID4337 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4337 3 -- not islands 
+ISLMID-CER: MID4337 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4337 3 -- not civil war 
+CIVWARMID-CER: MID4337 1 -- certain
+CIVWARMID-NOTES: MID4337 from BBC 1997, the leader of the PKK in Turkey called for the KDP in Iraq to join them in fighting against Turkey's offensive. The leader claimed that the attack was an attack against all of Kurdistan. However, there is no indication that any conflcit actually happened inside Turkey during this MID. Coded not civil war because this was not connected to militarized rebels in Turkey.
+
+CIVWARLINK: MID4337 1 -- civil war link
+CIVWARLINK-CER: MID4337 1 -- certain
+CIVWARLINK-NOTES: MID4337 from Gibler 2018, in 1997 Turkey amassed troops on their border with Iraq to attack Kurdish rebels. Iran responded by fortifying its border. Coded civil war link because this was connected to militarized rebels in Iraq, outside this dyad. 
+
+COUPMID: MID4337 3 -- not coup 
+COUPMID-CER: MID4337 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4337 3 -- not coup link
+COUPLINK-CER: MID4337 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4289
+
+TERRMID: MID4289 3 -- not territory
+TERRMID-CER: MID4289 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4289 3 -- not third party link to territory 
+TERRLINK-CER: MID4289 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4289 3 -- not maritime 
+MARITMID-CER: MID4289 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4289 3 -- not islands 
+ISLMID-CER: MID4289 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4289 1 -- civil war MID
+CIVWARMID-CER: MID4289 1 -- certain
+CIVWARMID-NOTES: MID4289 from Gibler 2018, Turkey bombed Iran in response to Iran supporting PKK rebels who were targeting Turkey. Coded civil war MID because this was connected to militarized rebels in Turkey. 
+
+CIVWARLINK: MID4289 3 -- not civil war link
+CIVWARLINK-CER: MID4289 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4289 3 -- not coup 
+COUPMID-CER: MID4289 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4289 3 -- not coup link
+COUPLINK-CER: MID4289 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4290
+
+TERRMID: MID4290 3 -- not territory
+TERRMID-CER: MID4290 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4290 3 -- not third party link to territory 
+TERRLINK-CER: MID4290 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4290 3 -- not maritime 
+MARITMID-CER: MID4290 1 -- certain
+MARITMID-NOTES: MID4290 from Gibler 2018, Iran and Azerbaijan disputed the maritime boundary in the Caspian Sea. Turkey backed Azerbaijan's position in the dispute, and in 2001, Turkey deployed fighter jets near Iran as a show of force. Coded not maritime because Turkey and Iran did not dispute a maritime boundary between them, although Turkey was linked to a maritime dispute between Iran and Azerbaijan. 
+
+ISLMID: MID4290 3 -- not islands 
+ISLMID-CER: MID4290 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4290 3 -- not civil war 
+CIVWARMID-CER: MID4290 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4290 3 -- not civil war link
+CIVWARLINK-CER: MID4290 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4290 3 -- not coup 
+COUPMID-CER: MID4290 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4290 3 -- not coup link
+COUPLINK-CER: MID4290 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4525
+rivalry=630640 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAN MID4525 20040923-20040929 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=USE OF FORCE 
+
+On September 23, 2004, two Turkish helicopters briefly violated Iranian territory in search of PKK elements. After taking fire from Iranian border troops, the helicopters returned to Turkey. Later, on September 29, Turkish troops were fired upon by Iranian border units across the border while searching the border area for PKK terrorists. First day of dispute was on 9/23/2004 and last day of dispute was on 9/29/2004.
+
+MID3 1993-2001:
+
+MID4191
+rivalry=630640 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAN MID4191 19960626-19960626 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Turkish helicopters violated Iranian airspace and attacked a Kurdish village in northwest Iran. First and last day of dispute was on 6/26/1996.
+
+MID4337
+rivalry=630640 nationa=IRAN nationb=TURKEY/OTTOMAN EMPIRE MID4337 19970520-19970500 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Large numbers of Iranian Revolutionary Guards mass near the Iraqi city of Sulaymaniyah. First day of dispute was on 5/20/1997 and last day of dispute was on 5/00/1997.
+
+MID4289
+rivalry=630640 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAN MID4289 19990718-19990718 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=DISPLAY OF FORCE 
+
+Turkey attacks Iran in order to convince them to stop harboring the PKK (Kurds). Turkey denies the charge and claims that it bombed Iraq. First and last day of dispute was on 7/18/1999.
+
+MID4290
+rivalry=630640 nationa=TURKEY/OTTOMAN EMPIRE nationb=IRAN MID4290 20010824-20010825 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Iran claims an equal share of the Caspian Sea oil for each country in the Caspian Sea; Azerbaijan says it should split in line with national boundaries, which would give Iran a smaller slice. Turkey supports Azerbaijan in this dispute. So during the period of 8/24/2001 to 8/25/2001 Turkey's chief of General Staff visited Baku with 10 Turkish F-16 fighter jets. First day of dispute was on 8/24/2001 and last day of dispute was on 8/25/2001.
+
+NARRATIVE-CM:
+Iranian troops and Turkish troops clashed near the border on September 22, 1981, resulting in the deaths of two Turkish soldiers.
+
+SOURCES-CM: 
+*Foreign Broadcast Information *Service (FBIS), September 24, 1981.
+
+NARRATIVE-CR:
+The rivalry between Iran and Turkey has had many twists and turns. The primary focus of the rivalry in the later half of the twentieth century has been the Kurdish issue. Kurds live in great numbers in both Iran and Turkey. Kurdish insurgents intent on establishing their own state have provoked incidents in both states. Turkey has been especially aggressive about pursuing the PKK into Iran and Iraq. This has caused numerous incidents between Iran and Turkey as Iran retaliates or defends itself against the incursions. There were also a couple of incidents in the Iran-Iraq war in which Turkey was caught in the middle of the hostilities-once Iran attacked a Turkish tanker and on another occasion Iran attacked a Turkish border station. The rivalry between the two states does not appear to be over as they have encountered hostilities in the last couple of years. In the latest incident Turkey displayed a show of force in support of Azerbaijan who was threatened by Iran over an oil exploration project. 
+
+MID3132 occurred from August of 1907 until August of 1908. This MID is titled the Turkish invasion of Iran. This was a bilateral MID between the two countries which referred to the invasion of Iran by Turkey and Turkish troops controlling the surrounding areas and the outskirts of Urumiya, a town in Western Iran. 
+
+Iran declared its neutrality in World War I, but the Ottoman Empire refused to acknowledge it since there were Russian troops in Iran. Iran ended up as a battleground for Russian, Turkish, and British troops. Turkish troops fought over the territory of Iran against Russian and British troops. MID1131 occurred when German agents tried to arouse the southern tribes against the British, Britain created an armed force, the South Persia Rifles, to protect its interests. Then a group of Iranian notables led by Nezam os Saltaneh Mafi, hoping to escape Anglo-Russian dominance and sympathetic to the German war effort, left Tehran, first for Qom and then for Kermanshah (renamed Bakhtaran after the fall of Mohammad Reza Shah in 1979), where they established a provisional government. The provisional government lasted for the duration of the war but failed to capture much support. On June 20, 1918, Turkish troops took over Tabriz, in western Iran. By September 1918, the Ottomans consolidated their control over northern Persia, between Tabriz and the southern shores of the Caspian Sea. But they lost the rest of the region to British. They would hold this territory until the armistice. The Armistice of Moudros, on October 30, 1918, ended the fighting in the Middle Eastern theater in World War I and Turkey withdrew from Iran. 
+
+MID3097 took place on September 21, 1981. In a border incident two Turkish soldiers were killed and two others wounded. The incident occurred when Khomeyni's revolution guards entered Turkish territory when chasing Kurdish combatants. In order to prevent further incursions, the Turkish armed forces stationed 1,000 soldiers along the Turkish-Iranian border.
+
+MID2575 occurred on March 2, 1986. Here the Turkish tanker Atlas I was attacked by the Iranian military in a one day incident. 
+
+MID2566 took place on August 27, 1986. This MID is coded as a threat to use force by both sides in the conflict. Here, the Turkish government pursued PKK rebels into Iraq. Turkey defended its actions argueing that it was adhering to international law regarding hot pursuit of criminals. The Iranian government interpreted Turkish statements as a threat to their sovereignty as a significant population of Kurds live in Iran. Further, Iran responded with a threat to defend itself against Turkish incursions. 
+
+MID2799 occurred from June of 1987 through March of 1988. This mid took place towards the end of the Iran-Iraq war. Throughout this perid, Turkey complained to Iran and Iraq about border incursions by both states war planes in efforts to evade pursuit. In March, Iran bombed a Turkish border post on the Iraqi border. Turkey responded by lodging a protest with Tehran. 
+
+MID4191 occurred on June 26, 1996. Turkish helicopters violated Iranian airspace and attacked a Kurdish village in northwest Iran. 
+
+MID4337 occurred in May of 1997. In this dispute Turkey pursued PKK insurgents into northern Iraq and maintained a presence there for a number of days. Iran, among other states, called for Turkey's withdrawal as it saw this action as a direct threat to its sovereignty given the significant presence of Kurds in northern Iran. 
+
+MID4289 occurred on July 18, 1999. Turkey accused Iran of harboring PKK rebels and struck Iranian border posts with Turkish warplanes. This incident sparked increased tensions between the two states. 
+
+MID4290 occurred on August 24-5, 2001. Here an Iranian naval vessel and aircraft threatened an Azeri research vessel in the Caspian Sea. The ship was exploring the seabed for oil. The area is disputed by Iran and the Iranian military sought to stop the exploration. In a show of support to the Azeris, Turkey sent a squadron of fighter jets to Baku. 
+
+SOURCES-CR: 
+Agence France Presse, May 31, 1997; The Associated Press,March 27, 1988; BBC 9/25/1981, BBC August 1986; Metz, 1989; Mideast Mirror, 7/28/1999; Sreedhar, 1989; New York Times 8/30/2001
+
+PS-NARRATIVE: 
+
+19181030-19790213 0.5 
+
+The Armistice of Moudros on October 30, 1918, ended the fighting on the Middle Eastern front and the Ottoman Empire withdrew from Iran. The Republic of Turkey succeeded the Ottoman Empire on July 24, 1923. On April 22, 1926, the first "Treaty of Friendship" between Iran and Turkey, was signed in Tehran. The basic principles included friendship, neutrality and nonaggression towards each other. The agreement also included possible joint actions to groups in the territories of both countries which would try to disturb peace and security or who would try to change the government of one of the countries. This policy was indirectly aimed at the internal problems both countries had with their Kurdish minorities. On January 23, 1932, there was the signing of the first definitive frontier treaty between Turkey and Iran, which was signed in Tehran. This 1932 treaty was basically the rubber-stamping of the centuries old status quo. On the same day the countries signed a new Treaty of Friendship, as well as a Treaty of Conciliation, Judicial Settlement and Arbitration. Between June 16 and July 2, 1934, Iran's leader, Reza Shah Pahlavi visited Turkey, together with a mission of high-ranking officials, among which General Hassan Arfa, at the invitation of Mustafa Kemal Atatürk. Several regions in Turkey were visited and attempts at close friendship and cooperation between the two leaders were made. Reza Shah Pahlavi was reportedly impressed by the modern republic's modernization reforms and he saw this as an example for his own country. On July 8, 1937, a Treaty of Non-Aggression is signed between Turkey, Iran, Iraq and Afghanistan. This treaty will be known as the Treaty of Saadabad. The purpose of this agreement was to ensure security and peace in the Near East. On August 25, 1941, Turkey denounced the attack by UK and Russia on Iran as aggression. Turkey was neutral during the Second World War, but it did not want Russian troops to take over its neighbor. In August 1955, CENTO (Central Treaty Organization), a mutual security-pact between Iran, Turkey, Iraq, Pakistan and Britain, was established. On October 14, 1956, Iran and Turkey signed a trade pact providing for ease in travel and trade restrictions and for the establishment of a jointly owned air transport company. On October 28, 1962, Iran's Shah made an official visit to Ankara during which he met with President Cemal Gursel and Prime Minister Ismet Inonu. On July 5, 1964, there is the establishment of RCD (Regional Cooperation for Development), aimed at joint economic projects between Turkey, Iran and Pakistan. On December 10, 1969, Turkey and Iran signed an agreement for the establishment of a joint petroleum transport authority that will undertake the construction of a 868-mile pipeline from Ahwaz to the Mediterranean Turkish port of Iskenderun. On May 16, 1977, Turkey and Iran stated their continued support for the existence of CENTO.
+
+19790214-19810920 Transition 
+
+On February 14, 1979, Iran withdrew from CENTO signaling a change in its policy toward those former allied states in the aftermath of the Iranian Revolution. Even though they maintained relatively good relations, the two governments (one secular, one Islamic) decided not to be part of the same defense alliance and Turkey refused to help Iran in the Iran-Iraq war. On May 22, 1980, Turkey, a NATO member, said that it will not join the trade embargo against neighboring Iran but will continue to work as an "honest middleman" to secure the release of 53 Americans hostages, Premier Suleyman Demirel said in an interview. "We have very strong ties with the people of Iran and I think a window should be kept open," the Turkish leader told The Associated Press. He said holding the hostages is "uncivilized" and "immoral" and called the captors "gangsters." He wondered, however, whether the embargo would "be helpful" in bringing about their release. "I still think the people of Iran as people should not be taken as enemies of the United States," he said, suggesting that stronger action could drive Iran into the lap of the Soviet Union. Turkey, in its strategic position bordering the Soviet Union and with a string of U.S. listening posts and bases, takes a cautious attitude in East-West relations. Several Western countries have noted that the U.S. boycott and limited trade sanctions adopted by nine Common Market countries last weekend could easily be circumvented by re-export to Iran of Western imports to Turkey. In the six months since militants seized the American Embassy in Tehran demanding the return of the Shah Mohammad Reza Pahlavi, Turkey has tried to find a role as "honest middleman" between the United States and the Islamic Republic of Iran. An early effort at mediation was rebuffed by Iran. Turkey, with a secular government, has a majority of Sunnites and a minority of Shiites, both Moslem sects. The Shiite sect is in power in Iran. Iran has a Turkish-speaking minority of 15 million people. Border traffic and oil imports have kept Turkey and Iran in close contact, even after Iran's revolution triggered the death last year of the 20-year-old Central Treaty Organization (CENTO), a common defense group which included Pakistan and Iran. Businessmen here, trying to make ends meet in an economy wracked by triple-digit inflation, 20 percent unemployment and a bloated state bureaucracy, would stand to make a killing as middlemen sending Western exports to Iran. Turkish businessmen have visited Tehran seeking agricultural sales and Iran's Foreign Minister Sadegh Ghotbzadeh was invited to visit here soon. The desire for trade-and the need for Iranian oil-hasn't prevented Demirel from openly expressing sympathy for the United States. Turkey announced it would not send a team to the Moscow Olympics because of the continued Soviet presence in Afghanistan. Turkey prides itself on being the first government to have denounced the Soviet invasion of Afghanistan. Demirel, whose conservative Justice Party took over a minority government six months before, said he is trying to transform Turkey's controlled economy into a free market system to cut an inflation rate of more than 130 percent, abolish a black market "parallel economy" and end crippling shortages. Last month Turkey bought a $100 million shipment of oil from Iran.
+
+On October 4, 1980, Turkey made it clear that it will be neutral in the Iraq-Iran conflict and it will not allow for the troops of either country to pass through its territory. A protocol signed in Tehran on 22nd April, 1981, provides for Iran to send 1,000,000 t of goods [a year] on Turkish railways; for co-operation in trade, agriculture, energy, banking and transport; and for Iranian purchases of agricultural goods, wheat, meat, barley and industrial raw materials. The two sides are to co-operate in joint projects and in reopening factories. The two sides are also to strengthen their co-operation in telephone and telex communications. 
+
+20010826-20069999 0.5
+
+The last MID of RIV1187, MID4290 ended on August 25, 2001. Turkish President Ahmet Necdet Sezer began a groundbreaking visit to Iran on June 17, 2002, hoping to enhance complicated political and security ties and strengthen improving trade and economic relations. Sezer, heading a delegation including 120 business and industry leaders and 20 journalists, arrived in Tehran Monday for a two-day visit. Iranian President Mohammad Khatami welcomed Sezer at a colorful ceremony in Saadabad Palace in northern Tehran. Later, the leaders held two hours of private talks. The official Islamic Republic News Agency said no details were available on the talks, but it said earlier that they were expected to focus on bilateral relations and regional issues such as Afghanistan, Iraq and the Mideast conflict. Politically at odds with Iran over many regional issues, the Turkish president is expected to hold awkward discussions with his Iranian hosts amid signs of improving economic relations. Turkey recently expressed concern over Iran's successful test in May of a ballistic missile capable of reaching Turkey. Iran has protested Turkey's close security and military relationship with Israel, Iran's arch enemy. Secular Turkey and Islamic Iran have repeatedly traded charges. Ankara accuses Iran of supporting Kurdish separatists, while Tehran says Turkey harbors an armed Iranian opposition group, the People's Mujahedeen. "Turkey's extensive security cooperation with Israel ... is one of the major stumbling blocks in bilateral Tehran-Ankara ties," the English-language daily Iran News said on Monday. The moderate daily said the political and security aspects of Sezer's visit would be "far more significant than its economic aspect." Turkey's ambassador to Tehran, Salahattin Alpar, told reporters Sunday that relations between both sides had been rocky but "effective measures" had been taken to settle issues. "Constructive security cooperation" now existed. On Tuesday, Sezer will inaugurate a Turkish language and literature course at Allameh Tabatabaei University in Tehran before flying to Tabriz, capital of one of Iran's three Turkish-speaking provinces. Alpar said Sezer's visit to Tabriz, in northwestern Iran close to the Turkish border, demonstrated "friendly ties." The daily Iran News said it suggested a "sign of Iran's sincerity." Iran's ambassador to Ankara, Firouz Dowlatabadi, was quoted by the daily Iran as saying Khatami's charismatic role and foreign policy of detente had "removed suspicions" in relations with Turkey. Dowlatabadi was apparently referring to Turkish claims of Iranian support for Kurdish separatists seeking autonomy in southeastern Turkey and Islamic movements in Turkish politics. "Those suspicions don't exist anymore. It's clear for the Turkish government that the Islamic Republic of Iran considers Turkey's security and stability as its own," he was quoted as saying. Despite political and regional differences, trade relations between Iran and Turkey have improved in recent years. Bilateral trade last year stood at dollars 1.4 billion. In January, Iran began natural gas exports to Turkey via a 2,577-kilometer (1,598-mile) pipeline as part of a dollars 30 billion deal.
+
+On 11 July, 2002 Iranian Minister of the Interior Abdolvahed Musavi-Lari in Ankara held talks with his Turkish counterpart Rustu Kazim Yucelen on ways to develop cooperation in the field of regional peace and stability. Lari said that Iran has 400-year long friendship border with Turkey adding that Iran is always interested in fostering cooperation with Turkey on political, cultural, economic and security fields. "The Islamic Republic of Iran regards Turkish security as its own. Anyone attempting to disrupt Turkish security is similar to the one doing against that of Iran," Musavi-Lari pointed out. The two interior ministers exchanged views about the international campaign against terrorism and campaign against drug trafficking and human trafficking as well as reinforcing security in the border areas. Lari said that Iran and Turkey hold the same view about the international campaign against terrorism adding that Iran expects Turkey to enforce ban on the anti-Iran terrorist groups operating in Turkey in return for Iran's firm action against anti-Turkish groups. He expressed pleasure with the growth in Iran-Turkey economic cooperation thanks to pumping Iranian gas to Europe via Turkey and called for further development of the cooperation. He pointed to the visit paid by President Ahmet Necdet Sezer to Iran and said that the visit served to upgrade the growing trend of Tehran-Ankara relations. Lari said that university course has been launched for Turkish Language and Literature at A'lameh Tabataba'i University in Tehran which is a great step forward to boosting cultural and political cooperation between the two countries. Yucelen welcomed the Iranian delegation and said that since 11 September and the international campaign against terrorism, Iran-Turkey cooperation has focused on security dimension. He said that Turkey has concerns about Kurdish Workers Party (PKK) adding that change in the title of the terrorist group to the Kurdish Congress of Freedom and Democracy made no change in the terrorist nature of the group. The Turkish interior minister said that he would seek his Iranian counterpart's agreement to recognize the Kurdish group as terrorist. West Azarbayjan Province's governor general and several other security officials of the interior ministry are accompanying Musavi-Lari.
+
+Iran and Turkey stressed in Istanbul on July 7, 2003 the need to bolster trade and economic cooperation as well as their cultural ties. Iran's Minister of Commerce Mohammad Shariatmadari and Turkish State Minister for the Economy Kursat Tuzmen talked to reporters after the inauguration ceremony of Iran's first-ever week in Turkey. "Iran attaches special importance to expansion of ties with the friendly and neighboring country of Turkey in all fields," Shariatmadari said as he pointed to the foreign policy of President Mohammad Khatami's government of detente in the region and expansion of ties with neighboring countries. "Iran believes ties between Iran and Turkey have been recently promoted to a level that foreign powers could play no role in affecting their mutual relations," he added. Shariatmadari outlined Iran's economic developments in legal fields to encourage foreign investment in Iran and said Iran's economic growth has reached eight percent which is unique among regional countries. He added that the International Monetary Fund has expressed satisfaction with economic developments in Iran. "Iran made promising reforms to remove non-tariff and tariff impediments," said the minister, adding currently suitable grounds are prepared for Turkish companies to have activities in Iran. He termed trade and economic ties between Iran and Turkey as growing and said the two countries are determined to increase the volume of bilateral trade to five billion dollars. Tuzmen, for his part, stressed that Iranian exporters face no problem in the way of exporting to Turkey, saying they can use Turkey as a bridge to Europe. He said holding Iran's week in Turkey can prepare suitable grounds for expansion of cultural and economic ties between the two countries, adding such ceremonies would lead to close cooperation between the two sides' officials and nations. Tuzmen said he would support any measure aimed at promotion of ties with Iran. Commercial exchanges between Iran and Turkey showed an annual growth of 30-60 percent in the past three years. Iran's first-ever week opened in Turkey on Thursday with the inaugural ceremony attended by Shariatmadari and Tuzmen. An exhibition of Iran's industrial goods, cultural products, handicrafts and carpets is held here on the sidelines of Iran's week in Turkey.
+
+Iranian First Vice-President Mohammad Reza Aref said in Teheran on 29 July, 2004, that expansion of relations with the neighboring state of Turkey enjoys top priority in Iran's foreign policies. Talking to domestic and foreign reporters at the end of an official two-day visit by Turkish Prime Minister Recep Tayyip Erdogan, Aref stressed the need for cementing bilateral ties in political, economic, and security sectors. He assessed as good political and security cooperation between Iran and Turkey in the recent years, adding: "The two sides stressed expansion of economic relations in line with political ties." Pointing to heavy damages Iran and Turkey sustained due to terrorism, he added Tehran and Ankara will bolster cooperation to fight against terrorism. The vice-president underlined that Iran and Turkey have a very close stance on key regional and international issues including the crises in Iraq, Afghanistan, and Palestine. He said transit of Iran's gas to Europe through Turkey was among important issues discussed in the meetings, adding National Iranian Gas Company and Turkish Butash Gas Company will follow up the related technical and executive affairs. Shifting to role of two countries' private sector and NGOs in expansion of ties, Aref noted that the high-ranking officials will prepare the ground for further participation of the private sector and attraction of investment. Erdogan, for his part, termed the outcome of his visit to Iran as fruitful and said Tehran-Ankara ties have been developed in political, economic, and cultural areas during the recent years. Economic potentials and strategic location brought Iran and Turkey close to each other, said the visiting premier, adding the two countries' cooperation has a great impact in the sensitive Middle East region. He pointed to a security document signed by Iran and Turkey during his visit, saying it reveals the two countries attach great importance to reinforcement of cooperation in the security sector. "Iran-Turkey cooperation is not effective just for the two countries, it is important for the whole region and helps establish regional stability," he noted. The premier further stated that National Iranian Gas Company and Turkey's Butash Gas Company keep negotiating to implement the important project of piping Iran's gas to Europe through Turkey. Erdogan, who headed a ranking delegation wrapped up his two-day Iran visit and left for his country Thursday night. The Turkish premier discussed bilateral, regional, and international issues during separate meetings with President Mohammad Khatami, Majlis Speaker Gholam Ali Haddad-Adel, Chairman of the Expediency Council Akbar Hashemi-Rafsanjani and a number of other senior officials. The two sides signed two documents for expansion of political, economic, and security cooperation.
+
+On January 21, 2006, Iran with seven million tons of crude oil exports to Turkey stood as the primary supplier of the country's oil imports in 2005, said the Turkish Refining Company. Turkey imported 23.5 million tons of crude in 2005 more than half of which was from Iran and Russia. Russia which was not a major player in oil exports to Turkey only several years ago has become the second largest oil exporter to the country and is fast gaining market share. Turkey's Foreign Minister, Abdullah Gul, arrived on June 25, 2006, in Teheran, to send a message of reconciliation to the Iranian President, as part of Turkish efforts to help solve the standoff over Tehran's nuclear program. Foreign Minister Abdullah Gul told reporters in Ankara, Turkey that he was carrying a message from Prime Minister Recep Tayyip Erdogan urging Tehran to cooperate with the international community to eliminate concerns over its nuclear program. At Tehran's airport, Gul said Turkey was pushing for a diplomatic solution to Iran's nuclear dispute, state-run television reported Sunday. "Turkey is interested in seeing the Iranian nuclear issue is resolved through diplomatic means. Turkey believes the diplomatic resolution of this issue can help maintain stability in the region," state television quoted him as saying. Iran says its program is for peaceful energy purposes but the U.S. and its European allies are concerned that it aims to make nuclear weapons. Gul's trip to Tehran comes ahead of his visit to the United States early next month. Gul is scheduled to meet his Iranian counterpart Manouchehr Mottaki, Iran's top nuclear negotiator Ali Larijani and powerful former president Hashemi Rafsanjani. Turkey has repeatedly called on neighboring Iran to be "transparent" and abide by the requirements of the international community, but also defends Iran's right to produce nuclear energy.
+
+PS-SOURCES: Olson (1998), Kaashani-Sabet (1999), New York Times May 16, 1977; June 20, 1918; August 26, 1941; October 15, 1956; October 28, 1962; July 6, 1964; December 11, 1969; BBC May 5, 1981; June 30, 2002; July 11, 2002; July 30, 2004; January 21, 2006; Associated Press May 22, 1980; June 17, 2002; June 25, 2006; Asia Pulse July 7, 2003; Xinhua October 4, 1980
+
+MARITIME-MIDS: MID4290
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID4290
+ DYAD: TURKEY/OTTOMAN EMPIRE IRAN 640630
+ DATES: 20010824 20010825
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4290
+ DYAD: IRAN TURKEY/OTTOMAN EMPIRE 630640
+ DATES: 20010824 20010825
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+Iran claims an equal share of the Caspian Sea oil for each country in the Caspian Sea; Azerbaijan says it should split in line with national boundaries, which would give Iran a smaller slice. MID4290 occurred on August 24-5, 2001. Here an Iranian naval vessel and aircraft threatened an Azeri research vessel in the Caspian Sea. The ship was exploring the seabed for oil. The area is disputed by Iran and the Iranian military sought to stop the exploration. Turkey supports Azerbaijan in this dispute, so in a show of support to the Azeris during the period of 8/24/2001 to 8/25/2001, Turkey sent a squadron of fighter jets to Baku. 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+BBC (1997). PKK leader says Turkey’s northern Iraqi operation also aimed at Iran. BBC Summary of World Broadcasts May 20. LexisNexis.

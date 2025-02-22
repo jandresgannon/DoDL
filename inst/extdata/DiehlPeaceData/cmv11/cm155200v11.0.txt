@@ -1,0 +1,150 @@
+FILE: cm155200v11.0.txt
+DYAD: CHILE - UNITED KINGDOM
+RIVALRY: RIV358
+DISPUTE(S): MID1517 MID1643 
+RIVALRY: RIV359
+DISPUTE(S): MID1698 MID2840 
+RIVALRY: RIV360
+DISPUTE(S): MID4148 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20170804
+PS-LAST-CHECKED: 20170804
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1517 MID1643 
+
+MID1698 
+
+TERRMID: MID1698 3 -- not territory
+TERRMID-CER: MID1698 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1698 3 -- not third party link to territory 
+TERRLINK-CER: MID1698 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1698 1 -- maritime MID
+MARITMID-CER: MID1698 1 -- certain
+MARITMID-NOTES: MID1698 the proximate cause for this MID is disputed islands in the Antarctic, but the islands have implications for a maritime dispute between these countries. Control over the disputed waters fuels the dispute over the islands. 
+
+ISLMID: MID1698 1 -- islands MID
+ISLMID-CER: MID1698 1 -- certain
+ISLMID-NOTES: MID1698 from cm narrative, Chile and UK disputed islands near the Antarctic and deployed naval forces to claim the islands in 1947. Coded islands MID because this is connected to disputed islands in the Antarctic area. 
+
+CIVWARMID: MID1698 3 -- not civil war 
+CIVWARMID-CER: MID1698 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1698 3 -- not civil war link
+CIVWARLINK-CER: MID1698 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1698 3 -- not coup 
+COUPMID-CER: MID1698 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1698 3 -- not coup link
+COUPLINK-CER: MID1698 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2840 
+
+TERRMID: MID2840 3 -- not territory
+TERRMID-CER: MID2840 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2840 3 -- not third party link to territory 
+TERRLINK-CER: MID2840 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2840 1 -- maritime MID
+MARITMID-CER: MID2840 1 -- certain
+MARITMID-NOTES: MID2840 the proximate cause for this MID is disputed islands in the Antarctic, but the islands have implications for a maritime dispute between these countries. Control over the disputed waters fuels the dispute over the islands. 
+
+ISLMID: MID2840 1 -- islands MID
+ISLMID-CER: MID2840 1 -- certain
+ISLMID-NOTES: MID2840 from NYT 2/19/1948, UK deployed warships to the Falkland Islands, triggering protest from Chile here. The British claim the disputed islands in the Antarctic as part of the Falklands. Coded islands MID because this was connected to the disputed islands in the Antarctic. 
+
+CIVWARMID: MID2840 3 -- not civil war 
+CIVWARMID-CER: MID2840 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2840 3 -- not civil war link
+CIVWARLINK-CER: MID2840 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2840 3 -- not coup 
+COUPMID-CER: MID2840 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2840 3 -- not coup link
+COUPLINK-CER: MID2840 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4148 
+
+TERRMID: MID4148 3 -- not territory
+TERRMID-CER: MID4148 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4148 3 -- not third party link to territory 
+TERRLINK-CER: MID4148 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4148 1 -- maritime MID
+MARITMID-CER: MID4148 1 -- certain
+MARITMID-NOTES: MID4148 the proximate cause for this MID is disputed rights to the waters around the South Georgia Islands. UK had recently asserted a claim of 200 miles around the islands. Here, UK seized numerous Chilean fishing vessels soon after it advanced its 200 mile claim. Chile protested this and later officially rejected UK's claim to the area. Occurred 3/1996.
+
+ISLMID: MID4148 3 -- not islands 
+ISLMID-CER: MID4148 1 -- certain
+ISLMID-NOTES: MID4148 the South Georgia islands belong to UK and were not disputed; this was an issue of UK expanding its maritime claim around the islands and Chile rejecting that claim. 
+
+CIVWARMID: MID4148 3 -- not civil war 
+CIVWARMID-CER: MID4148 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4148 3 -- not civil war link
+CIVWARLINK-CER: MID4148 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4148 3 -- not coup 
+COUPMID-CER: MID4148 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4148 3 -- not coup link
+COUPLINK-CER: MID4148 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4148
+rivalry=155200 nationa=UNITED KINGDOM nationb=CHILE MID4148 19960306-19960300 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+In an incident related to fishing rights in the area around the South Georgia Islands, a United Kingdom patrol boat (Cordelia) seized one of ten Chilean fishing boats in the area, on March 6, 1996. The seized boat (Antonio Lorenzo) was escorted to Port Stanley in the Falkland Islands. This was one of many captures by the United Kingdom patrols in the area in recent days after the UK began enforcing a new claim to 200 miles of exclusive fishing rights around the islands; the other cases were not coded because there were no protests. Chile called for the immediate release of the fishing boat, claiming it was seized in international waters, although it is unclear when the boat or its crew were released. On March 19, 1996, Argentina and Chile made a common declaration rejecting United Kingdom control in the area. First day of dispute was on 3/6/1996 and last day of dispute was on 3/00/1996.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Britain and Chile disputed the sovereignty over islands near the continent of Antartica. On March 13, 1956, Britain announced the establishment of two scientific bases on two islands near the Palmer Peninsula. Chile formally protested to Britiain on March 21, 1956, but Britain rejected the protest on March 22, 1956. Britain proposed to submit the dispute to the International Court of Justice (ICJ) on March 22, 1956, but Chile rejected the proposal. Chile reaffirmed its claim to sovereignty in the region on July 17, 1956.
+
+SOURCES-CM:
+Sources: Butterworth, 1976, 210-211.
+
+NARRATIVE-CR:
+The disputes between the UK and Chile do not classify as a rivalry. A brief description of the disputes follows.
+
+Chilean civil unrest and regional war served as the reason for the first two disputes between the two countries. In 1883, the US along with the UK, Italy, and France sent warships to Chile to protect their commerical interests during the War of the Pacific, MID1517. The UK performed a similar action to protect commerical interests in February 1891 after Chilean rebels seized an English coal ship during a blockade of the port of Iquique, MID1643.
+
+The next two disputes involved early claims over islands near the Antarctic prior to the Treaty of Antarctica in 1959. Chile, Argentina and the United Kingdom disputed claims to Graham Land, a group of Antarctic islands in 1947, each sending naval expeditionary forces to stake claim to the island from February to April 1947, MID1698. In January 1948, the three countries ordered naval and army units to the area in an effort to demonstrate a show of force to back up claims to the Antarctic regions, MID2840.
+
+The last dispute involves a fishing incident. On March 6, 1996 Great Britain arrested a Chilean fishing trawler fishing illegally in waters off of the South Georgia islands, MID4148.
+
+SOURCES-CR:
+New York Times 2/4/1891, 5/19/1891, 2/23/1947, 2/22/1948; Hudson 1994; The Guardian 3/9/1996
+

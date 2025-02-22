@@ -1,0 +1,61 @@
+FILE: cm002100v11.0.txt
+DYAD: USA - COLOMBIA
+RIVALRY: RIV29
+DISPUTE(S): MID1524 
+RIVALRY: RIV30
+DISPUTE(S): MID1522 
+RIVALRY: RIV31
+DISPUTE(S): MID2343 MID159 
+
+RIVNOTES: 
+
+PS-LAST-CHANGED: 20170802
+PS-LAST-CHECKED: 20170802
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1524 MID1522 MID2343
+
+MID159 
+
+TERRMID: MID159 3 -- not territory
+TERRMID-CER: MID159 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID159 1 -- third party link to territorial MID
+TERRLINK-CER: MID159 1 -- certain
+TERRLINK-NOTES: MID159 from cm narrative, the US formally recognized Panama's independence from Colombia in November 1903, triggering official protest from Colombia. From NYT 11/21/1903, Colombia threatened the US and warned the US not to send any troops to Panama, after the US warned Colombia not to land any troops in Panama. (The US seemed to anticipate that Colombia would send troops to retake control of Panama, which had seceded from Colombia.) This exchange of threats and the Colombian protest of the US recognizing Panama constitutes this MID. Coded third party link to territory because Colombia claimed the entirety of Panama. 
+
+MARITMID: MID159 3 -- not maritime 
+MARITMID-CER: MID159 1 -- certain
+MARITMID-NOTES: MID159 Colombia claimed the entirety of Panama, and therefore the territorial waters that belong to Panama. Coded not maritime because the US and Colombia did not dispute a maritime border here, although the US is linked to the Colombia-Panama maritime dispute. 
+
+ISLMID: MID159 3 -- not islands 
+ISLMID-CER: MID159 1 -- certain
+ISLMID-NOTES: MID159 Colombia claimed the entirety of Panama, and therefore small islands off the coast that belong to Panama. Coded not islands because the US and Colombia did not dispute islands here, although the US is linked to the Colombia-Panama islands dispute. 
+
+CIVWARMID: MID159 3 -- not civil war 
+CIVWARMID-CER: MID159 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID159 3 -- not civil war link
+CIVWARLINK-CER: MID159 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID159 3 -- not coup 
+COUPMID-CER: MID159 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID159 3 -- not coup link
+COUPLINK-CER: MID159 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+Diplomatic relations between Colombia and the United States were strained following the decision of the US to recognize the independence of Panama on November 13, 1903. Colombia formally protested the US support for Panamanian independence on April 12, 1904. The countries signed a treaty on January 9, 1909 which would have resolved the dispute, but the treaty was later rejected by the Colombian national assembly. Colombian and US representatives signed a second treaty in Bogota on April 6, 1914. Colombia ratified the treaty on June 9, 1914, and the US Senate ratifed the treaty with eleven amendments on April 20, 1921. The amendments were approved by the Colombian national assembly on December 24, 1921. The treaty, which went into effect on March 1, 1922, required that the US pay Colombia $25 million.
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

@@ -1,0 +1,622 @@
+FILE: cm002645v11.0.txt
+DYAD: USA-IRAQ
+RIVALRY: RIV87
+DISPUTE(S): MID125 
+RIVALRY: RIV88
+DISPUTE(S): MID1039
+RIVALRY: RIV89
+DISPUTE(S): MID2739 MID2774 MID3957 MID3974 MID3552 MID3568 MID4299 MID4269 MID4270 MID4271 MID4273
+
+RIVNOTES: 
+
+PS: 19321003-19670610 .50 19670611-19841101 .25 19841102-19870516 .50 19870517-20030319 0.00 20030320-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220209
+PS-LAST-CHECKED: 20220209
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID125 
+
+TERRMID: MID125 3 -- not territory 
+TERRMID-CER: MID125 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID125 3 -- not third party link to territory 
+TERRLINK-CER: MID125 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID125 3 -- not maritime 
+MARITMID-CER: MID125 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID125 3 -- not islands 
+ISLMID-CER: MID125 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID125 1 -- civil war MID
+CIVWARMID-CER: MID125 1 -- certain 
+CIVWARMID-NOTES: MID125 from cm narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded civil war MID because the civil conflict in Iraq contributed to the events of this MID.
+
+CIVWARLINK: MID125 1 -- civil war link 
+CIVWARLINK-CER: MID125 1 -- certain 
+CIVWARLINK-NOTES: MID125 coded civil war link because the Lebanese civil war triggered a multilateral MID, including this MID between US and Iraq, and since the Lebanese civil war is outside of this dyad, it is a civil war link MID. 
+
+COUPMID: MID125 1 -- coup MID 
+COUPMID-CER: MID125 1 -- certain 
+COUPMID-NOTES: MID125 from cm narrative, this is a multilateral MID involving the US and UK against USSR, Iraq, and Egypt. In 1958, a faction of military officers overthrew the Iraqi monarchy in a coup and this stoked revolutionary sentiment in Lebanon, where a civil war was already ongoing. The US and UK landed troops in Lebanon at Lebanon's request to keep the regime in place. USSR, Iraq, and Egypt provided assistance to the revolutionaries in Lebanon, triggering this MID. Coded coup MID because the coup in Iraq contributed to the civil war in Lebanon, and the new Iraqi regime provided support to the revolutionaries in Lebanon.
+
+COUPLINK: MID125 3 -- not coup link
+COUPLINK-CER: MID125 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1039 
+
+TERRMID: MID1039 3 -- not territory 
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link 
+CIVWARLINK-CER: MID1039 1 -- certain 
+CIVWARLINK-NOTES: MID1039 from cm narrative, this MID is connected to the Lebanese Civil War. Iraq provided direct support to rebel groups, primarily fedayeen, in Lebanon, and the US provided support to the Jordanian regime, triggering this MID between the US and Iraq. Coded civil war link because the dispute between these countries was connected to a civil war outside of this dyad (Lebanon). 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2739 
+
+TERRMID: MID2739 3 -- not territory 
+TERRMID-CER: MID2739 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2739 1 -- third party link to territorial MID
+TERRLINK-CER: MID2739 1 -- certain 
+TERRLINK-NOTES: MID2739 this is connected to events of the Iran-Iraq war, a territorial dispute. From cm630645v11.0cm narrative, Iran and Iraq disputed their land boundary at the Iranian-Arvand River, an inland river boundary. Iraq invaded Iran in 1980 as a result of tensions over the border. Coded third party link to territory because as part of that war, Iran and Iraq both regularly attacked tankers in the Persian Gulf to damage the other's oil exports. 
+
+MARITMID: MID2739 3 -- not maritime 
+MARITMID-CER: MID2739 1 -- certain 
+MARITMID-NOTES: MID2739 from cm narrative, a US naval vessel was hit by Iraqi missiles in the Persian Gulf. This was in the midst of the Iran-Iraq War, which included the Tanker War, in which Iran blocked Iraqi oil shipments and Iraq attacked naval vessels blocking their exports. Iraq claimed this strike against a US vessel was a mistake and that they mistook the frigate as one that was blocking its exports. Coded not maritime because Iraq and US were not disputing a maritime boundary. 
+
+ISLMID: MID2739 3 -- not islands 
+ISLMID-CER: MID2739 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2739 3 -- not civil war 
+CIVWARMID-CER: MID2739 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2739 3 -- not civil war link 
+CIVWARLINK-CER: MID2739 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2739 3 -- not coup 
+COUPMID-CER: MID2739 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2739 3 -- not coup link
+COUPLINK-CER: MID2739 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2774 
+
+TERRMID: MID2774 3 -- not territory 
+TERRMID-CER: MID2774 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2774 1 -- third party link to territorial MID 
+TERRLINK-CER: MID2774 1 -- certain 
+TERRLINK-NOTES: MID2739 this is connected to events of the Iran-Iraq war, a territorial dispute. From cm630645v11.0cm narrative, Iran and Iraq disputed their land boundary at the Iranian-Arvand River, an inland river boundary. Iraq invaded Iran in 1980 as a result of tensions over the border. Coded third party link to territory because as part of that war, Iran and Iraq both regularly attacked tankers in the Persian Gulf to damage the other's oil exports. 
+
+MARITMID: MID2774 3 -- not maritime 
+MARITMID-CER: MID2774 1 -- certain 
+MARITMID-NOTES: MID2774 from cm narrative, this is another dispute that occurred when Iraqi jets fired missiles at US naval vessels in the Persian Gulf during the Iran-Iraq War. Iraq claimed this was a mistake and that they thought the US vessels were other countries' tankers attempting to block Iraqi oil exports. Coded not maritime because Iraq and US were not disputing a maritime boundary. 
+
+ISLMID: MID2774 3 -- not islands 
+ISLMID-CER: MID2774 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2774 3 -- not civil war 
+CIVWARMID-CER: MID2774 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2774 3 -- not civil war link 
+CIVWARLINK-CER: MID2774 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2774 3 -- not coup 
+COUPMID-CER: MID2774 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2774 3 -- not coup link
+COUPLINK-CER: MID2774 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain
+TERRLINK-NOTES: MID3957 from cm narrative, this is the Persian Gulf War. Iraq invaded Kuwait, claiming its territory as rightfully Iraq's, and was defeated and pushed back into Iraq by a coalition of 34 nations led by the US. Coded third party link because a territorial dispute between Iraq and Kuwait led the US to be involved in this MID. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link
+CIVWARLINK-CER: MID3957 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3974 
+
+TERRMID: MID3974 3 -- not territory 
+TERRMID-CER: MID3974 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3974 3 -- not third party link to territory 
+TERRLINK-CER: MID3974 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3974 3 -- not maritime 
+MARITMID-CER: MID3974 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3974 3 -- not islands 
+ISLMID-CER: MID3974 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3974 1 -- civil war MID
+CIVWARMID-CER: MID3974 1 -- certain 
+CIVWARMID-NOTES: MID3974 from cm narrative, this MID is connected to the enforcement of no-fly zones over Iraq, and is multilateral. The US, UK, and France enforced the no-fly zone over Iraq, who consistently fired at patrol jets. Saddam Hussein had been trying to wipe out opposition groups, including militarized rebel groups, who were trying to overthrow the regime. Bush Sr. also called for revolution in the country. Coded civil war MID because the civil war activity in Iraq drove events of this MID, as the US, UK, and France were trying to prevent Saddam Hussein from attacking rebel groups. 
+
+CIVWARLINK: MID3974 3 -- not civil war link 
+CIVWARLINK-CER: MID3974 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3974 3 -- not coup 
+COUPMID-CER: MID3974 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3974 3 -- not coup link
+COUPLINK-CER: MID3974 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3552 
+
+TERRMID: MID3552 3 -- not territory 
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain 
+CIVWARMID-NOTES: MID3552 from cm narrative, this is a multilateral MID involving Iraq vs. the US, UK, France, Kuwait, Saudi Arabia, and Russia. Iraq denied UN weapons inspectors entrance to various sites in Iraq, receiving protests in response, contributing to this MID. Also, Iraq threatened the safety of planes enforcing the no fly zone. In January 1993, the US, UK, and France raided several anti-aircraft missile sites. In June 1993, Iraq again refused UN access to a weapons plant. In June 1993, the US launched a cruise missile at an Iraqi inteligence headquarters building in response to an assassination attempt on Bush Sr as he was visiting Kuwait. Coded civil war MID because some of the events of this MID are connected to the no fly zone over Iraq, which was being enforced due to Saddam Hussein's attempts to conduct politicide against militarized rebel groups and civilians in parts of Iraq. 
+
+CIVWARLINK: MID3552 3 -- not civil war link 
+CIVWARLINK-CER: MID3552 1 -- certain 
+CIVWARLINK-NOTES: MID3552 this is a multilateral MID but the civil conflict is not present in any other countries involved in this MID. 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3568 
+
+TERRMID: MID3568 3 -- not territory 
+TERRMID-CER: MID3568 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3568 1 -- third party link to territory 
+TERRLINK-CER: MID3568 1 -- certain 
+TERRLINK-NOTES: MID3568 from cm narrative, this mid involved Iraq versus Kuwait, France, the UK, and the US. Iraq and Kuwait are the primary disputants, and the US, UK and France are also involved because of their defense of and support for Kuwait. (This iccurred in August 192, shortly after the Gulf War in which Saddam Hussein was expelled from Kuwait.) The border between Iraq and Kuwait was disputed; Iraq claimed Kuwait as its territory. Iraq set up border posts inside Kuwaiti territory, sparking border clashes and triggering this MID. Coded third party link to territorial MID because Iraq was attempting to encroach on Kuwaiti territory and the border was disputed, and the US was pulled in by supporting Kuwait. 
+
+MARITMID: MID3568 3 -- not maritime 
+MARITMID-CER: MID3568 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3568 3 -- not islands 
+ISLMID-CER: MID3568 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3568 3 -- not civil war 
+CIVWARMID-CER: MID3568 1 -- certain 
+CIVWARMID-NOTES: MID3568 there was an ongoing no fly zone being enforced by the US, UK, and France. The no fly zone was in place to prevent Saddam from attacking rebel groups in Iraq, but that is not connected to the events of this MID. 
+
+CIVWARLINK: MID3568 3 -- not civil war link 
+CIVWARLINK-CER: MID3568 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3568 3 -- not coup 
+COUPMID-CER: MID3568 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3568 3 -- not coup link
+COUPLINK-CER: MID3568 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4299 
+
+TERRMID: MID4299 3 -- not territory 
+TERRMID-CER: MID4299 1 -- certain 
+TERRMID-NOTES: MID4299 from cm narrative, this is the US response to the Iraqi assassination plot against President Bush Sr. The US discovered the plot, and Clinton launched missiles into an intelligence headquarters in retaliation. Coded not territorial because the two countries were not disputing territory, and this was about political retaliation.
+
+TERRLINK: MID4299 3 -- not third party link to territory 
+TERRLINK-CER: MID4299 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4299 3 -- not maritime 
+MARITMID-CER: MID4299 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4299 3 -- not islands 
+ISLMID-CER: MID4299 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4299 3 -- not civil war 
+CIVWARMID-CER: MID4299 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4299 3 -- not civil war link 
+CIVWARLINK-CER: MID4299 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4299 3 -- not coup 
+COUPMID-CER: MID4299 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4299 3 -- not coup link
+COUPLINK-CER: MID4299 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4269 
+
+TERRMID: MID4269 3 -- not territory 
+TERRMID-CER: MID4269 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4269 1 -- third party link to territorial MID
+TERRLINK-CER: MID4269 1 -- certain 
+TERRLINK-NOTES: MID4269 from cm narrative, MID4269 is another multilateral mid involving Iraq versus Bahrain, France, Kuwait, Oman, the UAE, the UK, and the US. This mid occurred from August of 1994 until October of 1995. In October 1994, Iraq threatened to stop cooperating with UNSCOM and the IAEA. Iraq then moved troops toward the Kuwaiti border, which was disputed (Iraq claimed all of Kuwait's territory as its own). The US, UK, France, Bahrain, Oman, and the UAE mobilized in return to deter Iraq. Coded third party link to territorial MID because this MID was partly triggered when Iraq threatened to invade Kuwait again and attempt to advance its territorial claim. 
+
+MARITMID: MID4269 3 -- not maritime 
+MARITMID-CER: MID4269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4269 3 -- not islands 
+ISLMID-CER: MID4269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4269 3 -- not civil war 
+CIVWARMID-CER: MID4269 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4269 3 -- not civil war link 
+CIVWARLINK-CER: MID4269 1 -- certain 
+CIVWARLINK-NOTES: MID4269 several of the countries in this multilateral MID were enforcing a no fly zone, which was connected to civil war activity in Iraq, but that was not connected to the events of this MID. 
+
+COUPMID: MID4269 3 -- not coup 
+COUPMID-CER: MID4269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4269 3 -- not coup link
+COUPLINK-CER: MID4269 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4270 
+
+TERRMID: MID4270 3 -- not territory 
+TERRMID-CER: MID4270 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4270 3 -- not third party link to territory 
+TERRLINK-CER: MID4270 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4270 3 -- not maritime 
+MARITMID-CER: MID4270 1 -- certain 
+MARITMID-NOTES: MID4270 from cm narrative, US marines boarded an Iraqi frigate and inspected for whether it was carrying oil, which was banned under the economic sanctions on Iraq. Iraq protested, triggering this MID. Coded not territorial because the countries were not disputing territory and this was about enforcing economic sanctions.
+
+ISLMID: MID4270 3 -- not islands 
+ISLMID-CER: MID4270 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4270 3 -- not civil war 
+CIVWARMID-CER: MID4270 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4270 3 -- not civil war link 
+CIVWARLINK-CER: MID4270 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4270 3 -- not coup 
+COUPMID-CER: MID4270 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4270 3 -- not coup link
+COUPLINK-CER: MID4270 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4271 
+
+TERRMID: MID4271 3 -- not territory 
+TERRMID-CER: MID4271 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4271 3 -- not third party link to territory 
+TERRLINK-CER: MID4271 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4271 3 -- not maritime 
+MARITMID-CER: MID4271 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4271 3 -- not islands 
+ISLMID-CER: MID4271 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4271 1 -- civil war MID
+CIVWARMID-CER: MID4271 1 -- certain 
+CIVWARMID-NOTES: MID4271 from cm narrative, this is a multilateral MID involving Iraq vs. several countries enforcing a no fly zone: US, UK, and Kuwait. The no fly zone was expanded to the 33rd parallel when Saddam Hussein moved into Kurdish-held territory. Coded civl war MID because the enforcement of the no fly zone was to prevent Saddam from attacking the militarized rebel groups in the north and south. 
+
+CIVWARLINK: MID4271 3 -- not civil war link 
+CIVWARLINK-CER: MID4271 1 -- certain 
+CIVWARLINK-NOTES: MID4271 civil conflict is not present in any other countries involved in this MID. 
+
+COUPMID: MID4271 3 -- not coup 
+COUPMID-CER: MID4271 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4271 3 -- not coup link
+COUPLINK-CER: MID4271 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273 
+
+TERRMID: MID4273 3 -- not territory 
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: MID4273 from cm narrative, this is a multilateral MID connected to enforcement of Iraq's nonproliferation obligations. Iraq blocked UN access to a presidential site and announced it would no longer accept US personnel in UNSCOM inspections, and that surveillance flights would possibly be fired upon. In November 1997, Iraq kicked all weapons inspectors out of Iraq. The US launched missile strikes in response. Coded not territory because the countries did not contest the boundary, and this was about nonproliferation enforcement. 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 3 -- not civil war 
+CIVWARMID-CER: MID4273 1 -- certain 
+CIVWARMID-NOTES: MID4273 there was a no fly zone being enforced at the time of this MID, but the events of this MID were not connected to that no fly zone. The no fly zone was in place to prevent Saddam Hussein from attacking rebels. 
+
+CIVWARLINK: MID4273 3 -- not civil war link 
+CIVWARLINK-CER: MID4273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4273
+rivalry=2645 nationa=USA nationb=IRAQ MID4273 19971007-20030502 
+ revtype1a=POLICY revtype2a=REGIME/GOVERNMENT fatala=101-250 DEATHS fatalpa=140 lhosta=WAR 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=. lhostb=WAR
+
+Over the course of 2002, US and UK planes bombed various Iraqi defense systems placed either in or near the US-imposed no-fly zones. During this time Iraq deployed ground forces to its border towns in a preemptive move against future US aggression. Beginning in March 2003, the US began deploying additional land, naval, and air forces to the the Middle East in a clear show of force and build-up to a future invasion of Iraq. In March 2003, just prior to the US-led invasion, several Middle Eastern countries deployed small numbers of troops to Kuwait in a symbolic show of defense for the neighbor of Iraq, which had been the historical target of Iraqi aggression. Later in March 2003, a US-led coalition, seeking to oust the regime of Saddam Hussein and dismantle alleged Iraqi weapons of mass destruction, invaded Iraq and engaged in major combat operations, ultimately resulting in war, against the country that lasted until May 1, 2003. First day of dispute is listed on 10/07/1997 and the last day is listed on 5/2/2003.
+
+MID3 1993-2001:
+
+MID3552
+rivalry=2645 nationa=USA nationb=IRAQ MID3552 19920727 -19931223 revtype1a=NOT APPLICABLE revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 7/27/1992 and last day of dispute was on 12/23/1993.
+
+MID3568
+rivalry=2645 nationa=IRAQ nationb=USA MID3568 19930111 -19930120 revtype1a=TERRITORY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=THREAT TO USE FORCE 
+
+MID3568 has three new participants: the United States, United Kingdom, and France. Deleted Dispute. First day of dispute was on 1/11/1993 and last day of dispute was on 1/20/1993.
+REFERENCE TO DISPUTE DELETED BY COW IS UNCLEAR Ð MID STILL EXISTS WITH ALL COUNTRIES LISTED AND INCLUDING KUWAIT
+
+MID4299
+rivalry=2645 nationa=USA nationb=IRAQ MID4299 19930626 -19930628 revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+NO MILITARIZED ACTION 
+
+The FBI determined that the Iraqi government undertook a plot (that failed) to assassinate former President Bush when he visited Kuwait in mid-April, 1993. The Clinton administration retaliated by launching a cruise missile strike against an Iraqi intelligence facility in downtown Baghdad. The US then warned Iraq not to retaliate against the attack. Coded: Ric Stoll. Date: 7/29/02. First day of dispute was on 6/26/1993 and last day of dispute was on 6/28/1993.
+
+MID4269
+rivalry=2645 nationa=USA nationb=IRAQ MID4269 19940802 -19951009 revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=TERRITORY revtype2b=POLICY fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+As was the case on several occasions after the end of the Gulf War, Iraq sent troops and/or took other hostile actions directed at Kuwait. During this dispute, sources say Iraq moved 50,000 or more troops close to the Kuwaiti border. Iraqi actions provoked a number of responses from members of the Gulf War coalition both to reinforce the border, and to signal Iraq that its action would not be tolerated. Coder: Ric Stoll. Date: 8/2/02. First day of dispute was on 8/2/1994 and last day of dispute was on 10/9/1995.
+
+MID4270
+rivalry=2645 nationa=USA nationb=IRAQ MID4270 19941201 -19941201 revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The United States Navy boarded two Iraqi boats in the Persian Gulf. The Iraqi boats, suspected of trying to violate UN-imposed trade embargos, refused to be boarded and Navy commandos and Marines took the boats by force. After it was determined that the boats were not operating in violation of any UN sanctions they were released. First and last day of dispute was on 12/1/1994.
+
+MID4271
+rivalry=2645 nationa=USA nationb=IRAQ MID4271 19960830 -19961104 revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=USE OF FORCE
+ 
+
+The dispute began when Iraq amassed 30,000 to 40,000 troops a few miles south of Erbil, a village outside the Kurdish zone in northern Iraq. The Iraqi troops appeared to be supported by artillery, surface-to-air missiles, and other armored vehicles. Iraq moved into the northern flight exclusion zone in order to aid their Kurdish allies in attacking a rival Kurdish faction. The United States responded by putting its forces in the region on a heightened state of readiness. A few days later, Kuwait put its forces on alert, fearing an Iraqi attack. The United States launched several attacks on Iraqi military sites in the southern no-flight zone and increased its presence in the region. Over the following weeks, the United States and Iraq engaged in frequent clashes in the flight exclusion zones, while American planes patrolled these areas. On one occasion, British planes, which routinely participated in patrolling the flight exclusion zones, were involved with American planes in an attack on an Iraqi anti-aircraft battery. Iraq slowly withdrew its forces from the northern flight exclusion zone, largely in response to American pressure. Consequently, the dispute outcome was coded as a yield by Iraq. And, there were no formal or informal efforts to end the dispute. First day of dispute was on 8/30/1996 and last day of dispute was on 11/4/1996.
+
+MID4273
+rivalry=2645 nationa=USA nationb=IRAQ MID4273 19971007 -20030502 revtype1a=POLICY revtype2a=REGIME/GOVERNMENT fatala=101-250 DEATHS fatalpa=140 lhosta=WAR revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=. lhostb=WAR
+ 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First day of dispute was on 10/7/1997 and last day of dispute was on 5/2/2003.
+
+NARRATIVE-CM:
+The Soviet Union condemned the US for bombing attacks against Iraqi sites in northern and southern Iraq on October 1, 1999. US military aircraft attacked anti-aircraft artillery near an-Najaf in southern Iraq on November 22, 1999. US military aircraft attacked an air-defense system near Mosul in northern Iraq on November 25, 1999. US military aircraft attacked anti-aircraft artillery near Bashiqah in northern Iraq on November 28, 1999. US military aircraft attacked an air-defense system near Bashiqah on February 3, 2000. US military aircraft attacked an air-defense system in northern Iraq on March 29, 2000. US military aircraft attacked military targets in southern Iraq on April 4, 2000, resulting in the deaths of two civilians. US military aircraft attacked an air-defense system in the northern Iraq on April 5, 2000. US military aircraft attacked military targets in southern Iraq on April 6, 2000, resulting in the deaths of 14 civilians. France condemned the US attacks against Iraq on April 7, 2000. US military aircraft attacked an air-defense system in northern Iraq on April 9, 2000. US military aircraft attacked targets in northern Iraq on May 9-12, 2000. US military aircraft attacked military targets in northern and southern Iraq on May 22, 2000. US military aircraft attacked military targets in northern Iraq on May 29-31, 2000, resulting in the deaths of two individuals. US military aircraft attacked military targets in southern Iraq on June 29, 2000, resulting in the death of one civilian. US military aircraft attacked military targets in Iraq on August 11-17, 2000, resulting in the deaths of two civilians. Esmat Abdel-Meguid, secretary-general of the *League of Arab States* (LAS), condemned the U.S. and Britain for attacks against Iraq on October 30, 2000. Some 311 individuals were killed in US and British attacks against Iraq between December 17, 1998 and October 2000. US military aircraft attacked military targets near Baghdad on February 16, 2001, resulting in the deaths of two civilians. Algeria and Egypt condemned the US on February 17, 2001, and Iran condemned the US on February 19, 2001. US military aircraft attacked air defense systems in the northern no-fly zone on February 22, 2001.
+
+SOURCES-CM: 
+*Associated Press *(AP), November 22, 1999, November 25, 1999, November 28, 1999, February 3, 2000, March 29, 2000, April 5, 2000, April 6, 2000, April 7, 2000, April 9, 2000, May 12, 2000, May 22, 2000, May 31, 2000, June 29, 2000, August 15, 2000, August 17, 2000, February 22, 2001; *Reuters*, October 1, 1999, November 28, 1999, April 20, 2000, May 11, 2000, May 29, 2000, May 31, 2000, August 12, 2000, August 17, 2000, October 30, 2000, February 17, 2001, February 19, 2001.
+
+NARRATIVE-CR:
+There are two incidents of conflict between the US and Iraq that precede the rivalry. The first occurs in 1958-the US intervention in Lebanon-and the second is the Iraqi and US assistance in the Jordanian civil war/unrest from 1968-1970. 
+
+MID125 occurred in 1958. It is a multilateral mid involving the US and the UK v. the USSR, Iraq, and Egypt. Lebanon was in a civil war at the time. The state of turmoil increased when, in the early hours of July 14, 1958, a revolution overthrew the monarchy in Iraq and the entire royal family was killed. The revolution was received warmly in Lebanon in areas where the population was against the government of Shamun. Radio stations announced that the Shamun regime would be next. Shamun, realizing the gravity of his situation, summoned the ambassadors of the United States, Britain, and France on the morning of July 14. He requested immediate assistance, insisting that the independence of Lebanon was in jeopardy. The US and the UK landed troops in Lebanon in support of the Shamun regime. 
+
+MID1039 occurred from June through September of 1970. This is another multilateral mid in which the US and Iraq were not the principal combatants. The 1967 defeat radicalized the Palestinians, who had looked to the Arab countries to defeat the Israelis. The PLO had no role in the June 1967 War. After the succession of Arab failures in conventional warfare against Israel, however, the Palestinians decided to adopt guerrilla warfare tactics as the most effective method of attacking and defeating Israel. In February 1969, Arafat became head of the PLO. By early 1970, at least seven guerrilla organizations were identified in Jordan. At first by conviction and then by political necessity, Hussein sought accommodation with the fedayeen and provided training sites and assistance. In Jordan's internal politics, however, the main issue between 1967 and 1971 was the struggle between the government and the guerrilla organizations for political control of the country. Based in the refugee camps, the fedayeen virtually developed a state within a state, easily obtaining funds and arms from both the Arab states and Eastern Europe and openly flouting Jordanian law. In 1970, Iraq had stationed a 12,000 man force in Jordan and provided support to the fedayeen. During this mid there was a brief civil war in the country and the United States provided support to King Hussein. 
+
+The actual rivalry between the US and Iraq is primarily a product of the Gulf War and its aftermath. There are two mids that preceed the Gulf War that are related to the Iran Iraq War. Here the Iraqi government hits one US war ship and nearly hits another with missiles from their war planes. The remaining nine mids begin with the Gulf War and follow with mids all related to moves by Iraq to loosen sanctions and efforts by the US and the UK to ensure their continued pressure. A principle objective of the post war sanctions and a US concern is the question of whether weapons of mass destruction are present in Iraq. 
+
+MID2739 occurred in May of 1987. This is the USS Stark incident. The USS Stark was on patrol in the Persian Gulf. The frigate was hit by missiles from Iraqi Air Force jets. The Iraqis claimed that the incident was a mistake. This incident occurred in the midst of the Iran-Iraq War. During the war, especially after 1984, there were numerous attacks on third parties in the Persian Gulf. This was called the Tanker War and the Iraqis claimed that they mistook the frigate for an oil asset and targeted it as part of the Tanker War by mistake. 
+
+MID2774 occurred on February 12, 1988. This mid is very similar to the USS Stark incident above. In this mid the Iraqi Air Force fired a missile at the USS Chandler, a US warship on patrol in the Persian Gulf. In this incident, however, the missile veered away from the ship and exploded over the horizon. The US ship had gone to battle stations and was prepared to fire on the incoming missile and the Iraqi war planes when the missile averted. The Iraqis claimed that this was also a mistake as in the USS Stark incident. 
+
+The next mid is the most serious between the two countries and is perhaps the actual start of the rivalry. MID3957 is the Persian Gulf War. This mid is the first mid in which both countries are clearly opposed to one another in violent conflict. The Gulf War was a conflict between Iraq and a coalition force of 34 nations led by the United States. The result was a decisive victory of the coalition forces, which were able to drive Iraqi forces out of Kuwait fairly quickly and with minimal coalition deaths. The main battles were aerial and ground combat within Iraq, Kuwait, and bordering areas of Saudi Arabia. 
+
+MID3974 occurred from March until December of 1991. This mid is called the Iraqi No-fly-zone Violations and includes the US, the UK, and France v. Iraq. As the name implies this mid involved patrol of areas in the north and south of Iraq as Hussein attempted to put down rebellion of Shiites in the south and Kurds in the north after Bush called for revolt within the country. During this period the Iraqi military engaged with and fired on US war planes patrolling the no fly zones as a violation of their sovereignty. 
+
+MID3552 is another multilateral mid that occurred from July of 1992 until the close of 1993. This mid included Iraq versus the US, the UK, France, Kuwait, Saudi Arabia, and Russia. There were a number of incidents in this mid. In July Iraq refused to allow UN inspectors to various sites in Iraq. In August, a no fly zone was established in the south of the country. In January of 1993, Iraq announced that it could not guarantee the safety of UN war planes patrolling the no fly zones. The US, UK, and France conducted air raids on Iraqi anti-aircraft missile sites in southern Iraq, at an industrial complex in Baghdad and in northern Iraq. In June, of 1993, Iraq refused UN access at a weapons plant. In June, the US launched a cruise missile attack at Iraqi intelligence headquarters in retaliation for an assassination attempt at former President Bush in Kuwait. 
+
+MID3568 is another multilateral mid that occurred from August of 1992 until January of 1994. This mid involved Iraq versus Kuwait, France, the UK, and the US. In this mid, Iraq's principal adversary is Kuwait. This mid covers a period of lingering hostility towards Kuwait. Sadaam Hussein made a speech in Baghdad in which he threatens the Kuwaiti royal family. The Iraqis had established police posts inside the Kuwaiti border and Kuwait wanted them removed. Iraq did not remove them immediately after the Gulf War. In November of 1993, Iraq and Kuwait exchanged fire in Abdali a city that straddles the border. The border between the two countries is in dispute and in the aftermath of the Gulf War this region was a point of contention as several Iraqis were forced to vacate their farms. 
+
+MID4299 is the US response to the Iraqi assassination plot against former President Bush. Bush visited Kuwait in April of 1993. The Kuwaiti intelligence services reported the plot to the Americans who were initially skeptical. After investigating the incident the Americans became convinced of the plot. Clinton ordered retaliation and attacked Baghdad intelligence headquarters with cruise missiles killing many. 
+
+MID4269 is another multilateral mid involving Iraq versus Bahrein, France, Kuwait, Oman, the UAE, the UK, and the US. This mid occurred from August of 1994 until October of 1995. In October of 1994, Iraq threatened to cease cooperation with UNSCOM and the IAEA. Iraq then moved troops towards Kuwaiti the border. The US and the other participants in the mid began to buildup forces in the region. The US and the UK issue demand to reduce military capabilities south of 32nd parallel, they establish a no-drive zone. In June and July of 1995, Iraq threatened to halt cooperation with UN by August if an upcoming UNSCOM report is unfavorable. Iraq admitted for the first time the existence of offensive biological weapons program. 
+
+MID4270 is a bilateral mid occurring in early December of 1994. Here the United States was enforcing a UN trade embargo imposed on Iraq as part of the sanctions that were placed on Iraq in the aftermath of the Gulf War. A marine detachment forcibly boarded two Iraqi vessels in the Persian Gulf to ascertain whether they were transporting banned cargo which included oil. The marines determined that the ships were not violating the UN sanctions and permitted the vessels to proceed. This action infuriated the Iraqis and the Iraqi government lodged protests. 
+
+MID4271 is a multilateral mid occurring from August through November of 1996. This mid included Iraq versus Kuwait, the UK, and the US. The US and UK expanded the southern no-fly zone to the 33rd parallel and struck targets in response to Iraq's 31 August move into Kurdish-held territory. Iraq refused to allow UNSCOM removal of missile remnants. 
+
+MID4273 is another multilateral mid involving many countries including the US and Iraq. In October of 1997 Iraq blocked UN access to a presidential site and stated that it would no longer accept US personnel in UNSCOM and demanded that U-2 flights end. Iraq warned that UNSCOM U-2 missions would fly "at their own risk.' In November of 1997, Iraq demanded that all US inspectors leave within 24 hours. In October of 1998 Saddam ended all cooperation with UNSCOM. In December of 1998, United States military forces launched cruise missile attacks against military targets in Iraq. These strikes were ordered by Clinton and were undertaken in response to Iraq's failure to comply with United Nations Security Council resolutions as well as their interference with United Nations Special Commission (UNSCOM) inspectors. The strikes were intended to seriously damage Saddam Hussein's capability to manufacture, store, maintain and deliver weapons of mass destruction and his ability to threaten or otherwise intimidate his neighbors. Subsequent to the attacks, Iraq declares that UNSCOM will never be allowed back in Iraq. 
+
+SOURCES-CR:
+FAS.org; OnWar.com; New York Times; US State Department, 2003; 
+
+19321003-19670610 .50 
+
+Prior to World War II, the United States paid very little attention to Iraq, viewing it as under the domain of Britain. After World War II, the importance of Iraq as a strategic source of oil and the Middle East in general as an important part of the Cold War struggle became more evident to US policymakers. On July 14, 1958, the `Free Officers' overthrew the monarchy in Iraq and their leaders, Brigadier Abdel Karim Qasim became the new President of Iraq. Qasim subsequently declared Iraq neutral in the Cold War, shut down British military bases and expelled many western companies. British and US official, fearing the loss of influence and access to oil in Iraq, conspired over the next few years to remove Qasim from office. These plans finally succeeded in February of 1961 when a small group of military units, with the help of the Baathis and the United States, rose up, capturing and executing Qasim. Although the US and Iraq immediately began negotiations for closer economic ties, the stability was short lived. Baath Party members quickly began fighting over both domestic and foreign policy, allowing President Adb al-Salam Aref to remove the Baath leaders from power and consolidate his own control over the country. Abd al-Salam Aref began reversing the pro-U.S. policies, nationalizing companies and offering oil and sulfer contracts to French and USSR companies. Abd al-Salam Aref was killed in a helicopter crash in April of 1966 and replaced by his brother Abd al-Rahman Aref. 
+
+19670611-19841101 .25
+
+US-Iraq diplomatic relations were severed in 1967 as a result of the Six Day War. After a humiliating defeat in the Six day war, where Iraqi troops never left Jordan, Abd al-Salam Aref was overthrown on July 17, 1968. The US is believed to have assisted in plotting the coup. The Baath Party installed General Ahmed Hasan al-Bakr as the new President and quickly consolidated power. Saddam Hussein emerged at this same time as a powerful force in the Baath Party. By 1972, Iraqi leaders nationalized the British owned Iraqi Petroleum Company and signed a fifteen year treat of `friendship and cooperation' with the Soviet Union. Thus, in the early 1970s the United States began to view Iraq as a Soviet satellite state. This led the US to assist the Kurds in the north of Iraq in their battle against the Iraqi government. The U.S. was also aligned with Iran and encouraged Iran to assert leadership in the region. 
+
+During this time, Iraq set out to modernize its army, seeking major arms deals with the Soviet Union and, increasingly, the French. Iraq also began seeking chemical weapons capabilities during the mid-to late 1970s. After being turned down by suspicious companies in the Soviet Union, the United States, and Britain, the Iraq government eventually built its first Chemical plant with the help of East Germany. During the 1970s, Iraq walked a fine line of alignment between the Soviet Union and the West. Iraq modernized its military by buying advanced weapons from both the Soviet Union and France. By the mid-1970s Iraq had also signing weapons and base-building contracts with Britain, Italy, and Brazil. 
+
+In 1976, Saddam Hussein, who was essentially running the country, announced that Iraq's foreign policy would no longer be aligned with the Soviet Union, forced the Soviets to move their embassy further away from the Iraqi presidential palace, and repressed the Iraqi Communist Party. By the late 1970s, President Bakr's health was failing. In July of 1979, Saddam Hussein forced Bakr to resign and seized official control of the country. There are reports that the United States supported Saddam Hussein's seizure of power as a means of blocking a union between Syria and Iraq, supported by President Bakr but opposed by Hussein. 
+
+Two events in this time period change relations between the United States in Iraq. First, the revolution in Iran in 1979 brought the Ayatollah Ruhollah Khomeini to power. With the fall of the Shah in Iran, the United States lost a major ally in the region. Second, the Soviet invasion of Afghanistan brought worries of Soviet influence the Middle East and concerns over access to oil. Saddam, concerned that the revolution in Iran posed a threat to his own hold own power, saw this as an opportunity to align with the United States. Saddam began backing off of his anti-western pronouncements and spoke out against the Soviet invasion. He also signed an alliance with the Saudi Arabia, already a strong ally of the United States. The United States, lacking formal diplomatic relations with Iraq since the Arab-Israeli Six-Day War in 1967, began to rethink relations with Iraq. The US is also said to have encouraged Iraq to invade Iran by providing intelligence that suggested turmoil in Iran and strong domestic opposition to Khomeini's rule. 
+
+In September and October of 1980, Iraq began the invasion of Iran. Although *officially* neutral, the US implicitly, if not explicitly, supported the sale of U.S. made weapons by Israel to Iran. And, when it became clear that Iraq was struggling in the war, there was pressure in the US government to begin assisting Saddam Hussein. In 1981, Egypt began selling stockpiles of Soviet weapons to Iraq with US approval. By 1982, the US was assisting other countries in selling arms to Iraq, despite sanctions against selling arms to either country (Iraq and Iran), and also began providing intelligence on Iranian troop movements.
+
+On December 20, 1983, Donald Rumsfeld, former Secretary of Defense for US President Gerald Ford and now in private industry, flew to Baghdad on behalf of the Reagan Administration. Rumsfeld brought a note from President Ronald Reagan offering to restore diplomatic relations and increase both commercial and military ties between the two countries. 
+
+19841102-19870516 .50
+
+On March 3, 1984 the United States prevented shipment from a US company phosphorous fluoride and publically condemned Iraq's use of chemical weapons on the battle field against Iran. The condemnation did not have a real negative effect on the emerging relations between Iraq and the US. Rumsfeld made a second trip to Baghdad shortly after the announcement offering even more support to the Iraqi government. And, in November 1984, Iraq and the US restored formal diplomatic relations. In May 1985 the US-Iraq Business Forum was established to increase commercial relations. 
+
+By 1987 the US had moved naval forces into the Gulf region. Iraq was attacking tankers in the Gulf, attempting to hurt Iran economically. This led Kuwait to request protection and, rather than have Kuwait turn to the Soviet Union, the US moved in naval forces. This action leads directly to MID2739 and MID2774, the first two disputes of Riv89. MID2739 and MID2774, in 1987 and 1988 respectively, both involve incidents where the Iraqi air force accidentally fired missiles at US naval vessels in the Gulf. These disputes mark the beginning of Riv89. 
+
+In sum, prior to World War II, the US and Iraq had very little interaction. After World War II, interactions increased as the US viewed the Middle East as key for oil and strategic concerns because of the Cold War. Relations during this time period are coded as negative peace (.50). The severing of diplomatic relations in 1967, followed by MID1039 in 1970, increases the hostility between these two nations to that of low-level conflict (.75). During the early 1970s, the US began to view Iraq as a satellite of the Soviet Union and spent much of the 1970s trying to influence domestic instability in Iraq. It is not until the early 1980s that relations between the countries begin to significantly warm. After diplomatic relations are restored in 1984, the hostility level is downgraded to negative peace (.50). Riv89 begins in 1987.
+
+20030320-20159999 0.5
+
+On March 20, 2003 the United States invaded Iraq and on May 1, 2003 victory was declared by US President George W. Bush. The end of the war in May 2003, although representing the beginning of a long occupation (still ongoing as of 2008), does signify the end of RIV89. The two states are now in a transition period, as there is much uncertainty regarding the length of the occupation and what relations will be like once the occupation has ended.
+
+PS-SOURCES: Lando 2007; New York Times; US State Department
+
+MARITIME-MIDS: 
+
+MID2739 MID2774 MID4270 not considered maritime MIDs 
+
+MARITIME-DISPUTE: MID2739
+ DYAD: USA IRAQ 2645
+ DATES: 19870517 19870518
+ HOSTILITYA: 3 FATALITYA: 2
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+By 1987 the US had moved naval forces into the Gulf region. Iraq was attacking tankers in the Gulf, attempting to hurt Iran economically. This led Kuwait to request protection and, rather than have Kuwait turn to the Soviet Union, the US moved in naval forces. This action leads directly to MID2739 and MID2774. MID2739 and MID2774, in 1987 and 1988 respectively, both involve incidents where the Iraqi air force accidentally fired missiles at US naval vessels in the Gulf.
+
+MARITIME-DISPUTE: MID2774
+ DYAD: USA IRAQ 2645
+ DATES: 19880212 19880212
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2774 occurred on February 12, 1988. This mid is very similar to the USS Stark incident above. In this mid the Iraqi Air Force fired a missile at the USS Chandler, a US warship on patrol in the Persian Gulf. In this incident, however, the missile veered away from the ship and exploded over the horizon. The US ship had gone to battle stations and was prepared to fire on the incoming missile and the Iraqi war planes when the missile averted. The Iraqis claimed that this was also a mistake as in the USS Stark incident.
+
+By 1987 the US had moved naval forces into the Gulf region. Iraq was attacking tankers in the Gulf, attempting to hurt Iran economically. This led Kuwait to request protection and, rather than have Kuwait turn to the Soviet Union, the US moved in naval forces. This action leads directly to MID2739 and MID2774. MID2739 and MID2774, in 1987 and 1988 respectively, both involve incidents where the Iraqi air force accidentally fired missiles at US naval vessels in the Gulf.
+
+MARITIME-DISPUTE: MID4270
+ DYAD: USA IRAQ 2645
+ DATES: 19941201 19941201
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4270 is a bilateral mid occurring in early December of 1994. Here the United States was enforcing a UN trade embargo imposed on Iraq as part of the sanctions that were placed on Iraq in the aftermath of the Gulf War. A marine detachment forcibly boarded two Iraqi vessels in the Persian Gulf to ascertain whether they were transporting banned cargo which included oil. The marines determined that the ships were not violating the UN sanctions and permitted the vessels to proceed. This action infuriated the Iraqis and the Iraqi government lodged protests. 
+
+MID4270 The United States Navy boarded two Iraqi boats in the Persian Gulf. The Iraqi boats, suspected of trying to violate UN-imposed trade embargos, refused to be boarded and Navy commandos and Marines took the boats by force. After it was determined that the boats were not operating in violation of any UN sanctions they were released.

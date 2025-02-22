@@ -1,0 +1,530 @@
+FILE: cm710732v11.0.txt
+DYAD: CHINA-S. KOREA
+RIVALRY: RIV1295
+DISPUTE(S): MID51 MID50 MID3213 MID1710 MID611 MID2920 MID2956 MID2550 MID2315 MID4065 
+
+RIVNOTES: 
+
+PS: 19490629-19941031 0.00 19941101-20001017 -9 20001018-20209999 0.5
+
+PS-UPDATE2020: "The change in the relationship from 2015 to 2016 was as drastic as it was frustrating, especially for Seoul. In 2015, South Korea joined the AIIB but decided not to join the Trans-Pacific Partnership;50 a bilateral free trade agreement with China entered into effect in December. However, when North Korea conducted its fourth nuclear test in January 2016, Park Geun-hye could not even talk to Xi Jinping for a month, which confirmed that there was little change in China’s strategic calculations toward North Korea." (https://www.rand.org/pubs/perspectives/PEA524-1.html)
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220324
+PS-LAST-CHECKED: 20220324
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 narrative, this MID is the Korean War. The US and UN forces fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and NATO's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this multilateral MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and South Korea did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because South Korea and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 1 -- civil war MID
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES: MID51 coded civil war MID because the Korean War had a civil war element, and South Korea is within this dyad. 
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because North Korea is outside of this dyad and involved in a civil war in this MID. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES:
+
+MID50 
+
+TERRMID: MID50 3 -- not territory
+TERRMID-CER: MID50 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID50 1 -- third party link to territory 
+TERRLINK-CER: MID50 3 -- uncertain 
+TERRLINK-NOTES: MID50 from Gibler 2018, in 1953-1956 Taiwanese troops attempted to reclaim mainland China. Taiwan invaded with the support of the US and large-scale fighting occurred. Coded third party link to territorial MID because this was connected to a territorial dispute between China and Taiwan. Coded uncertain because Gibler 2018 does not consider South Korea a party to this dispute. 
+
+MARITMID: MID50 3 -- not maritime
+MARITMID-CER: MID50 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID50 3 -- not islands 
+ISLMID-CER: MID50 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID50 1 -- civil war 
+CIVWARMID-CER: MID50 3 -- uncertain 
+CIVWARMID-NOTES: MID50 Coded civil war MID because the China-Taiwan dispute has a civil war element, and China is within this dyad. Coded uncertain because Gibler 2018 does not consider South Korea a party to this dispute. 
+
+CIVWARLINK: MID50 1 -- civil war link 
+CIVWARLINK-CER: MID50 3 -- uncertain 
+CIVWARLINK-NOTES: MID50 Coded civil war link because the China-Taiwan dispute has a civil war element, and Taiwan is outside this dyad. Coded uncertain because Gibler 2018 does not consider South Korea a party to this dispute. 
+
+COUPMID: MID50 3 -- not coup 
+COUPMID-CER: MID50 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID50 3 -- not coup link
+COUPLINK-CER: MID50 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3213 
+
+TERRMID: MID3213 3 -- not territory 
+TERRMID-CER: MID3213 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3213 3 -- not third party link to territory 
+TERRLINK-CER: MID3213 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3213 3 -- not maritime 
+MARITMID-CER: MID3213 1 -- certain 
+MARITMID-NOTES: MID3213 from Gibler 2018, in 1955 South Korea accused China of violating their territorial waters as Chinese gunboats clashed with the South Korean coast guard. China claimed the South Koreans had captured Chinese fishermen. Coded not maritime because they were not disputing a maritime boundary. 
+
+ISLMID: MID3213 3 -- not islands 
+ISLMID-CER: MID3213 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3213 3 -- not civil war 
+CIVWARMID-CER: MID3213 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3213 3 -- not civil war link 
+CIVWARLINK-CER: MID3213 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3213 3 -- not coup 
+COUPMID-CER: MID3213 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3213 3 -- not coup link
+COUPLINK-CER: MID3213 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1710 
+
+TERRMID: MID1710 3 -- not territory 
+TERRMID-CER: MID1710 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1710 3 -- not third party link to territory 
+TERRLINK-CER: MID1710 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1710 3 -- not maritime 
+MARITMID-CER: MID1710 2 -- somewhat uncertain 
+MARITMID-NOTES: MID1710 from Gibler 2018, in 1960 several Chinese ships fired on a South Korean coast guard ship. Coded not maritime because they were not disputing a maritime border. There is no reason for the attack given in cm narrative, Gibler 2018, or news coverage of this MID; therefore, raised uncertainty to somewhat. 
+
+ISLMID: MID1710 3 -- not islands 
+ISLMID-CER: MID1710 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1710 3 -- not civil war 
+CIVWARMID-CER: MID1710 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1710 3 -- not civil war link 
+CIVWARLINK-CER: MID1710 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1710 3 -- not coup 
+COUPMID-CER: MID1710 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1710 3 -- not coup link
+COUPLINK-CER: MID1710 1 -- certain 
+COUPLINK-NOTES: 
+
+MID611 
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 from Gibler 2018, this is the Vietnam War. North and South Vietnam fought a war for control of all of Vietnam. South Vietnam was supported by the US, South Korea, Thailand, Cambodia, Philippines, Australia, and New Zealand. North Vietnam was supported by USSR and China. Coded third party link to territorial MID because the Vietnam War had a territorial dispute element, since both North and South Vietnam claimed each other's territory. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 3 -- not civil war 
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 coded civil war MID because the Vietnam War had a civil war element, and both North and South Vietnam are outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2920 
+
+TERRMID: MID2920 3 -- not territory 
+TERRMID-CER: MID2920 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2920 3 -- not third party link to territory 
+TERRLINK-CER: MID2920 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2920 3 -- not maritime 
+MARITMID-CER: MID2920 2 -- somewhat uncertain 
+MARITMID-NOTES: MID2920 from cm narrative and Gibler 2018, in 1966 China seized a South Korean vessel. It is unclear why the seizure occurred. Coded not maritime because China and South Korea did not have a maritime dispute. Coded somewhat uncertain because it is unclear why the seizure occurs.
+
+ISLMID: MID2920 3 -- not islands 
+ISLMID-CER: MID2920 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2920 3 -- not civil war 
+CIVWARMID-CER: MID2920 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2920 3 -- not civil war link 
+CIVWARLINK-CER: MID2920 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2920 3 -- not coup 
+COUPMID-CER: MID2920 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2920 3 -- not coup link
+COUPLINK-CER: MID2920 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2956 
+
+TERRMID: MID2956 3 -- not territory 
+TERRMID-CER: MID2956 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2956 3 -- not third party link to territory 
+TERRLINK-CER: MID2956 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2956 3 -- not maritime 
+MARITMID-CER: MID2956 1 -- certain 
+MARITMID-NOTES: MID2956 from Gibler 2018, in 1976 China seized South Korean fishing vessels, claiming they were in China's territorial waters. China later released the vessels. Coded not maritime because the states did not have a maritime boundary dispute. 
+
+ISLMID: MID2956 3 -- not islands 
+ISLMID-CER: MID2956 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2956 3 -- not civil war 
+CIVWARMID-CER: MID2956 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2956 3 -- not civil war link 
+CIVWARLINK-CER: MID2956 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2956 3 -- not coup 
+COUPMID-CER: MID2956 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2956 3 -- not coup link
+COUPLINK-CER: MID2956 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2550 
+
+TERRMID: MID2550 3 -- not territory 
+TERRMID-CER: MID2550 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2550 3 -- not third party link to territory 
+TERRLINK-CER: MID2550 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2550 3 -- not maritime 
+MARITMID-CER: MID2550 1 -- certain 
+MARITMID-NOTES: MID2550 from Gibler 2018, in 1985 South Korea found a broken down Chinese torpedo in its waters and towed it to a Japanese port. China pursued for a brief period, but eventually turned away. South Korea later released the vessel. Coded not maritime because they were not disputing a maritime boundary. 
+
+ISLMID: MID2550 3 -- not islands 
+ISLMID-CER: MID2550 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2550 3 -- not civil war 
+CIVWARMID-CER: MID2550 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2550 3 -- not civil war link 
+CIVWARLINK-CER: MID2550 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2550 3 -- not coup 
+COUPMID-CER: MID2550 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2550 3 -- not coup link
+COUPLINK-CER: MID2550 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2315 
+
+TERRMID: MID2315 3 -- not territory 
+TERRMID-CER: MID2315 1 -- certain 
+TERRMID-NOTES: MID2315 from Gibler 2018, in 1986 a Chinese pilot decided to defect and got his plane intentionally grounded by South Korea in order to do so. Coded not territory because this was connected to a Chinese defector (Cold War politics). 
+
+TERRLINK: MID2315 3 -- not third party link to territory 
+TERRLINK-CER: MID2315 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2315 3 -- not maritime 
+MARITMID-CER: MID2315 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2315 3 -- not islands 
+ISLMID-CER: MID2315 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2315 3 -- not civil war 
+CIVWARMID-CER: MID2315 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2315 3 -- not civil war link 
+CIVWARLINK-CER: MID2315 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2315 3 -- not coup 
+COUPMID-CER: MID2315 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2315 3 -- not coup link
+COUPLINK-CER: MID2315 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4065 
+
+TERRMID: MID4065 3 -- not territory 
+TERRMID-CER: MID4065 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4065 1 -- third party link to territorial MID
+TERRLINK-CER: MID4065 1 -- certain 
+TERRLINK-NOTES: MID4065 from Gibler 2018, in 1994 China began military exercises directed at South Korea and the US, and threatened to attack if either the US or South Korea invaded North Korea. China supported North Korea in the North/South Korea dispute, while the US supported South Korea. Coded third party link to territorial MID because this was connected to the Korea dispute, a territorial dispute. 
+
+MARITMID: MID4065 3 -- not maritime 
+MARITMID-CER: MID4065 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4065 3 -- not islands 
+ISLMID-CER: MID4065 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4065 1 -- civil war MID
+CIVWARMID-CER: MID4065 1 -- certain 
+CIVWARMID-NOTES: MID4065 this MID was connected to the Korean peninsula dispute between North and South Korea, and this dispute had a civil war element. South Korea is within this dyad. 
+
+CIVWARLINK: MID4065 1 -- civil war link 
+CIVWARLINK-CER: MID4065 1 -- certain 
+CIVWARLINK-NOTES: MID4065 this MID was connected to the Korean peninsula dispute between North and South Korea, and this dispute had a civil war element. North Korea is outside this dyad. 
+
+COUPMID: MID4065 3 -- not coup 
+COUPMID-CER: MID4065 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4065 3 -- not coup link
+COUPLINK-CER: MID4065 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4447 
+
+TERRMID: MID4447 3 -- not territory 
+TERRMID-CER: MID4447 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4447 3 -- not third party link to territory 
+TERRLINK-CER: MID4447 1 -- certain 
+TERRLINK-NOTES: MID4447 from Gibler 2018, in 2002 Chinese police entered a South Korean embassy and arrested North Korean defectors. Coded not third party link to territory because China was assisting North Korea in capturing defectors. This was not connected to the North/South Korea dispute. 
+
+MARITMID: MID4447 3 -- not maritime 
+MARITMID-CER: MID4447 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4447 3 -- not islands 
+ISLMID-CER: MID4447 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4447 3 -- not civil war 
+CIVWARMID-CER: MID4447 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4447 3 -- not civil war link 
+CIVWARLINK-CER: MID4447 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4447 3 -- not coup 
+COUPMID-CER: MID4447 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4447 3 -- not coup link
+COUPLINK-CER: MID4447 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4493 
+
+TERRMID: MID4493 3 -- not territory 
+TERRMID-CER: MID4493 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4493 3 -- not third party link to territory 
+TERRLINK-CER: MID4493 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4493 3 -- not maritime 
+MARITMID-CER: MID4493 1 -- certain 
+MARITMID-NOTES: MID4493 from cm narrative and Gibler 2018, in 2010 a South Korean vessel attempted to stop a Chinese fishing vessel that was illegally fishing in South Korea's waters. The Chinese fishing vessel rammed the Korean vessel, and the Koreans sank the fishing boat in response. Coded not maritime because this was connected to illegal fishing. They were not disputing a maritime boundary. 
+
+ISLMID: MID4493 3 -- not islands 
+ISLMID-CER: MID4493 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4493 3 -- not civil war 
+CIVWARMID-CER: MID4493 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4493 3 -- not civil war link 
+CIVWARLINK-CER: MID4493 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4493 3 -- not coup 
+COUPMID-CER: MID4493 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4493 3 -- not coup link
+COUPLINK-CER: MID4493 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4447
+rivalry=710732 nationa=CHINA nationb=S. KOREA MID4447 20020613-20020613 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Similar to MID4445, Chinese authorities forced their way into the South Korean embassy in Beijing in order to seize several North Koreans there seeking asylum. First day of dispute was on 6/13/2002 and last day of dispute was on 6/13/2002.
+
+MID4493
+rivalry=710732 nationa=S. KOREA nationb=CHINA MID4493 20101218-20101218 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+A South Korean patrol boat attempted to stop a Chinese fishing boat suspected of illegally fishing in Korean waters. The Chinese vessel rammed the Koreans, who then sunk the fishing boat in response, killing three of the fishermen. First day of dispute was on 12/18/2010 and last day of dispute was on 12/18/2010.
+
+MID3 1993-2001:
+
+MID4065
+rivalry=710732 nationa=CHINA nationb=S. KOREA MID4065 19940823-19941000 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute involves three incidents. The first two incidents involved Chinese military exercises that practiced landings on the Korean peninsula. The reports indicated that the exercises were "a show for the United States and South Korea." The exercises occurred on 8/23/94. The third incident occurred when China scrambled jets in response to the American tracking of a North Korean sub with sonar. In this respect, this dispute reflects Chinese efforts to demonstrate its resolve to aid North Korea in the event of conflict with the US and South Korea. First day of dispute was on 8/23/1994 and last day of dispute was on 10/00/1994.
+
+NARRATIVE-CM:
+Chinese troops intervened in support of North Korea in the *Korean War* on October 19, 1950, and Chinese troops crossed into South Korea on December 26, 1950. Chinese troops captured Seoul on January 4, 1951. The *United Nations* (UN) General Assembly demanded the withdrawal of Chinese troops from Korea on February 1, 1951. The countries agreed to a ceasefire on July 10, 1951.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 213-217.
+
+NARRATIVE-CR:
+
+MID51 is the Korean War and it lasted from June 26, 1950 to July 27, 1953. China and South Korea were on opposing sides of the war. 
+
+MID50 involved US, China, South Korea, Taiwan, and USSR from February 11, 1953 to January 19, 1956. South Korea participated in this MID for one day, on February 13, 1953. 
+
+MID3213 involved China and South Korea and was a one day incident on December 25, 1965. No more information was available on this MID.
+
+MID1710 was a one day event on January 10, 1960 involving only China and South Korea. No more information was available on this MID.
+
+MID611 is the Vietnam War that lasted from 1964 to 1975 and involved China and South Korea on opposing alliances.
+
+MID2920 was a one day event on January 22, 1966, involving only China and South Korea. No more information was available on this MID.
+
+MID2956 was a one day event on August 1, 1976, involving only China and South Korea. No more information was available on this MID.
+
+MID2550 was an event that occurred from March 22 to 27, 1985 and involved only China and South Korea. This incident involved the seizure of a Chinese torpedo boat by the South Korean navy. The Chinese boat drifted into South Korea's waters with six dead bodies on board. It appeared that a mutiny occurred on board. 10 or 11 crewmen wounded but not killed, were taken to a South Korean hospital.
+
+MID2315 occurred from October 26, 1986, to April 26, 1987 and involved only China and South Korea. China asked South Korea to return to China a pilot and the fighter jet he was flying over South Korea's air space. The pilot was escorted to an air base in South Korea. 
+
+MID4065 occurred from August 23, 1994 to October 1994. This dispute involves three incidents. The first two incidents involved Chinese military exercises that practiced landings on the Korean peninsula. The reports indicated that the exercises were "a show for the United States and South Korea." The exercises occurred on 8/23/94. The third incident occurred when China scrambled jets in response to the American tracking of a North Korean sub with sonar. In this respect, this dispute reflects Chinese efforts to demonstrate its resolve to aid North Korea in the event of conflict with the US and South Korea.
+
+Since the end of the Korean War, China has gradually improved its relations with South Korea while retaining ties to communist North Korea. Since the change towards economic reform in China in 1978, the Chinese government has pursued a deliberate policy of attempting to do business with South Korea without abandoning its ties to North Korea. China gave official support to efforts on the part of North and South Korea to improve bilateral relations in 1984-85. In 1986 Deng Xiaoping stated publicly that China would not support North Korean efforts to achieve reunification through the use of force. China agreed (over North Korean objections) to participate in the 1986 Asian Games and the 1988 Summer Olympic Games in Seoul, South Korea. China officially recognized South Korea in 1992 and accepted South Korean entry into the United Nations.
+
+China has tended to place relations with South Korea in the context of relations between China, the United States, and the two Koreas. Since 1982 China has attempted to facilitate relations between the four parties, notably in 1983 when China acted as an intermediary between the United States and North Korea in discussions aimed at replacing the temporary accords ending the Korean War with a permanent peace treaty. This intermediary role has been maintained to the present day with mixed results.
+
+SOURCES-CR:
+Harding, 35-36; Moon and Ko, 179-182; Yahuda, 210, 214
+
+PS-NARRATIVE: 
+
+19941101-20001017 Transition
+
+The two countries established diplomatic relations on August 24, 1992. The last MID of RIV1295, MID4065 ended in October 1994. This dispute involves three incidents. The first two incidents involved Chinese military exercises that practiced landings on the Korean peninsula. The reports indicated that the exercises were "a show for the United States and South Korea." The exercises occurred on 8/23/94. The third incident occurred when China scrambled jets in response to the American tracking of a North Korean sub with sonar. In this respect, this dispute reflects Chinese efforts to demonstrate its resolve to aid North Korea in the event of conflict with the US and South Korea. On July 7, 1995, South Korea looks to communist China as its possible key trading partner by the year 2000. Bilateral trade between the two neighbors has been flourishing since 1992 when the governments in Beijing and Seoul established full diplomatic relations. To be able to throw the door open to China's vast market, capitalist South Korea was forced to sever its ties with its former ally Taiwan three years ago. China and South Korea are now eyeing closer cooperation in the sectors of aerospace, nuclear energy and petrochemicals. South Korea's manufacturers of both cars and entertainment electronics likewise see bright prospects for business in China, and Seoul does not appear to care much that Beijing is the closest ally of its arch rival, Stalinist North Korea. The exchange of goods between South Korea and China was worth 11.66 billion dollars last year. This means that China is South Korea's third biggest trading partner after the U.S. and Japan. In the first five months of this year alone, trade between China and South Korea reached 5.71 billion dollars. The state-owned Korea Trade Promotion Corp. (KOTRA) predicted that the bilateral trade would increase to some 30 billion dollars in 1997, which is equivalent to the volume of South Korea's present trade with the European Union. KOTRA forecasts that China will advance to Seoul's number one trading partner in the year 2000, with bilateral trade reaching 56 billion dollars. South Korean investments in China total some 1.88 billion dollars annually, or 40.8 per cent of all South Korean investment overseas. The South Korean Daewoo Motor Co., for example, is engaged in negotiations with Chinese enterprises in Changchun on setting up a joint venture to manufacture vehicles. The Tianjin firm has already invested 50 million dollars in the construction of a video-recorder factory. South Korea hopes that a planned joint venture for the construction of a 100-seat passenger plane will become the flagship of bilateral cooperation. Samsung Aerospace plans to lead a South Korean consortium in talks with the Chinese partner, Aviation Industry Co. The South Korean industrial conglomerate Samsung estimates that China alone may buy some 300 of the new planes by 2010, while South Korea may acquire 170 planes. The two nations are looking for a third country that could contribute knowhow. South Korean business sources cite the U.S. Boeing concern, France's Aerospatiale and German Daimler-Benz Aerospace AG as possible partners.
+
+South Korea and China on ended three-day talks on signing a fishery agreement without reaching agreement, Foreign Ministry Spokesman Lee Kyu-hyung said on July 31, 1997. During the talks held in Shanghai, China and South Korea hoped that they would go hand in hand with negotiations for zoning the 200-nautical-mile EEZs, insisting that the fishery agreement cannot be separated from the EEZs, within which coastal states have the exclusive right to seabed as well as marine resources under the United Nations Convention on the Law of the Sea, according to the spokesman. China, meanwhile, sought to arrive at a temporary solution to the fishery agreement, recognizing that EEZ zoning would drag on due to the semi-territorial nature of the EEZs and the considerable time needed to come to an agreement on them, the spokesman said. South Korea said it would examine the Chinese proposal, but that its basic position was the concurrent finalization of talks on the fishery agreement and EEZ zoning, according to the spokesman. Meanwhile, during the talks, the third round this year, South Korea demanded that China take steps to prevent illegal fishing by Chinese vessels in South Korean waters, especially in waters bordering North Korea. China responded favorably to the request, saying it would cooperate closely with South Korea to put an end to illegal fishing by its nationals.
+
+South Korea's chief economic minister left for China on August 20, 1997, to persuade Beijing to buy South Korean-made nuclear power plants and discuss wider economic cooperation. Deputy Prime Minister Kang Kyong-shik, who heads Seoul's Ministry of Finance and Economy, was scheduled to meet his Chinese counterpart Li Nang-ging and President Jiang Zemin during the five-day visit. The state power firms of both countries are conducting joint feasibility studies for building two 1,000-megawatt nuclear power plants in coastal areas of China's Shandong province. South Korea hopes China will approve the project later this year. That would lead to the first ever sale of South Korean-made nuclear reactors outside the Korean Peninsula. A U.S.-led international consortium broke ground Tuesday for two similar models in North Korea to replace the communist state's outdated system, which was suspected of being used to develop atomic bombs. China and South Korea opened diplomatic ties five years before, in 1994. Annual bilateral trade has since blossomed to dollars 20 billion last year, making South Korea China's fifth largest trading partner. Kang's delegation will celebrate the anniversary and help further cement a booming economic relationship, officials said. Kang also will ask Beijing to allow more South Korean banks and securities and insurance firms to open business in China. China was expected to demand that South Korea lower tariffs to allow more Chinese goods into its market, the officials said. China reportedly plans to build 20 to 30 nuclear power plants by 2010. China has been a major ideological ally of North Korea, Seoul's communist arch rival. It fought on North Korea's side in the 1950-53 Korean War.
+
+The number of flights between South Korea and China has significantly increased since the beginning of 1998. Korean Air (KAL), the nation's flagship carrier, decided to change its current chartered plane service between Seoul and Beijing to routine direct service twice a week from Aug 29, 1998, the Ministry of Construction and Transportation said. Asiana Airlines, the other national carrier, is also set to change its present chartered service between Cheju and Shanghai to twice a week regular service starting Sept 2, 1998. Prior to this, Asina opened four other routes linking Seoul to Changchun, Guangzhou, Harbin and Liendai in the first half of the year. It will include 13 routes 54 times per week, up from the previous eight routes 40 times a week. "When the Cheju-Beijing and Cheju-Shanghai routes are opened, Chinese tourists to Korea are expected to grow drastically," an official at the ministry said. KAL and Asiana plan to initiate routes linking Seoul to Wuhan, Chongquing, Guilin and Urmuchi in the near future.
+
+In a joint declaration issued on November 17, 1998, South Korean President Kim Dae-jung and Chinese President Jiang Zemin announced that they would strive to build a "cooperative partnership" for the 21st century. The declaration makes reference to a number of issues that President Kim discussed with his host during his visit to China, including the possibility of elevating the status of South Korean-Chinese relations, the North Korean problem, policies toward Japan, the Taiwan problem and the devaluation of the Chinese currency. South Korean officials have chosen to interpret Kim and Jiang's endorsement of a "cooperative partnership" as an elevation of Seoul's "good neighborly" relationship with Beijing. But in fact, the joint declaration should be read simply as a confirmation of the economic interdependence of these two countries. With an eye perhaps on the Japan-China summit meeting scheduled for later this month, South Korea may have attempted to signal that the Sino-South Korean relationship has moved a step ahead of the Sino-Japanese relationship. But in reality, there has been no fundamental change in the diplomatic relationship between China and South Korea. In deference to North Korea, China has chosen to limit its relationship with South Korea to the economic sphere and has deliberately avoided fostering ties in the realms of politics and national security. China has adhered to this policy during Kim's current visit. Indeed, most of the agreements contained in the joint declaration deal with economic issues. Although China promised to make an effort to preserve peace and stability on the Korean Peninsula, and expressed its desire for early implementation of the nuclear accord signed by North and South Korea, President Jiang avoided mentioning Kim's "sun policy." He also refused to discuss the possibility of "six-party negotiations," which North Korea opposes, to resolve the Korean Peninsula problem. Moreover, Kim and Jiang made no direct reference to Japan, though it is possible to detect a preoccupation with Japan by reading between the lines. Until now, Chinese leaders have talked about the need for China and South Korea to keep their guard up against Japan. But in the joint declaration and at the news conference, South Korea avoided any statements about keeping Japan in check. South Korea clearly stated that it would support a "One China" policy and that it fully understands and respects China's position on the Taiwan problem. At the same time, South Korea took pains to avoid antagonizing Taiwan. South Korea also commended China's policy of maintaining the value of the Chinese yuan, which has had a positive impact on the Asian economies. China stated that it would "make an effort to (avoid devaluation) within its capabilities." Although the Kim-Jiang summit failed to achieve any significant breakthrough, the fact that both leaders have engaged in a frank exchange of views on economic issues and the North Korean problem is not insignificant. China and South Korea, as well as Japan, will have to figure out how to eliminate their misunderstandings in order to contribute to the peace and stability of Asia, and must refrain from divisive diplomatic strategies that aim to create competition and conflict among themselves. We hope that the results of this summit will help to further trilateral cooperation.
+
+Defense Minister Chun Yong-taek is pushing to visit China next year to meet his Chinese counterpart, Gen. Chi Hao Tien, as part of an effort to increase military exchanges between the two countries, a ministry official said on November 18, 1998. If realized, it would be the first meeting ever between the two countries' defense ministers, said the official who demanded anonymity. South Korea and China established diplomatic ties in August 1992. No concrete agreement has yet been made on Chun's China visit, but officials of the two countries are continuing talks on the issue, the official said. Maj. Gen. Lee Sang-hee, the Korean Defense Ministry's policy and planning director, will visit Beijing next month and discuss with Chinese officials the agenda of a proposed defense ministers' meeting and the itinerary of Chun's China visit. President Kim Dae-jung last week suggested South Korea and China bolster bilateral military exchanges and heighten cooperation between the two countries when he met Chinese President Jiang Zemin in Beijing. The ministry official said, however, such exchanges would have to be done carefully and gradually considering China's relationship with North Korea. China fought for the North during the 1950-53 Korean War and has maintained strong relations with the reclusive country ever since. The official added that South Korea would like to see military exchanges with China reach the same level as that of current bilateral economic and cultural exchanges between the two countries. Such developments would coincide with heightened military exchanges between South Korea and other neighboring countries, such as Japan and Russia, the official added. Precipitating the changes was a visit to Seoul in August this year, by Lt. Gen. Xiong Guang Kai, vice chief of staff of the Chinese military. His visit was seen as a preparatory step for the meeting of our respective defense ministers,'' the ministry official said. There have also been other military exchanges between the two countries over the past several years. Since 1992, South Korea and China have had scores of military exchanges involving athletes and military cadets. South Korea opened a military attache office in Beijing in 1993, while China sent military attaches to Seoul in 1994. High-ranking Korean Defense Ministry officials began visiting China in 1994. And Maj. Gen. Luo Bin, chief of the foreign affairs office at the Chinese National Defense Ministry, visited Seoul in 1996. Most recently, a Sino-South Korean defense seminar was held in Seoul.
+
+China had agreed to allow unrestricted travel to South Korea for its nationals-regardless of their residences-from June next year, the Culture and Tourism Ministry said on November 30, 1999. The ministry said the Chinese delegates promised to expand free travel to South Korea for citizens all over China from next June at the fourth South Korea-China tourism promotion meeting in Seoul Monday, going beyond nine provinces and cities currently on the free travel list. The current list includes Beijing, Shanghai, Tianjin and Chongqing among cities, and Guangdong, Shandung and Zhiangsu provinces, among provinces. The ministry expects the number of Chinese tourists to the country to swell to between 700,000 and 800,000 next year from 300,000 estimated to total this year. China has also agreed to reopen its travel bureau branch in Seoul, which has been closed since the financial crisis hit Korea late in 1997. The Chinese delegates also promised to do their best to help the Korea National Tourism Organization (KNTO) open its second Chinese branch in Shanghai next year. KNTO already has a branch in Beijing. The two sides also agreed to hold the fifth tourism meeting in Beijing next year, with a high-level tourism meeting scheduled to take place every other year, while expert-level meeting is held every year. Chinese tourists totaled 262,000 this year as of October 31, up 54.5 percent from the same period last year.
+
+On March 21, 2000, China urged South Korea to maintain its "one-China" policy following the election of pro-independence Chen Shui-bian as Taiwan's next president, foreign ministry officials said. China's ambassador Wu Dawei called on Vice Foreign Affairs and Trade Minister Ban Ki-Moon to remind Seoul to maintain its adherence to the policy of recognizing Beijing as the sole legitimate government of China. "We hope that the Republic of Korea will stick to the principle of one China," Wu was quoted as telling Ban. "The partnership between Seoul and Beijing should continue and develop further," he said. Ban reaffirmed that South Korea would not diverge from the one-China policy.
+
+China and South Korea will hold talks on June 28, 2000, to try to resolve trade disputes that block South Korean shipment of mobile phones and polyethylene to China, Seoul officials said. The talks, which will open in Beijing, will last several days, said officials at the Ministry of Commerce, Industry and Energy. The two neighbors have been at odds since Beijing suspended imports of mobile phones and polyethylene from South Korea on June 7. The move came six days after Seoul decided to slap tariffs of up to 315 percent on garlic imported from China. Both sides accused each other of breaching World Trade Organization rules, but wanted a negotiated end to the dispute citing their relations as major trade partners. Two-way trade between South Korea and China reached dollars 12.1 billion during the first five months of this year, up 73 percent from the same period last year. China is South Korea's third largest trade partner. Seoul placed limits on garlic imports from China to protect domestic farmers. The restrictions went into effect June 1. Garlic prices dropped 30 percent this year. South Korean farmers blamed cheap Chinese imports for the drop, but Beijing said it is mainly due to domestic overproduction. China's garlic exports to South Korea increased to 22,000 tons in 1999 from 9,900 tons in 1998. Garlic production in South Korea rose to 484,000 tons in 1999 from 394,000 tons in 1998. In retaliation, China temporarily suspended imports of South Korean mobile phones and polyethylene. China also reserved the right to take further action. South Korea exported dollars 41 million worth of mobile phones and dollars 470 million worth of polyethylene to China last year.
+
+20001018-20159999 0.5
+
+China and South Korea agreed on October 18, 2000, to move the Sino-South Korean cooperative partnership to a stage of comprehensive cooperation. The agreement was reached between visiting Chinese Premier Zhu Rongji and South Korean President Kim Dae-jung at a meeting in the South Korean presidential palace. At the meeting, Zhu said the Sino-South Korean cooperative partnership, launched by Chinese President Jiang Zemin and President Kim in 1998, is a milestone in the history of bilateral relations. The Chinese premier, who arrived Tuesday evening for a six-day visit, said his visit is aimed at further developing Sino-South Korean relations. The two nations should continue the momentum of high-level contact to enhance exchange and cooperation. They should also better coordinate on international and regional affairs, he said. Agreeing with Zhu's appreciation of Sino-South Korean ties, President Kim spoke highly of China's friendship policies towards South Korea. Happy with the development of bilateral relations since the establishment of the South Korean-Chinese Cooperative Partnership, Kim said the comprehensive cooperation between South Korea and China will bring their relationship to a new stage. On the Taiwan issue, Kim said South Korea will adhere to the "One China" policy as before. On bilateral economic and trade relations, Kim agreed to Zhu's proposal that China and South Korea should cooperate in the fields of environmental protection, technology, petroleum, steel and coal. The two leaders agreed to establish a mechanism for promoting Sino-South Korean investment. Zhu welcomes South Korean business people to take part in the development of western China, saying the development project will supply many large-scale business opportunities for economic cooperation between the two countries. Kim said his government supports the project and has decided to provide 5 million U.S. dollars for planting trees and grass in western China. Meanwhile, he said South Korea will increase imports of Chinese farm products and coal to balance South Korea's trade surplus with China. To deepen South Korea's understanding of China and to boost the friendship between the two peoples, Kim agreed to establish a Chinese Culture Center in Seoul and Zhu consented, in principle, to South Korea's suggestion for mutual warship visits. Kim hoped that South Korea and China will better coordinate their efforts in ASEM, APEC (Asia-Pacific Economic Cooperation) and "10 plus three." Zhu voiced his support of Kim's proposal for the meeting among the leaders of China, South Korea and Japan during the "10 plus three" gathering in Singapore. On the issue of the Korean Peninsula, Kim expressed his heartfelt thanks to China for its peace and stabilizing efforts. The South Korean president said the four-party talks should reach a consensus on a peaceful regime for the peninsula to replace the half-century-old armistice. Zhu said China supports the improved relations between South Korea and the Democratic People's Republic of Korea (DPRK) and hopes the inter-Korean reconciliation process will continue to advance. The Chinese leader also said China is happy with the improved DPRK-U.S. ties and backs the improvement of DPRK-Japanese relations.
+
+After a century of looking east, first to Japan and then to the United States, Korean business leaders are now gazing west, to China. But it is a fascination tinged with fear. In 2003, nearly half of South Korea's foreign investment went to China and its exports to China jumped 50 percent. Winging west over the Yellow Sea, China-bound flights are filled with business executives bearing deals intended to ensure that China replaces the United States as South Korea's major economic partner. Samsung Electronics has announced that it will make China the main base for production of its personal computers and flat screens. Hyundai Motor, South Korea's biggest carmaker, and Kia Motors, a subsidiary, have announced plans to make a million cars a year in China by 2007. But as South Korea's blue-chip companies funnel new investment into China, economists here worry that South Korea's economic sparkle-"the miracle on the Han River"-will lose its luster. With Northeast Asia's foreign investment river diverted to China, economic growth here fell by half in 2003, to 3 percent. As China's low-wage workers churn out millions of cars, computers and cellphones, its exports seem destined to look like South Korea's. As South Korean companies move research and development units to China, surveys indicate that China's technological lag behind South Korea, now three to five years, is shrinking. "China's rapid ascension to the global economic stage has forced Korea to accept the painful yet glaring truth that its competitive edge is steadily slipping away," Kim Wan Soon, the South Korean government's investment ombudsman, wrote in a recent newspaper essay. "An increasing number of capital-intensive Korean firms are positioning themselves to assemble high-tech components in China." In South Korea's world-renowned heavy industries, notably steel and shipbuilding, planned investment in China will one day make for head-to-head competition between the two nations. "China is challenging Korea in heavy industries more than ever," Andy Xie, Asia economist for Morgan Stanley, wrote in a recent report. "China is repeating Korea's model of 'low price but high volume' on a vast scale. Korea is likely to suffer ever more losses in its heavy industries." In the short term, South Korea's heavy industries are booming, riding the tide of China's rise. China, the world's largest steel importer, lies one day by ship from South Korea, the world's No. 5 steel-making nation. Last year, South Korea's steel exports to China jumped 60 percent, while to the United States they fell 27 percent. South Korea exported to China more than four times the steel it sent to the United States. Posco, a unit of Pohang Iron and Steel and South Korea's largest steel maker, is investing $800 million in China. And for the moment, China's growth is causing all boats to rise in South Korea's shipbuilding industry, the world's largest. Last year, China's oil imports grew about 30 percent, and container traffic at China's seven largest ports grew 40 percent. This increase contributed to a doubling of ship orders placed last year with South Korea's shipbuilders. Of 470 orders, 43 percent were for container ships and 22 percent were for tankers. But Hyundai Heavy Industries may lose its title as owner of the world's largest shipyard. China State Shipbuilding recently broke ground on what it said would be the largest. While no one knows what Asia's economic picture will look like a decade from now, South Korean business executives take China's continued rise as an article of faith. With economists forecasting 5 percent growth for South Korea's economy in 2004, the reason most often cited is expanding exports to China. Last year, South Korean businesses invested $2.5 billion in China, compared with only $50 million in Japan. Feeding their interest, South Korean business newspapers now maintain regular economic pages devoted solely to Chinese news. With South Korean companies signing deals in China last year at the rate of 12 a day, 22,000 of them now have investments in China, employing about one million Chinese workers, according to the Korea International Trade Association. Investments range from workshops in Northeast China's ethnic Korean enclave to a project by Korea Electric Power, the nation's largest power company, to build two coal-fired plants in Henan Province. Bilateral trade is expected to double in five years, to $100 billion. In 1992, it was $6.2 billion. Determined to win market share, Samsung and LG Electronics, South Korea's largest consumer electronics companies, have each set goals of selling $10 billion worth of products in China by 2005. To compete with China in the long run, economists say, South Korea must either extend its low-wage, high-volume manufacturing model to North Korea or open its economy. China's monthly average industrial wage is $111, compared with $1,524 in South Korea. Factory land costs far less in China than in South Korea. Not surprisingly, manufacturing accounted for 91 percent of Korean investment in China last year. One way out would be to marry South Korea's capital and technological expertise with North Korea's low-wage labor. In a first step, a South Korean industrial park is under construction north of here, just inside North Korea. The park, which might open in 2005, is to hold about 700 South Korean factories. But in a Communist country where allowing people to fix bicycles for pay is considered a major economic reform, North Korea's inertia is an obstacle to the fast development of partnership projects. In addition, North Korea's nuclear bomb program leaves the nation exposed to economic sanctions by Japan, the European Union and the United States. The other route would be to break down barriers and open South Korea to more foreign investment. Last year, South Korea received $6.5 billion in foreign investment, compared with $15 billion in 2000. Last year, South Korean companies invested $5.4 billion overseas. This year, South Korea may cross into the category of net foreign investor. To arrest this trend, projects are under way to create investor-friendly special economic zones, largely around the port of Inchon. "That is not enough," Xie wrote in his Morgan Stanley report, arguing for exposing South Korea's large conglomerates to more competition. "The right vision is to turn the whole country" into such a zone.
+
+The bilateral trade volume between China and South Korea is expected to exceed US$100 billion this year thanks to expansion of economic and trade cooperation between the two nations, forecast Chinese Vice-Minister of Commerce Wei Jianguo on September 6, 2005 at the ongoing First China Jilin-Northeast Asia Investment and Trade Expo held in Changchun, capital of northeast China's Jilin Province. The bilateral trade volume has grown at an average annual rate of 27 per cent over the past 13 years after the two nations established diplomatic relations, from US$5 billion in 1992 to US$90 billion in 2004. Strong complementarity of economic structure provides good conditions for the two nations to undertake economic and trade cooperation, Wei said. At present, bilateral economic cooperation is under way in all fields including trade, investment, logistics, finance and industries. According to authoritative statistics, South Korea was the fourth largest source of inward investment in the Chinese mainland in the first half of this year, next only to Hong Kong, Virgin Islands and Japan. Its total investment in the six months hit US $2.78 billion. By the end of June this year, the cumulative investment from South Korea had reached US$28.7 billion, and the investment destinations have extended from the Bohai Rim area including Shandong, Tianjin and Liaoning provinces to all eastern coastal areas including Jiangsu, Shanghai and Guangdong, and are also extending to central China areas like Sichuan and Hunan provinces. According to South Korean statistics, China is now the largest destination of South Korean investment abroad. While absorbing South Korean investment, Chinese enterprises are also beginning to invest in South Korea. According to statistics released by the Chinese Ministry of Commerce, Chinese enterprises had invested a total of US$840 million in South Korea, with the scope of investment extending from trade, banking, shipping and catering trade to automotive and electronic industries. A South Korean official said on September 1 that the number of Chinese enterprises investing in South Korea had reached 3,797. Underpinned by good cooperation relations, the two governments have earlier predicted that the bilateral trade volume may hit US$150 billion by 2010.
+
+On September 7, 2005, Kim So-Rim, executive director of Automobile Manufacturers Association of South Korea, expressed his optimism about South Korea-China cooperation in the auto industry, hoping that bilateral cooperation could yield better fruits. Kim made the remarks at the ongoing First China Jilin-Northeast Asia Investment and Trade Expo held in Changchun, capital of northeast China's Jilin Province. "There are no hurdles and barriers in South Korea-China cooperation on the auto industry," Kim said. He said: "Technology is always the hot issue in the inter-country auto industry cooperation. In order to maintain advantages, some countries will not transfer core technology to others." "China is similar to South Korea from the perspective of technology, so the auto industry cooperation goes smoothly between the two countries," said Kim, Adding: "We are not afraid that China will master some advanced technology. If China develops well, we will definitely get returns." In July, the Shanghai Automobile Industry Corporation (SAIC) took over Ssangyong Motor Co. of South Korea and obtained not only the core technology in car engine and transmission, but also key technology of the SUV from Ssangyong Motor. Beijing Hyundai, a joint venture between Hyundai Motors, the biggest automaker in South Korea, and Beijing Automobile Industry Holdings, is not simply a car assembly company for Hyundai in China. The South Korean auto maker also transferred core technology to the Chinese side, industry insiders said. A visitor surnamed Pang who once worked in South Korea said Sonata sedans produced by Beijing Hyundai are not car models out of fashion in South Korea. The same brand cars are launched into the market simultaneously in China and South Korea. "There are not much barriers in Sino-South Korea cooperation on the car industry," said Bai Xugui, deputy director of the Jilin provincial government car industry development office. China's resources and cheap labor are complementary to South Korea, he said. Kim also said that cooperation of the two sides in researching and developing complete cars and auto parts would benefit the development of the car industries in both countries. It is predicted that autos manufactured by China, Japan and South Korea is expected to reach 12 million units this year, accounting for 20 percent of the world's total. Northeast Asia is expecting to become a world car manufacturing center. Statistics from the Chinese side showed that in 2004, the Sino-South Korea imports and exports totaled US$90 billion, with bilateral trade volume in the car industry standing at US$2.3 billion. The five-day exposition, which kicked off on Friday, was co-sponsored by the Ministry of Commerce and the Jilin Provincial Commercial Department.
+
+PS-SOURCES: New York Times March 24, 1985, Asia Pulse July 31, 1997, August 24, 1998, September 7, 2005, Xinhua October 18, 2000, International Herald Tribune February 12, 2004, Associated Press August 20, 1997, June 28, 2000, AFX-Asia March 21, 2000, Deutsche Presse-Agentur July 7, 1995, Mainichi Daily News November 17, 1998, Korea Herald November 18, 1998
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

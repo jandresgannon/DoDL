@@ -1,0 +1,152 @@
+FILE: cm365390v11.0.txt
+DYAD: RUSSIA/USSR - DENMARK
+RIVALRY: RIV992
+DISPUTE(S): MID2864 
+RIVALRY: RIV2002
+DISPUTE(S): MID4342 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20180920 
+PS-LAST-CHECKED: 20180920
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2864 
+
+TERRMID: MID2864 3 -- not territory 
+TERRMID-CER: MID2864 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2864 3 -- not third party link to territory 
+TERRLINK-CER: MID2864 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2864 3 -- not maritime 
+MARITMID-CER: MID2864 3 -- uncertain 
+MARITMID-NOTES: MID2864 from Gibler, Miller, and Little 2016, the Soviet navy seized Danish fishing vessels. Coded not maritime because there was no maritime dispute present, but coded uncertain since GML recommend the MID be dropped, as no protest from Denmark could be found. 
+
+ISLMID: MID2864 3 -- not islands 
+ISLMID-CER: MID2864 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2864 3 -- not civil war 
+CIVWARMID-CER: MID2864 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2864 3 -- not civil war link 
+CIVWARLINK-CER: MID2864 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2864 3 -- not coup 
+COUPMID-CER: MID2864 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2864 3 -- not coup link
+COUPLINK-CER: MID2864 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4417 
+
+TERRMID: MID4417 3 -- not territory 
+TERRMID-CER: MID4417 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4417 3 -- not third party link to territory 
+TERRLINK-CER: MID4417 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4417 3 -- not maritime 
+MARITMID-CER: MID4417 1 -- certain 
+MARITMID-NOTES: MID4417 from cm narrative, Russia protested to Denmark over a Danish naval vessel that Russia accused of performing dangerous actions against a Russian naval vessel holding exercises in the Baltic Sea. Coded not maritime because no maritime border dispute was present. 
+
+ISLMID: MID4417 3 -- not islands 
+ISLMID-CER: MID4417 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4417 3 -- not civil war 
+CIVWARMID-CER: MID4417 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4417 3 -- not civil war link 
+CIVWARLINK-CER: MID4417 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4417 3 -- not coup 
+COUPMID-CER: MID4417 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4417 3 -- not coup link
+COUPLINK-CER: MID4417 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial MID
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler 2018, this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because Denmark, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler 2018, this involves Denmark (as part of NATO) war activity in Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and the various states experiencing this violence all lie outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4417
+rivalry=365390 nationa=DENMARK nationb=RUSSIA/USSR MID4417 20030426-20030426 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Russia protested to Denmark over a Danish naval vessel that Russia accused of performing dangerous actions against a Russian naval vessel holding exercises in the Baltic Sea. First day of dispute was on 4/26/2003 and last day of dispute was on 4/26/2003. 
+
+MID3 1993-2001:
+
+MID4342
+rivalry=365390 nationa=RUSSIA/USSR nationb=DENMARK MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+
+RIV2002: new rivalry because MID4342 was added by MID3.02
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: 
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

@@ -1,0 +1,67 @@
+FILE: cm223225v11.0.txt
+DYAD: LIECHTENSTEIN-SWITZERLAND
+RIVALRY: RIV600
+DISPUTE(S): MID3553 
+
+PS: 19900918-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: Switzerland is responsible for Liechtenstein's defense. The specific MID is probably Swiss army that took a wrong turn into Liechtenstein, as it happened multiple times throughout the years, and it was coded as a MID. Liechtenstein has no military. 
+
+PS-LAST-CHANGED: 20220223
+PS-LAST-CHECKED: 20220223
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3553 
+
+TERRMID: MID3553 3 -- not territory 
+TERRMID-CER: MID3553 3 -- uncertain 
+TERRMID-NOTES: MID3553 from Gibler, Miller, and Little (2016), the Swiss army accidentally crossed into Liechtenstein and later apologized. Liechtenstein did not protest and has no military. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3553 3 -- not third party link to territory 
+TERRLINK-CER: MID3553 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3553 3 -- not maritime 
+MARITMID-CER: MID3553 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3553 3 -- not islands 
+ISLMID-CER: MID3553 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3553 3 -- not civil war 
+CIVWARMID-CER: MID3553 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3553 3 -- not civil war link 
+CIVWARLINK-CER: MID3553 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3553 3 -- not coup 
+COUPMID-CER: MID3553 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3553 3 -- not coup link
+COUPLINK-CER: MID3553 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

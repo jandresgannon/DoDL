@@ -1,0 +1,58 @@
+FILE: cm235560v11.0.txt
+DYAD: PORTUGAL - SOUTH AFRICA
+RIVALRY: RIV645
+DISPUTE(S): MID1415 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180102
+PS-LAST-CHECKED: 20180103
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1415 
+
+TERRMID: MID1415 3 -- not territory 
+TERRMID-CER: MID1415 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1415 3 -- not third party link to territory 
+TERRLINK-CER: MID1415 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1415 3 -- not maritime 
+MARITMID-CER: MID1415 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1415 3 -- not islands 
+ISLMID-CER: MID1415 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1415 1 -- civil war MID
+CIVWARMID-CER: MID1415 3 -- uncertain 
+CIVWARMID-NOTES: MID1415 from Gibler, Miller, and Little (2016), a South African passenger plane was struck with gunfire over Angola, but a) it was unclear who the attacker was and b) it is suspected of being an accident. Coded uncertain because GML recommend this case be dropped, since this was probably an accident and no attacker can be determined. Coded civil war MID because this occurred during the Angolan civil war and was likely connected to that. 
+
+CIVWARLINK: MID1415 3 -- not civil war link 
+CIVWARLINK-CER: MID1415 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1415 3 -- not coup 
+COUPMID-CER: MID1415 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1415 3 -- not coup link
+COUPLINK-CER: MID1415 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

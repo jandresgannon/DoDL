@@ -1,0 +1,301 @@
+FILE: cm255345v11.0.txt
+DYAD: GERMANY/PRUSSIA-YUGOSLAVIA/SERBIA
+RIVALRY: RIV681
+DISPUTE(S): MID257 
+RIVALRY: RIV2682
+DISPUTE(S): MID258 MID3813 
+RIVALRY: RIV683
+DISPUTE(S): MID3551 MID4137 MID4186 MID4343 
+
+PS: 19009999-19140805 .5 19140806-19181111 .25 19181112-19410405 .5 19410406-19450507 .25 19450508-19500508 .5
+
+PS-UPDATE2020: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20171223
+PS-LAST-CHECKED: 20171223
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+WWI MIDs: MID257
+
+WWII MIDs: MID258 MID3813
+
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Yugoslavia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. They therefore refused to recognize the independence of states that declared independence from Yugoslavia, still claiming their territory as part of Yugoslavia. Coded third party link to territorial MID because Germany (as part of UN/NATO) became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Coded civil war MID because civil war within Yugoslavia eventually convinced NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 coded civil war link because this also involved insurgent forces fighting outside of this dyad, especially in Albania and Croatia. 
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 coded civil war link because this MID involved ethnic insurgents fighting inside Kosovo, outside of this dyad. Serbian guerrillas and troops fought Albanian guerrillas within Kosovo. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. These MIDs are coded separately due to the temporal separation between them. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3 1993-2001:
+
+MID3551
+rivalry=255345 nationa=GERMANY/PRUSSIA nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19961002 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=USE OF FORCE
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade. First day of dispute waas on 7/16/1992 and last day of dispute was on 10/2/1996.
+
+MID4137
+rivalry=255345 nationa=GERMANY/PRUSSIA nationb=YUGOSLAVIA-SERBIA MID4137 19980611-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=
+501-999 DEATHS fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 6/11/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=255345 nationa=GERMANY/PRUSSIA nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=
+NONE fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4343
+rivalry=255345 nationa=YUGOSLAVIA-SERBIA nationb=GERMANY/PRUSSIA MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO NARRATIVE AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV2682: MID67 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV683: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+RIV679: MID67 (1934) revised by MID3.02 so it is now Germany against Yugoslavia, Italy, and Czechoslovakia.
+
+NARRATIVE-CM:
+Serbia declared war against Germany on August 6, 1914. *Central Powers *troops, including German troops, launched a military offensive against Serbia beginning on October 6, 1915. Central Powers troops captured Serbia in November 1915. Some 100,000 Serbians were killed during the military offensive. Yugoslavia joined the *Tripartite Pact* (Germany, Italy, Japan) on March 25, 1941. *Axis Powers* troops, including German troops, invaded Yugoslavia on April 6, 1941. Some 17,000 civilians were killed during the bombing of Belgrade. Axis Powers troops captured Zagred on April 10, 1941, Belgrade on April 12, 1941, and Sarejevo on April 15, 1941. Yugoslav troops surrendered to Axis Powers troops on April 17, 1941. Some 560 Yugoslav soldiers were killed during the invasion. German troops killed some 7,000 civilians in Kragujevac, Serbia on October 21, 1941. Soviet troops invaded Yugoslavia on October 1, 1944, and Soviet troops liberated Belgrade from German troops on October 20, 1944. Yugoslav partisans liberated Sarejevo from German troops on April 6, 1945, and liberated Zagreb from German troops on May 8, 1945. Some 6,500 Soviet soldiers were killed during the invasion.
+
+SOURCES-CM: 
+Clodfelter, 1992, 747-748, 811-812, 835-836; Ference, 1994, 393-436; Langer, 1972, 953-955, 962-964, 1021-1023, 1207-1209.
+
+NARRATIVE-CR:
+
+MID257 is World War~I.
+
+MID258 is World War~II.
+
+The dispute in 1938 came about when the Germany incorporated Austria into its empire (MID1245). Hungary being incorporated into Germany who shared a border with Yugoslavia and required permission to occupy with troops. Permission was denied, but the conflict was resolved when Yugoslavia signed the tripartite pact in 1940, joining Germany and Italy (Clodfelter 1992). This agreement was nullified when a regime change occurred and Yugoslavia joined the Allied powers in March of 1940 (MID3813). Resolution came about with the end of the Second World War and the German Empire was divided into occupied zones and autonomy was returned to Austria (Clodfelter 1992). 
+
+MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MID due to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1993. End date is the end date of the Blockade. 
+
+MID4137 In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99.
+
+MID4186 This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. 
+
+MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces.
+
+SOURCES-CR: COW narratives.
+
+PS-NARRATIVE:
+
+
+In the years immediately following World War II, relations between Yugoslavia and Western Germany were heavily burdened with the consequences of Nazi Germany's occupation of Yugoslavia. In November 1952 though, Tito spoke in favor of German unification at the Sixth Party Congress in Zagreb. On October 22, 1957, West Germany broke diplomatic relations with Yugoslavia after the former recognized the independence of the East German government. Several other problems affected the relations: economic and financial cooperation and German war debts determination; indemnification of Yugoslav victims of Nazism and `anti-Yugoslav' activities in West Germany. In January 1967 the West German Chancellor Kissinger said that Germany wants to re-establish normal diplomatic relations with Yugoslavia and subsequently this was achieved. 
+
+On April 19, 1973, Yugoslav President Tito and West German Chancellor Brandt announced the settlement of a 28-years-old problem of indemnification for World War II damage to Yugoslavia; settlement is not in terms of money but a program of long-term econ cooperation, with West German aid for Yugoslavia. West Germany previously had refused to pay the amount of reparations demanded and Yugoslavia rejected West Germany's offer as humiliating. Brandt says acceptance of Yugoslav terms would set precedent encouraging similar demands from other European states, making 'intolerable situation' for German people. The atmosphere of Brandt-Tito talks is somewhat cooler than expected because of differences on reparations issue.
+
+Four suspected West German guerrillas arrested in Yugoslavia were there for a extremist summit meeting to discuss further acts of violence against West Germany, informed sources on May 31st, 1978. The sources, close to the office of the federal prosecutor in Karlsruhe, said the meeting in Yugoslavia was called by the Red Army Faction, a group related to the Baader-Meinhof urban guerrilla group. It was officially disclosed here Monday that two men and two women were arrested in Yugoslavia more than two weeks ago and that West Germany's Justice Ministry had asked for their extradition. West German police said they want to question two of the suspects in connection with the murders of industrialist Hanns-Martin Schleyer, banker Jurgen Ponto and chief federal prosecutor Siegfreid Buback.
+
+The four were followed to Yugoslavia by members of West Germany's elite anti-guerrilla police squad, the sources said. Police were put on their trail by papers found on two other suspected West German guerrillas, Stefan Wisniewski and Marion Brigitte Folkerts, detained in Paris earlier this month. Mr. Wisniewski was arrested as he prepared to board a flight to Zagreb, Yugoslavia. Checks led the anti-guerrilla squad to the conclusion that leaders of the Red Army Faction were planning what police called a summit meeting in Yugoslavia, the sources said. These guerrillas are the self-styled successors to the original leaders of the Baader-Meinhof group who committed suicide in their prison cells. After the arrests, which newspapers here said took place in a Zagreb hotel, the Yugoslav Government asked West Germany to extradite a number of Croatian nationalists, some of whom are held in West German jails.
+
+On October 17, 1985, Yugoslavia and Federal Germany shared similar views in furthering their cooperation in economy, trade, industry and joint ventures, the ministers of economics and trade of the two countries said at a press conference in Belgrade. Concluding his two-day visit to Belgrade, Martin Bangemann, Minister of Economics of Federal Germany, urged his country to help Yugoslavia export more commodities to Federal Germany and the European Economic Community. He also urged the other creditor nations of Yugoslavia to do likewise so as to reduce the latter's debt burden.
+
+At the same time, Bangemann expressed support for Yugoslavia in its negotiations with the EEC. He insisted that the EEC should ease the restrictions on Yugoslavia's exports in a trade agreement to be signed soon between Yugoslavia and the EEC.
+
+Yugoslav federal secretary for foreign trade Milenko Bojanic expressed the hope that the two countries develop cooperation in various forms to solve Yugoslavia's deficit problem.
+
+Federal Germany has long been one of Yugoslavia's most important trade partners, and ranks the second after the Soviet Union. But Yugoslavia has always registered a huge unfavorable balance. In the first eight months of 1985, the trade volume between the two countries reached 1.6 billion US dollars, with Yugoslavia recording a deficit of more than 400 million dollars.
+
+On March 8th, 1986, the influential German businessman Otto Wolff von Amerongen, President of the Association of German Chambers of Industry and Commerce, expressed the willingness to further his country's economic ties with Yugoslavia by encouraging joint investments and co-production ventures between German and Yugoslav companies. von Amerongen, who arrived in Yugoslavia for a three-day visit, said it is now possible "to further expand" various forms of industrial-technical cooperation that will enhance the competitiveness of Yugoslav products in foreign markets.
+
+In August 1986, Yugoslavia has asked the Federal Republic of Germany to show greater understanding for the problems the country is encountering in exporting to the West German market. It also called on Bonn to extend its pledged support during the forthcoming negotiations on new provisions of the five-year trade agreement between Yugoslavia and the European community. A communique on talks held on 4th August by Yugoslav government member Radovan Makic and Secretary of State at the West German Ministry of Economics Dieter Wuerzen points out that Yugoslavia's deficit in the trade totalled 716,200,000 dollars in 1985, 12% more than in 1984. Exports in 1985 to Western Germany which is Yugoslavia's second biggest trading partner, totalled 870,700,000 dollars, and imports from there 1,587 million. The negative trend continued in the first half of this year. The Yugoslav side also underlined that the latest decisions of the West German Ministry of Labour further jeopardise the existence of Yugoslav work organisations' plants in Western Germany. Whereas in 1981 about 13,000 Yugoslavs worked on civil engineering and industrial assembly projects in the Federal Republic, their number has now dropped to 4,300 due to the restrictive measures imposed by FRG labour offices. Particular emphasis was laid on the need to acquaint West German businessmen with the possibilities of joint ventures in the Yugoslav economy, in accordance with the facilities provided by the new Yugoslav law on foreign investments.
+
+Yugoslavia's Prime Minister Branko Mikulic, on his first official visit to the West, arrived on March 26, 1987, for discussions with West German officials about Yugoslavia's economic problems. Mikulic, who planned to stay for two days in West Germany, was told even before his arrival that Bonn was ready to help him.
+
+Yugoslavia is West Germany's largest Western trading partner. West German officials said they would do everything they could to help Yugoslavia try to solve its financial difficulties. West German commercial banks and the Bonn government are among Western creditors to which Yugoslavia owes a total of $19 billion. The decentralized Yugoslav economy is afflicted with an inflation rate of about 100 percent, low productivity and about 1 million unemployed people. Mikulic, who took office last year with a promise to revive his country's crumbling economy, has said his government is eager to strengthen economic cooperation with the West. He complained to West Germany's Der Spiegel weekly news magazine that western countries treat Yugoslavia as of it were part of the East bloc rather than as an independent, non-aligned country. But he told the publication his government would even resort to military measures if anti-communists tried to overthrow Yugoslavia's constitutional system, including single-party rule. Trade between West Germany and Yugoslavia last year totaled $3 billion. Italy was Yugoslavia's second-biggest trading partner with a volume of $2.5 billion. The Soviet Union is Yugoslavia's No. 1 trading partner with volume amounting to $7 billion in 1986.
+
+Federal German Foreign Minister Hans Dietrich Gensher ended his three-day visit to Yugoslavia on August 6th, 1988, with a call for furthering relations between the two countries. Gensher said in a press conference that better relations between Federal Germany and Yugoslavia will contribute to the enhanced cooperation between Yugoslavia and the European Economic Community. During the visit, Gensher held two rounds of talks with his Yugoslav counterpart Budimir Loncar, who expressed thanks for Federal Germany's support for a Yugoslav plan to postpone debt repayment. Loncar said Yugoslavia hopes to establish closer relations with the European Community and participate in the integration process in Europe. Yugoslavia and Federal Germany registered smooth economic development in recent years with their trade volume in 1987 reaching 3.6 billion US dollars. Federal Germany takes up 8 percent of Yugosalvia's total export and 13 percent of its import.
+
+German government and business leaders warned on June 28, 1991, that political upheaval in Yugoslavia could seriously disrupt the country's economy and hinder its ability to deal with the outside world. Germany has a long history of trade and political interests in the Balkans and is Yugoslavia's main trading partner. About half of German investments there are in Croatia and Slovenia, the two republics whose declarations of independence set off the current crisis. A German Foreign Ministry official said that the confrontation between Yugoslavia's Government and its breakaway republics "definitely means serious economic problems for the country as a whole, and particularly for the two republics themselves." "If a stable solution isn't found soon, the economic troubles are going to become almost as great as the political problems," the official said. Yugoslavia's tourist industry has been the first to suffer, with bookings for Adriatic vacations down as much as 80 percent. On June 28, 1991, the Government in Bonn issued a travel advisory warning that the Slovenian and Croatian declarations of independence "have led to armed confrontations that could become more serious." German concern about investments in Yugoslavia is not new. In a private report prepared three months before, specialists in Bonn concluded that Yugoslavia "has never been so close to a collapse of its economic system." The report said that the Yugoslav Government had not managed to control inflation or reduce its fiscal deficit, that the process of privatizing formerly state-owned businesses was all but stalled, and that both agricultural and industrial production were falling rapidly. Much of the commerce between Germany and Yugoslavia is conducted by small and midsized companies. But several large German companies, including Hoechst, Opel, Siemens and Volkswagen, are also active in Yugoslavia. Heavy machinery is the biggest export of Germany to Yugoslavia; meat, fruit and vegetables are its main imports from there. Businesses in Austria, which lies between Germany and Yugoslavia, also have substantial Yugoslav investments, and Austrian executives share the fears of the Germans. Adolf Voysk, who heads the German-Yugoslav Chamber of Commerce, said that the political upheaval had only begun to affect trade between the two countries. "Most of Germany's commercial relations with Yugoslavia are company-to-company, especially in Slovenia and Croatia, and don't involve any government," Mr. Voysk said in a telephone interview from Frankfurt. "That means that for today, business continues. But people are worried about what happens tomorrow. If road traffic is cut off, for example, that will naturally be very bad."
+
+On July 1st, 1991, Chancellor Helmut Kohl threatened to halt German economic aid to Yugoslavia unless federal forces are withdrawn from Slovenia and Croatia. "Yugoslavia's unity cannot be maintained with military violence," Kohl told reporters. "Only serious negotiations over the reordering of this country's state structure can bring a solution." Kohl said federal troops must return to their barracks and the negotiated cease-fire be observed. And he appealed to all parties to join in peace talks that would preserve "the legitimate rights of minorities as well as the right to self-determination." fragile cease-fire has been in place in Slovenia, but the federal army has threatened massive retaliation against Slovenian forces if they continue their policy of refusing to allow food and other essentials to enter federal army barracks. Kohl, who also has said he opposed the secession of the two republics, was attacked for Germany's position on Slovenia and Croatia by the No. 2 man in his own Christian Democratic party. "We achieved the unity and freedom of our country through the right of self-determination," CDU General-Secretary Volker Ruehe said in a radio interview, saying it was "morally and politically unbelievable" to apply different standards to Yugoslavia. The 12-member European Community has already warned Yugoslav leaders that EC aid of up to $$1 billion would be frozen if a cease-fire was not immediately enforced and troops did not return to their barracks. Kohl said such action would require approval by the European Parliament, but he suggested Germany would take unilateral economic action against Yugoslavia if the military standoff persisted. Germany granted Yugoslavia a $$580 million credit in 1972, and the last payment from that is expected in 1998, the Economics Ministry said.
+
+On 26th August, 1991, the Vice-President of the Yugoslav Presidency Branko Kostic accused German Foreign Minister Hans-Dietrich Genscher of interfering in the crisis in Yugoslavia. ''Genscher's statement is embarrassingly reminiscent of Germany's ultimatums to us before the First and Second World Wars'', Kostic told a press confarence in Belgrade. On August 24th, 1991, Genscher read to Yugoslav Ambassador Boris Frlec a message saying that ''Germany will have to seriously consider recognizing Slovenia and Croatia within their existing borders if the bloodshed in Yugoslavia continues'' and ''if the fait-accompli policy with the help of the Yugoslav Army does not cease at once''. Kostic warned that ''any internationalization of the conflict in Croatia is fraught with a great risk to both Yugoslavia and Europe''. ''All European countries, including Germany, can help by not encouraging the forces which led to undermining Yugoslavia and by letting Yugoslavia with their missions and well-intent actions to resolve a serious and complex problem'', he said. The Vice-President of the Yugoslav Presidency added he would personally ask Genscher ''why didn't he talk at least once with the others and not only with officials of Slovenia and Croatia with whom he meets several times each week''.''What attitude would Genscher and his government take if, for instance, Bavaria decided to secede from Germany'', asked Kostic.
+
+Germany will go ahead with its plans to extend diplomatic recognition to the breakaway Yugoslav republics of Slovenia and Croatia, German officials said on December 15, 1991, increasing prospects for a pronounced rift on the issue in the Western alliance. Chancellor Helmut Kohl's spokesman, Dieter Vogel, said that the Bonn Government would wait until after a meeting of European Community foreign ministers in Brussels on Monday before announcing recognition, which has been opposed by the United Nations, the United States and by the European Community. But officials made clear that Bonn's decision would not be affected by the outcome of EU's meeting. Asked today whether Mr. Vogel's remarks meant the Government's final decision would hinge on whether Germany's European allies went along, a Government official replied, "We will move ahead whether any, all, or none of the European states join us." Both the Germans and opponents of recognition argued that they were seeking to stop the fighting.
+
+The first MID of RIV683, MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy.
+
+
+The last MID of RIV493, MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces.
+
+Serbian Prime Minister Zoran Djindjic was having talks with German leaders in Berlin on March 9, 2001, focused on the security situation along Kosovo's borders and aid for his country. Djindjic was meeting Chancellor Gerhard Schroeder, Foreign Minister Joschka Fischer and Development Aid Minister Heidemarie Wieczorek-Zeul. Officials said talks would concentrate on the recent upsurge of fighting between Albanian rebels and Macedonian forces and on violence along the Serbian border with Kosovo. The NATO alliance agreed on March 8th, 2001, to allow Yugoslav forces to enter a military buffer zone on Kosovo's border in southern Serbia to prevent Albanian rebels using the zone as a haven. The demilitarized zone was created after the 1999 NATO campaign to drive Yugoslav troops out of Kosovo. In addition to rebuilding aid for Serbia the status of former Yugoslav leader Slobodan Milosevic is expected to be raised by German leaders. Germany and other Western states are demanding that Milosevic be handed over to the war crimes tribunal at The Hague. Djindjic will also have talks in Dusseldorf with German industrialists aimed at winning investment for Serbia. He will also meet with the head of the Balkan Stability Pact, Bodo Hombach.
+
+Germany pledged an additional 20 million marks (Dollars 8.7 million) in aid to Yugoslavia on June 20, 2001, saying it wants to promote democracy and the revival of the country's economy. Heidemarie Wieczorek-Zeul, Germany's minister for development, made the announcement after talks with Yugoslav deputy premier Miroljub Labus in Belgrade. She stressed that Germany still expects Yugoslavia to turn over former President Slobodan Milosevic to the war crimes tribunal in The Hague, Netherlands, but that this was not a condition for aid to flow. Germany has ''made it our duty'' to bolster democracy and the economy in Yugoslavia, Wieczorek-Zeul said. Germany has already provided 150 million marks (dolars 65 million) in aid to Yugoslavia since Milosevic gave up power to a democratic government last year.
+
+In January 2002, the Federal Republic of Yugoslavia FRY exchanged most goods with Russia, amounting to 92billion dollars. However, this exchange was primarily based on 87m-dollar worth of imports, the data released by the Yugoslav Federal Bureau of Statistics have shown Yugoslavia's second largest foreign trade partner in January 2002 was Germany with total trade worth 54m dollars, with 38m-worth of imports and 16m of exports. 
+
+On April 19, 2002, Foreign Minister Joschka Fischer has welcomed Yugoslavia's readiness to improve cooperation with the war crimes tribunal in The Hague in the future. After a meeting with his Yugoslav counterpart Goran Svilanovic in Berlin, Fischer said the law adopted by parliament in Belgrade the previous week was an important step forward. Germany will continue to support the stabilization process in the Balkans, he stated.
+Germany has increased financial aid to Serbia to help stabilize the Balkan republic's economy in the aftermath of Prime Minister Zoran Djindjic's assassination, Germany's development aid minister said on March 27, 2003. After talks with officials in Belgrade, Heidemarie Wieczorek-Zeul announced German funds for Serbia would increase to 40 million Euros (US$43 million), from the earlier figure of 30 million Euros (US$32 million). Germany will also provide 25 million Euros (US$27) in additional assistance and 30 million Euros (US$32 million) in loans, Wieczorek-Zeul said. "The stability of Serbia is important for the stability of the entire region," the German Cabinet member said. The funds reflect Germany's "support for Serbia's new government in its efforts to join Europe, efforts to pursue further the path of economic reconstruction, rule of law and democracy," Wieczorek-Zeul added.
+
+German Chancellor Gerhard Schroeder is due on a visit to Serbia-Montenegro (SCG) on 29 October, 2003, where he will meet with SCG President Svetozar Marovic, Serbian Prime Minister Zoran Zivkovic, and other officials. A German government spokesperson said that the objectives of the chancellor's visit are the enhancement of bilateral relations at the political and economic levels. Schroeder is the first chancellor to visit Belgrade since Helmut Kohl in 1985. With his hosts, Schroeder will discuss the development of bilateral relations, the situation in the West Balkans, and he will also attend the founding meeting of a joint Economic Cooperation Council, the SCG president's office said. Germany is traditionally the most important foreign trade partner of Belgrade, and German firms have expressed interest in trade relations, participation in privatization and investments in the Serbian economy, and the construction of roads and other infrastructure objects. Schroeder's visit is seen in Berlin as an expression of the partnership established between the two countries since the political changes in Belgrade in October 2000.
+
+On May 16th, 2006, Germany pressed Serbian Prime Minister Vojislav Kostunica to hand over war crimes suspect Gen. Ratko Mladic to international authorities and respect Montenegro's upcoming vote on independence. German Foreign Minister Frank-Walter Steinmeier, met with Kostunica at a tense moment in Serbia's relations with the EU. The bloc suspended talks with Belgrade after it missed a deadline to hand over Mladic to the international war crimes tribunal in The Hague. Steinmeier underlined the demand to give up the former Bosnian Serb military commander, his office said in a statement.
+
+The meeting also addressed Sunday's referendum in Montenegro to decide whether to maintain its union with Serbia or become completely independent. The republics currently share defense and foreign ministries. Steinmeier "underlined the EU's position that every regular result of the referendum must be respected," his office said. Kostunica has urged the EU to show more understanding for the situation Serbia faces. It is trying to push through judicial and economic reforms, while facing the possibility that Montenegro will break away and negotiating the future of Kosovo. Steinmeier also urged Kostunica to encourage the Serbian minority in ethnic Albanian-dominated Kosovo to participate in interim government organizations there, currently run by the U.N. That, he said, would help create a "multiethnic, democratic Kosovo, where all citizens, regardless of their ethnic origin, can live together in freedom."
+
+PS-SOURCES: New York Times April 20, 1973; June 28, 1991; July 2, 1991; December 15, 1991; Xinhua October 17, 1985; March 8, 1986; March 25, 1987; August 6, 1988; Globe and Mail May 31, 1978; BBC August 14, 1986; August 28, 1991; June 29, 2001; March 26, 2002; April 19, 2002; October 29, 2003; Associated Press July 1, 1991; June 20, 2001; March 27, 2003; May 16, 2006; United Press International March 26, 1987; Deutsche Presse-Agentur March 9, 2001; December 1, 2006
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

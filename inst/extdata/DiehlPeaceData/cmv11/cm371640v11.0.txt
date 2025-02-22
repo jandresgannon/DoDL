@@ -1,0 +1,145 @@
+FILE: cm371640v11.0.txt
+DYAD: ARMENIA - TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV1029
+DISPUTE(S): MID3564 MID4221 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190314
+PS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3564 
+
+TERRMID: MID3564 3 -- not territory 
+TERRMID-CER: MID3564 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3564 1 -- third party link to territorial MID
+TERRLINK-CER: MID3564 1 -- certain 
+TERRLINK-NOTES: MID3564 from Gibler 2018, this is the Nagorno-Karabakh War, a territorial war fought between Armenia and Azerbaijan. In 1993, Turkey and Iran both protested that the war was endangering their border security, pulling them into this MID. Coded third party link to territorial MID because this was connected to a territorial dispute outside this dyad. 
+
+MARITMID: MID3564 3 -- not maritime 
+MARITMID-CER: MID3564 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3564 3 -- not islands 
+ISLMID-CER: MID3564 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3564 1 -- civil war MID
+CIVWARMID-CER: MID3564 1 -- certain 
+CIVWARMID-NOTES: MID3564 the Nagorno-Karabakh War also involved militarized rebel groups organized along ethnic lines. Coded civil war MID because this was connected to civil war activity in Armenia, within this dyad. 
+
+CIVWARLINK: MID3564 1 -- civil war link 
+CIVWARLINK-CER: MID3564 1 -- certain 
+CIVWARLINK-NOTES: MID3564 the Nagorno-Karabakh War also involved militarized rebel groups organized along ethnic lines. Coded civil war link because this was connected to civil war activity in Azerbaijan, outside this dyad. (The disputed area contained ethnic groups and rebels from both Armenia and Azerbaijan.) 
+
+COUPMID: MID3564 3 -- not coup 
+COUPMID-CER: MID3564 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3564 3 -- not coup link
+COUPLINK-CER: MID3564 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4221 
+
+TERRMID: MID4221 3 -- not territory 
+TERRMID-CER: MID4221 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4221 3 -- not third party link to territory 
+TERRLINK-CER: MID4221 1 -- certain 
+TERRLINK-NOTES: MID4221 from cm narrative, A Russian guard was killed by Turkish border guards apparently after being lured toward the Turkish troops. Three months later, Turkish troops entered Armenian territory, finding Russian guards patrolling the Armenian border, who demanded the Turkish troops stop. Russian forces subsequently went on alert. Coded not third party link to territory because this was not connected to the Nagorno-Karabakh dispute. 
+
+MARITMID: MID4221 3 -- not maritime 
+MARITMID-CER: MID4221 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4221 3 -- not islands 
+ISLMID-CER: MID4221 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4221 3 -- not civil war 
+CIVWARMID-CER: MID4221 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4221 3 -- not civil war link 
+CIVWARLINK-CER: MID4221 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4221 3 -- not coup 
+COUPMID-CER: MID4221 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4221 3 -- not coup link
+COUPLINK-CER: MID4221 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4434 
+
+TERRMID: MID4434 3 -- not territory 
+TERRMID-CER: MID4434 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4434 3 -- not third party link to territory 
+TERRLINK-CER: MID4434 1 -- certain 
+TERRLINK-NOTES: MID4434 from cm narrative, Armenian soldiers fired shots across the Turkish-Armenian border, resulting in a Turkish diplomatic protest. Coded not third party link to territory because although tensions between the two states have remained high, in part due to Turkish support of Azerbaijan in the Nagorno-Karabakh dispute, that territorial dispute between Armenia and Azerbaijan was not directly connected to this MID. 
+
+MARITMID: MID4434 3 -- not maritime 
+MARITMID-CER: MID4434 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4434 3 -- not islands 
+ISLMID-CER: MID4434 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4434 3 -- not civil war 
+CIVWARMID-CER: MID4434 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4434 3 -- not civil war link 
+CIVWARLINK-CER: MID4434 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4434 3 -- not coup 
+COUPMID-CER: MID4434 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4434 3 -- not coup link
+COUPLINK-CER: MID4434 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4434
+rivalry=371640 nationa=ARMENIA nationb=TURKEY/OTTOMAN EMPIRE MID4434 20061011-20061011 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Armenian soldiers fire shots across the Turkish-Armenian border, resulting in a Turkish diplomatic protest. Tensions between the two states have remained high, in part due to Turkish support with Azerbaijan in the Nagorno-Karabakh dispute. First day of dispute was on 10/11/2006 and last day of dispute was on 10/11/2006.
+
+MID3 1993-2001:
+
+MID4221
+rivalry=371640 nationa=TURKEY/OTTOMAN EMPIRE nationb=ARMENIA MID4221 20000911-20000911 
+ revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+A Russian guard was killed by Turkish border guards apparently after being lured toward the Turkish troops. Three months later, Turkish troops entered Armenian territory, finding Russian guards patrolling the Armenian border, who demanded the Turkish troops stop. Russian forces subsequently went on alert. First and last day of dispute was on 9/11/2000.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

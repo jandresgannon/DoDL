@@ -1,0 +1,95 @@
+FILE: cm640651v11.0.txt
+DYAD: TURKEY/OTTOMAN EMPIRE - EGYPT
+RIVALRY: RIV1210
+DISPUTE(S): MID607 MID2996 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190430
+PS-LAST-CHECKED: 20190430
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID607
+
+TERRMID: MID607 1 -- territorial MID
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: MID607 from Gibler 2018, the Baghdad Pact countries (Iraq, Turkey, Iran, and Pakistan) had a series of disputes with the Soviet-backed countries of Syria and Egypt from 1956-1958. In 1956, Iraq warned Syria that it would use force to defend itself if Syria continued to (allegedly) lie about Iraq sending arms into Syria to foment unrest. The Baghdad pact members were also concerned about Soviet support for Syria. Also in 1956, Syria protested that Turkey was threatening to attack and amassing troops at the border with Syria. Jordan warned that aggression to Syria would be seen as aggression to Jordan. In 1957, the Baghdad Pact members and the Soviet-backed countries disputed the future of Jordan, as the Baghdad Pact countries feared that the Soviet Union, Egypt, and Syria were preparing to split Jordan amongst themselves. Iraq threatened force if Jordan was split. Turkey deployed troops to the border with Syria, and NATO countries conducted shows of force. Syrian and Turkish forces clashed on the border. Coded territorial MID because this was connected to a dispute over Jordan. Although Turkey did not claim any of Jordan's territory, it did dispute Egypt's right to split Jordan and control part of Jordanian territory. (This MID appears as terrlink elsewhere.)
+
+TERRLINK: MID607 3 -- not third party link to territory 
+TERRLINK-CER: MID607 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID607 3 -- not civil war link
+CIVWARLINK-CER: MID607 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2996
+
+TERRMID: MID2996 3 -- not territory
+TERRMID-CER: MID2996 1 -- certain 
+TERRMID-NOTES: MID2996 from Gibler 2018, in 1959 the United Arab Republic (including Egypt) accused Turkey of several border violations. Tensions did not escalate. From New York Times 8/4/1959, Syria (then part of United Arab Republic) protested that Turkey violated the good neighborly agreement between the countries. Syria discovered land mines along the border. Coded not territory because although Turkey and the U.A.R. were disputing the future of Jordan (which is connected to a territorial MID two years earlier--see MID607), there is no indication in Gibler 2018 or NYT that this was connected to that dispute. This was rather about the border between Turkey and Syria, and because Syria and Egypt are both members of the U.A.R., Egypt is pulled into this dispute. This does not concern the issue of Jordan, whose borders are not near this incident. 
+
+TERRLINK: MID2996 3 -- not third party link to territory 
+TERRLINK-CER: MID2996 1 -- certain
+TERRLINK-NOTES: MID2996 this MID was connected to the border between Turkey and Syria, which was not disputed per Huth and Allee 2002, and is far away from the disputed Jordanian territory. This seemed to be a border patrolling incident. 
+
+MARITMID: MID2996 3 -- not maritime 
+MARITMID-CER: MID2996 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2996 3 -- not islands 
+ISLMID-CER: MID2996 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2996 3 -- not civil war 
+CIVWARMID-CER: MID2996 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2996 3 -- not civil war link
+CIVWARLINK-CER: MID2996 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2996 3 -- not coup 
+COUPMID-CER: MID2996 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2996 3 -- not coup link
+COUPLINK-CER: MID2996 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+New York Times (1959). Syrians Accuse Turkey. New York Times August 4: 11.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.

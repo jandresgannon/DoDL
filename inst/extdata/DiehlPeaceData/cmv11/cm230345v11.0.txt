@@ -1,0 +1,260 @@
+FILE: cm230345v11.0.txt
+DYAD: SPAIN-YUGOSLAVIA
+RIVALRY: RIV613 ISOLATED
+DISPUTE(S): MID3551 MID4137 MID4186 MID4343 
+
+RIVNOTES: 
+
+RIV613 is considered an isolated rivalry because all the MIDs are part of one war.
+RIV613: MID4186, this MID has been broken up into two MID4186 & MID4343 because the incidents were more than 6 months apart in mid3.02
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180216
+PS-LAST-CHECKED: 20180217
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3551 
+
+TERRMID: MID3551 3 -- not territory 
+TERRMID-CER: MID3551 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3551 1 -- third party link to territorial MID
+TERRLINK-CER: MID3551 1 -- certain 
+TERRLINK-NOTES: MID3551 from cm narrative, Serbia's President Milosevic did not want Yugoslavia to break up into independent republics and attacked Croatia and Bosnia to prevent this. Yugoslavia thought the Yugoslavian states should not have their own boundaries independent of a Yugoslavian state. They therefore refused to recognize the independence of states that declared independence from Yugoslavia, still claiming their territory as part of Yugoslavia. Coded third party link to territorial MID because Spain (as part of UN/NATO) became involved in this MID, which is territorial, civil war, and civil war link. See CIVWARMID and CIVWARLINK. 
+
+MARITMID: MID3551 3 -- not maritime 
+MARITMID-CER: MID3551 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3551 3 -- not islands 
+ISLMID-CER: MID3551 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3551 1 -- civil war MID
+CIVWARMID-CER: MID3551 1 -- certain 
+CIVWARMID-NOTES: MID3551 from cm narrative, MID3551 covers the break up of the former Yugoslavia and the fighting in the three former republics of Yugoslavia, Slovenia, Croatia, and Bosnia-Herzegovina. These were civil wars in which the UN and NATO intervened. Slovenia, Croatia, Macedonia, Montenegro, and Bosnia-Herzegovina all elected non-communist and nationalist/independence parties in their elections and began to make preparations for secession from Yugoslavia. President Milosevic of Serbia would not allow a breakup of Yugoslavia. Milosevic and other Serb leaders sent guerrillas into Serb-majority districts in Croatia, armed the villagers, and the newly armed villagers violently invaded non-Serb majority districts and occupied them. Eventually, Croatian militias began fighting to retake the districts. Coded civil war MID because civil war within Yugoslavia eventually convinced NATO and UN states to intervene and put a stop to ethnic cleansing in Bosnia. The US, UK, France, Germany, Greece, Turkey, Spain, Netherlands, and Italy all took part in shows of force, a blockade, and/or a no fly zone over Yugoslavia, pulling them all into this MID against Yugoslavia. 
+
+CIVWARLINK: MID3551 1 -- civil war link 
+CIVWARLINK-CER: MID3551 1 -- certain 
+CIVWARLINK-NOTES: MID3551 coded civil war link because this also involved insurgent forces fighting outside of this dyad, especially in Albania and Croatia. 
+
+COUPMID: MID3551 3 -- not coup 
+COUPMID-CER: MID3551 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3551 3 -- not coup link
+COUPLINK-CER: MID3551 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4137 
+
+TERRMID: MID4137 3 -- not territory 
+TERRMID-CER: MID4137 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4137 1 -- third party link to territorial MID
+TERRLINK-CER: MID4137 1 -- certain 
+TERRLINK-NOTES: MID4137 from cm narrative, this is the Kosovo conflict, February 1998-June 1999. Fighting erupted in Kosovo between ethnic Albanians and Serbs, and Serbian President Milosevic sent troops to fight inside Kosovo. UN/NATO militarily intervened to stop the violence, triggering their involvement in this MID. Coded third party link to territory because Kosovo had declared independence, but Serbia did not recognize them and declared Kosovo as part of its territory in the interest of "protecting" the ethnic Serbs there. 
+
+MARITMID: MID4137 3 -- not maritime 
+MARITMID-CER: MID4137 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4137 3 -- not islands 
+ISLMID-CER: MID4137 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4137 1 -- civil war MID
+CIVWARMID-CER: MID4137 1 -- certain 
+CIVWARMID-NOTES: MID4137 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4137 1 -- civil war link 
+CIVWARLINK-CER: MID4137 1 -- certain 
+CIVWARLINK-NOTES: MID4137 coded civil war link because this MID involved ethnic insurgents fighting inside Kosovo, outside of this dyad. Serbian guerrillas and troops fought Albanian guerrillas within Kosovo. 
+
+COUPMID: MID4137 3 -- not coup 
+COUPMID-CER: MID4137 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4137 3 -- not coup link
+COUPLINK-CER: MID4137 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4186 
+
+TERRMID: MID4186 3 -- not territory 
+TERRMID-CER: MID4186 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4186 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4186 1 -- certain 
+TERRLINK-NOTES: MID4186 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4186 3 -- not maritime 
+MARITMID-CER: MID4186 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4186 3 -- not islands 
+ISLMID-CER: MID4186 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4186 1 -- civil war MID
+CIVWARMID-CER: MID4186 1 -- certain 
+CIVWARMID-NOTES: MID4186 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4186 1 -- civil war link 
+CIVWARLINK-CER: MID4186 1 -- certain 
+CIVWARLINK-NOTES: MID4186 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4186 3 -- not coup 
+COUPMID-CER: MID4186 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4186 3 -- not coup link
+COUPLINK-CER: MID4186 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4343 
+
+TERRMID: MID4343 3 -- not territory 
+TERRMID-CER: MID4343 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4343 1 -- third party link to territorial MID 
+TERRLINK-CER: MID4343 1 -- certain 
+TERRLINK-NOTES: MID4343 from cm narrative, this is one of two MIDs connected to Yugoslavia's withdrawal from Kosovo and the lingering hostilities between Yugoslavia and UN/NATO forces. These MIDs are coded separately due to the temporal separation between them. Clashes occurred as Milosevic was attempting to hold onto power in Serbia. Coded third party link to territory because Kosovo was partially territorial in nature, as Yugoslavia did not recognize its independence and claimed its territory as its own due to ethnic Serbs. UN/NATO countries' military intervention in Kosovo pulls them into this MID. 
+
+MARITMID: MID4343 3 -- not maritime 
+MARITMID-CER: MID4343 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4343 3 -- not islands 
+ISLMID-CER: MID4343 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4343 1 -- civil war MID
+CIVWARMID-CER: MID4343 1 -- certain 
+CIVWARMID-NOTES: MID4343 the Yugoslavian War involved extensive fighting between insurgent groups organized along ethnic lines, and these groups sometimes fought against states as well. Here, ethnic Albanians fought inside Serbia/Yugoslavia over Serbia's aggression toward ethnic Albanians in Kosovo. Coded civil war MID because this MID involved insurgents fighting inside Serbia/Yugoslavia against Serbian guerrillas.
+
+CIVWARLINK: MID4343 1 -- civil war link 
+CIVWARLINK-CER: MID4343 1 -- certain 
+CIVWARLINK-NOTES: MID4343 coded civil war link because this MID involved ethnic Albanian and Serb guerrillas fighting inside Kosovo, outside of this dyad.
+
+COUPMID: MID4343 3 -- not coup 
+COUPMID-CER: MID4343 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4343 3 -- not coup link
+COUPLINK-CER: MID4343 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3551
+rivalry=230345 nationa=SPAIN nationb=YUGOSLAVIA-SERBIA MID3551 19920716-19961002 
+ revtype1a=POLICY revtype2a=. fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=. fatalb=NONE fatalpb=0 lhostb=USE OF FORCE 
+
+In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, France, Germany, Greece, Turkey, Spain and Italy. The blockaded against Yugoslavia commences on 11/22/1992 with Belgium joining the states mentioned above. Netherlands joins the MIDdue to its assistance to the US and France by enforcing a No-Fly zone over Yugoslavia on 4/12/1339. End date is the end date of the Blockade. First day of dispute was on 7/16/1992 and last day of dispute was on 10/2/1996.
+
+MID4137
+rivalry=230345 nationa=SPAIN nationb=YUGOSLAVIA-SERBIA MID4137 19980611-19990610 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=501-999 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99. First day of dispute was on 6/11/1998 and last day of dispute was on 6/10/1999.
+
+MID4186
+rivalry=230345 nationa=SPAIN nationb=YUGOSLAVIA-SERBIA MID4186 20000221-20000403 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=DISPLAY OF FORCE 
+
+This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. First day of dispute was on 2/21/2000 and last day of dispute was on 4/3/2000.
+
+MID4343
+rivalry=230345 nationa=YUGOSLAVIA-SERBIA nationb=SPAIN MID4343 20001124-20001128 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 11/24/2000 and last day of dispute was on 11/28/2000.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, Belgium, France, Germany, Greece, Turkey, Spain and Italy.
+
+MID4137 In response to Yugoslav military activity in the bordering Kosovo region, Albania, followed by other nations, took military action against Yugoslavia. Albania began by fortifying its border with Yugoslavia, and engaged in numerous subsequent incidents with Yugoslavia over its stance toward ethnic Albanians in Kosovo. Beginning in mid-1998, NATO states began conducting military exercises and other shows of force and began to threaten Yugoslavia with airstrikes if it did not change its Kosovo policy. Yugoslavia responded with mobilizations and other militarized actions. From 3/24/99, NATO countries began carrying out airstrikes against Yugoslavia, which acceded to NATO demands to leave Kosovo in early June 1999. NATO bombings ceased on 6/10/99.
+
+MID4186 This dispute deals with the relationship between NATO and Yugoslavia. At this time KFOR was patrolling the border between Kosovo and Yugoslavia, but a number of rebels from Kosovo were continuing to infiltrate into Yugoslavia and attack Serb police officers. Yugoslavia originally moved forces to the border to counter the actions by the Kosovars and this was met with a NATO threat. 
+
+MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces.
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+19459999-19571115 0.75
+
+On November 15, 1957, an Yugoslav tradition as old as Tito's regime called for the end of the economic boycott between Yugoslavia and Spain. Yugoslavia broke off diplomatic relations and imposed an economic boycott on Spanish products in 1937 at the start of the Spanish Civil War. The re-start of the diplomatic relations was not mentioned. Yugoslavia still maintains links with Spanish Loyalists in exile. A high number of Yugoslav officials made their names in the Spanish Civil War, fighting on the losing side of the Loyalists. Koca Popovic, the Yugoslav Foreign Minister, and Ivan Gosnjak, the Defense Minister during 1957, fought in that war. 28 Yugoslav generals and 10 ambassadors fought in the Spanish Civil War on the Loyalists side. Yugoslavia never recognized Franco's Spain and instead recognized the old Spanish Loyalist ambassador, Frederico Minana, to Belgrade, until 1954, when he died. During this period Yugoslavia voted against Spain joining any of the UN institutions. However, with the end of the economic boycott in fall 1957, the relations entered on a path towards normalization. 
+
+19571116-19920715 0.5
+
+During the 1960s and 1970s most of the relations between Spain and Yugoslavia were of an economic nature. Goods worth 10,500,000 dollars were exported to Spain in 1984 from Yugoslavia and the value of goods imported from there was 42,000,000 dollars. According to Spanish data, however, imports into Spain from Yugoslavia were worth 40,000,000 dollars, which indicates that Spain imported through third countries considerably more Yugoslav goods than Yugoslav statisticians recorded in the direct trade. Exports to Spain last year consisted mostly of tractors, sawn timber and maize; the principal imports from there were chemicals, edible oils, tinplate and cork. King Juan Carlos I, accompanied by Queen Sofia, arrived on 22nd May, 1985 for an official and friendly visit to Yugoslavia at the invitation of the SFRY Presidency. Official talks between Radovan Vlajkovic, President of the SFRY Presidency, and the King were held the same day. The two-hour exchange of views took place in a cordial and friendly atmosphere. The two countries' foreign ministers, Fernando Moran and Raif Dizdarevic, also took part. The talks embraced bilateral and international relations and demonstrated a great similarity or identity of views. The Yugoslav side accepted with great pleasure King Juan Carlos's invitation to the SFRY President to visit Spain. During the talks it was stressed that relations between Yugoslavia and Spain were good and following an upward trend and that both sides wanted economic co-operation to be raised to the level of political relations. Both countries felt that the only way out of the crisis in Central America was a peaceful way and they extended their support in this respect to the Contadora group. The talks also covered the consequences which Spain's membership of the European Community would have for Yugoslavia's co-operation with that organisation. Both sides expressed the hope that Yugoslavia's interests would be preserved and suffer no damage because of Spain's membership. Radovan Vlajkovic and his wife gave a formal dinner in the evening of the 22nd in honor of King Juan Carlos I and Queen Sophia.
+
+In the first 10 months of 1988, Yugoslav firms shipped goods worth 63,100,000 dollars to buyers in Spain, 45.4% up on the same period last year. Imports from Spain were worth 38,500,000 dollars, 66.7% up on the same period in 1987. Trade and exchange of services this year are expected to reach 150,000,000 dollars, an increase of about 50% on 1987. Yugoslav exports to Spain are mostly made up of the products of the petrochemical, metal-processing, rubber and food industries, while Spain exports to Yugoslavia organic chemistry, ferrous metallurgy, leather and other products. Six Yugoslavia rubber enterprises have founded a joint firm for the manufacture and sales of car tyres in Seville, and Iskra of Ljubljana has a plant in Spain producing electricity meters.
+
+Lazar Mojsov, President of the SFRY Presidency, with his wife and the other members of the Yugoslav delegation arrived in Madrid by special aircraft on 5th April, 1988. They were welcomed at the airport by Spanish Foreign Minister Francisco Fernandez Ordonez and other officials. From there they were taken by helicopter to the Pardo Palace, their residence during the visit, where they were accorded a formal welcome by their hosts, King Juan Carlos and Queen Sofia. The ceremony was also attended by Premier Felipe Gonzalez and other officials. The delegation includes Budimir Loncar, Federal Secretary for Foreign Affairs; Dragi Danev, member of the Federal Executive Council; Dragomir Vucicevic, Slobodan Kotevski, Ivan Ivekovic and others as well as the SFRY Ambassador in Spain, Redzai Suroi. At an informal luncheon given by King Juan Carlos and Queen Sofia, the Spanish sovereign presented Mojsov with the highest Spanish decoration for foreign statesmen visiting Spain, the Collar for Civic Services. Ljiljana Mojsov was presented with the Ladies' Sash for Civic Services. 
+
+In the morning of the 6th April,1988, the President of the Yugoslav Presidency addressed the Cortes. He emphasized that the historical transformation of Spain had been an exceptionally important event for the whole of the European continent and all the trends of democratization of relations in it. Since that time Yugoslavia and Spain, having followed similar and close historical paths, had been strengthening co-operation more rapidly and comprehensively. Speaking about the situation in the Mediterranean, Mojsov pointed to the need to advance mutual co-operation in the region. ''We cannot accept the existing situation'', he added, because ''this would mean putting at risk peace, freedom and co-operation between independent and equal nations of the Mediterranean, which are linked despite all their mutual differences and divisions''. ''This is also how I see co-operation between Yugoslavia and Spain'', he went on, ''between a non-aligned Mediterranean country and a country which is a member of the EEC, as a joint responsibility of friendly, but in many ways different, countries, towards themselves, towards their common continent, towards the world as a whole.''
+
+On 13th December,1991, the Deputy Prime Minister of the Yugoslav republic of Montenegro Vuk Ognjanovic said that the European Community, which is applying economic sanctions only against the Republics of Serbia and Montenegro, is punishing those who want to preserve Yugoslavia and aiding those who want Yugoslavia to disintegrate. Ognjanovic said in a talk with Deputy Spanish Foreign Minister Francisco Villar that the war in Yugoslavia had in fact been started by the secessionist republics which unilaterally proclaimed independence... The Deputy Montenegrin Prime Minister said that the Federal Army had been compelled to carry out its constitutional duty and defend the bare existence of Serbs in Croatia. Ognjanovic expressed hope that the Serbian, Montenegrin, Macedonian and Muslim nations would find a common language and interest in preserving a common Yugoslav state which would be based on the principles of democratic pluralism and a federal system. Villar reiterated that Spain further maintained that a possible recognition of Slovenia and Croatia must be linked to an overall solution of the Yugoslav crisis, i.e., to the Hague conference on Yugoslavia and a common EC stand.
+
+The first MID of RIV510, MID3551 In response to Yugoslav involvement in Bosnian civil war, Western countries first showed force and then began a blockade against Yugoslavia. On 7/16/1992 there was a show of force by USA, UK, Belgium, France, Germany, Greece, Turkey, Spain and Italy. 
+
+20001129-20069999 0.5
+
+The last MID of RIV493, MID4343 ended on November 28th, 2000. MID4343 started on November 24, 2000 and lasted until November 28, 2000. The Serbian Interior Ministry said in a statement on November 24, that NATO must stop "terrorists" from entering Serbia from Kosovo by the evening of 27 November. If the infiltration and attacks continue, Serbian police will enter the 5-kilometer buffer zone along the border with Kosovo "with the means that are available," Bozo Prelevic said. He is one of three interior ministers in the transitional Serbian government. On 27 November, however, Serbian Deputy Prime Minister Nebojsa Covic said near Bujanovac that the deadline is "simply postponed" indefinitely to give diplomacy a chance. AP reported, however, that a military buildup is under way on either side. NATO has called on the two sides to show restraint. This whole MID was over the deadline and the threat to use violence Serbian police gave NATO forces.
+
+On December 11, 2001, the Foreign Minister Josep Pique has said it is "undesirable" for Montenegro to hold a referendum on its possible independence and has urged the authorities of the republic, of Serbia and of the Yugoslav Federation to make progress in a constitutional dialogue which respects territorial integrity.
+
+"The future of the region as a whole must be formulated within the perspective of integration into Europe" and "any process of secession would go in the opposite direction", warned Pique after meeting his Yugoslav counterpart, Goran Svilanovic, although he added that, in the event of the referendum being called, the necessary conditions have been established to provide it with a minimum democratic legitimacy.
+
+At a joint news conference, Svilanovic also voiced his support for focusing the efforts of these republics on the process of integration into European institutions, and he said he shared with Pique the aim of initiating negotiations at the end of 2002 with a view to the signature of an association and stabilization agreement between the EU and Yugoslavia similar to that already signed with Croatia.
+
+At their meeting today, Pique and Svilanovic agreed to hold, under the Spanish EU presidency, two meetings of the working group created on Yugoslavia's membership, one of them in February, and they examined the possibilities of increasing bilateral cooperation in the political and economic fields...
+
+Pique also stressed Spain's willingness to help Yugoslavia on its journey towards integration into the EU-"aware of the enormous difficulties and obstacles" which that aim presents-as well as his interest in passing on to the Yugoslav authorities Spain's experience of political and economic transition to democracy. Svilanovic declined to comment on the trial of Slobodan Milosevic at the tribunal in The Hague and confined himself to saying that the Yugoslav federal authorities are following "closely" all the details of the investigation begun to clarify the responsibilities of those who committed or encouraged war crimes.
+
+On 25 November 2002, the Trade Promotion Agency for the Autonomous Region of Aragon opened its office in Belgrade, with a view to improving trade between Serbia and Montenegro and the region of Aragon.
+
+On June 25, 2002, the Yugoslav Federal Vice-Premier, M. Labus, met with the then Spanish Foreign Minister, J. Pique, in Madrid. On September 14, 2002, the Federal Foreign Minister G. Svilanovic met with the Spanish Foreign Minister, Ana de Palacio, in New York. On October 2-4, 2002, the President of the FRY Federal Assembly Chamber of Citizens, D. Micunovic, had a working meeting with the President of the Spanish Congress of Deputies, Luisa Fernanda Rudi Úbeda, during the session of the OSCE Parliamentary Assembly in Madrid. On October 25-26 2002, the Federal Foreign Minister G. Svilanovic attended the session of the General Assembly of the Madrid Club (an NGO) in Madrid. On June 3, 2003, the Foreign Minister G. Svilanovic met with his Spanish opposite number, A. Palacio, at the NATO Ministerial Meeting in Madrid. On 
+June 12, 2003, the Secretary of State for European Affairs in the Spanish Foreign Ministry, Ramon De Miguel, visited Serbia and Montenegro. On the occasion of his visit, he met with Serbia and Montenegro president Marovic, Serbian Prime Minister Zivkovic, Foreign Minister Svilanovic, Serbian Minister for Foreign Economic Relations Pitic and Deputy Foreign Minister Luksic. On December 4-5, 2003, the political consultations were held at the level of the Assistant Foreign Ministers at the Ministry of Foreign Affairs of Spain in Madrid. On July 28-29, 2004,the Deputy Foreign Minister of Serbia and Montenegro visited Spain. On December 20, 2004, the Spanish Crown Prince Felipe made an official visit to Yugoslavia on the occasion of the opening of the `Cervantes' Institute in Belgrade. 
+
+On May 16-17, 2005, was the official visit of the Minister for Foreign Affairs of Spain, M.A. Moratinos, to Serbia and Montenegro. On October 20-26, 2005, the official visit of the Minister for State Administration and Local Self-Government of the Republic of Serbia, Z. Loncar. On November 20-25, 2005, the official visit of a government and business delegation of Serbia and Montenegro to Spain headed by the Minister for Foreign Economic Relations, Predrag Ivanovic. On 19 January 2006, the Yugoslav Foreign Minister Vuk Draskovic visited Spain. InSeptember 2006, Yugoslav President Boris Tadic and Foreign Minister Vuk Draskovic met with Foreign Minister Moratinos during the opening of the UN General Assembly. 
+
+In 2005, Serbian exports to Spanish market increased (our exports accounted for US$ 59,242 million, while imports reached US$ 112,849 million. In the January-October 2006 period, commodity exchange was on the rise (our exports amounted to US$ 54.3 million and imports to US$ 96.1 million. Spain has established a micro credit programme (of 5 million Euros) for the promotion of small and medium size enterprises in Serbia. The cooperation with the Spanish Agency for Economic Cooperation (AECI) has been continued. The transfer of an additional 5 million Euros for the micro credits for farmers in Serbia has been successfully completed.
+
+On 18 November 2004 an Agreement was signed granting 10 million Euros to Serbia and Montenegro for the development of small and medium size enterprises in Serbia and Montenegro. Thereby, the amount of micro credits was increased from 5 to 10 million Euros annually. On 22 March 2004, a Join Business Council between the Chamber of Commerce of Serbia and the Chamber of Commerce of Spain was established. On the occasion of the visit of Spanish State Secretary Ramon De Miguel, a Technical Assistance Cooperation Programme was signed by the Serbian Ministry of Foreign Economic Relations and by the Spanish Ministry of Foreign Affairs. On 13 June 2005 an Agreement on Financial Cooperation was signed in Madrid in the form of concession loan provided by the Spanish Development Assistance Fund (FAD) amounting to 50 million Euros (Republic of Serbia-45 million, Montenegro-5 million Euros). In July 2006, the Spanish Government made a decision to extend financial support to Serbian Trust Fund for Reintegration of Surplus Officers of the Army of Republika Srpska (TF) in the amount of EUR 300,000. In addition, it was announced that Spain will allocate EUR 200,000 for demining effort (Trust Fund).
+
+An Agreement on consolidation of the status of bilateral treaties concluded between the SFR of Yugoslavia and Spain was signed in Belgrade on 17 May 2005. The Agreement incorporates five treaties: on tourism, air transport, legal assistance and extradition, road transport and the Agreement on Economic and Industrial Cooperation. The FRY signed a bilateral agreement with Spain to settle its debt to that country, in June 2002. The basis was a decision of the Paris Club. The Agreement on Promotion and Protection of Investment came into force on 31 March 2004. The Agreement on Cultural, Educational and Scientific Cooperation between Serbia and Montenegro and Spain was signed in Madrid on 24 September 2003. During the visit of the Spanish Foreign Minister , A.M. Moratinos, between 16 and 17 May 2005 an Agreement on the Abolition of Visas for the Holders of Diplomatic and Official Passports was signed in Belgrade. The Agreement entered into force on 30 June 2006. The signing of an Agreement for the Avoidance of Double Taxation is pending. Negotiations are underway to sign the Readmission Agreement, the Agreement on cooperation in the fight against various forms of organized crime and the Agreement on mutual recognition of driver's licenses.
+
+The `Cervantes' Institute was opened in Belgrade in February 2004. The Program on cultural and educational cooperation and the Agreement on the activities of cultural and information centers are expected to be signed soon.
+
+PS-SOURCES: http://www.mfa.gov.yu/Policy/Bilaterala/Spain/basic_e.html, New York Times November 16, 1957; April 7, 1973; BBC July 11, 1980; April 25, 1985; May 27, 1985; March 6, 1986; April 12, 1988; January 5, 1989; December 16, 1991; December 11, 2001
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

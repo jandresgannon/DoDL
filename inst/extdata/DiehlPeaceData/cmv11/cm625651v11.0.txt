@@ -1,0 +1,394 @@
+FILE: cm625651v11.0.txt
+DYAD: SUDAN-EGYPT
+RIVALRY: RIV1184
+DISPUTE(S): MID1091 
+RIVALRY: RIV1185
+DISPUTE(S): MID3970 MID4286 MID4287 MID4134 MID4288 
+
+RIVNOTES: 
+
+PS: 19560101-19591107 0.25 19591108-19910131 0.5 19910201-19960624 0.00 19960625-20000413 -9 20000414-20209999 0.25
+
+PS-UPDATE2020:this remains a lesser rivalry because of the unresolved dispute over the Halayeb Triangle area, which has prevented economic cooperation and better relations on other fronts. Tensions have also been exacerbated by disagreements over visas and dam projects. •	Summary of how Sudan-Egypt relations have changed amid shifting regional dynamics in the Middle East (https://www.ide.go.jp/library/English/Publish/Reports/Rb/2019/pdf/2018_2_40_008.pdf) •	Sudan adopted stricter borer policies in 2017  Egyptian males between 18-50 must obtain a visa before entry into Sudan (https://sudantribune.com/article60331/) •	After the Sudanese uprising of 2018-2019, many Sudanese tried to Egypt in search of better work opportunities o	“While official figures from Egyptian border guards, quoted in local newspapers, refer only to people from multiple nationalities detained for illegally crossing the border, they show a fivefold rise from 6,000 illegal migrants detained in 2017 to 30,000 by December 2019. This surge heightened frictions as Egyptians sought to put pressure on Sudanese authorities to cooperate better in controlling the border. Adding to the strains, the Egyptians accused Sudan of welcoming members of the Egyptian Muslim Brotherhood whom they had sought to arrest in the post–July 2013 coup period. This led to tighter Egyptian security measures along the border, further marring the Egyptian-Sudanese relationship after that” (https://carnegie-mec.org/2020/06/11/egypt-sudan-border-story-of-unfulfilled-promise-pub-81995) •	February 2020: Sudan sides with Ethiopia in the Grand Ethiopian Renaissance Dam, a project that Egypt has opposed because it threatens to reduce its share of Nile waters (https://www.brookings.edu/blog/africa-in-focus/2020/08/05/the-controversy-over-the-grand-ethiopian-renaissance-dam/)
+
+
+PSNOTES: 
+
+thompson rivalry cm625651 ,19910000 ,20100000 
+
+For the period 19960625-20000413, the begin date was changed from 199600625 to 19960625 because of an extra digit in the date. This change was made from version 1.0 to 1.1 of the data.
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220531
+PS-LAST-CHECKED: 20220531
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1091
+
+TERRMID: MID1091 1 -- territorial MID
+TERRMID-CER: MID1091 1 -- certain 
+TERRMID-NOTES: MID1091 from Gibler 2018, in 1958 Egypt protested the upcoming Sudanese elections and demanded that Sudan both withdraw from the disputed territory of Halaib and surrender it to Egypt. Sudan reinforced the territory. Coded territorial MID because this was connected to the disputed territory of Halaib. 
+
+TERRLINK: MID1091 3 -- not third party link to territory 
+TERRLINK-CER: MID1091 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1091 3 -- not maritime 
+MARITMID-CER: MID1091 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1091 3 -- not islands 
+ISLMID-CER: MID1091 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1091 3 -- not civil war 
+CIVWARMID-CER: MID1091 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1091 3 -- not civil war link
+CIVWARLINK-CER: MID1091 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1091 3 -- not coup 
+COUPMID-CER: MID1091 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1091 3 -- not coup link
+COUPLINK-CER: MID1091 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3970
+
+TERRMID: MID3970 3 -- not territory
+TERRMID-CER: MID3970 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3970 1 -- third party link to territorial MID 
+TERRLINK-CER: MID3970 1 -- certain
+TERRLINK-NOTES: MID3970 from Gibler 2018, Egypt conducted military exercises directed at Sudan in 1991. Sudan supported Iraq in the 1991 Gulf War, and Egypt warned them not to allow Iraqi planes or missiles within Sudanese borders. Coded third party link to territorial MID because this was connected to the Iraqi invasion of Kuwait, a territorial MID. 
+
+MARITMID: MID3970 3 -- not maritime 
+MARITMID-CER: MID3970 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3970 3 -- not islands 
+ISLMID-CER: MID3970 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3970 3 -- not civil war 
+CIVWARMID-CER: MID3970 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3970 3 -- not civil war link
+CIVWARLINK-CER: MID3970 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3970 3 -- not coup 
+COUPMID-CER: MID3970 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3970 3 -- not coup link
+COUPLINK-CER: MID3970 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4286
+
+TERRMID: MID4286 3 -- not territory
+TERRMID-CER: MID4286 1 -- certain 
+TERRMID-NOTES: MID4286 from Gibler 2018, in 1993 Sudan seized an Egyptian university located in Sudan. Coded not territory; although the countries were disputing territory at the time, the seizure appears unrelated to the territorial dispute and was a product of general tensions between the countries. 
+
+TERRLINK: MID4286 3 -- not third party link to territory 
+TERRLINK-CER: MID4286 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4286 3 -- not maritime 
+MARITMID-CER: MID4286 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4286 3 -- not islands 
+ISLMID-CER: MID4286 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4286 3 -- not civil war 
+CIVWARMID-CER: MID4286 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4286 3 -- not civil war link
+CIVWARLINK-CER: MID4286 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4286 3 -- not coup 
+COUPMID-CER: MID4286 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4286 3 -- not coup link
+COUPLINK-CER: MID4286 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4287
+
+TERRMID: MID4287 3 -- not territory
+TERRMID-CER: MID4287 1 -- certain 
+TERRMID-NOTES: MID4287 from Gibler 2018, in 1994 Sudan seized an Egyptian club in Khartoum, as well as multiple establishments affiliated with the Egyptian government. Coded not territory; although the countries disputed territory at this time, these seizures were not connected to the territorial dispute. They did not occur in the disputed territory, and seem rather to be a product of general tensions between the countries. 
+
+TERRLINK: MID4287 3 -- not third party link to territory 
+TERRLINK-CER: MID4287 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4287 3 -- not maritime 
+MARITMID-CER: MID4287 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4287 3 -- not islands 
+ISLMID-CER: MID4287 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4287 3 -- not civil war 
+CIVWARMID-CER: MID4287 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4287 3 -- not civil war link
+CIVWARLINK-CER: MID4287 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4287 3 -- not coup 
+COUPMID-CER: MID4287 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4287 3 -- not coup link
+COUPLINK-CER: MID4287 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4134
+
+TERRMID: MID4134 3 -- not territory
+TERRMID-CER: MID4134 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4134 3 -- not third party link to territory 
+TERRLINK-CER: MID4134 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4134 3 -- not maritime 
+MARITMID-CER: MID4134 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4134 3 -- not islands 
+ISLMID-CER: MID4134 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4134 1 -- civil war MID
+CIVWARMID-CER: MID4134 1 -- certain
+CIVWARMID-NOTES: MID4134 from Gibler 2018, in 1995 a militarized rebel group attempted to assassinate the Egyptian president, and Egypt responded by fortifying their border with Sudan and conducting military exercises. From cm narrative, Sudan supported militarized rebels who were targeting Egypt and attempting to overthrow the government. Coded civil war MID because this was connected to militarized rebel activity in Egypt. 
+
+CIVWARLINK: MID4134 3 -- not civil war link
+CIVWARLINK-CER: MID4134 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4134 3 -- not coup 
+COUPMID-CER: MID4134 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4134 3 -- not coup link
+COUPLINK-CER: MID4134 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4288
+
+TERRMID: MID4288 1 -- territorial MID
+TERRMID-CER: MID4288 1 -- certain 
+TERRMID-NOTES: MID4288 from Gibler 2018, in 1996 Sudan protested that Egypt shelled Sudanese troops in the disputed area of Halaib. Coded territorial MID because this was connected to a disputed land boundary. 
+
+TERRLINK: MID4288 3 -- not third party link to territory 
+TERRLINK-CER: MID4288 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4288 3 -- not maritime 
+MARITMID-CER: MID4288 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4288 3 -- not islands 
+ISLMID-CER: MID4288 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4288 3 -- not civil war 
+CIVWARMID-CER: MID4288 1 -- certain
+CIVWARMID-NOTES: MID4288 Gibler 2018 states that tensions between the countries were high at the time of this MID due to Sudan's support for rebels who tried to assassinate the Egyptian president in the previous year (MID4134), but the militarized rebel activity was not directly connected to this MID. 
+
+CIVWARLINK: MID4288 3 -- not civil war link
+CIVWARLINK-CER: MID4288 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4288 3 -- not coup 
+COUPMID-CER: MID4288 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4288 3 -- not coup link
+COUPLINK-CER: MID4288 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4286
+rivalry=625651 nationa=SUDAN nationb=EGYPT MID4286 19930310-19930300 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The Sudanese government took over an Egyptian university in Khartoum and Egypt issued an official protest the following day. First day of dispute was on 3/10/1993 and last day of dispute was on 3/00/1993.
+
+MID4287
+rivalry=625651 nationa=SUDAN nationb=EGYPT MID4287 19940520-19940500 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+The Sudanese authorities seized the Egyptian Club in Khartoum. They also seized clubs and buildings belonging to the Egyptian Irrigation Authority in Sudan and the Egyptian military attache in Khartoum. Egyptian Ambassador to Sudan Hasan Jad al-Haqq lodged a strongly-worded protest with the Sudanese Foreign Ministry. First day of dispute wason 5/20/1994 and last day of dispute was on 5/00/1994.
+
+MID4134
+rivalry=625651 nationa=EGYPT nationb=SUDAN MID4134 19950627-19950717 
+ revtype1a=POLICY revtype2a=REGIME/GOVERNMENT fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=REGIME/GOVERNMENT fatalb=1-25 DEATHS fatalpb=2 lhostb=
+USE OF FORCE 
+
+The day after an assassination attempt on Egyptian president Mubarak clashes break out in the disputed border region Halaib between Sudan and Egypt. Bothsides accuse each other of starting the clashes. In the following days, Egypt expels 70 Sudanese police officers, moves further troops into the region and fortifies the border with Sudan. Sudan seizes Egyptian property in Khartoum and stages army exercises as a show of force. Sudanese officials even talked of mobilization; there were however no formal steps in that direction. Egyptian-Sudanese ties began deteriorating shortly after Gen. Omar Al Bashir seized power in Khartoum in 1989 and installed a Muslim fundamentalist government. The tensions grew in 1990 when Bashir's government backed Iraq during the Gulf War, and again in 1991 when Sudan granted a Canadian oil firm concessions in the disputed border area claimed by Egypt. Egypt has for more than a year accused Sudan of collaborating with Iran in arming, financing and training Muslim militants to carry out acts of subversion and violence in Egypt. Egypt claims ownership to Halaib and offshore areas in the red sea under an 1899 agreement that set the frontier along the 22nd parallel. It has said Egypt gave Sudan administrative powers in Halaib in 1902 because Sudanese tribes inhabited the triangular enclave. Sudan contends the Egyptian claim and says it has "full sovereignty" over the Halaib area. First day of dispute was on 6/27/1995 and last day of dispute was on 7/17/1995.
+
+MID4288
+rivalry=625651 nationa=EGYPT nationb=SUDAN MID4288 19960300-19960300 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=. fatalpb=. lhostb=
+NO MILITARIZED ACTION 
+
+Sudan accused Egypt of shelling its garrison in the disputed border territory of Halaib in preparation for a military campaign to occupy the Red Sea region. The Egyptian military attaché in Khartoum had been summoned to the Armed Forces Command to hear a protest against "large scale movement and intense activity by Egyptian forces" in the region. Mubarak refused to confirm reports of Egyptian military moves on the border with Sudan. He reiterated accusations that Sudan was harbouring terrorists who participated in last June's attempt to assassinate him in Ethiopia. Egypt also claims ownership to Halaib and offshore areas in the red sea under an 1899 agreement that set the frontier along the 22nd parallel. It has said Egypt gave Sudan administrative powers in Halaib in 1902 because Sudanese tribes inhabited the triangular enclave. Sudan contends the Egyptian claim and says it has "full sovereignty" over the Halaib area. First and last day of dispute was on 3/00/1996.
+
+NARRATIVE-CM:
+Sudan became a protectorate of Egypt and Britain as a result of the *Anglo-Egyptian Agreement* signed on January 19, 1899. The agreement established the 22nd parallel as the border between Egypt and Sudan. Egyptian and Sudanese representatives signed an accord on November 4, 1902, providing for Sudanese administration of the Hala'ib area (north of the 22nd parallel) on the border near the Red Sea and an area north of Wadi Halfa on the Nile River (north of the 22nd parallel). In return, Egypt was provided administrative control of an area located west of the Hala'ib area (south of the 22nd parallel). Egypt and Sudan disputed the sovereignty of the Hala'ib and Wadi Halfa areas after Sudan formally achieved its independence from Egypt on January 1, 1956. Sudan indicated that it would not be bound by the terms of any treaties or agreements concluded prior to Sudanese independence. On February 1, 1958, Egypt protested Sudanese plans to include the areas north of the 22nd parallel in its forthcoming elections. Sudan deployed troops in the Hala'ib area on February 9, 1958. Egyptian government officials and police arrived in the Wadi Halfa area in February 20, 1958, but they were detained by Sudanese police. The Sudanese government requested an urgent meeting of the *United Nations *(UN) Security Council on February 20, 1958 "to discuss the grave situation existing on the Sudanese-Egyptian border." On February 20, 1958, Sudan also requested the *League of Arab *States (LAS) secretary-general to use his good offices to resolve the crisis between the two countries. Egypy decided on February 21, 1958 to withdraw its personnel from the disputed areas, and Egyptian personnel were withdrawn from the areas on February 25, 1958. On February 28, 1958, Sudan released the Egyptian personnel that had been detained in the Wadi Halfa area. Egypt and Sudan resumed bilateral negotiations on October 10, 1959, and the countries signed an agreement concerning water rights of the Nile River on November 8, 1959. 
+
+Egyptian and Sudanese troops clashed in the Hala'ib area on April 4, 1992, resulting in the deaths of two Sudanese soldiers. Egypt and Sudan held bilateral negotiations from April 22 to May 5, 1992. Sudan accused Egypt of sending troops to the Hala'ib area on December 9, 1992. Egyptian and Sudanese troops clashed in the Hala'ib area on July 7-9, 1995, resulting in the deaths of two Sudanese policemen.
+
+SOURCES-CM: 
+Bercovitch and Jackson, 1997, 89, 261-262; Brecher and Wilkenfeld, 1997, 432-433; Butterworth, 1976, 238-239; Hassouna, 1975, 47-59; *Keesing,* March 15-22, 1958; *New York Times, *February 18, 1958, February 19, 1958, February 20, 1958, February 21, 1958, February 22, 1958, February 23, 1958; *The Times* (London), July 7, 1995.
+
+NARRATIVE-CR:
+The rivalry between Egypt and Sudan is motivated by two issues. First, there is a territorial element. The territorial area of dispute between the two countries is known as the Halaib or the Halaib Triangle. This area is a largely empty desert triangle on the border between the two countries. It was potentially oil and mineral rich. The triangle sits along the border region on the coast of the Red Sea. When the border between the two countries was negotiated by the British in 1899, this area was designated Egyptian territory. Is is however, largely uninhabited. Thus, rival claims of sovereignty are difficult to maintain as there have been little permanent structures or dwelling in the area. The second issue in the rivalry is that of insurgents of both countries receiving support by the rival. Opposition forces of the Sudanese regime are given quarter in Egypt and vice versa. In the 1990s, the Sudanese attempted to assassinate Hosni Mubarak twice which fomented previously existing tensions related to the territorial and insurgent issue. 
+
+Egypt had a long standing claim to parts of northern Sudan based on an 1899 agreement under which the 22nd parallel formed their mutual border. This became an issue when Sudan gained its independence from the UK in 1956. 
+
+In February of 1958 (MID1091) Egyptian troops moved into the border region with Sudan. Sudan responded by stationing army units in the area. Egyptian officials attempted to move into Sudanese territory and hold a plebiscite regarding the sovereignty of the area. Sudan referred the mater to the UN Security Council. Negotiations between Nasser and the Sudanese Foreign Minister settled the dispute until the issue resurface again in 1992. 
+
+Relations between Egypt and Sudan became tense again when Sudan adopted a more militant style of Islamic fundamentalist government. At the time Egypt was trying to contain domestic fundamentalist rebellion. In April of 1991, there was a border incident between the two states MID3970. In January of 1992, Sudan granted oil exploration rights to a Canadian firm in the waters of the coast of the Halaib Triangle. This was the proximate cause for a heightening of tensions. On December 9th, 1992, Sudan accused Egypt of sending more troops the the area and submitted a complaint to the UN. Egypt continued to build up troops in the area until February of 1993 MID4286. 
+
+MID4287 occurred in May of 1994. Egypt claimed that Sudanese security forces seized dozens of houses belonging to Egyptian officials and embassy staff in Khartoum. Egypt also accuses Sudan's Islamist-backed rulers of providing support for Egyptian Islamic militants, while Sudan charges Egypt with giving sanctuary to Sudanese opposition elements abroad. (Mideast Mirror 5/25/1994)
+
+Egyptian President Hosni Mubarak implicated Sudan's Muslim fundamentalist military government in an attempt to kill him in Addis Ababa on June 26, 1995 MID4134. On June 27th, a border clash between the militaries of the two countries resulted in the injuring of a Sudanese policeman. 
+
+In March of 1996, MID4288 occurred. Here Sudanese supported operatives attempted to assassinate Egyptian President Hosni Mubarak in Addis Ababa, Ethiopia. Egyptian forces killed several of the attackers. 
+
+Sudan. By the late 1990s, Sudan's diplomatic relations continued to be strained with Egypt. However, since 2000, Sudan has actively sought regional rapprochement that has rehabilitated most of these regional relations. In October of 2003, The first road link between Sudan and Egypt was planned for construction. The route is to start in the Sudanese port city Port Sudan and travel north along the Red Sea to Egypt. 
+
+SOURCES-CR:
+Agence France Presse July 25, 1995, April 01, 1996; Bercovitch and Jackson, 1997, 89, 261-262; Brecher and Wilkenfeld, 1997, 432-433; Butterworth, 1976, 238-239; Hassouna, 1975, 47-59; *Keesing,* March 15-22, 1958; *New York Times, *February 18, 1958, February 19, 1958, February 20, 1958, February 21, 1958, February 22, 1958, February 23, 1958; *The Times* (London), July 7, 1995.
+
+PS-NARRATIVE: 
+
+19560101-19591107 RIV1184-0.25
+
+Egypt and Sudan disputed the sovereignty of the Hala'ib and Wadi Halfa areas after Sudan formally achieved its independence from Egypt on January 1, 1956. Sudan indicated that it would not be bound by the terms of any treaties or agreements concluded prior to Sudanese independence. On February 1, 1958, Egypt protested Sudanese plans to include the areas north of the 22nd parallel in its forthcoming elections. Sudan deployed troops in the Hala'ib area on February 9, 1958. Egyptian government officials and police arrived in the Wadi Halfa area in February 20, 1958, but they were detained by Sudanese police. The Sudanese government requested an urgent meeting of the *United Nations *(UN) Security Council on February 20, 1958 "to discuss the grave situation existing on the Sudanese-Egyptian border." On February 20, 1958, Sudan also requested the *League of Arab *States (LAS) secretary-general to use his good offices to resolve the crisis between the two countries. Egypy decided on February 21, 1958 to withdraw its personnel from the disputed areas, and Egyptian personnel were withdrawn from the areas on February 25, 1958. On February 28, 1958, Sudan released the Egyptian personnel that had been detained in the Wadi Halfa area. 
+
+19591108-19910131 0.5 
+
+Egypt and Sudan resumed bilateral negotiations on October 10, 1959, and the countries signed an agreement concerning water rights of the Nile River on November 8, 1959. On December 27, 1969, the United Arab Republic, Libya and the Sudan have agreed to hold regular meetings every four months to coordinate their actions against Israel, in the military, political, and economic fields. On November 9, 1970, the leaders of Libya, United Arab Republic and Sudan agreed to work for establishing a federation of their countries. The agreement was announced at the end of several days of talks held in Cairo, between Anwar Al Sadat, the leader of UAR, Ghaddafi, the leader of Libya and Nimeri, the leader of Sudan. On July 19, 1976, Egypt signed a mutual defense agreement with Sudan. The timing indicated that it had been prompted by the unsuccessful coup attempt against the Sudanese government, which is alleged to have been supported by Libya. 
+
+President Jaafar Nimeri formally took the Sudan into a fledgling Egyptian-Syrian joint political command on February 28, 1977, in a move designed primarily to bolster his government against Libyan efforts to overthrow it. President Answar Sadat of Egypt and Hafez Assad of Syria left their prestige to the Nimeri government, expanding the joint command to include more than half the Arab world's population. This framework for a loose confederation was established in December 1976. It was intended more to symbolize the end of the more than year-old rift between Damascus and Cairo than to confront Israel.
+
+Egypt and Sudan, neighbors whose ties reach back into history, held a unique joint session of their parliaments in Cairo on October 24, 1977, to symbolize the warm and close relations that have put them on the road to unification. Presidents Anwar Sadat of Egypt and Jaafar Nimeri of Sudan held hands in the traditional Arab fashion as they entered the hall of the People's Assembly here to address the 610 delegates, business-suited Egyptians and turbaned Sudanese who shouted their approval as the two presidents pledged to support each other. Both expressed the hope that Egypt and Sudan, united by language, religion, history and dependence on the Nile River, would eventually become one country. Both also know, however, that the sands of the Middle East are littered with the bones of hasty, politically motivated national mergers. "The achieving of grand aspirations," Nimeri said, "needs stamina, men who believe in what they are doing, and patience . . . Let unity not necessarily come at the hands of Jaafar or Anwar today. But let it come tomorrow or later after it is solidly built." The close ties of Egypt and Sudan have the full approval of Saudi Arabia, which is always concerned about containing radicalism in the Arab world and has promised to support its Red Sea neighbors in their anti-Soviet, conservative policies. For Sadat, this session marked another in the series of steps that have drawn him increasingly into African affairs. He said that Egypt and Sudan have evolved a joint strategy to protect the entire region from any attempt at domination and aggression." This was understood to be a warning to the Soviet-backed governments of Libya and Ethiopia. Sadat and Nimeri both regard those two states as agents to Soviet imperialism in Africa and as threats to their governments. Egypt and Sudan, which a few years ago were in the Soviet orbit themselves and whose armed forces are basically Soviet-equipped, have formed a conservative, Islamic-oriented anti-Communist alliance that has become an increasingly potent force in African politics. The two countries have been linked by a defense pact since July, 1976, when Sadat helped Nimeri thwart a Libyan-backed coup attempt. As Sadat said today, Egypt and Sudan are "carrying the same sword against the same enemies." Five years ago, relations between Egypt and Sudan had chilled to the point that Egyptian teachers were being expelled from Khartoum University as their leaders feuded over Middle East policy. Since then, their common hostility to the radical states of the region and their desire to join Saudi Arabia in establishing Arab control over the Red Sea have brought them together. On paper, the two countries are made for each other, natural allies who can help each other overcome the poverty and backwardness that afflict them both. Sudan, Africa's largest country with 967,500 square miles, has a population of only about 15 million. It needs Egyptian technical assistance and manpower to help develop its vast agricultural potential as well as the political and military protection offered by Sadat.
+
+Egypt, which has almost 40 million people in a country that is 97 per cent desert, needs access to Sudanese land for its farmers and needs Sudanese food for its urban masses. The Egyptians also want a friendly power in control of the Nile's headwaters, which are life and death to this country. The Egyptians, however, must overcome a historic Sudanese suspicion that Egypt wants hegemony not partnership. Formerly known as the Anglo-Egyptian Sudan, it was under Egyptian domination for most of the 19th century and half the 20th, achieving full independence only after the Egyptian revolution of 1952. The Nile has always been the main channel of communication and travel between Egypt and Sudan. The two are only now beginning work on a road link and on direct telecommunications. They are also unifying and coordinating their national programs in health, labor and social security insurance, and planning to adopt unified textbooks. The six-day parliamentary session will consider these and other plans submitted by a bilateral committee that has been working on them since an agreement on political and economic integration was signed in 1974.
+
+On January 17, 1979, a plan for the complete integration of Sudan and Egypt in the future has been worked out, said the Sudan-Egypt ministerial high committee in a statement issued at the closing meeting of its 7th session in Cairo. The statement said, "the committee reviewed the situation in the Arab world and the middle east, and unanimously held that it is necessary to keep high vigilance over foreign interference. foreign powers are attempting to take advantage of the unstable situation of the countries in the middle east for the purpose of the making this area get into new rivalry between the superpowers and the people in this region more split." 
+
+On May 31, 1979, the chief-of-staff of the Egyptian armed forces Anmed Badawi has declared: that "Egypt and Sudan will implement their joint defense agreement if they are exposed to the danger of aggression from outside". Ahmed Badawi was speaking in an interview with the Egyptian newspaper "Al Ahram" which was made public here today. He has just returned to Cairo from Khartoum where he attended the third session of the Egyptian-Sudanese joint chief-of-staff meeting.
+
+On March 21, 1981, Egypt and Sudan announced they are reinstating ambassadorial-level relations in a move aimed at reinforcing the pro-Western Arab-African camp. Although Egypt and the Sudan never formally severed diplomatic relations, they have not maintained ambassadors in Cairo and Khartoum for the past year because of Sudan's coolness on the Egyptian-Israeli peace treaty. Sudan, an impoverished country bordering Egypt on the south, has relied heavily on Arab aid for development projects. Most Arab countries have ostracized Egypt for its peace moves with the Jewish state and 17 have formally severed ties. The Sudanese ambassador was recalled from Cairo for consultations in Khartoum and subsequently named minister of state for foreign affairs. The Egyptian ambassador to Sudan never returned after a leave in Cairo for holidays.
+
+Egypt and Sudan traditionally have had very close relations because they share the River Nile, which flows through Egypt north through Sudan. They have a common defense pact. Both countries have been disturbed by the Soviet-backed Libyan military penetration into Chad in the last three months, fearing it is the beginning of a subversive effort against moderate regimes in the region.
+
+Since April 1985's coup in Sudan, Egypt has been watching carefully for signs that Sudan might be drawing too close to Libya for Egypt's comfort. Egyptian officials believe Sudan will keep its distance from Libyan leader Col. Muammar Qaddafi despite the recent establishment of relations between the two countries. But, just in case, Egypt has signaled the new Sudanese leaders, under Gen. Abdel Rahman Swaraddahab, that Cairo would take a dim view of Sudan's drawing too close to Colonel Qaddafi and would not tolerate outside intervention in Sudan's affairs. For the last few years, Libya has been regarded by Egypt as a major threat to the stability of the region. Egypt blamed Qaddafi for the mining of the Red Sea in the summer of 1984, for the attempted assassination last November of a former Libyan prime minister living in Cairo, and for an alleged attempt last week to blow up the United States Embassy in Cairo. Egypt fears that a Sudan under the influence of Qaddafi would pose a serious threat. If Libya's sphere of influence extends to Sudan, Egypt could be isolated and surrounded by a crescent of Soviet client states hostile to Egypt and the West, starting with Libya and extending from Chad to Sudan, Ethiopia, and North Yemen. ''Sudan and Egypt have eternal ties,'' says Gabriel Warburg, an Israeli professor resident in Cairo and an expert on Sudan. ''They are tied together by the Nile. If the Sudanese regime becomes hostile to Egypt, Egypt would not lie down, and the Sudanese know it. If Swaraddahab ever does it, he'll be put in his place.''
+
+So far, however, Egyptian officials say they are relaxed about the future of Sudan under its new rulers. ''We know that Sudan is concerned about the problem of the southern rebels,'' said an Egyptian Foreign Ministry official. ''So whether there's a rapprochement with Libya or Ethiopia, that's all right.'' Sudan has long accused Libya and Ethiopia of financing and aiding rebels operating in the south of the country. Good relations with both countries would be to the Sudanese government's benefit. ''As long as there's no external threat, there's no cause for alarm,'' the Foreign Ministry official said. ''The Egyptians are quite relaxed about it all,'' said one Western diplomat. ''They think Sudan is going to be careful about Libya and they've had assurances. It's by far the best situation Egypt could have hoped for after Nimeiry.'' Egypt had strongly supported former President Jaafar Nimeiry, who now lives in Egypt. This is a source of discomfort for Cairo and an obstacle to warmer relations with the new Sudanese regime. Egypt's close ties with Nimeiry were based on common interests. He was one of the few Arab leaders to support Egypt's peace treaty with Israel in 1979. He also refused to negotiate with Qaddafi even though that could have helped end the civil war in the south. The new Sudanese regime, however, is determined to solve the problem of the south and to make peace with Qaddafi, if that is the price. The recent coup also brought to the surface strong anti-Egyptian feelings among the professional class in Khartoum. The professionals resent Egypt for having bolstered Nimeiry through previous coup attempts until the end. Because of the anti-Egyptian feeling, Egypt says it must adopt a low profile and allow the resentments to dissipate. No high-level official has visited Khartoum since the coup. Egypts feels a visit now would make it appear that Cairo is trying to balance Qadaffi's May 18 visit to Khartoum. They also do not seem concerned that Sudan has not yet appointed a new ambassador to Cairo. Egypt is trying to make itself more likable, and wants to remove Nimeiry as a source of contention. Right after the coup, Egypt virtually forced Jaafar Nimeiry to send a cable of good wishes to General Swaraddahab. The Egyptians have forbidden Nimeiry from making political statements or giving interviews. They are hoping Sudan will find out for itself what kind of ruler Qaddafi is. ''The actions of the Libyans in Khartoum did more for the Egyptian cause than Egypt could have done,'' said the Western diplomat, referring to the visit to Sudan three weeks ago of Libyan Prime Minister Abdul Salam Jalloud. Mr. Jalloud was to arrive in Khartoum with an entourage of 40 Libyans. Instead, the diplomat said, he arrived with 140. ''They were carrying guns. It was offensive,'' said the diplomat. ''The Sudanese were quite tough with the Libyans. They were not prepared to accept aid from Libya if it was tied to a condemnation of the West or of (the Egyptian-Israeli peace treaty).'' Egypt is relying on Sudan's political sense for the moment. ''They're watching out for too much Libyan political influence in the parties and armed forces,'' said the diplomat. ''They would take a dim view of high-level visits of members of the armed forces.'' A friendship treaty between Sudan and Libya would not be acceptable to the Egyptians.
+
+On October 15, 1986, trade ministers of Sudan and Egypt have held several rounds of talks here during the past week to solve pending issues including Egypt's deficit in trade with Sudan. The trade between the two neighboring countries has reportedly been in favor of Sudan in 1986 for the first time. 
+
+Egypt and Sudan signed a "brotherhood charter" on February 21, 1987, that replaces and waters down a 1982 agreement once considered a stepping stone toward a possible merger of the two countries. The accord, negotiated at Sudan's request, was signed by Sudanese Prime Minister Sadek el-Mahdi and Egyptian Prime Minister Atef Sedki. Four years before, an agreement called the Integration Charter was signed. It outlined a 10-year program of close coordination in economic, social, defense and other fields. President Hosni Mubarak and Gaafar Nimeiri, then the president of Sudan, said when they signed the old document that the two countries might unite if the decade-long experiment worked. A coup which followed widespread unrest in Khartoum's streets ousted Nimeiri in April 1985. El-Mahdi became prime minister a year later when a transitional military regime surrendered power to civilians. Egypt's relations with el-Mahdi's government have been strained over such issues as Cairo's decision to grant asylum to Nimeiri and Khartoum's fence-mending with Libya, Egypt's archenemy. El-Mahdi's government has said the Integration Charter was tailored to Nimeiri's interests and lacked popular support. The Brotherhood Accord is a loosely worded agreement reading more like a joint communique. It notes the countries' "special relationship of destiny" and common bonds including the Nile River and strategic interests. "Egypt is Sudan's northern depth, and Sudan is Egypt's southern depth," it said. "This charter is a first step toward meeting the aspirations of our two peoples for fraternity and kinship," the charter says. It establishes a joint committee, chaired by the two prime ministers, to oversee cooperation. The scrapped charter had established several integration institutions, including an eight-member council led by the heads of state, a 60-member joint parliament and a special fund to finance joint projects. The new agreement voiced Egypt's support of Sudanese government efforts to end the 4-year-old rebellion in southern Sudan led by renegade army Col. John Garang. The rebels, demanding administrative and economic reforms, thus far have spurned Mahdi's overtures for peace talks.
+
+On October 11, 1988, Egyptian Prime Minister Dr Atif Sidqi has declared that an agreement was reached to hold a meeting of the expanded committee for the Egyptian-Sudanese brotherhood charter in Cairo under the chairmanship of the Egyptian and Sudanese Prime Ministers at the end of November. In a news conference prior to his departure from Khartoum today, Dr Sidqi expressed his appreciation to the Sudanese government, the Sudanese leaders and the State Council for the warm hospitality accorded him and the members of his delegation during their visit to Sudan. . . Dr Sidqi went on to say that his talks with Prime Minister Sadiq al-Mahdi and Sudanese leaders dealt with all topics which concern the two countries, particularly bilateral relations and political and economic co-operation. The talks, Dr Sidqi added, also dealt with the situation in the Arab world, Africa, the Middle East and the Gulf. He pointed out that there is a half-completed agreement between Egypt and Sudan on all these topics, as stated by Sadiq al-Mahdi. Dr Sidqi noted `We also discussed everything dealing with ongoing peace efforts both in the Gulf and Sudan, and relations between Sudan and its neighbours, seeking to end the events that are taking place in the southern region of fraternal Sudan. The discussions touched on developments in the Middle East, including the Palestinian cause, the Palestinian people's historic uprising and Lebanon.' In the news conference, the Egyptian Prime Minister noted that the brotherhood charter, which was signed between Egypt and Sudan in February 1987, was implemented in accordance with the noble initiative of Sudanese Prime Minister Sadiq al-Mahdi. Both Egypt and Sudan hold common views that this charter should constitute a framework for excellent relations between the two countries and should deal with all aspects that concern these relations. Dr Sidqi noted that in the next stage there will be strenuous efforts by the technical committees in preparation for the meeting of the expanded committee under the chairmanship of the two countries' Prime Ministers in Cairo in late November. As far as Egypt's support for Sudan in helping it ride out its crisis resulting from the floods, Dr Sidqi said that Egypt will place itself at the disposal of Sudan. 
+
+Sudanese Foreign Minister Sayed Ahmed al Hussein left for Cairo on June 8, 1989, to discuss with Egyptian officials the cancellation of the Sudanese-Egyptian defense agreement and the activities of former Sudanese president Gaafar Nimeri in Egypt. Hussein is carrying a message from Sudanese prime minister Sadeq al-Mahdi to Egyptian prime minister Atef Sedki on the above-mentioned two subjects, local newspapers reported. Sudan suggests that Egypt and Sudan should reach an agreement on rescinding the joint defense pact in order to pave the way for achieving peace in south Sudan. Sudan wants to create a good climate for making peace with the rebel Sudan people's liberation army (SPLA) which insists on cancelling Sudan's defense pacts with both Egypt and Libya. Sudan signed a joint peace pact with Egypt in 1976. Meanwhile, Sudan has complained that Nimeri, who was toppled in 1985 in a bloodless military coup and sought political asylum in Egypt, recently began to engage in political activities in Egypt, issuing leaflets, making public statements and giving interviews with some Arab papers.
+
+In an editorial appearing on the 30th June, 1989, edition of 'Al-Musawwar', Makram Muhammad Ahmad, head of the Egyptian Journalists Association and chief editor of `Al-Musawwar' said that during that meeting President Mubarak voiced his extreme astonishment that some people in Khartoum imagined that Egypt could use former Sudanese President Ja'far Numayri against the extant lawful government in Sudan. Ahmad said that President Mubarak told the Sudanese journalists that Egypt could not possible do such a thing for three reasons. First, it is in the interests of both Egypt and Sudan that Egypt deals objectively with the current legitimate government in Sudan, the government chosen by the Sudanese. Second, Egypt strictly adheres to a policy of non-intervention in the affairs of other countries, and this applies to Arab and non-Arab nations alike. Third, Egypt knows that Numayri's return to power in Sudan is ''out of the question'', for Numayri's rule ended in a popular uprising backed by the entire Sudanese population. The 'Al-Musawwar' chief editor said that over the past four weeks President Mubarak sent two of his close aides to former President Numayri to ask him to abandon any practices that may cause friction in Egyptian-Sudanese relations. He pointed out that this was not the first time such a demand had been made. President Mubarak summoned Dr Mustafa al-Fiqi, director of the President's office for information, to his meeting with the Sudanese journalists and asked him to repeat to the journalists the text of the message which was relayed to Ja'far Numayri in this regard, 'Al-Musawwar's editor wrote. In his editorial, Makram Muhammad Ahmad mentioned a message which he had received lately from Amin Abd al-Latif, Sudan's ambassador to Cairo, demanding certain clarifications about Numayri's situation in Cairo, its relevance to the news in Khartoum about a foiled coup attempt and Egypt's position on the joint defense treaty with Sudan. Ahmad dismissed as a ''silly accusation'' the claims by some of Sudanese Prime Minister Sadiq al-Mahdi's aides that Egypt was a party to the coup attempt in Khartoum. There has not even been a coup attempt, he asserted. It is just a story, an anecdote that was made up. Ahmad said that Egypt could never take part in a plot aimed at undermining the legitimate government in Sudan by means of a coup d'etat. All indications suggest that the coup was an imagined one, not a real one, he added. 'Al-Musawwar's' chief editor referred to the questions the Sudanese ambassador in Cairo had raised on Egypt's position towards Sudan's abrogation of the joint defense pact. He stressed that Cairo was not angry over the Sudanese government's request to abrogate this pact, but because the Sudanese government wanted Egypt to take the first step in this direction. Ahmad went on to say in his article that Egypt was not angry over the abrogation of the agreement because it had been demanded by the John Garang movement in southern Sudan. Rather, it was angry because of the ''inaccurate interpretation'' of the meaning of this agreement, obliging Egypt to enter into the war in the south claiming it is external aggression while everyone knows that, in reality, this war is an ''inter-Sudanese war'' between the north and the south, he said. In this respect, the 'Al-Musawwar' chief editor revealed that several Sudanese delegations had come to Egypt requesting the Egyptian air force's help in the war in the south. Egypt, which wants peace and stability to prevail in Sudan, exerted tremendous efforts to convince the southern Sudanese groups of the need for a dialogue with the north for the sake of a ''unified Sudan'', he added. It was Egypt that had arranged the initial meetings among representatives from the north and those of the Garang movement in the south until the two sides signed an agreement on a peaceful solution to the problem, he noted. Answering the question raised by the Sudanese ambassador in Cairo over Egypt's position on the joint defense agreement with Sudan, the 'Al-Musawwar' chief editor said this agreement had undoubtedly been in Sudan's favor. He pointed out that this agreement regulates the supply and training activity between the two countries. In this respect, he disclosed that, judging by the lowest estimates, the amount of Egyptian hardware that the Sudanese army had received under this agreement cost 100m [Egytpian] pounds. He noted that Egypt gave it willingly and would have even given more assistance to Sudan had its economic circumstances permitted. 
+
+Relations between Sudan's new rulers and Egypt are already so warm that the leader of the military junta in Khartoum on July 5th, 1989, felt constrained to deny that Egypt had helped stage the coup. Lieutenant General Omar Hassan Ahmed el Beshir told the United Arab Emirates newspaper Al-Khaleej: 'Egypt knew about the revolution only after its success and did not plan it with us'. Egypt recognized the new government on July 1, 1989, the day after it took place, and is reported to have sent a gift of 20,000 tons of oil to Khartoum and promised medicine and ammunition to the new government. Cairo also sent a senior military delegation to Khartoum and yesterday received a delegation from the new military rulers.
+
+Egypt was refusing to allow some Sudanese planes to cross its airspace in an escalation of a bitter feud between the two neighboring African countries that has been made worse by the Persian Gulf crisis, it was reported on October 26, 1990. The Saudi newspaper Asharq al-Awsat quoted officials from Sudan Air in Khartoum as saying they had received an official memo from Egyptian authorities informing them that Egyptian airspace would be closed to flights from Sudan to Jordan. Officials in Cairo had no comment on the report and Captain Sheikh el Din Mohammed Abdullah, a deputy director general at the airlines, said the company had no idea why Egypt ordered the ban. But both Sudan and Jordan have taken a sympathetic stand toward Iraqi President Saddam Hussein in the gulf crisis triggered by Iraq's Aug. 2 invasion of Kuwait, while Egypt has been an Arab leader in efforts to oust Iraqi troops from Kuwait. Western diplomats in Cairo said Egypt may have decided to hinder the flights because it was concerned a U.N.-imposed economic embargo against Iraq was being broken with shipments through the Jordanian port of Aqaba, but they could not for sure name the motive. Sudan Air officials said they had been operating two flights a week to Aqaba to pick up Sudanese nationals fleeing Iraq and occupied Kuwait via Jordan. They said 11 more flights between Sudan's capital of Khartoum and Aqaba had been scheduled for November, but it was not clear if they would be canceled or it they would skirt Egyptian territory. Egypt and Sudan have had deteriorating relations in the past year but the ongoing crisis has escalated the tension between the two Arabic-speaking, Moslem countries, which share a 750-mile border that cuts across the Nile. Cairo has accused the Sudanese military government of Gen. Omar Hassan el Bashir of harboring Moslem fundamentalists antagonistic toward Egypt, including a blind 40-year-old Egyptian preacher named Sheikh Omar Abdul Rahman whose followers were convicted of assassinating former Egyptian President Anwar Sadat in 1981. Egyptian newspapers reported earlier this week that the Moslem Brotherhood fundamentalist movement had established three camps in Sudan where Egyptians, Algerians and Yemenis were being trained in terrorist tactics. The newspapers charged the Sudanese-linked fundamentalists had assisted suspected pro-Iraqi terrorists who gunned down Egyptian Parliament Speaker Rifaat el-Mahgoub in Cairo two weeks ago. Tension between the two countries was also heightened by reports Iraq had deployed Scud missiles in Sudan that were aimed at Cairo. Egyptian President Hosni Mubarak took a tough line toward the unconfirmed reports, vowing Egypt would destroy any such missiles and suggesting that if Iraq could invade Kuwait, he could invade Sudan. Observers said the comments were more of a scare tactic than a real threat. ''It's certainly nowhere near the point where fighting is going to break out, but the situation is definitely becoming more uncomfortable between the two,'' said a Western diplomatic source in Cairo who did not want to be identified. Still, Cairo and Khartoum maintain diplomatic relations and are both members of the Arab League and other, African groups. ''Sudan and Egypt are just another casualty of the gulf crisis,'' the diplomat said. ''It is indicative of a wider split in the Arab world as a whole.'' 
+
+On November 5, 1990, the Egyptian Ministry of Higher Education has issued a resolution providing for the termination of annual scholarships to 1,500 Sudanese students. It is also requiring Sudanese students at Egyptian universities and institutes to pay annual fees of 2,000 pounds sterling. It is worth mentioning that observers have linked this development to the positions adopted by the Islamic Front government,which support the aggression against Kuwait and which has made Sudan a base for the export of terrorism to Egypt.
+
+On November 26, 1990, the Lt-Gen Yusuf Sabri Abu Talib, the Commander-in-Chief of the Egyptian armed forces and the Minister of Defence and Military Production, has announced that Egyptian border guard forces had succeeded in foiling two attempts to smuggle arms into Egypt from Sudan. He said the arms captured as the result of the two operations had amounted to 183 machine guns and 225 magazines, in total worth more than 1m Sudanese pounds. The incidents took place on 24th and 25th October, 1990. The suspects were sent for interrogation. Lt-Gen Abu Talib said Egypt would not permit any violation of its security and stability, nor any attempt to violate its borders. What is worth mentioning is that the [National Islamic] Front's military regime is training Egyptian extremists at camps in eastern Sudan, from where the extremists enter Egypt after completing their training. They are armed by means of smuggled weapons supplied to them by the front's military regime, sent over the border with Egypt, as happened in the latest two attempts, with the aim of committing acts of terrorism inside Egypt. The first MID of RIV1185, MID3970 started on February 1, 1992. 
+
+19960625-20000413 Transition
+
+The last MID of RIV1185, MID4288, ended on March 31, 1996. Sudan's foreign affairs minister, Ali Osman Mohamed Tahq, said on June 25, 1996, that the meeting between the presidents of his country and Egypt, during the recent Arab Summit in Cairo, was a decisive turn for the better in the relations between the two states. Reporting to the National Assembly, he said both leaders had reaffirmed their desire "to bypass the era of tension and conflict (and move) to an era of cooperation and concord that realizes the interests of the two sides." Egypt and Sudan have been at loggerheads for years over a number of issues. The most grave of these has been Egypt's accusation that Sudan harbors Muslim militants trying to depose Mubarak's government. Tension escalated in June 1995 when Mubarak accused Khartoum of being behind the attempt to kill him when he arrived in the Ethiopian capital, Addis Ababa, to attend a summit of the Organization of African Unity. Omar Hassan El Bashir, the Sudanese leader, attended the Arab summit last week convened in Egypt. His lengthy meeting with Mubarak ended in an agreement for the extradition of criminals, news reports said. Tahq said he expected the meetings between security and political officials of the two countries to be held in the near future. This would be a follow up to the security agreement and an opportunity to improve bilateral relations. "It is hoped that the coming days will witness bilateral meetings at the level of security and political and other executive organs in the two countries to discuss and tackle matters in keeping with the spirit of rapproachement and cooperativeness that dominated the meeting of the two presidents," he said.
+
+On July 26, 1996, tense relations between Sudan and Egypt which in 1995 witnessed skirmishes at the disputed Halaib border province are improving, with an Egyptian medical team visiting Sudan to revive a health cooperation protocol signed in 1970. The Sudanese health ministry under secretary Khairi Abdulrahman told the official al-Sudan al-Hadith daily that the Egyptian medical delegation would meet Sudanese officials Saturday to redesign a new strategy to implement the 1970 protocol. Under the protocol, Sudan and Egypt agreed to jointly work for the eradication of malaria in northern Sudan and southern Egypt.
+
+Cairo is reversing the positive outcome of the recent meeting between Egyptian President Hosny Mubarak and his Sudanese counterpart Omar Beshir, Sudan's State Minister for External Affairs Mustafa Osman Ismail said on August 3, 1996. The minister criticized Egypt's attitude, saying that Khartoum had expected Cairo to defend Sudan in the United Nations Security Council. Instead, Cairo had proposed sanctions against Sudan. The official Sudan News Agency (SUNA) quoted Ismail as saying Khartoum had expected Egypt to boost further bilateral relations, which had begun to take the right course following the talks between the two presidents in Cairo in June. The Security Council is considering several options to punish Sudan for failing to hand over to Ethiopia three Egyptians who were said to be resident in Sudan for trial in connection with a plot to kill Mubarak in 1995 at Addis Ababa airport. Ismail said a motion moved by Botswana had suggested that Sudan Airways be prohibited from flying abroad. He complained that Egypt had amended the Botswana proposal to include any airliner registered in Sudan, or any plane leased to Sudan. The minister also complained that Egypt had reneged on an agreement between the two countries on security affairs. After the June 1996 meeting of the two presidents, "an Egyptian security delegation visited Sudan to discuss security affairs with their Sudanese counterparts at the end of which they agreed to meet again after ten days, but the Egyptians have failed to show up for the meeting," Ismail told SUNA. He hoped Egypt would withdraw its proposal for harsher sanctions against Sudan because the repercussion of such punitive measures would also affect Egypt, SUNA cited the minister as saying. Egypt has in the past accused Sudan of supporting the Egyptian militants while Sudan has complained of Egyptian moral and material support for exiled Sudanese opposition politicians and southern rebels.
+
+On May 22, 1999, the Foreign Ministers of Egypt and Sudan held talks aimed at improving ties between the two African nations. ''The talks were constructive, particularly in advancing the relations between the two people,'' Egyptian Foreign Minister Amr Moussa told reporters after a four-hour meeting with Mustafa Osman Ismail. Talks also focused on conflicts in Africa, including the civil war in Sudan. Relations between Egypt and Sudan plunged after Egypt accused Sudan of harboring gunmen involved in the failed 1995 assassination attempt against Egyptian President Hosni Mubarak in Addis Ababa, Ethiopia. As a precondition for improved relations, Egypt has demanded that Khartoum hand over information on those involved in the assassination attempt. Sudan has denied involvement. Ismail told reporters that Egyptian and Sudanese security officials will meet and that there was progress in security talks and cooperation between the two sides. He did not say when the two sides will meet nor did he elaborate any further. He said Sudan began handing over Egyptian properties in Sudan seized by authorities in 1992 another sore point in bilateral relations. The disputed properties include 33 schools, 16 guest houses and buildings on the campus of the Khartoum branch of Cairo University. Sudan confiscated them after Cairo accused Khartoum of supporting Egypt's Muslim militants trying to topple the Egyptian government.
+
+20000414-20159999 0.25
+
+The relationship between Egypt and Sudan significantly improved in 2000 when Sudan withdrew its troops from the disputed region of Halaib and the two countries restarted their diplomatic relations. 
+
+Egypt's new ambassador to Sudan left for Khartoum on April 14, 2000, to fill a post that had been vacant for years due to cold relations between the two neighbors. Mohammed Assem's appointment, announced in December 1999, formally restored full diplomatic relations between Egypt and Sudan that had begun mending in 1999. ''My first job will be to end the problems of the past,'' Assem told reporters at Cairo International Airport before his departure. He said he will prepare for an Egyptian-Sudanese joint committee, which the leaders of both countries agreed to hold in May at a ministerial level, to improve economic and political relations. ''We hope the joint committee will achieve what will lead to ... opening a new page in relations between the two states,'' he added. The last Egyptian ambassador to Khartoum, Hassan Gad el-Haq, returned home for medical treatment, and died here. He was not replaced as relations were sour over Egypt's accusations that Sudan assisted the gunmen who tried to assassinate Egyptian President Hosni Mubarak in Ethiopia in 1995. Relations worsened with Egypt alleging that Sudan was backing Egyptian Islamic insurgents. Sudan denied the charge as well as any involvement with the gunmen who fired on Mubarak. But last year, Sudanese President Omar el-Bashir visited Egypt, which has tried to broker a settlement to the end the 17-year civil war in Sudan. Assem's appointment was announced Dec. 23, just 11 days after el-Bashir clipped the powers of Sudan's Islamist leader and ruling party ideologue, Hassan Turabi, a known supporter of Islamic movements in the region.
+
+On July 29, 2002, Egypt and Sudan pledged to revive their integration projects and boost "the eternal ties that link the two countries," Egyptian Information Minister Safwat El-Sherif said in Cairo. He said the commitments were made by Egyptian Prime Minister Atef Ebeid and Sudan' First Vice-President Ali Othman Taha. Taha also commended "Egypt's continuous efforts to preserve Sudan's unity and efforts to achieve peace" added El Sherif. Taha arrived in Cairo to co-chair with Ebeid, the Egyptian-Sudanese Joint Higher Committee, amid Egyptian concern that the recent peace agreement between the Sudanese government and the Sudan People's Army (SPLA) could divide Sudan into two States. Egyptian officials have offered little comments on the peace deal reached in Kenya and the historic meeting between President Omar Al Bashir and SPLA leader John Garang in Uganda. But Egyptian state-run as well as opposition newspapers have sharply criticized the Sudanese government for keeping neighboring Egypt and Libya "in the dark" over negotiations that led to the signing of the peace deal in Machakos, Kenya. Egypt, which shares the Nile River with Sudan and other countries is concerned that the establishment of a southern Sudanese State might jeopardize the flow of Nile waters to Egypt. But Taha and Sudan's Agriculture and Forests Minister Mazjoub al-Khalifa Ahmed said on their arrival in Cairo over the weekend, they were confident Egypt would support the new peace process in Sudan. According to Egyptian sources, President Hosni Mubarak is expected to discuss the Machakos peace agreement with Taha, who will deliver a message from President Al Bashir to his Egyptian counterpart. Meanwhile, the Egypt-Sudan Joint Higher Committee has agreed to "activate co-operation in various industrial fields, in addition to conducting studies on an Egyptian-Sudanese power grid," El Sherif said. The two sides also discussed ways to facilitate entry visas for their businessmen and to implement signed protocols and agreements, particularly regarding "food security projects". Taha is also expected to meet with Arab League's Secretary Geeneral Amr Moussa, to address the League's concerns on the Machakos peace deal. 
+
+President Omar el-Bashir has revived a long-standing territorial dispute with Egypt, saying in remarks published on August 17, 2002, that a mineral-rich Red Sea region along the two countries' border belongs to Sudan despite being under Egypt's control. The thorny issue of the Halaib triangle was believed resolved in 2000, when Sudan withdrew troops from the area and the Egyptian army took it over. But in an interview with the Sudanese daily al-Sahafi al-Dawli, el-Bashir said Sudan had "never relinquished" the town of Halaib and surrounding areas, and said his government has written to the U.N. Security Council to renew its complaint over Egyptian presence there. "We did not make any concessions. ... The proof is that we have recently renewed the complaint to the Security Council," he said. "We have tried to resolve the question within the framework of the advanced bilateral relationship." The Egyptian government had no immediate comment. The border issue has been frequently brought up at times of tensions between the two countries. Earlier this month, Egypt voiced its displeasure with a framework Sudan peace deal that allows Sudanese rebels to eventually opt for independence of largely animist southern Sudan from the Muslim and Arab north. The Egyptian government said it fears the fragmentation of Sudan might create a precedent in other volatile African nations. Egypt and Sudan have long been at loggerheads over Halaib. The two states deployed forces in the area in 1992. But in January 2000, Sudan withdrew from the town in a move seen as indicating that Egypt would control the border zone. Sudan became independent from Anglo-Egyptian rule in 1956, but the border there has never been properly demarcated. Sudan and Egypt restored full diplomatic relations in 2000 after years of tensions following a failed assassination attempt on Egyptian President Hosni Mubarak in 1995 in Addis Ababa. Egypt had accused Sudan of sheltering the assailants and of supporting Islamist insurgents seeking to topple the secular government. Sudan denied the charges, and in turn accused Egypt of sheltering government opponents and rebels. El-Bashir told the newspaper that Sudan had never marginalized the role of Egypt in the ongoing peace negotiations in Kenya between the Khartoum government and the rebel Sudan People's Liberation Army. Egypt refused to send an envoy to the talks. "The negotiations are in the first place between the government and the rebel movement," el-Bashir was quoted as saying. "So we don't think we have marginalized them but the negotiations concern us and we do not take permission from anyone, whoever he may be so as to sign a deal that concerns Sudan." Asked if he still maintained that Halaib was a Sudanese town, el-Bashir replied: "A hundred percent positive."
+
+On 30 September, 2003, the Sudanese Ambassador to Egypt Ahmad Abd-al-Halim praised Egyptian President Husni Mubarak's continued efforts in support of Sudan and his personal interest in the Sudanese affair. In statements to MENA, the diplomat said Sudan has become a "standing topic" on Mubarak's agenda whether during his meetings with world leaders in Cairo or at international fora. He described the prospective visit by Sudanese Vice-President Ali Uthman Taha to Egypt as "very important". Taha will brief Mubarak on the outcome of the latest round of talks between the Sudanese government and the Sudan People's Liberation Movement (SPLM) and consult with him on the steps to be taken by the government in the coming stages of negotiation, Abd-al-Halim said. Egypt has played a historical role as regards preserving Sudan's unity and integrity, he added. Khartoum has been always keen on getting Cairo involved in any developments in the Sudanese peace process, the Sudanese ambassador to Egypt said. All international peace envoys to Sudan have firstly visited Egypt to have an overall idea about the situation in Sudan, Abd-al-Halim added. The visit of the Sudanese vice-president to Egypt will also tackle ways to promote Egyptian-Sudanese relations in the various domains. Taha, who led Sudan's delegation to the Egyptian-Sudanese higher committee meetings, is also scheduled to meet with Egyptian Prime Minister Atif Ubyd, the diplomat said.
+
+A preliminary agreement was reached on January 18, 2004, between Egypt and Sudan allowing freedom of movement, residence, work and property rights to strengthen cooperation. Egyptian Information Minister Safwat al-Sherif said President Hosni Mubarak and his Sudanese counterpart Omar al-Bashir had discussed several agreements during a short meeting in Cairo. Despite speculation that the meeting would focus on obstacles in negotiations between al-Bashir's government and the Sudan People's Liberation Army, there was no mention of the issue. Instead, al-Sherif said that the agreement on freedom of movement was being prepared by officials from both countries to be presented to both presidents by February 15, 2004. Other agreements dealt with cooperation in industry and agriculture. Al-Sherif said they were also trying to expand the network of Egyptian channels to reach southern Sudan. About three million Sudanese live in Egypt, 20,000 of whom are refugees. Bilateral agreements between Egypt and Sudan reached during the 1970s gave Sudanese in Egypt residence, land ownership and entry rights. Following a coup in Sudan in 1989, relations between the government in Cairo and the new regime in Khartoum deteriorated, making it more difficult for Sudanese in Egypt to exercise those rights. After the attempted assassination of Egyptian President Mubarak in 1995, Egypt reintroduced entry visas and residence permit requirements for Sudanese.
+
+In 2017, Officials from Sudan and Egypt on Saturday held "honest" and "transparent" discussions following months of tension between the two Arab neighbours, but appeared to make little headway to patch up their differences, primarily over a border region held by Cairo and claimed by Khartoum.
+
+Sudan's visiting foreign minister, Ibrahim Ghandour, and his Egyptian counterpart, Sameh Shoukry, spoke of the "holy" relations binding the two Nile-Basin nations, but reported no tangible progress in a joint news conference they held in the Egyptian capital after talks.
+
+"There are deeply entrenched relations capable of overcoming whatever is inflicted upon them," Shoukry said, striking a positive note. "We are working toward a frank dialogue capable of removing misunderstandings and confusion."
+
+At the centre of tensions between the two is sovereignty over the so-called Halayeb Triangle on the Red Sea, an issue that dates back to colonial times. Egypt refuses to submit the dispute to international arbitration, a Sudanese request.
+
+The tension was further stoked when Sudan decided recently to ban all agricultural and animal imports from Egypt over health concerns, a claim hotly disputed by Cairo.
+
+Sudanese President Omar al-Bashir last month accused Egypt of arming rebels fighting against his government in the western Darfur region. Egypt has denied the charge.
+
+READ MORE: Sudan approves farm imports ban from Egypt
+
+On Saturday, Ghandour, the Sudanese foreign minister, told reporters he delivered a message from Bashir to Egyptian President Abdel-Fattah el-Sisi on bilateral relations and conveyed what he called some of Bashir's "concerns."
+
+He did not elaborate but added that the decision to ban Egyptian farm and animal imports was made on a technical basis and acknowledged that a Cabinet decision to ratify the ban last week may have been ill-timed.
+
+He said he proposed joint patrols with Egypt to monitor their porous land border to ensure that fighters don't cross into Egypt and carry out attacks or join aremd groups based in the Sinai peninsula. Cairo maintains that Sudan has offered refuge to members of the Muslim Brotherhood, an Islamist group it labels as "terrorist".
+
+Source: News agencies
+
+PS-SOURCES: Deutsche Presse-Agentur July 26, 1996; August 3, 1996; January 18, 2004; Associated Press March 21, 1981; February 21, 1987; April 14, 2000; August 17, 2002; May 22, 1999; Africa News June 25, 1996; BBC July 11, 1987; April 16, 1988; October 11, 1988; June 30, 1989; November 5, 1990; March 15, 2000; March 17, 2000; September 30, 2003; Xinhua April 23, 1977; June 7, 1977; October 28, 1977; January 17, 1979; May 31, 1979; June 1, 1979; March 22, 1981; July 3, 1986; October 15, 1986; June 8, 1989; September 18, 2000; Panafrican News Agency July 29, 2002; Christian Science Monitor May 29, 1985; New York Times December 28, 1969; July 20, 1970; November 9, 1970; February 23, 1983; United Press International October 26, 1990; The Independent July 5, 1989; Washington Post March 1, 1977; October 25, 1977
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

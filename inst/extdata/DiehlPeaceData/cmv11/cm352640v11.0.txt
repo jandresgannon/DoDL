@@ -1,0 +1,531 @@
+FILE: cm352640v11.0.txt
+DYAD: CYPRUS-TURKEY/OTTOMAN EMPIRE
+RIVALRY: RIV938
+DISPUTE(S): MID2171 MID2172 MID1280 MID1293 MID2178 MID2761 MID2760 MID4038 MID4039 MID4094 MID4095 
+RIVNOTES:
+
+PS: 19600816-19740719 .25 19740720-20209999 0.00
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2171 
+
+TERRMID: MID2171 1 -- territorial MID
+TERRMID-CER: MID2171 1 -- certain 
+TERRMID-NOTES: MID2171 from Gibler 2018, in 1965, Turkey threatened Cyprus with airstrikes if they did not vacate Lefka, a part of the disputed region in Cyprus. Clashes ensued. Coded territorial MID because this was connected to Turkey's claim on Cyprus. 
+
+TERRLINK: MID2171 3 -- not third party link to territory 
+TERRLINK-CER: MID2171 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2171 3 -- not maritime 
+MARITMID-CER: MID2171 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2171 3 -- not islands 
+ISLMID-CER: MID2171 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2171 3 -- not civil war 
+CIVWARMID-CER: MID2171 1 -- certain 
+CIVWARMID-NOTES: MID2171 From cm narrative, following Cyprus' independence, there were tensions between the Greek Cypriots and Turkish Cypriot residents. Some inter-communal violence between Greek and Turkish Cypriots occurred during this MID, but there is no indication in Gibler 2018, cm narrative, or news coverage of this MID that indicates that the violence was perpetrated by organized, militarized rebels. UCDP does not have a rebel group active in Cyprus at this time. 
+
+CIVWARLINK: MID2171 3 -- not civil war link 
+CIVWARLINK-CER: MID2171 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2171 3 -- not coup 
+COUPMID-CER: MID2171 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2171 3 -- not coup link
+COUPLINK-CER: MID2171 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2172 
+
+TERRMID: MID2172 1 -- territorial MID
+TERRMID-CER: MID2172 3 -- uncertain 
+TERRMID-NOTES: MID2172 coded territorial MID because the fighting between Turkish and Greek Cypriots was connected to the territorial dispute between Greece and Turkey over control of Cyrpus. Coded uncertain because GML recommend the MID be dropped. 
+
+TERRLINK: MID2172 3 -- not third party link to territory 
+TERRLINK-CER: MID2172 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2172 3 -- not maritime 
+MARITMID-CER: MID2172 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2172 3 -- not islands 
+ISLMID-CER: MID2172 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2172 3 -- not civil war 
+CIVWARMID-CER: MID2172 3 -- uncertain 
+CIVWARMID-NOTES: MID2172 from Gibler, Miller, and Little 2016, violence erupted between Greek and Turkish Cypriots in 1965. A member of the Turkish government suggested to the UN that Turkey may retaliate against Greek Cypriots if the violence was not stopped. Coded not civil war because this was connected to ethnic inter-communal violence in Cyprus, but there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that the violence involved organized, militarized rebel groups. UCDP does not have a rebel group active in Cyprus at this time. Coded uncertain because GML recommend this case be dropped as Turkey's statement does not amount to a threat directed toward the government of Cyprus. 
+
+CIVWARLINK: MID2172 3 -- not civil war link 
+CIVWARLINK-CER: MID2172 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2172 3 -- not coup 
+COUPMID-CER: MID2172 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2172 3 -- not coup link
+COUPLINK-CER: MID2172 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1280 
+
+TERRMID: MID1280 1 -- territorial MID
+TERRMID-CER: MID1280 1 -- certain 
+TERRMID-NOTES: MID1280 from Gibler 2018, in 1967, tensions over Cyprus escalated, and Turkey both amassed troops across the water from Cyprus and flew recon flights over the island. The UN successfully defused tensions before fighting broke out. Coded territorial MID because this was connected to the disputed territory of Cyprus. 
+
+TERRLINK: MID1280 3 -- not third party link to territory 
+TERRLINK-CER: MID1280 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1280 3 -- not maritime 
+MARITMID-CER: MID1280 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1280 3 -- not islands 
+ISLMID-CER: MID1280 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1280 3 -- not civil war 
+CIVWARMID-CER: MID1280 1 -- certain 
+CIVWARMID-NOTES: MID1280 from Gibler 2018, this MID was precipitated by Greek and Turkish armed civilian "patrols" clashing in Cyprus, which led to the Turkish government amassing troops near Cyrpus. Coded not civil war because, while Cyprus had inter-communal violence between Greek and Turkish Cypriots, there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that the violence involved organized, militarized rebel groups. UCDP has no active rebel group in Cyprus at this time. 
+
+CIVWARLINK: MID1280 3 -- not civil war link 
+CIVWARLINK-CER: MID1280 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1280 3 -- not coup 
+COUPMID-CER: MID1280 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1280 3 -- not coup link
+COUPLINK-CER: MID1280 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1293 
+
+TERRMID: MID1293 1 -- territorial MID
+TERRMID-CER: MID1293 1 -- certain 
+TERRMID-NOTES: MID1293 from Gibler 2018, this is the Turkish-Cypriot War in 1974. A coup in Greece led to a Turkish invasion of Cyprus and fighting between Turkey and Greece over Cyprus. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID1293 3 -- not third party link to territory 
+TERRLINK-CER: MID1293 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1293 3 -- not maritime 
+MARITMID-CER: MID1293 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1293 3 -- not islands 
+ISLMID-CER: MID1293 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1293 3 -- not civil war 
+CIVWARMID-CER: MID1293 1 -- certain 
+CIVWARMID-NOTES: MID1293 there is no indication that insurgent groups participated in the war. Neither cm narrative nor Gibler 2018 mention any rebel activity, and there exists no mention of rebels in the war in news coverage or scholarly works on the war (e.g., Kassimeris 2008). 
+
+CIVWARLINK: MID1293 3 -- not civil war link 
+CIVWARLINK-CER: MID1293 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1293 3 -- not coup 
+COUPMID-CER: MID1293 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1293 1 -- coup link
+COUPLINK-CER: MID1293 1 -- certain 
+COUPLINK-NOTES: MID1293 this MID involved a coup in Greece (outside this dyad) in 1974. The man who led the coup demanded Greece forces vacate their military bases, but they did not. Turkey suspected that a conflict over Cyprus may erupt and invaded Cyprus. 
+
+MID2178 
+
+TERRMID: MID2178 1 -- territorial MID 
+TERRMID-CER: MID2178 1 -- certain 
+TERRMID-NOTES: MID2178 from Gibler 2018, Turkey recognized a Turkish Cypriot state in Cyprus, and Turkey closed the border of that state in Cyprus. The border closure triggered this MID. Turkey was apparently trying to coerce Greece and the UN into extending recognition to Turkish Cyprus. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID2178 3 -- not third party link to territory 
+TERRLINK-CER: MID2178 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2178 3 -- not maritime 
+MARITMID-CER: MID2178 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2178 3 -- not islands 
+ISLMID-CER: MID2178 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2178 1 -- civil war MID
+CIVWARMID-CER: MID2178 1 -- certain 
+CIVWARMID-NOTES: MID2178 from New York Times 7/6/1986, this MID involved a Turkish Cypriot political leader, Rauf Denktash, who led a secessionist movement which had an armed wing, the Turkish Resistance Organization (TRO). Denktash rejected the UN call to end the blockade, prolonging this MID. Coded civil war MID because this incident involved a militarized rebel group operating within this dyad. 
+
+CIVWARLINK: MID2178 3 -- not civil war link 
+CIVWARLINK-CER: MID2178 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2178 3 -- not coup 
+COUPMID-CER: MID2178 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2178 3 -- not coup link
+COUPLINK-CER: MID2178 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2761 
+
+TERRMID: MID2761 3 -- not territory
+TERRMID-CER: MID2761 3 -- uncertain 
+TERRMID-NOTES: MID2761 from Gibler, Miller, and Little 2016, a Turkish soldier in Cyprus killed a Greek Cypriot border guard, broke into a home, and tried to rape a woman. Greek soldiers killed the Turkish soldier. Coded not territorial MID because this was not connected to the dispute over Cyrpus. It was a renegade soldier, rather than an attempt to advance the territorial claim. Coded uncertain because GML recommend the case be dropped. 
+
+TERRLINK: MID2761 3 -- not third party link to territory 
+TERRLINK-CER: MID2761 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2761 3 -- not maritime 
+MARITMID-CER: MID2761 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2761 3 -- not islands 
+ISLMID-CER: MID2761 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2761 3 -- not civil war 
+CIVWARMID-CER: MID2761 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2761 3 -- not civil war link 
+CIVWARLINK-CER: MID2761 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2761 3 -- not coup 
+COUPMID-CER: MID2761 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2761 3 -- not coup link
+COUPLINK-CER: MID2761 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2760 
+
+TERRMID: MID2760 1 -- territorial MID
+TERRMID-CER: MID2760 1 -- certain 
+TERRMID-NOTES: MID2760 from Gibler 2018, Turkish soldiers walked toward Greek Cypriot territory, ignored warnings to stop, and one was killed. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID2760 3 -- not third party link to territory 
+TERRLINK-CER: MID2760 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2760 3 -- not maritime 
+MARITMID-CER: MID2760 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2760 3 -- not islands 
+ISLMID-CER: MID2760 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2760 3 -- not civil war
+CIVWARMID-CER: MID2760 1 -- certain 
+CIVWARMID-NOTES: MID2760 this MID involved peacekeeping forces in place to prevent violence, but the violence involved was largely inter-communal violence between ethnic Greek and Turkish Cypriots. It did not involve organized, militarized rebel groups, and UCDP does not have any active rebel groups in Cyprus at this time. 
+
+CIVWARLINK: MID2760 3 -- not civil war link 
+CIVWARLINK-CER: MID2760 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2760 3 -- not coup 
+COUPMID-CER: MID2760 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2760 3 -- not coup link
+COUPLINK-CER: MID2760 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4038 
+
+TERRMID: MID4038 1 -- territorial MID
+TERRMID-CER: MID4038 1 -- certain 
+TERRMID-NOTES: MID4038 from Gibler 2018, Turkish troops killed a Cypriot guard in the demilitarized zone and were later attacked by Greek Cypriot border guards. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID4038 3 -- not third party link to territory 
+TERRLINK-CER: MID4038 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4038 3 -- not maritime 
+MARITMID-CER: MID4038 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4038 3 -- not islands 
+ISLMID-CER: MID4038 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4038 3 -- not civil war 
+CIVWARMID-CER: MID4038 1 -- certain 
+CIVWARMID-NOTES: MID4038 from BBC 1997, this MID involved Greek Cypriots firing on a border post in Cyprus. However, while Cyprus at this time featured much inter-communal violence between ethnic Greeks and Turks, there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that the violence involved organized, militarized rebel groups. UCDP has no active rebel group in Cyprus at this time. 
+
+CIVWARLINK: MID4038 3 -- not civil war link 
+CIVWARLINK-CER: MID4038 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4038 3 -- not coup 
+COUPMID-CER: MID4038 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4038 3 -- not coup link
+COUPLINK-CER: MID4038 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4039 
+
+TERRMID: MID4039 1 -- territorial MID
+TERRMID-CER: MID4039 1 -- certain 
+TERRMID-NOTES: MID4039 from Gibler 2018, in 1993, a Greek Cypriot fired on a Turkish border guard, and Turkey protested. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID4039 3 -- not third party link to territory 
+TERRLINK-CER: MID4039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4039 3 -- not maritime 
+MARITMID-CER: MID4039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4039 3 -- not islands 
+ISLMID-CER: MID4039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4039 3 -- not civil war 
+CIVWARMID-CER: MID4039 1 -- certain 
+CIVWARMID-NOTES: MID4039 this MID involved Greek Cypriots firing on a border post in Cyprus. However, while Cyprus at this time featured much inter-communal violence between ethnic Greeks and Turks, there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that the violence involved organized, militarized rebel groups. UCDP has no active rebel group in Cyprus at this time. 
+
+CIVWARLINK: MID4039 3 -- not civil war link 
+CIVWARLINK-CER: MID4039 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4039 3 -- not coup 
+COUPMID-CER: MID4039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4039 3 -- not coup link
+COUPLINK-CER: MID4039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4094 
+
+TERRMID: MID4094 1 -- territorial MID
+TERRMID-CER: MID4094 1 -- certain 
+TERRMID-NOTES: MID4094 from Gibler 2018, in 1994 Turkey was angered over Cyprus potentially joining the EU and committed several airspace violations over Cyprus as a show of force. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID4094 3 -- not third party link to territory 
+TERRLINK-CER: MID4094 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4094 3 -- not maritime 
+MARITMID-CER: MID4094 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4094 3 -- not islands 
+ISLMID-CER: MID4094 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4094 3 -- not civil war 
+CIVWARMID-CER: MID4094 1 -- certain 
+CIVWARMID-NOTES: MID4094 only the Turkish military was involved in this MID. 
+
+CIVWARLINK: MID4094 3 -- not civil war link 
+CIVWARLINK-CER: MID4094 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4094 3 -- not coup 
+COUPMID-CER: MID4094 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4094 3 -- not coup link
+COUPLINK-CER: MID4094 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4095 
+
+TERRMID: MID4095 1 -- territorial MID
+TERRMID-CER: MID4095 1 -- certain 
+TERRMID-NOTES: MID4095 from Gibler 2018, in 1996 Turkish soldiers shot a Greek Cypriot border guard and later committed repeated border violations due to the escalated tensions in Cyprus. Coded territorial MID because this was connected to the dispute over Cyprus. 
+
+TERRLINK: MID4095 3 -- not third party link to territory 
+TERRLINK-CER: MID4095 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4095 3 -- not maritime 
+MARITMID-CER: MID4095 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4095 3 -- not islands 
+ISLMID-CER: MID4095 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4095 3 -- not civil war 
+CIVWARMID-CER: MID4095 1 -- certain 
+CIVWARMID-NOTES: MID4095 the Greek Cyrpiots in this MID are not considered to be a militarized rebel group, since they are part of the state military and Cyprus is recognized as an independent state at this time. 
+
+CIVWARLINK: MID4095 3 -- not civil war link 
+CIVWARLINK-CER: MID4095 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4095 3 -- not coup 
+COUPMID-CER: MID4095 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4095 3 -- not coup link
+COUPLINK-CER: MID4095 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4410 
+
+TERRMID: MID4410 1 -- territorial MID
+TERRMID-CER: MID4410 1 -- certain 
+TERRMID-NOTES: MID4410 from cm narrative, Turkish fighter jets harassed Greek jets returning from joint military operations in Cyprus. The day prior, Turkish jets were accused of violating Cypriot air space. The incidents are a manifestation of a long-standing dispute between Greece and Turkey over the status of Cyprus. First day of dispute was on 4/3/2002 and last day of dispute was on 4/3/2002. Coded territorial MID because this was connected to Cyprus. 
+
+TERRLINK: MID4410 3 -- not third party link to territory 
+TERRLINK-CER: MID4410 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4410 3 -- not maritime 
+MARITMID-CER: MID4410 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4410 3 -- not islands 
+ISLMID-CER: MID4410 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4410 3 -- not civil war 
+CIVWARMID-CER: MID4410 1 -- certain 
+CIVWARMID-NOTES: MID4410 the Greek Cyrpiots in this MID are not considered to be a militarized rebel group, since they are part of the state military and Cyprus is recognized as an independent state at this time. 
+
+CIVWARLINK: MID4410 3 -- not civil war link 
+CIVWARLINK-CER: MID4410 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4410 3 -- not coup 
+COUPMID-CER: MID4410 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4410 3 -- not coup link
+COUPLINK-CER: MID4410 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4410
+rivalry=352640 nationa=TURKEY/OTTOMAN EMPIRE nationb=CYPRUS MID4410 20020402-20020402 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkish fighter jets harassed Greek jets returning from joint military operations in Cyprus. The day prior, Turkish jets were accused of violating Cypriot air space. The incidents are a manifestation of a long-standing dispute between Greece and Turkey over the status of Cyprus. First day of dispute was on 4/2/2002 and last day of dispute was on 4/2/2002.
+
+MID3 1993-2001:
+
+MID4038
+rivalry=352640 nationa=TURKEY/OTTOMAN EMPIRE nationb=CYPRUS MID4038 19930122-19930411 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS
+fatalpb=1 lhostb=USE OF FORCE 
+
+The dispute is about Cyprus' opposition to Turkey's presence in northern Cyprus and Turkey's demand for the recognition of the Turkish Republic of Northern Cyprus (TRNC) as a legal independent state. On 1/22/1993 Turkish Prime Minister threatened to use force "if a situation is created in Cyprus which [Turkey] would not want." Then on 4/8/1993 Turkish troops guarding UN-controlled buffer zone between Turkish and Greek Cyprus killed a Greek Cypriot national guardsman as he crossed the no-man's land of the buffer zone. Later, on 4/11/1993 Greek-Cypriot guards open fire at two-posts manned by Turkish-Cypriots. (FG) First day of dispute was on 1/22/1993 and last day of dispute was on 4/11/1993.
+
+MID4039
+rivalry=352640 nationa=CYPRUS nationb=TURKEY/OTTOMAN EMPIRE MID4039 19931014-19931014 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Turkish Radio reported that on 10/14/1993 Cyprion national guardsman fired on a Turkish post, and as a result, Turkish authorities filed a complaint to the UN. This dispute is about Cyprus' opposition to Turkey's presence in northern Cyprus and Turkey's demand for the recognition of the Turkish Republic of Northern Cyprus as a legal independent state (FG). First and last day of dispute was on 10/14/1993.
+
+MID4094
+rivalry=352640 nationa=TURKEY/OTTOMAN EMPIRE nationb=CYPRUS MID4094 19941006-19951114 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+The dispute is about Cyprus's opposition to Turkish presence in northern Cyprus and Turkey's demand for the recognition of the Turkish Republic of Northern Cyprus (TRNC) as a legally independent state. On 10/6/1994 Turkish aircraft violated the Nicosia Flight Information Region and Cypriot government protested the Turkish action. On 3/6/1995 Turkey threatened to annex the Turkish enclave in northern Cyprus if the European Union opened talks on Cyprus' EU membership before the island's sovereignty is settled. On 8/23/1995 two Turkishreconnaissance aircraft violate Cypriot airspace. On 10/25/1995 and 11/14/1995 two Turkish F-16 fighters violated Cypriot airspace. Cypriot government protested. First day of dispute was on 10/6/1994 and last day of dispute was on 11/14/1995.
+
+MID4095
+rivalry=352640 nationa=TURKEY/OTTOMAN EMPIRE nationb=CYPRUS MID4095 19960603-20010720 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=
+1-25 DEATHS fatalpb=1 lhostb=USE OF FORCE 
+
+This MID deals with the issues surrounding the island of Cyprus. Turkey, Greece, and Cyprus repeatedly violate each others territory and airspace. These violationsare interrupted by the occasional display and threat of force. It does not end with a settlement; rather, the tensions simply cool. First day of dispute was on 6/3/1996 and last day of dispute was on 7/20/2001.
+
+NARRATIVE-CM:
+
+Cyprus proclaimed its independence on August 16, 1960. According to constitutional arrangements, Cyprus was to become an independent, non-aligned republic with a Greek Cypriot president and a Turkish Cypriot vice-president. General executive authority was vested in a council of ministers with a ratio of seven Greeks to three Turks. (The Greek Cypriots represented 78% of the population and the Turkish Cypriots 18%. The remaining 4% was made up by the three minority communities: the Latins, Maronites and Armenians.) A House of Representatives of fifty members, also with a seven-to-three ratio, were to be separately elected by communal balloting on a universal suffrage basis. In addition, separate Greek Cypriot and Turkish Cypriot Communal Chambers were provided to exercise control in matters of religion, culture, and education. According to Article 78(2) any law imposing duties or taxes shall require a simple majority of the representatives elected by the Greek and Turkish communities respectively taking part in the vote. Legislation on other subjects was to take place by simple majority but again the President and the Vice-President had the same right of veto-absolute on foreign affairs, defence and internal security, delaying on other matters-as in the Council of Ministers. The judicial system would be headed by a Supreme Constitutional Court, composed of one Greek Cypriot and one Turkish Cypriot and presided over by a contracted judge from a neutral country. The Constitution of Cyprus, whilst establishing an Independent and sovereign Republic, was, in the words of de Smith, an authority on Constitutional Law; "Unique in its tortuous complexity and in the multiplicity of the safeguards that it provides for the principal minority; the Constitution of Cyprus stands alone among the constitutions of the world"[5] Within a short period of time the first disputes started to arise between the two communities. Issues of contention included taxation and the creation of separate municipalities. Because of the legislative veto system, this resulted in a lockdown in communal and state politics in many cases.
+
+Repeated attempts to solve the disputes failed. Eventually, on November 30, 1963, Makarios put forward to the three guarantors a thirteen-point proposal designed, in his view, to eliminate impediments to the functioning of the government. The thirteen points involved constitutional revisions, including the abandonment of the veto power by both the president and the vice president. Turkey initially rejected it (although later in future discussed the proposal). A few days later, on December 21, 1963 fighting erupted between the communities in Nicosia. In the days that followed it spread across the rest of the island. At the same time, the power-sharing government collapsed. How this happened is one of the most contentious issues in modern Cypriot history. The Greek Cypriots argue that the Turkish Cypriots withdrew in order to form their own administration. The Turkish Cypriots maintain that they were forced out. Many Turkish Cypriots chose to withdraw from the government. However, in many cases those who wished to stay in their jobs were prevented from doing so by the Greek Cypriots. Also, many of the Turkish Cypriots refused to attend because they feared for their lives after the recent violence that had erupted. There was even some pressure from the TMT as well. In any event, in the days that followed the fighting a frantic effort was made to calm tensions. In the end, on December 27, 1963, an interim peacekeeping force, the Joint Truce Force, was put together by Britain, Greece and Turkey. This held the line until a United Nations peacekeeping force, UNFICYP, was formed following United Nations Security Council Resolution 186, passed on March 4, 1964. On February 15, 1964 Turkey said that it will consider holding off an intervention in Cyprus only if there will be no more violence between the Greek and Turkish communities on the island. President Archbishop Makarios of Cyprus was deposed in a military coup on July 15, 1974, and Turkey responded by invoking Article 4 of the *Treaty of Guarantee* of 1959. Some 40,000 Turkish troops invaded the island of Cyprus to protect the interests of Turkish Cypriots beginning on July 20, 1974. The *United Nations *(UN) Security Council appealed for a ceasefire and troop withdrawal on July 20, 1974. Some 1,150 Greek troops intervened in support of the Cyprus government on July 20-21, 1974. The UN Security Council demanded a ceasefire and troop withdrawal on July 23, 1974. Foreign Secretary James Callaghan of Britain mediated negotiations between Turkish and Greek Cypriot representatives in Geneva from July 25 to August 14, 1974. Turkish troops occupied the northern part of the island, and Turkey agreed to a cessation of military hostilities on August 16, 1974. Some 7,000 Cypriots and 300 Turkish soldiers were killed during the conflict. Turkish Cypriots voted to established a Turkish Cypriot republic in the northern part of the island on July 8, 1975. Cyprus accused Turkey of failing to provide information regarding several missing Greek Cypriots, as well as other violations of the *European Convention on Human Rights*. Cyprus submitted the dispute to the *European Court of Human Rights* (ECHR) on September 8, 1999. Cyprus joined the European Union in 2004, while Turkey's membership path is slowed down by its refusal to acknowledge the existence of Cyprus and to open its ports to Cypriot planes and ships. As of 2007 Turkey had 42,500 soldiers stationed in Northern Cyprus making the region one of the most militarized in the world. 
+
+SOURCES-CM: 
+Allock et al., 1992, 48-63; Brecher and Wilkenfeld, 1997, 369-371; Clodfelter, 1992, 987; *European Court of Human Rights *(ECHR) press release, September 8, 1999; Jessup, 1998, 143-144; Tillema, 1991, 55-56; Weisburd, 1997, 152-155.
+
+NARRATIVE-CR:
+The Cyprus-Turkey rivalry that began in March of 1965 involved two issues. The first is the Cold War and the second is whether there would be a Muslim/Turkish or Christian/Greek dominance in Cyprus. MID2171 was over Soviet placement of missiles in Cyprus. The missiles were to be shipped through the United Arab Republic based upon a September 1964 arms agreement (Facts on File). Turkey issued a statement saying it would bomb any missiles moved into Cyprus. The dispute was resolved through mediation with the Greek-Cyprus government.
+
+MID2172 was a minor class between Greek Cypriots and Turkish Cypriots. The UN intervened on November 5th, 1965 and negotiated a ceasefire (Facts on File). MID1280 and MID1293 are both over Greek/Turkish control of Cyprus. In November of 1967 escalating tensions made a Cyprus war between Greece and Turkey seem inevitable. To avoid the war both sides began mediation and agreed to the withdrawal of all troops not permitted under the 1960 agreement (Facts on File). All war preparations were dismantled and all local military forces were disbanded. In addition there was a 4,500 man expansion of the UN Peace-keeping force. Both sides had 45 days to comply with the agreement. The agreement was accepted by both states and withdrawals began in early December (Facts on File). 
+
+The war was not prevented, only delayed. In 1974 a war between Turkish-Cyprus and Greek-Cyprus began in July (MID1293). Turkish forces engaged Greek forces and by mid-August had seized control of the northern third of Cyprus. Turkey unilaterally ceased its military invasion on August 16th and announced its willingness to negotiate. Several military incursions still occurred after the ceasefire.
+
+Konstantinos Karamanlis, who was in France, was called back to head the Greek-Cyprus Government. He met with the Allied powers in Geneva on July 25th to discuss the situation on Cyprus. A second conference was held on August 10th that resulted in Cyrpus being divided into a Turkish Cypriot zone and a Greek Cypriot zone in the south (www.onwar.com 2003).
+
+MID2178 involved a Greek Cypriot Blockade of Northern Cyprus with the visit of the Turkish Premier on July 2nd, 1986. Turkey was reinforcing its support for global recognition of northern Cyprus as an independent state. The blockades ended July 12th (Facts on File). There is no recorded activity during the dates given for MID2761 or MID2760. In 1993 (MID4039) the election of a Greek-Cypriot who opposes the Muslim division on the island causes a dispute between Cyprus and Turkey. UN talks occurred discussing the Cyprus situation.
+
+MID4038 occurred from January 22, 1993 to April 11, 1993. MID4038 was over the presence of a Turkish Military presence in Cyprus. Turkey claimed that it has the right to install military forces on several Greek islands, including Cyprus, under the Treaty of Lausanne, which only required partial demilitarization (Constas 1991).
+
+Disputes over the continued frustration of Trade between Turkey and Greece over the re-election of Turkish-Cypriot leader (MID4094) and refusal of the Greek-Cypriots to recognize the northern splinter state. In addition, there were arguments over the UN plan for forming a federal state (FACTS ON FILE). MID4094 occurred from October 6, 1994 to November 14, 1995.
+
+MID4095 occurred from June 6, 1996 to July 20, 2001. MID4095 relates to Turkish claims on waters in the Aegean that are also claimed by Greece. The 1958 Geneva Convention had allocated the continental shelf to Greece but Turkey was not a signatory and therefore did not recognize Greece's claims. Turkey rejected the Greek claim that they controlled 12 nautical miles instead of the 6 nautical miles that Turkey recognized. This dispute is ongoing and is likely to continue as there have been no clear decisions regarding control over the Aegean.
+
+Cyprus joined the European Union in 2004, while Turkey's membership path is slowed down by its refusal to acknowledge the existence of Cyprus and to open its ports to Cypriot planes and ships. As of 2007 Turkey had 42,500 soldiers stationed in Northern Cyprus making the region one of the most militarized in the world. 
+
+SOURCES-CR: 
+Constas 1991; Facts On File; www.onwar.com
+
+MARITIME-MIDS: MID4095
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MARITIME-DISPUTE: MID4095
+ DYAD: TURKEY/OTTOMAN EMPIRE CYPRUS 640352
+ DATES: 19960603 20010720
+ HOSTILITYA: 4 FATALITYA: 1
+ HOSTILITYB: 4 FATALITYB: 1
+
+MARITIME-DISPUTE: MID4095
+ DYAD: CYPRUS TURKEY/OTTOMAN EMPIRE 352640
+ DATES: 19960603 20010720
+ HOSTILITYA: 4 FATALITYA: 1
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+MID4095 occurred from June 6, 1996 to July 20, 2001. MID4095 relates to Turkish claims on waters in the Aegean that are also claimed by Greece. The 1958 Geneva Convention had allocated the continental shelf to Greece but Turkey was not a signatory and therefore did not recognize Greece's claims. Turkey rejected the Greek claim that they controlled 12 nautical miles instead of the 6 nautical miles that Turkey recognized. This dispute is ongoing and is likely to continue as there have been no clear decisions regarding control over the Aegean.
+This MID deals with the issues surrounding the island of Cyprus. Turkey, Greece, and Cyprus repeatedly violate each other's territory and airspace. These violations are interrupted by the occasional display and threat of force. It does not end with a settlement; rather, the tensions simply cool.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Kassimeris, Christos. "Greek response to the Cyprus invasion." Small Wars & Insurgencies 19.2 (2008): 256-273.
+
+New York Times (1987b). Cypriot Border Clash Hinders Settlement Effort. New York Times December 23. By Ozer Koray: A22.
+
+BBC (1993). Turkish Cypriot premier accuses Greek Cypriots of 'tricks and provocations'. BBC Summary of World Broadcasts April 14. LexisNexis.
+
+BBC (1993b). Turks say Greeks have increased border provocations since elections in Greece. BBC Summary of World Broadcasts October 16. LexisNexis.

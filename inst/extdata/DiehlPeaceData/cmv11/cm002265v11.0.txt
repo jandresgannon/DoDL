@@ -1,0 +1,125 @@
+FILE: cm002265v11.0.txt
+DYAD: USA - E. GERMANY
+RIVALRY: RIV57
+DISPUTE(S): MID2854 MID27 
+
+PS: 19491007-19901002 .25
+
+PSNOTES: 
+PS-LAST-CHANGED: 20170714
+PS-LAST-CHECKED: 20170714
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2854 
+
+TERRMID: MID2854 3 -- not territory 
+TERRMID-CER: MID2854 1 -- certain 
+TERRMID-NOTES: MID2854 from cm narrative, this is a bilateral MID that occurred in 1958. East Germany forced a US Army helicopter that flew into its airspace down and held the 9 US soldiers as prisoners, attempting to leverage recognition from the US as a sovereign state. Coded not territorial because no disputed territory was in this dyad and this was a diplomatic dispute. 
+
+TERRLINK: MID2854 3 -- not third party link to territory 
+TERRLINK-CER: MID2854 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2854 3 -- not maritime 
+MARITMID-CER: MID2854 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2854 3 -- not islands 
+ISLMID-CER: MID2854 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2854 3 -- not civil war 
+CIVWARMID-CER: MID2854 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2854 3 -- not civil war link 
+CIVWARLINK-CER: MID2854 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2854 3 -- not coup 
+COUPMID-CER: MID2854 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2854 3 -- not coup link
+COUPLINK-CER: MID2854 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: MID27 is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded not territorial MID because the US and East Germany had no territorial claim. Rather, West Germany (Federal Republic of Germany) claimed the territory of East Germany (German Democratic Republic) as rightfully its own, and the US-East Germany MID here results from US as a third party supporting West Germnay's claim. The USSR, Czechoslovakia, and Poland backed East Germany's position in the territorial dispute. See TERRLINK.
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 from cm narrative, this is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. See TERRMID-NOTES for an explanation of the territorial dispute. Coded third party link to territory because there are several dyads with territorial MIDs in this dispute. The US was a third party to the East Germany-West Germany territorial dispute. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+RIVNOTES: 
+
+RIV57: MID2219 removed because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data.
+
+RIV58 is deleted because according to the dyadic MID 3.1 data the USA and East Germany do not interact in this MID.
+
+RIVALRY-RIV58
+DATES (may not be accurate, see riv5.20all.cvs): 19850324 -19850907
+DISPUTE(S)-MID2232
+
+RIV57 and RIV58 are kept separate. While they both loosely involve the Cold War, the issues are different and there is over a 20 year gap.
+
+NARRATIVE-CM:
+The *German Democratic Republic *(GDR) was established in the Soviet occupation zone in eastern Germany on October 12, 1949. East German military forces shot down a United States military aircraft on January 28, 1964. East German and US representatives held negotiations in Washington DC beginning on July 14, 1974. The US agreed to establish diplomatic relations with East Germany on September 3, 1974. East Germany and West Germany reunited on October 3, 1990. 
+
+SOURCES-CM: 
+Ference, 1994, 165-211; Langer, 1972, 1199-1201.
+
+NARRATIVE-CR:
+The rivalry between the United States and East Germany is a product of the Cold War as the East Germans were allied with the Soviet Union in the Cold War. The MIDs that constituted the rivalry usually also involve the USSR and the West Germans. There are several minor incidents that occur between the two countries however with the Berlin Wall Crisis being the high point of tension. 
+
+MID2854 occurred in June and July of 1958. This was a bilateral mid between the US and East Germany. On June 8th, a US Army helicopter flew into East German air space and was forced to land by the East German Air Force and the 9 US soldiers on board were detained. The East Germans refused to return the men in the helicopter and used them as a tool to gain recognition of sovereign status. After six weeks of detention the men were released. 
+
+MID27 is the Berlin Wall Crisis which lasted from July through October of 1961. This is a multilateral mid involving Czechoslovaki, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. The Berlin dispute had simmered ever since Khrushchev threatened in 1958 to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.The Soviets, for their part, were particularly concerned with the growing military strength of West Germany, and, in particular, the installation of tactical nuclear weapons in West Germany. The East German government was increasingly concerned about the defection of East German citizens moving from East to West Berlin.
+
+On June 4, 1961, Khrushchev reissued his 1958 threat in ultimatum form, with a deadline of December 31, 1961. Kennedy responded on June 28 and July 25 with a public statement of the US determination to defend the status of Berlin, including Western access rights, but with no mention of freedom of movement between East and West Berlin. This may have encouraged the Soviet and East German governments to begin construction of the Berlin Wall on August 13, 1961. That action produced an immediate heightening of tensions, including shows-of-strength and diplomatic sanctions by both sides.
+
+Nevertheless, the fait accompli removed one of the issues prompting Khrushchev's ultimatum. By the end of August Kennedy proposed negotiations which were arranged for September 21 in New York. Conciliatory letters between Kennedy and Khrushchev were exchanged in late September. When Kennedy assured Khrushchev that the US would not pursue the reunification of Germany, Khrushchev decided on October 17 to rescind the December 31 deadline for a settlement. Tentative agreement on a formula for a negotiated settlement regarding access right and recognition of the boundaries of the two Germanys was reached on November 9th, although it was to take more than a decade before a formal agreement was reached.
+
+MID2219 is a multilateral mid with the US and West Germany v. the USSR and East Germany that occurred from December of 1961 until October of 1962. This mid covers a period of several minor incidents that all served to increase hostilities. In December the East Germans and the Soviets protested to the United States regarding hostile troop movements along the autobahn link connecting Berlin with West Germany. This was followed by the East German shooting of an American military vehicle that was part of the US mission in Potsdam. 
+
+When President Johnson assumed the Presidency in 1963, he instituted what was known as the `Bridge Building' policies toward Eastern Europe. This policy recognized that there were clear differences between the USSR and the PRC, it emphasized trade with and independent bilateral relations with the individual Eastern European countries. There was an emphasis placed on flexibility and a shift in US foreign policy which included economic aid to Eastern Europe. The US also participated in technical project, cultural exchange, idea exchange, and humanitarian assistance programs. The goal of this policy was counter the crisis in NATO after the French actions, to provide a way forward on the issue of German unification and to generally improve the European atmosphere. The long term goals of the policy were to end the Cold War with a US victory. The policy had mixed success. There were several reasons for its failure including the intensification of the Vietnam War in 1965 and the Prague Spring in 1968 were two prominent distractors. However, this approach did pave the way for the detente that was to follow from 1969 to 1980. 
+
+Another element that led the reduction in hostilities between the US and East Germany was the Ostpolitik policies of the FRG. Willy Brandt sought a separate German detent with Russia. This led to negotiations that resulted in Helsinki Treaty 1975. Existing boundaries of Europe were confirmed, especially West Berlin belonged to West Germany. Both Germanys were admitted to UN. This was a significant development for the GDR as one of the primary goals of the regime since its inception was recognition of sovereign status. 
+
+The rivalry experiences MID2232 in 1985. Here the Soviet military shot a US military officer. The officer was in East Germany at the time observing Soviet tank maneuvers. The Soviets and the Allied powers agreed to what amounted to sanctioned espionage in 1947. A limited number of intelligence troops from the United States was permitted to observe Soviet activities in East Germany and Vice Versa. Accounts over the incident are in dispute over the actual events of the shooting. The Soviets claimed that the major was in a restricted area when he was shot and ignored warning shots. The Americans claimed that the major was shot without warning and that he was not in a restricted area. Incidents involving these sanctioned espionage agents were frequent. American, French and British military officials occupied various cities in East Germany and the Soviets occupied several cities in West Germany. Americans reported being rammed in their cars, being harassed in person, and being variously harassed by the Soviet and East German troops. 
+
+Ultimately, the ascendance of Gorbachov and the Glasnost and Perestroika policies that brought about the end of the Cold War finally settled any hostilities that may have existed between the GDR and the US. German reunification in 1990 solidified the end of the rivalry as the GDR ceased to exist in 1990. 
+
+SOURCES-CR:
+Burant, 1987; New York Times June - July 1961; 3/25/1985; Cold War History Project - History Department Web Page UCSD http://history.acusd.edu/gen/20th/coldwar0.html; Onwar.com; Solsten, 1995
+

@@ -1,0 +1,493 @@
+FILE: cm660666v11.0.txt
+DYAD: LEBANON-ISRAEL
+RIVALRY: RIV1253
+DISPUTE(S): MID1793 MID2866 MID1017 MID1051 MID1061 MID4182 
+
+PS: 19480514-20209999 0.00
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1793
+
+TERRMID: MID1793 1 -- territorial MID
+TERRMID-CER: MID1793 1 -- certain 
+TERRMID-NOTES: MID1793 from Gibler 2018, in 1947-1948, Israelis and Palestinians disputed who would control the area that is modern-day Israel. The Israelis declared independence and sovereignty over the land in 1948, and a coalition of Arab nations (Syria, Iraq, Egypt, Lebanon, and Jordan) attacked Israel that same day because they denied Israel's claim to sovereignty and wanted a Palestine state. A war broke out, and Israel emerged victorious in 1949. Coded territorial MID because Lebanon disputed Israel's claim to the territory. 
+
+TERRLINK: MID1793 1 -- third party link to territory 
+TERRLINK-CER: MID1793 1 -- certain
+TERRLINK-NOTES: MID1793 in this dyad, the TERRMID is between Lebanon and Israel, but this MID also involves a territorial MID between Israel and other Arab states outside this dyad. 
+
+MARITMID: MID1793 1 -- maritime MID
+MARITMID-CER: MID1793 1 -- certain
+MARITMID-NOTES: MID1793 the dispute between Israel and the Arab nations involved in this dispute (Egypt, Iraq, Jordan, Syria, and Lebanon) also included a dispute concerning sovereignty over the waters off the coast of what is current-day Israel. 
+
+ISLMID: MID1793 3 -- not islands 
+ISLMID-CER: MID1793 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1793 1 -- civil war MID
+CIVWARMID-CER: MID1793 1 -- certain
+CIVWARMID-NOTES: MID1793 this MID involves fighting between Israelis and Palestinians before a state was created. Thus, the militarized groups were non-state armed groups fighting for control of the state, making them militarized rebels per our coding scheme. 
+
+CIVWARLINK: MID1793 3 -- not civil war link
+CIVWARLINK-CER: MID1793 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1793 3 -- not coup 
+COUPMID-CER: MID1793 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1793 3 -- not coup link
+COUPLINK-CER: MID1793 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2866 
+
+TERRMID: MID2866 3 -- not territory 
+TERRMID-CER: MID2866 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2866 3 -- not third party link to territory 
+TERRLINK-CER: MID2866 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2866 3 -- not maritime 
+MARITMID-CER: MID2866 3 -- uncertain 
+MARITMID-NOTES: MID2866 from Gibler, Miller, and Little 2016, Israel arrested a Lebanese fishing vessel in its territorial waters. Lebanon did not protest. Coded not maritime because a maritime boundary was not being disputed and Lebanon did not disagree that the vessel was in Israel's waters. Coded uncertain because Lebanon did not protest, and GML argue this is therefore not a MID. 
+
+ISLMID: MID2866 3 -- not islands 
+ISLMID-CER: MID2866 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2866 3 -- not civil war 
+CIVWARMID-CER: MID2866 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2866 3 -- not civil war link 
+CIVWARLINK-CER: MID2866 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2866 3 -- not coup 
+COUPMID-CER: MID2866 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2866 3 -- not coup link
+COUPLINK-CER: MID2866 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1017 
+
+TERRMID: MID1017 3 -- not territory 
+TERRMID-CER: MID1017 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1017 3 -- not third party link to territory 
+TERRLINK-CER: MID1017 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1017 3 -- not maritime 
+MARITMID-CER: MID1017 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1017 3 -- not islands 
+ISLMID-CER: MID1017 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1017 1 -- civil war MID
+CIVWARMID-CER: MID1017 1 -- certain 
+CIVWARMID-NOTES: MID1017 from Gibler 2018 and cm narrative, Fatah terrorists in Lebanon attacked Israel in 1965. Israel raided two border towns in Lebanon in response. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad.
+
+CIVWARLINK: MID1017 3 -- not civil war link 
+CIVWARLINK-CER: MID1017 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1017 3 -- not coup 
+COUPMID-CER: MID1017 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1017 3 -- not coup link
+COUPLINK-CER: MID1017 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1051 
+
+TERRMID: MID1051 3 -- not territory 
+TERRMID-CER: MID1051 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1051 3 -- not third party link to territory 
+TERRLINK-CER: MID1051 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1051 3 -- not maritime 
+MARITMID-CER: MID1051 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1051 3 -- not islands 
+ISLMID-CER: MID1051 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1051 1 -- civil war MID
+CIVWARMID-CER: MID1051 1 -- certain 
+CIVWARMID-NOTES: MID1051 from cm narrative and Gibler 2018, Fatah rebels in Lebanon shelled Israel, and Israeli and Lebanese troops clashed as a result. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad. 
+
+CIVWARLINK: MID1051 3 -- not civil war link 
+CIVWARLINK-CER: MID1051 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1051 3 -- not coup 
+COUPMID-CER: MID1051 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1051 3 -- not coup link
+COUPLINK-CER: MID1051 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1061 
+
+TERRMID: MID1061 3 -- not territory 
+TERRMID-CER: MID1061 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1061 3 -- not third party link to territory 
+TERRLINK-CER: MID1061 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1061 3 -- not maritime 
+MARITMID-CER: MID1061 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1061 3 -- not islands 
+ISLMID-CER: MID1061 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1061 1 -- civil war MID
+CIVWARMID-CER: MID1061 1 -- certain 
+CIVWARMID-NOTES: MID1061 from Gibler 2018, in 1974-1976 Israel raided several Lebanese villages in response to militarized rebels from Lebanon crossing into Israel and massacring civilians. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad. 
+
+CIVWARLINK: MID1061 3 -- not civil war link 
+CIVWARLINK-CER: MID1061 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1061 3 -- not coup 
+COUPMID-CER: MID1061 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1061 3 -- not coup link
+COUPLINK-CER: MID1061 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3994 
+
+TERRMID: MID3994 3 -- not territory 
+TERRMID-CER: MID3994 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3994 3 -- not third party link to territory 
+TERRLINK-CER: MID3994 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3994 3 -- not maritime 
+MARITMID-CER: MID3994 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3994 3 -- not islands 
+ISLMID-CER: MID3994 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3994 1 -- civil war MID
+CIVWARMID-CER: MID3994 1 -- certain 
+CIVWARMID-NOTES: MID3994 from Gibler 2018, Israel was providing support to Christian militarized rebels during the Lebanese Civil war. From 1977-1979, a series of MIDs occurred due to Israel deploying troops to the Lebanese border and launching attacks into Lebanon. Coded civil war MID because this was connected to the civil war in Lebanon, within this dyad. 
+
+CIVWARLINK: MID3994 3 -- not civil war link 
+CIVWARLINK-CER: MID3994 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3994 3 -- not coup 
+COUPMID-CER: MID3994 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3994 3 -- not coup link
+COUPLINK-CER: MID3994 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3448
+
+TERRMID: MID3448 3 -- not territory
+TERRMID-CER: MID3448 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3448 3 -- not third party link to territory 
+TERRLINK-CER: MID3448 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3448 3 -- not maritime 
+MARITMID-CER: MID3448 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3448 3 -- not islands 
+ISLMID-CER: MID3448 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3448 1 -- civil war MID
+CIVWARMID-CER: MID3448 1 -- certain
+CIVWARMID-NOTES: MID3448 from Gibler 2018, in 1980-1981 Israel attacked PLO targets in Lebanon during the Lebanese Civil War. Syria was supporting the PLO, which shelled Israeli towns. Israel and Syria also directly clashed due to support for opposing sides in the civil war. Coded civil war MID because this was connected to the Lebanese Civil War, within this dyad. 
+
+CIVWARLINK: MID3448 3 -- not civil war link
+CIVWARLINK-CER: MID3448 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3448 3 -- not coup 
+COUPMID-CER: MID3448 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3448 3 -- not coup link
+COUPLINK-CER: MID3448 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3444
+
+TERRMID: MID3444 3 -- not territory
+TERRMID-CER: MID3444 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3444 3 -- not third party link to territory 
+TERRLINK-CER: MID3444 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3444 3 -- not maritime 
+MARITMID-CER: MID3444 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3444 3 -- not islands 
+ISLMID-CER: MID3444 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3444 1 -- civil war MID 
+CIVWARMID-CER: MID3444 1 -- certain
+CIVWARMID-NOTES: MID3444 from Gibler 2018, in 1982-1985 Israel invaded Lebanon to attack PLO rebels. An Israeli diplomat was nearly killed in an assassination attempt by what they believed to be PLO terrorists, and Israel invaded Lebanon to target the rebels. Syria intervened to oppose Israel in Lebanon. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad.
+
+CIVWARLINK: MID3444 3 -- not civil war 
+CIVWARLINK-CER: MID3444 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3444 3 -- not coup 
+COUPMID-CER: MID3444 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3444 3 -- not coup link
+COUPLINK-CER: MID3444 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4182 
+
+TERRMID: MID4182 3 -- not territory 
+TERRMID-CER: MID4182 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4182 3 -- not third party link to territory 
+TERRLINK-CER: MID4182 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4182 3 -- not maritime 
+MARITMID-CER: MID4182 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4182 3 -- not islands 
+ISLMID-CER: MID4182 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4182 1 -- civil war MID
+CIVWARMID-CER: MID4182 1 -- certain 
+CIVWARMID-NOTES: MID4182 From Gibler 2018, in 1993-2006 Israel repeatedly attacked Hezbollah militants in Lebanon, who were targeting Israel. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad. 
+
+CIVWARLINK: MID4182 3 -- not civil war link 
+CIVWARLINK-CER: MID4182 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4182 3 -- not coup 
+COUPMID-CER: MID4182 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4182 3 -- not coup link
+COUPLINK-CER: MID4182 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4533 
+
+TERRMID: MID4533 3 -- not territory 
+TERRMID-CER: MID4533 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4533 3 -- not third party link to territory 
+TERRLINK-CER: MID4533 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4533 3 -- not maritime 
+MARITMID-CER: MID4533 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4533 3 -- not islands 
+ISLMID-CER: MID4533 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4533 1 -- civil war MID
+CIVWARMID-CER: MID4533 1 -- certain 
+CIVWARMID-NOTES: MID4533 from Gibler 2018, this is another MID (2006-2009) connected to Israel attacking Hezbollah militants in Lebanon. In this MID, Israeli and Lebanese forces directly clashed over Israel's targeting of the rebels. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad. 
+
+CIVWARLINK: MID4533 3 -- not civil war link 
+CIVWARLINK-CER: MID4533 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4533 3 -- not coup 
+COUPMID-CER: MID4533 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4533 3 -- not coup link
+COUPLINK-CER: MID4533 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4545 
+
+TERRMID: MID4545 3 -- not territory 
+TERRMID-CER: MID4545 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4545 3 -- not third party link to territory 
+TERRLINK-CER: MID4545 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4545 3 -- not maritime 
+MARITMID-CER: MID4545 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4545 3 -- not islands 
+ISLMID-CER: MID4545 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4545 1 -- civil war MID
+CIVWARMID-CER: MID4545 1 -- certain 
+CIVWARMID-NOTES: MID4545 from Gibler 2018, in 2009-2010 Israel again attacked Hezbollah militant targets in Lebanon, triggering this MID. Coded civil war MID because this was connected to militarized rebels in Lebanon, within this dyad. 
+
+CIVWARLINK: MID4545 3 -- not civil war link 
+CIVWARLINK-CER: MID4545 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4545 3 -- not coup 
+COUPMID-CER: MID4545 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4545 3 -- not coup link
+COUPLINK-CER: MID4545 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4182
+rivalry=660666 nationa=ISRAEL nationb=LEBANON MID4182 19930406-20060908 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=101-250 DEATHS fatalpb=.
+lhostb=USE OF FORCE 
+
+Israel frequently clashed with Hezbollah guerillas in southern Lebanon, both with small arms fire and with artillery strikes over the countries' shared border. As a result, they regularly violated and attacked Lebanese territory, both in southern Lebanon and in the area around Beirut. The conflict culminated with an invasion and occupation of southern Lebanon by the Israeli army after Hezbollah guerillas kidnapped two Israeli soldiers. Israel and Lebanon agreed to a ceasefire after a few months of Israeli occupation in southern Lebanon. First day of dispute was on 4/6/1993 and last day of dispute was on 9/8/2006.
+
+MID4533
+rivalry=660666 nationa=ISRAEL nationb=LEBANON MID4533 20060819-20090303 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=. lhostb=
+USE OF FORCE 
+
+Despite agreeing to a cease-fire in 2006 (MID4510), violent incidents continued between Israel, Hezbollah, and Lebanese forces in southern Lebanon. Israeli forces periodically raided Hezbollah strongholds in southern Lebanon, as well as conducted aerial bombings of both southern Lebanon and areas around Beirut. The Lebanese military became more active, however, in this MID than in the previous MID between the two countries, directly engaging Israeli jets and troops with their own military forces, resulting in some clashes between the two sides. First day of dispute was on 8/19/2006 and last day of dispute was on 3/3/2009.
+
+REFERENCE TO MID4510 LIKELY INCORRECT AS THIS IS AN IRAN-IRAQ DISPUTE AND DOESN'T RELATE TO ANY CEASE-FIRE
+
+MID4545
+rivalry=660666 nationa=ISRAEL nationb=LEBANON MID4545 20090911-20101227 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=USE OF FORCE
+
+This MID is a continuation of the actions in MID4533, as Israel continued its operations against Lebanese miltiary targets in response to the hostile actions of Hezbollah in southern Lebanon. First day of dispute was on 9/11/2009 and last day of dispute was on 12/27/2010.
+
+MID4182
+rivalry=660666 nationa=ISRAEL nationb=LEBANON MID4182 19930406-20060908 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=101-250 DEATHS fatalpb=.
+lhostb=USE OF FORCE 
+
+This dispute contains hundreds of militarized incidents between, primarily, Israel and Lebanon. Syria sporadically participated on the side of the Lebanese. Virtually all of the incidents occur when Israel attacks Hezbollah guerillas in Southern Lebanon in response to Hezbollah attacks on Israeli troops. Israeli violations of the Lebanese border, in an effort to monitor Hezbollah activities, are also common. Lebanon repeatedly protests the incursions, and often fights with the Hezbollah guerillas when the Israeli forces attack. The dispute begins in 1993 and continues through December 2001 with remarkably little change in the character of the incidents. The dispute is, therefore, still ongoing with no outcome or settlement. First day of dispute was on 4/6/1993 and last day of dispute was on 9/8/2006.
+
+RIVNOTES: 
+RIV1253: MID3444 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+Because of the MID3.1 changes MID3444 is added to RIV1253. After reconsideration of the whole narrative of the relationship between the two we have decided to made Lebanon-Israel a continuous rivalry from 1948 onward. This means moving MID4182 to RIV1253 and eliminating the isolated rivalry RIV1254.
+
+RIV1254: MID3.1 now has Syria and Lebanon as allies so MID3444 (1982) is add to this rivalry. From mid31changes.txt file: "MID3444 End year implies that Syria's participation as the only initiator ends while conflict involving the two targets continues Syria's dispute exit date is correct. There are, however, problems with the sideA and revstate and revtype1 coding. According to news reports, Israel should be coded to sideA while Syria and Lebanon should be coded to sideB. Israel should be coded "1" for revstate while Syria and Lebanon should be coded "0". Israel should be coded as revtype1 "2" while Syria and Lebanon should be coded as revtype1 "0". sideA, revstate and revtype1 coding changes were made in MID B file NYT Dispute Changed 3.1 Jul-06"
+
+NARRATIVE-CM:
+Lebanon opposed the *United Nations *(UN) General Assembly resolution approved on November 29, 1947, which recommended that Palestine be partitioned into a Jewish state and an Arab state. The *United Nations Special Committee on Palestine (UNSCOP), which was established by the UN General Assembly in May 1947, had recommended the partition of Palestine. The UN Security Council authorized the establishment of a UN truce commission (Belgium, France, and the US) on April 23, 1948 to prevent military hostilities following Britain's planned withdrawal from Palestine on May 14, 1948. Lebanese and other Arab troops invaded Israel under the auspices of the *League of Arab States* (LAS) on May 15, 1948, the day after Prime Minister David Ben-Gurion declared the establishment of the state of Israel. The UN General Assembly authorized the appointment of a UN mediator, and Count Folke Bernadotte of Sweden was appointed to the position on May 14, 1948. Following Bernadotte's assassination on September 17, 1948, Ralph Bunche served as acting UN mediation until August 11, 1949. The UN truce commission was dissolved on August 11, 1949. The UN Security Council appealed for a ceasefire on May 22 and May 29, 1948. The UN Security Council established the* United Nations Truce Supervision Organization* (UNTSO) on May 29, 1948, but military observers were not deployed to the Israel-Lebanon region until 1972. Lebanon and Israel accepted the ceasefire mediated by Count Bernadotte on June 11, 1948, but military hostilities resumed on July 8, 1948. The UN Security Council demanded a ceasefire on July 15, 1948, and a second ceasefire mediated by the Count Bernadotte went into effect on July 18, 1948. The UN General Assembly established a conciliation commission (France, Turkey, US) on December 11, 1948 to mediate a resolution of the dispute. Israel and Lebanon signed a ceasefire agreement mediated by Ralph Bunche on March 23, 1949. The UN conciliation commission hosted talks with Israeli and Arab delegates in Paris from September 13 to November 21, 1951, but the talks ended without an agreement. The *International Committee of the Red Cross* (ICRC) established a mission to provide humanitarian assistance in 1967. The UN Security Council condemned Israeli attacks against Lebanese territory on December 31, 1968 and August 26, 1969. Lebanon complained to the UN Security Council on January 3, 1970 about Israeli aggression, and Israel complained to the UN Security Council on January 5, 1970 about Palestinian attacks from Lebanese territory. The UN Security Council demanded an immediate withdrawal of Israeli troops from Lebanese territory on May 12, 1970 and condemned an Israeli attack against Lebanon on May 29, 1970. The UN Security Council demanded the withdrawal of Israeli troops from Lebanon on September 5, 1970. Israeli troops attacked Palestinian bases in southern Lebanon on February 24-28, 1972. The UN Security Council condemned Israel for its aggression against Lebanon on February 27, 1972. UNTSO established the *Observer Group Lebanon* (OGL) in southern Lebanon on April 24, 1972. UNTSO-OGL consisted of up to 54 military observers (the chief of UNTSO-OGL Lt. Colonel William Higgins of the US was abducted and killed on July 31, 1988). The UN Security Council demanded an Israeli troop withdrawal from Lebanon on February 28, 1972, and condemned Israel for aggression against Lebanon on June 26, 1972. Israeli troops attacked Beruit on April 10, 1973, resulting in the deaths of twelve individuals. The UN Security Council condemned Israeli aggression against Lebanon on April 22, 1973, August 15, 1973, and April 24, 1974. On August 15, 1973, the UN Security Council condemned Israel for the "forcible diversion and seizure by the Israeli air force of a Lebanese airliner from Lebanon's air space" on August 10, 1973. Israeli troops attacked Palestinian Liberation Organization (PLO) rebel targets in southern Lebanon between December 31, 1974 and January 23, 1975, resulting in the deaths of eleven PLO rebels, four Lebanese civilians, one Lebanese soldier, and one Israeli soldier. Israeli troops and military aircraft attacked PLO rebel targets in southern Lebanon between May 11 and July 7, 1975, resulting in the deaths of 17, PLO rebels, 11 Lebanese civilians, seven Lebanese soldier, and five Israeli soldiers. PLO rebels from Lebanon attacked sites near Tel Aviv, Israel on March 11, 1978, resulting in the deaths of 37 individuals. Israel retaliated by invading southern Lebanon on March 14, 1978. President Hassan Gouled of Djibouti condemned Israel for the invasion of southern Lebanon on March 15, 1978. Lebanon referred the matter to the UN Security Council on March 15, 1978. The UN Security Council appealed for the immediate withdrawal of Israeli troops from Lebanon on March 19, 1978. The UN Security Council established the *United Nations Interim Force in Lebanon* (UNIFIL) to monitor and verify the withdrawal of Israeli troops from Lebanon. UNIFIL consisted of some 7,000 peacekeeping troops, 60 military observers, and 330 civilian staff personnel from 20 countries headed by General Emmanuel Erskine of Ghana. The UN secretary-general appealed for a ceasefire on March 27, 1978, and both parties agreed to a ceasefire on March 28, 1977. The Lebanese government demanded the withdrawal of Israeli troops from southern Lebanon on April 4, 1978, and Israel began withdrawing its troops on April 11, 1978. The UN Security Council appealed for the withdrawal of Israeli troops from Lebanon on May 3, 1978. Israeli troops completed their withdrawal from southern Lebanon on June 13, 1978. *Organization of African Unity* (OAU) foreign ministers condemned the Israeli attack against Lebanon on July 12, 1978. *Non-Aligned Movement* (NAM) heads of state condemned Israel's occupation of southern Lebanon on September 8, 1979. Israeli planes bombed PLO bases in southern Lebanon in July 1981, resulting in the deaths of 200 individuals. The UN Security Council appealed for a ceasefire on July 21, 1981, and Ambassador Philip Habib of the US mediated a ceasefire agreement on July 24, 1981. The UN Security Council appealed for a ceasefire and the withdrawal of Israeli troops from southern Lebanon on February 25, 1982. After an Israeli diplomat was assassinated by terrorists in Paris on April 3, 1982, Israel launched air attacks against PLO rebel targets in southern Lebanon on April 21, 1982. The UN secretary-general appealed for a ceasefire on April 21, 1982, and the president of the UN Security Council appealed for a ceasefire on April 22, 1982. Israeli aircraft attacked PLO rebel targets in southern Lebanon on May 9, 1982, and the UN secretary-general appealed for a ceasefire on June 4 and June 5, 1982. The President of the UN Security Council appealed for the ceasefire on June 4, 1982. The UN Security Council appealed for a ceasefire on June 5, 1982. Israeli troops invaded Lebanon on June 6, 1982, and the UN Security Council demanded the withdrawal of Israeli troops from Lebanon on June 6, 1982. The UN Security Council approved a resolution condemning Israel, but the US vetoed the resolution on June 8, 1982. *Association of Southeast Asian Nations* (ASEAN) foreign ministers condemned Israeli aggression against Lebanon on June 11, 1982. Philip Habib mediated a ceasefire between Israeli and Syrian forces on June 11, 1982, but military hostilities resumed within days. UNTSO*-Observer Group Beruit* (OGB), which consisted of 50 military observers, was authorized by the UN Security Council on August 1, 1982 (and was disbanded in mid-1992). The UN Security Council appealed for a ceasefire on August 1, August 4, and August 12, 1982. A ceasefire went into effect on August 19, 1982. Philip Habib mediated a second ceasefire agreement between Israeli and Syrian forces on September 1, 1982. The UN Security Council condemned an Israeli attack against Beruit on September 17, 1982. Some 18,000 Lebanese were killed as a result of the Israeli invasion. Philip Habib and Morris Draper of the US attempted to mediate an disengagement agreement beginning in October 1982. Israeli and Lebanese officials signed a US-mediated agreement on May 17, 1983, which provided for the withdrawal of Israeli troops from Lebanon and an end to the state of war between the two countries. OAU heads-of-state condemned Israeli aggression against Lebanon and appealed for the withdrawal of Israeli troops from Lebanon on June 12, 1983. Israeli military aircraft attacked Islamic militants near Nabi Chit in the Bekaa Valley on November 16, 1983, resulting in the deaths of 47 individuals. Lebanon unilaterally abrogated the agreement on March 5, 1984, but Israeli and Lebanese officials began troop withdrawal talks on September 11, 1984. The Israeli cabinet voted in favor of a troop withdrawal from Lebanon on January 14, 1985. Israeli troops withdrew from Lebanon (except for a security zone) on June 10, 1985. Some 650 Israeli troops had been killed in Lebanon since 1982. The Israelis supported the Southern Lebanon Army (SLA) which controlled much of the territory in southern Lebanon from which the Israelis had withdrawn. Israel retaliated against the shelling of civilian targets in northern Israel with a bombing of targets in southern Lebanon from July 25 to July 31, 1993, resulting in the deaths of some 130 Lebanese. Israeli military forces attacked Shi'ite Muslim *Hizbollah* targets in southern Lebanon beginning on April 11, 1996. Some 110 civilians were killed by Israeli artillery shells in the village of Qana on April 18, 1996. The UN secretary-general condemned the "escalation of hostilities in Lebanon" on April 11, 1996. Some 500,000 individuals were internally-displaced during the Israeli attacks against targets in southern Lebanon. Lebanon referred the matter to the UN Security Council on April 13, 1996. *Amnesty International* condemned the Israeli government for aggression against civilians in southern Lebanon on April 15, 1996. The LAS Council appealed for the cessation of Israeli attacks against Lebanon on April 17, 1996, and the UN Security Council appealed for an immediate cessation of military hostilities on April 18, 1996. The ICRC condemned the killing of civilians in the village of Qana on April 19, 1996. The *European Union* (EU) appealed for a ceasefire on April 22, 1996. The UN General Assembly condemned Israel and appealed for a ceasefire on April 25, 1996. The US facilitated the signing of a ceasefire agreement between Israeli and Lebanese representatives on April 26, 1996. Some 200 Lebanese civilians and five Lebanon soldiers were killed during the crisis. France, Israel, Lebanon, Syria, and the US established the *Israel-Lebanon Monitoring Group* to observe the ceasefire in southern Lebanon beginning on April 27, 1996. The ICRC assisted with the repatriation of two Israeli soldiers and 123 mortal remains on July 21, 1996. Some 219 Israeli soldiers and 358 SLA soldiers were killed during military hostilities in southern Lebanon between 1985 and 1997. UN Secretary-General Kofi Annan appealed for a ceasefire on December 23, 1998. Israeli troops occupied the village of Amoun on April 15, 1999, and Israeli military aircraft attacked Hizbollah targets in southern Lebanon on April 17, 1999. Iran and Saudi Arabia condemned Israel for the occupation of Amoun on April 16, 1999. Israeli military aircraft attacked targets in southern Lebanon on June 24-25, 1999, resulting in the deaths of nine individuals. EU envoy Miguel Moratinos appealed for a ceasefire on June 25, 1999. LAS Secretary-General Esmat Abdel-Meguid condemned the Israeli attacks in southern Lebanon on June 25, 1999. Baboucarr-Blaise Jagne of Gambia, president of the UN Security Council, appealed for a ceasefire on June 25, 1999. Foreign Minister Abdulilah Khatib of Jordan condemned the Israeli attacks in southern Lebanon on June 25, 1999. Britain appealed for a ceasefire on June 25, 1999. Iran condemned the Israeli attacks in southern Lebanon on June 26, 1999. *Gulf Cooperation Council* (GCC) Secretary-General Jameel Hujailan condemned the Israeli attacks in southern Lebanon on June 26, 1999. President Mohammad Khatami of Iran condemned the Israeli attacks in southern Lebanon on June 29, 1999. Israeli troops attacked Hizbollah targets in southern Lebanon on December 9-16, 1999, resulting in the deaths of two Hizbollah soldiers. The United Arab Emirates (UAE) and Iran condemned Israel for attacks by Israeli-backed militia against civilian targets in southern Lebanon on December 16-17, 1999. The ICRC participated in the repatriation of the mortal remains of five members of the Hizbollah on December 22-23, 1999. Hizbollah troops killed three Israeli soldiers in southern Lebanon on January 31, 2000. Hizbollah troops killed one Israeli soldier in southern Lebanon on February 6, 2000. Israeli military aircraft attacked targets in southern Lebanon on February 7-8, 2000. Hizbollah troops killed one Israeli soldier in southern Lebanon on Februry 8, 2000. France, the Palestinian Authority, Iran, and Yemen condemned Israel for attacks against targets in southern Lebanon. UN Secretary-General Kofi Annan condemned Israeli attacks against targets in southern Lebanon on February 8, 2000. *Amnesty International* condemned Israeli attacks against Lebanese civilians on February 9, 2000. Morocco condemned Israeli attacks against Lebanon on February 9, 2000. LAS Secretary-General Esmat Abdel-Meguid condemned Israeli attacks against Lebanon on February 10, 2000. Iraq condemned Israeli attacks against Lebanon on February 20, 2000. Nicole Fontaine, president of the EU, condemned Israeli attacks against civilian targets in southern Lebanon on February 24, 2000. Israeli military aircraft attacked Hizbollah targets in southern Lebanon on February 25-26, 2000. Israeli military aircraft attacked Hizbollah targets in southern Lebanon on March 3-5, 2000. Israeli military aircraft attacked Hizbollah targets in southern Lebanon on March 14, 2000. Israeli military aircraft attacked Hizbollah targets in southern Lebanon on April 21, 2000, resulting in the death of one member of Hizbollah.
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1979-1980, 1983-1984; *Amnesty International* (AI) press release, April 15, 1996, February 9, 2000;* Associated Press *(AP)*,* April 17, 1999, June 25, 1999, January 31, 2000, February 6, 2000, February 25, 2000, February 26, 2000, March 5, 2000, March 14, 2000; *European Union *(EU) press release, April 22, 1996; *Foreign Broadcast Information Service *(FBIS), March 16, 1978, July 13, 1978, June 14, 1982; *International Committee of the Red Cross *(ICRC) press release, April 19, 1996, May 3, 1996, July 22, 1996, December 23, 1999; Inbar, 1991, 71-84; *Keesing*, June 18-24, 1973, July 21-27, 1975, January 1983, January 1984, April 1996; *Reuters*, April 15, 1999, April 16, 1999, June 24, 1999, June 25, 1999, June 26, 1999, June 29, 1999, December 9, 1999, December 11, 1999, December 15, 1999, December 16, 1999, December 17, 1999, January 31, 2000, February 7, 2000, February 8, 2000, February 9, 2000, February 10, 2000, February 20, 2000, February 24, 2000, February 25, 2000, March 4, 2000, March 5, 2000, March 14, 2000, April 21, 2000; *UN Chronicle*, 1996 (no.2); *United Nations General Assembly* press release, April 25, 1996; *United Nations Security Council *press release, April 18, 1996; *United Nations press release, December 23, 1998.
+
+NARRATIVE-CR:
+The issues that motivate the rivalry between Israel and Lebanon are similar to the issues that motivate Israel's rivalries with other Arab states. At the core of the rivalry is Israel's right to exist. Ancillary issues are Israeli and Syrian influence over Lebanese politics and external policies. The rivalry begins with the Palestine War of 1948 as the Lebanese participate in this conflict. It extends over the next three decades in intermittent conflict and is suspended during the period of Lebanese civil war. At this point in the coding the rivalry is considered terminated. However, there is no resolution of the differences taking place here. In fact, Israel is heavily militarily involved in Lebanon during this period of instability. Lebanon does not act in a unified manner during this time as the country divides into ethnic and religious factions. Thus there are no clear MIDs between Isreal and Lebanon during this time. However, once the country congeals again in the early 1990s the MIDs between the two begin anew. Thus, though this rivalry is coded as two separate rivalries, I argue that it should be combined into one. 
+
+MID1793 is the Palestine War which occurred from May through October of 1948. Jewish leaders unilaterally proclaimed the State of Israel on May 14, 1948. Arab states, including Egypt, Iraq, Jordan, Lebanon and Syria had amassed troops on Palestine's borders invaded on the 15th of May. The War ended in 1949. 
+
+Following the Palestine War of 1948, many Palestinian refugees settled in southern Lebanon. From there, infiltrators were setn across the border into Israel to attack civilian and military targets. This led to border tensions between Israel and Lebanon. 
+
+MID1017 occurred on October 28, 1965. El Fatah guerillas conducted several attacks on Israeli towns on the Lebanese border. The El Fatah guerillas were operating from bases within Lebanon. Israel launched a counter offensive designed to deter villagers and local officials from harboring the El Fatah in Southern Lebanon. Israel attacked two towns. They razed a local leaders home and destroyed several water reservoirs. 
+
+MID1051 occurred in May and June of 1968. On May 10th, 1968, Israel reported that mortar shells were being fired into Northern Israel from Lebanon. The Israelis accused the Al Fatah faction of the PLO for these attacks. On the 13th Lebanese and Israeli troops fired on one another across their mutual border. The Israeli Army cited the killing of an Israeli woman as the motivation behind the incident. On May 15th, mass demonstrations in Beirut took place in which students called on the Prime Minister to deliver more arms to border villager and military positions. Dr. Yafi, the Lebanese PM declared Lebanese support for Palestine and the Lebanese willingness to stand with the Palestinians. 
+
+MID1061 occurred from April of 1974 until December of 1975. Palestinian insurgents based in southern Lebanon crossed into Israel and killed eighteen Israelis in the northern town of Qiryat Shemona. The Israelis responded by raining several villages in southern Lebanon and threatening Lebanon with massive retaliation if it allowed terrorists to operate from its territory. There were more terrorist attacks in May and June. This led to massive bombing raids on Palestinian camps in Lebanon and naval attacks on Lebanese ports. In December of 1974, Israeli planes attacked Palestinian targets on the outskirts of Beirut. 
+
+This marks the end of the first rivalry between Lebanon and Israel. There are no more MIDs between the two countries until 1993. However, Israel was significantly involved in Lebanon during this inter-rivalry period. In 1975 Lebanon began a civil war that would last until 1992. The Lebanese Army split into Christian and Muslim factions. The lack of a MID between the two countries is probably due to the chaos occurring in the country during the 17 year civil war. Therefore it seems appropriate to code this as one rivalry. The underlying issues are the same when the rivalry picks up again in the 1990s. There is just a brief interlude and lack of MIDs due to the uncertainties in Lebanon during the period. Indeed, Israel was heavily engaged militarily with Lebanon during this period. 
+
+"From 1975 to 1991, Lebanon witnessed persistent internal conflict, fomented by wider regional conflict, which resulted in the fragmentation of the country. In the civil war (1975/6), Maronite-dominated militias and army units fought an alliance of the Palestine Liberation Organization (PLO) and the Lebanese National Movement (LNM), whose constituency was largely among the Lebanese Muslims and Druze. The armed Palestinian presence in Lebanon was a major catalyst for the war. The intervention of Syria, initially on the side of the Christian militias, imposed something of a stalemate, consolidating the cantonization of the country into confessional districts. Syria has remained the dominant force in Lebanon ever since." (Dammers 1998, p.185)
+
+In 1978, Israel conducted operations in Lebanon which enabled them to dominate and control southern Lebanon. In March, and in reprisal for a Palestinian attack into its territory, Israel launches a major invasion of Lebanon, occupying land as far north as the Litani River. The United Nations Security Council (UNSC) passed Resolution 425, which calls on Israel to withdraw from all Lebanese territory and establishes the United Nations Interim Force in Lebanon (UNIFIL) to confirm the Israeli withdrawal, restore peace and help the Lebanese government re-establish its authority in the area. By 13 June, Israel handed over territory in southern Lebanon not to UNIFIL but to its proxy mainly Christian Lebanese militia under Maj Sa'd Haddad.
+
+In 1982, Israel attacked the southern half of Lebanon in what was referred to as Operation Peace for Galilee. Following the attempted assassination of Shlomo Argov, Israeli ambassador to the United Kingdom, Israel launched a full-scale invasion of Lebanon, "Operation Peace for Galilee". In September, Lebanese President-elect, Bashir al-Jumayyil, was assassinated. The following day, Israeli forces occupied West Beirut, and from 16 to 18 September, the Phalangist militia killed Palestinian in Sabra and Shatila refugee camps in West Beirut. On 21 September, Bashir's elder brother, Amin al-Jumayyil, was elected president. On 24 September the first contingent of a mainly US, French and Italian peacekeeping force, requested by Lebanon, arrives in Beirut. " 
+
+During much of the Lebanese civil war and subsequent to it, Syria was heavily involved in Lebanese politics and security. In fact, much of the fighting that occurred between Israel and Lebanon was a proxy conflict for direct engagement between Israel and Lebanon. 
+
+In December of 1983, PLO leaders left Lebanon and established headquarters in Tunis, Tunisia. 
+
+A significant event that occurs between the two phases of this rivalry is the Palestinian Intifada that started in 1987. Intifada or the "shaking off" is one of the most significant aspects in recent years of the Israeli-Palestinian conflict. The intifada that began in 1987, started as campaigns of civil disobedience by the Palestinians and escalated into a tit-for-tat cycle of violent reprisals and counter reprisals between Israelis and Palestinians. The first Intifada took place from 1987 to 1991 (end of massive Israeli violence) or 1993 (Oslo accords). The first Intifada was sometimes also called "the war of stones", because the Palestinians generally used stones and other makeshift weapons. The intifada was a partially spontaneous phenomenon; after it began, the PLO attempted to claim that it had organized it, but historians view this as an after-the-fact attempt to assert more control than it really had. 
+
+In October of 1991, The Madrid Peace Conference opens in Spain, sponsored by the United States and the Soviet Union. In September of 1993 Israel and PLO sign peace treaty. 
+
+MID4182 occurred from April of 1993 until December of 2001. This MID has several different portions to it but they all involve Israeli incursions into southern Lebanon. The prime motivation for these incursions is its effort to curb guerilla attacks against northern Israel. Several groups operated from southern Lebanon including most notably Hezbollah, Hamas, and Al Fatah. 
+There are two notable events that took place during this period of extended militarized activity: Operation Accountability and Operation Grapes of Wrath.
+
+Operation Accountability took place in the summer of 1993. Israel heavily bombed southern Lebanon in efforts to contain Hezbollah militia. Since the Madrid talks began in 1991, Hezbollah attacks on IDF forces in the security zone in southern Lebanon and IDF retaliation had become a routine matter. These attacks especially stepped up just prior to a new round of talks. In July of 1993, Hezbollah embarked on a particularly intense attack killing seven IDF soldiers. Israel retaliated with Operation Accountability. This was the harshest Isreali attack in more than a decade. Israel targeted dozens of Shiite villages and suspected Hezbollah strongholds. Lebanese PM Rafik Hariri assured Hezbollah leaders that as long as Israel was in Lebanon the Lebanese government would not restrict their activities. 
+
+In the spring of 1996, the summit of the peace makers was held in Egypt. In response, Hezbollah guerillas initiated a series of suicide attacks on IDF positions in the security zone of southern Lebanon. Hezbollah then began to fire Katyusha rockets into northern Israel. Israeli PM Shimon Peres launched Operation Grapes of Wrath to counter these attacks. Israeli F16s and helicopters hit targets deep into Lebanon including Beirut. Military targets, roads, power plants and reservoirs were hit. 
+
+MID2866 is a one day bilateral mid between Israel and Lebanon. I did not find any information regarding mid2866 in any of the text sources listed below. Nor did I find any information regarding this mid in the New York Times, the Times (London) or Facts on File. J. Klein
+
+The rivalry is not finished as of December 2006. There continued to be regular MIDs between Israel and Lebanon. On 12 July 2006, the Israeli Cabinet promised that Israel would "respond aggressively and harshly to those who carried out, and are responsible for the attacks on Israeli soldiers. The Cabinet's communique stated, in part, that the "Lebanese Government was responsible for the action that originated on its soil." Israel bombed southern Lebanon and Beirut, including Lebanese governmental buildings which were linked to Hizbullah's activities, in summer 2006 as retaliation against Hizbullah's actions against Israel. The main airport of Beirut, Rafik Hariri International Airport and the Beirut-Damascus highway were also bombed. Given the significant role Hizbullah plays in Lebanese politics, both as a political party and as an organization bent on removing Israel from southern Lebanon and specifically from the Shaaba Farms, there is no end in sight to the rivalry. Israel still owns the Shaaba Farms which are considered by Lebanon as an integral part of their territory. 
+
+SOURCES-CR:
+*Africa Contemporary Record *(ACR), 1979-1980, 1983-1984; *Amnesty International* (AI) press release, April 15, 1996, February 9, 2000;* Associated Press *(AP)*,* April 17, 1999, June 25, 1999, January 31, 2000, February 6, 2000, February 25, 2000, February 26, 2000, March 5, 2000, March 14, 2000; BBC News 18 March 2002; Dammers, 1998, 185-189 *European Union *(EU) press release, April 22, 1996; *Foreign Broadcast Information Service *(FBIS), March 16, 1978, July 13, 1978, June 14, 1982; *International Committee of the Red Cross *(ICRC) press release, April 19, 1996, May 3, 1996, July 22, 1996, December 23, 1999; Inbar, 1991, 71-84; *Keesing*, June 18-24, 1973, July 21-27, 1975, January 1983, January 1984, April 1996; *Reuters*, April 15, 1999, April 16, 1999, June 24, 1999, June 25, 1999, June 26, 1999, June 29, 1999, December 9, 1999, December 11, 1999, December 15, 1999, December 16, 1999, December 17, 1999, January 31, 2000, February 7, 2000, February 8, 2000, February 9, 2000, February 10, 2000, February 20, 2000, February 24, 2000, February 25, 2000, March 4, 2000, March 5, 2000, March 14, 2000, April 21, 2000; Times (London) May 10, 1968; pg. 5; May 13, 1968; *UN Chronicle*, 1996 (no.2); *United Nations General Assembly* press release, April 25, 1996; *United Nations Security Council *press release, April 18, 1996; *United Nations press release, December 23, 1998.
+
+SB-CR:
+Lebanon / Israel Years: 1965-1988 (Censored) End coding: continuing as of 1988. Issues at stake: Israel's right to exist; Israeli and Syrian influence over Lebanese politics and external policies. Number of militarized disputes: 7. Number of 30 day reciprocated militarized disputes: 5. Last militarized dispute: 1975. Wars: None according to COW; possibly 1978, 1982. Summary: This rivalry could be coded as starting with the same event as the other dyads of the Arab-Israeli rivalry, with the creation of Israel and Lebanon's participation in the 1948 Arab-Israeli war. Lebanon was less participatory in the Arab-Israeli dispute than other states, and did not fight in the 1956, 1967 or 1973 wars. However, militarized disputes did occur, starting after 1948 in 1965. Several of the disputes involved PLO attacks on Israel from Lebanon. In 1978 and 1982 Israel invaded Lebanon to drive out PLO forces, in the second case leading to a long Israeli occupation of southern Lebanon. Israel continues to attack sites in Lebanon that it considers terrorist bases. Notes: Given a purely issue-based criterion, the start date of the rivalry could be coded as 1948. Because of the Lebanese civil war, many of the actions by Israel against Lebanon (and vice versa) involve particular Lebanese factions or non-government forces in Lebanon, and it is difficult to argue that Lebanon is a unified actor throughout this rivalry. There are also militarized disputes after 1975. The rivalry is not finished as of December 2006. There continued to be regular MIDs between Israel and Lebanon. Israel bombed southern Lebanon and Beirut in summer 2006 as retaliation against Hizbullah's actions against Israel. Given the significant role Hizbullah plays in Lebanese politics, both as a political party and as an organization bent on removing Israel from southern Lebanon and specifically from the Shaaba Farms. Israel still owns the Shaaba Farms which are considered by Lebanon as an integral part of their territory. Sources: Collelo (1989), Harik and Harik (1990), Metz (1990a, 1990b).
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

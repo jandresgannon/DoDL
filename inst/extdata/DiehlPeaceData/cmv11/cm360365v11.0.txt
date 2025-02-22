@@ -1,0 +1,120 @@
+FILE: cm360365v11.0.txt
+DYAD: ROMANIA-RUSSIA/USSR
+RIVALRY: RIV960
+DISPUTE(S): MID1257 MID2365 
+RIVALRY: RIV10961 ISOLATED 
+DISPUTE(S): MID258 MID3821 MID3542 MID3811 MID3872 
+RIVALRY: RIV962
+DISPUTE(S): MID1718 
+
+PS: 19009999-19180101 .5 19180102-19440830 .25 19440831-19910624 .75 19910625-19960624 0.5 20140318-20209999 .5
+
+PSNOTES: Revision based on a new relationship rule that when a state exits a REI, the REI is the only basis for a relationship with a given other state, and the peace scale coding is not .5, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+Relationship is restablished in 2014 based on contiguity following the annexation of Crimea by Russia.
+
+CMEA ends on 29 June 1991
+Warsaw Pact ended on February 24, 1991. 19440831 end date is Soviet occupation
+
+For the period 19440831-19910224, the end date was changed from 11910204 to 19910224 because of a incorrectly inputted digits in the date. This change was made from version 1.0 to 1.1 of the data. 
+
+PS-UPDATE2020: 
+
+PS-LAST-CHANGED: 20200603
+LS-LAST-CHECKED: 20200603
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1257 
+
+WWII MIDs: MID258 MID3821 MID3542 MID3811 MID3872 
+
+MID2365 
+
+TERRMID: MID2365 3 -- not territory 
+TERRMID-CER: MID2365 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2365 3 -- not third party link to territory 
+TERRLINK-CER: MID2365 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2365 3 -- not maritime 
+MARITMID-CER: MID2365 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2365 3 -- not islands 
+ISLMID-CER: MID2365 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2365 1 -- civil war MID
+CIVWARMID-CER: MID2365 3 -- uncertain 
+CIVWARMID-NOTES: MID2365 from Gibler, Miller, and Little 2016, this is likely the Allies' intervention in the Russian Civil War. This is coded civil war MID because this is connected to the civil war in Russia (within dyad), but coded uncertain because GML recommend this case be dropped due to a lack of compelling evidence to show what this MID is about. 
+
+CIVWARLINK: MID2365 3 -- not civil war link 
+CIVWARLINK-CER: MID2365 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2365 3 -- not coup 
+COUPMID-CER: MID2365 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2365 3 -- not coup link
+COUPLINK-CER: MID2365 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1718 
+
+TERRMID: MID1718 3 -- not territory 
+TERRMID-CER: MID1718 1 -- certain 
+TERRMID-NOTES: MID1718 from Gibler 2018, Romania noticed that China and the USSR became distant and began strengthening its own ties with China. The USSR took this as an insult and coordinated military exercises with Hungary and Czechoslovakia along Romania's border. Tensions died down soon thereafter. Coded not territory because no territory was being disputed. This was an attempt to deter strengthening diplomatic ties between Romania and China. 
+
+TERRLINK: MID1718 3 -- not third party link to territory 
+TERRLINK-CER: MID1718 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1718 3 -- not maritime 
+MARITMID-CER: MID1718 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1718 3 -- not islands 
+ISLMID-CER: MID1718 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1718 3 -- not civil war 
+CIVWARMID-CER: MID1718 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1718 3 -- not civil war link 
+CIVWARLINK-CER: MID1718 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1718 3 -- not coup 
+COUPMID-CER: MID1718 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1718 3 -- not coup link
+COUPLINK-CER: MID1718 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: RIV10961 is coded as isolated since all disputes are related to World War II.
+
+NARRATIVE-CM:
+Romania and Russia disputed the sovereignty of Bessarabia (Moldavia) beginning in 1918. Russia severed diplomatic relations with Romania after Romanian troops occupied Kishinev, capital of Bessarabia, on January 13, 1918. Russia demanded the withdrawal of Romanian troops from Bessarabia, and Romania agreed to withdraw its troops from Bessarabia on March 9, 1918. Bessarabia voted to unite with Romania on April 9, 1918, and Russia protested the union on April 23, 1918. The *Central Powers *(Germany, Austria-Hungary, Ottoman Empire) formally recognized the Bessarabia-Romanian union with the signing of the *Treaty of Bucharest *on May 7, 1918. The National Council of Bessarabia voted to join Romania on November 27, 1918, and Romania formally united with Bessarabia on April 20, 1919. Romanian troops clashed with Russian Bolshevik troops near the Dniester River on March 24, 1919. Russia demanded the withdrawal of Romania troops from Bessarabia within 48 hours on May 1, 1919, and Russia declared a state-of-war against Romania on May 18, 1919. Romanian and Russian representatives formally signed a ceasefire agreement on March 2, 1920. Romania and the Allied countries (Britain, France, Italy, and Japan) signed an agreement in Paris on October 28, 1920, which provided for Allied recognition of Romanian sovereignty over Bessarabia. Romanian and Russian representative held negotiations concerning the resumption of diplomatic relations in Vienna on March 23-April 2, 1924, but the parties disputed the sovereignty of Bessarabia. Soviet troops clashed with Romanian troops near the border on August 4, 1924. The *Moldovian Soviet Socialist Republic* (MSSR) was established in southwest Ukraine on October 12, 1924. Romania and the Soviet Union began negotiations for a non-aggression pact on January 6, 1932, but negotiations deadlocked over the Bessarabia dispute on November 23, 1932. Romanian and Soviet representatives signed a non-aggression pact in July 1933, and the Soviet Union formally recognized Romanian sovereignty over Bessarabia on June 9, 1934. The Soviet Union demanded that Romania cede Bessarabia and Northern Bukovina to the Soviet Union within 24 hours on June 26, 1940. Soviet troops occupied Bessarabia and North Bukovina on June 28, 1940, and Bessarabia was incorporated into the MSSR on August 2, 1940. Some 40,000 individuals fled as refugees from Bessarabia to Romania. Soviet troops occupied Romanian islands on the Danube River on October 26, 1940, and Soviet troops mobilized on the border with Romania on November 12, 1940. Romania declared war against the Soviet Union on June 22, 1941. Romanian troops participated in the German invasion of the Soviet Union beginning on June 22, 1941, and Romanian troops captured Bessarabia and North Bukovina on July 27, 1941. Britain demanded that Romania withdraw its troops from Soviet territory on December 1, 1941, and Britain declared war against Romania on December 6, 1941. Soviet military aircraft attacked Bucharest on September 14, 1942. Soviet troops captured northern Bessarabia from Romanian troops on March 26, 1944. Some 900,000 Soviet troops launched a military offensive against Romania on August 20, 1944, and Soviet troops occupied Bucharest on August 31, 1944. Some 360,000 German troops and 450,000 Romanian troops opposed the Soviet invasion. Some 60,000 German soldiers, 69,000 Soviet soldiers, and 130,000 Romanian soldiers were killed during the conflict. Soviet troops took control of northern Transylvania (which was ceded by Romania to Hungary on August 30, 1940) on November 13, 1944. The Soviet Union returned control of northern Transylvania to Romania on March 10, 1945. Britain, France, and the United States agreed to allow the Soviet Union to retain northern Bukovina and Bessarabia on June 14, 1946. Romania and the Soviet Union signed a peace treaty in Paris on February 10, 1947, which provided for Soviet sovereignty over northern Bukovina and Bessarabia. Romanian and Soviet representatives signed a treaty of friendship, cooperation, and mutual assistance on February 4, 1948. Soviet troops completed their withdrawal from Romania on July 26, 1958. Romania condemned the *Warsaw Pact*, including Soviet troops, invasion of Czechoslovakia on August 26, 1968. Romania and the Soviet Union renewed their treaty of friendship, cooperation, and mutual assistance on July 7, 1970 (the treaty had expired on February 4, 1968).
+
+SOURCES-CM: 
+Allock et al., 1992, 37-48; Brecher and Wilkenfeld, 1997, 576-577; Clodfelter, 1992, 835; Ference, 1994, 301-336; Langer, 1972, 1026-1028, 1213-1214; *Survey of International Affairs *(SIA), 1925 (supplement), 210-211, 1932, 608.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

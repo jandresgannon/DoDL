@@ -1,0 +1,113 @@
+FILE: cm365368v11.0.txt
+DYAD: RUSSIA/USSR - LITHUANIA
+RIVALRY: RIV979
+DISPUTE(S): MID2603 
+RIVALRY: RIV980
+DISPUTE(S): MID504 
+RIVALRY: RIV981
+DISPUTE(S): MID4105 
+
+PS: 19180216-19200720 .25 19200721-19400215 .5 19400216-19400615 .25 19910906-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID504 
+
+MID2603
+
+TERRMID: MID2603 1 -- territorial MID
+TERRMID-CER: MID2603 1 -- certain 
+TERRMID-NOTES: MID2603 from Gibler 2018, USSR claimed Lithuania since WWI, but Lithuania declared independence in 1918. The Soviets refused to relinquish their claim on Lithuania and invaded. Lithuania and Poland pushed the Soviets back out of Lithuania. Coded territorial MID because this is connected to a territorial dispute between Lithuania and USSR.
+
+TERRLINK: MID2603 3 -- not third party link to territory
+TERRLINK-CER: MID2603 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2603 3 -- not maritime 
+MARITMID-CER: MID2603 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2603 3 -- not islands 
+ISLMID-CER: MID2603 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2603 1 -- civil war MID
+CIVWARMID-CER: MID2603 1 -- certain
+CIVWARMID-NOTES: MID2603 this MID is also connected to the Russian Civil War. When the revolution broke out in 1917, Estonia and Latvia declared independence to take advantage of Russia's turmoil, per Gibler 2018 MID2605 narrative. 
+
+CIVWARLINK: MID2603 3 -- not civil war link
+CIVWARLINK-CER: MID2603 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2603 3 -- not coup 
+COUPMID-CER: MID2603 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2603 3 -- not coup link
+COUPLINK-CER: MID2603 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4105 
+
+TERRMID: MID4105 3 -- not territory 
+TERRMID-CER: MID4105 1 -- certain 
+TERRMID-NOTES: MID4105 from cm narrative, in 1995, Russian helicopters made unauthorized flights over Lithuanian residential districts. Though Russia was apparently authorized to make some military flights in Lithuania, these were not approved. The Lithuanian foreign minister issued a protest note. Coded not territory because this was not connected to a territorial dispute; Russia had permission to be in Lithuanian airspace, but took an unauthorized flight path. 
+
+TERRLINK: MID4105 3 -- not third party link to territory 
+TERRLINK-CER: MID4105 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4105 3 -- not maritime 
+MARITMID-CER: MID4105 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4105 3 -- not islands 
+ISLMID-CER: MID4105 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4105 3 -- not civil war 
+CIVWARMID-CER: MID4105 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4105 3 -- not civil war link 
+CIVWARLINK-CER: MID4105 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4105 3 -- not coup 
+COUPMID-CER: MID4105 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4105 3 -- not coup link
+COUPLINK-CER: MID4105 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4105
+rivalry=365368 nationa=RUSSIA/USSR nationb=LITHUANIA MID4105 19950329-19950329 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+Russian helicopters made unauthorized flights over Lithuanian residential districts. Though Russia was apparently authorized to make some military flights in Lithuania, these were not approved. Lithuanian foreign minister issued a protest note. First and last day of dispute was on 3/29/1995.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Lithuanian nationalists began a movement for independence from Russia on September 23, 1917. Lithuania declared its independence from Russia on February 16, 1918, and Russian troops invaded the country on February 17, 1918. Russia recognized Lithuanian independence on March 3, 1918, and Germany recognized Lithuanian independence on March 23, 1918. Soviet Russian troops invaded Lithuania and occupied Vilna on January 5, 1919. Russia recognized the independence of Lithuania with the signing of the *Treaty of Moscow* on July 20, 1920. Soviet Russian troops withdrew from Lithuania on August 24, 1920. Lithuanian and Soviet representatives signed a non-aggression pact on July 5, 1933. Lithuanian and Soviet representatives signed an agreement on October 10, 1939, which provided for the establishment of military bases and deployment of Soviet troops in Lithuania. Soviet troops suppressed Lithuanian nationalists in Vilnius in 1991, resulting in the deaths of 14 individuals. President Algirdas Brazauskas of Lithuania and President Boris Yeltsin of Russia signed a border demarcation agreement on October 24, 1997. The Lithuanian parliament ratified the border demarcation agreement on October 19, 1999.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 596-597; *Reuters*, October 19, 1999; *Survey of International Affairs *(SIA), 1933, 595.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

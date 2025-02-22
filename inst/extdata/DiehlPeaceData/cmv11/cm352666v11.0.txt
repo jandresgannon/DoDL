@@ -1,0 +1,55 @@
+FILE: cm352666v11.0.txt
+DYAD: CYPRUS - ISRAEL
+RIVALRY: RIV941
+DISPUTE(S): MID2831 
+
+PS-LAST-CHANGED: 20190314
+PS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2831 
+
+TERRMID: MID2831 3 -- not territory 
+TERRMID-CER: MID2831 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2831 3 -- not third party link to territory 
+TERRLINK-CER: MID2831 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2831 3 -- not maritime 
+MARITMID-CER: MID2831 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2831 3 -- not islands 
+ISLMID-CER: MID2831 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2831 1 -- civil war MID
+CIVWARMID-CER: MID2831 3 -- uncertain 
+CIVWARMID-NOTES: MID2831 from Gibler, Miller, and Little 2016, the Israeli navy commanded a Cypriot ferry to return to Cyprus because they suspected them of carrying Palestinian terrorists. Coded civil war MID because while it is uncertain that there were actually terrorists on board, the Israelis were pursuing Palestinian guerillas. Coded uncertain because GML argue this case should be dropped since there was no seizure. 
+
+CIVWARLINK: MID2831 3 -- not civil war link 
+CIVWARLINK-CER: MID2831 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2831 3 -- not coup 
+COUPMID-CER: MID2831 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2831 3 -- not coup link
+COUPLINK-CER: MID2831 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

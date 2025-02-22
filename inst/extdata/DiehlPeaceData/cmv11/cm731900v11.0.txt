@@ -1,0 +1,105 @@
+FILE: cm731900v11.0.txt
+DYAD: N. KOREA - AUSTRALIA
+RIVALRY: RIV1327
+DISPUTE(S): MID51 
+RIVALRY: RIV1328
+DISPUTE(S): MID4022 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190516
+PS-LAST-CHECKED: 20190516
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm002710 and Gibler 2018 narrative, this MID is the Korean War. The US and UN forces fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and NATO's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this multilateral MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because North Korea and Australia did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because Australia and North Korea were not disputing islands, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 1 -- civil war MID
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES: MID51 coded civil war MID because the Korean War had a civil war element, and North Korea is within this dyad. 
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war, since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because South Korea is outside of this dyad and involved in a civil war in this MID. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES:
+
+MID4022 
+
+TERRMID: MID4022 3 -- not territory
+TERRMID-CER: MID4022 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4022 1 -- third party link to territorial MID
+TERRLINK-CER: MID4022 1 -- certain 
+TERRLINK-NOTES: MID4022 from Gibler 2018, in 1993 North Korea built up its forces along the disputed border with South Korea, and the US threatened to use force if North Korea attacked. The US deployed weapons to South Korea, and North Korea protested. A clash across the disputed border occurred a week later, and more clashes followed. Several naval attacks also occurred. Australia was pulled into this MID when their Foreign Minister announced Australia's support for South Korea, including sanctions and shows of force against North Korea (Christian Science Monitor 6/22/1994). Coded third party link to territorial MID because this was connected to the North-South Korea dispute. 
+
+MARITMID: MID4022 3 -- not maritime
+MARITMID-CER: MID4022 1 -- certain 
+MARITMID-NOTES: MID4022 coded not maritime because, although this was connected to the North-South Korea dispute, in which each country claimed the entirety of the Korean Peninsula (including all of the other's maritime waters), Australia and North Korea did not dispute the waters off the Korean Peninsula. 
+
+ISLMID: MID4022 3 -- not islands 
+ISLMID-CER: MID4022 1 -- certain 
+ISLMID-NOTES: MID4022 coded not islands because, although this was connected to the North-South Korea dispute, in which each country claimed the entirety of the Korean Peninsula (including all of the other's islands), Australia and North Korea did not dispute islands off the Korean Peninsula.
+
+CIVWARMID: MID4022 1 -- civil war MID
+CIVWARMID-CER: MID4022 1 -- certain 
+CIVWARMID-NOTES: MID4022 coded civil war MID because the North-South Korea dispute has a civil war element. North and South Korea do not recognize each other, and each claims to be the legitimate government of Korea. The conflict started among ethnic Koreans divided along ideological lines (nationalist vs. communist). Coded civil war MID because this was connected to the Korean War, and North Korea is within this dyad. 
+
+CIVWARLINK: MID4022 1 -- civil war link MID
+CIVWARLINK-CER: MID4022 1 -- certain 
+CIVWARLINK-NOTES: MID4022 the North-South Korea dispute has a civil war element. North and South Korea do not recognize each other, and each claims to be the legitimate government of Korea. The conflict started among ethnic Koreans divided along ideological lines (nationalist vs. communist). Coded civil war link because this was connected to the Korean War, and South Korea is outside this dyad. 
+
+COUPMID: MID4022 3 -- not coup 
+COUPMID-CER: MID4022 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4022 3 -- not coup link
+COUPLINK-CER: MID4022 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4022
+rivalry=731900 nationa=N. KOREA nationb=AUSTRALIA MID4022 19940610-19940617 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute involves a series of 26 incidents between November 1993 and April 1995. The primary participants in the dispute were South Korea, North Korea, and USA. Japan was the subject of a North Korean threat in March 1994 and participated in a joint naval exercise with USA, South Korea, Australia, and Canada forces in June 1994. Australian and Canadian participation in the dispute was limited to the naval exercises. During the dispute, North Korea and the AmericanSouth Korean side exchanged alerts, threats of forces and war, and shows of force. Both sides conducted border fortifications and North Korea violated the South Korean border as it challenged the Korean War armistice agreement. First day of dispute was on 6/10/1994 and last day of dispute was on 6/17/1994.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Christian Science Monitor (1994). Australia Foreign Minister Backs Tough Korea Stance. The Christian Science Monitor June 22. Ron Scherer: 3.

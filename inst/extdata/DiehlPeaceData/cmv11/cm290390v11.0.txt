@@ -1,0 +1,61 @@
+FILE: cm290390v11.0.txt
+DYAD: Poland - Denmark
+RIVALRY: RIV770
+DISPUTE(S): MID2902 
+
+PS: 19181103-20040430 0.5 20040501-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: Contiguous by less than 150 miles of water
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2902
+
+TERRMID: MID2902 3 -- not territory
+TERRMID-CER: MID2902 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2902 3 -- not third party link to territory 
+TERRLINK-CER: MID2902 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2902 3 -- not maritime 
+MARITMID-CER: MID2902 3 -- uncertain
+MARITMID-NOTES: MID2902 from Gibler, Miller, and Little (2016), Poland seized several Dutch fishing vessels. Coded not maritime because no boundary was being disputed, and coded uncertain because GML recommend this case be dropped as no protest was made. 
+
+ISLMID: MID2902 3 -- not islands 
+ISLMID-CER: MID2902 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2902 3 -- not civil war 
+CIVWARMID-CER: MID2902 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2902 3 -- not civil war link
+CIVWARLINK-CER: MID2902 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2902 3 -- not coup 
+COUPMID-CER: MID2902 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2902 3 -- not coup link
+COUPLINK-CER: MID2902 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

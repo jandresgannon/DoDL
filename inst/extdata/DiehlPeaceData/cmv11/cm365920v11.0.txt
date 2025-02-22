@@ -1,0 +1,93 @@
+FILE: cm365920v11.0.txt
+DYAD: RUSSIA/USSR - NEW ZEALAND
+RIVALRY: RIV1023
+DISPUTE(S): MID258 
+RIVALRY: RIV1024
+DISPUTE(S): MID1353 
+
+PS-LAST-CHANGED: 20190318
+PS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258 
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm002365 narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos. The USSR provided less direct support to communist insurgents. New Zealand supported the US in Vietnam and Laos, pulling New Zealand into this MID. Chinese forces directly engaged in combat with RLG forces, triggering this MID (due to the US and New Zealand support for RLG forces and USSR's support for communist forces). Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+MID611
+
+TERRMID: MID611 3 -- not territory
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain
+TERRLINK-NOTES: MID611 from Gibler 2018, this is the Vietnam War, an internationalized civil war that has a territorial dispute element between North and South Vietnam. The US, South Korea, Thailand, Cambodia, Philippines, Australia, and New Zealand supported South Vietnam, and USSR and China supported North Vietnam. New Zealand and USSR's opposing support pulls them into this MID against each other. Coded third party link to territorial MID because this was connected to a territorial dispute between North and South Vietnam. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 3 -- not civil war
+CIVWARMID-CER: MID611 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID611 1 -- civil war link
+CIVWARLINK-CER: MID611 1 -- certain
+CIVWARLINK-NOTES: MID611 coded civil war link because the Vietnam War is an internationalized civil war occurring outside this dyad. 
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

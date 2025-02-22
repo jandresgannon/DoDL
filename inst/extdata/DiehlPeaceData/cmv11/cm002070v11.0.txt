@@ -1,0 +1,326 @@
+FILE: cm002070v11.0.txt
+DYAD: USA-MEXICO
+RIVALRY: RIV13
+DISPUTE(S): MID1555 MID1554 MID1553 MID1556 MID2116 MID1552 MID1551 MID1550 MID1548 MID1549 MID2117 MID1547 MID1545 MID1544 MID1543 MID1542 MID1541 
+RIVALRY: RIV14
+DISPUTE(S): MID1653 MID2183 MID136 MID1775 MID321 MID2184 MID2185 
+RIVALRY: RIV15
+DISPUTE(S): MID3222 
+
+PS: 19009999-19230923 0.0 19230924-19931231 .5 19940101-20209999 0.75
+
+PS-UPDATE2020:
+
+PSNOTES: NAFTA was created on January 1, 1994. 
+
+PS-LAST-CHANGED: 20220207
+PS-LAST-CHECKED: 20220207
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID1555 MID1554 MID1553 MID1556 MID2116 MID1552 MID1551 MID1550 MID1548 MID1549 MID2117 MID1547 MID1545 MID1544 MID1543 MID1542 MID1541 
+
+MID1653 
+
+TERRMID: MID1653 3 -- not territory 
+TERRMID-CER: MID1653 1 -- certain 
+TERRMID-NOTES: MID1653 from cm narrative, a revolution took place in Mexico from 1910-1921. The president was overthrown in 1911, beginning a series of conflicts with the US over the presidency (the US wanted a friendly regime in place). These recurring political leadership disputes are separate from the territorial dispute the countries had. This MID was triggered when the US sent troops into Mexico during the revolution as a way of exerting influence over who took power. Coded not territory because US was not advancing a claim on Mexican territory in this MID.
+
+TERRLINK: MID1653 3 -- not third party link to territory 
+TERRLINK-CER: MID1653 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID1653 3 -- not maritime 
+MARITMID-CER: MID1653 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1653 3 -- not islands 
+ISLMID-CER: MID1653 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID1653 1 -- civil war MID
+CIVWARMID-CER: MID1653 1 -- certain 
+CIVWARMID-NOTES: MID1653 from cm narrative, a civil war in Mexico led to the US sending in troops in an effort to influence which regime took power. The US did this on several occasions during the civil war. Coded civil war MID because the civil war led to US intervention. 
+
+CIVWARLINK: MID1653 3 -- not civil war link
+CIVWARLINK-CER: MID1653 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID1653 3 -- not coup 
+COUPMID-CER: MID1653 1 -- certain 
+COUPMID-NOTES: MID1653 here, in 1911, the revolution caused the overthrow of the government, not a military coup. 
+
+COUPLINK: MID1653 3 -- not coup link
+COUPLINK-CER: MID1653 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2183 
+
+TERRMID: MID2183 3 -- not territory 
+TERRMID-CER: MID2183 1 -- certain 
+TERRMID-NOTES: MID2183 from cm narrative, a revolution took place in Mexico from 1910-1921. The president was overthrown in 1911, beginning a series of conflicts with the US over the presidency (the US wanted a friendly regime in place). These recurring political leadership disputes are separate from the territorial dispute the countries had. This MID was triggered when the US sent troops into Veracruz during the revolution as a way of exerting influence over who took power. Coded not territory because US was not advancing a claim on Mexican territory in this MID.
+
+TERRLINK: MID2183 3 -- not third party link to territory 
+TERRLINK-CER: MID2183 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID2183 3 -- not maritime 
+MARITMID-CER: MID2183 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2183 3 -- not islands 
+ISLMID-CER: MID2183 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID2183 1 -- civil war MID
+CIVWARMID-CER: MID2183 1 -- certain 
+CIVWARMID-NOTES: MID2183 from cm narrative, a civil war in Mexico led to US intervention in order to influence which regime took power. Therefore, coded civil war. 
+
+CIVWARLINK: MID2183 3 -- not civil war link
+CIVWARLINK-CER: MID2183 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID2183 1 -- coup MID
+COUPMID-CER: MID2183 1 -- certain 
+COUPMID-NOTES: MID2183 from Gibler, Little, and Miller (2016: IIC-10), during the revolution in Mexico, General Huerta seized power in a coup in February 1913, producing tensions between the US and Mexico, as well as this MID. 
+
+COUPLINK: MID2183 3 -- not coup link
+COUPLINK-CER: MID2183 1 -- certain 
+COUPLINK-NOTES: 
+
+MID136 
+
+TERRMID: MID136 3 -- not territory 
+TERRMID-CER: MID136 3 -- uncertain 
+TERRMID-NOTES: MID136 from cm narrative, a revolution took place in Mexico from 1910-1921. The president was overthrown in 1911, beginning a series of conflicts with the US over the presidency (the US wanted a friendly regime in place). These recurring political leadership disputes are separate from the territorial dispute the countries had. This MID was triggered when the US sent troops into Veracruz during the revolution as a way of exerting influence over who took power. Coded not territory because US was not advancing a claim on Mexican territory in this MID. Coded uncertain because Gibler, Little, and Miller suggest this MID be merged with MID2183 due to temporal overlap.
+
+TERRLINK: MID136 3 -- not third party link to territory 
+TERRLINK-CER: MID136 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID136 3 -- not maritime 
+MARITMID-CER: MID136 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID136 3 -- not islands 
+ISLMID-CER: MID136 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID136 1 -- civil war MID
+CIVWARMID-CER: MID136 3 -- uncertain 
+CIVWARMID-NOTES: MID136 from cm narrative, a civil war in Mexico led to US intervention in order to influence which regime took power. Therefore coded civil war. Coded uncertain because GLM suggest this MID be merged with MID2183 due to temporal overlap.
+
+CIVWARLINK: MID136 3 -- not civil war link
+CIVWARLINK-CER: MID136 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID136 1 -- coup MID
+COUPMID-CER: MID136 3 -- uncertain 
+COUPMID-NOTES: MID136 from Gibler, Little, and Miller (2016: IIC-10), during the revolution in Mexico, General Huerta seized power in a coup in February 1913, producing tensions between the US and Mexico, as well as this MID. Coded uncertain because GLM suggest this MID be merged with MID2183 due to temporal overlap.
+
+COUPLINK: MID136 3 -- not coup link
+COUPLINK-CER: MID136 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1775 
+
+TERRMID: MID1775 3 -- not territory
+TERRMID-CER: MID1775 1 -- certain 
+TERRMID-NOTES: MID1775 from cm narrative, a revolution took place in Mexico from 1910-1921. The president was overthrown in 1911, beginning a series of conflicts with the US over the presidency (the US wanted a friendly regime in place). These recurring political leadership disputes are separate from the territorial dispute the countries had. This MID was triggered when the US sent troops into Veracruz during the revolution as a way of exerting influence over who took power. Coded not territory because US was not advancing a claim on Mexican territory in this MID.
+
+TERRLINK: MID1775 3 -- not third party link to territory 
+TERRLINK-CER: MID1775 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID1775 3 -- not maritime 
+MARITMID-CER: MID1775 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1775 3 -- not islands 
+ISLMID-CER: MID1775 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID1775 1 -- civil war MID
+CIVWARMID-CER: MID1775 1 -- certain 
+CIVWARMID-NOTES: MID1775 from cm narrative, a civil war in Mexico led to US intervention in order to influence which regime took power. Therefore coded civil war, as this was part of a series of revolutionary overthrows of the government. 
+
+CIVWARLINK: MID1775 3 -- not civil war link
+CIVWARLINK-CER: MID1775 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID1775 3 -- not coup 
+COUPMID-CER: MID1775 1 -- certain 
+COUPMID-NOTES: MID1775 this MID in 1915 did not occur after a coup, but after the outcome of a civil war left a regime in place that the US did not want.
+
+COUPLINK: MID1775 3 -- not coup link
+COUPLINK-CER: MID1775 1 -- certain 
+COUPLINK-NOTES: 
+
+MID321 
+
+TERRMID: MID321 3 -- not territory
+TERRMID-CER: MID321 1 -- certain
+TERRMID-NOTES: MID321 MID concerns the activities and pursuit of Pancho Villa, not a territorial dispute between US/Mexico.
+
+TERRLINK: MID321 3 -- not third party link to territory 
+TERRLINK-CER: MID321 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID321 3 -- not maritime 
+MARITMID-CER: MID321 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID321 3 -- not islands 
+ISLMID-CER: MID321 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID321 3 -- not civil war 
+CIVWARMID-CER: MID321 1 -- certain 
+CIVWARMID-NOTES: MID321 from James (2008), during the ongoing revolution in Mexico, Pancho Villa's army had been defeated in 1915 and was reduced to a small crew of bandits. Here, in 1916, Pancho Villa led a cross-border raid into US territory, leading the US to enter Mexico in search of Pancho Villa and triggering this MID. Coded not civil war because although this occurred during the Mexican revolution, Pancho Villa was at this point a bandit and his group was therefore not a militarized rebel group opposing the government. 
+
+CIVWARLINK: MID321 3 -- not civil war link
+CIVWARLINK-CER: MID321 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID321 3 -- not coup 
+COUPMID-CER: MID321 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID321 3 -- not coup link
+COUPLINK-CER: MID321 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2184 
+
+TERRMID: MID2184 -- 3 not territory
+TERRMID-CER: MID2184 3 -- uncertain
+TERRMID-NOTES: MID2184 Seems to be about US pursuit of bandits, rather than territorial/border dispute. Coded uncertain because NY Times says exact cause of MID is unknown.
+
+TERRLINK: MID2184 3 -- not third party link to territory 
+TERRLINK-CER: MID2184 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2184 3 -- not maritime 
+MARITMID-CER: MID2184 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2184 3 -- not islands 
+ISLMID-CER: MID2184 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID2184 3 -- not civil war 
+CIVWARMID-CER: MID2184 3 -- uncertain 
+CIVWARMID-NOTES: MID2184 from NYT 4/11/1918, Mexican and American troops clashed at the border in 1918. Troops were concentrated on either side of the border, and a clash broke out, killing 5 Mexicans. The NYT says the exact cause of the clash is unknown, but officers thought that the Mexican troops were there to prevent US troops from pursuing bandits across the border. Coded not civil war because this was seemingly about the US pursuing bandits. Coded uncertain because the NYT says that the exact cause was unknown. 
+
+CIVWARLINK: MID2184 3 -- not civil war link
+CIVWARLINK-CER: MID2184 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID2184 3 -- not coup 
+COUPMID-CER: MID2184 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2184 3 -- not coup link
+COUPLINK-CER: MID2184 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2185 
+
+TERRMID: MID2185 3 -- not territory 
+TERRMID-CER: MID2185 1 -- certain 
+TERRMID-NOTES: MID2185 from cm narrative, Mexican revolutionary General Pancho Villa led a raid in a small border town in New Mexico, and the US sent General Pershing into Mexico to pursue him. Coded not territorial because this dispute was not about a claim on territory, but was rather a raid and pursuit that crossed borders. 
+
+TERRLINK: MID2185 3 -- not third party link to territory 
+TERRLINK-CER: MID2185 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID2185 3 -- not maritime 
+MARITMID-CER: MID2185 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2185 3 -- not islands 
+ISLMID-CER: MID2185 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID2185 3 -- not civil war
+CIVWARMID-CER: MID2185 1 -- certain 
+CIVWARMID-NOTES: MID2185 from cm narrative, Pancho Villa took advantage of the civil war environment to conduct a cross-border raid on a New Mexico town, and the US again sent a General after him, triggering this MID. Coded not civil war because Pancho Villa's attack was a raid and raids themselves do not count as civil war MIDs. Pancho Villa no longer was a General or had an army at this point, and his group was therefore not a militarized rebel group opposing the government.
+
+CIVWARLINK: MID2185 3 -- not civil war link
+CIVWARLINK-CER: MID2185 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID2185 3 -- not coup 
+COUPMID-CER: MID2185 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2185 3 -- not coup link
+COUPLINK-CER: MID2185 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3222 
+
+TERRMID: MID3222 3 -- not territory 
+TERRMID-CER: MID3222 1 -- certain 
+TERRMID-NOTES: MID3222 involved the seizure of a Mexican fishing vessel. 
+
+TERRLINK: MID3222 3 -- not third party link to territory 
+TERRLINK-CER: MID3222 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID3222 3 -- not maritime 
+MARITMID-CER: MID3222 3 -- uncertain 
+MARITMID-NOTES: MID3222 From Gibler, Little, and Miller (2016: IIB-37), this involved the seizure of an American fishing vessel by Mexico. This was one of 25 seizures by Mexico around this time. Coded not maritime because there is no indication in cm narrative, GLM (2016), Schultz data, or New York Times that this maritime border was disputed, and the US never disputed that the boat was in Mexico's territorial waters. Coded uncertain because GLM recommend the MID be dropped as the US never protested this incident, and thus this should not be a MID. 
+
+ISLMID: MID3222 3 -- not islands 
+ISLMID-CER: MID3222 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID3222 3 -- not civil war 
+CIVWARMID-CER: MID3222 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID3222 3 -- not civil war link
+CIVWARLINK-CER: MID3222 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID3222 3 -- not coup 
+COUPMID-CER: MID3222 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3222 3 -- not coup link
+COUPLINK-CER: MID3222 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV13 and RIV14 are considered separate not only because of time density criteria, but also because the issues in contention are different. Note that RIV13 is not fully resolved (territorial dispute) until many years later, well after RIV14 begins.
+
+NARRATIVE-CM: 
+Mexico claimed the El Chamizal region near El Paso, Texas on September 28, 1895. Mexico and the United States signed an agreement in Washington DC on June 24, 1910, which provided for the submission of the El Chamizal dispute to arbitration. A three-member arbitration commission (US, Mexico, Canada) chaired by Eugene Lafleur of Canada issued a decision in favor of Mexico on June 15, 1911. The US government rejected the arbitration decision on August 24, 1911. Mexican troops detained eight US sailors in Tampico on April 9, 1914. The sailors were immediately released, but Admiral Henry Mayo demanded a 21-gun salute from the local Mexican commander, who refused to comply. US warships shelled Vera Cruz on April 21-22, 1913. Some 800 US troops occupied Vera Cruz on April 30, 1914. Argentina, Brazil, and Chile offered their good offices on April 25, 1914, which was immediately accepted by both countries. President Victoriano Huerta severed diplomatic relations with the US as a result of the occupation of Veracruz. Argentina, Brazil, and Chile ended their mediation efforts on July 2, 1914. US troops completed their withdrawal from Vera Cruz on November 23, 1914. Some 125 Mexicans and 19 US soldiers were killed during the seizure and occupation of Veracruz. Mexican rebels led by Pancho Villa attacked the US calvary garrison in the town on Columbus, New Mexico on March 9, 1916. Some 100 Mexicans and 19 Americans were killed in the raid. On March 15, 1916, President Woodrow Wilson ordered General John Pershing and 12,000 troops to pursue Pancho Villa on Mexican territory. US troops clashed with Mexican troops near Parral on April 12, 1916, resulting in the deaths of some 100 Mexicans. President Carranza of Mexico condemned the US intervention in June 1916. Mexican troops and US troops clashed near Carrizal on June 21, 1916. US troops completed their withdrawal from Mexican territory on February 5, 1917. The US resumed diplomatic relations with Mexico on September 3, 1923. In 1925, the US rejected a Mexican proposal to submit the El Chamizal dispute to the Permanent Court of International Justice (PCIJ) at the Hague, Netherlands. Mexico expropriated land belonging to US oil companies on March 19, 1938, and the US protested against the land expropriation to the Mexican government on March 28, 1938. Mexico offered to provide compensation to the US on May 26, 1938. The US proposed arbitration in the dispute on July 21, 1938, but Mexico rejected the proposal on August 3, 1938. Mexico and the US signed an agreement on November 12, 1938, which provided for Mexican compensation for the expropriated land. Mexico and the US signed the Convention for the Solution of the Problem of the Chamizal in Mexico City on August 29, 1963, providing for the US recognition of Mexico's claim to some 437 acres of El Chamizal. The US formally transferred El Chamizal territory to Mexico on October 28, 1967. 
+
+SOURCES-CM: 
+Ireland, 1941, 301-310; Jessup, 1973, 423-445; Keesing, November 18-25, 1967; Langer, 1972, 1241-1242; Stuyt, 1990, 306; Survey of International Affairs (SIA), 1938, 706.
+
+NARRATIVE-CR: 
+The rivlary between the US and Mexico was the result of three issues that both sides seemed unable to resolve. The first was territorial, beginning in the 19th century with the secession of Texas from Mexico in 1836. The US helped support and subsequently annexed Texas in 1845 which led to the Mexican-American war in 1846 (MID1552). The peace treaty of Guadalupe-Hidalgo in 1848 ended the war and formally settled land claims between the two countries. Additionally in 1853 Mexico and the US completed the sale of northern Mexico to the US which further facilitated the resolution of land claim issues in the region. Despite these events, border disputes continued with the US frequently moving into Mexican territory (MID2117 on 6/17/1870, MID1547 on 5/6/1873, and MID1545 on 4/20/1875). During his period, Mexico particularly sought claim to the El Chamizal territory near El Paso that the US had expropriated and began a dispute regarding the territory in 1895. The El Chamizal issue was the last territorial issue between the two countries and begins to be resolved in 1938 with the US and Mexico reaching an agreement that Mexico will be compensated for the land. In 1963 the US and Mexico sign the Convention for the Solution of the Problem of the Chamizal that recognizes Mexico's claim to some of the land. In October of 1967, the US formally transferred the territory to Mexico. The second issue was over the political leadership in Mexico itself. As early as 1860, the US intervened in Mexico to support pro-US leadership (MID1549 on 3/2/1860). 
+
+Francisco Madero's social revolution from 1910-1921 and the overthrow of Porfirio Diaz as president began as a series of conflicts over the presidency that the US involved itself with. In 1911, the US sent troops into Mexico (MID1653). The US continued its interventions throughout the revolution, withholding or granting recognition to various leaders as the legal head of state in Mexico and backing its diplomatic positions with shows of force and partial occupation, i.e. Veracruz (MID2183 in 1913, MID136 in 1914 and MID1775 in 1915). This second issue was resolved when General Alvero Obregon comes to power in 1923 as Mexico's president officially recognized by the US. His successor, General Lazaro Cardenas became president in 1934, establishing the Partido Revolucionario Institutional (PRI) as a stable, political dynasty until the most recent elections won by Vicente Fox. This stability in effect ends US intervention in the country. The third problem fueling the rivalry between the US and Mexico was border incursions in the 20th century and each state's legal right to deal with them. Pancho Villa's exploits into New Mexico in 1916 and Perhsing's push into Mexican territory (the last MID in the rivalry, MID2185, June 16, 1919) to apprehend him illustrates the nature of these incursions. The establishment of a claims commission in 1923, along with Pancho Villa's assassination helped to resolve these border issues. 
+
+The last mid between the two countries occurred in 1956 (MID3222) but is over the US seizure of a Mexican fishing trawler and does not involve any of the issues of the now terminated rivalry.
+
+SOURCES-CR:
+Martin and Lovett 1956; Keesing, November 18-25, 1967;Turner 2000; Wiarda and Kline 1990; Hurst, James (2008). Pancho Villa and Black Jack Pershing: The Punitive Expedition in Mexico. Greenwood Publishing Group.
+
+SB-CR:
+Mexico / United States Years: 1836-1923. Issues at stake: Border between US and Mexico; control over border intrusions and authority to deal with them. End coding: In 1923 the United States and Mexico established a claims commission to settle remaining claims regarding border problems (it was extended in 1929, 1932, 1934, 1941). Number of reciprocated 30 day militarized disputes: 8. Last militarized dispute: 1920. Wars: 1846-48. Summary: The rivalry between Mexico and the US began with the secession of Texas from Mexico in 1836 and US efforts to encourage that secession. In 1845 Texas was admitted to the US as a state, setting the stage for the Mexican-American War from 1846 to 1848. In the 1848 Peace of Guadeloupe-Hidalgo, Mexico ceded all territory north of the Rio Grande, and in 1853 Mexico sold southern Arizona (then northern Mexico), completing the US territorial expansion in the southwestern United States. This treaty and sale set borders between the two states, and could have ended the rivalry, but border incursions by both sides and conflicting claims about who had authority to police the border continued through the late 1800s and early 1900s. The unstable political situation in Mexico contributed to friction, as different Mexican leaders pursued different policies regarding the border intrusions, and the US did not recognize the legitimacy of the Mexican government on more than one occasion. The US intervened militarily in the internal Mexican power struggle in 1860 and on several dates between 1911 and 1917. The 2nd Pershing Expedition (in which US military forces pursued Mexican rebels into Mexico) from 1918 to 1920 was the final militarized dispute between the US and Mexico. The Mexican civil war ended in 1920, and the stable political situation in Mexico since that time helped in allowing border issues to be settled amicably. Border issues were resolved formally through talks, with the establishment of a claims commission in 1923 to arbitrate any further claims and issues. Sources: Information Please Almanac (1991), Kinder and Hilgemann (1978).
+
+MARITIME-MIDS: MID3222
+
+MARITIME-DISPUTE: MID3222 
+ DYAD: USA MEXICO 2070
+ DATES: 19561112 19561112
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3222 occurred in 1956 and is over the US seizure of a Mexican fishing trawler.

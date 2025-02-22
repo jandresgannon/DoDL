@@ -1,0 +1,101 @@
+FILE: cm630770v11.0.txt
+DYAD: IRAN - PAKISTAN
+RIVALRY: RIV1204
+DISPUTE(S): MID2791 
+
+PS-LAST-CHANGED: 20190429
+PS-LAST-CHECKED: 20190429
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2791
+
+TERRMID: MID2791 3 -- not territory
+TERRMID-CER: MID2791 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2791 1 -- third party link to territorial MID
+TERRLINK-CER: MID2791 1 -- certain
+TERRLINK-NOTES: MID2791 from Gibler 2018, in 1987 Iran attacked a Pakistani oil tanker. Iran routinely attacked ships from countries trading with Iraq during the Iran-Iraq War to harm Iraq's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial dispute. 
+
+MARITMID: MID2791 3 -- not maritime 
+MARITMID-CER: MID2791 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2791 3 -- not islands 
+ISLMID-CER: MID2791 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2791 3 -- not civil war 
+CIVWARMID-CER: MID2791 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2791 3 -- not civil war link
+CIVWARLINK-CER: MID2791 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2791 3 -- not coup 
+COUPMID-CER: MID2791 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2791 3 -- not coup link
+COUPLINK-CER: MID2791 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4597
+
+TERRMID: MID4597 3 -- not territory
+TERRMID-CER: MID4597 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4597 3 -- not third party link to territory 
+TERRLINK-CER: MID4597 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4597 3 -- not maritime 
+MARITMID-CER: MID4597 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4597 3 -- not islands 
+ISLMID-CER: MID4597 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4597 1 -- civil war MID
+CIVWARMID-CER: MID4597 1 -- certain
+CIVWARMID-NOTES: MID4597 from Gibler 2018, in 2009 a Pakistani suicide bomber attacked an Iranian town. Iran fortified its border with Pakistan in response. From NYT 10/19/2009, the attack was by insurgents from a Baluchi, Sunni rebel group, Jundullah. Coded civil war MID because this was connected to militarized rebels in Pakistan, who were targeting Iran. 
+
+CIVWARLINK: MID4597 3 -- not civil war link
+CIVWARLINK-CER: MID4597 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4597 3 -- not coup 
+COUPMID-CER: MID4597 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4597 3 -- not coup link
+COUPLINK-CER: MID4597 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4597
+rivalry=630770 nationa=IRAN nationb=PAKISTAN MID4597 20091023-20091023 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Iran moved troops to its border with Pakistan following a suicide attack on the Iranian army. First day of dispute was on 10/23/2009 and last day of dispute was on 10/23/2009.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Slackman, Michael. Twin Bombings Kill 5 Commanders of Revolutionary Guards Corps in Iran. New York Times 10/19/2009. A4. 

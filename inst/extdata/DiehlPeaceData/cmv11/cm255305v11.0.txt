@@ -1,0 +1,68 @@
+FILE: cm255305v11.0.txt
+DYAD: GERMANY/PRUSSIA-AUSTRIA
+RIVALRY: RIV675
+DISPUTE(S): MID11 
+
+PS: 19190910-19380313 .5 19450509-19941231 .5 19950101-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad, austria exits system during World War~II as annexed by germany
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID11 
+
+TERRMID: MID11 1 -- territorial MID
+TERRMID-CER: MID11 1 -- certain 
+TERRMID-NOTES: MID11 from Gibler 2018, Germany was not initially claiming Austria as its own territory but was rather trying to persuade them to join Germany. A referendum in Austria was scheduled to decide whether Austria would become part of Germany, but the Austrian Nazi Party successfully took over the country, afterward inviting the Germans to take control. Germany invaded and occupied Austria. Coded territorial MID because this involved Germany claiming all of Austria as Germany. 
+
+TERRLINK: MID11 3 -- not third party link to territory 
+TERRLINK-CER: MID11 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID11 3 -- not maritime 
+MARITMID-CER: MID11 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID11 3 -- not islands 
+ISLMID-CER: MID11 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID11 1 -- civil war MID
+CIVWARMID-CER: MID11 1 -- certain 
+CIVWARMID-NOTES: MID11 from Gibler 2018, the Nazi Party in Germany was pressuring Austria to join the Third Reich and publicly appealed to Austrian citizens for a referendum on the matter. Before the referendum could be held, the Nazi Party in Austria took over the government and quickly agreed to become part of Germany. The Austrian Nazi Party was banned and therefore not a legal political group, and were armed, so they are considered a rebel group here and this is a civil war MID since a rebel group captured control over the government through force, even though no actual war took place. 
+
+CIVWARLINK: MID11 3 -- not civil war link 
+CIVWARLINK-CER: MID11 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID11 3 -- not coup MID
+COUPMID-CER: MID11 1 -- certain 
+COUPMID-NOTES: Coded not coup because, while Gibler (2018) calls this a coup, it is not a coup according to our coding guidelines, since the military elites or other powerful government figures were not part of the overthrow. 
+
+COUPLINK: MID11 3 -- not coup link
+COUPLINK-CER: MID11 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+Gibler 2018.
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

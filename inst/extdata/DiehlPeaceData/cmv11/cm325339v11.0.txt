@@ -1,0 +1,325 @@
+FILE: cm325339v11.0.txt
+DYAD: ITALY-ALBANIA
+RIVALRY: RIV10835
+DISPUTE(S): MID394 MID1262 MID1778 MID72 MID108 
+RIVALRY: RIV837
+DISPUTE(S): MID3202 MID3216 MID2846 
+
+PS: 19140101-19200901 .25 19200902-19340622 .5 19340623-19570622 0.25 19570623-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220228
+PS-LAST-CHECKED: 20220228
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID394 MID1262 
+
+MID1778 
+
+TERRMID: MID1778 1 -- territorial MID
+TERRMID-CER: MID1778 1 -- certain 
+TERRMID-NOTES: MID1778 from Gibler 2018, the League of Nations had granted Italy pieces of Albanian territory after WWI. In 1920, fighting broke out over the port of Avlona when Albania refused to cede it to Italy. Fighting occurred but eventually died down with third party guarantees to an agreement. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1778 3 -- not third party link to territory 
+TERRLINK-CER: MID1778 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1778 3 -- not maritime 
+MARITMID-CER: MID1778 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1778 3 -- not islands 
+ISLMID-CER: MID1778 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1778 3 -- not civil war 
+CIVWARMID-CER: MID1778 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1778 3 -- not civil war link 
+CIVWARLINK-CER: MID1778 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1778 3 -- not coup 
+COUPMID-CER: MID1778 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1778 3 -- not coup link
+COUPLINK-CER: MID1778 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID72 
+
+TERRMID: MID72 3 -- not territory 
+TERRMID-CER: MID72 3 -- uncertain 
+TERRMID-NOTES: MID72 from Gibler, Miller, and Little 2016, an Italian fleet visited Durazzo (Albanian territory), but this was a routine cruise by the Italians and no protest was offered by the Albanians. Coded not territory because although the countries were disputing territory, this was not connected to the dispute and was a routine vessel traveling incident. Coded uncertain because GML argue this case should be dropped. 
+
+TERRLINK: MID72 3 -- not third party link to territory 
+TERRLINK-CER: MID72 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID72 3 -- not maritime 
+MARITMID-CER: MID72 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID72 3 -- not islands 
+ISLMID-CER: MID72 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID72 3 -- not civil war 
+CIVWARMID-CER: MID72 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID72 3 -- not civil war link 
+CIVWARLINK-CER: MID72 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID72 3 -- not coup 
+COUPMID-CER: MID72 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID72 3 -- not coup link
+COUPLINK-CER: MID72 1 -- certain 
+COUPLINK-NOTES
+
+
+MID108 
+
+TERRMID: MID108 1 -- territorial MID
+TERRMID-CER: MID108 1 -- certain 
+TERRMID-NOTES: MID108 from Gibler 2018, this MID occurred in the lead-up to WWII. Italy demanded Albania accede, Albania refused, and Italy invaded and established a protectorate in April 1939. Coded territorial MID because this was a demand by Italy of Albania's territory. 
+
+TERRLINK: MID108 3 -- not third party link to territory 
+TERRLINK-CER: MID108 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID108 3 -- not maritime 
+MARITMID-CER: MID108 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID108 3 -- not islands 
+ISLMID-CER: MID108 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID108 3 -- not civil war 
+CIVWARMID-CER: MID108 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID108 3 -- not civil war link 
+CIVWARLINK-CER: MID108 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID108 3 -- not coup 
+COUPMID-CER: MID108 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID108 3 -- not coup link
+COUPLINK-CER: MID108 1 -- certain 
+COUPLINK-NOTES
+
+
+MID3202 
+
+TERRMID: MID3202 3 -- not territory 
+TERRMID-CER: MID3202 1 -- certain 
+TERRMID-NOTES: MID3202 from Gibler 2018, in 1952, Alabania protested that Italian warplanes violated their airspace. Coded not territory because the countries were not disputing territory at this time. 
+
+TERRLINK: MID3202 3 -- not third party link to territory 
+TERRLINK-CER: MID3202 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3202 3 -- not maritime 
+MARITMID-CER: MID3202 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3202 3 -- not islands 
+ISLMID-CER: MID3202 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3202 3 -- not civil war 
+CIVWARMID-CER: MID3202 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3202 3 -- not civil war link 
+CIVWARLINK-CER: MID3202 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3202 3 -- not coup 
+COUPMID-CER: MID3202 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3202 3 -- not coup link
+COUPLINK-CER: MID3202 1 -- certain 
+COUPLINK-NOTES
+
+
+MID3216 
+
+TERRMID: MID3216 3 -- not territory 
+TERRMID-CER: MID3216 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3216 3 -- not third party link to territory 
+TERRLINK-CER: MID3216 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3216 3 -- not maritime 
+MARITMID-CER: MID3216 1 -- certain 
+MARITMID-NOTES: MID3216 from cm narrative, in March 1955, Albania seized an Italian fishing vessel and held it for less than a month. Italy protested and Albania admitted the seizure was an error. This is still considered a MID because this involved a ship seizure and a protest by Italy; however, it is coded not maritime because the countries were not disputing a maritime border and Albania could not be advancing a maritime claim if the seizure was an error. 
+
+ISLMID: MID3216 3 -- not islands 
+ISLMID-CER: MID3216 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3216 3 -- not civil war 
+CIVWARMID-CER: MID3216 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3216 3 -- not civil war link 
+CIVWARLINK-CER: MID3216 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3216 3 -- not coup 
+COUPMID-CER: MID3216 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3216 3 -- not coup link
+COUPLINK-CER: MID3216 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2846 
+
+TERRMID: MID2846 3 -- not territory 
+TERRMID-CER: MID2846 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2846 3 -- not third party link to territory 
+TERRLINK-CER: MID2846 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2846 3 -- not maritime 
+MARITMID-CER: MID2846 3 -- uncertain 
+MARITMID-NOTES: MID2846 from Gibler, Miller, and Little 2016, Alabania shot at an Italian fishing boat, but Italy did nor protest. Coded not maritime because they were not disputing a maritime boundary. Coded uncertain because GML argue this case is not a MID and should be dropped since Italy did not protest. 
+
+ISLMID: MID2846 3 -- not islands 
+ISLMID-CER: MID2846 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2846 3 -- not civil war 
+CIVWARMID-CER: MID2846 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2846 3 -- not civil war link 
+CIVWARLINK-CER: MID2846 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2846 3 -- not coup 
+COUPMID-CER: MID2846 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2846 3 -- not coup link
+COUPLINK-CER: MID2846 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10835 was originally coded as two separate rivalries (RIv11.0 and RIV836). Yet these were combined because of the short temporal distance between the disputes (<14 years) and because all of the disputes in both rivalries involved Italian expansionism in the region.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY, RIV836
+DATES: 19340623-19390408
+
+NARRATIVE-CM:
+Italian troops occupied Valona (Vlore) in southern Albania beginning on December 16, 1914. President Pasha Toptani fled into exile to Italy on February 24, 1916. Italian troops occupied much of southern Albania beginning in September 1916. 
+
+Albanian nationalists attacked Italian troops near Valona (Vlore), Tepelena, and Himara on June 20, 1920. Albanians and Italian troops agreed to a ceasefire on August 17, 1920, and Italian troops completed their withdrawal from the Valona (Vlore) region on September 2, 1920. 
+
+Albanian and Italian representatives signed the *Treaty of Tirana* on November 27, 1926, which provided for Italian intervention in case of internal and external security threats to Albania. King Zogu I of Albania responded to nationalist discontent by pursuing policies to curtail Italian involvement in the country beginning in September 1932. Italy responded to Albanian nationalist policies by imposing economic sanctions (suspension of economic assistance) and military sanctions (suspension of arms shipments) against the Albanian government on April 1, 1933. Nineteen Italian naval ships were deployed near the port of Durres, Albania on June 23-30, 1934. Albanian and Italian held bilateral negotiations between September 1934 and Mrch 1936, and the countries signed an agreement in March 1936. The Albanian-Italian agreement provided for a resumption of Italian economic assistance to Albania. Italy demanded a protectorate over Albania on March 25, 1939, and the Albanian government formally rejected the demand on April 6, 1939. Some 40,000 Italian troops invaded Albania on April 7, 1939, and King Zogu I fled into exile to Greece on April 8, 1939. Italian troops occupied Gjirokaster and Shkoder on April 9, 1939. The Albanian Constituent Assembly abolished the 1928 constitution, and proclaimed the union of Albania with Italy on April 12, 1939. The *National Front *(*Balli Kombetar*) was established in opposition to the Italian-dominated government by Midhat Frasheri in May 1939. Italy imposed a new constitution on Albania on June 3, 1939, which provided King Victor Emmanuel III with complete governing authority within the country. Following an Italian invasion of Greece from Albanian territory on October 28, 1940, Greek troops launched a counter-offensive on November 14, 1940. Greek troops occupied southern Albania from December 28, 1940 to April 6, 1941, when German troops attacked Greece. Italian troops reoccupied southern Albania on April 21, 1941. The *Communist Party of Albania *(CPA) was established in Tirana on November 8, 1941, and Enver Hoxha was chosen as party secretary. The CPA established the *National Liberation Front* (NLF) in opposition to the Italian occupation of Albania on November 16, 1942. The *Balli Kombetar* (National Front) headed by Midhat Frasheri was established in opposition to the Italian occupation in November 1942. The Italian government forced Prime Minister Mustafa Merlika Kruja to resign on January 10, 1943, and appointed Maliq Bushati as prime minister on February 22, 1943. Some 70,000 German troops occupied Albania following the Italian capitulation to the Allies on September 8, 1943. Albanian and Italian representatives signed a peace treaty in Paris on February 10, 1947, which mentioned Albania's acquisition of the island of Sazan from Italy.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 246-249; Clodfelter, 1992, 624; Ference, 1994, 1-60; Langer, 1972, 997-1002, 1023-1024.
+
+NARRATIVE-CR:
+The first two string of disputes between Albania and Italy took place between 1914 and 1939. All of the disputes that took place during this period had one unifying issue: Italian interest in expansion and regional hegemony. The disputes that took place after World War II, are in question. I was able to find information on one of them, an Albanian seizure of an Italian fishing boat. The following is conjecture: Because the policy for regional expansion and hegemony took form and implementation during the tenure of Mussolini and since he was no longer in power and I assume the Italian government took a more moderate direction after World War II, the disputes have more to do with the Cold War orientation of the two countries than about Italian interest in occupying or exploiting Albanian resources. 
+
+The Ottomans ruled Albania for over four centuries. In 1912, the Albanians declared their independence and this independence was acknowledged by the European powers after the Balkan Wars of 1912-3. The borders to the country were not fully demarcated when WWI began in 1914. 
+
+MID394 occurred from 9/13/1914 to 3/13/1915. The secret Treaty of London (26 April 1915) was designed to entice Italy into the War. In exchange, Italy was promised a protectorate over a Southern portion of Albania. Italy had already begun her interest in establishing its influence in Albania prior to her entrance in the war. Italian troops occupied Valona (Vlore) in southern Albania beginning on December 16, 1914. 
+
+MID1262 occurred from September 15 through November 5 of 1918. This is a multilateral mid with Yugoslavia, Italy, and France versus Albania. In September 1918, Entente forces broke through the Central Powers' lines north of Thessaloniki, and within days Austro-Hungarian forces began to withdraw from Albania. When the war ended on November 11, 1918, Italy's army had occupied most of Albania; Serbia held much of the country's northern mountains; and French forces occupied Korçi and Shkodir as well as other with sizable Albanian populations, regions such as Kosovo, which were later handed over to Serbia. 
+
+MID1778 occurred from June 6 through July 28, 1920. Albanian nationalists attacked Italian troops near Valona (Vlore), Tepelena, and Himara on June 20, 1920. Albanians and Italian troops agreed to a ceasefire on August 17, 1920, and Italian troops completed their withdrawal from the Valona (Vlore) region on September 2, 1920. 
+
+Advocates of territorial expansion in Italy gathered strength in October 1922 when Benito Mussolini took power in Rome. His fascist supporters undertook an unabashed program aimed at establishing a new Roman empire in the Mediterranean region that would rival Britain and France. Mussolini saw Albania as a foothold in the Balkans, and after the war the Great Powers in effect recognized an Italian protectorate over Albania. 
+
+In May 1925, Italy began a penetration into Albania's national life that would culminate fourteen years later in its occupation and annexation of Albania. The first major step was an agreement between Rome and Tirana that allowed Italy to exploit Albania's mineral resources. Soon Albania's parliament agreed to allow the Italians to found the Albanian National Bank, which acted as the Albanian treasury even though its main office was in Rome and Italian banks effectively controlled it. The Albanians also awarded Italian shipping companies a monopoly on freight and passenger transport to and from Albania. 
+
+In late 1925, the Italian-backed Society for the Economic Development of Albania began to lend the Albanian government funds at high interest rates for transportation, agriculture, and public-works projects, including Zogu's palace. In the end, the loans turned out to be subsidies. 
+
+In mid-1926 Italy set to work to extend its political influence in Albania, asking Tirana to recognize Rome's special interest in Albania and accept Italian instructors in the army and police. Zogu resisted until an uprising in the northern mountains pressured the Albanian leader to conclude the First Treaty of Tirana with the Italians in November 1926. In the treaty, both states agreed not to conclude any agreements with any other states prejudicial to their mutual interests. The agreement, in effect, guaranteed Zogu's political position in Albania as well as the country's boundaries. In November 1927, Albania and Italy entered into a defensive alliance, the Second Treaty of Tirana, which brought an Italian general and about forty officers to train the Albanian army. Italian military experts soon began instructing paramilitary youth groups. Tirana also allowed the Italian navy access to the port of Vlori, and the Albanians received large deliveries of armaments from Italy
+
+MID72 occurred on June 23, 1934. In this dispute, the Italian Navy entered the Port of Durrazo, an Albanian port city on a strategic point on the Adriatic Coast. The Italians did not coordinate the port call and did not observe custom to indicate a non-threatening intent. The visit was in response to a recent visit to Belgrade of the French Foreign Minister. The intent of the visit was to demonstrate Italian regional hegemony over Albania. 
+
+MID108 or the Italian occupation of Albania occurred from April 7-8, 1938 As Germany annexed Austria and moved against Czechoslovakia, Italy saw itself becoming a second-rate member of the Axis. After Hitler invaded Czechoslovakia without notifying Mussolini in advance, the Italian dictator decided in early 1939 to proceed with his own annexation of Albania. Italy's King Victor Emmanuel III criticized the plan to take Albania as an unnecessary risk. 
+
+Rome, however, delivered Tirana an ultimatum on March 25, 1939, demanding that it accede to Italy's occupation of Albania. Zog refused to accept money in exchange for countenancing a full Italian takeover and colonization of Albania, and on April 7, 1939, Mussolini's troops invaded Albania. Despite some stubborn resistance, especially at Durris, the Italians made short shrift of the Albanians. Unwilling to become an Italian puppet, King Zog, his wife, Queen Geraldine Apponyi, and their infant son Skander fled to Greece and eventually to London. On April 12, the Albanian parliament voted to unite the country with Italy. Victor Emmanuel III took the Albanian crown, and the Italians set up a fascist government under Shefqet Verlaci and soon absorbed Albania's military and diplomatic service into Italy's.
+
+MID3202 is coded as an Italian border violation that occurred from June 8 to June 14, 1952. I was not able to locate documentation of this dispute in the New York Times, the Times of London or any of the references listed below. 
+
+MID3216 occurred from March 15-April 9, 1955. In March, the Albanians seized a fishing vessel, the Crisilide and her crew of 32. The Albanians held the vessel until April 9. The Albanians claimed that the seizure was an error when they returned her. 
+
+MID2846 occurred on June 8, 1957. This dispute is coded as a one day Albanian attack on the Italians. I was also not able to locate documentation of this dispute. I searched the New York Times, the Times of London or any of the references listed below. 
+
+SOURCES-CR:
+New York Times 6/26/1934; 4/10/1955
+
+PS-NARRATIVE:
+
+19459999-19570622 RIV837-0.25
+
+Albanian and Italian representatives signed a peace treaty in Paris on February 10, 1947, which for Albania's acquisition of the island of Sazan from Italy. On June 8th, 1957 the last MID between Italy and Albania, MID2846 ended. MID2846 occurred on June 8, 1957. This dispute is coded as a one day Albanian attack on the Italians. I was also not able to locate documentation of this dispute. I searched the New York Times, the Times of London or any of the references listed below. 
+
+19570623-20159999 0.5 
+
+On June 23, 1957, Italy agreed to pay Albania war reparations for the invasion of the tiny Balkan country by Mussolini's Italy in 1939. This was added to the terms of the formal Italian-Albanian peace treaty signed in Paris, on February 10, 1947. On July 6, 1958, Albania threatened Italy that the establishment of US rocket bases in Italy will be a breach of the 1947 peace agreement between Italy and Albania and the latter would match the rocket bases with some of its own. On February 11, 1961 Albania protested to Italy for the establishment of Western German bases on Italian territory seeing this as a threat to its sovereignty. On September 27, 1973, Albania protested to Italy over the possible contamination of coastal waters by cholera-infected shellfish dumped into the sea. On August 13, 1979, Rolando Martino and Enrico Canna, activists of the Italy-Albania Friendship Association, arrived in Albania recently at the invitation of the Albanian Committee for Cultural and Friendly Relations with Foreign Countries. On October 14, 1984, in Rome, Italian diplomats say that they have reached a positive conclusion about Italian-Albanian relations which is improving. Greece and Italy are among the few Western nations that keep embassies in Tirana, the capital of Albania. But the diplomatic relationship has not led to more substantial bonds. Albania, though Communist, is not allied with any other Communist country and is a member of the bloc of nations that regard themselves as nonaligned. An Italian envoy visiting Albania met with the foreign minister of the isolated Marxist nation for talks described as friendly by the official Albanian news agency on May 16, 1985. Bruno Corti, Italy's under-secretary of foreign affairs, is the first Western government official to visit Albania since the death of Stalinist leader Enver Hoxha April 11, 1985. The new leader and Communist Party chief Ramiz Alia has indicated he will continue Hoxha's policies of independence from the major Communist powers and isolation from the West. In recent years, however, Albania has been increasing its diplomatic contacts with several countries including Italy, Greece and France. The Albanian agency ATA said Corti met on May 15, 1985, with Albania's foreign minister, Reis Malile, for a "friendly talk" and also met with Sokrat Plaka, vice-minister of foreign affairs.
+
+Italian prime minister Bettino Craxi and Foreign trade minister Nicola Capria met Albanian foreign trade minister Shane Korbeci in Tirana on October 6, 1985 in a bid to promote bilateral relations. Craxi is said to have told the Albanian minister that the Italian government would take measures to promote economic and trade relations to a level corresponding to the good relations between the two countries. The Albanian minister hoped that the two sides could explore new forms of cooperation in air and sea transportation, in communications and mining industry. According to Italian newspapers, Albania wanted to import from Italy aluminum plates and chemical products, as well as equipment for processing quartz and other raw materials. It also showed interest in Italian-made air-compressors and oil exploring equipment. Italy has reduced oil import from Albania by 21 percent since 1975, while its export has increased by 13 percent. In the first half of this year, Italy had a surplus of 5.6 million lire (about 3.17 US dollars), as against last year's deficit of 10.1 billion lire (roughly 5.7 million US dollars) in its trade with Albania. On September 29, 1995, the president of Italy's National Alliance Party, Gianfranco Fini, has had talks in Tirana with Albanian President Sali Berisha and Prime Minister Aleksander Meksi on economic cooperation with special emphasis on problems of illegal immigration. The following is the text of a report by Albanian radio: The president of the National Alliance Party of Italy, Gianfranco Fini, ended his one-day visit to Tirana, made on the invitation of the Democratic Party. He conducted talks with the Albanian president, Sali Berisha, with Prime Minister Aleksander Meksi and other top political personalities. In the meeting with the Italian personality, the Albanian president, Sali Berisha, said that this visit is a very important contribution to the friendly relations between Italy and Albania, the National Alliance Party of Italy and the Democratic Party. Berisha expressed once again the gratitude to the Italian people and their government for the generous help given to Albania during a very difficult but important period. President Berisha said he is looking forward to his coming visit to Italy, during which he will sign many agreements that enhance the basis of cooperation between both countries. Fini on his part said Italy and Europe are interested to have Albania beside them and value its role of stability and peace in the Balkans. Both peoples cherish friendly feelings between them and all the Italian political forces have positive evaluations on Albania. In the meeting with the Albanian prime minister, Aleksander Meksi, the talks focused on the deepening of economic cooperation between Italy and Albania and the problem of the illegal migration. The president of the National Alliance Party of Italy, Fini, expressed his party's interest in leaving the solution to the problem of the illegal migration of Albanians to Italy. Italy has an immigration law which is hindering us to sign the word indistinct treaty. In this aspect the National Alliance Party is willing to issue more (civilian) law on the illegal migration, said Fini. The Albanians come temporarily in Italy and thus more specific agreements between Italy and Albania concerning the seasonal employment and the visa-giving procedures should be sought.In this meeting the Italian ambassador in Albania, Paolo Foresti, said he had forwarded to the Albanian foreign ministry a draft on the friendliness treaty between Albania and Italy, which could be a solution to a part of these problems.In the meeting with the general-secretary of the Democratic Party of Albania, Tritan Shehu, Fini said he will do his best in the Italian parliament in order to strengthen the mutual cooperation in the framework of the European Union. We are convinced that the Italian right-wing forces have never had any nostalgia for the communist dictatorship and they will help the Democratic Party in Albania. Though Albania has specific ties with Italy, they are ties with Europe, Fini said. An Albanian progress and a democratic Albania can help even Italy itself. Shehu on his part made known the need Albania has for the deepening of economic development of the country, like that of the infrastructure and banking system. The deepening of the economic ties and the all-around cultural relations and the legalization of the (flood) of migrants, these are the main problems still with which the mutual activity and cooperation between two countries should focus. Italy and Albania signed a friendship accord in Rome on October 13, 1995, during an official visit by Albanian President Sali Berisha. Berisha assured the Italian government that Albania would work closely with Italy in its fight against illegal immigration. More specifically, he pledged to step up control of the Albanian-Macedonian border to stop the flow of Albanian refugees that make their way to Italy via Albania. During his visit, Berisha will meet Italy Prime Minister Lamberto Dini and President Oscar Luigi Scalfaro. On Saturday he is scheduled for an audience with Pope John Paul II. On April 19, 1996, Italian President Oscar Luigi Scalfaro arrived on an official one-day visit to Albania to boost relations between the two countries. Scalfaro and Albanian President Sali Berisha said they had discussed expansion of bilateral cooperation in all fields as well as Albania's wish for an association agreement with the European Union, of which Italy holds the current presidency. Berisha said Albania was ready to sign a special agreement with Italy to discipline the movements of Albanians to Italy, in reference to ongoing clandestine flow of Albanians to Italy. The two presidents said that they had had also agreed on seasonal labour for Albanians workers in Italy. Scalfaro, on his second visit to Albania in the last two years, said Italy would continue its support for Albanian reforms and for a trade agreement between Albania with the European Union. He praised Albania's achievements in the last four years under the leadership of Berisha. Italy is Albania's main trade partner, providing half of the exports and imports. Italian investments also account for 60 per cent of foreign investments in Albania. Italy is also Albania's main donor of the foreign aid, which totalled 339.7 million U.S. dollars between 1991 to 1996.
+
+On August 28, 1997, Italy and Albania signed a defense pact for the reorganization of Balkan nation's shattered military forces. The agreement will ''help Albania to return to normalcy after months of anarchy and confusion,'' Italian Defense Minister Beniamino Andreatta said. He spoke at a joint news conference with his Albanian counterpart, Sabit Brokaj, after the signing. The pact is ''an important step to ensure peace and stability both in Albania and in the Balkans,'' Andreatta said. It calls for Italy to spend about 30 billion lire, or about dollars 17 million, to help Albania rebuild its military. Italy will provide technical as well as financial support. Andreatta said the restructuring aims to bring Albania into line with NATO standards bid to cement ties with the strategically placed Balkan country. Albania's military, along with its police and most other institutions have been shattered by months of unrest. Looters have cleaned out weapons depots. Refugees have commandeered navy vessels to flee across the Adriatic to Italy. Andreatta rebuilding the military would help staunch the flow of unwanted refugees because authorities could begin cracking down on illegal immigration. About 17,000 Albanians have arrived in Italy this year. The Italian government is to decide whether to send them back or renew their temporary residence permits. Italy has a close relationship with Albania and headed the multinational force sent in earlier this year to ease the crisis. The force has since departed and a new Albanian government is trying to restore order.
+
+On October 28, 1998, Albania agreed on Italy's proposal to increase the size of its police force there in an attempt to help curb illegal entry and smuggling from Albania to Italy. Italy's minister of the interior Rosa Jervolino made a one-day visit to Albania and met separately with Albanian prime minister Pandell Majko and minister of public security Petro Koci. At a news conference following the meeting, Jervolino announced that both sides had reached an agreement that would allow Italy to send additional police to Albania to help combat rampant smuggling and illegal border crossing. Last year Italy sent a police force to the Albanian city of Durres to help prevent illegal crossings occurring by sea into Italy. Jervolino said experts from the two countries will discuss the size of the police force to be sent to Albania. Meanwhile, she also called on Albania to combat illegal border crossings both by sea and land. Koci also voiced the determination of Albania to fight against illegal boarder crossings, and asked Italy to continue supporting Albanian police in their anti-smuggling efforts. According to Jervolino, Majko accepted an invitation from Italian prime minister Massimo D'Alema to visit Italy in early November. The two premiers are expected to sign an accord authorizing Italy to increase its police force in Albania. Since the beginning of the 1990s, illegal entrance from Albania into Italy by sea has been on the rise. Hundreds of people slip through sea blockades into Italy each month.
+
+Italy will help Albania rebuild its infrastructure, especially in the fields of energy and transportation, according to reports in the Albanian capital of Tirana. The Italian assistance will be within the framework of the Balkans stability pact, press reports said on June 30, 1999. ''Italy will support Albanian government projects in the fields of energy, gas, oil, pipelines and roads,'' Italy's foreign trade minister, Piero Fassino, was quoted as saying by the Albanian daily Shekulli. Fassino was visiting Tirana when he made the comments. The majority of Albania's trade is with Italy, with 64 percent of Albanian exports and 42 percent of imports linked to Italy, which is just across the Adriatic from Albania. Italy has agreed to send $210 billion lira ($112 million U.S.) to help the economic recovery of Albania, which is the poorest country in Europe and has suffered economic chaos and the impact of Balkan wars for the last decade. Rome has agreed to assist Albania over the next three years, but has complained that Tirana has yet to allocate the money or announced any priority projects. Ylli Bufi, the Albanian minister of economics and privatization, gave Fassino a list of 22 projects-mostly energy and road work, according to the Albanian Telegraphic Agency. ''Albania welcomes Italian investments on the fields of infrastructure, particularly in gas, oil, energy and road projects,'' Bufi said, according to the newspaper. Albanian authorities asked Italy to take part in the privatization of the important assets such as seaports, airports, railways, hydropower plants, telecommunications, oil refineries and chromium mines. Tirana also asked Rome to include Albania in an international fuel pipeline planned to link Italy with Greece across the Adriatic. Bufi suggested that Fassino consider crossing this pipeline through Albanian territory. ''In this way Albania will benefit, linking with the international gas network and at the same time the cost of the project would be cheaper,'' Bujar Leka, a director in the Ministry of Public Economy and Privatization, told United Press International. 
+
+Italy considers Albania an important bridge to other Balkan countries, Italian Prime Minister Massimo D'Alema said in Tirana on October 21, 1999. D'Alema said his government was working to make Albania a gateway for European Union relations with other Balkan countries. ''Italy and Albania are the key to European Union relations with the Balkan area,'' D'Alema told his Albanian counterpart, Pandeli Majko. D'Alema appealed to Italian businessmen to quickly invest in Albania's infrastructure as a trampoline to other Balkan countries. ''After the war in Kosovo, we must win the peace, building Corridor 8, the link from Tirana via Durres to Kosovo, the road in which the Kosovo refugees passed,'' D'Alema told a group of Italian businessmen visiting the Albanian capital. The Albanian government in Tirana is doing everything possible to link Kosovo and Albania by road and other infrastructure so that the Yugoslav province won't need trade and communications links to and from Serbia. Since the mid 1990s, Italy has supported Corridor 8, foreseen as a land link from the Adriatic to the Black Sea-from Durres, the main Albanian port, to Varna in Bulgaria, via the Macedonian capital of Skopje. ''I am convinced those who invest in Albania today will have advantages tomorrow,'' D'Alema told the Italian businessmen, who represented more than 650 Italian companies. Majko also invited Italian businesses to expand their activities in Albania, adding that the decade since communism ended-a decade of constant economic crisis in Albania-was not enough time to judge Albania's economic possibilities. ''The investments in Albania are investments made on the most important regional crossroad,'' Majko said. D'Alema suggested that Albanian authorities should work together in preparing joint regional projects to support the Balkan Stability Pact. ''Albania must continue its efforts to meet the criteria of involving great regional projects,'' D'Alema said. He also called on Albania to fight the drug trafficking, smuggling of refugees and other organized crime based in Albania. ''We must stop the illegal traffic of drugs, weapons and people,'' D'Alema said. The Italian businessmen told D'Alema to include them in the stability pact projects in which the European Union and the World Bank will invest. D'Alema made a short trip to Albania to inaugurate an Italian-Albanian conference in Tirana. He met Albanian President Rexhep Meidani and Majko, and asked both leaders to work toward their country's stability. Since 1991, Italy has been Albania's main trading partner and primary provider of foreign aid, having sent more than $500 million in aid, credits and grants. Sixty percent of Albania's exports go to Italy and one-third of its imports come from Italy. To overcome the famine in 1991 and 1992, Italy gave Albania humanitarian aid woth $30 million in a military operation called ''Pelican.'' Italy also led an international military police force to overcome the chaos and violence that followed the collapse of Albania's pyramid-scheme economy in the spring of 1997. Now an Italian general is leading NATO troops in Albania to keep and protect the link from Durres to Kosovo.
+
+Italian Foreign Minister Renato Ruggiero met Albanian Prime Minister Ilir Meta in Rome on 19 September 2001 and said that "Italy will establish a privileged relation with Albania"."You will find in me and Italy a good friend to help you and shorten the way to the EU.Our common objective is to open Albania's negotiations on the stability-association agreement with the EU," said Ruggiero. According to the Italian chief diplomat "as Albania declares that Italy is a strategic partner, Italy, too, considers Albania a strategic partner on the Balkan affairs. The strategic partnership between Albania and Italy has two main aims: to enhance stability in the Balkans and bring the Balkans closer to the European Union". Ruggiero stressed that "the road of internal normalization to contribute to the stability of the region is a policy of fundamental importance. In this process we are ready to give you all our support". In his speech Meta guaranteed the continuation of excellent relations between Albania and Italy and their further materialization. He thanked Italy for its all-round support to Albania. Meta stressed that the challenges facing Albania today are not challenges of emergency but of development and integration. Meta arrived in Rome on 19 September, 2001, for a two-day visit, at the invitation of Italian counterpart Silvio Berlusconi. Italian Prime Minister Silvio Berlusconi discussed efforts to fight human trafficking and improving bilateral cooperation with Albanian leaders during a one-day visit on October 23, 2002 to Albania. Berlusconi, who met with Albanian President Alfred Moisiu and Prime Minister Fatos Nano, told a news conference at the end of his visit that cooperation between police forces of the two countries to stop the flow of illegal emigrants from Albania to Italy had begun to show results. "We are encouraged by the falling figures of emigrants reaching our coasts from Albania over the past two months and we intend to intensify our police cooperation further in the future," he said. Italy has deployed two Guardia di Finance missions to the Albanian main ports of Durres and Vlore to monitor and stop the activity of local criminal organizations, which have been smuggling illegal emigrants to Italy's southern coasts with high-powered dinghies over the past decade. Berlusconi said Italy intends to remain Albania's main trading partner and donor and that his country would continue to support Albania's integration into Europe. Berlusconi and Albanian Prime Minister Nano told journalists they had agreed on expanding the economic, financial, and cultural ties between the two countries. 
+
+Italy granted [euro]2 million (US$2.4 million) in aid to the Albanian army on December 14, 2005, as part of efforts to help the Balkan country improve its military as it aims to join NATO, the Albanian Defense Ministry said.The aid included military vehicles, containers, engineering parts and other materials meant to help Albania improve its army technology, a ministry statement said. Italy has been a major supporter of Albania's efforts to join NATO by 2008. The United States, Turkey and Germany also have backed Albania's bid. Albania has sent three small peacekeeping units to Bosnia, Afghanistan and Iraq.
+
+PS-SOURCES: New York Times June 23, 1957; July 6, 1958; February 12, 1961; September 28, 1973; October 14, 1984; Associated Press May 16, 1985; BBC August 13, 1979; September 29, 1995; September 20, 2001; October 30, 2002; Xinhua October 6, 1985; October 28, 1998; Deutsche Presse-Agentur October 13, 1995; April 19, 1996; January 12, 1998; October 23, 2002; Associated Press August 28, 1997; December 14, 2005; United Press International June 30, 1999; October 21, 1999
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID3216 not considered a maritime MID 
+
+MARITIME-DISPUTE: MID3216
+ DYAD: ITALY ALBANIA 325339
+ DATES: 19550315 19550409
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3216 occurred from March 15-April 9, 1955. In March, the Albanians seized a fishing vessel, the Crisilide and her crew of 32. The Albanians held the vessel until April 9. The Albanians claimed that the seizure was an error when they returned her. 
+
+Sources: 
+Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

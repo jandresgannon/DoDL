@@ -1,0 +1,165 @@
+FILE: cm020365v11.0.txt
+DYAD: CANADA - RUSSIA/USSR
+RIVALRY: RIV124
+DISPUTE(S): MID2606 
+RIVALRY: RIV126
+DISPUTE(S): MID2226 
+RIVALRY: RIV127
+DISPUTE(S): MID4197 MID4342 
+
+PS-LAST-CHANGED: 20170712
+PS-LAST-CHECKED: 20170712
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2606 
+
+TERRMID: MID2606 3 -- not territory 
+TERRMID-CER: MID2606 1 -- certain 
+TERRMID-NOTES: MID2606 coded not territory because although Canada took part in occupying Russian cities and occupied some territory, they were attempting to influence the outcome of the civil war and were not advancing a territorial claim. No territorial dispute between these countries. 
+
+TERRLINK: MID2606 3 -- not third party link to territory 
+TERRLINK-CER: MID2606 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2606 3 -- not maritime 
+MARITMID-CER: MID2606 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2606 3 -- not islands 
+ISLMID-CER: MID2606 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2606 1 -- civil war MID
+CIVWARMID-CER: MID2606 1 -- certain 
+CIVWARMID-NOTES: MID2606, MID197, and MID2366 all occurred in connection with US and its allies' interventions into the Russian Revolution. The rivalry between the US and the USSR began with US intervention in the Russian Revolution. The US sent troops into several Russian cities on several occasions, sparking clashes with Russian troops and several MIDs between 1918 and 1920. The Allied powers were attempting to help the anti-Bolshevik forces in Russia prevent the Bolsheviks from taking power, and Canada was involved as part of the Allied Powers here. Coded civil war MID because the Russian revolution caused the US and allies, including Canada, to intervene militarily in order to influence the outcome of the civil war.
+
+CIVWARLINK: MID2606 3 -- not civil war link 
+CIVWARLINK-CER: MID2606 1 -- certain 
+CIVWARLINK-NOTES: MID2606 this is a multilateral MID. The civil war is within this dyad and there are no civil wars/conflict in countries besides Russia in this MID.
+
+COUPMID: MID2606 3 -- not coup 
+COUPMID-CER: MID2606 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2606 3 -- not coup link
+COUPLINK-CER: MID2606 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2226 3 -- not maritime 
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: MID2226 from cm narrative, this involves a show of ships, or a mutual display of naval power, between USSR and several NATO countries, including Canada. Coded not maritime because Canada and USSR were not disputing a maritime boundary here, and this seems to be a product of general Cold War tensions. 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES:
+
+MID4197 
+
+TERRMID: MID4197 3 -- not territory 
+TERRMID-CER: MID4197 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4197 3 -- not third party link to territory 
+TERRLINK-CER: MID4197 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4197 3 -- not maritime 
+MARITMID-CER: MID4197 1 -- certain 
+MARITMID-NOTES: MID4197 from cm narrative, Russia deployed 7 nuclear-capable bombers to its bases in Alaska, prompting the US and Canada to deploy planes to the area, triggering this MID. Coded not maritime because the maritime boundary was not contested. 
+
+ISLMID: MID4197 3 -- not islands 
+ISLMID-CER: MID4197 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4197 3 -- not civil war 
+CIVWARMID-CER: MID4197 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4197 3 -- not civil war link 
+CIVWARLINK-CER: MID4197 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4197 3 -- not coup 
+COUPMID-CER: MID4197 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4197 3 -- not coup link
+COUPLINK-CER: MID4197 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: MID4342 cm002365v11.0 narrative only says that this dispute was a show of force that occurred 4/8/1999-4/19/1999. This involved the US, and Canada was likely a party to this dispute due to its close alliance with the US. Unclear what happened in this dispute, but coded not territory because the US and Russia were not disputing a land boundary. 
+
+TERRLINK: MID4342 3 -- not third party link to territory 
+TERRLINK-CER: MID4342 1 -- certain
+TERRLINK-NOTES: MID4342 Canada is likely involved in this multilateral MID due to its alliance with the US. This is coded not third party link because the US was not disputing territory with Russia. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain
+MARITMID-NOTES: MID4342 cm002365v11.0 narrative only says that this dispute was a show of force that occurred 4/8/1999-4/19/1999. This involved the US, and Canada was likely a party to this dispute due to its close alliance with the US. Unclear what happened in this dispute, but coded not maritime because the Canada and Russia were not disputing a maritime boundary. 
+
+Canada and Russia did dispute a maritime boundary beginning in 2001 (from Canada Parliament website https://lop.parl.ca/content/lop/researchpublications/prb0805-e.htm ), but no maritime dispute was present at the time of this MID. 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4342 3 -- not civil war link
+CIVWARLINK-CER: MID4342 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV127, MID4342 (1999) is added by MID3.02
+
+RIV125 deleted because MID258 does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+DATES (may not be accurate, see riv5.20all.cvs): 19390917 -19390929
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:

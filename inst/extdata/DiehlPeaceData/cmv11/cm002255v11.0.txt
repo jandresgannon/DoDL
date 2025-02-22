@@ -1,0 +1,75 @@
+FILE: cm002255v11.0.txt
+DYAD: USA - GERMANY/PRUSSIA
+RIVALRY: RIV53
+DISPUTE(S): MID3363 MID191 
+RIVALRY: RIV54
+DISPUTE(S): MID254 
+RIVALRY: RIV55
+DISPUTE(S): MID257 MID398 MID2733 MID399 
+RIVALRY: RIV56
+DISPUTE(S): MID258 MID3708 MID3710 MID414 
+
+PS: 19009999-19150209 .5 19150210-19210702 0.0 19210703-19391023 .5 19391024-19450507 0.0 19450508-20209999 .5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+PS-LAST-CHANGED: 20220208
+PS-LAST-CHECKED: 20220208
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID3363 MID191 
+
+WWI MIDs: MID257 MID398 MID2733 MID399 
+
+WWII MIDs: MID258 MID3708 MID3710 MID414 
+
+MID254 
+
+TERRMID: MID254 3 -- not territory 
+TERRMID-CER: MID254 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID254 3 -- not third party link to territory 
+TERRLINK-CER: MID254 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID254 3 -- not maritime 
+MARITMID-CER: MID254 3 -- uncertain 
+MARITMID-NOTES: MID254 from cm002200v11.0 narrative, British and German ships blockaded several Venezuelan ports when Venezuela defaulted on its debt to those countries in 1902-1903. Roosevelt claimed he sent US ships into the area to deter the ships from taking further action, triggering this MID. Coded not maritime because even if it did occur, it did not involve a disputed maritime boundary and no one was advancing a maritime claim here. 
+
+Coded uncertain because it’s not clear that a MID occurred. From cm002200v11.0 file: "Theodore Roosevelt claimed during the 1916 election campaign that he had ordered U.S. ships into the area to force German cooperation. Livermore (1946) reviews the documentary evidence, finds little corroboration for Roosevelt's claim and concludes that Roosevelt probably concocted the story for political reasons. DeConde (1963, 385), Langley (1985, 25-6) also doubt about that naval action actually took place."
+
+ISLMID: MID254 3 -- not islands 
+ISLMID-CER: MID254 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID254 3 -- not civil war 
+CIVWARMID-CER: MID254 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID254 3 -- not civil war link 
+CIVWARLINK-CER: MID254 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID254 3 -- not coup 
+COUPMID-CER: MID254 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID254 3 -- not coup link
+COUPLINK-CER: MID254 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The United States severed diplomatic relations with Germany on February 3, 1917. The US declared war against Germany on April 6, 1917. The US deployed the *American Expedition Force* (AEF), which consisted of some 2 million troops commanded by General John Pershing, in France beginning in May 1917. Germany and the Allied countries agreed to a cessation of military hostilities on November 11, 1918. Some 126,000 US soldiers and 1.7 million German soldiers were killed during the *First World War*. The US formally declared an end to the state of war with Germany on July 2, 1921. Germany and the US signed a peace treaty in Berlin on August 25, 1921.
+
+SOURCES-CM: 
+*Survey of International Affairs *(SIA), 1925 (supplement), 140-141.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+

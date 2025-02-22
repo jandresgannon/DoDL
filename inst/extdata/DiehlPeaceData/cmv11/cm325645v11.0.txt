@@ -1,0 +1,155 @@
+FILE: cm325645v11.0.txt
+DYAD: ITALY - IRAQ
+RIVALRY: RIv11.0
+DISPUTE(S): MID621 
+RIVALRY: RIV866
+DISPUTE(S): MID3957 MID4273 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20180909
+PS-LAST-CHECKED: 20180909
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID621 
+
+MID2549
+
+TERRMID: MID2549 3 -- not territory
+TERRMID-CER: MID2549 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2549 1 -- third party link to territorial MID
+TERRLINK-CER: MID2549 1 -- certain
+TERRLINK-NOTES: MID2549 from Gibler 2018, in 1985 Iraq bombed two Italian ships it suspected of trading with Iran. Iran and Iraq regularly attacked tankers from other countries they suspected of trading with the other country as a wartime strategy of harming the other's economy. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial MID outside this dyad. 
+
+MARITMID: MID2549 3 -- not maritime 
+MARITMID-CER: MID2549 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2549 3 -- not islands 
+ISLMID-CER: MID2549 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2549 3 -- not civil war 
+CIVWARMID-CER: MID2549 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2549 3 -- not civil war link
+CIVWARLINK-CER: MID2549 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2549 3 -- not coup 
+COUPMID-CER: MID2549 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2549 3 -- not coup link
+COUPLINK-CER: MID2549 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3957 
+
+TERRMID: MID3957 3 -- not territory 
+TERRMID-CER: MID3957 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3957 1 -- third party link to territorial MID
+TERRLINK-CER: MID3957 1 -- certain 
+TERRLINK-NOTES: MID3957 from Gibler 2018, this is the Iraqi invasion of Kuwait. Italy, as part of a coalition, expelled Iraq from Kuwait. Coded third party link to territorial dispute because the Gulf War was a territorial dispute between Iraq and Kuwait, and Italy became involved to expel Iraq from Kuwait. 
+
+MARITMID: MID3957 3 -- not maritime 
+MARITMID-CER: MID3957 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3957 3 -- not islands 
+ISLMID-CER: MID3957 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3957 3 -- not civil war 
+CIVWARMID-CER: MID3957 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3957 3 -- not civil war link 
+CIVWARLINK-CER: MID3957 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3957 3 -- not coup 
+COUPMID-CER: MID3957 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3957 3 -- not coup link
+COUPLINK-CER: MID3957 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID4273 
+
+TERRMID: MID4273 3 -- not territory 
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain 
+TERRLINK-NOTES: MID4273 also featured some clashes along the Kuwait-Iraq border, which was disputed (Iraq claimed all of Kuwait). Nonetheless, this MID is not connected to that territorial dispute, but rather to the US/coalition interventions in Iraq. Kuwait's friendliness with western forces irritated Iraq, prompting the clashes. The coalition forces also did not attempt to address the Iraq-Kuwait territorial dispute at this time. Note: Coalition forces had previously addressed this territorial dispute in the first Gulf War (1991). The current coalition, however, is not identical to the earlier one and is focused specifically on domestic politics in Iraq. 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain 
+CIVWARMID-NOTES: MID4273 from Gibler 2018, this is the leadup and beginning of the US/coalition invasion and occupation of Iraq. The US, UK, France, and other coalition forces (including Italy here) were attempting to coerce Iraq into complying with weapons inspections. Iraq also threatened the planes enforcing the no-fly zone over Iraq, who were keeping Iraq from attacking rebel groups within its borders. Coded civil war MID because US/UK actions intended to prevent civil war activity between the regime and rebel groups in Iraq. Iraqi threats to US and UK war planes resulted. Italy is involved because of its role in the coalition forces. 
+
+CIVWARLINK: MID4273 3 -- not civil war link 
+CIVWARLINK-CER: MID4273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID3 1993-2001:
+
+MID4273
+rivalry=325645 nationa=ITALY nationb=IRAQ MID4273 19991022-19991022 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Italy) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First and last day of dispute was on 10/22/1999.
+NOTE THAT ITALY IS ONLY INVOLVED ON THE ONE DAY MILITARY EXERCISES
+
+RIVNOTES: 
+RIV866: MID2549 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+The rivalry between Italy and Iraq does not coalesce around a consistent set of bilateral MIDs. The first mid is the Iraqi involvement in World War II which was limited. The second mid is the Iraqi bombing of an Italian tanker during the tanker war portion of the Iran Iraq War. The last two mids are mids associated with the Persian Gulf War and its aftermath. None of the mids that took place between the two countries were bilateral except for the bombing of the tanker. In the case of that mid the hostility is not motivated out of antagonism towards Italy by Iraq. Instead, it is motivated by a desire to harm Iran. Thus, I argue that this rivalry does not merit inclusion in the rivalry dataset. 
+
+MID621 is the Iraqi entry into World War II on the allied side - in opposition to Italy, Italy and Japan. The New York Times reported that at the time of the Iraqi declaration of war the Germans, Italians, and Japanese were involved in plots to instigate `outright rebellion.' During World War II, Iraq cooperated completely with the British under the successive governments of Nuri as Said (1941-44) and Hamdi al Pachachi (1944-46). Iraq became a base for the military occupation of Iran and of the Levant. In March 1945, Iraq became a founding member of the British-supported League of Arab States (Arab League), which included Egypt, Transjordan, Lebanon, Saudi Arabia, Syria, and Yemen. The motivation for continued hostilities between Italy and Iraq discontinued with the end of the war. 
+
+MID2549 occurred on March 25, 1985. In March 1984, Iraq initiated sustained naval operations in its self-declared 1,126-kilometer maritime exclusion zone, extending from the mouth of the Shatt al Arab to Iran's port of Bushehr. In 1981 Baghdad had attacked Iranian ports and oil complexes as well as neutral tankers and ships sailing to and from Iran; in 1984 Iraq expanded the socalled tanker war by using French Super-Etendard combat aircraft armed with Exocet missiles. Neutral merchant ships became favorite targets, and the long-range Super-Etendards flew sorties farther south. Seventy-one merchant ships were attacked in 1984 alone, compared with forty-eight in the first three years of the war. Iraq's motives in increasing the tempo included a desire to break the stalemate, presumably by cutting off Iran's oil exports and by thus forcing Tehran to the negotiating table. Repeated Iraqi efforts failed to put Iran's main oil exporting terminal at Khark Island out of commission, however. Iran retaliated by attacking first a Kuwaiti oil tanker near Bahrain on May 13 and then a Saudi tanker in Saudi waters five days later, making it clear that if Iraq continued to interfere with Iran's shipping, no Gulf state would be safe. It was during this phase of the Iran Iraq war that Iraqi combat aircraft attacked an Italian oil tanker in the Persian Gulf. 
+
+MID3957 is the Persian Gulf War. Here Italy is a part of the alliance that attacks Iraq. 
+
+The involvement of Italy and Iraq in MID4273 occurred in October of 1999. This MID's principal combatants are the United States and Iraq and their combat lasts from October of 1997 until October of 2001. During this period of time Iraq expelled UN weapons inspectors. The United States and her allies increased the pressure on Iraq to comply with UN sanctions related to the Persian Gulf War. 
+
+SOURCES-CR:
+Metz, 1988; New York Times; 1/16/1943; 3/25/1985; 10/24/1999.
+
+SOURCES: 
+Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

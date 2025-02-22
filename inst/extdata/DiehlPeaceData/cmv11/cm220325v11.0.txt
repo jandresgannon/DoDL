@@ -1,0 +1,308 @@
+FILE: cm220325v11.0.txt
+DYAD: FRANCE-ITALY
+RIVALRY: RIV541
+DISPUTE(S): MID112 MID306 MID113 MID508 
+RIVALRY: RIV542
+DISPUTE(S): MID212 
+RIVALRY: RIV543
+DISPUTE(S): MID3330 MID316 
+RIVALRY: RIV544
+DISPUTE(S): MID1670 MID1671 MID1672 MID2303 MID620 MID3820 
+
+PS: 19009999-19430902 0.5 19570324-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad 
+
+PS-LAST-CHANGED: 20220222
+PS-LAST-CHECKED: 20220222
+
+Territorial-Maritime-Boundary Issues Variables 
+
+Pre-1900 MIDs: MID112 MID306 MID113 MID508 MID212 
+
+WWII MIDs: MID3820
+
+MID3330 
+
+TERRMID: MID3330 3 -- not territory 
+TERRMID-CER: MID3330 1 -- certain 
+TERRMID-NOTES: MID3330 from Gibler (2018), Italy wanted to expand its colonial holdings in Africa, but worried about possible French resistance. Italy conducted naval exercises in the Mediterranean to demonstrate their resolve and capabilities. Coded not territory because although the naval exercises were conducted with the intention of making Italy expand their colonial territory more easily, there was no specific disputed territory - that is, the dispute is not connected to any particular demand/piece of territory. 
+
+TERRLINK: MID3330 3 -- not third party link to territory 
+TERRLINK-CER: MID3330 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3330 3 -- not maritime 
+MARITMID-CER: MID3330 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3330 3 -- not islands 
+ISLMID-CER: MID3330 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3330 3 -- not civil war 
+CIVWARMID-CER: MID3330 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3330 3 -- not civil war link 
+CIVWARLINK-CER: MID3330 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3330 3 -- not coup 
+COUPMID-CER: MID3330 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3330 3 -- not coup link
+COUPLINK-CER: MID3330 1 -- certain 
+COUPLINK-NOTES: 
+
+MID316 
+
+TERRMID: MID316 3 -- not territory 
+TERRMID-CER: MID316 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID316 1 -- third party link to territorial MID
+TERRLINK-CER: MID316 1 -- certain 
+TERRLINK-NOTES: MID316 from Gibler (2018), this is connected to the Turko-Italian War. Turkey and Italy were at war over a territorial dispute, and here, Italy intercepted a French ship it suspected of carrying contraband to Turkey. Coded third party link to territorial dispute because this was connected to the Turko-Italian war, a territorial dispute outside of this dyad. 
+
+MARITMID: MID316 3 -- not maritime 
+MARITMID-CER: MID316 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID316 3 -- not islands 
+ISLMID-CER: MID316 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID316 3 -- not civil war 
+CIVWARMID-CER: MID316 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID316 3 -- not civil war link 
+CIVWARLINK-CER: MID316 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID316 3 -- not coup 
+COUPMID-CER: MID316 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID316 3 -- not coup link
+COUPLINK-CER: MID316 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1670 
+
+TERRMID: MID1670 1 -- territorial MID
+TERRMID-CER: MID1670 2 -- somewhat certain 
+TERRMID-NOTES: MID1670 France and Italy were involved in a long-running dispute over colonial territory in Africa. The countries experienced numerous MIDs during this time period over their African colonial holdings. Coded territorial MID because this MID was triggered by Italy's actions in Africa, but coded somewhat certain because there is no direct indication that this was caused by colonial contestation in Africa. 
+
+TERRLINK: MID1670 3 -- not third party link to territory 
+TERRLINK-CER: MID1670 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1670 3 -- not maritime 
+MARITMID-CER: MID1670 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1670 3 -- not islands 
+ISLMID-CER: MID1670 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1670 3 -- not civil war 
+CIVWARMID-CER: MID1670 1 -- certain 
+CIVWARMID-NOTES: MID1670 from Gibler (2018), a trip by an Italian official to Tunisia angered nationalist groups in Italy, and this led France to deploy troops to its border with Italy. Coded not civil war because the domestic unrest in Italy did not involve militarized rebel groups. 
+
+CIVWARLINK: MID1670 3 -- not civil war link 
+CIVWARLINK-CER: MID1670 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1670 3 -- not coup 
+COUPMID-CER: MID1670 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1670 3 -- not coup link
+COUPLINK-CER: MID1670 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1671 
+
+TERRMID: MID1671 3 -- not territory 
+TERRMID-CER: MID1671 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1671 3 -- not third party link to territory 
+TERRLINK-CER: MID1671 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1671 3 -- not maritime 
+MARITMID-CER: MID1671 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1671 3 -- not islands 
+ISLMID-CER: MID1671 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1671 3 -- not civil war 
+CIVWARMID-CER: MID1671 1 -- certain 
+CIVWARMID-NOTES: MID1671 from Gibler (2018), a French national tried to assassinate Benito Mussolini, and minor border clashes ensued when the countries mobilized along their border. Coded not civil war because the assassin was not connected to the French government, nor was he a part of a militarized rebel group. 
+
+CIVWARLINK: MID1671 3 -- not civil war link 
+CIVWARLINK-CER: MID1671 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1671 3 -- not coup 
+COUPMID-CER: MID1671 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1671 3 -- not coup link
+COUPLINK-CER: MID1671 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1672 
+
+TERRMID: MID1672 1 -- territorial MID
+TERRMID-CER: MID1672 1 -- certain 
+TERRMID-NOTES: MID1672 from Gibler (2018), this is connected to the issue of Tangier, a disputed city in Morocco to which several countries had claims. In 1923, UK, France, and Spain signed an agreement to create distinct administrative zones in Tangier, which Italy opposed because of its claims there. In 1927, Italy deployed warships to Tangier, making a show of force directed toward France, UK, and Spain. Coded territorial MID because France and Italy were both making a claim on Tangier here, and a show of force occurred that was connected to the disputed territory of Tangier.
+
+TERRLINK: MID1672 3 -- not third party link to territory
+TERRLINK-CER: MID1672 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1672 3 -- not maritime 
+MARITMID-CER: MID1672 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1672 3 -- not islands 
+ISLMID-CER: MID1672 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1672 3 -- not civil war 
+CIVWARMID-CER: MID1672 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1672 3 -- not civil war link 
+CIVWARLINK-CER: MID1672 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1672 3 -- not coup 
+COUPMID-CER: MID1672 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1672 3 -- not coup link
+COUPLINK-CER: MID1672 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2303 
+
+TERRMID: MID2303 3 -- not territory 
+TERRMID-CER: MID2303 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2303 3 -- not third party link to territory 
+TERRLINK-CER: MID2303 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2303 3 -- not maritime 
+MARITMID-CER: MID2303 1 -- certain 
+MARITMID-NOTES: MID2303 from Gibler (2018), in 1937, Italy attacked French shipping vessels in the Mediterranean, near Spain. Coded not maritime because the countries were not disputing a maritime border.
+
+ISLMID: MID2303 3 -- not islands 
+ISLMID-CER: MID2303 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2303 3 -- not civil war 
+CIVWARMID-CER: MID2303 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2303 3 -- not civil war link 
+CIVWARLINK-CER: MID2303 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2303 3 -- not coup 
+COUPMID-CER: MID2303 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2303 3 -- not coup link
+COUPLINK-CER: MID2303 1 -- certain 
+COUPLINK-NOTES: 
+
+MID620 
+
+TERRMID: MID620 3 -- not territory 
+TERRMID-CER: MID620 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID620 3 -- not third party link to territory 
+TERRLINK-CER: MID620 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID620 3 -- not maritime 
+MARITMID-CER: MID620 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID620 3 -- not islands 
+ISLMID-CER: MID620 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID620 3 -- civil war MID
+CIVWARMID-CER: MID620 1 -- certain 
+CIVWARMID-NOTES: MID620 Civil war is occurring in Spain - outside this dyad.
+
+CIVWARLINK: MID620 1 -- civil war link
+CIVWARLINK-CER: MID620 1 -- certain 
+CIVWARLINK-NOTES: MID620 from Gibler (2018), Italy was supporting General Franco and the Nationalists in the Spanish Civil War and threatened the UK and France with war if they attempted to stop Italy's involvement. Coded civil war MID because this is connected to the Spanish Civil War, outside this dyad.
+
+COUPMID: MID620 3 -- not coup 
+COUPMID-CER: MID620 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID620 3 -- not coup link
+COUPLINK-CER: MID620 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV544: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Italian naval ships seized and searched the French ships *Carthage* and *Manouba* between Marseilles and Tunis on January 16-18, 1912 during the Turkey-Italian war. The Italian naval ship *Fulmine seized and searched the French mail steamer *Tavignano* between Marseilles and Tunis, and the Italian naval ship *Canopo* fired on the Tunisian sailing vessels *Camouna* and *Gaulois* on January 25, 1912. France declared that Italian seizure and search of these ships in Tunisian territorial waters had violated international law. On February 3, 1912, France proposed that the dispute be submitted to an international commission of inquiry. The countries agreed to submit the disputes concerning the *Carthage* and *Manouba* to the *Permenent Court of Arbitration* (PCA) on March 6, 1912. France and Italy agreed on May 20, 1912 to submit the dispute concerning the *Tavignano* to a three-member ad hoc commission of inquiry (France, Italy, Britain) chaired by Captain J. R. Segrave of Britain. The commission of inquiry investigated the *Tavignano* incident from July 1 to July 23, 1912, when the commission issued an inconclusive report. France and Italy agreed to submit the dispute concerning the *Tavignano *to the PCA on November 8, 1912. France and Italy bilaterally settled the dispute concerning the *Tavignano* on May 3, 1913. The PCA issued a decision in favor of France on May 6, 1913, which provided for Italian payment to France for damages concerning the *Carthage* and *Manouba* incidents. France and Italy experienced a crisis concerning French control of Tunisia, Corsica, and other territories from November 30, 1938 to March 31, 1939. Italy declared war against France, and Italian troops invaded southern France on June 10, 1940. France and Italy agreed to a cessation of military hostilities on June 24, 1940.
+
+SOURCES-CM:
+*American Journal of International Law *(AJIL), 1913, 623-637; Bar-Yaacov, 1974, 142-156; Brecher and Wilkenfeld, 1997, 427-429; Langer, 1972, 1972, 1136-1137; Stuyt, 1990, 313-315.
+
+NARRATIVE-CR:
+The 19th century rivalry between France and Italy is centered around a disagreement over the fate of the Papal states and French support for a unified Italy. France and Italy (under control of Cavour) were allies throughout the rivalry period. In 1860 an Italian general operating independently of the Cavour government named Geribaldi launched an attack on Sicily (MID113) taking it by storm, displacing the Bourbon rulers and declaring himself dictator of Sicily (Killinger 2002). Following the sacking of the Bourbons in Sicily, Geribaldi declared his intentions to sack Rome. France, a catholic state was very sensitive regarding the independence of the Papal state from Italy and opposed such an attack. French forces were used to delay Geribaldi's troops (MID113). Napoleon pledged to establish a confederate government in Italy with the Pope at the head and to restore the exiled Italian Princes (Harper's Weekly October 1860). It was in this vein that France lent support to put down Geribaldi in the invasion of Calabria in September of 1860 (MID112).On the 29th of September Geribaldi took Calabria and the King of Naples had been ousted. Following the sacking of Calabria the Pope declared his willingness for an Italian confederation, which Napoleon supported. A final confrontation between France and Geribaldi came much later (1866) after two attacks on Rome by Geribaldi, which forced France to place troops in Rome for protection (MID508). Geribaldi had the backing of Austria to which France was engaged in conflict also. The advantage of backing the Papal government was two fold for France and was the beginning of hostilities between France and Austria which would erupt in the Franco-Prussian war of 1870 (Killinger 2002). 
+
+A separate conflict occurred between the Cavour government and the Bonapart government of France over Sardinia (MID306). Fearing an incoming Prussian army France negotiated a ceasefire (the Peace of Villfranca) with Austria regarding the territory known as Sardinia (Killinger 2002). The ceasefire was seen by Covour as an act of treason on behalf of France and one that invited reprisal. The issue was later settled when French support for Italian conquest of Sardinia was won over by the promise of Nice and Savoy. Following the conquest of the Bourbon territories and the territory of Sardinia, elections were held and Vittorio Emanuele II was made king of Italy in January of 1861.
+
+Hostilities between France and Italy flared in 1888 with French intensions to control the Italian Coast and French condemnation of Italian expansionism in Colonial Africa (Killinger). Tensions grew and Italians were injured in riots in Marseilles (MID212). 
+
+MID3330 was a small conflict in the larger scheme of WWI. Italian expansion into Tunisia was countered by French opposition on May 9th of 1911. France had been made the protector of Tunisia in the Tunisian Treaties (Nere 1975). It was a single day conflict and would be resolved with the end of the First World War. MID316 involved the death of a Tunisian child who was run over by an Italian Train operator. France held the Italian government responsible for the incident and there was no formal resolution to the issue but it did continue the hostility between the two powers over the colonial holding (www.tunisiadaily.com). 
+
+MID1670; MID1671 and MID1672 were all related to the rise of Italian Fascism and Italy's alignment with Germany in the Second World War. Tangier is a city in Morocco that was made an international zone under the control of France, Spain and Britain in 1923. Mussolini's policy of Italian expansion into Africa led to conflict with France in several occasions. All three conflicts were over Italian expansion into Morocco. Italy wanted control over the international zone. The events were settled in 1928 with the addition of Italy as a protectorate over Tangier (Killinger 2002). MID2303 was over Italian involvement in the Spanish Civil War. For Italy and Germany the Spanish Civil war was a chance to test out their new methods of Tank and Air warfare. France and Britain were concerned about the shifting balance of power into the Fascist state's favor. The conflict between the two powers would lead to further conflict in 1939 with the eruption of WWII MID620 and MID258 (Keiger 2001).
+
+The last series of MIDS ends with the capitulation of France to Germany/Italy during World War II. However, the conflict between France and Italy also included issues that predated the Second World War that have contributed to the motives of the two countries. The number for the last MID is MID3820 and ends on June 22 of 1940, which was the day that France surrendered to German and Italian forces (Nere 1975). Premier Paul Reynaud was in control of France leading to the surrender but resigned out of protest. Vice-Premier Philippe Petain succeeded him and agreed to the armistice with Germany and surrendered 3/5 of French territory to Axis control (Keiger 2001). Mussolini was in control of Italy's foreign affairs during this period and Hitler led the German forces. MID3820 is odd since it is a bilateral dispute. Italy has a war level-of-hostility while France is coded as no response.
+
+France and Italy shared several interests that provided room for conflict prior to the Second World War. First, following the First World War, France opposed Italy's attempt to increase its Navy size. According to the Washington agreement of 1922 Italy was within its rights to seek Naval parity but France insisted that Italy had only one theater that required a Navy while France had two. Therefore Italy's Navy need only be as large as the French Mediterranean fleet to achieve parity (Nere 1975).
+
+Second, Italy possessed a large colony of immigrants in the French controlled nation of Tunisia, which provided a source of tension. Until 1918 Italy and France had an agreement that granted the Italian immigrants special privileges that made it like a state within a state. However, France refused to renew this agreement in 1918, which infuriated Italy, and the Italian controlled neighboring country of Tripolitania (Nere 1975).
+
+Lastly there was conflict over the French possession of Ethiopia and specifically the port town of Djibouti. Djibouti was the only port that had access to the French rail network that ran throughout Africa (Nere 1975). Italy wanted control over the port, which would divide French controlled Africa in two parts and give Italy a strategically valuable position.
+
+Prior to WWII Mussolini rejected the Rome Agreement of 1935 and insisted on control over Djibouti, new management of the Suez Canal and recognition of the Italian immigrants in Tunisia. France categorically rejected these demands and soon after joined Britain in resisting Italian aggression near Greece. On April 13th of 1939 France and Britain sent troops to assist Greece against Italian troops in Albania and Rumania (Nere 1975).
+
+On May 10th of 1940 German and Italian forces advanced on France and within 6 weeks France signed the armistice granting axis control over French lands (Nere 1975). The French government was replaced with the fascist-sympathetic Vichy regime. However, French troops in Africa led by Charles de Gaulle continued to resist Italian and German forces maintaining French colonial holdings and later returned to set up a provisional government in liberated France (Thomas 1998; also see Grenville 1980).
+
+Italian desires for control over Ethiopia and Tunisia did not come to pass during this period and those territories remained under French control for the duration of the conflict and afterwards.
+
+SOURCES CR:
+Keiger 2001; Thomas 1998; Grenville 1980; Killinger 2002; Nere 1975
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

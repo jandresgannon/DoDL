@@ -1,0 +1,1995 @@
+FILE: cm365740v11.0.txt
+DYAD: RUSSIA/USSR-JAPAN
+RIVALRY: RIV11014
+DISPUTE(S): MID227 MID2721 MID106 MID16 MID131 MID180 MID197 MID2606 MID1177 MID2702 MID510 MID2722 MID3260 MID178 MID2995 MID182 MID2724 MID2994 MID409 MID2993 MID184 MID258 MID183 MID3207 MID2847 MID2852 MID2861 MID253 MID2873 MID1799 MID2882 MID2888 MID2893 MID2903 MID2911 MID2930 MID2925 MID2937 MID2726 MID365 MID2964 MID2727 MID2976 MID2229 MID2728 MID4042 MID4297 MID4222 MID4239 
+
+PS: 19009999-20209999 0.00
+
+PS-UPDATE2020: Frequent disputes through 2014 and unresolved territorial claims makes this a continuing rivalry. Under Prime Minister Abe, Japan makes some initiatives to Russia, but these are not reciprocated and the island disputes remains salient with no prospect of a friendship treaty. See https://carnegiemoscow.org/commentary/85574 and https://csis-website-prod.s3.amazonaws.com/s3fs-public/180402_Strategic_Japan_Yoko_Hirose_paper.pdf?hyrXAqS45pW4vaKWsrE7ZNbqvbfICkwN
+
+PS1800: 18610313-18999999 0.0
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220305
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID227 MID2721 MID106 MID16 MID131 
+
+WWI MIDs: MID197 MID2606 
+
+WWII MIDs: MID258 
+
+MID180 
+
+TERRMID: MID180 1 -- territorial MID
+TERRMID-CER: MID180 1 -- certain 
+TERRMID-NOTES: MID180 from Gibler 2018, this is the Russo-Japanese War in the early 20th century. Russia and Japan had claims in Manchuria and Korea. Russia began to push further into Korea, angering Japan. Japan demanded that Russia evacuate Manchuria and later declared war on Russia. Coded territorial MID because this was connected to territorial disputes in Manchuria and Japan. 
+
+TERRLINK: MID180 1 -- third party link to territorial MID
+TERRLINK-CER: MID180 1 -- certain 
+TERRLINK-NOTES: MID180 the Russo-Japanese War also involved a territorial dispute between Russia and Korea, outside this dyad. 
+
+MARITMID: MID180 3 -- not maritime 
+MARITMID-CER: MID180 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID180 3 -- not islands 
+ISLMID-CER: MID180 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID180 3 -- not civil war 
+CIVWARMID-CER: MID180 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID180 3 -- not civil war link 
+CIVWARLINK-CER: MID180 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID180 3 -- not coup 
+COUPMID-CER: MID180 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID180 3 -- not coup link
+COUPLINK-CER: MID180 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1177 
+
+TERRMID: MID1177 3 -- not territory 
+TERRMID-CER: MID1177 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1177 3 -- not third party link to territory 
+TERRLINK-CER: MID1177 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1177 3 -- not maritime 
+MARITMID-CER: MID1177 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1177 3 -- not islands 
+ISLMID-CER: MID1177 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1177 1 -- civil war MID
+CIVWARMID-CER: MID1177 3 -- uncertain 
+CIVWARMID-NOTES: MID1177 from Gibler, Miller, and Little 2016, rebels in Siberia attacked a Japanese unit that was part of the Allied intervention in the Russian Civil War. Coded civil war MID because this was connected to the Russian Civil War, and coded uncertain because GML recommend this case be dropped. Russia was cooperating with Japan in this incident, and they should therefore not be on opposite sides in this MID. 
+
+CIVWARLINK: MID1177 3 -- not civil war link 
+CIVWARLINK-CER: MID1177 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1177 3 -- not coup 
+COUPMID-CER: MID1177 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1177 3 -- not coup link
+COUPLINK-CER: MID1177 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2702 
+
+TERRMID: MID2702 3 -- not territory 
+TERRMID-CER: MID2702 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2702 3 -- not third party link to territory 
+TERRLINK-CER: MID2702 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2702 3 -- not maritime 
+MARITMID-CER: MID2702 3 -- uncertain 
+MARITMID-NOTES: MID2702 from Gibler, Miller, and Little 2016, Japan seized a Russian vessel in 2016. Coded not maritime because this was not connected to a maritime dispute, and coded uncertain because GML recommend this case be dropped since there is insufficient historical information on this MID. 
+
+ISLMID: MID2702 3 -- not islands 
+ISLMID-CER: MID2702 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2702 3 -- not civil war 
+CIVWARMID-CER: MID2702 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2702 3 -- not civil war link 
+CIVWARLINK-CER: MID2702 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2702 3 -- not coup 
+COUPMID-CER: MID2702 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2702 3 -- not coup link
+COUPLINK-CER: MID2702 1 -- certain 
+COUPLINK-NOTES: 
+
+MID510 
+
+TERRMID: MID510 3 -- not territory 
+TERRMID-CER: MID510 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID510 3 -- not third party link to territory 
+TERRLINK-CER: MID510 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID510 3 -- not maritime 
+MARITMID-CER: MID510 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID510 3 -- not islands 
+ISLMID-CER: MID510 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID510 1 -- civil war MID
+CIVWARMID-CER: MID510 1 -- certain 
+CIVWARMID-NOTES: MID510 from cm narrative, MID510 occurred from April of 1920 until October of 1922. Japanese forces land at Vladivostok, beginning Allied intervention in Siberia and eastern Russia. Coded civil war MID because this was connected to the Russian Civil War. 
+
+CIVWARLINK: MID510 3 -- not civil war link 
+CIVWARLINK-CER: MID510 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID510 3 -- not coup 
+COUPMID-CER: MID510 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID510 3 -- not coup link
+COUPLINK-CER: MID510 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2722 
+
+TERRMID: MID2722 3 -- not territory 
+TERRMID-CER: MID2722 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2722 3 -- not third party link to territory 
+TERRLINK-CER: MID2722 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2722 3 -- not maritime 
+MARITMID-CER: MID2722 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2722 3 -- not islands 
+ISLMID-CER: MID2722 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2722 1 -- civil war MID
+CIVWARMID-CER: MID2722 3 -- uncertain 
+CIVWARMID-NOTES: MID2722 from Gibler, Miller, and Little 2016, this MID is likely connected to MID510, but it has insufficient historical information. It seems to be connected to the Japanese intervention in the Russian Civil War. Coded uncertain because GML recommend the case be drooped due to lack of historical information. 
+
+CIVWARLINK: MID2722 3 -- not civil war link 
+CIVWARLINK-CER: MID2722 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2722 3 -- not coup 
+COUPMID-CER: MID2722 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2722 3 -- not coup link
+COUPLINK-CER: MID2722 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3260 
+
+TERRMID: MID3260 1 -- territorial MID
+TERRMID-CER: MID3260 1 -- certain 
+TERRMID-NOTES: MID3260 from Gibler 2018, MID3260 occurred in January of 1926. This bilateral dispute is coded as a threat to use force by Japan. Russia, Japan, and China each had claims on parts of Manchuria. The Soviets dominated in Manchuria for a long time, but as Japan grew in strength, tensions increased. Here, China was also attempting to gain greater control in Manchuria and Chinese soldiers often disrupted Soviet interests there via banditry. The Soviets issued a threat to China, and Japan responded with a threat to USSR to protect its holdings in Manchuria. Coded territorial MID because this was connected to a territorial dispute in Manchuria. 
+
+TERRLINK: MID3260 1 -- third party link to territory 
+TERRLINK-CER: MID3260 1 -- certain 
+TERRLINK-NOTES: MID3260 China also had claims to Manchuria at the time, and its territorial interests triggered this MID.
+
+MARITMID: MID3260 3 -- not maritime 
+MARITMID-CER: MID3260 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3260 3 -- not islands 
+ISLMID-CER: MID3260 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3260 3 -- not civil war 
+CIVWARMID-CER: MID3260 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3260 3 -- not civil war link 
+CIVWARLINK-CER: MID3260 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3260 3 -- not coup 
+COUPMID-CER: MID3260 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3260 3 -- not coup link
+COUPLINK-CER: MID3260 1 -- certain 
+COUPLINK-NOTES: 
+
+MID178 
+
+TERRMID: MID178 1 -- territorial MID
+TERRMID-CER: MID178 1 -- certain 
+TERRMID-NOTES: MID178 from Gibler 2018, Japan took over Manchuria and established a puppet state, threatening Russian railroad interests and prompting a Russian build up of troops on the border. Minor clashes occurred. Japan eventually negotiated a transfer of the railway to Japan. Coded territorial MID because this was connected to a territorial dispute in Manchuria between Japan and USSR. 
+
+TERRLINK: MID178 3 -- not third party link to territory 
+TERRLINK-CER: MID178 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID178 3 -- not maritime 
+MARITMID-CER: MID178 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID178 3 -- not islands 
+ISLMID-CER: MID178 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID178 3 -- not civil war 
+CIVWARMID-CER: MID178 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID178 3 -- not civil war link 
+CIVWARLINK-CER: MID178 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID178 3 -- not coup 
+COUPMID-CER: MID178 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID178 3 -- not coup link
+COUPLINK-CER: MID178 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2995 
+
+TERRMID: MID2995 1 -- territorial MID
+TERRMID-CER: MID2995 1 -- certain 
+TERRMID-NOTES: MID2995 from Gibler 2018, Japan detained two Soviet soldiers that crossed into Japanese territory in Manchuria. They later decided the men were political escapees and released them without returning them to USSR. Coded territorial MID because this was connected to a territorial dispute in Manchuria, and Japan captured the Soviets because they believed they were military personnel in the disputed area. 
+
+TERRLINK: MID2995 3 -- not third party link to territory 
+TERRLINK-CER: MID2995 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2995 3 -- not maritime 
+MARITMID-CER: MID2995 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2995 3 -- not islands 
+ISLMID-CER: MID2995 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2995 3 -- not civil war 
+CIVWARMID-CER: MID2995 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2995 3 -- not civil war link 
+CIVWARLINK-CER: MID2995 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2995 3 -- not coup 
+COUPMID-CER: MID2995 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2995 3 -- not coup link
+COUPLINK-CER: MID2995 1 -- certain 
+COUPLINK-NOTES: 
+
+MID182 
+
+TERRMID: MID182 3 -- not territory 
+TERRMID-CER: MID182 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID182 1 -- third party link to territorial MID
+TERRLINK-CER: MID182 1 -- certain 
+TERRLINK-NOTES: MID182 from Gibler 2018, Japan was still pursuing colonial expansionism in Mongolia, and Mongolia was receiving support from the Soviets. In 1936-1936, Japan fought with Mongolian troops along the Mongolian border. Soviet Union is pulled into this MID due to its support of Mongolia. Coded third party link to territorial MID because this was connected to a territorial dispute between Mongolia and Japan. 
+
+MARITMID: MID182 3 -- not maritime 
+MARITMID-CER: MID182 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID182 3 -- not islands 
+ISLMID-CER: MID182 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID182 3 -- not civil war 
+CIVWARMID-CER: MID182 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID182 3 -- not civil war link 
+CIVWARLINK-CER: MID182 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID182 3 -- not coup 
+COUPMID-CER: MID182 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID182 3 -- not coup link
+COUPLINK-CER: MID182 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2724 
+
+TERRMID: MID2724 1 -- territorial MID
+TERRMID-CER: MID2724 1 -- certain 
+TERRMID-NOTES: MID2724 from Gibler 2018, this is a series of border clashes along Japan and Russia's disputed Manchurian border. The countries agreed to set up a boundary commission to try to resolve the dispute. Coded territorial MID beause this was connected to a territorial dispute. 
+
+TERRLINK: MID2724 3 -- not third party link to territory 
+TERRLINK-CER: MID2724 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2724 3 -- not maritime 
+MARITMID-CER: MID2724 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2724 3 -- not islands 
+ISLMID-CER: MID2724 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2724 3 -- not civil war 
+CIVWARMID-CER: MID2724 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2724 3 -- not civil war link 
+CIVWARLINK-CER: MID2724 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2724 3 -- not coup 
+COUPMID-CER: MID2724 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2724 3 -- not coup link
+COUPLINK-CER: MID2724 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2994 
+
+TERRMID: MID2994 1 -- territorial MID
+TERRMID-CER: MID2994 1 -- certain 
+TERRMID-NOTES: MID2994 from cm narrative, this MID is similar to MID2724. A series of border clashes along the disputed Manchurian border between Russia and Japan occurred. Coded terriorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID2994 3 -- not third party link to territory 
+TERRLINK-CER: MID2994 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2994 3 -- not maritime 
+MARITMID-CER: MID2994 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2994 3 -- not islands 
+ISLMID-CER: MID2994 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2994 3 -- not civil war 
+CIVWARMID-CER: MID2994 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2994 3 -- not civil war link 
+CIVWARLINK-CER: MID2994 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2994 3 -- not coup 
+COUPMID-CER: MID2994 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2994 3 -- not coup link
+COUPLINK-CER: MID2994 1 -- certain 
+COUPLINK-NOTES: 
+
+MID409 
+
+TERRMID: MID409 1 -- territorial MID
+TERRMID-CER: MID409 1 -- certain 
+TERRMID-NOTES: MID409 from Gibler 2018, Japan and Russia disputed ownership of the Amur river, an inland river boundary. The Soviets harrassed Japanese vessels in the river and occupied islands in the disputed river. Japan occupied other islands, and the Soviets seized several Japanese vessels. Coded terriorial MID because this was connected to a dispute over an inland river boundary.
+
+TERRLINK: MID409 3 -- not third party link to territory 
+TERRLINK-CER: MID409 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID409 3 -- not maritime 
+MARITMID-CER: MID409 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID409 1 -- islands MID
+ISLMID-CER: MID409 1 -- certain 
+ISLMID-NOTES: MID409 from cm narrative, the islands in the disputed Amur River that the Soviets occupied were also disputed, so this MID has an islands dispute element as well. 
+
+CIVWARMID: MID409 3 -- not civil war 
+CIVWARMID-CER: MID409 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID409 3 -- not civil war link 
+CIVWARLINK-CER: MID409 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID409 3 -- not coup 
+COUPMID-CER: MID409 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID409 3 -- not coup link
+COUPLINK-CER: MID409 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2993 
+
+TERRMID: MID2993 3 -- not territory 
+TERRMID-CER: MID2993 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2993 3 -- not third party link to territory 
+TERRLINK-CER: MID2993 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2993 1 -- maritime MID
+MARITMID-CER: MID2993 1 -- certain 
+MARITMID-NOTES: MID2993 from cm narrative, MID2993 occurred 9/5-10/1937. This dispute was over fishing rights. The two states disputed the rights to fishing waters off the Siberian coast. The Soviets seized several Japanese fishing vessels. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2993 1 -- islands MID
+ISLMID-CER: MID2993 1 -- certain 
+ISLMID-NOTES: MID2993 from cm narrative, another incident in the dispute is the Japanese presence on North Sakhalin Island. Coded islands MID because this is connected to a dispte over islands in the disputed waters off Siberia. 
+
+CIVWARMID: MID2993 3 -- not civil war 
+CIVWARMID-CER: MID2993 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2993 3 -- not civil war link 
+CIVWARLINK-CER: MID2993 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2993 3 -- not coup 
+COUPMID-CER: MID2993 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2993 3 -- not coup link
+COUPLINK-CER: MID2993 1 -- certain 
+COUPLINK-NOTES: 
+
+MID184 
+
+TERRMID: MID184 1 -- territorial MID
+TERRMID-CER: MID184 1 -- certain 
+TERRMID-NOTES: MID184 from Gibler 2018, USRSR and Japan disputed the area of Changkufeng, and this led to several clashes between the countries. In 1938, the Soviets fortified the border, and Japan attacked the fortifications. The Soviets constructed new positions and launched a counterattack. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID184 3 -- not third party link to territory 
+TERRLINK-CER: MID184 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID184 3 -- not maritime 
+MARITMID-CER: MID184 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID184 3 -- not islands 
+ISLMID-CER: MID184 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID184 3 -- not civil war 
+CIVWARMID-CER: MID184 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID184 3 -- not civil war link 
+CIVWARLINK-CER: MID184 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID184 3 -- not coup 
+COUPMID-CER: MID184 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID184 3 -- not coup link
+COUPLINK-CER: MID184 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3207 
+
+TERRMID: MID3207 3 -- not territory 
+TERRMID-CER: MID3207 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3207 3 -- not third party link to territory 
+TERRLINK-CER: MID3207 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3207 1 -- maritime MID
+MARITMID-CER: MID3207 1 -- certain 
+MARITMID-NOTES: MID3207 Per Huth and Allee 2002, the dispute over these islands involves disputed fishing rights. There is therefore a maritime boundary issue present here since the states dispute sovereignty over the islands because of their maritime boundary implications. See ISLMID-NOTES. 
+
+ISLMID: MID3207 1 -- islands MID
+ISLMID-CER: MID3207 1 -- certain 
+ISLMID-NOTES: MID3207 from cm narrative, MID3207 occurs from October 17, 1953 to June 20, 1954. This dispute has to do with the disputed islands north of Japan (the Habomai group, Shikotan, Kunashiri and Etorofu.) On October 19, the Soviets seized a fishing boat near Kunashir Island. Two other fishing boats were seized near the Kurile Islands. During this period over 100 Japanese fishing boats were seized by the Soviets in the coastal waters near these islands. Coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID3207 3 -- not civil war 
+CIVWARMID-CER: MID3207 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3207 3 -- not civil war link 
+CIVWARLINK-CER: MID3207 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3207 3 -- not coup 
+COUPMID-CER: MID3207 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3207 3 -- not coup link
+COUPLINK-CER: MID3207 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2847 
+
+TERRMID: MID2847 3 -- not territory 
+TERRMID-CER: MID2847 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2847 3 -- not third party link to territory 
+TERRLINK-CER: MID2847 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2847 3 -- not maritime 
+MARITMID-CER: MID2847 1 -- certain 
+MARITMID-NOTES: MID2847 from cm narrative, MID2847 occurred from March 24, 1955 until November 19, 1957. This dispute occurred during the Japanese-Soviet Peace Teaty Negotiations. Japanese and Soviet representatives held negotiations in London from June 1, 1955 to March 20, 1956. The Soviet Union announced restrictions of Japanese fishing vessels in Soviet territorial waters on March 21, 1956, but the countries signed the *Convention on Fishing in the Open Seas of the North-West Pacific* in Moscow on May 14, 1956. The parties held negotiations in Moscow from July 31, 1956 to August 13, 1956. Japanese and Soviet representatives signed an agreement in Moscow on September 29, 1956, which provided for the termination of the state of war between the countries. Japan and the Soviet Union formally ended the state of war and resumed diplomatic relations on December 12, 1956. During these negotiations the Soviets threatened the Japanese by establishing large bases in Sakhalin Island very close to Japanese territory. Coded not maritime because this was not connected to a maritime boundary dispute but rather to fishing rights. 
+
+ISLMID: MID2847 3 -- not islands 
+ISLMID-CER: MID2847 1 -- certain 
+ISLMID-NOTES: MID2847 The Soviets threatened to occupy Sakhalin Island during this dispute, but this island was not disputed.
+
+CIVWARMID: MID2847 3 -- not civil war 
+CIVWARMID-CER: MID2847 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2847 3 -- not civil war link 
+CIVWARLINK-CER: MID2847 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2847 3 -- not coup 
+COUPMID-CER: MID2847 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2847 3 -- not coup link
+COUPLINK-CER: MID2847 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2852 
+
+TERRMID: MID2852 3 -- not territory 
+TERRMID-CER: MID2852 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2852 3 -- not third party link to territory 
+TERRLINK-CER: MID2852 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2852 1 -- maritime MID
+MARITMID-CER: MID2852 1 -- certain 
+MARITMID-NOTES: MID2852 from cm narrative, MID2852 occurred from June 4-October 5, 1958. During this period the Soviets seized a number of Japanese fishing boats near disputed islands north of Japan. Coded maritime MID because the waters around the disputed islands were disputed. 
+
+ISLMID: MID2852 1 -- islands MID
+ISLMID-CER: MID2852 1 -- certain 
+ISLMID-NOTES: MID2852 coded islands MID because this was connected to disputed islands. 
+
+CIVWARMID: MID2852 3 -- not civil war 
+CIVWARMID-CER: MID2852 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2852 3 -- not civil war link 
+CIVWARLINK-CER: MID2852 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2852 3 -- not coup 
+COUPMID-CER: MID2852 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2852 3 -- not coup link
+COUPLINK-CER: MID2852 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2861 
+
+TERRMID: MID2861 3 -- not territory 
+TERRMID-CER: MID2861 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2861 3 -- not third party link to territory 
+TERRLINK-CER: MID2861 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2861 1 -- maritime MID 
+MARITMID-CER: MID2861 1 -- certain 
+MARITMID-NOTES: MID2861 from cm narrative and Gibler 2018, in 1959 the Soviets began seizing all Japanese ships within 12 miles of its shore. Japan protested but the USSR kept seizing ships. From cm narrative, Japan and USSR had numerous disputed maritime areas connected to fishing rights at this time, and the waters in which the seizures occurred were disputed. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2861 3 -- not islands 
+ISLMID-CER: MID2861 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2861 3 -- not civil war 
+CIVWARMID-CER: MID2861 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2861 3 -- not civil war link 
+CIVWARLINK-CER: MID2861 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2861 3 -- not coup 
+COUPMID-CER: MID2861 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2861 3 -- not coup link
+COUPLINK-CER: MID2861 1 -- certain 
+COUPLINK-NOTES: 
+
+MID253 
+
+TERRMID: MID253 3 -- not territory 
+TERRMID-CER: MID253 1 -- certain 
+TERRMID-NOTES: MID253 from Gibler 2018, in 1960 the Soviets downed a US recon plane and detained the 4 crew members. The Soviets protested US actions in Soviet airspace, attempted to pursue a solution through the UN, and were blocked from doing so. Japan is pulled into this MID because they supported the US and allowed the US to use their territory for bases from which to fly the recon flights. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID253 3 -- not third party link to territory 
+TERRLINK-CER: MID253 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID253 3 -- not maritime 
+MARITMID-CER: MID253 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID253 3 -- not islands 
+ISLMID-CER: MID253 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID253 3 -- not civil war 
+CIVWARMID-CER: MID253 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID253 3 -- not civil war link 
+CIVWARLINK-CER: MID253 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID253 3 -- not coup 
+COUPMID-CER: MID253 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID253 3 -- not coup link
+COUPLINK-CER: MID253 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2873 
+
+TERRMID: MID2873 3 -- not territory 
+TERRMID-CER: MID2873 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2873 3 -- not third party link to territory 
+TERRLINK-CER: MID2873 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2873 1 -- maritime MID
+MARITMID-CER: MID2873 1 -- certain 
+MARITMID-NOTES: MID2873 coded maritime MID because, per cm narrative and Gibler 2018, the islands were disputed because of maritime boundary implications. See ISLMID-NOTES. 
+
+ISLMID: MID2873 1 -- islands MID
+ISLMID-CER: MID2873 1 -- certain 
+ISLMID-NOTES: MID2873 from Gibler 2018, in 1960 the Soviets seized Japanese fishing vessels that approached disputed islands that the Soviets had occupied since WWII but that Japan also claimed. Japan protested. Coded islands MID because this was connected to sovereignty over disputed islands. 
+
+CIVWARMID: MID2873 3 -- not civil war 
+CIVWARMID-CER: MID2873 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2873 3 -- not civil war link 
+CIVWARLINK-CER: MID2873 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2873 3 -- not coup 
+COUPMID-CER: MID2873 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2873 3 -- not coup link
+COUPLINK-CER: MID2873 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1799 
+
+TERRMID: MID1799 3 -- not territory 
+TERRMID-CER: MID1799 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1799 3 -- not third party link to territory 
+TERRLINK-CER: MID1799 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1799 3 -- not maritime 
+MARITMID-CER: MID1799 1 -- certain 
+MARITMID-NOTES: MID1799 from Gibler 2018, Japan and USSR reached an agreement on where fishermen from each country could fish, but Japanese fishermen continued fishing in Soviet waters. Many fishing vessels were seized by SU. Japan protested extended detention periods. Coded not maritime because this was not connected to a maritime bondary dispute. 
+
+ISLMID: MID1799 3 -- not islands 
+ISLMID-CER: MID1799 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1799 3 -- not civil war 
+CIVWARMID-CER: MID1799 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1799 3 -- not civil war link 
+CIVWARLINK-CER: MID1799 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1799 3 -- not coup 
+COUPMID-CER: MID1799 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1799 3 -- not coup link
+COUPLINK-CER: MID1799 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2882 
+
+TERRMID: MID2882 3 -- not territory 
+TERRMID-CER: MID2882 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2882 3 -- not third party link to territory 
+TERRLINK-CER: MID2882 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2882 1 -- maritime MID
+MARITMID-CER: MID2882 3 -- uncertain 
+MARITMID-NOTES: MID2882 from Gibler, Miller, and Little 2016, the Soviets seized several Japanese fishing vessels in 1961. This occurred in the disputed waters near Hokkaido. Seizures of vessels were common in these waters as part of the maritime dispute. Coded maritime MID because this was connected to a maritime boundary dispute, but coded uncertain because GML recommend this case be dropped since Japan did not protest. 
+
+ISLMID: MID2882 3 -- not islands 
+ISLMID-CER: MID2882 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2882 3 -- not civil war 
+CIVWARMID-CER: MID2882 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2882 3 -- not civil war link 
+CIVWARLINK-CER: MID2882 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2882 3 -- not coup 
+COUPMID-CER: MID2882 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2882 3 -- not coup link
+COUPLINK-CER: MID2882 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2888 
+
+TERRMID: MID2888 3 -- not territory 
+TERRMID-CER: MID2888 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2888 3 -- not third party link to territory 
+TERRLINK-CER: MID2888 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2888 1 -- maritime MID
+MARITMID-CER: MID2888 1 -- certain 
+MARITMID-NOTES: MID2888 from Gibler 2018, the Soviets seized many Japanese fishing boats in 1962. Japan protested. Per cm narrative, the seizures occurred in disputed waters near the Hokkaido islands. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2888 3 -- not islands 
+ISLMID-CER: MID2888 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2888 3 -- not civil war 
+CIVWARMID-CER: MID2888 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2888 3 -- not civil war link 
+CIVWARLINK-CER: MID2888 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2888 3 -- not coup 
+COUPMID-CER: MID2888 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2888 3 -- not coup link
+COUPLINK-CER: MID2888 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2893 
+
+TERRMID: MID2893 3 -- not territory 
+TERRMID-CER: MID2893 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2893 3 -- not third party link to territory 
+TERRLINK-CER: MID2893 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2893 3 -- not maritime 
+MARITMID-CER: MID2893 3 -- uncertain 
+MARITMID-NOTES: MID2893 from Gibler, Miller, and Little 2016, USSR seized a Japanese fishing vessel illegally fishing in Soviet waters. Coded not maritime because this was not connected to a maritime boundary dispute, and coded uncertain because GML recommend this case be dropped since Japan did not protest. 
+
+ISLMID: MID2893 3 -- not islands 
+ISLMID-CER: MID2893 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2893 3 -- not civil war 
+CIVWARMID-CER: MID2893 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2893 3 -- not civil war link 
+CIVWARLINK-CER: MID2893 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2893 3 -- not coup 
+COUPMID-CER: MID2893 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2893 3 -- not coup link
+COUPLINK-CER: MID2893 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2903 
+
+TERRMID: MID2903 3 -- not territory 
+TERRMID-CER: MID2903 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2903 3 -- not third party link to territory 
+TERRLINK-CER: MID2903 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2903 1 -- maritime MID
+MARITMID-CER: MID2903 3 -- uncertain 
+MARITMID-NOTES: MID2903 from Gibler, Miller, and Little 2016, USSR seized Japanese fishing vessels that were fishing in disputed waters. Coded maritime MID because this was connected to a maritime boundary dispute, but coded uncertain because GML recommend this case be dropped since Japan did not protest. 
+
+ISLMID: MID2903 3 -- not islands 
+ISLMID-CER: MID2903 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2903 3 -- not civil war 
+CIVWARMID-CER: MID2903 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2903 3 -- not civil war link 
+CIVWARLINK-CER: MID2903 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2903 3 -- not coup 
+COUPMID-CER: MID2903 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2903 3 -- not coup link
+COUPLINK-CER: MID2903 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2911 
+
+TERRMID: MID2911 3 -- not territory 
+TERRMID-CER: MID2911 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2911 3 -- not third party link to territory 
+TERRLINK-CER: MID2911 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2911 1 -- maritime MID
+MARITMID-CER: MID2911 3 -- uncertain 
+MARITMID-NOTES: MID2911 from Gibler, Miller, and Little 2016, the Soviets seized Japanese fishing vessels that were fishing in disputed waters. Coded maritime MID because this was connected to a maritime boundary dispute, but coded uncertain because GML recommend this case be dropped since Japan did not protest. 
+
+ISLMID: MID2911 3 -- not islands 
+ISLMID-CER: MID2911 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2911 3 -- not civil war 
+CIVWARMID-CER: MID2911 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2911 3 -- not civil war link 
+CIVWARLINK-CER: MID2911 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2911 3 -- not coup 
+COUPMID-CER: MID2911 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2911 3 -- not coup link
+COUPLINK-CER: MID2911 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2930 
+
+TERRMID: MID2930 3 -- not territory 
+TERRMID-CER: MID2930 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2930 3 -- not third party link to territory 
+TERRLINK-CER: MID2930 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2930 3 -- not maritime 
+MARITMID-CER: MID2930 1 -- certain 
+MARITMID-NOTES: MID2930 from cm narrative, occurred in May of 1967. The US was conducting naval exercises with Japan and South Korea within a few hundred miles of Soviet territory. USSR ships and warplanes responded by conducting simultaneous exercises, and Soviet ships got so close to US warships that collisions occurred. Coded not maritime because although this was a naval flare-up, this was not connected to a maritime dispute between Japan and SU. Thes were military excercises and connected to Cold War tensions. 
+
+ISLMID: MID2930 3 -- not islands 
+ISLMID-CER: MID2930 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2930 3 -- not civil war 
+CIVWARMID-CER: MID2930 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2930 3 -- not civil war link 
+CIVWARLINK-CER: MID2930 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2930 3 -- not coup 
+COUPMID-CER: MID2930 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2930 3 -- not coup link
+COUPLINK-CER: MID2930 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2925 
+
+TERRMID: MID2925 3 -- not territory 
+TERRMID-CER: MID2925 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2925 3 -- not third party link to territory 
+TERRLINK-CER: MID2925 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2925 1 -- maritime MID
+MARITMID-CER: MID2925 1 -- certain 
+MARITMID-NOTES: MID2925 from cm narrative, MID2925 occurred from September 28, 1968 until November 8, 1968. This is a dispute over access to fishing waters. The Japanese fish the waters near the Kurile Islands heavily. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2925 3 -- not islands
+ISLMID-CER: MID2925 1 -- certain 
+ISLMID-NOTES: MID2925 the waters involved in this dispute are off the coast of disputed islands, but the islands themselves are not the center of this MID; only the disputed waters are. 
+
+CIVWARMID: MID2925 3 -- not civil war 
+CIVWARMID-CER: MID2925 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2925 3 -- not civil war link 
+CIVWARLINK-CER: MID2925 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2925 3 -- not coup 
+COUPMID-CER: MID2925 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2925 3 -- not coup link
+COUPLINK-CER: MID2925 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2937 
+
+TERRMID: MID2937 3 -- not territory 
+TERRMID-CER: MID2937 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2937 3 -- not third party link to territory 
+TERRLINK-CER: MID2937 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2937 1 -- maritime MID
+MARITMID-CER: MID2937 1 -- certain 
+MARITMID-NOTES: MID2937 from Gibler 2018, a Soviet vessel rammed a Japanese fishing vessel in disputed waters and accused it of violating USSR maritime borders. Japan anounced its intentions to fortify a port near the disputed waters to protect its fishing vessels. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2937 3 -- not islands 
+ISLMID-CER: MID2937 1 -- certain 
+ISLMID-NOTES: MID2937 the disputed waters were off the coast of disputed islands, but the islands themselves were not the center of this dispute. 
+
+CIVWARMID: MID2937 3 -- not civil war 
+CIVWARMID-CER: MID2937 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2937 3 -- not civil war link 
+CIVWARLINK-CER: MID2937 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2937 3 -- not coup 
+COUPMID-CER: MID2937 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2937 3 -- not coup link
+COUPLINK-CER: MID2937 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2726 
+
+TERRMID: MID2726 3 -- not territory 
+TERRMID-CER: MID2726 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2726 3 -- not third party link to territory 
+TERRLINK-CER: MID2726 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2726 3 -- not maritime 
+MARITMID-CER: MID2726 3 -- uncertain 
+MARITMID-NOTES: MID2726 from Gibler, Miller, and Little 2016, the Soviets engaged in military exercises in 1975. Coded not maritime because although USSR and Japan were disputing a maritime boundary, this was not connected to a boundary dispute. Coded uncertain because GML recommend the case be dropped since no country was the target of the exercises. 
+
+ISLMID: MID2726 3 -- not islands 
+ISLMID-CER: MID2726 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2726 3 -- not civil war 
+CIVWARMID-CER: MID2726 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2726 3 -- not civil war link 
+CIVWARLINK-CER: MID2726 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2726 3 -- not coup 
+COUPMID-CER: MID2726 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2726 3 -- not coup link
+COUPLINK-CER: MID2726 1 -- certain 
+COUPLINK-NOTES: 
+
+MID365 
+
+TERRMID: MID365 3 -- not territory 
+TERRMID-CER: MID365 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID365 3 -- not third party link to territory 
+TERRLINK-CER: MID365 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID365 3 -- not maritime 
+MARITMID-CER: MID365 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID365 3 -- not islands 
+ISLMID-CER: MID365 1 -- certain 
+ISLMID-NOTES: MID365 from Gibler 2018, a Soviet pilot landed on Hokkaido island and sought to defect to the USA. Japan, which had a base on the island, dismantled the plane to the objection of the Soviets. The pilot was eventually granted asylum in the US. Coded not islands because this island was not disputed. This was connected to Cold War tensions, not to a boundary/sovereignty dispute. 
+
+CIVWARMID: MID365 3 -- not civil war 
+CIVWARMID-CER: MID365 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID365 3 -- not civil war link 
+CIVWARLINK-CER: MID365 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID365 3 -- not coup 
+COUPMID-CER: MID365 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID365 3 -- not coup link
+COUPLINK-CER: MID365 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2964 
+
+TERRMID: MID2964 3 -- not territory 
+TERRMID-CER: MID2964 1 -- certain 
+TERRMID-NOTES: MID2964 from Gibler 2018, Soviet bombers violated Japanese airspace in 1977. Japan scrambled fighter planes in response. Coded not territory beacuse this was not connected to a boundary dispute. 
+
+TERRLINK: MID2964 3 -- not third party link to territory 
+TERRLINK-CER: MID2964 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2964 3 -- not maritime 
+MARITMID-CER: MID2964 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2964 3 -- not islands 
+ISLMID-CER: MID2964 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2964 3 -- not civil war 
+CIVWARMID-CER: MID2964 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2964 3 -- not civil war link 
+CIVWARLINK-CER: MID2964 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2964 3 -- not coup 
+COUPMID-CER: MID2964 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2964 3 -- not coup link
+COUPLINK-CER: MID2964 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2727 
+
+TERRMID: MID2727 3 -- not territory 
+TERRMID-CER: MID2727 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2727 3 -- not third party link to territory 
+TERRLINK-CER: MID2727 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2727 1 -- maritime MID
+MARITMID-CER: MID2727 1 -- certain 
+MARITMID-NOTES: MID2727 per cm narrative, the islands involved in this MID, the disputed Kurile islands, are disputed due to maritime boundary implications. Also, some of the military maneuvers that constitute this MID occur in the disputed waters. 
+
+ISLMID: MID2727 1 -- islands MID
+ISLMID-CER: MID2727 1 -- certain 
+ISLMID-NOTES: MID2727 from Gibler 2018, the Soviets began military maneuvers on and around an island disputed by USSR and Japan, and Japan protested. Coded islands MID because this was connected to an islands dispute. 
+
+CIVWARMID: MID2727 3 -- not civil war 
+CIVWARMID-CER: MID2727 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2727 3 -- not civil war link 
+CIVWARLINK-CER: MID2727 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2727 3 -- not coup 
+COUPMID-CER: MID2727 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2727 3 -- not coup link
+COUPLINK-CER: MID2727 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2976 
+
+TERRMID: MID2976 3 -- not territory 
+TERRMID-CER: MID2976 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2976 3 -- not third party link to territory 
+TERRLINK-CER: MID2976 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2976 3 -- not maritime 
+MARITMID-CER: MID2976 1 -- certain 
+MARITMID-NOTES: MID2976 from Gibler 2018, Japan intercepted a Soviet Union transport plane that violated Japanese airspace while returning from Vietnam. Although Japan and USSR had maritime disputes in connection to disputed islands, per New York Times 4/4/1982, this incident occurred over the island of Kyushu, which was not disputed. Coded not maritime because this was not connected to a maritime boundary dispute. 
+
+ISLMID: MID2976 3 -- not islands 
+ISLMID-CER: MID2976 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2976 3 -- not civil war 
+CIVWARMID-CER: MID2976 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2976 3 -- not civil war link 
+CIVWARLINK-CER: MID2976 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2976 3 -- not coup 
+COUPMID-CER: MID2976 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2976 3 -- not coup link
+COUPLINK-CER: MID2976 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2229 
+
+TERRMID: MID2229 3 -- not territory 
+TERRMID-CER: MID2229 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2229 3 -- not third party link to territory 
+TERRLINK-CER: MID2229 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2229 1 -- maritime MID
+MARITMID-CER: MID2229 1 -- certain 
+MARITMID-NOTES: MID2229 from cm narrative, the Kurile Islands are disputed due to maritime boundary implications, making this also a maritime MID. See ISLMID-NOTES. 
+
+ISLMID: MID2229 1 -- islands MID
+ISLMID-CER: MID2229 1 -- certain 
+ISLMID-NOTES: MID2229 this is a multilateral MID involving US and Japan vs. USSR. Japan and USSR disputed sovereignty over the Kurile Islands (Elleman, Nichols, and Ouimet 1998). From cm narrative, this MID is known as the "Militarization of Kuril Islands." This MID involves a show of planes between US and USSR and a public US commitment to deploy 50 planes to Honshu, a Japanese island, by 1985. USSR protested but took no action. Japan also deployed planes to the disputed island. Coded islands MID because this was connected to an islands dispute. 
+
+CIVWARMID: MID2229 3 -- not civil war 
+CIVWARMID-CER: MID2229 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2229 3 -- not civil war link 
+CIVWARLINK-CER: MID2229 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2229 3 -- not coup 
+COUPMID-CER: MID2229 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2229 3 -- not coup link
+COUPLINK-CER: MID2229 1 -- certain 
+COUPLINK-NOTES:
+
+MID2728 
+
+TERRMID: MID2728 3 -- not territory 
+TERRMID-CER: MID2728 1 -- certain 
+TERRMID-NOTES: MID2728 from Gibler 2018, Soviet planes violated Japanese airspace, and Japan scarmbled jets in response. Japan formally protested the violation of their airspace. Coded not territory because this was not connected to a boundary dispute. 
+
+TERRLINK: MID2728 3 -- not third party link to territory 
+TERRLINK-CER: MID2728 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2728 3 -- not maritime 
+MARITMID-CER: MID2728 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2728 3 -- not islands 
+ISLMID-CER: MID2728 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2728 3 -- not civil war 
+CIVWARMID-CER: MID2728 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2728 3 -- not civil war link 
+CIVWARLINK-CER: MID2728 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2728 3 -- not coup 
+COUPMID-CER: MID2728 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2728 3 -- not coup link
+COUPLINK-CER: MID2728 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4042 
+
+TERRMID: MID4042 3 -- not territory 
+TERRMID-CER: MID4042 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4042 3 -- not third party link to territory 
+TERRLINK-CER: MID4042 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4042 1 -- maritime MID
+MARITMID-CER: MID4042 1 -- certain 
+MARITMID-NOTES: MID4042 from Gibler 2018, Russia seized Japanese fishing vessels in disputed waters near disputed islands. The Soviets also violated Japanese airspace and Japan scrambled jets in response. Coded maritime MID because this was connected to disputed waters. 
+
+ISLMID: MID4042 3 -- not islands 
+ISLMID-CER: MID4042 1 -- certain 
+ISLMID-NOTES: MID4042 the islands near the waters were also disputed, but the islands themselves were not connected to this dispute. 
+
+CIVWARMID: MID4042 3 -- not civil war 
+CIVWARMID-CER: MID4042 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4042 3 -- not civil war link 
+CIVWARLINK-CER: MID4042 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4042 3 -- not coup 
+COUPMID-CER: MID4042 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4042 3 -- not coup link
+COUPLINK-CER: MID4042 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4297 
+
+TERRMID: MID4297 3 -- not territory 
+TERRMID-CER: MID4297 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4297 3 -- not third party link to territory 
+TERRLINK-CER: MID4297 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4297 1 -- maritime MID
+MARITMID-CER: MID4297 1 -- certain 
+MARITMID-NOTES: MID4297 from Gibler 2018, Russia seized several Japanese trawlers in disputed waters, and Japan protested. The countries later agreed to try and resolve the maritime boundary dispute. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID4297 3 -- not islands 
+ISLMID-CER: MID4297 1 -- certain 
+ISLMID-NOTES: MID4297 from Gibler 2018, while most events in this MID occur in and in connection to disputed waters, this MID also involves diplomats discussing a disputed island near the waters that has maritime boundary implications. The officials discussed settling the disputed islands issue to prevent future maritime incidents. Coded not islands MID because the island dispute does not give rise to or feature in the events of the MID (for similar effect, see MID4222). 
+
+CIVWARMID: MID4297 3 -- not civil war 
+CIVWARMID-CER: MID4297 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4297 3 -- not civil war link 
+CIVWARLINK-CER: MID4297 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4297 3 -- not coup 
+COUPMID-CER: MID4297 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4297 3 -- not coup link
+COUPLINK-CER: MID4297 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4222 
+
+TERRMID: MID4222 3 -- not territory 
+TERRMID-CER: MID4222 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4222 3 -- not third party link to territory 
+TERRLINK-CER: MID4222 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4222 1 -- maritime MID
+MARITMID-CER: MID4222 1 -- certain 
+MARITMID-NOTES: MID4222 from cm narrative, a Russian coast guard vessel fired at, and subsequently seized a Japanese fishing trawler on April 21, 2000 in the region of the disputed southern Kurile islands. The Japanese authorities indicated that the Japanese fishermen had never left the 200mile Japanese economic zone. However, the Russian officials legitimized the firing and seizure of the Russian coast guards, saying that the Japanese vessel disobeyed orders from a Russian patrol boat to stop for inspection. According to them, the Japanese vessel entered the Russian economic zone and was seized by the Russian border guards while it was escaping from the Russian economic zone into the neutral waters. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID4222 3 -- not islands 
+ISLMID-CER: MID4222 1 -- certain 
+ISLMID-NOTES: MID4222 although the events of this mid occur in the region of a disputed island, the island itself does not feature in or motivate them. 
+
+CIVWARMID: MID4222 3 -- not civil war 
+CIVWARMID-CER: MID4222 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4222 3 -- not civil war link 
+CIVWARLINK-CER: MID4222 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4222 3 -- not coup 
+COUPMID-CER: MID4222 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4222 3 -- not coup link
+COUPLINK-CER: MID4222 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4239 
+
+TERRMID: MID4239 3 -- not territory 
+TERRMID-CER: MID4239 1 -- certain 
+TERRMID-NOTES: MID4239 from cm narrative, Russian bombers violated Japanese airspace. Japan sent fighters to intercept the Russian planes. Coded not territory because this was not connected to a boundary dispute. 
+
+TERRLINK: MID4239 3 -- not third party link to territory 
+TERRLINK-CER: MID4239 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4239 1 -- maritime MID
+MARITMID-CER: MID4239 1 -- certain 
+MARITMID-NOTES: MID4239 from Deutsche Presse-Agentur 2/14/2001, this incident occurred over disputed waters near the Kuril islands. Sovereignty over this airspace is connected to sovereignty over the disputed waters, so this is coded maritime MID. 
+
+ISLMID: MID4239 3 -- not islands 
+ISLMID-CER: MID4239 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4239 3 -- not civil war 
+CIVWARMID-CER: MID4239 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4239 3 -- not civil war link 
+CIVWARLINK-CER: MID4239 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4239 3 -- not coup 
+COUPMID-CER: MID4239 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4239 3 -- not coup link
+COUPLINK-CER: MID4239 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4475 
+
+TERRMID: MID4475 3 -- not territory 
+TERRMID-CER: MID4475 1 -- certain 
+TERRMID-NOTES: MID4475 from cm narrative, a Russian military transport plane violated Japanese airspace several times. Japan scrambled fighters in response. Coded not territory because this is not connected to a boundary dispute. 
+
+TERRLINK: MID4475 3 -- not third party link to territory 
+TERRLINK-CER: MID4475 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4475 3 -- not maritime 
+MARITMID-CER: MID4475 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4475 3 -- not islands 
+ISLMID-CER: MID4475 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4475 3 -- not civil war 
+CIVWARMID-CER: MID4475 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4475 3 -- not civil war link 
+CIVWARLINK-CER: MID4475 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4475 3 -- not coup 
+COUPMID-CER: MID4475 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4475 3 -- not coup link
+COUPLINK-CER: MID4475 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4477 
+
+TERRMID: MID4477 3 -- not territory 
+TERRMID-CER: MID4477 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4477 3 -- not third party link to territory 
+TERRLINK-CER: MID4477 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4477 1 -- maritime MID
+MARITMID-CER: MID4477 1 -- certain 
+MARITMID-NOTES: MID4477 from cm narrative, a Russian patrol boat opened fire on a Japanese fishing vessel in the waters near the disputed Kaigara Islands, killing one of the crew in 2006. Coded maritime MID because this was connected to disputed waters. 
+
+ISLMID: MID4477 3 -- not islands 
+ISLMID-CER: MID4477 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4477 3 -- not civil war 
+CIVWARMID-CER: MID4477 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4477 3 -- not civil war link 
+CIVWARLINK-CER: MID4477 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4477 3 -- not coup 
+COUPMID-CER: MID4477 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4477 3 -- not coup link
+COUPLINK-CER: MID4477 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4480 
+
+TERRMID: MID4480 3 -- not territory 
+TERRMID-CER: MID4480 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4480 3 -- not third party link to territory 
+TERRLINK-CER: MID4480 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4480 3 -- not maritime 
+MARITMID-CER: MID4480 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4480 3 -- not islands 
+ISLMID-CER: MID4480 1 -- certain 
+ISLMID-NOTES: MID4408 from cm narrative, in 2008 a Russian bomber briefly violated Japanese airspace over the Izu island chain, prompting Japan to scramble fighters before the bomber returned to Russian airspace. Coded not islands because this did not occur over disputed islands and was not connected to an islands dispute. 
+
+CIVWARMID: MID4480 3 -- not civil war 
+CIVWARMID-CER: MID4480 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4480 3 -- not civil war link 
+CIVWARLINK-CER: MID4480 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4480 3 -- not coup 
+COUPMID-CER: MID4480 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4480 3 -- not coup link
+COUPLINK-CER: MID4480 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4484 
+
+TERRMID: MID4484 3 -- not territory 
+TERRMID-CER: MID4484 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4484 3 -- not third party link to territory 
+TERRLINK-CER: MID4484 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4484 1 -- maritime MID
+MARITMID-CER: MID4484 1 -- certain 
+MARITMID-NOTES: MID4484 from cm narrative, in 2009 a Russian border guard helicopter fired at two Japanese fishing boats in disputed territorial waters around the Kuril Islands. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID4484 3 -- not islands 
+ISLMID-CER: MID4484 1 -- certain 
+ISLMID-NOTES: MID4484 this MID occurred near the disputed Kuril islands, but the islands themselves were not the center of this dispute. 
+
+CIVWARMID: MID4484 3 -- not civil war 
+CIVWARMID-CER: MID4484 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4484 3 -- not civil war link 
+CIVWARLINK-CER: MID4484 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4484 3 -- not coup 
+COUPMID-CER: MID4484 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4484 3 -- not coup link
+COUPLINK-CER: MID4484 1 -- certain 
+COUPLINK-NOTES: 
+
+MID183 
+
+TERRMID: MID183 3 -- not territory
+TERRMID-CER: MID183 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID183 1 -- third party link to territorial MID 
+TERRLINK-CER: MID183 1 -- certain 
+TERRLINK-NOTES: MID183 from Gibler 2018, the border between Mongolia and Japan-controlled territory in China was undefined. In 1939, a war broke out over the disputed territory. The Soviets supported the Mongol forces against the Japanese with military assistance, pulling them into this MID against Japan. Coded third party link to territorial MID because this was connected to a disputed border between Mongolia and Japan, outside this dyad. 
+
+MARITMID: MID183 3 -- not maritime 
+MARITMID-CER: MID183 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID183 3 -- not islands 
+ISLMID-CER: MID183 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID183 3 -- not civil war 
+CIVWARMID-CER: MID183 1 -- certain 
+CIVWARMID-NOTES: MID183 there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that suggests a connection to militarized rebels in Mongolia. 
+
+CIVWARLINK: MID183 3 -- not civil war link 
+CIVWARLINK-CER: MID183 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID183 3 -- not coup 
+COUPMID-CER: MID183 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID183 3 -- not coup link
+COUPLINK-CER: MID183 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4475
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4475 20060125-20060125 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=
+0 lhostb=DISPLAY OF FORCE 
+
+A Russian military transport plane violated Japanese airspace several times. Japan scrambled fighters in response. First day of dispute was on 1/25/2006 and last day of dispute was on 1/25/2006.
+
+MID4477
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4477 20060816-20060816 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Russian patrol boat opened fire on a Japanese fishing vessel in the waters near the disputed Kaigara Islands, killing one of the crew. First day of dispute was on 8/16/2006 and last day of dispute was on 8/16/2006.
+
+MID4480
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4480 20080209-20080209 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=
+0 lhostb=DISPLAY OF FORCE 
+
+A Russian bomber briefly violated Japanese airspace over the Izu island chain, prompting Japan to scramble fighters before the bomber returned to Russian airspace. First day of dispute was on 2/9/2008 and last day of dispute was on 2/9/2008.
+
+MID4484
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4484 20090130-20090130 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+A Russian border guard helicopter fired at two Japanese fishing boats in disputed territorial waters around the Kuril Islands. First day of dispute was on 1/30/2009 and the last day of the dispute was on 1/30/2009.
+
+MID3 1993-2001:
+
+MID4042
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4042 19931126-19950900 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute is based on a series of consecutive incidents between Russia and Japan over the same territorial issues (Kuriles and fishing rights, and alleged border violations). On November 26, 1993, Russia seized the captain and two crew members of a Japanese fishing boat. Russian court sentenced captain to six months for border violation. Japan protested. On March 30, 1994, Russia engaged in a show of force to Japan by dispatching ships off its pacific fleet and two helicopters to Anuchin Islands (Southern Kuriles) after five Japanese fishing trawlers entered the Russian territorial waters. On June 4, 1994, a Russian border patrol ship engaged in a show of force by firing warning shots at six Japanese fishing vessels. The Japanese ships were allegedly in Russian waters. On August, 15, 1994, a Russian coast guard ship fired on a pair of Japanese fishing schooners that were suspected of poaching in Russian territorial waters off the Kurile Islands. Afterwards, the Russian coast guard seized the ship and the crew, detained at anearby Russian port for at least twenty four hours. Japan protested the Russian actions. On October 4, 1994, Russian border guards sank a Japanese fishing boat and seized its crew in the disputed waters. Japan protested the incident. On March 23, 1995, a Russian warplane violated Japanese airspace off the coast of Hokkaido, according to Japan's claims. Russia denied Japan's claims about this incident. In response to the Russian action, Japanes aircraft "scrambled." On April 4, 1995, Russian border guards' marine forces opened warning fire at two Japanese speedboats that entered the Russian territorial waters. The boats left within ten minutes. Japan officially protested Russia two days later. Two days later (on April 6), Russian coast guard ships fired warning shots to force a Japanese fishing boat out of waters near the South Kuriles. On May 10, 1995, six Japanese boats were chased out of Kuriles by Russian coast guards, and warning shots were fired at the boats near Sakhalin Island. Japan protested the Russian show of force. Two weeks later, on May 24, a Russian coast guard fired warning shots at ten Japanese fishing boats to prevent them from entering the Russian territorial waters. Lastly, on September 27, 1995, a Russian coastguard vessel opened fire on two Japanese fishing boats allegedly poaching in a strait between the two countries. One crew member was injured after the Russian coastguard seized the vessels. First day of dispute was on 11/26/1993 and last day of dispute was on 9/00/1995.
+
+MID4297
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4297 19961012-19961000 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute is based on the Russian seizure of a Japanese ship and its crew in the disputed Kuriles region. Russia claimed that the Japanese ship was within the Russian territorial waters. Japan protested the seizure and demanded the release of the fishermen. Japan said that the ship was in the Japanese territorial waters. After the dispute, both sides engaged in talks. Japanese Foreign Ministry sources said on December 1, 1996 that Japan would accept Russia's control of the southern half of Sakhalin Island by setting up a branch consulate office there next spring. First day of dispute was on 10/12/1996 and last day of dispute was on 10/00/1996.
+
+MID4222
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4222 20000421-20000421 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=TERRITORY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+A Russian coast guard vessel fired at, and subsequently seized a Japanese fishing trawler on April 21, 2000 in the region of the disputed southern Kurile islands. The Japanese authorities indicated that the Japanese fishermen had never left the 200mile Japanese economic zone. However, the Russian officials legitimized the firing and seizure of the Russian coast guards, saying that the Japanese vessel disobeyed orders from a Russian patrol boat to stop for inspection. According to them, the Japanese vessel entered the Russian economic zone and was seized by the Russian border guards while it was escaping from the Russian economic zone into the neutral waters. First and last day of dispute was on 4/21/2000.
+
+MID4239
+rivalry=365740 nationa=RUSSIA/USSR nationb=JAPAN MID4239 20010214-20010411 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=
+0 lhostb=DISPLAY OF FORCE 
+
+Russian bombers violated Japanese airspace. Japan sent fighters to intercept the Russian planes. First day of dispute was on 2/14/2001 and last day of dispute was on 4/11/2001.
+
+RIVNOTES: 
+RIV11014 was originally coded as two separate rivalries (RIV1014 and RIV1015). Yet the two disputes in RIV1014 involved competing territorial claims to islands (e.g. Sahalin) that would continue to be the source of disputes throughout the next 100+ years. Accordingly, the two rivalries were combined.
+
+RIV30 eliminated in RIV500web dataset because disputes have been incorporated in other rivalries: 
+
+NARRATIVE-CM:
+Japan severed diplomatic relations with Russia on February 6, 1904, and Japanese naval ships attacked Russian naval ships at Port Arthur on February 8, 1904. Japanese troops laid siege to Port Arthur in eastern Russia from July 26, 1904 to January 2, 1905. Russian troops surrendered Port Arthur to Japanese troops on January 2, 1905. Some 14,000 Japanese and 6,000 Russia troops were killed during the siege of Port Arthur. Some 11,000 Russian and 4,000 Japanese troops were killed during fighting in Manchuria on October 5-17, 1904. Some 20,000 Russia and 16,000 Japanese troops were killing during fighting near Mukden in Manchuria from February 21 to March 10, 1905. Japan requested that the United States mediate in the dispute on June 1, 1905. President Theodore Roosevelt of the US formally offered to mediate the dispute on June 8, 1905, and Japan accepted US mediation on June 12, 1905. Some 14,000 Japanese troops seized the island of Sakhalin in July 1905. President Roosevelt mediated negotiations in Portsmouth, New Hampshire from August 10 to August 29, 1905. Japan and Russia signed the *Treaty of Portsmouth* on September 5, 1905, which provided for the Japanese acquisition of Port Arthur and South Sakhalin Island. Russian troops withdrew from Manchuria. Some 71,500 Russian soldiers and 80,500 Japanese soldiers were killed during the conflict. Japanese and Russian representatives signed an agreement in Peking on January 20, 1925, which provided general principles for the resumption of diplomatic relations. Japan completed the withdrawal of its troops from North Sakhalin Island on April 4, 1925. Japan and the Soviet Union resumed diplomatic relations on December 12, 1932. The Soviet Union protested against Japanese interference with the *Chinese Eastern Railway* (CER) on April 16, 1933. Russia offered to sell the CER to Japan on May 2, 1933. On September 22, 1933, the Soviet Union protested against the Japanese plot to seize the CER. Japan denied the allegations on October 9, 1933. Japanese and Soviet troops clashed over the disputed Changkufeng Hill in northeastern China from July 11-August 10, 1938. Soviet troops were able to retain the territory. Japanese and Soviet troops clashed in Outer Mongolia from May to September 15, 1939, when a ceasefire went into effect. Some 8,500 Japanese and 9,300 Russian troops were killed during the conflict. Japan and the Soviet Union resolved the dispute in June 1940. The Soviet Union declared war against Japan on August 8, 1945, and Soviet troops occupied the Kurile islands and south Sakhalin island. The Soviet Union did not sign the peace treaty signed by Japan and 48 other countries in San Francisco on September 8, 1951. Japanese and Soviet representatives held negotiations in London from June 1, 1955 to March 20, 1956. The Soviet Union announced restrictions of Japanese fishing vessels in Soviet territorial waters on March 21, 1956, but the countries signed the *Convention on Fishing in the Open Seas of the North-West Pacific* in Moscow on May 14, 1956. The parties held negotiations in Moscow from July 31, 1956 to August 13, 1956. Japanese and Soviet representatives signed an agreement in Moscow on September 29, 1956, which provided for the termination of the state of war between the countries. Japan and the Soviet Union formally ended the state of war and resumed diplomatic relations on December 12, 1956. The Soviet Union requested the withdrawal of foreign troops from Japan on January 27, 1960, but Japan rejected the Soviet request on February 5, 1960. A Russian naval vessel fired on a Japanese fishing vessel north of Japan on April 21, 2000.
+
+SOURCES-CM: Allock et al., 1992, 500-519; DeVillafranca, 1993, 610-624; Clodfelter, 1992, 645-651, 668-669; Princen, 1992, 107-130; *Reuters*, April 21, 2000; *Survey of International Affairs *(SIA), 1925 (supplement), 165, 1932, 592, 1933, 593. 
+
+NARRATIVE-CR:
+A number of issues motivate the rivalry between Russia/USSR and Japan. The issues develop over time as well. The rivalry is over 100 years old now and it has evolved over time. The proximate issues at stake are: control over a group of islands on the border between the two countries (Tsushima, Sakhalin, and the Kurile Islands); the presence of the Japanese on the Asian mainland in the first half of the 20th century; the proximity of the two countries and their great power status; control over Manchuria, Korea, and Port Arthur; access to fishing areas; and US basing in Japan. At a higher level of abstraction, the rivalry is a product of proximity of two great power states. 
+
+The rivalry can be divided into two parts: pre and post World War II. In the years preceding WWII, the issues the motivate the rivalry are about great power proximity and rivalry for territorial control. In the years following WWII, the issues are about territorial control over islands the USSR occupied during WWII, Japanese access to fishing waters near these islands, and US basing on Japan. 
+
+Pre-World War II disputes: 
+
+MID227 occurred from August 27, 1861 until September 21, 1871. Tsushima is an island belonging to Japan, situated about midway between Korea and the island of Kyushu, so that the two islands were used as port of call in the 19th century between Japan and Korea. The nearest point of the Korean coast is 48 m. distant. In 1861, an attempt was made by Russia to obtain a footing on the island. The Russians used military force and a number of Japanese died in their successful efforts to resist the Russian advance. 
+
+MID2721 occurred from July 12, 1871 until January 12, 1872. Here the Russians occupied Sakhalin Island. Sakhalin Island has great strategic importance for the Russians and the Japanese. It shields the Asian mainland and has been occupied by the Japanese and Russians in the latter portion of the 19th century. Previous to this dispute the Russians and the Japanese had concluded an agreement whereby the two would share control of the island. The Russians took advantage of their superior military position at the time and forcibly took control of the remainder of the island. Aware of their position of military weakness, the Japanese did not resort to arms and acquiesced. 
+
+MID106 or the `Aftermath of Sino-Japanese War' occurred (for the Russians) from April 23-July 1, 1895. Here the Russians protested and displayed naval forces over a clause in the treaty settling the war in which the Chinese ceded territory on the Chinese mainland to Japan. 
+
+MID16 occurred from December 25, 1897-February 5, 1898. Here the Russians were in Korea. The British and Japanese, in an effort to dislodge them agreed to joint naval exercises (Chemulpo naval demonstration) in a display of force. The British and Japanese fleets sailed to Chemulpo and other locations.
+
+MID131 or Masampo Naval base concession occurred from September 14, 1899 until April of 1900. Russia had secured an important advantage in Korea. On March 30, Korea granted to Russia a site for a coal depot and a naval hospital for the exclusive use of the Pacific squadron at Masampo harbor, Russia agreeing at the same time not to acquire any of the surrounding land as long as other powers were excluded from doing so. Russia thus obtained an exclusive settlement for her naval stores, the best harbor in Korea abreast of Japan, and the exclusion, apparently, of Japan from obtaining similar advantages. This was viewed in Japan as a threat to their interests. 
+
+By 1895, Germany was competing with France for Russia's favor, and British statesmen hoped to negotiate with the Russians to demarcate spheres of influence in Asia. This situation enabled Russia to intervene in northeastern Asia after Japan's victory over China in 1895. In the negotiations that followed, Japan was forced to make concessions in the Liaotung Peninsula and Port Arthur in southern Manchuria. The next year, the Russo-Chinese Bank was established. The goal of the bank was to finance the construction of a railroad across northern Manchuria and thus shorten the Trans-Siberian Railroad. Within two years, Russia had acquired leases on the Liaotung Peninsula and Port Arthur and had begun building a trunk line from Harbin in central Manchuria to Port Arthur on the coast.
+
+At the turn of the century, Russia gained room to maneuver in Asia because of its alliance with France and the growing rivalry between Britain and Germany. Tsar Nicholas failed to orchestrate a coherent Far Eastern policy because of ministerial conflicts, however. Russia's uncoordinated and aggressive moves in the region ultimately led to the Russo-Japanese War (1904-05).
+
+In 1900, China reacted to foreign encroachments on its territory with an armed popular uprising, the Boxer Rebellion. Russian military contingents joined forces from Europe, Japan, and the United States to restore order in northern China. A force of 180,000 Russian troops fought to pacify part of Manchuria and to secure its railroads. The Japanese were backed by Britain and the United States, however, and insisted that Russia evacuate Manchuria. Russian diplomats wanted to compromise with Japan and trade Manchuria for Korea, but a group of elites refused to compromise. The tsar favored their viewpoint and the Russian government equivocated until Japan declared war in early 1904.
+
+MID180 or the Russo-Japanese War occurred from October 1, 1903-January of 1905. The Russo-Japanese War (1904-1905) was a conflict that grew out of the rival imperialist ambitions of Imperial Russia and Japan in Manchuria and Korea. In January 1905, after an eight-month siege, Russia surrendered Port Arthur, and in March the Japanese forced the Russians to withdraw north of Mukden. In May, at the Tsushima Straits, the Japanese destroyed Russia's last hope in the war, a fleet assembled from the navy's Baltic and Mediterranean squadrons. Theoretically, Russian army reinforcements could have driven the Japanese from the Asian mainland, but revolution at home and diplomatic pressure forced the tsar to seek peace. Russia accepted mediation by United States president Theodore Roosevelt, ceded southern Sakhalin Island to Japan, and acknowledged Japan's ascendancy in Korea and southern Manchuria. The victory was a surprise for Japan, and established Japan as a major world power. Popular discontent in Russia following the defeat led to the Russian Revolution of 1905. The war ended with mediation by the United States. There was discontent among Japanese over the lack of territorial gains; this led to an erosion of good feelings towards the United States. That a non-Western country could defeat an established power in such a large military conflict was particularly inspiring to various anti-colonial independence movements around the world. 
+
+MID197 occurred from January of 1918 until April of 1920. Britain, France, the United States and 18 other powers including Japan intervened in the civil war. After the Allies defeated the Central Powers in November 1918, they continued their intervention in the war against the Communists, in the interests of averting what they feared might become a world socialist revolution. MID2606 is also allied intervention in the Russian Civil War in Siberia. 
+
+MID1177 or the Nikolaevek incident occurred in March of 1919. Bolsheviks encircled Nikolaevsk near Sakhalin, where White Russians and hundreds of Japanese civilians protected by soldiers were living. Japanese let enter Bolsheviks but breaking the truce, they began to execute white Russians and also captured Japanese who protested it. Learning the arrival of Japanese rescue, they executed Japanese prisoners, too. Furious, Japan occupied North Sakhalin and asked the reparation. Russia executed the responsible and Japan left in 1925. 
+
+MID2702 or Chinese attempt to navigate the Amur river II occurred from August-October 25, 1919. The Russians prohibited Chinese gunboats from movement on the Amur River. The Japanese built up troops in the region during this point which threatened Russian claim to the territory. 
+
+MID510 occurred from April of 1920 until October of 1922. Japanese forces land at Vladivostok, beginning Allied intervention in Siberia and eastern Russia
+
+MID2722 occurred from April of 1920 until September of 1921. During the occupation of the southern Siberia by the Allied Powers, several hundred Japanese (350 workers and 370 soldiers) were slaughtered in the prison of Nikolayevsk upon Amur, the town located in South Siberia near Sakhalin, by Bolsheviks. In reprisal, Japan occupied North Sakhalin and this provoked in turn a protestation of Americans and Soviets. Finally in January 1925, the two countries signed a treaty and the Japanese army withdrew from North Sakhalin in exchange of a right of petroleum's concession. The Soviet government expressed a sincere regret to the massacre of Nikolayevsk.
+
+MID3260 occurred in January of 1926. This bilateral dispute is coded as a threat to use force by Japan. Russia threatened (China) to send the Red Army into Manchuria unless China complied with Soviet demands regarding a settlement of the conflict between Russian officials of the Chinese Eastern Railway and Chinese soldiers over the letter's seizing of trains and paralyzing of traffic between Changchun and Harbin. The Japanese responded to this threat with a threat of their own to Russian ultimatum. 
+
+MID178 or the China Eastern Railway mid occurred from April of 1932 until March of 1935. The Russians wanted access to the Pacific Ocean and built the Trans-Siberian railway. They requested and got access to build a portion of the railway through Manchuria. This was a partial cause of the Russo-Japanese War of 1904-5. During this mid the Japanese forcibly seized control of a portion of the railway and a port associated with the railway on the Sanguri River. MID2995 is associated with this dispute.
+
+MID182 occurred from December of 1935 until March of 1936. The rivalry between the Mongolia and Japan is embedded in the larger rivalry that exists between the USSR and Japan. At the time of the rivalry from 1935 until 1945, Mongolia was a client state of the USSR. Japan had imperialistic/expansionist designs on Siberia/Mongolia. In addition, the border between the USSR, Manchukuo/Manchuria (a Chinese puppet state of Japan) was poorly demarcated. The poorly defined borders sparked a border incident MID182, from December of 1935 until the end of March 1936. Here there were a series of skirmishes along the Manchukuo-Siberian frontier. Shots were fired between border troops with no record of casualties.
+
+MID2724 or the Anui river tensions occurred from February 26 through April of 1936. This incident had to do with the sovereignty over several small islands in the Amur River between the USSR and Japanese controlled Manchuria. The dispute that arose during this time was the 185th incident of its kind. Here the Soviets and the Japanese built up troops on the border to display resolve to resolve the dispute in their favor. MID2994 is related to this incident and is of similar character. 
+
+MID409 or the Bolhoi and Senufa Islands took place from May 31-July 6, 1937. This dispute is also related to MID2994 and MID2724. A small number of Soviet Troops entered the two islets of Sennufu and Bolshoi on the Amur and abducted some gold miners. On the same day Soviet gun boats, which routinely patrolled the area, engaged Manchukuon forces. 
+
+MID2993 occurred 9/5-10/1937. This dispute was over fishing rights. The two states disputed the rights to fishing waters off the Siberian coast. The Soviets seized several Japanese fishing vessels. Another incident in the dispute is the Japanese presence on North Sakhalin Island. 
+
+MID184 or the Chankufeng War, took place from July 9-August 11, 1938. This war took place while the rest of the world was headed into World War II. Thus, this conflict goes largely unnoticed in history. Japanese troops attempted to dislodge Russian solders from the fortifications atop Changkufeng Hill, near the mouth of the Tumen River in the region where Siberia, Korea, and Manchura met along poorly drawn and bitterly disputed borders. The Russians retained control of the hill. 
+
+MID183 occurs from the end of May 1939 until the middle of September 1939. Here the Japanese and the Soviet Union fought a fierce, large-scale undeclared war in Mongolia that ended with a decisive Soviet victory. Hereafter Japan reoriented its strategic emphasis toward the south, leading to war with the United States, Britain, and the Netherlands; and Russia freed itself from the fear of fighting on two fronts, thus vitally affecting the course of the war with Germany. This is referred to in the MID Data set as the Nomahan War however; it is referred to elsewhere as the Nomonhan War or the Russo-Japanese War. Nomonhan is a city near the Manchukuo/Mongolia border. 
+
+MID258 is World War II. The Soviet Union declared war against Japan on August 8, 1945, and Soviet troops occupied the Kurile islands and south Sakhalin island. 
+
+Post World War II disputes: 
+
+Japan's relations with the Soviet Union continued to be problematic long after the war. The main object of dispute was the Soviet occupation of what Japan calls its Northern Territories, the two most southerly islands in the Kurils (Etorofu and Kunashiri) and Shikotan and the Habomai Islands (northeast of Hokkaido), which were seized by the Soviet Union in the closing days of World War II. During the first half of the 1950s, other unsettled problems included Japanese fishing rights in the Sea of Okhotsk and off the coast of the Soviet maritime provinces and repatriation of Japanese prisoners of war, who were still being held in the Soviet Union. Negotiation of these issues broke down early in 1956 because of tension over territorial claims. 
+
+MID3207 occurs from October 17, 1953 to June 20, 1954. This dispute has to do with the disputed islands north of Japan (the Habomai gourp, Shikotan, Kunashiri and Etorofu.) On October 19, the Soviets seized a fishing boat near Kunashir Island. Two other fishing boats were seized near the Kurile Islands. During this period over 100 Japanese fishing boats were seized by the Soviets in the coastal waters near these islands. 
+
+MID2847 occurred from March 24, 1955 until November 19, 1957. This dispute occurred during the Japanese-Soviet Peace Teaty Negotiations. Japanese and Soviet representatives held negotiations in London from June 1, 1955 to March 20, 1956. The Soviet Union announced restrictions of Japanese fishing vessels in Soviet territorial waters on March 21, 1956, but the countries signed the *Convention on Fishing in the Open Seas of the North-West Pacific* in Moscow on May 14, 1956. The parties held negotiations in Moscow from July 31, 1956 to August 13, 1956. Japanese and Soviet representatives signed an agreement in Moscow on September 29, 1956, which provided for the termination of the state of war between the countries. Japan and the Soviet Union formally ended the state of war and resumed diplomatic relations on December 12, 1956. During these negotiations the Soviets threatened the Japanese by establishing large bases in Sakhalin Island very close to Japanese territory. 
+
+The two countries issued a joint declaration in October 1956 providing for the restoration of diplomatic relations. The two parties also agreed to continue negotiations for a peace treaty, including territorial issues. In addition, the Soviet Union pledged to support Japan for UN membership and waive all World War II reparations claims. The joint declaration was accompanied by a trade protocol that granted reciprocal most-favored-nation treatment and provided for the development of trade. 
+
+Japan derived few apparent gains from the normalization of diplomatic relations. The second half of the 1950s saw an increase in cultural exchanges. Soviet propaganda, however, had little success in Japan, where it encountered a longstanding antipathy stemming from the Russo-Japanese rivalry in Korea, Manchuria, and China proper in the late nineteenth century, from the Russo-Japanese War of 1904-5; and from the Soviet declaration of war on Japan in the last days of World War II, in violation of the Japanese-Soviet Neutrality Pact of 1941. Further, there were several militarized disputes between the two countries. 
+
+MID2852 occurred from June 4-October 5, 1958. During this period the Soviets seized a number of Japanese fishing boats near disputed islands north of Japan. 
+
+MID2861 occurred from January 27-August 24, 1959. The incident began when a Japanese stevedore insulted a Soviet Foreign Ministry official. The Soviets subsequently seized a large number of Japanese fishing vessels in disputed waters off of Hokkaido Island. The Soviets eventually released all the fishermen. 
+
+The Soviet Union sought to induce Japan to abandon its territorial claims by alternating threats and persuasion. As early as 1956, it hinted at the possibility of considering the return of the Habomai Islands and Shikotan if Japan abandoned its alliance with the United States. In 1960 the Soviet government warned Japan against signing the Treaty of Mutual Cooperation and Security with the United States, and after the treaty was signed, declared that it would not hand over the Habomai Islands and Shikotan under any circumstances unless Japan abrogated the treaty forthwith. In 1964 the Soviet Union offered to return these islands unconditionally if the United States ended its military presence on Okinawa and the main islands of Japan. 
+
+MID253 or the U-2 and RB47 Incidents occurred for Japan on 5/8/1960. Soviet forces shot down an American U-2 reconnaissance plane in Soviet airspace, capturing its pilot, Francis Gary powers (May 1). Powers was imprisoned as a spy and later exchanged for Soviet spy Rudolph Abel (February 1962). The USSR warned countries that allowed US basing that they would be targets of military reprisal for allowing reconnaissance flights bound for the USSR. Japan was one of the countries threatened.
+
+MID2873 occurred from July, 16 through September 7, 1960. The Soviets seized two fishing vessels near islands the USSR seized during World War II. 
+
+MID1799 occurred from January through September of 1961. The larger issue in this dispute is Soviet concern over US basing in Japan. The Soviets warn Japan that war in Europe would mean war on Japan as well. 
+
+MID2882 occurred from 6/11-8/18/1961. The Soviets seized a number of fishing boats near disputed islands north of Hokkaido Island. The Soviets also threatened Japan saying that US bases on Japan would bring an attack on Japan if war occurred between the two countries. 
+
+MID2888 was a series of incidents related to the sovereignty of small islands off the coast of Hokkaido Island. This dispute occurred in 1962. 
+
+MID2893 occurred on 12/3/1963. This was a Soviet use of force that was not reciprocated. I was not able to locate information on this dispute. 
+
+MID2903 occurred on September 21, 1964. The Soviets seized a Japanese fishing vessel of the Lopatka cape near disputed islands. 
+
+MID2911 occurred on October 27, 1965. Here the Soviets seized a Japanese fishing vessel of the coast of Hokkaido Island. 
+
+Despite divergence on the territorial question, on which neither side was prepared to give ground, Japan's relations with the Soviet Union improved appreciably after the mid-1960s. The Soviet government began to seek Japanese cooperation in its economic development plans, and the Japanese responded positively. The two countries signed a five-year trade agreement in January 1966 and a civil aviation agreement as well. 
+
+MID2930 occurred in May of 1967. Here the United States was conducting naval training operations in the Sea of Japan with the Japanese and the South Koreans. These operations were conducted within a few hundred miles of Soviet territory. Soviet ships and warplanes shadowed these exercises and on two occasions got so close to the American ships that the ships collided. The Americans claimed that the Soviets intentionally collided with the US ships but the Soviets claimed it was an accident. 
+
+MID2925 occurred from September 28, 1968 until November 8, 1968. This is a dispute over access to fishing waters. The Japanese fish the waters near the Kurile Islands heavily. The Soviets occupy these islands. The islands were occupied during World War II and the sovereignty of these islands is in dispute. 
+
+MID2937 occurred from August 9-September,3 1969. Here the Soviet Union collided with a Japanese fishing vessel killing 11 and also seized a Japanese fishing vessel. The Japanese foreign minister went to Moscow and discussed this issue among others. The issue at stake here is access to fishing waters and sovereignty over disputed islands near Japan. 
+
+Economic cooperation expanded rapidly during the 1970s, despite an often strained political relationship and militarized disputes. The two economies were complementary, for the Soviet Union needed Japan's capital, technology, and consumer goods, while Japan needed Soviet natural resources, such as oil, gas, coal, iron ore, and timber. By 1979 overall trade had reached US$4.4 billion annually and had made Japan, after the Federal Republic of Germany (West Germany), the Soviet Union's most important nonsocialist trading partner. 
+
+MID2726 or the Russian reaction to Sino-Japanese treaty occurred from April through June of 1975. During this period, the Sino-Japanese treaty was concluded. China insisted on a clause in the treaty which stated opposition to any country establishing hegemony in Asia be included. The USSR saw this a reference to itself. Japan sought to assuage the USSR but signed the treaty with the clause. 
+
+The signing of the Sino-Japanese peace treaty in mid-1978 was a major setback to Japanese-Soviet relations. Despite Japanese protestations that the treaty's anti-hegemony clause was not directed against any specific country, Moscow saw it as placing Tokyo with Washington and Beijing firmly in the anti-Soviet camp. Officially, both sides continued to express the desire for better relations, but Soviet actions served only to alarm and alienate the Japanese side. The 1980s Soviet military buildup in the Pacific was a case in point. 
+
+MID365 occurred from September 6 to November of 1976. On 9/6 a Soviet pilot landed in Japan and defected to the US. The Japanese did not return the MIG-25 until some weeks later. This caused a row with the Soviets and the Soviets retaliated by seizing a half dozen Japanese fishing boats with crew. 
+
+MID2964 occurred on September 7, 1977. This was another Soviet air intrusion. Two Soviet bombers violated Japanese airspace over the Goto Islands. Japanese jets scrambled to intercept the bombers and the Soviets left without incident. 
+
+MID2727 or Soviet maneuvers on Kurile Islands occurred from 5/20/1978 to October 2, 1979. Here the Soviet Union built bases and increased troop levels on two islands in the Kurile Island chain just off the coast of Japan. 
+
+The 1980s saw a decided hardening in Japanese attitudes toward the Soviet Union. Japan was pressed by the United States to do more to check the expansion of Soviet power in the developing world following the December 1979 Soviet invasion of Afghanistan. It responded by cutting off contacts beneficial to the Soviet regime and providing assistance to "front line" states, such as Pakistan and Thailand. Under Nakasone, Japan worked hard to demonstrate a close identity of views with the Reagan administration on the Soviet threat. Japan steadily built up its military forces, welcomed increases in United States forces in Japan and the western Pacific, and pledged close cooperation to deal with the danger posed by Soviet power. 
+
+Public and media opinion was skeptical of the danger to Japan posed by Soviet forces in Asia. Still, there was strong opposition in Japan to Moscow's refusal to accede to Japan's claims to the Northern Territories, known to the Japanese as Etorofu and Kunashiri, at the southern end of the Kuril Island chain, and the smaller island of Shikotan and the Habomai Islands, northeast of Hokkaido, which were seized by the Soviets in the last days of World War II. The stationing of Soviet military forces on the islands gave tangible proof of the Soviet threat, and provocative maneuvers by Soviet air and naval forces in Japanese-claimed territory served to reinforce Japanese official policy of close identification with a firm United States-backed posture against Soviet power. In 1979 the Japanese government specifically protested a build up in Soviet forces in Etorofu, Kunashiri, and Shikotan. 
+
+MID2976 occurred on April 3, 1982. Here a Soviet transport plane flew over Kyushu for about two minutes and then left without incident. 
+
+MID 2229 (`Militarization of Kurile Islands') is a show of planes involving the United States and Japan, September 30, 1982-January 24, 1983. On September 30, 1982, the United States announced plans to deploy up to 50 F-16s to Honshu by 1985. Japan announced its intentions to increase military cooperation with the United States on January 18, 1983, prompting Soviet criticism. 
+
+MID2728 occurred from 11/12-23/1984. Here the Soviets flew a squadron of bombers into Japanese airspace on a apparent journey to Vietnam. The Japanese reported that this violation occurred almost daily in the last year. The Japanese scrambled 32 jets to intercept these bombers as the passed over a Japanese island in the Sea of Japan. 
+
+The advent of the Mikhail Gorbachev regime in Moscow in 1985 saw a replacement of hard-line Soviet government diplomats who were expert in Asian affairs with more flexible spokesmen calling for greater contact with Japan. Gorbachev took the lead in promising new initiatives in Asia. Beginning in the mid-1980s, attempts at domestic reform and the pursuit of detente with the United States and Western Europe, elicited generally positive Japanese interest, but the Japanese government held that the Soviet Union had not changed its policies on issues vital to Japan. The government stated that it would not conduct normal relations with the Soviet Union until Moscow returned the Northern Territories. The government and Japanese business leaders stated further that Japanese trade with and investment in the Soviet Union would not grow appreciably until the Northern Territories issue has been resolved. 
+
+The substance of Soviet policy changed slowly. In particular, throughout the rest of the 1980s, Soviet officials still seemed uncompromising regarding the Northern Territories, Soviet forces in the western Pacific still seemed focused on and threatening to Japan, and Soviet economic troubles and lack of foreign exchange made prospects for Japan-Soviet Union economic relations appear poor. By 1990 Japan appeared to be the least enthusiastic of the major Western-aligned developed countries in encouraging greater contacts with and assistance to the Soviet Union. 
+
+By 1990 the Soviet government had altered its tactics. The Soviet Union now acknowledged that the territorial issue was a problem and talked about it with Japanese officials at the highest levels and in working-level meetings. Soviet officials reportedly floated a proposal to lease the Northern Territories and part of Sakhalin-once a colonial holding of Japan's-to Japan. Gorbachev and others also referred to a 1956 Soviet offer to return one of the three main islands (Shikotan, the smallest of the three) and the Habomai Islands, and there were indications that Moscow might be prepared to revive the offer. The Soviet Union emphasized that it would not return all the islands because of Soviet public opposition and the possible reawakening of other countries' territorial claims against the Soviet Union. The Soviet military reportedly opposed a return because the Kuril Islands provided a protective barrier to the Sea of Okhotsk, where the Soviet navy deployed submarines carrying long-range ballistic missiles. 
+
+The Soviet government also stepped up its diplomacy toward Japan with the announcement in 1990 that Gorbachev would visit Japan in 1991. Soviet officials asserted that their government would propose disarmament talks with Japan and might make more proposals on the Northern Territories in connection with the visit. Observers believed that Gorbachev might propose a package dealing with the islands, arms reduction, and economic cooperation. In January 1990, the Japanese Ministry of Foreign Affairs shifted its position, which previously had rejected negotiations with the Soviet Union on arms reductions, indicating that Japan would be willing to negotiate. Ministry officials stated that the government would formulate policy on arms reduction in close coordination with the United States. 
+
+The government of Boris Yeltsin took power in Russia in late 1991 when the Soviet Union was dissolved. Once again, Moscow took a stand in firm opposition to returning the disputed territories to Japan. Although Japan joined with the Group of Seven industrialized nations in providing some technical and financial assistance to Russia, relations between Japan and Russia remained cool. In September 1992, Russian president Boris Yeltsin postponed a scheduled visit to Japan. The visit finally took place in October 1993. During the visit, although various substantive issues, including the Northern Territories and the signing of a peace treaty, were discussed, no significant improvement was seen in Japan-Russia relations. In fact, the rivalry experienced several more disputes beginning in 1993. 
+
+MID4042 occurred from November 26, 1993 until September of 1995. This dispute is based on a series of consecutive incidents between Russia and Japan over the same territorial issues (Kuriles and fishing rights, and alleged border violations). On November 26, 1993, Russia seized the captain and two crew members of a Japanese fishing boat. Russian court sentenced captain to six months for border violation. Japan protested. On March 30, 1994, Russia engaged in a show of force to Japan by dispatching ships off its pacific fleet and two helicopters to Anuchin Islands (Southern Kuriles) after five Japanese fishing trawlers entered the Russian territorial waters. On June 4, 1994, a Russian border patrol ship engaged in a show of force by firing warning shots at six Japanese fishing vessels. The Japanese ships were allegedly in Russian waters. On August, 15, 1994, a Russian coast guard ship fired on a pair of Japanese fishing schooners that were suspected of poaching in Russian territorial waters off the Kurile Islands. Afterwards, the Russian coast guard seized the ship and the crew, detained at a nearby Russian port for at least twenty four hours. Japan protested the Russian actions. On October 4, 1994, Russian border guards sank a Japanese fishing boat and seized its crew in the disputed waters. Japan protested the incident. On March 23, 1995, a Russian warplane violated Japanese airspace off the coast of Hokkaido, according to Japan's claims. Russia denied Japan's claims about this incident. In response to the Russian action, Japanes aircraft "scrambled." On April 4, 1995, Russian border guards' marine forces opened warning fire at two Japanese speedboats that entered the Russian territorial waters. The boats left within ten minutes. Japan officially protested Russia two days later. Two days later (on April 6), Russian coast guard ships fired warning shots to force a Japanese fishing boat out of waters near the South Kuriles. On May 10, 1995, six Japanese boats were chased out of Kuriles by Russian coast guards, and warning shots were fired at the boats near Sakhalin Island. Japan protested the Russian show of force. Two weeks later, on May 24, a Russian coast guard fired warning shots at ten Japanese fishing boats to prevent them from entering the Russian territorial waters. Lastly, on September 27, 1995, a Russian coastguard vessel opened fire on two Japanese fishing boats allegedly poaching in a strait between the two countries. One crew member was injured after the Russian coastguard seized the vessels.
+
+MID4297 occurred from October 12-December 1, 1996. This dispute is based on the Russian seizure of a Japanese ship and its crew in the disputed Kuriles region. Russia claimed that the Japanese ship was within the Russian territorial waters. Japan protested the seizure and demanded the release of the fishermen. Japan said that the ship was in the Japanese territorial waters. After the dispute, both sides engaged in talks. Japanese Foreign Ministry sources said on December 1, 1996 that Japan would accept Russia's control of the southern half of Sakhalin Island by setting up a branch consulate office there next spring.
+
+MID4222 occurred on April 21, 2000. A Russian coast guard vessel fired at, and subsequently seized a Japanese fishing trawler on April 21, 2000 in the region of the disputed southern Kurile islands. The Japanese authorities indicated that the Japanese fishermen had never left the 200-mile Japanese economic zone. However, the Russian officials legitimized the firing and seizure of the Russian coast guards, saying that the Japanese vessel disobeyed orders from a Russian patrol boat to stop for inspection. According to them, the Japanese vessel entered the Russian economic zone and was seized by the Russian border guards while it was escaping from the Russian economic zone into the neutral waters.
+
+MID4239 occurred from February 14-April 11, 2001. Russian bombers violated Japanese airspace. Japan sent fighters to intercept the Russian planes. 
+
+As of May of 2004, the rivalry between Russia and Japan does not appear to be fully resolved. Russian President Vladimir Putin planned a state visit to Japan that the Russian Government decided to postpone due to the still unresolved dispute over the islands on the northern maritime boundary between the two countries. 
+
+Russian President Vladimir Putin has declared that Russia is ready to continue fulfilling the agreements signed with Japan on the disputed territories, but the two sides have not reached consensus on the matter as of November 15, 2004. Russian Foreign Affairs Minister Sergei Lavrov declared that Russia "has always recognized the existence of a territorial problem in her relations with Japan and wants to settle relations with Japan in full, for which purpose it is important to sign a peace treaty."
+
+As regards the joint Soviet-Japanese declaration signed in 1956 and ratified by the Supreme Soviet of the former USSR, the minister recalled that the declaration put on record the understanding that the islands of Habomai and Shikotan would be transferred to Japan after the signing of the peace treaty. "But for various reasons, it was not done then," Lavrov said. " As a successor to the USSR we recognize the 1956 declaration as extant, but its implementation demands that both parties maintain dialogue," he added.
+
+For a long time, the territorial issue constituted a huge obstacle to development of the relations between Russia and Japan. At present, Tokyo refuses to sign a peace treaty with Russia for the lack of solution to the territorial issue, the report said. Konstantin Kosachyov, chairman of the State Duma international affairs committee, said that Russia and Japan interpret the 1956 declaration differently. Russia agrees to the possible handover of the two islands only if Russia and Japan sign a peace treaty, which would state that the two nations have no territorial claims against each other, he said.
+
+On April 13, 2005, Japanese military officials visited Russia. The Russian general gamely tried on a samurai helmet. The visiting Japanese general donned a Russian fur hat. Together, they watched Russian tanks maneuver across the snow-covered terrain. Japan and Russia are weaving closer military and economic relations, and the reason lies just across the Amur River from here-China. That is a big change for Russia and Japan, which for two centuries have eyed each other warily in Northeast Asia. To this day, Japanese are slow to forgive Russia for the deaths of thousands of World War II prisoners in Siberian work camps. Russian dead at the hands of what they call the samurai are memorialized at Soviet-era monuments. The two nations never even signed a peace treaty ending World War II. Yet visits by navy and coast guard units of each country have become annual affairs. In 2004, bilateral trade jumped 38 percent over 2003 levels. Japan has become the largest foreign investor in the oil and gas projects of Sakhalin, the largest foreign investment in Russia today. Toyota, Japan's largest corporation, has announced plans to build an auto plant in Russia.
+
+''As long as Japan and Russia are in cooperation, China will not be able to move against us,'' Toshiyuki Shikata, a military analyst at Teikyo University, said in a telephone interview, echoing a rapidly emerging view in Tokyo. ''Since the 1790's, the Japanese have always been worried about Russia, and the Russian-Japanese relationship has always been tense,'' he added. ''Without the growing China threat, I don't see the two sides coming together.'' In a policy statement in December, 2004, Japan for the first time cited China and North Korea as potential military threats. Japan is increasingly alarmed about Chinese military purchases and investments in modern submarines. Still, with an aging population, Japan is cutting its overall military spending by about 4 percent over the next decade, diverting some money to the elderly. The visit to Moscow in November 2004 by Lt. Gen. Kenji Tokuda, commander of Japan's northern forces, helped pave the way for Japan's announcement on Dec. 10, 2004, that it would cut the number of its tanks and artillery pieces by a third. One week before the announcement, Aleksandr P. Losyukov, Russia's ambassador to Japan, flew to Hokkaido and met with General Tokuda. Later, in an interview in Tokyo, the ambassador said, half joking, ''I apologized for no longer representing a threat, for the fact that he is losing resources.'' From the Japanese side, a military analyst at Yomiuri Shimbun, Japan's leading conservative newspaper, wrote of the new military orientation, ''A threat that no longer exists is the scenario of a full-scale invasion of Hokkaido by Russian ground forces.''Still, Japan maintains grievances with Russia. For almost 60 years, Japan has demanded the return of four islands in the Kurile chain that were seized by Soviet troops in the last days of World War II. In addition, Japanese officials are angry over Russia's booming sales of warplanes, ships and missiles to China. Last year, China was the biggest customer for Russia's military exports company. But Japan's fear of China overrides such irritants.
+
+Here in the Russian Far East, attitudes toward Japan are the most favorable in all of Russia, according to a nationwide poll conducted in late 2004 for the Japanese Embassy in Moscow. There have been no public objections to the increasingly close cooperation between the navies and coast guards of Russia and Japan. Since 2001, there have been annual Japanese port calls to Vladivostok, home to Russia's Pacific Fleet; there have been no port calls by the Chinese Navy.
+
+Relations between admirals have ''developed well on a personal level,'' a Japanese diplomat in Vladivostok said. Russian Navy cooperation is so close that the Pacific Fleet is discussing a joint commemoration with Japan of the May 27-28, 1905, Battle of Tsushima, in which Russia's fleet was all but destroyed in the Korea Strait and which secured Japan's victory in the Russo-Japanese war. 
+
+Today, cooperation between the coast guards is equally close as both countries work to improve safety and reduce pollution and poaching in the Sea of Japan. Through October, a joint Russia-Japan effort to combat poaching netted the detention of 36 ships, compared with three during all of 2003, said Aleksandr Ivankov, deputy head of Russia's border guards in the Vladivostok region. Japan also is spending $180 million to help Russia dispose of 42 nuclear-powered submarines that are rusting away in the Russian Far East.
+
+On land, Japanese and Russian forensic specialists worked together last summer to disinter the remains of some of the 5,000 Japanese prisoners of war who died in the Russian Far East in World War II. ''Japan's economic weight is much more important than its military weight,'' said Sergei V. Popov, a retired Soviet naval officer. Today, attracted by the large oil and gas deposits in eastern Russia, Japan has lobbied Moscow successfully to build an oil pipeline to the Sea of Japan, skirting China. Driven largely by these projects, Russian-Japanese trade grew to $9.5 billion in 2004. ''Trade and economic relations of Russia and Japan look promising,'' Ambassador Losyukov said at a December news conference in Tokyo. ''We are on the threshold of possibility of the mass advent of Japanese business to the Russian Federation.'' In a measure of changing Japanese attitudes to Russia, Shintaro Ishihara, governor of Tokyo and Japan's most prominent nationalist, said in an interview on Thursday: ''Japan, the U.S. and Russia should jointly work on the pipeline project. It would keep China in check greatly, since China has no resources.''
+
+Russia's presidential office has removed Japan from its priority list on diplomacy towards Asian countries apparently because of stalemated bilateral negotiations over disputed islands and slack Japanese investment in Russia, sources familiar with the issue said on 12 May, 2005. Experts on Japan-Russia relations said a failure to arrange Russian President Vladimir Putin's visit to Japan in April 2005 as hoped by Japan is connected with the presidential office's lowering its diplomatic priority on Japan. They said the downgrading also reflects Russia's plan to construct an oil pipeline. 
+
+Diplomatic sources said the presidential office is dissatisfied with Japan's adamant stance on the long-standing territorial disputes over four Russian-administered islands off Hokkaido, northern Japan. Putin has presented a compromise plan to return two of the four islands-Shikotan and the Habomai islet group-in line with the 1956 Japan-Soviet joint declaration. The other two isles are Etorofu [Iturup] and Kunashiri [Kunashir]. But Japan is demanding the return of all four islands seized by Soviet troops at the end of World War II. The diplomatic sources said there have been differences between the presidential office and Russia's Foreign Ministry in compiling policy towards Japan as the presidential office has less Japan experts. Putin sees the need to improve bilateral ties with Japan to attract Japanese investment in Russia's Far East and for the development of Siberia, the sources said. But he is also concerned that concessions on the territorial issue may weaken his footing in the government, they said.
+
+Japanese Foreign Minister Nobutaka Machimura met with his Russian counterpart, Sergey Lavrov, in Tokyo on 31 May, 2005 to discuss a range of issues including the schedule of Russian President Vladimir Putin's promised visit to Japan later this year and a long-standing territorial row. "We need to create new and future-oriented relations between Japan and Russia after resolving the territorial issue and signing a peace treaty," Machimura told Lavrov at the beginning of the talks. Japan and Russia are divided over the sovereignty of Russian-held islands off Hokkaido that are claimed by Japan. "We need to make the visit by President Putin to Japan fruitful and successful this year" as the year 2005 is the 150th anniversary of bilateral ties, Machimura said.
+
+Lavrov, for his part, stressed the need for Japan and Russia to "put bilateral cooperation on track in all areas" and continue efforts to resolve pending problems. Lavrov expressed hope of "constructive" talks with Machimura so that Putin and Japanese Prime Minister Junichiro Koizumi can release a set of documents during their summit in Japan. Putin last visited Japan in 2000.
+
+On November 22, 2005, as anticipated, Russian President Vladimir Putin's summit talks with Japanese Prime Minister Junichiro Koizumi ended without any tangible progress over their countries' territorial row or any surprises. With neither a joint political document nor a new proposal to speak of after the talks, Koizumi and Putin simply confirmed their commitment to continuing dialogue on the longstanding dispute over a group of islands off Hokkaido. "We recognized the need to resolve the island ownership issue and conclude a peace treaty. But frankly speaking, there are considerable gaps between the two countries," Koizumi said in a news conference with Putin after their talks. Putin said he understands that the resolution of the issue is "not easy" but both leaders said they will strive to find a solution to the territorial dispute in an acceptable manner. Ahead of the talks, Japanese officials and experts believed there would be no substantial progress on the dispute, which has prevented the two countries from signing a post-World War II peace treaty.
+
+A senior Japanese Foreign Ministry official said Tokyo had tried hard to issue a political document addressing the issue, but added, "It is better not to have a joint statement at all than one that would become a setback (for Japan) in talks on the disputed islands." Another official said Japan should not release any statement that could be taken as a "concession" on Japan's part. It is rare for leaders of two countries to fail to issue a joint political document on such an important issue, and means the road ahead will continue to be rough. Japan and Russia have long been divided over the sovereignty of Kunashiri, Etorofu, Shikotan and the Habomai islet group, known in Japan as the Northern Territories and in Russia as the southern Kurils. Japan has been demanding the return of all four islands, citing the 1993 Tokyo Declaration, which says the governments of the two countries should conclude a peace treaty through a solution to the dispute. Russia wants to resolve the dispute in line with the 1956 Japan-Soviet Joint Declaration, which stipulates that Moscow would return Shikotan and the Habomai islets off Nemuro on the eastern tip of Hokkaido to Japan after the conclusion of a peace treaty. The Koizumi-Putin meeting could not have generated any better results in view of the circumstances surrounding the two countries.
+
+Vladimir Putin said on 2 June, 2006, that Russia is "keen to resolve" all problems related to the past with Japan but also criticized Japan's approach in previous negotiations on a bilateral dispute over a group of Russian-held islands off northern Japan and called on Tokyo to move towards a solution.
+
+"We are keen to resolve all the problems of our past. And we are determined to look for ways of resolving those issues," Putin said in a meeting at his official residence in a Moscow suburb with representatives of news agencies from the Group of Eight nations including Japan's Kyodo News.
+
+Putin showed his position on the territorial dispute ahead of a meeting, now being arranged, with Japanese Prime Minister Junichiro Koizumi on the sidelines of the G8 summit in St Petersburg in mid-July. Koizumi has indicated that he will raise the issue in a bilateral summit.
+
+On the abduction of Japanese nationals by North Korea in the late 1970s to early 1980s, Putin said it would be difficult to take up the subject as one of the main agenda items at the G8 summit, as sought by Japan.
+
+He said, however, that Russia is ready to discuss the abduction issue at the summit if the subject is proposed by Japanese Prime Minister Junichiro Koizumi.
+
+The Russian leader noted the importance of Japan as a member of the G8 summit, which Russia will chair for the first time this year. "Japan is not merely an important partner today, but a most important prospective partner," he said.
+
+He also said it was "my mistake" that he did not mention the importance of Japan as a partner in the annual message to the parliament in May.
+
+On the territorial row, Putin said, "Russia has never ever believed that it must hand over any islands," emphasizing that Russia is not unilaterally obliged to return the territory.
+
+Putin said the then Soviet Union wished to consider the needs of Japan and accepted the 1956 Japan-Soviet Joint Declaration, which stipulates Moscow would return Shikotan and the Habomai islets-two of the four islands Tokyo claims-to Japan after the conclusion of a peace treaty.
+
+He criticized Japan for having failed to move on the issue since he took power. He said Russia returned to the declaration on the initiative of Japan and again considered the needs of Japan, but that Russia later learned that Japan does not want to respond to steps for a resolution.
+
+While saying Russia is determined to look for ways to resolve the issue, he did not present specific proposals on the part of Russia.
+
+In Tokyo, a Japanese Foreign Ministry source said of the lack of response to Russia's move on the declaration alleged by Putin, "It may mean Russia wants to resolve it by returning two (of the four) islands, but Japan has never refused the declaration." [passage omitted]
+
+In the interview, Putin also touched on a project to lay a petroleum pipeline from eastern Siberia to the Pacific coast, which both Japan and China are vying to reroute to their advantage. He said he believes the Russian government is not required to guarantee the construction, as demanded by Japan. He said there is no doubt about the potency of the project.
+
+SOURCES-CR:
+Allock et al., 1992, 500-519; BBC Monitoring International Reports, May 3, 2004; Brecher and Wilkenfeld, 1997, 537-9, Clodfelter, 1992, 645-651, 668-669; DeVillafranca, 1993, 610-624;; Grenville, 1974; Huth, Bennett, and Gelpi, 1992; http://www.karafuto.com/timetab.html; http://www.hikyaku.com/cgi-bin/keyword?histg+event+dico/hisgifg; http://www.regiments.org/milhist/wars/ww1/russia.htm; http://www.shsu.edu/~his_ncp/Morphil.html; Kinder and Hilgemann, 1978; New York Times 12/25/1897-2/5/1898; 10/5/1919; various other dates; Onwar.com; Princen, 1992, 107-130; *Reuters*, April 21, 2000; *Survey of International Affairs *(SIA), 1925 (supplement), 165, 1932, 592, 1933, 593; New York Times February 13, 2005; BBC May 12, 2005; May 31, 2005; June 3, 2006; November 21, 2005; Xinhua November 13, 2004
+
+SB-CR:
+Japan / Russia (USSR) Years: 1853-Present. Issues at stake: Control over Tsushima, Sakhalin, and the Kurile Islands; the presence of the Japanese on the Asian mainland, its proximity to Russia and Mongolia, and its control over Manchuria, Korea, and Port Arthur in particular. End coding: Continuing as of 1988 with no settlement Number of reciprocated 30 day militarized disputes: 26. Last militarized dispute: As recent as 1984. Wars: 1904-1905, 1938, 1939, 1945. Summary: The rivalry begins with Russian threats against Japan during talks on opening Japan for foreign trade. In 1861 Russia occupied Tsushima island, and in 1871 it occupied Sakhalin Island. the 1855 Treaty of Shimoda had divided the island between Russia and Japan, but the border remained unclear. In an 1875 agreement, Russia formally acquired Sakhalin island in exchange for a cession of the Kurile islands to Japan. Japanese tension with China led to further friction after Japan gained control of Port Arthur and the Liaotung Peninsula in Manchuria after the Sino-Japanese war in 1895. Japan was forced to give up formal control of those areas as a result of intervention by Britain, France, and Russia. In the 1904-1905 Russo-Japanese war, Japan recaptured those areas and Korea (which it formally annexed in 1910), advanced further into Manchuria, and regained the southern part of Sakhalin Island. Although a 1907 treaty of Peace and Friendship was signed between Japan and Russia, by 1916 Japan (along with Britain and France) had made claims regarding the Siberian railway. Increased Japanese expansion in the 1920s and 1930s in Manchuria resulted in a series of disputes leading up to the 1938 Changkufeng War and 1939 Nomohan War. In the 1945 armistice, Japan's sovereignty was limited to Honshu, Hokkaido, Kyushu, Shikoku, and some minor islands. Korea was surrendered to the US (South) and USSR (North), and the Kurile islands and south Sakhalin island were to be administered by the USSR. In the subsequent 1951 peace settlement between Japan and the United States, Japan formally gave up its claims to all territory on the Asian mainland, losing its territorial acquisitions since 1854. However, it did not give up its title of possession to either the Kurile Islands or Sakhalin Island. Although diplomatic relations were resumed in 1956 with a formal end to the state of war between Japan and the USSR, neither Japan nor Russia has recognized a settlement of the ownership of the islands. Notes: Although the dyad remains a rivalry, there have been talks in the early 1990s on resolving the Kurile Islands dispute. Sources: Grenville (1974), Huth, Bennett, and Gelpi (1992), Kinder and Hilgemann (1978).
+
+MARITIME-MIDS:
+
+ MID2993 MID3207 MID2847 MID2852 MID2861 MID2873 MID2882 MID2903 MID2911 MID2925 MID2937 MID365 MID4042 MID4297 MID4222 not considered maritime because basically about kurile islands
+
+MARITIME-DISPUTE: MID2993
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19370905 19370910
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2993 occurred 9/5-10/1937. This dispute was over fishing rights. The two states disputed the rights to fishing waters off the Siberian coast. The Soviets seized several Japanese fishing vessels. Another incident in the dispute is the Japanese presence on North Sakhalin Island. 
+
+MARITIME-DISPUTE: MID3207
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19531017 19540620
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID3207 occurs from October 17, 1953 to June 20, 1954. This dispute has to do with the disputed islands north of Japan (the Habomai gourp, Shikotan, Kunashiri and Etorofu.) On October 19, the Soviets seized a fishing boat near Kunashir Island. Two other fishing boats were seized near the Kurile Islands. During this period over 100 Japanese fishing boats were seized by the Soviets in the coastal waters near these islands. 
+
+MARITIME-DISPUTE: MID2847
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19550324 19571119
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2847 occurred from March 24, 1955 until November 19, 1957. This dispute occurred during the Japanese-Soviet Peace Teaty Negotiations. Japanese and Soviet representatives held negotiations in London from June 1, 1955 to March 20, 1956. The Soviet Union announced restrictions of Japanese fishing vessels in Soviet territorial waters on March 21, 1956, but the countries signed the *Convention on Fishing in the Open Seas of the North-West Pacific* in Moscow on May 14, 1956. The parties held negotiations in Moscow from July 31, 1956 to August 13, 1956. Japanese and Soviet representatives signed an agreement in Moscow on September 29, 1956, which provided for the termination of the state of war between the countries. Japan and the Soviet Union formally ended the state of war and resumed diplomatic relations on December 12, 1956. During these negotiations the Soviets threatened the Japanese by establishing large bases in Sakhalin Island very close to Japanese territory. 
+
+MARITIME-DISPUTE: MID2852
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19580604 19581005
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2852 occurred from June 4-October 5, 1958. During this period the Soviets seized a number of Japanese fishing boats near disputed islands north of Japan. 
+
+MARITIME-DISPUTE: MID2861
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19590127 19590824
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2861 occurred from January 27-August 24, 1959. The incident began when a Japanese stevedore insulted a Soviet Foreign Ministry official. The Soviets subsequently seized a large number of Japanese fishing vessels in disputed waters off of Hokkaido Island. The Soviets eventually released all the fishermen. 
+
+MARITIME-DISPUTE: MID2873
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19600716 19600907
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2873 occurred from July, 16 through September 7, 1960. The Soviets seized two fishing vessels near islands the USSR seized during World War II. 
+
+MARITIME-DISPUTE: MID2882
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19610611 19610818
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2882 occurred from 6/11-8/18/1961. The Soviets seized a number of fishing boats near disputed islands north of Hokkaido Island. The Soviets also threatened Japan saying that US bases on Japan would bring an attack on Japan if war occurred between the two countries. 
+
+MARITIME-DISPUTE: MID2903
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19640921 19640921
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2903 occurred on September 21, 1964. The Soviets seized a Japanese fishing vessel of the Lopatka cape near disputed islands. 
+
+MARITIME-DISPUTE: MID2911
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19651027 19651027
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2911 occurred on October 27, 1965. Here the Soviets seized a Japanese fishing vessel of the coast of Hokkaido Island. 
+
+MARITIME-DISPUTE: MID2925
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19680928 19681108
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2925 occurred from September 28, 1968 until November 8, 1968. This is a dispute over access to fishing waters. The Japanese fish the waters near the Kurile Islands heavily. The Soviets occupy these islands. The islands were occupied during World War II and the sovereignty of these islands is in dispute. 
+
+MARITIME-DISPUTE: MID2937
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19690809 19690903
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2937 occurred from August 9-September,3 1969. Here the Soviet Union collided with a Japanese fishing vessel killing 11 and also seized a Japanese fishing vessel. The Japanese foreign minister went to Moscow and discussed this issue among others. The issue at stake here is access to fishing waters and sovereignty over disputed islands near Japan. 
+
+MARITIME-DISPUTE: MID365
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19760906 19761131
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID365 occurred from September 6 to November of 1976. On 9/6 a Soviet pilot landed in Japan and defected to the US. The Japanese did not return the MIG-25 until some weeks later. This caused a row with the Soviets and the Soviets retaliated by seizing a half dozen Japanese fishing boats with crew. 
+
+MARITIME-DISPUTE: MID4042
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19931126 19950900
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4042
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19931126 19950930
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID4042 occurred from November 26, 1993 until September of 1995. This dispute is based on a series of consecutive incidents between Russia and Japan over the same territorial issues (Kuriles and fishing rights, and alleged border violations). On November 26, 1993, Russia seized the captain and two crew members of a Japanese fishing boat. Russian court sentenced captain to six months for border violation. Japan protested. On March 30, 1994, Russia engaged in a show of force to Japan by dispatching ships off its pacific fleet and two helicopters to Anuchin Islands (Southern Kuriles) after five Japanese fishing trawlers entered the Russian territorial waters. On June 4, 1994, a Russian border patrol ship engaged in a show of force by firing warning shots at six Japanese fishing vessels. The Japanese ships were allegedly in Russian waters. On August, 15, 1994, a Russian coast guard ship fired on a pair of Japanese fishing schooners that were suspected of poaching in Russian territorial waters off the Kurile Islands. Afterwards, the Russian coast guard seized the ship and the crew, detained at a nearby Russian port for at least twenty four hours. Japan protested the Russian actions. On October 4, 1994, Russian border guards sank a Japanese fishing boat and seized its crew in the disputed waters. Japan protested the incident. On March 23, 1995, a Russian warplane violated Japanese airspace off the coast of Hokkaido, according to Japan's claims. Russia denied Japan's claims about this incident. In response to the Russian action, Japanes aircraft "scrambled." On April 4, 1995, Russian border guards' marine forces opened warning fire at two Japanese speedboats that entered the Russian territorial waters. The boats left within ten minutes. Japan officially protested Russia two days later. Two days later (on April 6), Russian coast guard ships fired warning shots to force a Japanese fishing boat out of waters near the South Kuriles. On May 10, 1995, six Japanese boats were chased out of Kuriles by Russian coast guards, and warning shots were fired at the boats near Sakhalin Island. Japan protested the Russian show of force. Two weeks later, on May 24, a Russian coast guard fired warning shots at ten Japanese fishing boats to prevent them from entering the Russian territorial waters. Lastly, on September 27, 1995, a Russian coastguard vessel opened fire on two Japanese fishing boats allegedly poaching in a strait between the two countries. One crew member was injured after the Russian coastguard seized the vessels.
+
+MARITIME-DISPUTE: MID4297
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19961012 19961201
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4297
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 19961012 19961031
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4297 occurred from October 12-December 1, 1996. This dispute is based on the Russian seizure of a Japanese ship and its crew in the disputed Kuriles region. Russia claimed that the Japanese ship was within the Russian territorial waters. Japan protested the seizure and demanded the release of the fishermen. Japan said that the ship was in the Japanese territorial waters. After the dispute, both sides engaged in talks. Japanese Foreign Ministry sources said on December 1, 1996 that Japan would accept Russia's control of the southern half of Sakhalin Island by setting up a branch consulate office there next spring.
+
+MARITIME-DISPUTE: MID4222
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 20000421 20000421
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4222
+ DYAD: RUSSIA/USSR JAPAN 365740
+ DATES: 20000421 20000421
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID4222 occurred on April 21, 2000. A Russian coast guard vessel fired at, and subsequently seized a Japanese fishing trawler on April 21, 2000 in the region of the disputed southern Kurile islands. The Japanese authorities indicated that the Japanese fishermen had never left the 200-mile Japanese economic zone. However, the Russian officials legitimized the firing and seizure of the Russian coast guards, saying that the Japanese vessel disobeyed orders from a Russian patrol boat to stop for inspection. According to them, the Japanese vessel entered the Russian economic zone and was seized by the Russian border guards while it was escaping from the Russian economic zone into the neutral waters.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+ Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+"Russian Warplanes Violate Japanese Airspace." Deutsche Presse-Agentur 2/14/2001. LexisNexis. 
+
+New York Times (1982). Japan Cuts Off Soviet Plane. New York Times April 4: 17.

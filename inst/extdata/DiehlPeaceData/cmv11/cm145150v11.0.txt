@@ -1,0 +1,630 @@
+FILE: cm145150v11.0.txt
+DYAD: BOLIVIA-PARAGUAY
+RIVALRY: RIV10333
+DISPUTE(S): MID2128 MID1601 MID1179 MID1182 MID2129 MID1183 MID2130 MID2131 MID2132 MID1025 MID1026 MID2133 MID1027 MID1211 MID2134 MID1028 MID2135 MID1082 MID1029 
+
+PS: 19009999-19380721 0.0 19380722-20209999 .5
+
+PS-UPDATE2020: 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220218
+PS-LAST-CHECKED: 20220218
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID2128 MID1601
+
+MID1179 
+
+TERRMID: MID1179 1 -- territorial MID
+TERRMID-CER: MID1179 1 -- certain 
+TERRMID-NOTES: MID1179 from cm narrative, Bolivia and Paraguay disputed the border region of Gran Chaco since the 1800s. Here, in January 1906, a minor border incident occurred, triggering this MID. The countries agreed to mediation and eventually signed an agreement in 1907 to prevent further border clashes. The agreement did not hold up. Coded territorial MID because this was a border clash in the disputed territory.
+
+TERRLINK: MID1179 3 -- not third party link to territory 
+TERRLINK-CER: MID1179 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1179 3 -- not maritime 
+MARITMID-CER: MID1179 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1179 3 -- not islands 
+ISLMID-CER: MID1179 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1179 3 -- not civil war 
+CIVWARMID-CER: MID1179 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1179 3 -- not civil war link 
+CIVWARLINK-CER: MID1179 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1179 3 -- not coup 
+COUPMID-CER: MID1179 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1179 3 -- not coup link
+COUPLINK-CER: MID1179 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1182 
+
+TERRMID: MID1182 3 -- not territory 
+TERRMID-CER: MID1182 1 -- certain 
+TERRMID-NOTES: MID1182 from MID-B data, this MID has date 11/1918-12/1918. From NYT 11/26/1918, Bolivia and Paraguay disputed their boundary at the Great Chaco region. Here, Bolivia built several garrisons in the disputed territory and moved troops into the area, triggering this MID. Coded territorial MID because this was connected to the disputed border. 
+
+TERRLINK: MID1182 3 -- not third party link to territory 
+TERRLINK-CER: MID1182 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1182 3 -- not maritime 
+MARITMID-CER: MID1182 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1182 3 -- not islands 
+ISLMID-CER: MID1182 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1182 3 -- not civil war 
+CIVWARMID-CER: MID1182 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1182 3 -- not civil war link 
+CIVWARLINK-CER: MID1182 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1182 3 -- not coup 
+COUPMID-CER: MID1182 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1182 3 -- not coup link
+COUPLINK-CER: MID1182 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2129 
+
+TERRMID: MID2129 1 -- territorial MID
+TERRMID-CER: MID2129 1 -- certain 
+TERRMID-NOTES: from MID-B data, this MID has date 10/1921-12/1921. From Schultz data, the Bolivian government began gradually occupying the disputed area of the Chaco region. Coded territorial MID because this was an occupation of disputed territory. Note that while it is certain that Bolivia was occupying the territory and this should be sufficient to trigger a MID, Schultz notes that there is no evidence of military clashes, and no further info on this dispute could be found in Gibler, Little, and Miller (2016), NYT, Facts on File, Keesings, or cm narrative. 
+
+TERRLINK: MID2129 3 -- not third party link to territory 
+TERRLINK-CER: MID2129 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2129 3 -- not maritime 
+MARITMID-CER: MID2129 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2129 3 -- not islands 
+ISLMID-CER: MID2129 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2129 3 -- not civil war 
+CIVWARMID-CER: MID2129 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2129 3 -- not civil war link 
+CIVWARLINK-CER: MID2129 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2129 3 -- not coup 
+COUPMID-CER: MID2129 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2129 3 -- not coup link
+COUPLINK-CER: MID2129 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1183 
+
+TERRMID: MID1183 1 -- territorial MID 
+TERRMID-CER: MID1183 3 -- uncertain 
+TERRMID-NOTES: MID1183 from MID-B data, this MID has date 9/1922-11/1922. From Gibler, Little, and Miller (2016: IIB-6), this MID is the construction of forts in disputed territory by both countries. GLM advise that this is a double-count because this is already documented as a MID, MID2131. Coded territorial MID because this was military action in disputed territory. Coded uncertain because GLM recommend this MID be dropped. 
+
+TERRLINK: MID1183 3 -- not third party link to territory 
+TERRLINK-CER: MID1183 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1183 3 -- not maritime 
+MARITMID-CER: MID1183 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1183 3 -- not islands 
+ISLMID-CER: MID1183 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1183 3 -- not civil war 
+CIVWARMID-CER: MID1183 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1183 3 -- not civil war link 
+CIVWARLINK-CER: MID1183 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1183 3 -- not coup 
+COUPMID-CER: MID1183 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1183 3 -- not coup link
+COUPLINK-CER: MID1183 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2130 
+
+TERRMID: MID2130 1 -- territorial MID
+TERRMID-CER: MID2130 1 -- certain 
+TERRMID-NOTES: MID2130 from Schultz data, the Bolivian president built forts in the disputed area, the Gran Chaco. Building forts in the area was a common action taken by both countries. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID2130 3 -- not third party link to territory 
+TERRLINK-CER: MID2130 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2130 3 -- not maritime 
+MARITMID-CER: MID2130 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2130 3 -- not islands 
+ISLMID-CER: MID2130 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2130 3 -- not civil war 
+CIVWARMID-CER: MID2130 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2130 3 -- not civil war link 
+CIVWARLINK-CER: MID2130 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2130 3 -- not coup 
+COUPMID-CER: MID2130 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2130 3 -- not coup link
+COUPLINK-CER: MID2130 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2131 
+
+TERRMID: MID2131 1 -- territorial MID
+TERRMID-CER: MID2131 1 -- certain 
+TERRMID-NOTES: MID2131 from Gibler, Little, and Miller (2016: IIB-6), Bolivia and Paraguay were constructing forts in the Chaco region, which was disputed. Occurred 1924. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID2131 3 -- not third party link to territory 
+TERRLINK-CER: MID2131 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2131 3 -- not maritime 
+MARITMID-CER: MID2131 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2131 3 -- not islands 
+ISLMID-CER: MID2131 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2131 3 -- not civil war 
+CIVWARMID-CER: MID2131 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2131 3 -- not civil war link 
+CIVWARLINK-CER: MID2131 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2131 3 -- not coup 
+COUPMID-CER: MID2131 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2131 3 -- not coup link
+COUPLINK-CER: MID2131 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2132 
+
+TERRMID: MID2132 1 -- territorial MID 
+TERRMID-CER: MID2132 1 -- certain 
+TERRMID-NOTES: MID2132 from Schultz data, on 2/26/1927, Bolivian soldiers pursued and captured Paraguayan soldiers who had entered the disputed Chaco region and were possibly trying to capture a Bolivian fort in the area. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID2132 3 -- not third party link to territory 
+TERRLINK-CER: MID2132 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2132 3 -- not maritime 
+MARITMID-CER: MID2132 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2132 3 -- not islands 
+ISLMID-CER: MID2132 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2132 3 -- not civil war 
+CIVWARMID-CER: MID2132 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2132 3 -- not civil war link 
+CIVWARLINK-CER: MID2132 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2132 3 -- not coup 
+COUPMID-CER: MID2132 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2132 3 -- not coup link
+COUPLINK-CER: MID2132 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1025 
+
+TERRMID: MID1025 1 -- territorial MID 
+TERRMID-CER: MID1025 3 -- uncertain 
+TERRMID-NOTES: MID1025 from MID-B data, this MID has date 8/1927-9/1927. From NYT 8/27/1927, Bolivia and/or Paraguay may have deployed troops to the disputed territory, but this could not be verified. Schultz finds no evidence that troops were deployed. Coded territorial MID because this was connected to the disputed Chaco region, but coded uncertain because the NYT could not verify a dispute had actually occurred and Schultz finds no evidence of a dispute. 
+
+TERRLINK: MID1025 3 -- not third party link to territory 
+TERRLINK-CER: MID1025 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1025 3 -- not maritime 
+MARITMID-CER: MID1025 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1025 3 -- not islands 
+ISLMID-CER: MID1025 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1025 3 -- not civil war 
+CIVWARMID-CER: MID1025 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1025 3 -- not civil war link 
+CIVWARLINK-CER: MID1025 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1025 3 -- not coup 
+COUPMID-CER: MID1025 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1025 3 -- not coup link
+COUPLINK-CER: MID1025 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1026 
+
+TERRMID: MID1026 1 -- territorial MID 
+TERRMID-CER: MID1026 1 -- certain 
+TERRMID-NOTES: MID1026 from Schultz data, on 12/5/1928, Paraguayan troops destroyed a Bolivian fort in the disputed Chaco region. In December, Bolivia captured a Paraguayan fort. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID1026 3 -- not third party link to territory 
+TERRLINK-CER: MID1026 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1026 3 -- not maritime 
+MARITMID-CER: MID1026 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1026 3 -- not islands 
+ISLMID-CER: MID1026 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1026 3 -- not civil war 
+CIVWARMID-CER: MID1026 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1026 3 -- not civil war link 
+CIVWARLINK-CER: MID1026 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1026 3 -- not coup 
+COUPMID-CER: MID1026 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1026 3 -- not coup link
+COUPLINK-CER: MID1026 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2133 
+
+TERRMID: MID2133 1 -- territorial MID 
+TERRMID-CER: MID2133 1 -- certain 
+TERRMID-NOTES: MID2133 from Schultz data, on 1/16/1930, Bolivian and Paraguayan forces clashed in the disputed territory, killing one. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID2133 3 -- not third party link to territory 
+TERRLINK-CER: MID2133 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2133 3 -- not maritime 
+MARITMID-CER: MID2133 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2133 3 -- not islands 
+ISLMID-CER: MID2133 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2133 3 -- not civil war 
+CIVWARMID-CER: MID2133 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2133 3 -- not civil war link 
+CIVWARLINK-CER: MID2133 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2133 3 -- not coup 
+COUPMID-CER: MID2133 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2133 3 -- not coup link
+COUPLINK-CER: MID2133 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1027 
+
+TERRMID: MID1027 1 -- territorial MID
+TERRMID-CER: MID1027 1 -- certain 
+TERRMID-NOTES: MID1027 from Schultz data, this MID is the Chaco War, a war that occurred over the disputed Chaco region. It began with a minor military clash in 1931 and escalated, finally coming to an end in 1935 with an agreement by both countries to submit the territorial dispute to the ICJ for arbitration. Coded territorial MID because this was connected to the territorial dispute. 
+
+TERRLINK: MID1027 3 -- not third party link to territory 
+TERRLINK-CER: MID1027 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1027 3 -- not maritime 
+MARITMID-CER: MID1027 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1027 3 -- not islands 
+ISLMID-CER: MID1027 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1027 3 -- not civil war 
+CIVWARMID-CER: MID1027 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1027 3 -- not civil war link 
+CIVWARLINK-CER: MID1027 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1027 3 -- not coup 
+COUPMID-CER: MID1027 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1027 3 -- not coup link
+COUPLINK-CER: MID1027 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1211 
+
+TERRMID: MID1211 1 -- territorial MID 
+TERRMID-CER: MID1211 3 -- uncertain 
+TERRMID-NOTES: MID1211 from Gibler, Little, and Miller (2016: IIC-2), Bolivia and Paraguay had signed a cease fire, but here, an exchange of military threats occurred over recriminations in the disputed region. Coded territorial MID because this was connected to the disputed territory. However, GLM argue that this case should be merged with MID1027 and MID1211. Those MIDs were coded as separate events because they occurred several months apart, but this MID (MID1211) actually occurred between these disputes and therefore erase the period of inactivity that separates those MIDs. Coded uncertain for this reason. 
+
+TERRLINK: MID1211 3 -- not third party link to territory 
+TERRLINK-CER: MID1211 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1211 3 -- not maritime 
+MARITMID-CER: MID1211 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1211 3 -- not islands 
+ISLMID-CER: MID1211 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1211 3 -- not civil war 
+CIVWARMID-CER: MID1211 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1211 3 -- not civil war link 
+CIVWARLINK-CER: MID1211 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1211 3 -- not coup 
+COUPMID-CER: MID1211 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1211 3 -- not coup link
+COUPLINK-CER: MID1211 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2134 
+
+TERRMID: MID2134 1 -- territorial MID
+TERRMID-CER: MID2134 3 -- uncertain 
+TERRMID-NOTES: MID2134 from Gibler, Little, and Miller (IIB-20), the Paraguayan military had set up on an international road connected to Bolivia and was apparently harassing trucks. However, the Paraguayan military had authorization to be on this road and no threat to Bolivia was made. There was no evidence that Bolivia perceived the Paraguayan presence on that road as a threat. GLM suggest this case be dropped. Coded territorial MID because Paraguay was using the harassment as leverage during the Chaco territorial/border negotiations, but coded uncertain because GLM suggest this case be dropped since no actual dispute occurred. 
+
+TERRLINK: MID2134 3 -- not third party link to territory 
+TERRLINK-CER: MID2134 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2134 3 -- not maritime 
+MARITMID-CER: MID2134 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2134 3 -- not islands 
+ISLMID-CER: MID2134 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2134 3 -- not civil war 
+CIVWARMID-CER: MID2134 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2134 3 -- not civil war link 
+CIVWARLINK-CER: MID2134 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2134 3 -- not coup 
+COUPMID-CER: MID2134 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2134 3 -- not coup link
+COUPLINK-CER: MID2134 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1028 
+
+TERRMID: MID1028 1 -- territorial MID
+TERRMID-CER: MID1028 3 -- uncertain 
+TERRMID-NOTES: MID1028 from Gibler, Little, and Miller (2016: IIB-20), this MID should be dropped. It is coded as a threat in the COW MID data, but GLM find no evidence for this. According to COW, the NYT reported that Bolivian President Toro stated that the Paraguayan occupation of disputed territory could easily lead to clashes, which the COW coders coded as a threat and MID1028. GLM argue that this is a "vague threat at best,” that Paraguay never responded, and that therefore there is no evidence that they perceived this as a threat. Coded territorial MID because this incident, whatever its actual nature, was connected to the disputed territory, but coded uncertain because of GLM's recommendation to drop this MID. 
+
+TERRLINK: MID1028 3 -- not third party link to territory 
+TERRLINK-CER: MID1028 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1028 3 -- not maritime 
+MARITMID-CER: MID1028 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1028 3 -- not islands 
+ISLMID-CER: MID1028 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1028 3 -- not civil war 
+CIVWARMID-CER: MID1028 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1028 3 -- not civil war link 
+CIVWARLINK-CER: MID1028 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1028 3 -- not coup 
+COUPMID-CER: MID1028 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1028 3 -- not coup link
+COUPLINK-CER: MID1028 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2135 
+
+TERRMID: MID2135 1 -- territorial MID
+TERRMID-CER: MID2135 3 -- uncertain 
+TERRMID-NOTES: MID2135 from Gibler, Little, and Miller (2016: IIB-20-21), this MID occurred in the aftermath of the Chaco War - in 1937. Paraguay occupied a road that was on a piece of territory that it had won in the Chaco War, triggering a diplomatic dispute and this MID. Schultz also discusses a series of aggressive actions by the Paraguayan troops on the road. Coded territorial MID because this was connected to the disputed territory.
+
+TERRLINK: MID2135 3 -- not third party link to territory 
+TERRLINK-CER: MID2135 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2135 3 -- not maritime 
+MARITMID-CER: MID2135 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2135 3 -- not islands 
+ISLMID-CER: MID2135 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2135 3 -- not civil war 
+CIVWARMID-CER: MID2135 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2135 3 -- not civil war link 
+CIVWARLINK-CER: MID2135 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2135 3 -- not coup 
+COUPMID-CER: MID2135 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2135 3 -- not coup link
+COUPLINK-CER: MID2135 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1082 
+
+TERRMID: MID1082 1 -- territorial MID
+TERRMID-CER: MID1082 1 -- certain 
+TERRMID-NOTES: MID1082 from Schultz data, this MID occurred 9/1937-12/1937 and involved mutual troop buildups in Chaco, despite an agreement that featured caps on the numbers of troops allowed. Coded territorial MID because this was connected to the territorial dispute, and the agreement signed at the end of the Chaco war had not led to a decrease in tensions over Chaco. 
+
+TERRLINK: MID1082 3 -- not third party link to territory 
+TERRLINK-CER: MID1082 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1082 3 -- not maritime 
+MARITMID-CER: MID1082 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1082 3 -- not islands 
+ISLMID-CER: MID1082 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1082 3 -- not civil war 
+CIVWARMID-CER: MID1082 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1082 3 -- not civil war link 
+CIVWARLINK-CER: MID1082 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1082 3 -- not coup 
+COUPMID-CER: MID1082 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1082 3 -- not coup link
+COUPLINK-CER: MID1082 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1029 
+
+TERRMID: MID1029 1 -- territorial MID 
+TERRMID-CER: MID1029 1 -- certain 
+TERRMID-NOTES: MID1029 from Schultz data, Bolivia was again concentrating troops near the Chaco region in preparation for resumed hostilities. Coded territorial MID because this was connected to the disputed Chaco region which had not successfully been settled. 
+
+TERRLINK: MID1029 3 -- not third party link to territory 
+TERRLINK-CER: MID1029 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1029 3 -- not maritime 
+MARITMID-CER: MID1029 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1029 3 -- not islands 
+ISLMID-CER: MID1029 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1029 3 -- not civil war 
+CIVWARMID-CER: MID1029 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1029 3 -- not civil war link 
+CIVWARLINK-CER: MID1029 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1029 3 -- not coup 
+COUPMID-CER: MID1029 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1029 3 -- not coup link
+COUPLINK-CER: MID1029 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10333 was originally coded as three separate rivalries, the first two rivalries constituting MID2128 and MID1601 in one rivalry and MID1179 in the other respectively and disputes starting with MID1182 in the last. Yet all disputes involve the same territorial dispute (Gran Chaco) and therefore are combined into one.
+
+Rivalry from riv30 eliminated in riv500 because disputes have been incorporated in other rivalries: 
+RIVALRY: RIV334
+DATES (may not be accurate, see riv5.20all.cvs): 19060100 -19060100
+RIVALRY: RIV335
+DATES (may not be accurate, see riv5.20all.cvs): 19181100 -19380721
+
+NARRATIVE-CM:
+Bolivia and Paraguay disputed the Chaco Boreal region (Gran Chaco) beginning on November 12, 1878, when President Rutherford Hayes of the United States awarded the region to Paraguay in an arbitration decision against Argentina. Bolivia and Paraguay signed the *Quijarro-Decoud Treaty* in Asuncion on October 15, 1879, which established the boundary in the disputed region. The countries failed to ratify the *Quijarro-Decoud Treaty*. Miguel Suarez Arana of Bolivia founded Bahia Negra (Puerto Pacheco) in the region on July 16, 1885. Paraguayan troops captured Bahia Negra (Puerto Pacheco) and five Bolivian soldiers on December 23, 1887. Bolivia severed diplomatic relations with Paraguay. Uruguay facilitated negotiations between Bolivia and Paraguay, which resulted in the resumption of diplomatic relations on July 31, 1889. Foreign Minister Manuel Dominguez of Argentina facilitated negotiations between Bolivia and Paraguay beginning in December 1906, and the parties signed the *Soler-Pinilla Protocol *in Buenos Aires on January 12, 1907. Bolivia and Paraguay did not ratify the *Soler-Pinilla Protocol*, which would have provided for Argentine arbitration of the territorial dispute. Bolivia and Paraguay signed the *Ayala-Mujia Protocol* on April 5, 1913, which formally nullified the *Soler-Pinilla Protocol*. President Marcelo de Alvear of Argentina offered to facilitate negotiations between Bolivia and Paraguay in November 1924, but Bolivia rejected the good offices offer. Bolivian troops captured five Paraguayan soldiers near Fortin Sorpresa on February 26, 1927, and one Paraguayan soldier was killed attempting to escape. Bolivia and Paraguay signed the *Gutierrez-Diaz-Leon Protocol* on April 22, 1927, which provided for bilateral negotiations between Bolivian and Paraguayan representatives under the auspices of the Argentine government. Argentina facilitated negotiations between Bolivia and Paraguay in Buenos Aires from September 29, 1927 to July 12, 1928, and Argentina suggested that the dispute be submitted to arbitration on July 13, 1928. Paraguayan troops from Fort Galpon attacked Fortin Vanguardia in the disputed territory on December 5, 1928, resulting in the deaths of five Bolivian soldiers and the capture of 23 Bolivian soldiers (two of whom were shot by Paraguayan soldiers on December 6, 1928). Argentina offered to mediate negotiations between the parties on December 6, 1928. Bolivia severed diplomatic relations with Paraguay on December 9, 1928. Aristide Briand, Secretary-General of the *League of Nations* (LON), appealed for peaceful negotiations on December 11, 1928. The *International Conference of American States on Arbitration and Conciliation* (ICASAC), which met in Washington DC from December 10, 1928 to Janaury 5, 1929, offered to facilitate negotiations between Bolivia and Paraguay on December 14, 1928. Some 150 Bolivian troops captured Fort Mariscal Lopez on December 14, 1928, and Bolivian troops captured Fort Boqueron* *from Paraguayan troops on December 16, 1928. Spain offered to facilitate negotiations between the parties on December 17, 1928. Paraguay accepted the good officies offer of the ICASAC on December 17, 1928, and Bolivia accepted the offer on December 25, 1928. The Vatican City appealed for peaceful negotiations on December 19, 1928. Bolivia and Paraguay signed a protocol in Washington DC on January 3, 1929, which provided for the establishment of a nine-member Commission of Inquiry and Conciliation (Bolivia, Colombia, Cuba, Mexico, Paraguay, Uruguay, United States). The Commission of Inquiry and Conciliation, which was assisted by 13 staff personnel chaired by General Frank Ross McCoy of the US, met in Washington DC beginning on March 13, 1929. The Commission of Inquiry and Conciliation arranged for the repatriation of Bolivian and Paraguayan soldiers between May 13 and July 8, 1929. The Commission of Inquiry and Conciliation adopted a resolution on September 12, 1929, which recommended that the parties submit the dispute to arbitration. The Commission of Inquiry and Conciliation disbanded on September 13, 1929, and issued its final report on September 21, 1929. Colombia, Cuba, Mexico, Uruguay, and the US offered to facilitate negotiations between the parties on September 18, 1929. Paraguay accepted the good offices offer of the five neutral countries on October 4, 1929, and Bolivia accepted the good offices offer on October 13, 1929. Uruguay facilitated negotiations between Bolivian and Paraguayan representatives beginning in November 1929. Bolivian and Paraguayan troops clashed near Fort Boqueron on January 16, 1930, resulting in the death of one Paraguayan soldier. Paraguay referred the matter to the LON Council on January 21, 1930. Auguste Zaleski, President of the LON Council, appealed for peaceful negotiations on January 23, 1930. Bolivia and Paraguay signed a protocol in Montevideo on April 4, 1930, which provided for the resumption of diplomatic relations between the parties. Uruguay deployed two military observers in the disputed region on April 5, 1930. Bolivia and Paraguay formally resumed diplomatic relations on May 1, 1930, and exchanged captured forts on July 23, 1930. Uruguay withdrew its military observers from the disputed region in August 1930. Bolivia expressed concern about Paraguay's increasing military presence in the disputed region on June 18, 1931. Colombia, Cuba, Mexico, Uruguay, and the US offered to facilitate negotiations between the parties on June 25, 1931. Bolivia severed diplomatic relations with Paraguay on July 5, 1931. Foreign Minister Ernesto Bosch of Argentina offered to facilitate negotiations between the parties on July 10, 1931, but Bolivia rejected the good offices offer. Bolivian troops captured the Fortin Masamaklay (Agua Rica) on September 6, 1931. Paraguayan troops unsuccessfully attempted to recaptured Fortin Masamaklay on September 25, 1931, resulting in the deaths of 17 soldiers. Bolivia and Paraguay held negotiations concerning a non-aggression pact facilitated by the *Washington Committee of Neutrals* (WCN) chaired by Francis White of the US in Washington DC beginning on November 11, 1931. Foreign Minister Carlos Saavedra Lamas of Argentina attempted to facilitate negotiations concerning the resumption of diplomatic relations between Bolivia and Paraguay beginning on March 16, 1932. The WCN presented a proposed non-aggression pact to the parties on May 7, 1932. Some 300 Bolivian troops commanded by Major Oscar Moscoco captured Fort Carlos Antonio Lopez and Fort Pitiantuta from Paraguayan troops on June 15, 1932. Paraguay withdrew from the negotiations in Washington DC on July 7, 1932. Argentina provided military assistance to Paraguay beginning in July 1932. Paraguayan troops recaptured Fort Carlos Antonio Lopez on July 15, 1932. Uruguay announced a policy of "absolute neutrality" on July 21, 1932. Bolivian troops captured several Paraguayan forts (Corrales, Toldeo, and Boqueron) on July 26-31, 1932. Paraguay mobilized some 15,000 troops beginning on August 1, 1932, and Bolivia referred the matter to the LON Council on August 2, 1932. The WCN demanded a cessation of military hostilities on August 2, 1932, but Bolivia rejected the ceasefire demand. The US and 18 Latin American countries issued the *Non-Recognition Declaration* on August 3, 1932, which suggested that those countries would not recognize any territorial gains through the use of military force. Argentina, Brazil, Chile, and Peru began conciliation efforts concerning the Chaco Boreal dispute on August 6, 1932. Paraguayan troops recaptured Fort Pitiantuta on August 12, 1932. Bolivian troops captured Fortin Falcon (Rojas Silva) on September 7, 1932. Some 10,000 Paraguayan troops commanded by Colonel Jose Felix Estigarribia attacked Fort Boqueron on September 9, 1932. The WCN appealed for a ceasefire on September 10, 1932, and threatened diplomatic sanctions against the parties on September 22, 1932. Paraguayan troops captured Fort Boqueron on September 29, 1932, resulting in the deaths or wounding of some 1,500 Paraguayan soldiers and 1,200 Bolivian soldiers. Paraguayan troops captured several forts (Platanillos, Bolivar, Loa, Jayacuba) on November 6-9, 1932, but Bolivian troops recaptured the forts on December 15-21, 1932. The WCN proposed a settlement of the dispute on December 15, 1932, but Paraguay rejected the proposal on December 17, 1932. The LON Council appealed for a ceasefire on December 17, 1932. The WCN referred the matter to Argentina, Brazil, Chile, and Peru on December 31, 1932. Bolivian troops captured Fortin Pitiantutu and Fortin Lopez on January 8, 1933. The foreign ministers of Argentina, Brazil, Chile, and Peru attempted to mediate a ceasefire agreement beginning on January 25, 1933. Argentina, Brazil, Chile, and Peru appealed for a ceasefire and troop withdrawal on February 24 and April 22, 1933. President Ayala of Paraguay announced a state-of-war with Bolivia on May 10, 1933, and Bolivia referred the matter to the LON Council on May 12, 1933. Argentina, Chile, and Uruguay proclaimed their neutrality in the conflict on May 13, 1933, and Peru proclaimed its neutrality in the conflict on May 14, 1933. Brazil proclaimed its neutrality in the conflict on May 25, 1933. The WCN was formally disbanded on June 27, 1933. Bolivian troops and Paraguayan troops clashed near Nanawa on July 4-6, 1933, resulting in the deaths of some 2,000 Bolivian soldiers. The LON Council established a six-member commission of inquiry (Spain, Britain, France, Italy, Mexico, Uruguay) headed by Alvarez del Vayo of Spain on July 19, 1933. Argentina, Brazil, Chile, and Peru disbanded their conciliation efforts on September 30, 1933. Bolivian troops and Paraguayan troops clashed near Campo Via from October 23 to December 13, 1933, resulting in the deaths and wounding of 8,000 Paraguayan soldiers and 4,000 Bolivian soldiers. The LON commission of inquiry and two staff personnel visited La Paz and Asuncion from November 3 to December 23, 1933. Bolivia and Paraguay agreed to a ceasefire from December 19, 1933 to January 6, 1934. The Seventh International Conference of American States approved a resolution on December 26, 1933, which appealed to Bolivia and Paraguay to accept LON mediation. Bolivian and Paraguayan troops resumed military hostilities on January 6, 1934. The LON commission of inquiry issued a report to the LON Council on May 12, 1934, which recommended that the Chaco Boreal be divided between the two countries and that an arms embargo should be put into effect. The LON Council approved military sanctions (arms embargo) against Bolivia and Paraguay on May 19, 1934. The US imposed military sanctions (arms and ammunition embargo) against Bolivia and Paraguay on May 28, 1934. Bolivia referred the matter to the LON Assembly on May 31, 1934. The presidents of Colombia and Peru offered to facilitate negotiations between Bolivia and Paraguay on June 16, 1934. The LON Assembly established a nine-member conciliation commission (China, Colombia, Cuba, Czechoslovakia, Ireland, Peru, Sweden, Uruguay, Venezuela) chaired by Stephan Osusky of Czechoslovakia on September 27, 1934. Bolivian troops and Paraguayan troops clashed near Canada El Carmen on November 11-16, 1934, resulting in the deaths of 2,500 Bolivian soldiers. Paraguayan troops captured Fort Ballivian on November 17, 1934. The LON conciliation commission issued a report on November 18, 1934, which provided for a cessation of military hostilities and the establishment of a neutral zone. The LON Assembly approved the report on November 24, 1934. Paraguayan troops captured several forts (Samaihuata, Florida, Picuiba, Loma, Vistosa, Irindague) on December 7-8, 1934. Bolivia accepted the LON Assembly recommendations on December 10, 1934, but Paraguay rejected the recommenedations on December 18, 1934. The advisory committee of the LON Assembly recommended the lifting of military sanctions against Bolivia on January 16, 1935 (the military sanctions against Bolivia were lifted on February 24, 1935). Paraguay announced on February 24, 1935 that it was withdrawing from the LON. Argentina, Brazil, Chile, Peru, and the US convened a neutral conciliation commission in Buenos Aires on May 9, 1935 (Uruguay joined the commission on May 11, 19350. Bolivia and Paraguay signed an agreement in Buenos Aires on June 12, 1935, which provided for a cessation of military hostilities and demobolization of troops in the disputed region within three months. Bolivian troops and Paraguayan troops formally ended military hostilities on June 14, 1935. Some 36,000 Paraguayans and 52,000 Bolivians were killed during the conflict. The six neutral countries established the *Neutral Military Commission* (NMC) commanded by General Rodolfo Martinez Pita of Argentina on June 15, 1935, which was given responsibility for the supervision of the demobilization of Bolivian and Paraguayan troops. The six neutral countries convened the Chaco Peace Conference, which was chaired by Foreign Minister Carlos Saavedra Lamas of Argentina, in Buenos Aires on July 1, 1935. The NMC was disbanded on October 1, 1935, and issued its final report on October 18, 1935. The US formally lifted military sanctions against the parties on November 29, 1935. The LON Council formally lifted military sanctions against the parties on December 24, 1935. The countries signed a protocol in Buenos Aires on January 21, 1936, which provided for the established of a military observation mission in the Chaco Boreal region and the complete repatriation of prisoners-of-war under the supervision of a repatriation commission. The Chaco Peace Conference established the Special Repatriation Commission headed by Colonel Ernesto Florit of Argentina on February 3, 1936. Some 2,500 Paraguayan prisoners were repatriated on June 13, 1936, and some 17,000 Bolivian prisoners were repatriated on July 6, 1936. Bolivia and Paraguay agreed to resume diplomatic relations on August 25, 1936. Bolivia and Paraguay signed an agreement on January 9, 1937, which provided for the continuation of the military observation mission in the Chaco Boreal region. The Special Repatriation Commission issued its final report to the Chaco Peace Conference on May 17, 1937. Bolivia and Paraguay agreed to submit the dispute to arbitration on July 9, 1938. Bolivia and Paraguay signed the *Treaty of Peace, Friendship, and Boundaries *in Buenos Aires on July 21, 1938, which formally provided for the establishment of a six-member arbitration tribunal (Argentina, Brazil, Chile, Peru, Uruguay, US). Bolivia and Paraguay ratified the treaty on August 29, 1938. The arbitration tribunal issued a decision on October 10, 1938, which awarded Paraguay three-fourths of the disputed region.
+
+SOURCES-CM: 
+*American Journal of International Law *(AJIL), 1934, 749; Bannon and Dunne, 1947, 780-782; Brecher and Wilkenfeld, 1997, 497-499; Burton, 1941, 333-348; Clodfelter, 1992, 700-704; Farcau 1996; Fifer, 1972, 205-221; *Foreign Relations of the United States *(FRUS), 1907, 85-89, 1928 (vol.I), 672-700; Garner 1966; Ireland, 1938, 66-95; Murdock, 1929, 273-291; Rout 1970; Stuyt, 1990, 575; *Survey of International Affairs *(SIA), 1930, 421-436, 554, 1931, 511, 1932, 588-589, 1933, 578-579, 1934, 693-694, 1935, 413-414, 1936, 837-872, 1938, 692-693; Walters, 1952, 524-536; Warren, 1949, 285-314; Zook 1960.
+
+NARRATIVE-CR: 
+The rivalry between Bolivia and Paraguay involved territorial claims over the Chaco Boreal region that bordered the two countries. The territorial claims were the result of seemingly ambiguous boundaries given to the two states after Spanish decolonization. Because the claims were unresolved at the beginning of decolonization, the rivalry between the two is a continuous one that actually starts as early as 1886, MID2128.
+
+On August 10, 1886 Paraguay re-established a military guard garrison at Fuerte Olimpo in the Chaco which was in Bolivian territory according to an earlier treaty, *Decoud-Quijarro*, signed between the two sides. In December 1887, Bolivia sent its own troops into the territory to prevent Paraguay from controlling the region. Paraguayan troops captured Bahia Negra (Puerto Pacheco) and five Bolivian soldiers on December 23, 1887, MID1601. Bolivia severed diplomatic relations with Paraguay. Uruguay facilitated negotiations between Bolivia and Paraguay, which resulted in the resumption of diplomatic relations on July 31, 1889. After another incident over the region in January 1906, MID1179, Foreign Minister Manuel Dominguez of Argentina facilitated negotiations between Bolivia and Paraguay beginning in December 1906, and the parties signed the *Soler-Pinilla Protocol *in Buenos Aires on January 12, 1907.
+
+This rivalry comes to a conclusion in August 1938 when Bolivia and Paraguay ratified the *Treaty of Peace, Friendship, and Boundaries*, calling for an arbitration by six states (Argentina, Brazil, Chile, Peru, Uruguay and the US) to settle the boundary issue. Border skirmishes in June and July 1938 characterize the end of the rivalry in terms of militarized conflict (MID1029 from 6/5/38 to 7/21/38). While the treaty explains a large part of the ending of the rivalry, there are other issues that must be considered, especially given the fact that both Bolivia and Paraguay, along with numerous third parties had tried to settle the issue before as early as 1879 with the *Quijarro-Decoud Treaty* that supposedly establihsed the boundary.
+
+Overall, the Chaco War (MID1027) between the two countries from 1931 to 1935 seems to provide the catalyst for the rivalry termination, leaving each country severly weakened by the other. Prior to and after the war, clashes between the two countries over the border dispute were much less costly in terms of life and money. The Chaco War created casualties that ran from 80,000 to 100,000 dead between the two sides. While Paraguay's defeat of Bolivia and control of most of the Chaco left little left for Paraguay to want to dispute, its victory and subsequent treaty with Bolivia brought about economic crisis along with a rise of nationalism that led to a series of coups and dictatorships bringing the military to power. Economically, the war had cost the country $US 128 million and severly diminshed the country's manpower. Politically, nationalist groups in Paraguay viewed President Eligio Ayala's concessions as too much, leading to his removal from office in August 1936 by a military junta led by Rafael Franco. Franco had also come to power after appealing to a discontent war-weary population. Franco's junta soon fell as well as they were unable to deliver on promises of expropriating land for the poor and being tougher militarily in dealing with Bolivia. In August 1937, the junta suffered a coup by Conservative army officers. Dr. Felix Paiva was placed as interim president. During his presidency, Paraguay signed the permanent treaty with Bolivia, ending the rivalry. In 1939, the Liberal party's Felix Estigarribia was elected as president. In 1940 Estigarribia granted himself dictatorial powers. In 1940 Estigarribia had a new constitution written that would control the anarchial environment brought about by the end of the Chaco War. The constitution rejected laissez-faire economics and delegated most national affairs to the state. A mysterious death in 1940 of Estigarribia led to the placement of General Higinio Morinigo as provisional president. Morinigo forced all Liberals out of the government, replacing them with Franco's former followers along with the Tiempistas, a group of Catholic socialists. Morinigo remained in power until 1946 at which time pressure from the US to democratize led to scheduled elections. Increased competition for power led not to peaceful elections but to a civil war in March 1947 between several different groups (Liberals, Communists, Colorados and Franco's Febreristas). Economically, 1947 to 1955, Paraguay suffered chronic currency depreciation, capital flight and low rates of investment, with inflation averaging over 100 percent a year. In 1948 the Colorado party emerged victorious but not without problems as coup attempts occurred frequently between 1948 and September 1949 when Federico Chaves took the office of president. Chaves and the Colorado party managed to consolidate their power in Parguayan politics and maintained a relatively stable country through 1954. On August 15, 1954, Alfredo Stroessner came to power through a coup after challenging Chaves for control of the Colorado party. Stroessner's regime brought about both political and economic stability to Paraguay albeit in the form a dictatorship and state control that lasted through 1989.
+
+In Bolivia, the old liberal regime was blamed for losing the war, a war that cost Bolivia $US 228 million and the Chaco territory. The financing of the war came through the Bolivian Central Bank that had received loans based on its mining revenues. After the war, the Central Bank's international credit was suspended, leading to widespread inflation. With these large economic troubles, Colonels David Toro and German Busch were able to bring about a coup and institute a form of military socialism for Bolivia in May 1936 and July 1937, respectively. This form of government ended the Liberal and Conservative struggle for power that had left the military out of politics for over 50 years. Under Busch, a new constitution was drafted in 1938, allowing for rights to unionize and strike. These included rights were the administration's attempt to calm a series of labor unrests that brought about general, mining and railroad strikes in May 1936, April 1937, June 1937, March 1938, and June 1938. Cementing Busch's efforts to nationalize the economy, he nationalized the Mining Bank and tightened state control over the Central Bank. Such measures brought about aggressive opposition from the conservative and the extreme left. On August 23, 1939 President Busch died, allowing the traditional Liberals under Carlos Quintanilla to return to power. The brief change of regimes did bring about the emergence of new parties to challenge the liberals and began the fall of the old political regime. These new parties (the Falange, PIR, POR and the MNR) all represented the increasing societal pressure for changes in the country's economy and politics. In 1940, Conservative Enrique Penaranda was elected president. For the next three years, the country became important to the war effort because it was a principal producer of tin. Bolivia's importance led to a $US 5 million loan from the Export-Import Bank. In December 1942, strikes and demonstrations at one mine led to a massacre of women and children causing immediate international attention. In December, the US sent a mission to Bolivia to examine the labor conditions in the mines in an effort to maximize tin production for the war effort. The massacre weakened the Penarnada party and led to its overthrow on December 20, 1943 by Gualberto Villarroel. International recogniton of the government by the US and most Latin American governments was withheld, however, until 1944 due to perceived pro-Axis leanings. On July 21, 1946 President Villarroel resigned amidst growing popular demonstrations and strikes. A military junta took control of the country until January 1947 when Enrique Hertzog was elected president. Growing support of the Nationalist Revolutionary Movement (MNR) in addition to governmental inefficiency and repression led to a civil war on August 26, 1949 initiated by the MNR. The MNR lost the conflict but forced Hertzog to resign. His vice-president, Mamerto Urriolagoitia took office and remained president until 1951 when he lost in May to a candidate from the MNR, Victor Paz Estenssoro. Before the elections were official, Urriolagoitia resigned and left control to General Quiroga who annulled the elections. Economically, Bolivia suffered a severe setback as tin sales were curtailed due to a dispute with the US over prices. In 1952, revolution broke out in Bolivia, led by the MNR. On April 15, 1952 Estenssoro took office as the first revolutionary president signalling MNR victory. Sweeping reforms took place at this point including universal suffrage, mine nationalization, and land reform.
+
+Given such domestic instability in both countries after 1935, it seems that the devastation caused by the Chaco War practically compelled each state to settle the border issue in order to focus on increasingly unstable domestic problems. After the *Treaty of Peace, Freindship and Borders* the countries did seem to focus on these domestic issues. Although their focus hardly resolved the domestic problems, they did at least keep the countries out of conflict with each other.
+
+SOURCES-CR: 
+Alexander 1982; Farcau 1996; Gisbert et al 1997, p. 541; Morales 1992; Pendle 1967; Roett and Sacks 1991; Toro 1965; Zook 1960; ; Garner 1966; Warren 1985
+
+SB-CR: 
+Bolivia / Paraguay Years: 1886-1938. Issues at stake: Border between Colombia and Peru. End coding: 1938 marks the signing of the Treaty of Peace, Friendship, and Borders, officially ending the Chaco war (1931-1935). The treaty signing followed pre- treaty clashes in 1938. Number of reciprocated 30 day militarized disputes: 8. Last militarized dispute: 1938. Wars: 1931-1935. Summary: The border dispute between Bolivia and Paraguay also has its origins in the inadequate boundary setting of the Spanish. Bolivia believed they had a better claim to the Chaco Boreal region than Paraguay based on certain old Spanish maps and documents. Paraguay was financially unable to garrison the entire region, and Bolivia in 1836 began to explore the Northern Chaco and set up agricultural and military colonies along with missionary posts. However, in 1852 a boundary treaty between Paraguay and Argentina stated support for Paraguay's claim. Bolivia protested this support through the 1850s and 1860s. The stage was set for the beginning of the militarized rivalry between Bolivia and Paraguay in the 1870s. Paraguay went to war against Brazil, Argentina, and Uruguay from 1864-1870 (the War of the Triple Alliance). The war left Paraguay occupied by Brazilian forces, and Brazil and Argentina used Paraguay's weakness to settle their border disputes with Paraguay by taking 40 about 55,000 square miles of Paraguay's territory. Brazil wanted to annex Paraguay, but due to conflict between Argentina and Brazil, Paraguay was left as a buffer state. In the course of negotiations leading up final settlement between Brazil and Paraguay (1872) and Argentina and Paraguay (1876), Bolivia's claims to the Chaco Boreal were ignored. In fact, Argentina made a claim to the Chaco Boreal, which was submitted to arbitration by the US. Arbitration found in favor of Paraguay in 1878, but again did not address the Bolivian claim. Thus Bolivia's claim remained officially unresolved. From 1879 to 1883 Bolivia fought the War of the Pacific with Peru against Chile (see discussion above under the Bolivia-Chile rivalry). As a result of the war, Bolivia lost its access to the Pacific ocean. Unable to defeat Chile, Bolivia began to pursue its claims in the Chaco. Bolivian efforts focused on claims to the Rio Paraguay. A port on the Rio Paraguay would have given Bolivia access to the Atlantic; Bolivia claimed that its neighbors were demanding unfair terms to use their ports. The discovery of oil in the Bolivian occupied part of the Chaco made sea access even more important to Bolivia; Bolivia's neighbors refused to give it rights to build a pipeline through their territory. 1886 marked the first of a series of moves by both Bolivia and Paraguay to seize and fortify territory around the Rio Paraguay. In 1879 Bolivia and paraguay had signed the Quijarro-Decaud treaty, which set a frontier through the middle of the Chaco; the treaty was ratified by Bolivia with an additional provision regarding the construction of a port in an "acceptable" location; Paraguay refused to accept the treaty. Paraguay did, however, approve Bolivian construction of a port on the Rio Paraguay. Bolivia began construction in 1885, but approximately 10 kilometers further into Paraguayan territory than approved. In response to this construction and continuing Bolivian claims, Paraguay in 1886 fortified the frontier area, marking the first militarized dispute of the rivalry. Disputes followed through the early 1900s. Further border agreements were signed in 1894 and 1907, but were quickly rejected. In the 1920s both sides sent additional forces into the Chaco to bolster their de facto control. Arbitration efforts by several states and the League of Nations failed from 1928 to 1930. Increased efforts by Bolivia to reinforce its territory and expand its control in 1930 and 1931 led to fighting which escalated to the Chaco War of 1931 to 1935. Bolivia was defeated in the war, and Paraguay was left in control of almost the entire Chaco, although Paraguay did not gain access to the Bolivian oil fields. However, Paraguay was left much weaker than previously, with the value of its currency reduced to about 1/6 of its previous value. Although a truce was signed in 1935, a final settlement was not reached until 1938, and disputes around the border continued. In 1938 the Treaty of Buenos Aires was signed, a treaty of borders, peace, and friendship. In the treaty, Paraguay received about 3/4 of the Chaco region, but Bolivia was guaranteed access to the Atlantic via the Rio Paraguay. Disputes continued until the treaty was signed in July, 1938, centering around certain border areas which changed hands under the terms of the treaty. However, no disputes followed the final treaty ratification in August and the arbitrated resolution of minor remaining points in late 1938. Sources: Goldstein (1992)
+

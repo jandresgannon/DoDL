@@ -1,0 +1,1953 @@
+FILE: cm652666v11.0.txt
+DYAD: SYRIA-ISRAEL
+RIVALRY: RIV1252
+DISPUTE(S): MID1793 MID3445 MID3411 MID3400 MID3427 MID3413 MID3401 MID3414 MID3402 MID3417 MID3428 MID3403 MID3404 MID3429 MID3415 MID3418 MID3416 MID3405 MID3419 MID3431 MID3434 MID3407 MID3423 MID3424 MID3408 MID3425 MID3409 MID3435 MID3410 MID3433 MID3412 MID1035 MID3446 MID3447 MID1046 MID3437 MID3438 MID3439 MID3440 MID3441 MID3107 MID3442 MID3443 MID4182 
+
+PS: 19480514-20209999 0.00
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1793
+
+TERRMID: MID1793 1 -- territorial MID
+TERRMID-CER: MID1793 1 -- certain 
+TERRMID-NOTES: MID1793 from Gibler 2018, in 1947-1948, Israelis and Palestinians disputed who would control the area that is modern-day Israel. The Israelis declared independence and sovereignty over the land in 1948, and a coalition of Arab nations (Syria, Iraq, Egypt, Lebanon, and Jordan) attacked Israel that same day because they denied Israel's claim to sovereignty and wanted a Palestine state. A war broke out, and Israel emerged victorious in 1949. Coded territorial MID because Syria disputed Israel's claim to the territory that become Israel. 
+
+TERRLINK: MID1793 1 -- third party link to territory 
+TERRLINK-CER: MID1793 1 -- certain
+TERRLINK-NOTES: MID1793 in this dyad, the TERRMID is between Syria and Israel, but this MID also involves a territorial MID between Israel and the other Arab states outside this dyad. 
+
+MARITMID: MID1793 1 -- maritime MID
+MARITMID-CER: MID1793 1 -- certain
+MARITMID-NOTES: MID1793 the dispute between Israel and the Arab nations involved in this dispute (Egypt, Iraq, Jordan, Syria, and Lebanon) also included a dispute concerning sovereignty over the waters off the coast of what is current-day Israel. 
+
+ISLMID: MID1793 3 -- not islands 
+ISLMID-CER: MID1793 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1793 1 -- civil war MID
+CIVWARMID-CER: MID1793 1 -- certain
+CIVWARMID-NOTES: MID1793 this MID involves fighting between Israelis and Palestinians before a state was created. Thus, the militarized groups were non-state armed groups fighting for control of the state, making them militarized rebels per our coding scheme. 
+
+CIVWARLINK: MID1793 3 -- not civil war link
+CIVWARLINK-CER: MID1793 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1793 3 -- not coup 
+COUPMID-CER: MID1793 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1793 3 -- not coup link
+COUPLINK-CER: MID1793 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3445
+
+TERRMID: MID3445 1 -- territorial MID
+TERRMID-CER: MID3445 1 -- certain 
+TERRMID-NOTES: MID3445 from Gibler 2018, in 1949 Israel and Syria were attempting to negotiate a ceasefire when Israel violated Syria's borders, disrupting the talks. Syria threatened to use force. Per Huth and Allee 2002, Israel and Syria were disputing several pieces of territory after Israel claimed territories beyond the 1947 borders drawn by the UN. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3445 3 -- not third party link to territory 
+TERRLINK-CER: MID3445 1 -- certain
+TERRLINK-NOTES: MID3445 Other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3445 3 -- not maritime 
+MARITMID-CER: MID3445 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3445 3 -- not islands 
+ISLMID-CER: MID3445 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3445 3 -- not civil war 
+CIVWARMID-CER: MID3445 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3445 3 -- not civil war link
+CIVWARLINK-CER: MID3445 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3445 3 -- not coup 
+COUPMID-CER: MID3445 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3445 3 -- not coup link
+COUPLINK-CER: MID3445 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3411
+
+TERRMID: MID3411 1 -- territorial MID
+TERRMID-CER: MID3411 1 -- certain 
+TERRMID-NOTES: MID3411 from Gibler 2018, in 1950 Israeli police boats became entangled in a Syrian fishing net. Jewish civilians approached to help and were fired upon by Syrian border guards. Israel also protested that Syrian troops crossed the border and stole livestock from Jewish farmers. Per Huth and Allee 2002, Israel and Syria were disputing borders, since Israel claimed several pieces of territory beyond the lines drawn by the UN in 1947. Coded territorial MID because this was connected to disputed territory along the Jordan River, an inland river boundary. 
+
+TERRLINK: MID3411 3 -- not third party link to territory 
+TERRLINK-CER: MID3411 1 -- certain
+TERRLINK-NOTES: MID3411 Other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes
+
+MARITMID: MID3411 3 -- not maritime 
+MARITMID-CER: MID3411 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3411 3 -- not islands 
+ISLMID-CER: MID3411 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3411 3 -- not civil war 
+CIVWARMID-CER: MID3411 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3411 3 -- not civil war link
+CIVWARLINK-CER: MID3411 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3411 3 -- not coup 
+COUPMID-CER: MID3411 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3411 3 -- not coup link
+COUPLINK-CER: MID3411 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3400
+
+TERRMID: MID3400 1 -- territorial MID
+TERRMID-CER: MID3400 1 -- certain 
+TERRMID-NOTES: MID3400 from Gibler 2018, this MID describes some of the same events as MID3411 but is still considered a distinct MID. In 1950, an Israeli patrol boat was entangled in Syrian fishing nets. When Israeli fishermen approached to help, they were fired upon by Syrian border guards. Per Huth and Allee 2002, Syria and Israel had several territorial disputes at the time, since Israel expanded its borders beyond the 1947 UN lines. Coded territorial MID because this was connected to a territorial dispute (the incident happened at a portion of the disputed border, and the tensions between Israel and Syria were directly connected to the territorial dispute). 
+
+TERRLINK: MID3400 3 -- not third party link to territory 
+TERRLINK-CER: MID3400 1 -- certain
+TERRLINK-NOTES: MID3400 Other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes. 
+
+MARITMID: MID3400 3 -- not maritime 
+MARITMID-CER: MID3400 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3400 3 -- not islands 
+ISLMID-CER: MID3400 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3400 3 -- not civil war 
+CIVWARMID-CER: MID3400 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3400 3 -- not civil war link
+CIVWARLINK-CER: MID3400 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3400 3 -- not coup 
+COUPMID-CER: MID3400 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3400 3 -- not coup link
+COUPLINK-CER: MID3400 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3427
+
+TERRMID: MID3427 1 -- territorial MID
+TERRMID-CER: MID3427 1 -- certain 
+TERRMID-NOTES: MID3427 from Gibler 2018, in 1951 Israel and Syria had a series of incidents connected to disputed pieces of territory that were set up as demilitarized zones at the time. Israeli and Syrian forces clashed at Lake Hullah, which was disputed, and at Tel al Mutilla, also disputed. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3427 3 -- not third party link to territory 
+TERRLINK-CER: MID3427 1 -- certain
+TERRLINK-NOTES: MID3427 Other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes
+
+MARITMID: MID3427 3 -- not maritime 
+MARITMID-CER: MID3427 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3427 3 -- not islands 
+ISLMID-CER: MID3427 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3427 3 -- not civil war 
+CIVWARMID-CER: MID3427 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3427 3 -- not civil war link
+CIVWARLINK-CER: MID3427 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3427 3 -- not coup 
+COUPMID-CER: MID3427 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3427 3 -- not coup link
+COUPLINK-CER: MID3427 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3401
+
+TERRMID: MID3401 1 -- territorial MID
+TERRMID-CER: MID3401 1 -- certain 
+TERRMID-NOTES: MID3401 from Gibler 2018, in 1951 an Israeli border patrol was fired upon by a Syrian outpost. Per Huth and Allee 2002, they were disputing their borders at the time. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3401 3 -- not third party link to territory 
+TERRLINK-CER: MID3401 1 -- certain
+TERRLINK-NOTES: MID3401 Other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes
+
+MARITMID: MID3401 3 -- not maritime 
+MARITMID-CER: MID3401 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3401 3 -- not islands 
+ISLMID-CER: MID3401 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3401 3 -- not civil war 
+CIVWARMID-CER: MID3401 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3401 3 -- not civil war link
+CIVWARLINK-CER: MID3401 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3401 3 -- not coup 
+COUPMID-CER: MID3401 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3401 3 -- not coup link
+COUPLINK-CER: MID3401 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3413
+
+TERRMID: MID3413 1 -- territorial MID 
+TERRMID-CER: MID3413 1 -- certain 
+TERRMID-NOTES: MID3413 from Gibler 2018, Israeli fishermen were fired upon by Syrian troops in the Sea of Galilee, which was being disputed at the time. Coded territorial MID because this was connected to a territorial dispute. The Sea of Galilee is not considered to be a maritime issue because it is an inland body of river though which the Jordan River, an inland river boundary, flows. 
+
+TERRLINK: MID3413 3 -- not third party link to territory 
+TERRLINK-CER: MID3413 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3413 3 -- not maritime 
+MARITMID-CER: MID3413 1 -- certain
+MARITMID-NOTES: MID3413 the Sea of Galilee dispute is not maritime because it is an inland lake through which the Jordan River, an inland river boundary, flows. 
+
+ISLMID: MID3413 3 -- not islands 
+ISLMID-CER: MID3413 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3413 3 -- not civil war 
+CIVWARMID-CER: MID3413 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3413 3 -- not civil war link
+CIVWARLINK-CER: MID3413 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3413 3 -- not coup 
+COUPMID-CER: MID3413 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3413 3 -- not coup link
+COUPLINK-CER: MID3413 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3414
+
+TERRMID: MID3414 3 -- not territory
+TERRMID-CER: MID3414 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3414 3 -- not third party link to territory 
+TERRLINK-CER: MID3414 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3414 3 -- not maritime 
+MARITMID-CER: MID3414 1 -- certain
+MARITMID-NOTES: MID3414 from Gibler 2018, in 1952 Syria fired on an Israeli fishing boat. Per Huth and Allee 2002, the states were disputing territory, but this MID does not seem to be connected to the disputed territory. It seems to be a product of general tensions between Israel and Syria. Neither Gibler 2018 nor the New York Times coverage of these incidents (NYT 1/30/1952, 1/10/1952) mentions disputed territory/maritime space, nor do the governments in their public statements. 
+
+ISLMID: MID3414 3 -- not islands 
+ISLMID-CER: MID3414 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3414 3 -- not civil war 
+CIVWARMID-CER: MID3414 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3414 3 -- not civil war link
+CIVWARLINK-CER: MID3414 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3414 3 -- not coup 
+COUPMID-CER: MID3414 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3414 3 -- not coup link
+COUPLINK-CER: MID3414 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3402
+
+TERRMID: MID3402 2 -- somewhat territory
+TERRMID-CER: MID3402 3 -- uncertain 
+TERRMID-NOTES: MID3402 from Gibler, Miller, and Little 2016, in 1952 Syria declared that the Middle East was 'not large enough for both Arabs and Jews.' Israel took this as a threat and protested. Coded somewhat territory because this was tangentially related to the active territorial dispute, and coded uncertain because GML recommend the case be dropped as it does not constitute a true threat. 
+
+TERRLINK: MID3402 3 -- not third party link to territory 
+TERRLINK-CER: MID3402 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3402 3 -- not maritime 
+MARITMID-CER: MID3402 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3402 3 -- not islands 
+ISLMID-CER: MID3402 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3402 3 -- not civil war 
+CIVWARMID-CER: MID3402 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3402 3 -- not civil war link
+CIVWARLINK-CER: MID3402 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3402 3 -- not coup 
+COUPMID-CER: MID3402 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3402 3 -- not coup link
+COUPLINK-CER: MID3402 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3428
+
+TERRMID: MID3428 1 -- territorial MID
+TERRMID-CER: MID3428 1 -- certain 
+TERRMID-NOTES: MID3428 from Gibler 2018, Jordan and Syria agreed to a plan for water sharing from the Yamuk River in 1953. Israel protested this agreement and began building facilities for water resources in several locations on the river, including in one of the disputed demilitarized zones. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3428 3 -- not third party link to territory 
+TERRLINK-CER: MID3428 1 -- certain
+TERRLINK-NOTES: MID3428 Israel and Jordan had an active territorial dispute at this time (Huth and Allee 2002). They disputed several small demilitarized zones until the conclusion of the 1967 war. However, those disputed zones were not the same zones as the ones disputed between Israel and Syria. (There was no overlap in territory claimed by Syria and Jordan.) There is no indication in cm narrative, Gibler 2018, or news coverage of this MID that suggests Israel's dispute with Jordan contributed to the events of this MID. In their public statements, neither country referenced the Israel-Jordan dispute (NYT 10/31/1953).
+
+MARITMID: MID3428 3 -- not maritime 
+MARITMID-CER: MID3428 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3428 3 -- not islands 
+ISLMID-CER: MID3428 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3428 3 -- not civil war 
+CIVWARMID-CER: MID3428 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3428 3 -- not civil war link
+CIVWARLINK-CER: MID3428 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3428 3 -- not coup 
+COUPMID-CER: MID3428 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3428 3 -- not coup link
+COUPLINK-CER: MID3428 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3417
+
+TERRMID: MID3417 1 -- territorial MID
+TERRMID-CER: MID3417 1 -- certain 
+TERRMID-NOTES: MID3417 from Gibler 2018, from 1953-1958 a series of disputes occurred over water rights to the Jordan River (an inland river boundary), in an area of disputed territory. Israel entered the demilitarized zone and began constructing a canal. A series of clashes occurred. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3417 3 -- not third party link to territory 
+TERRLINK-CER: MID3417 1 -- certain
+TERRLINK-NOTES: MID3417 Israel and Jordan had an active territorial dispute at this time (Huth and Allee 2002). They disputed several small demilitarized zones until the conclusion of the 1967 war. However, those disputed zones were not the same area disputed by Israel and Syria here. (There was no overlap in territory claimed by Syria and Jordan.) There is no indication in cm narrative, Gibler 2018, or news coverage of this MID that suggests Israel's dispute with Jordan contributed to the events of this MID. In their public statements, neither country referenced the Israel-Jordan dispute (NYT 9/26/1953).
+
+MARITMID: MID3417 3 -- not maritime 
+MARITMID-CER: MID3417 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3417 3 -- not islands 
+ISLMID-CER: MID3417 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3417 3 -- not civil war 
+CIVWARMID-CER: MID3417 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3417 3 -- not civil war link
+CIVWARLINK-CER: MID3417 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3417 3 -- not coup 
+COUPMID-CER: MID3417 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3417 3 -- not coup link
+COUPLINK-CER: MID3417 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3403
+
+TERRMID: MID3403 3 -- not territory
+TERRMID-CER: MID3403 1 -- certain 
+TERRMID-NOTES: MID3403 from Gibler 2018, in 1954 an Israeli aircraft was spraying fields near the border with Syria when it was fired on by Syrian ground troops. Although there was an active territorial dispute at this time (Huth and Allee 2002), there is no indication that this MID was directly connected to that disputed territory. Neither Gibler 2018 nor the New York Times coverage of this incident mention the disputed territory (NYT 3/16/1954). 
+
+TERRLINK: MID3403 3 -- not third party link to territory 
+TERRLINK-CER: MID3403 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3403 3 -- not maritime 
+MARITMID-CER: MID3403 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3403 3 -- not islands 
+ISLMID-CER: MID3403 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3403 3 -- not civil war 
+CIVWARMID-CER: MID3403 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3403 3 -- not civil war link
+CIVWARLINK-CER: MID3403 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3403 3 -- not coup 
+COUPMID-CER: MID3403 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3403 3 -- not coup link
+COUPLINK-CER: MID3403 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3404
+
+TERRMID: MID3404 1 -- territorial MID
+TERRMID-CER: MID3404 1 -- certain 
+TERRMID-NOTES: MID3404 from Gibler 2018, Israel and Syria clashed at their disputed border several times in 1954-1955. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3404 3 -- not third party link to territory 
+TERRLINK-CER: MID3404 1 -- certain
+TERRLINK-NOTES: MID3404 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3404 3 -- not maritime 
+MARITMID-CER: MID3404 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3404 3 -- not islands 
+ISLMID-CER: MID3404 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3404 3 -- not civil war 
+CIVWARMID-CER: MID3404 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3404 3 -- not civil war link
+CIVWARLINK-CER: MID3404 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3404 3 -- not coup 
+COUPMID-CER: MID3404 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3404 3 -- not coup link
+COUPLINK-CER: MID3404 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3415
+
+TERRMID: MID3415 1 -- territorial MID
+TERRMID-CER: MID3415 1 -- certain 
+TERRMID-NOTES: MID3415 from Gibler 2018, in 1954 Syria seized an Israeli vessel in the Mediterranean, and Israel responded by seizing a Syrian plane and its crew. From New York Times (8/16/1954, 12/15/1954), these seizures did not happen in disputed territory. However, Syria claimed that this was connected to a border skirmish that had occurred at their disputed border in December. Coded territorial MID because this was connected to their territorial dispute. 
+
+TERRLINK: MID3415 3 -- not third party link to territory 
+TERRLINK-CER: MID3415 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3415 3 -- not maritime 
+MARITMID-CER: MID3415 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3415 3 -- not islands 
+ISLMID-CER: MID3415 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3415 3 -- not civil war 
+CIVWARMID-CER: MID3415 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3415 3 -- not civil war link
+CIVWARLINK-CER: MID3415 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3415 3 -- not coup 
+COUPMID-CER: MID3415 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3415 3 -- not coup link
+COUPLINK-CER: MID3415 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3418
+
+TERRMID: MID3418 1 -- territorial MID
+TERRMID-CER: MID3418 1 -- certain 
+TERRMID-NOTES: MID3418 from Gibler 2018, in 1955 Israel accused Syria of firing on Israeli fishing vessels in the Sea of Galilee (inland territory/not maritime boundary). Syria then fired on Israeli planes that flew over the demilitarized zones, areas which were disputed and had been agreed by both parties to refrain from entering. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3418 3 -- not third party link to territory 
+TERRLINK-CER: MID3418 1 -- certain
+TERRLINK-NOTES: MID3418 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3418 3 -- not maritime 
+MARITMID-CER: MID3418 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3418 3 -- not islands 
+ISLMID-CER: MID3418 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3418 3 -- not civil war 
+CIVWARMID-CER: MID3418 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3418 3 -- not civil war link
+CIVWARLINK-CER: MID3418 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3418 3 -- not coup 
+COUPMID-CER: MID3418 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3418 3 -- not coup link
+COUPLINK-CER: MID3418 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3416
+
+TERRMID: MID3416 3 -- not territory
+TERRMID-CER: MID3416 1 -- certain 
+TERRMID-NOTES: MID3416 from Gibler 2018, in 1955 Israel seized a Syrian ship that was trying to reach Gaza. Coded not territory because Syria did not claim Gaza. Gaza was being disputed between Israel and Egypt, but Syria was not trying to interfere in this dispute or help Egypt. Syria was attempting to bring medical aid to Palestinians, per New York Times (8/6/1955). 
+
+TERRLINK: MID3416 3 -- not third party link to territory 
+TERRLINK-CER: MID3416 1 -- certain
+TERRLINK-NOTES: MID3416 This MID involved Gaza, an area disputed by Israel and Egypt (outside this dyad), but per New York Times 8/6/1955, Syria was not trying to become involved in that dispute. It was instead trying to deliver medical aid supplies to Palestinian civilians in Gaza. 
+
+MARITMID: MID3416 3 -- not maritime 
+MARITMID-CER: MID3416 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3416 3 -- not islands 
+ISLMID-CER: MID3416 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3416 3 -- not civil war 
+CIVWARMID-CER: MID3416 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3416 3 -- not civil war link
+CIVWARLINK-CER: MID3416 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3416 3 -- not coup 
+COUPMID-CER: MID3416 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3416 3 -- not coup link
+COUPLINK-CER: MID3416 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3405
+
+TERRMID: MID3405 1 -- territorial MID
+TERRMID-CER: MID3405 1 -- certain 
+TERRMID-NOTES: MID3405 from Gibler 2018, this MID occurs from 1955-1960. Israel and Syria clashed across the disputed border at the Jordan River basin. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3405 3 -- not third party link to territory 
+TERRLINK-CER: MID3405 1 -- certain
+TERRLINK-NOTES: MID3405 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3405 3 -- not maritime 
+MARITMID-CER: MID3405 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3405 3 -- not islands 
+ISLMID-CER: MID3405 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3405 3 -- not civil war 
+CIVWARMID-CER: MID3405 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3405 3 -- not civil war link
+CIVWARLINK-CER: MID3405 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3405 3 -- not coup 
+COUPMID-CER: MID3405 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3405 3 -- not coup link
+COUPLINK-CER: MID3405 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3429
+
+TERRMID: MID3429 1 -- territorial MID
+TERRMID-CER: MID3429 3 -- uncertain 
+TERRMID-NOTES: MID3429 from Gibler, Miller, and Little 2016, this MID overlaps with MID3405 and describes the same events. Israel and Syria clashed across their disputed border at the Jordan River basin. Coded territorial MID because this was connected to a territorial dispute, and coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3429 3 -- not third party link to territory 
+TERRLINK-CER: MID3429 1 -- certain
+TERRLINK-NOTES: MID3429 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3429 3 -- not maritime 
+MARITMID-CER: MID3429 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3429 3 -- not islands 
+ISLMID-CER: MID3429 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3429 3 -- not civil war 
+CIVWARMID-CER: MID3429 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3429 3 -- not civil war link
+CIVWARLINK-CER: MID3429 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3429 3 -- not coup 
+COUPMID-CER: MID3429 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3429 3 -- not coup link
+COUPLINK-CER: MID3429 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3419 
+
+TERRMID: MID3419 1 -- territorial MID
+TERRMID-CER: MID3419 1 -- certain 
+TERRMID-NOTES: MID3419 from Gibler 2018, Israel claimed the waters in the Sea of Galilee as within their territorial waters but this was disputed by Egypt and Syria. Syrian fishermen continued to fish in the waters, often provoking clashes between Israel and Syria. At this time, Syria and Egypt were both members of the United Arab Republic, pulling Egypt into this MID, although the clashes were between Israeli and Syrian jets. Coded territrial MID because this was connected to a dispute over the Sea of Galilee, and this is considered a territorial dispute, since the sea is an inland body of water through which the Jordan River, an inland river boundary, flows. 
+
+TERRLINK: MID3419 3 -- not third party link to territory 
+TERRLINK-CER: MID3419 1 -- certain 
+TERRLINK-NOTES: MID3419 Coded not third party link to territorial MID because, although Egypt is pulled into this dispute (as a joint member of the UAR), the territorial dispute is only between Syria and Israel.
+
+MARITMID: MID3419 3 -- not maritime 
+MARITMID-CER: MID3419 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3419 3 -- not islands 
+ISLMID-CER: MID3419 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3419 3 -- not civil war 
+CIVWARMID-CER: MID3419 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3419 3 -- not civil war link 
+CIVWARLINK-CER: MID3419 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3419 3 -- not coup 
+COUPMID-CER: MID3419 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3419 3 -- not coup link
+COUPLINK-CER: MID3419 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3431
+
+TERRMID: MID3431 1 -- territorial MID
+TERRMID-CER: MID3431 3 -- uncertain 
+TERRMID-NOTES: MID3431 from Gibler, Miller, and Little 2016, this MID temporally overlaps with MID3419 and should be included in that MID. A series of militarized incidents in disputed waters of the Sea of Galilee occurred. Coded territorial MID because this was connected to a boundary dispute in the Sea of Galilee (inland lake/sea through which the Jordan RIver flows), and coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3431 3 -- not third party link to territory 
+TERRLINK-CER: MID3431 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3431 3 -- not maritime 
+MARITMID-CER: MID3431 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3431 3 -- not islands 
+ISLMID-CER: MID3431 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3431 3 -- not civil war 
+CIVWARMID-CER: MID3431 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3431 3 -- not civil war link
+CIVWARLINK-CER: MID3431 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3431 3 -- not coup 
+COUPMID-CER: MID3431 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3431 3 -- not coup link
+COUPLINK-CER: MID3431 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3412
+
+TERRMID: MID3412 1 -- territorial MID
+TERRMID-CER: MID3412 1 -- certain 
+TERRMID-NOTES: MID3412 from Gibler 2018, in 1966 Israel and Syria clashed at their disputed border at the Sea of Galilee. Coded territorial MID because this was connected to a territorial dipsute. 
+
+TERRLINK: MID3412 3 -- not third party link to territory 
+TERRLINK-CER: MID3412 1 -- certain
+TERRLINK-NOTES: MID3412 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3412 3 -- not maritime 
+MARITMID-CER: MID3412 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3412 3 -- not islands 
+ISLMID-CER: MID3412 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3412 3 -- not civil war 
+CIVWARMID-CER: MID3412 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3412 3 -- not civil war link
+CIVWARLINK-CER: MID3412 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3412 3 -- not coup 
+COUPMID-CER: MID3412 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3412 3 -- not coup link
+COUPLINK-CER: MID3412 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3434
+
+TERRMID: MID3434 1 -- territorial MID
+TERRMID-CER: MID3434 1 -- certain 
+TERRMID-NOTES: MID3434 from Gibler 2018, from 1961-1966 a series of clashes between Israel and Syria occurred along their disputed border near and in the Sea of Galilee. The land border near Galilee contained a demilitarized zone which both violated at several points. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3434 3 -- not third party link to territory 
+TERRLINK-CER: MID3434 1 -- certain
+TERRLINK-NOTES: MID3434 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3434 3 -- not maritime
+MARITMID-CER: MID3434 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3434 3 -- not islands 
+ISLMID-CER: MID3434 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3434 3 -- not civil war 
+CIVWARMID-CER: MID3434 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3434 3 -- not civil war link
+CIVWARLINK-CER: MID3434 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3434 3 -- not coup 
+COUPMID-CER: MID3434 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3434 3 -- not coup link
+COUPLINK-CER: MID3434 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3407
+
+TERRMID: MID3407 1 -- territorial MID
+TERRMID-CER: MID3407 3 -- uncertain 
+TERRMID-NOTES: MID3407 from Gibler, Miller, and Little 2016, MIDs 3407, 3408, 3423, and 3424 all occur at the same approximate time as MID3434, are connected to the same dispute, and should be merged with MID3434. A series of clashes from 1961-1966 occurred at the disputed border near the Sea of Galilee. Coded territorial MID because this was connected to a territorial dispute, a disputed land boundary near the Sea of Galilee. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3407 3 -- not third party link to territory 
+TERRLINK-CER: MID3407 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3407 3 -- not maritime 
+MARITMID-CER: MID3407 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3407 3 -- not islands 
+ISLMID-CER: MID3407 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3407 3 -- not civil war 
+CIVWARMID-CER: MID3407 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3407 3 -- not civil war link
+CIVWARLINK-CER: MID3407 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3407 3 -- not coup 
+COUPMID-CER: MID3407 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3407 3 -- not coup link
+COUPLINK-CER: MID3407 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3408
+
+TERRMID: MID3408 1 -- territorial MID
+TERRMID-CER: MID3408 3 -- uncertain 
+TERRMID-NOTES: MID3408 from Gibler, Miller, and Little 2016, MIDs 3407, 3408, 3423, and 3424 all occur at the same approximate time as MID3434, are connected to the same dispute, and should be merged with MID3434. A series of clashes from 1961-1966 occurred at the disputed border near the Sea of Galilee. Coded territorial MID because this was connected to a territorial dispute, a disputed land boundary near the Sea of Galilee. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3408 3 -- not third party link to territory 
+TERRLINK-CER: MID3408 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3408 3 -- not maritime 
+MARITMID-CER: MID3408 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3408 3 -- not islands 
+ISLMID-CER: MID3408 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3408 3 -- not civil war 
+CIVWARMID-CER: MID3408 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3408 3 -- not civil war link
+CIVWARLINK-CER: MID3408 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3408 3 -- not coup 
+COUPMID-CER: MID3408 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3408 3 -- not coup link
+COUPLINK-CER: MID3408 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3423
+
+TERRMID: MID3423 1 -- territorial MID
+TERRMID-CER: MID3423 3 -- uncertain 
+TERRMID-NOTES: MID3423 from Gibler, Miller, and Little 2016, MIDs 3407, 3408, 3423, and 3424 all occur at the same approximate time as MID3434, are connected to the same dispute, and should be merged with MID3434. A series of clashes from 1961-1966 occurred at the disputed border near the Sea of Galilee. Coded territorial MID because this was connected to a territorial dispute, a disputed land boundary near the Sea of Galilee. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3423 3 -- not third party link to territory 
+TERRLINK-CER: MID3423 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3423 3 -- not maritime MID
+MARITMID-CER: MID3423 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3423 3 -- not islands 
+ISLMID-CER: MID3423 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3423 3 -- not civil war 
+CIVWARMID-CER: MID3423 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3423 3 -- not civil war link
+CIVWARLINK-CER: MID3423 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3423 3 -- not coup 
+COUPMID-CER: MID3423 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3423 3 -- not coup link
+COUPLINK-CER: MID3423 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3424
+
+TERRMID: MID3424 1 -- territorial MID
+TERRMID-CER: MID3424 3 -- uncertain 
+TERRMID-NOTES: MID3424 from Gibler, Miller, and Little 2016, MIDs 3407, 3408, 3423, and 3424 all occur at the same approximate time as MID3434, are connected to the same dispute, and should be merged with MID3434. A series of clashes from 1961-1966 occurred at the disputed border near the Sea of Galilee. Coded territorial MID because this was connected to a territorial dispute, a disputed land boundary near the Sea of Galilee. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3424 3 -- not third party link to territory 
+TERRLINK-CER: MID3424 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3424 3 -- not maritime 
+MARITMID-CER: MID3424 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3424 3 -- not islands 
+ISLMID-CER: MID3424 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3424 3 -- not civil war 
+CIVWARMID-CER: MID3424 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3424 3 -- not civil war link
+CIVWARLINK-CER: MID3424 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3424 3 -- not coup 
+COUPMID-CER: MID3424 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3424 3 -- not coup link
+COUPLINK-CER: MID3424 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3425
+
+TERRMID: MID3425 1 -- territorial MID
+TERRMID-CER: MID3425 1 -- certain 
+TERRMID-NOTES: MID3425 from Gibler, Miller, and Little 2016, this MID occurred in 1956 after Israel invaded the Sinai Peninsula and is connected to subsequent clashes over the Sinai. Clashes periodically broke out on land, and Israeli planes bombed Syrian positions on several occasions. This also involves a dispute over diversion of water from the Jordan River, also disputed territory. Separately, Israeli and Syrian forces clashed in a demilitarized and disputed zone at the Huleh Valley. Coded territorial MID because this was connected to several disputed pieces of territory. (Note that while the source is GML 2016, GML do NOT recommend that this MID be dropped. Therefore, it is coded certain.)
+
+TERRLINK: MID3425 3 -- not third party link to territory
+TERRLINK-CER: MID3425 1 -- certain
+TERRLINK-NOTES: MID3425 Egypt also disputed the Sinai with Israel, but there is no indication in cm narrative, Gibler, Miller and Little 2016, or news coverage of this MID that indicates that Egypt's dispute with Israel at the Sinai affected the events of this MID. GML 2016 are explicit that the events of MID3425, and the associated MIDs that GML 2016 recommend be merged with MID3425, are between Israel and Syria, and part of GML's justification for merging these MIDs is that they are all essentially over the same issue and against the same actor (Syria). 
+
+MARITMID: MID3425 3 -- not maritime 
+MARITMID-CER: MID3425 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3425 3 -- not islands 
+ISLMID-CER: MID3425 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3425 3 -- not civil war 
+CIVWARMID-CER: MID3425 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3425 3 -- not civil war link
+CIVWARLINK-CER: MID3425 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3425 3 -- not coup 
+COUPMID-CER: MID3425 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3425 3 -- not coup link
+COUPLINK-CER: MID3425 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3409
+
+TERRMID: MID3409 1 -- territorial MID
+TERRMID-CER: MID3409 3 -- uncertain 
+TERRMID-NOTES: MID3409 from Gibler, Miller, and Little 2016, MIDs 3409, 3410, and 3435 should be merged with MID3425 as they describe the same events and have temporal overlap. A series of clashes occurred between Israel and Syria over several pieces of disputed territory. Coded territorial MID because this was connected to disputed territory, and coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3409 3 -- not third party link to territory 
+TERRLINK-CER: MID3409 3 -- uncertain
+TERRLINK-NOTES: MID3409 Egypt also disputed the Sinai with Israel, but there is no indication in cm narrative, Gibler, Miller and Little 2016, or news coverage of this MID that indicates that Egypt's dispute with Israel at the Sinai affected the events of this MID. GML 2016 are explicit that the events of MID3425 and the associated MIDs that GML 2016 recommend be merged with MID3425 are between Israel and Syria, and part of GML's justification for merging these MIDs is that they are all essentially over the same issue and against the same actor (Syria). Coded uncertain because GML recommend this MID be merged with MID3425. 
+
+MARITMID: MID3409 3 -- not maritime 
+MARITMID-CER: MID3409 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3409 3 -- not islands 
+ISLMID-CER: MID3409 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3409 3 -- not civil war 
+CIVWARMID-CER: MID3409 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3409 3 -- not civil war link
+CIVWARLINK-CER: MID3409 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3409 3 -- not coup 
+COUPMID-CER: MID3409 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3409 3 -- not coup link
+COUPLINK-CER: MID3409 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3410
+
+TERRMID: MID3410 1 -- territorial MID
+TERRMID-CER: MID3410 3 -- uncertain 
+TERRMID-NOTES: MID3410 from Gibler, Miller, and Little 2016, MIDs 3409, 3410, and 3435 should be merged with MID3425 as they describe the same events and have temporal overlap. A series of clashes occurred between Israel and Syria over several pieces of disputed territory. Coded territorial MID because this was connected to disputed territory, and coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3410 3 -- not third party link to territory 
+TERRLINK-CER: MID3410 3 -- uncertain
+TERRLINK-NOTES: MID3410 Egypt also disputed the Sinai with Israel, but there is no indication in cm narrative, Gibler, Miller and Little 2016, or news coverage of this MID that indicates that Egypt's dispute with Israel at the Sinai affected the events of this MID. GML 2016 are explicit that the events of MID3425 and the associated MIDs that GML 2016 recommend be merged with MID3425 are between Israel and Syria, and part of GML's justification for merging these MIDs is that they are all essentially over the same issue and against the same actor (Syria). Coded uncertain because GML recommend this MID be merged with MID3425. 
+
+MARITMID: MID3410 3 -- not maritime 
+MARITMID-CER: MID3410 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3410 3 -- not islands 
+ISLMID-CER: MID3410 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3410 3 -- not civil war 
+CIVWARMID-CER: MID3410 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3410 3 -- not civil war link
+CIVWARLINK-CER: MID3410 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3410 3 -- not coup 
+COUPMID-CER: MID3410 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3410 3 -- not coup link
+COUPLINK-CER: MID3410 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3435
+
+TERRMID: MID3435 1 -- territorial MID
+TERRMID-CER: MID3435 3 -- uncertain 
+TERRMID-NOTES: MID3435 from Gibler, Miller, and Little 2016, MIDs 3409, 3410, and 3435 should be merged with MID3425 as they describe the same events and have temporal overlap. A series of clashes occurred between Israel and Syria over several pieces of disputed territory. Coded territorial MID because this was connected to disputed territory, and coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3435 3 -- not third party link to territory 
+TERRLINK-CER: MID3435 3 -- uncertain
+TERRLINK-NOTES: MID3435 Egypt also disputed the Sinai with Israel, but there is no indication in cm narrative, Gibler, Miller and Little 2016, or news coverage of this MID that indicates that Egypt's dispute with Israel at the Sinai affected the events of this MID. GML 2016 are explicit that the events of MID3425 and the associated MIDs that GML 2016 recommend be merged with MID3425 are between Israel and Syria, and part of GML's justification for merging these MIDs is that they are all essentially over the same issue and against the same actor (Syria). Coded uncertain because GML recommend this MID be merged with MID3425. 
+
+MARITMID: MID3435 3 -- not maritime 
+MARITMID-CER: MID3435 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3435 3 -- not islands 
+ISLMID-CER: MID3435 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3435 3 -- not civil war 
+CIVWARMID-CER: MID3435 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3435 3 -- not civil war link
+CIVWARLINK-CER: MID3435 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3435 3 -- not coup 
+COUPMID-CER: MID3435 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3435 3 -- not coup link
+COUPLINK-CER: MID3435 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3433
+
+TERRMID: MID3433 1 -- territorial MID
+TERRMID-CER: MID3433 3 -- uncertain 
+TERRMID-NOTES: MID3433 from Gibler, Miller, and Little 2016, this is another MID that should be folded into MID3434 due to temporal overlap and description of the same events. From Gibler 2018, a series of clashes from 1961-1966 occurred at the disputed border near the Sea of Galilee. Coded territorial MID because this was connected to a territorial dispute, a disputed land boundary near the Sea of Galilee. Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3433 3 -- not third party link to territory 
+TERRLINK-CER: MID3433 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3433 3 -- not maritime 
+MARITMID-CER: MID3433 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3433 3 -- not islands 
+ISLMID-CER: MID3433 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3433 3 -- not civil war 
+CIVWARMID-CER: MID3433 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3433 3 -- not civil war link
+CIVWARLINK-CER: MID3433 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3433 3 -- not coup 
+COUPMID-CER: MID3433 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3433 3 -- not coup link
+COUPLINK-CER: MID3433 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1035
+
+TERRMID: MID1035 1 -- territorial MID
+TERRMID-CER: MID1035 1 -- certain 
+TERRMID-NOTES: MID1035 from Gibler 2018, this is the 6-day War between Israel and Iraq, Egypt, Syria, Jordan, Saudi Arabia, and Kuwait. In 1967, Israel attacked Egypt, having already attacked Jordan the year before and expecting that other Arab countries would soon attack Israel. Israel handily defeated the Arab states and took control of territory in Sinai, Golan Heights, and elsewhere. Coded territorial MID because this is connected to a dispute over Israel's boundaries and ended in Israel claiming the Golan Heights from Syria. 
+
+TERRLINK: MID1035 1 -- third party link to territorial MID
+TERRLINK-CER: MID1035 1 -- certain
+TERRLINK-NOTES: MID1035 in this dyad, the TERRMID is between Syria and Israel, but this MID also involves a territorial MID between Egypt and Israel in the Sinai Peninsula, outside this dyad. 
+
+MARITMID: MID1035 1 -- maritime MID
+MARITMID-CER: MID1035 1 -- certain
+MARITMID-NOTES: MID1035 the Arab countries disputed Israel's boundaries, including Israel's maritime borders. 
+
+ISLMID: MID1035 3 -- not islands 
+ISLMID-CER: MID1035 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1035 3 -- not civil war 
+CIVWARMID-CER: MID1035 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1035 3 -- not civil war link
+CIVWARLINK-CER: MID1035 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1035 3 -- not coup 
+COUPMID-CER: MID1035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1035 3 -- not coup link
+COUPLINK-CER: MID1035 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3446
+
+TERRMID: MID3446 1 -- territorial MID
+TERRMID-CER: MID3446 1 -- certain 
+TERRMID-NOTES: MID3446 from Gibler 2018, in 1967 Israel was occupying the Golan Heights, a territorial dispute between it and Syria. Several clashes occurred in the disputed territory. Coded territorial dispute because this was connected to disputed territory. 
+
+TERRLINK: MID3446 3 -- not third party link to territory 
+TERRLINK-CER: MID3446 1 -- certain
+TERRLINK-NOTES: MID3446 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3446 3 -- not maritime 
+MARITMID-CER: MID3446 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3446 3 -- not islands 
+ISLMID-CER: MID3446 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3446 1 -- civil war MID
+CIVWARMID-CER: MID3446 1 -- certain
+CIVWARMID-NOTES: MID3446 this MID also involved Israel being targeted by militarized rebels and accusing Syria of supporting those rebels. 
+
+CIVWARLINK: MID3446 3 -- not civil war link
+CIVWARLINK-CER: MID3446 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3446 3 -- not coup 
+COUPMID-CER: MID3446 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3446 3 -- not coup link
+COUPLINK-CER: MID3446 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3447
+
+TERRMID: MID3447 1 -- territorial MID
+TERRMID-CER: MID3447 1 -- certain 
+TERRMID-NOTES: MID3447 from Gibler 2018, in 1968-1971 Isarel and Syria clashed in the Golan Heights repeatedly. The Golan had been disputed since the end of the 1967 war. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3447 3 -- not third party link to territory 
+TERRLINK-CER: MID3447 1 -- certain
+TERRLINK-NOTES: MID3447 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3447 3 -- not maritime 
+MARITMID-CER: MID3447 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3447 3 -- not islands 
+ISLMID-CER: MID3447 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3447 3 -- not civil war 
+CIVWARMID-CER: MID3447 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3447 3 -- not civil war link
+CIVWARLINK-CER: MID3447 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3447 3 -- not coup 
+COUPMID-CER: MID3447 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3447 3 -- not coup link
+COUPLINK-CER: MID3447 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1039 
+
+TERRMID: MID1039 3 -- not territory 
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link 
+CIVWARLINK-CER: MID1039 1 -- certain 
+CIVWARLINK-NOTES: MID1039 from Gibler 2018, in 1970 PLO terrorists hijacked an airplane headed to Jordan and held the passengers hostage. The terrorists intended to provoke fighting between Jordan and Palestinian rebels. Jordan did indeed attack Palestinian rebels, and Syrian and Jordanian troops clashed in the aftermath, as Syria was sympathetic to the rebels. Israel and US threatened to bomb the Syrian troops. Coded civil war link because this was connected to militarized rebel activity in Jordan, and the hijacking occurred outside of this dyad. 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1046
+
+TERRMID: MID1046 1 -- territorial MID
+TERRMID-CER: MID1046 1 -- certain 
+TERRMID-NOTES: MID1046 from Gibler 2018, this dispute between Israel and Egypt, Iraq, Syria, Jordan, and Saudi Arabia occurred in 1971-1973. Israel was occupying the Sinai peninsula of Egypt. The Arab countries attacked Israel on Yom Kippur, but Israel was militarily superior. Israel occupied the Golan Heights and claimed it as a strategically valuable piece of territory. The fighting ceased by May 1974. Coded territorial MID because this is connected to a territorial dispute within this dyad (Golan Heights). 
+
+TERRLINK: MID1046 1 -- third party link to territorial MID
+TERRLINK-CER: MID1046 1 -- certain
+TERRLINK-NOTES: MID1046 this MID also involved a dispute over the Sinai, outside this dyad. 
+
+MARITMID: MID1046 3 -- not maritime 
+MARITMID-CER: MID1046 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1046 3 -- not islands 
+ISLMID-CER: MID1046 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1046 3 -- not civil war 
+CIVWARMID-CER: MID1046 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1046 3 -- not civil war link
+CIVWARLINK-CER: MID1046 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1046 3 -- not coup 
+COUPMID-CER: MID1046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1046 3 -- not coup link
+COUPLINK-CER: MID1046 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3437
+
+TERRMID: MID3437 1 -- territorial MID
+TERRMID-CER: MID3437 1 -- certain 
+TERRMID-NOTES: MID3437 from Gibler 2018, after the Yom Kippur war, Syria tried to retake the Golan from Israel, but Israel resisted. A series of clashes occurred from 1973-1974 in which Israel and Syria fought for control of Golan. The UN eventually mediated a ceasefire and still has a disengagement force deployed there, as no agreement on the Golan has been reached. 
+
+TERRLINK: MID3437 3 -- not third party link to territory 
+TERRLINK-CER: MID3437 1 -- certain
+TERRLINK-NOTES: MID3437 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3437 3 -- not maritime 
+MARITMID-CER: MID3437 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3437 3 -- not islands 
+ISLMID-CER: MID3437 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3437 3 -- not civil war 
+CIVWARMID-CER: MID3437 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3437 3 -- not civil war link
+CIVWARLINK-CER: MID3437 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3437 3 -- not coup 
+COUPMID-CER: MID3437 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3437 3 -- not coup link
+COUPLINK-CER: MID3437 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3438
+
+TERRMID: MID3438 1 -- territorial MID
+TERRMID-CER: MID3438 1 -- certain 
+TERRMID-NOTES: MID3438 from Gibler 2018, in 1974-1975 Israel and Syria signed a disengagement pact to cease fighting over the Golan Heights, but clashes soon broke out. An exchange of artillery occurred, and Israel later prepared to invade before the US stepped in. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3438 3 -- not third party link to territory 
+TERRLINK-CER: MID3438 1 -- certain
+TERRLINK-NOTES: MID3438 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3438 3 -- not maritime 
+MARITMID-CER: MID3438 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3438 3 -- not islands 
+ISLMID-CER: MID3438 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3438 1 -- civil war MID
+CIVWARMID-CER: MID3438 1 -- certain
+CIVWARMID-NOTES: MID3438 this MID invovled militarized rebels in Syria (in the Golan) attacking Israeli military targets. 
+
+CIVWARLINK: MID3438 3 -- not civil war link
+CIVWARLINK-CER: MID3438 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3438 3 -- not coup 
+COUPMID-CER: MID3438 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3438 3 -- not coup link
+COUPLINK-CER: MID3438 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3439
+
+TERRMID: MID3439 1 -- territorial MID
+TERRMID-CER: MID3439 1 -- certain 
+TERRMID-NOTES: MID3439 from Gibler 2018, in 1975-1977 Syria threatened renewed fighting if Israel did not concede the Golan. Israel refused, and a border clash ensued. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3439 3 -- not third party link to territory 
+TERRLINK-CER: MID3439 1 -- certain
+TERRLINK-NOTES: MID3439 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3439 3 -- not maritime 
+MARITMID-CER: MID3439 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3439 3 -- not islands 
+ISLMID-CER: MID3439 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3439 1 -- civil war MID
+CIVWARMID-CER: MID3439 1 -- certain
+CIVWARMID-NOTES: MID3439 this MID involved fighting by miilitarized rebels, some supported by Israel and others supported by Syria. 
+
+CIVWARLINK: MID3439 3 -- not civil war link
+CIVWARLINK-CER: MID3439 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3439 3 -- not coup 
+COUPMID-CER: MID3439 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3439 3 -- not coup link
+COUPLINK-CER: MID3439 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3382
+
+TERRMID: MID3382 3 -- not territory
+TERRMID-CER: MID3382 1 -- certain 
+TERRMID-NOTES: MID3382 from Gibler 2018, in 1977 Anwar Sadat was preparing to visit Israel, and Israel put their forces on alert in anticipation of a possible attack by Syrian forces. Coded not territory because this was not connected to disputed territory; Syria and Israel were disputing the Golan, but that was not connected to this MID. 
+
+TERRLINK: MID3382 3 -- not third party link to territory 
+TERRLINK-CER: MID3382 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3382 3 -- not maritime 
+MARITMID-CER: MID3382 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3382 3 -- not islands 
+ISLMID-CER: MID3382 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3382 3 -- not civil war 
+CIVWARMID-CER: MID3382 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3382 3 -- not civil war link
+CIVWARLINK-CER: MID3382 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3382 3 -- not coup 
+COUPMID-CER: MID3382 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3382 3 -- not coup link
+COUPLINK-CER: MID3382 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3440
+
+TERRMID: MID3440 1 -- territorial MID
+TERRMID-CER: MID3440 1 -- certain 
+TERRMID-NOTES: MID3440 from Gibler 2018, in 1978 Syria shelled targets in Christian areas of Lebanon, targeting Christian militarized rebel groups. Israel responded by reinforcing the border in Golan, and Syria put its forces on high alert. Coded territorial MID because this was connected to the disputed Golan Heights. 
+
+TERRLINK: MID3440 3 -- not third party link to territory 
+TERRLINK-CER: MID3440 1 -- certain
+TERRLINK-NOTES: MID3440 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3440 3 -- not maritime 
+MARITMID-CER: MID3440 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3440 3 -- not islands 
+ISLMID-CER: MID3440 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3440 3 -- not civil war 
+CIVWARMID-CER: MID3440 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3440 1 -- civil war link
+CIVWARLINK-CER: MID3440 1 -- certain
+CIVWARLINK-NOTES: MID3440 this MID involved Syria shelling Christian militarized rebel groups in Lebanon, outside this dyad. 
+
+COUPMID: MID3440 3 -- not coup 
+COUPMID-CER: MID3440 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3440 3 -- not coup link
+COUPLINK-CER: MID3440 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3441
+
+TERRMID: MID3441 3 -- not territory
+TERRMID-CER: MID3441 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3441 3 -- not third party link to territory 
+TERRLINK-CER: MID3441 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3441 3 -- not maritime 
+MARITMID-CER: MID3441 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3441 3 -- not islands 
+ISLMID-CER: MID3441 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3441 3 -- not civil war 
+CIVWARMID-CER: MID3441 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3441 1 -- civil war link
+CIVWARLINK-CER: MID3441 1 -- certain
+CIVWARLINK-NOTES: MID3441 from Gibler 2018, the Lebanese civil war was ongoing during this MID (1979-1980). Syria was supporting militarized rebels in the war, and Israel shot down Syrian planes (Israel supported Christian rebel groups). Israel also claimed that Syria was mobilizing on the Israeli border. Coded civil war link because this was connected to the civil war in Lebanon, outside this dyad. 
+
+COUPMID: MID3441 3 -- not coup 
+COUPMID-CER: MID3441 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3441 3 -- not coup link
+COUPLINK-CER: MID3441 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3448
+
+TERRMID: MID3448 3 -- not territory
+TERRMID-CER: MID3448 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3448 3 -- not third party link to territory 
+TERRLINK-CER: MID3448 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3448 3 -- not maritime 
+MARITMID-CER: MID3448 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3448 3 -- not islands 
+ISLMID-CER: MID3448 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3448 1 -- civil war MID
+CIVWARMID-CER: MID3448 1 -- certain
+CIVWARMID-NOTES: MID3448 this MID involved PLO shelling targets in Israel (Gibler 2018). Coded civil war MID because rebel-associated violence occurred within this dyad (in Israel), and that violence contributed to the MID. See CIVWARLINK-NOTES. 
+
+CIVWARLINK: MID3448 1 -- civil war link
+CIVWARLINK-CER: MID3448 1 -- certain
+CIVWARLINK-NOTES: MID3448 from Gibler 2018, in 1980-1981 Israel attacked PLO targets in Lebanon during the Lebanese Civil War. Syria was supporting the PLO, who shelled Israeli towns. Israel and Syria also directly clashed due to their opposing support in the civil war. Coded civil war link because this was connected to the Lebanese Civil War, outside this dyad. 
+
+COUPMID: MID3448 3 -- not coup 
+COUPMID-CER: MID3448 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3448 3 -- not coup link
+COUPLINK-CER: MID3448 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3444
+
+TERRMID: MID3444 3 -- not territory
+TERRMID-CER: MID3444 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3444 3 -- not third party link to territory 
+TERRLINK-CER: MID3444 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3444 3 -- not maritime 
+MARITMID-CER: MID3444 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3444 3 -- not islands 
+ISLMID-CER: MID3444 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3444 1 -- civil war MID
+CIVWARMID-CER: MID3444 1 -- certain
+CIVWARMID-NOTES: MID3444 coded civil war MID because this MID involved militarized rebels attacking an Israeli diplomat in Israel (within this dyad), contributing to the events of this MID. 
+
+CIVWARLINK: MID3444 1 -- civil war link
+CIVWARLINK-CER: MID3444 1 -- certain
+CIVWARLINK-NOTES: MID3444 from Gibler 2018, in 1982-1985 Israel invaded Lebanon to attack PLO rebels. An Israeli diplomat was nearly killed in an assassination attempt by what they believed to be PLO terrorists, and Israel invaded Lebanon to target the rebels. Syria intervened to oppose Israel in Lebanon. Coded civil war link because this was connected to militarized rebels in Lebanon, outside this dyad. 
+
+COUPMID: MID3444 3 -- not coup 
+COUPMID-CER: MID3444 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3444 3 -- not coup link
+COUPLINK-CER: MID3444 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3442
+
+TERRMID: MID3442 3 -- not territory
+TERRMID-CER: MID3442 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3442 3 -- not third party link to territory 
+TERRLINK-CER: MID3442 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3442 3 -- not maritime 
+MARITMID-CER: MID3442 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3442 3 -- not islands 
+ISLMID-CER: MID3442 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3442 1 -- civil war MID
+CIVWARMID-CER: MID3442 3 -- uncertain
+CIVWARMID-NOTES: MID3442 coded civil war MID because this MID involved militarized rebels attacking an Israeli diplomat in Israel (within this dyad), contributing to the events of this MID. Coded uncertain because GML 2016 recommend this case be dropped. Coded uncertain because GML argue this case should be dropped. See CIVWARLINK-NOTES. 
+
+CIVWARLINK: MID3442 1 -- civil war link
+CIVWARLINK-CER: MID3442 3 -- uncertain
+CIVWARLINK-NOTES: MID3442 from Gibler, Miller, and Little 2016, this MID describes the same events as MID3444 and should be combined with that MID. From Gibler 2018, in 1982-1985 Israel invaded Lebanon to attack PLO rebels. An Israeli diplomat was nearly killed in an assassination attempt by what they believed to be PLO terrorists, and Israel invaded Lebanon to target the rebels. Syria intervened to oppose Israel in Lebanon. Coded civil war link because this was connected to militarized rebels in Lebanon, outside this dyad. Coded uncertain because GML argue this case should be dropped. 
+
+COUPMID: MID3442 3 -- not coup 
+COUPMID-CER: MID3442 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3442 3 -- not coup link
+COUPLINK-CER: MID3442 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3107
+
+TERRMID: MID3107 3 -- not territory
+TERRMID-CER: MID3107 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3107 1 -- third party link to territorial MID
+TERRLINK-CER: MID3107 1 -- certain
+TERRLINK-NOTES: MID3107 this MID was connected to Syria boycotting a conference of Arab states in which Jordan was participating. The conference involved organizing support for Iraq in its war against Iran. Coded third party link to territorial MID because this was connected to the Iran-Iraq War, a territorial MID. See CIVWARMID-NOTES. 
+
+MARITMID: MID3107 3 -- not maritime 
+MARITMID-CER: MID3107 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3107 3 -- not islands 
+ISLMID-CER: MID3107 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3107 1 -- civil war MID
+CIVWARMID-CER: MID3107 1 -- certain
+CIVWARMID-NOTES: MID3107 from Gibler 2018, in 1980 Syria increased its troop presence on its border with Jordan, and Jordan responded in kind. Syria was boycotting an Arab states conference and amassed its troops along Jordan's border on the first day of the conference (Jordan was a participant). Syria then threatened to help re-establish Palestinian rebel groups in Jordan to attack Israel and to help foment a rebellion in Jordan. Coded not civil war because although Syria did threaten to foment rebellion and establish a rebel group in Jordan, no militarized rebel group was active in Jordan at the time. 
+
+CIVWARLINK: MID3107 3 -- not civil war link
+CIVWARLINK-CER: MID3107 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3107 3 -- not coup 
+COUPMID-CER: MID3107 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3107 3 -- not coup link
+COUPLINK-CER: MID3107 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3443
+
+TERRMID: MID3443 1 -- territorial MID
+TERRMID-CER: MID3443 1 -- certain 
+TERRMID-NOTES: MID3443 from Gibler 2018, this MID involves Syria firing a missile at an Israeli plane in the disputed Golan Heights territory. Coded territorial MID because this was connected to disputed territory. 
+
+TERRLINK: MID3443 3 -- not third party link to territory 
+TERRLINK-CER: MID3443 1 -- certain
+TERRLINK-NOTES: MID3443 other Arab states have territorial disputes with Israel at this time, but the events of this MID do not connect to those disputes.
+
+MARITMID: MID3443 3 -- not maritime 
+MARITMID-CER: MID3443 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3443 3 -- not islands 
+ISLMID-CER: MID3443 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3443 3 -- not civil war 
+CIVWARMID-CER: MID3443 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3443 1 -- civil war link
+CIVWARLINK-CER: MID3443 1 -- certain
+CIVWARLINK-NOTES: MID3443 from Gibler 2018, in 1985 Israeli jets targeted PLO rebels in Lebanon, and Syrian forces fired at the jets. Coded civil war link because this was connected to militarized rebels in Lebanon, outside this dyad. 
+
+COUPMID: MID3443 3 -- not coup 
+COUPMID-CER: MID3443 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3443 3 -- not coup link
+COUPLINK-CER: MID3443 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4182
+
+TERRMID: MID4182 3 -- not territory
+TERRMID-CER: MID4182 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4182 3 -- not third party link to territory 
+TERRLINK-CER: MID4182 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4182 3 -- not maritime 
+MARITMID-CER: MID4182 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4182 3 -- not islands 
+ISLMID-CER: MID4182 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4182 1 -- civil war MID
+CIVWARMID-CER: MID4182 3 -- uncertain
+CIVWARMID-NOTES: MID4182 coded civil war MID because per Gibler 2018, this MID involved Hezbollah attacking civilian targets in Israel, within this dyad. See CIVWARLINK-NOTES. Coded uncertain because Gibler 2018 does not consider Syria a party to this dispute. 
+
+CIVWARLINK: MID4182 1 -- civil war link
+CIVWARLINK-CER: MID4182 3 -- uncertain
+CIVWARLINK-NOTES: MID4182 from Gibler 2018, from 1993 to 2006 Israel repeatedly targeted Hezbollah rebels in Lebanon. Hezbollah regularly rocketed Israel, and Israel regularly shelled rebels acorss the border into Lebanon and invaded Lebanon. Coded civil war link because this was connected to militarized rebels in Lebanon, outside this dyad. Coded uncertain because Gibler 2018 does not consider Syria a party in this dispute; Syria 'encouraged' Hezbollah rebels, but did not support them. 
+
+COUPMID: MID4182 3 -- not coup 
+COUPMID-CER: MID4182 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4182 3 -- not coup link
+COUPLINK-CER: MID4182 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4511
+
+TERRMID: MID4511 3 -- not territory
+TERRMID-CER: MID4511 1 -- certain 
+TERRMID-NOTES: MID4511 from Gibler 2018, Israeli troops discovered Syrian troops inside Israel and fired upon them. Syria claimed they were just policemen looking for a drink, but Israel claimed they were on a recon mission. Coded not territory because this was not connected to the disputed Golan Heights, and neither Syria nor Israel claimed that this was connected to the disputed territory. 
+
+TERRLINK: MID4511 3 -- not third party link to territory 
+TERRLINK-CER: MID4511 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4511 3 -- not maritime 
+MARITMID-CER: MID4511 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4511 3 -- not islands 
+ISLMID-CER: MID4511 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4511 3 -- not civil war 
+CIVWARMID-CER: MID4511 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4511 3 -- not civil war link
+CIVWARLINK-CER: MID4511 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4511 3 -- not coup 
+COUPMID-CER: MID4511 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4511 3 -- not coup link
+COUPLINK-CER: MID4511 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4517
+
+TERRMID: MID4517 3 -- not territory
+TERRMID-CER: MID4517 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4517 3 -- not third party link to territory 
+TERRLINK-CER: MID4517 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4517 3 -- not maritime 
+MARITMID-CER: MID4517 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4517 3 -- not islands 
+ISLMID-CER: MID4517 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4517 1 -- civil war MID
+CIVWARMID-CER: MID4517 1 -- certain
+CIVWARMID-NOTES: MID4517 from Gibler 2018, in 2003 Israel executed two shows of force and attacked a terrorist training camp in Syria due to Syria supporting Hezbollah attacks against Israel. Coded civil war MID because this was connected to militarized rebels in Syria. 
+
+CIVWARLINK: MID4517 1 -- civil war link
+CIVWARLINK-CER: MID4517 1 -- certain
+CIVWARLINK-NOTES: MID4517 this MID also involved Hezbollah rebels in Lebanon, outside this dyad. 
+
+COUPMID: MID4517 3 -- not coup 
+COUPMID-CER: MID4517 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4517 3 -- not coup link
+COUPLINK-CER: MID4517 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4532
+
+TERRMID: MID4532 3 -- not territory
+TERRMID-CER: MID4532 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4532 1 -- third party link to territorial MID
+TERRLINK-CER: MID4532 1 -- certain
+TERRLINK-NOTES: MID4532 from Gibler 2018, in 2006 Israel invaded Lebanon and claimed a strategic part of the Israel-Lebanon border region. Syria responded by putting its forces on alert. Coded third party link to territorial MID because this was conneceted to a territorial dispute between Israel and Lebanon. 
+
+MARITMID: MID4532 3 -- not maritime 
+MARITMID-CER: MID4532 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4532 3 -- not islands 
+ISLMID-CER: MID4532 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4532 1 -- civil war MID
+CIVWARMID-CER: MID4532 1 -- certain
+CIVWARMID-NOTES: MID4532 from CNN 7/16/2006, Israel attacked and invaded Lebanon in response to militaried rebels (Hezbollah) attacking Israeli targets across the border. Coded civil war MID because this is connected to militarzied rebel violence in Israel, within this dyad. 
+
+CIVWARLINK: MID4532 1 -- civil war link
+CIVWARLINK-CER: MID4532 1 -- certain
+CIVWARLINK-NOTES: MID4532 from CNN 7/16/2006, this MID involved Israel attacking militarized rebels (Hezbollah) in Lebanon, outside this dyad. 
+
+COUPMID: MID4532 3 -- not coup 
+COUPMID-CER: MID4532 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4532 3 -- not coup link
+COUPLINK-CER: MID4532 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4539
+
+TERRMID: MID4539 3 -- not territory
+TERRMID-CER: MID4539 1 -- certain 
+TERRMID-NOTES: MID4539 from Gibler 2018, in 2007 Israel destroyed a site with suspected nuclear material in Syria, and Syrian planes engaged the Israeli bombers. Coded not territory because this was not connected to disputed territory, but rather to Israel preventing Syria from developing nuclear weapons. 
+
+TERRLINK: MID4539 3 -- not third party link to territory 
+TERRLINK-CER: MID4539 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4539 3 -- not maritime 
+MARITMID-CER: MID4539 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4539 3 -- not islands 
+ISLMID-CER: MID4539 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4539 3 -- not civil war 
+CIVWARMID-CER: MID4539 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4539 3 -- not civil war link
+CIVWARLINK-CER: MID4539 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4539 3 -- not coup 
+COUPMID-CER: MID4539 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4539 3 -- not coup link
+COUPLINK-CER: MID4539 1 -- certain 
+COUPLINK-NOTES: 
+
+MID353 
+
+TERRMID: MID353 1 -- territorial MID
+TERRMID-CER: MID353 1 -- certain 
+TERRMID-NOTES: MID353 from Gibler 2018, near the end of the Yom Kippur War, the US and USSR were attempting to exert influence over their respective allies in the conflict. Israel mistakenly bombed two USSR civilian targets, triggering a USSR threat toward Israel. USSR threatened to intervene to support Egypt unless Israel respected a cease fire. Both US and USSR put their air forces on alert. A cease fire to end the fighting in the Yom Kippur War was signed, preventing further escalation. Coded territorial MID ebacuse this was connected to a territorial dispute between Israel and Syria in the Yom Kippur War, in which both sides were fighting for territory. 
+
+TERRLINK: MID353 1 -- third party link to territorial MID
+TERRLINK-CER: MID353 1 -- certain 
+TERRLINK-NOTES: MID353 coded third party link to territorial MID because this is connected to the Yom Kippur War, a territorial dispute in wihch Israel fought against Egypt, outside this dyad. Egypt is also a party to this MID against Israel. 
+
+MARITMID: MID353 3 -- not maritime 
+MARITMID-CER: MID353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID353 3 -- not islands 
+ISLMID-CER: MID353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID353 3 -- not civil war 
+CIVWARMID-CER: MID353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID353 3 -- not civil war link 
+CIVWARLINK-CER: MID353 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID353 3 -- not coup 
+COUPMID-CER: MID353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID353 3 -- not coup link
+COUPLINK-CER: MID353 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV1252: MID3444 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV1252: MID353 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+MID4 2002-2010:
+
+MID4511
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4511 20030108-20030108 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=1
+lhostb=USE OF FORCE 
+
+Israeli troops exchanged fire with Syrian gunmen who had entered Israel via the ISR-SYR border. The Israelis killed one and captured another. Syria claimed they were police simply looking for a drink of water, while Israel countered that they were Syrian soldiers disguised as civilians on an infiltration mission. First day of dispute was on 1/8/2003 and last day of dispute was on 1/8/2003.
+
+MID4517
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4517 20030817-20031114 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Israel and Syria experienced tensions due to Syria’s support for Hezbollah and various other rebel groups operating against Israel (MID4182). In one incident, Israeli planes buzzed the palace of Syrian president Bashar al- Assad, perhaps as a show of potential attack capabilities against the Syrian capital. In another, Israel bombed a Palestinian militant training in Syria camp after a suicide attack in Israel. Israel also staged military exercises on the border with Syria in a clear show of force against the Syrian government and their policies. First day of dispute was on 8/17/2003 and last day of dispute was on 11/14/2003.
+
+MID4532
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4532 20030817-20031114 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE 
+
+Largely in a continuation of the underlying issues of MID4512, Israeli warplanes buzzed the summer residence of Syrian president Bashar al- Assad. Syrian anti-air defenses opened fire on the Israeli planes in response. Syria also put its forces on alert during the Israeli invasion of Lebanon, and both countries threatened to use force against the other if they initiated a military action. First day of dispute was on 8/17/2003 and last day of dispute was on 11/14/2003.
+
+REFERENCE TO MID4512 IS LIKELY INCORRECT AS IT RELATES US, UK. AND IRAQ
+
+MID4539
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4539 20070906-20070906 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+USE OF FORCE
+
+Israeli warplanes bombed a suspected cache of nuclear material in Syria. The Israelis retreated when Syrian planes engaged them. First day of dispute was on 9/6/2007 and last day of dispute was on 9/6/2007.
+
+MID3 1993-2001:
+
+MID4182 IS A THIRTEEN YEAR LONG DISPUTE, AND SYRIA VIS-A-VIS OSCILLATES IN AND OUT OF THE DISPUTE IN THIS PERIOD. THOSE PERIODS (WHICH ARE MORE THAN SIX MONTHS APART) ARE NOTED BELOW BUT THE COW NARRATIVE IS THE SAME FOR ALL:
+
+This dispute contains hundreds of militarized incidents between, primarily, Israel and Lebanon. Syria sporadically participated on the side of the Lebanese. Virtually all of the incidents occur when Israel attacks Hezbollah guerillas in Southern Lebanon in response to Hezbollah attacks on Israeli troops. Israeli violations of the Lebanese border, in an effort to monitor Hezbollah activities, are also common. Lebanon repeatedly protests the incursions, and often fights with the Hezbollah guerillas when the Israeli forces attack. The dispute begins in 1993 and continues through December 2001 with remarkably little change in the character of the incidents. The dispute is, therefore, still ongoing with no outcome or settlement.
+
+MID4182
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4182 19930712-19930819 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=
+. lhostb=USE OF FORCE 
+
+ First day of dispute was on 7/12/1993 and last day of dispute was on 8/19/1993.
+
+MID4182
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4182 19940523-19940822 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=
+. lhostb=USE OF FORCE 
+
+ First day of dispute was on 5/23/1994 and last day of dispute was on 8/22/1994.
+
+MID4182
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4182 19950522-19950915 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=
+. lhostb=USE OF FORCE 
+
+ First day of dispute was on 5/22/1995 and last day of dispute was on 9/15/1995.
+
+MID4182
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4182 19960411-19960800 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=
+. lhostb=USE OF FORCE 
+
+ First day of dispute was on 4/11/1996 and last day of dispute was on 8/00/1996.
+
+MID4182
+rivalry=652666 nationa=ISRAEL nationb=SYRIA MID4182 20000524-20010701 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=101-250 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=1-25 DEATHS fatalpb=
+. lhostb=USE OF FORCE 
+
+ First day of dispute was on 5/24/2000 and last day of dispute was on 7/1/2001.
+
+NARRATIVE-CM:
+The *United Nations *(UN) General Assembly approved a resolution on November 29, 1947, which recommended that Palestine be partitioned into a Jewish state and an Arab state. The *United Nations Special Committee on Palestine* (UNSCOP), which was established by the UN General Assembly in May 1947, had recommended the partition of Palestine. Syria strongly opposed the partition of Palestine. The UN Security Council established a UN truce commission (Belgium, France, US) on April 23, 1948. On May 15, 1948, Syrian troops invaded Israel under the auspices of the *League of Arab States* (LAS) after Prime Minister David Ben-Gurion declared the establishment of the state of Israel. The UN General Assembly authorized the appointment of a UN mediator, and Count Folke Bernadotte of Sweden served as UN mediator between May 14 and September 17, 1948. The UN Security Council appealed for a ceasefire on May 22 and May 29, 1948, which Israel and Syria accepted on June 11, 1948. The UN Security Council established the *United Nations Truce Supervision Organization-Observer Group Golan* (UNTSO-OGG) on May 29, 1948. Israel and Syria resumed military hostilities on July 8, 1948, and the UN Security Council demanded a ceasefire on July 15, 1948 which was accepted by the parties on July 18, 1948. Ralph Bunche served as acting UN mediator between September 18, 1948 and August 11, 1949. Israeli troops and Syrian troops resumed military hostilities on October 14, 1948. The UN General Assembly established a conciliation commission (France, Turkey, US) on December 11, 1948. The UN Security Council appealed for a ceasefire on December 29, 1948, and the parties agreed to a cessation of military hostilities on April 13, 1949. Some 1,000 Syrian soldiers and 3,000 Israelis were killed during the conflict. Ralph Bunche mediated a demobilization agreement between the countries on July 20, 1949. The UN truce commission was dissolved on August 11, 1949. Israeli troops and Syrian troops resumed military hostilities on March 15, 1951. Syrian troops attacked the town of El-Hammu, Israel on April 4, 1951, resulting in the deaths of seven Israeli policemen. Israeli military aircraft attacked Syrian border posts on April 5, 1951. Israeli troops and Syrian troops clashed near the border on May 2-11, 1951, resulting in the deaths of 30 Israeli soldiers and 20 Syrian soldiers. The UN Security Council appealed for a ceasefire on May 8, 1951, and the countries agreed to a cessation of military hostilities on May 11, 1951. The UN conciliation commission mediated negotiations between Israeli and Syrian representatives in Paris from September 13 to November 21, 1951. Israeli troops and Syrian troops clashed near the border between October and December 11, 1955, resulting in the deaths of some 20 Syrian soldiers and Israeli soldiers. The UN Security Council condemned Israel on January 19, 1956. Israeli troops and Syrian troops clashed near the border on July 9, 1957. Israeli troops and Syrian troops clashed near the border between January 31 and February 12, 1960, resulting in the deaths of five Israeli soldiers and four Syrian soldiers. Israeli troops and Syrian troops clashed near the Sea of Galilee on March 8-20, 1962, resulting in the deaths of 30 Syrian soldiers and five Israeli soldiers. Prime Minister Golda Meir of Israel referred the matter to UN Secretary-General U Thant on March 12 and March 15, 1962, and Syria referred the matter to the president of the UN Security Council on March 17 and March 20, 1962. Israeli troops and Syrian troops clashed near the border on August 20, 1963. Israeli and Syrian troops and military aircraft clashed near the border on November 13-14, 1964, resulting in the deaths of four Israeli soldiers and seven Syrian soldiers. Syria referred the matter to the UN Security Council on November 16, 1964. Syrian troops began artillery attacks against Israeli settlements in the Golan Heights region, and Israeli military aircraft shot down six Syrian military aircraft near the border on April 7, 1967. Syria announced that it was mobilizing its armed forces on May 17, 1967. Israeli military aircraft attacked military targets in Syria beginning on June 5, 1967. The UN Security Council appealed for a ceasefire on June 6, 1967, and demanded a ceasefire on June 7, 1967. Israeli troops captured the Golan Heights from Syrian troops on June 9, 1967. The UN Security Council demanded a ceasefire on June 9, 1967. Bulgaria, Czechoslovakia, East Germany, Hungary, Poland, the Soviet Union, and Yugoslavia condemned Israel on June 9, 1967. Bulgaria, Czechoslovakia, and the Soviet Union imposed diplomatic sanctions (severence of diplomatic relations) against Israel on June 10, 1967. Israel and Syria agreed to a cessation of military hostilities on June 11, 1967. Some 800 Israeli soldiers and 700 Syrian soldiers were killed during the conflict. Hungary and Poland imposed diplomatic sanctions (severence of diplomatic relations) against Israel on June 12, 1967. Yugoslavia imposed diplomatic sanctions (severence of diplomatic relations) against Israel on June 13, 1967. The *International Committee of the Red Cross *(ICRC) assisted with the repatriation of 591 Syrians (361 soldiers and 230 civilians) and two Israelis (one soldier and one civilian) on July 17, 1967. The UN Security Council condemned ceasefire violations by Israel and Syria on October 25, 1967, and called on Israel to withdraw from territories seized during the recent conflict on November 22, 1967. The UN secretary-general unsuccessfully attempted to mediate the dispute from November 22, 1967 to August 31, 1968. *Organization of African Unity* (OAU) heads-of-state demanded the withdrawal of Israeli troops from Syrian-occupied territory on September 15, 1968. Israeli troops and Syrian troops clashed on the Golan Heights on February 1, 1970. On February 23-24, 1972, Israeli military aircraft attacked Palestinian bases in Syria following a Palestinian rebel attack against an Israeli settlement in the Upper Galilee. The Soviet Union promised additional military assistance to Syria on February 26, 1972. Israeli troops attacked a Palestinian base in Syria on March 1, 1972. The Soviet Union airlifted emergency military assistance to Syria on September 24-October 2, 1972. Israeli military aircraft and Syrian military aircraft clashed near the border on September 13, 1973. Syrian troops attacked Israeli troops on the Golan Heights on October 6, 1973. Moroccan troops intervened in support of Syria on October 6, 1973. The Soviet Union airlifted military assistance to Syria beginning on October 10, 1973. Some 18,000 Iraqi troops intervened in support of Syria on October 10, 1973. Jordanian troops and Saudi Arabian troops intervened in support of Syria beginning on October 13, 1973. The US airlifted military assistance to Israel from October 14 to November 14, 1973. The UN Security Council appealed for a ceasefire on October 22 and October 23, 1973. Israel and Syria agreed to a cessation of military hostilities on October 26, 1973. Henry Kissinger of the US mediated disengagement negotiations between the parties from January 20, 1974 to May 31, 1974. Israeli troops and military aircraft clashed with Syrian troops and military aircraft clashed near the Golan Heights on April 6-19, 1974. Israeli and Syrian representatives signed a disengagement agreement in Geneva on May 31, 1974. Some 772 Israeli soldiers, 3,100 Syrian soldiers, and 100 Syrian civilians were killed during the conflict. The UN Security Council established the *United Nations Disengagement Observer Force* (UNDOF) on May 31, 1974. UNDOF consisted of some 1350 peacekeeping troops from seven countries. The *International Committee of the Red Cross *(ICRC) assisted with the repatriation of Israeli and Syrian prisoners-of-war on June 1-6, 1974. Israeli troops disengaged their troops from parts of the Golan Heights on June 7-25, 1974. The Soviet Union provided military assistance (45 military aircraft) to Syria on February 18, 1975. On December 16, 1976, the UN General Assembly condemned Israel's destruction of the Syrian village of Quneitra. Israeli military aircraft shot down two Syrian helicopters in Lebanon on April 28, 1981, and Israeli military aircraft attacked Syrian SAM-3 missile bases in Lebanon on May 28, 1981. Israel annexed the Golan Heights on December 14, 1981. The *Gulf Cooperation Council (GCC) secretary-general condemned the Israeli annexation of the Golan Heights on December 17, 1981. The UN Security Council approved a resolution condemning Israel, but the US vetoed the resolution on January 20, 1982. Israeli military forces and Syrian military forces clashed in Lebanon beginning on June 7, 1982. Philip Habib of the US mediated a ceasefire agreement between the countries on June 11, 1982. Israeli military aircraft shot down two Syrian military aircraft in Lebanon on November 19, 1985. Syria deployed long-range missiles in southern Syria on December 15, 1985, but withdrew the missiles on January 15, 1986. The *Non-Aligned Movement* (NAM) foreign ministers condemned the Israeli occupation of the Golan Heights on September 7, 1986. President George Bush of the US and President Mikhail Gorbachev of the Soviet Union hosted a peace conference between Israeli and Syrian representatives in Madrid on October 30-November 3, 1991. The US facilitated negotiations between Israeli and Syrian representatives in Washington DC between December 10, 1991 and April 1992. The US mediated negotiations between Israeli and Syrian representatives in Shepherdstown, West Virginia beginning on January 3, 2000.
+
+The rivalry is not finished as of December 2006 because the main issue of contention: the existence of Israel; the ownership of the Golan Heights have not been solved yet. The 2006 invasion by Israel of Lebanon has exacerbated the tensions between Syria and Israel even more. 
+
+SOURCES-CM: 
+*Africa Contemporary Record *(ACR), 1986-1987; Allock et al., 1992, 325-363; Bhutani 1997; Brecher and Wilkenfeld, 1997, 268-300; Clodfelter, 1992, 1032-1036, 1041-1045, 1051-1057; *Facts on File*, January 18-24, 1956, March 15-21, 1962, November 12-18, 1964, June 8-14, 1967; Jessup, 1998, 712-716; *Keesing*, June 12-19, 1948, May 27-June 3, 1967, October 26-November 2, 1968, November 5-11, 1973; Langer, 1972, 1282-1288, 1298-1300, 1301-1303; Mandell, 1996, 129-149; Ma'oz 1995; *Middle East Journal *(MEJ), Winter 1973;* Reuters, January 5, 2000; Tillema, 1991, 157-159, 162, 166-167, 167-168, 170-174, 184-186; Weisburd, 1997, 100-102, 135-141, 150-152.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SB-CR:
+Israel / Syria Years: 1948-Present. Issues at stake: Existence of Israel; border (Golan Heights); Syrian/Israeli presence in Lebanon. End coding: Continuing as of 1988 with no settlement. Number of reciprocated 30 day militarized disputes: 21. Last militarized dispute: As recent as 1985 (in dispute data set; more recent disputes have occurred). Wars: 1948-1949, 1967, 1973. Summary: The roots of the Israeli-Syrian rivalry lie in the circumstances of Israel's creation (see summary under Israeli-Egyptian rivalry above). Syria refused to recognize Israel as a legitimate state, and refused to ratify its borders with Israel. In the 1967 Arab-Israeli war, Israel captured the Golan Heights on Israel's northeastern border. Border confrontations have occurred both before and after the capture of the Golan Heights. A 1974 Israel-Syria disengagement agreement returned to Syria additional territory captured by Israel in the 1973 war, but not the Golan Heights. After the Lebanese civil war of 1975, disputes have also occurred over Lebanon, where Syria and Israel have supported different factions. Israeli forces fought with Syrian forces (particularly Air Force and air defense units) during the Israeli invasion of Lebanon in 1982. In the 1980s disputes have occurred more often over Lebanon and the continuing Israeli presence in its self-declared "security zone" than over the direct border. However, Syria has continued to demand the return of the Golan as well as Israeli withdrawal from Lebanon. The Israelis demand Syrian withdrawal from Lebanon, and are resistant to returning the Golan Heights from which the Syrians have easy access to Israel's northern territories. This dyad is one of the most disputatious of all rivalries, both in frequency and in total number of disputes, although there have been fewer wars than in the Egyptian-Israeli rivalry. No settlement of the disputed issues has yet been reached. Notes: Peace talks between Israel, Syria, Jordan, and the Palestinians began in 1992, but have not produced settlement yet (1993). The rivalry is not finished as of December 2006 because the main issue of contention: the existence of Israel; the ownership of the Golan Heights have not been solved yet. The 2006 invasion by Israel of Lebanon has exacerbated the tensions between Syria and Israel even more. Sources: Goldstein (1992), Information Please Almanac (1991).
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+New York Times (1952a). Israel Complains to U.N. Against Syrianís Threat. New York Times
+January 30: 5.
+
+New York Times (1952b). Israeli's Attitude Scored. New York Times January 10: 14.
+
+New York Times (1953a). Israel and Syria Trade U.N. Charges on River Project. New York Times October 31: 1. 
+
+New York Times (1953b). Syria Halts Army Leaves to Back Protest on Israel's Jordan Canal. New York Times September 26: 1. 
+
+New York Times (1954). Syrians and Israelis Clash Near Galilee. New York Times March 16: 1.
+
+New York Times (1954a). Israel Accuses Syria. New York Times August 16: 5.
+
+New York Times (1954b). Syrian Plane And 4 Released By Israel. New York Times December 15: 3.
+
+New York Times (1955a). Israel Accuses Syria in Clash. New York Times. March 3: 3.
+
+New York Times (1955b). Israel Would Ship Arabs Seized Drugs. New York Times August 6: 6.
+
+CNN (2006). Israel Bombs Palestinian Foreign Ministry Building; Americans Trying to Evacuate Lebanon; G8 Leaders Issue Statement Blaming Mideast Crisis on Extremists. July 16: NEws Live Sunday 6:00pm EST.
+

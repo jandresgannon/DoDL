@@ -1,0 +1,298 @@
+FILE: cm002315v11.0.txt
+DYAD: USA-CZECHOSLOVAKIA
+RIVALRY: RIV10065
+DISPUTE(S): MID208 MID2849 MID27 MID2559
+
+PS: 19181028-19451130 0.5 19451201-19480224 -9 19480225-19891226 0.25 19891227-19921231 0.5 
+
+PSNOTES: Czech Republic (316)and Slovakia (317) are considered separate states from Czechoslovakia (315) after secession, although the narrative for Czechoslovakia is given below as if there were continuation. 
+
+There were three consecutive periods post-Word War II that were coded as 0.25. Two of them were RIV64 and RIV65. These periods were collapsed into one period from 19480225-19891226 coded as 0.25
+
+PS-LAST-CHANGED: 20170628
+PS-LAST-CHECKED: 20170628
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID208 
+
+TERRMID: MID208 3 -- not territory 
+TERRMID-CER: MID208 1 -- certain 
+TERRMID-NOTES: MID208 occurred in March of 1953 and is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced a US reporter to prison for espionage. The US imposed economic sanctions, and Czechoslovakia shot down a US military aircraft over US-occupied Germany. Coded not territorial because the US and Czechoslovakia did not have a territorial dispute. 
+
+TERRLINK: MID208 3 -- not third party link to territory 
+TERRLINK-CER: MID208 1 -- certain 
+TERRLINK-NOTES: MID208 from cm narrative, this is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. The US and USSR were third parties to other territorial disputes, including East Germany vs West Germany (GDR vs FRG), but the US and USSR did not actually claim each other's sovereign territory. However, this MID is coded not third party link because, although Czechoslovakia was a Soviet ally, this was not a MID about advancing a territorial claim or clearly tied to another MID that is territorial. It was a diplomatic dispute. 
+
+MARITMID: MID208 3 -- not maritime 
+MARITMID-CER: MID208 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID208 3 -- not islands 
+ISLMID-CER: MID208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID208 3 -- not civil war 
+CIVWARMID-CER: MID208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID208 3 -- not civil war link 
+CIVWARLINK-CER: MID208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID208 3 -- not coup 
+COUPMID-CER: MID208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID208 3 -- not coup link
+COUPLINK-CER: MID208 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2849 
+
+TERRMID: MID2849 3 -- not territory 
+TERRMID-CER: MID2849 1 -- certain 
+TERRMID-NOTES: MID2849 coded not territory because the US and Czechoslovakia did not have a territorial dispute between them. This is a bilateral MID.
+
+TERRLINK: MID2849 3 -- not third party link to territory 
+TERRLINK-CER: MID2849 3 -- uncertain 
+TERRLINK-NOTES: MID2849 from cm narrative, this is a bilateral MID, and it is unclear what occurred besides a show of force of some kind. Czechoslovakia was allied to the USSR, and both of those countries were antagonistic toward the US. Coded uncertain because it is possible that these countries clashed over a territorial dispute that fell along Cold War divisions, such as East vs West Germany, although there is no clear evidence that they did. 
+
+MARITMID: MID2849 3 -- not maritime 
+MARITMID-CER: MID2849 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2849 3 -- not islands 
+ISLMID-CER: MID2849 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2849 3 -- not civil war 
+CIVWARMID-CER: MID2849 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2849 3 -- not civil war link 
+CIVWARLINK-CER: MID2849 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2849 3 -- not coup 
+COUPMID-CER: MID2849 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2849 3 -- not coup link
+COUPLINK-CER: MID2849 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: MID27 is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the crisis that eventually led to the construction of the Berlin Wall in August 1961. Khrushchev gave an ultimatum for the US to leave West Berlin, which threatened the status of West Berlin. The USSR was concerned about the growing military power of West Germany and threatened to sign a peace treaty with East Germany, further threatening western interests. Coded not territory because West Germany (Federal Republic of Germany) claimed the territory of East Germany (German Democratic Republic) as rightfully its own, and by extension, the US, UK, and France backed this claim, but the US and Czechoslovakia did not dispute territory between them here. The USSR, Czechoslovakia, and Poland backed East Germany's position in the territorial dispute. See TERRLINK.
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 from cm narrative, this is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. See TERRMID-NOTES for an explanation of the territorial dispute. Coded third party link to territory because there are several dyads with territorial MIDs in this dispute. The US and Czechoslovakia were third parties to the East Germany-West Germany territorial dispute. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2559 
+
+TERRMID: MID2559 3 -- not territory 
+TERRMID-CER: MID2559 1 -- certain 
+TERRMID-NOTES: MID2559 from cm narrative, Czechoslovakia fired at a US helicopter flying in West German airspace in 1985. The tension between the US and Czechoslovakia comes from the East vs West Germany territorial dispute and the opposing alliance blocs of US vs Russia. Czechoslovakia was allied with Russia. Coded not territory because the US and Czechoslovakia did not have a territorial dispute between them. See TERRLINK.
+
+TERRLINK: MID2559 1 -- third party link to territorial MID
+TERRLINK-CER: MID2559 1 -- certain 
+TERRLINK-NOTES: MID2259 from cm narrative, Czechoslovakia fired on a US helicopter in West German airspace. West Germany and East Germany had a territorial dispute (West Germany claimed that East Germany's territory was rightfully West's territory), and the US was allied to West Germany while Czechoslovakia and Russia were allied with East Germany. The tension between Czechoslovakia and the US came from this alliance arrangement. Coded third party link to territory because the US was in West Germany and was helping them with economic and military assistance. This assistance helped West Germany advance/uphold their claim in the territorial dispute with East Germany, and Czechoslovakia opposed the US partly for this reason,leading to their tension and this MID. 
+
+MARITMID: MID2559 3 -- not maritime 
+MARITMID-CER: MID2559 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2559 3 -- not islands 
+ISLMID-CER: MID2559 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2559 3 -- not civil war 
+CIVWARMID-CER: MID2559 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2559 3 -- not civil war link 
+CIVWARLINK-CER: MID2559 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2559 3 -- not coup 
+COUPMID-CER: MID2559 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2559 3 -- not coup link
+COUPLINK-CER: MID2559 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+
+RIVNOTES: 
+
+RIV65: MID2231 removed because it does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+While RIV64 and RIV65 both occur during the Cold War and have been merged into RIV10065
+
+
+NARRATIVE-CM: 
+Czechoslovak national council declared its independence from the Austrian-Hungarian Empire on October 18, 1918, and proclaimed the *Czechoslovak Republic* on October 28, 1918. Czechoslovak and US representatives signed a debt repayment agreement on October 9, 1925. Slovakia proclaimed its independence from the Czechoslovak Republic on March 14, 1939, and German troops occupied the Czechoslovak Republic (Bohemia and Moravia) on March 15, 1939. The US recognized the Czechoslovak government-in-exile in London on July 31, 1941. Slovakia declared war against the US on December 12, 1941. US troops commanded by General George Patton occupied western Bohemia in May 1945. US troops completed their withdrawal from Czechoslovakia on December 1, 1945. 
+
+Czechoslovakia sentenced William Oatis, a press correspondent from the US, to a ten-year prison sentence for espionage on July 4, 1951. The US responded by imposing economic sanctions against Czechoslovakia. Czechoslovak military aircraft shot down a US military aircraft over the US occupation zone in Germany on March 10, 1953. Czechoslovakia released William Oatis from prison on May 15, 1953, and the US lifted economic sanctions against Czechoslovakia on May 16, 1953. 
+
+Czechoslovak troops seized seven US soldiers near the Czechoslovak-West Germany border on July 4, 1954, but the US soldiers were released by the Czechoslovak government on July 15, 1954. Czechoslovak police arrested Vladimir Kazan-Komarek, a citizen of the US, in Prague on October 31, 1966, and Vladimir Kazan-Komarek was sentenced to eight-years in prison (and expelled from the country) on February 1, 1967. Czechoslovak and US representatives signed an agreement on January 29, 1982, which provided for the return of gold from the US to Czechoslovakia. Czechoslovakia also agree to compensate US citizens whose assets had been seized by the Czechoslovak government in 1948.
+
+SOURCES-CM: *Facts on File*, July 16-22, 1954; Ference, 1994, 103-164; Langer, 1972, 1016-1019, 1203-1205.
+
+NARRATIVE-CR:
+
+MID208 occurred in March of 1953. It is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced William Oatis, a press correspondent from the US, to a ten-year prison sentence for espionage on July 4, 1951. The US responded by imposing economic sanctions against Czechoslovakia. Czechoslovak military aircraft shot down a US military aircraft over the US occupation zone in Germany on March 10, 1953. Czechoslovakia released William Oatis from prison on May 15, 1953, and the US lifted economic sanctions against Czechoslovakia on May 16, 1953. 
+
+MID2849 occurred in July of 1957 and is a bilateral dispute. This is a one day dispute in which the US displayed force of some kind. I was not able to locate information on this mid in any print reference or newspaper sources. The event is coded as ending in a stalemate with no fatalities. 
+
+MID27 is the Berlin Wall Crisis. This is a multilateral dispute involving many countries including the US in opposition to Czechoslovakia. The Berlin dispute had simmered ever since Khrushchev threatened (1958) to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.
+
+The Soviets, for their part, were particularly concerned with the growing military strength of West Germany, and, in particular, the installation of tactical nuclear weapons in West Germany. The East German government was increasingly concerned about the defection of East German citizens moving from East to West Berlin.
+
+On June 4, 1961, Khrushchev reissued his 1958 threat in ultimatum form, with a deadline of December 31, 1961. Kennedy responded (June 28, July 25) with a public statement of the US determination to defend the status of Berlin, including Western access rights, but with no mention of freedom of movement between East and West Berlin. This may have encouraged the Soviet and East German governments to begin construction of the Berlin Wall on August 13, 1961. That action produced an immediate heightening of tensions, including shows-of-strength and diplomatic sanctions by both sides.
+
+By the end of August Kennedy proposed negotiations which were arranged for September 21 in New York. Conciliatory letters between Kennedy and Khrushchev were exchanged in late September. When Kennedy assured Khrushchev that the US would not pursue the reunification of Germany, Khrushchev decided (October 17) to rescind the December 31 deadline for a settlement. Tentative agreement on a formula for a negotiated settlement regarding access right and recognition of the boundaries of the two Germanies was reached on November 9th, although it was to take more than a decade before a formal agreement was reached.
+
+The rivalry between the US and Czechoslovakia appears to die down after 1961 and conflict between the two countries does not renew until 1984. The US had been seeking to improve relations with Eastern European countries since the Eisenhower Administration. In the early 1960s progress toward normalization with the hard line Novotny regime was limited. In late 1967, the Novotny regime began to crumble before the reform movement in spite of Soviet efforts to prop it up. Once in power, however, the reformers, convinced Communists who harbored considerable hostility to the United States, proved almost as intractable as their predecessors. They pressed hard for the immediate settlement of outstanding issues on Czech terms. These issues included trade, property (above all Czech gold reserves in U.S. custody), and consular activities. The United States, in an effort to avoid provoking the Soviet Union, maintained its distance from the new Czech leadership. At the same time U.S. officials in Prague and Washington debated the best means to deter Soviet military intervention against a movement that favored Western interests. 
+
+In an effort to prevent Soviet intervention and to refute persistent Soviet propaganda claims, Secretary of State Dean Rusk met with Soviet Ambassador Anatoly Dobrynin to assure the Soviets that U.S. policy was non-involvement in Czech internal affairs. Nevertheless, by late July the probability of Soviet intervention was high. Indeed, on August 20, 1968, Ambassador Dobrynin met President Johnson and read a note informing the United States of Soviet intervention in Czechoslovakia. U.S. officials attempted to provide diplomatic support to the Dubcek regime in Czechoslovakia, and to react forcefully to Soviet actions. Rusk and the President communicated their displeasure and concern in meetings with Dobrynin and messages to the Soviet leadership. U.S. officials developed policies to deal with the interrelated issues of policy toward Eastern Europe, a prospective summit meeting, and the future of the NATO Alliance in the wake of the Czechoslovak invasion. Simultaneously, they witnessed the progressive destruction of the Prague reform movement engineered by the Soviet Union.
+
+Czechoslovak foreign policy mirrored the Soviet Unions hereafter and in the spirit of detente of the 1970s, Czechoslovakia expanded and improved its relations with many noncommunist nations. These efforts were hindered by memories of the 1968 invasion, which continued to be condemned by virtually every nation outside the Soviet orbit. Another hindrance that appeared in the latter half of the decade and continued adversely to affect Czechoslovak foreign relations in the 1980s was its poor human rights record. Its repression of dissent brought wide condemnation from the noncommunist world. 
+
+In the mid-1980s there was one MID in the rivalry between Czechoslovakia and the US. 
+
+MID2559 occurred on September 29, 1985. This MID includes the US and West Germany v. Czechoslovakia. This incident appears to be the most direct incident between the two countries. A Czechoslovak jet flying over West German territory fired several missiles at a US Army helicopter on a reconnaissance patrol. The missiles missed. The US government reported that the based on intelligence gathered by listening to radio intercepts, the Czechoslovak pilot knew he was in German territory and thus the act was deemed deliberate. 
+
+From 1948 until 1989, the foreign policy of Czechoslovakia had followed that of the Soviet Union. Since the end of the Cold War the Czechs and the Slovaks have made integration into Western institutions their chief foreign policy objective. 
+
+Since the 'Velvet Revolution' of 1989, bilateral relations have improved immensely. Dissidents once sustained by U.S. encouragement and human rights policies reached high levels in the government. President Havel, in his first official visit as head of Czechoslovakia, addressed the U.S. Congress and was interrupted 21 times by standing ovations. In 1990, on the first anniversary of the revolution, President Bush, in front of an enthusiastic crowd on Prague's Wenceslas Square, pledged U.S. support in building a democratic Czechoslovakia. Toward this end, the U.S. Government has actively encouraged political and economic transformation. 
+
+The U.S. Government was originally opposed to the idea of Czechoslovakia forming two separate states, because of concerns that a split might aggravate existing regional political tensions. However, the U.S. recognized both the Czech Republic and Slovakia on January 1, 1993. Since then, U.S.-Czech relations have remained strong economically, politically, and culturally. Relations between the U.S. and the Czech Republic are excellent and reflect the common approach both have to the many challenges facing the world at present. The U.S. looks to the Czech Republic as a partner in issues ranging from Afghanistan to the Balkans, and seeks opportunities to continue to deepen this relationship.
+
+The fall of the communist regime in Czechoslovakia in 1989 and the subsequent split of the two republics on January 1, 1993, allowed for renewed cooperation between the United States and Slovakia. The election of a pro-Western, reformist government in late 1998 further boosted close ties between the countries. The United States delivered more than $200 million after 1990 to support the rebuilding of a healthy democracy and market economy in Slovakia, primarily through programs administered by the U.S. Agency for International Development (USAID). Slovakia and the United States retain strong diplomatic ties and cooperate in the military and law enforcement areas. The U.S. Department of Defense programs have contributed significantly to Slovak military reforms. 
+
+SOURCES-CR:
+*Facts on File*, July 16-22, 1954; Ference, 1994, 103-164; Gawdiak, 1987; Langer, 1972, 1016-1019, 1203-1205; New York Times.
+
+PS-NARRATIVE:
+
+19451201-19480224 Transition
+
+US troops commanded by General George Patton occupied western Bohemia in May 1945. The embassy in Prague was re-established on May 29, 1945, with Alfred W. Klieforth as charge d'affaires ad interim. US troops completed their withdrawal from Czechoslovakia on December 1, 1945. From 1945 to 1948, when the Communists took over Czechoslovakia, the relations were peaceful and good. In 1946, parliamentary elections were won by the Communist Party of Czechoslovakia, but there were other parties with ministers in the Government, too. 
+
+19480225-19891226 RIV64/RIV65-0.25
+
+On February 25, 1948, the Communists seized power even though they maintained the fiction of political pluralism. On March 17, 1948, the Czechoslovak Deputy Ministry of Foreign Affairs, Vladimir Clementis, gave a strong attack against U.S. foreign policies in Europe. In February 1949, three U.S. citizens, two were U.S. Army soldiers were detained by the Czechoslovak authorities and the U.S. diplomatic corps were not allowed to approach them. In November 1949, Czechoslovakia arrested one Czech-born U.S. citizen who was working for the U.S. Embassy in Prague and asked one U.S. diplomat to leave the country. U.S. retaliated against Czechoslovak personnel of the Consulate in New York City. In April 1950, two Czechoslovak citizens who worked for the U.S. Embassy in Prague, were sentenced to prison for espionage for the enemy of the Czechoslovak state, United States. Czechoslovakia sentenced William Oatis, a press correspondent from the US, to a ten-year prison sentence for espionage on July 4, 1951. The US responded by imposing economic sanctions against Czechoslovakia. In the early 1950s it was common for U.S. citizens to be imprisoned in Czechoslovakia for various reasons and in many cases they were also sent to labor camps. The U.S. diplomatic corps in Prague could not do much more than complain and impose either diplomatic or economic sanctions on Czechoslovakia. 
+
+MID208 occurred in March of 1953. It is a multilateral dispute with the US and the UK versus the USSR and Czechoslovakia. Czechoslovakia sentenced William Oatis, a press correspondent from the US, to a ten-year prison sentence for espionage on July 4, 1951. The US responded by imposing economic sanctions against Czechoslovakia. Czechoslovak military aircraft shot down a US military aircraft over the US occupation zone in Germany on March 10, 1953. Czechoslovakia released William Oatis from prison on May 15, 1953, and the US lifted economic sanctions against Czechoslovakia on May 16, 1953. 
+
+MID2849 occurred in July of 1957 and is a bilateral dispute. This is a one day dispute in which the US displayed force of some kind. I was not able to locate information on this mid in any print reference or newspaper sources. The event is coded as ending in a stalemate with no fatalities. 
+
+MID27 is the Berlin Wall Crisis. This is a multilateral dispute involving many countries including the US in opposition to Czechoslovakia. The Berlin dispute had simmered ever since Khrushchev threatened (1958) to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.
+
+The Soviets, for their part, were particularly concerned with the growing military strength of West Germany, and, in particular, the installation of tactical nuclear weapons in West Germany. The East German government was increasingly concerned about the defection of East German citizens moving from East to West Berlin.
+
+On June 4, 1961, Khrushchev reissued his 1958 threat in ultimatum form, with a deadline of December 31, 1961. Kennedy responded (June 28, July 25) with a public statement of the US determination to defend the status of Berlin, including Western access rights, but with no mention of freedom of movement between East and West Berlin. This may have encouraged the Soviet and East German governments to begin construction of the Berlin Wall on August 13, 1961. That action produced an immediate heightening of tensions, including shows-of-strength and diplomatic sanctions by both sides.
+
+By the end of August Kennedy proposed negotiations which were arranged for September 21 in New York. Conciliatory letters between Kennedy and Khrushchev were exchanged in late September. When Kennedy assured Khrushchev that the US would not pursue the reunification of Germany, Khrushchev decided (October 17) to rescind the December 31 deadline for a settlement. Tentative agreement on a formula for a negotiated settlement regarding access right and recognition of the boundaries of the two Germanies was reached on November 9th, although it was to take more than a decade before a formal agreement was reached.
+
+The rivalry between the US and Czechoslovakia appears to die down after 1961 and conflict between the two countries does not renew until 1984.
+
+The last MID of RIV64, MID27 ended on October 28, 1961. U.S. did not get involved in the Soviet intervention in Czechoslovakia in 1968. It tried to keep its distance both diplomatically and politically. The United States simply referred the case to the Security Council of the United Nations without intervening against Soviet Union. Throughout the 60s the relations were cool but the two countries maintained diplomatic relations at the ambassadorial level throughout the period. 
+
+On July 31, 1969, the U.S. Ambassador to Czechoslovakia, Malcolm Toon, indicated U.S.'s desire to achieve closer ties with Czechoslovakia. He noted that educational, cultural and scientific exchanges between the two countries increased over the last couple of years. In February 1973, there were signs that the Czechoslovak leader, Husak, wanted better relations with the United States. In 1972, Husak received a group of U.S. senators on official visit to Prague and there were reports of the possibility of improved relations. On September 10, 1973, Czechoslovakia and U.S. started negotiations on financial claims related to World War II. US claims compensation for American property nationalized in Czechoslovakia worth of 70 million dollars, while, Czechoslovakia negotiates for the return of 18 tons of gold held by U.S. On July 5th, 1975, the two countries reached a preliminary accord on the issue. 
+
+On November 3, 1976, the two countries curbed restrictions on the domestic travel of diplomats. The restricted zones were in effect for more than a decade. On January 26, 1977, a few days after the Carter administration took over in the White House, a State Department spokesman used the forum of the daily briefing to announce concern about the treatment of Czechoslovak intellectuals. 
+
+On October 25, 1979, the United States condemned the conviction of six Czechoslovak dissidents, but in the process it triggered considered confusion about whether the criticism was intended to indict the Soviet Union for complicity in the matter. 
+
+In October 1981, U.S. and the Czechoslovak Government were close to agreement on the return of 18.3 metric tons of gold seized by the Nazis during World War II. For the United States, the question has been a stumbling block to the normalization of relations with Prague. A spokesman for the U.S. Embassy said 'considerable' progress had been made in government-to-government talks, which resumed in March after a long gap. The key talks are those between Prague and Washington. Two agreements negotiated between them in 1964 and 1974 were blocked by Congress as inadequate and the issue has seriously clouded bilateral relations for more than three decades. Britain, which holds 10 tons of the gold, has been prepared in the past to settle, but any agreement requires the approval of all three members of a tripartite commission, which also includes the United States and France.
+
+The French have already settled their claims. The commission awarded Czechoslovakia 24 tons of gold, and about six tons had been returned when then U.S. president Harry Truman blocked further deliveries after the Communists took over in Prague in 1948 and nationalized foreign assets. Private U.S. claims against Czechoslovakia were put in 1958 at $112.5-million (U.S.). Since then, the price of gold has zoomed from $35 an ounce to more than $800, before dropping back to about $450. This would put the value of the bullion at about $270-million. Czechoslovakia's apparently renewed willingness to settle the issue may be prompted by a proposal before the U.S. Congress to sell the gold, invest the proceeds and use the interest to pay off all claims, then return the principal to Czechoslovakia. Prague has called the proposal 'legalized theft.' U.S. sources in Prague said many congressmen were skeptical that any satisfactory agreement could be reached. In November 1981, Prague officials were particularly troubled about the low level of trade with the United States and their country's substantial deficit in that trade. ''We export twice as much to Iraq as to the United States,'' Rudolf Stolar, a deputy director of foreign trade, said in a recent interview. He said that Czechoslovak imports from the United States last year were $300 million, or four times the exports of $73 million.
+
+MID2559 occurred on September 29, 1985 and it involved U.S., Germany and Czechoslovakia. A Czechoslovak fighter jet opened fire on a U.S. helicopter flying a reconassaince mission over southern border of Germany. Pentagon reported that 2 or 4 rockets were fired at the helicopter. No damage was reported. 
+
+A Czechoslovakian official was told by the State Department on October 23, 1989, the Prague government must dramatically improve human rights for its citizens if it expects better relations with the United States, the department said. Richard Schifter, U.S. assistant secretary of state for humanitarian affairs, stressed to Dr. Vladimir Janku, director of religious affairs in the government of Czechoslovakia, that "Czechoslovakia was lagging behind its neighbors regarding respect for human rights generally", said a department spokesman. Both sides meanwhile acknowledged that the United States and Czechoslovakia had begun discussing humanitarian issues, as suggested by Secretary of State James Baker to Czechoslovakia's foreign minister at a September meeting in New York. Janku told Schifter of steps taken by Czechoslovakia to strengthen religious rights, said State Department Press Officer David Denny. He quoted the Prague official as saying "there can be no progress without" the cooperation of religious believers, since they make up half the population. In November 1989, United States applauded the Czechoslovak opposition group, Civic Forum for its standing against the Communist government. 
+
+19891227-19990311 0.5
+
+In early December 1989, the United States began preliminary consideration of economic aid to Czechoslovakia similar to aid approved for neighboring Poland and Hungary. The peaceful Czechoslovak Velvet Revolution lasted from November 16, 1989 to December 27, 1989. On December 27, 1989, the leader of the anti-Communist group, Vaclav Havel was appointed President of Czechoslovakia, signaling the end of the revolution. 
+
+President Vaclav Havel of Czechoslovakia sought more trade, not more aid, when he visited the United States in late February 1990 to meet President Bush and speak to Congress, a top administration official said. Havel, the playwright and opposition leader elevated to president the previous year, was scheduled to meet and have lunch with Bush at the White House. Instead of financial aid, the Czechslovaks are more interested in increased trade, hoping to import U.S. technology and export Czechoslovakian beer and other consumer goods to the United States. 
+
+President Vaclav Havel told a cheering crowd on February 23, 1990, that his trip to the United States was ''very successful'' and Czechoslovakia has become ''America's favorite country'' following a peaceful revolution that overthrew communist rule. ''We achieved much more than we expected,'' he told a crowd of about 10,000 gathered in the sun-dappled square. ''We had only two days in the United States, but Czechoslovakia became America's favorite country.'' Havel spoke from the balcony of the Rococo Kinsky Palace in Old Town Square, the same balcony that Klement Gottwald announced the communist takeover in February 1948. The United States and Czechoslovakia will sign a trade agreement granting that new democracy most-favored-nation trading status, the Bush administration announced on April 4, 1990. President Bush hailed the pact as the "first trade agreement concluded with an Eastern European country since the 'revolutions of 1989,"' according to spokesman Marlin Fitzwater. Previously, most-favored-nation status had been denied to Czechoslovakia because of repressive human rights policies of the country's previous communist government. The trade agreement was signed into legislation by President Bush in November 1990. 
+
+On the eve of his departure for a weeklong trip to the United States, Czechoslovak Foreign Minster Jiri Dienstbier said on April 9, 1991, that he would be asking the United States to open its markets for exports from Czechoslovakia and other emerging democracies in the former Soviet Bloc. Dienstbier said he will tell senior American administration officials that the security of Europe depended on both creating functioning Europe-wide security structures and on solving the region's pressing economic concerns. ''I would not separate (the two),'' Dienstbier told journalists. ''The security situation in Central and Eastern Europe depends on whether these countries ... can be successful in their economic reforms. ''With the Americans, we will also discuss the possibility of supporting exports from Czechoslovakia and other East and Central European countries,'' Dienstbier said. Dienstbier also said that Czechoslovak President Vaclav Havel would not sign the Conventional Forces in Europe arms reduction agreement until problems with Soviet compliance with the treaty have been solved.
+
+US Vice-President Dan Quayle arrived for an official visit to Czechoslovakia on 6th June, 1991. Quayle and his wife were welcomed by Czechoslovak President Vaclav Havel and his wife Olga. During the first Havel-Quayle meeting, Havel said Czechoslovak-US relations had never been as good as at present. Quayle said the main aim of his current visit was to emphasize the friendship between Czechoslovakia and the US and the personal friendship between President Havel and President Bush. 
+
+US Defence Secretary Richard Cheney arrived in Czechoslovakia on 10th December, 1991, for a two-day visit at the invitation of Federal Defence Minister Lubos Dobrovsky. From the airport Cheney travelled to the Ministry of Defence where he and Dobrovsky signed an agreement on mutual co-operation on topography, geodesy, geophysics and processing of digital territorial data. The main guarantors overseeing the implementation of the agreement will be the topographical service of the Czechoslovak Army-for the Federal Ministry of Defence and for the US Defence Department the map agency. In the afternoon Cheney was received by Federal Foreign Minister Jiri Dienstbier, and in the evening he visited the General Staff of the Czechoslovak Army where he held talks with Col-Gen Karel Pezl and also met the commander and members of the Czechoslovak anti-chemical warfare unit which was deployed in the Persian Gulf and the monitoring group used in Iraq. 
+
+On December 31, 1992 Czechoslovakia peacefully broke-up into Czech Republic and Slovakia. USA recognized the independent Czech Republic on January 1, 1993, when diplomatic contacts on the ambassadorial level were established.
+
+The United States has surpassed Germany as the largest source of new investment funds flowing into the Czech Republic, Michal Soukup, Czech Deputy Minister of Privatization, told an audience in New York City, on June 23, 1993. Mr. Soukup said that his nation's straight-forward approach to creating a free market economy saw the United States originating 27.2 percent of new investments during l992 while France created 20 percent and Germany-traditionally the leading Czech investment source-slipped to third place and 16.9 percent.
+
+The United States' decision to allow export of its most modern military technologies to the Czech Republic is an important practical and symbolic step towards the building of the Czech Republic's union with the United States and NATO, Czech Foreign Minister Josef Zieleniec said on February 21, 1995. Zieleniec's statement was the first confirmation of the U.S. decision from the Czech side. U.S. Defence Secretary William Perry said in Washington on February 18, 1995, that the United States would offer its most modern weapons to Poland and other Central European countries which he did not specify more closely. A day later the American daily `The Washington Post', citing an unknown U.S. official, wrote that the export measure concerned ten countries in the region, including the Czech Republic.
+
+Individuals and organizations involved in trade between the Czech Republic and the North Atlantic Free Trade Agreement (NAFTA) recently founded the Czech-North American Chamber of Commerce with the aim of expanding mutual trade and investment activities as well as tourism. Lubomir Novotny, the executive director of the new chamber, said on October 20, 1998, that the chamber will be launched in Atlanta, Georgia. Its activities will officially be opened in Watertown, Massachusetts, on October 31, 1998. Among participants at the opening ceremony there will be several Czech senators led by Petr Pithart, the chairman of Czech Parliament's upper chamber, Novotny said. From 1996 to the end of June 1998 U.S. companies invested $ 1.468bn in the Czech Republic. Over 300 U.S. companies are active in the Czech Republic. Around 200,000 U.S. citizens visited the Czech Republic the previous year. 
+
+The Czech Republic joined the Partnership for Peace (PFP) program in 1994 in what was the country's first act of military cooperation with NATO. Three years later, because of its work and progress within the PfP, the Czech Republic was invited to become a member of NATO. The PFP was one of the key factors in the Czech Republic's admission, together with Czech participation in the U.N. and OSCE (Organization for Security and Cooperation in Europe) peace keeping missions and NATO's IFOR and SFOR peace operations in Bosnia. Czech Republic became a member of NATO on March 12, 1999. Czech Foreign Minister Kavan thanked the U.S. for its role in the Czech Republic's entry to NATO. He called for the preservation of a strong transatlantic alliance between Europe and the United States, and praised the values held by the U.S. and NATO in the concept of a European defense identity. Kavan said the Czech Republic did not wish to be a burden to NATO, and intended to fulfill all the responsibilities and commitments ensuing from membership. He added that by joining NATO the Czech Republic's historical trauma of Nazism and Communism had been consigned to history forever.
+
+19990312-20159999 0.75
+
+On March 12, 1999, Czechoslovakia became an ally of the United States inside NATO. The United States and the Czech Republic signed an agreement on October 25, 2000, that will allow the U.S. to continue its program of assistance to the Czech military. The agreement for 2001, worth $400,000, was signed by Czech Defense Minister Vladimir Vetchy and U.S. Ambassador to Prague John Shattuck, and should help improve the compatibility of the Czech military with NATO. Vetchy said the Czech Republic has similar agreements with other NATO countries, but stressed that ''the U.S. assistance is considerable.'' ''The cooperation of the United States and the Czech Republic is a cooperation for democracy and freedom in the whole region,'' Shattuck said. ''The security of the Czech Republic is the security of the United States.''
+
+Relations between the Czech Republic and the United States are excellent, American ambassador to the Czech Republic Craig Stapleton, told the Czech daily Lidove noviny (LN) in May 2002. If Stapleton had to grade the relations, he would give them an A, maybe A-because things can always be better, Stapleton said in an interview with LN. He also told LN he believes that relations will remain good even when the new government takes power after the mid-June elections. According to Stapleton, who took his post in August 2001, the U.S. counts on the Czech Republic as an important ally, although some differences of opinion will always appear. In relation to this, Stapleton mentioned American investors who invest in the Czech Republic despite difficulties that they encounter. Stapleton told LN that because of non-transparent relations in the Czech Republic, businessmen sometimes discover that they did not receive what they paid for.
+
+Vladimir Spidla (CSSD) left in mid-July 2003 for his first visit to the United States since he became Czech Premier in July 2002, and he will meet among others President George W. Bush and Defense Secretary Donald Rumsfeld. He will be accompanied on his seven-day visit by Foreign Minister Cyril Svoboda and Defence Minister Miroslav Kostelka. Svoboda paid the first working visit to the United States in March 2003, while this will be the first visit for Kostelka who took over the office in June only. His predecessor Jaroslav Tvrdik visited the United States last September as a member of delegation accompanying former president Vaclav Havel. Czech-U.S. relations have of late been affected by the U.S. military action against Iraq. The Czech Republic supported the United States' anti-terrorism struggle and sent an anti-chemical unit to Kuwait, but it did not take part in Iraq war and made a reserved stand on it. U.S. supreme representatives are not than frequent visitors to the Czech Republic. Bush has been to the Czech Republic once, namely in November 2002 when he attended a NATO summit and met then president Vaclav Havel and Spidla. Together with Bush the Czech Republic welcomed for the first time State Secretary Colin Powell and Rumsfeld. The two houses of Czech parliament supported in January 2003 a government proposal of assistance in the future operation against the regime of Saddam Hussein's regime, but conditioned the deployment of Czech soldiers by a U.N. mandate. The United States ranked the Czech Republic in late March among the countries approving of its procedure against Iraq, which caused embarrassment on the Czech political scene. 
+
+The relations between the USA and the Czech Republic are excellent and continue to grow deeper every day, U.S. President George Bush, wrote on December 6, 2005, in a letter to new Czech ambassador to the USA Petr Kolar after he had given him his letters of credence. The transition of Czech society to democracy and market economy is an example for the world, Bush wrote. He appreciated the Czech support to other nations seeking freedom and prosperity. "The Czech Republic continues its important work to bring freedom and security to the peoples of Iraq and Afghanistan. We are grateful for your recent offer of Czech troops to redeploy to Afghanistan to work side by side with U.S. troops in Operation Enduring Freedom," Bush wrote in the letter the Czech embassy in Washington has passed to CTK. He wrote that "the Czech Republic has also demonstrated courage and resolve in its noteworthy efforts to support the Cuban people's dream of living one day in a free and prosperous Cuba." "The Czech Republic works hard and consistently to strengthen trans-Atlantic bonds and to bring Europe and the United States closer together. The United States is proud to call the Czech Republic a friend," Bush wrote.
+
+The Czech Republic still figures on the list of countries in which the United States could build its missile base, the U.S. embassy in Prague told CTK on August 26, 2006, reacting to former Czech Prime Minister, Jiri Paroubek's statement that the site will be built in some other country. "Both the Czech Republic and Poland continue to be considered as possible locations for the U.S. missile defense facility," U.S. embassy spokeswoman Victoria Silverman told CTK. Paroubek, however, told the daily Pravo that the base will be built in another country. "As far as I am informed, the site will be built somewhere else, not in the Czech Republic. So there is nothing to quarrel about," Paroubek said. The United States says that the missile umbrella would also protect the host country and the European allies. The Czech Foreign Ministry says that the project would bring hundreds of millions of dollars to the Czech Republic and that the site would fall within Czech jurisdiction. The promise that the Czech Republic will join the missile defense system was made in the United States by former defense minister Jaroslav Tvrdik in 2002.
+
+PS-SOURCES: New York Times August 1, 1969; February 11, 1973; November 4, 1976; February 19, 1949; April 15, 1950; November 5, 1949; February 28, 1950; March 18, 1948; October 13, 1981; BBC May 15, 1980; June 12, 1991; December 18, 1991; Globe and Mail October 6, 1981; Washington Post October 25, 1979; December 7, 1989; Associated Press October 23, 1989; April 9, 1990; November 9, 1990; October 25, 2000; United Press International February 16, 1990; February 23, 1990; April 9, 1991; Czech News Agency October 20, 1994; February 21, 1995; October 20, 1998; March 9, 1999; March 12, 1999; May 29, 2002; July 13, 2003; December 6, 2005; August 26, 2006; PR Newswire June 23, 1993; May 19, 1999
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE: 
+
+Discussion:

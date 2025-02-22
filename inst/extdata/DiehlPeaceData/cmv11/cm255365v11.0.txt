@@ -1,0 +1,442 @@
+FILE: cm255365v11.0.txt
+DYAD: GERMANY/PRUSSIA-RUSSIA/USSR
+RIVALRY: RIV690
+DISPUTE(S): MID154 
+RIVALRY: RIV691
+DISPUTE(S): MID257 MID3346 MID2604 
+RIVALRY: RIV692
+DISPUTE(S): MID2056 MID12 MID258 MID3830 MID3822 
+RIVALRY: RIV10734
+DISPUTE(S): MID27 MID2218 MID2908 MID2226 
+RIVALRY: RIV2004
+DISPUTE(S): MID4342 
+
+PS: 19009999-19140816 .5 19140817-19220415 .25 19220416-19361111 .5 19361112-19450507 0.00 19450508-19550504 .25 19550505-19800319 0.00 19800320-19891108 0.25 19891109-19940831 -9 19940901-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID375 MID154
+
+WWI MIDs: MID257 MID3346 MID2604
+
+WWII MIDs: MID258 MID3830 MID3822 
+
+MID2056 
+
+TERRMID: MID2056 3 -- not territory 
+TERRMID-CER: MID2056 3 -- uncertain 
+TERRMID-NOTES: MID2056 From Gibler, Miller, and Little 2016, this MID documents a Soviet attack on Germany of some sort, but GML argue that this case should be dropped because there is no evidence of such an attack. Coded uncertain because GML recommend delete. 
+
+TERRLINK: MID2056 3 -- not third party link to territory 
+TERRLINK-CER: MID2056 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2056 3 -- not maritime 
+MARITMID-CER: MID2056 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2056 3 -- not islands 
+ISLMID-CER: MID2056 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2056 3 -- not civil war 
+CIVWARMID-CER: MID2056 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2056 3 -- not civil war link 
+CIVWARLINK-CER: MID2056 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2056 3 -- not coup 
+COUPMID-CER: MID2056 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2056 3 -- not coup link
+COUPLINK-CER: MID2056 1 -- certain 
+COUPLINK-NOTES: 
+
+MID12 
+
+TERRMID: MID12 3 -- not territory
+TERRMID-CER: MID12 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID12 1 -- third party link to territorial MID 
+TERRLINK-CER: MID12 1 -- certain 
+TERRLINK-NOTES: MID12 from Gibler 2018, Germany pressed a claim on Sudetenland, an area of former German control that had been under Czech control since the end of WWI. Germany issued a series of demands to Czechoslovakia, and other Allied Powers, most importantly UK and France, did not offer much support against Germany. The Czech military mobilized in preparation for a German invasion. Eventually UK and France forced Czechoslovakia to surrender part of its territory to Germany. Russia is pulled into this MID due to its support for UK and France's position in this dispute. 
+
+MARITMID: MID12 3 -- not maritime 
+MARITMID-CER: MID12 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID12 3 -- not islands 
+ISLMID-CER: MID12 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID12 3 -- not civil war 
+CIVWARMID-CER: MID12 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID12 3 -- not civil war link 
+CIVWARLINK-CER: MID12 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID12 3 -- not coup 
+COUPMID-CER: MID12 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID12 3 -- not coup link
+COUPLINK-CER: MID12 1 -- certain 
+COUPLINK-NOTES: 
+
+MID27 
+
+TERRMID: MID27 3 -- not territory
+TERRMID-CER: MID27 1 -- certain 
+TERRMID-NOTES: MID27 coded not territory because the territorial dispute involved here is between East and West Germany, outside of this dyad. See TERRLINK.
+
+TERRLINK: MID27 1 -- third party link to territorial MID
+TERRLINK-CER: MID27 1 -- certain 
+TERRLINK-NOTES: MID27 from cm narrative, this is a multilateral MID involving Czechoslovakia, Poland, East Germany, and the USSR versus the USA, the UK, France, and West Germany. This is the Berlin Wall crisis. The Berlin dispute had simmered ever since Khrushchev threatened (1958) to sign a separate peace treaty with East Germany. This action would seriously threaten the status of West Berlin, as well as Western access to the city.The Soviets, for their part, were particularly concerned with the growing military strength of West Germany, and, in particular, the installation of tactical nuclear weapons in West Germany. The East German government was increasingly concerned about the defection of East German citizens moving from East to West Berlin. The Berlin Wall began to be constructed on 8/13/1961 and produced an immediate heightening of tensions, including shows-of-strength and diplomatic sanctions by both sides. Coded third party link to territorial MID because USSR, backing East Germany, was a third party to the East Germany-West Germany territorial dispute, and this MID is connected to that dispute. East and West Germany each claimed the entirety of each other's territory, and the support by Russia to East Germany in that dispute contributed to this MID. 
+
+MARITMID: MID27 3 -- not maritime 
+MARITMID-CER: MID27 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID27 3 -- not islands 
+ISLMID-CER: MID27 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID27 3 -- not civil war 
+CIVWARMID-CER: MID27 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID27 3 -- not civil war link 
+CIVWARLINK-CER: MID27 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID27 3 -- not coup 
+COUPMID-CER: MID27 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID27 3 -- not coup link
+COUPLINK-CER: MID27 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2218 
+
+TERRMID: MID2218 3 -- not territory 
+TERRMID-CER: MID2218 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2218 3 -- not third party link to territory 
+TERRLINK-CER: MID2218 1 -- certain 
+TERRLINK-NOTES: MID2218 from Gibler 2018, USSR fired at a private British plane over Berlin. USSR claimed this was accidental, but the US and West Germany protested. Coded not third party link to territory because there is no indication that this dispute was driven by the East-West Germany territorial dispute, as opposed to general Cold War tensions, and East Germany is not a party in this MID.
+
+MARITMID: MID2218 3 -- not maritime 
+MARITMID-CER: MID2218 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2218 3 -- not islands 
+ISLMID-CER: MID2218 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2218 3 -- not civil war 
+CIVWARMID-CER: MID2218 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2218 3 -- not civil war link 
+CIVWARLINK-CER: MID2218 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2218 3 -- not coup 
+COUPMID-CER: MID2218 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2218 3 -- not coup link
+COUPLINK-CER: MID2218 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2908 
+
+TERRMID: MID2908 3 -- not territory 
+TERRMID-CER: MID2908 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2908 3 -- not third party link to territory 
+TERRLINK-CER: MID2908 1 -- certain 
+TERRLINK-NOTES: MID2908 from Gibler 2018, USSR planes violated West German airspace, and UK responded by deploying planes to chase the Soviet planes away. Coded not territory because there is no indication that this MID was connected to the East-West German territorial dispute, rather than general Cold War tensions. East Germany is not a party in this MID.
+
+MARITMID: MID2908 3 -- not maritime 
+MARITMID-CER: MID2908 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2908 3 -- not islands 
+ISLMID-CER: MID2908 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2908 3 -- not civil war 
+CIVWARMID-CER: MID2908 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2908 3 -- not civil war link 
+CIVWARLINK-CER: MID2908 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2908 3 -- not coup 
+COUPMID-CER: MID2908 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2908 3 -- not coup link
+COUPLINK-CER: MID2908 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2226 
+
+TERRMID: MID2226 3 -- not territory 
+TERRMID-CER: MID2226 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2226 3 -- not third party link to territory 
+TERRLINK-CER: MID2226 1 -- certain 
+TERRLINK-NOTES: MID2226 from cm002365 narrative, this involves a show of ships, or a mutual display of naval power, between USSR and several NATO countries. West Germany is pulled into this MID because the show of force by the Allies was partly to provide support to West Germany. Coded not third party link to territory because there is no indication that this was driven by the East-West German territorial dispute rather than by general Cold War tnesions. 
+
+MARITMID: MID2226 3 -- not maritime 
+MARITMID-CER: MID2226 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2226 3 -- not islands 
+ISLMID-CER: MID2226 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2226 3 -- not civil war 
+CIVWARMID-CER: MID2226 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2226 3 -- not civil war link 
+CIVWARLINK-CER: MID2226 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2226 3 -- not coup 
+COUPMID-CER: MID2226 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2226 3 -- not coup link
+COUPLINK-CER: MID2226 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4342 
+
+TERRMID: MID4342 3 -- not territory 
+TERRMID-CER: MID4342 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4342 1 -- third party link to territorial
+TERRLINK-CER: MID4342 1 -- certain 
+TERRLINK-NOTES: MID4342 from Gibler (2018), this is connected to a NATO bombing in Yugoslavia. Russia put its forces on high alert and warned NATO against provoking a broader war. Coded third party link to territorial MID because Germany, as part of NATO, and Russia were supporting opposite sides of the Yugoslavian Wars, a series of territorial disputes. 
+
+MARITMID: MID4342 3 -- not maritime 
+MARITMID-CER: MID4342 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4342 3 -- not islands 
+ISLMID-CER: MID4342 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4342 3 -- not civil war 
+CIVWARMID-CER: MID4342 1 -- certain 
+CIVWARMID-NOTES: MID4342 There was no civil war activity within this dyad.
+
+CIVWARLINK: MID4342 1 -- civil war link 
+CIVWARLINK-CER: MID4342 1 -- certain 
+CIVWARLINK-NOTES: MID4342 from Gibler (2018), this involves Germany (as part of NATO) war activity in Yugoslavia, who Russia was supporting. Coded civil war link because the Yugoslav Wars featured extensive violence by militarized rebel groups organized along ethnic lines, and Yugoslavia is outside this dyad. 
+
+COUPMID: MID4342 3 -- not coup 
+COUPMID-CER: MID4342 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4342 3 -- not coup link
+COUPLINK-CER: MID4342 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2219
+
+TERRMID: MID2219 3 -- not territory
+TERRMID-CER: MID2219 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2219 1 -- third party link to territorial MID
+TERRLINK-CER: MID2219 1 -- certain
+TERRLINK-NOTES: MID2219 from Gibler 2018, on 11/19/1961, East Germany installed a new border fortification on its border with West Germany, triggering an increase in tensions and border skirmishes by police from each side. The USSR became involved in this dispute when Soviet planes began harrassing planes that approached East German airspace during this MID. Coded third party link to territorial MID because the USSR becomes involved in this territorial dispute between East Germany-West Germany by enforcing East German airspace. 
+
+MARITMID: MID2219 3 -- not maritime 
+MARITMID-CER: MID2219 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2219 3 -- not islands 
+ISLMID-CER: MID2219 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2219 3 -- not civil war 
+CIVWARMID-CER: MID2219 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2219 3 -- not civil war link
+CIVWARLINK-CER: MID2219 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2219 3 -- not coup 
+COUPMID-CER: MID2219 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2219 3 -- not coup link
+COUPLINK-CER: MID2219 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2231
+
+TERRMID: MID2231 3 -- not territory
+TERRMID-CER: MID2231 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2231 3 -- not third party link to territory 
+TERRLINK-CER: MID2231 1 -- certain
+TERRLINK-NOTES: MID2231 from Gibler 2018, this MID is connected to Cold War tensions between US and USSR. In 1983, USSR threatened to deploy missiles against the US and its allies. In response, the US and West Germany made shows of force and airspace violations against USSR and Czechoslovakia. Coded not third party link to territory because although previous MIDs between West Germany and USSR involved a link to the West-East Germany territorial dispute, this MID was connected to US-USSR Cold War tensions and did not involve East Germany. 
+
+MARITMID: MID2231 3 -- not maritime 
+MARITMID-CER: MID2231 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2231 3 -- not islands 
+ISLMID-CER: MID2231 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2231 3 -- not civil war 
+CIVWARMID-CER: MID2231 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2231 3 -- not civil war link
+CIVWARLINK-CER: MID2231 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2231 3 -- not coup 
+COUPMID-CER: MID2231 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2231 3 -- not coup link
+COUPLINK-CER: MID2231 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4342
+rivalry=255365 nationa=RUSSIA/USSR nationb=GERMANY/PRUSSIA MID4342 19990408-19990419 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+First day of dispute was on 4/8/1999 and last day of dispute was on 4/19/1999.
+
+NO NARRATIVE FROM COW IS AVAILABLE
+
+RIVNOTES: 
+
+RIV690: MID375 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10734: MID2231 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10734: MID2219 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10734 was originally coded as two separate rivalries (RIV734 and RIV735) but the temporal proximity of the disputes (<16 years) and that all the disputes involved Cold War issues led us to combine the two rivalries. 
+
+RIV10734 occurred between West Germany and Soviet Union, but for this case we merged the 260 files (West Germany) into the 255 files (Germany/Prussia).
+
+RIV10734 starts on 19550505 because that is the date when West Germany becomes a member of the international system, according to the COW dataset. On 19550505, the military occupation of West Germany by US, UK and French troops officially ended. 
+
+RIV2004: new rivalry because MID4342 was added by MID3.02
+
+NARRATIVE-CM:
+Russian troops commanded by General Yakov Grigorievich Jilinsky launched a military offensive against German troops in East Prussia on August 17, 1914. Russian troops were defeated by German troops commanded by General Hermann von Francois near Tannenberg on August 26-31, 1914, resulting in the deaths of some 30,000 Russian soldiers and 13,000 German soldiers. German troops attacked Russian troops commanded by General Pavel Rennenkampf near Masurian Lakes on September 9-14, 1914, resulting in the deaths or wounding of some 75,000 Russian soldiers and 10,000 German soldiers. German troops and Russian troops clashed in southwestern Poland from September 28 to October 31, 1914, resulting in the deaths or wounding of some 40,000 German soldiers. German troops commanded by General August von Mackensen attacked Russian troops near Lodz, Poland on November 11, 1914. Russian troops defeated the attack on December 6, 1914, resulting in the deaths or wounding of 90,000 Russian soldiers and 35,000 German soldiers. Germany severed diplomatic relations with Russia in November 1919. Germany and Russia signed the *Treaty of Rapallo *on April 16, 1922. The countries resumed diplomatic relations on April 17, 1922. German and Soviet representatives signed a non-aggression pact on August 27, 1939. Some three million German troops and 2,500 military aircraft launched a military offensive against the Soviet Union between June 22 and December 5, 1941, resulting in the deaths of some 150,000 German soldiers. Soviet troops launched a counter-military offensive against German troops on December 6, 1941. Britain provided military assistance (4,292 tanks and 5,800 military aircraft) to the Soviet Union. The United States provided military assistance (3,734 tanks, 6,430 military aircraft, 104 naval ships) to the Soviet Union. German troops captured Sevastopol on June 28, 1942, resulting in the deaths or wounding of some 24,000 German soldiers. German troops and military aircraft launched an unsuccessful military offensive against Stalingrad between August 23, 1942 and February 2, 1943. Russian troops launched a military offensive against German troops in the Crimean region between April 8 and May 10, 1944, resulting in the deaths of some 31,700 German soldiers. Soviet troops launched a military offensive against German territory on April 16, 1945. Soviet troops captured Berlin on May 2, 1945, resulting in the deaths of some 125,000 German civilians. Some 305,000 Soviet soldiers were killed or wounded during the military offensive.
+
+The *Federal Republic of Germany *(FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. From May 1945 to May 1949, Germany was under the rule of the occupation forces (American, British, French and Russian). The Federal Republic of Germany (FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. On March 10, 1952, Stalin proposed the creation of a unified but neutral German state that would be allowed to have its own self-defense force. Neither the Western powers, nor Konrad Adenauer's West German government followed up the offer. The Soviet Union terminated its state of war with Germany on January 25, 1955, and the countries established diplomatic relations on September 9, 1955. After Adenauer's visit to Moscow in 1955, relations between Bonn and Moscow settled into a frosty standoff, punctuated by sharpening frictions over Berlin. The military occupation troops of US, UK and France officially ended their occupation of West Germany on May 5, 1955. The COW dataset records West Germany as a member of the international system starting with this date. A lengthy crisis over the divided city began in November 1958 with Khrushchev's threat to sign a separate peace treaty with the GDR and to hand over West Berlin to the East German government. On August 13, 1961, the East German government under Soviet pressure began installing makeshift barriers along the border with West Berlin. The first MID of RIV10734, MID27 started on July 25, 1961. 
+
+West Germany and the Soviet Union signed a treaty of friendship and cooperation on August 12, 1970.
+
+SOURCES-CM: 
+Clodfelter, 1992, 705-789, 814-842; Ference, 1994, 337-391; Langer, 1972, 1194-1199.
+
+NARRATIVE-CR:
+The first series of MIDs in the 20th century correspond to the hostilities faced between Germany and Russia in the course of World War I. It is significant to note that although Germany was forced to sign the treaty of Versailles at the end of conflict with the Western Powers, hostilities between Russia and Germany continued over disputes in the Baltic region until 1922. The Last MID of this series is coded as having ended on February 1st of 1920, which corresponds to the signing of an armistice between Russia and the provisional government of the disputed territory, Latvia. Both countries were initiators and the Russian leader during the Baltic dispute was Lenin and the German leader was the Kaiser until his abdication on November 9th, 1918 and then the subsequent leader was President Friedrich Ebert (Keylor 2001 and Kirby 1995). 
+
+The German ruling class of Latvia received its first major challenge from the Russian sympathetic Latvian middle and lower class in 1917. Having to choose between a long-time oppressive German aristocracy and the emerging Bolsheviks the Latvian masses hoped to receive liberation at the hands of the latter (Acton, Cherniaev and Rosenberg 1997). The landless peasants and those Latvians who resided in those territories that were unoccupied by German forces were the first to join in the Bolshevik revolution in Latvia in an attempt to force out German occupants. Latvian-Bolshevik efforts were successful in the unoccupied territories but did not force out the German troops from the occupied portions (Acton et al. 1997). In addition to the inability of the Bolsheviks to obtain German held territory, the Latvian supports began to express desires to remain separate from a Soviet Union.
+
+German troop advances that began in February of 1918 brought an end to any remaining vestiges of Soviet rule (Kirby 1995) and by that April they had most of the Baltic region was under German command (Lieven 1993). By November of 1918 Germany had been defeated in the west and had signed an armistice with the Western Powers. While German troop numbers may have been diminished in the Baltic region (Lieven 1993) they were not completely removed and continued to play an important role in the upcoming months and years (Lieven 1993). 
+
+By December of 1918 the head of the provisional Latvian government, Karlis Ulmanis, gave full citizenship to any Germans who helped to oust the Bolsheviks from Latvia (Lieven 1993). However, fortune changed for the German occupying forces by June of 1919. Latvian and Estonian volunteer troops defeated the German military and forced all German troops back into retreat. By October Germany had completely withdrawn from Latvia (Lieven 1993). In December and a motivated Latvian army in conjunction with Polish forces captured Latgale from Bolshevik control and incorporated it into Latvia (Lieven 1993). 
+
+With the autonomy of Latvia seeming inevitable in the short run, Russia signed an armistice with Latvia in February of 1920 (Kirby 1995). This pre-emptive treaty ensured that Latvia would not seek an alliance with Poland and thus provided a buffer zone between the Bolsheviks and the Polacks. Any concerns over border disputes between Latvia and Russia were settled by the Riga Treat of August 1st, 1920 (Kirby 1995).
+
+German relations with Russia formally following the German ousting from the Baltic region began again with the treaty of Rapallo, which was signed in April of 1922 (Kirby 1995). This change of policy may have come about as fears of Polish-Baltic alliance diminished and the permanence of Bolshevik rule in Russia seemed imminent. Germany concern of a Polish dominated and French backed block were of enough volume that a preference for Soviet influence came about (Kirby 1995). Similarly, the Soviet Union's relations with France were soured by French denial of economic assistance until Russia had repaid its pre-war debt (Keylor 2001). The treaty of Rapallo released Germany from its obligations to pay reparations to Russia and formalized the return of land to Russia that Germany had seized during the war (Keylor 2001). Out of general hostility towards France both Germany and Russia grew closer to each other economically and diplomatically over the following years (Kirby 1993 and Keylor 2001). 
+
+The last grouping of MIDs correspond to World War II and end with that war's conclusion. The Last in the series of MIDs is number MID258, which is coded as "World War II." The coded ending date for this MID is May 7th of 1945, the date of Germany surrender and also the day that the Soviet forces entered into Berlin, but many disputes over the amount of reparations that the USSR would receive were not settled until fall of the following year (Kuklick 1972). Stalin was in charge of Russia during this series of MIDs, Roosevelt was the president of the United States until his death on April 12th of 1995 and was replaced by Truman thereafter, Charles de Gaulle was in charge of France and Churchill spoke for Britain. Hitler had been in charge of Germany during the initiation of these MIDs but was deceased by the time of the resolution to the war. 
+
+The last conflicts between Russia and Germany came in the final days of the European theatre of the war. Russia, fearing a Western domination of Germany accelerated its invasion of Germany in an attempt to reach Berlin ahead of the Western powers. Although Russia had been assured by the Western powers in the Yalta Conference of February 11th, 1945 that it would receive its zone of occupancy in Eastern Germany and Eastern Berlin, Stalin was suspicious that the West may attempt to take Berlin for itself (Kennedy-Pipe 1998). German troops offered a final and significant resistance to Russian advances in May of 1945. By May 7th Germany surrendered Berlin to the Russians and by May 9th Russia had taken Prague as well (Kennedy-Pipe 1998).
+
+With Hitler and Germany defeated, Russia became concerned over the issue of reparations as it had sustained the most damage from the war. During the Yalta agreement in February the USSR had suggested that in addition to the four-part division of Germany it also desired reparations from Germany to the sum of 10 billion dollars. Because of the possibility of German rearmament, it suggested that the reparation amount come from former Germany industries, which would be relocated to Russia (Kennedy-Pipe 1998). Initial reaction from the Western powers suggested that while they agreed with the division of Germany they thought the total amount that Russia suggested that Germany pay (20 billion total) may be too harsh and that by removing Germany industrial capabilities it would destroy their economy (Kennedy-Pipe 1998). 
+
+Russian concerns over reparations continued throughout 1945 as other matters were settled. In June of 1945 Russia insisted that Western troops be removed from the Soviet controlled zone in East Germany and that it would consent to an Allied Control Commission that would act as a supreme executive in Berlin (Kennedy-Pipe 1998). August 2nd of 1945 the Postsdam Conference was held which directly addressed the nature of German reparations to Russia (Grenville et al . 1987). The reparations were said to come from the territory occupied by the USSR and would include additional reparations from the Western zones. Fifteen percent of industry was to be removed from the Western zone in exchange for foodstuffs and raw resources and an additional ten percent should be removed and given to the USSR at no cost at all. In exchange for these reparations the USSR would renounce claim to any industry or land in the Western zones (Grenville et al. 1987). 
+
+Although the agreement reached in Potsdam indicated a positive resolution to the division of German concerning Russian demands for reparations the agreed upon settlement never came to be. The US and the other Western Powers denied Russia the reparations from the Western zones because of a failure of Russia to alter its policy to reflect Western desires. With growing hostilities the West decided it would be wise to retain the economic hold it had in Germany and deny those resources to a potential adversary (Kuklick 1972). This was the entry of the West and Russia into the Cold War but it provided an exit from hostilities between the now beaten Germany and the growing Soviet Union. 
+
+The *Federal Republic of Germany *(FRG) was established in the occupation zones of Britain, France, and the United States on May 23, 1949. The military occupation troops of US, UK and France officially ended their occupation of West Germany on May 5, 1955. The COW dataset records West Germany as a member of the international system starting with this date.The Berlin Wall Crisis (MID27) is coded as beginning on July 25th, 1961 and ending on October 28th, 1961. However, much of the information needed to understand the resolution to the final MID extends back as far as November of 1958 and as far past the termination date as December 1961. The actors remained constant throughout the mid. Russia, France, Great Britain and the US were all initiators in the Berlin Wall Crisis. The Leadership in the Soviet Union remained constant throughout the crisis. The narrative will proceed with an introductory summary of the events surrounding the Berlin Wall Crisis, the process of negotiations and events that led up to the termination of the mid and the conditions in which hostilities ceased between the two nations. 
+
+France, the US, Britain and the Soviet Union reached a four-power agreement in 1944 and 1945 which divided Germany into four zones of administration each to be governed by one power (Slusser 1973). In addition to the division of Germany, Berlin was also divided into four zones of control despite the fact that the city of Berlin was entirely surrounded by the Soviet occupied portion of Germany (East Germany). By November of 1958 the Soviet leader Nikita Krushchev began to make demands for a western peace treaty with East Germany with the purpose of ending western occupation of West Berlin (Slusser). Over the following three years Krushchev's demands grew in strength and posture. By April 25th of 1960 the Soviet Union began to make specific threats directed at the western powers (Camp 1971). On April 25th the Soviet Union issued a warning to France and the other two powers that insisted that if a peace treaty was not signed with East Germany which included the withdrawal of occupying military forces then it would be forced to sign a unilateral peace treat with East Germany and the Western Powers would lose the right of entry into Berlin (by air, water or land). 
+
+On June 8th of 1961 the USSR began a more aggressive strategy to cut off West Berlin from West Germany. When the West German government had announced that it intended to hold its Bundesrat (the upper house of the legislature) session in West Berlin it brought formal Soviet complaint (Camp; Also see Gearson 1998 and Slusser). France supported the West German insistence that it was a meeting of elected officials for the purpose of peacefully conducting business and not an affront to the four-power division of Berlin. Responding to demands placed by Krushchev the session never occurred in Berlin. 
+
+On July 2nd 1961 the Krushchev announced that any Western aggressions in Berlin would be met with swift response including the nuclear destruction of both France and Britain (Slusser). France gave a formal reply to the Soviets by July 12th of 1961 in the form of a refusal of all demands. Charles de Gaulle insisted that the Soviet Union renounce all former threats it had issued and only once these conditions had been met would France consider negotiations. Five days later France publicly reiterated these conditions. On July 25th the Western Powers placed an ultimatum before Khrushchev (Slusser). The US President, J. Kennedy told Khrushchev that he must decide between pursing the Soviet goal of an East German treaty which included the ousting of Western military forces from Berlin and the minimal goal of sealing off the escape route for East Germans who were fleeing into West Berlin. 
+
+On October 17th at the 22nd session of the Soviet Congress, Krushchev announced that the Soviet Union would relax its demands for a peace treat with East Germany if the West continued to show a willingness to cooperate (Gearson; Also see Slusser). On October 28th 1961 French, British and American troops and tanks violated the Soviet imposed 100-meter no troop zone around the wall in a show of protest to the East German use of tanks to prevent Western officials from entering East Berlin without the new Soviet permits. The East Germans stood down and removed their tanks from checkpoint Charlie, the gateway between East and West Berlin (Slusser). No formal agreements were made pertaining to the Crisis on behalf of France with Britain, the US or Soviet Russia. 
+
+MID2218; MID2219 and MID2908 are all incidents involving the Berlin Wall. MID2219 involves the reinforcement of the wall to prevent entrance of western tank brigades into East Germany. MID2219 and MID2908 involve guard shootings (Facts on File). MID2226 was over the West German condemnation of the Soviet invasion of Afghanistan. West Germany declared its intentions to protest the Soviet Union during the next Olympics and condemned the Soviet practices in Afghanistan as well as the human rights violations in East Germany (Facts on Files). 
+
+SOURCES-CR:
+Acton, Cherniaev and Rosenberg 1997; Keylor 2001; Kennedy-Pipe 1998; Kirby 1995; Kuklick 1972; Lieven 1993; Camp; Facts on Files; Gearson; Slusser
+
+SB-CR:
+Germany (Federal Republic of Germany) / Russia (USSR) Years: 1908-1970. Issues at stake: Throughout the rivalry, Germany's eastern border with Poland and questions of German influence in Eastern Europe; starting in 1945, control over Berlin. End coding: On August 12, 1970, the Federal Republic of Germany and the USSR signed a Treaty in which both accepted the Oder-Neisse line as Poland's western border and explicitly declared that they had no territorial claims against the other. This was followed by a similar Treaty between the Federal Republic of Germany and Poland on December 7, 1970, and the Four-Power Agreement on Berlin on September 3, 1971 which essentially formalized the status quo in Berlin. Number of reciprocated 30 day militarized disputes: Last militarized dispute: 1969. Wars: 1914-1918, 1941-1945. Summary: Although Russia shared the concerns of Britain and France with regard to Prussian expansion in the mid 1800s, and engaged in disputes with Germany in 1848 (Schleswig-Holstein War) and 1850 (Olmutz), its hostile interactions were neither as intense or as frequent. It was not until Germany began to assist Austria-Hungary in its pursuit of influence in the Balkans that the German-Russian rivalry became heated. In fact, the early part of the rivalry is directly linked to Russian-Austrian conflicts. The start date of the German-Russian rivalry is the Bosnian Crisis (coded a "deterrence encounter" by Huth 1988) between Germany, Austria-Hungary, Serbia, and Russia. The dispute begins over a military threat by Serbia to Austria-Hungary regarding Austria-Hungary's stated intent to annex Bosnia-Herzegovina. Russia supported Serbia, although it was reluctant to go to war; Germany stated its support for Austria-Hungary, and twice (October, December 1908) warned Russia that Germany would extend its full support to Austria in all circumstances. After WWI, the central focus of conflict shifted to Poland and East Prussia, and to influence over eastern Europe more generally (Rumania, Bulgaria, Czechoslovakia). Relations were generally quite hostile throughout the inter-war period, notwithstanding the short-lived Molotov-Ribentroff pact of 1939. The German-Soviet rivalry is not coded as ending with the conclusion of WWII. While East Germany recognized the Oder-Neisse line as Poland's western border in 1950 (under heavy Soviet pressure), West Germany did not do so until 1970. Until that time it had not formally recognized the incorporation of East Prussia into Poland and the USSR; in the 1970 treaty Poland and West Germany recognized the Oder-Neisse boundary line, agreed on the inviolability of their frontiers, and agreed to settle disputes between them peacefully. Negotiations leading up to this settlement did not begin until 1969. Also in 1970, West Germany and the USSR signed a treaty on the renunciation of force in which they agree to respect the territorial integrity of states in Europe within their existing frontiers, including the Oder-Neisse line and the border between the two Germanies (marking the end of the rivalry). This was soon followed by the Four Power Berlin Agreement (September 3, 1971) which reaffirmed the responsibilities of the US, France, Britain, and the USSR in Berlin, and included a statement by the USSR that transport between West Berlin and the Federal Republic of Germany would be unimpeded. Finally, West Germany in 1972 signed a treaty with East Germany, recognizing its territorial integrity and sovereignty, although it reaffirmed its goal of peaceful German reunification. Notes: East Germany's agreements with the USSR are coded as not ending the German-Soviet rivalry. East Germany accepted the Oder-Neisse line as its eastern border in an agreement with Poland in 1950, but under significant Soviet Pressure (Grenville and Wasserstein 1987:183), and East Germany was occupied throughout the post-1945 period more heavily than any other East European country. Additionally, there were serious questions about East Germany's legitimacy as a state. Throughout the post-war period, the Soviet Union remained very concerned with obtaining West German recognition of German borders. Sources: Albrecht-Carrie (1958), Grenville and Wasserstein (1987), Huth (1988).
+
+PS-NARRATIVE:
+
+19800320-19891108 0.75
+
+The last MID of RIV10734, MID2226 ended on March 19, 1980. In the aftermath of the Soviet invasion of Afghanistan, German companies continued to do business with the Soviet Union, signing some of the biggest deals between Western companies and Eastern, Communist states. The West German government, also, went ahead with the signing (at a low, ambassadorial level) of a long-planned but new framework agreement on economic and industrial cooperation during Chancellor Helmut Schmidt's visit to Moscow in June 1980. West Germany trades more with the Soviet Union than does any other Western country. In the first half of 1980, West German-Soviet trade rose some 20 percent (aided by price rises in oil and other raw-materials imports from the Soviet Union), to $4 billion. In 1981, according to a report by the German Institute for Economic Research in Berlin (DIW) almost one-third of West German exports to the Soviet Union worth around DM 2bn, were machinery. As one West German banker remarked: "There are some smaller and medium-sized companies who depend for 30 or 40 per cent of their sales on Comecon countries and could face bankruptcy is this business was cut off." DIW estimates, for example, that around 100,000 workers were directly and indirectly dependent on exports to the Soviet Union, the biggest East bloc trading partner. In February 1982, West Germany announced a series of diplomatic and economic sanctions against the Soviet Union in a ''political signal'' of displeasure at repression in Poland. West Germany's Cabinet decided to bar the opening of new Soviet consulates in West Germany, restricted the travel of Soviet diplomats and halted negotiations on agreements on scientific and technological cooperation and inland shipping. Another issue of contention was over the deployment of missiles in Western Germany was opposed by the Soviet Union in November of 1983. Russia threatened Soviet withdrawal from the Geneva negotiations; deployment of Soviet medium-range nuclear weapons in Eastern Europe; increased timetable for the deployment of tactical missiles in East Germany and Deployment of corresponding missiles in ocean areas (Facts on File). The Soviet Union does not plan to retaliate politically against Bonn if new U.S. missiles are deployed in West Germany, Count Otto Lambsdorff, Bonn's Economic Minister, said in November 1983, after talks with Mr Nikolai Tikhonov, the Soviet Prime Minister. He said Mr Tikhonov did not make a "single suggestion" that political tensions might affect Soviet-West German economic relations. "On the contrary, the Soviet side urged economic co-operation to be expanded." Count Lambsdorff said he rejected any inclusion of British and French missiles in the Geneva disarmament talks. He also criticized the Soviet ambassador to West Germany, Mr Vladimir Semyonov, for warning members of the Bundestag that if it votes on November 22, 1983 for deploying the missiles, the Geneva talks would collapse. He said the Bonn Government regarded this as an "unpleasant act of pressure on the MPs." The minister was in Moscow to attend a meeting of the joint Soviet-West German commission on economic and scientific-technical co-operation. However, Russia acted on the threats in May of 1984 by placing more nuclear-armed subs off of the US coast (Facts on File). This dispute was symptomatic of the larger arms race between the US and the Soviet Union, which was resolved with the fall of the Soviet Union a decade later. In July 1984, the Soviet Union intensified its war of words on West Germany with a sharp attack on the new $2.9bn (£2.2bn) air defense deal by Bonn with Washington. Soviet Union called the agreement "an extra step in the arms race" which damaged the existing military balance in Europe. In 1984, West Germany started getting more gas from Soviet Union, based on a treaty signed in 1981. West Germany already got about 11bn cu metres of natural gas a year from the Soviet Union under earlier contracts. Supplies under the new contract will build up in stages to 10.5bn cubic metres a year by 1990-almost doubling West Germany's present purchases of Soviet natural gas. The Russians supplied 20 per cent of the natural gas used in West Germany in 1983 and were expected to meet about 30 per cent of the country's needs in 1990. Throughout the 1980s West Germany was the Soviet Union's largest Western trading partner, with a trade turnover that has ranged from $$7.5 billion to $$12.5 billion in the past decade. The two nations traded $$8 billion in goods in 1988, about 58 percent of which were West German exports. West Germany mostly ships heavy machinery to the Soviet Union, while imports from the Soviet Union are mostly made up of raw materials like oil, natural gas and timber. West German exports to the Soviet Union surged 20 percent in 1988, a jump that industry analysts attribute to increased business opportunities created by Gorbachev's domestic economic reforms. Still, only about 1.5 percent of West Germany's total exports go to the Soviet Union. West German companies have forged 70 joint ventures in the Soviet Union, ranging from machine-tool manufacturing to the production of consumer goods. The two nations signed 12 co-production agreements in 1988, bringing the number of such agreements to 30. Another 30 are under negotiation. In 1988, a consortium of nine West German banks approved a record $$1.53 billion line of credit to the Soviet Union for use in improving the nation's consumer products industry. However, the credits are tied to specific projects and only about one-third of the funds have been borrowed to date. The Soviet Union and West Germany also signed agreements to ease capital investment restrictions and to encourage additional joint ventures and business exchanges. In June 1989, President Mikhail S. Gorbachev called for much closer economic cooperation between the Soviet Union and West Germany and declared the current level of trade between the two countries ''ridiculously low.'' Speaking to a gathering of West German bankers and industrialists in Cologne, Mr. Gorbachev pressed home the message that while the Soviet Union is grateful for West Germany's contribution to perestroika, his economic restructuring program, he would like to see it play a much greater future role. As Mr. Gorbachev continued his first state visit to West Germany, he joined Chancellor Helmut Kohl in signing a declaration defining what both said was a new stage in Soviet-West German relations. In his remarks to the business group, the Soviet President outlined a program for West German business participation in reviving his nation's economy. He suggested that West German companies could use Soviet research sites on a contract basis, or launch satellites from Soviet rockets. Mr. Gorbachev also proposed cooperation in ship and aircraft construction, as well as deeper German involvement in modernizing the Soviet consumer goods industry. 
+
+19891109-19940831 Transition
+
+On November 9, 1989, the pro-democratic movement forces in East Germany brought down the Berlin Wall with tacit approval from Moscow. This event marked a significant change in the foreign relations between West Germany and Soviet Union/Russia. That put the two parts of Germany on the path to unification. Moscow wanted that a unified Germany to become a neutral state, and also in exchange for its acceptance of the unification, Russia received economic and political aid from Germany. West German leaders attempted in April 1990 to overcome Kremlin opposition to a united Germany belonging to NATO as preparations got under way for historic unification talks. Experts from the two Germanys and the four victorious World War II powers held closed-door procedural talks in East Berlin to prepare for the formal "two-plus-four" negotiations at the foreign ministers' level in Bonn. In a meeting, West German Foreign Minister Hans-Dietrich Genscher assured Victor Karpov, the Soviet deputy foreign minister, that Bonn would not overlook Moscow's "justified security interests." Genscher told the Soviet official that German unification would represent the "solution of a serious European problem (the division of Europe), and not the creation of a new one." In June 1990, West Germany said it would guarantee a bank credit of about $3.1 billion for the Soviet Union to help President Mikhail S. Gorbachev reform his country's ailing economy. Chief government spokesman Hans Klein said the 12-year bank credit marks the start of a West German initiative to get large-scale international support for the Soviet Union. In September 1990, the Soviet Union and West Germany initialed a broad ''treaty on good-neighborliness, partnership and cooperation'' setting a framework for relations between Moscow and a united Germany. Foreign Minister Hans-Dietrich Genscher of West Germany and Foreign Minister Eduard A. Shevardnadze of the Soviet Union, who initialed the document, hailed it as something of a historic breakthrough. In fact, the treaty included few concrete agreements, and consisted largely of pledges of peace and cooperation. Western diplomats said the document had been part of the package sought by the Soviet Union in exchange for its agreement to German unity. In effect, it replaced the treaties Moscow had concluded with the separate German nations with one broad statement on the shape of future relations. From 19 to 21 October 1993, at a NATO Defense ministers meeting in Germany, U.S. proposed a Partnership for Peace (PfP) framework to bring in close to NATO, the Central and Eastern European states as well as Russia. The German Defense Minister Volker Ruehe strongly supported this PfP framework to bring security in Central Europe. On January 10-11, 1994, the Partnership for Peace program was adopted at a session of the NATO Council in Brussels. On June 22, 1994, Russia joined the Partnership for Peace. In December 1992, during German-Soviet negotiations, regarding the Russian troops stationed in Germany, the sides have agreed that they all will be withdrawn from the country six months earlier than planned. In return, Russia will get 500 million DM additionally. The money is to be spent on building housing for the outgoing servicemen. The last Soviet/Russian occupation troops were withdrawn from Germany on August 31, 1994. Russia joining the Partnership for Peace and withdrawing its last troops from Germany in June and August 1994, respectively, represent the end of a transition period in the relations between the two countries, started in 1989 with the fall of the Berlin Wall.
+
+19940901-20069999 RIV2004-0.5
+
+In April 1995, German Foreign Minister Klaus Kinkel said Russia was resisting reform. "We are uncertain about Russia's direction," he wrote, adding that Germany needed to see signs that Russia wants friendly ties. Defense Minister Volker Ruehe told the Bild am Sonntag newspaper that Russia should let Poland and other German neighbors join NATO before 2000. Germany wants NATO's expansion to secure its borders. Yeltsin strongly opposes that. A Russian general has said expansion could spark a world war. Russia must give up its old Cold War "view of the enemy" and stop bashing NATO as part of its ongoing election campaign, German Foreign Minister Klaus Kinkel said in September 1995. "Moscow must finally recognize that NATO is not directed against Russia but is rather a purely defensive alliance," added Kinkel. 
+
+Russian President Boris Yeltsin visited Germany in April 1997 for talks with Chancellor Helmut Kohl on NATO expansion and demands by Bonn for the return of art works seized by the Soviet Union in 1945. The big bilateral issue between Germany and Russia is an estimated 65 billion dollars worth of art and cultural treasures which were seized by the former Soviet Union in defeated Nazi Germany in 1945. German Chancellor Gerhard Schroeder began two days of talks in Moscow on February 17, 1999, as the West struggles to piece together a new strategy to bolster Russia's political and economic development in the wake of the country's economic meltdown. As Moscow's key western sponsor, Germany has a vital role to play in forging an international financial response to Russia's current plight so as to shore up both its fragile political framework and its capacity to repay debts. At the same time, Bonn also wants to ensure that Russia somehow remains on the path to economic and political reform. In April 1999, Germany and Russia had MID4342, over the issue of Kosovo. In June 2000, during a regular German-Russian bilateral summit, German Chancellor Gerhard Schroeder said after a first round of talks with visiting Russian President Vladimir Putin that they plan an initiative to deepen ties between both nations. "We agreed we want to make a substantial new start to bilateral relations," said Schroeder at a joint news briefing with Putin. Schroeder said further talks were planned on tightening economic links during Putin's two-day visit. Echoing Schroeder, Putin said: "Germany is the most important economic partner for Russia in Europe." In an interview with Germany's ARD and ZDF TV networks, Putin admitted that bilateral ties had suffered somewhat since the Russian economic crisis of 1998. "But I don't think overall German-Russian relations have worsened," said Putin in the interview. In 2001, the deepening of ties with Berlin, as the most powerful capital in Europe, has become a central aspiration in Russia's European policy. "It is our new favorite country," says one Kremlin adviser. But the desire for economic gain, in the form of foreign-debt restructuring, has been overshadowing Russia's short-term thinking about the country. By pushing the debt issue to the forefront at every opportunity, Russia has been diminishing its chances of building the broad and easy friendship with Germany that would meet its most pressing political needs. From the German perspective, this clumsiness in Russian policy may even be something of a relief. It makes things that little bit easier when Germany wants to sidestep some of the favors Russia is already asking of it, but which sit uneasily with Germany's loyalties to Nato and to the European Union. Having first tested Tony Blair, the British prime minister, as a possible ally in dealings with the US, and having discovered the strength of Britain's Atlanticism, Russia seems now to view Chancellor Gerhard Schroder as the man for the job. And, having finally started to understand the significance of the European Union and its planned enlargement into Eastern Europe, Russia also sees Germany as the best placed to help it in EU matters. But Germany is not playing along. When Mr Schroder visited St Petersburg in April, he declined to be drawn too deeply into Russia's increasingly tense relations with America. "Relations (between Russia and America) ought to take shape by themselves," he said. "We shall not act in the role of mediator." And, in preparing the ground for his Russian visit, Mr Schroder warned that Germany would not be Russia's agent in the EU either. "German foreign policy is European foreign policy," Mr Schroder said. "That does not mean we want to hide behind 'Europe'. But it expresses the commitment that we do exclude any German 'special way' in the relationship with Russia." In September 2002, the talks between Russian and German presidents Vladimir Putin and Johannes Rau started with a ceremony of the official meeting in the Kremlin. The two presidents are expected to concentrate on the problem of the Russian Kaliningrad Region as well as trade and economic cooperation between Russia and Germany. Vladimir Putin describes Germany as the country whose relations with Russia are vigorously developing and which remains Russia's main partner. Putin said this at the talks in a narrow format with German President Johannes Rau. Putin believes "many things are being implemented due to the joint efforts of the governments of the two countries". He noted major impact of the German government on the decision of problems of security, the fight against terrorism, economic problems. In 2003, Germany was the main trade and economic partner of Russia in the world and accounts for about 11 percent of its foreign trade. Russia's share in Germany's foreign trade is about 2 percent (15th place among Germany's trade partners). The average annual growth of trade between the two countries in 1994-1997 was about 11 percent. In 1998, bilateral trade took a dive of 13 percent (to 29.2 billion DM) due to a sharp fall of energy prices in the world markets and a decrease in import after the 1998 August crisis in Russia. In the subsequent year, it decreased by another 9 percent to 26.5 billion DM. The year 2000 was marked by an increase in trade between Russia and Germany by 56.6 percent to 41.5 billion DM, including Russian export grew by 74 percent to 28.5 billion DM (mainly due to high energy, resource and semi-finished product prices in the world markers), and import by 32 percent to 13 billion DM. According to the Russian Economic Development and Trade Ministry, as of the beginning of 2003 German investments in Russia had totalled 6.8 billion U.S. dollars (17.2 percent of all foreign investments), making Germany the second biggest investor after the United States, including 1.58 million U.S. dollars of direct investments (8.1 percent-firth place after the U.S., Cyprus, the Netherlands and Great Britain). In April 2005, Germany and Russia buried a lingering dispute over communist-era debt, rounding off a two-day meeting here that also saw President Vladimir Putin win Chancellor Gerhard Schroeder's backing for a stronger Russian voice in NATO. The two leaders announced that Russia will pay Germany 500 million euros ($ 440 million)-350 million euros ($310 million) of it this year and the rest over the next two years-to cover funds owed to the former East Germany by the former Soviet Union. Germany and Russia had argued for years over what exchange rate to apply to the 6.5 billion transferable rubles, an accounting unit used in the Soviet bloc's trade accounts. Putin maintained Wednesday that the figure didn't take sufficient account of cheap Soviet energy deliveries to the former East Germany. The settlement falls well short even of the $1.2 billion Germany had more recently sought, but Schroeder defended the outcome. In October 2006, Putin met with German Chancellor Angela Merkel during their meeting at the Petersburg Dialogue Forum, set up by Putin and previous Chancellor Gerhard Schroeder in 2001 to bring Russian and German societies closer together. It is their fifth meeting this year, emphasizing the importance of the relationship, as Germany prepares to take over the rotating presidency of the European Union in January 2007, and picks up chairmanship of the Group of Eight from Russia as well. That will give Berlin a leading role in shaping EU policy toward Russia, currently an uneasy balance between eagerness for secure gas supplies and concern about Russia's shaky progress on issues such as democracy and human rights. Merkel has promised a less personalized relationship than the warm camaraderie displayed by Schroeder and Putin, and she has been more willing than Schroeder to politely raise issues such as human rights. But analysts say she realizes she cannot alienate her country's biggest natural gas supplier with fierce criticism, and her government says it is committed to more integration and cooperation. Major German companies are also eager to deal, and Russia is a key partner on security issues such as Iran and North Korea. "Putin needs Germany as his major ally in Europe, and Germany at least the German elite is willing to play the role of Russia's advocate in the West," said Alexander Rahr, a Russia expert at the German Council on Foreign Relations and a member of the forum's steering committee. "Mrs. Merkel was at first quite cool on Russia but now she understands that she can play a mediating role between the United States and Russia on questions like Iran and the Middle East," he said. For Russia, Germany is a top trading partner, accounting for some 10 percent of Russia's foreign trade. Accumulated German investment in Russia now stands at $10US.2 billion, according to official statistics. Russia and Germany have been deepening their energy ties, as exemplified by a prospective Russia-led gas pipeline that will pass under the Baltic Sea to Germany bypassing Poland and other traditional transit nations for Russian gas.
+
+PS-SOURCES: Sodaro (1990), Alexeyev (1980), Financial Times 03/15/1982, 10/04/1984, 06/14/2000, 05/02/2001, Deutsche Presse-Agentur 04/04/1997, 02/17/1999, 06/15/2000, 12/21/2004, New York Times 01/31/1982, 06/14/1989, 09/14/1990, 08/30/1998, 06/15/2000, BBC 07/01/1981, 11/17/1983, 07/14/1984, 05/31/1985, 10/29/2004, 03/03/2005, Christian Science Monitor 10/20/1980, Washington Post 02/06/1983, United Press International 02/17/1982, Associated Press 10/18/1988, 06/14/1989, 04/30/1990, 06/23/1990, 03/15/1993, 10/10/2006, 04/10/2002, TASS 12/05/1989, 09/03/2002, 10/08/2003, 07/14/2005, Russian Press Digest 12/16/1992, 08/26/1994, 11/14/1998, Washington Post 11/26/1995, Turkish Daily News 06/17/2000, Agence France Presse 06/16/2000, Xinhua General News Service 04/05/2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

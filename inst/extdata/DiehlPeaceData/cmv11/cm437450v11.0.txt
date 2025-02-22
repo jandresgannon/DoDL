@@ -1,0 +1,105 @@
+FILE: cm437450v11.0.txt
+DYAD: IVORY COAST - LIBERIA
+RIVALRY: RIV1065
+DISPUTE(S): MID3954 
+
+PS: 19600807-20020918 0.5 20020919-20030817 0.25 20030818-20209999 0.5 
+
+
+PS-UPDATE2020: Coding change to reflect the onset of a "proxy war" between the two states in which each supports rebels in the other's civil war. The lesser rivarly period dates from the beginning of the Ivorian civil war through the peace agreement in Liberia, which removes the main points of contention between the two sides.
+
+
+PS-LAST-CHANGED: 20220701
+PS-LAST-CHECKED: 20220701
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3954
+
+TERRMID: MID3954 3 -- not territory
+TERRMID-CER: MID3954 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3954 3 -- not third party link to territory 
+TERRLINK-CER: MID3954 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3954 3 -- not maritime 
+MARITMID-CER: MID3954 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3954 3 -- not islands 
+ISLMID-CER: MID3954 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3954 1 -- civil war MID
+CIVWARMID-CER: MID3954 1 -- certain
+CIVWARMID-NOTES: MID3954 from Gibler 2018, the president of Liberia threatened to send troops into the Ivory Coast to stop rebels from entering Liberia and to keep Liberians from going into the Ivory Coast to participate in their civil war. Coded civil war MID because this was connected to a civil war in the Ivory Coast.
+
+CIVWARLINK: MID3954 3 -- not civil war link
+CIVWARLINK-CER: MID3954 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3954 3 -- not coup 
+COUPMID-CER: MID3954 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3954 3 -- not coup link
+COUPLINK-CER: MID3954 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4358
+
+TERRMID: MID4358 3 -- not territory
+TERRMID-CER: MID4358 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4358 3 -- not third party link to territory 
+TERRLINK-CER: MID4358 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4358 3 -- not maritime 
+MARITMID-CER: MID4358 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4358 3 -- not islands 
+ISLMID-CER: MID4358 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4358 1 -- civil war MID
+CIVWARMID-CER: MID4358 1 -- certain
+CIVWARMID-NOTES: MID4358 from cm narrative, Liberia increased its border security to prevent rebels from the Ivory Coast from entering the country and to prevent Liberians from entering the Ivory Coast to participate in the civil war there. In January 2003, a clash occurred near the Ivorian town of Toulepleu between the Ivorian military and a combination of Ivorian rebels supported by soldiers from the Liberian army. Coded civil war MID because this was connected to militarized rebels in Ivory Coast. 
+
+CIVWARLINK: MID4358 3 -- not civil war link
+CIVWARLINK-CER: MID4358 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4358 3 -- not coup 
+COUPMID-CER: MID4358 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4358 3 -- not coup link
+COUPLINK-CER: MID4358 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4358
+rivalry=437450 nationa=LIBERIA nationb=IVORY COAST MID4358 20021202-20030122 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Liberia increases its border security to prevent rebels from the Ivory Coast from entering the country and to prevent Liberians from entering the Ivory Coast to participate in the civil war there. In January 2003, a clash occurred near the Ivorian town of Toulepleu between the Ivorian military and a combination of Ivorian rebels supported by soldiers from the Liberian army. First day of dispute was on 12/2/2002 and last day of dispute was on 1/22/2003. 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

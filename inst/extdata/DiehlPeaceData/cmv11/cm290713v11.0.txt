@@ -1,0 +1,55 @@
+FILE: cm290713v11.0.txt
+DYAD: POLAND - TAIWAN
+RIVALRY: RIV771
+DISPUTE(S): MID1448 
+
+PS-LAST-CHANGED: 20180211
+PS-LAST-CHECKED: 20180211
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1448
+
+TERRMID: MID1448 3 -- not territory
+TERRMID-CER: MID1448 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1448 1 -- third party link to territorial MID
+TERRLINK-CER: MID1448 1 -- certain
+TERRLINK-NOTES: MID1448 from Gibler (2018), Taiwan seized Polish ships who were carrying goods to China as part of Taiwan's dispute against China. Taiwan was attempting to harm China economically by disrupting its trade. Coded third party link to territorial MID because this was connected to the China-Taiwan dispute, which was territorial in nature. 
+
+MARITMID: MID1448 3 -- not maritime 
+MARITMID-CER: MID1448 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1448 3 -- not islands 
+ISLMID-CER: MID1448 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1448 1 -- civil war MID
+CIVWARMID-CER: MID1448 1 -- certain
+CIVWARMID-NOTES: MID1448 coded civil war MID because this is connected to the China-Taiwan dispute, which has a civil war element, and Taiwan is within this dyad. 
+
+CIVWARLINK: MID1448 1 -- civil war link
+CIVWARLINK-CER: MID1448 1 -- certain
+CIVWARLINK-NOTES: MID1448 coded civil war link because this is connected to the China-Taiwan dispute, which has a civil war element, and China is outside this dyad. 
+
+COUPMID: MID1448 3 -- not coup 
+COUPMID-CER: MID1448 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1448 3 -- not coup link
+COUPLINK-CER: MID1448 1 -- certain 
+COUPLINK-NOTES: 
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

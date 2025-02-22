@@ -1,0 +1,88 @@
+FILE: cm355365v11.0.txt
+DYAD: BULGARIA-RUSSIA/USSR
+RIVALRY: RIV945
+DISPUTE(S): MID317 MID257 MID397 
+RIVALRY: RIV10946 ISOLATED 
+DISPUTE(S): MID3859 MID518 MID3869 
+
+PS: 19081005-19450908 0.5 19450909-19910629 0.75 19910630-19960629 0.5
+
+PS-UPDATE2020:Revision based on a new relationship rule that when a state exits a REI, the REI is the only basis for a relationship with a given other state, and the peace scale coding is not .5, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PS Notes: 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID257 MID397 
+
+WWII MIDs: MID3859 MID518 MID3869 MID258 MID262
+
+MID317 
+
+TERRMID: MID317 3 -- not territory 
+TERRMID-CER: MID317 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID317 1 -- third party link to territorial MID
+TERRLINK-CER: MID317 1 -- certain 
+TERRLINK-NOTES: MID317 from Gibler 2018, during the Balkan Wars (1912-1913 here) Russia sent forces to prevent Bulgaria from capturing Constantinople, triggering this MID. Coded third party link to territorial MID because this was connected to the Balkan Wars, a territorial dispute between the Ottomans and states outside this dyad. 
+
+MARITMID: MID317 3 -- not maritime 
+MARITMID-CER: MID317 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID317 3 -- not islands 
+ISLMID-CER: MID317 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID317 3 -- not civil war 
+CIVWARMID-CER: MID317 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID317 3 -- not civil war link 
+CIVWARLINK-CER: MID317 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID317 3 -- not coup 
+COUPMID-CER: MID317 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID317 3 -- not coup link
+COUPLINK-CER: MID317 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10946: MID262 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV10946: MID258
+
+RIV10946: some recoding of dates of World War~II disputes and MID262 was added in 3.02.
+
+RIV10946 is coded as isolated since all disputes are related to World War II.
+
+NARRATIVE-CM:
+Bulgaria and the Soviet Union signed a protocol on July 23, 1934, which provided for the establishment of diplomatic relations between the countries. Bulgarian police raided the Soviet consulate in Varna, and the Soviet government protested the raid on November 15, 1942. The Soviet Union declared war against Bulgaria on September 5, 1944, and Soviet troops entered Bulgaria on September 8, 1944. Bulgaria and the Soviet Union agreed to a cessation of military hostilities on September 9, 1944. Bulgarian and Soviet representatives signed a peace treaty in Paris on February 10, 1947. Soviet troops completed their withdrawal from Bulgaria on December 14, 1947. Bulgarian and Soviet representatives signed a 20-year treaty of friendship and mutual assistance on March 18, 1948. 
+
+SOURCES-CM: 
+Ference, 1994, 61-102, 337-391; *Keesing*, December 20-27, 1947; *Survey of International Affairs *(SIA), 1934, 695.
+
+NARRATIVE-CR:
+The first dispute (MID317) between Bulgaria and Russia came out of the emerging Second Balkan War. Russia, a supporter of the Balkan alliance against Turkey in the First Balkan War, remained an ally of the Serbs, Greeks and Romanians against Bulgaria. The dispute was over the division of Macedonia following the First Balkan War. The alliance defeated Bulgaria and forced a re-division Macedonia. The next two disputes were directly related to the First World War (MID397 and MID257). Bulgaria entered the war on the side of Germany and Austria-Hungary in 1914 (Gerolymatos 2002 ). Although King Ferdinand had sought a policy of strict neutrality, there were strong ties between Germany and Bulgaria and with the promise of Bulgaria gaining all of Macedonia Bulgarian opinion was shifted in favor of supporting the central powers. Bulgaria entered the First World War on October 14th of 1915 and rejected the demands of the Allies for support. Bulgaria made some early victories against Rumania only to be soundly defeated by Russian troops in 1917. King Ferdinand abdicated in October of 1918 and Bulgarian forces were moved back within their original borders (Gerolymatos 2002). 
+
+The second rivalry between Bulgarian and Russia was centered around the Second World War (MID258) and conflicts related to that dispute. Bulgaria began talks with Hitler as early as November of 1940 (www.army.mil 2003), which drew threats from the Allies (MID3859). In March of 1941 Bulgaria joined the Axis Powers (MID3869) after allowing Germany to use military bases in attacks on Greece (MID518). However, in June Bulgaria refused to enter the War against the Soviets. Russia declared war on Bulgaria in September of 1944 (MID258) and invaded with Soviet forces. Soon after, Bulgaria switched sides and declared war on Germany in October of 1944. Relations with Russia were bettered with the return of the Dobruja region to Romania. Also, several territories were returned to Yugoslavia and Greece following the defeat of Germany. A Soviet government was established in Bulgaria in1945. Bulgaria and Russia signed a peace treaty in Paris in February of 1947 (Stavrianos 2000). Russian troops were withdrawn by December of 1947 and Bulgaria and Soviet Russia signed a treaty of friendship and assistance in March of 1948 (Stavrianos 2000 ).
+
+SOURCES-CR: 
+Gerolymatos 2002; Stavrianos 2000
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

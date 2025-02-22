@@ -1,0 +1,69 @@
+FILE: cm054055v11.0.txt
+DYAD: DOMINICA-GRENADA
+RIVALRY: RIV18
+DISPUTE(S): MID3058 
+
+PS: 19781103-19831022 0.75 19831023-19831101 0.25 19831102-20209999 0.75
+
+PS-UPDATE2020:
+
+PSNOTES: Following invasion of Grenada, CARICOM dyads go back to coded as .75 on November 2, 1983.
+
+PS-LAST-CHANGED: 20220214
+PS-LAST-CHECKED: 20220214
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+
+MID3058
+
+TERRMID: MID3058 3 -- not territorial 
+TERRMID-CER: MID3058 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3058 3 -- not third party link to territory 
+TERRLINK-CER: MID3058 1 -- certain 
+TERRLINK-NOTES:
+
+MARITMID: MID3058 3 -- not maritime 
+MARITMID-CER: MID3058 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3058 3 -- not islands 
+ISLMID-CER: MID3058 1 -- certain 
+ISLMID-NOTES:
+
+CIVWARMID: MID3058 3 -- not civil war
+CIVWARMID-CER: MID3058 1 -- certain 
+CIVWARMID-NOTES: MID3058 this MID involves a coup, but not civil conflict (no militarized rebel groups were in Grenada).
+
+CIVWARLINK: MID3058 3 -- not civil war link 
+CIVWARLINK-CER: MID3058 1 -- certain 
+CIVWARLINK-NOTES:
+
+COUPMID: MID3058 1 -- coup MID
+COUPMID-CER: MID3058 1 -- certain 
+COUPMID-NOTES: MID3058 from MID-B data, this is a multilateral MID involving many Caribbean nations and the US against Cuba and Grenada. From cm narrative, the US landed several thousand troops in Grenada when a coup by the deputy Prime Minister deposed the Prime Minister. A military council took power. From Facts on File (vol. XLIII pg. 787), several Caribbean nations condemned the coup in Grenada and refused to have relations with the new government, while Cuba supported the new government and condemned the US invasion. The widespread condemnations trigger MIDs between Grenada and many Caribbean nations, and between Cuba and many Caribbean nations since Cuba supported this coup. Coded coup MID because the coup in Grenada is within this dyad and leads to a MID between Dominica, a denouncer of the coup, and Grenada. 
+
+COUPLINK: MID3058 3 -- not coup link
+COUPLINK-CER: MID3058 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+RIVNOTES: 
+
+
+NARRATIVE-CM:
+
+
+SOURCES-CM:
+
+
+NARRATIVE-CR:
+
+
+SOURCES-CR:
+Facts on File, Vol. 43, 1983. New York, NY: Facts on File, inc.

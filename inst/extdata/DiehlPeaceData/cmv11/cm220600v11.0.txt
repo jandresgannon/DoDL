@@ -1,0 +1,169 @@
+FILE: cm220600v11.0.txt
+DYAD: FRANCE - MOROCCO
+RIVALRY: RIV570
+DISPUTE(S): MID164 MID86 MID3139 
+RIVALRY: RIV571
+DISPUTE(S): MID1746 
+
+PS: 19009999-19040530 .5 19040531-19120330 .25 19560302-19710301 .5
+
+PSNOTES: Morocco exits system in 1912
+
+PS-LAST-CHANGED: 20180216
+PS-LAST-CHECKED: 20180216
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID164 
+
+TERRMID: MID164 3 -- not territory 
+TERRMID-CER: MID164 1 -- certain 
+TERRMID-NOTES: MID164 from Davis (1941), in 1904, an American citizen, Jon Perdicaris, was abducted by bandits in Morocco. The US government threatened the Moroccan government to get Perdicaris released, deploying warshhips with the UK and France (pulling each into this MID) to Morocco. Perdicaris was released soon thereafter. Coded not territory because no boundary was disputed between any of the countries involved, and this was a diplomatic dispute that probably only became an issue due to the timing of the US presidential election. 
+
+TERRLINK: MID164 3 -- not third party link to territory 
+TERRLINK-CER: MID164 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID164 3 -- not maritime 
+MARITMID-CER: MID164 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID164 3 -- not islands 
+ISLMID-CER: MID164 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID164 3 -- not civil war 
+CIVWARMID-CER: MID164 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID164 3 -- not civil war link 
+CIVWARLINK-CER: MID164 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID164 3 -- not coup 
+COUPMID-CER: MID164 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID164 3 -- not coup link
+COUPLINK-CER: MID164 1 -- certain 
+COUPLINK-NOTES: 
+
+MID86 
+
+TERRMID: MID86 1 -- territorial MID
+TERRMID-CER: MID86 1 -- certain 
+TERRMID-NOTES: MID86 from Gibler (2018), France took advantage of the civil war in Morocco to deploy troops and forcefully expand their colonial holdings in Morocco. Morocco resisted, and the clashes trigger this MID. Coded territorial MID because France's intervention was connected to claims on Moroccan territory. 
+
+TERRLINK: MID86 3 -- not third party link to territory 
+TERRLINK-CER: MID86 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID86 3 -- not maritime 
+MARITMID-CER: MID86 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID86 3 -- not islands 
+ISLMID-CER: MID86 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID86 1 -- civil war MID
+CIVWARMID-CER: MID86 1 -- certain 
+CIVWARMID-NOTES: MID86 from Gibler (2018), a civil war was ongoing in Morocco, and France used the disorder to land troops in Morocco and occupy part of its territory, thus expanding France's colonial holdings. (From Burke 1976, Morocco was experiencing civil conflict involving militarized rebel groups.) Coded civil war MID because a civil war in Morocco contributed to French intervention. 
+
+CIVWARLINK: MID86 3 -- not civil war link 
+CIVWARLINK-CER: MID86 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID86 3 -- not coup 
+COUPMID-CER: MID86 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID86 3 -- not coup link
+COUPLINK-CER: MID86 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3139 
+
+TERRMID: MID3139 3 -- not territory 
+TERRMID-CER: MID3139 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3139 3 -- not third party link to territory 
+TERRLINK-CER: MID3139 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3139 3 -- not maritime 
+MARITMID-CER: MID3139 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3139 3 -- not islands 
+ISLMID-CER: MID3139 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3139 1 -- civil war MID
+CIVWARMID-CER: MID3139 1 -- certain 
+CIVWARMID-NOTES: MID3139 from Gibler (2018), this is another instance of France using civil war in Morocco as a pretext for invading there. In 1911-1912, the civil war in Morocco led to France sending in troops, fighting against the rebels, and occupying the country as its colonizer. (From Burke 1976, Morocco was experiencing civil conflict involving militarized rebel groups.) Coded civil war MID because this is connected to the civil war in Morocco.
+
+CIVWARLINK: MID3139 3 -- not civil war link 
+CIVWARLINK-CER: MID3139 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3139 3 -- not coup 
+COUPMID-CER: MID3139 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3139 3 -- not coup link
+COUPLINK-CER: MID3139 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1746 
+
+TERRMID: MID1746 3 -- not territory 
+TERRMID-CER: MID1746 1 -- certain 
+TERRMID-NOTES: MID1746 from Gibler (2018), in 1960, Morocco accused France of using mortar fire against a border village. Coded not territory because no terriory was being disputed; France had abandoned its claims in Morocco several years before.
+
+TERRLINK: MID1746 3 -- not third party link to territory 
+TERRLINK-CER: MID1746 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1746 3 -- not maritime 
+MARITMID-CER: MID1746 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1746 3 -- not islands 
+ISLMID-CER: MID1746 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1746 3 -- not civil war 
+CIVWARMID-CER: MID1746 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1746 3 -- not civil war link 
+CIVWARLINK-CER: MID1746 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1746 3 -- not coup 
+COUPMID-CER: MID1746 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1746 3 -- not coup link
+COUPLINK-CER: MID1746 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Some 8,000 Berber tribesmen from Morocco attacked the French border post of Taghit in southwest Algeria in August 1903, resulting in the deaths of some 400 Berbers and four French soldiers. Some 38 French soldiers were killed in an ambush by Berbers against a French convoy to Taghit. Some 14,000 French troops commanded by General Albert d'Amade invaded the Chaouis region in Morocco in January 1908, and French troops defeated Berber tribesmen at Bou Nouala on March 15, 1908. Morocco became a French protectorate following the signing of the *Treaty of Fez* on March 30, 1912. France and Morocco severed diplomatic relations in January 1966. France and Morocco agreed to resume diplomatic relations on December 16, 1969.
+
+SOURCES-CM: 
+*Africa Research Bulletin* (ARB), December 1-31, 1969; Clodfelter, 1992, 634-635.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Burke III, Edmund (1976). Prelude to Protectorate in Morocco: Precolonial Protest and Resistance, 1860-1912. University of Chicago Press. 
+
+Davis, Harold E. 1941. "The Citizenship of John Perdicaris." The Journal of Modern History 13(4): 517-526.

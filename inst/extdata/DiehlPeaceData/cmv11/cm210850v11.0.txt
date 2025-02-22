@@ -1,0 +1,363 @@
+FILE: cm210850v11.0.txt
+DYAD: NETHERLANDS-INDONESIA
+RIVALRY: RIV504
+DISPUTE(S): MID1023 MID2000 MID2019 MID1024 MID1021 MID1604 MID1022 
+
+RIVNOTES: 
+
+PS: 19491227-19510815 0.25 19510816-19630312 0.00 19630313-19680312 0.50
+
+PS-UPDATE202O: Revision based on a new relationship rule that when a rivalry terminates and the rivalry is the only basis for a relationship, then the relationship continues for 5 years and is coded as negative peace (.5) and then the relationship ends thereafter.
+
+
+
+PSNOTES: RIV504 was prolonged until 19630313, when Netherlands and Indonesia re-established diplomatic relations, compared with riv5.10all dataset. 15 year rule. 
+
+PS-LAST-CHANGED: 20200601
+PS-LAST-CHECKED: 20200601
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1023 
+
+TERRMID: MID1023 1 -- territorial MID 
+TERRMID-CER: MID1023 1 -- certain 
+TERRMID-NOTES: MID1023 from Gibler (2018), Netherlands and Indonesia were disputing the territory of West New Guinea. Indonesia seized two Dutch arm shipments on their way to West New Guinea, claiming that they had the right to seize the arms since West New Guinea was Indonesian territory. West New Guinea was a Dutch colonial holding. Coded territorial MID because this was centered on the disputed territory of WNG. 
+
+TERRLINK: MID1023 3 -- not third party link to territory 
+TERRLINK-CER: MID1023 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1023 3 -- not maritime 
+MARITMID-CER: MID1023 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1023 3 -- not islands 
+ISLMID-CER: MID1023 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1023 3 -- not civil war 
+CIVWARMID-CER: MID1023 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1023 3 -- not civil war link 
+CIVWARLINK-CER: MID1023 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1023 3 -- not coup 
+COUPMID-CER: MID1023 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1023 3 -- not coup link
+COUPLINK-CER: MID1023 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2000 
+
+TERRMID: MID2000 1 -- territorial MID 
+TERRMID-CER: MID2000 1 -- certain 
+TERRMID-NOTES: MID2000 from Gibler (2018), Netherlands gave up much of their colonial holdings but retained the territory of Dutch New Guinea, which Indonesia claimed as its own territory. In 1953, Indonesia invaded the disputed territory and the Dutch protested. Later, Indonesia claimed that Dutch soldiers raided villages and burned homes. Coded territorial MID because this was centered on the disputed territory of Dutch New Guinea. 
+
+TERRLINK: MID2000 3 -- not third party link to territory 
+TERRLINK-CER: MID2000 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2000 3 -- not maritime 
+MARITMID-CER: MID2000 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2000 3 -- not islands 
+ISLMID-CER: MID2000 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2000 3 -- not civil war 
+CIVWARMID-CER: MID2000 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2000 3 -- not civil war link 
+CIVWARLINK-CER: MID2000 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2000 3 -- not coup 
+COUPMID-CER: MID2000 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2000 3 -- not coup link
+COUPLINK-CER: MID2000 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2019 
+
+TERRMID: MID2019 1 -- territorial MID
+TERRMID-CER: MID2019 3 -- uncertain 
+TERRMID-NOTES: MID2019 from Gibler, Miller, and Little (2016), Indonesia warned of "irresponsible acts" against Dutch nationals in Indonesia unless the Dutch and Indonesians resolved their territorial dispute. Coded territorial dispute because this threat was centered on the disputed territory, but coded uncertain because GLM argue that this was not a directed or specific threat, and thus should not be a MID.
+
+TERRLINK: MID2019 3 -- not third party link to territory 
+TERRLINK-CER: MID2019 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2019 3 -- not maritime 
+MARITMID-CER: MID2019 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2019 3 -- not islands 
+ISLMID-CER: MID2019 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2019 3 -- not civil war 
+CIVWARMID-CER: MID2019 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2019 3 -- not civil war link 
+CIVWARLINK-CER: MID2019 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2019 3 -- not coup 
+COUPMID-CER: MID2019 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2019 3 -- not coup link
+COUPLINK-CER: MID2019 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1024 
+
+TERRMID: MID1024 1 -- territorial MID
+TERRMID-CER: MID1024 1 -- certain 
+TERRMID-NOTES: MID1024 from Gibler (2018), this is another MID over the disputed territory of West New Guinea. Netherlands issued a public intention to allow West New Guinea to become independent, which angered Indonesia. Indonesia began seizing and nationalizing Dutch industries. Coded territorial MID because this was centered on the disputed territory of West New Guinea. 
+
+TERRLINK: MID1024 3 -- not third party link to territory 
+TERRLINK-CER: MID1024 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1024 3 -- not maritime 
+MARITMID-CER: MID1024 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1024 3 -- not islands 
+ISLMID-CER: MID1024 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1024 3 -- not civil war 
+CIVWARMID-CER: MID1024 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1024 3 -- not civil war link 
+CIVWARLINK-CER: MID1024 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1024 3 -- not coup 
+COUPMID-CER: MID1024 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1024 3 -- not coup link
+COUPLINK-CER: MID1024 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1021 
+
+TERRMID: MID1021 1 -- territorial MID
+TERRMID-CER: MID1021 1 -- certain 
+TERRMID-NOTES: MID1021 from Gibler (2018), tensions over West New Guinea (disputed territory) flared again in 1960. Netherlands deployed aircraft carriers to the waters near West New Guinea, and Indonesian soldiers invaded WNG and began a small skirmish. Coded territorial MID because this was centered on the disputed territory of WNG. 
+
+TERRLINK: MID1021 3 -- not third party link to territory 
+TERRLINK-CER: MID1021 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1021 3 -- not maritime 
+MARITMID-CER: MID1021 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1021 3 -- not islands 
+ISLMID-CER: MID1021 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1021 3 -- not civil war 
+CIVWARMID-CER: MID1021 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1021 3 -- not civil war link 
+CIVWARLINK-CER: MID1021 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1021 3 -- not coup 
+COUPMID-CER: MID1021 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1021 3 -- not coup link
+COUPLINK-CER: MID1021 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1604 
+
+TERRMID: MID1604 1 -- territorial MID
+TERRMID-CER: MID1604 3 -- uncertain 
+TERRMID-NOTES: MID1604 from Gibler, Miller,and Little (2016), Indonesia protested a Dutch deployment of reinforcements to West New Guinea. Coded territorial MID because this is centered on the disputed territory of West New Guinea, but coded uncertain because GLM recommend this MID be dropped, as the events of this MID should be part of MID1021.
+
+TERRLINK: MID1604 3 -- not third party link to territory 
+TERRLINK-CER: MID1604 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1604 3 -- not maritime 
+MARITMID-CER: MID1604 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1604 3 -- not islands 
+ISLMID-CER: MID1604 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1604 3 -- not civil war 
+CIVWARMID-CER: MID1604 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1604 3 -- not civil war link 
+CIVWARLINK-CER: MID1604 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1604 3 -- not coup 
+COUPMID-CER: MID1604 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1604 3 -- not coup link
+COUPLINK-CER: MID1604 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1022 
+
+TERRMID: MID1022 1 -- territorial MID
+TERRMID-CER: MID1022 3 -- uncertain 
+TERRMID-NOTES: MID1022 from Gibler, Miller, and Little (2016), MID1022 is a double-count of MID1021. In MID1021, a small skirmish over the disputed territory of West New Guinea occurred. Coded territorial MID because this was centered on disputed territory, but coded uncertain because GLM recommend this be dropped. 
+
+TERRLINK: MID1022 3 -- not third party link to territory 
+TERRLINK-CER: MID1022 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1022 3 -- not maritime 
+MARITMID-CER: MID1022 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1022 3 -- not islands 
+ISLMID-CER: MID1022 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1022 3 -- not civil war 
+CIVWARMID-CER: MID1022 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1022 3 -- not civil war link 
+CIVWARLINK-CER: MID1022 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1022 3 -- not coup 
+COUPMID-CER: MID1022 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1022 3 -- not coup link
+COUPLINK-CER: MID1022 1 -- certain 
+COUPLINK-NOTES:
+
+NARRATIVE-CM:
+The Republic of Indonesia claimed the Dutch-controlled territory of Western New Guinea (West Irian) in 1950. Indonesia announced the expulsion of some 50,000 Dutch citizens in Indonesia on December 5, 1957. The Netherlands referred the matter to the *North Atlantic Treaty Organization *(NATO) Council on December 6, 1957 and the *United Nations *(UN) secretary-general on December 23, 1957. The Netherlands deployed two naval ships and troop reinforcements in the West Irian area. President Nasser of Egypt expressed support for Indonesia's claim to West Irian on January 16, 1958. Prime Minister Bandaranaike of Sri Lanka (Ceylon) expressed support for Indonesia's claim to West Irian on January 24, 1958. Prime Minister U Nu of Burma expressed support for Indonesia's claim to West Irian on January 25, 1958. The Netherlands deployed three naval ships near West Irian beginning on April 5, 1960, and Indonesia protested the naval deployment on June 3, 1960. Indonesia severed diplomatic relations with the Netherlands on August 17, 1960. Prime Minister Tengku Abdul Rahman of Malaysia attempted to mediate negotiations between the countries from October to December 6, 1960. The Soviet Union agreed to provide military assistance to Indonesia in January 1961, and expressed its support for Indonesia's claim to West Irian in June 1961. China expressed its support for Indonesia on April 1, 1961. The Netherlands proposed the decolonization of West Irian with UN temporary administration on September 26, 1961, but Indonesia rejected the proposal on December 19, 1961. Indonesian naval ships were attacked by Dutch naval ships near West Irian on January 15-16, 1962. UN Secretary-General U Thant offered to mediate negotiations between the countries on January 17, 1962. President Achmed Sukarno of Indonesia initiated a rebellion against the Dutch government in West Irian on February 20, 1962. Attorney-General Robert Kennedy of the United States attempted to mediate a ceasefire agreement between the countries from February 11 to March 20, 1962. UN Secretary-General U Thant appointed Ellsworth Bunker of the US as special envoy to Indonesia on March 20, 1962. The UN Security Council appealed for a ceasefire on May 29, 1962. Several hundred Indonesian troops infiltrated into West Irian between June 23 and August 21, 1962. Ellsworth Bunker mediated a ceasefire agreement between the countries on August 15, 1962, which the UN General Assembly approved on September 21, 1962. Some 100 Indonesian soldiers were killed during the conflict. Twenty-one UN military observers from Brazil, Sri Lanka, India, Ireland, Nigeria, and Sweden commanded by General Indar Jit Rikhye of India monitored the ceasefire between August 17, 1962 and September 21, 1962. Indonesia and the Netherlands agreed to allow the *United Nations Temporary Executive Authority (UNTEA) to administer the disputed territory from September 22, 1962 to April 30, 1963. The UN General Assembly established the *United Nations Security Force* (UNSF) on September 21, 1962. UNSF, which consisted of 1,500 Pakistani troops, 16 Canadian personnel, and 60 US personnel, was deployed in West Irian from October 3, 1962 to April 30, 1963. West Irian (Irian Jaya) was formally transferred to the Indonesian government on May 1, 1963. 
+
+SOURCES-CM: 
+Agung, 1973, 282-312; Brecher and Wilkenfeld, 1997, 207-210; Butterworth, 1976, 138-141; Donelan and Grieve, 1973, 83-87; Henderson 1973; *Keesing*, December 28-January 4, 1958, December 3-10, 1960; Taylor, 1962, 429-435; Tillema, 1991, 259-260; Van der Veur, 1964, 1953-73; Van der Kroef, 1963, 120-149; Wainhouse, 1966, 414-421; Weisburd, 1997, 33-35.
+
+NARRATIVE-CR:
+The rivalry between the Netherlands and Indonesia centers around the status of West New Guinea (WNG) or as the Indonesians referred to it Irian Jaya. 
+
+The Japanese controlled Indonesia during World War II. At the end of WWII Indonesian nationalists led by Ahmed Sukarno declared their independence from the Netherlands, the colonial power controlling Indonesia from the 17th century. A conflict ensued and at the close of the 4 year war for independence the Dutch withdrew from Indonesia but retained control of West New Guinea. The Indonesians claimed WNG as part of its sovereign territory. This dispute produced protracted hostility and conflict between the newly independent Indonesia and the Netherlands for the next thirteen years. 
+
+The Dutch did not want to acquiesce to Indonesia and ardently resisted unrelenting pressure from the Indonesians until 1962. Some describe the Dutch intransigence on the WNG policy as one that cannot be explained by economic or strategic interests but is better explained with subjective and psychological factors. West New Guinea was an economic drain on the Netherlands. The strategic significance of WNG was also limited. During WWII it was an important location due to its proximity to Japan and Japanese controlled territory in Indonesia and the Philippines. But in the post WWII period it lost strategic significance. Similarly, there is no political incentive the Dutch derived in maintaining control of WNG. Instead it has been argued that Dutch policy to retain control of WNG in the face of protracted hostilities is explained best by subjective and psychological factors (Liphart, 1966.) 
+
+Because of its colonial possessions the Dutch occupied a status of more than a continental European state but one with global concerns. Maintaining control of WNG served as a symbol that the Netherlands was still a global power and that it had emerged from the war of independence with Indonesia in a position of strength with international prestige and status. 
+
+In 1951, from August until December MID1023 occurs. Here the Dutch amended their constitution to make specific reference to West New Guinea as being a part of the Dutch Kingdom. This angered Sukarno and the Indonesians. In retaliation the Indonesians seized arms aboard two Dutch ships in Jakarta harbor that were bound for West New Guinea.
+
+In the summer of 1953 MID2000 occurs. Here the dispute becomes more militarized between the two states. Armed Indonesian infiltrators raid Vogelkop in West New Guinea. The Dutch respond militarily. Dutch submarines are spotted in Indonesian waters. Dutch troops also raid two Indonesian islands, Morotai and Halmahera where they burn homes and fire on the inhabitants. 
+
+From late 1957 until early 1959 MID1024 occurs. In late October of 1957 Indonesia launched a campaign to liberate Irian Jaya (West New Guinea). In so doing the Indonesians attempted to put pressure on Dutch interests generally. Plans were announced to introduce a bill in the Indonesian parliament nationalizing Dutch interests in Indonesia. Before the bill was passed Private Indonesian citizens seized Dutch economic assets and estates, including banks and shipping companies. They also announced and carried out a decision to expel or repatriate the 50,000 Dutch citizens living in Indonesia and instituted a ban on entry into Indonesia of Dutch nationals. The proximate cause of these Indonesian policies was the United Nations General Assembly refusal to back the Indonesian claim on West New Guinea. During this time Indonesian guerilla infiltrators increase their presence in West New Guinea. 
+
+In April of 1960 MID1021 begins. Here the militarization of the dispute takes on a new character as the Dutch deploy three naval vessels to West New Guinea. Indonesia protests this deployment saying the Dutch are not committed to a peaceful resolution of the conflict. August 16, 1960 Indonesia severs relations with the Dutch and puts its military on a high state of alert citing the Netherlands' persistent refusal to transfer West New Guinea to Indonesia. 
+
+In May of 1960 MID1604 begins. Here the Indonesians institute further nationalization of Dutch interests. The Dutch deploy more detachments of troops to WNG. On 11/21/60 a small band of Indonesian infiltrators lands in WNG and engage in armed conflict with Dutch troops. 
+
+In November of 1961 MID1022 begins. Here the conflict reaches a boiling point. Indonesia announces a general military mobilization in December of 1961. In March of 1962 the Dutch army deploys to assist police in WNG in controlling violence. Much of the violence that took place in the conflict was instigated by WNG Papuan inhabitants loyal to the Indonesian regime. From January to August there were sporadic hostilities. Indonesian gunboats off the coast of WNG were attacked by Dutch forces in January of 1962. In February of 1962 Sukarno intensifies the guerilla campaign against the Dutch in WNG. 
+
+There are a number of factors associated with the resolution of the conflict. There are domestic political considerations and external pressures the Dutch encounter that facilitate a change in policy. 
+
+Domestic pressures factors included religious institutions and the press pressuring successive Dutch regimes. The Dutch Reform Church had been bringing attention to the policy since 1956 and opposed continued Dutch presence in WNG. The Dutch press had supported the government position until 1961. In 1961 the principal Dutch newspapers shifted position with respect to WNG and began advocating relinquishing WNG. In 1959 De Quay became Prime Minister and for the first year maintained the policy stance of previous administrations. In 1961 however he made a series of innovations in policy and removed conditions for negotiation on the WNG issue. He allowed consideration of full Indonesian sovereignty over WNG in negotiating with the Indonesians in January of 1962. 
+
+External pressure on the Dutch takes place in the context of the Cold War. In 1958 Eisenhower reconsidered the previously cool relations with Sukarno for fear of the growing strength of the Communists in Indonesia. However, Eisenhower did not take an active role in the conflict. In January and April of 1961 Indonesia received verbal support from the USSR and the PRC. Kennedy reacts to this move and in 1961 offered to mediate the conflict. His administration was also concerned with the problems in Vietnam and at the prospect of an all out Dutch-Indonesian war. Kennedy was worried with the unpredictable consequences within Indonesia of this potential conflict and the prospects for the USSR and the PRC. Kennedy sent his brother, then Attorney General Robert Kennedy to mediate the dispute in December of 1961. 
+
+In March of 1962 the Netherlands-Indonesian talks began near Washington with the American diplomat, Ellsworth Bunker, as mediator. During negotiations, Indonesia drooped paratroops in WNG, maintained propaganda and publicity on Eastern block arms shipments and announced that Indonesian forces were in invasion positions. On August 15, 1962 an agreement was announced, subsequently approved by both legislatures, in which the Netherlands agreed to transfer sovereignty over WNG to Indonesia by 1 May 1963. In the interim period WNG would be administered by the UN. As part of the agreement, the Papuan population of WNG, now Irian Jaya would make an act of free choice under UN supervision to decide on its future. 
+
+Note. In searching for MID2019 I was not able to find reference to an incident occurring between Indonesia and the Netherlands for the specified time period 19570211. I searched Keesings Contemporary Records, Facts on File, New York Times, Times (London), Lexus Nexus, and the texts listed below. There is not a reference to a specific incident taking place at that date. The closest item occurs on 19570226 when Sukarno warns the Dutch that should the Netherlands use force in resolving the West New Guinea dispute the Indonesians would not remain idle. 
+
+SOURCES-CR: 
+Bercovitch and Jackson, 1997, 52, 108-109; Butterworth, 1976, 292-293; Donelan and Grieve, 1973, 83-87; DuPuy and DuPuy, 1977, 1303; Keesing May-September 1953, November 1957-February 1959, April 1960-August 1962; Lijphart, 1966; New York Times, 8/17/1951, 11/11/1951, 12/17/1951, 12/22/1951, 12/28/1951, 5/15/1953, 5/19/1953, 9/7/1953, 9/23/1953, Tillema, 1991, 259; 
+
+PS-NARRATIVE: 
+
+19491227-19510815 0.25
+
+Indonesia was a Dutch colony. In the aftermath of World War II, the Netherlands tried to reestablish their rule, and an armed and diplomatic struggle ended on December 27, 1949, when in the face of international pressure, the Dutch formally recognized Indonesian independence and sovereignty was transferred. One part of Dutch Indonesia, Irian Java(Netherlands West New Guinea) remained part of the Dutch Monarchy. Since Indonesia's independence, the Indonesian officials requested that this last vestige of the Dutch colonial history in Indonesia be returned to Indonesia. Netherlands refused. This is the cause of the rivalry between the two countries. 
+
+From 1949 until 1951, when the first militarized actions were taken, a number of conferences were assembled between the two countries in an attempt to solve the issue of West New Guinea peacefully. 
+
+Otherwise the relations between the two countries were peaceful. Netherlands provided a $52 million loan to Indonesia on April 2, 1950. At the same meeting, Prime Minister Hatta and his Dutch counterpart agreed to allow for a 800-strong Dutch military mission to be established in Indonesia. On July 26, 1950, the Royal Netherlands Indies Army was disbanded in Indonesia. Netherlands transferred some of its non-essential military equipment to Indonesian troops. The first MID of RIV504, MID1023, started on August 16, 1951. 
+
+19630313-20159999 0.5
+
+The last MID of RIV504, MID1022, ended on August 17, 1962. On March 13, 1963, Indonesia and Netherlands re-established diplomatic relations. On May 9, 1969, Indonesian governmental officials accused Netherlands of fomenting unrest in the Indonesian province of West Irian. Netherlands denies such charges. On March 13, 1970, the first visit to Indonesia by a member of the Dutch royal family in over 130 years, Prince Bernhard of the Netherlands, occurred. On August 27, 1971, Netherlands' Queen Juliana and Prince Bernhard arrive in Jakarta, Indonesia. They were greeted by Indonesian President Suharto. 
+
+President Suharto on 15th May, 1979, received the visiting Netherlands Minister for Economic Affairs, Gijsbert van Aardenne, who was accompanied by Indonesia's Minister of State for Research and Technology, Habibie. Aardenne told newsmen later that he was studying the possibility of economic and technological co-operation between Indonesia and the Netherlands, especially in the aircraft industry. The Netherlands planned to establish co-operation with PT Nurtanio in Bandung. Habibie said that the possibility of joint production of a modified version of the Fokker F-27 was being studied in order to increase the aircraft's efficiency by up to 30% by, for instance, modifying the propulsion system. The Netherlands was studying the possibility of manufacturing the wing section, while PT Nurtanio would manufacture the fuselage and tail section. Other forms of co-operation being considered were in shipbuilding, and between the Indonesian National Aviation and Space Agency and the Netherlands Agency for Aerospace Programmes in connection with the Indonesian satellite system. Habibie said the possibility of the joint construction of a remote-sensing satellite would be discussed at a workshop to be held in October 1979.
+
+On 28th June, 1979, Indonesia and the Netherlands signed a financial and technical assistance agreement for 1979/80 under the IGGI aid programme. The 150,000,000 guilder loan carries 2.5% annual interest over a period of 12 years, including an eight-year grade period. It will be used for electricity projects, the repair of hospitals and construction of drinking water, irrigation and other development projects in a number of provinces.
+
+On January 15, 1981, Willem F. van Eekelen, the Dutch Secretary of State for Defense, made an official visit to Indonesia. He paid a courtesy call on President Suharto on 15th January, 1981, accompanied by Admiral Sudomo, the Deputy Commander of the Indonesian Armed Forces. Admiral Sudomo said that during the meeting President Suharto had expressed the hope that co-operation between Indonesia and the Netherlands in the field of defense and security could be further intensified. Indonesia and the Netherlands agreed to exchange delegations in the near future to study possibilities of co-operation in the field of defense research at a meeting on 15th January, 1981, between the Indonesian Minister of Research and Technology, Dr B.J. Habibie, and van Eekelen. Van Eekelen said the Dutch Government was interested in entering into co-operation in shipbuilding, specifically with the naval base and shipyard (Pal) in Surabaya, not only in the building but also in the repair of ships. The Dutch Government, he said, was also interested in establishing co-operation between the Dutch aircraft building company Fokker and the Indonesian assembling company Nurtanio based in Bangung.
+
+Indonesia and the Netherlands have agreed to step up their co-operation in the fields of agriculture, communications research and technology. The agreement was reached in Jakarta on 1st October, 1982 at the ninth meeting of the Indonesian-Dutch joint commission, which started on 26th September, 1982. The Dutch side also showed interest in making investments in Indonesia. The commission decided to set up working groups in the field of trade and investments, communications, agriculture, research and technology.
+
+On January 6th, 1984, the Indonesian state-run press stated that the Dutch Foreign Minister was threatening to attach strings to the financial aid Netherlands gives to Indonesia. It has been a tradition that prior to the holding of the Inter-Governmental Group on Indonesia [IGGI] meeting, the Netherlands sends one of its ministers to Indonesia. The purpose of the Dutch Foreign Minister's visit, is not only to continue to foster relations between Indonesia and the Netherlands, but also to discuss the possibility of continuing aid under the IGGI programme for the 1984-85 fiscal year. In accepting foreign aid, we continue to keep our stand that foreign aid only constitutes a supplement to support our own capability. Besides, foreign aid is expected to be extended without any political strings attached that could impair our independence and sovereignty. What has drawn our attention are the remarks made by Dutch Foreign Minister Hans van den Broek after a three-hour meeting with his counterpart, Foreign Minister Mokhtar Kusumaatmaja. He told reporters that he had asked the Indonesian Foreign Minister about murders taking place in the country. He conveyed to his Indonesian counterpart apprehension over the matter, which is against fundamental human rights, while Indonesia was one of the signatories of the Declaration on fundamental human rights. Responding to the queries from his Dutch counterpart, Foreign Minister Mokhtar stated that the incidents were against the Indonesian Constitution and not the policy of the Indonesian government. Hans van der Broek also touched on the East Timor issue and suggested that the International Red Cross and Portugal be invited to join in the settlement of the East Timor problem.
+
+Trade volume between Indonesia and the Netherlands increased during the period 1985-1987 according to data from the Indonesian Ministry of Trade. Total trade value between Indonesia and the Netherlands stood at 607.06 million US dollars in 1985, 674.93 million US dollars in 1986 and 809.44 million US dollars in 1987. Indonesia's exports to the Netherlands include vegetable oil, spices, coffee, vegetables, garments, cacao (cocoa) and plywood. The Netherlands' exports to Indonesia include ships, machine tools, butter, milk, chemical substance and pulp.
+
+On November 25, 1987, Indonesia and the Netherlands signed in Jakarta a memorandum of understanding on cooperation in the fields of education, training, research and applied technology.
+
+The Prime Minister of the Netherlands, R.F.M. Lubbers and entourage, mostly Dutch businessmen, arrived in Jakarta on October 30, 1988, for a six-day visit to Indonesia. . The main purpose of the current visit of the Dutch Mission was to step up bilateral relations, particularly economic cooperation, between Indonesia and the Netherlands. Lubbers, who is also accompanied by Dutch Foreign Minister Hans van den Broek, will also hold talks with Indonesian President Suharto.
+
+The Government of Indonesia announced on March 25, 1992, that it is rejecting developmental aid by the Netherlands and is asking the Netherlands to terminate its chairmanship of the Intergovernmental Group on Indonesia (IGGI), an international consortium providing financial assistance to Indonesia. At the same time, the Indonesian government is requesting the creation of a new lending consortium under the neutral leadership of the World Bank.
+
+Tensions between the Netherlands and Indonesia over linking foreign aid to human rights escalated on March 26, 1992, as the Dutch halted all financial help for their former colony. The announcement came a day after Indonesia said it would no longer accept aid from the Netherlands and accused the Dutch of trying to use financial help as a political weapon. The Netherlands has been giving Indonesia about $ 220 million a year. The dispute arose when the Netherlands temporarily cut off aid to Indonesia after government troops killed dozens of pro-independence demonstrators in the capital of its East Timor province in November 1992. The Dutch development aid minister, Jan Pronk, further angered the Indonesian government by proposing that the Netherlands link its aid to Indonesia's human rights record. The two nations' relations have been rocky since the Netherlands ended three centuries of rule over Indonesia in 1945. Aid disputes have strained relations several times as did Indonesia's abrogation of a union treaty in 1956 and its refusal to pay debts owed to the Netherlands. The Netherlands said it would not convene the 1992 meeting of the Dutch-led consortium of Western donor countries that have been giving Jakarta close to $ 5 billion yearly. Indonesia had demanded that the Netherlands end its chairmanship of the consortium, which includes the United States and Japan. The Dutch letter said the consequences of the aid halt on other consortium donors was "being reviewed."
+
+It would take at least five years before development relations between the Netherlands and Indonesia could be restored, Dutch Development Cooperation Minister Jan Pronk said in Amsterdam, on April 1st, 1992. Pronk stopped short of suggesting that a new Indonesian government was necessary before development ties could be resumed, saying instead that "a new political generation," which usually lasts five to seven years, might be needed. The basis for this conclusion was the "toughness" of the words used by Jakarta when it broke off its development relations with The Hague the previous week. Speaking at a press conference, Pronk said the colonial past remains a dominant factor in Indonesia's relations with the Netherlands, which colonized the South-East Asian nation for three centuries."It is deeply rooted in Indonesia and that brings me to the conclusion that you need a new political generation which can look over it," he said, adding that the climate "needs to be cleared" before relations could be restored.
+
+The trade relations between Netherlands and Indonesia were not affected by the break of the financial aid from Netherlands. The Netherlands and Indonesia can still improve their ties without having to modify their stand on crucial issues, especially on human rights, on which the two countries have different perceptions. Netherland Foreign Minister Hans van den Broek made these remarks to journalists after talks with Foreign Minister Ali Alatas in Jakarta on 16th July, 1992. The Netherland minister said his country will not change its stand on crucial issues after Indonesia's decision to stop accepting Dutch economic aid. At the same time, the Netherlands does not want Indonesia to change its stand in connection with its policy to accept development aid programmes from other countries. Touching on the East Timor issue, van den Broek said the two countries will continue to hold close and open consultations on the issue. The consultations are nothing new for the two foreign ministers, because they also discuss other international issues. Dutch Foreign Minister Van den Broek said the Netherlands welcomes the CGI [Consultative Group on Indonesia] donor countries' financial aid for Indonesia, amounting to 4.94billion US dollars for the 1992-93 fiscal year. He said this after being received by President Suharto at Merdeka Palace in Jakarta on 18th July, 1992. According to Van Den Broek, the Netherlands considers the financial aid for development projects of the CGI, which is led by the World Bank, to be important.
+
+Despite Indonesia's decision to terminate all development aid from the Netherlands in March, the volume of 1992's bilateral trade has risen, a minister said in Jakarta on December 15, 1992. "Indonesia's exports to the Netherlands have increased 34.1 percent in the first eight months this year to reach 681.5 million dollars and are expected to reach one billion dollars at the end of the year," Trade Minister Arifin Siregar told journalists after meeting visiting Dutch State Secretary of Trade Yvonne Van Rooy. Siregar said the trade volume between the two countries had reached 1.34 billion dollars in 1991, up from 1.27 billion in 1990.
+
+Dutch Prime Minister Ruud Lubbers arrived in Jakarta on April 4, 1994, for a four-day visit in a bid to improve relations between the Netherlands and its former colony, which were strained two years before when Jakarta refused development aid from the Netherlands. Lubbers was greeted at the Jakarta's Sukarno-Hatta international airport by Foreign Minister Ali Alatas, and then met President Suharto amid a 19-gun salute at Merdeka Palace. Lubbers, accompanied his wife, Foreign Minister Pieter Kooijmans and seven other Dutch officials, made his second visit as prime minister to Indonesia since 1988. Lubbers' visit is the first by the Dutch premier since Indonesia terminated aid from the Netherlands in March 1992 on the grounds that the Dutch were using its assistance to meddle in Indonesia's domestic affairs. Jakarta accused the Dutch of using the aid as ''a tool of pressure'' on political issues, including human rights. At the same time, Indonesia disbanded the Inter-Governmental Group on Indonesia, the country's largest western donor group chaired by the Netherlands. Jakarta replaced it with a new aid group, the World Bank-chaired Consultative Group on Indonesia, which comprised all members of the former aid group except the Netherlands. State Secretariat Minister Murdiono said a week earlier that Lubbers' visit was aimed at strengthening and developing bilateral relations. He cited the economy, trade, culture and education as areas where closer cooperation could be built between the two nations. Indonesia's ambassador to the Netherlands, Sudarmanto Kadarisman, said last week that Lubbers' visit to Indonesia was part of the efforts to form stronger ties and find a framework for cooperation that would be beneficial for both countries.
+
+On August 29, 1997, it was announced that Indonesia has topped the list of countries exporting food to the Netherlands. Its cooking oil and spices have also dominated the Dutch market for the past four years, said a report on the trade balance between Indonesia and the Netherlands.
+
+In May 1998, The Netherlands seemed to be still reluctant to offer financial aid to Indonesia despite the change in the latter's national leadership. Dutch Foreign Minister Hans van Mierlo recently indicated the Dutch government was still unwilling to resume provision of development aid to Indonesia, the Media Monitor bulletin reported on May 28, 1998. The bulletin quoted Van Mierlo as saying Indonesia should first give a signal that it really wanted to receive aid from the Nethelands again. He noted that it was Indonesia itself that wanted the Dutch aid program stopped in 1992 following Dutch criticism of its human rights record. Meanwhile, the Dutch parliament was reported to have urged Van Mierlo to consider offering Dutch aid to Indonesia to help it overcome its ongoing economic crisis. Several Dutch political parties, including PvdA (Labor Party) and VVD (Union for Freedom and Democracy) had expressed the view that the Netherlands should resume giving development aid to Indonesia. In 1992 Dutch economic assistance to Indonesia amounted to 140 million Dutch guilders. The Netherlands discontinued its aid after President Soeharto made it known he no longer wanted the Netherlands to chair the IGGI (Inter-Governmental Group on Indonesia), the consortium of a number of advanced countries and international financial bodies that had for many years been providing Indonesia with financial assistance on an annual basis. A few Dutch MPs had argued that the recent transfer of national leadership from Soeharto to BJ Habibie was a positive signal for the Netherlands to resume its aid to the largest archipelago country in the world.
+
+The Dutch government would have no objection to a resumption of Dutch development aid to Indonesia if a request to that effect was made by Indonesia, a Dutch Foreign Ministry spokesman said on July 27, 1998. "The Netherlands has no objection in principle to resuming aid, but Indonesia should take the initiative for that purpose through diplomatic channels," the spokesman said recently. Indonesia cut off its development cooperation ties with the Netherlands in 1992 over critical remarks the then Dutch Development Cooperation Minister, Jan Pronk, had made about Indonesia's human rights record in East Timor. The present outgoing Dutch cabinet had never discussed the topic of resuming development aid to Indonesia so that the matter would have to be further handled by the new cabinet to be announced at the end of July, the Foreign Ministry spokesman said. Meanwhile, Rotterdam mayor Bram Peper was quoted as saying resumption of Dutch aid to Indonesia appeared to be close at hand after a statement by President BJ Habibie that he had an open mind about restoration of Indonesian-Dutch development cooperation. On January 17, 2000, after meeting with Indonesian President Abdurrahman Wahid, Dutch Foreign Minister Jozias van Aartsen said he offered his country's support to put an end to a year of religious violence in eastern Indonesia. ''There may be ways that the Netherlands can help with reconciliation,'' he said after the meeting. But Foreign Minister Alwi Shihab later rejected the offer, saying Indonesia was able to look after its own affairs. ''We want to have real cooperation between our two countries,'' he said, but, ''We are capable of solving the problems in Maluku ourselves.'' Dozens of protesters from West Papua gathered at the Dutch embassy in Jakarta to demand that the government in The Hague press Jakarta to grant independence to the region. ''The Netherlands are responsible for the tragedy in West Papua,'' said Demianus Wanimbo, head of the Students Alliance for West Papua. ''They must now tell the world about the crimes Indonesia is doing there and how we need independence.'' Rebels of the Free Papua Movement maintain that the region has been independent since 1961, when its Dutch rulers agreed to allow self-determination. Indonesian forces occupied the colony in 1963. Jakarta's sovereignty was rubber-stamped by a hastily convened assembly of village chiefs, which pro-independence activists dismiss as a sham.
+
+Indonesian Vice-President Hamzah Haz has asked the Netherlands to play a role in helping Indonesia when the cooperation with the IMF ends in November 2003. The vice-president has asked the Netherlands if it could help Indonesia through the CGI Consultative Group on Indonesia forum.
+
+Indonesia will receive a 20 million euro grant from the Netherlands to support institutional development and capacity-building efforts, the Dutch embassy and the World Bank office said in a joint statement on November 30, 2004. The statement added that the World Bank will manage the grant and support programs that will improve governance, the investment climate, education and development in the country's eastern region. The grant will be the second the Netherlands has provided this month, after a 6.5 million US dollars grant to fund World Bank-sponsored community development programs in the same region.
+
+On August 15, 2005, at the 60th anniversary of Japanese capitulation and the end of the Japanese occupation of then Dutch colony Indonesia, Dutch Foreign Minister Ben Bot said that the Hague "morally and politically" accepted the date of Indonesia's independence as August 17, 1945. With this admission the Netherlands has put and end to a dispute that cast a shadow over Dutch-Indonesian relations for almost 60 years. Lubbers is expected to discuss both bilateral relations and international issues with President Suharto, and will also meet with Vice President Try Sutrisno, the House Speaker and a number of cabinet ministers. The Netherlands' foreign minister also expressed sorrow about violence in Indonesia before its independence from Dutch colonial rule in the late 1940s, a move seen as a major step forward in Dutch-Indonesian relations. The Netherlands did not recognize Indonesia's independence until Dec. 27, 1949, maintaining that the area it knew as the Dutch East Indies remained under its control.
+
+PS-SOURCES: New York Times January 28, 1950; April 2, 1950; July 26, 1950; May 11, 1969; March 13, 1970; September 1, 1970; August 27, 1971; BBC June 13, 1979; July 25, 1979; January 20, 1981; October 13, 1982; August 3, 1991; May 4, 1992; March 10, 2003; Associated Press March 26, 1992; January 17, 2000; August 15, 2005; PR Wire March 25, 1992; Xinhua November 25, 1987; October 28, 1988; United Press International July 18, 1992; IPS April 1, 1992; Agence France Presse December 15, 1992; August 15, 2005; Antara April 4, 1994; September 1, 1997; May 28, 1998; July 27, 1998
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

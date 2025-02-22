@@ -1,0 +1,128 @@
+FILE: cm255325v11.0.txt
+DYAD: GERMANY/PRUSSIA-ITALY
+RIVALRY: RIV678
+DISPUTE(S): MID115 
+RIVALRY: RIV10679
+DISPUTE(S): MID257 MID320 MID127 MID67 MID1684 MID3717 
+RIVALRY: RIV11679 
+DISPUTE(S): MID3717 
+
+PS: 19009999-19140522 .5 19140523-19340731 .25 19340801-19450507 .5 19570324-19920206 0.75 19920207-20209999 1.00
+
+PS-UPDATE2020: After annexing Austria in 1938, Germany is contiguous with Italy through the end of WWII. The five year post-rivalry period, the war-time alliance, and contiguity extend the relationship until 1945.
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20220611
+PS-LAST-CHECKED: 20220611
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID115
+
+WWI MIDs: MID257 MID320 
+
+WWII MIDs: MID1684 MID3717
+
+MID127 
+
+TERRMID: MID127 3 -- not territory 
+TERRMID-CER: MID127 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID127 3 -- not third party link to territory
+TERRLINK-CER: MID127 1 -- certain 
+TERRLINK-NOTES: MID127 from Gibler 2017, the Allied Powers (including Italy here) were demanding reparations from Germany after WWI, and Germany was trying to negotiate better terms. In 1921, France and Belgium invaded the Ruhr to prevent Germany from extracting resources there. Belgium joined the French in using troop deployments to provide economic pressure on Germany into making reparation payments. Coded not territory because neither France nor Belgium claimed the Ruhr as their own, and they occupied the Ruhr to exert economic pressure on Germany.
+
+MARITMID: MID127 3 -- not maritime 
+MARITMID-CER: MID127 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID127 3 -- not islands 
+ISLMID-CER: MID127 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID127 3 -- not civil war 
+CIVWARMID-CER: MID127 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID127 3 -- not civil war link 
+CIVWARLINK-CER: MID127 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID127 3 -- not coup 
+COUPMID-CER: MID127 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID127 3 -- not coup link
+COUPLINK-CER: MID127 1 -- certain 
+COUPLINK-NOTES: 
+
+MID67 
+
+TERRMID: MID67 3 -- not territory 
+TERRMID-CER: MID67 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID67 3 -- not third party link to territory 
+TERRLINK-CER: MID67 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID67 3 -- not maritime 
+MARITMID-CER: MID67 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID67 3 -- not islands 
+ISLMID-CER: MID67 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID67 3 -- not civil war 
+CIVWARMID-CER: MID67 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID67 1 -- civil war link 
+CIVWARLINK-CER: MID67 1 -- certain 
+CIVWARLINK-NOTES: MID67 from Gibler 2017, in 1934, a group of Austrian Nazis (a banned political party) stormed the capital and assassinated the Chancellor. Fearing a union between Germany and Austria, Italy and Czechoslovakia deployed troops to the border. Italy threatened to invade if Austria joined with Germany, and Czechoslovakia threatened to defend their territory with force if fighting broke out. Austria eventually put down the Nazi uprising. Coded civil war link because the Austrian Nazis were a militarized rebel group, since they were banned politically and used force against the government, and that civil war activity (outside this dyad) led to this MID. 
+
+COUPMID: MID67 3 -- not coup 
+COUPMID-CER: MID67 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID67 3 -- not coup link
+COUPLINK-CER: MID67 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV10679: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+RIV679: MID67 (1934) revised by MID3.02 so it is now Germany against Yugoslavia, Italy, and Czechoslovakia.
+
+RIV11679 is coded as isolated since it is the result of Italy's defeat in World War~II and its switching of sides.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+Prior to the War of Italian Unification the northern region of Italy had been dominated by Austria-Hungarian forces. In the summer of 1848 Venice and Rome declared themselves independent republics, France lent troop support to the Vatican in order to put down these revolutions (Clodfelter 1992). Although both Austria and France opposed the new republics the French did not support the Austrian control over the Italian state. Ten years later in the summer of 1859 a second revolt occurred with the aid of the French Forces under Napoleon III. Germany was involved only as much as to attempt to contain the violence in Italy. German involvement was limited to support to the Austrian-Hungarian forces in a few battles, which would eventually fair (MID115). With the defeat of the Austrian-Hungarian (backed by Germany) forces Emmanuel II was declared King of a unified Italy on May 17th of 1861 (Clodfelter 1992). 
+
+The first two disputes of the only 20th century rivalry between Italy and Germany (MID320 and MID127) involve Italy's entrance into World War I and the occupation of the Ruhr following the war. The First World War (MID257) provided the venue for the dispute between Italy and Germany. Italy entered the war alongside the allies (MID320) in October of 1914. With the defeat of Germany in 1918 came a negotiated Armistice on November 11th. Germany had to clear Belgium, France and Alsace-Loraine of all forces, surrender its military hardware, evacuate the Rhine region, surrender much of its rail system, endure Allied occupation troops and surrender its navy (Grenville 1980). Following the Armistice the Treaty of Versailles was negotiated which specified German reparations to the Allied Powers-mostly France. Versailles (June 18th, 1919) upheld the conditions of the Armistice as well as adding monetary reparations to the Allies and prevention of any sizable military and almost no navy. In addition to monetary reparations, Germany was to deliver most of its coal production to France (this both ensured French recovery and would prevent a swift recovery of Germany).
+
+The Dolfuss Affair (MID67) was unrelated to the previous issues during the First World War. Englebert Dolfuss was an Austrian fascist that Hitler had assassinated against the wishes of the Italian dictator Mussolini. The assassination occurred on July 25, 1934 (Manhattan 2001) and Mussolini responded by dispatching several armed units of Italian soldiers to the Carinthian border. This short lived show of force received Hitler's attention. Diplomatic resolution between Germany and Italy came about a few days later (Manhattan 2001). 
+
+In the fall of 1939 Mussolini refused Hitler's insistence that Italy enter the war on the side of Germany and instead Mussolini hoped to play neutral or hope for a diplomatic solution (MID1684). However, Italy relented under German Ultimatums but the Spring of 1940 and Italy then entered the Second World War on the side of Nazi Germany. Fascist Italy was in full support of Nazi Germany at the time of the Allied invasion of Sicily on July 10th of 1943. By the 19th of that same month the Allied forces were bombarding Rome, which forced King Victor Emanuel to decide that Italy must abandon its support of Germany and concede defeat to the Allied forces (Ginsborg 1990). By the 25th of July the King removed Mussolini as head of foreign affairs, which gave Italy the ability to negotiate with the Allied powers. Thus began the first conflict with Germany since Italy's entrance into the war. 
+
+Italy signed a secret armistice with the Allied troops on September 3rd, 1943. Only 5 days later the armistice was made public and German troops began occupation of Northern and Central Italy (Ginsborg 1990). Two days later the King fled the mainland and the Italian Army was dissolved. The German Army took more than 500,000 Italian soldiers captive (Ginsborg 1990). However, Italian partisans in an attempt to combat fascism rose up against the Germany forces, usually unsuccessfully (MID258). The contribution of the Italian partisans would not become significant until the final months of the war. Italy formally declared war on Germany (MID3717) on October 30th of 1943 (Ginsborg 1990). 
+
+Allied troops liberated Rome from the Germans on June 4th of 1944, however it was too late to prevent the German led massacre of Italian partisans that occurred on March 24th, crushing the resistance in Rome (Ginsborg 1990). The following August, Florence was liberated from the Germans by the Allied troops. By April 1st of 1945 the Allied forces mounted a final offensive against the Germans in the North. Domestic insurrections led by former Italian Army officers aided Allied efforts in the cities of Genoa, Turin and Milan. By May 1st all Northern Italy had been liberated from German control and by the next day Germany surrendered unconditionally (Greenfield 1951 and Ginsborg 1990). 
+
+Although Italy performed an about face in 1943 and gave support to Allied forces, Italy was never included as a member of the allies and instead was considered to be a "co-belligerent" (Ginsborg 1990 p13). The status of co-belligerent preemptively denied any reparations for costs endured while fighting the Germans. However, soon after the war ended the US led efforts to establish a strong capitalist led growth effort in Italy. As part of the new invigorated capitalist movement in Italy a referendum changed Italy from a monarchy into a democratic republic on the date on June 2nd, 1946. By June 13th Enrico de Nicola became the head of state and the last vestiges of the former fascist state were swept from Italy (Ginsborg 1990). 
+
+SOURCES-CR:
+Clodfelter 1992; Manhattan 2001; Ginsborg 1990; Willis 1971; Greenfield 1951; Gibler 2017.
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

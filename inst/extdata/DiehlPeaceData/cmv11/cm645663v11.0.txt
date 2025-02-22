@@ -1,0 +1,190 @@
+FILE: cm645663v11.0.txt
+DYAD: IRAQ - JORDAN
+RIVALRY: RIV1223
+DISPUTE(S): MID3161 
+RIVALRY: RIV1224
+DISPUTE(S): MID122 MID1039 
+RIVALRY: RIV1225
+DISPUTE(S): MID4273 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190429
+PS-LAST-CHECKED: 20190429
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3161 
+
+TERRMID: MID3161 3 -- not territory 
+TERRMID-CER: MID3161 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3161 1 -- third party link to territorial MID
+TERRLINK-CER: MID3161 1 -- certain 
+TERRLINK-NOTES: MID3161 from Gibler 2018, in 1949 Jordan claimed that it was going to merge with Syria, and Syria responded by closing its border with Jordan and warning them against such public announcements. Iraq put troops on the border with Syria to deter any potential aggressive action from them while tensions were escalated. Coded third party link to territorial MID because this was connected to Jordan's claim that it would merge territory with Syria, which Syria disputed. 
+
+MARITMID: MID3161 3 -- not maritime
+MARITMID-CER: MID3161 1 -- certain 
+MARITMID-NOTES: MID3161 Because Jordan claimed all of Syria, this included a claim on Syria's maritime waters. Coded not maritime because the maritime dispute is not between Jordan and Iraq; this MID does, however, link to the maritime dispute between Jordan and Syria here. 
+
+ISLMID: MID3161 3 -- not islands 
+ISLMID-CER: MID3161 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3161 3 -- not civil war 
+CIVWARMID-CER: MID3161 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3161 3 -- not civil war link 
+CIVWARLINK-CER: MID3161 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3161 3 -- not coup 
+COUPMID-CER: MID3161 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3161 3 -- not coup link
+COUPLINK-CER: MID3161 1 -- certain 
+COUPLINK-NOTES: 
+
+MID122
+
+TERRMID: MID122 3 -- not territory
+TERRMID-CER: MID122 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID122 1 -- third party link to territorial MID
+TERRLINK-CER: MID122 1 -- certain
+TERRLINK-NOTES: MID122 from Gibler 2018, Iraq in 1961 claimed all of Kuwait as Iraqi territory and threatened to annex it. In response, the Arab League admitted Kuwait as a member and formed a coalition to defend it from Iraqi invasion. As part of the Arab League, Jordan issued a threat to Iraq, warning them not to use force against Kuwait. Coded third party link to territorial MID because this was connected to Iraq's claim on all of Kuwait's territory. 
+
+MARITMID: MID122 3 -- not maritime 
+MARITMID-CER: MID122 1 -- certain
+MARITMID-NOTES: MID122 Because Iraq claimed all of Kuwait, this included a claim on Kuwait's maritime waters. Coded not maritime because the maritime dispute is not between Jordan and Iraq, but Jordan is linked to the maritime dispute here. 
+
+ISLMID: MID122 3 -- not islands 
+ISLMID-CER: MID122 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID122 3 -- not civil war 
+CIVWARMID-CER: MID122 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID122 3 -- not civil war link
+CIVWARLINK-CER: MID122 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID122 3 -- not coup 
+COUPMID-CER: MID122 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID122 3 -- not coup link
+COUPLINK-CER: MID122 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1039 
+
+TERRMID: MID1039 3 -- not territory 
+TERRMID-CER: MID1039 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1039 3 -- not third party link to territory 
+TERRLINK-CER: MID1039 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1039 3 -- not maritime 
+MARITMID-CER: MID1039 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1039 3 -- not islands 
+ISLMID-CER: MID1039 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1039 3 -- not civil war 
+CIVWARMID-CER: MID1039 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1039 1 -- civil war link 
+CIVWARLINK-CER: MID1039 1 -- certain 
+CIVWARLINK-NOTES: MID1039 from Gibler 2018, in 1970 PLO terrorists hijacked an airplane headed to Jordan and held the passengers hostage. The terrorists intended to provoke fighting between Jordan and Palestinian rebels. Jordan did indeed attack Palestinian rebels, and Syrian and Jordanian troops clashed in the aftermath, as Syria was sympathetic to the rebels. Coded civil war link because this was connected to militarized rebel activity in Palestine, and the hijacking occurred outside of Jordan and this dyad. (Iraq is only connected to this MID as the target of a US warning to not interfere in the situaion, per Garfinkle 1985.) 
+
+COUPMID: MID1039 3 -- not coup 
+COUPMID-CER: MID1039 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1039 3 -- not coup link
+COUPLINK-CER: MID1039 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4273
+
+TERRMID: MID4273 3 -- not territory
+TERRMID-CER: MID4273 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4273 3 -- not third party link to territory 
+TERRLINK-CER: MID4273 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4273 3 -- not maritime 
+MARITMID-CER: MID4273 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4273 3 -- not islands 
+ISLMID-CER: MID4273 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4273 1 -- civil war MID
+CIVWARMID-CER: MID4273 1 -- certain
+CIVWARMID-NOTES: MID4273 from cm narrative, this MID involves Iraq's refusal to comply with UN weapons inspectors and enforcement of the no-fly zone. Iraq expelled weapons inspectors and repeatedly violated the no-fly zone. The US and UK repeatedly threatened Iraq and eventually bombed them over a four day period. Jordan was part of a coalition of states that participated in a show of force to deter Iraq from further violations. Coded civil war MID because this MID involved violation and enforcement of the no-fly zone over Iraq. The no-fly zone was put in place to prevent Saddam Hussein from attacking militarized rebels in Kurdistan. 
+
+CIVWARLINK: MID4273 3 -- not civil war link
+CIVWARLINK-CER: MID4273 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4273 3 -- not coup 
+COUPMID-CER: MID4273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4273 3 -- not coup link
+COUPLINK-CER: MID4273 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4273
+rivalry=645663 nationa=JORDAN nationb=IRAQ MID4273 19991022-19991022 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=> 999 DEATHS fatalpb=.
+lhostb=WAR 
+
+The dispute began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In MIDNovember, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States' warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began "Operation Desert Fox," a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders. First and last day of dispute was on 10/22/1999.
+
+NOTE THAT JORDAN IS ONLY INVOLVED FOR ONE DAY
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+NARRATIVE-CR:
+The rivalry between Iraq and Jordan does not appear to have an element of direct hostility in it. All four of the mids between the two countries are multilateral. In the first dispute, the intent of the Iraqi troops was not clear in the discussion of the events in the New York Times. Here, the Iraqis massed thousands of troops in Jordan, but the New York Times reported that the troops were there to ensure peace between Syria and Jordan. In the second dispute, the Jordanians participated in the Arab League troops sent to Kuwait to ensure its sovereignty against the Iraqi threat. The third dispute is the most hostility that is directed between the two countries. Here, the PLO is suppressed by the Jordanians and the Syrians intervene militarily. The Iraqis are aligned with the Syrians (both are Baathist at this point) but the Iraqis only display force. They do not enter the fray as the Syrians do. The last dispute is another multilateral dispute that took place in the post Gulf War period. Here Iraq continues to defy UN sanctions and US/UK enforcement. In 1999, the US demonstrates to Iraq that a multilateral coalition is still possible and Jordan joins the force that claims it is willing to join with the US/UK to enforce the sanctions. 
+
+This rivalry seems to be product of alignments and not one of direct issue contention. In the first dispute it is not clear what the issue is. In the second dispute, Jordan’s involvement with the Arab League produces the dispute. The third dispute is a product of Syrian and Iraqi support for anti Israeli PLO. Here, the Syrians and the Iraqis are also at odds with King Abdullah in Jordan, so the PLO issue is also a convenient merging of interests. In the fourth dispute the issue is Jordanian alliance with the US. So, it does not appear that this rivalry can be discussed in terms of an issues that motivates it and that can be resolved. 
+
+As to the termination of the rivalry, it appears that the current conflict in Iraq will nullify for now any further disputes. It appears as if the United State “owns” Iraq for now so the possibility of continued disputes is on hold until this period of transition is complete. Thus, it may be this conflict and the regime change it initiated that serves as the shock to end the rivalry. 
+
+Discussion of the disputes: 
+MID3161 occurred From April through August of 1949. It involved Iraq and Syria versus Jordan. In this situation the Syrians and the Jordanians both claimed that the other state was attempting to annex part or all of the others territory in various merger discussions. The border between the two states was closed and tensions remained high throughout the dispute. Several thousand Iraqi troops massed within Jordan in June of 1949 in an effort to deter Syria. The intent of the Iraqi troops was described as a deterrent towards Syria but it was coded as an aggressive act towards Jordan. 
+
+MID122 occurred from 6/25/1961 – 2/28/1962. On June 25, 1961, six days after Kuwait had gained independence, the Iraqi Prime Minister, General Kassim, laid claim to all of Kuwait, arguing that the latter had been an integral part of Basra province under Ottoman rule and that Iraq had succeeded to Turkish territorial sovereignty over Basra with the dissolution of the Ottoman empire after World War I. Kuwait rejected the Iraqi arguments and requested military assistance in response to rumors that Iraq was moving troops southwards in the Basra area. Britain and Saudi Arabia arrived in Kuwait by early July 1961 and Kuwait mobilized its own forces. Efforts by the U.N. Security Council to defuse the crisis were unsuccessful and mediation was taken over by the Arab league (this is where Jordan’s involvement comes in). On August 12, the Arab league countries, Iraq alone dissenting, signed an agreement with Kuwait under which British forces were to be replaced by a force from the Arab League who pledged to preserve the territorial integrity of Kuwait against any aggression, to render the Sheikhdom immediate assistance if attacked. Iraq continued to express its claim to Kuwait and withdrew its representatives from all countries which had recognized that country. Jordan was a peripheral participant in this dispute. 
+
+MID1039 occurred in September of 1970. After the Six Day War of 1967, the PLO began using Jordan as a base for operations versus Israel. Israel responded with raids against Jordan. Jordan wanted to deescalate the tension and began to suppress the PLO. In response, the PLO attempted to topple King Hussein in September of 1970. The conflict escalated when Syrian troops entered Jordan in support of the PLO. The Syrians engaged in battle against the Jordanians in support of the PLO. At the time, the Syrian and Iraqi regimes were Baathist and coordinated some of their foreign policy though the two countries had their differences throughout this period. During this dispute Iraq and Syria both denounced the Jordanian Kingdom for its suppression of the PLO in an effort to maximize their pressure against Israel. 
+
+MID4273 began (10/7/1997) because of increasing intransigence by Iraq. Iraq increased the frequency with which it violated the no-fly zones and threatened to refuse to allow Americans on the UN inspections team. Most importantly, Iraq threatened to shoot down an American U-2 spy plane. The United States and the United Kingdom responded by threatening military action if Iraq attempted to shoot down an American plane. Kuwait responded to the heightened tension between the United States, the United Kingdom, and Iraq by putting its troops on alert. On 11/13/1997, Iraq carried out its threat to expel US Arms inspectors. The United States and the United Kingdom began preparing for punitive air strikes against Iraq if Iraq did not begin to cooperate with UN weapons inspectors. On 11/23/1997, Iraq allowed weapons inspectors to reenter, but it continued to hamper UN investigations, restricting access to selected sites. On 1/17/1998, Iraq again threatened to expel weapons inspectors, requesting that economic sanctions against it be lifted. The United States reiterated its threat to use force if Iraq did not allow UN inspectors unrestricted access to all suspected sites. The US and UK military buildup in the region continued and they announced that their forces were combat ready (2/7/1998). In mid November, the United States reissued its threat to use force against Iraq if it did not unconditionally comply with UN weapons inspectors. All remaining weapons inspectors withdrew in response to the United States’ warning. Iraq capitulated on 11/15/1998, promising to comply with the UN inspection teams. The United States and the United Kingdom stated that if Iraq did not continue to comply, they would use force against it. On 12/10, Iraq ended cooperation with UN inspectors. The United States and the United Kingdom announced that they would attack Iraq without warning for breaking it promise of full cooperation. On 11/16, they began “Operation Desert Fox,” a four-day bombing campaign against Iraq. Israel also put its military on alert, fearing that Iraq would attack it in retaliation for U.S. and British military actions against Iraq. Almost immediately after the American and British bombing campaign, Iraq stated that it would challenge the no-fly zones in northern and southern Iraq (11/1998; 1/3/1999). There were clashes on almost a daily basis between British and American planes patrolling the northern and southern no-fly zones and Iraqi military installations from December 1998 to October 2001. Although clashes between the United States, the United Kingdom, and Iraq occurred almost continuously until October, Iraqi challenges to the no-fly zones escalated in August 2001 and were more frequent until mid-October. On 2/15/1999, Iraq threatened to attack Turkey if it continued to allow American planes to use its bases. On 2/2/1999, the United States and the United Kingdom announced that they would retaliate if fired upon, by bombing pre-determined targets in Iraq that were deemed threatening. The United States and the United Kingdom engaged in numerous retaliatory bombing campaigns on Iraqi targets through October (2001), as Iraq continued to threaten and fire upon American and British planes patrolling the no-fly zones. On 10/22/1999, 11 nations (USA, UK, Egypt, United Arab Emirates, Kuwait, Jordan, France, Italy, Netherlands, Greece, and Germany) participated in joint military exercises to demonstrate that an anti-Iraq coalition could still be formed. On 5/23/2001 and 8/24/2001, an Iraqi patrol crossed into Saudi territory and fired on a Saudi border patrol. Iraq acted in order to demonstrate its disapproval of Saudi aid to the United States. On 6/11/2001, Saudi Arabia seized a unused pipeline from Iraq in retaliation for Iraqi violations of Saudi borders.
+
+SOURCES-CR:
+Brecher and Wilkenfeld, 1997; Facts on File, June 1-7, 1967; Metz, 1989 and 1990; New York Times 6/21/1949; MID Narratives: http://cow2.la.psu.edu; Tillema, 1991.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Garfinkle, Adam M. US Decision Making in the Jordan Crisis: Correcting the Record. Political Science Quarterly 100.1 (1985): 117-138.

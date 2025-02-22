@@ -1,0 +1,111 @@
+FILE: cm315360v11.0.txt
+DYAD: CZECHOSLOVAKIA-ROMANIA
+RIVALRY: RIV82
+DISPUTE(S): MID3181 
+RIVALRY: RIV828
+DISPUTE(S): MID1718 
+
+PS: 19181028-19490107 .5 19490108-19910629 0.75 19910630-19921231 .5
+
+PSNOTES: Czech Republic (316)and Slovakia (317) are considered separate states from Czechoslovakia (315) after secession although the narrative for Czechoslovakia is given below as if there were continuation 
+
+PS-LAST-CHANGED: 20180909
+PS-LAST-CHECKED: 20180909
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3181
+
+TERRMID: MID3181 3 -- not territory
+TERRMID-CER: MID3181 3 -- uncertain 
+TERRMID-NOTES: MID3181 from Gibler 2018, Austria's economy was crippled after WWI. It was looking to unify with either Germany or the Little Entente (Romania, Czechoslovakia, and Yugoslavia), but Italy declared that this would be a cause for war. Italy and Yugoslavia amassed troops on their Austrian borders as a show of force to prevent Austria from joining Germany or the Little Entente. The League of Nations and the US eventually negotiated a solution. Coded not territory because no states were disputing territory here, although Austria was intending to voluntarily unify with another country (other countries) to solve its economic crisis. Coded uncertain because Gibler (2018) drops Czechoslovakia from this dispute, as they seem to have no part in it. COW also has Czechoslovakia and Romania on opposite sides in this dispute despite them both being part of the Little Entente, and it is unclear why this would be the case. 
+
+TERRLINK: MID3181 3 -- not third party link to territory 
+TERRLINK-CER: MID3181 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3181 3 -- not maritime 
+MARITMID-CER: MID3181 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3181 3 -- not islands 
+ISLMID-CER: MID3181 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3181 3 -- not civil war 
+CIVWARMID-CER: MID3181 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3181 3 -- not civil war link
+CIVWARLINK-CER: MID3181 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3181 3 -- not coup 
+COUPMID-CER: MID3181 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3181 3 -- not coup link
+COUPLINK-CER: MID3181 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1718 
+
+TERRMID: MID1718 3 -- not territory 
+TERRMID-CER: MID1718 1 -- certain 
+TERRMID-NOTES: MID1718 from Gibler 2018, Romania noticed that China and the USSR became distant and began strengthening its own ties with China. The USSR took this as an insult and coordinated military exercises with Hungary and Czechoslovakia along Romania's border, but tensions died down soon thereafter. Coded not terriory because no territory was being disputed. This was an attempt to deter strengthening diplomatic ties between Romania and China. Czechoslovakia is brought in because of its role in the exercises.
+
+TERRLINK: MID1718 3 -- not third party link to territory 
+TERRLINK-CER: MID1718 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1718 3 -- not maritime 
+MARITMID-CER: MID1718 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1718 3 -- not islands 
+ISLMID-CER: MID1718 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1718 3 -- not civil war 
+CIVWARMID-CER: MID1718 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1718 3 -- not civil war link 
+CIVWARLINK-CER: MID1718 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1718 3 -- not coup 
+COUPMID-CER: MID1718 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1718 3 -- not coup link
+COUPLINK-CER: MID1718 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+PS-NARRATIVE:
+
+The Council for Mutual Economic Assistance, an economic alliance was established at an economic conference in Moscow, beginning on January 5, 1949. Both countries were founding members. This organization aimed to increase economic cooperation and technological transfer between its members. 
+
+The Warsaw Pact, a military alliance between the Eastern European Communist states, including Czechoslovakia and Romania, was established on May 14, 1955. The members pledged mutual defense in case a member was attacked. Romania did not invade Czechoslovakia in 1968 and spoke against this invasion led by Soviet Union.
+
+The two countries were allies during the Communist years, and continued to cooperate in the 1990s as both tried to join NATO and the EU. They were joint members of the Council of Europe and OSCE. Czech Republic joined NATO on March 12, 1999, while Romania joined NATO on March 29, 2004. Czech Republic joined the EU on May 1, 2004, while Romania joined the EU on January 1, 2007. 
+
+PS-SOURCES: 
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

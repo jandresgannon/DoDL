@@ -1,0 +1,1628 @@
+FILE: cm651666v11.0.txt
+DYAD: EGYPT-ISRAEL
+RIVALRY: RIV1246
+DISPUTE(S): MID1793 MID3386 MID3370 MID3372 MID3371 MID3374 MID3373 MID3429 MID200 MID3405 MID3375 MID3420 MID3419 MID3421 MID3430 MID3422 MID3406 MID3431 MID3376 MID3377 MID3378 MID3379 MID3412 MID1035 MID1480 MID3387 MID1046 MID3380 MID1061 MID3381 MID3382 MID3383 MID3384 MID3385 MID3915 
+
+RIVNOTES: 
+RIV1246: MID353 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+PS: 19480514-19790326 0.00 19790327-19890603 -9 19890604-20209999 0.5
+
+PS-UPDATE2020:
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20220321
+PS-LAST-CHECKED: 20220321
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1793
+
+TERRMID: MID1793 1 -- territorial MID
+TERRMID-CER: MID1793 1 -- certain 
+TERRMID-NOTES: MID1793 from Gibler 2018, in 1947-1948, Israelis and Palestinians disputed who would control the area that is modern-day Israel. The Israelis declared independence and sovereignty over the land in 1948. A coalition of Arab nations (Syria, Iraq, Egypt, Lebanon, and Jordan) attacked Israel that same day because they denied Israel's claim to sovereignty and wanted a Palestine state instead. A war broke out, and Israel emerged victorious in 1949. Coded territorial MID because Iraq disputed Israel's claim to the territory. 
+
+TERRLINK: MID1793 1 -- third party link to territory 
+TERRLINK-CER: MID1793 1 -- certain
+TERRLINK-NOTES: MID1793 in this dyad, the TERRMID is between Egypt and Israel, but this MID also involves a territorial MID between the other Israel and other Arab states outside this dyad. 
+
+MARITMID: MID1793 1 -- maritime MID
+MARITMID-CER: MID1793 1 -- certain
+MARITMID-NOTES: MID1793 the dispute between Israel and the Arab nations involved in this dispute (Egypt, Iraq, Jordan, Syria, and Lebanon) also included a dispute concerning sovereignty over the waters off the coast of what is current-day Israel. 
+
+ISLMID: MID1793 3 -- not islands 
+ISLMID-CER: MID1793 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1793 1 -- civil war MID
+CIVWARMID-CER: MID1793 1 -- certain
+CIVWARMID-NOTES: MID1793 this MID involves fighting between Israelis and Palestinians before a state was created. Thus, the militarized groups were non-state armed groups fighting for control of the state, making them militarized rebels per our coding scheme. 
+
+CIVWARLINK: MID1793 3 -- not civil war link
+CIVWARLINK-CER: MID1793 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1793 3 -- not coup 
+COUPMID-CER: MID1793 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1793 3 -- not coup link
+COUPLINK-CER: MID1793 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3386 
+
+TERRMID: MID3386 1 -- territorial MID
+TERRMID-CER: MID3386 1 -- certain 
+TERRMID-NOTES: MID3386 from Gibler 2018, in 1949-1950 Israeli and Egyptian forces clashed in the Negev Desert until Egyptian troops returned to Egypt. From cm narrative, the countries were disputing territory, as Egypt denied Israel's right to exist as a country, disputed the UN decision to grant Israel the land from Palestine, and disputed Israel's unilateral expansion of its borders after it was recognized as a state. These issues fueled a rivalry between Egypt and Israel. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3386 3 -- not third party link to territory 
+TERRLINK-CER: MID3386 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3386 1 -- maritime MID
+MARITMID-CER: MID3386 1 -- certain 
+MARITMID-NOTES: MID3386 Egpyt denied Israel's right to exist and therefore disputed all Israeli borders, including Israel's maritime possessions. 
+
+ISLMID: MID3386 3 -- not islands 
+ISLMID-CER: MID3386 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3386 3 -- not civil war 
+CIVWARMID-CER: MID3386 1 -- certain 
+CIVWARMID-NOTES: MID3386 there is no indication in cm narrative, Gibler 2018, or news coverage of this MID that this MID involved militarized rebels. 
+
+CIVWARLINK: MID3386 3 -- not civil war link 
+CIVWARLINK-CER: MID3386 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3386 3 -- not coup 
+COUPMID-CER: MID3386 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3386 3 -- not coup link
+COUPLINK-CER: MID3386 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3370 
+
+TERRMID: MID3370 1 -- territorial MID
+TERRMID-CER: MID3370 1 -- certain 
+TERRMID-NOTES: MID3370 from Gibler 2018, in 1950-1951 Egypt was occupying the Gaza strip and was part of an international effort to boycott Israel (involving Syria and Jordan as well). Tensions escalated, and Israel clashed with Jordan. Egypt threatened to use force against Israel if the UN did not intervene. Coded territorial MID because this was connected to the tension between Israel and Egypt, which was connected to Egypt denying Israel's right to exist. Egypt disputed all of Israel's borders and was occupying Gaza. 
+
+TERRLINK: MID3370 3 -- not third party link to territory 
+TERRLINK-CER: MID3370 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3370 1 -- maritime MID
+MARITMID-CER: MID3370 1 -- certain 
+MARITMID-NOTES: MID3379 Egypt disputed all of Israel's borders since it denied Israel's right to exist, thereby disputing Israel's maritime boundaries as well. 
+
+ISLMID: MID3370 3 -- not islands 
+ISLMID-CER: MID3370 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3370 3 -- not civil war 
+CIVWARMID-CER: MID3370 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3370 3 -- not civil war link 
+CIVWARLINK-CER: MID3370 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3370 3 -- not coup 
+COUPMID-CER: MID3370 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3370 3 -- not coup link
+COUPLINK-CER: MID3370 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3372 
+
+TERRMID: MID3372 1 -- territorial MID
+TERRMID-CER: MID3372 1 -- certain 
+TERRMID-NOTES: MID3372 from Gibler 2018, in 1951-1952 Israel and Egypt had several cross-border clashes and shows of force. Coded territorial MID because Egypt disputed Israel's right to exist and control the territory of Israel. The tensions connected to that issue were connected to this MID per cm narrative. 
+
+TERRLINK: MID3372 3 -- not third party link to territory 
+TERRLINK-CER: MID3372 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3372 1 -- maritime MID
+MARITMID-CER: MID3372 1 -- certain 
+MARITMID-NOTES: MID3372 Egypt disputed all of Israel's borders, and by extension disputed Israel's maritime boundaries as well. 
+
+ISLMID: MID3372 3 -- not islands 
+ISLMID-CER: MID3372 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3372 3 -- not civil war 
+CIVWARMID-CER: MID3372 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3372 3 -- not civil war link 
+CIVWARLINK-CER: MID3372 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3372 3 -- not coup 
+COUPMID-CER: MID3372 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3372 3 -- not coup link
+COUPLINK-CER: MID3372 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3371 
+
+TERRMID: MID3371 1 -- territorial MID
+TERRMID-CER: MID3371 1 -- certain 
+TERRMID-NOTES: MID3371 from Gibler 2018, Israel seized a French vessel that was consigned to Egypt and confiscated ammunition. Egypt claimed that the countries were at war at the time, although Israel had not declared war. From cm narrative, the high tensions and repeated clashes between these countries were due to Egypt denying Israel's right to exist, which involved Egypt disputing Israel's borders. Coded territorial MID because this was connected to Egypt disputing Israel's borders. 
+
+TERRLINK: MID3371 3 -- not third party link to territory 
+TERRLINK-CER: MID3371 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3371 1 -- maritime MID
+MARITMID-CER: MID3371 1 -- certain 
+MARITMID-NOTES: MID3371 Egypt was disputing all of Israel's borders, including Israel's maritime boundaries.
+
+ISLMID: MID3371 3 -- not islands 
+ISLMID-CER: MID3371 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3371 3 -- not civil war 
+CIVWARMID-CER: MID3371 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3371 3 -- not civil war link 
+CIVWARLINK-CER: MID3371 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3371 3 -- not coup 
+COUPMID-CER: MID3371 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3371 3 -- not coup link
+COUPLINK-CER: MID3371 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3374 
+
+TERRMID: MID3374 1 -- territorial MID
+TERRMID-CER: MID3374 1 -- certain 
+TERRMID-NOTES: MID3374 from Gibler 2018, in 1952-1954 Egypt and Israel had several border clashes and arrested each other's citizens near the border. Coded territorial MID beacuse Egypt disputed Israel's right to exist and disputed all of Israel's borders; per cm narrative, those issues were connected to this MID. 
+
+TERRLINK: MID3374 3 -- not third party link to territory 
+TERRLINK-CER: MID3374 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3374 1 -- maritime MID
+MARITMID-CER: MID3374 1 -- certain 
+MARITMID-NOTES: MID3374 Egypt disputed all of Israel's boundaries, including Israel's maritime boundaries. 
+
+ISLMID: MID3374 3 -- not islands 
+ISLMID-CER: MID3374 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3374 3 -- not civil war 
+CIVWARMID-CER: MID3374 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3374 3 -- not civil war link 
+CIVWARLINK-CER: MID3374 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3374 3 -- not coup 
+COUPMID-CER: MID3374 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3374 3 -- not coup link
+COUPLINK-CER: MID3374 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3373 
+
+TERRMID: MID3373 1 -- territorial MID
+TERRMID-CER: MID3373 1 -- certain 
+TERRMID-NOTES: MID3373 from Gibler 2018, Egypt pledged to work with Israel to try and resolve the Gaza dispute but went back on the pledge. Israel responded by attacking Egypt in Gaza, and a series of clashes occurred from 1952-1956. Coded territorial MID because this was connected to the dispute over Gaza. Per cm narrative, this was also connected to Egypt disputing Israel's right to exist; Egypt dropped this claim during this MID, but it was active at the beginning. 
+
+TERRLINK: MID3373 3 -- not third party link to territory 
+TERRLINK-CER: MID3373 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3373 1 -- maritime MID
+MARITMID-CER: MID3373 1 -- certain 
+MARITMID-NOTES: MID3373 at some points during this MID, Egypt disputed Israel's right to exist and hence all of Israel's bounadries, including their maritime boundaries. 
+
+ISLMID: MID3373 3 -- not islands 
+ISLMID-CER: MID3373 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3373 3 -- not civil war 
+CIVWARMID-CER: MID3373 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3373 3 -- not civil war link 
+CIVWARLINK-CER: MID3373 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3373 3 -- not coup 
+COUPMID-CER: MID3373 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3373 3 -- not coup link
+COUPLINK-CER: MID3373 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3429 
+
+TERRMID: MID3429 3 -- not territory 
+TERRMID-CER: MID3429 3 -- uncertain 
+TERRMID-NOTES: MID3429 from Gibler, Miller, and Little 2016, this MID occurs simultaneously with MID3405 and includes the same events: a series of border clashes between Israel and Egypt. The clashes were not connected to any territorial issues (see MID3405). Coded uncertain because GML recommend this case be dropped. 
+
+TERRLINK: MID3429 3 -- not third party link to territory 
+TERRLINK-CER: MID3429 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3429 3 -- not maritime 
+MARITMID-CER: MID3429 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3429 3 -- not islands 
+ISLMID-CER: MID3429 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3429 3 -- not civil war 
+CIVWARMID-CER: MID3429 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3429 3 -- not civil war link 
+CIVWARLINK-CER: MID3429 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3429 3 -- not coup 
+COUPMID-CER: MID3429 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3429 3 -- not coup link
+COUPLINK-CER: MID3429 1 -- certain 
+COUPLINK-NOTES: 
+
+MID200 
+
+TERRMID: MID200 1 -- territorial MID
+TERRMID-CER: MID200 1 -- certain 
+TERRMID-NOTES: MID200 from Gibler 2018, this is the Sinai War and the Suez Crisis. Egypt nationalized the Suez Canal, endangering Israel's trade. Israel and Egypt then clashed in the Sinai, which itself was being disputed. Fighting continued until 1956. This led Israel to give up its claim on Gaza in 1957. Coded terriorial MID because this was connected to the Sinai Peninsula, which was being disputed. 
+
+TERRLINK: MID200 3 -- not third party link to territory 
+TERRLINK-CER: MID200 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID200 1 -- maritime MID
+MARITMID-CER: MID200 1 -- certain 
+MARITMID-NOTES: MID200 this was connected to the Suez Canal. The countries involved in this MID against Egypt did not claim Suez for themselves, but they disputed Egypt's right to nationalize the canal and exercise complete sovereignty over it. Also, this MID involved the Sinai Peninsula, sovereignty over which had maritime boundary implications. Coded maritime MID because this was partly connected to a maritime border dispute. 
+
+ISLMID: MID200 3 -- not islands 
+ISLMID-CER: MID200 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID200 1 -- civil war MID
+CIVWARMID-CER: MID200 1 -- certain 
+CIVWARMID-NOTES: MID200 from cm narrative, this MID also involved Egypt beginning to sponsor militarized rebel groups (Fedayeen), who attacked Israel from Sinai. 
+
+CIVWARLINK: MID200 3 -- not civil war link 
+CIVWARLINK-CER: MID200 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID200 3 -- not coup 
+COUPMID-CER: MID200 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID200 3 -- not coup link
+COUPLINK-CER: MID200 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3405 
+
+TERRMID: MID3405 3 -- not territory 
+TERRMID-CER: MID3405 1 -- certain 
+TERRMID-NOTES: MID3405 from Gibler 2018, from 1955-1960 Israel had a series of clashes with Egypt, Jordan, and Syria. The clashes began between Israel and Syria. By this time, Egypt had stopped denying its claim that Israel had no right to exist (it had done so since the end of the Sinai conflict in MID200). This was connected to long-standing tensions between Egypt/Syria/Jordan and Israel, but neither Gibler 2018 nor cm narrative nor the numerous New York Times articles that cover these events (NYT 8/16/1954, 1/17/1955, 5/13/1955, 10/16/1955, 3/5/1956, 9/17/1956, 11/28/1956, 9/11/1957, 4/29/1957, 1/29/1958, 7/4/1958, 4/2/1959, 10/23/1959, 1/9/1959, 6/13/1960, 10/26/1960, 2/2/1960) mention that this was connected to any territorial issues. 
+
+TERRLINK: MID3405 3 -- not third party link to territory 
+TERRLINK-CER: MID3405 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3405 3 -- not maritime 
+MARITMID-CER: MID3405 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3405 3 -- not islands 
+ISLMID-CER: MID3405 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3405 3 -- not civil war 
+CIVWARMID-CER: MID3405 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3405 3 -- not civil war link 
+CIVWARLINK-CER: MID3405 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3405 3 -- not coup 
+COUPMID-CER: MID3405 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3405 3 -- not coup link
+COUPLINK-CER: MID3405 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3375 
+
+TERRMID: MID3375 3 -- not territory 
+TERRMID-CER: MID3375 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3375 3 -- not third party link to territory 
+TERRLINK-CER: MID3375 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3375 1 -- maritime MID
+MARITMID-CER: MID3375 1 -- certain 
+MARITMID-NOTES: MID3375 from Gibler 2018, in 1957 Israel threatened war if Egypt prevented Israeli ships from accessing the Gulf of Aqaba. Threats and clashes followed until 1961. Coded maritime MID because, although Israel was not claiming the waters in the Gulf of Aqaba as their own, they were disputing Egypt's right to prevent Israel from using the waters. 
+
+ISLMID: MID3375 3 -- not islands 
+ISLMID-CER: MID3375 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3375 3 -- not civil war 
+CIVWARMID-CER: MID3375 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3375 3 -- not civil war link 
+CIVWARLINK-CER: MID3375 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3375 3 -- not coup 
+COUPMID-CER: MID3375 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3375 3 -- not coup link
+COUPLINK-CER: MID3375 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3420 
+
+TERRMID: MID3420 1 -- territorial MID 
+TERRMID-CER: MID3420 3 -- uncertain 
+TERRMID-NOTES: Coded territorial MID because per cm narrative, this is one of several MIDs that take place in the period between the Sinai Campaign in 1956 and the Six Day War in 1967, and these MIDs are motivated by Egypt disputing/denying Israel's independence. This amounts to a dispute over all of Israel's territory. However, there is no indication in Gibler, Miller, and Little 2016 or news coverage of this MID that this was directly connected to the territorial issue, so this is coded uncertain for this reason as well. See MARITMID-NOTES. 
+
+TERRLINK: MID3420 3 -- not third party link to territory 
+TERRLINK-CER: MID3420 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3420 1 -- maritime MID
+MARITMID-CER: MID3420 3 -- uncertain 
+MARITMID-NOTES: MID3420 from Gibler, Miller, and Little 2016, this was originally coded as an Israeli seizure of Syria/Egypt/Jordan ships in 1958, but there is no evidence that this seizure occurred. GML therefore recommend this case be dropped, so coded uncertain. Coded maritime MID because per cm narrative, this is one of several MIDs that take place in the period between the Sinai Campaign in 1956 and the Six Day War in 1967, and these MIDs are motivated by Egypt disputing/denying Israel's independence. This amounts to a dispute over all of Israel's territory, including maritime boundaries. However, there is no indication in Gibler, Miller, and Little 2016 or news coverage of this MID that this was directly connected to the territorial issue, so the MID is coded uncertain for this reason as well. 
+
+ISLMID: MID3420 3 -- not islands 
+ISLMID-CER: MID3420 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3420 3 -- not civil war 
+CIVWARMID-CER: MID3420 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3420 3 -- not civil war link 
+CIVWARLINK-CER: MID3420 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3420 3 -- not coup 
+COUPMID-CER: MID3420 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3420 3 -- not coup link
+COUPLINK-CER: MID3420 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3419 
+
+TERRMID: MID3419 3 -- not territory 
+TERRMID-CER: MID3419 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3419 3 -- not third party link to territory 
+TERRLINK-CER: MID3419 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3419 1 -- maritime MID
+MARITMID-CER: MID3419 1 -- certain 
+MARITMID-NOTES: MID3419 from Gibler 2018, Israel claimed the waters in the Sea of Galilee as within their territorial waters, but Egypt and Syria disputed that. Syrian fishermen continued to fish in the waters, often provoking clashes between Israel and Syria. At this time, Syria and Egypt were both members of the United Arab Republic, pulling Egypt into this MID although the clashes were between Israeli and Syrian jets. Coded maritime MID because this was connected to a dispute over the sea of Galilee, and Egypt as part of UAR is directly involved. 
+
+ISLMID: MID3419 3 -- not islands 
+ISLMID-CER: MID3419 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3419 3 -- not civil war 
+CIVWARMID-CER: MID3419 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3419 3 -- not civil war link 
+CIVWARLINK-CER: MID3419 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3419 3 -- not coup 
+COUPMID-CER: MID3419 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3419 3 -- not coup link
+COUPLINK-CER: MID3419 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3421 
+
+TERRMID: MID3421 1 -- territorial MID
+TERRMID-CER: MID3421 1 -- certain 
+TERRMID-NOTES: MID3421 coded territorial MID because this was connected to Egypt denying Israel's right to exist and therefore disputing all of Israel's borders. This MID is confined to maritime incidents, but the maritime issue is connected to the larger issue of not recognizing Israel, which is a territorial dispute. See MARITMID-NOTES. 
+
+TERRLINK: MID3421 3 -- not third party link to territory 
+TERRLINK-CER: MID3421 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3421 1 -- maritime MID
+MARITMID-CER: MID3421 1 -- certain 
+MARITMID-NOTES: MID3421 from Gibler 2018, Israel seized an Egyptian ship that entered Israeli waters in 1959. From New York Times 5/25/1959, Israel claimed the ship had entered its 6-mile territorial water limit. Coded not maritime because Egypt at this time disputed the entirety of Israel's borders, and by extension they denied Israel's maritime boundaries. 
+
+ISLMID: MID3421 3 -- not islands 
+ISLMID-CER: MID3421 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3421 3 -- not civil war 
+CIVWARMID-CER: MID3421 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3421 3 -- not civil war link 
+CIVWARLINK-CER: MID3421 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3421 3 -- not coup 
+COUPMID-CER: MID3421 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3421 3 -- not coup link
+COUPLINK-CER: MID3421 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3430 
+
+TERRMID: MID3430 1 -- territorial MID
+TERRMID-CER: MID3430 1 -- certain 
+TERRMID-NOTES: MID3430 from Gibler 2018, Egypt and Israel engaged in air clashes over the disputed Sinai peninsula, and Egypt deployed troops to the disputed border. Coded territorial MID because this was connected to the disputed Sinai border. 
+
+TERRLINK: MID3430 3 -- not third party link to territory 
+TERRLINK-CER: MID3430 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3430 1 -- maritime MID
+MARITMID-CER: MID3430 1 -- certain 
+MARITMID-NOTES: MID3430 this MID also involved Egypt threatening to blockade Israel by shutting off access to the Suez Canal, prompting clashes. Coded maritime MID because this was connected to Israel disputing Egypt's right to deny them access to the Suez Canal, an important maritime passage for Israeli trade. 
+
+ISLMID: MID3430 3 -- not islands 
+ISLMID-CER: MID3430 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3430 3 -- not civil war 
+CIVWARMID-CER: MID3430 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3430 3 -- not civil war link 
+CIVWARLINK-CER: MID3430 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3430 3 -- not coup 
+COUPMID-CER: MID3430 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3430 3 -- not coup link
+COUPLINK-CER: MID3430 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3422 
+
+TERRMID: MID3422 3 -- not territory 
+TERRMID-CER: MID3422 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3422 3 -- not third party link to territory 
+TERRLINK-CER: MID3422 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3422 1 -- maritime MID
+MARITMID-CER: MID3422 1 -- certain 
+MARITMID-NOTES: MID3422 from Gibler 2018, Israel and Egypt clashed after Egypt threatened to ban Israeli ships from entering the Suez Canal (also from Baltimore Sun 7/30/1960). Coded maritime MID because although Israel did not claim sovereignty over the Suez, it disputed Egypt's right to control Israel's passage through the Suez Canal, which was important for ISrael's trade. 
+
+ISLMID: MID3422 3 -- not islands 
+ISLMID-CER: MID3422 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3422 3 -- not civil war 
+CIVWARMID-CER: MID3422 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3422 3 -- not civil war link 
+CIVWARLINK-CER: MID3422 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3422 3 -- not coup 
+COUPMID-CER: MID3422 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3422 3 -- not coup link
+COUPLINK-CER: MID3422 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3406 
+
+TERRMID: MID3406 1 -- territorial MID
+TERRMID-CER: MID3406 1 -- certain 
+TERRMID-NOTES: MID3406 from Gibler 2018, in 1961 Israel claimed Egypt violated their airspace over the disputed Sinai and downed an Egyptian plane. Coded territorial MID because this was connected to the dispute over Sinai. 
+
+TERRLINK: MID3406 3 -- not third party link to territory 
+TERRLINK-CER: MID3406 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3406 3 -- not maritime 
+MARITMID-CER: MID3406 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3406 3 -- not islands 
+ISLMID-CER: MID3406 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3406 3 -- not civil war 
+CIVWARMID-CER: MID3406 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3406 3 -- not civil war link 
+CIVWARLINK-CER: MID3406 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3406 3 -- not coup 
+COUPMID-CER: MID3406 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3406 3 -- not coup link
+COUPLINK-CER: MID3406 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3431 
+
+TERRMID: MID3431 3 -- not territory 
+TERRMID-CER: MID3431 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3431 3 -- not third party link to territory 
+TERRLINK-CER: MID3431 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3431 1 -- maritime MID
+MARITMID-CER: MID3431 3 -- uncertain 
+MARITMID-NOTES: MID3431 from Gibler, Miller, and Little 2016, this MID should be merged with MID3419 as both describe the same event. See MID3419: a dispute over the Sea of Galilee led Israel to seize Egyptian ships. Coded uncertain because GML recommend this case be dropped. 
+
+ISLMID: MID3431 3 -- not islands 
+ISLMID-CER: MID3431 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3431 3 -- not civil war 
+CIVWARMID-CER: MID3431 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3431 3 -- not civil war link 
+CIVWARLINK-CER: MID3431 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3431 3 -- not coup 
+COUPMID-CER: MID3431 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3431 3 -- not coup link
+COUPLINK-CER: MID3431 1 -- certain 
+COUPLINK-NOTES: 
+
+	
+
+MID3376 
+
+TERRMID: MID3376 3 -- not territory 
+TERRMID-CER: MID3376 3 -- uncertain 
+TERRMID-NOTES: MID3376 from Gibler, Miller, and Little 2016, Israel and Egypt accused each other of kidnapping a rocket expert who supposedly was in the process of reaching a deal with the Israeli government. Israel stated it could not refrain from taking action if Egypt continued this type of action, but GML recommend this case be dropped since this does not constitute a threat, so coded uncertain. Coded not territory because this was not connected to a territorial dispute. 
+
+TERRLINK: MID3376 3 -- not third party link to territory 
+TERRLINK-CER: MID3376 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3376 3 -- not maritime 
+MARITMID-CER: MID3376 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3376 3 -- not islands 
+ISLMID-CER: MID3376 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3376 3 -- not civil war 
+CIVWARMID-CER: MID3376 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3376 3 -- not civil war link 
+CIVWARLINK-CER: MID3376 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3376 3 -- not coup 
+COUPMID-CER: MID3376 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3376 3 -- not coup link
+COUPLINK-CER: MID3376 1 -- certain 
+COUPLINK-NOTES: 
+
+	
+
+MID3377 
+
+TERRMID: MID3377 1 -- territorial MID
+TERRMID-CER: MID3377 1 -- certain 
+TERRMID-NOTES: MID3377 from Gibler 2018, Israeli and Egyptian jets clashed over the demilitarized zone over the disputed Sinai Peninsula. Coded territorial MID because this was connected to the dispute over Sinai. 
+
+TERRLINK: MID3377 3 -- not third party link to territory 
+TERRLINK-CER: MID3377 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3377 3 -- not maritime 
+MARITMID-CER: MID3377 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3377 3 -- not islands 
+ISLMID-CER: MID3377 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3377 3 -- not civil war 
+CIVWARMID-CER: MID3377 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3377 3 -- not civil war link 
+CIVWARLINK-CER: MID3377 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3377 3 -- not coup 
+COUPMID-CER: MID3377 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3377 3 -- not coup link
+COUPLINK-CER: MID3377 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3378 
+
+TERRMID: MID3378 1 -- territorial MID
+TERRMID-CER: MID3378 1 -- certain 
+TERRMID-NOTES: MID3378 from Gibler 2018, in 1964 Egypt fired on two Israeli planes and downed one. Egypt claimed the planes were on reconnaissance flights, but Israel denied this. Coded territorial MID because per cm narrative, this was connected to the long-running dispute centered on Egypt's denial of Israeli sovereignty. This was one of several MIDs between the Sinai Campaign in 1956 and the Six Day War in 1967 that were motivated by this issue. 
+
+TERRLINK: MID3378 3 -- not third party link to territory 
+TERRLINK-CER: MID3378 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3378 1 -- maritime MID
+MARITMID-CER: MID3378 1 -- certain 
+MARITMID-NOTES: MID3378 this MID involved a dispute between Egypt and Israel over Egypt's denial of Israeli sovereignty over their territory. This also had maritime boundary implications in the territorial waters around Israel. 
+
+ISLMID: MID3378 3 -- not islands 
+ISLMID-CER: MID3378 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3378 3 -- not civil war 
+CIVWARMID-CER: MID3378 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3378 3 -- not civil war link 
+CIVWARLINK-CER: MID3378 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3378 3 -- not coup 
+COUPMID-CER: MID3378 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3378 3 -- not coup link
+COUPLINK-CER: MID3378 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3379 
+
+TERRMID: MID3379 3 -- not territory 
+TERRMID-CER: MID3379 1 -- certain 
+TERRMID-NOTES: MID3379 from Gibler 2018, in 1966 Egypt threatened Israel with force should Israel develop nuclear weapons. Coded not territory because this was not connected to the territorial dispute. 
+
+TERRLINK: MID3379 3 -- not third party link to territory 
+TERRLINK-CER: MID3379 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3379 3 -- not maritime 
+MARITMID-CER: MID3379 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3379 3 -- not islands 
+ISLMID-CER: MID3379 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3379 3 -- not civil war 
+CIVWARMID-CER: MID3379 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3379 3 -- not civil war link 
+CIVWARLINK-CER: MID3379 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3379 3 -- not coup 
+COUPMID-CER: MID3379 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3379 3 -- not coup link
+COUPLINK-CER: MID3379 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3412 
+
+TERRMID: MID3412 3 -- not territory 
+TERRMID-CER: MID3412 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3412 1 -- third party link to territorial MID
+TERRLINK-CER: MID3412 1 -- certain 
+TERRLINK-NOTES: MID3412 from Gibler 2018, in 1966 Israel clashed with Syrian forces. Egypt became involved by sending planes to Syria, and Jordan became involved by pledging to strengthen their border against Israel. Coded third party link to territorial MID because per 652666 cm narrative, Syria refused to ratify its borders with Israel because they did not recognize Israel, and the tensions over this issue contributed to this MID. 
+
+MARITMID: MID3412 3 -- not maritime 
+MARITMID-CER: MID3412 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3412 3 -- not islands 
+ISLMID-CER: MID3412 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3412 3 -- not civil war 
+CIVWARMID-CER: MID3412 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3412 3 -- not civil war link 
+CIVWARLINK-CER: MID3412 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3412 3 -- not coup 
+COUPMID-CER: MID3412 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3412 3 -- not coup link
+COUPLINK-CER: MID3412 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3230 
+
+TERRMID: MID3230 1 -- territorial MID
+TERRMID-CER: MID3230 1 -- certain 
+TERRMID-NOTES: MID3230 from Gibler 2018, in 1956-1959, Israel and Jordan were disputing the Gaza Strip. Jordan accused Israel of ammassing troops on their border and warned of force if the UN did not ensure Israel's withdrawal from Gaza. Egypt is also pulled into this MID because they used Jordanian territory to launch raids into Israel, over the latter's occupation of Sinai Peninsula. Coded territorial MID because this was connected to a territorial dispute between Israel and Egypt in the Sinai. 
+
+TERRLINK: MID3230 1 -- third party link to territorial MID
+TERRLINK-CER: MID3230 1 -- certain 
+TERRLINK-NOTES: MID3230 from Gibler 2018, this MID also involved Israel occupying the Gaza Strip and Jordan disputing their claim on Gaza. Coded third party link to territorial MID because this was connected to a territorial dispute between Israel and Jordan. 
+
+MARITMID: MID3230 1 -- maritime MID
+MARITMID-CER: MID3230 1 -- certain 
+MARITMID-NOTES: MID3230 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID3230 3 -- not islands 
+ISLMID-CER: MID3230 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3230 3 -- not civil war 
+CIVWARMID-CER: MID3230 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3230 3 -- not civil war link 
+CIVWARLINK-CER: MID3230 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3230 3 -- not coup 
+COUPMID-CER: MID3230 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3230 3 -- not coup link
+COUPLINK-CER: MID3230 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1035
+
+TERRMID: MID1035 1 -- territorial MID
+TERRMID-CER: MID1035 1 -- certain 
+TERRMID-NOTES: MID1035 from Gibler 2018, this is the 6-day War between Israel and Iraq, Egypt, Syria, Jordan, Saudi Arabia, and Kuwait. In 1967, Israel attacked Egypt, having already attacked Jordan the year before and expecting that other Arab countries would soon attack Israel. Israel handily defeated the Arab states and took control of territory in Sinai, Golan Heights, and elsewhere. Coded territorial MID because this is connected to a dispute over Israel's boundaries in the Sinai at this time, which Israel was occupying. 
+
+TERRLINK: MID1035 1 -- third party link to territorial MID
+TERRLINK-CER: MID1035 1 -- certain
+TERRLINK-NOTES: MID1035 in this dyad, the TERRMID is between Egypt and Israel, but this MID also involves a territorial MID between Syria and Israel in the Golan Heights, outside this dyad. 
+
+MARITMID: MID1035 1 -- maritime MID
+MARITMID-CER: MID1035 1 -- certain
+MARITMID-NOTES: MID1035 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID1035 3 -- not islands 
+ISLMID-CER: MID1035 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1035 3 -- not civil war 
+CIVWARMID-CER: MID1035 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1035 3 -- not civil war link
+CIVWARLINK-CER: MID1035 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1035 3 -- not coup 
+COUPMID-CER: MID1035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1035 3 -- not coup link
+COUPLINK-CER: MID1035 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1480 
+
+TERRMID: MID1480 1 -- territorial MID
+TERRMID-CER: MID1480 1 -- certain 
+TERRMID-NOTES: MID1480 from Gibler 2018, after the Six Day war, Egypt wanted to regain control of the Sinai Peninsula and maintained a constant military presence over the disputed boundary, which Israel matched. Clashes erupted in 1967-1970 over the Sinai. Coded territorial MID because this was connected to the disputed Sinai border. 
+
+TERRLINK: MID1480 3 -- not third party link to territory 
+TERRLINK-CER: MID1480 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1480 1 -- maritime MID
+MARITMID-CER: MID1480 1 -- certain 
+MARITMID-NOTES: MID1480 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID1480 3 -- not islands 
+ISLMID-CER: MID1480 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1480 3 -- not civil war 
+CIVWARMID-CER: MID1480 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1480 3 -- not civil war link 
+CIVWARLINK-CER: MID1480 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1480 3 -- not coup 
+COUPMID-CER: MID1480 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1480 3 -- not coup link
+COUPLINK-CER: MID1480 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3387 
+
+TERRMID: MID3387 1 -- territorial MID
+TERRMID-CER: MID3387 1 -- certain 
+TERRMID-NOTES: MID3387 from Gibler 2018, a cease-fire was negotiated in 1970 but it was immediately violated when Egypt began installing weaponry on the Sinai Peninsula. Coded territorial MID because this was connected to the disputed border on Sinai. 
+
+TERRLINK: MID3387 3 -- not third party link to territory 
+TERRLINK-CER: MID3387 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3387 1 -- maritime MID
+MARITMID-CER: MID3387 1 -- certain 
+MARITMID-NOTES: MID3387 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID3387 3 -- not islands 
+ISLMID-CER: MID3387 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3387 3 -- not civil war 
+CIVWARMID-CER: MID3387 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3387 3 -- not civil war link 
+CIVWARLINK-CER: MID3387 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3387 3 -- not coup 
+COUPMID-CER: MID3387 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3387 3 -- not coup link
+COUPLINK-CER: MID3387 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1046
+
+TERRMID: MID1046 1 -- territorial MID
+TERRMID-CER: MID1046 1 -- certain 
+TERRMID-NOTES: MID1046 from Gibler 2018, this dispute between Israel and Egypt, Iraq, Syria, Jordan, and Saudi Arabia occurred in 1971-1973. Israel was occupying the Sinai peninsula of Egypt. The Arab countries attacked Israel on Yom Kippur, but Israel was militarily superior. Israel occupied the Golan Heights of Lebanon and claimed it as a strategically valuable piece of territory. The fighting ceased by May 1974. Coded territorial MID because this is connected to a territorial dispute over the Sinai Peninsula, within this dyad. 
+
+TERRLINK: MID1046 1 -- third party link to territorial MID
+TERRLINK-CER: MID1046 1 -- certain
+TERRLINK-NOTES: MID1046 this MID also involved a dispute over the Golan Heights, outside this dyad. 
+
+MARITMID: MID1046 1 -- maritime MID
+MARITMID-CER: MID1046 1 -- certain
+MARITMID-NOTES: MID1046 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID1046 3 -- not islands 
+ISLMID-CER: MID1046 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1046 3 -- not civil war 
+CIVWARMID-CER: MID1046 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1046 3 -- not civil war link
+CIVWARLINK-CER: MID1046 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1046 3 -- not coup 
+COUPMID-CER: MID1046 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1046 3 -- not coup link
+COUPLINK-CER: MID1046 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3380 
+
+TERRMID: MID3380 1 -- territorial MID
+TERRMID-CER: MID3380 1 -- certain 
+TERRMID-NOTES: MID3380 from Gibler 2018, in 1973-1975 Israel and Egypt again clashed over the Sinai, with several ground and air skirmishes. Coded territorial MID because this was connected to a disputed over the Sinai Peninsula. 
+
+TERRLINK: MID3380 3 -- not third party link to territory 
+TERRLINK-CER: MID3380 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3380 1 -- maritime MID
+MARITMID-CER: MID3380 1 -- certain 
+MARITMID-NOTES: MID3380 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID3380 3 -- not islands 
+ISLMID-CER: MID3380 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3380 3 -- not civil war 
+CIVWARMID-CER: MID3380 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3380 3 -- not civil war link 
+CIVWARLINK-CER: MID3380 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3380 3 -- not coup 
+COUPMID-CER: MID3380 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3380 3 -- not coup link
+COUPLINK-CER: MID3380 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1061 
+
+TERRMID: MID1061 3 -- not territory 
+TERRMID-CER: MID1061 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1061 3 -- not third party link to territory 
+TERRLINK-CER: MID1061 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1061 3 -- not maritime 
+MARITMID-CER: MID1061 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1061 3 -- not islands 
+ISLMID-CER: MID1061 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1061 3 -- not civil war 
+CIVWARMID-CER: MID1061 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1061 1 -- civil war link 
+CIVWARLINK-CER: MID1061 1 -- certain 
+CIVWARLINK-NOTES: MID1061 from Gibler 2018, in 1974-1976 Israel raided several Lebanese villages in response to militarized rebels from Lebanon crossing into Israel and massacring civilians. Egypt threatened to use force against Israel if they did not cease their raids in to Lebanon. Coded civil war link because this was connected to militarized rebels in Lebanon, outside this dyad. 
+
+COUPMID: MID1061 3 -- not coup 
+COUPMID-CER: MID1061 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1061 3 -- not coup link
+COUPLINK-CER: MID1061 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3381 
+
+TERRMID: MID3381 3 -- not territory 
+TERRMID-CER: MID3381 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3381 3 -- not third party link to territory 
+TERRLINK-CER: MID3381 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3381 3 -- not maritime 
+MARITMID-CER: MID3381 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3381 3 -- not islands 
+ISLMID-CER: MID3381 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3381 3 -- not civil war 
+CIVWARMID-CER: MID3381 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3381 1 -- civil war link 
+CIVWARLINK-CER: MID3381 1 -- certain 
+CIVWARLINK-NOTES: MID3381 from Gibler 2018, in 1975 Egypt expected Israel to get involved in Lebanon's civil war, warned Israel against doing so,and threatened to intervene if they did. Coded civil war link because this is connected to the civil war in Lebanon, outside this dyad. 
+
+COUPMID: MID3381 3 -- not coup 
+COUPMID-CER: MID3381 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3381 3 -- not coup link
+COUPLINK-CER: MID3381 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3382 
+
+TERRMID: MID3382 3 -- not territory 
+TERRMID-CER: MID3382 3 -- uncertain 
+TERRMID-NOTES: MID3382 from Gibler 2018, in 1977 Anwar Saddat was preparing a visit to negotiate peace with Israel. Israel anticipated attacks from Syria or Lebanon and put their forces on alert. Coded not territory because this was not connected to a disputed boundary. Coded uncertain because Gibler 2018 argues that Syria, not Egypt, should be the target in this MID, and Egypt should not be a participant. 
+
+TERRLINK: MID3382 3 -- not third party link to territory 
+TERRLINK-CER: MID3382 1 -- certain 
+TERRLINK-NOTES: MID3382 no indication in cm narrative, Gibler 2018, or news coverage of this MID that this involved the dispute over the Golan Heights (Israel-Syria). 
+
+MARITMID: MID3382 3 -- not maritime 
+MARITMID-CER: MID3382 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3382 3 -- not islands 
+ISLMID-CER: MID3382 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3382 3 -- not civil war 
+CIVWARMID-CER: MID3382 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3382 3 -- not civil war link 
+CIVWARLINK-CER: MID3382 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3382 3 -- not coup 
+COUPMID-CER: MID3382 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3382 3 -- not coup link
+COUPLINK-CER: MID3382 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3383 
+
+TERRMID: MID3383 1 -- territorial MID
+TERRMID-CER: MID3383 1 -- certain 
+TERRMID-NOTES: MID3383 from Gibler 2018, Egypt protested that an Israeli plane flew over the disputed Sinai Peninsula, and Israel did not deny this. Coded territorial MID because this was connected to the disputed border in the Sinai. 
+
+TERRLINK: MID3383 3 -- not third party link to territory 
+TERRLINK-CER: MID3383 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3383 1 -- maritime MID
+MARITMID-CER: MID3383 1 -- certain 
+MARITMID-NOTES: MID3383 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID3383 3 -- not islands 
+ISLMID-CER: MID3383 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3383 3 -- not civil war 
+CIVWARMID-CER: MID3383 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3383 3 -- not civil war link 
+CIVWARLINK-CER: MID3383 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3383 3 -- not coup 
+COUPMID-CER: MID3383 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3383 3 -- not coup link
+COUPLINK-CER: MID3383 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3384 
+
+TERRMID: MID3384 1 -- territorial MID
+TERRMID-CER: MID3384 1 -- certain 
+TERRMID-NOTES: MID3384 from Gibler 2018, Israel and Egypt were in the process of finializing an agreement over the Sinai. Israel protested when several Egyptians entered the neutral territory. Egypt apologized, and the tensions did not escalate. Coded territorial MID because this was connected to the disputed Sinai. 
+
+TERRLINK: MID3384 3 -- not third party link to territory 
+TERRLINK-CER: MID3384 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3384 1 -- maritime MID
+MARITMID-CER: MID3384 1 -- certain 
+MARITMID-NOTES: MID3384 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID3384 3 -- not islands 
+ISLMID-CER: MID3384 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3384 3 -- not civil war 
+CIVWARMID-CER: MID3384 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3384 3 -- not civil war link 
+CIVWARLINK-CER: MID3384 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3384 3 -- not coup 
+COUPMID-CER: MID3384 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3384 3 -- not coup link
+COUPLINK-CER: MID3384 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3915 
+
+TERRMID: MID3915 3 -- not territory 
+TERRMID-CER: MID3915 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3915 3 -- not third party link to territory 
+TERRLINK-CER: MID3915 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3915 3 -- not maritime 
+MARITMID-CER: MID3915 1 -- certain 
+MARITMID-NOTES: MID3915 from Gibler 2018, an Israeli fishing vessel entered Egyptian territorial waters and Egypt fired warning shots. Coded not maritime because they were not disputing a maritime boundary. This occurred after the Sinai agreement was reached. 
+
+ISLMID: MID3915 3 -- not islands 
+ISLMID-CER: MID3915 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3915 3 -- not civil war 
+CIVWARMID-CER: MID3915 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3915 3 -- not civil war link 
+CIVWARLINK-CER: MID3915 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3915 3 -- not coup 
+COUPMID-CER: MID3915 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3915 3 -- not coup link
+COUPLINK-CER: MID3915 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4526 
+
+TERRMID: MID4526 3 -- not territory 
+TERRMID-CER: MID4526 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4526 3 -- not third party link to territory 
+TERRLINK-CER: MID4526 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4526 3 -- not maritime 
+MARITMID-CER: MID4526 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4526 3 -- not islands 
+ISLMID-CER: MID4526 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4526 1 -- civil war 
+CIVWARMID-CER: MID4526 1 -- certain 
+CIVWARMID-NOTES: MID4526 from Gibler 2018, Israel fired on Egyptian soldiers, mistaking them for Palestinian militants. Israel apologized. Coded civil war MID because this was connected to militarized rebels in Israel. Although there were not actually rebels involved, the presence of rebels targeting Israel led Israel to believe the Egyptian soldiers were rebels.
+
+CIVWARLINK: MID4526 3 -- not civil war link 
+CIVWARLINK-CER: MID4526 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4526 3 -- not coup 
+COUPMID-CER: MID4526 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4526 3 -- not coup link
+COUPLINK-CER: MID4526 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4531 
+
+TERRMID: MID4531 3 -- not territory 
+TERRMID-CER: MID4531 1 -- certain 
+TERRMID-NOTES: MID4531 from Gibler 2018 and cm narrative, in 2006 Egyptian soldiers crossed into Israel and engaged Israeli soldiers. It is unclear why the soldiers crossed into Israel. Coded not territory because they were not disputing a border. 
+
+TERRLINK: MID4531 3 -- not third party link to territory 
+TERRLINK-CER: MID4531 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4531 3 -- not maritime 
+MARITMID-CER: MID4531 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4531 3 -- not islands 
+ISLMID-CER: MID4531 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4531 3 -- not civil war 
+CIVWARMID-CER: MID4531 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4531 3 -- not civil war link 
+CIVWARLINK-CER: MID4531 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4531 3 -- not coup 
+COUPMID-CER: MID4531 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4531 3 -- not coup link
+COUPLINK-CER: MID4531 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4544 
+
+TERRMID: MID4544 3 -- not territory 
+TERRMID-CER: MID4544 1 -- certain 
+TERRMID-NOTES: MID4544 from Gibler 2018, in 2009 Israeli soldiers shot an Egyptian policemen who they said was acting suspiciously. Coded not territory because they were not disputing a border.
+
+TERRLINK: MID4544 3 -- not third party link to territory 
+TERRLINK-CER: MID4544 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4544 3 -- not maritime 
+MARITMID-CER: MID4544 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4544 3 -- not islands 
+ISLMID-CER: MID4544 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4544 3 -- not civil war 
+CIVWARMID-CER: MID4544 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4544 3 -- not civil war link 
+CIVWARLINK-CER: MID4544 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4544 3 -- not coup 
+COUPMID-CER: MID4544 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4544 3 -- not coup link
+COUPLINK-CER: MID4544 1 -- certain 
+COUPLINK-NOTES: 
+
+MID353
+
+TERRMID: MID353 1 -- territorial MID 
+TERRMID-CER: MID353 1 -- certain 
+TERRMID-NOTES: MID353 from Gibler 2018, this was connected to the Yom Kippur War. In 1973, as fighting was ongoing, the US and USSR (backing Israel and Egypt, respectively) issued threats to the fighting parties, pulling them into this MID. Coded territorial MID because this was the Yom Kippur War, a territorial MID. Egypt was attempting to take back territory in the Sinai. 
+
+TERRLINK: MID353 1 -- third party link to territorial MID
+TERRLINK-CER: MID353 1 -- certain
+TERRLINK-NOTES: MID353 the Yom Kippur War also involved a territorial dispute between Syria and Israel (outside this dyad) in the Golan. 
+
+MARITMID: MID353 1 -- maritime MID
+MARITMID-CER: MID353 1 -- certain
+MARITMID-NOTES: MID353 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. 
+
+ISLMID: MID353 3 -- not islands 
+ISLMID-CER: MID353 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID353 3 -- not civil war 
+CIVWARMID-CER: MID353 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID353 3 -- not civil war link
+CIVWARLINK-CER: MID353 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID353 3 -- not coup 
+COUPMID-CER: MID353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID353 3 -- not coup link
+COUPLINK-CER: MID353 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3385
+
+TERRMID: MID3385 1 -- territorial MID
+TERRMID-CER: MID3385 3 -- uncertain 
+TERRMID-NOTES: MID3385 from Gibler, Miller, and Little 2016, this MID is an extension of MID3384. From Gibler 2018, Israel and Egypt were in the process of finalizing an agreement over the Sinai. Israel protested when several Egyptians entered the neutral territory. Egypt apologized, and the tensions did not escalate. Coded territorial MID because this was connected to the disputed Sinai. Coded uncertain because GML recommend this case be dropped due to temporal overlap with MID3384. 
+
+TERRLINK: MID3385 3 -- not third party link to territory 
+TERRLINK-CER: MID3385 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3385 1 -- maritime MID
+MARITMID-CER: MID3385 3 -- uncertain
+MARITMID-NOTES: MID3385 coded maritime MID because the dispute over the Sinai Peninsula had maritime boundary implications at the Suez. Coded uncertain because GML recommend this case be dropped due to temporal overlap with MID3384. 
+
+ISLMID: MID3385 3 -- not islands 
+ISLMID-CER: MID3385 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3385 3 -- not civil war 
+CIVWARMID-CER: MID3385 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3385 3 -- not civil war link
+CIVWARLINK-CER: MID3385 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3385 3 -- not coup 
+COUPMID-CER: MID3385 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3385 3 -- not coup link
+COUPLINK-CER: MID3385 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4526
+rivalry=651666 nationa=ISRAEL nationb=EGYPT MID4526 20041117-20041117 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+An Israeli tank killed three Egyptian soldiers on the border after mistaking them for Palestinian militants. First day of dispute was on 11/17/2004 and last day of dispute was on 11/17/2004.
+
+MID4531
+rivalry=651666 nationa=EGYPT nationb=ISRAEL MID4531 20060602-20060602 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=2 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+Three Egyptian security officers crossed into Israel. They exchanged fire with an Israeli military post for unknown reasons. Two of the Egyptians were killed. Each side accused the other of firing first. First day of dispute was on 6/2/2006 and last day of dispute was on 6/2/2006.
+
+MID4544
+rivalry=651666 nationa=ISRAEL nationb=EGYPT MID4544 20090817-20090817 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Israeli soldiers shot and wounded and Egyptian policeman on the border after he acted in a suspicious manner. First day of dispute was on 8/17/2009 and last day of dispute was on 8/17/2009.
+
+NARRATIVE-CM:
+The *United Nations *(UN) General Assembly approved a resolution on November 29, 1947, which recommended that Palestine be partitioned into a Jewish state and an Arab state. The *United Nations Special Committee on Palestine* (UNSCOP), which was established by the UN General Assembly in May 1947, had recommended the partition of Palestine. Egypt opposed the partition of Palestine. The UN Security Council authorized the establishment of a UN truce commission (Belgium, France, United States) on April 23, 1948 to prevent military hostilities following Britain's planned withdrawal from Palestine on May 14, 1948. The UN General Assembly authorized the appointment of a UN mediator, and Count Folke Bernadotte of Sweden was appointed to the position on May 14, 1948. Egyptian troops invaded Israel on May 15, 1948 following the declaration of the establishment of the state of Israel on the previous day. The UN Security Council appealed for a ceasefire on May 22 and May 29, 1948. The parties agreed to a cessation of military hostilities on June 11, 1948. The UN Security Council established the *United Nations Truce Supervision Organization-Observer Group Egypt* (UNTSO-OGE) consisting of 572 personnel from 20 countries on May 29, 1948. Egyptian troops and Israeli troops resumed military hostilities on July 8, 1948. The UN Security Council demanded a ceasefire on July 15, 1948. The parties agreed to a cessation of military hostilities on July 18, 1948. Count Folke Bernadotte was assassinated by a Jewish terrorist on September 17, 1948, and Ralph Bunche of the US was appointed as UN mediator. Israeli troops resumed its military offensive against Egyptian troops in the Negev region on October 14-15, 1948. Israeli troops captured Beersheba on October 21, 1948. Egypt and Israel agreed to a cessation of military hostilities on October 22, 1948. On November 4, 1948, the UN Security Council appealed for the withdrawal of Israeli and Egyptian troops to positions held prior to the recent military hostilities. Israeli troops resumed attacks against Egyptian targets in the Negev region on December 23, 1948. The UN General Assembly established a conciliation commission (France, Turkey, US) on December 11, 1948. The UN Security Council demanded a ceasefire on December 29, 1948. Egypt and Israel agreed to ceasefire negotiations on January 6, 1949, and Egypt and Israel signed a ceasefire agreement mediated by Ralph Bunche on February 24, 1949. Some 4,074 Israeli soldiers, 2,000 Israeli civilians, and 1,500 Egyptian soldiers were killed during the conflict. Some 700,000 Palestinians fled as refugees from Israel during the conflict. Ralph Bunche end his mediation efforts on August 11, 1949. The UN conciliation commission hosted negotiations between Israeli and Arab representatives in Paris from September 13 to November 21, 1951, but the talks ended without an agreement. Israeli troops attacked an Egyptian army base in the Gaza Strip on February 28, 1955, resulting in the deaths of 39 individuals. Egypt referred the matter to the UN Security Council and the *League of Arab States *(LAS) on March 20, 1955. The UN Security Council condemned the Israeli attack against Egypt on March 29, 1955. Egypt and Israel resumed military hostilities in the Gaza Strip on August 22, 1955. Czechoslovakia agreed to provide military assistance (weapons) to Egypt on September 27, 1955. Egyptian troops attacked an Israeli police station in the El Auja area on October 26-27, 1955, resulting in the death of one Israeli. Israeli troops attacked Egyptian targets near Kuntilla in the Sinai peninsula on October 28, 1955, resulting in the deaths of ten Egyptians. Some 360 Israeli soldiers and civilians were killed between 1949 and 1955. The US announced a suspension of arms shipments to Israel and Arab countries on February 17, 1956. Israeli troops attacked targets in Egypt on April 5, 1956, resulting in the deaths of 59 individuals. The UN secretary-general mediated a ceasefire between Egypt and Israel that went into effect on April 18, 1956. France agreed to provide military assistance (jet fighters) to Israel on May 12, 1956. Poland agreed to provide military assistance (weapons) to Egypt on May 20, 1956. President Gamal Abdal Nasser of Egypt nationalized the Suez Canal on July 26, 1956 following the United States announcement on July 19, 1956 that it would not fund the construction of the Aswan High Dam project on the Nile River. The UN Security Council discussed the dispute from September 23 to October 13, 1956, when the Soviet Union vetoed a resolution. Israeli troops invaded the Gaza Strip and Sinai Peninsula on October 29, 1956. France and Britain issued a 12-hour ultimatum to Israel and Egypt on October 30, 1956 to cease hostilities, although France and Britain vetoed several UN Security Council resolutions requesting a withdrawal of Israeli troops from Egypt. Following Egypt's rejection of the ultimatum, French and British troops intervened militarily on November 5, 1956. The UN General Assembly appealed for a ceasefire and the withdrawal of foreign troops from Egypt on November 2, 1956. The UN General Assembly established the *United Nations Emergency Force* (UNEF I) on November 5, 1956 to "secure and supervise the cessation of hostilities, including the withdrawal of the armed forces of France, Israel, and the United Kingdom from Egyptian territory." The UN General Assembly appealed for the withdrawal of foreign troops from Egypt on November 5, 1956. The parties agreed to a cessation of military hostilities on November 8, 1956. Some 1,000 Egyptians and 189 Israeli soldiers were killed during the conflict. UNEF I, which consisted of 6,073 troops from ten countries, was deployed in Egypt on November 15, 1956. British and French troops evacuated Egyptian territory from November 19 to December 22, 1956. The UN General Assembly appealed for the withdrawal of Israeli troops from the Sinai Peninsula and Gaza Strip on November 24, 1956. The UN General Assembly appealed for an Israeli troop withdrawal from Egyptian territory on February 2, 1957, but Israel refused to withdraw unless it received security guarantees from the UN. Israel announced on March 1, 1957 that it would withdraw its troops from Egyptian territory, and Israeli troops were withdrawn on March 8, 1957. Saudi Arabia expressed its support for Egypt on May 20, 1957, regarding Egypt's dispute with Israel over the Gulf of Aqaba. Egypt mobilized its armed forces in the Sinai Peninsula on May 14, 1967. Egypt proclaimed a state-of-emergency on May 16, 1967, and requested the withdrawal of UNEF I troops from the Sinai Peninsula on May 18, 1967. UNEF I troops were withdrawn from the Sinai Peninsula on May 19, 1967. Some 107 UNEF I personnel were killed during the mission. President Nasser closed the Strait of Tiran to Israeli shipping on May 23, 1967. Israeli military aircraft attacked Egyptian military targets beginning on June 5, 1967, and Israeli troops attacked Egyptian troops in the Sinai Peninsula beginning on June 6, 1967. The Soviet Union demanded a ceasefire and withdrawal of Israeli troops from Egypt on June 6, 1967. The UN Security Council appealed for a ceasefire on June 6, 1967, and demanded a ceasefire on June 7, 1967. Egypt and Israel agreed to a cessation of military hostilities on June 8, 1967. Some 3,000 Egyptians and 303 Israeli soldiers were killed during the conflict. Israel and Egypt resumed military hostilities on July 14, 1967 (the conflict became known as the *War of Attrition*). The *International Committee of the Red Cross *(ICRC) assisted with the repatriation of 350 Egyptian civilians and 90 Egyptian prisoners-of-war between July 20 and August 4, 1967. Egypt attacked the Israeli naval ship *Eilat *on October 21, 1967, resulting in the deaths of 47 Israeli naval personnel. Egypt and Israel referred the matter to the UN Security Council on October 22, 1967. Israel troops shelled two Egyptian oil refineries in Suez on October 24, 1967. The UN Security Council condemned the ceasefire violations on October 25, 1967. The UN secretary-general appointed Gunnar Jarring as his personal representative in the dispute on November 22, 1967. *Organization of African Unity* (OAU) heads-of-state demanded the withdrawal of Israeli troops from Egyptian-occupied territory on September 15, 1968. The US agreed to provide military assistance (military aircraft) to Israel in December 1968. France imposed military sanctions (ban on the delivery of weapons) against Israel on January 6, 1969. Egypt fired artillery against Israeli troops near the Suez Canal beginning on March 8, 1969. Israeli military aircraft attacked Egyptian targets on July 20-28, 1969. Israeli military aircraft resumed attacks against Egyptian targets on January 7, 1970. The Soviet Union agreed to provide military assistance (anti-aircraft weapons) to Egypt on March 19, 1970. Israel requested military assistance (military aircraft) from the US on April 28, 1970. Secretary of State William Rogers of the US proposed a ceasefire on June 19, 1970, and Egypt and Israel agreed to the proposal on July 31, 1970. The ceasefire went into effect on August 7, 1970. Some 5,000 Egyptian soldiers and civilians, as well as 641 Israeli soldiers and 248 Israeli civilians, were killed during the conflict between July 8, 1967 and August 7, 1970. Israel broke off UN-mediated negotiations with Egypt on September 6, 1970. The UN General Assembly appealed for a continuation of the ceasefire and the resumption of negotiations between Israel and Egypt on November 4, 1970. Israel agreed to resume UN-mediated negotiations on December 28, 1970 after US provided it with security assurances. The OAU established a conciliation committee (Senegal, Cameroun, Zaire, and Nigeria) headed by President Senghor of Senegal, which unsuccessfully attempted to mediate a resolution of the dispute from November 2 to December 14, 1971. Egyptian troops attacked Israeli troops in the Sinai Peninsula on October 6, 1973. The US airlifted military assistance to Israel from October 13 to November 14, 1973. The UN Security Council appealed for a ceasefire on October 22, 1973, and the parties agreed to a cessation of military hostilities on October 26, 1973. Some 7,700 Egyptians and 2,838 Israeli soldiers were killed during the conflict. The UN Security Council established the *United Nations Emergency Force* (UNEF II) consisting of 6,973 troops from 13 countries on October 25, 1973. The ICRC assisted with the repatriations of some 8,000 Egyptian prisoners-of-war and 238 Israeli prisoners-of-war on November 14-22, 1973. The Soviet Union and the US facilitated negotiations between Egyptian and Israeli representatives in Geneva beginning on December 21, 1973. Egypt and Israel signed the *Disengagement of Forces Agreement* on January 18, 1974. Secretary-of-State Henry Kissinger of the US mediated the signing of a second disengagement agreement on September 4, 1975. Egyptian President Anwar Sadat visited Israel on November 19-20, 1977, during which Sadat accepted the existence of the state of Israel. Israeli Prime Minister visited Egypt on December 25-26, 1977. President Jimmy Carter of the US hosted talks between Egypt and Israel at Camp David, Maryland from September 5-17, 1978. President Carter mediated negotiations beginning on March 8, 1979, and Egypt and Israel signed a peace treaty in Washington DC on March 26, 1979. *Egypt and Israel exchanged instruments of ratification of the peace treaty in the Sinai Peninsula on April 25, 1979. *UNEF II personnel, which had suffered 55 fatalities, was disbanded on July 24, 1979. UNTSO-OGE remained in the Sinai peninsula. The *Multinational Force and Observers* (MFO) was established in 1982 to supervise the implementation of the 1979 peace treaty. Egypt and Israel disputed their border near Taba following the signing of a peace treaty on April 25, 1982. The parties agreed to submit the dispute to a five-member arbitration tribunal (Egypt, Israel, Sweden, Switzerland, US) chaired by the representative from Sweden on September 11, 1986. The arbitration tribunal awarded Taba to Egypt on September 29, 1988. Egypt and Israel signed an agreement on February 26, 1989, which provided for Egyptian sovereignty over Taba on March 19, 1989.
+
+SOURCES-CM: 
+Allock et al., 1992, 369-371; Brecher and Wilkenfeld, 1997, 268-300; Clodfelter, 1992, 1032-1036, 1037-1038, 1041-1048, 1051-1061; Donelan and Grieve, 1973, 123-129, 269-273; *Facts on File*, October 27-November 2, 1955, June 1-7, 1967; *Keesing*, June 3-10, 1967, June 10-17, 1967, June 24-July 1, 1967, August 12-19, 1967, November 4-11, 1967, January 28-February 3, 1974; Kochan, 1973, 186-196; Langer, 1972, 1282-1288, 1293-1295, 1301-1303, 1305; Mackinlay, 1989, 160-197; Tillema, 1991, 175-177.
+
+NARRATIVE-CR:
+
+Introduction: 
+
+There are two issues that motivate the rivalry between Israel and Egypt. The first issue motivates the rivalry between Israel and many of her Arab neighbors, is the right of Israel to exist. The second issue and the more proximate issue in some of the conflicts is the territorial dispute over the Sinai.
+
+Disputes/MIDs:
+
+Background and the Palestine War: 
+
+The rivalry between Israel and Egypt (and its other Arab neighbors) begins in 1948 with Israel's independence from Britain. In 1922 Britain was given a League of Nations mandate over Palestine, following the 1917 Balfour declaration that stated Britain's support for the creation of a Jewish homeland in Palestine. However, little progress toward the creation of a Jewish state was made until 1947 when Britain turned its responsibility for Palestine over to the United Nations. In November, 1947, the United Nations Committee on Palestine recommended that Palestine be partitioned into 2 parts. A new Jewish state would receive 57% of Palestine's land and have a 58% Jewish population, while the new Arab state would receive 43% of the land and have a 99% Arab population. Jerusalem and Bethlehem would be placed under a United Nations trusteeship. At the time, Jews made up approximately 1/3 of the population of Palestine and owned only about 7% of the land. The UN plan gave the fertile coastal region to the Jewish state, and United Nations' estimates were that the Jewish state would have economic revenues three times that of the new Arab state. Existing Arab states opposed the plan, and threatened fighting if partition was approved, but the UN General Assembly approved the plan 33 to 13 with 10 abstentions. Even before the plan went into effect, Zionists began to extend their control beyond the partition borders; the first Arab-Israeli war began with the invasion of Arab forces into Israel on May 15, 1948, after Israel officially declared its independence on May 14. The rivalry begins with this war referred to as the Palestine War or the Israeli War of Independence MID1793. 
+
+MIDs from 1955 until the Sinai War (MID200):
+
+Israeli troops attacked an Egyptian army base in the Gaza Strip on February 28, 1955, resulting in the deaths of 39 individuals. Egypt referred the matter to the UN Security Council and the *League of Arab States *(LAS) on March 20, 1955. The UN Security Council condemned the Israeli attack against Egypt on March 29, 1955. Egypt and Israel resumed military hostilities in the Gaza Strip on August 22, 1955. Czechoslovakia agreed to provide military assistance (weapons) to Egypt on September 27, 1955. Egyptian troops attacked an Israeli police station in the El Auja area on October 26-27, 1955, resulting in the death of one Israeli. Israeli troops attacked Egyptian targets near Kuntilla in the Sinai peninsula on October 28, 1955, resulting in the deaths of ten Egyptians. Some 360 Israeli soldiers and civilians were killed between 1949 and 1955. The conflict during this period is represented in the following MIDs: MID3386, MID3370, MID3372, MID3371, MID3374, MID3373, and MID3429. 
+
+Sinai War: 
+
+The next significant point of conflict between Israel and Egypt was the Sinai War MID200. `In early 1955, Egypt began sponsoring raids launched by fedayeen (Arab commandos or guerrillas) from the Sinai Peninsula, the Gaza Strip, and Jordan, into Israel. As the number and seriousness of these raids increased, Israel began launching reprisal raids against Arab villages in Gaza and the West Bank of the Jordan. These retaliatory measures, which cost the lives of Arab civilians and did little to discourage the fedayeen, became increasingly controversial both within Israel and abroad. Shortly thereafter Israeli reprisal raids were directed against military targets, frontier strongholds, police fortresses, and army camps.' 
+
+`In addition to these incidents, that at times became confrontations between regular Israeli and Arab military forces, other developments contributed to the generally escalating tensions between Egypt and Israel and convinced Israeli military officials that Egypt was preparing for a new war. Under an arms agreement of 1955, Czechoslovakia supplied Egypt with a vast amount of arms, including fighter aircraft, tanks and other armored vehicles, destroyers, and submarines. The number of Egyptian troops deployed in Sinai along the Israeli border also increased dramatically in 1956. In July Egypt nationalized the Suez Canal; shortly thereafter Egypt closed the Strait of Tiran, at the southern tip of Sinai, and blockaded Israeli shipping.
+
+Fearing these actions to be signs of an imminent Egyptian invasion, Israel rapidly mobilized its reserves. On October 29, under Major General Moshe Dayan, the IDF launched a preemptive attack into Sinai. Israeli advances on the ground were rapid, and, supported by air cover, by November 2 they had routed the Egyptian forces and effectively controlled the entire peninsula. With Israeli troops on the east bank of the Suez Canal, British and French troops landed at Port Said and demanded withdrawal of both sides from the Canal. The UN met in an emergency session and demanded that the British and French leave Suez, which they did in December 1956 in response to both United States and UN pressure, and that Israel withdraw to the Armistice line of 1949, which it did somewhat reluctantly in March 1957 after the United Nations Emergency Force (UNEF) had been stationed in the Gaza Strip and at Sharm ash Shaykh on the Strait of Tiran. 
+
+Israel's victory in the 1956 Sinai War thus afforded it a modicum of increased security by virtue of the UN presence. Far more important, however, was that it enhanced Israel's standing as a military power and as a viable nation. Although many Israelis felt that the military victory was nullified by the UN demand to withdraw from Sinai, Israel had achieved significant psychological gains at a cost of fewer than 170 lives.' (Onwar.com)
+
+From Sinai to the Six Day War: 
+
+The Egyptian armistice line remained relatively quiet after the 1956 Sinai campaign. There were few incidents along the Jordanian line until 1965, when Egyptian-sponsored guerrilla raids by Al Fatah first occurred. Beginning in 1960, there were repeated guerrilla activities and shelling of Israeli settlements from the Golan Heights of Syria, but these incidents remained localized until 1964. 
+
+Underlying tensions, however, did not abate. By the early 1960s, both sides considered a third round of war inevitable. An ominous arms race developed. Egypt and Syria were supplied with Soviet aid and military hardware, and Israel suddenly found European powers-the Federal Republic of Germany (West Germany), Britain, and especially France-to be willing suppliers of modern armaments. Jordan continued to receive arms from Britain and the United States. 
+
+Tensions mounted in 1964, when, after Israel had nearly completed a massive irrigation project that involved diverting water from the Jordan River into the Negev Desert, Syria began a similar project near the river's headwaters that would have virtually dried the river bed at the Israeli location. Israel launched air and artillery attacks at the Syrian site, and Syria abandoned the project. Guerrilla incursions from Syria and Jordan steadily mounted, as did the intensity of Israeli reprisal raids. 
+
+This period of conflict (between the Sinai Campaign in 1956 and the Six Day War in 1967) included the following MIDs: MID3405 MID3375 MID3420 MID3419 MID3421 MID3430 MID3422 MID3406 MID3431 MID3376 MID3377 MID3378 MID3379 and MID3412. 
+
+The Six Day War: 
+
+In April 1967, increased Syrian aircraft-shelling of Israeli border villages encountered an Israeli fighter attack during which six Syrian MiGs were shot down. Syria feared that an all-out attack from Israel was imminent, and Egypt, with whom Syria had recently signed a mutual defense treaty, began an extensive military buildup in early May. On May 18, Egypt's president, Gamal Abdul Nasser, demanded the withdrawal of UN forces from Gaza and Sinai; Secretary General U Thant promptly agreed and removed the UNEF. Four days later, Nasser announced a blockade of Israeli shipping at the Strait of Tiran; an action that Israel since the 1956 War had stressed would be tantamount to a declaration of war. Jordan and Iraq rapidly joined Syria in its military alliance with Egypt.
+
+On May 30, mounting public opinion led to the appointment of Dayan as minister of defense. Levi Eshkol, who had been both prime minister and minister of defense since Ben-Gurion's resignation in 1963, retained the prime minister's position. Dayan immediately made a series of public declarations that war could be avoided, while secretly planning a massive preemptive strike against the Arab enemy. On the morning of June 5, Israel launched a devastating attack on Arab air power, destroying about 300 Egyptian, 50 Syrian, and 20 Jordanian aircraft, mostly on the ground. This action, which virtually eliminated the Arab air forces, was immediately followed by ground invasions into Sinai and the Gaza Strip, Jordan, and finally Syria. Arab ground forces, lacking air support, were routed on all three fronts; by the time the UN-imposed cease-fire took effect in the evening of June 11, the IDF had seized the entire Sinai Peninsula to the east bank of the Suez Canal; the West Bank of Jordan, including East Jerusalem; and the Golan Heights of Syria. Unlike the aftermath of the 1956 War, however, the IDF did not withdraw from the areas it occupied in 1967. 
+
+Israel was ecstatic about its swift and stunning victory, which had been achieved at the relatively low cost of about 700 lives. The IDF had proven itself superior to the far larger forces of the combined Arab armies. More important, it now occupied the territory that had harbored immediate security threats to Israel since 1948. For the first time since independence, the Israeli heartland along the Mediterranean Sea was out of enemy artillery range. The exploits of what was known in Israel as the Six-Day War soon became legend, and the commanders who led it became national heroes. 
+
+Although control of the occupied territories greatly improved Israel's security from a geographical standpoint, it also created new problems. The roughly 1 million Arabs within the territories provided potential cover and support for infiltration and sabotage by Arab guerrillas. From shortly after the June 1967 War until 1970, a steady stream of men and weapons were sent into the West Bank by a number of guerrilla groups, in particular Al Fatah. Incidents of sabotage and clashes with Israeli security forces were commonplace.
+
+The War of Attrition: 
+
+The 1967 War set the stage for the 1969-1970 War of Attrition MID1480. The tarnished legitimacy of the Arab states following the June 1967 War was especially poignant in Egypt. Israeli troops were situated on the east bank of the Suez Canal, the canal was closed to shipping, and Israel was occupying a large piece of Egyptian territory. Nasser responded by maintaining a constant state of military activity along the canal-the so-called War of Attrition-between February 1969 and August 1970. Given the wide disparity in the populations of Israel and Egypt, Israel could not long tolerate trading casualties with the Egyptians. The Israeli government, now led by Golda Meir, pursued a policy of "asymmetrical response"-retaliation on a scale far exceeding any individual attack. 
+
+As the tension along the Egyptian border continued to heat, United States secretary of state William Rogers proposed a new peace plan. In effect, the Rogers Plan was an interpretation of UN Security Council Resolution 242; it called for the international frontier between Egypt and Israel to be the secure and recognized border between the two countries. There would be "a formal state of peace between the two, negotiations on Gaza and Sharm ash Shaykh, and demilitarized zones." In November Israel rejected the offer, and in January 1970 Israeli fighter planes made their first deep penetration into Egypt. 
+
+Following the Israeli attack, Nasser went to Moscow requesting advanced surface-to-air missiles (SAMs) and other military equipment. After some wavering, the Kremlin committed itself to modernizing and retraining the Egyptian military. Egypt's new Soviet-made arsenal threatened to alter the regional military balance with Israel. The tension in Israeli-Soviet relations escalated in July 1970, when Israeli fighter planes shot down four Egyptian planes flown by Soviet pilots about thirty kilometers west of the canal. Fearing Soviet retaliation, and uncertain of American support, Israel in August accepted a cease-fire and the application of Resolution 242.
+
+The Yom Kippur War/Ramadan War: 
+
+The October 1973 War (known in Israel as the Yom Kippur War and in the Arab world as the Ramadan War) developed rapidly, and the coordinated Egyptian-Syrian offensive caught Israel by surprise (MID1046, MID353, and MID3380). On September 28, Palestinian guerrillas detained an Austrian train carrying Soviet Jews en route to Israel. Subsequent Egyptian and Syrian military deployments were interpreted by Israel as defensive actions in anticipation of Israeli reprisals. For one week, Israel postponed mobilizing its troops. Not until the morning of Yom Kippur (October 6), about six hours before the Arab offensive, were Israeli officials convinced that war was imminent; a mobilization of the reserves was then ordered. In the early days of the war, the IDF suffered heavy losses as Egyptian forces crossed the Suez Canal and overran Israeli strongholds, while Syrians marched deep into the Golan Heights. Israel launched its counteroffensive first against the Syrian front, and only when it had pushed the Syrians back well east of the 1967 cease-fire line (by October 15) did Israel turn its attention to the Egyptian front. In ten days of fighting, Israel pushed the Egyptian army back across the canal, and the IDF made deep incursions into Egypt. On October 24, with Israeli soldiers about one kilometer from the main Cairo-Ismailia highway and the Soviet Union threatening direct military intervention, the UN imposed a cease-fire. 
+
+After several months of negotiations, during which sporadic fighting continued, Israel reached a disengagement agreement in January 1974, whereby the IDF withdrew across the canal and Israeli and Egyptian troops were separated in the Sinai by a UNEF-manned buffer zone. Israel signed a similar agreement with Syria on May 31, 1974, whereby Israel withdrew to the 1967 cease-fire line in the Golan Heights and a United Nations Disengagement Observer Force (UNDOF) occupied a buffer zone between Israeli and Syrian forces. On September 4, 1975, after further negotiations, the Second Sinai Disengagement Agreement was signed between Egypt and Israel that widened the buffer zone and secured a further Israeli withdrawal to the east of the strategic Gidi and Mitla passes. 
+
+From Yom Kippur to Camp David: 
+
+MID1061 occurred from April of 1974 until December of 1975. Palestinian insurgents based in southern Lebanon crossed into Israel and killed eighteen Israelis in the northern town of Qiryat Shemona. The Israelis responded by raining several villages in southern Lebanon and threatening Lebanon with massive retaliation if it allowed terrorists to operate from its territory. There were more terrorist attacks in May and June. This led to massive bombing raids on Palestinian camps in Lebanon and naval attacks on Lebanese ports. In December of 1974, Israeli planes attacked Palestinian targets on the outskirts of Beirut. From April through June of 1974, Egypt threatened to intervene in this dispute on behalf of Lebanon. 
+
+MID3381 occurred from October of 1975 until March of 1976. Here Egypt threatened to retaliate against Israel for the increase in armaments it was acquiring from the United States. The 
+
+MID3381 occurred from mid October 1975 until March of 1976. In speaking to a session of the Egyptian People's Assembly, said "escalation [of an arms buildup] by the other side will be met by escalation from our side, and the consequences of this must be obvious to all." This overture was in part, an effort by Sadat to influence the US to supply Egypt with US military aid. The MID ends at the beginning of March 1976 when the U.S. state department confirmed that the Ford Administration had started consultations with key congressional leaders on the proposed sale of six C-130 military transport jets to Egypt as the first step towards ending Washington's longstanding arms embargo against that country. 
+
+MID3382 is coded as occurring from November 14 through 19 of 1977. This mid is coded as being an instance of a display of force initiated by Israel against Egypt in a five day bilateral mid. I was not able to locate any information regarding this mid in any sources. This mid is odd because this is the time that Sadat makes his first visit to Israel and makes history by being the first Egyptian or Arab leader to travel to Israel and speak in the Knesset.
+
+MID3383 is a one day bilateral dispute that occurred on July 3, 1976. I was not able to find record of this dispute in any archival resource. 
+
+Resolution: 
+
+Egypt and Israel signed the *Disengagement of Forces Agreement* on January 18, 1974. Secretary-of-State Henry Kissinger of the US mediated the signing of a second disengagement agreement on September 4, 1975. Egyptian President Anwar Sadat visited Israel on November 19-20, 1977, during the visit Sadat accepted the existence of the state of Israel. Israeli Prime Minister visited Egypt on December 25-26, 1977. President Jimmy Carter of the US hosted talks between Egypt and Israel at Camp David, Maryland from September 5-17, 1978. President Carter mediated negotiations beginning on March 8, 1979, and Egypt and Israel signed a peace treaty in Washington DC on March 26, 1979. Egypt and Israel exchanged instruments of ratification of the peace treaty in the Sinai Peninsula on April 25, 1979. UNEF II personnel, which had suffered 55 fatalities, was disbanded on July 24, 1979. UNTSO-OGE remained in the Sinai peninsula. The *Multinational Force and Observers* (MFO) was established in 1982 to supervise the implementation of the 1979 peace treaty. 
+
+The other Arab states involved in the hostilities with Israel rejected the Camp David Accords. The basis for Arab rejection was opposition to Egypt's separate peace with Israel. Although Sadat insisted that the treaty provided for a comprehensive settlement of the Arab-Israeli conflict, the Arab states and the PLO saw it as a separate peace, which Sadat had vowed he would not sign. The Arabs believed that only a unified Arab stance and the threat of force would persuade Israel to negotiate a settlement of the Palestinian issue that would satisfy Palestinian demands for a homeland. Without Egypt's military power, the threat of force evaporated because no single Arab state was strong enough militarily to confront Israel alone. Thus, the Arabs felt betrayed and dismayed that the Palestinian issue, the core of the Arab-Israeli conflict, would remain an unresolved, destabilizing force in the region.
+
+The Camp David Accords brought peace to Egypt but not prosperity. With no real improvement in the economy, Sadat became increasingly unpopular. His isolation in the Arab world was matched by his increasing remoteness from the mass of Egyptians. While Sadat's critics in the Arab world remained beyond his reach, increasingly he reacted to criticism at home by expanding censorship and jailing his opponents. In addition, Sadat subjected the Egyptians to a series of referenda on his actions and proposals that he invariably won by more than 99 percent of the vote. For example, in May 1979 the Egyptian people approved the Egyptian-Israeli peace treaty by 99.9 percent of those voting.
+
+In May 1980, an impressive, nonpartisan body of citizens charged Sadat with superseding his own constitution. Their manifesto declared, "The style in which Egypt is governed today is not based on any specific form of government. While it is not dictatorship, Nazism, or fascism, neither is it democracy or pseudodemocracy." 
+
+In September 1981, Sadat ordered the biggest roundup of his opponents since he came to power, at least 1,500 people according to the official figure but more according to unofficial reports. The Muslim Brotherhood bore the brunt of the arrests. The supreme guide of the Brotherhood, Umar Tilmasani, and other religious militants were arrested. Sadat also withdrew his "recognition" of the Coptic pope Shenudah III, banished him to a desert monastery, and arrested several bishops and priests. Also arrested were such prominent figures as journalist Mohamed Heikal, and Wafd leader Fuad Siraj ad Din. Sadat ordered the arrest of several SLP leaders and the closing of Ash Shaab (The People) newspaper. A referendum on his purge showed nearly 99.5 percent of the electorate approved. 
+
+On October 6, 1981, while observing a military parade commemorating the eighth anniversary of the October 1973 War, Sadat was assassinated by members of Al Jihad movement, a group of religious extremists. Sadat's assassin was Lieutenant Colonel Khalid al Islambuli. The conspirators were arrested and tried. In April 1982, two of the conspirators were shot and three hanged. Whereas a number of Western leaders, including three former United States presidents, attended Sadat's funeral, only one member of the Arab League was represented by a head of state, Sudan and only two, Oman and Somalia, sent representatives. In Egypt 43 million people went on with the celebration of Id al Adha, the Feast of Sacrifice, as if nothing had happened. There were no throngs in the streets, grieving and lamenting, as there were when Nasser died. In the Arab world, Sadat's death was greeted with jubilation.
+
+MID3384 occurred in January of 1983 and MID3385 occurred from August of 1983 until July of 1985. Both of these mids cover the dispute between Egypt and Israel over the Taba Strip. Egypt and Israel disputed the ownership of a small strip of land-about 250 acres-called the Taba Strip. This bit of land is on the northern tip of the Gulf of Aqaba on the border between Egypt and Israel. The dispute over this parcel arose during the Israeli withdrawal from Sinai as agreed in the 1979 peace treaty that was completed in April of 1982. In MID3384 an Egyptian tractor moved into the disputed area to clear land for the construction of some structures. Israel protested this action and Egypt claimed it was an error. The Egyptians may have been responding to the construction of an Israeli hotel in the disputed zone. In general this period of conflict was low in intensity
+
+By the late 1980s, about ten years after the signing of the Camp David Accords and the Treaty of Peace Between Egypt and Israel a "cool" peace characterized Egyptian-Israeli relations. These relations had originally been envisioned as leading to a reconciliation between Israel and the Arab states, but this development had not occurred. Egyptian-Israeli relations were restrained by a number of developments, including the June 1981 Israeli bombing of an Iraqi nuclear reactor, the Israeli invasion of Lebanon directed against Palestinian forces a year later, the establishment of an increasing number of Jewish settlements in the West Bank and the Gaza Strip, and the "watering down" of proposals for the autonomy of the Palestinian inhabitants of these territories as envisaged by the Camp David Accords and the Egyptian-Israeli peace treaty. 
+
+Relations between the two countries warmed somewhat during Peres's tenure as prime minister and minister of foreign affairs in the National Unity Government. They again cooled, however, following the establishment of the Likud-led cabinet in December 1988, and prime minister Shamir's rejection of Israeli participation in an international peace conference with the PLO. Nevertheless, the two countries continued to maintain full diplomatic relations, and in 1985 about 60,000 Israeli tourists visited Egypt, although Egyptian tourism to Israel was much smaller. Cooperation occurred in the academic and scientific areas as well as in a number of joint projects in agriculture, marine science, and disease control. 
+
+MID3915 occurred on June 3, 1989. An issue that had impeded normal relations between Egypt and Israel concerned the disposition of Taba, an approximately 100-hectare border enclave and tourist area on the Gulf of Aqaba in the Sinai Peninsula claimed by the two countries, but occupied by Israel. Following a September 1988 ruling in Egypt's favor by an international arbitration panel, official delegations from Israel and Egypt met to implement the arbitral award. Subsequently this MID occurred. This is a fishing boat incident. An Israeli fisherman was in Egyptian waters near Eliat. The Egyptian Coast Guard warned the man to refrain from fishing in the area. When he did not they fired on him, wounding him.
+
+For 25 years, Egyptian-Israeli relations have often been characterized by tension. Today, their relationship continues to be frosty. Their peace has survived misperceptions, regional and international political changes, and unanticipated governmental upheavals. Neither state seeks a major confrontation with the other. Each believes the other has not done enough to stimulate improved understanding or agreement between Israel and her Arab neighbors. However, both are firmly committed to avoid any friction which would threaten continued U.S. aid. 
+
+For Egypt, Israel has moved too slowly to return all the territories captured in the 1967 war and toward the establishment of a Palestinian state. Negative views toward Israel and Israelis are still widely held by Egyptian officials and citizens. Egypt acts both as Arab leader and champion in peaceful conflicts with Israel and equally as a mediator between Israel and Arab parties. 
+
+For Israel, Egypt has been too slow to improve relations and has discouraged other Arab states from doing so. Israelis remain disappointed at the extent of normalization and also the tone of harsh criticism from both Egyptian officials and media organs. They realize that their relationship with Egypt is not going to be like that of the United States and Canada. Perhaps much of public statements from Egyptian sources-while highly objectionable and contrary to a spirit of normalization-may have to be written off as necessary for the management of Egyptian domestic constituencies. 
+
+SOURCES-CR:
+Allock et al., 1992, 369-371; Brecher and Wilkenfeld, 1997, 268-300; Clodfelter, 1992, 1032-1036, 1037-1038, 1041-1048, 1051-1061; Donelan and Grieve, 1973, 123-129, 269-273; *Facts on File*, October 27-November 2, 1955, June 1-7, 1967; *Keesing*, June 3-10, 1967, June 10-17, 1967, June 24-July 1, 1967, August 12-19, 1967, November 4-11, 1967, January 28-February 3, 1974; Kochan, 1973, 186-196; Langer, 1972, 1282-1288, 1293-1295, 1301-1303, 1305; Mackinlay, 1989, 160-197; NYT-1/21/1983; Tillema, 1991, 175-177.
+
+Facts on File
+
+SB-CR:
+Egypt / Israel Years: 1948-1979. Issues at stake: Border (Sinai); existence of Israel. End coding: 1979 Egyptian-Israeli peace treaty. Number of reciprocated 30 day militarized disputes: 9. Last militarized dispute: 1973. Wars: 1948-1949, 1956, 1967, 1969-1970, 1973. Summary: The rivalry between Israel and Egypt (and its other Arab neighbors) begins in 1948 with Israel's independence from Britain. In 1922 Britain was given a League of Nations mandate over Palestine, following the 1917 Balfour declaration that stated Britain's support for the creation of a Jewish homeland in Palestine. However, little progress toward the creation of a Jewish state was made until 1947 when Britain turned its responsibility for Palestine over to the United Nations. In November, 1947, the United Nations Committee on Palestine recommended that Palestine be partitioned into 2 parts. A new Jewish state would receive 57% of Palestine's land and have a 58% Jewish population, while the new Arab state would receive 43% of the land and have a 99% Arab population. Jerusalem and Bethlehem would be placed under a United Nations trusteeship. At the time, Jews made up approximately 1/3 of the population of Palestine and owned only about 7% of the land. The UN plan gave the fertile coastal region to the Jewish state, and United Nations' estimates were that the Jewish state would have economic revenues three times that of the new Arab state. Existing Arab states opposed the plan, and threatened fighting if partition was approved, but the UN General Assembly approved the plan 33 to 13 with 10 abstentions. Even before the plan went into effect, Zionists began to extend their control beyond the partition borders; the first Arab-Israeli war began with the invasion of Arab forces into Israel on May 15, 1948, after Israel officially declared its independence on May 14. The rivalry begins with that war. Israel was able to defeat the Arabs in the war, but the resulting map of Israel was quite different from the planned partition of Palestine. Egypt was in control of the Gaza strip, Jordan occupied much of the West Bank of the Jordan River, and Israel had extended its control into the Negev desert in the south and across Galilee in the North. These territorial changes, and the very question of whether Israel was a legitimate state given the way it had come into existence, set the stage for rivalry between Israel and its Arab neighbors for the next 30+ years. Conflict between Israel and Egypt continued through the next 25 years. The dyad is notable for the relatively high frequency of disputes, and more so for the frequency with which those disputes escalated to war. 
+
+In 1956 Israel (with British and French assistance) captured the Sinai, the Gaza strip, and the Suez Canal but was forced to return them to Egypt in the cease-fire that followed. 
+
+In 1967 Israel captured most of the Sinai, the Gaza strip, and advanced to the Suez Canal, keeping the territories and setting the stage for the 1969-1970 War of Attrition and the 1973 Yom Kippur War (October, 1973). 
+
+Following the Yom Kippur War ceasefire in November, 1973, a continuing series of talks began between Egypt (Sadat came to power in 1970) and Israel. In 1974 Israeli forces began a pull back of forces that continued through 1975. In 1975 the two sides signed an interim peace pact in Geneva, and in 1978 the Camp David accords were signed by Sadat and Begin, but it was not until 1979 that a full peace treaty was signed. The treaty agreed to a phased withdrawal to the earlier Israeli and Egyptian borders, with the Gaza strip to remain under Israeli administration until eventually being given autonomy. 
+
+Egypt also took the step of recognizing Israel as a sovereign state, a move which resulted in its alienation from the rest of the Arab World for a decade. Since the signing of the treaty there have been no militarized disputes between Egypt and Israel, although Egypt temporarily withdrew its ambassador from Israel over the Israeli invasion of Lebanon. Talks between the two states resumed when Israel pulled out; Israel's withdrawal from the Sinai was completed in 1982, although talks on Gazan autonomy have continued. Further disagreements between the two countries over the terms of the peace agreement have been submitted to arbitration, and arbitration awards have been respected (e.g. the disputed frontier at the Taba, 1986). 
+
+Sources: Gerner (1991), Goldstein (1992), Hammond Atlas (1992), Information Please Almanac (1991).
+
+PS-NARRATIVE:
+
+19790327-19890603 Transition
+
+President Jimmy Carter of the US hosted talks between Egypt and Israel at Camp David, Maryland from September 5-17, 1978. President Carter mediated negotiations beginning on March 8, 1979, and Egypt and Israel signed a peace treaty in Washington DC on March 26, 1979. Egypt and Israel exchanged instruments of ratification of the peace treaty in the Sinai Peninsula on April 25, 1979. UNEF II personnel, which had suffered 55 fatalities, was disbanded on July 24, 1979. UNTSO-OGE remained in the Sinai peninsula. The *Multinational Force and Observers* (MFO) was established in 1982 to supervise the implementation of the 1979 peace treaty. 
+
+Egypt also took the step of recognizing Israel as a sovereign state, a move which resulted in its alienation from the rest of the Arab World for a decade. Since the signing of the treaty there have been no militarized disputes between Egypt and Israel, although Egypt temporarily withdrew its ambassador from Israel over the Israeli invasion of Lebanon. Talks between the two states resumed when Israel pulled out; Israel's withdrawal from the Sinai was completed in 1982, although talks on Gazan autonomy have continued. Further disagreements between the two countries over the terms of the peace agreement have been submitted to arbitration, and arbitration awards have been respected (e.g. the disputed frontier at the Taba, 1986).
+
+The Camp David Accords brought peace to Egypt but not prosperity. With no real improvement in the economy, Sadat became increasingly unpopular. His isolation in the Arab world was matched by his increasing remoteness from the mass of Egyptians. While Sadat's critics in the Arab world remained beyond his reach, increasingly he reacted to criticism at home by expanding censorship and jailing his opponents. In addition, Sadat subjected the Egyptians to a series of referenda on his actions and proposals that he invariably won by more than 99 percent of the vote. For example, in May 1979 the Egyptian people approved the Egyptian-Israeli peace treaty by 99.9 percent of those voting.
+
+In May 1980, an impressive, nonpartisan body of citizens charged Sadat with superseding his own constitution. Their manifesto declared, "The style in which Egypt is governed today is not based on any specific form of government. While it is not dictatorship, Nazism, or fascism, neither is it democracy or pseudodemocracy." 
+
+In September 1981, Sadat ordered the biggest roundup of his opponents since he came to power, at least 1,500 people according to the official figure but more according to unofficial reports. The Muslim Brotherhood bore the brunt of the arrests. The supreme guide of the Brotherhood, Umar Tilmasani, and other religious militants were arrested. Sadat also withdrew his "recognition" of the Coptic pope Shenudah III, banished him to a desert monastery, and arrested several bishops and priests. Also arrested were such prominent figures as journalist Mohamed Heikal, and Wafd leader Fuad Siraj ad Din. Sadat ordered the arrest of several SLP leaders and the closing of Ash Shaab (The People) newspaper. A referendum on his purge showed nearly 99.5 percent of the electorate approved. 
+
+On October 6, 1981, while observing a military parade commemorating the eighth anniversary of the October 1973 War, Sadat was assassinated by members of Al Jihad movement, a group of religious extremists. Sadat's assassin was Lieutenant Colonel Khalid al Islambuli. The conspirators were arrested and tried. In April 1982, two of the conspirators were shot and three hanged. Whereas a number of Western leaders, including three former United States presidents, attended Sadat's funeral, only one member of the Arab League was represented by a head of state, Sudan and only two, Oman and Somalia, sent representatives. In Egypt 43 million people went on with the celebration of Id al Adha, the Feast of Sacrifice, as if nothing had happened. There were no throngs in the streets, grieving and lamenting, as there were when Nasser died. In the Arab world, Sadat's death was greeted with jubilation.
+
+MID3384 occurred in January of 1983 and MID3385 occurred from August of 1983 until July of 1985. Both of these mids cover the dispute between Egypt and Israel over the Taba Strip. Egypt and Israel disputed the ownership of a small strip of land-about 250 acres-called the Taba Strip. This bit of land is on the northern tip of the Gulf of Aqaba on the border between Egypt and Israel. The dispute over this parcel arose during the Israeli withdrawal from Sinai as agreed in the 1979 peace treaty that was completed in April of 1982. In MID3384 an Egyptian tractor moved into the disputed area to clear land for the construction of some structures. Israel protested this action and Egypt claimed it was an error. The Egyptians may have been responding to the construction of an Israeli hotel in the disputed zone. In general this period of conflict was low in intensity
+
+By the late 1980s, about ten years after the signing of the Camp David Accords and the Treaty of Peace Between Egypt and Israel a "cool" peace characterized Egyptian-Israeli relations. These relations had originally been envisioned as leading to a reconciliation between Israel and the Arab states, but this development had not occurred. Egyptian-Israeli relations were restrained by a number of developments, including the June 1981 Israeli bombing of an Iraqi nuclear reactor, the Israeli invasion of Lebanon directed against Palestinian forces a year later, the establishment of an increasing number of Jewish settlements in the West Bank and the Gaza Strip, and the "watering down" of proposals for the autonomy of the Palestinian inhabitants of these territories as envisaged by the Camp David Accords and the Egyptian-Israeli peace treaty. 
+
+Relations between the two countries warmed somewhat during Peres's tenure as prime minister and minister of foreign affairs in the National Unity Government. They again cooled, however, following the establishment of the Likud-led cabinet in December 1988, and prime minister Shamir's rejection of Israeli participation in an international peace conference with the PLO. Nevertheless, the two countries continued to maintain full diplomatic relations, and in 1985 about 60,000 Israeli tourists visited Egypt, although Egyptian tourism to Israel was much smaller. Cooperation occurred in the academic and scientific areas as well as in a number of joint projects in agriculture, marine science, and disease control. 
+
+19890604-20159999 0.5
+
+The last MID of RIV1246, MID3915 ended on June 3, 1989. The main issues that motivated the rivalry were the existence of Israel generally and the mutual border between the two. The territorial issue appears to be resolved. However, the more general issue of Israel's existence is more complicated and less clearly resolved. It is clearly mitigated but remains an issue that motivates tension and a continued preparation for hostilities between the two. 
+
+By the late 1980s, about ten years after the signing of the Camp David Accords and the Treaty of Peace Between Egypt and Israel a "cool" peace characterized Egyptian-Israeli relations. These relations had originally been envisioned as leading to a reconciliation between Israel and the Arab states, but this development had not occurred. Because the comprehensive peace has failed to materialize, the issue of Israel's existence as a state continues to be an issue of tension. This is due in large part because of the cost Egypt has had to pay for their separate peace with the Israelis. Egypt sees Israel's treatment of the Palestinians and other Arab states as an abrogation of the treaty. They perceive that the Israelis exploited the treaty and the Egyptians. 
+
+Egyptian-Israeli relations have been strained by a number of issues including the June 1981 Israeli bombing of an Iraqi nuclear reactor, the Israeli invasion of Lebanon directed against Palestinian forces a year later, the establishment of an increasing number of Jewish settlements in the West Bank and the Gaza Strip, and the "watering down" of proposals for the autonomy of the Palestinian inhabitants of these territories as envisioned by the Camp David Accords and the Egyptian-Israeli peace treaty (Bar-Siman-Tov, 2000). 
+
+For 25 years, Egyptian-Israeli relations have often been characterized by tension. Today, their relationship continues to be frosty. Their peace has survived misperceptions, regional and international political changes, and unanticipated governmental upheavals. Each believes the other has not done enough to stimulate improved understanding or agreement between Israel and her Arab neighbors. However, both are firmly committed to avoid any friction which would threaten continued U.S. aid. 
+
+For Egypt, Israel has moved too slowly to return all the territories captured in the 1967 war and toward the establishment of a Palestinian state. Negative views toward Israel and Israelis are still widely held by Egyptian officials and citizens. Egypt acts both as Arab leader and champion in peaceful conflicts with Israel and equally as a mediator between Israel and Arab parties. 
+
+For Israel, Egypt has been too slow to improve relations and has discouraged other Arab states from doing so. Israelis remain disappointed at the extent of normalization and also the tone of harsh criticism from both Egyptian officials and media organs. They realize that their relationship with Egypt is not going to be like that of the United States and Canada. Perhaps much of public statements from Egyptian sources-while highly objectionable and contrary to a spirit of normalization-may have to be written off as necessary for the management of Egyptian domestic constituencies.' 
+
+It is suspected that neither state seeks a major confrontation with the other. However, it appears that militarized conflict is still in the realm of possibilities. Egypt conducted military operations in preparation for war with Israel in 1996 (Maddy-Weitzman, 1998, 278). They prepared for a military defense of the Suez Canal from a hypothetical northern neighbor which has nuclear and chemical weapons. The Egyptian newspaper al Ahram described the military exercise as a message to Israel that `the end of war does not necessarily mean the achievement of peace , and vice versa' (Maddy-Weitzman, 1998: 278). This clearly indicates that at least the Egyptians have not ruled out the possibility of the use of force as a means of resolving conflicts of interest between the two.
+
+In 2000, Egypt withdrew its ambassadorial representation in Israel to protest the Israeli bombardment of the Gaza strip in what Egyptian officials described as disproportionate response to Palestinian terrorist attacks (New York Times, 2000). 
+
+In short, the Egypt-Israel dyad has displayed the characteristics of the 0.5 level on the peace scale since the end of the militarized portion of its rivalry in 1989. While militarized conflicts have ceased, war plans appear to be present on at least one side in the dyad. Though part of the issues that motivated the rivalry have been resolved the larger issue of Israel's presence appears to continue to impede a warmer peace between the two. A peace treaty has been signed and observed. Finally, for most of the post rivalry period, diplomatic representation has been maintained by both sides in the dyad. 
+
+PS-SOURCES: 
+Bar-Siman-Tov, 2000; Maddy-Weitzman, 1998; New York Times, 2000
+
+SB-CR:
+Egypt / Israel Years: 1948-1979. Issues at stake: Border (Sinai); existence of Israel. End coding: 1979 Egyptian-Israeli peace treaty. Number of reciprocated 30 day militarized disputes: 9. Last militarized dispute: 1973. Wars: 1948-1949, 1956, 1967, 1969-1970, 1973. Summary: The rivalry between Israel and Egypt (and its other Arab neighbors) begins in 1948 with Israel's independence from Britain. In 1922 Britain was given a League of Nations mandate over Palestine, following the 1917 Balfour declaration that stated Britain's support for the creation of a Jewish homeland in Palestine. However, little progress toward the creation of a Jewish state was made until 1947 when Britain turned its responsibility for Palestine over to the United Nations. In November, 1947, the United Nations Committee on Palestine recommended that Palestine be partitioned into 2 parts. A new Jewish state would receive 57% of Palestine's land and have a 58% Jewish population, while the new Arab state would receive 43% of the land and have a 99% Arab population. Jerusalem and Bethlehem would be placed under a United Nations trusteeship. At the time, Jews made up approximately 1/3 of the population of Palestine and owned only about 7% of the land. The UN plan gave the fertile coastal region to the Jewish state, and United Nations' estimates were that the Jewish state would have economic revenues three times that of the new Arab state. Existing Arab states opposed the plan, and threatened fighting if partition was approved, but the UN General Assembly approved the plan 33 to 13 with 10 abstentions. Even before the plan went into effect, Zionists began to extend their control beyond the partition borders; the first Arab-Israeli war began with the invasion of Arab forces into Israel on May 15, 1948, after Israel officially declared its independence on May 14. The rivalry begins with that war. Israel was able to defeat the Arabs in the war, but the resulting map of Israel was quite different from the planned partition of Palestine. Egypt was in control of the Gaza strip, Jordan occupied much of the West Bank of the Jordan River, and Israel had extended its control into the Negev desert in the south and across Galilee in the North. These territorial changes, and the very question of whether Israel was a legitimate state given the way it had come into existence, set the stage for rivalry between Israel and its Arab neighbors for the next 30+ years. Conflict between Israel and Egypt continued through the next 25 years. The dyad is notable for the relatively high frequency of disputes, and more so for the frequency with which those disputes escalated to war. 
+
+In 1956 Israel (with British and French assistance) captured the Sinai, the Gaza strip, and the Suez Canal but was forced to return them to Egypt in the cease-fire that followed. 
+
+In 1967 Israel captured most of the Sinai, the Gaza strip, and advanced to the Suez Canal, keeping the territories and setting the stage for the 1969-1970 War of Attrition and the 1973 Yom Kippur War (October, 1973). 
+
+Following the Yom Kippur War ceasefire in November, 1973, a continuing series of talks began between Egypt (Sadat came to power in 1970) and Israel. In 1974 Israeli forces began a pull back of forces that continued through 1975. In 1975 the two sides signed an interim peace pact in Geneva, and in 1978 the Camp David accords were signed by Sadat and Begin, but it was not until 1979 that a full peace treaty was signed. The treaty agreed to a phased withdrawal to the earlier Israeli and Egyptian borders, with the Gaza strip to remain under Israeli administration until eventually being given autonomy. 
+
+Egypt also took the step of recognizing Israel as a sovereign state, a move which resulted in its alienation from the rest of the Arab World for a decade. Since the signing of the treaty there have been no militarized disputes between Egypt and Israel, although Egypt temporarily withdrew its ambassador from Israel over the Israeli invasion of Lebanon. Talks between the two states resumed when Israel pulled out; Israel's withdrawal from the Sinai was completed in 1982, although talks on Gazan autonomy have continued. Further disagreements between the two countries over the terms of the peace agreement have been submitted to arbitration, and arbitration awards have been respected (e.g. the disputed frontier at the Taba, 1986). 
+
+Sources: Gerner (1991), Goldstein (1992), Hammond Atlas (1992), Information Please Almanac (1991).
+
+MARITIME-MIDS: 
+
+MARITIME-LAST-CHECKED: 20141229 
+
+MID3915 not considered maritime MID 
+
+MARITIME-DISPUTE: MID3915
+ DYAD: EGYPT ISRAEL 651666
+ DATES: 19890603 19890603
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID3915 occurred on June 3, 1989. An issue that had impeded normal relations between Egypt and Israel concerned the disposition of Taba, an approximately 100-hectare border enclave and tourist area on the Gulf of Aqaba in the Sinai Peninsula claimed by the two countries, but occupied by Israel. Following a September 1988 ruling in Egypt's favor by an international arbitration panel, official delegations from Israel and Egypt met to implement the arbitral award. Subsequently this MID occurred. This is a fishing boat incident. An Israeli fisherman was in Egyptian waters near Eliat. The Egyptian Coast Guard warned the man to refrain from fishing in the area. When he did not they fired on him, wounding him.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+New York Times (1954). Israel Accuses Syria. New York Times August 16: 5.
+ (1955a). Israel Accuses Syrians. New York Times January 17: 3.
+ (1955b). Israel Reports Attack. New York Times May 13: 6.
+ (1955c). Israelis, Syrians Clash. New York Times October 16: 31.
+ (1956a). Israel And Syria In A New Clash. New York Times March 5: 1.
+ (1956b). Syria Seizes 2 In Israel. New York Times September 17: 4.
+ (1956c). Syrian Border Checked. New York Times November 28: 39.
+ (1957a). Israelis Exchange Fire With Syrians on Border. New York Times September 11: 4.
+ (1957b). Syrian Attack Charged. New York Times April 29: 2.
+ (1958a). Israel Reports 2 Slain by Syrians. New York Times January 29: 9.
+ (1958b). New Syrian-Israeli Incident. New York Times July 4: 3.
+ (1959a). Israel Calls Up Troops in Test. New York Times April 2: 5.
+ (1959b). Israel Protests Border Clash. New York Times October 23: 14.
+ (1959c). Israeli and Arab Jets in Fight Near the Sinai-Negev Frontier. New York Times
+January 9: 6.
+ (1960a). Israel Blames Syria in Firing. New York Times June 13: 10.
+ (1960b). Israel Reports Attack. New York Times October 26: 26.
+ (1960c). Israeli Jets Fight MIG's From Syria. New York Times February 2: 1.

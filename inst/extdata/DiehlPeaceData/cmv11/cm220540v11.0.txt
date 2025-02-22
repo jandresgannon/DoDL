@@ -1,0 +1,91 @@
+FILE: cm220540v11.0.txt
+DYAD: FRANCE - ANGOLA
+RIVALRY: RIV567
+DISPUTE(S): MID2150 MID3012 
+
+PS-LAST-CHANGED: 20180212
+PS-LAST-CHECKED: 20180212
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID2150 
+
+TERRMID: MID2150 3 -- not territory
+TERRMID-CER: MID2150 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2150 3 -- not third party link to territory 
+TERRLINK-CER: MID2150 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2150 3 -- not maritime 
+MARITMID-CER: MID2150 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2150 3 -- not islands 
+ISLMID-CER: MID2150 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2150 3 -- not civil war 
+CIVWARMID-CER: MID2150 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2150 1 -- civil war link
+CIVWARLINK-CER: MID2150 1 -- certain
+CIVWARLINK-NOTES: MID2150 from NYT 4/5/1977 and 5/12/1977, Zaire was facing an ongoing civil war. The government was, at one point, in danger of falling to rebels who were fighting near the capital. The Zaire government received money and arms from the French government. Angola supported rebels who were fighting against the government. Coded civil war link because this is connected to a civil war in Zaire, outside this dyad.
+
+COUPMID: MID2150 3 -- not coup 
+COUPMID-CER: MID2150 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2150 3 -- not coup link
+COUPLINK-CER: MID2150 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3012 
+
+TERRMID: MID3012 3 -- not territory 
+TERRMID-CER: MID3012 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3012 3 -- not third party link to territory 
+TERRLINK-CER: MID3012 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3012 3 -- not maritime 
+MARITMID-CER: MID3012 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3012 3 -- not islands 
+ISLMID-CER: MID3012 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3012 3 -- not civil war 
+CIVWARMID-CER: MID3012 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3012 1 -- civil war link 
+CIVWARLINK-CER: MID3012 3 -- uncertain 
+CIVWARLINK-NOTES: MID3012 from Gibler, Miller, and Little (2016), a Moroccan force with French soldiers embedded supported Zairean troops fighting against rebels from Angola. There was an ongoing civil war in Zaire at the time. Coded civil war link because the civil war in Zaire, outside of this dyad, contributed to this MID. Coded uncertain because GML recommend this case be dropped, as no Angolan military forces were involved and the clash between French soldiers and Angolan rebels does not constitute a MID between France and Angola.
+
+COUPMID: MID3012 3 -- not coup 
+COUPMID-CER: MID3012 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3012 3 -- not coup link
+COUPLINK-CER: MID3012 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: New York Times, 4/5/1977. "Zaire Breaks Ties with Cuba, Charging Invasion Role." 
+New York Times 5/12/1977. "Mobutu, Shaken at Start of War, Has NEw Strength Two Months Later."
+Gibler, D.M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

@@ -1,0 +1,108 @@
+FILE: cm670694v11.0.txt
+DYAD: SAUDI ARABIA - QATAR
+RIVALRY: RIV1274
+DISPUTE(S): MID3569 MID4293 
+
+PSNOTES: 
+
+PS:19710903-20170604 .50 20170605-20209999 .25
+
+PS-UPDATE2020: Becomes a lesser rivalry - On 5 June 2017, Saudi Arabia along with Bahrain, Egypt and the United Arab Emirates severed all ties with Qatar. The reason given was Qatar's "embrace of various terrorist and sectarian groups aimed at destabilising the region".As part of this campaign, the Saudi-led quartet closed off their airspaces, territorial waters and land borders to Qatar. Saudi Arabia also suspended Qatar's involvement in the Yemen campaign. Saudis were the lead of the four in taking action and are coded as a lesser rivalry, whereas the threshold for this category is not met for the other three states vis-a-vis Qatar
+
+PS-LAST-CHANGED: 20220608
+PS-LAST-CHECKED: 20220608
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3569
+
+TERRMID: MID3569 1 -- territorial MID
+TERRMID-CER: MID3569 1 -- certain 
+TERRMID-NOTES: MID3569 from Gibler 2018, Qatar and Saudi Arabia were disputing a border region with oil deposits. In 1992, Qatar believed Saudi was building on the disputed region, and a clash ensued. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID3569 3 -- not third party link to territory 
+TERRLINK-CER: MID3569 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3569 3 -- not maritime 
+MARITMID-CER: MID3569 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3569 3 -- not islands 
+ISLMID-CER: MID3569 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3569 3 -- not civil war 
+CIVWARMID-CER: MID3569 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3569 3 -- not civil war link
+CIVWARLINK-CER: MID3569 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3569 3 -- not coup 
+COUPMID-CER: MID3569 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3569 3 -- not coup link
+COUPLINK-CER: MID3569 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4293
+
+TERRMID: MID4293 1 -- territorial MID
+TERRMID-CER: MID4293 1 -- certain 
+TERRMID-NOTES: MID4293 from Gibler 2018 and cm narrative, this was connected to the territorial dispute between Saudi Arabia and Qatar. See COUPMID-NOTES. 
+
+TERRLINK: MID4293 3 -- not third party link to territory 
+TERRLINK-CER: MID4293 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4293 3 -- not maritime 
+MARITMID-CER: MID4293 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4293 3 -- not islands 
+ISLMID-CER: MID4293 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4293 3 -- not civil war 
+CIVWARMID-CER: MID4293 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4293 3 -- not civil war link
+CIVWARLINK-CER: MID4293 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4293 1 -- coup MID
+COUPMID-CER: MID4293 1 -- certain 
+COUPMID-NOTES: MID4293 from cm narrative and Gibler 2018, in 1995 the defense minister (a political elite) in Qatar staged a coup and took control of the government. He then deployed troops to the border of the disputed region with Saudi Arabia, anticipating that the Saudis may take advantage of the turmoil to occupy the disputed region. Coded coup MID because this was connected to a coup in Qatar. 
+
+COUPLINK: MID4293 3 -- not coup link
+COUPLINK-CER: MID4293 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4293
+rivalry=670694 nationa=QATAR nationb=SAUDI ARABIA MID4293 19950627-19950628 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE
+fatalpb=0 lhostb=NO MILITARIZED ACTION 
+
+After a bloodless coup, Qatar placed its forces on alert along the Saudi Arabian border. This was done because Qatar feared that Saudi Arabia may take advantage of the disorder and occupy disputed land. First day of dispute was on 6/27/1995 and last day of dispute was on 6/28/1995.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Saudi Arabian troops and Qatar troops clashed near the border on September 30, 1992, resulting in the deaths of two Qatar soldiers. On October 1, 1992, Qatar announced that it would revoke the 1965 defense agreement with Saudi Arabia. Kuwait mediated an agreement between the countries on October 23, 1992.
+
+SOURCES-CM:
+none given
+
+NARRATIVE-CR:
+MID4293 After a bloodless coup, Qatar placed its forces on alert along the Saudi Arabian border. This was done because Qatar feared that Saudi Arabia may take advantage of the disorder and occupy disputed land.
+
+SOURCES-CR: COW narrative.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

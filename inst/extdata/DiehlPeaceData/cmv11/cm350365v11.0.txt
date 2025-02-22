@@ -1,0 +1,80 @@
+FILE: cm350365v11.0.txt
+DYAD: GREECE - RUSSIA/USSR
+RIVALRY: RIV924
+DISPUTE(S): MID96 MID2837 MID56 
+RIVALRY: RIV925
+DISPUTE(S): MID2365 
+
+PS-LAST-CHANGED: 20191115
+PS-LAST-CHECKED: 20191115
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID96 MID2837 MID56 
+
+MID2365 
+
+TERRMID: MID2365 3 -- not territory 
+TERRMID-CER: MID2365 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2365 3 -- not third party link to territory 
+TERRLINK-CER: MID2365 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2365 3 -- not maritime 
+MARITMID-CER: MID2365 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2365 3 -- not islands 
+ISLMID-CER: MID2365 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2365 1 -- civil war MID
+CIVWARMID-CER: MID2365 3 -- uncertain 
+CIVWARMID-NOTES: MID2365 from Gibler, Miller, and Little 2016, it is uncertain what events constitute this MID, but it is most likely connected to the Allies intervening in the Russian Civil War in 1918-1919. By COW's coding, this MID is triggered by France occupying Odessa, Ukraine and having a dispute with the invading Russians, but France did not intend to fight the Russians. GML recommend the case therefore be dropped, so this is coded uncertain. Greece is pulled in due to its support for France as one of the Allied powers. The Allies were intervening elsewhere in the Russian Civil War fighting against the Bolsheviks. Coded civil war MID because this was connected to Allied Powers intervention in the Russian Civil War (civil conflict within this dyad). 
+
+CIVWARLINK: MID2365 1 -- civil war link 
+CIVWARLINK-CER: MID2365 3 -- uncertain 
+CIVWARLINK-NOTES: MID2365 this MID involves Russian and French forces in Ukraine, outside this dyad, and the Russian forces invading Ukraine were connected to the Russian civil war. Coded uncertain because GML recommend this case be dropped. See CIVWARMID-NOTES. 
+
+COUPMID: MID2365 3 -- not coup 
+COUPMID-CER: MID2365 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2365 3 -- not coup link
+COUPLINK-CER: MID2365 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The *Kingdom of the Serbs, Croats, and Slovenes *(Yugoslavia) was formally proclaimed on December 4, 1918. Soviet troops entered Yugoslav territory on October 1, 1944, and Soviet troops liberated Nis and Belgrade on October 15-20, 1944. Yugoslav and Soviet representatives signed a 20-year treaty of friendship and mutual assistance on April 11, 1945. On February 10, 1948, the Soviet Union demanded that Yugoslavia form a federation with Bulgaria, but Yugoslavia rejected the demand on March 1, 1948. The Soviet Union withdrew its military and technical advisors from Yugoslavia on March 18, 1948. Yugoslavia was expelled from the *Communist Information Bureau* (Cominform) on June 28, 1948. The United States provided economic assistance to Yugoslavia in September 1949. The Albanian government expressed support for the Soviet Union on July 1, 1948. The Soviet Union severed diplomatic relations with Yugoslavia and rejected the treaty of friendship with Yugoslavia on September 28, 1949. The US agreed to provided military assistance to Yugoslavia on November 14, 1951. The Soviet Union resumed diplomatic relations with Yugoslavia on January 10, 1954. The US suspended economic and military assistance to Yugoslavia on July 16, 1956. On November 11, 1956, President Josip Tito of Yugoslavia condemned the Soviet invasion of Hungary. The Soviet Union suspended economic assistance to Yugoslavia between February 19 and Julu 29, 1957.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 602-603; Butterworth, 1976, 107-108; Ference, 1994, 337-391, 393-436; Jessup, 1998, 820-823; *Keesing*, July 10-17, 1948, September 3-10, 1949; Langer, 1972, 756-7, 1021-1023, 1207-1209; Taylor 304-8.
+
+NARRATIVE-CR:
+The disputes between the United Kingdom, Germany, Russia, Austria, and Italy on one side, and Greece on the other were largely a result of Greece's territorial ambitions in Crete and Macedonia and Greece's enmity towards Turkey. When Turkey experienced conflict with Russia, or when civil unrest occurred in the Balkans, Greece and Turkey usually found themselves at odds. When this occurred, Britain, Germany, Russia, Italy, and Austria all sought to protect their interests in the region by restraining Greece. Russia and Austria were usually more enthusiastic about military sanctions; the British typically preferred to try a diplomatic approach, and the Italians and Germans were most concerned about maintaining their status as new great powers and therefore being involved in great power deliberations.
+
+The first dispute between Russia and Greece was rooted in the poorly executed Russian administration of Bulgaria. The political divides in the Russian government played out in Bulgaria; the Russian diplomatic corps backed the conservatives, while the Russian military backed the liberals. This split left Bulgaria with more independence than the typical nineteenth century client of a major power. In 1885, eastern Roumelia revolted from Ottoman rule and expressed its desire to join with Bulgaria. The Great Powers considered how this would affect the future of Turkey and therefore Europe.
+
+Russia, Austria, and Germany all supported the idea of Turkish reclamation of eastern Roumelia, in spite of the fact that it would reverse the gains made by Bulgaria, a client of Russia. Britain opposed this action by the League of the Three Emperors. Turkish reoccupation of eastern Roumelia was not the issue that concerned the English; Britain was concerned with the apparent weakness of Turkey, as Turkey appealed to the other Great Powers for assistance rather than acting on its own to reestablish control in eastern Roumelia. 
+
+Greece saw an opportunity to move against Turkey by supporting eastern Roumelia, however the Great Powers demanded that Greece stay out of the brewing conflict. When Greece refused, Britain, Germany, Austria, Italy, and Russia all assisted in blockading Greece from 10 May to 7 June 1886 to force Greece to remain outside of the dispute. The Great Powers would not allow a smaller state to interfere with their interest in stabilizing Turkey.
+
+Great Power control over other Balkan states was less successful in limiting hostilities. The crisis worsened when Serbia demanded compensation for the Bulgarian gain in eastern Roumelia. This led to a November war between the two that lasted for two weeks and ended in a Serbian defeat. The Great powers largely avoided the conflict, as Bulgaria was a client of Russia and Serbia was a client of Austria. Austria did restrain Bulgaria from harming Serbia beyond the battlefield defeat, but did not move against Bulgaria directly. The League of Three Emperors survived the unrest and ultimately formed a compromise that allowed Bulgaria to maintain its new territory.
+
+The Great Powers were again involved in a conflict with Greece in the Cretean Revolution in May of 1896. In February of 1896, an insurrection in Crete (against Turkish rule) flared up again, which was fomented by Greeks who desired unification. In early July, the Great Powers persuaded the Sultan to restore the Pact of Halepa (of 1878), which had given substantial autonomy to Crete, but had been largely revoked after unrest in 1889 was met by repression by the Sultan. The restoration of Halepa was not sufficient to quell the unrest, and the rebels continued to fight.
+
+With the failure of the first diplomatic bid, the Great Powers were split. Austria proposed a blockade of Crete on 25 July 1896, but Britain refused to endorse this move on 29 July. The Great Powers compromised and pressured the Sultan to accept an agreement that was penned by the ambassadors of the Powers. This plan established an elaborate government in Crete which gave Christians both the executive and a super majority in the legislature; this temporarily satisfied the rebels. 
+
+On the second of February in 1897, the Cretean revolution began anew, again supported by Greece. Crete declared a union with Greece on 6 February, and public opinion essentially forced Greece to send vessels and soldiers to Crete. The Great Powers sympathized with Greece, but were afraid that Greece would move on to foment a revolution in Macedonia next, and that would not be acceptable. The Russian foreign minister Muraviev took the initiative and on 15 February suggested that the Powers hold the island and restrain Greece. Holding Crete was acceptable to Britain, but additional action against Greece did not enjoy British sanction. Thus, an Austrian-Russian proposal to blockade Pireaus was refused by Britain on 17 February. 
+
+Diplomatic attempts to forge a solution continued, but on 18 March 1897, the powers, noting Greece's refusal of their 2 March offer of an independent Crete, decided to use force. They blockaded Crete. By April 17 war erupted between Greece and Turkey over Crete. Russia prevented Serbia and Bulgaria from joining the fight against Turkey, and cooperated with Austria to prevent tensions between their respective clients (Bulgaria and Serbia) from leading to hostilities between the powers. 
+
+By early May, Greece appealed to the powers for assistance. A series of decisive defeats forced Greece to withdraw and accept any solution imposed upon them by the great powers. An armistice went into effect on 19 May, and a peace settlement was reached on 18 September 1897, with Turkey receiving only a small territorial gain and an indemnity from Greece. The fate of Crete remained unsettled until November of 1898 when the powers agreed to name Prince George of Greece as governor. (Langer 756-7, 788-9; Taylor 304-8)
+
+SOURCES-CR:
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.

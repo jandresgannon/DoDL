@@ -1,0 +1,97 @@
+FILE: cm678698v11.0.txt
+DYAD: YEMEN ARAB REPUBLIC(N.) - OMAN
+RIVALRY: RIV1277
+DISPUTE(S): MID3115 MID2783 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190430
+PS-LAST-CHECKED: 20190430
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3115
+
+TERRMID: MID3115 3 -- not territory
+TERRMID-CER: MID3115 3 -- uncertain 
+TERRMID-NOTES: MID3115 from Gibler, Miller, and Little 2016, USSR built up military bases in South Yemen near the Oman and North Yemen borders. This was originally coded as a MID between North Yemen and Oman, but these were Soviet actions and were not directed at Oman. Coded not territory because this did not involve a territorial dispute, and coded uncertain because GML recommend this case be dropped since it does not constitute a MID. 
+
+TERRLINK: MID3115 3 -- not third party link to territory 
+TERRLINK-CER: MID3115 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID3115 3 -- not maritime 
+MARITMID-CER: MID3115 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID3115 3 -- not islands 
+ISLMID-CER: MID3115 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID3115 3 -- not civil war 
+CIVWARMID-CER: MID3115 1 -- certain
+CIVWARMID-NOTES: MID3115 there is no indication in cm narrative, Gibler et al. 2016, or news coverage of this MID that the USSR was involved with rebel activity here. From Keesings (quoted in Gibler, Miller, and Little 2016), the Soviet Union was developing a naval base in the area. 
+
+CIVWARLINK: MID3115 3 -- not civil war link
+CIVWARLINK-CER: MID3115 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3115 3 -- not coup 
+COUPMID-CER: MID3115 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3115 3 -- not coup link
+COUPLINK-CER: MID3115 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2783
+
+TERRMID: MID2783 3 -- not territory
+TERRMID-CER: MID2783 3 -- uncertain 
+TERRMID-NOTES: MID2783 from Gibler 2018, in 1987 South Yemen and Oman clashed at their border. From Huth and Allee 2002, South Yemen and Oman were disputing their border. Coded not territory and coded uncertain because (per Gibler 2018) North Yemen is not a party to this dispute, and North Yemen's inclusion into this MID was a coding error. 
+
+TERRLINK: MID2783 3 -- not third party link to territory 
+TERRLINK-CER: MID2783 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2783 3 -- not maritime 
+MARITMID-CER: MID2783 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2783 3 -- not islands 
+ISLMID-CER: MID2783 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2783 3 -- not civil war 
+CIVWARMID-CER: MID2783 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2783 3 -- not civil war link
+CIVWARLINK-CER: MID2783 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2783 3 -- not coup 
+COUPMID-CER: MID2783 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2783 3 -- not coup link
+COUPLINK-CER: MID2783 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Gibler, D. M., S. V. Miller, and E. K. Little. 2016. "An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001." International Studies Quarterly. 60 (4): 719-730.
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+Keesing's 1981. South Yemen, Soviet Union - New Head of State - Foreign Policy Developments Party and Cabinet Appointments. In: Keesing's Record of World Events. Vol. 27. Keesing's Worldwide, LLC: 30745. 

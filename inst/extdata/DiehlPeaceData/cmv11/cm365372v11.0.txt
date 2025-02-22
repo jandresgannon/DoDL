@@ -1,0 +1,452 @@
+FILE: cm365372v11.0.txt
+DYAD: RUSSIA/USSR-GEORGIA
+RIVALRY: RIV983
+DISPUTE(S): MID3561 MID4096 MID4212 MID4242 
+
+PS: 19911226-20209999 0.0 
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220303
+PS-LAST-CHECKED: 20220303
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3561 
+
+TERRMID: MID3561 3 -- not territory 
+TERRMID-CER: MID3561 1 -- certain 
+TERRMID-NOTES: MID3561 from Gibler 2018, after Georgian independence from Russia, Georgia faced separatist rebels, and a civil war erupted. Russia supported the rebels in an attempt to impose costs on Georgia to coerce them into joining the Commomwealth of Independent States (CIS), an international organization made of former Soviet republics. Eventually, Goergia conceded by joining the CIS, and Russia helped suppress the rebellion. Coded not territory because this was connected to a dispute concerning Georgia's membership in an international organization, not a boundary dispute. 
+
+TERRLINK: MID3561 3 -- not third party link to territory 
+TERRLINK-CER: MID3561 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3561 3 -- not maritime 
+MARITMID-CER: MID3561 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3561 3 -- not islands 
+ISLMID-CER: MID3561 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3561 1 -- civil war MID
+CIVWARMID-CER: MID3561 1 -- certain 
+CIVWARMID-NOTES: MID3561 this MID involved a separatist civil war in Georgia, within this dyad. See TERRMID-NOTES. 
+
+CIVWARLINK: MID3561 3 -- not civil war link 
+CIVWARLINK-CER: MID3561 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3561 3 -- not coup 
+COUPMID-CER: MID3561 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3561 3 -- not coup link
+COUPLINK-CER: MID3561 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4096 
+
+TERRMID: MID4096 1 -- territorial MID
+TERRMID-CER: MID4096 1 -- certain 
+TERRMID-NOTES: MID4096 from Gibler 2018, Russia moved into an area disputed by Russia and Georgia and set up checkpoints well within the disputed territory, allegedly to prevent smugglers from entering Russia. Minor clashes ensued. Russia eventually withdrew from the disputed territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID4096 3 -- not third party link to territory 
+TERRLINK-CER: MID4096 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4096 3 -- not maritime 
+MARITMID-CER: MID4096 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4096 3 -- not islands 
+ISLMID-CER: MID4096 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4096 3 -- not civil war 
+CIVWARMID-CER: MID4096 1 -- certain 
+CIVWARMID-NOTES: MID4096 Gibler 2018 and cm narrative are explicit about the actors involved in this MID, Georgian alcohol smugglers, but they were not militarized rebels. 
+
+CIVWARLINK: MID4096 3 -- not civil war link 
+CIVWARLINK-CER: MID4096 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4096 3 -- not coup 
+COUPMID-CER: MID4096 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4096 3 -- not coup link
+COUPLINK-CER: MID4096 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4212 
+
+TERRMID: MID4212 3 -- not territory 
+TERRMID-CER: MID4212 1 -- certain 
+TERRMID-NOTES: MID4212 Russia and Georgia had an active territorial dispute, but this MID did not involve that dispute. Gibler 2018 and cm narrative are explicit about the motivation for this MID, which was in Russia attacking Chechen rebels, and not in Russia advancing a territorial claim. 
+
+TERRLINK: MID4212 3 -- not third party link to territory 
+TERRLINK-CER: MID4212 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4212 3 -- not maritime 
+MARITMID-CER: MID4212 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4212 3 -- not islands 
+ISLMID-CER: MID4212 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4212 1 -- civil war MID
+CIVWARMID-CER: MID4212 1 -- certain 
+CIVWARMID-NOTES: MID4212 from Gibler 2018, Russia was fighting against Chechen separatist rebels in a civil war, and Russian helicopters enetered Georgian territory to attack the rebels. Coded civil war MID because this was connected to a civil war in Russian territory. 
+
+CIVWARLINK: MID4212 3 -- not civil war link 
+CIVWARLINK-CER: MID4212 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4212 3 -- not coup 
+COUPMID-CER: MID4212 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4212 3 -- not coup link
+COUPLINK-CER: MID4212 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4242 
+
+TERRMID: MID4242 3 -- not territory 
+TERRMID-CER: MID4242 1 -- certain 
+TERRMID-NOTES: MID4242 Russia and Georgia had an active territorial dispute, but this MID did not involve that dispute. Gibler 2018 and cm narrative are explicit about the motivation for this MID, which was in Russia attacking Chechen rebels, and not in Russia advancing a territorial claim. 
+
+TERRLINK: MID4242 3 -- not third party link to territory 
+TERRLINK-CER: MID4242 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4242 3 -- not maritime 
+MARITMID-CER: MID4242 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4242 3 -- not islands 
+ISLMID-CER: MID4242 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4242 1 -- civil war MID
+CIVWARMID-CER: MID4242 1 -- certain 
+CIVWARMID-NOTES: MID4242 from Gibler 2018, Russia was on an offensive against Chechen rebels and crossed into Georgian territory. Georgia protested, triggering this MID. Coded civil war MID because this is connected to a civil war in Russian territory. 
+
+CIVWARLINK: MID4242 3 -- not civil war link 
+CIVWARLINK-CER: MID4242 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4242 3 -- not coup 
+COUPMID-CER: MID4242 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4242 3 -- not coup link
+COUPLINK-CER: MID4242 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4416 
+
+TERRMID: MID4416 1 -- territorial MID
+TERRMID-CER: MID4416 1 -- certain 
+TERRMID-NOTES: MID4416 Russia and Georgia had an active territorial dispute over South Ossetia, an area to which Russia deployed troops in this MID. Georgia protested this. Coded territorial MID because although Russia was pursuing rebels in this MID, this is connected to the dispute in South Ossetia as Russia deployes troops there and Georgia protests. 
+
+TERRLINK: MID4416 3 -- not third party link to territory 
+TERRLINK-CER: MID4416 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4416 3 -- not maritime 
+MARITMID-CER: MID4416 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4416 3 -- not islands 
+ISLMID-CER: MID4416 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4416 1 -- civil war MID
+CIVWARMID-CER: MID4416 1 -- certain 
+CIVWARMID-NOTES: MID4416 from cm narrative, Georgia protests the Russian deployment of additional troops and equipment to the Tskhinval area (South Ossetia). Georgia claims these actions run counter to the spirit of the Conventional Armed Forces in Europe Treaty. The two have an outstanding disagreement over the separatist South Ossetia and Abkhazia regions, and are simultaneously engaged in a dispute over Russian attempts to dislodge Chechen rebels from the Pankisi Gorge. Coded civil war MID because this was connected to Russia fighting against militarized rebels. 
+
+CIVWARLINK: MID4416 3 -- not civil war link 
+CIVWARLINK-CER: MID4416 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4416 3 -- not coup 
+COUPMID-CER: MID4416 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4416 3 -- not coup link
+COUPLINK-CER: MID4416 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4420 
+
+TERRMID: MID4420 3 -- not territory 
+TERRMID-CER: MID4420 1 -- certain 
+TERRMID-NOTES: MID4420 Russia and Georgia had an active territorial dispute, but this MID did not involve that dispute. 
+
+TERRLINK: MID4420 3 -- not third party link to territory 
+TERRLINK-CER: MID4420 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4420 3 -- not maritime 
+MARITMID-CER: MID4420 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4420 3 -- not islands 
+ISLMID-CER: MID4420 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4420 1 -- civil war MID
+CIVWARMID-CER: MID4420 1 -- certain 
+CIVWARMID-NOTES: MID4420 from cm narrative, Russian peacekeeping forces deployed troops and armored equipment in villages outside their jurisdiction. Georgian officials protested the incident. Russian officials claimed the troops were searching for a Russian soldier who was suspected to have been kidnapped. Coded civil war because this was connected to Georgia's civil conflict against separatists in its territory. Russia deployed peacekeepers to that conflict. 
+
+CIVWARLINK: MID4420 3 -- not civil war link 
+CIVWARLINK-CER: MID4420 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4420 3 -- not coup 
+COUPMID-CER: MID4420 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4420 3 -- not coup link
+COUPLINK-CER: MID4420 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4422 
+
+TERRMID: MID4422 1 -- territorial MID
+TERRMID-CER: MID4422 1 -- certain 
+TERRMID-NOTES: MID4422 from Gibler 2018 and cm narrative, this MID invovles Russia fighting Chehen rebels but is also connected to the dispute over South Ossetia. Per cm narrative, Russia violated the airspace over the disputed area as a show of force toward Georgia. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID4422 3 -- not third party link to territory 
+TERRLINK-CER: MID4422 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4422 3 -- not maritime 
+MARITMID-CER: MID4422 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4422 3 -- not islands 
+ISLMID-CER: MID4422 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4422 1 -- civil war MID
+CIVWARMID-CER: MID4422 1 -- certain 
+CIVWARMID-NOTES: MID4422 from cm narrative, On 4/2/2004, a vehicle transporting Russian officials is fired upon by Georgian forces; there is no evidence of return fire. On 7/6 of the same year, Georgia detains trucks and equipment of Russian peacekeeping forces, which Russian officials then protest. A month later, a Russian military jet violates Georgian airspace near South Ossetia. This violation appears to be linked with the South Ossetia/Abkhazia issue incompatibility between the two states and not their simultaneous dispute over Chechen encampments in the Pankisi Gorge. Coded civil war MID because this was connected to Georgia's war against separatist rebels in South Ossetia. 
+
+CIVWARLINK: MID4422 3 -- not civil war link 
+CIVWARLINK-CER: MID4422 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4422 3 -- not coup 
+COUPMID-CER: MID4422 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4422 3 -- not coup link
+COUPLINK-CER: MID4422 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4424 
+
+TERRMID: MID4424 1 -- territorial MID
+TERRMID-CER: MID4424 1 -- certain 
+TERRMID-NOTES: MID4424 from Gibler 2018 and cm narrative, this MID involves several incidents connected to the disputed territories of South Ossetia and Abkhazia. Russia violated Georgian territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID4424 3 -- not third party link to territory 
+TERRLINK-CER: MID4424 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4424 3 -- not maritime 
+MARITMID-CER: MID4424 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4424 3 -- not islands 
+ISLMID-CER: MID4424 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4424 1 -- civil war MID
+CIVWARMID-CER: MID4424 1 -- certain 
+CIVWARMID-NOTES: MID4424 from cm narrative, Russia and Georgia engage in several militarized incidents over the South Ossetia/Abkhazia Issue. Over the course of the dispute, Russian troops violated undisputed Georgian territory, and Georgia seizes Russian military officials accused of spying. Coded civil war MID because this was connected to Georgia's civil war against separatist rebels in South Ossetia, which involved Russian support for the rebels. 
+
+CIVWARLINK: MID4424 3 -- not civil war link 
+CIVWARLINK-CER: MID4424 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4424 3 -- not coup 
+COUPMID-CER: MID4424 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4424 3 -- not coup link
+COUPLINK-CER: MID4424 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4436 
+
+TERRMID: MID4436 1 -- territorial MID
+TERRMID-CER: MID4436 1 -- certain 
+TERRMID-NOTES: MID4436 from Gibler 2018 and cm narrative, this is the Russo-Georgian War from 2007-2010. The issue involving Georgian separatist rebels in South Ossetia led to increased tensions between the countries until war broke out, and Russia occupied parts of South Ossetia and the Kodori Gorge and claimed them. France eventually negotiated a ceasefire but it was not effective. Coded territorial MID because this was connected to a war involving Russian occupation and a claim on territory. 
+
+TERRLINK: MID4436 3 -- not third party link to territory 
+TERRLINK-CER: MID4436 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4436 3 -- not maritime 
+MARITMID-CER: MID4436 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4436 3 -- not islands 
+ISLMID-CER: MID4436 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4436 1 -- civil war MID
+CIVWARMID-CER: MID4436 1 -- certain 
+CIVWARMID-NOTES: MID4436 from cm narrative, this MID also involves militarized incidents connected to separtist rebels in Georgia in the lead-up to the war. 
+
+CIVWARLINK: MID4436 3 -- not civil war link 
+CIVWARLINK-CER: MID4436 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4436 3 -- not coup 
+COUPMID-CER: MID4436 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4436 3 -- not coup link
+COUPLINK-CER: MID4436 1 -- certain 
+COUPLINK-NOTES: 
+
+MID4 2002-2010:
+
+MID4242
+
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4242 20011018-20051115 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+Russian forces repeatedly violate Georgian airspace and attack Georgian territory amid operations undertaken to expel Chechen rebels from the Pankisi Gorge. Georgia protests these actions and frequently responds by fortifying its border. During the time of this dispute, the two states also become engaged in multiple disputes over the separatist regions of Abkhazia and South Ossetia. First day of dispute was on 11/18/2001 and last day of dispute was on 11/15/2005.
+
+MID4416
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4416 20030203-20030203 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Georgia protests the Russian deployment of additional troops and equipment to the Tskhinval area (South Ossetia). Georgia claims these actions run counter to the spirit of the Conventional Armed Forces in Europe Treaty. The two have an outstanding disagreement over the separatist South Ossetia and Abkhazia regions, and are simultaneously engaged in a dispute over Russian attempts to dislodge Chechen rebels from the Pankisi Gorge. First day of dispute was on 2/3/2003 and last day of dispute was on 2/3/2003.
+
+MID4420
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4420 20030920-20030920 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Russian peacekeeping forces deployed troops and armored equipment in villages outside their jurisdiction. Georgian officials protested the incident. Russian officials claimed the troops were searching for a Russian soldier who was suspected to have been kidnapped. The two have an outstanding disagreement over the separatist South Ossetia and Abkhazia regions, and are simultaneously engaged in a dispute over Russian attempts to dislodge Chechen rebels from the Pankisi Gorge. First day of dispute was on 9/20/2003 and last day of dispute was on 9/20/2003.
+
+MID4422
+rivalry=365372 nationa=GEORGIA nationb=RUSSIA/USSR MID4422 20040402-20040806 
+ revtype1a=NOT APPLICABLE revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+On 4/2/2004, a vehicle transporting Russian officials is fired upon by Georgian forces; there is no evidence of return fire. On 7/6 of the same year, Georgia detains trucks and equipment of Russian peacekeeping forces, which Russian officials then protest. A month later, a Russian military jet violates Georgian airspace near South Ossetia. This violation appears to be linked with the South Ossetia/Abkhazia issue incompatibility between the two states and not their simultaneous dispute over Chechen encampments in the Pankisi Gorge. First day of dispute was on 4/2/2004 last day of dispute was on 8/6/2004. 
+
+MID4424
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4424 20050322-20060929 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=USE OF FORCE 
+
+Russia and Georgia engage in several militarized incidents over the South Ossetia/Abkhazia Issue. Over the course of the dispute, Russian troops violated undisputed Georgian territory, and Georgia seizes Russian Military officials accused of spying. The two states have frequently been engaged in such disputes over South Ossetia and Abkhazia, as well as the Chechen encampment in the Pankisi Gorge. First day of dispute was on 3/22/2005 and last day of dispute was on 9/29/2006.
+
+MID4436
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4436 20070806-20100924 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=26-100 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=101-250 DEATHS
+fatalpb=. lhostb=USE OF FORCE 
+
+Russia and Georgia engage in several militarized incidents over the South Ossetia/Abkhazia issue, culminating in the 2008 Russia-Georgia War. The war resulted from a Georgian attempt to retake South Ossetia. Russia launched a counter-offensive in both South Ossetia and Abkhazia, ultimately driving Georgian forces from each region. The conflict did not produce one- thousand battlefield deaths, and it is, therefore, not coded as a war. While the bulk of hostilities were short-lived, the two states continued to engage in militarized incidents through 2010, typically over Russian land-holdings in the region following the war. While Russia attained a clear military victory during the 2008 war, the underlying issue over the rule of South Ossetia and Abkhazia remains unresolved, and the dispute is thus coded as ending in a stalemate. First day of dispute 8/6/2007 and last day of dispute was on 9/24/2010.
+
+MID3 1993-2001:
+
+MID3561
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID3561 19920613-19931026 
+ revtype1a=POLICY revtype2a=. fatala=26-100 DEATHS fatalpa=. lhosta=USE OF FORCE 
+ revtype1b=POLICY revtype2b=. fatalb=26-100 DEATHS fatalpb=. lhostb=USE OF FORCE
+
+First day of dispute was on 6/13/1992 and last day of dispute was on 10/26/1993.
+
+NO DISPUTE NARRATIVE AVAILABLE FROM COW
+
+MID4096
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4096 19970825-19971223 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Russia moved a border post into Georgian territory for this period in the hopes of stemming the tide of illegal Georgian alcohol smuggling into Russia. First day of dispute was on 8/25/1997 and last day of dispute was on 12/23/1997.
+
+MID4212
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4212 19991117-20010314 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=DISPLAY OF FORCE 
+
+The background of the dispute is that Chechen rebels had occupied two strategic gorges in Georgia, which Georgia appeared to be powerless to halt. Russia asked the Georgian government for permission to conduct attacks on those gorges and to use Georgian territory to facilitate further activity. Georgia refused this request. Nevertheless, Russian helicopters, gunships, and warplanes made several attacks on Chechen rebels near the Georgian-Chechen border, with some of the attacks taking place on Georgian territory. Georgia protested the attacks. First day of dispute was on 11/17/1999 and last day of dispute was on 3/14/2001.
+
+MID4242
+rivalry=365372 nationa=RUSSIA/USSR nationb=GEORGIA MID4242 20011018-20051115 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+RIVNOTES: 
+
+Georgia claims that Russia had violated their airspace. Russia denies this claim. First day of dispute was on 10/18/2001 and last day of dispute was on 11/15/2005.
+
+NARRATIVE-CM:
+
+MID3561 lasted from June 13, 1992 to October 26, 1993. This is the conflict over Abkhazia during which Russia intervened with forces to support the Russian population in the break-away republic of Abkhazia, inside Georgian territory.
+
+MID4096 lasted from August 25, 1997 to December 23, 1997. This dispute is over the fact that Russian soldiers guard the border between Georgia and Turkey as well as the Georgian-Russian border and they stopped the trade flows from Turkey through Georgia and then on to Russia. Georgian officials accused Russia of treating Georgia as a Russian province. 
+
+MID4212 lasted from November 17, 1999 to March 14, 2001. Russian helicopter gunships attacked a village in the republic of Georgia and a control post at the border with Chechenia. Three Mi-24 combat helicopters fired upon the village of Shatili about five kilometres inside Georgia, according to the commander of the Georgia border forces, General Valery Chkheidze. There were said to be "many casualties". The border between independent Georgia and the breakaway Russian republic contains the last routes not controlled by Russian forces currently fighting Islamic Chechen rebels. Georgia recently refused a request by Russia to station troops in the area to prevent movement of arms and newly recruited guerrilla fighters into the combat zone.
+
+MID4242 was a one day incident on October 18, 2001. Georgian Defense Ministry spokeswoman Nino Sturua said that four Su-25 fighter jets had flown into Georgia territory from Russia and returned to Russia after flying over the Kodor Gorge-where fighting broke out two weeks before between Abkhazians and Georgian and Chechen guerrillas-and the Svanetia region. Five minutes after the jets left, six Su-25 jets flew the same tour and returned to Russia, she said.
+
+Georgia declared its independence on April 9, 1991 and it was acknowledge and finalized on December 25, 1991. In 1992-4, fighting erupts in the Georgian republics of South Ossetia and Abkhazia, where the majority populations are traditionally pro-Russian and seek to declare independence. In 1994, under a shaky ceasefire agreement, a mainly Russian force is deployed on the border between Abkhazia and Russia. Some 250,000 ethnic Georgians have fled the republic during the fighting. In 1999, Russia begins a huge new military operation in its breakaway republic of Chechnya, which borders a mountainous region of Georgia. It accuses the latter of providing refuge for Chechen rebels. Maintaining his tough tone with Moscow, Georgia's president said on November 29, 1999, that the Russian military would have to leave its weapons behind when it closes two of its four bases in Georgia. Russia promised earlier this month to close two bases it has kept in Georgia since the 1991 Soviet collapse. It was seen as a victory for Georgian President Eduard Shevardnadze, who has sought to distance Georgia from Russia and forge closer ties with the West. The Russian reduction was agreed upon as part of a larger treaty on European security that was signed at a summit in Istanbul, Turkey. Georgia had become increasingly impatient with the large Russian presence, and Shevardnadze has been increasingly outspoken in calling for the Russians to leave. ''As for the weapons stationed at those bases, I think they're the property of Georgia,'' Shevardnadze said in a radio interview. ''We are ready for certain compromises so relations with Russia aren't spoiled.'' Shevardnadze said additional talks on the bases, which are to be closed by July 1, 2001, must begin ''as quickly as possible.'' Russia has about 20,000 troops in Georgia, and the closure of the bases in Gudauta, in Georgia's breakaway province of Abkhazia, and Vaziani, near the Georgian capital Tbilisi, would halve that number. Russia would still have two remaining bases. Shevardnadze's comments were sure to further irritate Moscow, which has been extremely critical of Georgia, and accused it of assisting militants in breakaway Chechnya. Russian troops have been battling the militants since August in Chechnya, which shares a border with Georgia. The Russian claim that the Chechens have set up satellite communication equipment on Georgian territory, though Shevardnadze dismissed the allegations as ''silly inventions.'' Relations between Russia and Georgia have been strained since separatists in Georgia's Abkhazia province drove out government forces in a 1992-93 war. Georgia has accused Russia of siding with the separatists and failing to ensure the return of some 300,000 refugees to the province. Russian peacekeepers have been deployed in the region since 1994. In 1999, a partnership agreement between Georgia and the European Union comes into force. Starting Dec. 5, 2000, Russia begins imposing visa restrictions on Georgia. But Russia exempts residents of the breakaway Georgian regions of Abkhazia and South Ossetia/Tskhinvali from this regime The strained relations between Russia and Georgia have reached their climax. Russia started to impose visa restrictions on Georgian citizens on Dec. 5 and stopped supplying electricity to Georgia last week. Georgian citizens are now being required to hold a valid visa in order to travel to Russia; however, it is interesting that Russia, taking a unilateral action, exempted residents of the breakaway Georgian regions of Abkhazia and South Ossetia/Tskhinvali from these rules while still enforcing them against Georgia. On October 19, 2000, Russian Vice Premier Ilya Klebanov said that Russia may use its levers if Georgia insists on the dismantling of Russian military bases. "Russian-Georgian negotiations that began in Tbilisi were expected to break the deadlock in the relations between the two states. There was even talk among observers that the relations between Moscow and Tbilisi are worse than at any time since the collapse of the Soviet Union, worse even than during the Abkhazia war.
+
+"According to the Foreign Ministry and the State Chancellery of Georgia, the talks between Russia and Georgia began with a restatement of the former positions of the two sides. Tbilisi insists that two Russian military bases, in Vaziani and Gudauta, be dismantled before July 1, 2001 and two more, in Batumi and Akhalkalaki, before the end of 2003. New unpleasant elements have crept into the Russian-Georgian disputes over the issue of bases. "In response to Georgia's request that Russian troops be withdrawn, Vice Premier Ilya Klebanov who leads the Russian delegation said that Russia has fully met its obligations to the OSCE and the European community under the Conventional Forces in Europe Treaty and has withdrawn from Georgia its excess military hardware with the help of the Black Sea Fleet... The Vice Premier hinted that if Georgia refuses to recognize the Batumi and Akhalkalaki bases, Russia will refuse to dismantle the first two bases. So, all the four military bases will stay in Georgia. "By Wednesday evening the parties had not reached a compromise. The solution proposed by Georgia-transforming the Gudauta military base in Abkhazia into a that could be used by Russian peacekeepers-does not suit Russia. "Mr. Klebanov made it clear that if Georgia insisted on dismantling all the four bases, Russia could press into service some strong levers and demand the introduction of a visa regime and the repayment of Georgia's $180 million debt. In response Georgia raises the question of the foreign assets of the Soviet Union in which Georgia has a 6-percent share costing about 15 billion dollars. In 2001, new fighting in Abkhazia, where pro-independence forces have formed their own government. In 2002, Georgia accuses Russia of violating its sovereignty by bombing Chechen rebels on its territory. Moscow denies the charge. Angry accusations between Russia and Georgia rose in pitch on August 28, 2002, as President Vladimir Putin accused Russia's tiny neighbor of making a show instead of real efforts to combat Chechen militants Moscow says have found refuge in its Pankisi Gorge. Putin's remarks drew a quick response from Georgia, where a spokesman for President Eduard Shevardnadze accused Russia of deliberately fueling tension in order to bring the former Soviet republic back under Kremlin control. In acerbic remarks carried by Russian television networks, Putin derided Georgia for first denying the presence of any militants on its territory, then refusing to pool efforts with Russia to combat them.
+
+"Without the active support of Russia we will keep pushing these terrorists ... back and forth" between Georgia and Chechnya, Putin said while attending military exercises in Siberia. Georgia has rejected Russia's demands to let its troops enter the Pankisi Gorge near the Chechen border and launched its own security sweep in the area on Sunday. Washington believes some militants there could be linked to al-Qaida, and it has sent U.S. military instructors to teach Georgian troops anti-terrorist skills. The Georgian operation in Pankisi has vexed Russian officials, who said Georgia should not simply be pushing militants out but arresting them and handing them over to Russia-or killing them and handing over the bodies. Georgian President Eduard Shevardnadze has said that the operation was preceded by his government's warning to rebels to leave Georgia in order to avoid bloodshed, and the Georgian troops have not reported finding any militants in Pankisi so far. "Let's hope that what the Georgian leadership is doing now won't be limited to an imitation of action," Putin said. "Let's hope that it has the honest intention of getting rid of the terrorists on its soil." He likened rebels allegedly holed up in Georgia to al-Qaida terrorists in Afghanistan, saying that their presence "inflicts real damage on Russia" as they ship weapons and mount raids into Chechnya. Shevardnadze's spokesman Kakha Imnadze accused Russia of deliberately jacking up tension in order to "invade not just Pankisi, but Tbilisi as well." Tbilisi is Georgia's capital. Georgia officially applies to join the North Atlantic Treaty Organization in 2002; the arrival in the country of 200 military instructors from the United States further angers Russia. The Caucasian republic also agrees to a US plan to build a key pipeline across its territory, carrying gas westwards from Azerbaijan without passing through Russia. In 2004, following a year of agitation sparked by student activists, a peaceful "Rose Revolution" leads to elections in Georgia which bring to power a pro-western grouping under Mikhail Saakashvili. Fighting in Adjaria, another restive region of Georgia, sparks more tension with Moscow. In 2005, US President George W. Bush visits Georgia and praises the "Rose Revolution"; Washington agrees to provide financial aid. Georgia and Russia reach agreement on the removal of remaining Russian bases from the Caucasian republic. In January 2006, Georgia shivers in midwinter cold after explosions destroy two pipelines bringing gas from Russia. In September 2006, in the Georgian capital of Tbilisi, officials arrest four Russian officers accused of spying. The move sparks a major new crisis with Moscow. Russia's Foreign Ministry on September 22, 2006, strongly criticized NATO's decision to deepen its cooperation with Georgia, saying the move could upset fragile stability in the Caucasus and hurt Russia's interests. Mikhail Saakashvili lashed out at Russia, accusing Moscow of waging a "gangster occupation" of his nation and seeking to annex Georgia's separatist provinces.
+
+SOURCES-CM: Russian Press Digest June 16, 1992; Associated Press November 29, 1999; August 28, 2002; Turkish Daily News December 14, 2000; Russian Press Digest May 18, 1993; October 21, 1993; March 7, 1997; October 19, 2000; Xinhua December 23, 1999; Agence France Presse September 22, 2006; October 2, 2006; November 19, 2006; TASS January 23, 2004
+
+NARRATIVE-CR:
+
+MID3561 lasted from June 13, 1992 to October 26, 1993. This is the conflict over Abkhazia during which Russia intervened with forces to support the Russian population in the break-away republic of Abkhazia, inside Georgian territory.
+
+MID4096 lasted from August 25, 1997 to December 23, 1997. This dispute is over the fact that Russian soldiers guard the border between Georgia and Turkey as well as the Georgian-Russian border and they stopped the trade flows from Turkey through Georgia and then on to Russia. Georgian officials accused Russia of treating Georgia as a Russian province. 
+
+MID4212 lasted from November 17, 1999 to March 14, 2001. Russian helicopter gunships attacked a village in the republic of Georgia and a control post at the border with Chechenia. Three Mi-24 combat helicopters fired upon the village of Shatili about five kilometres inside Georgia, according to the commander of the Georgia border forces, General Valery Chkheidze. There were said to be "many casualties". The border between independent Georgia and the breakaway Russian republic contains the last routes not controlled by Russian forces currently fighting Islamic Chechen rebels. Georgia recently refused a request by Russia to station troops in the area to prevent movement of arms and newly recruited guerrilla fighters into the combat zone.
+
+MID4242 was a one day incident on October 18, 2001. Georgian Defense Ministry spokeswoman Nino Sturua said that four Su-25 fighter jets had flown into Georgia territory from Russia and returned to Russia after flying over the Kodor Gorge-where fighting broke out two weeks before between Abkhazians and Georgian and Chechen guerrillas-and the Svanetia region. Five minutes after the jets left, six Su-25 jets flew the same tour and returned to Russia, she said.
+
+Georgia declared its independence on April 9, 1991 and it was acknowledge and finalized on December 25, 1991. In 1992-4, fighting erupts in the Georgian republics of South Ossetia and Abkhazia, where the majority populations are traditionally pro-Russian and seek to declare independence. In 1994, under a shaky ceasefire agreement, a mainly Russian force is deployed on the border between Abkhazia and Russia. Some 250,000 ethnic Georgians have fled the republic during the fighting. In 1999, Russia begins a huge new military operation in its breakaway republic of Chechnya, which borders a mountainous region of Georgia. It accuses the latter of providing refuge for Chechen rebels. Maintaining his tough tone with Moscow, Georgia's president said on November 29, 1999, that the Russian military would have to leave its weapons behind when it closes two of its four bases in Georgia. Russia promised earlier this month to close two bases it has kept in Georgia since the 1991 Soviet collapse. It was seen as a victory for Georgian President Eduard Shevardnadze, who has sought to distance Georgia from Russia and forge closer ties with the West. The Russian reduction was agreed upon as part of a larger treaty on European security that was signed at a summit in Istanbul, Turkey. Georgia had become increasingly impatient with the large Russian presence, and Shevardnadze has been increasingly outspoken in calling for the Russians to leave. ''As for the weapons stationed at those bases, I think they're the property of Georgia,'' Shevardnadze said in a radio interview. ''We are ready for certain compromises so relations with Russia aren't spoiled.'' Shevardnadze said additional talks on the bases, which are to be closed by July 1, 2001, must begin ''as quickly as possible.'' Russia has about 20,000 troops in Georgia, and the closure of the bases in Gudauta, in Georgia's breakaway province of Abkhazia, and Vaziani, near the Georgian capital Tbilisi, would halve that number. Russia would still have two remaining bases. Shevardnadze's comments were sure to further irritate Moscow, which has been extremely critical of Georgia, and accused it of assisting militants in breakaway Chechnya. Russian troops have been battling the militants since August in Chechnya, which shares a border with Georgia. The Russian claim that the Chechens have set up satellite communication equipment on Georgian territory, though Shevardnadze dismissed the allegations as ''silly inventions.'' Relations between Russia and Georgia have been strained since separatists in Georgia's Abkhazia province drove out government forces in a 1992-93 war. Georgia has accused Russia of siding with the separatists and failing to ensure the return of some 300,000 refugees to the province. Russian peacekeepers have been deployed in the region since 1994. In 1999, a partnership agreement between Georgia and the European Union comes into force. Starting Dec. 5, 2000, Russia begins imposing visa restrictions on Georgia. But Russia exempts residents of the breakaway Georgian regions of Abkhazia and South Ossetia/Tskhinvali from this regime The strained relations between Russia and Georgia have reached their climax. Russia started to impose visa restrictions on Georgian citizens on Dec. 5 and stopped supplying electricity to Georgia last week. Georgian citizens are now being required to hold a valid visa in order to travel to Russia; however, it is interesting that Russia, taking a unilateral action, exempted residents of the breakaway Georgian regions of Abkhazia and South Ossetia/Tskhinvali from these rules while still enforcing them against Georgia. On October 19, 2000, Russian Vice Premier Ilya Klebanov said that Russia may use its levers if Georgia insists on the dismantling of Russian military bases. "Russian-Georgian negotiations that began in Tbilisi were expected to break the deadlock in the relations between the two states. There was even talk among observers that the relations between Moscow and Tbilisi are worse than at any time since the collapse of the Soviet Union, worse even than during the Abkhazia war.
+
+"According to the Foreign Ministry and the State Chancellery of Georgia, the talks between Russia and Georgia began with a restatement of the former positions of the two sides. Tbilisi insists that two Russian military bases, in Vaziani and Gudauta, be dismantled before July 1, 2001 and two more, in Batumi and Akhalkalaki, before the end of 2003. New unpleasant elements have crept into the Russian-Georgian disputes over the issue of bases. "In response to Georgia's request that Russian troops be withdrawn, Vice Premier Ilya Klebanov who leads the Russian delegation said that Russia has fully met its obligations to the OSCE and the European community under the Conventional Forces in Europe Treaty and has withdrawn from Georgia its excess military hardware with the help of the Black Sea Fleet... The Vice Premier hinted that if Georgia refuses to recognize the Batumi and Akhalkalaki bases, Russia will refuse to dismantle the first two bases. So, all the four military bases will stay in Georgia. "By Wednesday evening the parties had not reached a compromise. The solution proposed by Georgia-transforming the Gudauta military base in Abkhazia into a that could be used by Russian peacekeepers-does not suit Russia. "Mr. Klebanov made it clear that if Georgia insisted on dismantling all the four bases, Russia could press into service some strong levers and demand the introduction of a visa regime and the repayment of Georgia's $180 million debt. In response Georgia raises the question of the foreign assets of the Soviet Union in which Georgia has a 6-percent share costing about 15 billion dollars. In 2001, new fighting in Abkhazia, where pro-independence forces have formed their own government. In 2002, Georgia accuses Russia of violating its sovereignty by bombing Chechen rebels on its territory. Moscow denies the charge. Angry accusations between Russia and Georgia rose in pitch on August 28, 2002, as President Vladimir Putin accused Russia's tiny neighbor of making a show instead of real efforts to combat Chechen militants Moscow says have found refuge in its Pankisi Gorge. Putin's remarks drew a quick response from Georgia, where a spokesman for President Eduard Shevardnadze accused Russia of deliberately fueling tension in order to bring the former Soviet republic back under Kremlin control. In acerbic remarks carried by Russian television networks, Putin derided Georgia for first denying the presence of any militants on its territory, then refusing to pool efforts with Russia to combat them.
+
+"Without the active support of Russia we will keep pushing these terrorists ... back and forth" between Georgia and Chechnya, Putin said while attending military exercises in Siberia. Georgia has rejected Russia's demands to let its troops enter the Pankisi Gorge near the Chechen border and launched its own security sweep in the area on Sunday. Washington believes some militants there could be linked to al-Qaida, and it has sent U.S. military instructors to teach Georgian troops anti-terrorist skills. The Georgian operation in Pankisi has vexed Russian officials, who said Georgia should not simply be pushing militants out but arresting them and handing them over to Russia-or killing them and handing over the bodies. Georgian President Eduard Shevardnadze has said that the operation was preceded by his government's warning to rebels to leave Georgia in order to avoid bloodshed, and the Georgian troops have not reported finding any militants in Pankisi so far. "Let's hope that what the Georgian leadership is doing now won't be limited to an imitation of action," Putin said. "Let's hope that it has the honest intention of getting rid of the terrorists on its soil." He likened rebels allegedly holed up in Georgia to al-Qaida terrorists in Afghanistan, saying that their presence "inflicts real damage on Russia" as they ship weapons and mount raids into Chechnya. Shevardnadze's spokesman Kakha Imnadze accused Russia of deliberately jacking up tension in order to "invade not just Pankisi, but Tbilisi as well." Tbilisi is Georgia's capital. Georgia officially applies to join the North Atlantic Treaty Organization in 2002; the arrival in the country of 200 military instructors from the United States further angers Russia. The Caucasian republic also agrees to a US plan to build a key pipeline across its territory, carrying gas westwards from Azerbaijan without passing through Russia. In 2004, following a year of agitation sparked by student activists, a peaceful "Rose Revolution" leads to elections in Georgia which bring to power a pro-western grouping under Mikhail Saakashvili. Fighting in Adjaria, another restive region of Georgia, sparks more tension with Moscow. In 2005, US President George W. Bush visits Georgia and praises the "Rose Revolution"; Washington agrees to provide financial aid. Georgia and Russia reach agreement on the removal of remaining Russian bases from the Caucasian republic. In January 2006, Georgia shivers in midwinter cold after explosions destroy two pipelines bringing gas from Russia. In September 2006, in the Georgian capital of Tbilisi, officials arrest four Russian officers accused of spying. The move sparks a major new crisis with Moscow. Russia's Foreign Ministry on September 22, 2006, strongly criticized NATO's decision to deepen its cooperation with Georgia, saying the move could upset fragile stability in the Caucasus and hurt Russia's interests. Mikhail Saakashvili lashed out at Russia, accusing Moscow of waging a "gangster occupation" of his nation and seeking to annex Georgia's separatist provinces.
+
+SOURCES-CR: Russian Press Digest June 16, 1992; Associated Press November 29, 1999; August 28, 2002; Turkish Daily News December 14, 2000; Russian Press Digest May 18, 1993; October 21, 1993; March 7, 1997; October 19, 2000; Xinhua December 23, 1999; Agence France Presse September 22, 2006; October 2, 2006; November 19, 2006; TASS January 23, 2004
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

@@ -1,0 +1,346 @@
+FILE: cm002093v11.0.txt
+DYAD: USA-NICARAGUA
+RIVALRY: RIV10022
+DISPUTE(S): MID1203 MID249 MID151
+RIVALRY: RIV24
+DISPUTE(S): MID1193
+RIVALRY: RIV25
+DISPUTE(S): MID2347 MID2977 MID2353
+
+RIVNOTES: 
+RIV10022 combines two rivalries-MID1203 MID249 and MID151 identified under the time density criteria. The two rivalries were combined because all the disputes involved US intervention to arrest domestic instability and the temporal difference between the disputes was no more than 15 years.
+
+PS: 19000101-19090102 .5 19090103-19260923 0.00 19260924-19330101 -9 19330102-19470525 .5 19470526-19480530 .25 19480531-19790630 .5 19790701-19810118 -9 19810119-19880330 0.00 19880331-19910925 -9 19910926-20209999 .5
+
+PS-UPDATE2020:
+
+PS-NOTES: nicaragua enters the system in 19000101
+
+PS-LAST-CHANGED: 20220207
+PS-LAST-CHECKED: 20220207
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1203 
+
+TERRMID: MID1203 3 -- not territory
+TERRMID-CER: MID1203 1 -- certain 
+TERRMID-NOTES: MID1203 from cm narrative, throughout the 20th century, the US repeatedly intervened in Nicaragua by sending in troops during a civil war to either aid US-friendly rebels topple the government, or maintain a friendly regime's hold on power by providing anti-rebel assistance. Coded not territorial because the US was not making a claim on Nicaraguan territory. This was a political leadership issue. 
+
+TERRLINK: MID1203 3 -- not third party link to territory 
+TERRLINK-CER: MID1203 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1203 3 -- not maritime 
+MARITMID-CER: MID1203 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1203 3 -- not islands 
+ISLMID-CER: MID1203 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1203 1 -- civil war MID
+CIVWARMID-CER: MID1203 1 -- certain
+CIVWARMID-NOTES: MID1203 from cm narrative, throughout the 20th century, the US policy in Nicaragua was to influence the tide of civil wars by assisting rebels when a rebel victory would result in a US-friendly regime, or to assist a friendly government against rebel forces. MID1203 occurred in 1909 and involved the US assisting the rebels against President Jose Zelaya. Coded civil war MID because the US intervened in the Nicaraguan civil war against the government, triggering this MID. 
+
+CIVWARLINK: MID1203 3 -- not civil war link
+CIVWARLINK-CER: MID1203 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1203 1 -- coup MID
+COUPMID-CER: MID1203 1 -- certain 
+COUPMID-NOTES: MID1203 involved a rebellion led by a general, Juan Estrada. General Estrada was also a member of the conservative party and was a political figure. Coded coup MID because Estrada was a general, a member of the elite/establishment, who overthrew the government. Also coded a civil war MID because the overthrow was in the context of a civil war (see CIVWARMID-NOTES MID1203). 
+
+COUPLINK: MID1203 3 -- not coup link
+COUPLINK-CER: MID1203 1 -- certain 
+COUPLINK-NOTES: 
+
+MID249 
+
+TERRMID: MID249 3 -- not territory
+TERRMID-CER: MID249 1 -- certain 
+TERRMID-NOTES: MID249 was a political leadership dispute, not a territorial claim. 
+
+TERRLINK: MID249 3 -- not third party link to territory 
+TERRLINK-CER: MID249 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID249 3 -- not maritime 
+MARITMID-CER: MID249 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID249 3 -- not islands 
+ISLMID-CER: MID249 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID249 1 -- civil war MID
+CIVWARMID-CER: MID249 1 -- certain
+CIVWARMID-NOTES: MID249 occurred during a civil war in Nicaragua, and involved the US supporting the US-friendly regime in 1910. Coded civil war MID because the US sent troops in to support the regime against rebel forces. 
+
+CIVWARLINK: MID249 3 -- not civil war link
+CIVWARLINK-CER: MID249 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID249 1 -- coup MID
+COUPMID-CER: MID249 1 -- certain 
+COUPMID-NOTES: MID249 involved US support of the government during an ongoing civil war. Here, the US government was continuing to support the regime that it helped install a year earlier. Coded coup MID because this was a continuation of the US support for a regime that took power in a coup MID, and the civil violence that was occurring was partially from the recently deposed liberal political party.
+
+COUPLINK: MID249 3 -- not coup link
+COUPLINK-CER: MID249 1 -- certain 
+COUPLINK-NOTES: 
+
+MID151 
+
+TERRMID: MID151 3 -- not territory
+TERRMID-CER: MID151 1 -- certain 
+TERRMID-NOTES: MID151 was about political leadership in Nicaragua, not a territorial claim.
+
+TERRLINK: MID151 3 -- not third party link to territory 
+TERRLINK-CER: MID151 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID151 3 -- not maritime 
+MARITMID-CER: MID151 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID151 3 -- not islands 
+ISLMID-CER: MID151 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID151 1 -- civil war MID
+CIVWARMID-CER: MID151 1 -- certain
+CIVWARMID-NOTES: MID151 involved the US sending troops into Nicaragua to keep a friendly regime during a rebellion. This was the regular US policy in Nicaragua during the 20th century. Coded civil war MID because it involved the US intervening in a civil war via military force. 
+
+CIVWARLINK: MID151 3 -- not civil war link
+CIVWARLINK-CER: MID151 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID151 3 -- not coup 
+COUPMID-CER: MID151 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID151 3 -- not coup link
+COUPLINK-CER: MID151 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1193 
+
+TERRMID: MID1193 3 -- not territory
+TERRMID-CER: MID1193 1 -- certain 
+TERRMID-NOTES: MID1193 was the US providing assistance in a civil war MID between Nicaragua and Costa Rica. The MID did not involve a territorial claim between members of this dyad.
+
+TERRLINK: MID1193 3 -- not third party link to territory 
+TERRLINK-CER: MID1193 1 -- certain
+TERRLINK-NOTES: MID1193 Nicaragua and Costa Rica were having a dispute, and the US became involved. The dispute was not territorial. 
+
+MARITMID: MID1193 3 -- not maritime 
+MARITMID-CER: MID1193 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1193 3 -- not islands 
+ISLMID-CER: MID1193 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1193 1 -- civil war MID
+CIVWARMID-CER: MID1193 1 -- certain
+CIVWARMID-NOTES: MID1193 from cm093094v11.0 cm narrative, Nicaragua was supporting Costa Rican rebels, and in MID1193, Costa Rican rebels were launching an invasion into Costa Rica from Nicaragua with Nicaraguan support. The US provided air support to Costa Rica, triggering this MID. Coded civil war MID because Nicaragua was directly involved in a civil conflict dyad, Nicaragua-Costa Rica, and the US was part of this multilateral MID, against Nicaragua. 
+
+CIVWARLINK: MID1193 1 -- civil war link
+CIVWARLINK-CER: MID1193 1 -- certain
+CIVWARLINK-NOTES: MID1193 coded civil war link because this involved civil conflict activity in Costa Riva, outside this dyad. See CIVWARMID-NOTES. 
+
+COUPMID: MID1193 3 -- not coup 
+COUPMID-CER: MID1193 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1193 3 -- not coup link
+COUPLINK-CER: MID1193 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2347 
+
+TERRMID: MID2347 3 -- not territory 
+TERRMID-CER: MID2347 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2347 1 -- third party link to territorial MID
+TERRLINK-CER: MID2347 1 -- certain
+TERRLINK-NOTES: MID2347 from Gibler 2018, in 1981 Honduras and Nicaragua clashed at their disputed border. (See cm narrative for 091093 for description of territorial rivalry between Honduras and Nicaragua; their border remains disputed). The US then conducted naval exercises to signal support for Honduras, pulling them into this MID. Coded third party link to territorial MID because this was connected to a disputed border between Honduras and Nicaragua, outside this dyad. 
+
+MARITMID: MID2347 3 -- not maritime 
+MARITMID-CER: MID2347 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2347 3 -- not islands 
+ISLMID-CER: MID2347 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2347 3 -- not civil war 
+CIVWARMID-CER: MID2347 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2347 3 -- not civil war link
+CIVWARLINK-CER: MID2347 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2347 3 -- not coup 
+COUPMID-CER: MID2347 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2347 3 -- not coup link
+COUPLINK-CER: MID2347 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2977 
+
+TERRMID: MID2977 3 -- not territory
+TERRMID-CER: MID2977 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2977 1 -- third party link to territorial MID
+TERRLINK-CER: MID2977 1 -- certain
+TERRLINK-NOTES: MID2977 from Gibler 2018, in 1982 Nicaragua built up troops, alarming its neighbors, including Honduras who had a territorial dispute with Nicaragua. The US sent a spy plane over Nicaragua (US supported Hinduras at the time), and later Nicaragua attacked a US helicopter. Coded third party link to territorial MID because although the build-up of troops by Nicaragua led a number of states to become alarmed, Honduras had a territorial dispute with Nicaragua which provided the context for the suspicion (over the buildup) between Honduras and Nicaragua connected to this MID. The US was supporting Honduras in the dispute. 
+
+MARITMID: MID2977 3 -- not maritime 
+MARITMID-CER: MID2977 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2977 3 -- not islands 
+ISLMID-CER: MID2977 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2977 3 -- not civil war 
+CIVWARMID-CER: MID2977 1 -- certain
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID2977 3 -- not civil war link
+CIVWARLINK-CER: MID2977 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2977 3 -- not coup 
+COUPMID-CER: MID2977 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2977 3 -- not coup link
+COUPLINK-CER: MID2977 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2353 
+
+TERRMID: MID2353 3 -- not territory
+TERRMID-CER: MID2353 1 -- certain 
+TERRMID-NOTES: MID2353 from cm narrative, this MID is about US support of Contra rebels, not a claim on Nicaraguan territory by the US. 
+
+TERRLINK: MID2353 3 -- not third party link to territory 
+TERRLINK-CER: MID2353 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2353 3 -- not maritime 
+MARITMID-CER: MID2353 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2353 3 -- not islands 
+ISLMID-CER: MID2353 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2353 1 -- civil war MID
+CIVWARMID-CER: MID2353 1 -- certain
+CIVWARMID-NOTES: MID2353 from cm narrative, this is another MID triggered by the US supporting Contra rebels in their insurgency against the Sandanista government. This MID occurred in 1986, and the US stopped supporting the Contras soon after in 1988. Coded civil war MID because the US supported armed insurgents in Nicaragua fighting against the government. 
+
+CIVWARLINK: MID2353 3 -- not civil war link
+CIVWARLINK-CER: MID2353 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2353 3 -- not coup 
+COUPMID-CER: MID2353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2353 3 -- not coup link
+COUPLINK-CER: MID2353 1 -- certain 
+COUPLINK-NOTES: 
+
+NARRATIVE-CM:
+On December 1, 1909, the United States severed diplomatic relations with Nicaragua after the execution of two US citizens, Lee Roy Cannon and Leonard Groce, on November 18, 1909. The US citizens were serving as engineers for General Juan Estrada, who led a Conservative rebellion against the Liberal government of President Jose Santos Zelaya. President Zelaya resigned on December 16, 1909, and Jose Madriz became president by the Congress on December 21, 1909. The US deployed 100 troops to maintain order in Bluefields on May 19, 1910. President Madriz resigned on August 20, 1910 after the defeat of government troops near Tipitapa on August 18, 1910. General Juan Estrada was appointed as provisional president on August 23, 1910, and rebel troops entered Managua on August 28, 1910. US troops were withdrawn from Bluefields on September 4, 1910. Juan Estrada was elected president by the Constituent Assembly on December 31, 1910. The US government recognized the government of President Estrada on January 1, 1911. President Adolfo Diaz, who became president of Nicaragua on May 10, 1911, requested United States military intervention after a Liberal rebellion led by General Luis Mena broke out on July 29, 1912. President Howard Taft of the US agreed to militarily intervene in Nicaragua on August 5, 1912, and some 2,600 troops were deployed in Nicaragua. General Mena surrendered to US troops on September 25, 1912. US troops clashed with Liberal rebels near Leon on October 4, 1911, resulting in the deaths of four US soldiers. US troops occupied Leon on October 6, 1911, resulting in the deaths of three US soldiers. The rebellion end on October 8, 1911. US troops and Nicaraguan police clashed in December 1921, resulting in the deaths of five Nicaraguan policemen and one US soldier. General Agustino Cesar Sandino began a Liberal rebellion against the government of President Emiliano Chamorro in Bluefields on May 2, 1926. US troops established a *neutral zone* in Bluefields from May 7 to June 5, 1926. Some 5,365 US troops commanded by General Logan Feland intervened to restore order in Nicaragua on August 27, 1926. The US deployed 14 warships and 465 naval personnel to the region. The US facilitated negotiations between representatives of the Conservative and Liberal factions beginning on September 12, 1926, and the factions agreed to a ceasefire on September 23, 1926. President Calvin Coolidge of the US imposed military sanctions (arms embargo) against the government and Liberal rebels on September 15, 1926. Lawrence Dennis of the US facilitated unsuccessful negotiations between Conservative and Liberal representatives in Corinto on October 16-24, 1926. General Chamorro resigned as president on October 30, 1926, and Sebastian Uriza was appointed as provisional president. Government and rebel troops resumed military hostilities on October 30, 1926. Adolfo Diaz of the Conservative faction was elected provisional president by the Nicaraguan Congress on November 11, 1926. The US recognized the government of President Diaz on November 17, 1926. Former Vice-President Sacasa of the Liberal faction opposed the government of President Diaz, and he established a rebel government in Puerto Cabezas on December 2, 1926. President Diaz requested US military intervention on December 23, 1926, and US troops established *neutral zones* in Rio Grande Bar and Puerto Cabezas beginning on December 23, 1926. The US lifted military sanctions against the Nicaraguan government on January 5, 1927. President Calvin Cooldige of the US appointed Henry Stimson as special representative to Nicaragua on March 31, 1927. US troops were attacked by rebel troops near La Paz on May 1, 1927, resulting in the deaths of two US soldiers. Henry Stimson facilitated the signing of a ceasefire agreement on May 12, 1927. Some 300 rebel troops attacked US troops in La Paz on May 16, 1927, resulting in the deaths of two US soldiers. Some 400 rebel troops led by General Sandino attacked government troops and US troops in El Ocotal on July 16, 1927, resulting in the deaths of some 60 rebels and one US soldier. Most of the US troops withdrew from Nicaragua on August 27, 1927, except for 1,200 troops commanded by Colonel L. M. Gulick. US troops and rebel troops clashed near Telpaneca on September 19, 1927, resulting in the deaths of two US soldiers. US troops were attacked by rebel troops between Matagalpa and Quilali on December 30, 1927, resulting in the deaths of five US soldiers and one Nicaraguan soldier. The US government deployed an additional 1,000 troops in Nicaragua on January 3, 1928, and some 5,800 US troops were deployed in the country by July 1928. Eight US soldiers were attacked and killed by rebels in Ocotal in February 1931. General Sandino resumed military hostilities against the Nicaraguan government in April 1931. General Sandino's rebellion against the government was largely defeated in December 1932. Some 136 US soldiers, 150 Nicaraguan government soldiers, and 500 rebels were killed during the rebellion. US troops completed their withdrawal from Nicaragua on January 2, 1933. General Sandino signed a peace agreement with representatives of the Conservative and Liberal factions in Managua on February 3, 1933. 
+
+President Jimmy Carter of the United States imposed economic sanctions (suspension of economic assistance) against Nicaragua on January 19, 1981 after the *Sandinistas *took control of the government of Nicaragua. The *Nicaraguan Democratic Forces* (FDN), led by Colonel Enrique Bermudez Varela, were established in opposition to the Sandinista government on August 11, 1981. The FDN received financial and military assistance from the US, Honduras, and Argentina. The US authorized $200 million for the rebel groups in December 1981 (President Ronald Reagan authorized CIA funding of Nicaraguan rebels in November 1981). The US staged naval exercises off the coasts of Nicaragua and troop exercises in Honduras in 1983. The US CIA mined several harbors in Nicaragua in January and February 1984, resulting in damage to ten ships. Nicaragua claimed that the mining was a violation of international law and submitted the matter to the *International Court of Justice* (ICJ) on April 9, 1984. The ICJ ruled against the US concerning the US mining of Nicaraguan harbors on June 26, 1986, but the US had previously announced that it would not abide by the ruling of the ICJ on that matter. The US Congress ended military and financial assistance to the FDN rebels in May 1984. President Reagan of the US imposed economic sanctions (trade embargo) against Nicaragua on May 1, 1985. The US Congress approved $70 million in military assistance to the FDN rebels in June 1986. The US ended military assistance to the FDN rebels in February 1988. The US lifted economic sanctions against Nicaragua on March 13, 1990. 
+
+SOURCES-CM: 
+Bannon and Dunne, 1947, 731-735, 805-810; Brecher and Wilkenfeld, 1997, 360-361; Brogan, 1992, 484-495; Buell, 1930, 385-402, 1930, 315-343; Clodfelter, 1992, 691-692, 1178-1179; *Foreign Relations of the United States *(FRUS), 1909, 452-459, 1910, 738-767; Hudson, 770-771; Jessup, 1998, 525-527; *Keesing*, January 4, 1980, June 27, 1980; Langer, 1972, 858, 1068; Munro, 1933, 696-705; Munro, 1934, 227-273; Munro, 1964, 160-216, 388-425; Munro, 1974, 157-254; Musicant, 137-156; Stuart, 338-375; *Survey of International Affairs *(SIA), 1926, 541-542, 1927, 479-516, 1928, 470, 1930, 570, 1933, 596; Tillema, 1991, 31-32; Weisburd, 1997, 227-232; Wright, 1964, 35-68.
+
+NARRATIVE-CR:
+The rivalry between the US and Nicaragua originated from a consistent policy of US intervention to *maintain order* in the region beginning in the middle of the 19th century and continuing throughout the 20th. While there are four different periods of conflict between the US and Nicaragua, the rivalry issues have revolved around US military support of one side during an ongoing civil war that began with General Juan Estrada's conservative rebellion against the liberal president Jose Zelaya in 1909. From early in Taft's administration, the goal had been to create a protectorate in Nicaragua. As such, from 1909, the US began a series of interventions, either sending US troops into Nicaragua to maintain order or using US troops to aid the recognized Nicaraguan government against rebel forces or to aid rebel forces against the Nicaraguan government (MID1203 in 1909, MID249 in 1910, MID151 in 1926, MID2347 in 1981, MID2977 in 1982 and MID2353 in 1986). These interventions led to a general military occupation of Nicaragua by the US from 1910 until 1932. Thus there is arguably a rivalry that exists from 1909 until 1932 although this does not fit within the mid dataset description. The US began to end its occupation in 1932 but maintained a force in the country to protect the government from the rebel forces of General Sandino who after a large defeat in 1932 with the help of US troops was forced to sign a peace treaty in 1933. Thus, the rivalry to this point was not a rivalry in terms of tensions between the two governments as the Nicaraguan government needed the assistance of the US in order to defeat rebel forces although obviously the US intervened at times without the expressed consent of the Nicaraguan government during the civil war. From the 1930s the rivalry between the US and Nicaragua seems to die with the exception of the US providing military assistance (four F-51 fighter planes and a transport plane) to Costa Rica on January 17, 1955 to aid in its conflict with rebels aided by Nicaragua (MID1193).
+
+Another rivalry begins in 1981 with events brought about by the US due to the Cold War. In 1979 the Sandinistas come to power and the US through the CIA begins to arm and aid contra rebels and mine Nicaraguan harbors, along with embargoing Nicaragua and the Sandinista regime. The US is consistent in its aid throughout the guerilla war from 1981-1988. US funding for the contras is ended in February 1988 amidst growing criticism domestically in the US. In 1988 the contras sign a temporary cease-fire agreement, effectively ending the civil war. In 1990 the US lifts its trade embargo against Nicaragua as Violete Chamorro is elected president through free elections, ending the Sandinista government. On June 27, 1990 more than 100 contra commanders surrendered their arms, officially marking the end of civil war in Nicaragua and the end of hostilities between the two countries whose most recent rivalry had been over the support of the contras.
+
+SOURCES-CR: 
+Brecher and Wilkenfeld 1997; Clodfelter 1992; Survey of International Affairs *(SIA), 1926, 541-542, 1927, 479-516, 1928, 470, 1930, 570, 1933, 596; Schooley (1987); Turner 2000; Wiarda and Kline 1990; Weisburd 1997
+
+PS-NARRATIVE:
+
+19260924-19330101 Transition
+
+The last MID of RIV10022, MID151, ends on September 23, 1926. From 1927 to 1933, the United States had a force of several thousand Marines deployed to Nicaragua at the request of the Nicaraguan government to help fight rebel insurgency groups. After 1930, the US began rethinking its role in Nicaragua and in January of 1933 the Hoover administration ordered the withdrawal of all US troops. After 1933, the United States adopted a non-interventionist policy, known as the Good Neighbor Policy, for Nicaragua and Latin America. The US's primary goal in the region was to gain influence and align these countries with US policy but they hoped to do so without resorting to military force.
+
+19330102-19470525 .5
+
+Troops withdraw in 1933 to begin the `good neighbor' period of US nonintervention in Latin America. This is a period of negative peace (.5), in which the US gave military and economic aid to Nicaragua in exchange for some control over both domestic and foreign policy. This lasts until the coup in 1947, where the US temporarily refuses to recognize the new regime.
+
+On June 2, 1936, Samoza Garcia used the Nicaraguan military, Guardia Nacional, to take control of the country. He stated that the current President, Sacasa, would remain in power until the end of his current term of office, January 1, 1937. Sacasa, however, resigned on June 6, 1936 and an interim president was appointed. The US continued normal relations with Nicaragua and honored the non-interventionist policy for Latin America. Between 1937 and 1940, Samoza worked to consolidate power in Nicaragua and ensure close relations with the United States. Despite rumors of increasingly harsh treatment of citizens in Nicaragua and a failure to honor any commitment to democracy, US relations with Nicaragua were healthy during this time period, resulting in a visit by Samoza to the US in 1939.
+
+During World War II, Nicaragua participated in a Lend-Lease program with the United States to help the war effort. The Samoza government also declared war on Japan and Germany in December of 1941 in a show of solidarity with the United States. The United States also built a naval station and an air station on Nicaraguan soil during the war. As well, the US assisted Nicaragua in building needed infrastructure in the country to include the Rama Road that ran the length of the country.
+
+Relations between the US and Nicaragua started to deteriorate between 1942 and 1943 when it became obvious that Samoza did not intend to step down when his official term of office expired in 1947. Most of the opposition groups in Nicaragua believed that the US wanted Samoza in power and that they would use military force to ensure this outcome. Samoza did all he could to reinforce this believe by closely aligning Nicaraguan policy with that of the US. The US, however, began to distance itself from the Samoza regime when rumors arose that the Nicaraguan congress was planning to change the constitution to allow Samoza to remain in power. The US was not prepared to back openly authoritarian regimes in Latin America. In 1944 Samoza made a request to US President Roosevelt for small arms to help put down violent opposition groups. The US was reluctant to do so for two reasons. First, the rumors that Samoza would, in breach of the constitution, run for office again upset the administration. Second, there was concern that sending arms to put down internal unrest in an increasingly non-democratic Nicaragua would send a bad signal to other Latin American countries.
+
+In 1945 and 1946, the US government increasingly espoused an anti-authoritarian policy toward Latin America. Although this policy applied directly to Samoza, among others, the Nicaraguan leaders pretended that it did not, proclaimed democratic values, and continued to back US policy. In February of 1947 elections were held in Nicaragua. The Guardia Nacional presided over the election and many believed that the election was fixed by the dictator. Despite claims by independent observers that Aguado had won the election, the government proclaimed that Arguello was the new president. Opposition groups had hoped that the US would not recognize the new government but the US was initially silent on the issues. Arguello was inaugurated on May 1, 1947. Arguello immediate began removing Samoza loyalists from the government and restructuring the Guardia Nactional. After complaints from Samoza, Arguello appointed Samoza chief of the Guardia but intended the position to be temporary. Arguello planned to ask Samoza to resign but Samoza initiated a coup on May 26, 1947.
+
+19470526-19480530 .25
+
+The year of non-recognition from May 1947 to May 1948 is coded as low-level conflict (.25). Negative peace returns in 1948 when the US reengages with Nicaragua and continues for the next three decades providing economic and military aid to the country. On June 18, 1947, the US officially announced a policy of non-recognition of the new government. US-Nicaragua military relations were unstable during the Truman administration. After Samoza's successful coup against Arguella in 1947, the US initially refused to recognize the new government and ceased providing military assistance. One year later, on May 30, 1948, the Truman administration resumed diplomatic relations.
+
+19480531-19790630 .5
+
+Growing communist movements in Latin American and Soviet influence in the region prompted the US to move away from the democracy only policy and toward a policy of support for any regime willing to oppose the Soviets. The US also resumed military aid in 1950. By 1953 Nicaragua is officially aligned with the United States the purposes of the Cold War competition. At the time, Nicaragua had little trouble with communist dissidents due to government crackdowns. Nicaragua, however, is still a focal point of US anti-communist actions in the region because of its proximity to Guatemala, a country struggling with communist influences. In the early 1950s, Nicaragua and President Anastasio Samoza Garcia are largely considered one of the most US friendly countries in Central America. The United States demonstrated a strong economic and development commitment to Nicaragua after World War II. In 1950, the Four Points agreement was concluded brining over a million dollars in technical assistance to the country. Another $8.9 million in non-military aid flowed from the United States to Nicaragua between 1953-57 for the purposes of developing health care, sanitation, agriculture and urban planning. By the mid-1950s the United States was not only heavily involved in development projects throughout the country but also in government bureaucracy and important policy and decision making. In the early 1950, the US was Nicaragua's primary trading partner; as the decade progressed, however, Nicaragua began diversifying its economy and trade between the two countries steadily declined from 1950 to 1960. Reduction in economic dependence on trade with the United States also allowed Nicaragua to lessen the degree to which the US dominated Nicaraguan policy.
+
+In 1954, Nicaragua became an official recipient of US military aid under the Mutual Security Program. Through the program, the US would supply military personnel to help train and equip Nicaraguan forces. These forces would assist in a collective security plan aimed at providing defense in the area of the Caribbean and Central America, with a specific emphasis on protecting the Panama Canal. The US also believed that with a well trained and equipped military, the Nicaraguan government would be better prepared to resist possible insurgencies.
+
+In 1957, Somoza Garcia was assassinated and replaced by his son Luis. The US continued efforts to encourage growth in Nicaragua's economy. Between 1957 and 1961, the US contributed over 2 million in economic assistance. This aid continued to flow and grow into the next decade. During the 1960s, the US helped Nicaragua amass one of the largest air forces in Latin America. Between 1963 and 1967, military assistance totaled $7.5 million. Further, between 1968 and 1978, Nicaragua was the largest per capita recipient of US military aid in Latin America.
+
+The US also provided Nicaragua with economic aid during this time period. Between 1962 and 1978, the US provided Nicaragua with $280 million in economic aid. The US also helped Nicaragua acquire another $394 million in aid from the World Bank and the Inter-American Development Bank. There was also a significant amount of private US capital invested in Nicaragua. In return for generous aid from the United States, the Samoza regime was consistently one of the strongest and most vocal supporters of US policy in Latin American and anti-communist policy.
+
+By the late 1970s, however, the corruption and abuses of the Samoza regime began to inspire domestic rebellion. In 1977 a major nationwide uprising was initiated against the Samoza regime. At the same time, the Carter administration came to power in the US. President Carter refocused US foreign policy toward protection of human rights and began to tie foreign aid to human rights violations. Although the Carter Administration did not focus primarily on Latin America, the Samoza regime did come under pressure to alter domestic policy. The pressure forced Samoza to make mostly symbolic efforts at decreasing human rights abuses. The US voted to delay or withhold economic and military aid to the country. Despite call by many, the US would not completely end military aid to Nicaragua. The US also would not support the removal of the regime, despite growing instability and domestic opposition.
+
+In August and September of 1978, domestic conditions in Nicaragua worsened with the outbreak of a general strike and the Sandinista insurgency. These events prompted the Carter Administration to begin encouraging Samoza to reestablish civilian rule. The Carter administration also initiated a mediation attempt in hopes of diffusing the domestic strife. The US hoped to get Samoza to enter into a conciliatory dialog with the opposition and consider peacefully resigning from office. The mediation effort was abandoned after repeated attempts to find a solution acceptable to all parties failed. In response to failed mediation, the US decided that sanctions against the Samoza regime were the only option. In February of 1979, the US cut all military aid to the regime and froze all future economic aid. Despite the action, the Carter Administration would not commit to any policy calling for the forcible removal of Samoza from office. The US also began to worry that the Sandinista were experiencing too much success again the Nicaraguan national army. If the Sandinistas were victorious, this would hurt the US's ability to influence the type of transition that occurred in Nicaragua.
+
+On June 11, 1979, the US began formulating plans to organize an OAS sponsored peacekeeping force to intervene and restore order in Nicaragua. The US was not able, however, to garner regional support for such an action. On June 23, 1979, the OAS passed an alternative resolution that stressed a belief in non-intervention and stated that the OAS would play some role in helping to reestablish peace.
+
+19790701-19810118 Transition
+
+The US continued through late June early July to negotiate a transition by which Samoza would step down and the national military would remain intact. This would allow the current government institutions to survive and the US to influence the establishment of a new government. These efforts were largely unsuccessful and on July 17, 1979, Somoza resigned from office. Shortly thereafter, the national military collapsed and surrendered to insurgent forces. The Sandinistas had gained control of the country. Although there were some within the US administration painting the Sandinistas as Marxists and drawing parallels to Cuba, the Carter administration initially took a moderate stance. Engagement with the Sandinista regime was initially viewed as the best way to ensure that the revolution did not become radicalized. By working with the Sandinistas, US officials believed they could influence the regime enough to keep moderate members of the Sandinista government in important policymaking positions. Initially, the Sandinista regime did appoint many moderates and only nationalized property and businesses that belonged to high ranking officials in the Samoza regime. Relations between the two countries started to degrade during 1980. The US began to uncover evidence of a connection between the Soviet Union, Cuba, and Nicaragua. Further, US intelligence believed that Nicaragua was funding insurgent groups in El Salvador. Also, after initial optimism that a moderate Sandinista regime would emerge, there was increasing evidence of Sandinista hardliners taking over key positions in government. These events started the slide in relations that culminated in a period of rivalry that lasted until 1988. The overthrow of the Samoza regime in 1979 marks a period of transition to rivalry that ends in 1982. The first MID of RIV25, MID2347 started on April 30, 1981. President Jimmy Carter of the United States imposed economic sanctions (suspension of economic assistance) against Nicaragua on January 19, 1981 after the *Sandinistas *took control of the government of Nicaragua. 19880331-19910925 Transition
+
+The last MID of RIV25, MID2353, ended in March 1988. With the election of Violeta Chamorro in 1990, the Nicaraguan civil war comes to an end and Nicaragua joins the growing ranks of democracies in Latin America. In 1988, the US officially ends support for the rebels in Nicaragua and in 1990, with the democratic election of Chamorro, the United States ends the trade embargo against Nicaragua.
+
+Relations between the United States and Nicaragua have steadily improved since the end of the Nicaraguan civil war and the movement toward democratic government. The United States has provided over 1.2 billion in assistance to Nicaragua since 1990. The majority of this money has gone toward debt relief and balance-of-payments support.
+
+19910926-20159999 .5 
+
+The United States also provided 93 million between 1999 and 2001 for humanitarian and economic aid in the aftermath of Hurricane Mitch. Other aid packages were aimed at improving civic engagement and strengthening democratic governance. Aid given in 1991 and 1992 made Nicaragua the second largest recipient of US aid in Latin America. In addition to aid packages, the US also canceled $259.5 million in bilateral debt. As a condition of the various aid packages, the United States demanded assurance that Nicaragua would move toward free-market reforms, privatize industries, restore property ownership, and withdraw the lawsuit brought by the Sandinista government against the United States for supporting the Contra rebels during the civil war.
+
+On December 10, 1994, the United States and Nicaragua (along with the other nations of Central America) signed the Central American-United States of America Joint Accord (CONCAUSA). One of the primary goals of the accord was to promote sustainable social and economic development in the region. The agreement was expanded in 2001 to include United States assistance in making Nicaragua (and Central America) more competitive in the global market.
+
+On July 14, 2005, The Millennium Challenge Corporation signed a five-year, 175 million dollar compact with Nicaragua. The compact is aimed at alleviating poverty and promoting economic growth through developmental projects in certain regions of Nicaragua.
+
+The two countries have a high degree of economic interdependence. Starting in 1992, bilateral trade has increased steadily each year. As of 2005, the United States represents Nicaragua's largest trading partner, accounting for one fifth of Nicaragua's imports and about a third of their exports. On April 1, 2006, the Central American Free Trade Agreement (CAFTA) came into force between the two countries, further solidifying their relationship as important trading partners.
+
+The United States and Nicaragua have not experienced a militarized dispute since 1986 and, given the close economic relations established between the two states over the past 20 years, new disputes are unlikely. As well, the major issue driving the rivalry in the 1980s was the presence of the Sandinista regime. Once the regime falls and a democratically elected government comes to power in 1990, the issue of contention between these two states is essentially resolved.
+
+However, there were lingering tensions between the two governments for a short period of time after the lifting of sanctions in 1990. The two main points of contentions were the relationship between the new government and the Sandinistas and the 1986 judgment by the International Court of Justice (ICJ) against the United States for interfering in the internal affairs of Nicaragua. The United States wanted President Chamorro to have the case dropped, terminating the judgment requiring the payment of reparations to Nicaragua. After initially resisting this request due to the potential negative domestic repercussions, Nicaragua requested, on September 12, 1991, that the ICJ impose a discontinuance on the court order. On September 25, 1991 the United States acknowledged the discontinuance with the ICJ. The discontinuance of the case ends the last real point of contentions between the two states.
+
+PS-SOURCES: 
+
+Clark 1992; Morley 1994; Gambone 1997;United States Department of State 2006; International Court of Justice 1991; Library of Congress 1993
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:

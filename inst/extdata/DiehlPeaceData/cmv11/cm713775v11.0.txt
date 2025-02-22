@@ -1,0 +1,93 @@
+FILE: cm713775v11.0.txt
+DYAD: TAIWAN - BURMA/MYANMAR
+RIVALRY: RIV1317
+DISPUTE(S): MID1374 MID2001 
+
+PS-LAST-CHANGED: 20190503
+PS-LAST-CHECKED: 20190503
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1374
+
+TERRMID: MID1374 3 -- not territory
+TERRMID-CER: MID1374 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1374 3 -- not third party link to territory 
+TERRLINK-CER: MID1374 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1374 3 -- not maritime 
+MARITMID-CER: MID1374 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1374 3 -- not islands 
+ISLMID-CER: MID1374 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1374 1 -- civil war MID
+CIVWARMID-CER: MID1374 1 -- certain
+CIVWARMID-NOTES: MID1374 from Gibler 2018, in 1950-1953 the Burmese government fought against Chinese Nationalist rebels who had fled China after losing to the Communists. Burma protested that Taiwan was supporting the rebels. Coded civil war MID because this was connected to militarized rebel activity in Burma, within this dyad. 
+
+CIVWARLINK: MID1374 3 -- not civil war link
+CIVWARLINK-CER: MID1374 1 -- certain
+CIVWARLINK-NOTES: MID1374 coded not civil war because, although the rebels had previously been fighting in China, the Chinese Civil War was over at this point. This MID did not involve rebel activity in China (outside this dyad). 
+
+COUPMID: MID1374 3 -- not coup 
+COUPMID-CER: MID1374 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1374 3 -- not coup link
+COUPLINK-CER: MID1374 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID2001
+
+TERRMID: MID2001 3 -- not territory
+TERRMID-CER: MID2001 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2001 3 -- not third party link to territory 
+TERRLINK-CER: MID2001 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2001 3 -- not maritime 
+MARITMID-CER: MID2001 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2001 3 -- not islands 
+ISLMID-CER: MID2001 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2001 1 -- civil war MID
+CIVWARMID-CER: MID2001 1 -- certain
+CIVWARMID-NOTES: MID2001 from Gibler 2018, Chinese Nationalist rebels fled into Burma after losing the Chinese Civil War, and Burma protested that Taiwan was supporting the rebels. The nationalist rebels then started cooperating with Burmese secessionist rebels. After failed mediation between Burma and Taiwan, Burma launched an offensive against the rebels until the UN intervened to facilitate the nationalist rebels leaving Burma altogether, which they did in 1953. Coded civil war MID because this was connected to militarized rebel activity in Burma. 
+
+CIVWARLINK: MID2001 3 -- not civil war link
+CIVWARLINK-CER: MID2001 1 -- certain
+CIVWARLINK-NOTES: MID2001 coded not civil war because, although the rebels had previously been fighting in China, the Chinese Civil War was over at this point. This MID did not involve rebel activity in China (outside this dyad). 
+
+COUPMID: MID2001 3 -- not coup 
+COUPMID-CER: MID2001 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2001 3 -- not coup link
+COUPLINK-CER: MID2001 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+Chinese nationalist troops fled to Burma following the collapse of the Nationalist government in mainland China on September 30, 1949. Burmese troops and Chinese nationalist troops clashed Tachilek in July 1950. Burmese troops captured Mongpeng from Chinese nationalist troops on October 28, 1952. Burmese military aircraft attacked Chinese nationalist troops near Mong Pu Awn on November 23, 1952. Chinese nationalist troops captured Monghsu on January 4, 1953. Burmese troops and Chinese nationalist troops clashed near Mongpan on February 14-22, 1953. Burmese troops and Chinese nationalist troops clashed near Kyukok on February 14 -20, 1953. Burmese military aircraft bombed Chinese nationalist troops in Mong Hsat on February 26, 1953, resulting in the deaths of some 100 Chinese nationalist soldiers. Burmese troops launched a military offensive against Chinese nationalist troops on March 2, 1953. Some 520 Chinese nationalist soldiers and 57 Burmese soldiers were killed during military hostilities between January 1950 and March 3, 1953. Burma referred the matter to the *United Nations *(UN) General Assembly on March 25, 1953. Prime Minister Nehru of India expressed support for Burma on March 29, 1953. Pakistan expressed support for Burma on March 29, 1953. The UN called for the withdrawal of Chinese nationalist troops from Burma on April 23, 1953.
+
+SOURCES-CM: 
+*Keesing*, March 28-April 4, 1953.
+
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

@@ -1,0 +1,393 @@
+FILE: cm365380v11.0.txt
+DYAD: RUSSIA/USSR-SWEDEN
+RIVALRY: RIV988
+DISPUTE(S): MID1659 
+RIVALRY: RIV10990
+DISPUTE(S): MID3722 
+RIVALRY: RIV10989
+DISPUTE(S): MID1701 MID3214 MID2907 MID3093 MID2973 MID3615 MID2738 MID3563 
+
+PS: 19009999-19340313 .5 19340314-19871221 0.25 19871222-19880519 -9 19880520-20209999 0.5
+
+PS-UPDATE2020:
+
+PSNOTES: 
+
+The relationship between Russia/USSR and Sweden has been one of negative peace until 19871221. Thus, the different time periods from 19340314 to 19871221 that were initially coded as 0.25 were collapsed into one period. 
+
+For the period 19880520-20069999, the end date was changed from 2006999 to 20069999 because of a missing digit in the date. This change was made from version 1.0 to 1.1 of the data.
+
+PS-LAST-CHANGED: 20220305
+PS-LAST-CHECKED: 20220305
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWI MIDs: MID1659
+
+WWII MIDs: MID3722
+
+MID1701 
+
+TERRMID: MID1701 3 -- not territory 
+TERRMID-CER: MID1701 1 -- certain 
+TERRMID-NOTES: MID1701 from cm narrative, Sweden was allied with the US during the Cold War, leading to a rivalry and several Cold War-related MIDs between Sweden and USSR. From Gibler 2018, in 1952 the Soviet Union shot down a Swedish airplane, claiming that the aircraft violated Soviet airspace. Coded not territory because this was connected to Cold War tensions, not to a boundary dispute. 
+
+TERRLINK: MID1701 3 -- not third party link to territory 
+TERRLINK-CER: MID1701 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1701 3 -- not maritime 
+MARITMID-CER: MID1701 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1701 3 -- not islands 
+ISLMID-CER: MID1701 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1701 3 -- not civil war 
+CIVWARMID-CER: MID1701 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1701 3 -- not civil war link 
+CIVWARLINK-CER: MID1701 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1701 3 -- not coup 
+COUPMID-CER: MID1701 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1701 3 -- not coup link
+COUPLINK-CER: MID1701 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3214 
+
+TERRMID: MID3214 3 -- not territory 
+TERRMID-CER: MID3214 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3214 3 -- not third party link to territory 
+TERRLINK-CER: MID3214 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3214 1 -- maritime MID
+MARITMID-CER: MID3214 1 -- certain 
+MARITMID-NOTES: MID3214 from Gibler 2018, in 1955 the Soviet Union detained a Swedish fishing boat. The Soviets claimed the boat was within its territorial waters and claimed a 12-mile territorial water boundary, but Sweden only recognized a 4 mile limit. Coded maritime MID because this was connected to a disagreement over the location of the Soviet Union's maritime boundary. 
+
+ISLMID: MID3214 3 -- not islands 
+ISLMID-CER: MID3214 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3214 3 -- not civil war 
+CIVWARMID-CER: MID3214 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3214 3 -- not civil war link 
+CIVWARLINK-CER: MID3214 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3214 3 -- not coup 
+COUPMID-CER: MID3214 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3214 3 -- not coup link
+COUPLINK-CER: MID3214 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2907 
+
+TERRMID: MID2907 3 -- not territory 
+TERRMID-CER: MID2907 1 -- certain 
+TERRMID-NOTES: MID2907 from cm narrative, Sweden was allied with the US during the Cold War, leading to a rivalry and several Cold War-related MIDs between Sweden and USSR. From Gibler 2018, a Russian plane violated Swedish airspace in 1964, triggering this MID. Coded not territory because this was connected to the Cold War, and neither cm narrative, Gibler 2018, nor news coverage of this event suggests any connection to any= other type of dispute. 
+
+TERRLINK: MID2907 3 -- not third party link to territory 
+TERRLINK-CER: MID2907 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2907 3 -- not maritime 
+MARITMID-CER: MID2907 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2907 3 -- not islands 
+ISLMID-CER: MID2907 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2907 3 -- not civil war 
+CIVWARMID-CER: MID2907 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2907 3 -- not civil war link 
+CIVWARLINK-CER: MID2907 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2907 3 -- not coup 
+COUPMID-CER: MID2907 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2907 3 -- not coup link
+COUPLINK-CER: MID2907 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3093 
+
+TERRMID: MID3093 3 -- not territory 
+TERRMID-CER: MID3093 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3093 3 -- not third party link to territory 
+TERRLINK-CER: MID3093 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3093 3 -- not maritime 
+MARITMID-CER: MID3093 1 -- certain 
+MARITMID-NOTES: MID3093 from Gibler 2018, in 1981 the Soviet Union was discovered to have a submarine in Swedish territorial waters. The submarine became stuck on rocks and required assistance being removed, but Sweden refused to allow the Soviets entry into their waters. Coded not maritime because although the countries had a disputed maritime boundary in the Baltic Sea (per 1988 UN maritime boundary treaty), this was not connected to that dispute and was connected to Cold War tensions. The sub was not in disputed waters, and the USSR was not disputing that the sub was in Sweden's territorial waters. From the New York Times 11/2/1981 coverage of this incident, USSR ships remained just outside Sweden's territorial waters while their sub was lodged in Swedish waters, suggesting they acknowledged Sweden's boundary where the incident took place, and neither country tied this to the disputed boundary in the Baltic in their public statements. 
+
+ISLMID: MID3093 3 -- not islands 
+ISLMID-CER: MID3093 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3093 3 -- not civil war 
+CIVWARMID-CER: MID3093 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3093 3 -- not civil war link 
+CIVWARLINK-CER: MID3093 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3093 3 -- not coup 
+COUPMID-CER: MID3093 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3093 3 -- not coup link
+COUPLINK-CER: MID3093 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2973 
+
+TERRMID: MID2973 3 -- not territory 
+TERRMID-CER: MID2973 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2973 3 -- not third party link to territory 
+TERRLINK-CER: MID2973 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2973 1 -- maritime MID
+MARITMID-CER: MID2973 1 -- certain 
+MARITMID-NOTES: MID2973 from Gibler 2018, the Soviets and Sweden engaged in several clashes in the Baltic Sea after USSR repeatedly sent submarines into Swedish waters. Coded maritime MID because per UN maritime treaty (1988), they were disputing a maritime boundary in the Baltic at this time. 
+
+ISLMID: MID2973 3 -- not islands 
+ISLMID-CER: MID2973 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2973 3 -- not civil war 
+CIVWARMID-CER: MID2973 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2973 3 -- not civil war link 
+CIVWARLINK-CER: MID2973 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2973 3 -- not coup 
+COUPMID-CER: MID2973 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2973 3 -- not coup link
+COUPLINK-CER: MID2973 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3615 
+
+TERRMID: MID3615 3 -- not territory 
+TERRMID-CER: MID3615 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3615 3 -- not third party link to territory 
+TERRLINK-CER: MID3615 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3615 1 -- maritime MID
+MARITMID-CER: MID3615 1 -- certain 
+MARITMID-NOTES: MID3615 from Gibler 2018, Sweden detained a Soviet submarine that entered its territorial waters. From cm narrative, this incident occurred in the Baltic Sea and was connected to the states' maritime boundary dispute there. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID3615 3 -- not islands 
+ISLMID-CER: MID3615 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3615 3 -- not civil war 
+CIVWARMID-CER: MID3615 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3615 3 -- not civil war link 
+CIVWARLINK-CER: MID3615 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3615 3 -- not coup 
+COUPMID-CER: MID3615 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3615 3 -- not coup link
+COUPLINK-CER: MID3615 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2738 
+
+TERRMID: MID2738 3 -- not territory 
+TERRMID-CER: MID2738 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2738 3 -- not third party link to territory 
+TERRLINK-CER: MID2738 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2738 1 -- maritime MID
+MARITMID-CER: MID2738 1 -- certain 
+MARITMID-NOTES: MID2738 from Gibler 2018, in 1987 Sweden accused the Soviets of over 40 territorial water violations. The USSR denied it sent submarines into Swedish waters. From cm narrative, this incident occurred in the Baltic Sea and was connected to the states' maritime boundary dispute there. Coded maritime MID because this was connected to a maritime boundary dispute. 
+
+ISLMID: MID2738 3 -- not islands 
+ISLMID-CER: MID2738 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2738 3 -- not civil war 
+CIVWARMID-CER: MID2738 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2738 3 -- not civil war link 
+CIVWARLINK-CER: MID2738 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2738 3 -- not coup 
+COUPMID-CER: MID2738 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2738 3 -- not coup link
+COUPLINK-CER: MID2738 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3563 
+
+TERRMID: MID3563 3 -- not territory 
+TERRMID-CER: MID3563 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3563 3 -- not third party link to territory 
+TERRLINK-CER: MID3563 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3563 3 -- not maritime 
+MARITMID-CER: MID3563 1 -- certain 
+MARITMID-NOTES: MID3563 from Gibler 2018, in 1992 Sweden fired on a Russian submarine in its territorial waters. Coded not maritime because this was not connected to a maritime dispute. From UN treaties in 1988 and 1989, Sweden and Russia had delimited their maritime boundary in the Baltic by the time of this MID. Per the Associated Press 9/22/1992, this occurred close to the coast of the Swedish town of Oxelosund and within Swedish territorial waters. The USSR had not disputed Sweden's territorial waters in the past; they disputed an EEZ boundary farther out from the coast. In the AP coverage of this event, the Swedish government did not tie this dispute to any maritime issue. 
+
+ISLMID: MID3563 3 -- not islands 
+ISLMID-CER: MID3563 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3563 3 -- not civil war 
+CIVWARMID-CER: MID3563 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3563 3 -- not civil war link 
+CIVWARLINK-CER: MID3563 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3563 3 -- not coup 
+COUPMID-CER: MID3563 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3563 3 -- not coup link
+COUPLINK-CER: MID3563 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: RIV10989 was initially coded as two separate rivalries (RIV989 and RIV990). These were combined because almost all the disputes in both concerned Soviet incursions into Swedish territory (water and airspace). MID3722, although temporally a part of RIV10989 was not included because it was wholly unrelated to the rest of the rivalry-it concerned Swedish aid to Germany during WWII, this is coded as a new rivalry RIV10990.
+
+NARRATIVE-CM:
+Soviet military aircraft shot down a Swedish aircraft on June 16, 1952. Sweden placed its military on alert on June 18, 1952. Secretary of State Dean Acheson of the United States condemned the Soviet Union. A Soviet U-137 submarine ran aground in a restricted military zone near the Swedish naval base in Larkskrona on October 27-28, 1981. Sweden lodged a formal protest with the Soviet Union regarding the "flagrant violation of territorial rights" on October 28, 1981. Sweden released the submarine on November 6, 1981. The Soviet Union apologized for the incident on November 11, 1981.
+
+The financial blockade of Soviet Union was ended on March 14, 1934, when the first long-term loan was granted to the Bolshevik regime by Sweden. The amount of the loan is of 100 million kronor for 8 years with an interest rate of 5.5%. It is rather notable that the Swedes who have a reputation for hardheadedness and whose traditional hostility to Russia is only second to British, should make the first loan to the Bolshevik regime. On July 10th, 1937 the Swedish Foreign Minister, Richard Sandler met with Soviet Union dignitaries at Kremlin. It was part of an European tour during which the visited London, but also Berlin. On March 18, 1940, Soviet Union assured Sweden that it seeks no more territorial gains in Scandinavia after its brief and bloody campaign against Finland. On September 9, 1940, after 4 months of negotiations a trade agreement was signed in Moscow between Sweden and Soviet Union. The agreement included two parts: one on trade proper and a second one regarding a 100 million kronor credit from Sweden to Russia. The first dispute in the second rivalry between the two states (MID3722) was over Sweden supplying Germany with resources and food. Sweden. In response to growing pressure from the Allied Powers, Sweden obtained permission from Germany to cancel trade and transport of German materials in 1943. The issue was put to rest with the defeat of Germany in 1945. On October 8th, 1946 a credit of 1 billion kronor was extended by Sweden to Soviet Union which is to be repaid within 15 years. On February 5th, 1947 it was agreed that Sweden will deliver goods worth 200 million kronor to Russia, especially mining and ore refining equipment. This is part of the Swedish-Soviet credit agreement re-signed in 1946. On March 14, 1949, the Soviet Embassy in Stockholm released a second note to Sweden protesting the alleged persecution of Baltic refugees. The new note asked for the release of several Soviet Union citizens held under allegations of espionage in Sweden. On October 30, 1951, a Swedish Navy engineer pleaded guilty for being a Soviet spy.
+
+Soviet military aircraft shot down a Swedish aircraft on June 16, 1952 (MID1701). Sweden placed its military on alert on June 18, 1952. Secretary of State Dean Acheson of the United States condemned the Soviet Union. At the same time Sweden accused Soviet Union at the United Nations for the downing of the plane and for spying activities by its diplomats in Sweden.
+
+MID3214 occurred on April 30, 1955. MID2907 occurred on September 24, 1964. No specific information could be found on either of the two MIDs. In early July 1960 Soviet Union Premier Nikita Khrushchev made an official visit to Denmark, Sweden and Norway. The coldest reception was in Sweden were a high number of Baltic refugees received political asylum after World War II. Demonstrations against Soviet Union were noticed in Stockholm. 
+
+On February 12, 1968, Sweden and Soviet Union signed an atomic pact through which they agreed to exchange expertise on nuclear issues. On July 12, 1968, the Soviet Prime Minister, Aleksei Kosygin, made an official visit to Stockholm where he met with the Swedish Prime Minister, returning the visit the latter made in May 1968 to Moscow. On April 22, 1969, Sweden aligned itself with Soviet Union at the 17-nation disarmament talks in Geneva on the issue of that the complete demilitarization of the seabed is hard to obtain and probably harmful. 
+
+Swedish Minister of Foreign Affairs Karin Soeder said on October 25, 1977, that the Swedish government regards the detention of two Swedish citizens by the Soviet Union "as a serious question." The minister was answering questions put forward by members of the Riksdag. "it will become a heavy burden" on the relations between Sweden and the Soviet Union if it is not settled at an earliest possible date, Soeder said. Soeder said that the two citizens, who had arrived in the Soviet Union on May 20, 1977, for a trip, were arrested by the soviet authorities in an area of the soviet-polish border when they were leaving the Soviet Union on June 5, 1977. They were accused of "attempting the situation in the Soviet Union." The foreign minister added that the Swedish foreign ministry had several times made representations with the soviet authorities on this matter. He himself also advanced this question to Soviet foreign minister Gromyko. On November 29th, 1977, the research arm of Sweden's Defense Department has turned up what it speculates is evidence that the Soviet Union is testing a 'death ray' weapon to destroy satellites and missiles space. The evidence involves the detection five times in 1976 in the air over Sweden of mysterious radioisotopes that had no connection with nuclear weapons test in China or the Soviet Union or with the airborne releases of radioactive contamination from nuclear power plants anywhere in Scandinavia. "As the observed events cannot be accounted for in terms of any known source," said a report this week in Science magazine. "the observations and speculation concerning charged particle beam experiments an interesting possibility." The report in Science was signed by Dr. Lars-Erick De Geer, whom was described by the Swedish embassy as a Scientist with the National Defense Research Institute in Stockholm. The embassy said the institute comes directly under the Swedish Department of Defense. On September 23, 1980, the Swedish Government had a special plan for promoting Swedish industry's participation in the exploitation of a gigantic wilderness in the Soviet Union. This was disclosed by the Minister of Industry, Nils Aasling, who is visiting Moscow, at the head of a big Government and industry delegation. This is intended to correct Sweden's big deficit in trade with the Soviet Union, due to Sweden's big oil imports. On November 21, 1980, a high official in the Swedish foreign ministry has repudiated a recent soviet nuclear blackmail to North European countries as an example of "superpower shameless impudence and extreme disrespect for Sweden's neutrality".
+
+MID3093, the first MID of RIV10989, involved the running aground of a Soviet submarine in Swedish waters near a naval base on October 22nd, 1981. A short-term standoff occurred until Sweden received an apology from the USSR. Sweden allowed the USSR to retrieve the submarine on November 6th of 1981 (Facts On File 1981). MID2973 is also related to USSR submarines in Swedish waters. Sweden reported the presence of a submarine in 1982 but reportedly never found the sub and presumed it to have left by October 10th (World Digest News October 15th, 1982). MID3615 and MID2738 were both over a territorial dispute in the Baltic Sea. Sweden and the USSR signed a territorial agreement in January of 1988 which put to rest the dispute of the area between Gotland and the Soviet coast (World Digest News, January 22, 1988). Sweden lodged a "firm protest" on September 7, 1984, with the Soviet Union over a violation of Swedish air space by a Soviet jet fighter. But the current normalization of relations between the two countries will continue, Prime Minister Olof Palme said in a television interview. Officials said the incident occurred August 9, 1984, when a SU-15 jet fighter pursued a Swedish passenger plane with 246 people aboard just south of the island of Gotland in the Baltic Sea. The jet fighter was in Swedish air space for four minutes, Supreme Commander Lennart Ljung told a news conference. Palme said, "The evidence is absolutely clear that Swedish air space has been violated. This is unfortunate but we cannot just freeze our relations with the Soviet Union." Sweden has begun steps to improve relations with the Soviet Union after a cool period following an incident in October 1981 when a Soviet Whiskey Class submarine ran aground inside a highly secret naval base in southeastern Sweden. Communications Minister Curt Bostrom is scheduled to visit Moscow in October. "This visit is in the interest of Sweden," Palme said. Conservative Ulf Adelsohn, leader of the largest opposition party, did not agree with the Social Democratic prime minister. "Proceeding with the exchange of visits would be giving the Soviets the wrong signal," Adelsohn said in a TV interview. "Our relations to the Soviet Union are very bad, simply because they will not leave this peaceful country alone." Friday's action was Sweden's third diplomatic protest with the Soviet Union in three years. The second, following the grounded sub incident, was in April 1983 when a parliamentary commission accused the Soviet Union of sending six submarines into Swedish waters and warned that the next intruder would be destroyed. On March 10,1986, Sweden and the Soviet Union resumed talks on the disputed border area on the Baltic Sea after four years of suspension, indicating a thawing in what have been icy relations between the countries. The Swedish delegation attending the talks is headed by Lennart Myrsten, an Ambassador level official, and the soviet negotiators are led by Yuri Rybakov, director of the treaty-legal department of the soviet foreign ministry. Sweden and the Soviet Union have long been at odds over some areas on the Baltic Sea. The Swedish government has held that the border line there should be drawn between the Gotland island, which is under its jurisdiction, and the soviet territories. The Soviets, however, have insisted that the line should go between the Soviet territories and the Swedish mainland. The dispute involves an area of some 3,500 square kilometers east of Gotland island. To settle the dispute, Sweden and the Soviet Union held several rounds of negotiations in 1969, 1970, 1974 and 1982, but reached no accommodation. The talks were stalled as bilateral relations deteriorated after Sweden discovered a stranded soviet submarine within its territorial waters, close to the major southern Swedish naval base at Kalskrona, in October 1981.Before the resumption of the talks, the two countries had made several unofficial contacts. Pierre Schori, state secretary of the Swedish foreign ministry, visited the Soviet Union earlier this year and brought back a message that the soviets were softening their stand on the border dispute. Prior to this meeting, Soviet ambassador to Sweden Boris Pankin told the Swedish news agency that the soviet side is ready to "seek a genuine compromise solution" to the complicated border dispute on the basis of fairness. Relations between the two nations have been improving since 1985, he added. A dinner in honor of Ingvar Carlsson, Prime Minister of Sweden, and Mrs Carlsson was held on April 17, 1986, on behalf of the USSR government in the Great Kremlin Palace. Together with Ingvar Carlsson the dinner was attended by the officials accompanying him on his visit. Present from the Soviet side were Nikolay Ryzhkov and his wife, Geydar Aliyev, Eduard Shevardnadze, Nikolay Talyzin and other officials. A speech was made at the dinner by Nikolay Ryzhkov, member of the Politburo of the CPSU Central Committee and Chairman of the USSR Council of Ministers.
+
+SOURCES-CM: 
+Brecher and Wilkenfeld, 1997, 603, 611-613; Jessup, 1998, 707-710; *Keesing*, May 28, 1982.
+
+NARRATIVE-CR:
+Sweden was caught between Germany and Russia in the First World War. The Swedish popular sentiment was in support of Germany, which promised Swedish control over the Aaland islands (MID1659) and independence for Finland. Russian troops occupied the islands until removal of the troops in February of 1918. The Finland question was resolved in 1918 with Russian recognition of independence (www.worldstatesman.org 2003). Final resolution over the islands came in October of 1920 with a treaty in which Russia granted the islands to Finland. The first dispute in the second rivalry between the two states (MID3722) was over Sweden supplying Germany with resources and food. In response to growing pressure from the Allied Powers, Sweden obtained permission from Germany to cancel trade and transport of German materials in 1943. The issue was put to rest with the defeat of Germany in 1945. 
+
+The disputes that follow are really a new rivalry resulting from the Cold War. MID1701 involved the downing of a Swedish plane by the Russian military over the Baltic Sea on June 16th of 1952 (Facts On File 1952). MID3214 and MID2907 are both single day events which are most likely territorial events that are not detailed in the London or NY Times. MID3093 involved the running aground of a Soviet submarine in Swedish waters near a naval base on October 27th, 1981. A short-term standoff occurred until Sweden received an apology from the USSR. Sweden allowed the USSR to retrieve the submarine on November 6th of 1981 (Facts On File 1981). MID2973 is also related to USSR submarines in Swedish waters. Sweden reported the presence of a submarine in 1982 but reportedly never found the sub and presumed it to have left by October 10th (World Digest News October 15th, 1982). MID3615 and MID2738 were both over a territorial dispute in the Baltic Sea. Sweden and the USSR signed a territorial agreement in January of 1988 which put to rest the dispute of the area between Gotland and the Soviet coast (World Digest News, January 22, 1988). The final dispute (MID3563) seems to be unrelated to the territorial/cold war issue and is more economic in nature. On September 16th of 1992 Sweden decided to raise its base interest rate 500% which caused a major outflow of investment from Russia. There is no record of any other event occurring in the time period coded for MID3563. 
+
+SOURCES-CR: 
+Facts On File; World Digest News; www.Worldstatesman.org
+
+PS-NARRATIVE: 
+
+19871222-19880519 Transition 
+
+Sweden and the Soviet Union have resumed talks on delimiting the boundary of the Baltic Sea, local newspapers reported on December 22, 1987. The talks started at the invitation of the Soviet Union. Both sides expressed hope that the negotiations would achieve progress before Nikolai Ryzjkov, chairman of the council of ministers of Soviet Union, visited Sweden on January 11-14, 1988. The two nations have had a series of talks on the Baltic Sea in recent years, but they have all failed to bear fruit. Both countries hold to the principle of a "medium line" to determine the boundary of the Baltic Sea, but Sweden insists on locating the line midway between its own Gotland Island and the Soviet mainland, while the Soviet Union insists that the dividing line should be midway between the mainland of the two countries. 
+
+19880520-20159999 0.5
+
+There were two documents signed on April 20, 1988, between the Foreign Ministers of Sweden and of the Soviet Union. One of them was about demarcating the economic zones, the fishing zones in the Baltic, the other agreement is about fishing quotas, where we give each other the right to fish in the parts which currently belong to either Sweden or the Soviet Union. The two agreements are very favourable to both countries, so that one cannot say that one or other of the countries has managed to get the better deal. We have very good reason to be happy for the result on both sides. On December 3, 1988, Tage Peterson, the speaker of Sweden's Riksdag (Parliament) said that the perestroika, currently under way in the political and social life and the economy of the Soviet Union, has great importance for bilateral relations between Sweden and the Soviet Union and for the entire international development. Due to the current changes, he said, interest in the Soviet Union has significantly grown during the recent conference of chairmen of parliaments of the states of Europe, the US and Canada, in Warsaw, Tage Peterson said he received an opportunity to exchange views on this question with the colleagues from other countries. "We were unanimous that the policy of perestroika strengthens the international position of the Soviet Union." During the forthcoming meetings with a Soviet Parliamentary Delegation, due to arrive in Stockholm on an official visit, Representatives of Swedish political parties will be able to get first-hand information about major changes in the Soviet constitution and the electoral system which were endorsed at the recent session of the USSR Supreme Soviet. "We plan to exchange views on a wide range of bilateral and international issues, including human rights matters. I would like to stress the striving of the people of Sweden towards good and open relations with the Soviet Union." Bengt Gustafsson, Supreme Commander of the Swedish Armed Forces, believes that foreign submarines, which repeatedly intruded into Sweden's territorial waters in 1988, came from the Soviet Union. According to the newspaper "Svenska Dagbladet", Gustafsson made the conclusion in a national defense report which he submitted to the government on February 16, 1989. The report said that in 1988, foreign submarines also intruded into Sweden's east and west coastlines, and the number of intrusions was greater in the first half of 1988 than in the second half. The newspaper said that Sweden has had some initial success in pursuing the foreign submarines. It reported, however, that Gustafsson's report could not be regarded as evidence for making diplomatic representations to the Soviet Union. The Soviet Union has denied any part in the "submarine incidents" in Sweden. On April 13, 1989, Sweden and the Soviet Union have agreed in principle on giving priority to environmental measures in the Baltic Republics. The environmental protection will be set down in a new agreement that is expected to be signed when Soviet Environmental Minister Feodor Morgun visits Sweden at the end of April, the "Dagens Nyheter" newspaper reported. The new agreement has been the subject of lengthy negotiations on the civil servant level and is now ready for signing. The Baltic countries reportedly will not be directly mentioned in the text of the agreement, but rather the expected wording will be "the vicinity". Swedish Environmental Minister Birgitta Dahl paid an official visit to the Soviet Union in 1988 and has spoken on several occasions of the Soviet Union's cooperative willingness for environmental improvement. Sweden and the Soviet Union have had an environmental agreement on safety at nuclear power plants for about a year. Both sides have committed themselves to report, among other things, operation disturbances.
+
+On November 10, 1989, Eduard Shevardnadze, Soviet Union's Foreign Minister spoke about the relations between Soviet Union and Sweden. The Soviet Union and Sweden are each interested in a stable life, the inviolate frontiers and productive cooperation in Europe and the entire world. This was stated by the Soviet Foreign Minister at a lunch he gave in honor of his Swedish counterpart Sten Andersson. Shevardnadze stressed that the dialogue between Sweden and the Soviet Union embraces new topics, the most pressing of which is the situation in the North of Europe. We are happy, he said, that the Swedes have reacted so warmly to the initiatives recently advanced by Mikhail Gorbachev during his visit to Finland. The number of Soviet troops in the northwestern region is being cut. No Soviet intermediate-and shorter-range missiles remain here. Soviet tactical weapons can no longer reach Nordic countries from any point within the Soviet Union. The Soviet Union is prepared to undertake long-term commitments to cut sea-based nuclear weapons. It is prepared to hold negotiations with all nuclear powers and Baltic states on effective guarantees of the Baltic Sea's non-nuclear status. Shevardnadze expressed confidence that it is in the interests of the Soviet Union and Sweden to make the situation in the region truly peaceful and stable and to clean the Baltic Sea of nuclear weapons and environmental pollutants. On June 5, 1991, President Mikhail Gorbachev of Soviet Union made an official visit to Sweden, 27 years after the last Soviet leader visited the Scandinavian country. In Sweden, he faced comments about Soviet military actions in the Baltic republics from the Swedish officials newly critical of the Soviet regime. Gorbachev is to come to Stockholm a day after giving his 1990 Nobel Peace Prize lecture in Oslo, Norway. The Soviet leader will meet Prime Minister Ingvar Carlsson as well as King Carl XVI Gustaf. Neutral Sweden has traditionally been cautious in its criticism of its powerful neighbor. But Moscow's crackdown against Baltic independence movements this year prompted a change in tone. Carlsson said the crackdown would have "severe consequences for our relations." Foreign Minister Sten Andersoon said that the Nobel Prize should have been given to someone other than Gorbachev. Andersson, declaring he was overworked, canceled meetings with Gorbachev and Soviet Foreign Minister Alexander Bessmertnykh as part of a two-week rest. Sweden went to great lengths to maintain good relations with the Soviet Union after World War II. Sweden recognized the Soviet annexation of the Baltic states and raised few questions over the fate of Raoul Wallenberg, a Swedish diplomat detained by Soviet forces in Hungary after he had helped to save tens of thousands of Jews from Nazi death camps. "The reason for the prudent stand was Sweden's ambition to play some sort of middle role in international relations between the superpowers and in the North-South dialogue", said Mats Svegfors, a political analyst. At the same time, Sweden built up its armed force. "The rearmament was mainly aimed at the Soviet Union...where a terror regime was conducting a policy of force", Svegfors said.
+
+On September 22, 1992, the last MID of RIV10989, MID3563, ended. The final dispute (MID3563, which lasted from September 16-21, 1992) seems to be unrelated to the territorial/cold war issue and is more economic in nature. On September 16th of 1992 Sweden decided to raise its base interest rate 500% which caused a major outflow of investment from Russia. There is no record of any other event occurring in the time period coded for MID3563. On April 19, 1995, Sweden's Prime Minister, Ingvar Carlsson, met with his Russian counterpart Viktor Chernomyrdin in Moscow to take up issues pertaining to economic cooperation between the two countries, Russian news agency Interfax reported. "Today's talks...will give relations between our countries a fresh impetus," Chernomyrdin was quoted as saying. Russia sees good potential in Sweden as a trade partner. According to official Russian figures, the trade volume between the two states amounted to almost one billion dollars in 1994. Carlsson arrived in Moscow on a two-day visit. He is also slated to meet Russian President Boris Yeltsin and parliamentary chief Ivan Rybkin. During the visit, an agreement to protect investments and ensure cooperation in combating crime will also be signed by the two countries. Well-off and determinedly neutral, Sweden has much that Russian President Boris Yeltsin wants to cultivate on his state visit.
+
+Yeltsin's three-day visit, which begins on December 1st, 1997, comes as Russia is struggling with concerns about its economy and making poorly received overtures to keep Estonia, Latvia and Lithuania out of NATO. Russia has offered the three former Soviet Baltic states security guarantees if they do not seek NATO membership. All three countries have flatly rejected the offer. Although Sweden has said it holds to the principle that all countries have the right to choose their own security arrangements, its longtime neutrality is likely to be used by Russia as an example in arguing that the Baltics don't need to join the Western alliance. ''The status of neutrality protects national originality of a state and gives it additional prestige in international affairs. This has been proved by Sweden,'' Yeltsin said. ''I am convinced that the construction of the European security system, rather than devaluing, intensifies the importance of the institute of neutrality and noninvolvement in military blocs in Europe,'' he said. Russia also wants Sweden to use its money to help reduce tensions in the region, believing that more prosperity brings more stability. That's quite in line with Sweden's policy it contributes substantial aid both to Russia and to the Baltics. This year, Swedish aid to Russia will total about 160 million kronor (dlrs 21 million), ranging from projects to reform government systems to fixing the sewage system in the Kaliningrad enclave. Yeltsin praised Stockholm's help in improving Russia's relations with former Soviet republics in the Baltics. ''We are sincerely interested in improving relations with them, but the stumbling block in dealing with Latvia and Estonia is the position of their Russian population,'' Yeltsin said. Russia insists the two states' governments follow international organizations' guidelines on granting equal rights to the many Russians who live there, and is glad of ''mutual understanding with Sweden on this matter,'' Yeltsin said. Russia also is looking for more Swedish private investment, including the possibility of automaker Volvo starting a plant in Russia. For Sweden, helping develop Russia's economy could pay off handsomely, easing the perpetual problem that Sweden faces of being a heavy manufacturer but having only a small domestic market. Swedish mobile telephone maker Ericsson also is expected to sign an agreement during the visit to open manufacturing facilities in Russia. Crime, one of the concerns of Swedish companies about doing business in Russia, also will be addressed during the visit, with the expected signing of three agreements on greater police cooperation and crime prevention. Yeltsin's full-scale visit with an entourage of some 200 people including wife Naina also is likely to be a morale-booster for Sweden, which was quietly hurt after U.S. President Bill Clinton passed the country by on two trips to the region in 1997. His schedule includes meeting with Prime Minister Goeran Persson, a speech to Parliament and lunch with Astrid Lindgren, the creator of ''Pippi Longstocking.''On 3rd December 1997, Russia and Sweden have signed a protocol about Sweden's involvement in the construction of a gas pipeline through which gas will be transported from Russia to Western Europe via Finland, the Russian president's press secretary, Sergey Yastrzhembskiy, told a briefing in Stockholm on 3rd December. The protocol was signed on Wednesday by Russian First Deputy Prime Minister Boris Nemtsov and Swedish Industry and Commerce Minister Anders Sundstroem. According to Sergey Yastrzhembskiy, such a document was not on the program of the meeting and its signing has become an "interesting and promising result of the visit" of the Russian President Boris Yeltsin to Sweden. The press secretary noted that the route of such a gas pipeline had not yet been determined exactly. There are three drafts of the gas project. It is not obligatory that Sweden should act as the main country to obtain Russian gas. It may play a role of a transit side, he explained. Practically all the versions of the gas project provide for the participation of Russia, Finland, Sweden and Germany. The exact route must be determined additionally, Sergey Yastrzhembskiy informed. However, according to him, the main thing is that during the visit of the Russian president to Sweden the sides have managed to outline the specific fact of the beginning of "such consultations between Moscow and Stockholm". The president's spokesman elaborated that Russian-Swedish cooperation did not envisage that the new "northern" branch of the gas pipeline would compete with the Yamal-Western Europe gas pipeline. This branch will be independent...The need for further bilateral contacts and cooperation between Russia and Sweden in the military sphere will be expressed during a working visit by Swedish Defence Minister Bjorn von Sydow to Russia (scheduled for December 7, 1999) and his talks with Russian Defence Minister Igor Sergeyev. During his talks with Sergeyev, the agency stresses, the Swedish minister will discuss the question on conducting joint Russian-Swedish war games.Besides, Sydow intends to discuss the question on resuming Russia's participation in exercises in the framework of the NATO programme "Partnership for Peace", from which Russia withdrew "in protest against NATO interference in the Yugoslav conflict". The agency reports in this connection that Sweden has an informal instruction from NATO to persuade Russia to join cooperation under the programme. The agency notes that Sergeyev was to make an official visit to Sweden last summer, but international conflicts cancelled twice the Russian minister's visit. However, since the two sides have important questions for discussion, and Sergeyev cannot leave Russia over the Chechen events, Sydow will come to Moscow.Russia's strong ties with Sweden will help Moscow develop contacts with the European Union when Stockholm assumes that body's rotating chairmanship next year, President Vladimir Putin said on September 27,2000. In a Kremlin meeting with Swedish Prime Minister Goeran Persson, Putin praised Sweden as a strong trading partner, saying trade turnover had increased by 50 percent over the last year, the ITAR-Tass news agency reported.''We shall work to deepen and improve these relations,'' Persson said after the meeting, according to ITAR-Tass. While cultivating ties with isolated states such as North Korea and Iraq, Putin has sought to strengthen Russia's relationship with the European Union, partly in hopes of getting crucial foreign investment. He said that Sweden's EU chairmanship should ''serve as yet another good sign in the development of relations between Russia and the European Union.''Persson met with Prime Minister Mikhail Kasyanov and was scheduled to return home later that day. Sweden is one of the main players in the EU's ''Northern Dimension'' initiative, which aims to increase security and cooperation in the northern region as several countries bordering Russia seek E.U. membership.Russia has been angered that former Soviet republics in the region have sought membership in the NATO military alliance, but Kasyanov said that Russia has no problem with them joining the EU.During Sweden's presidency of the EU a number of meetings will be held as part of European Union and Russia cooperation. In March 2001, for example, it is planned to arrange in Stockholm a meeting between Russia's Foreign Minister Igor Ivanov and his opposite numbers from the European Union troika: Secretary-General of the EU Council and high representative of the European Union for security and defence policy Javier Solana and heads of foreign ministries of Sweden and Belgium, which is to succeed Sweden as EU president. Besides, the Russian Foreign Minister will attend a summit of foreign ministers of 15 EU countries in April 2001 in Luxembourg. A final meeting of representatives of Russia and the European Union will be a Russia-EU summit in Moscow in May of next year.The ambassador emphasized that Sweden as holder of the EU presidency will promote Russia's acceptance into the World Trade Organization /WTO/. In his view, Russia's integration into WTO is a rather slow process and Sweden will try to do all it can to speed it up. Russia's WTO membership will ease access for Russian commodities and services to the world market and also Russia's access to these markets, believes Hirdman. On 5 May 2003, Russia and Sweden plan to hold naval maneuvers to exercise rescue operations in 2004, Russian Defence Minister Sergey Ivanov announced. "We will instruct our experts to organize the exercises and put them on the schedule for next year," Ivanov told reporters in Stockholm on 5 May 2003 after talks with Swedish Defence Minister Leni Bjoerklund. He said contacts between the Russian and Swedish defence ministries are developing steadily and dynamically at various levels. "We view Sweden as one of our main defence and security partners in the Baltic region," the Russian defence minister said. He said the Baltic and Barents seas are not the only sites for Russian-Swedish cooperation. "We had a detailed discussion during the negotiations about the threat of the proliferation of weapons of mass destruction and the situations in individual hot spots, primarily Afghanistan. We also exchanged information about experience in introducing military reforms," he said. Bjoerklund said Sweden expects stronger military ties with Russia. She said the two countries could work together more closely in military exercises and personnel training and exchange more information about experience in the nonproliferation of weapons of mass destruction. Asked in which Scandinavian country Ivanov previously worked as an intelligence agent, the Russian minister said: "In the early 1980s, I worked as an intelligence agent in northern, not Scandinavian, countries. I also worked in other regions as well. I liked that job very much. It has given me a lot of positive life experience. I don't regret it." Russia and Sweden will conduct joint military exercises in Sweden in early 2006, Defense Minister Sergei Ivanov said on October 3, 2005. Ivanov made the announcement after meeting his Swedish counterpart, Leni Bjorklund, who began a three-day visit in Moscow. The report said the planned exercises would include Russian motorized infantry groups but did not give other details. Ivanov said he and Bjorklund agreed to widen contacts between their countries' militaries, the report said. That broadening would involve direct contacts between military units in southern Sweden and Russian forces in the Kaliningrad exclave, across the Baltic Sea from Sweden. Bjorklund is expected to meet with officials at the Emergency Service Ministry to discuss joint responses to emergencies. The broadening of political and economic cooperation with Russia, bilateral and in the framework of the European Union, is the top priority for Sweden, Goran Persson, Sweden's prime minister, said on June 8, 2006, in his message of greetings to the international business conference ``G8 meeting: Russia's leadership means new opportunities for business'' that opened in Stockholm in the framework of Russia's year in Sweden.``I hope sincerely that our common efforts aimed at the development of economic and commercial ties between Sweden and Russia will lead to stepped up economic growth in our region and to greater people-to-people interaction,'' Goran Persson said. Addressing the conference, Sweden's Minister of Industry and Commerce Thomas Oestros said, ``Sweden's traditionally guarded attitude vis-a-vis to Russia has been replaced of late with curiosity and optimism,'' which had promoted considerable growth of trade between the two countries in the recent years. Prominent representatives of the Russian political and business elite, Swedish businessmen and experts attend the conference, to last for two days. They will discuss a broad range of questions regarding the activity of the business community of the North of Europe.
+
+PS-SOURCES: New York Times March 15, 1934; July 11, 1937; March 19, 1940; March 15, 1949; October 31, 1951; August 6, 1952; October 9, 1946; February 6, 1947; July 8, 1964; February 13, 1968; July 12, 1968; April 23, 1969; BBC October 1, 1980; April 17, 1986; April 20, 1988, December 5, 1997; May 5, 2003; Washington Post November 29, 1977; Xinhua October 30, 1977; January 6, 1980; November 23, 1980; March 10, 1986; December 22, 1987; February 16, 1989; April 13, 1989; Associated Press September 7, 1984; July 22, 1990; June 5, 1991; December 1, 1997; September 27, 2000; October 3, 2005; RIA Novosti January 01, 2001; TASS November 10, 1989; December 7, 1999; April 13, 2002; June 8, 2006; TASS December 8, 1988
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE: MID3093
+ DYAD: RUSSIA/USSR SWEDEN 365380
+ DATES: 19811022 19811106
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 1
+
+Discussion:
+MID3093 involved the running aground of a Soviet submarine in Swedish waters near a naval base on October 22nd, 1981. Sweden discovered a stranded soviet submarine within its territorial waters, close to the major southern Swedish naval base at Kalskrona. A short-term standoff occurred until Sweden received an apology from the USSR. Sweden allowed the USSR to retrieve the submarine on November 6th of 1981 (Facts On File 1981).
+
+MARITIME-DISPUTE: MID2973
+ DYAD: RUSSIA/USSR SWEDEN 365380
+ DATES: 19820605 19821004
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2973 is also related to USSR submarines in Swedish waters. Sweden reported the presence of a submarine in 1982 but reportedly never found the sub and presumed it to have left by October 10th (World Digest News October 15th, 1982). 
+
+MARITIME-DISPUTE: MID3615
+ DYAD: RUSSIA/USSR SWEDEN 365380
+ DATES: 19830428 19830507
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID3615 was over a territorial dispute in the Baltic Sea. Sweden and the Soviet Union have long been at odds over some areas on the Baltic Sea. The Swedish government has held that the border line there should be drawn between the Gotland island, which is under its jurisdiction, and the soviet territories. The Soviets, however, have insisted that the line should go between the Soviet territories and the Swedish mainland. The dispute involves an area of some 3,500 square kilometers east of Gotland island. In April 1983 a parliamentary commission accused the Soviet Union of sending six submarines into Swedish waters and warned that the next intruder would be destroyed. Sweden and the USSR signed a territorial agreement in January of 1988 which put to rest the dispute of the area between Gotland and the Soviet coast (World Digest News, January 22, 1988). 
+
+MARITIME-DISPUTE: MID2738
+ DYAD: RUSSIA/USSR SWEDEN 365380
+ DATES: 19870401 19880631
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2738 was over a territorial dispute in the Baltic Sea. Sweden and the Soviet Union have long been at odds over some areas on the Baltic Sea. The Swedish government has held that the border line there should be drawn between the Gotland island, which is under its jurisdiction, and the soviet territories. The Soviets, however, have insisted that the line should go between the Soviet territories and the Swedish mainland. The dispute involves an area of some 3,500 square kilometers east of Gotland island. Sweden and the USSR signed a territorial agreement in January of 1988 which put to rest the dispute of the area between Gotland and the Soviet coast (World Digest News, January 22, 1988). 
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+"Agreement on principles for the delimitation of the sea areas in the Baltic Sea between the Kingdom of Sweden and the Union of Soviet Socialist Republics." 13 January 1988 (entry into force: 13 January 1988; registration #: 27071; registration date: 29 January 1990).
+
+"Agreement between the Government of the Kingdom of Sweden, the Government of the Polish People’s Republic and the Government of the USSR concerning the Common Delimitation Point of their Maritime Boundaries in the Baltic Sea." 30 June 1989 (entry into force: 10 May 1990; registration #: 27841; registration date: 18 January 1991).
+
+New York Times (1981). Soviet Sub Spends Sixth Day Grounded on Swedish Coast. New York Times November 2. LexisNexis: 8.
+
+Associated Press (1992). Prime Minister Says Russian Subs Violating Territory. Associated Press September 22. LexisNexis.

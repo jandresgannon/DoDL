@@ -1,0 +1,104 @@
+FILE: cm365645v11.0.txt
+DYAD: RUSSIA/USSR - IRAQ
+RIVALRY: RIV1003
+DISPUTE(S): MID3552 
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20190318
+PS-LAST-CHECKED: 20190318
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID3552 
+
+TERRMID: MID3552 3 -- not territory 
+TERRMID-CER: MID3552 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID3552 3 -- not third party link to territory 
+TERRLINK-CER: MID3552 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID3552 3 -- not maritime 
+MARITMID-CER: MID3552 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3552 3 -- not islands 
+ISLMID-CER: MID3552 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3552 1 -- civil war MID
+CIVWARMID-CER: MID3552 1 -- certain 
+CIVWARMID-NOTES: MID3552 from cm200365 narrative, this is a multilateral MID involving Iraq vs. the US, UK, Turkey, France, Kuwait, Saudi Arabia, and Russia. Iraq denied UN weapons inspectors entrance to various sites in Iraq. Other states protested in response, contributing to this MID. Also, Iraq threatened the safety of planes enforcing the no fly zone. In January 1993, the US, UK, and France raided several anti-aircraft missile sites. In June 1993, Iraq again refused UN access to a weapons plant. In June 1993, the US launched a cruise missile at an Iraqi intelligence headquarters building in response to an assassination attempt on Bush Sr as he was visiting Kuwait. Coded civil war MID because some of the events of this MID are connected to the no fly zone over Iraq, which was being enforced due to Saddam Hussein's attempts to conduct politicide against militarized rebel groups and civilians in parts of Iraq. 
+
+CIVWARLINK: MID3552 3 -- not civil war link 
+CIVWARLINK-CER: MID3552 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID3552 3 -- not coup 
+COUPMID-CER: MID3552 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3552 3 -- not coup link
+COUPLINK-CER: MID3552 1 -- certain 
+COUPLINK-NOTES: 
+
+MID607
+
+TERRMID: MID607 3 -- not territory 
+TERRMID-CER: MID607 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID607 1 -- third party link to territorial MID
+TERRLINK-CER: MID607 1 -- certain 
+TERRLINK-NOTES: MID607 from Gibler 2018 and cm365640 narrative, this is a multilateral MID involving Turkey, allied with the US, Jordan, and Iraq, in a territorial dispute against Syria, allied with Egypt and the USSR. After border troop buildups by Turkey and Syria, clashes occurred along the disputed border. The Egyptians and the Americans were involved heavily in the MID, in the form of arms support and, in the case of Egypt, supplying troops to fight. Russia is involved in this MID due to its support for Syria. Coded third party link to terrirorial MID because this was connected to a territorial dispute between Turkey and Syria. 
+
+MARITMID: MID607 3 -- not maritime 
+MARITMID-CER: MID607 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID607 3 -- not islands 
+ISLMID-CER: MID607 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID607 3 -- not civil war 
+CIVWARMID-CER: MID607 1 -- certain 
+CIVWARMID-NOTES: MID607 no indication in cm narrative, Gibler 2018, or news coverage that rebel group activity contributed to this MID. 
+
+CIVWARLINK: MID607 3 -- not civil war link 
+CIVWARLINK-CER: MID607 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID607 3 -- not coup 
+COUPMID-CER: MID607 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID607 3 -- not coup link
+COUPLINK-CER: MID607 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID3552
+rivalry=365645 nationa=RUSSIA/USSR nationb=IRAQ MID3552 19930106-19930114 
+ revtype1a=NOT APPLICABLE revtype2a=. fatala=NONE fatalpa=0 lhosta=THREAT TO USE FORCE 
+ revtype1b=POLICY revtype2b=. fatalb=. fatalpb=. lhostb=USE OF FORCE 
+
+MID3552 has had Russia and Saudi Arabia added as participants. First day of dispute was on 1/6/1993 and last day of dispute was on 1/14/1994.
+
+NO DISPUTE NARRATIVE WITH DETAILS AVAILABLE FROM COW
+
+RIVNOTES: 
+RIV1002: MID3241 (1970) was removed in mid3.02 it was a 1970 incident involving major powers and iraq and syria.
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+

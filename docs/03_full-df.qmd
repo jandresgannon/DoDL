@@ -1,0 +1,116 @@
+---
+title: '03 Final Dataframe'
+author:
+  - name: J Andrés Gannon
+    email: "andres.gannon@gmail.com"
+    url: jandresgannon.com
+    affiliation: Vanderbilt University
+format:
+  pdf:
+    fig-format: png
+    thanks: test text here
+editor: source
+execute:
+  echo: false
+  warning: false
+  cache: true
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+header-includes:
+- \usepackage{tikz}
+- \usepackage{pgfplots}
+- \pgfplotsset{compat=newest}
+- \usetikzlibrary{plotmarks}
+- \usetikzlibrary{arrows.meta}
+- \usepgfplotslibrary{patchplots}
+- \usepackage{grffile}
+- \usepackage{caption}
+- \usepackage[utf8]{inputenc}
+- \usepackage[doublespacing]{setspace}
+- \AtBeginEnvironment{tabular}{\singlespacing}
+- \usepackage{float}
+- \usepackage{multirow}
+- \usepackage{tablefootnote}
+- \usepackage{pifont}
+- \usepackage{newunicodechar}
+- \usepackage{booktabs}
+- \usepackage{tabularx}
+- \newunicodechar{✓}{\ding{51}}
+bibliography: ForceStructure.bib
+---
+
+This document creates the full dataframe used for all models in the paper
+
+```{r}
+library(magrittr)
+library(ggplot2)
+```
+
+# Load data
+
+We start by loading the DV and EV dataframes created from the previous scripts with variables at the alliance-year level.
+
+```{r}
+# DV
+dv <- readRDS(file = paste0(here::here(), '/data/01_DV.rds')) %>%
+  dplyr::mutate(atopid = as.numeric(atopid)) %>%
+  dplyr::distinct()
+
+# EV
+ev <- readRDS(file = paste0(here::here(), '/data/02_EV.rds')) %>%
+  dplyr::distinct()
+
+# Merge
+df <- dplyr::full_join(dv, ev) %>%
+  dplyr::filter(atopid > 0 &
+                  defense == 1)
+```
+
+# Prep
+
+Do some variable mutations, as needed
+
+```{r}
+# Prep
+df <- df %>%
+  dplyr::ungroup() %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(dol_nodf = 1 - (dol_nodf/100),
+                dol_nicheolap = 1 - dol_nicheolap,
+                dol_funccomplement_scaled = scales::rescale(dol_funccomplement),
+                strcomp_cinc_total_scaled = scales::rescale(strcomp_cinc_total),
+                hier_laplace_scaled = scales::rescale(hier_laplace),
+                hier_laplace2_scaled = scales::rescale(hier_laplace2),
+                hier_ivi = hier_ivi/100,
+                hier_spread = hier_spread/100,
+                hier_hub = hier_hub/100,
+                atopid = as.factor(atopid),
+                bilat = as.factor(bilat),
+                terrres = as.factor(terrres),
+                milcon = as.factor(milcon),
+                milaid = as.factor(milaid),
+                intcom = as.factor(intcom),
+                members_log = log(members),
+                rivals_log = log(rival_count),
+                year_norm = year - min(year - 1),
+                year_sq = (year_norm)^2,
+                year_cube = (year_norm)^3)
+
+# laplace1 <- bestNormalize::bestNormalize(df$hier_laplace, allow_lambert_h = TRUE, allow_lambert_s = TRUE)
+# df$hier_laplace_norm <- predict(laplace1, df$hier_laplace)
+
+# laplace2 <- bestNormalize::bestNormalize(df$hier_laplace2, allow_lambert_h = TRUE, allow_lambert_s = TRUE)
+# df$hier_laplace2_norm <- predict(laplace2, df$hier_laplace2)
+
+df <- df |>
+  dplyr::relocate(atopid, 
+                  dplyr::starts_with("year"), 
+                  dplyr::starts_with("dol_"), 
+                  dplyr::starts_with("strcomp_"), 
+                  dplyr::starts_with("hier_"))
+```
+
+# Save
+
+```{r}
+saveRDS(df, paste0(here::here(), "/data/","03_df-full.rds"))
+```

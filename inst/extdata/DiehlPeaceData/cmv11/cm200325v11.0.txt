@@ -1,0 +1,242 @@
+FILE: cm200325v11.0.txt
+DYAD: UNITED KINGDOM-ITALY
+RIVALRY: RIV420
+DISPUTE(S): MID1642 
+RIVALRY: RIV421
+DISPUTE(S): MID1772 
+RIVALRY: RIV422
+DISPUTE(S): MID1672 MID111 MID2304 MID620 MID3724 MID3716 
+
+PS: 19009999-19111223 .5 19111224-19271027 .25 19271028-19430909 0.0 19430910-19541022 0.50 19541023-19920206 0.75 19920207-20170328 1.00 20170329-20201231 -9
+
+PS-UPDATE2020: This dyad enters a transition period from the time that the UK gives notice of leaving the EU (20170329) to the date that Brexit becomes final (20201231)
+
+PSNOTES:
+
+PS-LAST-CHANGED: 20220220
+PS-LAST-CHECKED: 20220220
+
+
+Territorial-Maritime-Boundary Issues Variables 
+
+
+Pre-1900 MIDs: MID1642 
+
+WWII MIDs: MID3724 MID3716
+
+
+MID1772 
+
+TERRMID: MID1772 3 -- not territory 
+TERRMID-CER: MID1772 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1772 1 -- third party link to territorial MID
+TERRLINK-CER: MID1772 1 -- certain 
+TERRLINK-NOTES: MID1772 from Gibler 2018, the Italian navy was patrolling the Mediterranean during the Turco-Italian War, and in 1911 several Italian ships moved through the Suez Canal and seized a UK ship, triggering this MID. The UK and other European powers opposed an Italian invasion of the Balkans and Anatolia. Coded third party link to territorial MID because the Turco-Italian War was a territorial dispute, and the UK is pulled in in this incident. 
+
+MARITMID: MID1772 3 -- not maritime 
+MARITMID-CER: MID1772 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1772 3 -- not islands 
+ISLMID-CER: MID1772 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1772 3 -- not civil war 
+CIVWARMID-CER: MID1772 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1772 3 -- not civil war link 
+CIVWARLINK-CER: MID1772 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1772 3 -- not coup 
+COUPMID-CER: MID1772 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1772 3 -- not coup link
+COUPLINK-CER: MID1772 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1672 
+
+TERRMID: MID1672 1 -- territorial MID
+TERRMID-CER: MID1672 1 -- certain 
+TERRMID-NOTES: MID1672 from Gibler 2018, this is connected to the issue of Tangier, a disputed city in Morocco to which several countries had claims. In 1923, UK, France, and Spain signed an agreement to create distinct administrative zones in Tangier, which Italy opposed because of its claims. In 1927, Italy deployed warships to Tagier, which the UK protested, triggering this MID. Coded territorial MID because UK and Italy were both making a claim on Tangier here.
+
+TERRLINK: MID1672 3 -- not third party link to territory
+TERRLINK-CER: MID1672 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1672 3 -- not maritime 
+MARITMID-CER: MID1672 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1672 3 -- not islands 
+ISLMID-CER: MID1672 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1672 3 -- not civil war 
+CIVWARMID-CER: MID1672 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1672 3 -- not civil war link 
+CIVWARLINK-CER: MID1672 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1672 3 -- not coup 
+COUPMID-CER: MID1672 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1672 3 -- not coup link
+COUPLINK-CER: MID1672 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID111 
+
+TERRMID: MID111 3 -- not territory 
+TERRMID-CER: MID111 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID111 1 -- third party link to territorial MID
+TERRLINK-CER: MID111 1 -- certain 
+TERRLINK-NOTES: MID111 from Gibler 2018, Italy attacked Ethiopia with the intention of governing its territory and establishing it as a colony. Ethiopia received assistance from UK, who had colonial possessions elsewhere in Africa, pulling UK into this MID. Coded third party link to territorial MID because the Italy-Ethiopia conflict was a territorial dispute, and UK was pulled in due to its support for Ethiopia. 
+
+MARITMID: MID111 3 -- not maritime 
+MARITMID-CER: MID111 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID111 3 -- not islands 
+ISLMID-CER: MID111 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID111 3 -- not civil war 
+CIVWARMID-CER: MID111 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID111 3 -- not civil war link 
+CIVWARLINK-CER: MID111 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID111 3 -- not coup 
+COUPMID-CER: MID111 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID111 3 -- not coup link
+COUPLINK-CER: MID111 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2304 
+
+TERRMID: MID2304 3 -- not territory 
+TERRMID-CER: MID2304 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2304 3 -- not third party link to territory 
+TERRLINK-CER: MID2304 1 -- certain 
+TERRLINK-NOTES: MID2304 from Gibler 2018, an Italian submarine attacked a UK vessel near the Spanish coast. Coded not third party link to territory because this does not appear to be connected to any particular dispute, although the countries had experienced some conflict in recent years due to territorial claims elsewhere.
+
+MARITMID: MID2304 3 -- not maritime 
+MARITMID-CER: MID2304 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2304 3 -- not islands 
+ISLMID-CER: MID2304 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2304 3 -- not civil war 
+CIVWARMID-CER: MID2304 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2304 3 -- not civil war link 
+CIVWARLINK-CER: MID2304 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2304 3 -- not coup 
+COUPMID-CER: MID2304 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2304 3 -- not coup link
+COUPLINK-CER: MID2304 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID620 
+
+TERRMID: MID620 3 -- not territory 
+TERRMID-CER: MID620 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID620 3 -- not third party link to territory 
+TERRLINK-CER: MID620 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID620 3 -- not maritime 
+MARITMID-CER: MID620 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID620 3 -- not islands 
+ISLMID-CER: MID620 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID620 3 -- not civil war 
+CIVWARMID-CER: MID620 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID620 1 -- civil war link 
+CIVWARLINK-CER: MID620 1 -- certain 
+CIVWARLINK-NOTES: MID620 from Gibler 2018, Italy was supporting General Franco and the Nationalists in the Spanish Civil War and threatened the UK and France with war if they intervened. Coded civil war link because this is connected to the Spanish Civil War, outside of this dyad.
+
+COUPMID: MID620 3 -- not coup 
+COUPMID-CER: MID620 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID620 3 -- not coup link
+COUPLINK-CER: MID620 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+
+RIVNOTES: 
+RIV422: MID258 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+NARRATIVE-CM:
+Italy declared war against Britain on June 10, 1940. Britain announced a blockade of Italy on June 12, 1940. Italian troops inavded British Somaliland from Italian East Africa (Ethiopia) on August 6, 1940, and Italian troops captured the territory on August 19, 1940. British troops attacked Italian troops in northern Africa on December 8, 1940, and British troops invaded Italian Libya on December 12, 1940. British troops invaded Italian East Africa and Eritrea on January 15-19, 1941. British troops captured Tobruk from Italian troops in Libya on January 22, 1941. British troops captured Mogadishu in Italian Somaliland on February 26, 1941 and Addis Ababa in Ethiopia on April 6, 1941. German troops commanded by General Erwin Rommel intervened in support of Italy on April 3, 1941. German and Italian troops recaptured Tobruk on June 21, 1942. British troops captured Tripoli in Italian Libya on January 24, 1943. British and other Allied troops invaded Sicily on July 10, 1943 (and captured the island on August 18, 1943). Allied military aircraft bombed Naples and Rome on July 19-20, 1943. Allied troops landed in southern Italy on September 2, 1943, and the Italian government surrendered to the Allied countries on September 12, 1943. German troops intervened in support of former Prime Minister Benito Mussolini on September 15, 1943. Allied troops landed on the coast of Italy near Rome on January 23, 1944, and entered Rome on June 4, 1944. German troops in Italy surrendered to Allied troops on May 1, 1945. Britian and Italy signed a peace treaty in Paris on February 10, 1947. British troops completed their withdrawal from Italy on December 8, 1947.
+
+SOURCES-CM: 
+*Keesing*, December 13-20, 1947; Langer, 1972, 1972, 1147-1149.
+
+
+NARRATIVE-CR:
+The last series of MIDS between Italy and the United Kingdom correspond to the growing cooperation between Fascist Italy and Germany. The last MID in the series is coded as number MID3716 and is listed as ended on September 9th, 1943. This is the day that Italy signed the armistice with the Allied powers (Willis 1971). However, a more appropriate ending date for the rivalry would be the date of the final peace treaty adoption, which was signed on February 10, 1947 (Willis 1971). Winston Churchill was in command of British foreign policy during the duration of the final MIDS while Mussolini was the Italian Prime Minister until July 25th of 1943 where after the government was headed by the British backed Prime Minister Badoglio (Willis 1971). Badoglio served as head of the government until Italy's change from a monarchy to a democratic republic on June 2nd of 1946 at which time Enrico De Nicola was elected to head of state (Ginsborg 1990). Most of the conflict resolution took place under the Badoglio government and he was the primary actor with whom the United Kingdom dealt with.
+
+A small description of Italian-British relations prior to the conclusion of WWII might underline some of the territorial claim that the United Kingdom wanted to lay on the Mediterranean. Beginning in 1934 and ending in 1936 there was a clash of interests between Italian and British military over the Italian colony of Walwal. The British backed Abyssinian forces to drive out the Italian presence in Walwal that they claimed was illegal as it was a British holding (Martelli 1938). A military skirmish ensued which cost the lives of several hundred soldiers on either side as well as the eventual pillage and rape of Italian colonists (Martelli 1938). Britain was adamant about containing Italian expansionism and securing a dominant position in the Mediterranean. 
+
+British ambitions had not entirely changed by 1943 with Allied occupation of Southern Italy. During the signing of the armistice Churchill made it clear that if Italy wanted to retain a level of autonomy then it would have to substantively contribute to the ousting of German forces (Willis 1971). In addition Churchill did not suggest that that Italy's pre-WWII colonial holdings would ever be returned to Italian control. In opposition to the American policy of installing a democratic government Britain advocated that Italy remain a monarchy under the control of British rule until the citizenry develop a mature democratic nature. Churchill made no effort to conceal the fact that a primary goal of continued British presence was to prevent the Italian Communist Party from taking control of the government (Willis 1971). 
+
+In November of 1944 the Protocols of Rome were drafted and signed which promised that after victory over fascism in Italy was achieved in totality then Britain would return all control to the Italian Badoglio government as well as return territory held by Allied troops in Northern Italy (Willis 1971). Britain did not make many efforts between this time and the final peace treaty of 1947 to return Italian holdings. Finally after the signing of the peace treaty of 1947 foreign and domestic holdings were returned and complete control over policy was returned to Italy (Willis 1971). This change in British ambitions may have been in large part due to the massive dept incurred by Britain during World War II that shifted policy away from colonial and foreign domination and towards a more domestically centered government. In part this came about because of the new democratically elected government that was installed in June of 1946.
+
+SOURCES-CR:
+Martelli 1938; Willis 1971; Ginsborg 1990
+
+SB-CR:
+UK / Italy Years: 1911-1947 Issues at stake: Italian expansionist policies. End coding: 1947 is the date of the final post-WWII peace treaty between the victorious allies and Italy, and the date of a final agreement regarding claims and debts emerging from the war. Number of militarized disputes: 7. Number of 30 day reciprocated militarized disputes: 3. Last militarized dispute: 1943 (WWII). Wars: 1940-1943. Summary: Early tensions over Italian expansionism were seen in the late 1880s when Italian Prime Minister Crispi stated that Italy would expand its colonial interests, particularly in the Red Sea area; Crispi began to support opposition groups in Ethiopia. Italian expansionist made the British uneasy, but relations improved after 1896 when Crispi was removed from power. 1911 marks a British and Italian *clash* over the Italian annexation of Tripoli. Britain and other powers were bound by previous treaty not to intervene, but protested Italy's action. Relations were relatively friendly through WWI, when Italy sided with Britain and France. Tensions became more serious after 1922, when a Fascist government took control in Italy. In 1923 Britain and Italy clashed over the Italian bombardment and occupation of Corfu; Italy was force to withdraw under extreme pressure. Conflicts followed over Italian claims in Tangier in 1927 (Tangier was partially administered by Britain) and Italian imperialist policies in Ethiopia in 1934 when Italy began to send troops. Despite continued British opposition to Italy's policies and use of force in Ethiopia, Italy succeeded and in 1936 announced the annexation of all of Ethiopia. Subsequent steps by Italy in 1937 to improve relations with Arab nations were viewed as hostile by the British, who had traditionally controlled the Middle East. Britain and Italy supported opposing sides throughout the Spanish Civil War; the ultimately victorious Nationalists had been recognized and supported by Germany and Italy since 1936. In 1939 Italy signed a military alliance with Germany, and in 1940 Italy declared war on Britain. Settlement of the final issues arising from the war were settled by treaty in 1947. Notes: 1911 is an isolated dispute, and friendly relations occured from then until Mussolini came to power in 1922. 1923 marks the first dispute after that. The 1911 militarized dispute occurs during the Tripolitan war between Italy and Turkey, and involves a use of force by Italy against Turkey and Britain, both of which are coded in the militarized dispute data set as not responding. Germany, Austria, Britain, France, and Russia had all signed agreements previously with Italy permitting it to acquire Tripoli, and while these states sought to mediate the war, they did not become directly involved at any time. In fact, there is no reference in the historical works consulted to any hostile activity between Britain and Italy in 1911. As a result, a better coding of the start date of the rivalry might be 1922 or 1923.
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 

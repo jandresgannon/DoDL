@@ -1,0 +1,396 @@
+FILE: cm670678v11.0.txt
+DYAD: SAUDI ARABIA-YEMEN ARAB REPUBLIC(N.)
+RIVALRY: RIV1270
+DISPUTE(S): MID1127 MID1128 MID1129 
+RIVALRY: RIV1271
+DISPUTE(S): MID1108 MID2360 MID1109 MID2373 MID2152 
+
+PS: 19270520-19301231 0.25 19310101-19340623 0.00 19340624-19621004 0.5 19621005-19800215 0.00 19800216-19900521 0.25 
+
+PSNOTES: Yemen inherited the territorial dispute between Saudi Arabia and the Yemen Arab Republic (North Yemen) after the unification between the North and South Yemen. On September 26, 1962 the Yemen Arab Republic (North Yemen) was established. On November 30, 1967, South Yemen became an independent state. The two states united on May 22, 1990.
+
+PS-LAST-CHANGED: 20190430
+PS-LAST-CHECKED: 20190430
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1127
+
+TERRMID: MID1127 1 -- territorial MID
+TERRMID-CER: MID1127 1 -- certain 
+TERRMID-NOTES: MID1127 from Gibler 2018, in 1931 Saudi Arabia and YAR were disputing a border region in Asir, and Saudi Arabia deployed troops to the region to press its claim. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1127 3 -- not third party link to territory 
+TERRLINK-CER: MID1127 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1127 3 -- not maritime 
+MARITMID-CER: MID1127 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1127 3 -- not islands 
+ISLMID-CER: MID1127 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1127 3 -- not civil war 
+CIVWARMID-CER: MID1127 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1127 3 -- not civil war link
+CIVWARLINK-CER: MID1127 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1127 3 -- not coup 
+COUPMID-CER: MID1127 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1127 3 -- not coup link
+COUPLINK-CER: MID1127 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1129
+
+TERRMID: MID1129 1 -- territorial MID
+TERRMID-CER: MID1129 1 -- certain 
+TERRMID-NOTES: MID1129 from Gibler 2018, in 1933-1934 Saudi Arabia and YAR fought a war over their disputed territory. Saudi Arabia won the war, and their border with YAR was formally defined as a result. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1129 3 -- not third party link to territory 
+TERRLINK-CER: MID1129 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1129 3 -- not maritime 
+MARITMID-CER: MID1129 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1129 3 -- not islands 
+ISLMID-CER: MID1129 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1129 3 -- not civil war 
+CIVWARMID-CER: MID1129 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1129 3 -- not civil war link
+CIVWARLINK-CER: MID1129 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1129 3 -- not coup 
+COUPMID-CER: MID1129 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1129 3 -- not coup link
+COUPLINK-CER: MID1129 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1108
+
+TERRMID: MID1108 3 -- not territory
+TERRMID-CER: MID1108 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1108 3 -- not third party link to territory 
+TERRLINK-CER: MID1108 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1108 3 -- not maritime 
+MARITMID-CER: MID1108 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1108 3 -- not islands 
+ISLMID-CER: MID1108 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1108 1 -- civil war MID
+CIVWARMID-CER: MID1108 1 -- certain
+CIVWARMID-NOTES: MID1108 from Gibler 2018, the Royalists were armed and received arms support from the UK, making them a militarized rebel group (as opposed to simply an opposition party in Yemen). They operated in Yemen and Saudi Arabia, within this dyad. See COUPMID-NOTES. 
+
+CIVWARLINK: MID1108 3 -- not civil war link
+CIVWARLINK-CER: MID1108 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1108 1 -- coup MID
+COUPMID-CER: MID1108 1 -- certain 
+COUPMID-NOTES: MID1108 from Gibler 2018, the leader of Yemen died in 1962, leaving his son Mohammad al-Badr in charge of the country. A military leader staged a coup, al-Badr fled the country, and USSR, China, and Egypt recognized the new government. The exiled Royalists established a government-in-exile, supported by Saudi Arabia, and Jordan. Saudi troops clashed with Yemeni troops in Yemen, pulling Saudi into this MID against Yemen. Coded coup MID because this was connected to a coup in Yemen. 
+
+COUPLINK: MID1108 3 -- not coup link
+COUPLINK-CER: MID1108 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2360
+
+TERRMID: MID2360 3 -- not territory
+TERRMID-CER: MID2360 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2360 3 -- not third party link to territory 
+TERRLINK-CER: MID2360 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2360 3 -- not maritime 
+MARITMID-CER: MID2360 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2360 3 -- not islands 
+ISLMID-CER: MID2360 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2360 1 -- civil war MID
+CIVWARMID-CER: MID2360 1 -- certain
+CIVWARMID-NOTES: MID2360 from Gibler 2018, during the ongoing Yemen Civil War in 1965, Saudi Arabia was supporting the royalists (rebels) via diplomatic recognition and troops. The Saudis also fought against both Yemeni and Egyptian troops (Egypt was supporting the new government). Coded civil war MID because this was connected to a civil war in YAR, within this dyad. 
+
+CIVWARLINK: MID2360 3 -- not civil war link
+CIVWARLINK-CER: MID2360 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2360 3 -- not coup 
+COUPMID-CER: MID2360 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2360 3 -- not coup link
+COUPLINK-CER: MID2360 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1109
+
+TERRMID: MID1109 3 -- not territory
+TERRMID-CER: MID1109 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1109 3 -- not third party link to territory 
+TERRLINK-CER: MID1109 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1109 3 -- not maritime 
+MARITMID-CER: MID1109 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1109 3 -- not islands 
+ISLMID-CER: MID1109 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1109 1 -- civil war MID
+CIVWARMID-CER: MID1109 1 -- certain
+CIVWARMID-NOTES: MID1109 from Gibler 2018, Saudi Arabia was still supporting the Royalist rebels (of the deposed government) in the Yemeni Civil War. In 1966, Egypt threatened to invade Saudi Arabia and bombed several targets in Saudi Arabia due to their support of the Royalists. Coded civil war MID because this was connected to the Yemen Civil War, within this dyad, and Saudi Arabia's support for the rebels pulls them into this MID against Yemen. 
+
+CIVWARLINK: MID1109 3 -- not civil war link
+CIVWARLINK-CER: MID1109 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1109 3 -- not coup 
+COUPMID-CER: MID1109 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1109 3 -- not coup link
+COUPLINK-CER: MID1109 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2373
+
+TERRMID: MID2373 3 -- not territory
+TERRMID-CER: MID2373 1 -- certain 
+TERRMID-NOTES: Per Huth and Allee 2002, the territorial issue between Yemen and Saudi was resolved in 1934.
+
+TERRLINK: MID2373 3 -- not third party link to territory 
+TERRLINK-CER: MID2373 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2373 3 -- not maritime 
+MARITMID-CER: MID2373 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2373 3 -- not islands 
+ISLMID-CER: MID2373 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2373 1 -- civil war MID
+CIVWARMID-CER: MID2373 1 -- certain
+CIVWARMID-NOTES: MID2373 from cm narrative and Gibler 2018, in 1969-1970 during the Yemen Civil War, YAR occupied a Saudi Arabian border post, leading to clashes with Saudi Arabia. Saudi Arabia eventually re-took the post. Coded civil war MID because this was connected to the civil war in YAR, within this dyad. 
+
+CIVWARLINK: MID2373 3 -- not civil war link
+CIVWARLINK-CER: MID2373 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2373 3 -- not coup 
+COUPMID-CER: MID2373 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2373 3 -- not coup link
+COUPLINK-CER: MID2373 1 -- certain 
+COUPLINK-NOTES: 
+
+MID2152
+
+TERRMID: MID2152 3 -- not territory
+TERRMID-CER: MID2152 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2152 3 -- not third party link to territory 
+TERRLINK-CER: MID2152 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID2152 3 -- not maritime 
+MARITMID-CER: MID2152 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID2152 3 -- not islands 
+ISLMID-CER: MID2152 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID2152 1 -- civil war MID
+CIVWARMID-CER: MID2152 1 -- certain
+CIVWARMID-NOTES: MID2152 from Gibler 2018, in 1980 Saudi Arabia and Yemen clashed twice along their border. Rebels targeting each government were seeking safe haven across the border in the other country. Coded civil war MID because both incidents were connected to the states' policing insurgents located in each other's territories, leading troops from each state to cross the border to fight the rebels. The civil conflict (rebels) operate within the states that make up this dyad. 
+
+CIVWARLINK: MID2152 3 -- not civil war link
+CIVWARLINK-CER: MID2152 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2152 3 -- not coup 
+COUPMID-CER: MID2152 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2152 3 -- not coup link
+COUPLINK-CER: MID2152 1 -- certain 
+COUPLINK-NOTES: 
+
+MID1128 
+
+TERRMID: MID1128 1 -- territorial MID
+TERRMID-CER: MID1128 1 -- certain 
+TERRMID-NOTES: MID1128 from cm narrative, this MID occurs in 1931 and is connected to the dispute over the territory of Asir. From Huth and Allee 2002, the border dispute led to numerous clashes and eventually a war in 1934 that settled the issue via a Saudi victory. From Safran 1988, this incident is a series of border clashes at the disputed territory. Coded territorial MID because this was connected to a territorial dispute. 
+
+TERRLINK: MID1128 3 -- not third party link to territory 
+TERRLINK-CER: MID1128 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1128 3 -- not maritime 
+MARITMID-CER: MID1128 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1128 3 -- not islands 
+ISLMID-CER: MID1128 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1128 3 -- not civil war 
+CIVWARMID-CER: MID1128 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1128 3 -- not civil war link 
+CIVWARLINK-CER: MID1128 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1128 3 -- not coup 
+COUPMID-CER: MID1128 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1128 3 -- not coup link
+COUPLINK-CER: MID1128 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+RIV1271: MID3.02 corrects MID3054 (1984) by changing N. Yemen to S. Yemen.
+
+NARRATIVE-CM:
+Saudi Arabia and Yemen disputed the sovereignty of Asir province and Najran district beginning in April 1933. Saudi Arabian and Yemini representatives ended negotiations on August 1, 1933. Yemeni troops occupied al-Badr in October 1933. Saudi Arabia deployed troops near the Yemen border on November 14, 1933, and offered to turn the Najran district into a neutral territory on December 2, 1933. Yemeni troops were deployed in the region on December 18, 1933. Saudi Arabian troops and Yemeni troops clashed near the border in January 1934, resulting in the deaths of some 700 Yemeni soldiers. Saudi Arabian and Yemeni representatives held negotiations between February and March 22, 1934. Some 30,000 Saudi Arabian troops and 37,000 Yemeni troops resumed military hostilities on March 22, 1934. Britain, France, and Italy deployed warships in the region in opposition to the Saudi Arabian troop deployment in the region. Saudi Arabian troops captured Harad on April 7, 1934 and Midi on April 25, 1934. Sayyid Muhammad Aminu'l-Husayni, Mufti of Jerusalem and President of the *Supreme Muslim Council of Palestine*, attempted to mediate a ceasefire between Saudi Arabia and Yemen beginning on April 16, 1934. Saudi Arabia announced the conquest of the Najran district on April 27, 1934. Saudi Arabia and Yemen agreed to a cessation of military hostilities on May 15, 1934. Britain mediated the signing of the *Treaty of Ta'if* by representatives of the countries on May 20, 1934, which provided for Yemeni recognition of Saudi Arabian sovereignty over Asir province and Najran district. Yemeni troops completed their withdrawal from the Asir province on June 27, 1934. Iman Muhammad Badr of North Yemen was deposed in a military rebellion led by Colonel Abdullah Sallal on September 26, 1962. Colonel Sallal proclaimed the *Yemen Arab Republic *(YAR) on September 27, 1962, and the *Revolutionary Council* headed by Colonel Sallal took control of the government on September 28, 1962. Imam Mohammed Badr fled to Saudi Arabia in October 1962, where he established a government-in-exile on October 5, 1962. North Yemeni troops clashed with Saudi Arabian troops in the northeast part of the country on October 17, 1962, resulting in the deaths of 30 Saudi Arabian soldiers. Saudi Arabia provided military and economic assistance to the Iman's royalist troops from October 1, 1962 to August 24, 1965. Saudi Arabia and Egypt signed an agreement mediated by Sudan on August 30, 1967 to end their involvement in the civil war in North Yemen. The *League of Arab States* (LAS) established a military observation commission (Sudan, Iraq, and Morocco) to supervise the withdrawal of Saudi Arabian and Egyptian military personnel from Yemen. Saudi Arabia ended its military assistance to the royalist forces on October 12, 1967. Saudi Arabia resumed its military assistance to royalist troops on February 28, 1968, but ended the military assistance in March 1968. Saudi Arabia resumed its military assistance to royalist troops in December 1969. Saudi Arabia and the republican government of Yemen signed an agreement on April 14, 1970, which provided for Saudi Arabian recognition of the republican government. Saudi Arabian troops and North Yemeni troops clashed on February 3-15, 1980, resulting in the deaths of five North Yemeni soldiers. Saudi Arabia troops and North Yemeni troops clashed near the border from December 28, 1983 to January 16, 1984. Saudi Arabian troops and Yemeni troops clashed in the border region beginning in December 1994. Saudi Arabia and Yemen agreed to Syrian mediation on January 15, 1995. The countries signed a *Memorandum of Understanding* (MOU) on February 26, 1995, which called for the establishment of a joint demarcation commission. Saudi Arabian and Yemeni troops clashed near al-Hasamah on November 27-28, 1997, resulting in the deaths of six Saudi Arabian soldiers and three Yemeni soldiers. Saudi Arabian troops and Yemeni troops clashed near the al-Malahit area in Sa'dah province on June 17-18, 1998. Saudi Arabian troops attacked Yemeni troops on the Red Sea island of Duwaima on July 20, 1998, resulting in the deaths of three Yemeni soldiers. Saudi Arabian troops and Yemeni troops clashed near the border on November 25-27, 1999, resulting in the deaths of two Yemeni soldiers. Saudi Arabian and Yemeni representatives signed a border agreement on June 12, 2000, which provided for the demarcation of the border. The Yemeni parliament ratified the border agreement on June 24, 2000, and Saudi Arabia ratified the border agreement on June 26, 2000.
+
+SOURCES-CM: 
+Allock et al., 1992, 398-399; *American Journal of International Law *(AJIL), 1934, 571; *Arabic News*, November 28, 1997; *Associated Press *(AP), November 27, 1999, June 26, 2000; Baker, 375-377; Brecher and Wilkenfeld, 1997, 632-633; Langer, 1972, 1093; *Keesing*, January 1995, February 1995, June 1998, July 1998; Kostiner, 1993, 166-173; *Reuters, November 29, 1997, July 20, 1998, August 5, 1998, June 24, 2000, June 26, 2000, July 4, 2000; *Survey of International Affairs *(SIA), 1934, 310-321; Vassiliev, 1998, 285-286.
+
+NARRATIVE-CR:
+There are three issues that motivate the rivalry between Saudi Arabia and Yemen. The first issue that arises is a dispute of territory. The Saudis seek to expand their influence on the Arabian Peninsula. Their militaries take control of territory that had been traditionally thought of in Yemeni circles as part of Greater Yemen. This ignites a short war over territorial control. The second issue arises in the 1960s. This issue is connected to the larger issue of Pan Arabism and general concern in Saudi Arabia of destabilization of the monarchy by way of Republican sentiment spreading from Yemen. The third issue is an ideological/Cold War rift. The Yemenis attempted to receive aid from the USSR while at the same time receiving aid from the US and Saudi Arabia. This initiated a crisis of alignment and great power influence in a strategically vital geographic area. 
+
+Rivalry Issue: Border Demarcation
+In 1926 Abdul Aziz ibn Saud established a protectorate of the province of Asir. This brought Saudi presence to the region inhabited by Yemenis. This resulted in friction and border clashes. In 1932, Imam Yahya's (Yemeni) forces occupied the border oasis of Najran but were expelled by Saudi forces. For the next two years, the Saudis and the Yemenis fruitlessly tried to negotiate the border. In April of 1934, Saudi forces attacked Yemeni positions. The Saudis had mixed success on the battlefield and the Yemenis called for outside assistance. The Italians, British and French all sent warships to deter Saudi presence to colonial possessions. Abd al Aziz was deterred and settled the affair with the treaty of Taif. He withdrew from Yemen in exchange for Yemeni recognition of Saudi sovereignty of Asir province (a border region). After the treaty, Saudi-Yemeni relations were friendly but cautious. This series of events constitutes the first rivalry between Saudi Arabia and Yemen (MID1127 MID1128 and MID1129). After the brief war the border with Saudi Arabia was settled by treaty that was mediated by Great Britain. The treaty of Taif was agreed to by both parties but the Yemenis lost Asir and Najran, regions that were considered part of greater traditional Yemen. The Yemenis felt they had lost a part of their homeland and harbored irredentist feelings about the loss that would resurface in the form of renewed rivalry later in the century. 
+
+The rivalry between the states may or may not have ended. The historical record concerning the nature of the relationship between the two states is mixed. Some claim that relations were generally friendly while others describe repeated low level border clashes. What is clear is that there were no "significant" hostilities between the two until the 1960s. 
+
+Factors associate with Termination:
+In the meantime several factors served to distract the rivalry. First, the Treaty of Taif between the Saudis and the Yemeni established their mutual frontier. Second, a major systemic shift occurred in the period subsequent to this portion of the rivalry-World War II. Saudi Arabia was on the Allied side during the war and housed an air base in Dhahran. Third, oil was discovered in Saudi Arabia in 1938 and a US company ARAMCO (Arabian and American Oil Company) was awarded the contract to begin development of the Saudi oil industry. This was coupled with a large scale modernization program begun by Abdul Aziz. Fourth, Iman Yahya, the ruler of Yemen, had internal difficulties in controlling a traditional part of Yemen, Shabawah in 1938. There is social unrest in this region at this time. The Yemenis also have an ongoing dispute with the British over the region surrounding Aden, a port city on the coast and entrance to the Red Sea-an important strategic location. The region is a British protectorate and Imam Yahya wanted it under Yemeni control. From the end of WWI until the 1960s, the Yemenis continue to press for autonomous control of Aden and the surrounding region. 
+
+Rivalry Issue: Support for Royalists
+The next series of MIDs between the two countries is closely connected to the rivalry between Egypt and Saudi Arabia. In short, Nasir favored the concept of pan Arabism the idea of a unified Arab state. The Saudis had a different notion of pan Arabism-the idea of coordinating policies and efforts but preserving the individual sovereignty of the principal Arab states. The Civil War in Yemen at this time was a vehicle through which some of the tension that existed between Egypt and Saudi Arabia over this issue fueled the MIDs in this portion of the rivalry between Saudi Arabia and N. Yemen. 
+
+The Yemeni Civil War lasted from 1962 until 1970 and involved a series of clashes between the Saudis and N. Yemen (MID1108, MID2360 MID1109 MID2373). The Iman Muhammad Badr of North Yemen was deposed in a military/republican coup led by Colonel Abdullah Sallal on September 26, 1962. Colonel Sallal proclaimed the Yemen Arab Republic (YAR) on September 27, 1962, and the Revolutionary Council headed by Colonel Sallal took control of the government on September 28, 1962. Imam Mohammed Badr fled to Saudi Arabia in October 1962, where he established a government-in-exile on October 5, 1962. The Egyptians quickly supported the Republican side while the Saudis and the Jordanians supported the Royalists. The MIDs referenced above all took place in the context of Saudi support for Royalists fighting against the N. Yemeni Republicans. North Yemeni troops clashed with Saudi Arabian troops in the northeast part of the country on October 17, 1962, resulting in the deaths of 30 Saudi Arabian soldiers. Saudi Arabia provided military and economic assistance to the Iman's royalist troops from October 1, 1962 to August 24, 1965. Saudi Arabia and Egypt signed an agreement mediated by Sudan on August 30, 1967 to end their involvement in the civil war in North Yemen. The *League of Arab States* (LAS) established a military observation commission (Sudan, Iraq, and Morocco) to supervise the withdrawal of Saudi Arabian and Egyptian military personnel from Yemen. Saudi Arabia ended its military assistance to the royalist forces on October 12, 1967. Saudi Arabia resumed its military assistance to royalist troops on February 28, 1968, but ended the military assistance in March 1968. Saudi Arabia resumed its military assistance to royalist troops in December 1969. Saudi Arabia and the republican government of Yemen signed an agreement on April 14, 1970, which provided for Saudi Arabian recognition of the republican government. 
+
+Rivalry Issue: Ideological Support
+In 1979, North and South Yemen fought a brief border war. The US was alarmed at the advances made by the Soviets in the Middle East through S. Yemen, the only communist state in the Middle East. The US pledged aid to N. Yemen in the form of tanks, planes and other military equipment. The Saudis also agreed to finance the N. Yemenis to the tune of $300M. In the months preceding the MID in February of 1980, N. Yemen also agreed to an aid package from the Soviet Union valued at $300M. This angered the Saudis and the US. The Saudis put a hold on the $300M that had not been delivered. Tension increased and there was a border skirmish in February in which one N. Yemeni soldier was killed (MID2152). N. Yemeni President Ali Abdullah Saleh called off the deal with Moscow and the tension subsided. 
+
+Rivalry Issue: Border Demarcation
+Saudi and North Yemeni troops clashed near the border from December 28, 1983 to January 16, 1984 (MID3054). This incident was basically the product of the still incomplete border demarcation. The Ma'rib region that straddles the proxy border is one that was thought to contain oil reserves and was also a possible area for agricultural cultivation. Thus the Yemenis were interested in claiming this area. The Saudis were also interested in the region and the unclear border led to a clash between Pakistani mercenaries and Yemeni troops. 
+
+Normalization of Relations between Saudi Arabia and N. Yemen
+Yemen was the only country in the Arabian Peninsula that was not a member of the GCC. Saudi Arabia had excluded both Yemens from 1962 until unification in 1990 from GCC membership because of its republican form of government. Historically, Saudi relations with Yemen had been problematic. Although the hereditary Shia ruling family of Yemen, concentrated in the north, never lost its distrust of the Saudis, it accepted military assistance from Riyadh after it was deposed in a republican coup in 1962. For the next five years, the Saudis supported the Yemeni royalists in their unsuccessful struggle to regain control from the republican regime backed by Egypt. In November 1962, Cairo tried to intimidate Riyadh into withdrawing its support by sending Egyptian aircraft over southern Saudi Arabia to bomb several towns, including Abha where a hospital was hit and thirty-six patients were killed. Following the June 1967 Arab-Israeli War, Saudi Arabia and Egypt resolved their differences over the YAR; in practice this meant that Riyadh accepted the republican government in Sanaa. Relations gradually normalized; by the late 1970s, Saudi Arabia was providing economic and military aid to the YAR. Nevertheless, the Saudis remained suspicious of their republican neighbor, and major outstanding issues such as the demarcation of borders were not addressed. 
+
+Saudi Arabia's attitude toward the PDRY influenced its overall Yemen policy. After Britain granted independence to its former colony of Aden and the adjoining protectorate of South Arabia in late 1967, a self-proclaimed Marxist government gained control of the entire area. Riyadh became preoccupied with containing the spread of Aden's Marxist ideas to the rest of the Arabian Peninsula, especially in Oman, where a PDRY-backed insurgency movement fought against the Al Bu Said Omani dynastic government during the late 1960s and early 1970s. Until 1976, when diplomatic relations with the PDRY were finally established, Saudi Arabia actively supported efforts to overthrow the regime in Aden; Saudi hostility did not abate after 1976 but assumed more discreet forms, including covert aid to dissident factions within the ruling Yemeni Socialist Party (YSP). Opposition to the unification of the YAR and the PDRY also became a Saudi foreign policy objective, primarily because Riyadh feared the much disliked YSP would dominate a unified Yemen and thus acquire an even larger base from which to disseminate its radical ideas. When unification occurred in early 1990, the Saudis increased clandestine funding to various Yemeni groups opposed to the YSP. 
+
+Yemen adopted a neutral stance, condemning the Iraqi invasion and annexation of Kuwait but refusing to support UN sanctions or the use of force. Yemen's policy incensed the Saudis, who terminated their economic assistance to the republic. In addition, Riyadh expelled about 1 million Yemeni workers who were residing in the kingdom in 1990. Subsequent to the liberation of Kuwait, Yemen continued to maintain high-level contacts with Iraq. This hampered its efforts to rejoin the Arab mainstream and to mend fences with Saudi Arabia. In 1993, Yemen launched an unsuccessful diplomatic offensive to restore relations with its Gulf neighbors. Saudi Arabia actively aided the rebels in the south during the 1994 civil war in Yemen. 
+
+Saudi Arabia views Yemeni President Salih as a sort of mini Saddam Hussein. They fear he has expansionist interests towards Saudi Arabia and thus the Saudis have demonstrated antagonism towards Yemen in the 1990s. They attempt to influence internal political outcomes by bribing officials and supporting opposition groups interested in policies that converge with Saudi policies. Yemen views Saudi Arabia as a meddling, powerful bully. 
+
+In 1997, six Saudis and three Yemenis were killed in a minor border skirmish. This was the product of the unclear border and interest in the potentially oil rich Mah'rib region. In 1998, talks resumed regarding demarcating the border. Several issues complicate these negotiations including the maritime boundaries in the Red Sea. In the summer of 2000, Yemen and Saudi Arabia signed an International Border Treaty settling the lengthy disagreement over their shared border. Though this agreement goes a long way in settling the territorial issue, parts of the border remain unsettled in this agreement. 
+
+SOURCES-CR: 
+Allock et al., 1992, 398-399; American Journal of International Law (AJIL), 1934, 571; Arabic News, November 28, 1997; Associated Press (AP), March, 19, 1980, November 27, 1999, June 26, 2000; Baker, 375-377; Brecher and Wilkenfeld, 1997, 632-633; Gause, 1990, 57-74; Langer, 1972, 1093; Keesing, January 1995, February 1995, June 1998, July 1998; Kostiner, 1993, 166-173; Middle East Contemporary Survey 1980-1998, Country Reports for Saudi Arabia and Yemen; Reuters, November 29, 1997, July 20, 1998, August 5, 1998, June 24, 2000, June 26, 2000, July 4, 2000; Survey of International Affairs (SIA), 1934, 310-321; Vassiliev, 1998, 285-286.
+
+PS-NARRATIVE:
+
+19270520-19301231 0.25
+
+On October 21, 1926, King Ibn Saud, King of the Hejaz and Sultan of Najd and its dependencies, and Imam Hasan al-Idrisi, ruler of the Idrisi emirate in southwest Arabia, signed an agreement, the Mecca Treaty, which formally placed the emirate under Saudi protection. As a result of the treaty, Ibn Saud extended his territory to include the former Idrisi emirate, comprising the southern Red Sea coastal and highland areas of southern Tihamat and Surat Asir. On November 20, 1930, Ibn Saud `acquired full and complete sovereignty' over the same territories that hitherto had the status of a protectorate under the 1926 Mecca Treaty. Imam Yahya of Yemen refused the recognize the 1926 Mecca Treaty. In 1927 another agreement was achieved between the two countries, but without settling the border dispute. In an attempt to resolve their escalating border dispute the Aru Agreement of December 15, 1931 was signed. Saudi Arabi recognized that the Aru mountain was Yemeni territory.
+
+19340624-19621004 0.5
+
+Saudi Arabia had friendly relations with Yemen since 1934 when the two countries signed the Treaty of Taif on May 20, 1934. The treaty was published, after being previously ratified by both states, on June 23, 1934. The treaty ended the state of war between the two countries, established permanent peace and mutual state recognition, and created a boundary settlement. In 1937, the joint Saudi-Yemen commission for boundary demarcation completed its task of placing more than 200 markers on specific locations along the common border. On November 2, 1937, Saudi Arabia and Yemen concluded the General Agreement for the Settlement of Frontier Questions and Movement of Subjects between the Two Countries. In March 1953, the two countries signed a new agreement extending the Treaty of Taif. On April 22, 1956, King Saud of Saudi Arabia, Imam Ahmed, ruler of Yemen and Egypt's president Nasser signed a military pact between their countries. The pact links the Egyptian, Saudi and Yemeni armies under a unified command. In the summer of 1960, Imam Ahmad, the ruler of Yemen, which was opposed to the Treaty of Ta'if announced Yemen's interest to join the Egypt-Syrian political union of the United Arab Republic, which was perceived to be an anti-Saudi alliance. In response, Saudi Arabia unilaterally decided to abrogate the Treaty of Taif. On October 2, 1962, the Yemeni government announced that it planned to close its embassy in Riyadh due to anti-Yemeni propaganda by the Saudi state-run press. A week before the king of Yemen was overthrown by a military coup led by Abdullah Salal and a republican regime was inaugurated. On September 26, 1962 the Yemen Arab Republic (North Yemen) was established. On November 30, 1967, South Yemen became an independent state. The two states united on May 22, 1990.
+
+19800216-19981124 0.25
+
+The last MID of RIV1271, MID2152, ended on February 15, 1980. North Yemen, wary of Soviet intentions on the Arabian Peninsula, has ended a three month dispute with neighboring Saudi Arabia and agreed to send its 100 Soviet advisers home, Egyptian sources said on March 19, 1980. As part of the deal, Saudi Arabia has agreed to resume financial aid to North Yemen, beginning with $300 million to pay for a U.S. arms shipment. In return, North Yemen has agreed not to renew the contracts of 100 Soviet military advisers, not to replace them with other Russians, not merge as planned with communist South Yemen, and to cancel plans to send 120 citizens to study in Moscow. Instead, the North Yemenis will study in Pakistan at Saudi expense. In 1989 North and South Yemen fought a border war, and the United States, alarmed at Soviet advances in the Middle East, rushed tanks and planes to North Yemen. The Saudis agreed in December to pay the $300 million bill. South Yemen, which has the only Communist regime in the Arab world, has a friendship pact with Moscow, hosts Soviet, East German and Cuban advisers, and receives visiting Soviet warships. After reaching agreement with Saudi Arabia, North Yemeni President Ali Abdullah Saleh struck a deal with Moscow, which sent planes, tanks and artillery to his government. Surprised, the conservative Saudi regime withheld the $300 million. There were already about 100 Soviets in North Yemen advising the navy. Without Saudi aid, Saleh's financially strapped government was forced to suspend salary payments to doctors, soldiers and some civil servants. Egyptian sources knowledgeable on events on the Arabian Peninsula said that relations worsened further when Saudi Arabian forces killed several North Yemeni soldiers in a border dispute early this year. The same sources said that Saudi Arabia resumed payment two weeks ago as part of a reconciliation urged by the United States to counter Soviet influence. They said the impetus was a U.S. intelligence report that the Soviet Union, after its massive military intervention late last year in Afghanistan, planned to impose a pro-Soviet regime in North Yemen. That report, delivered to both the Saudi and North Yemeni governments, said the move was intended to weaken Saudi Arabia and would originate from South Yemen, the sources reported. Saudi Arabia is the world's largest exporter of oil, and is considered a key American ally. Saudi Arabia also sought to prevent a planned union between North and South Yemen. However, the status of Yemeni unity talks remained unclear. Col. Ali Ahmed Nasser Antar, commander of South Yemen's army, arrived in the North Yemeni capital of Sanaa on a friendly visit, and one of Saleh's high ranking aids returned from the South Yemeni capital of Aden saying the unity talks will continue.
+
+In August 1980, Yemen's president, Ali Abdallah Salih visited Ta'if for talk with King Khalid and praised Saudi 'support for development in the YAR.' In early 1981 a number of events which might in different circumstances have soured relations had no discernible consequences. The YAR expressed mild disappointment at not being invited to join the Gulf Cooperation Council. The Saudis chose to ignore both the assassination of their local ally, Muhamad Khamis, former head of internal security, in January 1981, and the arrest of former Foreign Minister `Abdallah al-`Asnaj, one of Riyad's best friends in the YAR, on charges of espionage in March 1981. Despite these possible obstacles, the Saudi-YAR Coordinating Council met in Riyad in April 1981 and confirmed continued high levels of Saudi aid.
+
+On April 8, 1982, the two countries held bilateral tasks aimed at developing stronger mutual relations between them.
+
+The Yemen Arab Republic and Saudi Arabia in a joint communique on October 31, 1983, expressed "firm opposition to all overt and covert plots, whether they come from the west or east, so as to safeguard the security and stability of the nations of the Arab peninsula". The joint communique was issued in Riyadh at the end of a two-day meeting of the coordinating committee of the Yemen Arab Republic and Saudi Arabia. The two sides appealed to the world community and all peace-loving forces to support the Arab peace plan and stand by the Palestinian people in their legitimate struggle for recovering their national rights and establishing an independent state under the leadership of the PLO. The communique said the two sides would make constant efforts and contacts to strengthen unity among the Arab and Islamic countries against the challenge and danger confronting the Arab peoples in this delicate historical moment. The two sides condemned Israel's occupation of Arab land and demanded its withdrawal from all occupied Arab territories. They also expressed the hope that the national reconciliation conference of Lebanon being held in Geneva would put an end to Lebanon's difficulties and misfortunes so as to realize national reconciliation. Saudi Arabia decided to provide North Yemen with 345,000,000 riyal as financial assistance in 1983. It also agreed to offer aid on education, health, agriculture, traffic and communications, and building of mosques. The delegation of North Yemen was led by Prime Minister Abdel Karim al Eriani.
+
+Saudi Arabia has canceled special border privileges for more than 1 million Yemenis living in the kingdom in a move apparently aimed at censuring Yemen for its pro-Iraqi stance, officials said on September 20, 1990. An Interior Ministry statement did not directly name Yemen or its citizens, but an official said its wording was such that they were the only nationality affected. ''The measures were taken because the considerations and circumstances under which the kingdom granted these privileges have changed, and because the general interest requires that these privileges be reconsidered,'' the statement said. Under the new rules, Yemenis in Saudi Arabia-who are mostly small merchants and very active in the kingdom's gold markets-must have a sponsor and an entry visa, ending what had effectively been an open border into Saudi Arabi, Yemen's wealthy northern neighbor. ''It is directed towards Yemenis without saying so,'' one official said of the statement. ''The Yemenis were the only ones who could come in without visa requirements ... and the government is taking out all the special status that was there.'' Officials said they believed Riyadh was showing disapproval over the Sanaa government's support for Iraq. Yemen, which is comprised of newly united southern and northern sections, has a longstanding claim on territory inside Saudi Arabia. It has abstained in some votes in the U.N. Security Council on creating an economic embargo against Baghdad and has given sanctuary to some Iraqi vessels being tracked by warships enforcing the blockade.
+
+Yemenis are streaming across the border at three to four times the normal rate, returning to their country following Saudi orders to register and find a sponsor on October 6, 1990. A border official at the nearby crossing point of Al Tawal said 3,000 to 4,000 Yemenis would cross during the day, compared to the normal crossing of about 1,000. The official, who did not give his name, said 8,000 Yemenis crossed each day during the Arab world's weekend. So far, officials estimate about 100,000 of the roughly 2 million Yemen residents in Saudi Arabia have left because of orders to register with the government and find personal or corporate sponsors. Those with businesses also were asked to get a Saudi partner. Yemen, which to some degree relies on the money its citizens in Saudi Arabia send home to their families, initially sided with Iraq in the gulf crisis. But Yemen's government appears to be softening its position toward a more neutral stance because of the Saudi moves. Despite the Saudi orders, there appeared to be little resentment at the hot and dusty border crossing. One man, who would not give his name, proudly proclaimed that he and his family were headed back into Saudi Arabia after having taken care of paperwork within Yemen. Hamaoud Redman, 41, who for the past 21 years has worked in Saudi Arabia, is now employed in Riyadh by the Boeing Corp. He said he took the firm up on its offer to send his family home to Yemen when the gulf crisis erupted and was headed home to look after his wife and four children. ''Everyone is happy,'' he said, despite the fact he has no job waiting for him in Yemen. ''Everything is OK. Everyone wants to stay working here.'' Redman said he hoped to return in two or three months and resume his previous position. Another man, who would not give his name, said he had been working in Saudi Arabia doing construction work in Riyadh for 13 years and said, ''I am finished here.'' At the station, those with cars-many more than overloaded with their springs sagging and tires bulging dangerously-took one lane to have their Saudi license tags removed. Those who came by bus took another path and switched to Yemeni buses or trucks on the Yemen side of the border. Elsewhere in southwest Saudi Arabia the defense minister, Prince Sultan, reviewed another graduating class of volunteers for the Saudi military reserve forces that have been swelling since the gulf crisis began. Before sitting down to a feast that fed 600, Sultan announced that Saudi Arabia would build a fourth military city in the southwestern section of the nation. The military cities are literally that, huge enclaves for a large number of troops, officers and their families, along with airfields and associated facilities.
+
+On May 28, 1992, rising tensions between Saudi Arabia and Yemen threaten to erupt into open conflict. Increasing the tension, Saudi Arabia recently persuaded a major oil company to announce its intention to pull out of Yemen by warning that it was drilling in disputed territory. Yemen, a country formed by the merger two years ago of North and South Yemen, is unable to deal with Saudi territorial claims prior to parliamentary elections scheduled for November, Yemeni sources said. "It is a very dangerous situation," added a Saudi source. Territorial disputes between Saudis and Yemenis have a long history and have provoked border clashes between the Kingdom and both North and South Yemen prior to the 1990 merger between the two Yemens. The disputes date back to the era of British colonialism when in 1934 Saudi Arabia and the old Imamate of Yemen were unable to achieve permanent agreement on a peace treaty. Similarly, over a 30-year period Britain and Saudi Arabia failed to get an accord on international frontiers in Southern Arabia. Under the 1934 Treaty of Taif, the Imamate ceded three provinces to Saudi Arabia, which some 200 years earlier had been Yemeni. The treaty was valid for 20 years and was twice since renewed. Its up for renewal again in 1994. The 1934 agreement extends to a point near the Saudi town of Najran where the mountain terraces of northern Yemen and Saudi Arabia meet at the edge of the desert. From there on, straight lines unilaterally declared by Britain to be borders mark out rival claims. Saudi Arabia has continued to reject the validity of these colonial lines. In March, the Saudis warned in letters to Western oil companies that they were drilling in disputed territory and demanded a halt to their activities. A similar letter was also written to the U.S. State Department. Yemen is now accusing one of the companies, British Petroleum, of bowing to Saudi pressure by pulling out of its Yemeni concessions. Yet, BP has been involved in a major retrenchment for the past six months, involving pullbacks from Qatar and other leading energy centers. Wanting to explore and produce elsewhere, BP had let it be known prior to the Saudi warning that it intended to pull out of the Red Sea concession area, which lies in a region that has proved fruitless to other would-be prospectors. Although Saudi claims involve one corner of the BP onshore concessions, it is unclear precisely what territory Saudi Arabia is demanding. Yemeni diplomats say Saudi Arabia has yet to present its claims. "We would like Saudi Arabia to contact us. How can we discuss it if they are not talking about it?" Saudi maps, however, show the kingdom's territory extending deep into the presumed oil-rich areas of former South Yemen and into areas that for a generation has been under firm North Yemeni control. Popular with public opinion, Yemeni claims for the return of the three northern provinces ceded to Saudi Arabia are not official government policy. Saudi Arabia appears conscious of the distinction. "I think the Yemenis would like to exchange the three provinces for a favorable settlement of the old South Yemeni border," said a Saudi source. But the Saudi are unlikely to be interested in such a deal. "I don't think the Saudis will accept that. Yemen raises the border issue to blackmail us. It's Saudi money they want." Popular opposition to government plans in 1973 to accept as permanent the Taif border settlement forced North Yemen at the time to back away from its plan. The plan is thought to have been a key factor in the subsequent assassination of at least one North Yemeni leader. In addition, anti-Saudi sentiment in Yemen is on the rise as a result of last year's expulsion of Yemeni workers from Saudi Arabia because of Yemen's alleged pro-Iraqi position in the Gulf war. Political analysts predict that cross-border tribal clashes are likely to increase as a result of the mounting tension.
+
+Saudi Arabia denied on January 28, 1995, reports of renewed border tensions with Yemen and emphasized that it would abide by an accord signed two weeks ago on solving the conflict by peaceful means. "These reports broadcast by foreign news agencies are baseless", a statement released by the official SPA news agency said. Talks between high-ranking government delegations from both sides "are proceeding well and in a good brotherly atmosphere," the agency said. Yemen's parliamentary speaker Abdullah Al Ahmar, who heads the Yemen delegation that has been holding talks in Riyadh, said he regretted the latest reports of renewed tensions. The British Broadcasting Corporation (BBC) quoted Yemen officials as saying on that Saudi Arabia was building up a large force of soldiers, tanks and fighter aircraft along the border. Two weeks previously Saudi Arabia and Yemen agreed to resolve their dispute over the oil-rich border province of Mahra and Saada, 230 kilometers from the Yemenite capital Sanaa by peaceful means after mediation by Egypt and Syria. The tension revolves around a 1934 agreement that calls for a review of the border demarcation every 20 years. In addition tension was heightened over Saudi Arabia's sympathy for the communist regime of South Yemen when it tried to separate again from North Yemen after unification in 1990.
+
+Talks between Saudi Arabia and Yemen on settling their 60-year-old border problems entered the third week on February 5, 1995, with little sign of a breakthrough, diplomats and analysts said. ''We are set for a long process. How long I don't know, but it is definitely not going to be a short process,'' a diplomat said following the talks. Analysts noted a remark by Sheikh Abdullah Hussein al-Ahmar, Speaker of Yemen's Parliament and leader of the Yemeni delegation to the talks, which indicated that the talks were likely to drag on. ''I will experience fasting in Riyadh,'' he said, referring to the Muslim fasting month of Ramadan which began in Saudi Arabia Tuesday. Yemen Foreign Minister Abdul-Karim al-Iryani Saturday briefed Egyptian President Hosni Mubarak on the Yemeni-Saudi border negotiations. Damascus Radio, monitored in London, said al-Iryani Sunday also briefed Syrian President Hafez al-Assad on the same issue. The meeting was also attended by Syrian Vice President Abdul-Halim Khaddam and Foreign Minister Faruq al-Shara, the radio said. Egypt and Syria in December helped to defuse a flare-up on the Saudi-Yemeni borders, urging both sides to a negotiated settlement. However, Saudi Arabia dismissed a subsequent proposal that Syrian and Egyptian military officers participate in a joint border monitoring committee. The border dispute stems from the 1934 Taif agreement which ended a war between the two countries and gave Saudi Arabia control, but not sovereignty, over disputed border areas. The two parties still do not seem to have reached a common understanding on how to approach the issues which have strained relations. ''While the Saudis want to restrict the talks to border issues, the Yemeni side wishes to discuss the whole range of bilateral relations and to have Saudi Arabia restore preferential treatment accorded to Yemen,'' a diplomat said. Yemen used to enjoy a special relationship with oil-rich Saudi Arabia, which over the years has spent billions of dollars on various economic and social projects in impoverished Yemen. Yemenis in Saudi Arabia were the only foreigners exempted from Saudi sponsorship conditions for employment or business. Saudi Arabia withdrew these privileges in 1990, when Iraq invaded Kuwait, because Yemen was seen to be siding with Baghdad. As a result, hundreds of thousands of Yemenis were forced to return home, adding to Yemen's economic woes. Another factor delaying an early settlement of the disputes seems to be related to the political setup in Yemen. ''After all this (Yemen)is not a monarchy, where the top person is the absolute ruler, who can keep his words; neither it is a country governed by proper institutions where at the end of the day things get done. In Yemen, there are parties and tribes that have to be taken into consideration before making any decision,'' another diplomat said. While the two sides were engaged in negotiations in Riyadh, Yemen' President Ali Abdullah Saleh and al-Ahmar publicly clashed on whether the Saudis had massed troops along the two countries' borders, one analyst noted. The bilateral talks are usually held at a lower level. The Saudi team is led by Education Minister Abdul Aziz al-Khuwaiter, and the Yemeni side by Deputy Prime Minister Abdul Qadir Bajammal.
+
+Yemen formally accused Saudi Arabia on July 17, 1998, of occupying parts of the disputed border territory. "The Kingdom of Saudi Arabia has and still undertakes a continuous aggression and chopping off of Yemeni territory within the framework of a policy of imposing a 'fait accompli' and exerting pressure on Yemen," said an official source quoted by the Yemeni News Agency. The source also criticized Saudi Arabia for protesting a border accord between Oman and Yemen, saying such a reaction would only harm negotiations between Yemen and Saudi Arabia. Saudi Arabia shares borders with both Oman and Yemen. The SPA statement quoted the Saudi official as saying that Saudi Arabia believed any differences between the two countries on borders could be settled through the joint border committees. In 1995 the two states signed a memorandum of understanding on normalizing relations and began talks on border demarcation. There has often been armed confrontation along the 2,000-kilometre border.
+
+Saudi Arabia attacked a Yemeni island in the Red Sea, killing three guards in an upsurge of violence over a decades-old border dispute, Yemen's president said on July 20, 1998. Fighting has occasionally erupted along the 1,300-mile frontier between the neighbors, but top officials have rarely spoken of the clashes publicly. The remarks by President Ali Abdullah Saleh marked an escalation of the quarrel in a region vital to the United States for its oil. There was no immediate comment from the Saudi government on the latest accusations, but last week it denied Yemeni charges it was occupying disputed areas along the countries' frontier. Yemen, on the tip of the Arabian Peninsula, has long contested Saudi Arabia's claim to three Red Sea islands and parts of the Empty Quarter, a vast desert region with potentially lucrative oil fields. And the two nations have yet to demarcate a mountainous border in the east. Saleh told reporters that Saudi forces from the mainland shelled the small island of Duwaima off Yemen's coast. During the shelling, nine Saudi naval ships also fired rockets at Yemeni border guards stationed there, he said. Three Yemeni guards were killed and nine were wounded before a cease-fire stopped five hours of fighting, Saleh said. The border dispute has brought the countries to the brink of war in the past. In 1995, Saudi Arabia sent 20,000 troops and hundreds of tanks across the border before Syrian mediation secured a cease-fire and an eventual withdrawal. The dispute flared last week when Yemen accused Saudi Arabia of occupying border regions as a way of "putting pressure on Yemen." In a move to ease the tension, Yemen's foreign minister was expected in Riyadh, Saudi Arabia. Saleh said Yemen, one of the Arab world's poorest countries, wanted to avoid a conflict and would seek ways to make sure "any escalation does not wreck the region's security and stability." The latest clash comes during a tense time in Yemen, after weeks of protests against a 40 percent hike in fuel prices and battles between restive tribesmen and government forces.
+
+On July 25, 1998, Yemen accused Saudi Arabia of sheltering gunmen who attacked an official Yemeni convoy and of infringing Yemen's territorial rights. The accusations, raised by Interior Minister Hussein Mohammed Arab, coincide with a visit to Saudi Arabia by Foreign Minister Abdul Qader Bajamal to discuss a border dispute between the two neighbors. Hussein Mohammed Arab said Saudi Arabia had sheltered five people who attacked his motorcade. The governor of the Yemeni governorate of al Jawf and five of his bodyguards were injured in the ambush by armed men of the Sholan tribe. Opposition reports said 10 people were killed and 25 injured during clashes between the Yemeni army and armed tribesmen in the wake of the attack. Arab told a news conference in Sanaa that the five attackers had taken refuge in the Saudi province of Marjan, which borders Yemen. The minister also accused Saudi Arabia of violating the Yemen border 73 times in one month, and asserted Yemen's sovereignty over the disputed island of al Duweima. Saudi and Yemeni troops clashed last Sunday on the island, leaving three Yemenies dead and a Saudi soldier injured. Arab said the Saudi Arabian air force and navy violated Yemen's airspace and territorial waters between June 15 and July 15. In Saudi Arabia, Bajamal held talks with his Saudi counterpart Saud al Faisal on the island dispute. The foreign minister, who also handed a message from the Yemeni President Ali Abdullah Saleh to Saudi Crown Prince Abdullah, said the visit is of particular importance "because of current circumstances in bilateral relations." Tensions between Yemen and Saudi Arabia have been running high over 2,000 kilometers of undemarcated border where there is believed to be large oil deposits.
+
+19981125-20040703 Transition
+
+Yemen and Saudi Arabia agreed on November 24, 1998, to start implementing a border agreement signed in 1995, the official news agency Saba reported. Yemeni President Ali Abdallah Saleh and visiting Saudi Interior Minister Prince Nayef ibn Abdel Aziz also agreed to put an end to all hostilities between their countries. "The two countries have decided to reactivate and apply the (1995) memorandum of understanding" which renewed a 1934 territorial agreement signed in Taif, Saudi Arabia, Saba said. Under the accord, Yemen handed over the provinces of Assir, Najran and Jizan to its powerful neighbor. The agency also reported that Saleh and Prince Nayef agreed to "forbid any kind of political, security or media activity against either side." Prince Nayef arrived in Aden, southern Yemen's main city, to deliver a message to the Yemeni president from Saudi Arabia's King Fahd about the border dispute. Saudi Arabia and Yemen have been negotiating since 1995 to demarcate their common land and sea borders, which have never been set. Prince Nayef told reporters on his arrival in Aden he saw "no need to resort to arbitration as long as discussions continue." Saudi Crown Prince Abdallah ibn Abdel Aziz recently said Riyadh had no objection to arbitration with Sanaa if Yemen wanted. Yemen's foreign minister, Abdelkader Bajammal, said that he did not see any quick solution to the border dispute with Saudi Arabia. In July, Saudi and Yemeni forces clashed on the disputed Red Sea island of Al-Duwayima. After the clash, in which three Yemeni soldiers were killed, Saudi Arabia and Yemen signed an agreement on avoiding the use of force to solve their territorial disputes. After clashes in December 1994 and January 1995, Sanaa and Riyadh agreed to normalize ties and work to demarcate the border, while Yemen handed over three provinces in line with a 1934 accord.
+
+Yemen and Saudi Arabia will demarcate their disputed border starting in October 2001, ending a 22-year border dispute, according to reports from the Yemeni capital Sanaa on August 24, 2001. A German firm, Hansa Luftbild from the town of Munster, is to carry out the necessary aerial surveys. Saudi Arabia and Yemen reached an agreement in the border conflict in June this year during a visit to Saudi Arabia by Yemen's President Ali Abdullah Saleh. Armed skirmishes were reported between Saudi and Yemeni border guards in the early 1990s. In 1992, Saudi officials warned western oil firms not to drill in the eastern desert as it was not clear whether the area belonged to Saudi Arabia or Yemen. Clashes broke out in July 1999 over an island in the Red Sea claimed by both Riyadh and Sanaa. Three Yemeni soldiers were killed.
+
+Yemen and Saudi Arabia are planning to swap suspected militants from each country arrested in recent terror crackdowns, security officials said on July 10, 2003. The officials, speaking on condition of anonymity, said Yemeni Interior Minister Rashad al-Eleimi received a letter from Saudi counterpart Prince Nayef on Thursday discussing plans to extradite Saudis detained in Yemen and return Yemenis arrested in Saudi. Saudi authorities are expected to extradite eight Yemenis to their southern neighbor soon. No details were revealed on their arrest, why Yemen wants them or when they would be extradited. The officials did not disclose how many Saudis would be extradited from Yemen. But Yemen's state-run weekly, September 26, said Yemen would release five Saudis to Riyadh. Authorities in Riyadh and San'a have been cracking down on militants since a series of attacks in both countries, the latest of which were the May 12 suicide bombings in the Saudi capital that killed 35 people. Saudi and U.S. officials said the attacks bore the hallmarks of al-Qaida, the terror network led by Saudi-born dissident Osama bin Laden. Saudi authorities believe some of the wanted suspects might have fled into Yemen, a hotbed of Islamic militancy and scene of the 2000 USS Cole attack, which killed 17 American sailors and was also blamed on al-Qaida.
+
+Saudi Arabia and Yemen issued a joint statement on February 18, 2004, stressing closer cooperation in curbing smuggling and infiltration along their common frontier. The statement was issued after Yemeni Ali Abdullah Saleh's two-day visit for official talks focusing on the Saudi construction of a barrier along the border. Yemen sees it as a violation of the 2000 border agreement between the two countries. The statement said the two sides agreed to run joint border patrols, put up security checkpoints, determine crossing points for shepherds and increase security arrangements on sections where smuggling and infiltration are most likely to occur. "Security of the two nations is a joint responsibility that must be borne by their security institutions, which must cooperate and work together constantly to remove what might hinder that," the statement added. Last month, Saudi Arabia started constructing a barrier along its border with Yemen to prevent smuggling of weapons and khat, a stimulant popular in Yemen. Yemeni news media recently criticized Saudi Arabia for building the concrete wall. They said the wall is being constructed in a disarmed area, and tribes in the border area have complained the barrier splits their farms and properties and makes transport difficult.
+
+20040704-20159999 0.5
+
+On July 11, 2004, the Saudi authorities completed the handover of a number of border sites in view of the implementation of the Jedda Border Treaty. The treaty ended 60 years of border dispute between Yemen and Saudi Arabia. A ceremony was held on July 11, 2004, at Al-Budaih airport to deliver Al-Budaih and other border posts to Yemen. The official handover of this air base, its facilities and Al-Budaih and Harjah border sites was attended by a host of military officials and media men from the two countries. Unofficial sources said that the amount of land Yemen gained from Saudi Arabia amounts to 35,000 square kilometers. The process of the exchange of sites was done in four days. During the last three days Yemen was handed over two villages, including Al-Akhashim, and as well as other outposts including Umm Ghareb, Umm Serdab, Al-Muaitef and others. The Saudi chief of staff, Lt-Gen Salih Bin Ali al-Muhayya, said that "borders are just lines that define the limits of the administrative authority of our two countries", and that the deep-rooted relations make them one. On his part, Foreign Minister Dr Abu Bakr al-Qirbi described the event, which was broadcasted live through Yemeni state-run media, as a reflection of the "improved relationship between Yemen and Saudi Arabia". The event was observed by both the government and the opposition in Yemen as significant and shows the wisdom of the two leaderships in Yemen and Saudi Arabia which enabled the reaching of a peaceful solution to the border dispute on 12 June 2000. It was also seen to mark the end of this problem, which was a continual irritant to relations between the two countries. The process of the handover of the sites was done after the completion of the demarcation of the borderline in May 2003, according to official sources; 824 markers were set up.
+
+PS-SOURCES: Gause (1980); Al-Enazy (2005); Xinhua April 8, 1982; October 31, 1983; February 19, 2004; New York Times April 23, 1956; October 2, 1962; Deutsche Presse-Agentur January 28, 1995; July 17, 1998; July 25, 1998; August 24, 2001; Associated Press March 19, 1980; July 20, 1998; July 10, 2003; Agence France Presse November 24, 1998; BBC July 16, 2004; Inter-Press Services May 28, 1992; United Press International September 20, 1990; October 6, 1990; February 5, 1995; Christian Science Monitor June 21, 1988
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield. 
+
+Huth, Paul K., and Todd L. Allee. The democratic peace and territorial conflict in the twentieth century. Vol. 82. Cambridge University Press, 2002.
+
+Safran, Nadav (1988). Saudi Arabia: The Ceaseless Quest for Security. Cornell University Press.

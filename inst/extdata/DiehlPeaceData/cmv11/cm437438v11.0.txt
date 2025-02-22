@@ -1,0 +1,138 @@
+FILE: cm437438v11.0.txt
+DYAD: IVORY COAST - GUINEA
+RIVALRY: RIV1063
+DISPUTE(S): MID1351 MID1352 
+RIVALRY: RIV1064
+DISPUTE(S): MID4309 
+
+PS-NOTES:
+
+PS-LAST-CHANGED: 20190216
+PS-LAST-CHECKED: 20190216
+
+Territorial-Maritime-Boundary Issues Variables
+
+MID1351
+
+TERRMID: MID1351 3 -- not territory
+TERRMID-CER: MID1351 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1351 3 -- not third party link to territory 
+TERRLINK-CER: MID1351 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1351 3 -- not maritime 
+MARITMID-CER: MID1351 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1351 3 -- not islands 
+ISLMID-CER: MID1351 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1351 3 -- not civil war 
+CIVWARMID-CER: MID1351 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1351 3 -- not civil war link
+CIVWARLINK-CER: MID1351 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1351 3 -- not coup 
+COUPMID-CER: MID1351 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1351 1 -- coup link
+COUPLINK-CER: MID1351 1 -- certain 
+COUPLINK-NOTES: MID1351 from Gibler 2018, Ghana had recently experienced a coup, and Guinea wished to restore the deposed president. To do so, Guinea would have had to pass its military through the Ivory Coast's territory, but Ivory Coast moved troops to its border with Guinea to deter them from entering their territory. Coded coup link because this was connected to a coup in Ghana, outside this dyad. 
+
+MID1352
+
+TERRMID: MID1352 3 -- not territory
+TERRMID-CER: MID1352 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1352 3 -- not third party link to territory 
+TERRLINK-CER: MID1352 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID1352 3 -- not maritime 
+MARITMID-CER: MID1352 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID1352 3 -- not islands 
+ISLMID-CER: MID1352 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID1352 3 -- not civil war 
+CIVWARMID-CER: MID1352 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1352 3 -- not civil war link
+CIVWARLINK-CER: MID1352 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1352 3 -- not coup 
+COUPMID-CER: MID1352 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1352 1 -- coup link
+COUPLINK-CER: MID1352 1 -- certain 
+COUPLINK-NOTES: MID1352 from Gibler 2018 and cm narrative, after President Nkrumah was deposed in a coup in Ghana in 1966, he fled and was given refuge in Guinea. Guinea wanted to restore him to power, but Ivory Coast did not want him to return to power. In 1967, an Ivory Coast vessel entered Guinea's territorial waters in a mission to kidnap the deposed President. Guinea seized the vessel, and diplomatic tensions escalated until the UN became involved. Coded coup link because this was connected to a coup in Ghana, outside this dyad. 
+
+MID4309
+
+TERRMID: MID4309 1 -- territory MID
+TERRMID-CER: MID4309 1 -- certain 
+TERRMID-NOTES: MID 4309 from Gibler 2018, Guinea occupied a village in the Ivory Coast amidst a border dispute between the two countries. Coded territorial MID because this was connected to a border dispute. 
+
+TERRLINK: MID4309 3 -- not third party link to territory 
+TERRLINK-CER: MID4309 1 -- certain
+TERRLINK-NOTES: 
+
+MARITMID: MID4309 3 -- not maritime 
+MARITMID-CER: MID4309 1 -- certain
+MARITMID-NOTES: 
+
+ISLMID: MID4309 3 -- not islands 
+ISLMID-CER: MID4309 1 -- certain
+ISLMID-NOTES: 
+
+CIVWARMID: MID4309 3 -- not civil war 
+CIVWARMID-CER: MID4309 1 -- certain
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4309 3 -- not civil war link
+CIVWARLINK-CER: MID4309 1 -- certain
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4309 3 -- not coup 
+COUPMID-CER: MID4309 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4309 3 -- not coup link
+COUPLINK-CER: MID4309 1 -- certain 
+COUPLINK-NOTES: 
+
+MID3 1993-2001:
+
+MID4309
+rivalry=437438 nationa=GUINEA nationb=IVORY COAST MID4309 19960304-19960400 
+ revtype1a=TERRITORY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=USE OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0
+lhostb=NO MILITARIZED ACTION 
+
+Guinea occupied a village in the Ivory Coast. The two are involved in a border dispute in which Guinea contests the location of the border. First day of dispute was on 3/4/1996 and last day of dispute was on 4/00/1996.
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+
+SOURCES-CM:
+
+NARRATIVE-CR:
+MID4309 Guinea occupied a village in the Ivory Coast. The two are involved in a border dispute in which Guinea contests the location of the border. 
+
+SOURCES-CR: COW narrative.
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.

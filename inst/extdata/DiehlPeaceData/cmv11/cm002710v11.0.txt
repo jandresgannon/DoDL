@@ -1,0 +1,1697 @@
+FILE: cm002710v11.0.txt
+DYAD: USA-CHINA
+RIVALRY: RIV98
+DISPUTE(S): MID220 
+RIVALRY: RIV99
+DISPUTE(S): MID31 MID1650 
+RIVALRY: RIV100
+DISPUTE(S): MID2208 MID145 
+RIVALRY: RIV10101
+DISPUTE(S): MID633 MID634 MID51 MID2052 MID50 MID2035 MID2033 MID2032 MID53 MID2049 MID173 MID2002 MID1363 MID3361 MID1353 MID172 MID611 MID251 MID2929 MID1216 MID2936 MID2947 MID2948 MID4065 MID4064 MID4088 MID4336 MID4281 MID4280 
+
+PS: 19170417-19490930 0.5 19491001-19720227 0.00 19720228-20180714 0.25 20180715-20209999 0.00
+
+PS-UPDATE2020: This reverts back to a serious rivalry in 2017 as China becomes the primary strategic rival for the US at some point, and vice-versa. The so-called Asia pivot in grand strategy for the US in 2012-13 set the stage for this, but there was still hope that constructivement engagement would work with China. This hope was abandoned and one key is 20180715 when President Trump leveled major sanctions against China, most of which are still in place as of 2022. Other elements that make this a strategic rivalry include continuing Taiwan posturing and threats, disputes over the South China Sea, competition for allies in Africa, US deepening ties with Asian states, and military planning on both sides for Asian conflict.
+
+
+PSNOTES: 
+
+PS-LAST-CHANGED: 20220602
+PS-LAST-CHECKED: 20220602
+
+
+Territorial-Maritime-Boundary Issues Variables
+
+Pre-1900 MIDs: MID220 
+
+MID220 
+
+TERRMID: MID220 3 -- not territory 
+TERRMID-CER: MID220 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID220 3 -- not third party link to territory 
+TERRLINK-CER: MID220 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID220 3 -- not maritime 
+MARITMID-CER: MID220 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID220 3 -- not islands 
+ISLMID-CER: MID220 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID220 3 -- not civil war 
+CIVWARMID-CER: MID220 1 -- certain 
+CIVWARMID-NOTES: MID220 from cm narrative, this involves the Tientsin Massacre which occurred on June 21, 1870. Chinese villagers attacked an orphanage run by Western Christian missionaries and killed several people. France, Italy, and US protested and threatened China by deploying warships to its coast. China apologized for the incident. Coded not civil war because this was an isolated incident of violence by villagers, not a militarized rebel group. 
+
+CIVWARLINK: MID220 3 -- not civil war link 
+CIVWARLINK-CER: MID220 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID220 3 -- not coup 
+COUPMID-CER: MID220 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID220 3 -- not coup link
+COUPLINK-CER: MID220 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID31 
+
+TERRMID: MID31 3 -- not territory 
+TERRMID-CER: MID31 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID31 3 -- not third party link to territory 
+TERRLINK-CER: MID31 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID31 3 -- not maritime 
+MARITMID-CER: MID31 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID31 3 -- not islands 
+ISLMID-CER: MID31 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID31 1 -- civil war MID
+CIVWARMID-CER: MID31 1 -- certain 
+CIVWARMID-NOTES: MID31 from cm narrative, this is one of two MIDs connected to the Boxer Rebellion. Conservative opponents of reform in China gave support to anti-foreign and anti-Christian secret societies. In 1900, Boxers attacked Christians throughout the countryside, leading to intervention by several Western/foreign powers, who defeated China in a war. Coded civil war MID because Chinese support to secret groups militarized them and led to widespread violence against Western interests, leading to Western intervention. 
+
+CIVWARLINK: MID31 3 -- not civil war link 
+CIVWARLINK-CER: MID31 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID31 3 -- not coup 
+COUPMID-CER: MID31 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID31 3 -- not coup link
+COUPLINK-CER: MID31 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1650 
+
+TERRMID: MID1650 3 -- not territory 
+TERRMID-CER: MID1650 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1650 3 -- not third party link to territory 
+TERRLINK-CER: MID1650 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1650 3 -- not maritime 
+MARITMID-CER: MID1650 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1650 3 -- not islands 
+ISLMID-CER: MID1650 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1650 1 -- civil war MID
+CIVWARMID-CER: MID1650 1 -- certain 
+CIVWARMID-NOTES: MID1650 is a bilateral MID connected to the Boxer Rebellion. From cm narrative, anti-reform elements of the Chinese government provided support to anti-foreign and anti-Christian secret societies who then attacked foreign interests/holdings and Christian missionaries throughout the country. In response, the US deployed warships and invaded parts of China. Coded civil war MID because groups in China were militarized by government support, and the militarized civil conflict that resulted led to US intervention, triggering this MID. 
+
+CIVWARLINK: MID1650 3 -- not civil war link 
+CIVWARLINK-CER: MID1650 1 -- certain 
+CIVWARLINK-NOTES: MID1650 not a multilateral MID, and not connected to civil conflict outside of China.
+
+COUPMID: MID1650 3 -- not coup 
+COUPMID-CER: MID1650 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1650 3 -- not coup link
+COUPLINK-CER: MID1650 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2208 
+
+TERRMID: MID2208 3 -- not territory 
+TERRMID-CER: MID2208 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2208 3 -- not third party link to territory 
+TERRLINK-CER: MID2208 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2208 3 -- not maritime 
+MARITMID-CER: MID2208 1 -- certain 
+MARITMID-NOTES: MID2208 from cm narrative, the Great Powers (Germany, Japan, France, UK, US, Italy, Russia) demanded that China remove mines it had placed in the Dagu Harbor, as that harbor provided access to a major Chinese river. Those countries jointly threatened China, triggering this MID. China exchanged naval fire with Japan as part of this incident. Coded not maritime because the maritime boundary was not disputed between China and US. The US was coercing China into allowing the US to engage in trade via Chinese resources, but the US was not making a claim on Chinese maritime boundaries. 
+
+ISLMID: MID2208 3 -- not islands 
+ISLMID-CER: MID2208 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2208 3 -- not civil war 
+CIVWARMID-CER: MID2208 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2208 3 -- not civil war link 
+CIVWARLINK-CER: MID2208 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2208 3 -- not coup 
+COUPMID-CER: MID2208 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2208 3 -- not coup link
+COUPLINK-CER: MID2208 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID145 
+
+TERRMID: MID145 3 -- not territory 
+TERRMID-CER: MID145 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID145 3 -- not third party link to territory 
+TERRLINK-CER: MID145 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID145 3 -- not maritime 
+MARITMID-CER: MID145 1 -- certain 
+MARITMID-NOTES: MID145 involved naval shelling, but was not connected to any maritime claims. See CIVWARMID. 
+
+ISLMID: MID145 3 -- not islands 
+ISLMID-CER: MID145 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID145 1 -- civil war MID
+CIVWARMID-CER: MID145 1 -- certain 
+CIVWARMID-NOTES: MID145 from cm narrative, this is a naval incident involving US and UK vs. China that occurred February and March 1927. China had been divided along Communist and KMT (led by Chiang Kai-Shek, an anti-communist) fighting for years and would continue until 1949 as the Chinese Civil War. This MID occurred when fighting broke out in Shanghai and Nanking, causing US and UK naval and ground forces to be increased at those locations, and some shelling of Chinese territory occurred to protect US and UK interests. Coded civil war MID because militarized factions in China broke out into fighting, threatening US and UK interests and causing those countries to threaten and use force against China, triggering this MID. 
+
+CIVWARLINK: MID145 3 -- not civil war link 
+CIVWARLINK-CER: MID145 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID145 3 -- not coup 
+COUPMID-CER: MID145 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID145 3 -- not coup link
+COUPLINK-CER: MID145 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID633 
+
+TERRMID: MID633 3 -- not territory 
+TERRMID-CER: MID633 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID633 1 -- third party link to territorial MID
+TERRLINK-CER: MID633 1 -- certain 
+TERRLINK-NOTES: MID633 after the Chinese Civil War ended in 1949, two separate states emerged. The US and its allies recognized the ROC in Taiwan as the true government of China, while the USSR and its allies recognized the PRC that occupied mainland China. After 1949, these disputes changed from purely civil war to also include territorial claims, since the communists (PRC) and nationalists (ROC) occupied separate pieces of territory and were recognized (separately) as governments by various states. Coded third party link to territorial MID because this MID was driven by the tensions between China and Taiwan, who contested the territory of China, and was also driven by the Korean War. The US supported South Vietnam and Taiwan, both of whom were opponents of China and both of whom had territorial disputes here. 
+
+MARITMID: MID633 3 -- not maritime 
+MARITMID-CER: MID633 1 -- certain 
+MARITMID-NOTES: MID633 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID633 3 -- not islands 
+ISLMID-CER: MID633 1 -- certain 
+ISLMID-NOTES: MID633 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID633 1 -- civil war MID
+CIVWARMID-CER: MID633 1 -- certain 
+CIVWARMID-NOTES: MID633 from cm narrative, the US deployed warships to the Taiwan Strait at the outbreak of the Korean War and remained until 1955. The US supported Taiwan and recognized it as the true government of China until 1979. In the Korean War, the US supported South Korea while China supported the North. Coded civil war MID because while the Chinese Civil War ended in 1949, there were still hostilities occurring between Taiwan and China, and some militarized nationalist groups remained in mainland China, leading to sporadic fighting over the years. The tensions and disputes between the nationalists and communists, both of whom claimed themselves as the true ruler of China, led to US involvement here. Further, a separate civil war dispute, the Korean War, contributed to this MID that put the US on the opposite side of China.
+
+CIVWARLINK: MID633 1 -- civil war link 
+CIVWARLINK-CER: MID633 1 -- certain 
+CIVWARLINK-NOTES: MID633 coded civil war link because tensions between China and Taiwan led to this MID, and Taiwan is outside of this dyad. After 1949, the China-Taiwan conflict is characterized along both territorial and civil war dimensions. Separately, the Korean War contributed to this MID, and Korea is outside of this dyad. 
+
+COUPMID: MID633 3 -- not coup 
+COUPMID-CER: MID633 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID633 3 -- not coup link
+COUPLINK-CER: MID633 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID634 
+
+TERRMID: MID634 3 -- not territory 
+TERRMID-CER: MID634 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID634 1 -- third party link to territorial MID
+TERRLINK-CER: MID634 1 -- certain 
+TERRLINK-NOTES: MID634 after the Chinese Civil War ended in 1949, two separate states emerged. The US and its allies recognized the ROC in Taiwan as the true government of China, while the USSR and its allies recognized the PRC that occupied mainland China. After 1949, these disputes changes from purely civil war to also include territorial claims, since the communists (PRC) and nationalists (ROC) occupied separate pieces of territory and were recognized (separately) as governments by various states. Coded third party link to territorial MID because this MID was driven by the tensions between China and Taiwan, who contested the territory of China, and these tensions led to this MID. 
+
+MARITMID: MID634 3 -- not maritime 
+MARITMID-CER: MID634 1 -- certain 
+MARITMID-NOTES: MID634 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID634 3 -- not islands 
+ISLMID-CER: MID634 1 -- certain 
+ISLMID-NOTES: MID634 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID634 1 -- civil war MID
+CIVWARMID-CER: MID634 1 -- certain 
+CIVWARMID-NOTES: MID634 from cm narrative, this MID occurred 10/1/1949-1/24/1950 and was connected to the fallout from the end of the Chinese Civil War. Marines were sent to Shanghai to aid in the evacuation of Americans after the communists seized power in 1949. Coded civil war MID because the US troop presence here was the immediate product of the outcome of the Chinese Civil War, triggering this MID. Hostilities between Taiwan, who the US supported, and China continued after 1949. 
+
+CIVWARLINK: MID634 1 -- civil war link 
+CIVWARLINK-CER: MID634 1 -- certain 
+CIVWARLINK-NOTES: MID634 although Taiwan is not directly involved in the events of this MID, this is coded civil war link because the tensions between China and Taiwan led to this MID. After 1949, China-Taiwan is characterized along both territorial and civil war dimensions. 
+
+COUPMID: MID634 3 -- not coup 
+COUPMID-CER: MID634 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID634 3 -- not coup link
+COUPLINK-CER: MID634 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID51 
+
+TERRMID: MID51 3 -- not territory 
+TERRMID-CER: MID51 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID51 1 -- third party link to territorial MID
+TERRLINK-CER: MID51 1 -- certain 
+TERRLINK-NOTES: MID51 from cm narrative, this MID is the Korean War. The US fought along with the South Koreans, and China fought along with the North Koreans. North and South Korea were engaged in a territorial dispute in the Korean War, and China's and US's opposing support led them to fight directly, triggering this MID between them. Coded third party link to territorial MID because the territorial dispute in Korea led these countries to be involved in this MID. 
+
+MARITMID: MID51 3 -- not maritime 
+MARITMID-CER: MID51 1 -- certain 
+MARITMID-NOTES: MID51 the Korean War involved the disputation of maritime boundaries between North and South Korea as well, since each side claimed the entirety of each other's territory. Coded not maritime because China and US did not dispute a maritime boundary here, although they are linked to the maritime element of the dispute. 
+
+ISLMID: MID51 3 -- not islands 
+ISLMID-CER: MID51 1 -- certain 
+ISLMID-NOTES: MID51 the Korean War involved the disputation of islands off the coast of the Korean Peninsula as well, since each side claimed the entirety of each other's territory. Coded not islands because the US and China were not disputing islands here, but they were linked to the islands element of the Korean dispute here. 
+
+CIVWARMID: MID51 3 -- not civil war 
+CIVWARMID-CER: MID51 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID51 1 -- civil war link 
+CIVWARLINK-CER: MID51 1 -- certain 
+CIVWARLINK-NOTES: MID51 coded civil war link because the Korean War has a civil war element. Like China, Korea was divided along communist vs nationalist lines, and these two groups eventually fought the Korean War. That war is considered a civil war since the primary disputants were Koreans, and the peninsula was not divided into two states until after WWII, when it also becomes a territorial dispute. North and South Korea claim the entirety of each other's territory and see the opposing regime essentially as a militarized group illegitimately controlling part of the peninsula. Coded civil war link because the Korean civil war is outside of this dyad, and the US and China fought here due to their opposing support in that war. 
+
+COUPMID: MID51 3 -- not coup 
+COUPMID-CER: MID51 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID51 3 -- not coup link
+COUPLINK-CER: MID51 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2052 
+
+TERRMID: MID2052 3 -- not territory 
+TERRMID-CER: MID2052 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2052 1 -- third party link to territorial MID
+TERRLINK-CER: MID2052 1 -- certain 
+TERRLINK-NOTES: MID2052 from cm narrative, this is similar to MID633 in that the US and Taiwan deployed warships to the Strait of Taiwan as a deterrent threat to China after the 1949 civil war ended. Following that civil war, the US recognized Taiwan as the government of China, while others, including USSR, recognized PRC, or China, as the true government. Thus, after the 1949 civil war, there are two separate recognized states involved in a territorial dispute. Coded third party link to territorial MID because this MID was driven by the tensions between China and Taiwan, who contested the territory of China, and these tensions led to this MID. 
+
+MARITMID: MID2052 3 -- not maritime 
+MARITMID-CER: MID2052 1 -- certain 
+MARITMID-NOTES: MID2052 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID2052 3 -- not islands 
+ISLMID-CER: MID2052 1 -- certain 
+ISLMID-NOTES: MID2052 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID2052 1 -- civil war MID
+CIVWARMID-CER: MID2052 1 -- certain 
+CIVWARMID-NOTES: MID2052 from cm narrative, this is a multilateral MID that occurred 2/16/1951-10/16/1952, and is similar to the events of MID633. The US and Taiwan deployed warships to the Strait of Taiwan after the Chinese Civil War, and these activities between Taiwan and China are an example of civil war activities that continued after the Chinese Civil War ended in 1949, as both countries claimed to be China and the rightful owner of all Chinese territory. Coded civil war MID because the civil war related dispute between China and Taiwan brought the US into this dispute via its support of Taiwan's claim (civil war within this dyad). 
+
+CIVWARLINK: MID2052 1 -- civil war link 
+CIVWARLINK-CER: MID2052 1 -- certain 
+CIVWARLINK-NOTES: MID2052 is a multilateral MID appearing as a civil war MID in the China-Taiwan dyad. Coded civil war link because this MID involves civil conflict connected to Taiwan, outside of this dyad. 
+
+COUPMID: MID2052 3 -- not coup 
+COUPMID-CER: MID2052 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2052 3 -- not coup link
+COUPLINK-CER: MID2052 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID50 
+
+TERRMID: MID50 3 -- not territory 
+TERRMID-CER: MID50 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID50 1 -- third party link to territorial MID
+TERRLINK-CER: MID50 1 -- certain 
+TERRLINK-NOTES: MID50 is a multilateral dispute involving China and the USSR v. the US, South Korea and Taiwan. From cm narrative, the Chinese charged U.S. planes had violated Manchurian air space. The dispute was a part of the larger China-Taiwan conflict. Coded third party link to territory because the US, South Korea, and Taiwan were on opposite sides of the China-Taiwan territorial dispute from China and USSR, and the tensions from that territorial dispute drove the events of this MID.
+
+MARITMID: MID50 3 -- not maritime 
+MARITMID-CER: MID50 1 -- certain 
+MARITMID-NOTES: MID50 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID50 3 -- not islands 
+ISLMID-CER: MID50 1 -- certain 
+ISLMID-NOTES: MID50 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID50 1 -- civil war MID
+CIVWARMID-CER: MID50 1 -- certain 
+CIVWARMID-NOTES: MID50 Taiwan and China were disputing territory and were distinct states, but this is also considered a civil war MID because each claimed to be the government of China and claimed the entirety of Chinese territory. Neither considered the other to be a separate state. 
+
+CIVWARLINK: MID50 1 -- civil war link 
+CIVWARLINK-CER: MID50 1 -- certain 
+CIVWARLINK-NOTES: MID50 is a multilateral MID appearing as a civil war MID in the China-Taiwan dyad. Coded civil war link because this MID involves civil conflict connected to Taiwan, outside of this dyad. 
+
+COUPMID: MID50 3 -- not coup 
+COUPMID-CER: MID50 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID50 3 -- not coup link
+COUPLINK-CER: MID50 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2035 
+
+TERRMID: MID2035 3 -- not territory 
+TERRMID-CER: MID2035 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2035 1 -- third party link to territorial MID
+TERRLINK-CER: MID2035 1 -- certain 
+TERRLINK-NOTES: MID2035 from cm narrative, this MID occurred during August of 1953. There was a series of disputes concerning the repatriation of prisoners from the Korean War between August 6 and September 6, 1953. The US is pulled into this dispute due to its participation in the Korean War, which included fighting against China. Coded third party link to territorial MID because the Korean War was territorial in nature, China and the US were connected to that war, and the hostilities in this MID are connected to the Korean War. 
+
+MARITMID: MID2035 3 -- not maritime 
+MARITMID-CER: MID2035 1 -- certain 
+MARITMID-NOTES: MID2035 North and South Korea disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for South Korea. 
+
+ISLMID: MID2035 3 -- not islands 
+ISLMID-CER: MID2035 1 -- certain 
+ISLMID-NOTES: MID2035 North and South Korea disputed the ownership of several islands as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for South Korea. 
+
+CIVWARMID: MID2035 3 -- not civil war 
+CIVWARMID-CER: MID2035 1 -- certain 
+CIVWARMID-NOTES: MID2035 civil war outside of this dyad. See CIVWARLINK. 
+
+CIVWARLINK: MID2035 1 -- civil war link 
+CIVWARLINK-CER: MID2035 1 -- certain 
+CIVWARLINK-NOTES: MID2035 North and South Korea's dispute is also considered a civil war MID because each claimed to be the government of Korea and claimed the entirety of Korean territory. Korea was divided along nationalist vs. communist lines, similar to the Chinese Civil War. Coded civil war link because the Korean War is outside this dyad and contributed to this MID between China and US. 
+
+COUPMID: MID2035 3 -- not coup 
+COUPMID-CER: MID2035 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2035 3 -- not coup link
+COUPLINK-CER: MID2035 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2033 
+
+TERRMID: MID2033 3 -- not territory 
+TERRMID-CER: MID2033 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2033 3 -- not third party link to territory 
+TERRLINK-CER: MID2033 1 -- certain 
+TERRLINK-NOTES: MID2033 the US and China had previous disputes due to US support for Taiwan, but this dispute is related to US vessels searching for survivors of a downed passenger airplane. Not connected to China-Taiwan territorial dispute. 
+
+MARITMID: MID2033 3 -- not maritime 
+MARITMID-CER: MID2033 1 -- certain 
+MARITMID-NOTES: MID2033 from cm narrative, MID2033 occurred in July of 1954. In July of 1954, the Chinese shot down a British airliner. Following the downing of the airliner, a U.S. carrier group confronted the Chinese while looking for survivors, triggering this MID. Coded not maritime because the US and China were not disputing a maritime boundary. 
+
+ISLMID: MID2033 3 -- not islands 
+ISLMID-CER: MID2033 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2033 3 -- not civil war 
+CIVWARMID-CER: MID2033 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2033 3 -- not civil war link 
+CIVWARLINK-CER: MID2033 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2033 3 -- not coup 
+COUPMID-CER: MID2033 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2033 3 -- not coup link
+COUPLINK-CER: MID2033 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2032 
+
+TERRMID: MID2032 3 -- not territory 
+TERRMID-CER: MID2032 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2032 1 -- third party link to territorial MID
+TERRLINK-CER: MID2032 2 -- somewhat certain 
+TERRLINK-NOTES: MID2032 from cm narrative, the US and China exchanged aircraft fire over the ocean near North Korea on 5/11/1955. This is a bilateral MID. Coded third party link to territorial because the US and China were opposed over the Korea dispute. The US was supporting South Korea, and China was supporting North Korea. The US and China had fought in direct, intense warfare in the Korean War. Coded somewhat certain because there is no direct evidence of what caused this dispute, but the US presence near Korea and the clash near North Korea, along with the recency of the fighting between US and China over Korea, suggests that this is tied to the Korean War. 
+
+MARITMID: MID2032 3 -- not maritime 
+MARITMID-CER: MID2032 1 -- certain 
+MARITMID-NOTES: MID2032 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID2032 3 -- not islands 
+ISLMID-CER: MID2032 1 -- certain 
+ISLMID-NOTES: MID2032 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID2032 1 -- civil war MID
+CIVWARMID-CER: MID2032 2 -- somewhat certain 
+CIVWARMID-NOTES: MID2032 coded somewhat certain because while there is no direct indication that this dispute was connected to US support for the Korea dispute, which has a civil war element, it is unclear exactly what led to this dispute. It is likely that the US and China clashed over the Korea dispute here since they had fought against each other recently in the Korean War, and the clash occurred near Korea. The US regularly kept a presence near the peninsula as a form of support for South Korea. 
+
+CIVWARLINK: MID2032 1 -- civil war link 
+CIVWARLINK-CER: MID2032 2 -- somewhat certain 
+CIVWARLINK-NOTES: MID2032 coded somewhat certain because while there is no direct indication that this MID was connected to the Taiwan dispute, it is likely that the US-China tensions over Korea contributed to this MID, and South Korea is outside of this dyad. 
+
+COUPMID: MID2032 3 -- not coup 
+COUPMID-CER: MID2032 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2032 3 -- not coup link
+COUPLINK-CER: MID2032 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID53 
+
+TERRMID: MID53 3 -- not territory 
+TERRMID-CER: MID53 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID53 1 -- third party link to territorial MID 
+TERRLINK-CER: MID53 1 -- certain 
+TERRLINK-NOTES: MID53 from cm narrative, this MID occurred August 22-23, 1956. Chinese aircraft shot down a U.S. patrol aircraft off the Chinese coast. U.S. ships entered the area to search for survivors. The Chinese stated that the aircraft was mistaken for a Nationalist plane. Coded third party link to territorial MID because per China's admission, the US plane was shot down due to China's territorial dispute with Taiwan, as China apparently believed it was shooting at a Taiwanese plane. 
+
+MARITMID: MID53 3 -- not maritime 
+MARITMID-CER: MID53 1 -- certain 
+MARITMID-NOTES: MID53 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID53 3 -- not islands 
+ISLMID-CER: MID53 1 -- certain 
+ISLMID-NOTES: MID53 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID53 1 -- civil war MID
+CIVWARMID-CER: MID53 1 -- certain 
+CIVWARMID-NOTES: MID53 from cm narrative, this MID occurred August 22-23, 1956. Chinese aircraft shot down a U.S. patrol aircraft off the Chinese coast. U.S. ships entered the area to search for survivors. The Chinese stated that the aircraft was mistaken for a Nationalist plane. Coded civil war MID because per China's admission, the US place was shot down due to China's dispute with Taiwan, which has a civil war element. China and Taiwan, though separate states at this point, did not consider each other to be a separate state, viewed themselves as the legitimate government of China, and viewed the other as a Chinese group illegitimately controlling Chinese territory. 
+
+CIVWARLINK: MID53 1 -- civil war link 
+CIVWARLINK-CER: MID53 1 -- certain 
+CIVWARLINK-NOTES: MID53 this MID occurred due to tensions between China and Taiwan. The China-Taiwan dispute has a civil war element, and this is coded civil war link because the civil conflict is also present outside of this dyad (Taiwan). 
+
+COUPMID: MID53 3 -- not coup 
+COUPMID-CER: MID53 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID53 3 -- not coup link
+COUPLINK-CER: MID53 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2049 
+
+TERRMID: MID2049 3 -- not territory 
+TERRMID-CER: MID2049 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2049 1 -- third party link to territorial MID
+TERRLINK-CER: MID2049 1 -- certain 
+TERRLINK-NOTES: MID2049 from cm narrative, this MID occurred June 12-13, 1957. This dispute was part of the larger China-Taiwan conflict. Four carriers were sent by the US following the shelling of Kinmen island in July 1957. Coded third party link to territorial MID because this was connected to the US support for Taiwan in the China-Taiwan territorial dispute. 
+
+MARITMID: MID2049 3 -- not maritime 
+MARITMID-CER: MID2049 1 -- certain 
+MARITMID-NOTES: MID2049 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID2049 3 -- not islands 
+ISLMID-CER: MID2049 1 -- certain 
+ISLMID-NOTES: MID2049 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID2049 1 -- civil war MID
+CIVWARMID-CER: MID2049 1 -- certain 
+CIVWARMID-NOTES: MID2049 from cm narrative, this MID occurred June 12-13, 1957. This dispute was part of the larger China-Taiwan conflict. Four carriers were sent by the US following the shelling of Kinmen island in July 1957. Coded third party link to territorial MID because this was connected to the US support for Taiwan in the China-Taiwan dispute, which has a civil war element. 
+
+CIVWARLINK: MID2049 1 -- civil war link 
+CIVWARLINK-CER: MID2049 1 -- certain 
+CIVWARLINK-NOTES: MID2049 is connected to the China-Taiwan dispute, which is partly civil conflict in nature. Coded civil war link because civil conflict element is present in Taiwan, outside of this dyad. 
+
+COUPMID: MID2049 3 -- not coup 
+COUPMID-CER: MID2049 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2049 3 -- not coup link
+COUPLINK-CER: MID2049 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID173 
+
+TERRMID: MID173 3 -- not territory 
+TERRMID-CER: MID173 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID173 1 -- third party link to territorial MID
+TERRLINK-CER: MID173 1 -- certain 
+TERRLINK-NOTES: MID173 from cm narrative, this MID was part of the China-Taiwan conflict and occurred from July through December of 1958. This incident involved the shelling of Quemoy-Matsu by the PRC. The United States intervened and escorted Taiwanese ships in the area. Coded third party link to territorial MID because the US and China are in this MID due to US's support for Taiwan in the China-Taiwan territorial dispute. 
+
+MARITMID: MID173 3 -- not maritime 
+MARITMID-CER: MID173 1 -- certain 
+MARITMID-NOTES: MID173 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID173 3 -- not islands 
+ISLMID-CER: MID173 1 -- certain 
+ISLMID-NOTES: MID173 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID173 1 -- civil war MID
+CIVWARMID-CER: MID173 1 -- certain 
+CIVWARMID-NOTES: MID173 MID173 from cm narrative, this MID was part of the China-Taiwan conflict and occurred from July through December of 1958. This incident involved the shelling of Quemoy-Matsu by the PRC. The United States intervened and escorted Taiwanese ships in the area. Coded civil war because the US and China are in this MID due to US's support for Taiwan in the China-Taiwan dispute, which has a civil war element. 
+
+CIVWARLINK: MID173 1 -- civil war link 
+CIVWARLINK-CER: MID173 1 -- certain 
+CIVWARLINK-NOTES: MID173 this MID occurred due to tensions between China and Taiwan. The China-Taiwan dispute has a civil war element, and this is coded civil war link because the civil conflict is also present outside of this dyad (Taiwan).
+
+COUPMID: MID173 3 -- not coup 
+COUPMID-CER: MID173 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID173 3 -- not coup link
+COUPLINK-CER: MID173 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2002 
+
+TERRMID: MID2002 3 -- not territory 
+TERRMID-CER: MID2002 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2002 3 -- not third party link to territory 
+TERRLINK-CER: MID2002 1 -- certain 
+TERRLINK-NOTES: MID2002 from cm narrative, this MID occurred 5/27/1960 and was triggered when China complained that there had been at least three U-2 over flights violating their territory. These charges were made during the UN debate over the Soviet downing of an American U-2. Coded not third party link to territory because this was not connected to the China-Taiwan dispute, but rather occurred as the US was protesting USSR shooting down one of its aircraft. China appears to have been supporting USSR by claiming that the US had also been flying recon missions over its territory, implying that the downing of the U-2 was justified. 
+
+MARITMID: MID2002 3 -- not maritime 
+MARITMID-CER: MID2002 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2002 3 -- not islands 
+ISLMID-CER: MID2002 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2002 3 -- not civil war 
+CIVWARMID-CER: MID2002 1 -- certain 
+CIVWARMID-NOTES: MID2002 not connected to the Taiwan-China dispute. 
+
+CIVWARLINK: MID2002 3 -- not civil war link 
+CIVWARLINK-CER: MID2002 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2002 3 -- not coup 
+COUPMID-CER: MID2002 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2002 3 -- not coup link
+COUPLINK-CER: MID2002 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1363 
+
+TERRMID: MID1363 3 -- not territory 
+TERRMID-CER: MID1363 1 -- certain 
+TERRMID-NOTES: MID1363 from cm narrative, this MID is about the internationalized Laotian Civil War. The US and Thailand were supporting the Royal Laotian Government (incumbent), and the USSR, China, and North Vietnam were supporting the communist guerrillas (militarized rebel group). The US and USSR did not want that conflict to lead to a direct conflict between US and USSR, and there was a push to resolve the conflict via a Geneva Conference. China warned that it would intervene with direct military force if SEATO intervened. This threat constitutes MID1363. Coded not territorial because neither the US nor China were advancing a territorial claim here.
+
+TERRLINK: MID1363 3 -- not third party link to territory 
+TERRLINK-CER: MID1363 1 -- certain 
+TERRLINK-NOTES: MID1363 this is an internationalized civil war in which several countries supported the rebels or the regimes, but none of these countries were making a claim on Laotian territory. The Laotian conflict is purely civil war in nature. 
+
+MARITMID: MID1363 3 -- not maritime 
+MARITMID-CER: MID1363 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1363 3 -- not islands 
+ISLMID-CER: MID1363 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1363 3 -- not civil war 
+CIVWARMID-CER: MID1363 1 -- certain 
+CIVWARMID-NOTES: MID1363 coded not civil war because the civil war in Laos is outside of this dyad. See CIVWARLINK. 
+
+CIVWARLINK: MID1363 1 -- civil war link 
+CIVWARLINK-CER: MID1363 1 -- certain 
+CIVWARLINK-NOTES: MID1363 from cm narrative, this MID was an internationalized Laotian Civil War. The US and China supported opposite sides in the war. A threat by China, who was supporting the communist guerrillas, triggered this multilateral MID. Coded civil war link because the Laotian Civil War is outside of this dyad and caused a MID between US and China here. 
+
+COUPMID: MID1363 3 -- not coup 
+COUPMID-CER: MID1363 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1363 3 -- not coup link
+COUPLINK-CER: MID1363 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID3361 
+
+TERRMID: MID3361 3 -- not territory 
+TERRMID-CER: MID3361 1 -- certain 
+TERRMID-NOTES: MID3361 from cm narrative, this is a multilateral MID in which China and the USSR threatened that the US was provoking war by building up its forces in South Vietnam. China and USSR were supporting North Vietnam. Coded not territory because the US and China were not disputing territory here. See TERRLINK.
+
+TERRLINK: MID3361 1 -- third party link to territorial MID
+TERRLINK-CER: MID3361 1 -- certain 
+TERRLINK-NOTES: MID3361 from cm narrative, the US's support of South Vietnam, and China and USSR's support of North Vietnam triggered this MID. The Vietnam War is a territorial MID because each was trying to control the entire territory of Vietnam. Coded third party link to territory because Vietnam War is a territorial MID and the US and China's opposing support triggered this MID.
+
+MARITMID: MID3361 3 -- not maritime 
+MARITMID-CER: MID3361 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID3361 3 -- not islands 
+ISLMID-CER: MID3361 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID3361 3 -- not civil war 
+CIVWARMID-CER: MID3361 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID3361 1 -- civil war link 
+CIVWARLINK-CER: MID3361 1 -- certain 
+CIVWARLINK-NOTES: MID3361 the Vietnam War is also considered a civil war MID because North Vietnamese communist guerrillas were present in the South, fighting against the government as part of the war effort, and China and USSR were supporting these guerillas. Coded civil war link because this MID has a civil war element between North and South Vietnam, and US and China's opposing support triggered this MID. 
+
+COUPMID: MID3361 3 -- not coup 
+COUPMID-CER: MID3361 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID3361 3 -- not coup link
+COUPLINK-CER: MID3361 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1353 
+
+TERRMID: MID1353 3 -- not territory 
+TERRMID-CER: MID1353 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1353 3 -- not third party link to territory 
+TERRLINK-CER: MID1353 1 -- certain 
+TERRLINK-NOTES: MID1353 this is connected to the Laotian Civil War, and China and US's opposing support. That conflict did not have a territorial dispute element; it was purely civil war in nature. See CIVWARLINK.
+
+MARITMID: MID1353 3 -- not maritime 
+MARITMID-CER: MID1353 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1353 3 -- not islands 
+ISLMID-CER: MID1353 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1353 3 -- not civil war 
+CIVWARMID-CER: MID1353 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1353 1 -- civil war link 
+CIVWARLINK-CER: MID1353 1 -- certain 
+CIVWARLINK-NOTES: MID1353 from cm narrative, this is related to the Laotian Civil War that takes place from 1963 to 1973. China directly supported the Pathet Lao communist insurgency and conducted military operations in northern Laos, and the USSR provided less direct support to communist insurgents. The US supported the Royal Laotian Government (RLG) forces. Chinese forces directly engaged in combat with RLG forces, triggering this MID due to the US support for RLG forces and China's support for communist forces. Coded civil war link because the civil war in Laos is outside of this dyad and led to this MID. 
+
+COUPMID: MID1353 3 -- not coup 
+COUPMID-CER: MID1353 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1353 3 -- not coup link
+COUPLINK-CER: MID1353 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID172 
+
+TERRMID: MID172 3 -- not territory 
+TERRMID-CER: MID172 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID172 1 -- third party link to territorial MID
+TERRLINK-CER: MID172 1 -- certain 
+TERRLINK-NOTES: MID172 occurred February 25-December 19, 1962. From cm narrative, this dispute is part of the China-Taiwan conflict. This dispute is a border violation involving Taiwan and China, and the US is pulled in due to its support for Taiwan. Coded third party link to territory because US support for Taiwan pulls them into this territorial MID between Taiwan and China. 
+
+MARITMID: MID172 3 -- not maritime 
+MARITMID-CER: MID172 1 -- certain 
+MARITMID-NOTES: MID172 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID172 3 -- not islands 
+ISLMID-CER: MID172 1 -- certain 
+ISLMID-NOTES: MID172 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID172 1 -- civil war MID
+CIVWARMID-CER: MID172 1 -- certain 
+CIVWARMID-NOTES: MID172 from cm narrative, this MID involved a border violation in the Taiwan-China dispute, which has a civil war element. Coded civil war MID because the civil war activity is within this dyad. 
+
+CIVWARLINK: MID172 1 -- civil war link 
+CIVWARLINK-CER: MID172 1 -- certain 
+CIVWARLINK-NOTES: MID172 this MID occurred due to tensions between China and Taiwan. The China-Taiwan dispute has a civil war element, and this is coded civil war link because the civil conflict is also present outside of this dyad (Taiwan).
+
+COUPMID: MID172 3 -- not coup 
+COUPMID-CER: MID172 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID172 3 -- not coup link
+COUPLINK-CER: MID172 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID611 
+
+TERRMID: MID611 3 -- not territory 
+TERRMID-CER: MID611 1 -- certain 
+TERRMID-NOTES: MID611 from cm narrative, this is the Vietnam War. The US was supporting South Vietnam, and China and USSR were supporting North Vietnam and communist guerrillas in South Vietnam. Coded not territorial because the US and China were not disputing territory between themselves, but were supporting opposite sides in a territorial dispute. See TERRLINK. 
+
+TERRLINK: MID611 1 -- third party link to territorial MID
+TERRLINK-CER: MID611 1 -- certain 
+TERRLINK-NOTES: MID611 from cm narrative, this MID is triggered by the opposing support in the Vietnam War, with the US supporting South Vietnam, and China and USSR supporting North Vietnam and communist insurgents who were fighting in the South. Coded third party link to territory because North Vietnam and South Vietnam were in a territorial dispute, and the US and China's opposing support triggered this MID between them. 
+
+MARITMID: MID611 3 -- not maritime 
+MARITMID-CER: MID611 1 -- certain 
+MARITMID-NOTES: MID611 the North/South Vietnam dispute had implications for maritime boundaries as well, since each claimed the entirety of the other's territory. Coded not maritime because the US and China did not dispute a maritime boundary here, although they were linked to the maritime element of the Vietnam War in their opposing support. 
+
+ISLMID: MID611 3 -- not islands 
+ISLMID-CER: MID611 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID611 3 -- not civil war 
+CIVWARMID-CER: MID611 1 -- certain 
+CIVWARMID-NOTES: MID611 this MID is the Vietnam War, which has a civil war element, but coded not civil war because the civil war is outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID611 1 -- civil war link 
+CIVWARLINK-CER: MID611 1 -- certain 
+CIVWARLINK-NOTES: MID611 the Vietnam War is also considered a civil war MID because it involved communist insurgents in South Vietnam fighting against the government and against US forces. Coded civil war link because the civil war is outside of this dyad and contributed to this MID between US and China.
+
+COUPMID: MID611 3 -- not coup 
+COUPMID-CER: MID611 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID611 3 -- not coup link
+COUPLINK-CER: MID611 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID251 
+
+TERRMID: MID251 3 -- not territory 
+TERRMID-CER: MID251 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID251 1 -- third party link to territorial MID
+TERRLINK-CER: MID251 1 -- certain 
+TERRLINK-NOTES: MID251 occurred April 9, 1965. From cm narrative, this was a clash between US and Chinese aircraft over or near Hainan Island on this date. China and Taiwan dispute the ownership of some of the Hainan Islands in the South China Sea, and this is connected to the overall territorial dispute between these two countries (Each claims the entirety of the other's territory). Coded third party link to territory because this MID is an islands MID between China and Taiwan, and is also a territorial MID since the disputation of the islands is a part of the overall territorial dispute between the two countries. The US is brought into this MID due to its support of Taiwan. 
+
+MARITMID: MID251 3 -- not maritime 
+MARITMID-CER: MID251 1 -- certain 
+MARITMID-NOTES: MID251 occurred April 9, 1965. From cm narrative, this was a clash between US and Chinese aircraft over or near Hainan Island on this date. Some of the Hainan Islands are disputed between China and Taiwan due to the maritime boundary implications that involve ownership of the islands. This is part of the South China Sea dispute. Coded not maritime because the US is not a party to this maritime dispute. The clash here is linked to the China-Taiwan disputation of this maritime boundary. 
+
+ISLMID: MID251 3 -- not islands 
+ISLMID-CER: MID251 1 -- certain 
+ISLMID-NOTES: MID251 occurred April 9, 1965. From cm narrative, this was a clash between US and Chinese aircraft over or near Hainan Island on this date. Coded not islands because while some of the Hainan Islands are disputed between Taiwan and China, the US is not a party to this dispute. The clash here is linked to the China-Taiwan disputation of these islands. 
+
+CIVWARMID: MID251 1 -- civil war MID
+CIVWARMID-CER: MID251 1 -- certain 
+CIVWARMID-NOTES: MID251 from cm narrative, this is connected to the Taiwan-China dispute, which has a civil war element.
+
+CIVWARLINK: MID251 1 -- civil war link 
+CIVWARLINK-CER: MID251 1 -- certain 
+CIVWARLINK-NOTES: MID251 this MID occurred due to tensions between China and Taiwan. The China-Taiwan dispute has a civil war element, and this is coded civil war link because the civil conflict is also present outside of this dyad (Taiwan).
+
+COUPMID: MID251 3 -- not coup 
+COUPMID-CER: MID251 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID251 3 -- not coup link
+COUPLINK-CER: MID251 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2929 
+
+TERRMID: MID2929 3 -- not territory 
+TERRMID-CER: MID2929 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2929 1 -- third party link to territorial MID
+TERRLINK-CER: MID2929 1 -- certain 
+TERRLINK-NOTES: MID2929 from cm narrative, this MID is a raid initiated by the United States against China, October 5, 1965-November 23, 1967. Jones (1980, 156-73) notes many incidents in which American aircraft strayed over southern China during the air war against North Vietnam. Coded third party link to territory because this MID was driven by US and China's support for opposite sides in the Vietnam War, which was a territorial dispute. 
+
+MARITMID: MID2929 3 -- not maritime 
+MARITMID-CER: MID2929 1 -- certain 
+MARITMID-NOTES: MID2929 coded not maritime because the US and China did not dispute a maritime boundary here, although they are linked to the maritime element of the Vietnam War here, as this raid was connected to the opposing support in the Vietnam War. 
+
+ISLMID: MID2929 3 -- not islands 
+ISLMID-CER: MID2929 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2929 3 -- not civil war 
+CIVWARMID-CER: MID2929 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2929 1 -- civil war link 
+CIVWARLINK-CER: MID2929 1 -- certain 
+CIVWARLINK-NOTES: MID2929 from cm narrative, this MID was connected to the US and China's support for opposite sides in the Vietnam War. China supported the communists in the North and communist guerrillas fighting in South Vietnam, while the US supported South Vietnam. Coded civil war link because the Vietnam War has a civil war element and that civil war is outside of this dyad. 
+
+COUPMID: MID2929 3 -- not coup 
+COUPMID-CER: MID2929 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2929 3 -- not coup link
+COUPLINK-CER: MID2929 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1216
+
+TERRMID: MID1216 3 -- not territory
+TERRMID-CER: MID1216 1 -- certain 
+TERRMID-NOTES: MID1216 from cm narrative, this is a multilateral MID involving China/Cambodia/North Vietnam on one side and Thailand/South Vietnam/USA on the other. Cambodian Prince Sihanouk anticipated a North Vietnamese victory in the civil war and broke off relations with the South. He allowed N Vietnamese communist insurgents to set up bases in Cambodia along the border with S Vietnam. Coded not territorial because not related to a territorial claim between US and China. 
+
+TERRLINK: MID1216 1 -- third party linked to territorial MID
+TERRLINK-CER: MID1216 1 -- certain 
+TERRLINK-NOTES: MID1216 was a multilateral dispute involving China/Cambodia/North Vietnam on one side and Thailand/South Vietnam/USA on the other. Cambodia's Prince Sihanouk decided to compromise with communists when he perceived that they would eventually win the Vietnam War. He allowed North Vietnamese communists to set up bases along the order with S Vietnam, prompting the US, Thailand, and South Vietnam to make incursions into Cambodia to pursue the guerillas. Coded link to territorial dispute because this MID is directly connected to the Vietnam War, a territorial dispute that led to the US and China having a dispute here. 
+
+MARITMID: MID1216 3 -- not maritime 
+MARITMID-CER: MID1216 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1216 3 -- not islands 
+ISLMID-CER: MID1216 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1216 3 -- not civil war 
+CIVWARMID-CER: MID1216 1 -- certain 
+CIVWARMID-NOTES: MID1216 this MID is connected to a civil war lying entirely outside of this dyad. See CIVWARLINK.
+
+CIVWARLINK: MID1216 1 -- civil war link
+CIVWARLINK-CER: MID1216 1 -- certain
+CIVWARLINK-NOTES: MID1216 from cm narrative, Cambodia allowed communist rebels to set up bases within Cambodia along the border with S Vietnam. US and South Vietnamese forces later crossed into Cambodia to pursue these rebels, who were fighting against the South and later assisted in the Cambodian Civil War. China and the US were supporting opposite sides in the war, pulling them into this MID against each other. 
+
+COUPMID: MID1216 3 -- not coup 
+COUPMID-CER: MID1216 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1216 3 -- not coup link
+COUPLINK-CER: MID1216 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID1806 
+
+TERRMID: MID1806 3 -- not territory
+TERRMID-CER: MID1806 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1806 1 -- third party linked to territorial MID
+TERRLINK-CER: MID1806 1 -- certain 
+TERRLINK-NOTES: MID1806 from cm narrative, US and South Vietnamese troops crossed into Cambodian territory to pursue communist rebels. This action and the resulting clashes were due to the Vietnam War, a territorial dispute between N Vietnam and S Vietnam. Coded third party link to territorial MID because China and US's opposing support in the Vietnam War brings each into this MID. 
+
+MARITMID: MID1806 3 -- not maritime 
+MARITMID-CER: MID1806 1 -- certain 
+MARITMID-NOTES:
+
+ISLMID: MID1806 3 -- not islands 
+ISLMID-CER: MID1806 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1806 3 -- not civil war 
+CIVWARMID-CER: MID1806 1 -- certain 
+CIVWARMID-NOTES: 
+
+CIVWARLINK: MID1806 1 -- civil war link
+CIVWARLINK-CER: MID1806 1 -- certain 
+CIVWARLINK-NOTES: MID1806 is connected to the Vietnam War, which has a civil war element. China supported the communists in the North and communist guerrillas fighting in South Vietnam, while the US was supporting South Vietnam. Coded civil war link because the Vietnam War is outside of this dyad. 
+
+COUPMID: MID1806 3 -- not coup 
+COUPMID-CER: MID1806 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1806 3 -- not coup link
+COUPLINK-CER: MID1806 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2936 
+
+TERRMID: MID2936 3 -- not territory 
+TERRMID-CER: MID2936 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2936 1 -- third party link to territorial MID
+TERRLINK-CER: MID2936 2 -- somewhat certain 
+TERRLINK-NOTES: MID2936 occurred September 19-October 4, 1969. From cm narrative, this was a raid involving the United States and China. Coded somewhat certain because there is not much specific information about this dispute, only that the raid occurred on this date, but a previous MID (MID2929) occurred when the US similarly conducted an air raid against China, and that was connected to China's support for North Vietnam during the Vietnam War. Jones (1980) notes that the US conducted air raids against China numerous times during the Vietnam War, and this appears to be consistent with that US policy. 
+
+MARITMID: MID2936 3 -- not maritime 
+MARITMID-CER: MID2936 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2936 3 -- not islands 
+ISLMID-CER: MID2936 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2936 3 -- not civil war 
+CIVWARMID-CER: MID2936 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2936 1 -- civil war link 
+CIVWARLINK-CER: MID2936 2 -- somewhat certain 
+CIVWARLINK-NOTES: MID2936 coded somewhat certain because the cause of this MID is not certain but appears to be connected to US policy of air raids against China during the Vietnam War, which has a civil war element.
+
+COUPMID: MID2936 3 -- not coup 
+COUPMID-CER: MID2936 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2936 3 -- not coup link
+COUPLINK-CER: MID2936 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2947 
+
+TERRMID: MID2947 3 -- not territory 
+TERRMID-CER: MID2947 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2947 3 -- not third party link to territory 
+TERRLINK-CER: MID2947 1 -- certain 
+TERRLINK-NOTES: MID2947 the South Vietnam invasion of Laos was not tied to territorial claims, but rather to an attempt by the South to destroy Laotian infrastructure as part of its war against the North. See CIVWARLINK.
+
+MARITMID: MID2947 3 -- not maritime 
+MARITMID-CER: MID2947 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID2947 3 -- not islands 
+ISLMID-CER: MID2947 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2947 3 -- not civil war 
+CIVWARMID-CER: MID2947 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2947 1 -- civil war link 
+CIVWARLINK-CER: MID2947 1 -- certain 
+CIVWARLINK-NOTES: MID2947 from cm narrative, this MID occurred 2/9/1971-3/9/1971. China protested that a US airplane violated its airspace, but neither side fired any shots. From US Army Center of Military History (Nguyen 1979: v), the US was supporting a South Vietnamese invasion of Laos in Operation Lam Son 719. South Vietnam invaded to destroy Laotian infrastructure that was designed to assist North Vietnamese communists conduct operations across the border against South Vietnam. The US supported but did not directly participate in the invasion. Coded civil war link because this is tied to the Vietnam War, and South and North Vietnam are outside of this dyad. 
+
+COUPMID: MID2947 3 -- not coup 
+COUPMID-CER: MID2947 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2947 3 -- not coup link
+COUPLINK-CER: MID2947 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID2948 
+
+TERRMID: MID2948 3 -- not territory 
+TERRMID-CER: MID2948 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID2948 3 -- not third party link to territory 
+TERRLINK-CER: MID2948 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID2948 3 -- not maritime 
+MARITMID-CER: MID2948 1 -- certain 
+MARITMID-NOTES: MID2948 from cm narrative, this MID occurred in August 1972, after the process of rapprochement began between China and US. China protested that a US aircraft attacked a lifeboat from a Chinese merchant vessel, killing several crew members. No escalation occurred. Coded not maritime because these countries were not disputing a maritime boundary and this was an isolated incident during a period of rapprochement. 
+
+ISLMID: MID2948 3 -- not islands 
+ISLMID-CER: MID2948 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID2948 3 -- not civil war 
+CIVWARMID-CER: MID2948 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID2948 3 -- not civil war link 
+CIVWARLINK-CER: MID2948 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID2948 3 -- not coup 
+COUPMID-CER: MID2948 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID2948 3 -- not coup link
+COUPLINK-CER: MID2948 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4065 
+
+TERRMID: MID4065 3 -- not territory 
+TERRMID-CER: MID4065 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4065 1 -- third party link to territorial MID
+TERRLINK-CER: MID4065 1 -- certain 
+TERRLINK-NOTES: MID4065 from cm narrative, this MID is connected to the North-South Korea territorial dispute. China supported North Korea and the US supported South Korea in the dispute. China conducted military exercises on the Korean peninsula and claimed that the exercises were a display for the US and South Korea. A short while later, China scrambled jets after the US tracked one of its subs with sonar. Coded third party link to territorial MID because the North-South Korea territorial dispute led to the US and China clashing here due to their opposing support. 
+
+MARITMID: MID4065 3 -- not maritime 
+MARITMID-CER: MID4065 1 -- certain 
+MARITMID-NOTES: MID4065 the Korean dispute involved disputation of maritime boundaries as well, since North and South Korea claimed the entirety of each other's territory. Coded not maritime because the US and China did not dispute the maritime boundary here, although they are linked to the maritime dispute through their opposing support. 
+
+ISLMID: MID4065 3 -- not islands 
+ISLMID-CER: MID4065 1 -- certain 
+ISLMID-NOTES: MID4065 the Korean dispute involved disputation of islands off the coast of the peninsula as well, since North and South Korea claimed the entirety of each other's territory. Coded not islands because the US and China did not dispute islands here, although they are linked to the islands dispute through their opposing support. 
+
+CIVWARMID: MID4065 3 -- not civil war 
+CIVWARMID-CER: MID4065 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4065 1 -- civil war link 
+CIVWARLINK-CER: MID4065 1 -- certain 
+CIVWARLINK-NOTES: MID4065 the North-South Korea dispute is both territorial and civil war in nature. Each side claims the entirety of the other's territory and views the opposing government as an illegitimate militarized group illegally controlling Korean territory. Similar to the Chinese civil war, the groups emerged on communist vs nationalist lines in Korea, and the peninsula was divided after WWII. Coded civil war link because this multilateral MID is driven by the Korean dispute which is civil war in nature and outside of this dyad. 
+
+COUPMID: MID4065 3 -- not coup 
+COUPMID-CER: MID4065 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4065 3 -- not coup link
+COUPLINK-CER: MID4065 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4064 
+
+TERRMID: MID4064 3 -- not territory 
+TERRMID-CER: MID4064 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4064 1 -- third party link to territorial MID
+TERRLINK-CER: MID4064 1 -- certain 
+TERRLINK-NOTES: MID4064 from cm narrative, this MID is connected to Chinese attempts to intimidate Taiwan from declaring independence and Taiwanese and US responses to Chinese aggression. China deployed missiles, intercepted Taiwanese vessels, conducted military exercises, and conducted naval and air shows of force. In response, Taiwan repeatedly placed its forces on alert, deployed missiles, and scrambled jets. Beginning in 12/95, the US deployed naval forces to the area as a show of force to China. American naval forces were sent to the region again in March 1996. Coded third party link to territory because the US and China involvement here comes from US support for Taiwan in the China-Taiwan territorial dispute. 
+
+MARITMID: MID4064 3 -- not maritime 
+MARITMID-CER: MID4064 1 -- certain 
+MARITMID-NOTES: MID4064 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID4064 3 -- not islands 
+ISLMID-CER: MID4064 1 -- certain 
+ISLMID-NOTES: MID4064 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID4064 1 -- civil war MID
+CIVWARMID-CER: MID4064 1 -- certain 
+CIVWARMID-NOTES: MID4064 from cm narrative, this is connected to the China-Taiwan dispute which has a civil war element, and China and US clash due to US support for Taiwan in the dispute. 
+
+CIVWARLINK: MID4064 1 -- civil war link 
+CIVWARLINK-CER: MID4064 1 -- certain 
+CIVWARLINK-NOTES: MID4064 coded civil war link because this MID is connected to the China-Taiwan dispute, which has a civil war element, and the civil war element is present in Taiwan also, outside of this dyad. 
+
+COUPMID: MID4064 3 -- not coup 
+COUPMID-CER: MID4064 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4064 3 -- not coup link
+COUPLINK-CER: MID4064 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4088 
+
+TERRMID: MID4088 3 -- not territory 
+TERRMID-CER: MID4088 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4088 1 -- third party link to territorial MID
+TERRLINK-CER: MID4088 1 -- certain 
+TERRLINK-NOTES: MID4088 from cm narrative, this MID is another connected to Chinese aggression to deter Taiwan from declaring independence, and the US and Taiwan's response to the aggression. China conducted a series of alerts, threats, and shows of force aimed at intimidating Taiwan. Taiwan responded to these actions by repeatedly placing its forces on alert and launching its own fighters when China conducted sorties near Taiwan. The US responded to the increased tensions by deploying two aircraft carrier groups to the region in July and August 1999. The threats and shows of force by both sides continued into 2000 (began in July 1999). Coded third party link to territorial MID because the US and China clash due to the US support for Taiwan in the China-Taiwan territorial dispute. 
+
+MARITMID: MID4088 3 -- not maritime 
+MARITMID-CER: MID4088 1 -- certain 
+MARITMID-NOTES: MID4088 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID4088 3 -- not islands 
+ISLMID-CER: MID4088 1 -- certain 
+ISLMID-NOTES: MID4088 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID4088 1 -- civil war MID
+CIVWARMID-CER: MID4088 1 -- certain 
+CIVWARMID-NOTES: from cm narrative, this is connected to the China-Taiwan dispute which has a civil war element, and China and US clash due to US support for Taiwan in the dispute. 
+
+CIVWARLINK: MID4088 1 -- civil war link 
+CIVWARLINK-CER: MID4088 1 -- certain 
+CIVWARLINK-NOTES: MID4088 coded civil war link because this MID is connected to the China-Taiwan dispute, which has a civil war element, and the civil war element is also present in Taiwan, outside of this dyad. 
+
+COUPMID: MID4088 3 -- not coup 
+COUPMID-CER: MID4088 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4088 3 -- not coup link
+COUPLINK-CER: MID4088 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4336 
+
+TERRMID: MID4336 3 -- not territory 
+TERRMID-CER: MID4336 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4336 3 -- not third party link to territory 
+TERRLINK-CER: MID4336 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID4336 3 -- not maritime 
+MARITMID-CER: MID4336 1 -- certain 
+MARITMID-NOTES: MID4336 occurred on March 23, 2001. From cm narrative, China chased a US naval vessel out of waters that it claims to be its own, but the maritime boundary is not recognized internationally. However, this is coded not maritime because while the two countries dispute the maritime boundary (the US does not recognize the Chinese position on the boundary), but this was about US attempting to conduct surveillance activities against China. The US was not attempting to challenge the Chinese maritime boundary, and this was an anti-surveillance dispute. 
+
+ISLMID: MID4336 3 -- not islands 
+ISLMID-CER: MID4336 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4336 3 -- not civil war 
+CIVWARMID-CER: MID4336 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4336 3 -- not civil war link 
+CIVWARLINK-CER: MID4336 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4336 3 -- not coup 
+COUPMID-CER: MID4336 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4336 3 -- not coup link
+COUPLINK-CER: MID4336 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4281 
+
+TERRMID: MID4281 3 -- not territory 
+TERRMID-CER: MID4281 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4281 3 -- not third party link to territory 
+TERRLINK-CER: MID4281 1 -- certain 
+TERRLINK-NOTES: MID4281 occurred from April through August of 2001. From cm narrative, this dispute consists of 6 incidents in which Chinese threats toward Taiwan escalated to involve shows of force by both sides. The US is pulled into this dispute by threatening force against China if Taiwan is attacked. Coded third party link to territorial MID because this MID between China and US is connected to the China-Taiwan territorial dispute. 
+
+MARITMID: MID4281 3 -- not maritime 
+MARITMID-CER: MID4281 1 -- certain 
+MARITMID-NOTES: MID4281 Taiwan and China disputed maritime boundaries as well. Both claimed each other's territorial waters as part of their dispute, and they had conflicting claims in the South China Sea. Coded not maritime because The US and China had no dispute here, although the US was linked to the maritime dispute in its support for Taiwan. 
+
+ISLMID: MID4281 3 -- not islands 
+ISLMID-CER: MID4281 1 -- certain 
+ISLMID-NOTES: MID4281 Taiwan and China disputed the ownership of several islands, some off the coast of each country and some in the South China Sea, as part of their dispute. Coded not islands because the US and China did not dispute islands, although the US was linked to the islands dispute through its support for Taiwan. 
+
+CIVWARMID: MID4281 1 -- civil war MID
+CIVWARMID-CER: MID4281 1 -- certain 
+CIVWARMID-NOTES: MID4281 from cm narrative, this is connected to the China-Taiwan dispute which has a civil war element, and China and US clash due to US support for Taiwan in the dispute.
+
+CIVWARLINK: MID4281 1 -- civil war link 
+CIVWARLINK-CER: MID4281 1 -- certain 
+CIVWARLINK-NOTES: MID4281 coded civil war link because this MID is connected to the China-Taiwan dispute, which has a civil war element, and the civil war element is also present in Taiwan, outside of this dyad. 
+
+COUPMID: MID4281 3 -- not coup 
+COUPMID-CER: MID4281 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4281 3 -- not coup link
+COUPLINK-CER: MID4281 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4280 
+
+TERRMID: MID4280 3 -- not territory 
+TERRMID-CER: MID4280 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4280 3 -- not third party link to territory 
+TERRLINK-CER: MID4280 1 -- certain 
+TERRLINK-NOTES: MID4280 occurred from April through July of 2001. This dispute involves 5 incidents between the US & China that center around American reconnaissance near the Chinese coast. Coded not third party link to territory because unlike many previous MIDs, this was not connected to the China-Taiwan dispute but was rather an issue of the US conducting surveillance against China and Chinese efforts to thwart the surveillance activity. 
+
+MARITMID: MID4280 3 -- not maritime 
+MARITMID-CER: MID4280 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID4280 3 -- not islands 
+ISLMID-CER: MID4280 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4280 3 -- not civil war 
+CIVWARMID-CER: MID4280 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4280 3 -- not civil war link 
+CIVWARLINK-CER: MID4280 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4280 3 -- not coup 
+COUPMID-CER: MID4280 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4280 3 -- not coup link
+COUPLINK-CER: MID4280 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4450 
+
+TERRMID: MID4450 3 -- not territory 
+TERRMID-CER: MID4450 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4450 3 -- not third party link to territory 
+TERRLINK-CER: MID4450 1 -- certain 
+TERRLINK-NOTES: MID4450 from cm narrative, Chinese patrol planes buzzed a US Navy oceanographic ship that had entered China's economic exclusion zone. Occurred 9/19/2002. Coded not third party link to territory because this was not connected to the Taiwan dispute; the ship was an oceanography ship, not a US military vessel.
+
+MARITMID: MID4450 3 -- not maritime 
+MARITMID-CER: MID4450 1 -- certain 
+MARITMID-NOTES: MID4450 this was an oceanography vessel (a research vessel) that was buzzed by China in the South China Sea. US oceanographic vessels routinely survey the South China Sea for oil, and oil is the motivation for the maritime claims in the South China Sea. Coded not maritime because the US does not have a maritime claim in the South China Sea. However, the US does not recognize China's maritime claims in the South China Sea, so this is linked to the various maritime boundary disputes in the area.
+
+ISLMID: MID4450 3 -- not islands 
+ISLMID-CER: MID4450 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4450 3 -- not civil war 
+CIVWARMID-CER: MID4450 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4450 3 -- not civil war link 
+CIVWARLINK-CER: MID4450 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4450 3 -- not coup 
+COUPMID-CER: MID4450 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4450 3 -- not coup link
+COUPLINK-CER: MID4450 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+MID4486 
+
+TERRMID: MID4486 3 -- not territory 
+TERRMID-CER: MID4486 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID4486 3 -- not third party link to territory 
+TERRLINK-CER: MID4486 1 -- certain 
+TERRLINK-NOTES: MID4486 not connected to Taiwan or Korea dispute. 
+
+MARITMID: MID4486 3 -- not maritime
+MARITMID-CER: MID4486 1 -- certain 
+MARITMID-NOTES: MID4486 from cm narrative, Chinese vessels harassed a US oceanographic vessel in the South China Sea. In response, US deployed destroyers to protect the vessels, and China deployed its own warships. Oceanographic vessels in the South China Sea routinely search for oil, and potential oil reserves motivate the disputed South China Sea maritime borders. Coded not maritime because the US does not have a maritime claim in the South China Sea. However, the US does not recognize China's maritime claims in the South China Sea, so this is linked to the various maritime boundary disputes in the area.
+
+ISLMID: MID4486 3 -- not islands 
+ISLMID-CER: MID4486 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID4486 3 -- not civil war 
+CIVWARMID-CER: MID4486 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID4486 3 -- not civil war link 
+CIVWARLINK-CER: MID4486 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID4486 3 -- not coup 
+COUPMID-CER: MID4486 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID4486 3 -- not coup link
+COUPLINK-CER: MID4486 1 -- certain 
+COUPLINK-NOTES: 
+
+
+
+
+MID4 2002-2010:
+
+
+MID4450
+rivalry=2710 nationa=CHINA nationb=USA MID4450 20020919-20020919 
+ revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+Chinese patrol planes buzzed a US Navy oceanographic ship that had entered China's economic exclusion zone. First day of dispute was on 9/19/2002 and last day of dispute was on 9/19/2002. First day of dispute was on 3/9/2009 and the last day of the dispute was on 3/19/2009.
+
+MID4486
+rivalry=2710 nationa=CHINA nationb=USA MID4486 20090309-20090319 
+ revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE 
+ revtype1b=POLICY revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=DISPLAY OF FORCE
+
+Chinese vessels harassed a US oceanographic survey ship, prompting the US to deploy a destroyer to escort and protect the survey ship. In response, China deployed several warships to both follow the US vessels and patrol the larger South China Sea.
+
+MID3 1993-2001:
+
+MID4065
+rivalry=2710 nationa=CHINA nationb=USA MID4065 19940823 -19941000 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute involves three incidents. The first two incidents involved Chinese military exercises that practiced landings on the Korean peninsula. The reports indicated that the exercises were "a show for the United States and South Korea." The exercises occurred on 8/23/94. The third incident occurred when China scrambled jets in response to the American tracking of a North Korean sub with sonar. In this respect, this dispute reflects Chinese efforts to demonstrate its resolve to aid North Korea in the event of conflict with the US and South Korea. First day of dispute was on 8/23/1994 and last day of dispute is listed on 10/00/1994.
+
+MID4064
+rivalry=2710 nationa=CHINA nationb=USA MID4064 19951219 -19960328 revtype1a=TERRITORY revtype2a=POLICY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute consists of a series of incidents in which China seeks to intimidate Taiwan away from moves toward independence and Taiwanese and American responses to these Chinese actions. China deployed missiles opposite Taiwan, intercepted Taiwanese vessels, conducted military exercises, and conducted air and naval shows of force. In response, Taiwan repeatedly placed its forces on alert, deployed missiles, and scrambled jets. Beginning in 12/95, the US deployed naval forces to the area as a show of force to China. American naval forces were sent to the region again in March 1996. First day of dispute was on 12/19/1995 and last day of dispute was on 3/28/1996.
+
+MID4088
+rivalry=2710 nationa=CHINA nationb=USA MID4088 19990700 -20000300 revtype1a=POLICY revtype2a=TERRITORY fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute consists of 19 militarized incidents involving China, Taiwan, and the US. The overriding issue throughout this dispute is Chinese concern that Taiwan is moving toward independence from the mainland. As a result, China conducted a series of alerts, threats, and shows of force aimed at intimidating Taiwan. The Chinese shows of force included military exercises, missile tests, the deployment of missiles near Taiwan, and increased fighter sorties by Chinese jets near Taiwan. Taiwan responded to these actions by repeatedly placing its forces on alert and launching its own fighters when China conducted sorties near Taiwan. The tensions increased in late July 1999 when Chinese jets crossed the dividing line separating Taiwan and China on 2 separate occasions. The US responded to the increased tensions by deploying two aircraft carrier groups to the region in July and August 1999. The threats and shows of force by both sides continued into 2000. In February 2000 China passed a guided missile destroyer purchased from Russia through the Taiwan Strait in an effort to intimidate Taiwan. The United States responded by deploying the USS Kitty Hawk air craft carrier group to the region in late February. First day of dispute was listed as 7/00/1999 and last day of dispute was listed as 3/00/2000.
+
+MID4336
+rivalry=2710 nationa=CHINA nationb=USA MID4336 20010323 -20010323 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+NO MILITARIZED ACTION 
+
+This dispute consists of one incident in which a Chinese warship chased a U.S. Navy ship from international waters near the Chinese coast. China regards the waters as its own territory, but the claimed maritime boundary is not recognized internationally. This dispute represents another case in which Chinese forces challenged American surveillance activities along its coast. First and last day of the dispute was on 3/23/2001.
+
+MID4281
+rivalry=2710 nationa=CHINA nationb=USA MID4281 20010425 -20010800 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=NONE fatalpa=0 lhosta=DISPLAY OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute consists of 6 incidents in which Chinese threats toward Taiwan escalated to involve shows of force by both sides. The issue under dispute involves Chinese concern over Taiwanese moves toward independence. Because Chinese actions are aimed at changing Taiwanese behavior, China is coded as the revisionist state. The dispute began on 3/27/01 when China threatened to declare war if Taiwan declared independence. On 8/1/01 China again threatened to use force if Taiwan declared independence. These threats were followed by a Taiwanese show of force in which Taiwan conducted aerial flight maneuvers with 10 AH-1W Helicopters on 8/21/012. On 8/22/01 china conducted the largest exercises ever around Dongshan Island. According to reports, the exercises involved 100,000 personnel and simulated how the PLA would "smash" separatist actions by Taiwan. The US responded to the Chinese moves by threatening force if Taiwan was attacked. The US also conducted naval exercises in the South China Sea as a show of force. The naval exercise only lasted one day (8/17/01) and involved two U.S. aircraft carriers. China is coded as the revisionist state because its actions are aimed at altering Taiwanese policy toward independence. First day of dispute was on 4/25/2001 and last day of dispute is listed on 8/00/2001.
+
+MID4280
+rivalry=2710 nationa=CHINA nationb=USA MID4280 20010401 -20010703 revtype1a=POLICY revtype2a=NOT APPLICABLE fatala=1-25 DEATHS fatalpa=1 lhosta=USE OF FORCE revtype1b=NOT APPLICABLE revtype2b=NOT APPLICABLE fatalb=NONE fatalpb=0 lhostb=
+DISPLAY OF FORCE 
+
+This dispute involves 5 incidents between the US & China that center around American reconnaissance near the Chinese coast. On 4/1/2001 an American spy plane crash-landed on China's Hainan Island after colliding with a Chinese fighter over international waters. The Chinese pilot was killed in the accidental collision. China, after the crash, seized both the American crew and plane. The United States responded to the crash and seizure by demanding release of the crew and return of the plane. The US also responded by moving 3 destroyers to the waters off China. China scrambled 10 fighters on 4/5/01 when it detected a US spy plane off the China coast. The dispute was resolved on 7/3/01 after the US expressed regret and the plane was returned to the US. The crew was released on 4/11/01. First day of dispute was on 4/1/2001 and last day of dispute was on 7/3/2001.
+
+
+RIVNOTES: 
+
+RIV10101: MID1806 removed in because does not appear in the COW dyadic 3.1 data or the Maoz 2.0 dyadic data. 
+
+We combine RIV101 and RIV102 into RIV10101-although there is a 20+ year gap in disputes, the renewed disputes in the 1990s concern Korea and Taiwan, exactly the source of the earlier rivalry.
+
+NARRATIVE-CM:
+United States troops intervened to protect its legation in Peking during the Boxer rebellion beginning on May 31, 1900, including some 1,500 US troops that entered Peking to relieve the foreign legations on August 15, 1900. China and the US signed a peace agreement on September 12, 1901. On June 27, 1950, President Harry Truman of the US announced that the US would protect Taiwan from Chinese aggression. China shelled Nationalist Chinese military targets on Quemoy island beginning on July 24, 1950. The US established a military assistance group in Taiwan on January 30, 1951. US military aircraft shot down two Chinese military aircraft over the South China Sea on July 26, 1954. Chinese troops began an artillery bombardment of Quemoy island on September 3, 1954, and the US deployed the seventh fleet near the Formosa Straits. *Thirteen US airmen were convicted and sentenced to prison on November 23, 1954 for their involvement in subversion against China. The *United Nations *(UN) General Assembly condemned China on December 10, 1954 for the imprisonment of the thirteen US airmen. The US and Taiwan signed a bilateral defense agreement *on December 2, 1954, which resulted in increased US military assistance to Taiwan. China launched an air attack against the Tachen islands on January 10, 1955. Chinese troops attacked and seized Yikiang Island on January 19, 1955. After the US Congress authorized the president to use US forces to protect Taiwan and its islands on January 28, 1955, President Eisenhower ordered the deployment of three aircraft carriers and F-86 aircraft to assist in the defense of Taiwan. China ceased its bombardment on February 2, 1955, and the US seventh fleet helped to evacuate some 25,000 military and 17,000 civilian personnel from the Tachen Islands from February 6-11, 1955. A ceasefire went into effect on June 7, 1955. The US government announced on May 7, 1957 the planned installation of Matador tactical nuclear missiles on Taiwan. The Chinese government threatened to invade Quemoy and Matsu islands in August 1958, and Chinese artillery began a bombardment of Taiwanese forces on Quemoy island on August 23, 1958. The US deployed naval forces in the Formosa Straits in order to protect Taiwan's resupply of the islands. Secretary-of-State John Foster Dulles of the US threatened to use military force to defend Taiwan against China on September 4, 1958. China announced a ceasefire on October 6, 1958, but renewed the bombardment on October 20, 1958 for 48 hours. The US government warned China on January 22, 1962 against using military force against Taiwan. Several Chinese aircraft were shot down over Quemoy island on March 24, 1962, and China began a bombardment of Matsu island on May 14, 1962. On June 27, 1962, the US government warned China against attacking Matsu and Quemoy islands. Chinese military aircraft shot down a US military aircraft near Hainan Island on September 20, 1965. President Richard Nixon of the US held negotiations with Prime Minister Chou Enlai in Beijing on February 21-28, 1972.
+
+SOURCES-CM: 
+Clodfelter, 1992, 643-644; Donelan and Grieve, 1973, 151-154; *Facts on File*, September 16-22, 1965; *Keesing*, March 18-25, 1972; Langer, 1972, 1340.
+
+NARRATIVE-CR:
+
+19170417-19490930 0.5
+
+The competition between the US and China/PRC has two stages: pre and post WWII. In the pre-WWII phase the US sought to protect its interest in Asia/China and to assert its position in Asia as a Great Power. In the years following World War II, the rivalry took on the tone of two great power states competing for influence in Asia. Specific issues at stake in the second phase of the rivalry were Korea, Vietnam and Taiwan. 
+
+In the 19th and early 20th century, the US intervened several times in China to protect its interests or its citizens living in China. In the 19th century, the disputes that took place between the US and China had to do with US desire to protect its commercial interests in the region. In the 1890s, the United States had become an East Asian power through the acquisition of the Philippine Islands, and when the partition of China by the European powers and Japan seemed imminent, the U.S. government sought to preserve equal industrial and commercial privileges.
+
+MID220 Tientsin Massacre took place from August through October of 1870. Many Chinese scholars and followers of China's many religions resented the white Christian missionaries who had flocked to China in the mid-19th century, and to stir up the common people they frequently circulated rumors that the foreigners were sorcerers. The French Sisters of Charity at their orphanage in the city of Tientsin (Tianjin) used to give small cash rewards to people who brought in homeless or unwanted children, which gave rise to the rumor that children were being abused, kidnapped, and used for witchcraft. On June 21, 1870, and angry Chinese crowd led by a local magistrate stood outside the orphanage; the French consul ordered his guards to fire on the mob to disperse it. Enraged by this, the Chinese stormed and sacked the orphanage, killing in the process 18 foreigners, including the consul and 10 nuns. A storm of protest issued from both Paris and Rome, and Western naval ships including American, sailed to Tientsin. France demanded severe punishment for those responsible; 16 Chinese were executed, and China officially apologized to France.
+
+MID31 and MID1650 are associated with the US intervention in China during the Boxer Rebellion. Conservative opponents of reform in China gave clandestine backing to the anti-foreign and anti-Christian movement of secret societies known as Yihetuan (Society of Righteousness and Harmony). The movement has been better known in the West as the Boxers (from an earlier name-Yihequan, Righteousness and Harmony Boxers). In 1900, Boxer bands spread over the north China countryside, burning missionary facilities and killing Chinese Christians. Finally, in June 1900, the Boxers besieged the foreign concessions in Beijing and Tianjin, an action that provoked an allied relief expedition by the offended nations which included the United States. The Qing declared war against the invaders, who easily crushed their opposition and occupied north China. Under the Protocol of 1901, the court was made to consent to the execution of ten high officials and the punishment of hundreds of others, expansion of the Legation Quarter, payment of war reparations, stationing of foreign troops in China, and razing of some Chinese fortifications. 
+
+In the decade that followed, the court belatedly put into effect some reform measures. These included the abolition of the moribund Confucian-based examination, educational and military modernization patterned after the model of Japan, and an experiment, if half-hearted, in constitutional and parliamentary government. The suddenness and ambitiousness of the reform effort actually hindered its success. One effect, to be felt for decades to come, was the establishment of new armies, which, in turn, gave rise to warlordism.
+
+United States troops intervened to protect its delegation in Peking during the Boxer rebellion beginning on May 31, 1900, including some 1,500 US troops that entered Peking to relieve the foreign legations on August 15, 1900. China and the US signed a peace agreement on September 12, 1901. 
+
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral MID involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+MID145 occurred in February and March of 1927. Fighting at Shanghai caused American naval forces and marines to be increased. In March, a naval guard was stationed at American consulate at Nanking after Nationalist forces captured the city. American and British destroyers later used shell fire to protect Americans and other foreigners. Subsequently additional forces of marines and naval forces were stationed in the vicinity of Shanghai and Tientsin. 
+
+19491001-19720227 RIV10101-0.00
+
+During World War II, the US provided heavy support for the Chinese in their war against Japan. For 30 years after its founding, the United States did not formally recognize the People's Republic of China. Instead, it maintained diplomatic relations with the Republic of China (on Taiwan), and recognized the ROC as the sole legitimate government of all China. During this period, from 1949 until 1979, the United States and the PRC engaged in the most significant portion of their rivalry. The issues they fought over ranged from direct conflict in the Korean War to Chinese support for the North Vietnamese in the Vietnam War. The two were Cold War rivals until President Nixon exploited the Sino-Soviet rift and cultivated improved relations with the Chinese in the late 1960s. 
+
+MID633 occurred from June 27-August 7, 1950. Here the US Seventh fleet was sent to the Taiwan Strait at beginning of the Korean War. The ships remained until 1955. 
+
+MID634 occurred from October 1, 1949-January 24, 1950. Here US Marines were sent to Shanghai to aid in the evacuation of Americans in November and December 1949. 
+
+MID51 is the Korean War. Around a million Chinese were killed in the Korean War fighting in support of the North Koreans. 
+
+MID2052 Coded as a show of ships involving the United States, Taiwan and China, February 16, 1951-October 16, 1952. This incident is probably a duplicate. Jones (1980, 90) notes that although Truman ordered the 7th Fleet to patrol the Taiwan Strait in June 1950 (MID 633), American ships did not actually arrive there until the following year.
+
+MID50 is a multilateral dispute involving China and the USSR v. the US, South Korea and Taiwan. The Chinese charged U.S. planes had violate Manchurian air space. The dispute was a part of the larger China-Taiwan conflict. 
+
+MID2035 occurred during August of 1953. There was a series of disputes concerning the repatriation of prisoners from the Korean War between August 6 and September 6, 1953. 
+
+MID2033 occurred in July of 1954. In July of 1954, the Chinese shot down a British airliner. Following the downing of the airliner, a U.S. carrier group confronted the Chinese while looking for survivors 
+
+MID2032 occurred on May 11, 1955. There was a battle between U.S. and Chinese aircraft over the ocean near North Korea on this date 
+
+MID53 occurred August 22-23, 1956. Chinese aircraft shot down a U.S. patrol aircraft off the Chinese coast. U.S. ships entered the area to search for survivors. The Chinese stated that the aircraft was mistaken for a Nationalist plane.
+
+MID2049 occurred June 12-13, 1957. This dispute was part of the larger China-Taiwan conflict. Four carriers were sent following the shelling of Kinmen island in July 1957. 
+
+MID173 was part of the China-Taiwan conflict and occurred from July through December of 1958. This incident involved the shelling of Quemoy-Matsu by the PRC. The United States intervened and escorted ROC ships in the area. 
+
+MID2002 occurred on May 27, 1960. On this date, the Chinese complained that there had been at least three U-2 over flights violating their territory. These charges were made during the UN debate over the Soviet downing of an American U-2. 
+
+MID1363 occurred from December 29, 1960 until April 20, 1961. In 1961, there was an internationalized civil war within Laos. North Vietnam, the USSR, and the Peoples Republic of China supported the Communist forces in northern Laos. The Royal Laotian Government (RLG) was supported by the USA and Thailand. There was considerable direct support from both the USA and the USSR. The USSR was airlifting supplies to the Pathet Lao while the USA was flying reconnaissance missions in support of the RLG. Neither the USA nor the USSR wanted the conflict to break out into a direct conflict between them. There was a push to resolve the conflict with a conference in Geneva. While preliminary discussion about having the conference in Geneva were ongoing, the Kennedy administration discussed intervention by SEATO. China warned Washington and Laos that should SEATO intervene it would intervene with direct military force. This threat constitutes MID1363.
+
+MID3361 occurs from December of 1961 until March of 1962. Here the United States built up its military force in South Vietnam in support of that nation. The PRC and the USSR threatened that the build up was precipitating war. The PRC and the USSR were supporting Hanoi at the time. The PRC noted that US military escalation in S. Vietnam threatened the security of North Vietnam, its ally in the region. 
+
+MID1353 takes place during the second Laotian Civil War that occurs from 1963 until 1973. China is involved in direct support of the Pathet Lao from May of 1962 until July of 1964. China provided direct aid to the communist forces in Laos and conducted direct military operations in Northern Laos. Much of the activity China was involved in centered on completing a road network in Northern Laos that would connect North Vietnam, Laos and Thailand. The road network would provide access to supplies and troops for the communist groups in all three countries. Chinese forces were also involved in direct military confrontation with the Royal Laotian Government. Both the United States and the Soviet Union were involved in this dispute in support of their Cold War allies. Five thousand US Marines were landed from May 17 through July 30, 1962.
+
+MID172 occurred February 25-December 19, 1962. This dispute is part of the China-Taiwan conflict. This dispute is a border violation involving Taiwan and China. 
+
+MID611 is the Vietnam War. The USSR and People's Republic of China provided intermittent military aid and diplomatic and moral support to the North Vietnamese and to the NLF, but they were not military combatants. 
+
+MID251 occurred April 9, 1965. This was a clash between US and Chinese aircraft over or near Hainan Island on this date. 
+
+MID2929 is a raid initiated by the United States against China, October 5, 1965-November 23, 1967. Jones (1980, 156-73) notes many incidents in which American aircraft strayed over southern China during the air war against North Vietnam. 
+
+MID1216 Coded as a raid involving the United States, China, South Vietnam, Cambodia, and Thailand, December 26, 1965-August 2, 1966. Jones (1980, 163) notes a border clash in Cambodia on May 3, 1966. There was another incident on August 13 (FF 1966, 298). These incidents did not produce a change in the disposition of American military forces, which were engaged in the Vietnam War, of which these incidents were part.
+
+MID1216 occurs from December of 1965 until August of 1965. This MID is a multilateral MID involving China and Cambodia on one side with Thailand, South Vietnam and the US on the other. Here the hostility centers on Cambodia. After cultivating close relations with the US in 1963, Cambodian Prince Sihanouk cancelled all military and economic aid from the US and broke of diplomatic relations with the US in 1965. He felt the Vietnamese Communists in South Vietnam were eventually going to win the struggle for power and entered into a compromise agreement with them. He allowed the communist rebels in South Vietnam, the NLF, and the North Vietnamese Army to set up bases along the Cambodian border with South Vietnam. He also permitted the receipt of shipments from China and the USSR at Cambodia's main port. Prince Sihanouk got in return the pledge that the Vietnamese would respect Cambodian independence. Additionally he received a pledge that the Vietnamese would not support the Khmer Rouge insurgency that was opposing the Prince. The US along with its allies Thailand and South Vietnam made several incursions into Cambodia in pursuit of Communist forces. In this MID Cambodia made threats to make reprisal attacks and implicitly called on China for assistance in threats to the US. 
+
+MID1806 occurs from January of 1968 until April of 1968. This is another multilateral MID with the USA and South Vietnam on one side and the PRC and Cambodia on the other. This MID is similar to MID1216. The US and South Vietnam pursue communist forces into Cambodia. Cambodian border guards clashed with the US and South Vietnam. China threatened to intervene on behalf of Cambodia. 
+
+MID2936 occurred September 19-October 4, 1969. This was a raid involving the United States and China. There is no mention of this incident in the sources listed below. The Chinese did seize a U.S. yacht that violated their territorial waters on February 16. 
+
+MID2947 occurred from February 9-March 9, 1971. On February 9, China charged that a U.S. aircraft had violated its airspace, but neither side fired any shots. The dates correspond closely to the U.S.-supported South Vietnamese invasion of Laos, which is part of MID 1353. Although the Chinese protested, they did so mildly and accepted U.S. reassurances that the American withdrawal from Vietnam would continue. 
+
+
+19720228-20159999 0.25
+
+Rapprochement:
+Both the Chinese and the Americans had issued feelers to try to improve relations between the two major powers by the late 1960s. This became an especially important concern for the Chinese after their rift with the Soviet Union. This left them surrounded by enemies in the USSR, Vietnam and India. The Chinese were isolated and the leadership came to believe that improved relations with the United States would be essential to guarantee the PRC's security. 
+
+The Americans hoped that improved relations with China could help them in the Southeast Asia to deal with Vietnam, Cambodia, and Laos and that if China would align with the US it would mean a major redistribution of global power against the Soviets. There was also long a belief that China's market of over a billion consumers could be a boon to American business. 
+
+Nixon had long been interested in Asia and his National Security Advisor Henry Kissinger believed an approach to China would be valuable. Domestic political concerns entered heavily into Nixon's thinking. He thought that the boost from a successful courting of China would help him greatly in the 1972 American presidential election. He also worried immensely that one of the Democrats would preempt him and go to China before him. 
+
+Communications took place between the Chinese and American leadership through various intermediaries including Pakistan, Romania, and American journalist Edgar Snow. 
+
+In 1969, the United States initiated measures to relax trade restrictions and other impediments to bilateral contact. In April of 1971, while negotiations over improving relations were proceeding, a young American ping-pong player approached the Chinese delegation at a tournament in Nagoya, Japan and talked with them in a friendly fashion. While this was a purely spontaneous gesture of friendship from the American athlete, the Chinese took it as an officially sanctioned outreach. The Chinese responded by inviting the American ping-pong team to tour China. The Americans agreed and in March of 1971, the athletes became the first Americans officially to visit China since the communist takeover in 1949. 
+
+In July of 1971 Henry Kissinger, while on a trip to Pakistan, was announced to the media to be ill and did not appear in public for a day. In fact, he was on a top-secret mission to Beijing to open relations with the government of the PRC. On July 15, 1971, President Richard Nixon revealed the mission to the world and that he would initiate direct contact with the communist Chinese leadership and that he, the President, had been invited to visit mainland China. 
+
+Nixon’s visit to China finishing on 28 February 1972 was a sea change in US-China relations and represents a shift from severe to lesser rivalry between the two.
+
+MID2948 occurred on August 22, 1972. In this incident, the PRC claimed that an American aircraft attacked a lifeboat of a Chinese merchant ship that resulted in the death of the ship's captain, and four other crewmembers. China lodged a strong protest with the US over the incident. 
+
+
+Despite the rapprochement, the two countries engaged in a number of disputes in the early 1990s and beyond. Two issues motivate the recent disputes: US support for the independence of Taiwan in opposition to Chinese interest in reclaiming control over what it perceives is a rebel province; and US interest in gathering intelligence information through naval and air patrols close to the Chinese mainland. 
+
+MID4065 occurred in the summer of 1994. This dispute involves three incidents. The first two incidents involved Chinese military exercises that practiced landings on the Korean peninsula. The reports indicated that the exercises were "a show for the United States and South Korea." The exercises occurred on 8/23/94. The third incident occurred when China scrambled jets in response to the American tracking of a North Korean sub with sonar. In this respect, this dispute reflects Chinese efforts to demonstrate its resolve to aid North Korea in the event of conflict with the US and South Korea. 
+
+MID4064 occurred from December of 1995 through March of 1996. This dispute consists of a series of incidents in which China seeks to intimidate Taiwan away from moves toward independence and Taiwanese and American responses to these Chinese actions. China deployed missiles opposite Taiwan, intercepted Taiwanese vessels, conducted military exercises, and conducted air and naval shows of force. In response, Taiwan repeatedly placed its forces on alert, deployed missiles, and scrambled jets. Beginning in 12/95, the US deployed naval forces to the area as a show of force to China. American naval forces were sent to the region again in March 1996.
+
+MID4088 occurred from July of 1999 until March of 2000. This dispute consists of 19 militarized incidents involving China, Taiwan, and the US. The overriding issue throughout this dispute is Chinese concern that Taiwan is moving toward independence from the mainland. As a result, China conducted a series of alerts, threats, and shows of force aimed at intimidating Taiwan. The Chinese shows of force included military exercises, missile tests, the deployment of missiles near Taiwan, and increased fighter sorties by Chinese jets near Taiwan. Taiwan responded to these actions by repeatedly placing its forces on alert and launching its own fighters when China conducted sorties near Taiwan. The tensions increased in late July 1999 when Chinese jets crossed the dividing line separating Taiwan and China on 2 separate occasions. The US responded to the increased tensions by deploying two aircraft carrier groups to the region in July and August 1999. The threats and shows of force by both sides continued into 2000. In February 2000, China passed a guided missile destroyer purchased from Russia through the Taiwan Strait in an effort to intimidate Taiwan. The United States responded by deploying the USS Kitty Hawk air craft carrier group to the region in late February. 
+
+MID4336 occurred on March 23, 2001. This dispute consists of one incident in which a Chinese warship chased a U.S. Navy ship from international waters near the Chinese coast. China regards the waters as its own territory, but the claimed maritime boundary is not recognized internationally. This dispute represents another case in which Chinese forces challenged American surveillance activities along its coast. 
+
+MID4281 occurred from April through August of 2001. This dispute consists of 6 incidents in which Chinese threats toward Taiwan escalated to involve shows of force by both sides. The issue under dispute involves Chinese concern over Taiwanese moves toward independence. Because Chinese actions are aimed at changing Taiwanese behavior, China is coded as the revisionist state. The dispute began on 3/27/01 when China threatened to declare war if Taiwan declared independence. On 8/1/01, China again threatened to use force if Taiwan declared independence. These threats were followed by a Taiwanese show of force in which Taiwan conducted aerial flight maneuvers with 10 AH-1W Helicopters on 8/21/012. On 8/22/01 china conducted the largest exercises ever around Dongshan Island. According to reports, the exercises involved 100,000 personnel and simulated how the PLA would "smash" separatist actions by Taiwan. The US responded to the Chinese moves by threatening force if Taiwan was attacked. The US also conducted naval exercises in the South China Sea as a show of force. The naval exercise only lasted one day (8/17/01) and involved two U.S. aircraft carriers. China is coded as the revisionist state because its actions are aimed at altering Taiwanese policy toward independence.
+
+MID4280 occurred from April through July of 2001. This dispute involves 5 incidents between the US & China that center around American reconnaissance near the Chinese coast. On 4/1/2001, an American spy plane crash-landed on China's Hainan Island after colliding with a Chinese fighter over international waters. The Chinese pilot was killed in the accidental collision. China, after the crash, seized both the American crew and plane. The United States responded to the crash and seizure by demanding release of the crew and return of the plane. The US also responded by moving 3 destroyers to the waters off China. China scrambled 10 fighters on 4/5/01 when it detected a US spy plane off the China coast. The dispute was resolved on 7/3/01 after the US expressed regret and the plane was returned to the US. The crew was released on 4/11/01. 
+
+Sino-American relations changed significantly following the September 11, 2001 attacks. The PRC offered strong public support for the war on terrorism. The PRC voted in favor of UNSCR 1373, publicly supported the coalition campaign in Afghanistan, and contributed $150 million of bilateral assistance to Afghan reconstruction following the defeat of the Taliban. Shortly after 9-11, the U.S. and PRC also commenced a counterterrorism dialogue. The third round of that dialogue was held in Beijing in February 2003.
+
+In the United States, the terrorist attacks greatly changed the nature of discourse. It was no longer plausible to argue that the PRC was the primary security threat to the United States, and the need to focus on the Middle East and the War on Terror made it a priority for the United States to avoid distractions in East Asia.
+
+In mainland China, there were initial fears that the United States would use the War on Terror as an excuse to advance an anti-Chinese agenda, especially as the United States began establishing bases in Central Asia and acting unilaterally against Iraq. These fears had largely subsided by mid-2003 as the continuing American involvement in Iraq and Afghanistan revealed the limits of American ability to act unilaterally. Among the Chinese public, there was some initial celebration at fact that 9-11 had shown that the United States was not invulnerable, but this quickly dissipated as the magnitude of the attack became known. Many Chinese citizens died in the WTC rubble, and Chinese companies and individuals sent expressions of condolences to their U.S. counterparts. The application of American power in Iraq and continuing efforts by the United States to cooperate with China has significantly reduced the popular anti-Americanism that had been fostered in the mid-1990s.
+
+The PRC and the U.S. have also been working closely on regional issues like North Korea. The People's Republic of China has stressed its opposition to the DPRK's decision to withdraw from the Nuclear Non-Proliferation Treaty, its concerns over North Korea's nuclear capabilities, and its desire for a non-nuclear Korean peninsula. It also voted to refer the DPRK's noncompliance with its IAEA obligations to the UN Security Council in New York.
+
+Taiwan remains a volatile issue, but one that as of 2003 appeared to be under control. The United States policy toward Taiwan has involved emphasizing the `Four Noes and One Without' policy, and in several cases the United States appeared to step in when it appeared that the Republic of China government on Taiwan was moving away from that policy.
+
+SOURCES-CR:
+Clodfelter, 1992, 643-644; Congressional Quarterly 1980, 104; 129-31, 110; 
+Donelan and Grieve, 1973, 151-154; Ellsworth 1974, 43; Emerson 1974, 105-6;
+*Facts on File*, September 16-22, 1965; Facts on File 1949, 369; 1953, 294; 1954, 249-50; 1956, 10, 26; 1957, 195; 1958, 298; 1962, 213, 300, 488; 1966, 298; Grimmett 1999; Jones 1980, 106-7, 152, 156-73, 195-6; *Keesing*, March 18-25, 1972; Langer, 1972, 1340; 1961, 17975; New York Times 3/15-20/1926; 8/25/1972, 2/10/71; Onwar.com; http://en.Wikipedi.org
+
+SB-CR:
+People's Republic of China / United States Years: 1949-1972. Issues at stake: Chinese threats to US allies (Taiwan, Korea, S. Vietnam). End coding: 1972 Communique following Nixon's visit to China. 1972 also marked the last militarized dispute between the two countries, regarding a minor border intrusion in Vietnam. Number of reciprocated 30 day militarized disputes: 13. Last militarized dispute: 1972 (Vietnam border incident). Wars: 1950-1953. Summary: The US-Chinese conflict centered around three areas: Taiwan, Korea, and Vietnam. The rivalry between the US and the People's Republic of China began when the Communists defeated Nationalist Chinese forces on the Chinese mainland in 1949, the US declared it would not recognize the Communist government, and the US immediately displayed force in support of the Nationalist Government on Taiwan. During the Korean war the US started implementing its "neutralization policy" by putting ships between Taiwan and mainland, actually preventing either side from attempting to invade the other, but bringing it into frequent conflict with the Communist Chinese. After the Korean War, the only time that the US and Chinese directly fought each other, the US formalized its relationship with Taiwan through a mutual defense treaty (1954). However, talks were held with the PRC throughout the mid 1950s (until 1957). The 1958 shelling of Quemoy led to another rise in hostility, as did growing US involvement in Vietnam in the mid 1960s. The US first probed the plausibility of formalizing a 2 China solution to the problem of Taiwan in 1963. Partially as a result of US involvement in Vietnam, no major change in the relationship took place until Nixon was elected US President in 1969. In his inauguration speech Nixon announced he would press for fundamental changes in US foreign policy toward PRC, and by April 1969 the US announced a new policy toward China, accepting the existence of Communist China on the mainland and of Nationalist China on Taiwan. Later in 1969 the US eased travel and trade restrictions to China, announced that the it would reduce its military presence in Asia, and would end its policy of keeping the 7th fleet in the Taiwan straits. The famous visit of the US table tennis team to China took place in April 1971, and in July Kissinger secretly visited the PRC and announced Nixon's 1972 trip. Nixon's trip to China in February 1972 resulted in a joint Communique in which the PRC and US stated that they would not interfere in each other's affairs or the affairs of others in S.E. Asia, agreed that any reunification of the PRC and Taiwan should be peaceful, and recognized each other's positions regarding Vietnam and Korea. I use this communique as a marker for the end of the rivalry; it coincides with the last militarized dispute between the two states, a border incident in Vietnam. Further agreements followed, with news contact resumed and travel restrictions lifted later in 1972, and direct mail service established in 1973. In October 1974 the US repealed the 1955 Formosa Resolution that had given the President the power to intervene in the Taiwan Straits. Official diplomatic recognition of the PRC occurred in 1978. Notes: According to the rivalry dates, the rivalry lasts 23 years. This violates the letter of the coding rule. Initially the rivalry was included in the Wayman and Jones data set because there is a minor 1974 dispute between the two sides that makes the dyad satisfy the 25 year criterion. I, however, do not believe that the 1974 dispute is significant, as it is a US statement that China and Vietnam should not use force to resolve their dispute over a set of islands (in the dispute data set, this is coded as a threat by the US against both China and Vietnam). Using the 1974 dispute would, I believe, misstate the rapprochement between the US and the People's Republic of China. I am left with the choice of violating the 25 year coding rule, keeping the case, employing the 25 year coding rule and dropping it, or changing the general coding rule to a 23 year period. It seems clear that the US-PRC dyad was a rivalry given the conceptual definition of the term, and should not be dropped because it would violate the historical sense of my cases. Changing the coding rule to 23 years instead of 25 would not add any other dyads to the list of rivalries. However, it seems ad hoc to change the rule to 23 years to add this one case. Therefore I leave the rule stated as it is, including the case in violation of the coding rules, and planning to return at a later time to investigate other cases based on a definition that does not depend as heavily on an arbitrary time period. Sources: Garver (1982), Goldstein and Freeman (1990), Huth, Bennett, and Gelpi (1992).
+
+PS-NARRATIVE:
+
+19270329-19490930 0.5
+
+The last MID of RIV100, MID145, occurred in February and March of 1927. Fighting at Shanghai caused American naval forces and marines to be increased. In March, a naval guard was stationed at American consulate at Nanking after Nationalist forces captured the city. American and British destroyers later used shell fire to protect Americans and other foreigners. Subsequently additional forces of marines and naval forces were stationed in the vicinity of Shanghai and Tientsin. MID145 ended on March 28, 1927.
+
+The outbreak of the Second Sino-Japanese War in 1937 saw aid flow into the Republic of China (ROC, which was led by Chiang Kai-shek) from the United States (under President Franklin D. Roosevelt). A series of Neutrality Acts had been passed in the U.S. with the support of isolationists that forbade American aid to countries at war. However, since the Second Sino-Japanese War was undeclared, Roosevelt denied that a state of war existed in China and proceeded to send aid to Chiang.
+
+American public sympathy for the Chinese was aroused by reports from Protestant missionaries, novelists such as Pearl Buck, and Time Magazine of Japanese brutality in China, including those surrounding the "Nanking Massacre." China formally declared war on Japan in 1941 following the Japanese Attack on Pearl Harbor, which brought the Americans into World War II. Massive amounts of aid were given by the Roosevelt administration to Chiang's beleaguered government, now headquartered in Chongqing, under the Stabilization Fund Agreement, signed on November 9th, 1941. However, a perception grew that Chiang's government was unable or incapable to effectively resist the Japanese, or that he preferred to focus more on defeating the Chinese Communist Party under Mao Zedong; the two factions had been in conflict for years, and the same has been argued of the CCP. Between November 22nd-26th, 1943, at the Cairo Conference of Roosevelt, Churchill, and Chiang Kai-shek on joint war plans, post-war conditions such as the restoration of lost Chinese territories, including Taiwan and Penghu, were established.
+
+After World War II ended in 1945, the obvious hostility between the ROC and the CCP exploded into open civil war. General Douglas MacArthur directed the military forces under Chiang Kai-shek to go to the island of Taiwan to accept the surrender of Japanese troops, thus beginning the military occupation of Taiwan. On December 15, 1945, the statement of U.S. policy in China was issued by President Truman. He expressed his desire to see China peacefully unified as a democratic state.
+
+American general George C. Marshall tried to broker a truce between the ROC and the CCP in 1946, but it quickly came undone, and the Nationalist cause went steadily downhill until 1949, when the Communists emerged victorious and drove the Nationalists from the Chinese mainland onto Taiwan and other islands. On December 18, 1946, President Truman in a statement reaffirmed American belief in a "united and democratic China" the U.S. would continue the policy of non-involvement in Chinese civil strife. On July 3rd, 1948, The Sino-American Aid Agreement was signed. The Chinese Government was to receive $275 million for non-military supplies and $125 million for use at its discretion. On August 5th, 1948, The Sino-American Agreement for the establishment of Joint Commission on Rural Reconstruction in China was signed. Mao established the People's Republic of China (PRC) on the mainland, while the ROC still remains on Taiwan and other islands, starting with 1949. 
+
+19720228-20159999 0.25
+
+The last MID of RIV10101, MID4280, ended on July 3rd, 2001. Sino-American relations changed significantly following the September 11, 2001 attacks. The PRC offered strong public support for the war on terrorism. The PRC voted in favor of UNSCR 1373, publicly supported the coalition campaign in Afghanistan, and contributed $150 million of bilateral assistance to Afghan reconstruction following the defeat of the Taliban. Shortly after 9-11, the U.S. and PRC also commenced a counterterrorism dialogue. The third round of that dialogue was held in Beijing in February 2003.
+
+In the United States, the terrorist attacks greatly changed the nature of discourse. It was no longer plausible to argue that the PRC was the primary security threat to the United States, and the need to focus on the Middle East and the War on Terror made it a priority for the United States to avoid distractions in East Asia.
+
+In mainland China, there were initial fears that the United States would use the War on Terror as an excuse to advance an anti-Chinese agenda, especially as the United States began establishing bases in Central Asia and acting unilaterally against Iraq. These fears had largely subsided by mid-2003 as the continuing American involvement in Iraq and Afghanistan revealed the limits of American ability to act unilaterally. Among the Chinese public, there was some initial celebration at fact that 9-11 had shown that the United States was not invulnerable, but this quickly dissipated as the magnitude of the attack became known. Many Chinese citizens died in the WTC rubble, and Chinese companies and individuals sent expressions of condolences to their U.S. counterparts. The application of American power in Iraq and continuing efforts by the United States to cooperate with China has significantly reduced the popular anti-Americanism that had been fostered in the mid-1990s.
+
+On January 1st, 2002, China received permanent normal trade relations from United States. In February 2002, President Bush visited China. Bush welcomed Vice-President Hu Jintao in April 2002 to the White House for talks. Even though MIDs will continue to occur between China and USA on such issues as Taiwan, Tibet, and human rights, the normalization of economic relations between the two countries signals a significant change in the China-US relations. 
+
+In October 2002, Chinese President Jiang Zemin made an official visit to United States. Jiang's visit to the Bush ranch in Crawford, Texas, has been promoted by both sides as a chance to improve ties and discuss key issues-including U.S. irritation at China's large trade surplus and hopes for increased military-to-military contacts. Taiwan will also probably be discussed. Beijing considers Taiwan part of its sovereign territory. "We feel deeply that China and America ... should increase understanding and trust, strengthen exchanges and increase cooperation," Jiang said through an interpreter. Bush says he wants to solicit Jiang's support following North Korea's disclosure last week that it has a nuclear weapons development program breaching a 1994 agreement with the United States. China is North Korea's last major ally, though Beijing's push toward a more open economy in recent years has widened the cultural and economic divide between the two countries. The PRC and the U.S. have also been working closely on regional issues like North Korea. The People's Republic of China has stressed its opposition to the DPRK's decision to withdraw from the Nuclear Non-Proliferation Treaty, its concerns over North Korea's nuclear capabilities, and its desire for a non-nuclear Korean peninsula. It also voted to refer the DPRK's noncompliance with its IAEA obligations to the UN Security Council in New York. The two leaders agreed to solve the crisis of the North Korean nuclear weapons declaration.
+In early December 2003, Chinese Prime Minister Wen Jiabao paid an official visit to United States. Taiwan remains a volatile issue, but one that as of 2003 appeared to be under control. The United States policy toward Taiwan has involved emphasizing the `Four Noes and One Without' policy, and in several cases the United States appeared to step in when it appeared that the Republic of China government on Taiwan was moving away from that policy.
+
+In October 2004, Secretary Powell `encouraged' the `Chinese' particularly to resume dialogue across the Taiwan straits with their counterparts from Taiwan. As recently as the end of September, Powell clashed with mainland China's Foreign Minister Li Zhaoxing over the issue of arms sales to Taiwan. Following a meeting with Chinese high-ranking officials in Washington, Powell reminded the foreign minister that the U.S. has "obligations" under the Taiwan Relations Act (TRA) to supply Taiwan with arms of a defensive character. 
+
+During the summer of 2005, another issue of controversy between US and China was the currency revaluation of the yuan. In June 2005, Bush said he expects China to implement currency reforms, as support increased in the US Congress for legislation to force Beijing to revalue its yuan or face higher tariffs on Chinese imports. "I mean, we're getting indications out of the government, for example, that they understand they've got to do something with their currency," Bush said. 
+
+In a September 2005 speech, Deputy Secretary of State Robert B. Zoellick spearheaded a strategic dialogue with China. Recognizing Beijing as an emerging power, he calls on China to serve as a `responsible stakeholder' and use its influence to draw nations such as Sudan, North Korea, and Iran into the international system. That same year, North Korea walks away from Six-Party Talks hosted by Beijing and aimed at controlling Pyongyang's nuclear ambitions. After North Korea conducts its first nuclear test in October 2006, China serves as a mediator to bring Pyongyang back to the negotiating table. In November 2005, President Bush made a visit to China which came at a critical time when U.S.-China relationship is at a crossroad. China's development as a growing economic and military power has led to an increasing level of anxiety among the American public particularly politicians. In December 2005, competition for scarce oil supplies could put the United States and China on a collision course if both countries fail to improve cooperation on energy issues, an influential American lawmaker has warned. 'Energy is potentially the biggest source of friction between our two countries,' said Democrat Senator Joseph Lieberman of Connecticut.
+
+In April 2006, the Chinese President Hu Jintao visited United States. 'It's known to all that the Chinese and US side have differences on economic and trade areas,' foreign ministry spokesman Liu Jianchao said. `The Chinese side is embarking on the visit with the goal that it will strengthen the exchanges and mutual trust between China and U.S. and expand both sides' consensus and cooperation.' Hu will visit the United States from April 18 to 21, stopping in Seattle, Washington DC and Yale University in Connecticut, Liu told a regular briefing. In Seattle he will visit the Boeing and Microsoft companies as well as dine at the residence of Microsoft Chairman Bill Gates, according to a statement from Seattle's Chamber of Commerce. In Washington, Hu will meet with Bush and make a speech to a group of US business leaders and foreign relations experts.
+
+After September 11, 2001, China and U.S. cooperated on several issues, like North Korean nuclear disarmament. However, U.S. kept accusing China for its indirect support of the Sudanese government's policies in Darfur, for the relations with Taiwan which have ups and downs and for limiting press freedom within China. The economic relations are strong, but one issue on which U.S. keeps complaining about is the revaluation of the Chinese currency, the yuan. The relations to be much more positive than in past decades, but major problems continue to exist between the two countries. 
+
+PS-SOURCES: http://usinfo.org/sino/chronology(3)_e.htm, Xinhua December 10, 2003; June 9, 2005; Agence France Presse September 6, 2001; Associated Press October 22, 2002; October 23, 2002; Ascribe Newswire November 14, 2005; Daily News August 16, 2005; Straits Times December 2, 2005; China Post October 20, 2004. 
+
+MARITIME-MIDS: MID2208 
+
+MID633 MID2052 MID53 MID173 MID2948 MID4064 MID4336 MID4281 not considered maritime MIDs 
+
+MARITIME-DISPUTE: MID2208
+ DYAD: USA CHINA 2710
+ DATES: 19260315 19260315
+ HOSTILITYA: 2 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+MID2208 is called `Dagu (Taku) Harbor' and occurred March 15-18, 1926. This is a multilateral MID involving Germany, China, Japan, France, the UK, the US, the USSR and Italy. In this incident, the Great Powers demanded that China de-mine the Dagu Harbor as it provided access to a major river into China. The Great Powers jointly threatened military action if China did not acquiesce. China and Japan engaged in naval hostilities in which several seamen were killed on both sides during this period. 
+
+MARITIME-DISPUTE: MID633
+ DYAD: USA CHINA 2710
+ DATES: 19500627 19500807
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 1
+
+Discussion:
+MID633 occurred from June 27-August 7, 1950. Here the US Seventh fleet was sent to the Taiwan Strait at beginning of the Korean War. The ships remained until 1955. 
+
+MARITIME-DISPUTE: MID2052
+ DYAD: USA CHINA 2710
+ DATES: 19510216 19521016
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID2052 Coded as a show of ships involving the United States, Taiwan and China, February 16, 1951-October 16, 1952. This incident is probably a duplicate. Jones (1980, 90) notes that although Truman ordered the 7th Fleet to patrol the Taiwan Strait in June 1950 (MID 633), American ships did not actually arrive there until the following year.
+
+MARITIME-DISPUTE: MID53
+ DYAD: USA CHINA 2710
+ DATES: 19560822 19560823
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 4 FATALITYB: 0
+
+Discussion:
+MID53 occurred August 22-23, 1956. Chinese aircraft shot down a U.S. patrol aircraft off the Chinese coast. U.S. ships entered the area to search for survivors. The Chinese stated that the aircraft was mistaken for a Nationalist plane.
+
+MARITIME-DISPUTE: MID173
+ DYAD: USA CHINA 2710
+ DATES: 19580722 19581219
+ HOSTILITYA: 3 FATALITYA: -9
+ HOSTILITYB: 4 FATALITYB: -9
+
+Discussion:
+MID173 was part of the China-Taiwan conflict and occurred from July through December of 1958. This incident involved the shelling of Quemoy-Matsu by the PRC. The United States intervened and escorted ROC ships in the area. 
+
+MARITIME-DISPUTE: MID2948
+ DYAD: USA CHINA 2710
+ DATES: 19720822 19720822
+ HOSTILITYA: 4 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+Discussion:
+MID2948 occurred on August 22, 1972. In this incident, the PRC claimed that an American aircraft attacked a lifeboat of a Chinese merchant ship that resulted in the death of the ship's captain, and four other crewmembers. China lodged a strong protest with the US over the incident. 
+
+MARITIME-DISPUTE: MID4064
+ DYAD: USA CHINA 2710
+ DATES: 19951219 19960328
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4064
+ DYAD: USA CHINA 2710
+ DATES: 19951219 19960328
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID4064 occurred from December of 1995 through March of 1996. This dispute consists of a series of incidents in which China seeks to intimidate Taiwan away from moves toward independence and Taiwanese and American responses to these Chinese actions. China deployed missiles opposite Taiwan, intercepted Taiwanese vessels, conducted military exercises, and conducted air and naval shows of force. In response, Taiwan repeatedly placed its forces on alert, deployed missiles, and scrambled jets. Beginning in 12/95, the US deployed naval forces to the area as a show of force to China. American naval forces were sent to the region again in March 1996.
+The two countries engaged in a number of disputes beginning in the early 1990s. Two issues motivate the recent disputes: US support for the independence of Taiwan in opposition to Chinese interest in reclaiming control over what it perceives is a rebel province; and US interest in gathering intelligence information through naval and air patrols close to the Chinese mainland.
+
+MARITIME-DISPUTE: MID4336
+ DYAD: CHINA USA 710002
+ DATES: 20010323 20010323
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+ VERSION: 3.1d
+
+MARITIME-DISPUTE: MID4336
+ DYAD: USA CHINA 2710
+ DATES: 20010323 20010323
+ HOSTILITYA: 1 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID4336 occurred on March 23, 2001. This dispute consists of one incident in which a Chinese warship chased a U.S. Navy ship from international waters near the Chinese coast. China regards the waters as its own territory, but the claimed maritime boundary is not recognized internationally. This dispute represents another case in which Chinese forces challenged American surveillance activities along its coast. 
+The two countries engaged in a number of disputes beginning in the early 1990s. Two issues motivate the recent disputes: US support for the independence of Taiwan in opposition to Chinese interest in reclaiming control over what it perceives is a rebel province; and US interest in gathering intelligence information through naval and air patrols close to the Chinese mainland.
+
+MARITIME-DISPUTE: MID4281
+ DYAD: USA CHINA 2710
+ DATES: 20010425 20010817
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 1 FATALITYB: 0
+
+MARITIME-DISPUTE: MID4281
+ DYAD: USA CHINA 2710
+ DATES: 20010425 20010817
+ HOSTILITYA: 3 FATALITYA: 0
+ HOSTILITYB: 3 FATALITYB: 0
+
+Discussion:
+MID4281 occurred from April through August of 2001. This dispute consists of 6 incidents in which Chinese threats toward Taiwan escalated to involve shows of force by both sides. The issue under dispute involves Chinese concern over Taiwanese moves toward independence. Because Chinese actions are aimed at changing Taiwanese behavior, China is coded as the revisionist state. The dispute began on 3/27/01 when China threatened to declare war if Taiwan declared independence. On 8/1/01, China again threatened to use force if Taiwan declared independence. These threats were followed by a Taiwanese show of force in which Taiwan conducted aerial flight maneuvers with 10 AH-1W Helicopters on 8/21/012. On 8/22/01 china conducted the largest exercises ever around Dongshan Island. According to reports, the exercises involved 100,000 personnel and simulated how the PLA would "smash" separatist actions by Taiwan. The US responded to the Chinese moves by threatening force if Taiwan was attacked. The US also conducted naval exercises in the South China Sea as a show of force. The naval exercise only lasted one day (8/17/01) and involved two U.S. aircraft carriers. China is coded as the revisionist state because its actions are aimed at altering Taiwanese policy toward independence.

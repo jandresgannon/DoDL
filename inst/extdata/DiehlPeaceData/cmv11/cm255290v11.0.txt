@@ -1,0 +1,114 @@
+FILE: cm255290v11.0.txt
+DYAD: GERMANY/PRUSSIA-POLAND
+RIVALRY: RIV671
+DISPUTE(S): MID1269 MID1273 
+RIVALRY: RIV672
+DISPUTE(S): MID258 
+
+PS: 19181103-19390830 .25 19390901-19450507 1.0 19450508-19550504 .50 19550505-19890708 0.25 19890709-20040430 0.5 20040501-20209999 1.00
+
+PS-UPDATE2020:
+
+PSNOTES: EU dyad
+
+version 2.01 from 19390901-19450507 1.0 to 19390901-19450507 0.0
+
+We have coded the initial post-war period as .50 as we have for other dyads with Germany 
+
+PS-LAST-CHANGED: 20220225
+PS-LAST-CHECKED: 20220225
+
+Territorial-Maritime-Boundary Issues Variables
+
+WWII MIDs: MID258 
+
+MID1269 
+
+TERRMID: MID1269 3 -- not territory 
+TERRMID-CER: MID1269 1 -- certain 
+TERRMID-NOTES: 
+
+TERRLINK: MID1269 1 -- third party link to territorial MID
+TERRLINK-CER: MID1269 3 -- uncertain 
+TERRLINK-NOTES: MID1269 from Gibler 2018, in 1919, Germany invaded Latvia to establish a protectorate there, with intentions of moving on into Estonia (Germany did invade Estonia but was pushed back by the Estonian army). The Allies eventually intervened and brokered an armistice between all parties. Coded third party link to territorial MID because the Allies intervened in a territorial dispute between Germany and Latvia & Estonia. Coded uncertain because Gibler 2017 does not recognize Poland as a party to this dispute. 
+
+MARITMID: MID1269 3 -- not maritime 
+MARITMID-CER: MID1269 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1269 3 -- not islands 
+ISLMID-CER: MID1269 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1269 3 -- not civil war 
+CIVWARMID-CER: MID1269 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1269 3 -- not civil war link 
+CIVWARLINK-CER: MID1269 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1269 3 -- not coup 
+COUPMID-CER: MID1269 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1269 3 -- not coup link
+COUPLINK-CER: MID1269 1 -- certain 
+COUPLINK-NOTES: 
+
+
+MID1273 
+
+TERRMID: MID1273 1 -- territorial MID
+TERRMID-CER: MID1273 1 -- certain 
+TERRMID-NOTES: MID1273 from Gibler 2018, the area of Upper Silesia was to have a plebiscite in 1921 to decide whether it should become part of Germany or Poland. Both Germany and Poland controlled the area at different points, and both Polish and German citizens populated the area. After Upper Silesia voted to become part of Germany, Poland attacked German troops to push them out of the area. Germany counterattacked. Coded territorial MID because this was connected to a dispute over Upper Silesia. 
+
+TERRLINK: MID1273 3 -- not third party link to territory 
+TERRLINK-CER: MID1273 1 -- certain 
+TERRLINK-NOTES: 
+
+MARITMID: MID1273 3 -- not maritime 
+MARITMID-CER: MID1273 1 -- certain 
+MARITMID-NOTES: 
+
+ISLMID: MID1273 3 -- not islands 
+ISLMID-CER: MID1273 1 -- certain 
+ISLMID-NOTES: 
+
+CIVWARMID: MID1273 3 -- not civil war 
+CIVWARMID-CER: MID1273 1 -- certain 
+CIVWARMID-NOTES:
+
+CIVWARLINK: MID1273 3 -- not civil war link 
+CIVWARLINK-CER: MID1273 1 -- certain 
+CIVWARLINK-NOTES: 
+
+COUPMID: MID1273 3 -- not coup 
+COUPMID-CER: MID1273 1 -- certain 
+COUPMID-NOTES: 
+
+COUPLINK: MID1273 3 -- not coup link
+COUPLINK-CER: MID1273 1 -- certain 
+COUPLINK-NOTES: 
+
+RIVNOTES: 
+
+NARRATIVE-CM:
+The *Republic of Poland* was proclaimed in Warsaw on November 3, 1918. Poland severed diplomatic relations with Soviet Russia on December 9, 1918. Poland and Soviet Russia disputed their border beginning on February 14, 1919. Russia and Poland attempted to negotiate a resolution of dispute from June to December 1919. The *Allied Supreme Council (ASC), which consisted of representatives from Britain, France, Italy, and the United States, proposed the *Curzon Line *as Poland's eastern border with Soviet Russia on December 8, 1919. Poland and Soviet Russia agreed to a border (east of the *Curzon Line*) on January 28, 1920. The Soviet Union requested negotiations with Poland on January 29, 1920, and Poland conditionally agreed to negotiations on March 27, 1920 (Poland demanded the restoration of the 1772 border between the countries). Polish troops commanded by General Jozef Pilsudski attacked Soviet Russian troops in the Ukraine on April 25, 1920, and Polish troops captured Kiev on May 8, 1920. Soviet Russian troops recaptured Kiev on June 11, 1920. Poland requested military assistance from the ASC on July 10, 1920. The ASC appealed for peaceful negotiations on July 11, 1920, but Soviet Russia rejected the appeal on July 17, 1920. Poland requested a cessation of military hostilities, but Soviet Russia rejected the request on July 23, 1920. Soviet Russian troops drove Polish troops back to Warsaw on July 25, 1920. Soviet Russian troops captured Brest-Litovsk, and established a Polish Bolshevik government on August 1, 1920. Britain and France agreed to provide military assistance in support of Poland beginning on July 25, 1920. Polish troops launched a counter-military offensive against Soviet Russian troops on August 14, 1920, and Polish troops defeated Soviet Russian troops near Warsaw on August 28, 1920. Polish and Soviet Russian representatives began ceasefire negotiations in Minsk on August 16, 1920, but the negotiations were suspended on August 29, 1920. Polish and Soviet Russian representatives resumed ceasefire negotiations in Riga on September 18, 1920, and signed a ceasefire agreement in Riga on October 12, 1920. The ceasefire went into effect on October 18, 1920. Some 100,000 individuals were killed during the conflict. Polish and Russian representatives signed the *Treaty of Riga* on March 18, 1921, which provided for the Polish acquisition of Vilna from Soviet Russia. Polish and Soviet representatives signed a non-aggression pact on July 25, 1932. Poland and the Soviet Union reaffirmed their non-aggression pact on November 26, 1938. Soviet troops invaded eastern Poland on September 17, 1939. General Wladyslaw Sikorski formed a Polish government-in-exile in Paris on September 30, 1939. Soviet troops massacred some 15,000 Polish prisoners-of-war in Kozelsk prison camp in May 1940, and Soviet troops buried many of the bodies in Katyn Forest (the Soviet Union did not admit responsibility for the massacre until April 13, 1990). The Soviet Union established diplomatic relations with the Polish government-in-exile (which had moved to London on June 19, 1940) on July 30, 1941. German troops discovered the bodies of Polish prisoners-of-war in Katyn Forest near Smolensk on April 12, 1943. On April 16, 1943, the Polish government-in-exile requested that the *International Committee of the Red Cross *(ICRC) investigate the killings of Polish military personnel near Smolensk. The Soviet Union suspended diplomatic relations with the Polish government-in-exile in London on April 26, 1943. The Soviet Union established a Polish government-in-exile in Moscow on January 1, 1944. Soviet troops captured the town of Rokitno in eastern Poland from German troops on January 6, 1944. On January 11, 1944, the Soviet Union offered to guarantee Poland's independence if it accepted the *Curzon Line* as the Poland-Soviet Union border. The Polish government-in-exile in London requested that Britain and the US mediate negotiations between themselves and the Soviet Union on January 14, 1944, and the US offered to mediate negotiations between the countries on January 15, 1944. Soviet troops captured Warsaw from German troops on January 17, 1945. The Soviet Union rejected the US mediation offer on January 26, 1944. Polish and Soviet representatives signed a 20-year treaty of friendship, mutual assistance, and cooperation on April 22, 1945. Polish and Soviet representatives signed a treaty on August 16, 1945, which provided for the *Curzon Line* as the border between the countries. The Soviet Union agreed to relinquish control of the Oder region to Poland on August 5, 1946. Polish and Soviet representatives signed a 20-year treaty of friendship, mutual assistance, and cooperation on April 8, 1965. President Lech Walesa of Poland and President Boris Yeltsin of Russia signed an agreement on May 22, 1992, which provided for the withdrawal of Russian troops from Poland. Russian troops completed their withdrawal from Poland on October 28, 1992.
+
+Poland issued an ultimatum to Germany to withdraw its troops from Polish territory on December 4, 1918. Germany rejected the ultimatum, and Poland severed diplomatic relations with Germany on December 15, 1918. Germany and Poland disputed the sovereignty of the Upper Silesia, which was occupied by German troops after the end of the *First World War*. German and Polish representatives signed the *Treaty of Versailles* on June 28, 1919, which provided for a plebiscite in Upper Silesia to determine the sovereignty of the disputed territory. Polish workers rebelled against German administration in Upper Silesia beginning on August 17-18, 1919, but German troops suppressed the rebellion on August 23, 1919. The *Allied Supreme Council *(ASC), which consisted of representatives from Britain, France, Italy, and the United States, established a six-member commission of inquiry (Britain, France, Italy, US) on August 23, 1919. The ASC commission of inquiry mediated an agreement between German and Polish representatives on October 1, 1919, which provided for a general amnesty and the release of political prisoners in Upper Silesia. The *Allied Conference of Ambassadors* (ACA), which consisted of representatives from Britain, France, Italy, Japan, and the United States, established a three-member plebiscite commission (Britain, France, Italy) headed by General Henri Le Rond of France on January 10, 1920, and the ACA plebiscite commission arrived in the Upper Silesia region on February 11, 1920. The ACA deployed a peacekeeping force consisting of 15,500 troops from Britain, France and Italy on February 11, 1920. German police and Poles clashed in Upper Silesia on August 17-25, 1920. The ACA commission administered the plebiscite in the Upper Silesia on March 20, 1921, which resulted in a 60 percent majority in favor of German sovereignty over the disputed territory. Some 40,000 Poles led by Wojciech Korfanty rebelled against German troops in Upper Silesia beginning on May 3-4, 1921. The ACA mediated a cessation of military hostilities between German troops and Poles in Upper Silesia on June 24-25, 1921. The ASC referred the Upper Silesia dispute to the *League of Nations* (LON) Council on August 12, 1921. The LON Council established a commission of inquiry (Belgium, Brazil, China, Spain) on September 9, 1921. The LON commission of inquiry issued a report on October 12, 1921, which recommended a boundary between Germany and Poland. The ACA accepted the recommendation on October 20, 1921. The LON facilitated negotiations between German and Polish representatives concerning the Upper Silesia dispute in Geneva beginning on November 23, 1921. German and Polish representatives signed the *Geneva Convention* on May 15, 1922, which established an arbitration tribunal and a mixed commission to settled remaining issues. The ACA peacekeeping force was withdrawn from the Upper Silesia. Germany objected to the eviction of German settlers from Poland, and referred the matter to the Lon Council on November 8, 1921. The LON Council asked Poland to suspend the eviction of Germans from Poland on May 17, 1922, and Poland agreed to the request on May 18, 1922. The LON Council asked the *Permanent Court of International Justice* (PCIJ) for an advisory opinion on February 3, 1923. The PCIJ issued an advisory opinion on September 10, 1923, which suggested that the dispute was within its jurisdiction. On June 3, 1924, Poland proposed an agreement for compensating German settlers who could claim Polish nationality prior to July 14, 1920. The LON Council approved the Polish proposal on June 17, 1924. Poland seized a nitrate factory in Chorzow in Upper Silesia in July 1922, and announced its intention to expropriate several estates in Upper Silesia in December 1924. Germany referred the matters to the PCIJ on May 15, 1925, and the PCIJ upheld its jurisdiction in the dispute on August 25, 1925. The PCIJ issued a decision in favor of Germany in the Chorzow factory case on May 25, 1926, but the PCIJ upheld Poland's claim to some of the estates in Upper Silesia. Germany and Poland signed an arbitration agreement on December 1, 1925. Germany protested the effect of agrarian reform in Poland on ethnic Germans in Poznan and Pomorze. Germany referred the dispute to the PCIJ on July 3, 1933. Germany requested the termination of PCIJ proceedings on the dispute in October 27, 1933, and the PCIJ terminated the proceedings on December 2, 1933. Germany and Poland signed a non-aggression pact on January 26, 1934. Germany claimed sovereignty over Danzig (Gdansk) in Poland and the Polish Corridor (territory linking Germany with East Prussia). Germany assured the Polish government that it would respect Poland's claim to the territories on January 13, 1938. On October 24, 1938, German proposed a new highway and rail lines under joint Polish-German control across the Polish Corridor to connect Germany and East Prussia. On October 31, 1938, Poland rejected the proposal, and suggested that it would resist any German attempt to annex Danzig and other Polish territories. On January 6, 1939, Adolf Hitler of Germany warned the Polish ambassador to Germany that Danzig must eventually be restored to Germany. Germany demanded from Poland the return of Danzig and the Polish Corridor on March 22, 1939. On March 31, 1939, Britain and France warned Germany that it would provide support to Poland in order to assure their sovereignty and independence. Germany abrogated the nonagression pact with Poland on April 28, 1939. President Franklin Roosevelt of the US appealed to Adolf Hitler of Germany and President Ignacy Moscicki of Poland to negotiate a peaceful resolution of the dispute on August 24 and August 25, 1939. French and Polish representatives signed a military protocol on May 19, 1939, which provided for French defense of Poland against German aggression. Britain and Poland signed a pact of mutual assistance on August 24, 1939. French President Daladier appealed on August 26, 1939 to Germany and Poland to peacefully resolve their dispute. The Polish government ordered a partial mobilization of its military on August 30, 1939, and ordered a full mobilization of its military on August 31, 1939. Some 1.3 million German troops commanded by General Walther von Brauchitsch invaded Poland on September 1, 1939. On September 2, 1939, Italy proposed a five-power conference to discussed the German-Polish conflict, but Britain refused negotiation so long as German troops remained on Poland's territory. Britain and France declared war on Germany on September 3, 1939. Soviet troops invaded Poland on September 17, 1939. Poland surrendered to Germany on September 27, 1939. The German and Soviet governments agreed to divide Poland on September 29, 1939. Poland fell to the German and Russian soldiers on October 5, 1939. Some 66,000 Polish soldiers and 10,500 German soldiers were killed during the German invasion of Poland. Polish Jews rebelled against German troops in Warsaw on January 18-21, 1943, resulting in the deaths of some 600 Polish Jews and 20 German soldiers. Polish Jews rebelled against German troops in Warsaw between April 19 and May 16, 1943, resulting in the deaths of some 300 German soldiers and 7,000 Jews. Soviet troops entered Polish territory on January 6, 1944. German troops executed some 400 Poles in Warsaw on Januaery 28-February 3, 1944. German troops executed some 40 Poles in the village of Pikule on June 10, 1944, and killed some 700 Poles in the Lublin region on June 18, 1944. Polish partisans commanded by General Tadeusz Komorowski Bor rebelled against German troops in Warsaw between August 1 and October 2, 1944, resulting in the deaths of some 200,000 Polish civilians, 15,000 Polish partisans, and 10,000 German soldiers. Soviet troops captured Warsaw from German troops on January 17, 1945. Germany surrendered to the Allied countries on May 7, 1945.
+
+SOURCES-CM: 
+Allock et al., 1992, 78-98; Brecher and Wilkenfeld, 1997, 594-595; Cienciala and Komarnicki, 1984, 41-90; Clodfelter, 1992, 789-790; Ference, 1994, 255-300; Langer, 1972, 1037-1039, 1219-1221; *Survey of International Affairs (SIA), 1925, 233-241, 1925 (supplement), 118-122, 1932, 311-326, 1933, 597. Brecher and Wilkenfeld, 1997, 256-261; Clodfelter, 1992, 620-621, 789-790, 837-838; Ference, 1994, 255-300, 337-391; Langer, 1972, 1037-1039, 1219-1221; Machray 1932; *Survey of International Affairs *(SIA), 1925 (supplement), 206-207, 1932, 608.
+
+NARRATIVE-CR:
+
+SOURCES-CR:
+
+MARITIME-MIDS:
+
+MARITIME-DISPUTE:
+
+Discussion:
+
+SOURCES: Gibler, D.M. 2018. Militarized Interstate Dispute Narratives, 1816-2010. Langham, MD: Rowman and Littlefield.
