@@ -1,7 +1,7 @@
 ---
 title: '\singlespace Complementarity in Alliances - logfile'
 author:
-  - name: J Andrés Gannon
+  - name: J Andres Gannon
 format:
   pdf:
     fig-format: png
@@ -10,7 +10,7 @@ format:
     fontsize: "12"
     fig-dpi: 600
     fig-pos: "H"
-    keep-tex: true
+    keep-tex: false
     include-in-header: 
      text: |
        \usepackage{fvextra}
@@ -62,7 +62,8 @@ header-includes:
 - \usepackage{makecell}
 - \usepackage{xcolor}
 - \usepackage{graphicx}
-bibliography: rDMC-bib.bib
+- \usepackage{tabularray}
+- \UseTblrLibrary{booktabs}
 ---
 
 This log file was last compiled on `r Sys.Date()` using the following system:
@@ -73,6 +74,45 @@ sessionInfo()
 ```
 
 ```{r knitr_options}
+# List of required packages
+required_packages <- c(
+  "knitr", "kableExtra", "ggplot2", "ggtext", "magrittr", "rstan", "igraph", "ggraph", "tidygraph",
+  "base64enc", "digest", "evaluate", "glue", "highr", "htmltools", "jsonlite", "markdown", "mime",
+  "rmarkdown", "stringi", "stringr", "xfun", "yaml", "here", "centiserve", "rio", "ordbetareg",
+  "cmdstanr", "collapse", "tinytex", "brms", "lmerTest", "broom", "marginaleffects", "modelsummary"
+)
+
+# Function to install missing packages
+install_if_missing <- function(packages) {
+  installed <- installed.packages()
+  for (pkg in packages) {
+    if (!(pkg %in% rownames(installed))) {
+      message(paste("Installing:", pkg))
+      install.packages(pkg, dependencies = TRUE)
+    } else {
+      message(paste("Already installed:", pkg))
+    }
+  }
+}
+
+# Install required packages
+install_if_missing(required_packages)
+
+# Special handling for cmdstanr - Install CmdStan if needed
+if ("cmdstanr" %in% installed.packages()[, "Package"]) {
+  library(cmdstanr)
+  if (is.null(cmdstan_version())) {
+    message("CmdStan not found. Installing CmdStan...")
+    install_cmdstan()
+  } else {
+    message(paste("CmdStan version found:", cmdstan_version()))
+  }
+} else {
+  message("cmdstanr package is not installed. Skipping CmdStan installation.")
+}
+
+tinytex::install_tinytex()
+
 library(knitr)
 library(kableExtra)
 library(ggplot2)
@@ -144,7 +184,8 @@ df |>
   theme(text = element_text(size = 10),
         axis.text = element_text(color = "black"))
 
-shared <- readRDS(file = paste0(here::here(), '/data/dyad_threat.rds')) |>
+filedirectoryfig2 <- paste0(here::here(), '/data/dyad_threat.rds')
+shared <- readRDS(file = filedirectoryfig2) |>
   dplyr::filter(year == 1995 & ccode1 %in% c(2, 740) & threatenviro == 1) |>
   dplyr::select(ccode1, rival, threatenviro, cinc2) |>
   dplyr::mutate(threat_ccode1 = dplyr::if_else(ccode1 == 2 & threatenviro == 1, cinc2, 0),
@@ -166,11 +207,12 @@ shared <- readRDS(file = paste0(here::here(), '/data/dyad_threat.rds')) |>
 #| class-output: OutputCode
 #| layout-ncol: 2
 
-network <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+filedirectoryfig3 <- paste0(here::here(), '/data/sipri_dyad-year.rds')
+network <- readRDS(file = filedirectoryfig3) |>
   dplyr::filter(year == 1975) |>
   dplyr::select(ccode1, ccode2, value)
 
-sipri <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
+sipri <- readRDS(file = filedirectoryfig3) |>
   dplyr::filter(year == 1975) |>
   dplyr::select(ccode1, ccode2, value) |>
   dplyr::rename(weight = value) |>
@@ -181,7 +223,7 @@ sipri <- readRDS(paste0(here::here(), "/data/sipri_dyad-year.rds")) |>
   tibble::rownames_to_column(var = "ccode") |>
   dplyr::mutate(ccode = as.integer(ccode))
 
-nato <- rio::import(paste0(here::here(), "/inst/extdata/ATOP/atop5_1m.csv")) |>
+nato <- rio::import(paste0(here::here(), "/inst/extdata/atop5_1m.csv")) |>
   dplyr::filter(yrexit > 1970 |
                   yrexit == 0) |>
   dplyr::mutate(yrexit = dplyr::if_else(yrexit == 0,
@@ -316,7 +358,7 @@ modelsummary::modelsummary(models,
 
 \newpage
 
-## Figure 4 (in-text results)
+## In-text results describing figure 4
 
 ```{r fig4intext}
 #| class-output: OutputCode
@@ -352,7 +394,7 @@ marginaleffects::avg_comparisons(m1_obr, variables = list(hier = "sd")) |> broom
 #| class-output: OutputCode
 
 # Strategic compatibility predicted values with example
-ex_strcomp <- df |>
+ex_strcomp <- df %>%
   dplyr::filter(year %in% c(1992, 2011), atopid == 3375) |>
   dplyr::select(year, atopid, dol_nicheolap, strcomp_cinc_total_scaled) |>
   dplyr::mutate(year = dplyr::recode(year, "1992" = "US-Philippines (1992)", "2011" = "US-Philippines (2011)"))
