@@ -96,8 +96,6 @@ df_wide <- readRDS(file = paste0(here::here(), "/data/rDMC_wide_v1.rds"))
 df <- readRDS(file = paste0(here::here(), "/data/03_df-full.rds"))
 ```
 
-\beginsupplement
-
 \tableofcontents
 
 \newpage
@@ -136,6 +134,9 @@ df |>
 
 ```{r}
 #| results: hide
+#| cache: false
+
+set.seed(37203)
 
 df_m1 <- df |>
   dplyr::rename(dv = dol_nicheolap,
@@ -153,7 +154,7 @@ m1_obr <- ordbetareg::ordbetareg(dv ~
                                  backend = "cmdstanr",
                                  refresh = 0,
                                  file = "ordbeta",
-                                 file_refit = "on_change")
+                                 file_refit = "always")
 ```
 
 ```{r}
@@ -580,7 +581,7 @@ modelsummary::modelsummary(models,
 #| tbl-cap: "Coefficient estimates with additional control variables."
 #| tbl.position: H
 
-country_year <- rio::import(paste0(here::here(), "/inst/extdata/ATOP/atop5_1m.csv")) %>%
+country_year <- rio::import(paste0(here::here(), "/inst/extdata/atop5_1m.csv")) %>%
   dplyr::filter(yrexit > 1970 |
                   yrexit == 0) %>%
   dplyr::mutate(yrexit = dplyr::if_else(yrexit == 0,

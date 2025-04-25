@@ -121,15 +121,17 @@
 \makesavenoteenv{longtable}
 \usepackage{graphicx}
 \makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
 % Set default figure placement to htbp
-\makeatletter
 \def\fps@figure{htbp}
 \makeatother
 
@@ -193,6 +195,8 @@
 \usepackage{makecell}
 \usepackage{xcolor}
 \usepackage{graphicx}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -235,16 +239,13 @@
 \@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
 \makeatother
 
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage{bookmark}
 
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={Complementarity in Alliances - logfile},
-  pdfauthor={J Andrés Gannon},
+  pdfauthor={J Andres Gannon},
   colorlinks=true,
   linkcolor={blue},
   filecolor={Maroon},
@@ -254,14 +255,14 @@
 
 
 \title{\singlespace Complementarity in Alliances - logfile}
-\author{J Andrés Gannon}
+\author{J Andres Gannon}
 \date{}
 
 \begin{document}
 \maketitle
 
 
-This log file was last compiled on 2025-02-20 using the following
+This log file was last compiled on 2025-04-24 using the following
 system:
 
 \begin{Shaded}
@@ -274,19 +275,19 @@ system:
                                                       sysname 
                                                       "Linux" 
                                                       release 
-                                          "6.11.0-18-generic" 
+                                          "6.11.0-24-generic" 
                                                       version 
-"#18-Ubuntu SMP PREEMPT_DYNAMIC Fri Feb  7 22:34:25 UTC 2025" 
+"#24-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 14 18:13:56 UTC 2025" 
                                                      nodename 
-                                                      "fuego" 
+                                                    "fuegito" 
                                                       machine 
                                                      "x86_64" 
                                                         login 
-                                              "andres-gannon" 
+                                               "andresgannon" 
                                                          user 
-                                              "andres-gannon" 
+                                               "andresgannon" 
                                                effective_user 
-                                              "andres-gannon" 
+                                               "andresgannon" 
 \end{verbatim}
 
 \begin{Shaded}
@@ -296,13 +297,13 @@ system:
 \end{Shaded}
 
 \begin{verbatim}
-R version 4.4.2 (2024-10-31)
+R version 4.4.0 (2024-04-24)
 Platform: x86_64-pc-linux-gnu
 Running under: Ubuntu 24.10
 
 Matrix products: default
-BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
-LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.28.so;  LAPACK version 3.12.0
 
 locale:
  [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
@@ -319,10 +320,235 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
- [1] compiler_4.4.2    fastmap_1.2.0     cli_3.6.3         tools_4.4.2      
+ [1] compiler_4.4.0    fastmap_1.2.0     cli_3.6.4         tools_4.4.0      
  [5] htmltools_0.5.8.1 rstudioapi_0.17.1 yaml_2.3.10       rmarkdown_2.29   
- [9] knitr_1.49        jsonlite_1.8.9    xfun_0.50         digest_0.6.37    
-[13] rlang_1.1.5       evaluate_1.0.3   
+ [9] knitr_1.50        jsonlite_2.0.0    xfun_0.52         digest_0.6.37    
+[13] rlang_1.1.6       evaluate_1.0.3   
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[numbers=left,,]
+\CommentTok{\# List of required packages}
+\NormalTok{required\_packages }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}
+  \StringTok{"knitr"}\NormalTok{, }\StringTok{"kableExtra"}\NormalTok{, }\StringTok{"ggplot2"}\NormalTok{, }\StringTok{"ggtext"}\NormalTok{, }\StringTok{"magrittr"}\NormalTok{, }\StringTok{"rstan"}\NormalTok{, }\StringTok{"igraph"}\NormalTok{, }\StringTok{"ggraph"}\NormalTok{, }\StringTok{"tidygraph"}\NormalTok{,}
+  \StringTok{"base64enc"}\NormalTok{, }\StringTok{"digest"}\NormalTok{, }\StringTok{"evaluate"}\NormalTok{, }\StringTok{"glue"}\NormalTok{, }\StringTok{"highr"}\NormalTok{, }\StringTok{"htmltools"}\NormalTok{, }\StringTok{"jsonlite"}\NormalTok{, }\StringTok{"markdown"}\NormalTok{, }\StringTok{"mime"}\NormalTok{,}
+  \StringTok{"rmarkdown"}\NormalTok{, }\StringTok{"stringi"}\NormalTok{, }\StringTok{"stringr"}\NormalTok{, }\StringTok{"xfun"}\NormalTok{, }\StringTok{"yaml"}\NormalTok{, }\StringTok{"here"}\NormalTok{, }\StringTok{"centiserve"}\NormalTok{, }\StringTok{"rio"}\NormalTok{, }\StringTok{"ordbetareg"}\NormalTok{,}
+  \StringTok{"cmdstanr"}\NormalTok{, }\StringTok{"collapse"}\NormalTok{, }\StringTok{"tinytex"}\NormalTok{, }\StringTok{"brms"}\NormalTok{, }\StringTok{"lmerTest"}\NormalTok{, }\StringTok{"broom"}\NormalTok{, }\StringTok{"marginaleffects"}\NormalTok{, }\StringTok{"modelsummary"}
+\NormalTok{)}
+
+\CommentTok{\# Function to install missing packages}
+\NormalTok{install\_if\_missing }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(packages) \{}
+\NormalTok{  installed }\OtherTok{\textless{}{-}} \FunctionTok{installed.packages}\NormalTok{()}
+  \ControlFlowTok{for}\NormalTok{ (pkg }\ControlFlowTok{in}\NormalTok{ packages) \{}
+    \ControlFlowTok{if}\NormalTok{ (}\SpecialCharTok{!}\NormalTok{(pkg }\SpecialCharTok{\%in\%} \FunctionTok{rownames}\NormalTok{(installed))) \{}
+      \FunctionTok{message}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"Installing:"}\NormalTok{, pkg))}
+      \FunctionTok{install.packages}\NormalTok{(pkg, }\AttributeTok{dependencies =} \ConstantTok{TRUE}\NormalTok{)}
+\NormalTok{    \} }\ControlFlowTok{else}\NormalTok{ \{}
+      \FunctionTok{message}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"Already installed:"}\NormalTok{, pkg))}
+\NormalTok{    \}}
+\NormalTok{  \}}
+\NormalTok{\}}
+
+\CommentTok{\# Install required packages}
+\FunctionTok{install\_if\_missing}\NormalTok{(required\_packages)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+Already installed: knitr
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: kableExtra
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: ggplot2
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: ggtext
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: magrittr
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: rstan
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: igraph
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: ggraph
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: tidygraph
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: base64enc
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: digest
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: evaluate
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: glue
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: highr
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: htmltools
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: jsonlite
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: markdown
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: mime
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: rmarkdown
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: stringi
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: stringr
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: xfun
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: yaml
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: here
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: centiserve
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: rio
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: ordbetareg
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: cmdstanr
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: collapse
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: tinytex
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: brms
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: lmerTest
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: broom
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: marginaleffects
+\end{verbatim}
+
+\begin{verbatim}
+Already installed: modelsummary
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[numbers=left,,]
+\CommentTok{\# Special handling for cmdstanr {-} Install CmdStan if needed}
+\ControlFlowTok{if}\NormalTok{ (}\StringTok{"cmdstanr"} \SpecialCharTok{\%in\%} \FunctionTok{installed.packages}\NormalTok{()[, }\StringTok{"Package"}\NormalTok{]) \{}
+  \FunctionTok{library}\NormalTok{(cmdstanr)}
+  \ControlFlowTok{if}\NormalTok{ (}\FunctionTok{is.null}\NormalTok{(}\FunctionTok{cmdstan\_version}\NormalTok{())) \{}
+    \FunctionTok{message}\NormalTok{(}\StringTok{"CmdStan not found. Installing CmdStan..."}\NormalTok{)}
+    \FunctionTok{install\_cmdstan}\NormalTok{()}
+\NormalTok{  \} }\ControlFlowTok{else}\NormalTok{ \{}
+    \FunctionTok{message}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"CmdStan version found:"}\NormalTok{, }\FunctionTok{cmdstan\_version}\NormalTok{()))}
+\NormalTok{  \}}
+\NormalTok{\} }\ControlFlowTok{else}\NormalTok{ \{}
+  \FunctionTok{message}\NormalTok{(}\StringTok{"cmdstanr package is not installed. Skipping CmdStan installation."}\NormalTok{)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+This is cmdstanr version 0.8.1.9000
+\end{verbatim}
+
+\begin{verbatim}
+- CmdStanR documentation and vignettes: mc-stan.org/cmdstanr
+\end{verbatim}
+
+\begin{verbatim}
+- CmdStan path: /home/andresgannon/.cmdstan/cmdstan-2.34.1
+\end{verbatim}
+
+\begin{verbatim}
+- CmdStan version: 2.34.1
+\end{verbatim}
+
+\begin{verbatim}
+
+A newer version of CmdStan is available. See ?install_cmdstan() to install it.
+To disable this check set option or environment variable cmdstanr_no_ver_check=TRUE.
+\end{verbatim}
+
+\begin{verbatim}
+CmdStan version found: 2.34.1
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[numbers=left,,]
+\NormalTok{tinytex}\SpecialCharTok{::}\FunctionTok{install\_tinytex}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+Found '/home/andresgannon/bin/tlmgr', which indicates a LaTeX distribution may have existed in the system.
+\end{verbatim}
+
+\begin{verbatim}
+Error in tinytex::install_tinytex(): If you want to force installing TinyTeX anyway, use tinytex::install_tinytex(force = TRUE).
 \end{verbatim}
 
 \begin{Shaded}
@@ -370,10 +596,6 @@ The following object is masked from 'package:magrittr':
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
-\NormalTok{df\_raw }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/rDMC\_raw\_v1.rds"}\NormalTok{))}
-\NormalTok{df\_long }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/rDMC\_long\_v1.rds"}\NormalTok{))}
-\NormalTok{df\_wide }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/rDMC\_wide\_v1.rds"}\NormalTok{))}
-
 \NormalTok{df }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/03\_df{-}full.rds"}\NormalTok{))}
 
 \NormalTok{df\_m1 }\OtherTok{\textless{}{-}}\NormalTok{ df }\SpecialCharTok{|\textgreater{}}
@@ -430,7 +652,7 @@ Warning: Removed 111 rows containing non-finite outside the scale range
 (`stat_bin()`).
 \end{verbatim}
 
-\includegraphics{DoDL_replication_files/figure-pdf/fig1-1.png}
+\pandocbounded{\includegraphics[keepaspectratio]{DoDL_replication_files/figure-pdf/fig1-1.png}}
 
 \newpage
 
@@ -455,11 +677,12 @@ Warning: Removed 111 rows containing non-finite outside the scale range
 \end{Highlighting}
 \end{Shaded}
 
-\includegraphics{DoDL_replication_files/figure-pdf/fig2-1.png}
+\pandocbounded{\includegraphics[keepaspectratio]{DoDL_replication_files/figure-pdf/fig2-1.png}}
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
-\NormalTok{shared }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{\textquotesingle{}/data/dyad\_threat.rds\textquotesingle{}}\NormalTok{)) }\SpecialCharTok{|\textgreater{}}
+\NormalTok{filedirectoryfig2 }\OtherTok{\textless{}{-}} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{\textquotesingle{}/data/dyad\_threat.rds\textquotesingle{}}\NormalTok{)}
+\NormalTok{shared }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =}\NormalTok{ filedirectoryfig2) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{filter}\NormalTok{(year }\SpecialCharTok{==} \DecValTok{1995} \SpecialCharTok{\&}\NormalTok{ ccode1 }\SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{740}\NormalTok{) }\SpecialCharTok{\&}\NormalTok{ threatenviro }\SpecialCharTok{==} \DecValTok{1}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(ccode1, rival, threatenviro, cinc2) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}\AttributeTok{threat\_ccode1 =}\NormalTok{ dplyr}\SpecialCharTok{::}\FunctionTok{if\_else}\NormalTok{(ccode1 }\SpecialCharTok{==} \DecValTok{2} \SpecialCharTok{\&}\NormalTok{ threatenviro }\SpecialCharTok{==} \DecValTok{1}\NormalTok{, cinc2, }\DecValTok{0}\NormalTok{),}
@@ -480,11 +703,12 @@ Warning: Removed 111 rows containing non-finite outside the scale range
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
-\NormalTok{network }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/sipri\_dyad{-}year.rds"}\NormalTok{)) }\SpecialCharTok{|\textgreater{}}
+\NormalTok{filedirectoryfig3 }\OtherTok{\textless{}{-}} \FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{\textquotesingle{}/data/sipri\_dyad{-}year.rds\textquotesingle{}}\NormalTok{)}
+\NormalTok{network }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =}\NormalTok{ filedirectoryfig3) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{filter}\NormalTok{(year }\SpecialCharTok{==} \DecValTok{1975}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(ccode1, ccode2, value)}
 
-\NormalTok{sipri }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/data/sipri\_dyad{-}year.rds"}\NormalTok{)) }\SpecialCharTok{|\textgreater{}}
+\NormalTok{sipri }\OtherTok{\textless{}{-}} \FunctionTok{readRDS}\NormalTok{(}\AttributeTok{file =}\NormalTok{ filedirectoryfig3) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{filter}\NormalTok{(year }\SpecialCharTok{==} \DecValTok{1975}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(ccode1, ccode2, value) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{rename}\NormalTok{(}\AttributeTok{weight =}\NormalTok{ value) }\SpecialCharTok{|\textgreater{}}
@@ -495,7 +719,7 @@ Warning: Removed 111 rows containing non-finite outside the scale range
 \NormalTok{  tibble}\SpecialCharTok{::}\FunctionTok{rownames\_to\_column}\NormalTok{(}\AttributeTok{var =} \StringTok{"ccode"}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}\AttributeTok{ccode =} \FunctionTok{as.integer}\NormalTok{(ccode))}
 
-\NormalTok{nato }\OtherTok{\textless{}{-}}\NormalTok{ rio}\SpecialCharTok{::}\FunctionTok{import}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/inst/extdata/ATOP/atop5\_1m.csv"}\NormalTok{)) }\SpecialCharTok{|\textgreater{}}
+\NormalTok{nato }\OtherTok{\textless{}{-}}\NormalTok{ rio}\SpecialCharTok{::}\FunctionTok{import}\NormalTok{(}\FunctionTok{paste0}\NormalTok{(here}\SpecialCharTok{::}\FunctionTok{here}\NormalTok{(), }\StringTok{"/inst/extdata/atop5\_1m.csv"}\NormalTok{)) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{filter}\NormalTok{(yrexit }\SpecialCharTok{\textgreater{}} \DecValTok{1970} \SpecialCharTok{|}
 \NormalTok{                  yrexit }\SpecialCharTok{==} \DecValTok{0}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}\AttributeTok{yrexit =}\NormalTok{ dplyr}\SpecialCharTok{::}\FunctionTok{if\_else}\NormalTok{(yrexit }\SpecialCharTok{==} \DecValTok{0}\NormalTok{,}
@@ -513,7 +737,6 @@ Warning: Removed 111 rows containing non-finite outside the scale range
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{distinct}\NormalTok{() }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(}\SpecialCharTok{{-}}\NormalTok{atopid, }\SpecialCharTok{{-}}\NormalTok{year) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}\AttributeTok{nato =} \DecValTok{1}\NormalTok{)}
-
 \DocumentationTok{\#\# Network plot}
 \FunctionTok{library}\NormalTok{(igraph)}
 \end{Highlighting}
@@ -573,21 +796,6 @@ The following object is masked from 'package:stats':
                 \AttributeTok{cown2 =}\NormalTok{ countrycode}\SpecialCharTok{::}\FunctionTok{countrycode}\NormalTok{(ccode2, }\AttributeTok{origin =} \StringTok{"cown"}\NormalTok{, }\AttributeTok{destination =} \StringTok{"cowc"}\NormalTok{),}
                 \AttributeTok{cown2 =}\NormalTok{ dplyr}\SpecialCharTok{::}\FunctionTok{if\_else}\NormalTok{(ccode2 }\SpecialCharTok{==} \DecValTok{260}\NormalTok{, }\StringTok{"GFR"}\NormalTok{, cown2)) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(cown1, cown2, value)}
-\end{Highlighting}
-\end{Shaded}
-
-\begin{verbatim}
-Warning: There were 2 warnings in `dplyr::mutate()`.
-The first warning was:
-i In argument: `cown1 = countrycode::countrycode(ccode1, origin = "cown",
-  destination = "cowc")`.
-Caused by warning:
-! Some values were not matched unambiguously: 260
-i Run `dplyr::last_dplyr_warnings()` to see the 1 remaining warning.
-\end{verbatim}
-
-\begin{Shaded}
-\begin{Highlighting}[numbers=left,,]
 \NormalTok{network }\OtherTok{\textless{}{-}}\NormalTok{ igraph}\SpecialCharTok{::}\FunctionTok{graph\_from\_data\_frame}\NormalTok{(edgelist, }\AttributeTok{directed =} \ConstantTok{TRUE}\NormalTok{)}
 \NormalTok{tbl\_graph }\OtherTok{\textless{}{-}}\NormalTok{ tidygraph}\SpecialCharTok{::}\FunctionTok{as\_tbl\_graph}\NormalTok{(network)}
 
@@ -630,25 +838,51 @@ i Run `dplyr::last_dplyr_warnings()` to see the 1 remaining warning.
 \end{Highlighting}
 \end{Shaded}
 
-\begin{verbatim}
-Joining with `by = join_by(ccode)`
-\end{verbatim}
-
-\begin{verbatim}
-Warning: There was 1 warning in `dplyr::mutate()`.
-i In argument: `cname = countrycode::countrycode(ccode, origin = "cown",
-  destination = "country.name")`.
-Caused by warning:
-! Some values were not matched unambiguously: 260
-\end{verbatim}
-
 \begin{figure}
 
 \begin{minipage}{0.50\linewidth}
-\includegraphics{DoDL_replication_files/figure-pdf/fig3-1.png}\end{minipage}%
+
+\begin{verbatim}
+Error: No such file: /home/andresgannon/rex Dropbox/Andres Gannon/Academic/02_Research/DoDL/inst/extdata/atop5_1m.csv
+\end{verbatim}
+
+\end{minipage}%
 %
 \begin{minipage}{0.50\linewidth}
-\includegraphics{DoDL_replication_files/figure-pdf/fig3-2.png}\end{minipage}%
+
+\begin{verbatim}
+Error: object 'nato' not found
+\end{verbatim}
+
+\end{minipage}%
+\newline
+\begin{minipage}{0.50\linewidth}
+
+\begin{verbatim}
+Error: object 'edgelist' not found
+\end{verbatim}
+
+\end{minipage}%
+%
+\begin{minipage}{0.50\linewidth}
+
+\begin{verbatim}
+Error in `geom_node_label()`:
+! Problem while computing aesthetics.
+i Error occurred in the 2nd layer.
+Caused by error:
+! object 'name' not found
+\end{verbatim}
+
+\end{minipage}%
+\newline
+\begin{minipage}{0.50\linewidth}
+
+\begin{verbatim}
+Error: object 'nato' not found
+\end{verbatim}
+
+\end{minipage}%
 
 \end{figure}%
 
@@ -784,13 +1018,14 @@ RMSE                          & 0.23    & 0.22    & 0.23    & 0.21    & 0.23    
 
 \newpage
 
-\subsection{Figure 4 (in-text results)}\label{figure-4-in-text-results}
+\subsection{In-text results describing figure
+4}\label{in-text-results-describing-figure-4}
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
 \NormalTok{m1\_obr }\OtherTok{\textless{}{-}}\NormalTok{ ordbetareg}\SpecialCharTok{::}\FunctionTok{ordbetareg}\NormalTok{(dv }\SpecialCharTok{\textasciitilde{}} 
 \NormalTok{                                   strcomp }\SpecialCharTok{+}\NormalTok{ hier }\SpecialCharTok{+} 
-\NormalTok{                                   milinst }\SpecialCharTok{+}\NormalTok{ latent.depth.mean }\SpecialCharTok{+}\NormalTok{ demo\_polityprop }\SpecialCharTok{+}\NormalTok{ dist\_contigprop }\SpecialCharTok{+}\NormalTok{ dist\_maxlog }\SpecialCharTok{+}\NormalTok{ rivals\_log }\SpecialCharTok{+}\NormalTok{ members\_log }\SpecialCharTok{+}\NormalTok{ allianceage\_avg }\SpecialCharTok{+}
+\NormalTok{                                   milinst }\SpecialCharTok{+}\NormalTok{ demo\_polityprop }\SpecialCharTok{+}\NormalTok{ dist\_contigprop }\SpecialCharTok{+}\NormalTok{ dist\_maxlog }\SpecialCharTok{+}\NormalTok{ rivals\_log }\SpecialCharTok{+}\NormalTok{ members\_log }\SpecialCharTok{+}\NormalTok{ allianceage\_avg }\SpecialCharTok{+}
 \NormalTok{                                   (}\DecValTok{1} \SpecialCharTok{|}\NormalTok{ year\_norm),}
                                  \AttributeTok{data =}\NormalTok{ df\_m1,}
                                  \AttributeTok{cores =} \DecValTok{6}\NormalTok{,}
@@ -819,7 +1054,7 @@ Warning: Rows containing NAs were excluded from the model.
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
-\NormalTok{[1] 0.039}
+\NormalTok{[1] 0.04}
 \end{Highlighting}
 \end{Shaded}
 
@@ -832,7 +1067,7 @@ Warning: Rows containing NAs were excluded from the model.
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
-\NormalTok{[1] 0.083}
+\NormalTok{[1] 0.077}
 \end{Highlighting}
 \end{Shaded}
 
@@ -843,7 +1078,7 @@ Warning: Rows containing NAs were excluded from the model.
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
 \CommentTok{\# Strategic compatibility predicted values with example}
-\NormalTok{ex\_strcomp }\OtherTok{\textless{}{-}}\NormalTok{ df }\SpecialCharTok{|\textgreater{}}
+\NormalTok{ex\_strcomp }\OtherTok{\textless{}{-}}\NormalTok{ df }\SpecialCharTok{\%\textgreater{}\%}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{filter}\NormalTok{(year }\SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\DecValTok{1992}\NormalTok{, }\DecValTok{2011}\NormalTok{), atopid }\SpecialCharTok{==} \DecValTok{3375}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(year, atopid, dol\_nicheolap, strcomp\_cinc\_total\_scaled) }\SpecialCharTok{|\textgreater{}}
 \NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}\AttributeTok{year =}\NormalTok{ dplyr}\SpecialCharTok{::}\FunctionTok{recode}\NormalTok{(year, }\StringTok{"1992"} \OtherTok{=} \StringTok{"US{-}Philippines (1992)"}\NormalTok{, }\StringTok{"2011"} \OtherTok{=} \StringTok{"US{-}Philippines (2011)"}\NormalTok{))}
@@ -870,7 +1105,7 @@ Warning: Rows containing NAs were excluded from the model.
 \end{Highlighting}
 \end{Shaded}
 
-\includegraphics{DoDL_replication_files/figure-pdf/fig4-1.png}
+\pandocbounded{\includegraphics[keepaspectratio]{DoDL_replication_files/figure-pdf/fig4-1.png}}
 
 \begin{Shaded}
 \begin{Highlighting}[numbers=left,,]
@@ -904,7 +1139,7 @@ Warning: Rows containing NAs were excluded from the model.
 \end{Highlighting}
 \end{Shaded}
 
-\includegraphics{DoDL_replication_files/figure-pdf/fig4-2.png}
+\pandocbounded{\includegraphics[keepaspectratio]{DoDL_replication_files/figure-pdf/fig4-2.png}}
 
 
 

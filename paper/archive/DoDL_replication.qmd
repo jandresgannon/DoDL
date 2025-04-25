@@ -362,10 +362,13 @@ modelsummary::modelsummary(models,
 
 ```{r fig4intext}
 #| class-output: OutputCode
+#| cache: false
+
+set.seed(37203)
 
 m1_obr <- ordbetareg::ordbetareg(dv ~ 
                                    strcomp + hier + 
-                                   milinst + latent.depth.mean + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg +
+                                   milinst + demo_polityprop + dist_contigprop + dist_maxlog + rivals_log + members_log + allianceage_avg +
                                    (1 | year_norm),
                                  data = df_m1,
                                  cores = 6,
@@ -374,7 +377,7 @@ m1_obr <- ordbetareg::ordbetareg(dv ~
                                  backend = "cmdstanr",
                                  refresh = 0,
                                  file = "ordbeta",
-                                 file_refit = "on_change")
+                                 file_refit = "always")
 
 ordpred_strcomp <- brms::conditional_effects(m1_obr)[[1]]
 ordpred_hier <- brms::conditional_effects(m1_obr)[[2]]

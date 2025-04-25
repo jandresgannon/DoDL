@@ -136,6 +136,9 @@ Most of the missing data comes from the division of labor variable and is primar
 
 ```{r}
 #| results: hide
+#| cache: false
+
+set.seed(37203)
 
 df_m1 <- df |>
   dplyr::rename(dv = dol_nicheolap,
@@ -153,7 +156,7 @@ m1_obr <- ordbetareg::ordbetareg(dv ~
                                  backend = "cmdstanr",
                                  refresh = 0,
                                  file = "ordbeta",
-                                 file_refit = "on_change")
+                                 file_refit = "always")
 ```
 
 ```{r}

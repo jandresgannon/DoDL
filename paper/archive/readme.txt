@@ -13,6 +13,8 @@ Author: J Andres Gannon (juan.gannon@vanderbilt.edu)
 
 - DoDL_replication.qmd - replication code written in R that will reproduce the figures and tables in the main text. Each output is noted under a different header
 
+- DoDL_appendix-replication.qmd - replication code written in R that will reproduce the figures and tables in the appendix. The file reproduces the entire appendix, including the text.
+
 - dyad_threat.rds - dyad-year dataframe of each country's threat environment used to generate the strategic compatibility variable
 
 - rDMC_long_v1.rds - long version of the rDMC dataset used to generate the dependent variable. See militarycapabilities.com for more information
@@ -27,7 +29,7 @@ Author: J Andres Gannon (juan.gannon@vanderbilt.edu)
 Run the code in DoDL_replication.qmd to reproduce all tables and figures in the manuscript. Each table/figure is noted in a separate code chunk.
 Run the code in DoDL_replication-appendix.qmd to reproduce all tables and figures in the appendix. Each table/figure is noted in a separate code chunk.
 
-Please note that more complete replication material, including all the code used to pre-process, clean, and merge the data, is available at https://github.com/jandresgannon/DoDL.
+Please note that more complete replication material, including all the code used to pre-process, clean, and merge the data, is available at https://github.com/jandresgannon/DoDL. Relative file paths are also already created in the github repository. If using the files from the Harvard Dataverse, place files in the appropriate locations as indicated in the qmd files, or changes the file path locations to load them from where they are located on your computer.
 
 Data source citation:
 
@@ -46,8 +48,19 @@ Platform: x86_64-pc-linux-gnu
 Running under: Ubuntu 24.10
 
 Statistical software used:
+R version 4.4.2 (2024-10-31)
+
 RStudio 2024.12.1+563 "Kousa Dogwood" Release (27771613951643d8987af2b2fb0c752081a3a853, 2025-02-02) for Ubuntu Jammy
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) rstudio/2024.12.1+563 Chrome/126.0.6478.234 Electron/31.7.7 Safari/537.36, Quarto 1.6.42 (/opt/quarto/bin/quarto)
+
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) rstudio/2024.12.1+563 Chrome/126.0.6478.234 Electron/31.7.7 Safari/537.36, Quarto version 1.6.42 (/opt/quarto/bin/quarto)
+
+Quarto (formerly known as RStudio) version 1.6.42 used and can be downloaded at:
+- https://quarto.org/docs/get-started/
+- https://quarto.org/docs/download/
+
+cmdstanr (version 0.8.1.9000) used and can be downloaded at https://mc-stan.org/cmdstanr/articles/cmdstanr.html and then installed in R using:
+- install.packages("cmdstanr", repos = c('https://stan-dev.r-universe.dev', getOption("repos")))
+- install_cmdstan()
 
 Duration of time to process: 13.4 seconds
 
@@ -58,7 +71,7 @@ attached base packages:
 
 other attached packages:
  [1] tidygraph_1.3.1     ggraph_2.2.1        igraph_2.0.2        rstan_2.32.6        StanHeaders_2.32.10 magrittr_2.0.3      ggtext_0.1.2       
- [8] ggplot2_3.5.0       kableExtra_1.4.0    knitr_1.45         
+ [8] ggplot2_3.5.0       kableExtra_1.4.0    knitr_1.45          
 
 loaded via a namespace (and not attached):
   [1] countrycode_1.6.0    splines_4.3.1        tinytable_0.7.0      tibble_3.2.1         R.oo_1.27.0          polyclip_1.10-6     
@@ -85,3 +98,7 @@ loaded via a namespace (and not attached):
 [127] stringi_1.8.3        viridisLite_0.4.2    QuickJSR_1.4.0       tables_0.9.17        lmerTest_3.1-3       munsell_0.5.0       
 [133] Brobdingnag_1.2-9    bayestestR_0.13.2    V8_4.4.2             Matrix_1.6-5         hms_1.1.3            future_1.33.1       
 [139] gridtext_0.1.5       memoise_2.0.1        RcppParallel_5.1.7  
+
+additional packages needed for the appendix:
+ [1] dreamerr_1.4.0	   collapse_2.0.16	ranger_0.16.0	     cmdstanr_0.8.1.9000
+
