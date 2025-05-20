@@ -155,6 +155,7 @@ m1_obr <- ordbetareg::ordbetareg(dv ~
                                  refresh = 0,
                                  file = "ordbeta",
                                  file_refit = "always")
+
 ```
 
 ```{r}

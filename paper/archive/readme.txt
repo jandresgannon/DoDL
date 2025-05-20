@@ -17,11 +17,11 @@ Author: J Andres Gannon (juan.gannon@vanderbilt.edu)
 
 - dyad_threat.rds - dyad-year dataframe of each country's threat environment used to generate the strategic compatibility variable
 
-- rDMC_long_v1.rds - long version of the rDMC dataset used to generate the dependent variable. See militarycapabilities.com for more information
+- rDMC_long_v1.rds - long version of the rDMC dataset used to generate the dependent variable. See www.militarycapabilities.com for more information
 
-- rDMC_raw_v1.rds - raw version of the rDMC dataset used to generate the dependent variable. See militarycapabilities.com for more information
+- rDMC_raw_v1.rds - raw version of the rDMC dataset used to generate the dependent variable. See www.militarycapabilities.com for more information
 
-- rDMC_wide_v1.rds - wide version of the rDMC dataset used to generate the dependent variable. See militarycapabilities.com for more information
+- rDMC_wide_v1.rds - wide version of the rDMC dataset used to generate the dependent variable. See www.militarycapabilities.com for more information
 
 - sipri_dyad-year.rds - data from SIPRI about annual dyadic arms sales. See https://www.sipri.org/databases/armstransfers
 
@@ -29,7 +29,9 @@ Author: J Andres Gannon (juan.gannon@vanderbilt.edu)
 Run the code in DoDL_replication.qmd to reproduce all tables and figures in the manuscript. Each table/figure is noted in a separate code chunk.
 Run the code in DoDL_replication-appendix.qmd to reproduce all tables and figures in the appendix. Each table/figure is noted in a separate code chunk.
 
-Please note that more complete replication material, including all the code used to pre-process, clean, and merge the data, is available at https://github.com/jandresgannon/DoDL. Relative file paths are also already created in the github repository. If using the files from the Harvard Dataverse, place files in the appropriate locations as indicated in the qmd files, or changes the file path locations to load them from where they are located on your computer.
+Please note that the results of the ordered beta regression model is affected by the number of cores on which the function is computed. (See https://mc-stan.org/docs/cmdstan-guide/parallelization.html). The results for that model (Appendix Table A2) are produced using 12 cores, which is set using the command "options(mc.cores = parallel::detectCores())" in the first chunk in the replication script. Using a device with a different number of cores may produce slightly different coefficient estimates in the table.
+
+Also note that more complete replication material, including all the code used to pre-process, clean, and merge the data, is available at https://github.com/jandresgannon/DoDL. Relative file paths are also already created in the github repository. If using the files from the Harvard Dataverse, place files in the appropriate locations as indicated in the qmd files, or changes the file path locations to load them from where they are located on your computer.
 
 Data source citation:
 
