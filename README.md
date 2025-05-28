@@ -2,7 +2,7 @@
 
 The Division of Defense Labor (DoDL) github repository contains all the data and code necessary to reproduce and replicate the DoDL data and paper. The repository, data, and article are produced by [J Andres Gannon](https://jandresgannon.com/).
 
-Gannon, J Andrés. "Complementarity in alliances: How strategic compatibility and hierarchy promote efficient cooperation in international security" _American Journal of Political Science_ (forthcoming)
+Gannon, J Andrés. "[Complementarity in alliances: How strategic compatibility and hierarchy promote efficient cooperation in international security](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12992)" _American Journal of Political Science_ (2025). https://doi.org/10.1111/ajps.12992
 
 ## Installation
 
